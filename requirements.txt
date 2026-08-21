@@ -1,0 +1,15 @@
+# --- crawler ---
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.2.0
+lxml>=5.0.0
+
+# --- pipeline OCR + hiệu đính ---
+pymupdf>=1.24.0
+# >=2.0 bắt buộc: Gemma cần thinking_level, SDK 1.x chưa có trường này.
+google-genai>=2.0.0
+python-dotenv>=1.0.0
+
+# --- OCR nội bộ (engine mặc định, chạy CPU, miễn phí) ---
+# Kéo theo torch (~500 MB) + model tiếng Việt (~100 MB tải lần đầu).
+easyocr>=1.7.0

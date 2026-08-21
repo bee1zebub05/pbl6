@@ -1,0 +1,23 @@
+Thông thường văn bản có trình trình tự:
+- Luật liên quan.
+- Nghị định của Chính phủ.
+- Thông tư của Bộ GD&ĐT.
+- Quy chế của Đại học Đà Nẵng.
+- Quy định của Trường Đại học Bách khoa.
+- Các văn bản sửa đổi, bổ sung mới nhất.
+Như vậy sẽ hiểu được vì sao trường ban hành một quy định cụ thể và quy định đó dựa trên cơ sở pháp lý nào.
+Trang tra cứu hiện có hàng trăm văn bản thuộc nhiều lĩnh vực (đào tạo, tuyển sinh, tổ chức cán bộ, khoa học công nghệ, tài chính, kiểm định chất lượng...), nên không phải tất cả đều liên quan đến nhau. Mối quan hệ kế thừa thường chỉ xuất hiện trong cùng một lĩnh vực. Ví dụ:
+- Nhóm đào tạo kế thừa các quy chế đào tạo trước đó.
+- Nhóm khoa học công nghệ kế thừa các quy định về quản lý đề tài nghiên cứu.
+- Nhóm tài chính kế thừa quy chế chi tiêu nội bộ.
+- Nhóm kiểm định chất lượng kế thừa các quy định về đảm bảo chất lượng.
+
+Vì vậy, cần bổ sung hay thậm chí xây dựng lại knowledge graph cho hệ thống văn bản này. cần bổ sung các loại quan hệ sau:
+- CĂN_CỨ_VÀO
+- SỬA_ĐỔI
+- BỔ_SUNG
+- THAY_THẾ
+- BÃI_BỎ
+- HƯỚNG_DẪN_THI_HÀNH
+- THI_HÀNH
+- LIÊN_QUAN_ĐẾN

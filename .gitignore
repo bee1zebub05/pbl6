@@ -1,0 +1,16 @@
+.env
+
+# Dữ liệu lớn — không commit
+data/raw/pdf/
+data/interim/
+data/processed/
+data/manifest.jsonl
+
+# Trạng thái chạy
+sessions/
+logs/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
