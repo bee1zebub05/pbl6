@@ -32,9 +32,24 @@ OCR_PDF_DIR = INTERIM_DIR / "ocr_pdf"
 
 PROCESSED_DIR = DATA_DIR / "processed"
 TEXT_RAW_DIR = PROCESSED_DIR / "text_raw"
+# Tầng giữa: text OCR đã tiêm số hiệu/ngày từ metadata và chuẩn hoá trích dẫn.
+# Tách riêng để text_raw luôn giữ nguyên hiện trạng OCR, phục vụ đối chiếu.
+TEXT_NORM_DIR = PROCESSED_DIR / "text_norm"
 TEXT_CLEAN_DIR = PROCESSED_DIR / "text_clean"
 
 MANIFEST_PATH = DATA_DIR / "manifest.jsonl"
+
+# Kho text đã hiệu đính dùng để xây knowledge graph.
+#
+# Không trỏ vào TEXT_CLEAN_DIR: bước hiệu đính cuối cùng chạy ngoài pipeline
+# (Colab) rồi tải kết quả về đây, nên đường dẫn khác với chỗ pipeline tự ghi.
+# Đổi được bằng KG_CORPUS_DIR trong .env hoặc `--corpus` khi chạy.
+KG_CORPUS_DIR = Path(
+    os.getenv("KG_CORPUS_DIR", "") or DATA_DIR / "clean" / "text_clean_gemma"
+)
+
+# Node / quan hệ đã trích xuất, dạng JSONL, sẵn sàng nạp vào Neo4j.
+KG_DIR = DATA_DIR / "kg"
 
 SESSIONS_DIR = ROOT / "sessions"
 LOGS_DIR = ROOT / "logs"
@@ -49,7 +64,9 @@ def ensure_dirs() -> None:
         INTERIM_DIR,
         PROCESSED_DIR,
         TEXT_RAW_DIR,
+        TEXT_NORM_DIR,
         TEXT_CLEAN_DIR,
+        KG_DIR,
         SESSIONS_DIR,
         LOGS_DIR,
     ):

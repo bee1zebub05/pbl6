@@ -39,6 +39,11 @@ CREATE TABLE IF NOT EXISTS docs (
     raw_txt        TEXT,
     raw_chars      INTEGER,
 
+    norm_status    TEXT DEFAULT 'pending',  -- pending|done|skipped
+    norm_txt       TEXT,
+    norm_chars     INTEGER,
+    norm_note      TEXT,                    -- cờ cần soi tay, ngăn bằng ';'
+
     fix_status     TEXT DEFAULT 'pending',  -- pending|done|failed|skipped
     fix_attempts   INTEGER DEFAULT 0,
     fix_error      TEXT,
@@ -111,7 +116,14 @@ class Session:
             for row in self._conn.execute("PRAGMA table_info(docs)").fetchall()
         }
 
-        for column, ddl in (("vi_score", "REAL"), ("ocr_engine", "TEXT")):
+        for column, ddl in (
+            ("vi_score", "REAL"),
+            ("ocr_engine", "TEXT"),
+            ("norm_status", "TEXT DEFAULT 'pending'"),
+            ("norm_txt", "TEXT"),
+            ("norm_chars", "INTEGER"),
+            ("norm_note", "TEXT"),
+        ):
             if column not in existing:
                 self._conn.execute(f"ALTER TABLE docs ADD COLUMN {column} {ddl}")
 

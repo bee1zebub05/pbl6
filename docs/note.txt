@@ -1,0 +1,4 @@
+python run.py kg docs        # chạy Bước 0 (mất ~10 giây)
+python run.py kg status      # xem lại số liệu
+python run.py kg review      # 73 văn bản có ghi chú, cần soi tay
+python run.py kg review --grep header-lech    # lọc theo loại ghi chú

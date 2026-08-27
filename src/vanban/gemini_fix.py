@@ -51,6 +51,9 @@ QUY TẮC BẮT BUỘC:
 3. Giữ nguyên các dòng đánh dấu trang dạng `----- [Trang N] -----`.
 4. Số hiệu văn bản, ngày tháng, số tiền, tên riêng: chỉ sửa khi chắc chắn là
    lỗi OCR dựa vào ngữ cảnh. Nếu không chắc thì GIỮ NGUYÊN.
+4b. Dòng "Số: ... /QĐ-..." và "ngày ... tháng ... năm ..." ở ĐẦU văn bản đã
+   được đối chiếu với dữ liệu gốc trước khi đưa vào đây — chúng ĐÚNG. Chép
+   lại y nguyên, tuyệt đối không "sửa" cho khớp với phần còn lại.
 5. Đoạn nào là rác OCR không thể hiểu (chữ trong con dấu, watermark) thì giữ
    nguyên, đừng bịa ra nội dung.
 6. Đầu ra chỉ chứa văn bản đã hiệu đính. Không lời dẫn, không giải thích,

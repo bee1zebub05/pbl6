@@ -1,0 +1,14 @@
+{"orgId": "bo_giao_duc_va_dao_tao", "name": "Bộ Giáo dục và Đào tạo", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "bo_khoa_hoc_va_cong_nghe", "name": "Bộ Khoa học và Công nghệ", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "bo_ke_hoach_va_dau_tu", "name": "Bộ Kế hoạch và Đầu tư", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "bo_noi_vu", "name": "Bộ Nội vụ", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "bo_thong_tin_va_truyen_thong", "name": "Bộ Thông tin và Truyền thông", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "bo_tai_chinh", "name": "Bộ Tài chính", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "chinh_phu", "name": "Chính phủ", "orgType": "chinh_phu", "parentOrg": null}
+{"orgId": "chu_tich_nuoc", "name": "Chủ tịch nước", "orgType": "quoc_hoi", "parentOrg": null}
+{"orgId": "quoc_hoi", "name": "Quốc hội", "orgType": "quoc_hoi", "parentOrg": null}
+{"orgId": "thanh_tra_chinh_phu", "name": "Thanh tra chính phủ", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "thanh_pho_da_nang", "name": "Thành phố Đà Nẵng", "orgType": "bo_nganh", "parentOrg": "chinh_phu"}
+{"orgId": "thu_tuong_chinh_phu", "name": "Thủ tướng Chính phủ", "orgType": "thu_tuong", "parentOrg": "chinh_phu"}
+{"orgId": "truong_dai_hoc_bach_khoa", "name": "Trường Đại học Bách khoa", "orgType": "truong_thanh_vien", "parentOrg": "dai_hoc_da_nang"}
+{"orgId": "dai_hoc_da_nang", "name": "Đại học Đà Nẵng", "orgType": "dai_hoc_vung", "parentOrg": "bo_giao_duc_va_dao_tao"}

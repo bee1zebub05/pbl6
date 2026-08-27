@@ -20,9 +20,10 @@ from concurrent.futures import (
     wait,
 )
 from concurrent.futures.process import BrokenProcessPool
+from collections import Counter
 from pathlib import Path
 
-from . import config, pdf_text
+from . import config, normalize, pdf_text
 from .naming import parse_pdf_name, sanitize
 from .ocr_client import OCRClient, OCRError
 from .session import Session
@@ -599,7 +600,118 @@ def run_ocr_local(
 
 
 # ============================================================
-# STAGE 3 — HIỆU ĐÍNH BẰNG GEMINI
+# STAGE 3 — CHUẨN HOÁ SỐ LIỆU (trước khi gọi Gemini)
+# ============================================================
+
+def _norm_path(row) -> Path:
+    return (
+        config.TEXT_NORM_DIR
+        / sanitize(row["category"] or "Khác", 60)
+        / f"{row['stem']}.txt"
+    )
+
+
+def run_normalize(session: Session, limit: int | None = None) -> dict[str, int]:
+    """
+    Tiêm số hiệu / ngày ban hành từ metadata và chuẩn hoá trích dẫn.
+
+    Phải chạy TRƯỚC `fix`: prompt Gemini có quy tắc "số hiệu, ngày tháng chỉ
+    sửa khi chắc chắn, không chắc thì giữ nguyên" — mà với số viết tay thì nó
+    không bao giờ chắc được. Đưa sẵn giá trị đúng vào text là cách duy nhất
+    làm quy tắc đó vừa an toàn vừa có ích.
+
+    Đọc `text_raw`, ghi `text_norm`. Không bao giờ đụng vào `text_raw`.
+    """
+
+    metadata = _load_metadata_csv()
+
+    with session._lock:  # noqa: SLF001
+        rows = session._conn.execute(  # noqa: SLF001
+            "SELECT * FROM docs WHERE raw_txt IS NOT NULL "
+            "AND (norm_status IS NULL OR norm_status != 'done') "
+            "ORDER BY doc_id"
+            + (f" LIMIT {int(limit)}" if limit else ""),
+        ).fetchall()
+
+    if not rows:
+        return {}
+
+    # Vòng 1 — dựng từ điển trích dẫn từ TOÀN BỘ kho đã OCR, kể cả những văn
+    # bản đã chuẩn hoá xong. Càng nhiều phiếu thì bỏ phiếu chéo càng chắc.
+    say(f"  [1/2] Dựng từ điển trích dẫn từ {session.total()} văn bản...")
+
+    index = normalize.CitationIndex()
+
+    for row in session.all_docs():
+        if not row["raw_txt"]:
+            continue
+
+        path = config.ROOT / row["raw_txt"]
+
+        if path.exists():
+            index.add(path.read_text(encoding="utf-8", errors="replace"))
+
+    trusted = index.trusted()
+    say(f"        {len(index.votes)} trích dẫn, {len(trusted)} đủ 3 phiếu trở lên")
+
+    # Vòng 2 — áp vào từng văn bản.
+    say(f"  [2/2] Chuẩn hoá {len(rows)} văn bản...")
+
+    tally = Counter()
+    cited = 0
+
+    for row in rows:
+        key = row["key"]
+        raw_file = config.ROOT / row["raw_txt"]
+
+        if not raw_file.exists():
+            session.update(key, norm_status="skipped", norm_note="thiếu text thô")
+            tally["skipped"] += 1
+            continue
+
+        text = raw_file.read_text(encoding="utf-8", errors="replace")
+        meta = metadata.get(row["doc_id"] or "", {})
+
+        header = normalize.fix_header(
+            text,
+            row["so_hieu"] or meta.get("so_hieu"),
+            meta.get("ngay_ban_hanh"),
+        )
+
+        text, changes = index.apply(header.text)
+        cited += len(changes)
+
+        notes = list(header.notes)
+
+        for bad in normalize.suspicious_dates(text):
+            notes.append(f"ngay-vo-ly: {bad.strip()}")
+
+        out_path = _norm_path(row)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(text, encoding="utf-8")
+
+        session.update(
+            key,
+            norm_status="done",
+            norm_txt=str(out_path.relative_to(config.ROOT).as_posix()),
+            norm_chars=len(text),
+            norm_note="; ".join(notes[:6]) or None,
+        )
+
+        tally["done"] += 1
+        tally["so_hieu"] += header.so_hieu_fixed
+        tally["ngay"] += header.ngay_fixed
+
+        if notes:
+            tally["can_soi"] += 1
+
+    tally["trich_dan"] = cited
+
+    return dict(tally)
+
+
+# ============================================================
+# STAGE 4 — HIỆU ĐÍNH BẰNG GEMINI
 # ============================================================
 
 FRONT_MATTER = """\
@@ -622,7 +734,10 @@ def _fix_one(session: Session, corrector, row) -> str:
     from .key_pool import NoKeyAvailable
 
     key = row["key"]
-    raw_file = config.ROOT / row["raw_txt"]
+
+    # Ưu tiên bản đã chuẩn hoá: số hiệu / ngày trong đó là giá trị thật từ
+    # crawler, Gemini không phải đoán chữ viết tay nữa.
+    raw_file = config.ROOT / (row["norm_txt"] or row["raw_txt"])
 
     session.bump_attempt(key, "fix")
     started = time.time()
