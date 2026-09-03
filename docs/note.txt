@@ -2,3 +2,18 @@ python run.py kg docs        # chạy Bước 0 (mất ~10 giây)
 python run.py kg status      # xem lại số liệu
 python run.py kg review      # 73 văn bản có ghi chú, cần soi tay
 python run.py kg review --grep header-lech    # lọc theo loại ghi chú
+
+3/9/2026
+git clone https://github.com/bee1zebub05/pbl6.git
+cd pbl6
+pip install -r requirements.txt
+
+# dựng lại graph từ text — ~3 phút, không cần Neo4j
+python run.py kg all
+
+# Neo4j (chỉ cần cho §6.3–6.5)
+docker run -d --name neo4j-pbl6 -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/12345678 neo4j:5
+python run.py kg load --wipe
+
+# khối đánh giá
+python run.py eval all
