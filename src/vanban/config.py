@@ -51,8 +51,23 @@ KG_CORPUS_DIR = Path(
 # Node / quan hệ đã trích xuất, dạng JSONL, sẵn sàng nạp vào Neo4j.
 KG_DIR = DATA_DIR / "kg"
 
+# Toàn bộ đầu ra của khối đánh giá §6: gold set, phiếu gán, số đo, báo cáo.
+# Mọi thứ ở đây là FILE — chạy ở máy nào cũng chỉ cần copy thư mục này về.
+EVAL_DIR = DATA_DIR / "eval"
+
 SESSIONS_DIR = ROOT / "sessions"
 LOGS_DIR = ROOT / "logs"
+
+
+# ============================================================
+# NEO4J
+# ============================================================
+
+# Mặc định khớp với lệnh docker trong docs: NEO4J_AUTH=neo4j/12345678.
+NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
+NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "12345678")
+NEO4J_DATABASE = os.getenv("NEO4J_DATABASE", "neo4j")
 
 
 def ensure_dirs() -> None:
@@ -67,6 +82,7 @@ def ensure_dirs() -> None:
         TEXT_NORM_DIR,
         TEXT_CLEAN_DIR,
         KG_DIR,
+        EVAL_DIR,
         SESSIONS_DIR,
         LOGS_DIR,
     ):

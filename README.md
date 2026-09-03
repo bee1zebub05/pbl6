@@ -33,7 +33,18 @@ PBL6/
 │   └── kg/                    ← xây knowledge graph (rules/Ontology.md)
 │       ├── norm.py            ← số hiệu chuẩn, authority_level, hiệu lực, tổ chức
 │       ├── session.py         ← tiến độ xây graph (SQLite riêng, kg.db)
-│       └── documents.py       ← Bước 0: chốt bảng Document
+│       ├── documents.py       ← Bước 0: chốt bảng Document
+│       ├── segment.py         ← Bước 1: cắt vùng + danh mục Điều
+│       ├── citations.py       ← Bước 2: trích số hiệu, nối node, tạo stub
+│       ├── relations.py       ← Bước 3: phân loại quan hệ (§4)
+│       ├── normative.py       ← Bước 4: NormativeContent + Article
+│       └── neo4j_load.py      ← Bước 5: nạp Neo4j + Cypher mẫu
+│   └── eval/                   ← khối đánh giá §6 — kết quả ra data/eval/
+│       ├── goldset.py         ← §6.1 chọn gold set phân tầng + phiếu gán
+│       ├── extraction.py      ← §6.1-6.2 Cohen's κ + P/R/F1 từng quan hệ
+│       ├── retrieval.py       ← §6.3-6.5 bộ câu hỏi + BM25/KG/Hybrid
+│       ├── errors.py          ← §6.6-6.7 ablation + phân tích lỗi
+│       └── runner.py          ← điều phối + gom BAO_CAO.md
 │
 ├── scripts/
 │   ├── crawl_vanban.py        ← crawler gốc (dut.udn.vn), ghi vào data/raw/
@@ -111,12 +122,22 @@ python run.py fix           # hiệu đính bằng Gemma/Gemini
 python run.py export        # ghi data/manifest.jsonl
 ```
 
-Xây knowledge graph (§ `rules/Ontology.md`, xem mục 10):
+Xây knowledge graph (§ `rules/Ontology.md`, xem mục 10–15):
 
 ```powershell
-python run.py kg docs       # Bước 0 — chốt bảng Document
-python run.py kg status     # xem tiến độ
+python run.py kg all        # Bước 0 -> 4, một phát ăn ngay (~3 phút)
+python run.py kg load       # Bước 5 — nạp Neo4j (mục 14)
+python run.py kg status     # báo cáo cả 5 bước
 python run.py kg review     # văn bản cần soi tay
+
+python run.py eval all      # khối đánh giá §6 -> data/eval/BAO_CAO.md
+
+# hoặc từng bước một:
+python run.py kg docs       # Bước 0 — chốt bảng Document       (mục 10)
+python run.py kg segment    # Bước 1 — cắt vùng cấu trúc        (mục 11)
+python run.py kg cite       # Bước 2 — trích số hiệu, tạo stub  (mục 12)
+python run.py kg rel        # Bước 3 — phân loại quan hệ        (mục 12)
+python run.py kg art        # Bước 4 — NormativeContent+Article (mục 13)
 ```
 
 Vẽ sơ đồ:
@@ -774,12 +795,376 @@ liệu hoặc sửa logic suy diễn.
 | Bước | Việc | Trạng thái |
 |---|---|---|
 | 0 | Bảng `Document` — gộp trùng, bậc thẩm quyền, hiệu lực | ✅ xong |
-| 1 | Cắt vùng: header / Căn cứ / thân Điều-Khoản / điều khoản thi hành | chưa |
-| 2 | Trích + resolve số hiệu → `BASED_ON` / `REFERENCES` + stub | chưa |
-| 3 | Phân loại `REPLACES` / `AMENDS` / `REPEALS` theo vùng + trigger | chưa |
-| 4 | `NormativeContent` + `Article` (§2.6, §2.7) | chưa |
-| 5 | Nạp Neo4j + bộ Cypher mẫu | chưa |
+| 1 | Cắt vùng: header / Căn cứ / thân Điều-Khoản / điều khoản thi hành | ✅ xong (mục 11) |
+| 2 | Trích + resolve số hiệu → `BASED_ON` / `REFERENCES` + stub | ✅ xong (mục 12) |
+| 3 | Phân loại `REPLACES` / `AMENDS` / `REPEALS` theo vùng + trigger | ✅ xong (mục 12) |
+| 4 | `NormativeContent` + `Article` (§2.6, §2.7) | ✅ xong (mục 13) |
+| 5 | Nạp Neo4j + bộ Cypher mẫu | ✅ xong (mục 14) |
 
-Song song với Bước 1–5: **gold set** (§6.1) — 50–100 văn bản gán tay, 2 người gán
+Còn lại: **gold set** (§6.1) — 50–100 văn bản gán tay, 2 người gán
 độc lập để đo Cohen's κ. Ontology ghi rõ "làm sớm"; đây là thứ duy nhất bị ràng
 buộc bởi lịch người thật, mà cả phần đánh giá của paper treo vào nó.
+
+---
+
+## 11. Bước 1 — cắt vùng cấu trúc
+
+```powershell
+python run.py kg segment          # chạy sau `kg docs`
+python run.py kg segment --limit 20
+python run.py kg reset seg --all  # cắt lại toàn bộ
+```
+
+Bước này **không tạo node nào**. Nó trả lời một câu hỏi mà Bước 2–3 không làm
+việc được nếu thiếu: *một vị trí bất kỳ trong file nằm ở chỗ nào của văn bản?*
+Theo §5.4, cùng một số hiệu được phân loại quan hệ khác hẳn nhau tuỳ chỗ đứng:
+
+```
+"Căn cứ Nghị định số 99/2019/NĐ-CP..."          -> BASED_ON
+"...thay thế Quyết định số 42/2007/QĐ-BGDĐT"    -> REPLACES
+```
+
+Chạy thử trên `10/2016/TT-BGDĐT` cho thấy đúng thứ Bước 2 cần:
+
+```
+10/2016/TT-BGDĐT    phần[0] van_ban   vùng=header            <- tự trỏ chính nó
+32/2008/NĐ-CP       phần[0] van_ban   vùng=can_cu            <- BASED_ON
+75/2006/NĐ-CP       phần[0] van_ban   vùng=can_cu            <- BASED_ON
+42/2007/QĐ-BGDĐT    phần[0] van_ban   vùng=than  Điều 2(thi hành)   <- REPLACES
+10/2016/TT-BGDĐT    phần[1] noi_dung  vùng=header
+40/2016/TT-BGDĐT    phần[2] phu_luc   vùng=header
+```
+
+### ⚠️ 178/448 file chứa HAI văn bản lồng nhau
+
+Dạng "Quyết định ban hành kèm theo Quy chế" (§2.6). Phần kèm theo **đánh số
+Điều lại từ 1**, nên không tách hai phần thì "Điều 5" trở nên vô nghĩa — Điều 5
+của cái nào? — và `AMENDS` trỏ tới `Article` (§4) sẽ trỏ nhầm.
+
+Bốn tín hiệu tìm ranh giới, xếp theo độ phủ đo được:
+
+| Tín hiệu | Phủ | Ghi trong DB |
+|---|---|---|
+| `(Kèm theo Quyết định số ...)` neo vào mốc phân trang | 195 | `kem-theo+trang` |
+| dòng tiêu đề IN HOA (`QUY CHẾ`) | 35 | `tieu-de` |
+| `(Kèm theo ...)` neo vào tiêu đề | 23 | `kem-theo+tieu-de` |
+| `(Kèm theo ...)` neo vào đầu dòng | 18 | `kem-theo` |
+| dãy số Điều đánh lại từ 1 | 18 | `so-dieu-danh-lai` |
+| tiêu đề + `(Ban hành kèm theo)` | 8 | `tieu-de+ban-hanh-kem` |
+
+Cột `marker` được lưu lại để Bước 4 biết ranh giới đó chắc tới đâu.
+
+**Vì sao `(Kèm theo ...)` phủ rộng hơn danh sách tiêu đề:** phần kèm theo không
+phải lúc nào cũng tên là "QUY CHẾ". `738/QĐ-ĐHĐN` kèm theo một **CHIẾN LƯỢC**,
+`1866/QĐ-BGDĐT` kèm theo một **KHUNG KIẾN TRÚC DỮ LIỆU** — hai cái này còn không
+có `Điều` nào nên dãy số Điều cũng chịu. Cụm `Kèm theo` thì luôn có.
+
+### Năm cái bẫy đã xử lý (đều tìm ra bằng cách soi kết quả sai)
+
+**1. `kèm theo` giữa câu trong khối Căn cứ.** Câu *"...về việc ban hành Quy chế
+kèm theo Quyết định số 2721/QĐ-ĐHĐN..."* giống hệt mốc thật về từ ngữ. Không lọc
+thì `1001/QĐ-ĐHBK` bị cắt ngay tại dòng Căn cứ thứ ba, mất trắng phần đầu. Lọc
+bằng ràng buộc **phải đứng đầu dòng** (cho phép dấu mở ngoặc).
+
+**2. `Ban hành kèm theo Thông tư NÀY Quy chế...`** trong Điều 1 của chính văn
+bản ban hành. Loại bằng cách đòi phải có chữ "số" rồi tới chữ số.
+
+**3. Số Điều tụt lùi ≠ văn bản mới.** Bộ luật Hình sự (`100/2015/QH13`, 406 điều
+đọc được) có chỗ chạy `341, 342, 343, 333, 334` do trang scan lộn thứ tự — quy
+tắc lỏng xẻ đôi cả bộ luật. Nay đòi đúng `Điều 1` rồi tới `Điều 2`: 258 ranh
+giới lỏng còn 212, phần bị loại gần như đều là số Điều bị OCR đọc sai.
+
+**4. Cắt thừa vì biểu mẫu trong phụ lục.** `338/QĐ-ĐHBK` từng bị xẻ thành 8 phần
+vì 6 biểu mẫu, mỗi cái có `Điều 1, 2, 3` riêng. Chặn bằng ba ràng buộc lấy thẳng
+từ ontology, không phải ngưỡng tự nghĩ ra:
+
+- `PROMULGATES` là **1→1** (§4) → tối đa một phần `noi_dung`.
+- Đã sang địa phận phụ lục thì không quay lại được → phần sau đều là phụ lục,
+  và các phụ lục liền nhau gộp làm một (§9: phụ lục không vào graph).
+- Luật / Nghị định / Hiến pháp **không ban hành kèm theo** cái gì → mọi phần con
+  của chúng đều là phụ lục.
+
+Kết quả: mọi văn bản nay có tối đa 3 phần (196 file 1 phần, 165 file 2 phần,
+87 file 3 phần).
+
+**5. Khối `Căn cứ` giả trong phần kèm theo.** Chữ "Căn cứ" vẫn xuất hiện rải rác
+trong nội dung ("Căn cứ vào kết quả học tập..."). Chỉ phần 0 mới được có vùng
+`can_cu` — bỏ ràng buộc này là 26 vùng căn cứ giả, kéo theo Bước 2 gán nhầm
+`BASED_ON` cho mọi số hiệu nằm gần đó.
+
+### Kết quả
+
+| | |
+|---|---|
+| Văn bản đã cắt | 448 |
+| Phần `van_ban` | 448 (mỗi file đúng một) |
+| Phần `noi_dung` (§2.6) | 178 |
+| Phần `phu_luc` | 119 |
+| Vùng `can_cu` tìm được | 427/448 (95%) |
+| Vùng `than` | 578 |
+| Vùng `ky` | 348 |
+| Điều đã lập danh mục | **9.860** |
+| — trong đó điều khoản thi hành | 1.301 |
+
+**Đối chiếu chéo hai tín hiệu độc lập:** nhãn metadata (`"Quyết định, Quy định"`
+từ Bước 0) so với cấu trúc text (Bước 1) **khớp 340/448 = 76%**. Phần chênh
+không hẳn là lỗi: nhiều Quyết định có nhãn nhưng bản scan chỉ có tờ quyết định,
+không có phần kèm theo; ngược lại 31 văn bản metadata bỏ sót nhãn mà text có
+phần kèm theo thật.
+
+### Đầu ra
+
+`data/kg/segments.jsonl` — 448 dòng, mỗi dòng một văn bản:
+
+```json
+{
+  "so_hieu_norm": "10/2016/TT-BGDDT",
+  "parts": [
+    {
+      "index": 0, "kind": "van_ban", "marker": "dau-file",
+      "span": [0, 4712],
+      "zones": {"header": [0, 402], "can_cu": [402, 1893],
+                "than": [1893, 3120], "ky": [3120, 4712]},
+      "articles": [
+        {"number": "Điều 1", "heading": "Ban hành kèm theo Thông tư này...",
+         "span": [1893, 2104], "thi_hanh": false},
+        {"number": "Điều 2", "heading": "Thông tư này có hiệu lực...",
+         "span": [2104, 2698], "thi_hanh": true}
+      ]
+    },
+    {"index": 1, "kind": "noi_dung", "marker": "kem-theo+trang", "...": "..."}
+  ]
+}
+```
+
+Mọi `span` là **offset ký tự trong đúng file text đã hiệu đính** — Bước 2 tìm
+được một trích dẫn ở vị trí X thì gọi `segment.zone_at(parts, X)` là ra ngay
+phần / vùng / Điều chứa nó.
+
+Trong DB: bảng `parts` và `articles` của `sessions/<tên>/kg.db`.
+
+---
+
+## 12. Bước 2–3 — trích dẫn và quan hệ
+
+```powershell
+python run.py kg cite          # Bước 2 — quét số hiệu, nối vào Document, tạo stub
+python run.py kg rel           # Bước 3 — phân loại quan hệ
+python run.py kg rel --again   # phân loại lại (khi sửa luật phân loại) — vài giây
+```
+
+Bước 2 quét số hiệu kèm **vị trí**, hỏi Bước 1 xem vị trí đó nằm ở vùng nào, rồi
+lưu cả 240 ký tự đứng trước. Bước 3 chỉ đọc lại hai thứ đó — không đụng vào file
+text nữa, nên sửa luật rồi chạy lại chỉ mất vài giây thay vì quét lại 20 MB.
+
+### Kết quả
+
+| | |
+|---|---|
+| Trích dẫn quét được | **6.090** |
+| Nối được vào `Document` | 5.371 (88%) |
+| Node `Document` | 450 thật + **794 stub** (1,8:1) |
+| Cạnh Document→Document | **3.208** |
+
+| Quan hệ | Trích dẫn | Nối được |
+|---|---|---|
+| `BASED_ON` | 1.957 | 1.957 |
+| `REFERENCES` | 3.828 | 3.198 |
+| `REPLACES` | 133 | 90 |
+| `AMENDS` | 118 | 103 |
+| `REPEALS` | 54 | 23 |
+
+### Ngưỡng tạo stub: ≥2 lần **HOẶC** nằm trong vùng Căn cứ
+
+Tạo stub cho cả 1.500+ số hiệu lạ thì 3/4 graph là node rỗng. Vế "nằm trong
+vùng Căn cứ" quan trọng hơn vế đếm: một `Luật` chỉ được nhắc đúng một lần ở khối
+Căn cứ vẫn là mắt xích thật của chuỗi `BASED_ON` — thứ §3 dùng để truy ngược lên
+văn bản gốc thẩm quyền cao nhất. 232/794 stub tồn tại nhờ vế này.
+
+### ⚠️ Vùng quyết định trước, từ khoá quyết định sau
+
+```
+Vùng can_cu               -> BASED_ON, không hỏi gì thêm
+Vùng than + điều thi hành -> REPLACES / AMENDS / REPEALS
+Còn lại                   -> REFERENCES
+```
+
+Thứ tự không đảo được. Khối Căn cứ có những câu như *"Căn cứ Nghị định
+99/2019/NĐ-CP ... **thay thế** Nghị định 141/2013/NĐ-CP"* — bắt từ khoá trước thì
+cả hai số hiệu thành `REPLACES`, trong khi văn bản đang xét chẳng thay thế cái
+nào.
+
+### ⚠️ Ba cái bẫy khiến quan hệ hiệu lực bị gán sai chủ thể
+
+Đây là chỗ tốn công nhất của cả Bước 3. Cả ba đều tìm ra bằng cách đọc mẫu đầu
+ra chứ không phải đọc code.
+
+**1. Quan hệ giữa hai văn bản KHÁC.** Câu *"...theo Nghị định số 09/2010/NĐ-CP
+... sửa đổi, bổ sung Nghị định số 110/2004/NĐ-CP..."* — người sửa là 09/2010,
+không phải văn bản đang đọc. Chặn bằng: quan hệ hiệu lực **chỉ sinh trong điều
+khoản thi hành** (§5.4). Bỏ ràng buộc này thì `AMENDS` phình từ 118 lên 1.077.
+
+**2. Chủ ngữ là văn bản khác.** Ngay trong điều khoản thi hành vẫn có
+*"Luật số 38/2005/QH11 đã được sửa đổi, bổ sung ... theo Luật số 44/2009/QH12"*.
+Chặn bằng: có một **số hiệu khác chen giữa đầu câu và từ khoá** thì chủ ngữ là
+văn bản đó. Câu thật thì chủ ngữ trống hoặc là "Thông tư này".
+
+**3. Phụ lục.** §9 không đưa phụ lục vào ontology, mà trích dẫn trong đó phần
+lớn là bảng biểu và chân trang (`CÔNG BÁO Số 291 + 292/Ngày 14-02-2024` từng
+cho ra "số hiệu" `292/N`). Loại hẳn khỏi quan hệ hiệu lực.
+
+> **Đánh đổi đã chọn: thiên về precision.** Kho có 1.922 lần xuất hiện cụm "sửa
+> đổi, bổ sung" nhưng chỉ 118 thành `AMENDS` — recall gần như chắc chắn thấp.
+> Ba ràng buộc trên loại đúng những ca sai đã kiểm bằng mắt, nhưng cũng loại
+> theo một số ca đúng. Con số thật của cả precision lẫn recall phải chờ gold set
+> (§6.2) — đó chính là việc gold set sinh ra để làm.
+
+### Vá số hiệu bị cắt cụt
+
+`115/2020/NĐ` (mất `-CP`) và `1404/QĐ` (mất `-ĐHBK`) chiếm 1.554 lượt trích dẫn.
+Bỏ mặc thì chúng thành 470 node stub rỗng. Nay được nối về văn bản thật khi số
+hiệu cụt là tiền tố của **đúng một** văn bản đã biết — cụt kiểu `32/QĐ` là tiền
+tố của hàng chục cái khác nhau nên để nguyên.
+
+### Đầu ra
+
+`data/kg/relations.jsonl` — 3.208 dòng, mỗi dòng một cạnh:
+
+```json
+{"source": "10/2016/TT-BGDDT", "target": "42/2007/QD-BGDDT", "type": "REPLACES",
+ "hits": 1, "zone": "than", "article": 2, "in_thi_hanh": true,
+ "source_header_check": "khop",
+ "context": "...có hiệu lực thi hành kể từ ngày 23 tháng 5 năm 2016 và thay thế Quyết định số 42/2007/QĐ-BGDĐT..."}
+```
+
+`context` và `source_header_check` giữ lại để chấm điểm ở §6.2 — mỗi cạnh kiểm
+chứng được mà không phải mở lại file gốc.
+
+---
+
+## 13. Bước 4 — NormativeContent + Article
+
+```powershell
+python run.py kg art
+```
+
+| | |
+|---|---|
+| `NormativeContent` (§2.6) | **178** |
+| — `Quy định` / `Quy chế` / khác | 108 / 46 / 24 |
+| `Article` (§2.7) | **9.518** |
+| — treo vào `NormativeContent` | 2.577 |
+| — treo thẳng vào `Document` | 6.941 |
+
+### ⚠️ Loại nội dung phải đọc từ TEXT, không từ metadata
+
+Nhãn `loai_van_ban` của crawler ghi `"Quyết định, Quy định"` cho **cả 224** văn
+bản có nội dung kèm theo — kể cả những cái mà trang bìa in rõ chữ `QUY CHẾ`. Tin
+nhãn đó thì 165/178 nội dung bị gán nhầm thành "Quy định". Nay đọc chữ IN HOA
+trong chính khối tiêu đề: 108 Quy định / 46 Quy chế / 9 Chương trình / 6 Kế
+hoạch / 4 Quy trình / …
+
+### Nới so với §2.7: `HAS_ARTICLE` nhận cả `Document`
+
+§2.7 nói `Article` thuộc `NormativeContent`. Nhưng 270/448 văn bản **không** có
+nội dung kèm theo — một `Luật`, một `Nghị định` có Điều ngay trong thân nó. Ép
+mọi Điều đi qua một `NormativeContent` giả thì thêm 270 node rỗng chẳng để làm
+gì. Nên `HAS_ARTICLE` ở đây nhận cả hai làm domain — ghi rõ để §4 của paper nói
+lại cho đúng.
+
+`Article` mang theo **toàn văn** phần text của nó (`articles.jsonl` nặng 21 MB) —
+đó là điểm của §2.7: retrieval ở cấp điều khoản chứ không phải cấp văn bản.
+
+Một chi tiết nhỏ nhưng làm mất node nếu bỏ qua: trong cùng một phần vẫn có thể
+gặp hai `Điều 5` (OCR đọc nhầm số, hoặc scan lặp trang). Không phân biệt thì
+`MERGE` trong Neo4j gộp chúng làm một và mất 72 `Article`.
+
+---
+
+## 14. Bước 5 — nạp Neo4j
+
+```powershell
+docker run -d --name neo4j-pbl6 -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/12345678 neo4j:5
+
+pip install neo4j
+python run.py kg load --wipe        # nạp lại từ đầu
+python run.py kg load               # nạp chồng (MERGE, không nhân đôi node)
+python run.py kg load --cypher-only # chỉ sinh file .cypher, không cần Neo4j
+```
+
+Đọc thẳng `data/kg/*.jsonl` nên chạy được ở máy khác, không cần session. Đổi
+thông số bằng `NEO4J_URI` / `NEO4J_USER` / `NEO4J_PASSWORD` trong `.env`.
+
+### Graph sau khi nạp
+
+| Node | Số lượng | Quan hệ | Số lượng |
+|---|---|---|---|
+| `Article` | 9.518 | `HAS_ARTICLE` | 9.518 |
+| `Document` | 1.244 | `BASED_ON` | 1.853 |
+| `NormativeContent` | 178 | `REFERENCES` | 1.194 |
+| `Organization` | 20 | `ISSUED_BY` | 742 |
+| `Topic` | 18 | `HAS_TOPIC` | 454 |
+| | | `PROMULGATES` | 178 |
+| | | `REPLACES` / `AMENDS` / `REPEALS` | 88 / 56 / 23 |
+| | | `PART_OF` | 14 |
+
+Tổng **10.978 node / 14.120 cạnh**.
+
+### Hai file Cypher luôn được sinh ra
+
+- `data/kg/schema.cypher` — ràng buộc duy nhất + chỉ mục + **hai full-text
+  index**. Cái sau cho phép chạy baseline BM25 ngay trong Neo4j (§6.4) thay vì
+  dựng một hệ tìm kiếm riêng.
+- `data/kg/queries.cypher` — bộ truy vấn mẫu theo §6.3, chia đúng ba nhóm
+  single-hop / multi-hop / hiệu lực, cộng thêm mẫu hybrid (BM25 lọc ứng viên →
+  KG mở rộng theo quan hệ).
+
+### Chạy thử — đúng những gì §6.3 cần
+
+```
+multi-hop (§3): 1001/QĐ-ĐHBK căn cứ vào đâu
+  99/2019/NĐ-CP   Nghị định   bậc 4   1 bước
+  69/2017/NĐ-CP   Nghị định   bậc 4   2 bước
+  32/CP           Nghị định   bậc 4   1 bước  (stub)
+
+hiệu lực: VB nào thay thế 8/2014/TT-BGDĐT
+  10/2020/TT-BGDĐT — Quy chế tổ chức và hoạt động của đại học vùng
+
+Article retrieval: "học bổng khuyến khích học tập"
+  Điều 11  Học bổng khuyến khích học tập     3536/QĐ-ĐHBK   27.30
+  Điều 2   Học bổng khuyến khích học tập     28/VBHN-BGDĐT  24.19
+  Điều 8   Học bổng khuyến khích học tập     84/2020/NĐ-CP  23.58
+
+multi-hop mà BM25 không làm được: QĐ trường -> Luật gốc
+  1092/QĐ-ĐHBK -> 15/2017/QH14   2 bước
+  1414/QĐ-ĐHBK -> 14/2008/QH12   2 bước
+```
+
+Dừng / xoá Neo4j: `docker stop neo4j-pbl6` · `docker rm -f neo4j-pbl6`
+
+---
+
+## 15. Chạy cả chuỗi
+
+```powershell
+python run.py kg all      # Bước 0 -> 4, Ctrl+C lúc nào cũng được
+python run.py kg load     # Bước 5
+python run.py kg status   # báo cáo cả 5 bước
+```
+
+Toàn bộ mất khoảng 3 phút trên kho 448 văn bản.
+
+---
+
+## 16. Khối đánh giá §6
+
+```powershell
+python run.py eval all      # chạy mọi thứ chạy được, gom data/eval/BAO_CAO.md
+```
+
+Hướng dẫn đầy đủ — từng lệnh, file nào ra ở đâu, chỗ nào cần người làm, cách
+mang kết quả về máy khác — nằm ở **[docs/TIEN_DO.md §5](docs/TIEN_DO.md)**.
+
+Nguyên tắc của cả gói `src/vanban/eval/`: **mọi thứ chạy ra đều là file trong
+`data/eval/`**, không có gì chỉ hiện trên màn hình. Chạy ở máy nào cũng được,
+copy nguyên thư mục đó về là đọc được đầy đủ (~1,6 MB).

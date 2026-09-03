@@ -57,9 +57,18 @@ CREATE TABLE IF NOT EXISTS docs (
     meta_source     TEXT,               -- manifest | ten-file
     header_check    TEXT,               -- khop | lech | khong-thay | khong-co-file
 
+    -- §2.1: văn bản bị viện dẫn mà chưa crawl vẫn là một Document. Bước 2 mới
+    -- sinh ra chúng, nhưng cột phải có sẵn từ đầu — báo cáo của Bước 0 đọc nó
+    -- để tách stub khỏi văn bản thật.
+    is_stub         INTEGER DEFAULT 0,
+    stub_hits       INTEGER,
+
     doc_status      TEXT DEFAULT 'pending',
     doc_note        TEXT,
     seg_status      TEXT DEFAULT 'pending',
+    seg_note        TEXT,
+    n_parts         INTEGER,        -- số văn bản con trong một file (§2.6)
+    n_articles      INTEGER,
     cite_status     TEXT DEFAULT 'pending',
     rel_status      TEXT DEFAULT 'pending',
     art_status      TEXT DEFAULT 'pending',
@@ -110,12 +119,52 @@ class KGSession:
         self._conn.execute("PRAGMA journal_mode=WAL")
         self._conn.execute("PRAGMA synchronous=NORMAL")
         self._conn.executescript(SCHEMA)
+        self._migrate()
         self._conn.commit()
 
         self.set_meta("last_opened", _now())
 
         if not self.get_meta("created_at"):
             self.set_meta("created_at", _now())
+
+    def add_columns(self, columns: Iterable[tuple[str, str]]) -> None:
+        """
+        Thêm cột vào bảng `docs` nếu chưa có.
+
+        Mỗi bước KG mới thường kèm vài cột thống kê. Chạy `--rebuild` chỉ để có
+        cột mới là mất sạch tiến độ các bước trước, nên thà vá tại chỗ. Mỗi
+        module bước tự khai cột của mình thay vì dồn hết vào đây.
+        """
+
+        with self._lock:
+            existing = {
+                row["name"]
+                for row in self._conn.execute("PRAGMA table_info(docs)").fetchall()
+            }
+
+            for column, ddl in columns:
+                if column not in existing:
+                    self._conn.execute(f"ALTER TABLE docs ADD COLUMN {column} {ddl}")
+
+            self._conn.commit()
+
+    def _migrate(self) -> None:
+        """Cột của các bước đã có sẵn trong schema, vá cho session đời cũ."""
+
+        existing = {
+            row["name"]
+            for row in self._conn.execute("PRAGMA table_info(docs)").fetchall()
+        }
+
+        for column, ddl in (
+            ("seg_note", "TEXT"),
+            ("n_parts", "INTEGER"),
+            ("n_articles", "INTEGER"),
+            ("is_stub", "INTEGER DEFAULT 0"),
+            ("stub_hits", "INTEGER"),
+        ):
+            if column not in existing:
+                self._conn.execute(f"ALTER TABLE docs ADD COLUMN {column} {ddl}")
 
     # --------------------------------------------------------
     # META

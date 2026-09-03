@@ -13,3 +13,7 @@ python-dotenv>=1.0.0
 # --- OCR nội bộ (engine mặc định, chạy CPU, miễn phí) ---
 # Kéo theo torch (~500 MB) + model tiếng Việt (~100 MB tải lần đầu).
 easyocr>=1.7.0
+
+# --- knowledge graph ---
+# Chỉ cần cho `python run.py kg load`. Các bước kg khác không dùng tới.
+neo4j>=5.0

@@ -267,6 +267,15 @@ def collect(session: KGSession, corpus_dir: Path) -> dict[str, int]:
     }
 
 
+def _column(row, name: str):
+    """Đọc một cột có thể chưa tồn tại (session tạo từ bước trước)."""
+
+    try:
+        return row[name]
+    except (IndexError, KeyError):
+        return None
+
+
 def _relative(path: Path) -> str:
     """Đường dẫn tương đối so với gốc project — để JSONL còn mang đi máy khác."""
 
@@ -568,7 +577,11 @@ def export(session: KGSession, out_dir: Path | None = None) -> dict[str, Path]:
                 "effectiveDate": row["effective_date"],
                 "expiryDate": row["expiry_date"],
                 "fileUrl": row["file_url"],
-                "is_stub": False,
+                # Bước 2 nhét thêm node stub vào chính bảng này (§1: văn bản bị
+                # viện dẫn mà chưa crawl vẫn là `Document`), nên cờ phải đọc từ
+                # DB chứ không hằng số.
+                "is_stub": bool(_column(row, "is_stub")),
+                "stub_hits": _column(row, "stub_hits"),
                 "orgId": row["org_id"],
                 "topics": topics,
                 "doc_ids": json.loads(row["doc_ids"] or "[]"),
@@ -594,8 +607,16 @@ def export(session: KGSession, out_dir: Path | None = None) -> dict[str, Path]:
             org_names.add(parent)
             queue.append(parent)
 
+    # Hai cách viết cùng một cơ quan ("Thanh tra chính phủ" / "Thanh tra Chính
+    # phủ") cho ra cùng một `orgId`. Gộp ở đây để số dòng xuất ra khớp đúng số
+    # node Neo4j sẽ tạo — không thì báo cáo lệch mà chẳng hiểu vì sao.
+    by_id: dict[str, str] = {}
+
+    for name in sorted(org_names):
+        by_id.setdefault(norm.org_id(name), name)
+
     with orgs_path.open("w", encoding="utf-8") as handle:
-        for name in sorted(org_names):
+        for name in by_id.values():
             parent = norm.org_parent(name)
 
             handle.write(
@@ -622,7 +643,7 @@ def export(session: KGSession, out_dir: Path | None = None) -> dict[str, Path]:
             )
 
     say(f"  {len(rows):>4} Document      -> {docs_path}")
-    say(f"  {len(org_names):>4} Organization  -> {orgs_path}")
+    say(f"  {len(by_id):>4} Organization  -> {orgs_path}")
     say(f"  {len(topic_names):>4} Topic         -> {topics_path}")
 
     return {"documents": docs_path, "organizations": orgs_path, "topics": topics_path}
@@ -632,21 +653,41 @@ def export(session: KGSession, out_dir: Path | None = None) -> dict[str, Path]:
 # BÁO CÁO
 # ============================================================
 
+def _counts(session: KGSession, column: str, real_only: bool = True) -> dict:
+    """Đếm theo cột, mặc định chỉ tính văn bản thật (bỏ stub của Bước 2)."""
+
+    where = "WHERE COALESCE(is_stub, 0) = 0" if real_only else ""
+
+    with session._lock:  # noqa: SLF001
+        rows = session._conn.execute(  # noqa: SLF001
+            f"SELECT {column} AS v, COUNT(*) AS n FROM docs {where} GROUP BY {column}"
+        ).fetchall()
+
+    return {row["v"]: row["n"] for row in rows}
+
+
 def report(session: KGSession) -> str:
     total = session.total()
 
     if not total:
         return "\nSession KG rỗng — chạy `python run.py kg docs` trước.\n"
 
+    stubs = _counts(session, "is_stub", real_only=False).get(1, 0)
+    real = total - stubs
+
+    # Từ Bước 2 trở đi bảng này có thêm node stub (§1). Trộn chung vào thống kê
+    # thì mọi con số của Bước 0 đổi nghĩa, nên tách hẳn ra.
     lines = [
         "",
         "=" * 62,
-        f"KG SESSION: {session.name}   ({total} Document phân biệt)",
+        f"KG SESSION: {session.name}   ({real} Document thật"
+        + (f" + {stubs} stub" if stubs else "")
+        + ")",
         "=" * 62,
     ]
 
-    done = session.counts("doc_status")
-    lines += ["", "  Bước 0 — bảng Document:"]
+    done = _counts(session, "doc_status")
+    lines += ["", "  Bước 0 — bảng Document (không tính stub):"]
 
     for status in ("done", "pending", "failed"):
         if done.get(status):
@@ -654,7 +695,7 @@ def report(session: KGSession) -> str:
 
     lines += ["", "  Bậc thẩm quyền (§3):"]
 
-    levels = session.counts("authority_level")
+    levels = _counts(session, "authority_level")
     names = {
         6: "Hiến pháp",
         5: "Luật / Pháp lệnh",
@@ -673,7 +714,7 @@ def report(session: KGSession) -> str:
 
     lines += ["", "  Hiệu lực (§2.1):"]
 
-    for status, count in sorted(session.counts("status").items(), key=lambda x: -x[1]):
+    for status, count in sorted(_counts(session, "status").items(), key=lambda x: -x[1]):
         lines.append(f"    {str(status):<24} {count:>5}")
 
     lines += ["", "  Đối chiếu số hiệu ở header:"]
@@ -686,7 +727,9 @@ def report(session: KGSession) -> str:
         "khong-co-file": "chưa có text hiệu đính",
     }
 
-    for kind, count in sorted(session.counts("header_check").items(), key=lambda x: -x[1]):
+    for kind, count in sorted(
+        _counts(session, "header_check").items(), key=lambda x: -x[1]
+    ):
         if kind:
             lines.append(f"    {labels.get(kind, kind):<24} {count:>5}")
 

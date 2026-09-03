@@ -107,6 +107,18 @@ _TYPE_BY_CODE = {
 }
 
 
+# Bản bỏ dấu của bảng mã loại, khai sớm vì `split_so_hieu` cần tới.
+_TYPE_CODES_FLAT = {deaccent(code).upper() for code in ("QH", "UBTVQH", "NĐ", "TT",
+                                                       "TTLT", "QĐ", "NQ", "CT",
+                                                       "HD", "KH", "VBHN", "L")}
+
+
+def _la_ma_loai(code: str) -> bool:
+    """`NĐ` và `ND` đều là mã loại Nghị định."""
+
+    return deaccent(code).upper() in _TYPE_CODES_FLAT
+
+
 def split_so_hieu(norm: str) -> tuple[str, str | None, str | None, str | None]:
     """Tách số hiệu chuẩn thành (số, năm, mã loại, mã cơ quan)."""
 
@@ -129,15 +141,38 @@ def split_so_hieu(norm: str) -> tuple[str, str | None, str | None, str | None]:
 
         # Công văn không có mã loại: `3878/BGDĐT-PC` — `BGDĐT` là cơ quan chứ
         # không phải loại văn bản. Phân biệt bằng chính bảng mã loại.
-        if code in _TYPE_BY_CODE:
+        #
+        # Phải nhận cả mã BỎ DẤU: khoá của node stub là `so_hieu_key`, nên
+        # `91/2026/NĐ-CP` đi tới đây dưới dạng `91/2026/ND-CP`. Tra bảng có dấu
+        # thì `ND` trượt, cả số hiệu bị hiểu thành công văn của "cơ quan ND-CP"
+        # — mất luôn documentType lẫn authority_level.
+        if _la_ma_loai(code):
             return num, year, code, org
 
         return num, year, None, tail
 
-    if tail in _TYPE_BY_CODE:
+    if _la_ma_loai(tail):
         return num, year, tail, None
 
     return num, year, None, tail
+
+
+# Bản bỏ dấu của hai bảng tra.
+#
+# Bắt buộc phải có: khoá của node stub là `so_hieu_key`, tức bản **bỏ dấu** —
+# `32/2008/ND-CP`, không phải `32/2008/NĐ-CP`. Tra thẳng vào bảng có dấu thì
+# trượt sạch, và toàn bộ 812 stub mất `documentType`, mất `authority_level`,
+# kéo theo truy vấn `ORDER BY b.authority_level DESC` của §3 vô dụng.
+_TYPE_BY_CODE_FLAT = {deaccent(code): value for code, value in _TYPE_BY_CODE.items()}
+
+
+def _lookup(table: dict, table_flat: dict, code: str | None):
+    """Tra bảng bằng mã có dấu, trượt thì thử bản bỏ dấu."""
+
+    if not code:
+        return None
+
+    return table.get(code) or table_flat.get(deaccent(code).upper())
 
 
 def doc_type_from_so_hieu(norm: str) -> str | None:
@@ -145,8 +180,16 @@ def doc_type_from_so_hieu(norm: str) -> str | None:
 
     _, _, code, org = split_so_hieu(norm)
 
-    if code:
-        return _TYPE_BY_CODE.get(code)
+    found = _lookup(_TYPE_BY_CODE, _TYPE_BY_CODE_FLAT, code)
+
+    if found:
+        return found
+
+    # Số hiệu đời cũ (trước 1996) không có mã loại: `32/CP`, `56/HĐBT` là
+    # **Nghị định**, không phải công văn. Kho này viện dẫn khá nhiều — riêng
+    # `32/CP` bị nhắc 172 lần.
+    if org and deaccent(org).upper() in ("CP", "HDBT"):
+        return "Nghị định"
 
     # Không có mã loại mà vẫn có mã cơ quan -> công văn (`3878/BGDĐT-PC`).
     return "Công văn" if org else None
@@ -165,6 +208,8 @@ _ORG_BY_CODE: dict[str, tuple[str, str]] = {
     "UBTVQH": ("Ủy ban Thường vụ Quốc hội", "quoc_hoi"),
     "CTN": ("Chủ tịch nước", "quoc_hoi"),
     "CP": ("Chính phủ", "chinh_phu"),
+    # Hội đồng Bộ trưởng — tên của Chính phủ trước 1992, vẫn bị viện dẫn.
+    "HĐBT": ("Chính phủ", "chinh_phu"),
     "TTG": ("Thủ tướng Chính phủ", "thu_tuong"),
     "BGDĐT": ("Bộ Giáo dục và Đào tạo", "bo_nganh"),
     "BTC": ("Bộ Tài chính", "bo_nganh"),
@@ -210,6 +255,8 @@ _PARENT: dict[str, str] = {
     "Đại học Đà Nẵng": "Bộ Giáo dục và Đào tạo",
     "Thủ tướng Chính phủ": "Chính phủ",
 }
+
+_ORG_BY_CODE_FLAT = {deaccent(code): value for code, value in _ORG_BY_CODE.items()}
 
 _SLUG_STRIP = re.compile(r"[^a-z0-9]+")
 
@@ -270,11 +317,13 @@ def org_from_so_hieu(norm: str) -> tuple[str, str] | None:
     if not org_code:
         return None
 
-    if org_code in _ORG_BY_CODE:
-        return _ORG_BY_CODE[org_code]
+    found = _lookup(_ORG_BY_CODE, _ORG_BY_CODE_FLAT, org_code)
+
+    if found:
+        return found
 
     # `BGDĐT-PC` = Bộ GD&ĐT, vụ Pháp chế. Cơ quan ban hành là cái đứng đầu.
-    return _ORG_BY_CODE.get(org_code.split("-")[0])
+    return _lookup(_ORG_BY_CODE, _ORG_BY_CODE_FLAT, org_code.split("-")[0])
 
 
 # ============================================================

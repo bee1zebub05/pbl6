@@ -1,145 +1,118 @@
 # Tiến độ — KG Văn bản pháp quy DUT/ĐHĐN
 
-> Cập nhật: **27/08/2026**
+> Cập nhật: **03/09/2026** — graph xong, khối đánh giá §6 đã có code chạy được
 > Đặc tả đích: [rules/Ontology.md](../rules/Ontology.md) — Mức 3 (paper)
-> Hướng dẫn chạy: [README.md](../README.md)
+> Hướng dẫn chạy: [README.md](../README.md) mục 10–15
 
 ---
 
 ## 1. Đang ở đâu
 
-Pipeline dữ liệu (crawl → OCR → hiệu đính) **đã xong**. Phần xây graph mới đi
-được **Bước 0/5**: bảng `Document` đã chốt, chưa có quan hệ nào giữa các văn bản.
+**Knowledge graph đã dựng xong và chạy được trong Neo4j.** Phần còn thiếu để ra
+paper Mức 3 là toàn bộ khối **đánh giá** (§6) — gold set, query set, so sánh
+BM25 / KG / Hybrid, ablation, error analysis.
 
 | Giai đoạn (§8 Ontology) | Việc | Trạng thái |
 |---|---|---|
-| P1 — Mức 1 | Crawl → metadata → node cơ bản | ✅ dữ liệu xong, **chưa nạp Neo4j** |
-| P2 | OCR + regex → `BASED_ON` / `REFERENCES` + stub | ⬜ chưa bắt đầu |
-| P3 | Quan hệ hiệu lực + `NormativeContent` / `Article` | ⬜ chưa bắt đầu |
-| P4 — Mức 2 | BM25 baseline + query set + gold set | ⬜ chưa bắt đầu |
-| P5 — Mức 3 | Hybrid + metrics + ablation + error analysis | ⬜ chưa bắt đầu |
+| P1 — Mức 1 | Crawl → metadata → Neo4j (node + quan hệ dễ) | ✅ **xong** |
+| P2 | OCR + regex → `BASED_ON`/`REFERENCES` + stub | ✅ **xong** |
+| P3 | Quan hệ hiệu lực + `NormativeContent`/`Article` | ✅ **xong** |
+| P4 — Mức 2 | BM25 baseline + query set + gold set | 🔶 code xong, **chờ người gán** (§5) |
+| P5 — Mức 3 | Hybrid + metrics + ablation + error analysis | 🔶 ablation + error analysis **đã có số** (§5.6) |
 
-Chia nhỏ phần xây graph thành 6 bước thi công:
+Sáu bước thi công graph:
 
 | Bước | Việc | Trạng thái |
 |---|---|---|
-| **0** | **Bảng `Document` — gộp trùng, bậc thẩm quyền, hiệu lực** | ✅ **xong 27/08/2026** |
-| 1 | Cắt vùng: header / Căn cứ / thân Điều-Khoản / điều khoản thi hành | ⬜ |
-| 2 | Trích + resolve số hiệu → `BASED_ON` / `REFERENCES` + stub | ⬜ |
-| 3 | Phân loại `REPLACES` / `AMENDS` / `REPEALS` theo vùng + trigger | ⬜ |
-| 4 | `NormativeContent` + `Article` (§2.6, §2.7) | ⬜ |
-| 5 | Nạp Neo4j + bộ Cypher mẫu | ⬜ |
+| 0 | Bảng `Document` — gộp trùng, bậc thẩm quyền, hiệu lực | ✅ 27/08 |
+| 1 | Cắt vùng: header / Căn cứ / thân / điều khoản thi hành | ✅ 27/08 |
+| 2 | Trích + resolve số hiệu → cạnh + stub | ✅ 27/08 |
+| 3 | Phân loại `REPLACES` / `AMENDS` / `REPEALS` | ✅ 27/08 |
+| 4 | `NormativeContent` + `Article` | ✅ 27/08 |
+| 5 | Nạp Neo4j + bộ Cypher mẫu | ✅ 27/08 |
+
+Chạy lại tất cả: `python run.py kg all && python run.py kg load --wipe` (~3 phút).
 
 ---
 
-## 2. Dữ liệu hiện có
+## 2. Graph hiện có
 
-### Kho văn bản
+**10.978 node · 14.120 cạnh**, trong Neo4j tại `bolt://localhost:7687`.
+
+| Node | Số lượng | Quan hệ | Số lượng |
+|---|---|---|---|
+| `Article` | 9.518 | `HAS_ARTICLE` | 9.518 |
+| `Document` | 1.244 (450 thật + 794 stub) | `BASED_ON` | 1.853 |
+| `NormativeContent` | 178 | `REFERENCES` | 1.194 |
+| `Organization` | 20 | `ISSUED_BY` | 742 |
+| `Topic` | 18 | `HAS_TOPIC` | 454 |
+| | | `PROMULGATES` | 178 |
+| | | `REPLACES` | 88 |
+| | | `AMENDS` | 56 |
+| | | `REPEALS` | 23 |
+| | | `PART_OF` | 14 |
+
+Đầu ra dạng file, nạp lại được ở máy khác không cần session:
+
+```
+data/kg/documents.jsonl           1.244 Document
+data/kg/organizations.jsonl          20 Organization + parentOrg
+data/kg/topics.jsonl                 18 Topic
+data/kg/segments.jsonl              448 cấu trúc văn bản (Bước 1)
+data/kg/relations.jsonl           3.208 cạnh Document->Document
+data/kg/normative_contents.jsonl    178 NormativeContent
+data/kg/articles.jsonl            9.518 Article (kèm toàn văn, 21 MB)
+data/kg/schema.cypher                 ràng buộc + chỉ mục + full-text index
+data/kg/queries.cypher                bộ truy vấn mẫu §6.3
+```
+
+### Kho văn bản nguồn
 
 | Chỉ số | Con số |
 |---|---|
 | PDF đã crawl | 501 file / 11.420 trang |
 | Đã OCR | 501/501 (EasyOCR tại máy) |
-| Đã chuẩn hoá số hiệu/ngày (`normalize`) | 501/501 |
-| Đã hiệu đính bằng Gemma | **460**, thiếu 2 văn bản (xem §4) |
-| Tổng ký tự sau hiệu đính | 20,2 triệu (~43.800 ký tự/văn bản) |
+| Đã hiệu đính bằng Gemma | 460, thiếu 2 văn bản (xem §4.2) |
+| Văn bản phân biệt sau khi gộp trùng | **450** |
+| Tổng ký tự sau hiệu đính | 20,2 triệu |
 | Vị trí | `data/clean/text_clean_gemma/<lĩnh vực>/*.txt` |
 
 > ⚠️ `data/raw/pdf/` và `data/raw/metadata.csv` **đã bị xoá khỏi máy**. Nguồn
 > metadata duy nhất còn lại là `data/manifest.jsonl` (xuất 17/08). Đừng xoá file
-> đó — ngày ban hành, cơ quan ban hành, tình trạng hiệu lực chỉ còn nằm ở đấy.
-
-### Node đã dựng (Bước 0)
-
-`data/kg/documents.jsonl` · `organizations.jsonl` · `topics.jsonl`
-
-| Node | Số lượng |
-|---|---|
-| `Document` | **450** (từ 501 dòng manifest + 460 file text) |
-| `Organization` | 14 (kèm cây `PART_OF`) |
-| `Topic` | 18 |
-
-Bậc thẩm quyền (§3) phủ 100%:
-
-| Bậc | | Số VB |
-|---|---|---|
-| 6 | Hiến pháp | 1 |
-| 5 | Luật / Pháp lệnh | 50 |
-| 4 | Nghị định | 49 |
-| 3 | Thông tư / Thủ tướng / bộ ngành | 158 |
-| 2 | Đại học Đà Nẵng | 94 |
-| 1 | Trường ĐHBK | 98 |
-
-Hiệu lực: **430** còn hiệu lực · **15** hết hiệu lực (đã tách được `expiryDate`)
-· **5** chưa rõ.
-
-### Nguyên liệu cho Bước 1–4 (đã đo trên kho sạch)
-
-| Tín hiệu | Số đo | Dùng cho |
-|---|---|---|
-| File có `Căn cứ` | 439/460 (95%) | cắt vùng → `BASED_ON` |
-| File có `Điều N.` | 426/460 (93%), 403 bắt đầu đúng Điều 1 | cắt vùng → `Article` |
-| Heading `Điều N` | 10.858 | node `Article` (§2.7) |
-| Trích dẫn số hiệu | **9.025 lần**, 2.136 số hiệu phân biệt | `BASED_ON` / `REFERENCES` |
-| — nối được vào 450 VB | **428** | cạnh thật |
-| — phải tạo stub | 1.708 (661 xuất hiện ≥2 lần, 1.047 chỉ 1 lần) | §1 Ontology |
-| Trigger `sửa đổi, bổ sung` | 1.922 | `AMENDS` |
-| Trigger `thay thế` | 521 | `REPLACES` |
-| Trigger `bãi bỏ` | 325 | `REPEALS` |
-| Trigger `hướng dẫn thi hành` | 270 | quan hệ hướng dẫn |
-| Header tin được | 386/448 (86%) | mọi bước sau |
+> đó — ngày ban hành, cơ quan ban hành, tình trạng hiệu lực chỉ còn ở đấy.
 
 ---
 
-## 3. Đã làm gì
+## 3. Chất lượng từng bước (con số để viết §5 của paper)
 
-### Pipeline dữ liệu (xong trước 26/08)
+| Bước | Chỉ số | Kết quả |
+|---|---|---|
+| 0 | Bậc thẩm quyền (§3) phủ | 450/450 |
+| 0 | Header khớp metadata | 386/448 = **86%** |
+| 1 | Vùng `Căn cứ` tìm được | 427/448 = **95%** |
+| 1 | Nội dung kèm theo tách được | 178 phần |
+| 1 | Nhãn metadata vs cấu trúc text (đối chiếu chéo) | khớp **76%** |
+| 2 | Trích dẫn nối được vào `Document` | 5.371/6.090 = **88%** |
+| 2 | Tỷ lệ stub / văn bản thật | 1,8 : 1 |
+| 4 | `Article` lập được danh mục | 9.518 |
 
-- Crawler `dut.udn.vn` → 501 PDF + metadata.
-- OCR bằng EasyOCR tại máy (chính xác **hơn** API OCR, lại miễn phí — README §5).
-- `normalize`: tiêm số hiệu/ngày từ metadata (phần **viết tay** trên biểu mẫu,
-  OCR đọc sai 77% — README §6b) + bỏ phiếu chéo sửa trích dẫn hỏng.
-- Hiệu đính bằng Gemma qua Gemini API, xoay tua nhiều key.
+Ba đánh đổi đã chốt, cần nói rõ trong paper:
 
-### Bước 0 — bảng `Document` (27/08/2026)
-
-Code: `src/vanban/kg/{norm,session,documents}.py` · lệnh `python run.py kg docs`
-
-Ba việc:
-
-1. **Neo vào kho text có thật.** Manifest ghi `fix_status: pending` cho 498/501
-   và `text_clean: null` trong khi 460 văn bản đã hiệu đính xong ở một đường dẫn
-   khác. Nay text lấy từ đĩa, manifest chỉ còn là nguồn metadata.
-2. **Gộp trùng theo số hiệu.** 501 dòng → 445 số hiệu phân biệt: 55 nhóm trùng,
-   11 nhóm được crawler cấp **hai `doc_id`** cho cùng một văn bản. §2.1 lấy
-   `so_hieu_norm` làm khoá chính — không gộp thì `MERGE` trong Neo4j sẽ vỡ.
-   4 nhóm nằm ở hai lĩnh vực → hợp nhất `topics` (đúng bản chất `HAS_TOPIC` n→m).
-3. **Suy thuộc tính ontology**: `authority_level` (§3), `status` + `expiryDate`
-   tách từ chuỗi `"Hết hiệu lực 01/01/2024"`, `documentType` tách khỏi
-   `"Quyết định, Quy định"` (§2.6), `orgId`/`orgType`/`parentOrg` (§2.2).
-
-Ba quyết định thiết kế đã chốt (chi tiết trong README §10):
-
-- **Bậc thẩm quyền xét theo CƠ QUAN, không theo LOẠI.** Bảng §3 trộn hai tiêu
-  chí; đi theo loại thì 252 văn bản `"Quyết định, Quy định"` — do đủ mọi cấp ban
-  hành — rơi chung một bậc. Mỗi node mang thêm `level_note` phân biệt bậc tra
-  thẳng từ ontology với bậc suy rộng.
-- **`"Luật, Pháp lệnh"` là tên NHÓM, không phải loại văn bản.** Tách theo dấu
-  phẩy như `"Quyết định, Quy định"` là sai với cả 50 văn bản luật.
-- **Khoá chính = số hiệu bỏ dấu** (`so_hieu_key`). Nhờ chuẩn hoá này, số trích
-  dẫn nối được vào văn bản thật tăng **365 → 428 (+17%)** so với so khớp thô.
-
-Kèm theo: phép **đối chiếu header** — mở text, so số hiệu in ở đầu trang 1 với
-metadata. Đây là thước đo văn bản nào có header đáng tin, mà Bước 1–2 dựa hết
-vào đó.
+1. **Ngưỡng stub = ≥2 lần HOẶC nằm trong vùng Căn cứ.** Không đặt ngưỡng thì
+   3/4 graph là node rỗng; đặt ngưỡng thuần đếm thì mất những `Luật` chỉ được
+   viện dẫn một lần — mà đó chính là mắt xích của chuỗi `BASED_ON`.
+2. **Quan hệ hiệu lực thiên về precision.** Kho có 1.922 lần "sửa đổi, bổ sung"
+   nhưng chỉ 118 thành `AMENDS`. Ba ràng buộc chống gán nhầm chủ thể (README
+   mục 12) loại đúng những ca sai đã kiểm bằng mắt, nhưng chắc chắn cũng loại
+   theo một số ca đúng. **Recall thật phải chờ gold set đo.**
+3. **`HAS_ARTICLE` nới domain so với §2.7** — nhận cả `Document` lẫn
+   `NormativeContent`, vì 270/448 văn bản không có nội dung kèm theo.
 
 ---
 
-## 4. Tồn đọng cần xử lý
+## 4. Tồn đọng
 
-Xếp theo mức độ chặn công việc sau.
-
-### 4.1 Cần làm trước Bước 1 — 34 văn bản header lệch
+### 4.1 Ảnh hưởng chất lượng cạnh — 34 văn bản header lệch
 
 `python run.py kg review --grep header-lech`
 
@@ -152,61 +125,194 @@ Không phải nhiễu — đây là **lỗi metadata và lỗi OCR thật**:
 17/2021/TT-BGDĐT  header ghi 7/2021      <- OCR nuốt mất chữ số đầu
 ```
 
-Sửa tay 34 cái này → tỷ lệ header tin được lên ~94% trước khi vào Bước 1.
-Ngoài ra còn **28 văn bản header không đọc ra số hiệu nào** — cần xem lại thủ
-công xem bản scan có thật sự thiếu hay chỉ do vùng header bị cắt sai.
+Sửa số hiệu là **đổi khoá chính**, nên phải người xác nhận rồi mới sửa. Trong
+lúc chờ, mỗi cạnh sinh ra từ các văn bản này đều mang cờ
+`source_header_check: "lech"` trong `relations.jsonl` để lọc ra khi chấm điểm.
+
+Ngoài ra 28 văn bản header không đọc ra số hiệu nào.
 
 ### 4.2 Nên làm sớm — 2 văn bản chưa hiệu đính
 
 | doc_id | Số hiệu | Ghi chú |
 |---|---|---|
-| 0166 | `115/2020/NĐ-CP` | **bị trích dẫn 115 lần** trong kho — đáng chạy lại nhất |
+| 0166 | `115/2020/NĐ-CP` | **bị trích dẫn 119 lần** — đáng chạy lại nhất |
 | 0307 | `14/2021/TT-BGDDT` | metadata ghi `BGDDT` (thiếu `Đ`) |
 
-Chạy lại: `python run.py fix` rồi copy kết quả vào `data/clean/text_clean_gemma/`.
+`python run.py fix` rồi copy kết quả vào `data/clean/text_clean_gemma/`.
 
-### 4.3 Ghi nhận, chưa cần xử lý
+### 4.3 Ghi nhận
 
 - **5 file không có trong manifest** (0148, 0151, 0158, 0161, 0352) — metadata
-  đang lấy từ tên file nên thiếu ngày ban hành và tình trạng hiệu lực. Bổ sung
-  tay 5 dòng vào manifest là xong.
-- **`normativeType` mới bắt được 224/450.** Ví dụ `10/2016/TT-BGDĐT` rõ ràng ban
-  hành một *Quy chế* nhưng metadata chỉ ghi `loai = "Thông tư"`. Phần còn lại
-  nằm trong tiêu đề và thân văn bản → để Bước 4 moi ra.
-- **1.708 stub sẽ áp đảo graph 3,8:1** nếu tạo hết. Cần chốt ngưỡng ở Bước 2
-  (xem §5).
+  lấy từ tên file nên thiếu ngày ban hành và tình trạng hiệu lực.
+- **459 stub chưa suy được bậc thẩm quyền** — mã cơ quan lạ (`VBQPPL`, `PLIII`,
+  `TSC`…), phần lớn là mảnh vụn OCR. Bổ sung vào `norm._ORG_BY_CODE` nếu gặp mã
+  nào đáng kể.
+- **719 trích dẫn không nối được** vào node nào (12%) — dưới ngưỡng stub.
 
 ---
 
-## 5. Việc tiếp theo
+## 5. Chạy khối đánh giá §6
 
-### Bước 1 — cắt vùng (ưu tiên 1)
+> **Toàn bộ kết quả ghi vào `data/eval/`.** Không có gì chỉ hiện trên màn hình.
+> Chạy ở máy nào cũng được, xong **copy nguyên thư mục `data/eval/` về** là đọc
+> được đầy đủ. Code: `src/vanban/eval/`.
 
-Chia mỗi văn bản thành 4 vùng: header / phần `Căn cứ` / thân Điều-Khoản / điều
-khoản thi hành. **Không phải bước phụ**: vùng chính là tín hiệu phân loại quan
-hệ theo §5.4 — cùng một số hiệu, nằm trong `Căn cứ` thì là `BASED_ON`, nằm ở
-điều khoản thi hành cạnh chữ "thay thế" thì là `REPLACES`.
+### 5.0 Chuẩn bị trên máy sẽ chạy
 
-Dữ liệu ủng hộ: 439/460 file có `Căn cứ`, 426/460 có `Điều N.`
+```powershell
+git clone <repo> && cd PBL6
+pip install -r requirements.txt
 
-### Bước 2 — trích + resolve số hiệu (ưu tiên 2)
+# Kho text đã hiệu đính (~500 MB) và data/kg/ KHÔNG nằm trong git.
+# Copy hai thư mục này từ máy cũ sang:
+#   data/clean/text_clean_gemma/
+#   data/kg/                       (hoặc dựng lại bằng lệnh dưới)
 
-Tái dùng `_CITE` và `CitationIndex` có sẵn trong `src/vanban/normalize.py` —
-logic chuẩn hoá đã viết rồi, đừng viết lại. Resolve qua `norm.so_hieu_key`.
+# Dựng lại graph từ đầu nếu không copy data/kg — mất ~3 phút:
+python run.py kg all
 
-**Quyết định cần chốt trước khi code:** tạo stub cho tất cả 1.708 số hiệu lạ,
-hay chỉ cho 661 cái xuất hiện ≥2 lần? Đề xuất: chỉ ≥2 lần (hoặc nằm trong vùng
-`Căn cứ`), phần còn lại giữ dạng thuộc tính text để graph khỏi loãng.
+# Neo4j: bắt buộc cho §6.3–6.5, không cần cho §6.1–6.2 và §6.6–6.7
+docker run -d --name neo4j-pbl6 -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/12345678 neo4j:5
+pip install neo4j
+python run.py kg load --wipe
+```
 
-### Chạy song song — gold set (§6.1)
+### 5.1 Chạy một phát tất cả
 
-Ontology ghi rõ "làm sớm, gán song song". Đây là thứ **duy nhất bị ràng buộc bởi
-lịch người thật** (50–100 văn bản, 2 người gán độc lập, đo Cohen's κ), mà toàn
-bộ phần đánh giá của paper treo vào nó. Không nên đợi extractor xong mới bắt đầu.
+```powershell
+python run.py eval all
+```
 
-Việc cụ thể: chọn 50–100 văn bản đa dạng loại/cơ quan/thời kỳ → viết guideline
-gán → 2 người gán độc lập các quan hệ `BASED_ON` / `REFERENCES` / `REPLACES` /
-`AMENDS` / `REPEALS`, `SIGNED_BY`, `APPLIES_TO`.
+Chạy mọi thứ **chạy được lúc này**, bỏ qua êm phần còn thiếu đầu vào, rồi gom
+thành `data/eval/BAO_CAO.md`. Chạy lại bao nhiêu lần cũng được — phần người đã
+điền (phiếu gán, đáp án câu hỏi) không bị ghi đè.
+
+Mở `BAO_CAO.md` là thấy ngay phần nào đã có số, phần nào còn chờ người.
+
+### 5.2 Từng bước, nếu muốn chạy lẻ
+
+| Lệnh | Làm gì | Cần gì trước |
+|---|---|---|
+| `python run.py eval sample` | §6.1 — chọn gold set phân tầng, sinh phiếu gán | graph |
+| `python run.py eval kappa` | §6.1 — Cohen's κ giữa hai người gán | phiếu đã điền |
+| `python run.py eval extraction` | §6.2 — P/R/F1 từng loại quan hệ | phiếu đã điền |
+| `python run.py eval queries` | §6.3 — sinh 45 câu hỏi, tự điền đáp án nhóm metadata | Neo4j |
+| `python run.py eval retrieval` | §6.4–6.5 — chạy BM25 / KG / Hybrid, chấm điểm | Neo4j + `queries.csv` |
+| `python run.py eval errors` | §6.6–6.7 — ablation + phân tích lỗi | graph |
+| `python run.py eval report` | Gom số đo đã có thành `BAO_CAO.md` | — |
+
+### 5.3 File nào ra ở đâu
+
+```
+data/eval/
+├── BAO_CAO.md                 ← MỞ CÁI NÀY TRƯỚC. Gom mọi số đo, nói rõ phần nào còn thiếu
+│
+├── goldset/
+│   ├── huong_dan_gan.md       ← quy ước gán, ĐƯA CHO NGƯỜI GÁN ĐỌC
+│   ├── danh_sach.csv          ← 131 văn bản trong gold set, kèm tầng
+│   ├── phan_tang.json         ← seed + cỡ mẫu, để tái lập đúng y hệt
+│   ├── phieu_gan/*.csv        ← 131 phiếu, mỗi phiếu 1 văn bản  ← NGƯỜI ĐIỀN
+│   ├── nguoi_gan_1/*.csv      ← người thứ nhất chép phiếu đã điền vào đây
+│   ├── nguoi_gan_2/*.csv      ← người thứ hai
+│   └── he_thong.jsonl         ← nhãn máy, KHÔNG đưa cho người gán
+│
+├── queries.csv                ← 45 câu hỏi; cột DAP_AN  ← NGƯỜI ĐIỀN 31 câu
+│
+├── extraction.md              ← §6.1–6.2 đầy đủ + bảng bất đồng giữa hai người
+├── retrieval.md               ← §6.3–6.5 đầy đủ, tách theo nhóm câu hỏi
+├── ablation_va_loi.md         ← §6.6–6.7
+├── retrieval_runs.jsonl       ← kết quả thô từng câu × từng hệ, để soi lỗi
+└── *.json                     ← cùng số liệu, dạng máy đọc được
+```
+
+Ba file `.md` in đậm ở trên là thứ đọc trực tiếp được. Các file `.json` dành cho
+khi cần vẽ biểu đồ hoặc nhúng số vào paper.
+
+### 5.4 Hai chỗ máy không làm thay được
+
+**Gán gold set** — 131 phiếu trong `goldset/phieu_gan/`, tổng 1.746 dòng cần
+gán. Hai người gán độc lập, chép kết quả vào `nguoi_gan_1/` và `nguoi_gan_2/`.
+Đọc `goldset/huong_dan_gan.md` trước.
+
+Quy trình đúng theo §6.1: gán thử **20 văn bản đầu** → `eval kappa` → xem chỗ
+bất đồng (`extraction.md` có bảng liệt kê) → **sửa `huong_dan_gan.md`** → gán
+lại 20 cái đó → gán nốt phần còn lại.
+
+**Đáp án bộ câu hỏi** — 14/45 câu máy tự điền được (nhóm single-hop, đáp án suy
+thẳng từ metadata crawler nên không thiên lệch). **31 câu còn lại phải người
+điền** cột `DAP_AN` trong `queries.csv`, ngăn nhau bằng dấu `;`.
+
+Không tự sinh đáp án cho nhóm `multi-hop` và `hieu-luc` là **cố ý**: đáp án của
+chúng phụ thuộc vào chính những quan hệ đang được đem ra chấm, lấy graph làm
+đáp án rồi chấm graph là lập luận vòng tròn.
+
+### 5.5 Gold set được chọn thế nào, và vì sao không lấy hết
+
+Gán hết 448 văn bản = 9.962 trang × 2 người ≈ **224 giờ mỗi người**. Lấy 131 văn
+bản ≈ 1 tuần mỗi người.
+
+Nhưng bốc ngẫu nhiên 75 văn bản như §6.1 gợi ý thì hỏng ở nhóm hiếm: `REPEALS`
+chỉ có mặt ở 38/448 văn bản, bốc ngẫu nhiên chỉ bắt được **~9 thể hiện** — khoảng
+tin cậy 95% rộng ±20 điểm phần trăm, trong khi §6.2 lại yêu cầu báo cáo P/R/F1
+**riêng từng loại quan hệ**.
+
+Nên `eval sample` chia ba tầng:
+
+| Tầng | Cỡ | Chọn theo | Đo được gì |
+|---|---|---|---|
+| **A** | 71/166 | hệ thống có gán `REPLACES`/`AMENDS`/`REPEALS` | **precision** nhóm hiếm |
+| **B** | 30/88 | có trích dẫn trong điều khoản thi hành nhưng máy **im lặng** | **recall** — nơi false negative trú ngụ |
+| **C** | 30/194 | ngẫu nhiên toàn kho | ước lượng **không thiên lệch** |
+
+Tầng B là tầng quan trọng nhất và dễ bị bỏ quên nhất. Chỉ lấy mẫu ở chỗ máy đã
+gán (tầng A) thì mãi mãi chỉ biết "cái nó nói có đúng không", không bao giờ biết
+"nó bỏ sót bao nhiêu" — mà recall thấp đang là **nghi ngờ lớn nhất** với bộ trích
+xuất này (xem §3).
+
+Tầng B định nghĩa bằng **cấu trúc** (Bước 1: trích dẫn nằm trong điều khoản thi
+hành) chứ không bằng đầu ra Bước 3 — đó là điều kiện để nó không thiên lệch theo
+chính hệ thống đang bị chấm.
+
+Đổi cỡ mẫu: `python run.py eval sample --co-mau 71,30,30`. Cùng `--seed` thì
+cùng kết quả, chạy máy nào cũng vậy.
+
+### 5.6 Kết quả đã có sẵn (chưa cần người gán)
+
+Chạy `eval all` lần đầu đã cho ngay ba thứ:
+
+**§6.4 — ba hệ tìm kiếm** (trên 14 câu single-hop có đáp án tự sinh):
+
+| Hệ | P@5 | R@10 | MRR | nDCG@10 |
+|---|---|---|---|---|
+| BM25 | 0,586 | 0,162 | 0,729 | 0,659 |
+| KG | 1,000 | 0,294 | 1,000 | 1,000 |
+| Hybrid | 0,943 | 0,254 | 1,000 | 0,926 |
+
+KG thắng tuyệt đối ở nhóm này là **đúng như kỳ vọng, không phải kết quả đáng
+khoe**: câu hỏi single-hop hỏi thẳng vào metadata (cơ quan ban hành, lĩnh vực,
+tình trạng hiệu lực) — KG tra đúng thuộc tính, còn BM25 phải đoán qua tiêu đề.
+Chỗ đáng quan tâm là nhóm **multi-hop**, và nhóm đó chưa có đáp án.
+
+**§6.6 — ablation:** bỏ cắt vùng (Bước 1) mất **63% số cạnh**; bỏ stub mất
+**68,7%**. Riêng `-OCR` chưa đo được vì `data/raw/pdf/` đã bị xoá khỏi máy.
+
+**§6.7 — phân tích lỗi:** 342/354 văn bản (96,6%) có ít nhất một nhánh `BASED_ON`
+chết ở stub; `ablation_va_loi.md` liệt kê 15 văn bản nên crawl bổ sung, xếp theo
+số lần bị viện dẫn (`32/CP` 172 lần, `13/NQ-HĐĐH` 97 lần…).
+
+### 5.7 Mang kết quả về
+
+```powershell
+# trên máy chạy
+tar -czf eval.tar.gz data/eval/
+
+# về máy đọc — chỉ cần thư mục này, không cần gì khác
+tar -xzf eval.tar.gz
+```
+
+`data/eval/` nặng khoảng vài MB (trừ khi giữ `retrieval_runs.jsonl` của bộ câu
+hỏi lớn). **Nên commit `goldset/nguoi_gan_*/`** — đó là công sức người gán,
+dựng lại được bằng máy đâu.
 
 ---
 
@@ -214,7 +320,10 @@ gán → 2 người gán độc lập các quan hệ `BASED_ON` / `REFERENCES` /
 
 | Ngày | Việc |
 |---|---|
-| 27/08/2026 | **Bước 0 xong** — 450 `Document` + 14 `Organization` + 18 `Topic` ra `data/kg/*.jsonl`. Thêm gói `src/vanban/kg/`, nhóm lệnh `python run.py kg`, session `kg.db` riêng. Phát hiện 34 header lệch (có lỗi metadata thật) |
+| 03/09/2026 | **Khối đánh giá §6 có code** — gói `src/vanban/eval/`, lệnh `python run.py eval`. Sinh gold set phân tầng 3 tầng (131 VB / 1.746 ứng viên), bộ 45 câu hỏi, chạy BM25/KG/Hybrid, ablation + phân tích lỗi. Mọi kết quả ghi ra `data/eval/`. Sửa 2 lỗi thật lộ ra khi chạy: `kg load` nuốt 3 câu Cypher có dòng chú thích phía trên (mất full-text index `doc_text` → BM25 trả rỗng), và `split_so_hieu` tra bảng có dấu nên mọi stub `ND-CP` mất `documentType` (stub có bậc thẩm quyền: 342 → 693) |
+| 27/08/2026 | **Bước 2→5 xong** — 3.208 cạnh Document→Document, 178 `NormativeContent`, 9.518 `Article`; nạp Neo4j thành công (10.978 node / 14.120 cạnh). Sửa 3 lỗi gán nhầm chủ thể quan hệ hiệu lực, vá 1.554 lượt trích dẫn có số hiệu cụt |
+| 27/08/2026 | **Bước 1 xong** — cắt vùng 448 văn bản, tách 178 phần `NormativeContent`, 9.860 `Điều` |
+| 27/08/2026 | **Bước 0 xong** — 450 `Document` + 20 `Organization` + 18 `Topic`; phát hiện 34 header lệch (có lỗi metadata thật) |
 | 26/08/2026 | Hiệu đính Gemma xong 460/501, kết quả về `data/clean/text_clean_gemma/` |
 | 25/08/2026 | Chốt `rules/Ontology.md` v0.3 (Mức 3); vẽ `docs/kg_ontology.png`, `docs/kg_instance.png` |
 | 21/08/2026 | `normalize` xong 501/501 |

@@ -1,0 +1,105 @@
+{
+  "resolve": {
+    "trich_dan_khong_noi_duoc": 719,
+    "ty_le": 11.8,
+    "so_hieu_la": 719,
+    "trong_do_cut_duoi": 152
+  },
+  "stub": {
+    "tong": 794,
+    "van_ban_co_chuoi_based_on_chet_o_stub": 342,
+    "van_ban_co_based_on": 354,
+    "ty_le_chuoi_chet": 96.6,
+    "nen_crawl_bo_sung": [
+      {
+        "so_hieu": "32/CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 172
+      },
+      {
+        "so_hieu": "13/NQ-HDDH",
+        "loai": "Nghị quyết",
+        "so_lan_bi_vien_dan": 97
+      },
+      {
+        "so_hieu": "8/NQ-HDDH",
+        "loai": "Nghị quyết",
+        "so_lan_bi_vien_dan": 76
+      },
+      {
+        "so_hieu": "91/2026/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 61
+      },
+      {
+        "so_hieu": "2009/VBQPPLIQ",
+        "loai": "Công văn",
+        "so_lan_bi_vien_dan": 54
+      },
+      {
+        "so_hieu": "8/2014/TT-BGDDT",
+        "loai": "Thông tư",
+        "so_lan_bi_vien_dan": 35
+      },
+      {
+        "so_hieu": "85/2025/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 32
+      },
+      {
+        "so_hieu": "37/2025/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 31
+      },
+      {
+        "so_hieu": "8/2023/TT-BGDDT",
+        "loai": "Thông tư",
+        "so_lan_bi_vien_dan": 30
+      },
+      {
+        "so_hieu": "151/2017/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 29
+      },
+      {
+        "so_hieu": "85/2016/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 29
+      },
+      {
+        "so_hieu": "2/2022/TT-BGDDT",
+        "loai": "Thông tư",
+        "so_lan_bi_vien_dan": 28
+      },
+      {
+        "so_hieu": "204/2004/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 28
+      },
+      {
+        "so_hieu": "86/2022/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 28
+      },
+      {
+        "so_hieu": "24/2024/ND-CP",
+        "loai": "Nghị định",
+        "so_lan_bi_vien_dan": 26
+      }
+    ]
+  },
+  "header": {
+    "phan_bo": {
+      "gan-khop": 5,
+      "khong-co-file": 2,
+      "khong-thay": 28,
+      "khop": 381,
+      "lech": 34
+    },
+    "canh_sinh_tu_van_ban_header_lech": 465
+  },
+  "cau_truc": {
+    "so_hieu_trung_so_khac_nam": 115,
+    "van_ban_khong_co_dieu_nao": 33
+  }
+}

@@ -426,11 +426,202 @@ def cmd_kg_docs(args) -> int:
     return 0
 
 
-def cmd_kg_status(args) -> int:
-    from .kg import documents
+def cmd_kg_segment(args) -> int:
+    """Bước 1 — cắt vùng header / căn cứ / thân / ký + danh mục Điều."""
+
+    from .kg import segment
 
     session = _open_kg(args)
-    pipeline.say(documents.report(session))
+
+    if session.total() == 0:
+        pipeline.say("[KG] Bảng Document rỗng — chạy `python run.py kg docs` trước.")
+        session.close()
+        return 1
+
+    pipeline.install_signal_handler()
+
+    pipeline.say(
+        "\n[KG/1 CẮT VÙNG] Tách văn bản ban hành / nội dung kèm theo, "
+        "định vị Căn cứ và Điều"
+    )
+    pipeline.say("                Ctrl+C để dừng, chạy lại lệnh này để tiếp.\n")
+
+    tally = segment.run(session, limit=args.limit)
+
+    pipeline.say(f"\n  Lần chạy này: {tally or 'không có gì mới'}")
+
+    if not pipeline.STOP.is_set() and not args.no_export:
+        pipeline.say("\n[KG/1 XUẤT]")
+        segment.export(session)
+
+    pipeline.say(segment.report(session))
+
+    session.close()
+
+    return 0
+
+
+def cmd_kg_cite(args) -> int:
+    """Bước 2 — trích số hiệu trong thân văn bản, nối vào Document + stub."""
+
+    from .kg import citations
+
+    session = _open_kg(args)
+
+    pipeline.install_signal_handler()
+    pipeline.say(
+        "\n[KG/2 TRÍCH DẪN] Quét số hiệu, tra vùng chứa, nối vào Document\n"
+        "                 Ctrl+C để dừng, chạy lại lệnh này để tiếp.\n"
+    )
+
+    tally = citations.run(session, limit=args.limit)
+
+    pipeline.say(f"\n  Lần chạy này: {tally or 'không có gì mới'}")
+    pipeline.say(citations.report(session))
+
+    session.close()
+
+    return 0
+
+
+def cmd_kg_rel(args) -> int:
+    """Bước 3 — phân loại quan hệ BASED_ON / REPLACES / AMENDS / REPEALS."""
+
+    from .kg import relations
+
+    session = _open_kg(args)
+
+    pipeline.install_signal_handler()
+    pipeline.say("\n[KG/3 QUAN HỆ] Phân loại trích dẫn theo vùng + từ khoá\n")
+
+    if args.again:
+        with session._lock:  # noqa: SLF001
+            n = session._conn.execute(  # noqa: SLF001
+                "UPDATE citations SET relation = NULL, trigger = NULL"
+            ).rowcount
+            session._conn.commit()  # noqa: SLF001
+
+        pipeline.say(f"  Đã xoá nhãn cũ của {n:,} trích dẫn, phân loại lại.\n")
+
+    tally = relations.run(session, limit=args.limit)
+
+    pipeline.say(f"\n  Lần chạy này: {tally or 'không có gì mới'}")
+
+    if not pipeline.STOP.is_set() and not args.no_export:
+        pipeline.say("\n[KG/3 XUẤT]")
+        relations.export(session)
+
+    pipeline.say(relations.report(session))
+
+    session.close()
+
+    return 0
+
+
+def cmd_kg_art(args) -> int:
+    """Bước 4 — NormativeContent (§2.6) + Article (§2.7)."""
+
+    from .kg import normative
+
+    session = _open_kg(args)
+
+    pipeline.install_signal_handler()
+    pipeline.say("\n[KG/4 NỘI DUNG + ĐIỀU] Dựng NormativeContent và Article\n")
+
+    tally = normative.run(session, limit=args.limit)
+
+    pipeline.say(f"\n  Lần chạy này: {tally or 'không có gì mới'}")
+
+    if not pipeline.STOP.is_set() and not args.no_export:
+        pipeline.say("\n[KG/4 XUẤT]")
+        normative.export(session)
+
+    pipeline.say(normative.report(session))
+
+    session.close()
+
+    return 0
+
+
+def cmd_kg_load(args) -> int:
+    """Bước 5 — nạp graph vào Neo4j."""
+
+    from .kg import neo4j_load
+
+    pipeline.say("\n[KG/5 NEO4J]")
+
+    out = Path(args.output) if args.output else None
+    neo4j_load.write_cypher_files(out)
+
+    if args.cypher_only:
+        return 0
+
+    try:
+        neo4j_load.load(
+            uri=args.uri,
+            user=args.user,
+            password=args.password,
+            out_dir=out,
+            wipe=args.wipe,
+        )
+    except Exception as exc:
+        pipeline.say(
+            f"\n  Không nạp được vào Neo4j: {str(exc)[:200]}"
+            f"\n\n  Cần một Neo4j đang chạy. Nhanh nhất:"
+            "\n    docker run -d --name neo4j -p 7474:7474 -p 7687:7687 \\"
+            "\n        -e NEO4J_AUTH=neo4j/12345678 neo4j:5"
+            "\n\n  Rồi chạy lại: python run.py kg load"
+            "\n  Hoặc mở data/kg/schema.cypher + queries.cypher chạy tay trong"
+            " Neo4j Browser.\n"
+        )
+
+        return 1
+
+    pipeline.say("\n  Xong. Mở http://localhost:7474 và thử data/kg/queries.cypher\n")
+
+    return 0
+
+
+def cmd_kg_all(args) -> int:
+    """Chạy tuần tự Bước 0 -> 4 (không nạp Neo4j)."""
+
+    steps = (
+        ("0 DOCS", cmd_kg_docs),
+        ("1 SEGMENT", cmd_kg_segment),
+        ("2 CITE", cmd_kg_cite),
+        ("3 REL", cmd_kg_rel),
+        ("4 ART", cmd_kg_art),
+    )
+
+    for label, func in steps:
+        if pipeline.STOP.is_set():
+            pipeline.say(f"\nDừng trước bước {label}. Chạy lại để tiếp.")
+            return 130
+
+        pipeline.say(f"\n{'#' * 62}\n# BƯỚC {label}\n{'#' * 62}")
+
+        code = func(args)
+
+        if code:
+            return code
+
+    # Bước 0 xuất `documents.jsonl` khi chưa có stub nào (stub do Bước 2 sinh
+    # ra). Xuất lại lần cuối để file trên đĩa khớp với DB.
+    if not args.no_export:
+        pipeline.say(f"\n{'#' * 62}\n# XUẤT LẠI (gồm cả stub của Bước 2)\n{'#' * 62}")
+        cmd_kg_export(args)
+
+    return 0
+
+
+def cmd_kg_status(args) -> int:
+    from .kg import citations, documents, normative, relations, segment
+
+    session = _open_kg(args)
+
+    for module in (documents, segment, citations, relations, normative):
+        pipeline.say(module.report(session))
+
     session.close()
 
     return 0
@@ -468,12 +659,18 @@ def cmd_kg_review(args) -> int:
 
 
 def cmd_kg_export(args) -> int:
-    from .kg import documents
+    from .kg import documents, segment
 
     session = _open_kg(args)
+    out = Path(args.output) if args.output else None
 
-    pipeline.say("\n[KG XUẤT NODE]")
-    documents.export(session, Path(args.output) if args.output else None)
+    pipeline.say("\n[KG XUẤT]")
+    documents.export(session, out)
+
+    segment.ensure_schema(session)
+
+    if session.counts("seg_status").get("done"):
+        segment.export(session, out)
 
     session.close()
 
@@ -489,6 +686,74 @@ def cmd_kg_reset(args) -> int:
     pipeline.say(f"Đã đặt lại {n} bản ghi ({scope}) ở bước '{args.stage}'.")
 
     session.close()
+
+    return 0
+
+
+# ============================================================
+# ĐÁNH GIÁ (§6 Ontology)
+# ============================================================
+
+def cmd_eval(args) -> int:
+    """Khối đánh giá §6 — mọi kết quả ghi ra data/eval/."""
+
+    from .eval import errors as eval_errors
+    from .eval import extraction as eval_extraction
+    from .eval import runner
+
+    session = _open_kg(args)
+
+    if session.total() == 0:
+        pipeline.say("[EVAL] Chưa có graph — chạy `python run.py kg all` trước.")
+        session.close()
+        return 1
+
+    viec = args.eval_command
+    out = Path(args.output) if args.output else config.EVAL_DIR
+
+    try:
+        if viec == "all":
+            return runner.chay_tat_ca(session, args)
+
+        if viec == "sample":
+            pipeline.say("\n[EVAL/6.1] Chọn gold set phân tầng + sinh phiếu gán")
+            runner.sample(session, args)
+
+        elif viec == "kappa":
+            pipeline.say("\n[EVAL/6.1] Đồng thuận giữa hai người gán")
+            eval_extraction.xuat(out, out / "goldset")
+
+        elif viec == "extraction":
+            pipeline.say("\n[EVAL/6.2] P/R/F1 từng loại quan hệ")
+            eval_extraction.xuat(out, out / "goldset")
+
+        elif viec == "queries":
+            pipeline.say("\n[EVAL/6.3] Sinh bộ câu hỏi")
+            kq = runner.queries(args)
+
+            if "loi" in kq:
+                pipeline.say(f"  {kq['loi']}")
+                return 1
+
+        elif viec == "retrieval":
+            pipeline.say("\n[EVAL/6.4-6.5] BM25 / KG / Hybrid")
+            kq = runner.run_retrieval(args)
+
+            if "loi" in kq:
+                pipeline.say(f"  {kq['loi']}")
+                return 1
+
+        elif viec == "errors":
+            pipeline.say("\n[EVAL/6.6-6.7] Ablation + phân tích lỗi")
+            eval_errors.xuat(session, out)
+
+        elif viec == "report":
+            path = runner.bao_cao(session, out)
+            pipeline.say(f"\n  {path}")
+
+        pipeline.say("")
+    finally:
+        session.close()
 
     return 0
 
@@ -662,6 +927,44 @@ def build_parser() -> argparse.ArgumentParser:
     p_health = subparsers.add_parser("health", help="Kiểm tra API OCR + key Gemini")
     p_health.set_defaults(func=cmd_health)
 
+    # ---- đánh giá §6 ----
+    p_eval = subparsers.add_parser(
+        "eval", help="Khối đánh giá §6 — kết quả ghi ra data/eval/"
+    )
+    eval_sub = p_eval.add_subparsers(dest="eval_command", required=True)
+
+    viec = {
+        "all": "Chạy mọi thứ chạy được + gom BAO_CAO.md",
+        "sample": "§6.1 — chọn gold set phân tầng, sinh phiếu gán",
+        "kappa": "§6.1 — Cohen's κ giữa hai người gán",
+        "extraction": "§6.2 — P/R/F1 từng loại quan hệ",
+        "queries": "§6.3 — sinh bộ câu hỏi (tự điền đáp án nhóm metadata)",
+        "retrieval": "§6.4–6.5 — chạy BM25 / KG / Hybrid và chấm điểm",
+        "errors": "§6.6–6.7 — ablation + phân tích lỗi",
+        "report": "Gom số đo đã có thành data/eval/BAO_CAO.md",
+    }
+
+    for ten, mo_ta in viec.items():
+        sp = eval_sub.add_parser(ten, help=mo_ta)
+        sp.add_argument("-o", "--output", help=f"Thư mục đích (mặc định {config.EVAL_DIR})")
+
+        if ten in ("all", "sample"):
+            sp.add_argument(
+                "--co-mau",
+                help="Cỡ ba tầng A,B,C — mặc định 71,30,30 (xem eval/goldset.py)",
+            )
+            sp.add_argument("--seed", type=int, default=20260827)
+
+        if ten in ("all", "queries"):
+            sp.add_argument("--so-cau", type=int, default=45, help="Số câu hỏi")
+            sp.add_argument(
+                "--lam-lai",
+                action="store_true",
+                help="Sinh lại bộ câu hỏi, XOÁ đáp án người đã điền",
+            )
+
+        sp.set_defaults(func=cmd_eval)
+
     # ---- knowledge graph ----
     p_kg = subparsers.add_parser(
         "kg", help="Xây knowledge graph từ text đã hiệu đính (rules/Ontology.md)"
@@ -685,6 +988,68 @@ def build_parser() -> argparse.ArgumentParser:
         "--no-export", action="store_true", help="Không ghi data/kg/*.jsonl"
     )
     p_kg_docs.set_defaults(func=cmd_kg_docs)
+
+    p_kg_seg = kg_sub.add_parser(
+        "segment", help="Bước 1 — cắt vùng + danh mục Điều (chạy sau `kg docs`)"
+    )
+    p_kg_seg.add_argument("--limit", type=int, help="Chỉ xử lý N văn bản (chạy thử)")
+    p_kg_seg.add_argument(
+        "--no-export", action="store_true", help="Không ghi data/kg/segments.jsonl"
+    )
+    p_kg_seg.set_defaults(func=cmd_kg_segment)
+
+    p_kg_cite = kg_sub.add_parser(
+        "cite", help="Bước 2 — trích số hiệu, nối vào Document, tạo stub"
+    )
+    p_kg_cite.add_argument("--limit", type=int, help="Chỉ xử lý N văn bản")
+    p_kg_cite.set_defaults(func=cmd_kg_cite)
+
+    p_kg_rel = kg_sub.add_parser(
+        "rel", help="Bước 3 — phân loại BASED_ON / REPLACES / AMENDS / REPEALS"
+    )
+    p_kg_rel.add_argument("--limit", type=int, help="Chỉ xử lý N trích dẫn")
+    p_kg_rel.add_argument(
+        "--again",
+        action="store_true",
+        help="Xoá nhãn cũ, phân loại lại toàn bộ (dùng khi sửa luật phân loại)",
+    )
+    p_kg_rel.add_argument(
+        "--no-export", action="store_true", help="Không ghi data/kg/relations.jsonl"
+    )
+    p_kg_rel.set_defaults(func=cmd_kg_rel)
+
+    p_kg_art = kg_sub.add_parser(
+        "art", help="Bước 4 — NormativeContent (§2.6) + Article (§2.7)"
+    )
+    p_kg_art.add_argument("--limit", type=int, help="Chỉ xử lý N văn bản")
+    p_kg_art.add_argument("--no-export", action="store_true")
+    p_kg_art.set_defaults(func=cmd_kg_art)
+
+    p_kg_load = kg_sub.add_parser("load", help="Bước 5 — nạp graph vào Neo4j")
+    p_kg_load.add_argument("--uri", help=f"Mặc định {config.NEO4J_URI}")
+    p_kg_load.add_argument("--user", help=f"Mặc định {config.NEO4J_USER}")
+    p_kg_load.add_argument("--password", help="Mặc định lấy từ .env")
+    p_kg_load.add_argument("-o", "--output", help="Thư mục chứa data/kg/*.jsonl")
+    p_kg_load.add_argument(
+        "--wipe", action="store_true", help="Xoá sạch graph cũ trước khi nạp"
+    )
+    p_kg_load.add_argument(
+        "--cypher-only",
+        action="store_true",
+        help="Chỉ sinh schema.cypher + queries.cypher, không kết nối Neo4j",
+    )
+    p_kg_load.set_defaults(func=cmd_kg_load)
+
+    p_kg_all = kg_sub.add_parser(
+        "all", help="Chạy tuần tự Bước 0 -> 4 (không nạp Neo4j)"
+    )
+    p_kg_all.add_argument("--limit", type=int)
+    p_kg_all.add_argument("--corpus")
+    p_kg_all.add_argument("--rebuild", action="store_true")
+    p_kg_all.add_argument("--no-export", action="store_true")
+    p_kg_all.add_argument("--again", action="store_true")
+    p_kg_all.add_argument("-o", "--output", help="Thư mục xuất data/kg")
+    p_kg_all.set_defaults(func=cmd_kg_all)
 
     p_kg_status = kg_sub.add_parser("status", help="Xem tiến độ xây graph")
     p_kg_status.set_defaults(func=cmd_kg_status)
