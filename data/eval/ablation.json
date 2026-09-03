@@ -1,28 +1,28 @@
 {
   "day_du": {
-    "canh": 3208,
-    "trong_do_hieu_luc": 167,
-    "trong_do_based_on": 1853
+    "canh": 3231,
+    "trong_do_hieu_luc": 169,
+    "trong_do_based_on": 1862
   },
   "bo_cat_vung": {
-    "canh_phan_loai_duoc": 1188,
-    "mat": 2020,
-    "mat_phan_tram": 63.0,
+    "canh_phan_loai_duoc": 1200,
+    "mat": 2031,
+    "mat_phan_tram": 62.9,
     "y_nghia": "Không có Bước 1 thì BASED_ON và ba quan hệ hiệu lực đều không phân biệt được — sụp hết về REFERENCES."
   },
   "bo_quan_he_hieu_luc": {
-    "canh_mat": 167,
+    "canh_mat": 169,
     "y_nghia": "Mất khả năng trả lời 'văn bản nào đang còn hiệu lực' và 'cái gì thay thế cái gì'."
   },
   "bo_stub": {
-    "canh_con_lai": 1004,
-    "mat": 2204,
-    "mat_phan_tram": 68.7,
+    "canh_con_lai": 1015,
+    "mat": 2216,
+    "mat_phan_tram": 68.6,
     "y_nghia": "Chuỗi BASED_ON đứt ở mọi văn bản chưa crawl — đúng chỗ §3 cần để truy lên văn bản gốc thẩm quyền cao nhất."
   },
   "bo_authority_level": {
-    "node_mat_xep_hang": 101,
-    "node_con_xep_hang": 1143,
+    "node_mat_xep_hang": 107,
+    "node_con_xep_hang": 1141,
     "y_nghia": "Truy vấn §3 `ORDER BY authority_level DESC` không còn sắp được thứ tự văn bản gốc."
   },
   "khong_do_duoc": {

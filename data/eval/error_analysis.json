@@ -1,14 +1,14 @@
 {
   "resolve": {
-    "trich_dan_khong_noi_duoc": 719,
-    "ty_le": 11.8,
-    "so_hieu_la": 719,
-    "trong_do_cut_duoi": 152
+    "trich_dan_khong_noi_duoc": 717,
+    "ty_le": 11.7,
+    "so_hieu_la": 717,
+    "trong_do_cut_duoi": 151
   },
   "stub": {
-    "tong": 794,
-    "van_ban_co_chuoi_based_on_chet_o_stub": 342,
-    "van_ban_co_based_on": 354,
+    "tong": 796,
+    "van_ban_co_chuoi_based_on_chet_o_stub": 344,
+    "van_ban_co_based_on": 356,
     "ty_le_chuoi_chet": 96.6,
     "nen_crawl_bo_sung": [
       {
@@ -90,7 +90,7 @@
   },
   "header": {
     "phan_bo": {
-      "gan-khop": 5,
+      "gan-khop": 7,
       "khong-co-file": 2,
       "khong-thay": 28,
       "khop": 381,
@@ -99,7 +99,7 @@
     "canh_sinh_tu_van_ban_header_lech": 465
   },
   "cau_truc": {
-    "so_hieu_trung_so_khac_nam": 115,
+    "so_hieu_trung_so_khac_nam": 116,
     "van_ban_khong_co_dieu_nao": 33
   }
 }

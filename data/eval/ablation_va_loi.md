@@ -2,14 +2,14 @@
 
 ## Ablation
 
-Graph đầy đủ: **3,208 cạnh** (1,853 `BASED_ON`, 167 quan hệ hiệu lực).
+Graph đầy đủ: **3,231 cạnh** (1,862 `BASED_ON`, 169 quan hệ hiệu lực).
 
 | Bỏ thành phần | Hậu quả | Mất |
 |---|---|---|
-| Cắt vùng (Bước 1) | Không có Bước 1 thì BASED_ON và ba quan hệ hiệu lực đều không phân biệt được — sụp hết về REFERENCES. | **2,020 cạnh (63.0%)** |
-| Quan hệ hiệu lực | Mất khả năng trả lời 'văn bản nào đang còn hiệu lực' và 'cái gì thay thế cái gì'. | 167 cạnh |
-| Stub (§1) | Chuỗi BASED_ON đứt ở mọi văn bản chưa crawl — đúng chỗ §3 cần để truy lên văn bản gốc thẩm quyền cao nhất. | 2,204 cạnh (68.7%) |
-| `authority_level` (§3) | Truy vấn §3 `ORDER BY authority_level DESC` không còn sắp được thứ tự văn bản gốc. | 101 node |
+| Cắt vùng (Bước 1) | Không có Bước 1 thì BASED_ON và ba quan hệ hiệu lực đều không phân biệt được — sụp hết về REFERENCES. | **2,031 cạnh (62.9%)** |
+| Quan hệ hiệu lực | Mất khả năng trả lời 'văn bản nào đang còn hiệu lực' và 'cái gì thay thế cái gì'. | 169 cạnh |
+| Stub (§1) | Chuỗi BASED_ON đứt ở mọi văn bản chưa crawl — đúng chỗ §3 cần để truy lên văn bản gốc thẩm quyền cao nhất. | 2,216 cạnh (68.6%) |
+| `authority_level` (§3) | Truy vấn §3 `ORDER BY authority_level DESC` không còn sắp được thứ tự văn bản gốc. | 107 node |
 
 **Chưa đo được:**
 
@@ -22,7 +22,7 @@ Graph đầy đủ: **3,208 cạnh** (1,853 `BASED_ON`, 167 quan hệ hiệu l�
 
 ### Resolve — trích dẫn không nối được vào node nào
 
-**719** lượt / 719 số hiệu phân biệt (11.8% tổng số trích dẫn), trong đó **152** là số hiệu **cụt đuôi** (mất phần `-CP`, `-BGDĐT`… do OCR hoặc xuống dòng).
+**717** lượt / 717 số hiệu phân biệt (11.7% tổng số trích dẫn), trong đó **151** là số hiệu **cụt đuôi** (mất phần `-CP`, `-BGDĐT`… do OCR hoặc xuống dòng).
 
 > Toàn bộ nhóm này gần như đều chỉ xuất hiện **đúng một lần** — đó là
 > hệ quả tất yếu của ngưỡng tạo stub (≥2 lần **hoặc** nằm trong vùng
@@ -31,7 +31,7 @@ Graph đầy đủ: **3,208 cạnh** (1,853 `BASED_ON`, 167 quan hệ hiệu l�
 
 ### Chuỗi `BASED_ON` chết ở stub
 
-**342/354** văn bản (96.6%) có ít nhất một nhánh căn cứ dừng lại ở một stub — tức truy ngược lên văn bản gốc thẩm quyền cao nhất (§3) bị đứt giữa chừng.
+**344/356** văn bản (96.6%) có ít nhất một nhánh căn cứ dừng lại ở một stub — tức truy ngược lên văn bản gốc thẩm quyền cao nhất (§3) bị đứt giữa chừng.
 
 Crawl bổ sung 15 văn bản dưới đây sẽ nối lại nhiều nhánh nhất:
 
@@ -60,12 +60,12 @@ Crawl bổ sung 15 văn bản dưới đây sẽ nối lại nhiều nhánh nh�
 | `khop` | 381 |
 | `lech` | 34 |
 | `khong-thay` | 28 |
-| `gan-khop` | 5 |
+| `gan-khop` | 7 |
 | `khong-co-file` | 2 |
 
 **465 cạnh** xuất phát từ văn bản có header lệch metadata — mỗi cạnh đó mang sẵn cờ `source_header_check: "lech"` trong `relations.jsonl` để lọc ra.
 
 ### Cấu trúc
 
-- 115 nhóm văn bản **trùng cả số lẫn cơ quan, chỉ khác năm** (`8/2014/TT-BGDĐT` vs `8/2020/TT-BGDĐT`) — đúng nguồn resolve sai mà §6.7 nêu đích danh. Trích dẫn nào mất phần năm do OCR là có nguy cơ nối nhầm sang đây.
+- 116 nhóm văn bản **trùng cả số lẫn cơ quan, chỉ khác năm** (`8/2014/TT-BGDĐT` vs `8/2020/TT-BGDĐT`) — đúng nguồn resolve sai mà §6.7 nêu đích danh. Trích dẫn nào mất phần năm do OCR là có nguy cơ nối nhầm sang đây.
 - 33 văn bản không đọc ra `Điều` nào → Bước 4 không sinh được `Article`.

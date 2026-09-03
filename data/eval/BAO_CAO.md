@@ -1,6 +1,6 @@
 # Báo cáo đánh giá — KG Văn bản pháp quy DUT/ĐHĐN
 
-> Sinh tự động lúc 03/09/2026 11:18 bởi `python run.py eval all`
+> Sinh tự động lúc 03/09/2026 11:40 bởi `python run.py eval all`
 > Đặc tả: [rules/Ontology.md](../../rules/Ontology.md) §6
 
 ## Tình trạng từng phần
@@ -34,7 +34,7 @@
 
 ## §6.6 — Ablation
 
-Graph đầy đủ 3,208 cạnh. Bỏ cắt vùng mất **63.0%**, bỏ stub mất **68.7%**.
+Graph đầy đủ 3,231 cạnh. Bỏ cắt vùng mất **62.9%**, bỏ stub mất **68.6%**.
 
 ## File chi tiết
 
