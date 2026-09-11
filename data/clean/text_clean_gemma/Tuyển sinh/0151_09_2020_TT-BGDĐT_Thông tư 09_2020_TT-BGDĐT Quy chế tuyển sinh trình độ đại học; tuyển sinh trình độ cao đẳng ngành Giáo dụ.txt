@@ -645,7 +645,7 @@ Số nhập học
 
 1.
 
-Khối ngành/ Nhóm ngành I*
+Khối ngành/ Nhóm ngành I
 - Ngành 1
 Tổ hợp 1: 
 Tổ hợp 2:
@@ -682,7 +682,7 @@ Khối ngành VII
 
 Tổng
 
-- Khối ngành/ Nhóm ngành I*: Kê khai theo ngành
+- Khối ngành/ Nhóm ngành I: Kê khai theo ngành
 - Nếu tuyển sinh năm 2020 thì “Năm tuyển sinh -2”: là năm tuyển sinh 2018; “Năm tuyển sinh -1”: là năm tuyển sinh 2019
 II. Thông tin về các điều kiện đảm bảo chất lượng
 1. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:
