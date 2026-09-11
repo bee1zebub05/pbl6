@@ -1208,7 +1208,6 @@ Cơ quan trung ương của các đoàn thể; Cổng7
 VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ TTĐT,
 các Vụ; Cục, đơn vị trực thuộc, Công báo;
 Lưu: VT, TCCV (2) Al
-#
 1
 g
 E
@@ -1291,7 +1290,6 @@ Cha, mẹ đẻ; vợ
 5. Tích dấu X vào ô tương ứng
 8
 1
-#
 1
 g
 E

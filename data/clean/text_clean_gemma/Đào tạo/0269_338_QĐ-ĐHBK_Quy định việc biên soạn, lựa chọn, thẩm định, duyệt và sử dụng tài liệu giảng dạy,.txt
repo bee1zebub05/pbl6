@@ -1854,7 +1854,7 @@ B.5. Điểm đánh giá chung:
 | 5 | Nội dung các bước thí nghiệm của mỗi bài thí nghiệm và báo cáo xử lý, phân tích số liệu | 20 | |
 | | Cộng: | 100 | |
 
-# Không đạt nếu: a/ Có điểm đánh giá tiêu chí 1 ở mức <15; hoặc b/ Có điểm trung bình các tiêu chí dưới 80; hoặc c/ Có ít nhất 01 bài thực hành không đạt yêu cầu.
+Không đạt nếu: a/ Có điểm đánh giá tiêu chí 1 ở mức <15; hoặc b/ Có điểm trung bình các tiêu chí dưới 80; hoặc c/ Có ít nhất 01 bài thực hành không đạt yêu cầu.
 
 B.5. Ý kiến khác (nếu có): ....................................................................................................................
 ......................................................................................................................................................
@@ -3080,7 +3080,7 @@ B.5. Điểm đánh giá chung:
 | 3 | Nội dung trích dẫn phù hợp, đúng quy định | 20 | |
 | Cộng: | 100 | |
 
-# Không đạt nếu rơi vào ít nhất 1 trong 3 trường hợp: a/ Có điểm đánh giá tiêu chí 1 ở mức <25; hoặc b/ Có điểm đánh giá tiêu chí 2 ở mức <45; hoặc c/Có điểm trung bình các tiêu chí dưới 80.
+Không đạt nếu rơi vào ít nhất 1 trong 3 trường hợp: a/ Có điểm đánh giá tiêu chí 1 ở mức <25; hoặc b/ Có điểm đánh giá tiêu chí 2 ở mức <45; hoặc c/Có điểm trung bình các tiêu chí dưới 80.
 
 Ý kiến khác (nếu có): ........................................................................................................................................
 ........................................................................................................................................................................
