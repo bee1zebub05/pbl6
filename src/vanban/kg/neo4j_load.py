@@ -43,6 +43,8 @@ CREATE CONSTRAINT content_key IF NOT EXISTS
   FOR (c:NormativeContent) REQUIRE c.contentId IS UNIQUE;
 CREATE CONSTRAINT article_key IF NOT EXISTS
   FOR (a:Article) REQUIRE a.articleId IS UNIQUE;
+CREATE CONSTRAINT person_key IF NOT EXISTS
+  FOR (p:Person) REQUIRE p.personId IS UNIQUE;
 
 // --- Chỉ mục cho truy vấn hay dùng ---
 CREATE INDEX doc_status IF NOT EXISTS FOR (d:Document) ON (d.status);
@@ -257,6 +259,46 @@ LOADERS: tuple[tuple[str, str, str], ...] = (
         MATCH (a:Article {articleId: row.articleId})
         MATCH (d:Document {so_hieu_norm: row.parentId})
         MERGE (d)-[:HAS_ARTICLE]->(a)
+        """,
+    ),
+    # --- Person + MENTIONS: do `scripts/xuat_person_donvi.py` sinh ra ---------
+    # Ba file dưới là TUỲ CHỌN. Vòng nạp bỏ qua file không tồn tại, nên chưa
+    # chạy script đó thì `kg load` vẫn chạy đúng như trước, không lỗi.
+    (
+        "persons.jsonl",
+        "Person",
+        """
+        UNWIND $rows AS row
+        MERGE (p:Person {personId: row.personId})
+        SET p.fullName = row.fullName,
+            p.position = row.position,
+            p.academicTitle = row.academicTitle,
+            p.so_van_ban = row.so_van_ban
+        """,
+    ),
+    (
+        "signed_by.jsonl",
+        "SIGNED_BY",
+        """
+        UNWIND $rows AS row
+        MATCH (d:Document {so_hieu_norm: row.so_hieu_norm})
+        MATCH (p:Person {personId: row.personId})
+        MERGE (d)-[:SIGNED_BY]->(p)
+        """,
+    ),
+    # Đơn vị được NHẮC TỚI trong thân văn bản. Dùng `MERGE` chứ không `MATCH`
+    # cho Organization: phần lớn Khoa/Phòng chưa từng ban hành văn bản nào
+    # trong kho nên chưa có node — `MATCH` thì rơi hết, không tạo được cạnh nào.
+    (
+        "mentions.jsonl",
+        "MENTIONS",
+        """
+        UNWIND $rows AS row
+        MATCH (d:Document {so_hieu_norm: row.so_hieu_norm})
+        MERGE (o:Organization {orgId: row.orgId})
+        ON CREATE SET o.name = row.name, o.orgType = row.orgType
+        MERGE (d)-[m:MENTIONS]->(o)
+        SET m.so_lan = row.so_lan
         """,
     ),
 )

@@ -214,7 +214,9 @@ c2.metric("Stub", f"{len(van_ban) - len(that):,}")
 c3.metric("Quan hệ", f"{len(canh):,}")
 c4.metric("Đang lọc", f"{len(lo):,}")
 
-tab1, tab2, tab3 = st.tabs(["Đồ thị", "Vùng lân cận", "Chuỗi hiệu lực"])
+tab1, tab2, tab3, tab4 = st.tabs(
+    ["Đồ thị", "Vùng lân cận", "Chuỗi hiệu lực", "Người ký & đơn vị"]
+)
 
 with tab1:
     if len(lo) > toi_da:
@@ -279,3 +281,62 @@ with tab3:
         )
     else:
         st.info("Chưa có quan hệ hiệu lực nào trong graph.")
+
+with tab4:
+    # Hai phần này chỉ có khi đã chạy `python scripts/xuat_person_donvi.py`
+    # rồi `python run.py kg load`. Chưa chạy thì graph không có Person /
+    # MENTIONS — nói thẳng ra lệnh cần chạy, đừng để tab trống không hiểu vì sao.
+    ky = hoi(
+        """
+        MATCH (p:Person)<-[:SIGNED_BY]-(d:Document)
+        OPTIONAL MATCH (d)-[:HAS_TOPIC]->(t:Topic)
+        RETURN p.fullName AS ho_ten,
+               p.position AS chuc_danh,
+               p.academicTitle AS hoc_ham,
+               count(DISTINCT d) AS so_van_ban,
+               collect(DISTINCT t.name)[..4] AS linh_vuc
+        ORDER BY so_van_ban DESC
+        """
+    )
+
+    dv = hoi(
+        """
+        MATCH (o:Organization)<-[m:MENTIONS]-(d:Document)
+        RETURN o.name AS don_vi, o.orgType AS loai,
+               count(DISTINCT d) AS so_van_ban, sum(m.so_lan) AS so_lan_nhac
+        ORDER BY so_van_ban DESC
+        """
+    )
+
+    if not ky and not dv:
+        st.info(
+            "Graph chưa có `Person` và `MENTIONS`. Sinh rồi nạp:\n\n"
+            "```\n"
+            "python scripts/xuat_person_donvi.py\n"
+            "python run.py kg load\n"
+            "```"
+        )
+    else:
+        a, b = st.columns(2)
+
+        a.write(f"**{len(ky)} người ký**")
+        a.dataframe(
+            [{"Họ tên": r["ho_ten"],
+              "Học hàm": r["hoc_ham"] or "",
+              "Chức danh": ", ".join(r["chuc_danh"] or []),
+              "Số VB": r["so_van_ban"],
+              "Lĩnh vực": ", ".join(r["linh_vuc"] or [])} for r in ky],
+            use_container_width=True, height=460,
+        )
+
+        b.write(f"**{len(dv)} đơn vị được nhắc tới trong thân văn bản**")
+        b.dataframe(
+            [{"Đơn vị": r["don_vi"], "Loại": r["loai"],
+              "Số VB": r["so_van_ban"], "Số lần nhắc": r["so_lan_nhac"]} for r in dv],
+            use_container_width=True, height=460,
+        )
+
+        st.caption(
+            "Đơn vị ở đây là đơn vị được NHẮC TỚI trong nội dung (`MENTIONS`), "
+            "khác với đơn vị BAN HÀNH (`ISSUED_BY`) suy từ số hiệu."
+        )
