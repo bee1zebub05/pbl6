@@ -17,3 +17,9 @@ easyocr>=1.7.0
 # --- knowledge graph ---
 # Chỉ cần cho `python run.py kg load`. Các bước kg khác không dùng tới.
 neo4j>=5.0
+
+# --- app trực quan hoá graph (scripts/app_do_thi.py) ---
+# Chỉ cần cho app này; các bước khác của pipeline không dùng tới.
+streamlit>=1.30
+pyvis>=0.3.2
+networkx>=3.0
