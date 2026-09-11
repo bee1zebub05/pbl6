@@ -77,6 +77,34 @@ class GeminiError(RuntimeError):
     pass
 
 
+class RecitationError(GeminiError):
+    """Model CHẶN đầu ra vì nhận ra nội dung trùng dữ liệu huấn luyện.
+
+    Đây không phải lỗi tạm thời, cũng không phải lỗi cấu hình. Văn bản quy phạm
+    pháp luật công khai rất dễ trùng, nên gặp thường xuyên trên kho này.
+
+    Phân biệt với các kiểu rỗng khác là việc bắt buộc, vì cách chữa NGƯỢC nhau:
+
+        rỗng do thinking tiêu hết token -> hạ cấu hình (tắt thinking)
+        rỗng do RECITATION             -> hạ cấu hình VÔ ÍCH, phải CHIA NHỎ
+
+    Gộp chung hai cái này gây hai thiệt hại cùng lúc: khối văn bản bị bỏ qua
+    không sửa, và `_variant` (biến dùng chung cho mọi khối về sau) bị hạ oan
+    xuống mức thấp hơn trong khi cấu hình vốn không có lỗi gì.
+    """
+
+
+# `finish_reason` của SDK là enum; so khớp trên chuỗi để không phụ thuộc phiên bản.
+def _la_recitation(response) -> bool:
+    try:
+        return any(
+            "RECITATION" in str(c.finish_reason).upper()
+            for c in (response.candidates or [])
+        )
+    except Exception:
+        return False
+
+
 def is_gemma(model: str) -> bool:
     return model.lower().lstrip("models/").startswith("gemma")
 
@@ -382,12 +410,18 @@ class GeminiCorrector:
             if text:
                 return _strip_fence(text)
 
-            # Rỗng thường KHÔNG phải lỗi tạm thời mà là model đã tiêu hết hạn
-            # mức output vào phần suy nghĩ. Thử lại y hệt chỉ tốn thời gian —
-            # phải hạ cấu hình.
             detail = _describe_empty(response)
             last_error = f"Model trả về rỗng ({detail})"
 
+            # RECITATION phải tách ra TRƯỚC nhánh hạ cấu hình: hạ cấu hình không
+            # gỡ được lệnh chặn, mà `_variant` lại dùng chung cho mọi khối sau
+            # nên hạ một lần là hỏng luôn cả phần còn lại của kho.
+            if _la_recitation(response):
+                raise RecitationError(last_error)
+
+            # Rỗng thường KHÔNG phải lỗi tạm thời mà là model đã tiêu hết hạn
+            # mức output vào phần suy nghĩ. Thử lại y hệt chỉ tốn thời gian —
+            # phải hạ cấu hình.
             if self._downgrade(index, f"trả về rỗng ({detail})"):
                 continue
 
@@ -397,6 +431,47 @@ class GeminiCorrector:
             f"Đã thử {tries} lượt trên {len(self.pool)} key mà vẫn hỏng. "
             f"Lỗi cuối: {last_error}"
         )
+
+    # Dưới ngưỡng này thì chia tiếp cũng vô nghĩa: đoạn quá ngắn khiến model mất
+    # ngữ cảnh để hiệu đính, mà vẫn có thể bị chặn.
+    NGUONG_CHIA = 400
+
+    def _chia_nho_khi_bi_chan(
+        self,
+        text: str,
+        meta: dict,
+        part: int,
+        total: int,
+        on_retry=None,
+    ) -> str | None:
+        """Bị RECITATION thì cắt đôi rồi sửa từng nửa. None nếu vẫn không thoát.
+
+        Cắt ở ranh giới đoạn gần giữa nhất, không cắt giữa câu — cắt ẩu thì mỗi
+        nửa mất đầu hoặc mất đuôi câu, model hiệu đính sẽ "chữa" thành câu khác.
+
+        Chỉ cần MỘT nửa qua được là đã hơn hẳn cách cũ (bỏ nguyên khối), nên nửa
+        nào vẫn bị chặn thì giữ bản gốc của riêng nửa đó.
+        """
+
+        if len(text) < self.NGUONG_CHIA:
+            return None
+
+        giua = text.find("\n\n", len(text) // 3)
+
+        if giua == -1 or giua > len(text) * 2 // 3:
+            giua = text.rfind("\n", len(text) // 3, len(text) * 2 // 3)
+
+        if giua == -1:
+            return None
+
+        if on_retry:
+            on_retry(0, f"bị chặn recitation -> cắt đôi khối {part}/{total}")
+
+        trai, phai = text[:giua].strip(), text[giua:].strip()
+        a, ok_a = self.fix_chunk(trai, meta, part, total, on_retry=on_retry)
+        b, ok_b = self.fix_chunk(phai, meta, part, total, on_retry=on_retry)
+
+        return f"{a}\n\n{b}" if (ok_a or ok_b) else None
 
     def fix_chunk(
         self,
@@ -437,6 +512,21 @@ class GeminiCorrector:
                     )
 
                 return fixed, True
+
+            except RecitationError as exc:
+                # Thử lại y hệt là vô ích — lần nào cũng bị chặn đúng như nhau
+                # (đo trên 0124 và 0328: ba lượt đều trả về đúng 52 ký tự).
+                # Cách thoát duy nhất đo được là CHIA NHỎ: một đoạn ngắn ít
+                # giống "văn bản model đã thuộc" hơn cả khối lớn.
+                nho = self._chia_nho_khi_bi_chan(text, meta, part, total, on_retry)
+
+                if nho is not None:
+                    return nho, True
+
+                if on_retry:
+                    on_retry(attempt, f"BỎ QUA khối (bị chặn recitation): {exc}")
+
+                return text, False
 
             except NoKeyAvailable:
                 # Mọi key đã chết — chờ thêm cũng vô ích, để run_fix dừng hẳn.

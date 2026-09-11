@@ -1,0 +1,3186 @@
+{
+ "theo_van_ban": {
+  "0082": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Công nghệ thông tin, CĐS/0082_2347_QĐ-ĐHBK_Ban hành Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện t.txt"
+  },
+  "0093": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Công nghệ thông tin, CĐS/0093_24_2018_QH14_Luật 24_2018_QH14 Luật An ninh mạng 2018.txt"
+  },
+  "0153": {
+   "ho_ten": "Nguyến Bắc Son",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Công nghệ thông tin, CĐS/0153_03_2014_TT-BTTTT_Thông tư 03_2014_TT-BTTTT Quy định chuẩn kỹ năng sử dụng công nghệ thông tin.txt"
+  },
+  "0244": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công nghệ thông tin, CĐS/0244_86_2015_QH13_Luật 86_2015_QH13 Luật an toàn thông tin mạng 2015.txt"
+  },
+  "0255": {
+   "ho_ten": "Vũ Đức Đam",
+   "hoc_ham": "",
+   "chuc_danh": "Phó thủ tướng",
+   "file": "Công nghệ thông tin, CĐS/0255_53_2022_NĐ-VP_Quy định chi tiết một số điều của Luật An ninh mạng.txt"
+  },
+  "0277": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công nghệ thông tin, CĐS/0277_738_QĐ-ĐHĐN_Ban hành Chiến lược ứng dụng công nghệ thông tin và chuyển đổi số của Đại học Đà N.txt"
+  },
+  "0396": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Công nghệ thông tin, CĐS/0396_60_2024_QH15_Luật Dữ liệu năm 2024.txt"
+  },
+  "0420": {
+   "ho_ten": "Nguyễn Kim Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Công nghệ thông tin, CĐS/0420_899_QĐ-BGDĐT_Quyết định ban hành Kế hoạch hành động thực hiện Kế hoạch số 01-KH_BCĐTW ngày 21_.txt"
+  },
+  "0439": {
+   "ho_ten": "Nguyễn Mạnh Toàn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Công nghệ thông tin, CĐS/0439_2453_QĐ-ĐHBK_Quyết định ban hành Quy chế bảo đảm an toàn thông tin và an ninh mạng của Đại học.txt"
+  },
+  "0455": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công nghệ thông tin, CĐS/0455_191_QĐ-ĐHĐN_Quyết định ban hành Kế hoạch thực hiện Nghị quyết số 57-NQ_TW ngày 22_12_2024 của.txt"
+  },
+  "0481": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công nghệ thông tin, CĐS/0481_49_2026_TT-BGDĐT_Thông tư quy định ứng dụng công nghệ trong giáo dục đại học, giáo dục nghề n.txt"
+  },
+  "0482": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công nghệ thông tin, CĐS/0482_1866_QĐ-BGDĐT_Quyết định ban hành Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu Bộ G.txt"
+  },
+  "0483": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công nghệ thông tin, CĐS/0483_1829_QĐ-BGDĐT_Quyết định ban hành quy định cơ chế thử nghiệm có kiểm soát đối với ứng dụng công.txt"
+  },
+  "0001": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0001_78_2020_NĐ-CP_Sĩ quan dự bị quân đội nhân dân Việt Nam.txt"
+  },
+  "0002": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0002_79_2020_NĐ-CP_Quy định chế độ, chính sách trong xây dựng, huy động lực lượng dự bị động viên.txt"
+  },
+  "0004": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0004_861_QĐ-TTg_Phê duyệt danh sách các xã khu vực III, khu vực II, khu vực I thuộc vùng đồng bào d.txt"
+  },
+  "0005": {
+   "ho_ten": "Nguyễn Thị Nghĩa",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Công tác sinh viên/0005_10_2016_TT-BGDĐT_Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy.txt"
+  },
+  "0006": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Công tác sinh viên/0006_30_2018_TT-BGDĐT_Quy chế quản lý người nước ngoài học tập tại Việt Nam.txt"
+  },
+  "0007": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0007_1325_QĐ-BGDĐT_Đính chính Thông tư số 10_2016_TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ.txt"
+  },
+  "0008": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0008_35_2011_TT-BGDĐT_Quy định về trao và nhận học bổng, trợ cấp cho người học trong các cơ sở giá.txt"
+  },
+  "0009": {
+   "ho_ten": "Phạm Mạnh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Công tác sinh viên/0009_28_VBHN-BGDĐT_Về học bổng khuyến khích học tập đới với học sinh, sinh viên trong các trường c.txt"
+  },
+  "0010": {
+   "ho_ten": "Nguyễn Thị Nghĩa",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Công tác sinh viên/0010_16_2015_TT-BGDĐT_Ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình.txt"
+  },
+  "0011": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0011_09_2016_TTLT-BGDĐT-BTC-BLĐTBXH_Thông tư liên tịch hướng dẫn thực hiện một số điều của Nghị đị.txt"
+  },
+  "0012": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Công tác sinh viên/0012_2721_QĐ-ĐHĐN_Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy.txt"
+  },
+  "0013": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Công tác sinh viên/0013_973_QĐ-ĐHĐN_Sửa đổi Phụ lục kèm theo Quyết định số 2721_QĐ-ĐHĐN ngày 10_8_2018 của Đại học Đà.txt"
+  },
+  "0014": {
+   "ho_ten": "Ngô Văn Dưỡng",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Công tác sinh viên/0014_3758_QĐ-ĐHĐN_Ban hành Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được.txt"
+  },
+  "0015": {
+   "ho_ten": "Ngô Văn Dưỡng",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Công tác sinh viên/0015_2900_QĐ-ĐHĐN_Quy định về việc tham gia hoạt động cộng đồng của sinh viên Đại học Đà Nẵng.txt"
+  },
+  "0017": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0017_1001_QĐ-ĐHBK_Quy chế Công tác sinh viên của Trường Đại học Bách khoa đối với chương trình đào t.txt"
+  },
+  "0018": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Công tác sinh viên/0018_1414_QĐ-ĐHBK_Ban hành Quy định về viêc xét, cấp học bổng cho sinh viên hệ đại học chính quy tại.txt"
+  },
+  "0062": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Công tác sinh viên/0062_2231_QĐ-ĐHBK_Ban hành Quy định xét thi đua, khen thưởng, đối với sinh viên đại học hệ chính quy.txt"
+  },
+  "0069": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Công tác sinh viên/0069_1216_QĐ-ĐHBK_Phê duyệt Đề án Công tác chủ nhiệm lớp cố vấn học tập và tư vấn hỗ trợ cho sinh vi.txt"
+  },
+  "0070": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Công tác sinh viên/0070_1088_QĐ-ĐHBK_Sửa đổi một số điều của Quy định xét thi đua, khen thưởng với sinh viên đại học hệ.txt"
+  },
+  "0074": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0074_3337_QĐ-ĐHBK_Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ ch.txt"
+  },
+  "0095": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0095_78_2015_QH13_Luật 78_2015_QH13 Luật nghĩa vụ quân sự.txt"
+  },
+  "0124": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0124_05_2022_QĐ-TTg_Quyết định 05_2022_QĐ-TTg Quyết định sửa đổi, bổ sung một số điều của Quyết đị.txt"
+  },
+  "0190": {
+   "ho_ten": "Ngô Thị Minh",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Công tác sinh viên/0190_07_2022_TT-BGDĐT_Quy định công tác tư vấn nghề nghiệp, việc làm và hỗ trợ khởi nghiệp trong c.txt"
+  },
+  "0209": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Công tác sinh viên/0209_57_2020_QH14_Luật thanh niên.txt"
+  },
+  "0250": {
+   "ho_ten": "Nguyễn Thị Nghĩa",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Công tác sinh viên/0250_33_2018_TT-BGDĐT_Hướng dẫn công tác xã hội trong trường học.txt"
+  },
+  "0253": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0253_27_2009_TT-BGDĐT_Ban hành Quy chế ngoại trú của học sinh, sinh viên các trường đại học, cao đ.txt"
+  },
+  "0409": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Công tác sinh viên/0409_4420_QĐ-ĐHBK_Quyết định về việc ban hành Quy định về văn hóa học đường và quy tắc ứng xử văn hó.txt"
+  },
+  "0065": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0065_2673_QĐ-ĐHBK_Quy chế quản lý, sử dụng tài sản công Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0085": {
+   "ho_ten": "Trần Văn Nam",
+   "hoc_ham": "GS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Cơ sở vật chất, xây dựng/0085_1425_QĐ-ĐHĐN_Ban hành Quy định quản lý và sử dụng tài sản công tại ĐHĐN.txt"
+  },
+  "0097": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0097_49_2014_QH13_Luật 49_2014_QH13 Luật Đầu tư công 2014.txt"
+  },
+  "0102": {
+   "ho_ten": "Phạm Thanh Hà",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ nhiệm",
+   "file": "Cơ sở vật chất, xây dựng/0102_39_2019_QH14_Luật 39_2019_QH14 Luật Đầu tư công 2019.txt"
+  },
+  "0136": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Cơ sở vật chất, xây dựng/0136_37_2015_NĐ-CP_Nghị định 37_2015_NĐ-CP Hướng dẫn về hợp đồng xây dựng.txt"
+  },
+  "0138": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Cơ sở vật chất, xây dựng/0138_89_2013_NĐ-CP_Nghị định 89_2013_NĐ-CP Quy định chi tiết thi hành một số điều của Luật Giá về.txt"
+  },
+  "0236": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0236_4627_QĐ-BGDĐT_Quyết định Quy định danh mục, thời gian sử dụng và tỷ lệ hào mòn tài sản cố định.txt"
+  },
+  "0249": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0249_06_2022_TT-BGDĐT_Hướng dẫn trang bị kiến thức, kỹ năng về phòng cháy, chữa cháy và cứu nạn, c.txt"
+  },
+  "0278": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0278_1092_QĐ-ĐHBK_Quy chế quản lý, sử dụng tài sản công tại Trường Đại học Bách khoa, Đại học Đà Nẵn.txt"
+  },
+  "0365": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0365_2652_QĐ-ĐHBK_Quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuy.txt"
+  },
+  "0371": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0371_2968_QĐ-BGDĐT_Ban hành nguyên tắc, tiêu chí lựa chọn danh mục chương trình, nhiệm vụ, dự án đề.txt"
+  },
+  "0397": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Cơ sở vật chất, xây dựng/0397_37_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật đấu giá tài sản.txt"
+  },
+  "0401": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Cơ sở vật chất, xây dựng/0401_58_2024_QH15_Luật đầu tư công.txt"
+  },
+  "0403": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Cơ sở vật chất, xây dựng/0403_57_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư t.txt"
+  },
+  "0419": {
+   "ho_ten": "trưởng Bộ",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Cơ sở vật chất, xây dựng/0419_830_QĐ-BGDĐT_Quyết định về việc ban hành kế hoạch giải ngân vốn đầu tư công nguồn ngân sách tr.txt"
+  },
+  "0444": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Cơ sở vật chất, xây dựng/0444_3868_QĐ-ĐHBK_Quyết định ban hành quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm,.txt"
+  },
+  "0051": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0051_905_QĐ-ĐHBK_Quy chế quản lý, khai thác, sử dụng thông tin, tài liệu tại Trung tâm Học liệu và.txt"
+  },
+  "0052": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0052_1474_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông, Trường Đại họ.txt"
+  },
+  "0053": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0053_1475_QĐ-ĐHBK_Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa,.txt"
+  },
+  "0077": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0077_2352_QĐ-ĐHBK_Ban hành Quy chế hoạt động truyền thông của Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0078": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0078_2533_QĐ-ĐHBK_Ban hành Quy định quản lý, khai thác và sử dụng thông tin học liệu phục vụ tại Tru.txt"
+  },
+  "0157": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Học liệu, truyền thông/0157_4653_QĐ-ĐHĐN_Quyết định 4653_QĐ-ĐHĐN Quy định phát ngôn và cung cấp thông tin cho báo chí của Đ.txt"
+  },
+  "0232": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0232_14_2023_TT-BGDĐT_Quy định tiêu chuẩn thư viện cơ sở giáo dục đại học.txt"
+  },
+  "0477": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0477_1099_QĐ-BGDĐT_Quyết định ban hành Quy chế quản lý, vận hành và cung cấp thông tin trên Cổng Thô.txt"
+  },
+  "0493": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Học liệu, truyền thông/0493_61_2026_TT-BGDĐT_Thông tư quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt độ.txt"
+  },
+  "0064": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Hợp tác quốc tế/0064_3646_QĐ-ĐHBK_Quy định về công tác quản lý hoạt động hợp tác quốc tế của Trường Đại học Bách kho.txt"
+  },
+  "0133": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Hợp tác quốc tế/0133_86_2018_NĐ-CP_Nghị định 86_2018_NĐ-CP Nghị định quy định về hợp tác, đầu tư của nước ngoài tr.txt"
+  },
+  "0184": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Hợp tác quốc tế/0184_1489_QĐ-ĐHĐN_Quyết định 1489_QĐ-ĐHĐN Quy định về công tác quản lý hoạt động hợp tác quốc tế của.txt"
+  },
+  "0233": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Hợp tác quốc tế/0233_2268_QĐ-ĐHĐN_Quy định về công tác quản lý hợp tác quốc tế tại Đại học Đà Nẵng.txt"
+  },
+  "0322": {
+   "ho_ten": "Quang Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Hợp tác quốc tế/0322_1787_ĐHĐN-KHHTQT_Sửa đổi, bổ sung điều khoản về thủ tục tiếp nhận người nước ngoài đến học tập,.txt"
+  },
+  "0429": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Hợp tác quốc tế/0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại.txt"
+  },
+  "0450": {
+   "ho_ten": "Lê Quân",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Hợp tác quốc tế/0450_25_2025_TT-BGDĐT_Thông tư ban hành Quy chế quản lý việc đi công tác nước ngoài của các đơn vị.txt"
+  },
+  "0045": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0045_1404_QĐ-ĐHBK_Quy định quản lý hoạt động khoa học công nghệ tại Trường Đại học Bách khoa, Đại họ.txt"
+  },
+  "0046": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0046_1121_QĐ-ĐHBK_Điều chỉnh Phụ lục “Tiêu chí đánh giá hoạt động khoa học công nghệ hàng năm của Tr.txt"
+  },
+  "0047": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0047_1250_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Viện Khoa học và Công nghệ Bách khoa Đà Nẵng.txt"
+  },
+  "0068": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0068_493_QĐ-ĐHBK_Quy định về tổ chức xét duyệt và công nhận sáng kiến tại Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0117": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0117_76_2018_NĐ-CP_Nghị định 76_2018_NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của.txt"
+  },
+  "0120": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Khoa học Công nghệ/0120_08_2014_NĐ-CP_Nghị định 08_2014_NĐ-CP Hướng dẫn Luật Khoa học và Công nghệ.txt"
+  },
+  "0134": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Khoa học Công nghệ/0134_70_2018_NĐ-CP_Nghị định 70_2018_NĐ-CP Quy định việc quản lý, sử dụng tài sản được hình thành.txt"
+  },
+  "0164": {
+   "ho_ten": "Bùi Văn Ga",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Khoa học Công nghệ/0164_11_2016_TT-BGDĐT_Thông tư 11_2016_TT-BGDĐT Quy định về quản lý đề tài khoa học và công nghệ c.txt"
+  },
+  "0176": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Khoa học Công nghệ/0176_4765_QĐ-ĐHĐN_Quyết định 4765_QĐ-ĐHĐN Quy định về tổ chức xét duyệt và công nhận sáng kiến.txt"
+  },
+  "0177": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Khoa học Công nghệ/0177_4766_QĐ-ĐHĐN_Quyết định 4766_QĐ-ĐHĐN Quy định quản lý hoạt động khoa học công nghệ tại ĐHĐN.txt"
+  },
+  "0181": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Khoa học Công nghệ/0181_3226_QĐ-ĐHĐN_Quyết định 3226_QĐ-ĐHĐN Quy định hoạt động nghiên cứu khoa học của sinh viên Đại h.txt"
+  },
+  "0187": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Khoa học Công nghệ/0187_1826_QĐ-ĐHĐN_Quyết định 1826_QĐ-ĐHĐN Quy định về quản lý đề tài khoa học và công nghệ cấp ĐHĐN.txt"
+  },
+  "0188": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Khoa học Công nghệ/0188_1214_QĐ-ĐHĐN_Quyết định 1214_QĐ-ĐHĐN Quy chế xét tặng Giải thưởng _Công trình khoa học tiêu biể.txt"
+  },
+  "0202": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0202_2479_QĐ-ĐHBK_Ban hành Quy chế tổ chức và hoạt động nhóm nghiên cứu tiềm năng, nhóm nghiên cứu m.txt"
+  },
+  "0228": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0228_3237_QĐ-ĐHĐN_Ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban.txt"
+  },
+  "0311": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0311_07_2017_QH14_Luật Chuyển giao công nghệ.txt"
+  },
+  "0320": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Khoa học Công nghệ/0320_4960_HD-ĐHĐN_Hướng dẫn khung đảm bảo chất lượng trong nghiên cứu khoa học.txt"
+  },
+  "0321": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Khoa học Công nghệ/0321_1773_QĐ-ĐHĐN_Quy định về tổ chức và hoạt động các nhóm nghiên cứu của Đại học Đà Nẵng.txt"
+  },
+  "0358": {
+   "ho_ten": "Nguyễn Thị Kim Chi",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Khoa học Công nghệ/0358_1749_QĐ-BGDĐT_Quy định xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn q.txt"
+  },
+  "0362": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Khoa học Công nghệ/0362_3154_QĐ-ĐHĐN_Quy định về liêm chính học thuật trong hạt động khoa học và công nghệ tại Đại học.txt"
+  },
+  "0368": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Khoa học Công nghệ/0368_66_2014_QĐ-TTg_Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sả.txt"
+  },
+  "0370": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0370_2717_QĐ-BGDĐT_Ban hành định hướng hoạt động khoa học, công nghệ và đổi mới sáng tạo giai đoạn 2.txt"
+  },
+  "0380": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0380_15_2024_TT-BGDĐT_Quy định về quản lý đề tài khoa học và công nghệ cấp bộ của Bộ Giáo dục và Đ.txt"
+  },
+  "0381": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khoa học Công nghệ/0381_4897_QĐ-ĐHĐN_Ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà.txt"
+  },
+  "0384": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Khoa học Công nghệ/0384_5007_QĐ-ĐHĐN_Ban hành danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa.txt"
+  },
+  "0465": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Khoa học Công nghệ/0465_1077_QĐ-ĐHBK_Quyết định về việc sửa đổi, bổ sung một số điều của Quy định Quản lý hoạt động kho.txt"
+  },
+  "0247": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khác/0247_23_2008_QH12_Luật 23_2008_QH12 Luật Giao thông đường bộ.txt"
+  },
+  "0382": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Khác/0382_142_QĐ-TTg_Phê duyệt Chiến lược dữ liệu quốc gia đến năm 2030.txt"
+  },
+  "0383": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Khác/0383_4268_QĐ-BGDĐT_Ban hành Kế hoạch thực hiện Quyết định số 127_QĐ-TTg ngày 26_01_2021, Quyết định.txt"
+  },
+  "0398": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Khác/0398_43_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31_2024_QH15, Luật Nhà ở s.txt"
+  },
+  "0213": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Khảo thí/0213_1980_QĐ-ĐHBK_Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trườ.txt"
+  },
+  "0031": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0031_542_QĐ-ĐHBK_Quy định soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đ.txt"
+  },
+  "0090": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0090_34_2018_QH14_Luật Giáo dục Đại học sửa đổi 2018 34_2018_QH14_388254 (hiệu lực 01_07_2019).txt"
+  },
+  "0122": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Pháp chế/0122_28_2013_NĐ-CP_Nghị định 28_2013_NĐ-CP Hướng dẫn Luật phổ biến, giáo dục pháp luật.txt"
+  },
+  "0237": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0237_5166_QĐ-ĐHĐN_Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng.txt"
+  },
+  "0279": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0279_14_2012_QH13_Luật phổ biến, giáo dục pháp luật 2012.txt"
+  },
+  "0280": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0280_80_2015_QH13_Luật ban hành văn bản quy phạm pháp luật 2015.txt"
+  },
+  "0281": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0281_34_2018_QH14_Luật giáo dục đại học sửa đổi 2018.txt"
+  },
+  "0282": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0282_10_2022_QH15_Luật thực hiện dân chủ ở cơ sở.txt"
+  },
+  "0283": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Pháp chế/0283_55_2011_NĐ-CP_Nghị định Quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ c.txt"
+  },
+  "0284": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Pháp chế/0284_42_2020_TT-BGDĐT_Thông tư bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ GD và ĐT l.txt"
+  },
+  "0343": {
+   "ho_ten": "Trần Văn Tuấn",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Pháp chế/0343_01_2011_TT-BNV_Thông tư 01_2011_TT-BNV, ngày 19_01_2011 hướng dẫn thể thức và kỹ thuật trình.txt"
+  },
+  "0344": {
+   "ho_ten": "Phạm Công Tạc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Pháp chế/0344_04_2019_TT-BKHCN_Thông tư 04_2019_TT-BKHCN về quy định sử dụng hóa chất để thực hiện thí nghi.txt"
+  },
+  "0345": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0345_84_2020_NĐ-CP_Nghị định 84_2020_NĐ-CP ngày 17_7_2020 của Chính phủ Quy định chi tiết một số đ.txt"
+  },
+  "0346": {
+   "ho_ten": "Phạm Ngọc Thưởng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Pháp chế/0346_11_2020_TT-BGDĐT_Thông tư số 11_2020_TT-BGDĐT- Thông tư hướng dẫn thực hiện dân chủ trong hoạ.txt"
+  },
+  "0347": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0347_59_2010_QH12_Luật Bảo vệ quyền lợi người tiêu dùng năm 2010.txt"
+  },
+  "0348": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0348_09_2012_QH13_Luật Phòng, chống tác hại thuốc lá năm 2012.txt"
+  },
+  "0349": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0349_52_2019_QH14_Luật sửa đổi, bổ sung một số điều của luật cán bộ, công chức và viên chức.txt"
+  },
+  "0350": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0350_58_2010_QH12_Luật Viên chức năm 2010.txt"
+  },
+  "0351": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Pháp chế/0351_599_QĐ-BGDĐT_Quyết định số 599_QĐ-BGDĐT Kế hoạch phổ biến, giáo dục pháp luật của ngành giáo d.txt"
+  },
+  "0352": {
+   "ho_ten": "Phạm Mạnh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Pháp chế/0352_3878_BGDĐT-PC_Công văn số 3878_BGDĐT-PC Hướng dẫn tổ chức làm công tác pháp chế trong các cơ sở giáo dục đại học.txt"
+  },
+  "0374": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0374_59_2023_NĐ-CP_Quy định chi tiết một số điều của Luật Thực hiện dân chủ ở cơ sở.txt"
+  },
+  "0375": {
+   "ho_ten": "Trần Lưu Quang",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Pháp chế/0375_346_QĐ-TTg_Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.txt"
+  },
+  "0376": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0376_4480_ĐHĐN-TTPC_Quán triệt, tuyên truyền và triển khai thực hiện Luật Thực hiện dân chủ ở cơ sở.txt"
+  },
+  "0392": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0392_322_QĐ-BGDĐT_Kế hoạch theo dõi tình hình thi hành pháp luật và theo dõi thi hành pháp luật về.txt"
+  },
+  "0435": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0435_56_2024_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều của Nghị định số 55_2011_NĐ-CP ngày 04 t.txt"
+  },
+  "0459": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Pháp chế/0459_404_QĐ-BGDĐT_Quyết định Ban hành Kế hoạch phổ biến, giáo dục pháp luật của ngành Giáo dục năm.txt"
+  },
+  "0466": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Pháp chế/0466_10_2026_NQ-CP_Nghị quyết về việc tiếp tục áp dụng văn bản quy định chi tiết, quy định biện ph.txt"
+  },
+  "0100": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Sở hữu trí tuệ/0100_36_2009_QH12_Luật 36_2009_QH12 Luật Sở hữu trí tuệ sửa đổi 2009.txt"
+  },
+  "0028": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0028_175_QĐ-ĐHBK_Quy định tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Trường Đại học.txt"
+  },
+  "0029": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0029_176_QĐ-ĐHBK_Nội quy tiếp công dân của Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0030": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0030_199_QĐ-ĐHBK_Quy trình thanh tra công tác giảng dạy và tổ chức thi cuối kỳ của Trường Đại học B.txt"
+  },
+  "0032": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0032_1604_QĐ-ĐHBK_Quy trình thanh tra chuyên đề tại Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0091": {
+   "ho_ten": "Nguyễn Phú Trọng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Thanh tra, kiểm tra/0091_56_2010_QH12_Luật Thanh tra 2010_56_2010_QH12_115311.txt"
+  },
+  "0092": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0092_25_2018_QH14_Luật Tố cáo 25.2018 (hiệu lực từ 01_01_2019).txt"
+  },
+  "0098": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0098_42_2013_QH13_Luật 42_2013_QH13 Luật Tiếp công dân năm 2013.txt"
+  },
+  "0103": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0103_36_2018_QH14_Luật 36_2018_QH14 Luật Phòng, chống tham nhũng.txt"
+  },
+  "0115": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0115_31_2019_NĐ-CP_Nghị định 31_2019_NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luậ.txt"
+  },
+  "0121": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thanh tra, kiểm tra/0121_42_2013_NĐ-CP_Nghị định 42_2013_NĐ-CP Tổ chức và hoạt động thanh tra giáo dục.txt"
+  },
+  "0131": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0131_02_2011_QH13_Luật 02_2011_QH13 Luật Khiếu nại năm 2011.txt"
+  },
+  "0137": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thanh tra, kiểm tra/0137_64_2014_NĐ-CP_Nghị định 64_2014_NĐ-CP Quy định chi tiết thi hành một số điều của Luật tiếp cô.txt"
+  },
+  "0165": {
+   "ho_ten": "Phạm Mạnh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0165_23_2016_TT-BGDĐT_Thông tư 23_2016_TT-BGDĐT Quy định về tổ chức và hoạt động thanh tra các kỳ.txt"
+  },
+  "0211": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Thanh tra, kiểm tra/0211_4751_QĐ-ĐHĐN_Ban hành Quy định về công tác kiểm tra của Đại học Đà Nẵng.txt"
+  },
+  "0238": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Thanh tra, kiểm tra/0238_4754_QĐ-ĐHĐN_Quy định về công tác kiểm tra của Đại học Đà Nẵng.txt"
+  },
+  "0256": {
+   "ho_ten": "Nguyễn Kim Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0256_2858_QĐ-BGDĐT_Ban hành Quy chế tổ chức và hoạt động Đoàn thanh tra của Bộ Giáo dục và Đào tạo.txt"
+  },
+  "0290": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0290_11_2022_QH15_Luật thanh tra 2022.txt"
+  },
+  "0291": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thanh tra, kiểm tra/0291_59_2019_NĐ-CP_Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật phòng, chống.txt"
+  },
+  "0292": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thanh tra, kiểm tra/0292_130_2020_NĐ-CP_Nghị định về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn trong.txt"
+  },
+  "0293": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thanh tra, kiểm tra/0293_124_2020_NĐ-CP_Nghị định biện pháp thi hành Luật Khiếu nại.txt"
+  },
+  "0295": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0295_43_2023_NĐ-CP_Nghị định quy định chi tiết một số điều Luật thanh tra 2022.txt"
+  },
+  "0296": {
+   "ho_ten": "Phạm Vũ Luận",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Thanh tra, kiểm tra/0296_51_2012_TT-BGDĐT_Thông tư quy định về tổ chức và hoạt động thanh tra của cơ sở giáo dục đại h.txt"
+  },
+  "0297": {
+   "ho_ten": "Nguyễn Vinh Hiến",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0297_39_2013_TT-BGDĐT_Thông tư hướng dẫn về thanh tra chuyên ngành trong lĩnh vực giáo dục.txt"
+  },
+  "0298": {
+   "ho_ten": "Huỳnh Phong Tranh",
+   "hoc_ham": "",
+   "chuc_danh": "Tổng Thanh tra",
+   "file": "Thanh tra, kiểm tra/0298_01_2014_TT-TTCP_Thông tư quy định việc xây dựng, phê duyệt định hướng chương trình thanh tra,.txt"
+  },
+  "0299": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0299_24_2016_TT-BGDĐT_Thông tư quy dịnh chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra g.txt"
+  },
+  "0300": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0300_25_2019_TT-BGDĐT_Thông tư sửa đổi, bổ sung một số điều của Thông tư số 40_2013_TT-BGDĐT ngày.txt"
+  },
+  "0301": {
+   "ho_ten": "Lê Minh Khái",
+   "hoc_ham": "",
+   "chuc_danh": "Tổng Thanh tra",
+   "file": "Thanh tra, kiểm tra/0301_01_2021_TT-TTCP_Thông tư quy định quy tắc ứng xử của cán bộ, công chức, viên chức trong ngành.txt"
+  },
+  "0302": {
+   "ho_ten": "Đoàn Hồng Phong",
+   "hoc_ham": "",
+   "chuc_danh": "Tổng Thanh tra",
+   "file": "Thanh tra, kiểm tra/0302_03_2021_TT-TTCP_Thông tư quy định chi tiết danh mục và thời hạn định kỳ chuyển đổi vị trí côn.txt"
+  },
+  "0303": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0303_04_2021_TT-TTCP_Thông tư quy định quy trình tiếp công dân.txt"
+  },
+  "0304": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0304_05_2021_TT-TTCP_Thông tư quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, p.txt"
+  },
+  "0305": {
+   "ho_ten": "Đoàn Hồng Phong",
+   "hoc_ham": "",
+   "chuc_danh": "Tổng Thanh tra",
+   "file": "Thanh tra, kiểm tra/0305_06_2021_TT-TTCP_Thông tư quy định về tổ chức, hoạt động của Đoàn thanh tra và trình tự, thủ t.txt"
+  },
+  "0306": {
+   "ho_ten": "Đoàn Hồng Phong",
+   "hoc_ham": "",
+   "chuc_danh": "Tổng Thanh tra",
+   "file": "Thanh tra, kiểm tra/0306_07_2021_TT-TTCP_Thông tư quy định về thẩm quyền, nội dung thanh tra, trách nhiệm thực hiện ph.txt"
+  },
+  "0308": {
+   "ho_ten": "Dương Quốc Huy",
+   "hoc_ham": "",
+   "chuc_danh": "Phó tổng Thanh tra",
+   "file": "Thanh tra, kiểm tra/0308_01_2024_TT-TTCP_Thông tư quy định về báo cáo công tác thanh tra, tiếp công dân, giải quyết kh.txt"
+  },
+  "0309": {
+   "ho_ten": "Phạm Mạnh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0309_2692_QĐ-BGDĐT_Quyết định ban hành quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo.txt"
+  },
+  "0310": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0310_624_BGDĐT-TTr_Công văn về việc tăng cường công tác thanh tra, kiểm tra nội bộ trong cơ sở GDĐH.txt"
+  },
+  "0323": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thanh tra, kiểm tra/0323_86_2011_NĐ-CP_Nghị định số 86_2011_NĐ-CP ngày 22_9_2011 Quy định chi tiết và hướng dẫn thi hà.txt"
+  },
+  "0325": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0325_02_2021_TT-TTCP_Thông tư số 02_2021_TT-TTCP ngày 22_3_2021 Quy định chế độ báo cáo công tác t.txt"
+  },
+  "0326": {
+   "ho_ten": "Phạm Vũ Luận",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Thanh tra, kiểm tra/0326_51_2012_TT-TTCP_Thông tư số 51_2012_TT-TTCP ngày 18_12_2012 Quy định về tổ chức và hoạt động.txt"
+  },
+  "0327": {
+   "ho_ten": "Nguyễn Vinh Hiến",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0327_39_2013_TT-TTCP_Thông tư số 39_2013_TT-TTCP ngày 04_12_2013 Hướng dẫn về thanh tra chuyên ngà.txt"
+  },
+  "0328": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0328_14_2021_TT-BGD&ĐT_Thông tư số 14_2021_TT-BGD&ĐT ngày 20_5_2021 Sửa đổi , bổ sung một số điều.txt"
+  },
+  "0329": {
+   "ho_ten": "Phạm Mạnh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thanh tra, kiểm tra/0329_23_2016_TT-BGD&ĐT_Thông tư số 23_2016_TT-BGD&ĐT ngày 13_10_2016 Quy định về tổ chức và hoạt đ.txt"
+  },
+  "0364": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0364_2140_QĐ-BGDĐT_Công khai đường dây nóng, hộp thư điện tử tiếp nhận thông tin về hành vi nhũng nh.txt"
+  },
+  "0432": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0432_28_2024_TT-BGDĐT_Thông tư về việc thanh tra chuyên ngành trong lĩnh vực giáo dục và thanh tra.txt"
+  },
+  "0447": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thanh tra, kiểm tra/0447_84_2025_QH15_Luật Thanh tra 2025.txt"
+  },
+  "0027": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0027_1605_QĐ-ĐHBK_Quy định công tác thi đua, khen thưởng tại Trường Đại học Bách khoa, Đại học Đà Nẵ.txt"
+  },
+  "0101": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0101_15_2003_QH11_Luật 15_2003_QH11 Luật Thi đua, khen thưởng năm 2003.txt"
+  },
+  "0118": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0118_91_2017_NĐ-CP_Quy định chi tiết về thi hành một số điều của luật Thi đua Khen thưởng.txt"
+  },
+  "0130": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0130_39_2013_QH13_Luật 39_2013_QH13 Luật Sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởn.txt"
+  },
+  "0139": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Thi đua, khen thưởng/0139_27_2012_NĐ-CP_Nghị định 27_2012_NĐ-CP Nghị định Quy định về xử lý kỷ luật viên chức và trách.txt"
+  },
+  "0178": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0178_4768_QĐ-ĐHĐN_Quyết định 4768_QĐ-ĐHĐN Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng.txt"
+  },
+  "0196": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0196_47_2005_QH11_Luật sửa đổi bổ sung một số điều của Luật thi đua khen thưởng ngày 16_11_2013.txt"
+  },
+  "0197": {
+   "ho_ten": "Lê Vĩnh Tân",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Thi đua, khen thưởng/0197_12_2019_TT-BNV_Thông tư số 12_2019_TT-BNV ngày 04_11_2019 của Bộ Nội vụ Quy định chi tiết thi.txt"
+  },
+  "0198": {
+   "ho_ten": "Lê Vĩnh Tân",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Thi đua, khen thưởng/0198_21_2020_TT-BGDĐT_Thông tư số 21_2020_TT-BGDĐT ngày 31_7_2020 của Bộ Giáo dục và Đào tạo (Bộ G.txt"
+  },
+  "0200": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0200_4079_ĐHĐN-TCCB_Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại học thành viên năm học 20.txt"
+  },
+  "0207": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0207_4036_QĐ-ĐHĐN_Quy định tiêu chuẩn bổ sung trong việc xét, công nhận danh hiệu Chiến sĩ thi đua c.txt"
+  },
+  "0219": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0219_2851_BGDĐT-TĐKT_Hướng dẫn xét, công nhận sáng kiến_ phạm vi ảnh hưởng của sáng kiến, đề tài ngh.txt"
+  },
+  "0267": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0267_29_2023_TT-BGDĐT_Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng đối với.txt"
+  },
+  "0285": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0285_06_2022_QH15_Luật thi đua khen thưởng năm 2022.txt"
+  },
+  "0287": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0287_98_2023_NĐ-CP_Nghị định quy định chi tiết một số điều của Luật Thi đua, khen thưởng.txt"
+  },
+  "0288": {
+   "ho_ten": "Phạm Thị Thanh Trà",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Thi đua, khen thưởng/0288_01_2024_TT-NBV_Thông tư Quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số.txt"
+  },
+  "0289": {
+   "ho_ten": "Ngô Thị Minh",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thi đua, khen thưởng/0289_4996_QĐ-BGDDT_Quyết định ban hành quy chế ban hành bình chọn Nhà giáo tiêu biểu của năm.txt"
+  },
+  "0330": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0330_39_2023_TT-BGDĐT_Thông tư số 39_2023_TT-BGDĐT ngày 29_12_2023 Quy định chi tiết thi hành một.txt"
+  },
+  "0331": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0331_39_2013_QH13_Luật sửa đổi bổ sung một số điều của Luật thi đua khen thưởng.txt"
+  },
+  "0332": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0332_800_CT-BGDĐT_Chỉ thị số 800_CT-BGDĐT ngày 24_8_2021 của Bộ trưởng Bộ GDĐT về thực hiện nhiệm v.txt"
+  },
+  "0333": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0333_4499_BGDĐT-GDĐH_Công văn số 4499_BGDĐT-GDĐH ngày 06_10_2021 của Bộ trưởng Bộ GDĐT về hướng dẫn.txt"
+  },
+  "0334": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0334_871_KH-BGDĐT_Kế hoạch số 871_KH-BGDĐT ngày 20_8_2019 của Bộ trưởng Bộ GDĐT triển khai thực hiệ.txt"
+  },
+  "0335": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0335_1374_KH-BGDĐT_Kế hoạch số 1374_KH-BGDĐT ngày 02_11_2020 của Bộ GDĐT về thực hiện Phong trào thi.txt"
+  },
+  "0336": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0336_1176_KH-BGDĐT_Kế hoạch số 1176_KH-BGDĐT ngày 27_10_2021 của Bộ GDĐT phát động phong trào thi đu.txt"
+  },
+  "0337": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0337_1965_BGDĐT-TĐKT_Công văn số 1965_BGDĐT-TĐKT ngày 11_5_2022 của Bộ trưởng Bộ GDĐT về việc hướng.txt"
+  },
+  "0338": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0338_621_BGDĐT-TĐKT_Công văn số 621_BGDĐT-TĐKT ngày 22_2_2021 của Bộ Giáo dục và Đào tạo về việc ph.txt"
+  },
+  "0339": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0339_4735_BGDĐT-GDĐH_Công văn số 4735_BGDĐT-GDĐH ngày 23_9_2022 của Bộ Giáo dục và Đào tạo về việc h.txt"
+  },
+  "0340": {
+   "ho_ten": "Ngô Thị Minh",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Thi đua, khen thưởng/0340_1375_KH-BGDĐT_Kế hoạch 1375_KH-BGDĐT ngày 02_11_2020 của Bộ Giáo dục và Đào tạo thực hiện Phong.txt"
+  },
+  "0341": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0341_1368_BGDĐT-TCCB_Công văn số 1368_BGDĐT-TCCB ngày 31_3_2023 của Bộ Giáo dục và Đào tạo về việc h.txt"
+  },
+  "0342": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0342_595_KH-BGDĐT_Kế hoạch 595_KH-BGDĐT ngày 10_4_2023 Triển khai Đề án “Tuyên truyền gương điển hì.txt"
+  },
+  "0361": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0361_2040_QĐ-BGDĐT_Quy chế xét chọn _Nhà giáo tiêu biểu_.txt"
+  },
+  "0369": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0369_3828_QĐ-ĐHĐN_Quy định về công tác thi đua, khen thưởng của Đại học Đà Nẵng.txt"
+  },
+  "0454": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0454_94_QĐ-ĐHĐN_Quyết định về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua năm 2026.txt"
+  },
+  "0462": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0462_07_2026_TT-BGDĐT_Thông tư quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởn.txt"
+  },
+  "0470": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0470_1364_QĐ-ĐHĐN_Quyết định sửa đổi Quy định về tổ chức xét duyệt và công nhận sáng kiến.txt"
+  },
+  "0479": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Thi đua, khen thưởng/0479_1609_QĐ-BGDĐT_Quyết định ban hành Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưở.txt"
+  },
+  "0142": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0142_03_2022_TT-BGDĐT_Thông tư 03_2022_TT-BGDĐT Thông tư quy định về việc xác định chỉ tiêu tuyển.txt"
+  },
+  "0145": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0145_23_2021_TT-BGDĐT_Thông tư 23_2021_TT-BGDĐT Quy chế tuyển sinh và đào tạo trình độ thạc sỹ.txt"
+  },
+  "0151": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tuyển sinh/0151_09_2020_TT-BGDĐT_Thông tư 09_2020_TT-BGDĐT Quy chế tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành Giáo dụ.txt"
+  },
+  "0152": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0152_07_2020_TT-BGDĐT_Thông tư 07_2020_TT-BGDĐT Thông tư 07_2020_TT-BGDĐT sửa đổi Thông tư 06_2018.txt"
+  },
+  "0154": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tuyển sinh/0154_18_2021_TT-BGDĐT_Thông tư 18_2021_TT-BGDĐT về Quy chế tuyển sinh và đào tạo trình độ tiến sĩ.txt"
+  },
+  "0170": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Tuyển sinh/0170_3297_QĐ-ĐHĐN_Quyết định 3297_QĐ-ĐHĐN Quy chế tuyển sinh trình độ tiến sĩ.txt"
+  },
+  "0171": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0171_3183_QĐ-ĐHĐN_Quyết định 3183_QĐ-ĐHĐN Quy định tổ chức tuyển sinh đào tạo trình độ thạc sỹ theo.txt"
+  },
+  "0192": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tuyển sinh/0192_1609_QĐ-ĐHBK_Ban hành Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trườn.txt"
+  },
+  "0225": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tuyển sinh/0225_1248_QĐ-ĐHĐN_Ban hành Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng.txt"
+  },
+  "0226": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tuyển sinh/0226_1340_QĐ-ĐHBK_Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023.txt"
+  },
+  "0241": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Tuyển sinh/0241_4481_QĐ-ĐHĐN_Quy chế tuyển sinh đại học vừa làm vừa học.txt"
+  },
+  "0259": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0259_4495_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế P.txt"
+  },
+  "0386": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tuyển sinh/0386_4473_QĐ-ĐHĐN_Ban hành Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng.txt"
+  },
+  "0460": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0460_06_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và n.txt"
+  },
+  "0463": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0463_13_2026_TT-BGDĐT_Thông tư sửa đổi bổ sung một số điều của Quy chế thi tốt nghiệp trung học ph.txt"
+  },
+  "0464": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0464_618_QĐ-BGDĐT_Quyết định công bố thủ tục hành chính được thay thế lĩnh vực thi, tuyển sinh thuộ.txt"
+  },
+  "0468": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0468_1478_QĐ-ĐHĐN_Quyết định ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học hình thứ.txt"
+  },
+  "0480": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tuyển sinh/0480_2414_QĐ-ĐHĐN_Quyết định ban hành Quy chế tuyển sinh đào tạo trình độ đại học hình thức thường x.txt"
+  },
+  "0490": {
+   "ho_ten": "Lê Quân",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tuyển sinh/0490_53_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh và đào tạo sau đại học.txt"
+  },
+  "0048": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0048_771_QĐ-ĐHBK_Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động.txt"
+  },
+  "0049": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0049_771_QĐ-ĐHBK_Quy chế làm việc của Phòng Thí nghiệm và Xưởng thực hành, thực tập.txt"
+  },
+  "0066": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tài chính, kế toán/0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN.txt"
+  },
+  "0073": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0073_399_QĐ-BGDĐT_Giao quyền tự chủ, tự chịu trách nhiệm về tài chính đối với đơn vị sự nghiệp.txt"
+  },
+  "0109": {
+   "ho_ten": "Vũ Đức Đam",
+   "hoc_ham": "",
+   "chuc_danh": "Phó thủ tướng",
+   "file": "Tài chính, kế toán/0109_81_2021_NĐ-CP_Nghị định 81_2021_NĐ-CP Nghị định quy định về cơ chế thu, quản lý học phí đối v.txt"
+  },
+  "0111": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0111_60_2021_NĐ-CP_Nghị định 60_2021_NĐ-CP Nghị định về cơ chế tự chủ tài chính của đơn vị sự nghi.txt"
+  },
+  "0161": {
+   "ho_ten": "Trần Xuân Hà",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tài chính, kế toán/0161_40_2017_TT-BTC_Thông tư 40_2017_TT-BTC Quy định chế độ công tác phí, chế độ chi hội nghị.txt"
+  },
+  "0162": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0162_1676_QĐ-ĐHĐN_Quyết định 1676_QĐ-ĐHĐN Quy chế chi tiêu nội bộ của ĐHĐN.txt"
+  },
+  "0163": {
+   "ho_ten": "Phan Minh Đức",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tài chính, kế toán/0163_05_NQ-HĐĐH_Quyết định 05_NQ-HĐĐH Quy chế tài chính của ĐHĐN.txt"
+  },
+  "0260": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó hiệu trưởng",
+   "file": "Tài chính, kế toán/0260_4171_QĐ-ĐHBK_Quy định về việc thanh toán giờ giảng của Trường Đại học Bách khoa, Đại học Đà Nẵn.txt"
+  },
+  "0270": {
+   "ho_ten": "Trần Hồng Hà",
+   "hoc_ham": "",
+   "chuc_danh": "Phó thủ tướng",
+   "file": "Tài chính, kế toán/0270_97_2023_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều cuả Nghị định số 81_2021_NĐ-CP ngày 27_8.txt"
+  },
+  "0366": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0366_3443_ĐHĐN-KHTC_Mức thu học phí năm học 2024-2025.txt"
+  },
+  "0377": {
+   "ho_ten": "Phạm Ngọc Thưởng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tài chính, kế toán/0377_3560_QĐ-BGDĐT_Công bố công khai dự toán ngân sách nhà nước năm 2024.txt"
+  },
+  "0387": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0387_36_QĐ-ĐHĐN_Ban hành Quy chế chi tiêu nội bộ của Đại học Đà Nẵng.txt"
+  },
+  "0399": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tài chính, kế toán/0399_48_2024_QH15_Luật thuế giá trị gia tăng.txt"
+  },
+  "0404": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tài chính, kế toán/0404_423_QĐ-ĐHBK_Ban hành Quy chế kiểm toán nội bộ Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0407": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0407_2569_QĐ-ĐHBK_Quyết định về việc thanh toán trách nhiệm quản lý theo chức vụ, chức danh năm 2024.txt"
+  },
+  "0408": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0408_3492_QĐ-ĐHBK_Quyết định về việc ban hành đơn giá giờ giảng chuẩn năm học 2023-2024.txt"
+  },
+  "0410": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tài chính, kế toán/0410_5780_QĐ-ĐHBK_Quyết định công bố công khai dự toán ngân sách năm 2024.txt"
+  },
+  "0412": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tài chính, kế toán/0412_576_QĐ-ĐHĐN_Quyết định công bố công khai dự toán ngân sách nhà nước năm 2025 của Đại học Đà Nẵ.txt"
+  },
+  "0413": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0413_534_QĐ-BGDĐT_Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Bộ Giáo d.txt"
+  },
+  "0414": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0414_538_QĐ-BGDĐT_Quyết định phân bổ chi tiết kế hoạch đầu tư vốn ngân sách trung ương năm 2025 (đợ.txt"
+  },
+  "0415": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0415_890_QĐ-ĐHĐN_Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Đại học Đà.txt"
+  },
+  "0417": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0417_760_QĐ-ĐHBK_Quyết định về việc ban hành quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán.txt"
+  },
+  "0418": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0418_1690_QĐ-ĐHBK_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Tr.txt"
+  },
+  "0431": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tài chính, kế toán/0431_1351_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số nội dung của Phụ lục Quy chế chi tiêu n.txt"
+  },
+  "0446": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tài chính, kế toán/0446_4532_QĐ-ĐHBK_Quyết định về việc ban hành chính sách miễn học phí đào tạo thạc sĩ từ khóa tuyển.txt"
+  },
+  "0449": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tài chính, kế toán/0449_5543_QĐ-ĐHBK_Quyết định ban hành các khoản thu, mức thu tại Ký túc xá Trường Đại học Bách khoa,.txt"
+  },
+  "0453": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tài chính, kế toán/0453_4809_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Đạ.txt"
+  },
+  "0016": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0016_05_NQ-HĐT_Nghị quyết của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ba.txt"
+  },
+  "0019": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0019_05_NQ-HĐT_Quy chế tổ chức hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0020": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0020_1199_QĐ-ĐHBK_Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, m.txt"
+  },
+  "0021": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0021_1177_QĐ-ĐHBK_Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa, Đại học Đà.txt"
+  },
+  "0022": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0022_3521_QĐ-ĐHBK_Quy trình bổ nhiệm giáo sư, phó giáo sư tại Trường Đại học Bách khoa, Đại học Đà N.txt"
+  },
+  "0023": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0023_448_QĐ-ĐHBK_Quy trình tiếp nhận và xử lý văn bản đến.txt"
+  },
+  "0024": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0024_2971_QĐ-ĐHBK_Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách k.txt"
+  },
+  "0025": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0025_447_QĐ-ĐHBK_Quy trình ban hành văn bản tại Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0054": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0054_05_NQ-HĐT_Nghị quyết ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại.txt"
+  },
+  "0055": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0055_1838_QĐ-ĐHBK_Chiến lược phát triển của Trường Đại học Bách khoa, Đại học Đà Nẵng đến năm 2025 t.txt"
+  },
+  "0056": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0056_22_NQ-HĐT_Nghị quyết sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường.txt"
+  },
+  "0057": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0057_23_NQ-HĐT_Quy chế thực hiện dân chủ trong hoạt động của Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0058": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0058_2522_ĐHBK-TCHC_Ban hành bộ tiêu chí đánh giá, xếp loại viên chức của Trường Đại học Bách khoa.txt"
+  },
+  "0059": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0059_2525_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dà.txt"
+  },
+  "0060": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0060_487_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Hội đồng Trường Đại học Bách khoa, Đại học Đà Nẵn.txt"
+  },
+  "0076": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0076_4194_QĐ-ĐHĐN_Ban hành Quy định chế độ làm việc của giảng viên ĐHĐN.txt"
+  },
+  "0080": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0080_1199_QĐ-ĐHBK_Ban hành Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ c.txt"
+  },
+  "0081": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0081_389_QĐ-ĐHBK_Ban hành Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong th.txt"
+  },
+  "0083": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0083_730_QĐ-ĐHBK_Ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0084": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0084_334_QĐ-ĐHBK_Ban hành mẫu logo của Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0086": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0086_51_2019_QH14_Luật 52_2019_QH14 Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, Công chức v.txt"
+  },
+  "0087": {
+   "ho_ten": "Phạm Thanh Hà",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ nhiệm",
+   "file": "Tổ chức, hành chính/0087_45_2019_QH14_Luật 45_2019_QH14 Bộ Luật lao động.txt"
+  },
+  "0088": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0088_29_2018_QH14_Luật 29_2018_QH14 Luật Bảo vệ Bí mật nhà nước.txt"
+  },
+  "0089": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0089_43_2019_QH14_Luật Giáo dục 2019_43_2019_QH14 (hiệu lực 01_07_2020).txt"
+  },
+  "0094": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0094_80_2015_QH13_Luật 80_2015_QH13 Luật ban hành văn bản quy phạm pháp luật 2015.txt"
+  },
+  "0096": {
+   "ho_ten": "Giang Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0096_58_2014_QH13_Luật 58_2014_QH13 Luật Bảo hiểm xã hội 2014.txt"
+  },
+  "0099": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0099_01_2011_QH13_Luật 01_2011_QH13 Luật lưu trữ.txt"
+  },
+  "0105": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0105_Hiếnpháp2013_Hiến pháp 2013.txt"
+  },
+  "0106": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0106_01_2013_NĐ-CP_Nghị định 01_2013_NĐ-CP Quy định chi tiết thi hành một số điều của Luật lưu trữ.txt"
+  },
+  "0107": {
+   "ho_ten": "Phạm Bình Minh",
+   "hoc_ham": "",
+   "chuc_danh": "Phó thủ tướng",
+   "file": "Tổ chức, hành chính/0107_89_2021_NĐ-CP_Nghị định 89_2021_NĐ-CP Nghị định sửa đổi Nghị định 101_2017_NĐ-CP về đào tạo,.txt"
+  },
+  "0108": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0108_86_2021_NĐ-CP_Nghị định 86_2021_NĐ-CP Nghị định quy định về việc công dân Việt Nam ra nước ng.txt"
+  },
+  "0110": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0110_77_2021_NĐ-CP_Nghị định 77_2021_NĐ-CP Quy định chế độ phụ cấp thâm niên nhà giáo.txt"
+  },
+  "0112": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Tổ chức, hành chính/0112_145_2020_NĐ-CP_Nghị định 145_2020_NĐ-CP Nghị định hướng dẫn Bộ luật Lao động về điều kiện lao.txt"
+  },
+  "0113": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Tổ chức, hành chính/0113_135_2020_NĐ-CP_Nghị định 135_2020_NĐ-CP Nghị định quy định về tuổi nghỉ hưu.txt"
+  },
+  "0114": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Tổ chức, hành chính/0114_30_2020_NĐ-CP_Nghị định 30_2020_NĐ-CP Nghị định về công tác văn thư.txt"
+  },
+  "0116": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0116_161_2018_NĐ-CP_Nghị định 161_2018_NĐ-CP Nghị định sửa đổi quy định về tuyển dụng công chức, vi.txt"
+  },
+  "0119": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0119_27_2015_NĐ-CP_Nghị định 27_2015_NĐ-CP Quy định về xét tặng danh hiệu _Nhà giáo Nhân dân_, _Nh.txt"
+  },
+  "0123": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0123_99_2019_NĐ-CP_Nghị định 99_2019_NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của.txt"
+  },
+  "0127": {
+   "ho_ten": "Trần Văn Nam",
+   "hoc_ham": "GS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0127_1219_QĐ-ĐHĐN_Quyết định 1219_QĐ-ĐHĐN Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm.txt"
+  },
+  "0132": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0132_106_2020_NĐ-CP_Nghị định 106_2020_NĐ-CP Nghị định về vị trí việc làm và số lượng người làm việ.txt"
+  },
+  "0135": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0135_69_2017_NĐ-CP_Nghị định 69_2017_NĐ-CP Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ ch.txt"
+  },
+  "0150": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tổ chức, hành chính/0150_10_2020_TT-BGDĐT_Thông tư 10_2020_TT-BGDĐT Quy chế tổ chức và hoạt động của Đại học vùng và c.txt"
+  },
+  "0168": {
+   "ho_ten": "Phan Minh Đức",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0168_NQ08_NQ-HĐĐH_Quyết định NQ08_NQ-HĐĐH Quy chế hoạt động của Hội đồng Đại học Đà Nẵng.txt"
+  },
+  "0169": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0169_551_QĐ-ĐHĐN_Quyết định 551_QĐ-ĐHĐN Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại h.txt"
+  },
+  "0173": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0173_2390_QĐ-ĐHĐN_Quyết định 2390_QĐ-ĐHĐN Quy chế nâng bậc lương trước thời hạn do lập thành tích xu.txt"
+  },
+  "0175": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0175_998_QĐ-ĐHĐN_Quyết định 998_QĐ-ĐHĐN Quy định tiêu chuẩn bổ sung trong việc xét, công nhận danh.txt"
+  },
+  "0179": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0179_4343_QĐ-ĐHĐN_Quyết định 4343_QĐ-ĐHĐN Quy chế công nhận, bổ nhiệm, bổ nhiệm lại, kéo dài thời gi.txt"
+  },
+  "0186": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Tổ chức, hành chính/0186_637_QĐ-ĐHĐN_Quyết định 637_QĐ-ĐHĐN Quy chế phục vụ cộng đồng đối với công chức, viên chức và n.txt"
+  },
+  "0191": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0191_36_2017_TT-BGDĐT_Ban hành Quy chế thực hiện công khai đối với cơ sở giáo dục và đào tạo thuộc.txt"
+  },
+  "0193": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0193_150_ĐHĐN-TCCB_Công văn 150_ĐHĐN-TCCB Tiêu chí đánh giá các đơn vị chức năng của ĐHĐN năm học 2.txt"
+  },
+  "0201": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0201_2266_QĐ-ĐHBK_Ban hành Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, ĐHĐN.txt"
+  },
+  "0204": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tổ chức, hành chính/0204_3092_QĐ-ĐHBK_Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, ĐHĐN.txt"
+  },
+  "0205": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0205_50_2022_NĐ-CP_Nghị định 50_2022_NĐ-CP ngày 02_8_2022 của Chính phủ quy định về nghỉ hưu ở tuổ.txt"
+  },
+  "0208": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0208_73_2021_QH14_Luật phòng, chống ma túy.txt"
+  },
+  "0229": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0229_3175_ĐHĐN-TCCB_Công văn hướng dẫn một số nội dung liên quan đến việc quản lý viên chức đi đào t.txt"
+  },
+  "0230": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0230_3106_QĐ-ĐHĐN_Quyết định về việc giao Hiệu trưởng các trường đại học thành viên quyết định bổ nh.txt"
+  },
+  "0234": {
+   "ho_ten": "Phan Minh Đức",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0234_23_NQ-HĐĐH_Chiến lược phát triển Đại học Đà Nẵng đến năm 2030 và tầm nhìn đến năm 2045.txt"
+  },
+  "0239": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0239_4513_ĐHĐN-TCCB_Bộ tiêu chí đánh giá chấm điểm các trường đại học thành viên năm học 2022-2023.txt"
+  },
+  "0245": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0245_100_2015_QH13_Luật 100_2015_QH13 Bộ Luật Hình sự.txt"
+  },
+  "0246": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0246_12_2017_QH14_Luật 12_2017_QH14 Luật sửa đổi, bổ sung một số điều của Luật hình sự.txt"
+  },
+  "0254": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0254_3496_QĐ-ĐHĐN_Ban hành Quy định quản lý và sử dụng chứng thư số, chữ ký số của Đại học Đà Nẵng.txt"
+  },
+  "0258": {
+   "ho_ten": "Phạm Thị Thanh Trà",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0258_12_2023_TT-BNV_Bãi bỏ một số Thông tư do Bộ Nội vụ ban hành quy định về tuyển dụng công chức,.txt"
+  },
+  "0261": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0261_4794_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên.txt"
+  },
+  "0262": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0262_4347_QĐ-ĐHBK_Quy định chấm công bằng quét dấu vân tay tại Trường Đại học Bách khoa, Đại học Đà.txt"
+  },
+  "0263": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0263_5005_QĐ-ĐHĐN_Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện n.txt"
+  },
+  "0265": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0265_4799_QĐ-ĐHBK_Quy định bổ nhiệm, bổ nhiệm lại, công nhận lại chức danh giáo sư, phó giáo sư tại.txt"
+  },
+  "0273": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0273_4796_ĐHĐN-TCCB_Công văn về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại.txt"
+  },
+  "0286": {
+   "ho_ten": "Phạm Minh Chính",
+   "hoc_ham": "",
+   "chuc_danh": "Thủ tướng",
+   "file": "Tổ chức, hành chính/0286_48_2023_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều của nghị định số 90_2020_NĐ-CP ngày 13 t.txt"
+  },
+  "0314": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0314_1251_QĐ-ĐHĐN_Quyết định sửa đổi, bổ sung một số điều của Quy định tuyển dụng, sử dụng và quản l.txt"
+  },
+  "0315": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0315_1155_QĐ-ĐHĐN_Quyết định sửa đổi, bổ sung một số điều của Quy chế công nhận, bổ nhiệm, bổ nhiệm.txt"
+  },
+  "0316": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0316_04_2024_TT-BGDĐT_Thông tư hướng dẫn về vị trí việc làm lãnh đạo, quản lý và vị trí việc làm c.txt"
+  },
+  "0317": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0317_05_2024_TT-BGDĐT_Thông tư quy định tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp.txt"
+  },
+  "0318": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0318_01_2024_TT-BGDĐT_Thông tư ban hành Chuẩn cơ sở giáo dục đại học.txt"
+  },
+  "0319": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0319_85_2023_NĐ-CP_Nghị định 85_2023_NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115_2020_.txt"
+  },
+  "0355": {
+   "ho_ten": "Nguyễn Kim Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Tổ chức, hành chính/0355_1559_QĐ-BGDĐT_Xét thăng hạng chức danh nghề nghiệp, bổ nhiệm chức danh nghề nghiệp, xếp lương,.txt"
+  },
+  "0356": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0356_09_2024_TT-BGDĐT_Quy định về công khai trong hoạt động của các cơ sở giáo dục thuộc hệ thống.txt"
+  },
+  "0359": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0359_2888_QĐ-ĐHBK_Quy định quản lý và sử dụng hệ thống văn bản điện tử tại Trường Đại học Bách khoa,.txt"
+  },
+  "0360": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tổ chức, hành chính/0360_2060_QĐ-BGDĐT_Công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào.txt"
+  },
+  "0367": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0367_3686_QĐ-ĐHĐN_Sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắ.txt"
+  },
+  "0372": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0372_4311_QĐ-ĐHBK_Ban hành Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại h.txt"
+  },
+  "0373": {
+   "ho_ten": "Nguyễn Kim Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tổ chức, hành chính/0373_3086_QĐ-BGDĐT_Ban hành Quy chế đánh giá, xếp loại chất lượng năm 2024 đối với đơn vị và công ch.txt"
+  },
+  "0388": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0388_144_QĐ-ĐHĐN_Ban hành Quy định về công khai trong hoạt động của Đại học Đà Nẵng.txt"
+  },
+  "0390": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0390_03_2025_TT-BGDĐT_Hướng dẫn về Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực.txt"
+  },
+  "0391": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0391_595_QĐ-ĐHBK_Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, m.txt"
+  },
+  "0400": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0400_50_2024_QH15_Luật công đoàn.txt"
+  },
+  "0402": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0402_51_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm Y tế.txt"
+  },
+  "0405": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0405_800_QĐ-ĐHBK_Quyết định ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định.txt"
+  },
+  "0406": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0406_1478_QĐ-ĐHBK_Bộ tiêu chí đánh giá, xếp loại chất lượng hằng năm đối với viên chức, người lao độ.txt"
+  },
+  "0422": {
+   "ho_ten": "Nguyễn Mạnh Toàn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Tổ chức, hành chính/0422_1353_QĐ-ĐHĐN_Quyết định ban hành Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của.txt"
+  },
+  "0423": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0423_1137_QĐ-BGDĐT_Quyết định về việc công bố thủ tục hành chính nội bộ trong hệ thống hành chính nh.txt"
+  },
+  "0424": {
+   "ho_ten": "Huỳnh Phương Nam",
+   "hoc_ham": "TS",
+   "chuc_danh": "Phó hiệu trưởng",
+   "file": "Tổ chức, hành chính/0424_2061_QĐ-ĐHBK_Quyết định ban hành Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của.txt"
+  },
+  "0425": {
+   "ho_ten": "Lê Tấn Dũng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tổ chức, hành chính/0425_1195_QĐ-BGDĐT_Quyết định về việc công bố thủ tục hành chính nội bộ trong hệ thống hành chính nh.txt"
+  },
+  "0426": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0426_2155_QĐ-ĐHBK_Quyết định về việc ban hành Quy định quản lý và sử dụng chứng thư chữ ký số, chữ k.txt"
+  },
+  "0428": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0428_08_2025_TT-BGDĐT_Thông tư quy định thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục v.txt"
+  },
+  "0430": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0430_1236_QĐ-BGDĐT_Quyết định quy định danh mục và thời hạn định kỳ chuyển đổi vị trí công tác trong.txt"
+  },
+  "0433": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0433_19_2024_TT-BGDĐT_Thông tư quy định danh mục và thời hạn định kỳ chuyển đổi vị trí công tác th.txt"
+  },
+  "0436": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Giám đốc",
+   "file": "Tổ chức, hành chính/0436_1974_QĐ-ĐHĐN_Quyết định ban hành quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên.txt"
+  },
+  "0437": {
+   "ho_ten": "Phan Minh Đức",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0437_32_NQ-HĐĐH_Nghị quyết ban hành Quy chế thực hiện dân chủ trong hoạt động của Đại học Đà Nẵng.txt"
+  },
+  "0438": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0438_2157_ĐHĐN-TCCB_Công văn về việc chuyển đổi vị trí công tác trong Đại học Đà Nẵng.txt"
+  },
+  "0440": {
+   "ho_ten": "Nguyễn Kim Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Tổ chức, hành chính/0440_1818_QĐ-BGDĐT_Quyết định ban hành Quy chế đánh giá, xếp loại chất lượng hằng năm đối với đơn vị.txt"
+  },
+  "0442": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0442_2358_QĐ-BGDĐT_Quyết định ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025-2026 của.txt"
+  },
+  "0443": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0443_4303_QĐ-ĐHBK_Quyết định ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng thuộc Tr.txt"
+  },
+  "0445": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0445_3699_QĐ-ĐHĐN_Quyết định sửa đổi, bổ sung một số điều của Quy chế công nhận, bổ nhiệm, bổ nhiệm.txt"
+  },
+  "0448": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Tổ chức, hành chính/0448_5247_QĐ-ĐHBK_Quyết định ban hành Chiến lược phát triển của Trường Đại học Bách khoa, Đại học Đà.txt"
+  },
+  "0451": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0451_3571_QĐ-BGDĐT_Quyết định về việc công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế.txt"
+  },
+  "0457": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0457_73_2025_QH15_Luật Nhà giáo 2025.txt"
+  },
+  "0458": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0458_123_2025_QH15_Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 43_2019_QH14.txt"
+  },
+  "0469": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0469_31_2026_TT-BGDĐT_Thông tư quy định mã số, bổ nhiệm chức danh và xếp lương đối với nhà giáo tr.txt"
+  },
+  "0471": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0471_26_2026_TT-BGDĐT_Thông tư quy định chuẩn nghề nghiệp giảng viên đại học.txt"
+  },
+  "0476": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0476_1060_QĐ-BGDĐT_Quyết định công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế_ thủ tụ.txt"
+  },
+  "0478": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0478_2152_QĐ-ĐHĐN_Quyết định ban hành Quy chế thực hiện dân chủ trong hoạt động của Đại học Đà Nẵng.txt"
+  },
+  "0484": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Tổ chức, hành chính/0484_129_2025_QH15_Luật Viên chức.txt"
+  },
+  "0485": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0485_259_2026_NĐ-CP_Nghị định quy định về tuyển dụng, sử dụng và quản lý viên chức.txt"
+  },
+  "0486": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0486_232_2026_NĐ-CP_Nghị định quy định về vị trí việc làm viên chức.txt"
+  },
+  "0487": {
+   "ho_ten": "Phạm Thị Thanh Trà",
+   "hoc_ham": "",
+   "chuc_danh": "Phó thủ tướng",
+   "file": "Tổ chức, hành chính/0487_182_2026_NĐ-CP_Nghị định quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quả.txt"
+  },
+  "0488": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Tổ chức, hành chính/0488_783_QC-ĐHBK_Quy chế phối hợp công tác giữa Ban Giám hiệu và Công đoàn Trường Đại học Bách khoa.txt"
+  },
+  "0071": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Văn thư, lưu trữ/0071_1616_QĐ-ĐHBK_Quy chế công tác văn thư, lưu trữ của Trường Đại học Bách khoa, ĐHĐN.txt"
+  },
+  "0072": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Văn thư, lưu trữ/0072_479_QĐ-ĐHBK_Nội quy về công tác bảo vệ bí mật Nhà nước tại Trường Đại học Bách khoa, ĐHĐN.txt"
+  },
+  "0079": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Văn thư, lưu trữ/0079_2465_QĐ-ĐHBK_Ban hành Quy trình ban hành văn bản hành chính tại Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0155": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Văn thư, lưu trữ/0155_4801_QĐ-ĐHĐN_Quyết định 4801_QĐ-ĐHĐN Quy chế công tác văn thư, lưu trữ của Đại học Đà Nẵng.txt"
+  },
+  "0393": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Văn thư, lưu trữ/0393_33_2024_QH15_Luật Lưu trữ năm 2024.txt"
+  },
+  "0033": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0033_1562_QĐ-ĐHBK_Quy định mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách k.txt"
+  },
+  "0034": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0034_1274_QĐ-ĐHBK_Sửa đổi, bổ sung một số điều của “Quy định về liêm chính học thuật của Trường Đại.txt"
+  },
+  "0035": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0035_04_QĐ-ĐHBK_Quy định biên soạn, thẩm định và đánh giá, lựa chọn, duyệt sách phục vụ đào tạo củ.txt"
+  },
+  "0038": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0039": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại.txt"
+  },
+  "0040": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0040_1345_QĐ-ĐHBK_Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trìn.txt"
+  },
+  "0041": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0041_1779_QĐ-ĐHBK_Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng.txt"
+  },
+  "0042": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0042_1394_QĐ-ĐHBK_Chính sách bảo đảm chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵ.txt"
+  },
+  "0043": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0043_1395_QĐ-ĐHBK_Quy định đảm bảo chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0044": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0044_1980_QĐ-ĐHBK_Quy định tổ chức dánh giá học tập của sinh viên đại học, học viên cao học của Trườ.txt"
+  },
+  "0061": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0061_1606_HD-ĐHBK_Hướng dẫn Đánh giá đồ án, luận văn, luận án tốt nghiệp theo hình thức trực tuyến c.txt"
+  },
+  "0063": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0063_2244_QĐ-ĐHBK_Quy định đào tạo trình độ đại học.txt"
+  },
+  "0067": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0067_3604_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường ĐHBK, ĐHĐN.txt"
+  },
+  "0125": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0125_69_QĐ-TTg_Quyết định 69_QĐ-TTg Quyết định năm 2019 về phê duyệt Đề án nâng cao chất lượng giá.txt"
+  },
+  "0126": {
+   "ho_ten": "Vũ Đức Đam",
+   "hoc_ham": "",
+   "chuc_danh": "Phó thủ tướng",
+   "file": "Đào tạo/0126_18_2017_QĐ-TTg_Quyết định 18_2017_QĐ-TTg Quy định về liên thông giữa trình độ trung cấp, trìn.txt"
+  },
+  "0140": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0140_821_QĐ-BGDĐT_Quyết định 821_QĐ-BGDĐT Quyết định Ban hành Quy định về quản lý việc in, cấp phôi.txt"
+  },
+  "0141": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0141_01_2017_QĐ-TTg_Quyết định 01_2017_QĐ-TTg Danh mục giáo dục, đào tạo của hệ thống giáo dục quố.txt"
+  },
+  "0143": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0143_46_2021_TT-BGDĐT_Thông tư 46_2021_TT-BGDĐT Thông tư bãi bỏ một số văn bản quy phạm pháp luật.txt"
+  },
+  "0144": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0144_24_2021_TT-BGDĐT_Thông tư 24_2021_TT-BGDĐT Thông tư 24_2021_TT-BGDĐT sửa đổi Quy chế thi đánh.txt"
+  },
+  "0146": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0146_17_2021_TT-BGDĐT_Thông tư 17_2021_TT-BGDĐT Thông tư 17_2021_TT-BGDĐT quy định về chuẩn chương.txt"
+  },
+  "0147": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0147_08_2021_TT-BGDĐT_Thông tư 08_2021_TT-BGDĐT Quy chế đào tạo trình độ đại học.txt"
+  },
+  "0148": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0148_38_2020_TT-BGDĐT_Thông tư 38_2020_TT-BGDĐT Thông tư quy định về liên kết đào tạo với nước ngoài trình độ đại học, thạc sĩ,.txt"
+  },
+  "0149": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0149_30_2020_TT-BGDĐT_Thông tư 30_2020_TT-BGDĐT Thông tư Bãi bỏ một số văn bản quy phạm pháp luật.txt"
+  },
+  "0156": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0156_2858_QĐ-ĐHĐN_Quyết định 2858_QĐ-ĐHĐN Quyết định ban hành mẫu bản sao bằng giáo dục đại học của.txt"
+  },
+  "0174": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0174_2058_QĐ-ĐHĐN_Quyết định 2058_QĐ-ĐHĐN Quy định tổ chức đánh giá đồ án, khoá luận, luận văn, luận.txt"
+  },
+  "0185": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0185_1356_QĐ-ĐHĐN_Quyết định 1356_QĐ-ĐHĐN Quy định quản lý văn bằng chứng chỉ của Đại học Đà Nẵng.txt"
+  },
+  "0195": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0195_436_QĐ-TTg_Ban hành Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ c.txt"
+  },
+  "0199": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0199_09_2022_TT-BGDĐT_Thông tư Quy định danh mục thống kê ngành đào tạo của giáo dục đại học.txt"
+  },
+  "0206": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0206_3240_QĐ-ĐHBK_Ban hành Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đ.txt"
+  },
+  "0210": {
+   "ho_ten": "Đoàn Quang Vinh Foc Đk",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0210_4511_QĐ-ĐHBK_Ban hành Quy định về yêu cầu năng lực ngoại ngữ đối với sinh viên Trường Đại học B.txt"
+  },
+  "0212": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0212_3875_QĐ-ĐHBK_Ban hành Quy định đào tạo trình độ thạc sĩ của Trường Đại học Bách khoa, ĐHĐN.txt"
+  },
+  "0220": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0220_29_QĐ-ĐHBK_Quy định về liêm chính học thuật của Trường Đại học Bách khoa, ĐHĐN.txt"
+  },
+  "0221": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0221_1274_QĐ-ĐHBK_Sửa đổi, bổ sung một số điều của _Quy định về liêm chính học thuật của Trường Đại.txt"
+  },
+  "0223": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0223_840_QĐ-ĐHBK_Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt.txt"
+  },
+  "0224": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0224_866_QĐ-ĐHĐN_Quy định đào tạo theo phương thức trực tuyến và phương thức trực tiếp kết hợp trực.txt"
+  },
+  "0227": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0227_2852_QĐ-ĐHĐN_Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong.txt"
+  },
+  "0240": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0240_4305_QĐ-ĐHĐN_Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ củ.txt"
+  },
+  "0242": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0242_2367_QĐ-ĐHĐN_Quy định về việc tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại họ.txt"
+  },
+  "0243": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0243_08_2012_QH13_Luật 08_2012_QH13 Luật giáo dục đại học 2012.txt"
+  },
+  "0264": {
+   "ho_ten": "Vũ Đức Đam",
+   "hoc_ham": "",
+   "chuc_danh": "Chủ tịch",
+   "file": "Đào tạo/0264_1982_QĐ-TTg_Phê duyệt Khung trình độ quốc gia Việt Nam.txt"
+  },
+  "0266": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0266_28_2023_TT-BGDĐT_Quy chế đào tạo từ xa trình độ đại học.txt"
+  },
+  "0268": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0268_30_2023_TT-BGDĐT_Quy định về ứng dụng công nghệ thông tin trong đào tạo trực tuyến đối với gi.txt"
+  },
+  "0269": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0269_338_QĐ-ĐHBK_Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng tài liệu giảng dạy,.txt"
+  },
+  "0271": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0271_30_2023_TT-BGDĐT_Quy định về ứng dụng công nghệ thông tin trong đào tạo trực tuyến đối với gi.txt"
+  },
+  "0272": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0272_4912_QĐ-ĐHĐN_Quyết định 4912_QĐ-ĐHĐN Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt.txt"
+  },
+  "0313": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0313_07_2024_TT-BGDĐT_Thông tư sửa đổi, bổ sung Điều 7 và thay thế Phụ lục II, III của Thông tư số.txt"
+  },
+  "0357": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0357_1596_QĐ-BGDĐT_Danh mục ngành đào tạo thí điểm các trình độ của giáo dục đại học.txt"
+  },
+  "0378": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0378_4804_QĐ-ĐHĐN_Ban hành quy định đào tạo trực tuyến và đào tạo kết hợp của Đại học Đà Nẵng.txt"
+  },
+  "0379": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0379_2640_QĐ-BKHĐT_Phê duyệt Kế hoạch hoạt động triển khai Chương trình _Phát triển nguồn nhân lực n.txt"
+  },
+  "0385": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0385_4808_QĐ-ĐHĐN_Ban hành Quy định đào tạo trực tuyến và đào tạo kết hợp của Đại học Đà Nẵng.txt"
+  },
+  "0389": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0389_02_2025_TT-BGDĐT_Quy định Khung năng lực số cho người học.txt"
+  },
+  "0416": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đào tạo/0416_1214_QĐ-ĐHBK_Quyết định ban hành Quy định tổ chức và quản lý đào tạo trình độ Đại học của Trườn.txt"
+  },
+  "0421": {
+   "ho_ten": "Nguyễn Thị Anh Thi",
+   "hoc_ham": "",
+   "chuc_danh": "Phó chủ tịch",
+   "file": "Đào tạo/0421_104_KH-UBND_Kế hoạch triển khai thực hiện Quyết định số 1705_QĐ-TTg ngày 31_12_2024 của Thủ tư.txt"
+  },
+  "0427": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Đào tạo/0427_1314_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo về vi mạch bán dẫn trình độ đại họ.txt"
+  },
+  "0434": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0434_16_2024_TT-BGDĐT_Thông tư sửa đổi, bổ sung một số điều của Thông tư số 02_2022_TT-BGDĐT ngày.txt"
+  },
+  "0452": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0452_4757_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa.txt"
+  },
+  "0461": {
+   "ho_ten": "Phạm Ngọc Thưởng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0461_10_2026_TT-BGDĐT_Thông tư ban hành Quy chế văn bằng chứng chỉ của hệ thống giáo dục quốc dân.txt"
+  },
+  "0467": {
+   "ho_ten": "Phạm Ngọc Thưởng",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0467_754_QĐ-BGDĐT_Quyết định công bố thủ tục hành chính mới ban hành_ thủ tục hành chính được sửa đ.txt"
+  },
+  "0472": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0472_1280_QĐ-ĐHĐN_Quyết định ban hành Quy định số hóa dữ liệu văn bằng chứng chỉ của các đơn vị thuộ.txt"
+  },
+  "0474": {
+   "ho_ten": "Lê Quân",
+   "hoc_ham": "",
+   "chuc_danh": "Bộ trưởng",
+   "file": "Đào tạo/0474_1061_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo về đường sắt trình độ đại học.txt"
+  },
+  "0475": {
+   "ho_ten": "Lê Quân",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đào tạo/0475_1050_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo trình độ đại học các ngành về điện.txt"
+  },
+  "0489": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đào tạo/0489_1841_QĐ-ĐHĐN_Quyết định ban hành Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài.txt"
+  },
+  "0491": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0491_62_2026_TT-BGDĐT_Thông tư quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy.txt"
+  },
+  "0492": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0492_56_2026_TT-BGDĐT_Thông tư ban hành Quy chế đào tạo trình độ đại học.txt"
+  },
+  "0494": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đào tạo/0494_3107_QĐ-ĐHĐN_Quy chế văn bằng, chứng chỉ của Đại học Đà Nẵng New.txt"
+  },
+  "0158": {
+   "ho_ten": "Bùi Văn Ga",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đảm bảo chất lượng, KĐCL/0158_12_2017_TT-BGDÐT_Thông tư 12_2017_TT-BGDÐT Quy định về kiểm định chất lượng cơ sở giáo dục đại học.txt"
+  },
+  "0159": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đảm bảo chất lượng, KĐCL/0159_5778_BGDĐT-QLCL_5778_BGDĐT-QLCL Công văn của Bộ GDĐT về việc ứng dụng công nghệ thông tin trong.txt"
+  },
+  "0160": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đảm bảo chất lượng, KĐCL/0160_2085_QLCL-KĐCLGD_2085_QLCL-KĐCLGD Công văn về việc hướng dẫn tự đánh giá và đánh giá ngoài chươ.txt"
+  },
+  "0180": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đảm bảo chất lượng, KĐCL/0180_3982_ĐHĐN-ĐBCLGD_Quyết định 3982_ĐHĐN-ĐBCLGD Chiến lược đảm bảo chất lượng giáo dục Đại học Đà.txt"
+  },
+  "0203": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đảm bảo chất lượng, KĐCL/0203_11_2022_TT-BGDĐT_Thông tư 11_2022_TT-BGDĐT quy định về liên kết tổ chức thi cấp chứng chỉ năn.txt"
+  },
+  "0214": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đảm bảo chất lượng, KĐCL/0214_1394_QĐ-ĐHBK_Chính sách bảo đảm chất lượng giáo dục Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0215": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đảm bảo chất lượng, KĐCL/0215_1395_QĐ-ĐHBK_Quy định bảo đảm chất lượng giáo dục Trường Đại học Bách khoa, Đại học Đà Nẵng.txt"
+  },
+  "0216": {
+   "ho_ten": "Bùi Văn Ga",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đảm bảo chất lượng, KĐCL/0216_04_2016_TT-BGDĐT_Tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dụ.txt"
+  },
+  "0217": {
+   "ho_ten": "Bùi Văn Ga",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đảm bảo chất lượng, KĐCL/0217_33_2014_TT-BGDĐT_Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo điều dưỡng t.txt"
+  },
+  "0218": {
+   "ho_ten": "Bùi Văn Ga",
+   "hoc_ham": "",
+   "chuc_danh": "Thứ trưởng",
+   "file": "Đảm bảo chất lượng, KĐCL/0218_49_2012_TT-BGDĐT_Tiêu chuẩn đánh giá chất lượng chương trình đào tạo GV THPT trình độ Đại học.txt"
+  },
+  "0231": {
+   "ho_ten": "Lê Quang Sơn",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đảm bảo chất lượng, KĐCL/0231_3109_QĐ-ĐHĐN_Quyết định ban hành Chính sách đảm bảo chất lượng giáo dục của Đại học Đà Nẵng (cậ.txt"
+  },
+  "0411": {
+   "ho_ten": "Trưởng Ban",
+   "hoc_ham": "",
+   "chuc_danh": "Phó chủ tịch",
+   "file": "Đảm bảo chất lượng, KĐCL/0411_04_2025_TT-BGDĐT_Thông tư Quy định về kiểm định chất lượng chương trình đào tạo các trình độ.txt"
+  },
+  "0441": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Hiệu trưởng",
+   "file": "Đảm bảo chất lượng, KĐCL/0441_3707_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều tại _Quy định về liêm chính học thuật của.txt"
+  },
+  "0456": {
+   "ho_ten": "Lê Thành Bắc",
+   "hoc_ham": "PGS.TS",
+   "chuc_danh": "Phó giám đốc",
+   "file": "Đảm bảo chất lượng, KĐCL/0456_245_HD-ĐHĐN_Hướng dẫn Khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵ.txt"
+  },
+  "0473": {
+   "ho_ten": "",
+   "hoc_ham": "",
+   "chuc_danh": "",
+   "file": "Đảm bảo chất lượng, KĐCL/0473_20_2026_TT-BGDĐT_Thông tư quy định về kiểm định chất lượng cơ sở giáo dục đại học.txt"
+  }
+ },
+ "nguoi": {
+  "Đoàn Quang Vinh": {
+   "ho_ten": "Đoàn Quang Vinh",
+   "chuc_danh": [
+    "Hiệu trưởng"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 22
+  },
+  "Nguyễn Thị Kim Ngân": {
+   "ho_ten": "Nguyễn Thị Kim Ngân",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 10
+  },
+  "Nguyến Bắc Son": {
+   "ho_ten": "Nguyến Bắc Son",
+   "chuc_danh": [
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Nguyễn Sinh Hùng": {
+   "ho_ten": "Nguyễn Sinh Hùng",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 8
+  },
+  "Vũ Đức Đam": {
+   "ho_ten": "Vũ Đức Đam",
+   "chuc_danh": [
+    "Phó thủ tướng",
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 4
+  },
+  "Trần Thanh Mẫn": {
+   "ho_ten": "Trần Thanh Mẫn",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 9
+  },
+  "Nguyễn Kim Sơn": {
+   "ho_ten": "Nguyễn Kim Sơn",
+   "chuc_danh": [
+    "Thứ trưởng",
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 5
+  },
+  "Nguyễn Mạnh Toàn": {
+   "ho_ten": "Nguyễn Mạnh Toàn",
+   "chuc_danh": [
+    "Phó giám đốc"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 2
+  },
+  "Nguyễn Thị Nghĩa": {
+   "ho_ten": "Nguyễn Thị Nghĩa",
+   "chuc_danh": [
+    "Bộ trưởng",
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 3
+  },
+  "Nguyễn Văn Phúc": {
+   "ho_ten": "Nguyễn Văn Phúc",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 8
+  },
+  "Phạm Mạnh Hùng": {
+   "ho_ten": "Phạm Mạnh Hùng",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 5
+  },
+  "Nguyễn Ngọc Vũ": {
+   "ho_ten": "Nguyễn Ngọc Vũ",
+   "chuc_danh": [
+    "Giám đốc",
+    "Phó giám đốc"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 20
+  },
+  "Ngô Văn Dưỡng": {
+   "ho_ten": "Ngô Văn Dưỡng",
+   "chuc_danh": [
+    "Phó giám đốc"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 2
+  },
+  "Ngô Thị Minh": {
+   "ho_ten": "Ngô Thị Minh",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 3
+  },
+  "Trần Văn Nam": {
+   "ho_ten": "Trần Văn Nam",
+   "chuc_danh": [
+    "Giám đốc"
+   ],
+   "hoc_ham": "GS.TS",
+   "so_van_ban": 2
+  },
+  "Phạm Thanh Hà": {
+   "ho_ten": "Phạm Thanh Hà",
+   "chuc_danh": [
+    "Chủ nhiệm"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 2
+  },
+  "Nguyễn Tấn Dũng": {
+   "ho_ten": "Nguyễn Tấn Dũng",
+   "chuc_danh": [
+    "Thủ tướng",
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 10
+  },
+  "trưởng Bộ": {
+   "ho_ten": "trưởng Bộ",
+   "chuc_danh": [
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Nguyễn Hữu Hiếu": {
+   "ho_ten": "Nguyễn Hữu Hiếu",
+   "chuc_danh": [
+    "Hiệu trưởng",
+    "Phó hiệu trưởng"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 12
+  },
+  "Lê Quang Sơn": {
+   "ho_ten": "Lê Quang Sơn",
+   "chuc_danh": [
+    "Phó giám đốc",
+    "Giám đốc"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 12
+  },
+  "Quang Sơn": {
+   "ho_ten": "Quang Sơn",
+   "chuc_danh": [
+    "Phó giám đốc"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Lê Quân": {
+   "ho_ten": "Lê Quân",
+   "chuc_danh": [
+    "Thứ trưởng",
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 4
+  },
+  "Nguyễn Xuân Phúc": {
+   "ho_ten": "Nguyễn Xuân Phúc",
+   "chuc_danh": [
+    "Chủ tịch",
+    "Thủ tướng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 7
+  },
+  "Bùi Văn Ga": {
+   "ho_ten": "Bùi Văn Ga",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 5
+  },
+  "Nguyễn Thị Kim Chi": {
+   "ho_ten": "Nguyễn Thị Kim Chi",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Hoàng Minh Sơn": {
+   "ho_ten": "Hoàng Minh Sơn",
+   "chuc_danh": [
+    "Thứ trưởng",
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 8
+  },
+  "Trần Văn Tuấn": {
+   "ho_ten": "Trần Văn Tuấn",
+   "chuc_danh": [
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Phạm Công Tạc": {
+   "ho_ten": "Phạm Công Tạc",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Phạm Ngọc Thưởng": {
+   "ho_ten": "Phạm Ngọc Thưởng",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 4
+  },
+  "Trần Lưu Quang": {
+   "ho_ten": "Trần Lưu Quang",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Nguyễn Phú Trọng": {
+   "ho_ten": "Nguyễn Phú Trọng",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Phạm Vũ Luận": {
+   "ho_ten": "Phạm Vũ Luận",
+   "chuc_danh": [
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 2
+  },
+  "Nguyễn Vinh Hiến": {
+   "ho_ten": "Nguyễn Vinh Hiến",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 2
+  },
+  "Huỳnh Phong Tranh": {
+   "ho_ten": "Huỳnh Phong Tranh",
+   "chuc_danh": [
+    "Tổng Thanh tra"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Lê Minh Khái": {
+   "ho_ten": "Lê Minh Khái",
+   "chuc_danh": [
+    "Tổng Thanh tra"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Đoàn Hồng Phong": {
+   "ho_ten": "Đoàn Hồng Phong",
+   "chuc_danh": [
+    "Tổng Thanh tra"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 3
+  },
+  "Dương Quốc Huy": {
+   "ho_ten": "Dương Quốc Huy",
+   "chuc_danh": [
+    "Phó tổng Thanh tra"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Lê Vĩnh Tân": {
+   "ho_ten": "Lê Vĩnh Tân",
+   "chuc_danh": [
+    "Bộ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 2
+  },
+  "Phạm Thị Thanh Trà": {
+   "ho_ten": "Phạm Thị Thanh Trà",
+   "chuc_danh": [
+    "Chủ tịch",
+    "Phó thủ tướng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 3
+  },
+  "Lê Thành Bắc": {
+   "ho_ten": "Lê Thành Bắc",
+   "chuc_danh": [
+    "Phó giám đốc",
+    "Giám đốc"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 13
+  },
+  "Trần Xuân Hà": {
+   "ho_ten": "Trần Xuân Hà",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Phan Minh Đức": {
+   "ho_ten": "Phan Minh Đức",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 4
+  },
+  "Trần Hồng Hà": {
+   "ho_ten": "Trần Hồng Hà",
+   "chuc_danh": [
+    "Phó thủ tướng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Giang Sơn": {
+   "ho_ten": "Giang Sơn",
+   "chuc_danh": [
+    "Chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Phạm Bình Minh": {
+   "ho_ten": "Phạm Bình Minh",
+   "chuc_danh": [
+    "Phó thủ tướng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Phạm Minh Chính": {
+   "ho_ten": "Phạm Minh Chính",
+   "chuc_danh": [
+    "Thủ tướng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Huỳnh Phương Nam": {
+   "ho_ten": "Huỳnh Phương Nam",
+   "chuc_danh": [
+    "Phó hiệu trưởng"
+   ],
+   "hoc_ham": "TS",
+   "so_van_ban": 1
+  },
+  "Lê Tấn Dũng": {
+   "ho_ten": "Lê Tấn Dũng",
+   "chuc_danh": [
+    "Thứ trưởng"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Đoàn Quang Vinh Foc Đk": {
+   "ho_ten": "Đoàn Quang Vinh Foc Đk",
+   "chuc_danh": [
+    "Hiệu trưởng"
+   ],
+   "hoc_ham": "PGS.TS",
+   "so_van_ban": 1
+  },
+  "Nguyễn Thị Anh Thi": {
+   "ho_ten": "Nguyễn Thị Anh Thi",
+   "chuc_danh": [
+    "Phó chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  },
+  "Trưởng Ban": {
+   "ho_ten": "Trưởng Ban",
+   "chuc_danh": [
+    "Phó chủ tịch"
+   ],
+   "hoc_ham": "",
+   "so_van_ban": 1
+  }
+ }
+}
