@@ -84,16 +84,14 @@ Trường hợp đồ án hoặc luận văn có sản phẩm/mô hình, cho ph�
 6. Trình tự thực hiện
 
 | TT | Nội dung công việc | Đơn vị/ cá nhân thực hiện | Minh chứng |
-|---|---|---|---|
 | 1 | Người học có đơn xin bảo vệ trực tuyến gửi Khoa quản lý chuyên môn hoặc Phòng Đào tạo (đối với bảo vệ luận án tiến sĩ) | Người học | Đơn xin bảo vệ trực tuyến, có xác nhận đồng ý của CBHD (Mẫu 1). |
 | 2 | Khoa quản lý chuyên môn xin ý kiến Hội đồng (HĐ) cho phép người học bảo vệ trực tuyến (Đối với bảo vệ luận án tiến sĩ, Phòng Đào tạo chịu trách nhiệm xin ý kiến) | Khoa/Phòng Đào tạo | Hình thức xin ý kiến có thể bằng điện thoại, tin nhắn hoặc email. |
 
 ----- [Trang 6] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 | STT | Nội dung công việc | Người thực hiện | Sản phẩm/Kết quả |
-| :--- | :--- | :--- | :--- |
 | 3 | HĐ bảo vệ thảo luận, thống nhất đồng ý và đề nghị trình tự bảo vệ (dựa theo Hướng dẫn của Trường) gửi Khoa (hoặc Phòng Đào tạo) để thông báo cho người học có đơn xin bảo vệ. 
 (Ghi chú: Trong vòng 3 ngày, nếu người xin bảo vệ không có ý kiến phản hồi nghĩa là đồng ý. Trường sẽ tiến hành các thủ tục tiếp theo). | HĐ bảo vệ; Khoa quản lý chuyên môn | Xác nhận đồng ý của các thành viên HĐ (Mẫu 2). |
 | 4 | Khoa quản lý chuyên môn gửi Tờ trình đề nghị cho phép bảo vệ trực tuyến về Phòng Đào tạo (trước ngày bảo vệ ít nhất 10 ngày làm việc) | Khoa quản lý chuyên môn | Tờ trình (Mẫu 3) kèm theo đơn xin bảo vệ và xác nhận đồng ý của các thành viên HĐ |
@@ -104,10 +102,9 @@ Trường hợp đồ án hoặc luận văn có sản phẩm/mô hình, cho ph�
 | 9 | Khoa quản lý chuyên môn tổng hợp hồ sơ bảo vệ nộp về Phòng Đào tạo (chậm nhất 10 ngày sau khi kết thúc bảo vệ; trường hợp thành viên ở xa, cho phép 14 ngày) | Giáo vụ Khoa | Hồ sơ bảo vệ theo quy định. |
 | 10 | Nộp lưu chiểu sản phẩm đồ án/luận văn tốt nghiệp (trong thời gian 15 ngày làm việc sau khi kết thúc đợt bảo vệ) | Người học; Trung tâm HL&TT | Thuyết minh và các sản phẩm đồ án/luận văn tốt nghiệp (bản vẽ, chương trình máy tính, mô hình, đĩa CD/DVD lưu trữ file) |
 
-[TRANG 2]
+----- [Trang 2] -----
 
 | STT | Nội dung công việc | Người thực hiện | Sản phẩm/Kết quả |
-| :--- | :--- | :--- | :--- |
 | 11 | Lưu trữ hồ sơ bảo vệ | Phòng Đào tạo; Khoa quản lý chuyên môn | Hồ sơ bảo vệ theo quy định; video-clips buổi bảo vệ trực tuyến. |
 
 7. Tổ chức thực hiện
@@ -133,7 +130,7 @@ HIỆU TRƯỞNG
 (Ký tên và đóng dấu)
 PGS.TS. Đoàn Quang Vinh
 
-[TRANG 3]
+----- [Trang 3] -----
 
 Mẫu 1: Đơn đăng ký bảo vệ trực tuyến
 (Kèm theo Hướng dẫn số ........./HD-ĐHBK ngày tháng năm 2021)
@@ -168,7 +165,7 @@ Xác nhận của CBHD
 (Đối với luận văn/luận án tiến sĩ)
 (Ghi rõ đồng ý hay không đồng ý bảo vệ trực tuyến)
 
-[TRANG 4]
+----- [Trang 4] -----
 
 Mẫu 2: Xác nhận cho phép bảo vệ trực tuyến
 (Kèm theo Hướng dẫn số ........./HD-ĐHBK ngày tháng năm 2021)
@@ -206,7 +203,7 @@ Thư ký Hội đồng TM. Hội đồng
 (Ký và ghi rõ họ tên) Chủ tịch Hội đồng
  (Ký và ghi rõ họ tên)
 
-[TRANG 5]
+----- [Trang 5] -----
 
 Mẫu 3: Tờ trình đề nghị cho phép bảo vệ trực tuyến
 (Kèm theo Hướng dẫn số ........./HD-ĐHBK ngày tháng năm 2021)
@@ -251,7 +248,6 @@ SINH VIÊN/HỌC VIÊN/NGHIÊN CỨU SINH BẢO VỆ ĐỒ ÁN/LUẬN VĂN/LUẬ
 (Kèm theo Tờ trình số ngày tháng năm 2021 của Trưởng khoa Khoa .........)
 
 | TT | Họ và tên | MSSV | Lớp | Ghi chú |
-|----|-----------|------|-----|---------|
 | | | | | |
 | | | | | |
 | | | | | |

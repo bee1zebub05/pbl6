@@ -1,6 +1,6 @@
 ----- [Trang 1] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -38,7 +38,7 @@ Chi tiết các nhiệm vụ, đơn vị chủ trì, sản phẩm cần đạt v
 3.1. Thủ trưởng các đơn vị thuộc, trực thuộc Bộ
 a) Căn cứ nội dung, nhiệm vụ được phân công tại Kế hoạch này chủ động xây dựng kế hoạch chi tiết, đề xuất kinh phí và tổ chức thực hiện theo quy định tại Nghị...
 
-[TRANG 2]
+----- [Trang 2] -----
 
 ...định 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước; Nghị định số 82/2024/NĐ-CP ngày 10/7/2024 sửa đổi, bổ sung một số điều của Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ và các quy định hiện hành có liên quan.
 
@@ -74,7 +74,6 @@ Danh mục một số nhiệm vụ thực hiện Quyết định số 127/QĐ-TT
 (Kèm theo Quyết định số 4268/QĐ-BGDĐT ngày 30 tháng 12 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo)
 
 | TT | Nội dung nhiệm vụ chủ yếu | Đơn vị chủ trì | Thời gian thực hiện | Nhiệm vụ / Sản phẩm chủ yếu | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Phát triển cơ sở dữ liệu (CSDL) chuyên ngành; ứng dụng CSDL phục vụ quản lý điều hành, cung cấp dịch vụ công trực tuyến | Vụ GDĐH, Vụ GDTX, Vụ GDTrH, Vụ GDTH, Vụ GDMN | Năm 2025-2030 | - Phát triển các CSDL dùng chung, CSDL chuyên ngành về giáo dục (CSDL về giáo dục mầm non, CSDL về giáo dục phổ thông, CSDL về giáo dục thường xuyên, CSDL về giáo dục đại học), liên thông kết nối chia sẻ phục vụ quản lý điều hành, cung cấp dịch vụ công trực tuyến | Quyết định 142/QĐ-TTg ngày 02/02/2024 |
 | | | Cục CNTT | Năm 2025-2030 | - Tích hợp, đồng bộ dữ liệu từ CSDL ngành giáo dục về Trung tâm dữ liệu quốc gia.
 - Xây dựng Khung quản trị dữ liệu, kiến trúc dữ liệu và các mục từ điển dữ liệu và bổ sung vào Khung kiến trúc Chính phủ điện tử Bộ GDĐT.

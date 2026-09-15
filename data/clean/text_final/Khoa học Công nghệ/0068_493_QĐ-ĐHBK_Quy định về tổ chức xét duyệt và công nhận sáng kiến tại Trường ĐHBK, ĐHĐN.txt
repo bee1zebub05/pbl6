@@ -191,7 +191,6 @@ g) Minh chứng đính kèm: kèm theo các minh chứng do việc triển khai,
 1. Tiêu chí, thang điểm đánh giá sáng kiến
 
 | STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa |
-| :--- | :--- | :--- | :--- |
 | 1 | Tính mới, tính sáng tạo | Không trùng với giải pháp của người khác đã được công nhận trong phạm vi trong và ngoài Nhà trường. | 15 |
 | Chưa được công bố công khai chi tiết trong các văn bản, sách báo, tài liệu kĩ thuật đến mức căn cứ vào đó có thể dễ dàng thực hiện được hoạt động/công việc | 10 |
 | Chưa được quy định thành tiêu chuẩn, quy trình, quy phạm bắt buộc phải thực hiện | 10 |
@@ -285,7 +284,6 @@ a) Họ và tên tác giả:……………………………………………�
 Hoặc nhóm tác giả:
 
 | Số TT | Họ và tên | Nơi công tác | Chức danh | Trình độ chuyên môn | Tỷ lệ (%) đóng góp vào việc tạo ra sáng kiến (ghi rõ đối với từng đồng tác giả, nếu có) | Chữ ký |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
@@ -303,21 +301,21 @@ d) Lĩnh vực áp dụng sáng kiến:…………………………………�
 
 e) Mô tả bản chất của sáng kiến
 - Tính mới:
-  …………………………………………………………………………………………………
+ …………………………………………………………………………………………………
 - Nội dung sáng kiến:
-  …………………………………………………………………………………………………
+ …………………………………………………………………………………………………
 - Khả năng và phạm vi áp dụng:
-  …………………………………………………………………………………………………
+ …………………………………………………………………………………………………
 - Các thông tin cần được bảo mật (nếu có):
-  …………………………………………………………………………………………………
+ …………………………………………………………………………………………………
 
 ----- [Trang 13] -----
 13
 
 - Minh chứng kèm theo: Cam kết không sao chép hoặc vi phạm bản quyền:
-  …………………………………………………………………………………………………
+ …………………………………………………………………………………………………
 - Ngày Hội đồng cơ sở xét công nhận sáng kiến:
-  …………………………………………………………………………………………………
+ …………………………………………………………………………………………………
 
 Tôi (chúng tôi) xin cam đoan mọi thông tin nêu trong đơn là trung thực, đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật.
 
@@ -352,7 +350,6 @@ Là thành viên trong nhóm nghiên cứu/hoạt động tạo ra sản phẩm 
 Tôi đồng ý cho các thành viên sau được sử dụng các kết quả của nhóm nghiên cứu/hoạt động trên để đăng ký sáng kiến cấp Trường Đại học Bách khoa – ĐHĐN.
 
 | Số TT | Họ và tên | Năm sinh | Đơn vị công tác (hoặc nơi thường trú) |
-| :---: | :---: | :---: | :---: |
 | 1 | | | |
 | 2 | | | |
 
@@ -386,7 +383,6 @@ I. Thông tin chung
 6. Thành viên tham gia thực hiện sáng kiến (01 tác giả chính và tối đa 04 đồng tác giả)
 
 | Số TT | Họ và tên | Nơi công tác | Chức danh | Trình độ chuyên môn | Tỷ lệ (%) đóng góp vào việc tạo ra sáng kiến (ghi rõ đối với từng đồng tác giả, nếu có) | Chữ ký |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | |
 | | | | | | | |
 
@@ -394,9 +390,9 @@ II. Nội dung:
 
 1. Tình trạng công việc trước khi đề xuất giải pháp và sự cần thiết cải tiến công việc:
 2. Nội dung chi tiết của sáng kiến:
-   2.1. Tính mới, tính sáng tạo của sáng kiến
-   2.2. Kết quả áp dụng hoặc áp dụng thử tại cơ quan/đơn vị (so với khi chưa áp dụng)
-   2.3. Khả năng mang lại lợi ích thiết thực
+ 2.1. Tính mới, tính sáng tạo của sáng kiến
+ 2.2. Kết quả áp dụng hoặc áp dụng thử tại cơ quan/đơn vị (so với khi chưa áp dụng)
+ 2.3. Khả năng mang lại lợi ích thiết thực
 3. Khả năng tiếp tục duy trì, phát triển mở rộng:
 
 Xác nhận của đơn vị áp dụng sáng kiến
@@ -422,13 +418,12 @@ PHIẾU ĐÁNH GIÁ SÁNG KIẾN CẤP CƠ SỞ
 - Họ và tên (chức danh khoa học, học vị): ......................................................................
 - Thành phần Hội đồng:
 Là Chủ tịch: [ ]
-Ủy viên: [ ]  Ủy viên, thư ký: [ ]
+Ủy viên: [ ] Ủy viên, thư ký: [ ]
 (tích dấu x vào ô tương ứng)
 
 3. Đánh giá
 
 | STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa |
-| :--- | :--- | :--- | :--- |
 | 1 | Tính mới, tính sáng tạo | Không trùng với giải pháp của người khác đã được công nhận trong phạm vi trường ĐHBK-ĐHĐN | 15 |
 | | | Chưa được công bố công khai chi tiết trong các văn bản, sách báo, tài liệu kĩ thuật đến mức căn cứ vào đó có thể dễ dàng thực hiện được hoạt động/công việc | 10 |
 | | | Chưa được quy định thành tiêu chuẩn, quy trình, quy phạm bắt buộc phải thực hiện | 10 |
@@ -439,7 +434,6 @@ Là Chủ tịch: [ ]
 17
 
 | STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa |
-| :--- | :--- | :--- | :--- |
 | | | Có khả năng nhân rộng, phổ biến, áp dụng rộng rãi cho các đơn vị khác trong Trường hoặc ra ngoài xã hội | 10 |
 | 3 | Tính hiệu quả | Mang lại hiệu quả kinh tế và xã hội cho các cá nhân trong đơn vị | 15 |
 | | | Có khả năng mang lại hiệu quả kinh tế và xã hội thiết thực khi mở rộng áp dụng cho toàn trường hoặc ra ngoài xã hội | 15 |
@@ -494,13 +488,11 @@ a) Kết quả chấm điểm sáng kiến của từng Ủy viên Hội đồng
 b) Kết quả tổng hợp cho điểm của Hội đồng:
 
 | STT | Tên sáng kiến | Tên tác giả/đồng tác giả | Điểm trung bình Hội đồng² |
-| :---: | :---: | :---: | :---: |
 | 1 | | | |
 
 3. Kết quả biểu quyết của Hội đồng
 
 | STT | Tên sáng kiến | Tên tác giả/ đồng tác giả | Biểu quyết của Hội đồng | Kết luận Hội đồng |
-| :---: | :---: | :---: | :---: | :---: |
 | | | | Số phiếu đạt/Tổng số thành viên | Số phiếu không đạt/Tổng số thành viên |
 | 1 | | | | Đạt/Không đạt |
 
@@ -514,7 +506,6 @@ b) Kết quả tổng hợp cho điểm của Hội đồng:
 Căn cứ kết quả họp đánh giá, thẩm định sáng kiến, đề nghị Hội đồng xét và công nhận sáng kiến cấp Trường xem xét đưa vào danh sách xét và công nhận sáng kiến cấp Trường cho các sáng kiến sau:
 
 | STT | Tên sáng kiến | Tên tác giả/ đồng tác giả | Điểm trung bình Hội đồng | Kết quả |
-| :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | Đạt/không đạt |
 
 Cuộc họp kết thúc hồi ......giờ, ngày ... tháng ...năm ...... Biên bản đã được các thành viên Hội đồng nhất trí thông qua./.
@@ -556,13 +547,11 @@ a) Kết quả chấm điểm sáng kiến của từng Ủy viên Hội đồng
 b) Kết quả tổng hợp cho điểm của Hội đồng:
 
 | STT | Tên sáng kiến | Tên tác giả/đồng tác giả | Điểm trung bình Hội đồng³ |
-| :---: | :---: | :---: | :---: |
 | 1 | | | |
 
 4. Kết quả biểu quyết của Hội đồng
 
 | STT | Tên sáng kiến | Tên tác giả/ đồng tác giả | Biểu quyết của Hội đồng | Kết luận Hội đồng |
-| :---: | :---: | :---: | :---: | :---: |
 | | | | Số phiếu đạt/Tổng số thành viên | Số phiếu không đạt/Tổng số thành viên |
 | 1 | | | | Đạt/Không đạt |
 
@@ -576,7 +565,6 @@ b) Kết quả tổng hợp cho điểm của Hội đồng:
 Căn cứ kết quả họp đánh giá, thẩm định sáng kiến, đề nghị Hiệu trưởng Trường Đại học Bách khoa - ĐHĐN quyết định công nhận/không công nhận Sáng kiến cấp Trường cho các sáng kiến sau:
 
 | STT | Tên sáng kiến | Tên tác giả/ đồng tác giả | Điểm trung bình Hội đồng | Kết quả |
-| :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | Đạt/không đạt |
 
 Cuộc họp kết thúc hồi ...... giờ, ngày ... tháng ... năm ...... Biên bản đã được các thành viên Hội đồng nhất trí thông qua./.

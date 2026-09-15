@@ -940,7 +940,6 @@ Trang 37
 PHỤ LỤC 2. BẢNG QUY ĐỊNH VỀ HỆ SỐ PHỤ CẤP CHỨC VỤ
 
 | STT | Chức vụ | Hệ số |
-|---|---|---|
 | 1 | Giám đốc ĐHĐN, Chủ tịch Hội đồng ĐHĐN | 1.1 |
 | 2 | Phó Giám đốc ĐHĐN, Phó Chủ tịch Hội đồng ĐHĐN | 1.0 |
 | 3 | Hiệu trưởng, Chủ tịch Hội đồng trường trường đại học | 1.0 |

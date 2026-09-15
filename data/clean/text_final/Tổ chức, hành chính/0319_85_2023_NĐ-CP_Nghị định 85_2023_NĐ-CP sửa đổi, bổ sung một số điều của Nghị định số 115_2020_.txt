@@ -680,7 +680,6 @@ Trình độ chuyên môn: .....................................................
 II. THÔNG TIN CƠ BẢN VỀ GIA ĐÌNH(4)
 
 | Mối quan hệ | Họ và tên | Ngày, tháng, năm sinh | Quê quán, nghề nghiệp, chức danh, chức vụ, đơn vị công tác, học tập, nơi ở (trong, ngoài nước); thành viên các tổ chức chính trị - xã hội) |
-| :--- | :--- | :--- | :--- |
 | | | | |
 | | | | |
 
@@ -690,14 +689,12 @@ II. THÔNG TIN CƠ BẢN VỀ GIA ĐÌNH(4)
 III. THÔNG TIN VỀ QUÁ TRÌNH ĐÀO TẠO
 
 | Tên trường, cơ sở đào tạo cấp | Ngày, tháng, năm cấp văn bằng, chứng chỉ | Trình độ văn bằng, chứng chỉ | Số hiệu của văn bằng, chứng chỉ | Chuyên ngành đào tạo (ghi theo bảng điểm) | Ngành đào tạo | Hình thức đào tạo | Xếp loại bằng, chứng chỉ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | | |
 | | | | | | | | |
 
 IV. THÔNG TIN VỀ QUÁ TRÌNH CÔNG TÁC (nếu có)
 
 | Từ ngày, tháng, năm đến ngày, tháng, năm | Cơ quan, tổ chức, đơn vị công tác |
-| :--- | :--- |
 | | |
 | | |
 

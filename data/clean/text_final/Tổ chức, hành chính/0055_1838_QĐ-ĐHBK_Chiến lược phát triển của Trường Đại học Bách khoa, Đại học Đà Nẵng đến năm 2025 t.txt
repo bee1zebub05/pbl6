@@ -1,5 +1,4 @@
 ----- [Trang 1] -----
-TRANG 1
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
@@ -51,9 +50,8 @@ HIỆU TRƯỞNG
 (Đã ký)
 PGS.TS. ĐOÀN QUANG VINH
 
-TRANG 2
-
 ----- [Trang 2] -----
+
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 
@@ -63,13 +61,11 @@ TRƯỜNG ĐẠI HỌC BÁCH KHOA, ĐẠI HỌC ĐÀ NẴNG ĐẾN NĂM 2025, T�
 
 Đà Nẵng, tháng 7 năm 2021
 
-TRANG 3
-
 ----- [Trang 3] -----
+
 DANH MỤC CHỮ VIẾT TẮT
 
 | Chữ viết tắt | Nội dung đầy đủ |
-| :--- | :--- |
 | CBVC | Cán bộ viên chức |
 | CGCN | Chuyển giao công nghệ |
 | CLC | Chất lượng cao |
@@ -95,9 +91,8 @@ DANH MỤC CHỮ VIẾT TẮT
 | SV | Sinh viên |
 | TTTT | Thông tin truyền thông |
 
-TRANG 4
-
 ----- [Trang 4] -----
+
 MỤC LỤC
 
 I. MỞ ĐẦU ............................................................................................................... 1
@@ -122,9 +117,8 @@ III. CHIẾN LƯỢC PHÁT TRIỂN TRƯỜNG ĐHBK-ĐHĐN ĐẾN NĂM 2025, TẦ
 IV. TỔ CHỨC THỰC HIỆN, GIÁM SÁT VÀ ĐÁNH GIÁ KẾT QUẢ ...................... 32
 PHỤ LỤC .................................................................................................................. 33
 
-TRANG 5
-
 ----- [Trang 5] -----
+
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 
@@ -209,7 +203,6 @@ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy đị
 Mức độ hoàn thành các chỉ tiêu phát triển chiến lược trong giai đoạn 2015-2020 được phân tích và đánh giá như sau:
 
 | TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
-| :--- | :--- | :--- |
 | 1 | Trường Đại học Bách khoa phải tham gia kiểm định quốc gia và đạt tiêu chuẩn chất lượng | - Trung tâm KĐCLGD ĐHQG Hà Nội công nhận đạt chất lượng giáo dục (theo 10 tiêu chuẩn và 61 tiêu chí của Bộ GD&ĐT) từ tháng 10/2016 đến tháng 10/2021;
 - Tổ chức KĐCLGD Châu Âu HCERES công nhận đạt chất lượng giáo dục (theo 6 lĩnh vực, 17 phạm vi/tiêu chuẩn, 29 tham chiếu/tiêu chí) từ tháng 06/2017 đến tháng 06/2022.
 Đánh giá: Đạt |
@@ -222,7 +215,6 @@ Trang 5
 
 ----- [Trang 10] -----
 TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
-| :--- | :--- | :--- |
 | 3 | 100% các tiêu chí chất lượng trường đại học liên quan đến cơ sở vật chất phải được thỏa mãn | - Theo Kết quả đánh giá ngoài của Trung tâm KĐCLGD ĐHQG Hà Nội, đến tháng 10/2016, Nhà trường đạt được 52/61 tiêu chí. Tiêu chí về thư viện (tiêu chí 9.1) đã được cải tiến, khắc phục. Các tiêu chí Đạt khác cũng được cải tiến thêm.
 Đánh giá: Đạt |
 | 4 | Tất cả các CTĐT phải tự đánh giá theo bộ tiêu chuẩn AUN, trong đó có 70% các CTĐT được đánh giá nội bộ. | - 100% CTĐT đại học đã hoàn thành rà soát tự đánh giá; 100% CTĐT đại học được thẩm định hồ sơ tự đánh giá cho giai đoạn 2015-2019 theo tiêu chuẩn AUN-QA
@@ -239,7 +231,6 @@ TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
 ==Trang 1==
 
 | TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
-|---|---|---|
 | | | Đánh giá: Không Đạt |
 | 7 | Tỷ lệ giảng viên có bằng tiến sĩ đạt 40-50%. | - Tỷ lệ hiện nay: 65,9% (232/352) 
  Đánh giá: Đạt |
@@ -270,7 +261,6 @@ TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
 
 ----- [Trang 12] -----
 TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
-|---|---|---|
 | 14 | 100% các khoa phải có chương trình, dự án hợp tác quốc tế cụ thể | - Tỷ lệ hiện nay: 14/14 khoa 
  Đánh giá: Đạt |
 | 15 | Ký mới 05 MOU | - Năm 2015: 17 
@@ -304,7 +294,6 @@ TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
 
 ----- [Trang 13] -----
 TT | Tên chỉ tiêu | Kết quả đánh giá (tính đến 12/2020) |
-|---|---|---|
 | | | + Đa số các đơn vị đã triển khai khoảng 75%; đơn vị triển khai đạt tỷ lệ thấp nhất là 27%; một vài đơn vị đã triển khai đạt 100%. 
  * Năm 2018: 
  + Về đề cương: 100% các Bộ môn có đầy đủ đề cương chi tiết 

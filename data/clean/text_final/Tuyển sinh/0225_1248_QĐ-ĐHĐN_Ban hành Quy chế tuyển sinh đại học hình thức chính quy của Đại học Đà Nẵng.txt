@@ -58,7 +58,7 @@ QUY ĐỊNH CHUNG
 bao gồm: quy định chung; nhiệm vụ và quyền hạn của Hội đồng tuyển sinh
 (HĐTS); tổ chức thi tuyển; xét tuyển đào tạo hình thức chính quy; xét tuyển đào
 tao các hình thức chính quy khác; thông báo trúng tuyển và nhập học; thanh tra,
-kiểm tra xử lý sai phạm, báo cáo, Iưu trữ và tổ chức thực hiện.
+kiểm tra xử lý sai phạm, báo cáo, lưu trữ và tổ chức thực hiện.
 2 Quy chế này áp dụng đối với các trường đại học thành viên và các đơn vị
 đào tao thuộc, trực thuộc Đại học Đà Nẵng (ĐHĐN) (sau đây gọi là cơ sở đào
 tao)
@@ -83,7 +83,7 @@ bố trước khi thực hiện theo thời gian quy định của Quy chế tuy
 
 Điều 3. Xác định chỉ tiêu tuyển sinh
 1. ĐHĐN thực hiện điều tiết đội ngũ giảng viên tham gia giảng dạy ở nhiều
-cơ sở đào tạo theo số luợng giờ giảng thực tế của năm học trước liền kề, điều tiết
+cơ sở đào tạo theo số lượng giờ giảng thực tế của năm học trước liền kề, điều tiết
 cơ sở vật chất dùng chung để các cơ sở đào tạo xác định chỉ tiêu tuyển sinh.
 2. Căn cứ trên năng lực đội ngũ, cơ sở vật chất; các điều kiện đảm bảo chất
 lượng và các quy định xác định chỉ tiêu tuyển sinh hiện hành, các cơ sở đào tạo
@@ -177,16 +177,16 @@ h) Thực hiện các nhiệm vụ khác do Chủ tịch HĐTS ĐHĐN giao.
 Điều 7. Tổ chức, nhiệm vụ và quyền hạn của HĐTS cơ sở đào tạo
 1. Thẩm quyền thành lập HĐTS cơ sở đào tao
 a) Hiệu trưởng trường đại học thành viên quyết định thành lập HĐTS của
-trường để điều hành công tác tuyển sinh tại truờng:
+trường để điều hành công tác tuyển sinh tại trường:
 b) Thủ trưởng các đơn vị đào tạo thuộc, trực thuộc tham mưu Giám đốc
 ĐHĐN quyết định thành lập HĐTS của đơn vị để điều hành công tác tuyển sinh
 tai đơn vị.
 2. Thành phần của HĐTS cơ sở đào tạo
-a) HĐTS truờng đại học thành viên gồm có:
+a) HĐTS trường đại học thành viên gồm có:
 Chủ tịch: Hiệu trưởng hoặc Phó Hiệu trưởng;
-Phó Chủ tịch: Phó Hiệu truởng;
+Phó Chủ tịch: Phó Hiệu trưởng;
 Ủy viên thường trực: Trưởng phòng hoặc Phó trưởng phòng Phòng Đào tạo
-hoặc phòng chức năng được giao nhiệm vụ tuyển sinh của truờng;
+hoặc phòng chức năng được giao nhiệm vụ tuyển sinh của trường;
 Các ủy viên: Trưởng phòng hoặc Phó trưởng phòng một số phòng chức
 năng, Trưởng khoa hoặc Phó trưởng Khoa liên quan đến công tác tuyển sinh, cán
 bộ công nghệ thông tin của trường
@@ -240,7 +240,7 @@ Chương III
 TỔ CHỨC THI TUYỂN
 Điều 8. Tổ chức kỳ thi chung
 1. ĐHĐN tổ chức kỳ thi chung để tuyển sinh đại học chính quy vào các cơ
-sở đào tạo khi đảm bảo đủ năng Iực về đội ngũ, cơ sở vật chất và các điều kiện
+sở đào tạo khi đảm bảo đủ năng lực về đội ngũ, cơ sở vật chất và các điều kiện
 khác theo quy định của Quy chế tuyển sinh. Việc tổ chức thi được thực hiện sau
 khi đã ban hành quy chế thi và đề án tổ chức thi, được công bố trên trang thông
 tin điện tử của ĐHĐN đồng thời đã báo cáo Bộ GDĐT ít nhất 30 ngày trước khi
@@ -263,7 +263,7 @@ ngày trước khi thí sinh bắt đầu đăng ký dự thi.
 Điều 10. Tổ chức thi tuyển đào tạo liên thông
 1. ĐHĐN tổ chức thi tuyển đào tạo liên thông từ trình độ trung cấp; cao đẳng
 lên đại học vào các đơn vị đào tạo thuộc, trực thuộc. Các trường đại học thành
-viên tổ chức thi tuyển đào tạo liên thông vào truờng.
+viên tổ chức thi tuyển đào tạo liên thông vào trường.
 2. Môn thi tuyển sinh đào tạo liên thông được thực hiện theo Quy định đào
 tạo liên thông:
 
@@ -412,7 +412,7 @@ với tất cả các phương thức tuyển sinh, các đợt tuyển.
 3. ĐHĐN gửi giấy báo trúng tuyển cho tất cả thí sinh trúng tuyển. Các cơ sở
 đào tạo cung cấp thông tin về các thủ tục cần thiết và phương thức nhập học của
 thí sinh về ĐHĐN để làm giấy báo trúng tuyển cho thí sinh.
-Điều 22. Bảo Iưu kết quả trúng tuyển
+Điều 22. Bảo lưu kết quả trúng tuyển
 1 Thí sinh đã có giấy báo nhập học được bảo luu kết quả trúng tuyển khi
 đáp ứng các điều kiện được quy định trong Quy chế tuyển sinh.
 
@@ -422,7 +422,7 @@ thí sinh về ĐHĐN để làm giấy báo trúng tuyển cho thí sinh.
 luu kèm theo giấy tờ minh chứng đến cơ sở đào tạo trúng tuyển. Thời gian tối đa
 được bảo lưu kết quả trúng tuyển do cơ sở đào tạo quy định và không trái với Quy
 chế tuyển sinh. Sau khi tiếp nhận đơn xin bảo lưu, cơ sở đào tạo cho ý kiến về các
-trường hợp xin bảo Iưu kết quả trúng tuyển và chuyển hồ sơ về ĐHĐN để giải
+trường hợp xin bảo lưu kết quả trúng tuyển và chuyển hồ sơ về ĐHĐN để giải
 quyết.
 3. ĐHĐN kiểm tra hồ sơ và ban hành quyết định bảo lưu kết quả trúng tuyển;
 trong quyết . định ghi cụ thể thời gian bảo lưu tối đa đối với từng thí sinh.
@@ -458,14 +458,14 @@ thi, đăng ký xét tuyển bị buộc thôi học và cấm dự tuyển vào
 12
 3. Quy chế tổ chức thi tuyển của cơ sở đào tạo chủ trì tổ chức thi quy định
 chi tiết việc xử lý cán bộ, thí sinh có hành vi vi phạm trong quá trình thi.
-Điều 26. Báo cáo, Iưu trữ
+Điều 26. Báo cáo, lưu trữ
 1. Hội đồng tuyển sinh của các cơ sở đào tạo được giao nhiệm vụ chủ trì tổ
 chức thi tuyển, xét tuyển phải báo cáo kết quả tuyển sinh về ĐHĐN theo yêu cầu;
 báo cáo các tình huống bất thường trong quá trình tổ chức tuyển sinh về ĐHĐN
 để kịp thời xử lý.
 2. ĐHĐN hoặc cơ sở đào tạo được giao nhiệm vụ chủ trì tổ chức tuyển sinh
 thực hiện lưu trữ hồ sơ tổ chức thi, hồ sơ xét tuyển theo các quy định hiện hành
-về Iưu trữ hồ sơ tuyển sinh.
+về lưu trữ hồ sơ tuyển sinh.
 Chương VIII
 TỔ CHỨC THỰC HIỆN
 Điều 27.Trách nhiệm của ĐHĐN
@@ -477,7 +477,7 @@ trì tổ chức thực hiện hoặc giao cho các cơ sở đào tạo chủ t
 3 Triển khai các kỳ thi tuyển; các phương thức tuyển sinh do ĐHĐN chủ trì
 tổ chức thực hiện.
 4 Quyết định việc tuyển sinh không áp dụng một số điều, khoản theo Quy
-chế này trong điều kiện thiên tai, dịch bệnh và các truờng hợp bất khả kháng khác
+chế này trong điều kiện thiên tai, dịch bệnh và các trường hợp bất khả kháng khác
 nhung không trái với quy định của pháp luật.
 5. Thực hiện việc thu chi đối với hoạt động tuyển sinh do ĐHĐN chủ trì thực
 hiện theo đúng quy định hiện hành.
@@ -487,7 +487,7 @@ chế này và các quy định hiện hành.
 Điều 28. Trách nhiệm của các cơ sở đào tạo
 1. Các trường đại học thành viên ban hành quy chế tuyển sinh của trường, kế
 hoạch tuyển sinh và các văn bản hướng dẫn về công tác tuyển sinh áp dụng tại
-truờng; thành lập HĐTS của trường.
+trường; thành lập HĐTS của trường.
 
 ----- [Trang 14] -----
 

@@ -418,7 +418,6 @@ Cùng thống nhất thực hiện các điều khoản sau:
 1.1 Bên B thực hiện giảng dạy cho Bên A trong học kỳ ..... năm học .................... như sau:
 
 | TT | Tên học phần | Mã học phần | Lớp học phần | Số tín chỉ | Trình độ | Thời gian giảng dạy |
-|----|--------------|-------------|--------------|------------|----------|-------------------|
 | | | | | | | |
 | | | | | | | |
 
@@ -478,12 +477,10 @@ Trong học kỳ..........., năm học 20...20... đã tham gia công tác th�
 
 1. Giảng dạy, hướng dẫn, tham gia hội đồng:
 | STT | Tên học phần | Mã học phần | Lớp học phần | Trình độ | Số tín chỉ | Thời gian giảng dạy |
-|-----|--------------|-------------|--------------|----------|------------|---------------------|
 | 1 | | | | | | |
 
 2. Tham gia xây dựng và phát triển chương trình đào tạo, biên soạn giáo trình, tài liệu giảng dạy, tham khảo:
 | STT | Nội dung | Thời gian thực hiện |
-|-----|----------|---------------------|
 | 1 | | |
 
 II. Nhận xét của Khoa/Bộ môn:
@@ -560,12 +557,11 @@ III. Quá trình nghiên cứu khoa học
  Sách, giáo trình (ghi rõ: tên tác giả, tên sách, NXB, năm xuất bản)
  Hướng dẫn sau đại học
 | Stt | Họ và Tên, Tên đề tài | Trình độ | Cơ sở đào tạo | Năm hướng dẫn | Bảo vệ năm |
-|-----|-----------------------|----------|---------------|----------------|------------|
 | 1 | | | | | |
 
 ----- [Trang 21] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 Các học phần và môn giảng dạy (ghi rõ tên các học phần đã từng giảng dạy ở bậc đại học và sau đại học)
 
@@ -575,7 +571,7 @@ XÁC NHẬN CỦA CƠ QUAN
 NGƯỜI KHAI
 (Ký và ghi rõ họ tên)
 
-[TRANG 2]
+----- [Trang 2] -----
 
 Mẫu M7 – Kế hoạch mời giảng viên thỉnh giảng
 (Ban hành kèm theo Quyết định số 1562/QĐ-ĐHBK ngày 02 tháng 6 năm 2021)
@@ -611,7 +607,7 @@ STT | Nội dung | Số lượng | Thời gian giảng dạy
 
 HIỆU TRƯỞNG
 
-[TRANG 3]
+----- [Trang 3] -----
 
 Mẫu M8 – Đơn xin thỉnh giảng tại đơn vị ngoài
 (Ban hành kèm theo Quyết định số 1562/QĐ-ĐHBK ngày 02 tháng 6 năm 2021)
@@ -650,7 +646,7 @@ Căn cứ kế hoạch của Trường và nhiệm vụ được phân công tro
 
 Kính đề nghị Quý cấp Lãnh đạo chấp thuận cho tôi thực hiện công tác thỉnh giảng trong thời gian trên. Tôi xin chấp hành mọi quy định của Trường và cam kết hoàn thành các nhiệm vụ được phân công tại đơn vị khi được tham gia thỉnh giảng.
 
-[TRANG 4]
+----- [Trang 4] -----
 
 Trân trọng!
 
@@ -672,7 +668,7 @@ TRƯỞNG KHOA (PHÒNG)
 HIỆU TRƯỞNG
 (Ký tên và đóng dấu)
 
-[TRANG 5]
+----- [Trang 5] -----
 
 Mẫu M9 – Báo cáo kết quả thỉnh giảng tại đơn vị ngoài
 (Ban hành kèm theo Quyết định số 1562/QĐ-ĐHBK ngày 02 tháng 6 năm 2021)

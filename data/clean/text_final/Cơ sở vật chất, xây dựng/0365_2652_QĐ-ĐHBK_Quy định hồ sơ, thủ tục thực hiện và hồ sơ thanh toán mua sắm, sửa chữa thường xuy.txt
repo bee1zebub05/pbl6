@@ -60,7 +60,6 @@ thường xuyên dưới 100 triệu đồng tại Trường Đại học Bách 
 *(Kèm theo Quyết định số 2652/QĐ-ĐHBK ngày 01 tháng 7 năm 2024 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)*
 
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :---: | :--- | :--- | :--- | :--- |
 | 1 | Dưới 5.000.000đ. | - BGH phê duyệt đề xuất và nội dung thực hiện.
 - 01 báo giá đối với mua sắm công cụ, dụng cụ (không thông qua Tổ xét duyệt giá).
 - Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
@@ -145,7 +144,6 @@ dựng).
 4
 
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :---: | :--- | :--- | :--- | :--- |
 | 4.1 | Từ 50.000.000đ đến dưới 100.000.000đ (đối với hạng mục mua sắm, sửa chữa máy móc thiết bị) | - BGH phê duyệt chủ trương/nội dung thực hiện.
 - Biên bản kiểm tra/báo cáo hiện trạng (đối với gói thầu sửa chữa máy móc, thiết bị).
 - Thư mời báo giá.
@@ -187,7 +185,6 @@ Quyết định phê duyệt dự toán và KHLCNT.
 5
 
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :---: | :--- | :--- | :--- | :--- |
 | | | - Quyết định phê duyệt dự toán và KHLCNT.
 - Thương thảo hợp đồng.
 - Quyết định phê duyệt kết quả lựa chọn nhà thầu.
@@ -226,7 +223,6 @@ Quyết định phê duyệt dự toán và KHLCNT.
 
 ----- [Trang 8] -----
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :---: | :--- | :--- | :--- | :--- |
 | | | - Dự thảo KHLCNT các gói thầu tư vấn.
 - Báo cáo thẩm định KHLCNT các gói thầu tư vấn.
 - Quyết định phê duyệt KHLCNT các gói thầu tư vấn.
@@ -263,7 +259,6 @@ STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | H�
 
 ----- [Trang 9] -----
 Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :---: | :--- | :--- | :--- | :--- |
 | | | dụng.
 - Bộ hồ sơ quyết toán (*).
 - Hóa đơn tài chính.
@@ -318,7 +313,6 @@ Cung cấp chứng nhận xuất xưởng/ chứng nhận hợp quy/phiếu ki�
 BIỂU MẪU BAN HÀNH
 
 | STT | Mã hiệu | Tên biểu mẫu |
-| :---: | :---: | :--- |
 | 1 | BM.01 | Mẫu biên bản kiểm tra, báo cáo hiện trạng |
 | 2 | BM.02 | Mẫu thư mời báo giá |
 | 3 | BM.03 | Hồ sơ dự toán |

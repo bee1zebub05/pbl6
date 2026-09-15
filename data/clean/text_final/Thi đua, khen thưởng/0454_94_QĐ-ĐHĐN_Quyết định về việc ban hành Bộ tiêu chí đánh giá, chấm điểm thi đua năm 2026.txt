@@ -1,5 +1,4 @@
 ----- [Trang 1] -----
-TRANG 1
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC ĐÀ NẴNG
@@ -27,15 +26,13 @@ GIÁM ĐỐC
 (Đã ký)
 PGS.TS. Nguyễn Ngọc Vũ
 
-TRANG 2
-
 ----- [Trang 2] -----
+
 Phụ lục I
 BỘ TIÊU CHÍ ĐÁNH GIÁ, CHẤM ĐIỂM THI ĐUA CÁC TRƯỜNG ĐẠI HỌC THÀNH VIÊN NĂM 2026
 (Kèm theo Quyết định số 94/QĐ-ĐHĐN ngày 12 tháng 01 năm 2026 của Giám đốc Đại học Đà Nẵng)
 
 Stt | Tiêu chí | Yêu cầu minh chứng | Điểm tối đa | Cách tính điểm
---- | --- | --- | --- | ---
 I | LĨNH VỰC TUYỂN SINH VÀ ĐÀO TẠO (Ban ĐT&ĐBCLGD phụ trách thẩm định) | | |
 1 | Kết quả tuyển sinh đại học chính quy | Kết quả tuyển sinh đại học chính quy (tính bằng tỉ lệ % số thí sinh nhập học/chỉ tiêu thông báo) | 20 | - Từ 90% trở lên: 20 điểm. - Từ 80% đến dưới 90%: 15 điểm. - Từ 70% đến dưới 80%: 10 điểm. - Từ 60% đến dưới 70%: 5 điểm. - Dưới 60%: 0 điểm.
 2 | Tăng quy mô đào tạo tiến sĩ | Tỉ lệ % tăng quy mô nghiên cứu sinh so với năm trước liền kề | 20 | - Từ 100% trở lên: 20 điểm. - Từ 50% đến dưới 100%: 15 điểm. - Từ 20% đến dưới 50%: 10 điểm. - Dưới 20%: 5 điểm. - Không tăng hoặc giảm: 0 điểm. Ghi chú: Các trường đại học thành viên (ĐHTV) chưa đào tạo tiến sĩ sẽ không áp dụng tiêu chí này
@@ -43,12 +40,13 @@ I | LĨNH VỰC TUYỂN SINH VÀ ĐÀO TẠO (Ban ĐT&ĐBCLGD phụ trách thẩ
 4 | Phát triển các chương trình đào tạo (CTĐT) giảng dạy bằng tiếng Anh và tăng cường tiếng Anh hoặc một số ngôn ngữ phổ biến khác | Quyết định ban hành hoặc tổ chức CTĐT bằng tiếng Anh/tăng cường tiếng Anh, ngôn ngữ khác | 20 | - Phát triển mới 01 CTĐT giảng dạy hoàn toàn bằng tiếng Anh: 10 điểm. - Phát triển mới 01 CTĐT giảng dạy tăng cường tiếng Anh hoặc một ngôn ngữ phổ biến khác: 5 điểm.
 5 | Phát triển các chương trình liên kết đào tạo với các trường top 200 thế giới | Thỏa thuận ký kết và bắt đầu triển khai thực hiện | 20 | - Mở mới 01 CTĐT cấp bằng đối với trường top thế giới (vào thời điểm ký kết thỏa thuận): + Trường top 200: 20 điểm. + Trường top 500: 10 điểm.
 
-TRANG 3
+----- [Trang 3] -----
 
 (Tiếp theo trang 2)
 -
 
 ----- [Trang 3] -----
+
 Mở mới 01 CTĐT liên kết đào tạo với trường top thế giới: + Trường top 200: 10 điểm. + Trường top 500: 5 điểm.
 
 II | LĨNH VỰC KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG GIÁO DỤC (Ban ĐT&ĐBCLGD phụ trách thẩm định) | | |
@@ -56,11 +54,12 @@ II | LĨNH VỰC KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG GIÁO DỤC (Ban �
 2 | Cung cấp dữ liệu Học giả phục vụ xếp hạng đại học | Danh sách các học giả mới đồng ý chuyển tiếp thông tin liên hệ của họ để QS thực hiện khảo sát Uy tín học thuật. | 25 | Tỷ lệ học giả đồng thuận (I) là số học giả đồng thuận quy đổi trong năm đánh giá (C) chia cho tổng số giảng viên (toàn thời gian) của đơn vị (F): I = C/F. I được tính như sau: - Từ 25% trở lên: 25 điểm. - Từ 20% đến dưới 25%: 20 điểm. - Từ 15% đến dưới 20%: 15 điểm. - Từ 10% đến dưới 15%: 10 điểm. - Dưới 10%: 5 điểm. - 0%: 0 điểm. Trong đó: - Số học giả đồng thuận quy đổi trong năm học thi đua (C) = 1,7 x Số học giả quốc tế đồng thuận trong năm học thi đua (C1) + 0,3 x Số học giả trong nước đồng thuận trong năm học thi đua (C2) - Tổng số giảng viên (toàn thời gian) của đơn vị được tính theo số liệu báo cáo của đơn vị trong thu thập dữ liệu xếp hạng QS Asia của năm đánh giá thi đua. Ghi chú: Tỷ lệ đóng góp về số lượng học giả trong năm học được xác định theo từng năm.
 3 | Cung cấp dữ liệu Nhà tuyển dụng phục vụ xếp hạng đại học | Danh sách những người tuyển dụng mới đồng ý chuyển tiếp thông tin liên hệ của họ để QS thực hiện khảo sát Uy tín tuyển dụng. | 25 | Tỷ lệ người tuyển dụng đồng thuận (K) là số người tuyển dụng đồng thuận trong năm đánh giá (D) chia cho tổng số SV có việc làm (được tuyển dụng) (O): K = D/O. K được tính như sau: - Từ 8% trở lên: 25 điểm. - Từ 6% đến dưới 8%: 20 điểm. - Từ 4% đến dưới 6%: 15 điểm.
 
-TRANG 4
+----- [Trang 4] -----
 
 -
 
 ----- [Trang 4] -----
+
 Từ 2% đến dưới 4%: 10 điểm.
 - Dưới 2%: 5 điểm.
 - 0%: 0 điểm.
@@ -73,11 +72,12 @@ III | LĨNH VỰC KHOA HỌC CÔNG NGHỆ (Ban KH&HTQT phụ trách thẩm đị
 1 | Số sản phẩm khoa học (bài báo, sách chuyên khảo, báo cáo hội nghị, tác phẩm nghệ thuật, bằng độc quyền giải pháp hữu ích...) trên giảng viên | Thống kê số sản phẩm khoa học như Mẫu 1_KHCN kèm theo | 40 | - Từ 1 trở lên: 40 điểm. - Từ 0,5 đến dưới 1: 30 điểm. - Từ 0,3 đến dưới 0,5: 20 điểm. - Dưới 0,3: 10 điểm. Tổng số công bố khoa học và công trình ứng dụng khoa học, công nghệ của cơ sở GDĐH được ghi nhận trong năm (P), chia cho số giảng viên toàn thời gian. P = P1 + P2 x 3 + P3 x 5 Trong đó: + P1 là tổng số bài báo tạp chí, báo cáo hội nghị nằm trong các danh mục do Hội đồng Giáo sư Nhà nước công bố, số bằng độc quyền giải pháp hữu ích; + P2 là số sách chuyên khảo được xuất bản; số tác phẩm nghệ thuật, thành tích thể dục thể thao đạt giải thưởng quốc gia, quốc tế; + P3 là số bằng độc quyền sáng chế.
 2 | Số công bố WoS/Scopus đạt được trong năm | - Thống kê số lượng bài báo đăng trên tạp chí thuộc Danh mục WoS/Scopus như Mẫu 2_KHCN kèm theo. | 30 | Điểm được tính bằng mức độ hoàn thành số lượng công bố WoS, Scopus theo Quyết định giao nhiệm vụ của Giám đốc ĐHĐN về việc thực hiện Thông báo kết luận số 45-TB/TGV:
 
-TRANG 5
+----- [Trang 5] -----
 
 -
 
 ----- [Trang 5] -----
+
 Thống kê danh mục công bố khoa học trên tạp chí/Kỷ yếu thuộc danh mục WoS/Scopus như Mẫu 3_KHCN kèm theo. | - Đạt 100% chỉ tiêu tổng số công bố WoS, Scopus theo năm: 30 điểm. - Đạt a% chỉ tiêu, điểm được tính: a% x 30 điểm.
 
 3 | Hội thảo trường tổ chức/đồng tổ chức trong năm học và sự kiện đổi mới sáng tạo (ĐMST), khởi nghiệp do trường tổ chức/đồng tổ chức. | Thống kê danh mục các hội thảo/Sự kiện ĐMST, khởi nghiệp như Mẫu 4_KHCN kèm theo. | 20 | Điểm được tính bằng: 10xHw + 6xHs + 3xHi + 2xHr + 1xH (Nếu số điểm lớn hơn 20 thì tính là 20 điểm) - Hw: Số lượng hội thảo có kỷ yếu thuộc cơ sở dữ liệu (CSDL) WoS/Scopus hoặc Số lượng hội thảo/Sự kiện ĐMST, khởi nghiệp do trường đồng tổ chức với cơ quan Trung ương - Hs: Số lượng hội thảo/Sự kiện ĐMST, khởi nghiệp do trường đồng tổ chức với cơ quan Bộ, ngành, UBND tỉnh/thành phố; hội thảo chuyên đề cấp quốc gia - Hi: Số lượng hội thảo quốc tế khác xuất bản kỷ yếu có ISBN - Hr: Số lượng hội thảo cấp trường xuất bản kỷ yếu có ISBN - H: Số lượng hội thảo/Sự kiện ĐMST, khởi nghiệp khác Ghi chú: Các hội thảo, sự kiện bổ sung Quyết định thành lập Ban tổ chức do cấp có thẩm quyền ban hành (từ cấp Trường trở lên).
@@ -88,6 +88,7 @@ IV | LĨNH VỰC HỢP TÁC QUỐC TẾ (Ban KH&HTQT phụ trách thẩm định
 1 | Thực hiện các hoạt động hợp tác quốc tế (HTQT) theo đúng quy định hiện hành (quản lý đoàn vào - đoàn ra, ký kết văn bản hợp tác quốc tế, xin cấp phép dự án và hội thảo quốc tế, quản lý các chương trình liên kết đào tạo với nước ngoài, quản lý thông tin về HTQT) và phối hợp hiệu quả trong các hoạt động, nhiệm vụ HTQT chung của ĐHĐN. | Báo cáo định kỳ theo quý kết quả hoạt động HTQT của đơn vị và công tác phối hợp trong hoạt động HTQT chung của ĐHĐN; các báo cáo khác theo quy định về công tác quản lý hoạt động HTQT tại ĐHĐN. | 10 | Vi phạm mỗi lần trừ 1 điểm cho bất kỳ hoạt động (trễ hạn, không thực hiện đúng quy định ảnh hưởng kết quả, uy tín chung của ĐHĐN)
 
 ----- [Trang 6] -----
+
 5
 
 2 | Tỷ lệ giảng viên, nghiên cứu viên, chuyên gia nước ngoài tham gia giảng dạy/nghiên cứu/làm việc (trực tiếp hoặc trực tuyến) tại đơn vị (Tỷ lệ GV quốc tế) và Tỷ lệ nhân chức, giảng viên của đơn vị, trao đổi, học tập/nghiên cứu ở nước ngoài (Tỷ lệ GV Outbound) trong năm | - Thống kê danh sách giảng viên, nghiên cứu viên, chuyên gia nước ngoài như Mẫu 5_HTQT kèm theo. - Thống kê danh sách giảng viên đi học tập, trao đổi và NCKH ở nước ngoài như Mẫu 6_HTQT kèm theo. | 25 | Tổng điểm = điểm tỷ lệ GV quốc tế + điểm tỷ lệ GV Outbound. Trong đó: - Điểm tỷ lệ GV quốc tế (tối đa 15 điểm) được tính dựa trên tỷ lệ GV quốc tế trên tổng số GV của đơn vị trong năm đánh giá so với năm trước liền kề được tính như sau: + Từ 5% trở lên: 15 điểm. + Từ 3% đến dưới 5%: 10 điểm. + Dưới 3%: 5 điểm. + 0%: 0 điểm. - Điểm tỷ lệ GV Outbound (tối đa 10 điểm) được tính dựa trên tỷ lệ GV trao đổi, học tập/nghiên cứu ở nước ngoài trên tổng số GV của đơn vị trong năm đánh giá so với năm trước liền kề được tính như sau: + Từ 4% trở lên: 10 điểm. + Từ 2% đến dưới 4%: 7 điểm. + Dưới 2%: 4 điểm. + 0%: 0 điểm |
@@ -98,6 +99,7 @@ IV | LĨNH VỰC HỢP TÁC QUỐC TẾ (Ban KH&HTQT phụ trách thẩm định
 | 4 | Mạng lưới đối tác chiến lược (Số lượng thỏa thuận hợp tác được ký mới hoặc thỏa thuận triển khai hiệu quả với các đối tác chiến lược (các tập đoàn, công ty, tổ chức lớn và/hoặc các đại học thuộc Top 500 thế giới theo QS/THE1) | - Thống kê danh mục các bản ghi nhớ (MOU) và/hoặc thỏa thuận (MOA) như Mẫu 9_HTQT kèm theo; - Báo cáo kết quả triển khai các hoạt động hợp tác cụ thể (trao đổi, dự án chung...) trong năm đánh giá. | 15 | -
 
 ----- [Trang 7] -----
+
 Đạt từ 3% trở lên: 2 điểm. - Đạt từ 2% đến dưới 3%: 1 điểm. - Từ 8 trở lên: 15 điểm. - Từ 5 đến 7: 10 điểm. - Từ 3 đến 4: 7 điểm. - Từ 1 đến 2: 5 điểm. - Không có: 0 điểm. |
 | 5 | Mạng lưới đối tác chiến lược (Số lượng các sự kiện quốc tế (hội nghị quốc tế; hội thảo quốc tế; các sự kiện học thuật, giao lưu và nghiên cứu quy mô lớn có yếu tố nước ngoài) do đơn vị tổ chức/đồng tổ chức triển khai trong năm) | - Thống kê danh mục các sự kiện quốc tế (hội nghị, hội thảo quốc tế, các sự kiện học thuật, giao lưu và nghiên cứu quy mô lớn có yếu tố nước ngoài) như Mẫu 10_HTQT kèm theo. - Danh sách chuyên gia/diễn giả quốc tế tham gia. | 10 | - Từ 20 trở lên: 10 điểm. - Từ 10 đến 19: 7 điểm. - Dưới 10: 4 điểm. - Không có: 0 điểm. * Ghi chú: - Khái niệm "Hội nghị, hội thảo quốc tế" theo quy định hiện hành của Chính phủ. - "Sự kiện học thuật, giao lưu và nghiên cứu" được xác định có quy mô lớn khi đáp ứng một trong các tiêu chí sau: + Ít nhất 50 người tham dự (trực tiếp + trực tuyến). + Kéo dài ≥2 ngày. + Tập trung nhiều báo cáo khoa học (≥10 báo cáo). |
 | 6 | Dự án quốc tế Tổng kinh phí huy động từ các hợp tác nghiên cứu quốc tế, dự án quốc tế, các tài trợ quốc tế triển khai trong năm | Danh mục các dự án quốc tế, các tài trợ quốc tế như Mẫu 11_HTQT kèm theo. | 20 | 1. Tính tổng kinh phí (KP) huy động được: Tổng KP = Σ (KP các đơn vị) 2. Tính tỷ trọng: Tỷ trọng (%) = (KP đơn vị/Tổng KP) * 100 3. Xếp hạng và cho điểm: - Hạng 1: 20 điểm - Hạng 2: 17 điểm - Hạng 3: 14 điểm - Hạng 4: 11 điểm - Hạng 5: 8 điểm - Hạng 6: 5 điểm - Đơn vị không huy động được kinh phí: 0 điểm |
@@ -109,6 +111,7 @@ IV | LĨNH VỰC HỢP TÁC QUỐC TẾ (Ban KH&HTQT phụ trách thẩm định
 V |
 
 ----- [Trang 8] -----
+
 LĨNH VỰC TỔ CHỨC CÁN BỘ (Ban TCCB phụ trách thẩm định)
 
 | 1 | Tỷ lệ giảng viên, nghiên cứu viên cơ hữu có trình độ tiến sĩ (tính trên tổng số giảng viên, nghiên cứu viên) | Báo cáo số lượng và tỷ lệ giảng viên, nghiên cứu viên cơ hữu có trình độ tiến sĩ tại thời điểm báo cáo so với tháng 12 của năm trước liền kề | 30 | Tỷ lệ giảng viên, nghiên cứu viên cơ hữu có trình độ tiến sĩ trong năm đánh giá so với tỷ lệ theo Quyết định giao nhiệm vụ của Giám đốc ĐHĐN được tính như sau: - Đạt từ 100% trở lên: 30 điểm. - Đạt từ 90% đến dưới 100%: 25 điểm. - Đạt từ 80% đến dưới 90%: 20 điểm. - Đạt từ 70% đến dưới 80%: 15 điểm. - Đạt từ 60% đến dưới 70%: 10 điểm. - Đạt từ 50% đến dưới 60%: 5 điểm. - Đạt dưới 50%: 0 điểm. |
@@ -121,6 +124,7 @@ LĨNH VỰC TỔ CHỨC CÁN BỘ (Ban TCCB phụ trách thẩm định)
 | 5 | Công tác tổ chức, nhân sự |
 
 ----- [Trang 9] -----
+
 Các văn bản triển khai, thực hiện về công tác quy hoạch, bổ nhiệm, bổ nhiệm lại, tổ chức sắp xếp, đề án vị trí việc làm, giải quyết chế độ chính sách | 20 | - Thực hiện đầy đủ, đúng quy định, đúng thời gian: 20 điểm. - Thực hiện không đầy đủ; chưa đúng quy định; chậm so với thời gian quy định: Mỗi lỗi 01 lỗi: trừ 5 điểm. |
 | 6 | Thực hiện đánh giá viên chức, người lao động theo KPI | Quyết định ban hành bộ tiêu chí chí đánh giá viên chức, người lao động của đơn vị vị theo KPI | 10 | - Đã ban hành và áp dụng trong toàn Trường: 10 điểm - Đã ban hành nhưng chưa áp dụng toàn trường: 5 điểm - Chưa ban hành: 0 điểm. |
 
@@ -136,6 +140,7 @@ VI | LĨNH VỰC KẾ HOẠCH – TÀI CHÍNH (Ban KHTC phụ trách thẩm đ�
 | | | -
 
 ----- [Trang 10] -----
+
 Đề nghị xử lý cán bộ, viên chức ở trên mức nhắc nhở. | | |
 
 VII | LĨNH VỰC CƠ SỞ VẬT CHẤT VÀ ĐẦU TƯ (Ban QL CSVC&ĐT phụ trách thẩm định)
@@ -146,6 +151,7 @@ VII | LĨNH VỰC CƠ SỞ VẬT CHẤT VÀ ĐẦU TƯ (Ban QL CSVC&ĐT phụ tr
 | 4 | Công tác Quy hoạch, Chuẩn bị đầu tư và Xây dựng Tiêu chuẩn định mức (TCĐM). | - Quyết định phê duyệt Quy hoạch chi tiết (1/500) hoặc điều chỉnh quy hoạch. | 20 | - Đề xuất dự án đầu tư sai lệch với quy hoạch được duyệt, dẫn đến phải điều chỉnh: -5 điểm. |
 
 ----- [Trang 11] -----
+
 10
 
 - TCĐM diện tích công trình sự nghiệp, TCĐM máy móc, thiết bị chuyên dùng.
@@ -197,6 +203,7 @@ VIII LĨNH VỰC CÔNG TÁC SV, QHDN VÀ TRUYỀN THÔNG (Ban CTSV, QHDN&TT ph�
 (
 
 ----- [Trang 12] -----
+
 theo Quyết định số 4882/QĐ-ĐHĐN); Đẩy mạnh hợp tác doanh nghiệp
 - trong giảng viên, SV được thành lập trong năm;
 - Minh chứng về doanh nghiệp khởi nghiệp thành công, được định giá
@@ -243,6 +250,7 @@ IX LĨNH VỰC PHÁP CHẾ, KIỂM TRA VÀ GIẢI QUYẾT ĐƠN THƯ (Ban TTPC p
 - Không phát sinh đơn thư: 30 điểm;
 
 ----- [Trang 13] -----
+
 12
 
 tại đơn vị; không để phát sinh tình trạng đơn thư vượt cấp
@@ -291,6 +299,7 @@ Mức độ chuẩn hóa, cập nhật và đồng bộ dữ liệu vào Kho d�
 - Chuẩn hóa, cập nhật và đồng bộ đạt 50% - dưới 70% theo danh mục kế hoạch: 10 điểm.
 
 ----- [Trang 14] -----
+
 13
 
 - Chuẩn hóa, cập nhật dưới 50% theo danh mục kế hoạch: 5 điểm.
@@ -337,6 +346,7 @@ Tỷ lệ (%) mức độ khai thác, sử dụng các hệ thống thông tin d
 + Đạt dưới 3: 2 điểm.
 
 ----- [Trang 15] -----
+
 14
 
 - Số lượng bài giảng điện tử đã sản xuất trong năm và đưa sử dụng theo kế hoạch năm đã ban hành.
@@ -395,7 +405,8 @@ Văn bản hành chính tại đơn vị được phát hành dưới dạng vă
 - Dưới 40%: 0 điểm.
 
 ----- [Trang 16] -----
-[TRANG 1]
+
+----- [Trang 1] -----
 
 15
 
@@ -407,9 +418,10 @@ XẾP LOẠI ĐƠN VỊ | TỔNG ĐIỂM
 
 Ghi chú: Các trường đại học thành viên thực hiện báo cáo tự đánh giá, cung cấp minh chứng lên hệ thống https://kpi.udn.vn/ theo thời gian quy định của ĐHĐN. Trên cơ sở đó, Văn phòng ĐHĐN, các ban chức năng và Trung tâm Công nghệ Thông tin và Học liệu số ĐHĐN được giao phụ trách theo lĩnh vực sẽ rà soát, thẩm định xét duyệt điểm của các Trường để làm cơ sở đánh giá xếp loại chất lượng, bình xét thi đua khen thưởng theo quy định.
 
-[TRANG 2]
+----- [Trang 2] -----
 
 ----- [Trang 17] -----
+
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC ĐÀ NẴNG
 
@@ -420,7 +432,6 @@ TIÊU CHÍ ĐÁNH GIÁ, CHẤM ĐIỂM THI ĐUA CÁC ĐƠN VỊ DỊCH VỤ, Đ�
 1. Nhóm 1, gồm: Phân hiệu ĐHĐN tại Kon Tum, Trường Y Dược, Viện Nghiên cứu và Đào tạo Việt – Anh
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :--- | :--- |
 | I | LĨNH VỰC TỔ CHỨC ĐÀO TẠO, TUYỂN SINH, KĐCL CHƯƠNG TRÌNH ĐÀO TẠO (Ban ĐT&ĐBCLGD phụ trách thẩm định) | | | |
 | 1 | Kết quả tuyển sinh đại học chính quy | Kết quả tuyển sinh đại học chính quy (tính bằng tỉ lệ % số thí sinh nhập học/chỉ tiêu thông báo) | 25 | - Từ 90% trở lên: 25 điểm. 
  - Từ 80% đến dưới 90%: 20 điểm. 
@@ -443,13 +454,13 @@ TIÊU CHÍ ĐÁNH GIÁ, CHẤM ĐIỂM THI ĐUA CÁC ĐƠN VỊ DỊCH VỤ, Đ�
  - 0%: 0 điểm. 
  Trong đó: ... |
 
-[TRANG 3]
+----- [Trang 3] -----
 
 |
 
 ----- [Trang 18] -----
+
 Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :--- | :--- |
 | | (Tiếp theo tiêu chí 4) | | | - Số học giả đồng thuận quy đổi trong năm học thi đua (C) = 1,7 x Số học giả quốc tế đồng thuận trong năm học thi đua (CI) + 0,3 x Số học giả trong nước đồng thuận trong năm học thi đua (C2) 
  - Tổng số giảng viên (toàn thời gian) của đơn vị được tính theo số liệu báo cáo của đơn vị trong thu thập dữ liệu xếp hạng QS Asia của năm đánh giá. 
  2. Tỷ lệ người tuyển dụng đồng thuận (K) là số người tuyển dụng đồng thuận trong năm đánh giá (D) chia cho tổng số SV có việc làm (được tuyển dụng) (O): K = D/O. K được tính như sau: 
@@ -470,13 +481,13 @@ Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
  Trong đó: 
  + P1 là tổng số bài báo tạp chí, báo cáo hội nghị nằm trong các danh mục do Hội đồng Giáo sư Nhà nước công bố, số bằng độc quyền giải pháp hữu ích; |
 
-[TRANG 4]
+----- [Trang 4] -----
 
 |
 
 ----- [Trang 19] -----
+
 Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :--- | :--- |
 | | (Tiếp theo tiêu chí 1) | | | + P2 là số sách chuyên khảo được xuất bản; số tác phẩm nghệ thuật, thành tích thể dục thể thao đạt giải thưởng quốc gia, quốc tế; 
  + P3 là số bằng độc quyền sáng chế. 
  Điểm được tính bằng mức độ hoàn thành nhiệm vụ số công bố WoS, Scopus theo QĐ giao nhiệm vụ của ĐHĐN về việc thực hiện Thông báo kết luận số 45-TB/TGV: 
@@ -492,13 +503,13 @@ Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
 | 4 | Thành lập nhóm nghiên cứu mạnh/tiềm năng/ứng dụng | Quyết định thành lập nhóm nghiên cứu | 10 | Xây dựng ít nhất 01 nhóm nghiên cứu mạnh/tiềm năng/ứng dụng: 10 điểm |
 | 5 | Thực hiện các hoạt động HTQT theo đúng quy định hiện hành (quản lý đoàn vào - đoàn ra, ký kết văn bản hợp tác quốc tế, xin cấp phép dự án và hội thảo quốc tế, quản lý các chương trình liên kết đào tạo với nước ngoài, quản lý thông tin về HTQT) và phối hợp hiệu quả trong các hoạt động, nhiệm vụ HTQT chung của ĐHĐN. | Báo cáo định kỳ theo quý kết quả hoạt động HTQT của đơn vị và công tác phối hợp trong hoạt động HTQT chung của ĐHĐN; các báo cáo khác theo quy định về công tác quản lý hoạt động HTQT tại ĐHĐN. | 20 | Vi phạm mỗi lần trừ 1 điểm cho bất kỳ hoạt động (trễ hạn, không thực hiện đúng quy định hoặc ảnh hưởng kết quả, uy tín chung của ĐHĐN) |
 
-[TRANG 5]
+----- [Trang 5] -----
 
 |
 
 ----- [Trang 20] -----
+
 Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :--- | :--- |
 | | (Tiếp theo tiêu chí 5) | | | |
 | 6 | Tỷ lệ giảng viên, nghiên cứu viên, chuyên gia nước ngoài tham gia giảng dạy/nghiên cứu/làm việc (trực tiếp hoặc trực tuyến) tại đơn vị | Thống kê danh sách giảng viên, nghiên cứu viên, chuyên gia nước ngoài như Mẫu 5_HTQT kèm theo. | 30 | 1. Đối với Viện VNUK: 
  - Đạt từ 5% trở lên: 30 điểm. 
@@ -537,7 +548,6 @@ Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
 page 5
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | | | | | - Có sinh viên đạt giải thưởng, cuộc thi học thuật, NCKH, ĐMST và khởi nghiệp (cấp ĐHĐN trở lên): Giải Nhất: 4 điểm; Giải Nhì: 3 điểm, Giải Ba: 2 điểm; Giải Khuyến khích: 1 điểm (chỉ tính giải cao nhất trong 1 giải thưởng, cuộc thi) (tổng không quá 6 điểm) |
 | 3 | Đẩy mạnh hợp tác doanh nghiệp | Các MOU/MOA ký kết, báo cáo kết quả hợp tác doanh nghiệp. | 20 | - Ký kết, triển khai MOU/MOA với 01 doanh nghiệp, đối tác mới: 2 điểm (tổng không quá 10 điểm); Không ký kết, triển khai MOU/MOA với doanh nghiệp, đối tác mới: Trừ 2 điểm. |
 | | | | | - Hợp tác doanh nghiệp có hiệu quả, sản phẩm, có học kỳ doanh nghiệp/chương trình học-làm, có sản phẩm chuyển giao, có đầu tư tăng cường trang thiết bị, ngày hội tuyển dụng...: Mỗi hoạt động cấp trường tính 1 điểm (tổng không quá 10 điểm). |
@@ -555,7 +565,6 @@ page 5
 page 4
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 4 | Xây dựng Kế hoạch và tổ chức thực hiện đầy đủ Kế hoạch kiểm tra | - Bản Kế hoạch công tác kiểm tra năm do thủ trưởng đơn vị phê duyệt. 
 - Hồ sơ tổ chức các cuộc kiểm tra: quyết định, thông báo kết quả kiểm tra. | 25 | - Thực hiện đầy đủ các cuộc kiểm tra theo kế hoạch (có đầy đủ hồ sơ các cuộc kiểm tra): 25 điểm, thiếul 01 văn bản/ cuộc kiểm tra: -5 điểm; 
 - Thực hiện thiếu so với Kế hoạch: 
@@ -586,7 +595,6 @@ page 4
 page 3
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 3 | Hiệu quả quản lý, khai thác tài sản công. Ứng dụng chuyển đổi số trong quản lý tài sản công. | - Dữ liệu trên phần mềm quản lý tài sản. 
 - Nhật ký sử dụng PTN/Xưởng. 
 - Hợp đồng khai thác, liên kết (nếu có). 
@@ -612,7 +620,6 @@ Khai thác hiệu quả tài sản phù hợp công năng sử dụng, cập nh�
 page 2
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 3 | Ban hành văn bản quy phạm nội bộ và thực hiện nghiêm túc các báo cáo theo yêu cầu liên quan đến công tác kế hoạch tài chính | - Các quy chế, quy định và hướng dẫn được ban hành đầy đủ, kịp thời và đúng quy định; 
 - Các báo cáo theo yêu cầu của ĐHĐN hoặc qua kênh của ĐHĐN được thực hiện đầy đủ, kịp thời và đạt yêu cầu. | 30 | - Đầy đủ, kịp thời và đúng quy định: 30 điểm 
 - Thiếu 01 văn bản hoặc 1 báo cáo: trừ 05 điểm 
@@ -644,7 +651,6 @@ R2 đạt từ 90% trở lên: 25 điểm (mức chuẩn). Tính từ mức chu�
 page 1
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 2 | Số lượng giảng viên đi đào tạo tiến sĩ | Báo cáo thống kê số lượng kèm theo Quyết định cử giảng viên đi đào tạo tiến sĩ của cấp có thẩm quyền | 10 | - Đạt từ 60% đến dưới 70%: 10 điểm. 
 - Đạt từ 50% đến dưới 60%: 5 điểm. 
 - Đạt dưới 50%: 0 điểm. 
@@ -677,12 +683,12 @@ Số lượng giảng viên đã được cử đi đào tạo tiến sĩ trong 
 - Tăng từ 4% đến dưới 6%: 10 điểm. |
 
 ----- [Trang 26] -----
-TRANG 1
+
+----- [Trang 1] -----
 
 10
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 2 | Số hóa hồ sơ, tài liệu và quy trình làm việc | Danh mục, tỷ lệ hồ sơ, tài liệu, quy trình đã số hóa kèm báo cáo thống kê. | 20 | - Chuẩn hóa, cập nhật dưới đạt 50% theo danh mục kế hoạch: 5 điểm.
 - Không thực hiện: 0 điểm.
 Mức độ số hóa hồ sơ, tài liệu và quy trình làm việc của đơn vị được đánh giá theo tỷ lệ (%) thực hiện so với kế hoạch do ĐHĐN ban hành, cụ thể như sau:
@@ -705,15 +711,15 @@ Mức độ số hóa hồ sơ, tài liệu và quy trình làm việc của đ�
 + Đạt dưới 20: 2 điểm.
  |
 
-TRANG 2
+----- [Trang 2] -----
 
 11
 
 |
 
 ----- [Trang 27] -----
+
 Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | | | các phần mềm quản lý tài nguyên số của trường.
 - Số lượng bài giảng điện tử đã sản xuất trong năm và đưa vào sử dụng theo kế hoạch năm đã ban hành. | | - Số bản sách trên người học:
 + Đạt 5 trở lên: 7 điểm;
@@ -738,13 +744,13 @@ Ghi chú: Tham khảo (tiêu chí 3.3) Thông tư 01/2024/TT-BGDĐT ngày 05/2/2
 - Không thực hiện: 0 điểm. |
 | 4 | Quản lý và sử dụng chứng thư số, chữ ký số | | 10 | - Có sử dụng và ban hành văn bản quản lý chứng thư số, chữ ký số tại đơn vị: 10 điểm. |
 
-TRANG 3
+----- [Trang 3] -----
 
 ----- [Trang 28] -----
+
 12
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | | | | | - Không thực hiện: 0 điểm |
 | 5 | Phát hành văn bản điện tử | | 40 | Văn bản hành chính tại đơn vị được phát hành dưới dạng văn bản điện tử:
 - Từ 85% trở lên: 40 điểm.
@@ -757,7 +763,6 @@ TRANG 3
 2. Nhóm 2, gồm: Khoa Giáo dục Thể chất, Trung tâm Đào tạo Thường xuyên, Trung tâm Giáo dục Quốc phòng - An ninh và Thể thao, Trung tâm Phát triển Phần mềm, Trung tâm Kiểm định chất lượng giáo dục
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 1 | Kết quả thực hiện nhiệm vụ | - Báo cáo kết quả, tỷ lệ, chất lượng các nhiệm vụ đã thực hiện theo kế hoạch của đơn vị do Giám đốc ĐHĐN ban hành trong năm đánh giá;
 - Báo cáo kết quả, tỷ lệ, chất lượng công việc theo kết luận giao ban quý hoặc giao ban chuyên đề, đột xuất (nếu có). | 60 | - Đảm bảo tiến độ và chất lượng: 60 điểm.
 - Đạt a% các nhiệm vụ, điểm được tính: a% x 60 điểm.
@@ -771,13 +776,13 @@ Ghi chú: BanTCCB phụ trách thẩm định |
 | 3 | Nguồn thu hoạt động sự nghiệp ngày càng được đảm bảo | Tỷ lệ tăng nguồn thu sự nghiệp năm sau so với năm trước | 10 | - Tăng từ 10% trở lên: 10 điểm
 - Tăng từ 8% đến dưới 10%: 8 điểm |
 
-TRANG 4
+----- [Trang 4] -----
 
 ----- [Trang 29] -----
+
 13
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | | | | | - Tăng từ 6% đến dưới 8%: 6 điểm.
 - Tăng từ 4% đến dưới 6%: 4 điểm.
 - Tăng dưới 4%: 0 điểm.
@@ -794,7 +799,6 @@ Ghi chú: Trung tâm CNTT&HSL chủ trì, Văn phòng ĐHĐN phối hợp thẩm
 | TỔNG ĐIỂM | 100 | *Đối với tiêu chí mà đơn vị chưa thực hiện trong năm đánh giá thì tổng điểm được quy đổi theo công thức: số điểm đạt x 100 (theo từng lĩnh vực) chia cho số điểm của các tiêu chí trừ điểm của tiêu chí chưa thực hiện.* | | |
 
 | XẾP LOẠI ĐƠN VỊ | TỔNG ĐIỂM |
-| :--- | :--- |
 | Hoàn thành xuất sắc nhiệm vụ | Đạt tỷ lệ từ 80% trở lên trên tổng điểm |
 | Hoàn thành tốt nhiệm vụ | Đạt tỷ lệ từ 60% đến dưới 80% trên tổng điểm |
 | Hoàn thành nhiệm vụ | Đạt từ 50% đến dưới 60% trên tổng điểm |
@@ -802,9 +806,10 @@ Ghi chú: Trung tâm CNTT&HSL chủ trì, Văn phòng ĐHĐN phối hợp thẩm
 
 *Ghi chú: Các đơn vị thực hiện báo cáo tự đánh giá, cung cấp minh chứng lên hệ thống https://kpi.udn.vn/ theo thời gian quy định của ĐHĐN. Trên cơ sở đó, đơn vị được Giám đốc ĐHĐN giao phụ trách theo lĩnh vực sẽ rà soát, thẩm định, xét duyệt điểm của các đơn vị để làm cơ sở đánh giá xếp loại chất lượng, bình xét thi đua khen thưởng theo quy định.*
 
-TRANG 5
+----- [Trang 5] -----
 
 ----- [Trang 30] -----
+
 BỘ GIÁO DỤC VÀ ĐÀO TẠO 
 ĐẠI HỌC ĐÀ NẴNG 
 
@@ -815,7 +820,6 @@ TIÊU CHÍ ĐÁNH GIÁ CÁC ĐƠN VỊ CHỨC NĂNG CỦA ĐẠI HỌC ĐÀ NẴ
 (Kèm theo Quyết định số 94/QĐ-ĐHĐN ngày 12/01/2026 của Giám đốc Đại học Đà Nẵng) 
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| :--- | :--- | :--- | :---: | :--- |
 | 1 | Kết quả thực hiện nhiệm vụ | - Báo cáo kết quả, tỷ lệ, chất lượng các nhiệm vụ đã thực hiện theo kế hoạch của đơn vị do Giám đốc ĐHĐN ban hành trong năm đánh giá;
 - Báo cáo kết quả, tỷ lệ, chất lượng công việc theo kết luận giao ban quý hoặc giao ban chuyên đề, đột xuất (nếu có). | 60 | - Đảm bảo tiến độ và chất lượng: 60 điểm.
 - Đạt a% các nhiệm vụ, điểm được tính: a% x 60 điểm.
@@ -828,6 +832,7 @@ Ghi chú: Văn phòng ĐHĐN phụ trách thẩm định. |
 - Đạt dưới 40%: 0 điểm. |
 
 ----- [Trang 31] -----
+
 Đại học Đà Nẵng
 Trường Đại học Bách khoa
 
@@ -855,16 +860,14 @@ Thời hạn hoàn thành:
 (Trang 1 - Bảng tiêu chí)
 
 | Stt | Tiêu chí | Minh chứng | Điểm tối đa | Cách tính điểm |
-| --- | --- | --- | --- | --- |
 | 3 | Hoàn thành chương trình xây dựng văn bản QPNB hoặc văn bản QPNB (đột xuất) do Giám đốc ĐHĐN giao | - Quyết định đã ban hành văn bản quy phạm nội bộ theo kế hoạch
 - Minh chứng giao nhiệm vụ xây dựng văn bản đột xuất của Giám đốc ĐHĐN | 20 | Ghi chú: Trung tâm CNTT&HLS chủ trì, Văn phòng ĐHĐN phối hợp thẩm định.
 
 Điểm được tính: (số lượng văn bản hoàn thành theo kế hoạch/số văn bản được giao) x 20 điểm.
 Ghi chú: Ban TTPC thẩm định. |
-| | Tổng điểm | | 100 | Đối với tiêu chí mà đơn vị chưa thực hiện trong năm đánh giá thì tổng điểm được quy đổi theo công thức: $\text{số điểm đạt} \times 100 \text{ chia cho số điểm của các tiêu chí trừ đi điểm của tiêu chí chưa thực hiện}$. |
+| | Tổng điểm | | 100 | Đối với tiêu chí mà đơn vị chưa thực hiện trong năm đánh giá thì tổng điểm được quy đổi theo công thức: số điểm đạt × 100 chia cho số điểm của các tiêu chí trừ đi điểm của tiêu chí chưa thực hiện. |
 
 XẾP LOẠI ĐƠN VỊ | TỔNG ĐIỂM
----|---
 Hoàn thành xuất sắc nhiệm vụ | Đạt tỷ lệ từ 80% trở lên trên tổng điểm
 Hoàn thành tốt nhiệm vụ | Đạt tỷ lệ từ 60% đến dưới 80% trên tổng điểm
 Hoàn thành nhiệm vụ | Đạt từ 50% đến dưới 60% trên tổng điểm

@@ -193,7 +193,6 @@ c) Diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi 
 3. Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.
 
 | Điểm theo thang 10 | Điểm theo thang chữ | Điểm theo thang 4 |
-| :--- | :---: | :---: |
 | Từ 9,5 đến 10,0 | A+ | 4,0 |
 | Từ 8,5 đến dưới 9,5 | A | 4,0 |
 | Từ 8,0 đến dưới 8,5 | B+ | 3,5 |

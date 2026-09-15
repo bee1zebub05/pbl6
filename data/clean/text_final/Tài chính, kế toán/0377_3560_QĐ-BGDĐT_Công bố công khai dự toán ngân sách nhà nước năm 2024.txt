@@ -48,7 +48,6 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 TỔNG HỢP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC ĐƯỢC GIAO VÀ PHÂN BỔ CHO CÁC ĐƠN VỊ TRỰC THUỘC NĂM 2024
 
 | STT | Chỉ tiêu | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Trường Đại học Mở TP.HCM | Trường Đại học Hà Nội | Trường Đại học Ngoại thương | Trường Đại học Kinh tế quốc dân | Đại học Kinh tế TP.HCM | Trường Đại học Bách khoa Hà Nội | Trường Đại học Sư phạm Kỹ thuật TP.HCM | Trường Đại học Luật TP.HCM | Trường Đại học Mỏ Địa chất | Trung tâm Đào tạo KV SEAMEO tại VN | Báo Giáo dục Thời đại | Trường Đại học Cần Thơ | Trường Đại học Tây Bắc |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | A | Tổng số thu, chi nộp ngân sách phí, lệ phí | | | | | | | | | | | | | | | | |
 | I | Tổng số thu phí | | 2.660,0 | 2.660,0 | | | | | | | | | | | | | |
 | II | Chi từ nguồn thu phí được để lại | | 1.820,0 | 1.820,0 | | | | | | | | | | | | | |
@@ -84,7 +83,6 @@ TỔNG HỢP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC ĐƯỢC GIAO VÀ PHÂN BỔ CH
 
 ----- [Trang 3] -----
 Stt | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Trường Đại học Mở TP.HCM | Trường Đại học Hà Nội | Trường Đại học Ngoại thương | Trường Đại học Kinh tế Quốc dân | Đại học Kinh tế TP.HCM | Trường Đại học Thương mại | Đại học Bách khoa Hà Nội | Trường Đại học Sư phạm Kỹ thuật TP.HCM | Trường Đại học Luật TP.HCM | Trung Tâm Đào tạo KV của SEAMED tại VN | Bảo Giáo dục Thời đại | Trường Đại học Cần Thơ | Trường Đại học Tây Bắc
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1.2.12 | Chính sách dân tộc theo Thông tư số 109/2009/TTLT-BTC-BGDĐT | | 39.623,00 | | | | | | | | | | | | | |
 | Chi Học bổng | 070-074 | 33.252,00 | | | | | | | | | | | | |
 | Chi trang cấp hiện vật và các chế độ khác | 070-074 | 6.371,00 | | | | | | | | | | | | |
@@ -112,7 +110,6 @@ Stt | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phâ
 
 ----- [Trang 4] -----
 | STT | Nội dung | Loại Khoản | Tổng số dự toán | Tổng số phân bổ | Trường Đại học Mở TP.HCM | Trường Đại học Hà Nội | Trường Đại học Ngoại thương | Trường Đại học Kinh tế quốc dân | Đại học Kinh tế TP.HCM | Trường Đại học Thương mại | Đại học Bách khoa Hà Nội | Trường Đại học Sư phạm Kỹ thuật TP.HCM | Trường Đại học Luật TP.HCM | Trường Đại học Mỏ Hà Nội | Trung Tâm Đào tạo KV SEAMEO tại VN | Bảo Giác dục Thời đại | Trường Đại học Cần Thơ | Trường Đại học Tây Bắc |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | A | B | 2 | 3=4+..20 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 1.2.20 | Đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030 (Đề án 89) | 070-084 Mã 00968 | 100.955,00 | | 42,40 | | 601,50 | | 64,20 | | | | | | 122,00 | 108,50 |
 | 1.2.30 | Kinh phí toàn ngành | 070-083 | 119.619,93 | | | | | | | | | | 4.276,00 | | | |
@@ -154,7 +151,6 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 TỔNG HỢP DỰ TOÁN NGÂN SÁCH
 
 | Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Trường Đại học Y dược Thái Nguyên | Trường Đại học Dược Hà Nội | Trường Đại học Mỏ - Địa chất | Trường Đại học Sư phạm Thể dục Thể thao Hà Nội | Trường Đại học Sư phạm Thể dục Thể thao TP.HCM | Trường Đại học Phạm Ngũ Tự | Trường Đại học Kiên Giang | Trường Đại học Nông Lâm TP.HCM | Trường Đại học Nha Trang | Trường Đại học Xây dựng | Trường Đại học Giao thông vận tải | Trường Đại học Mỏ - Địa chất | Đại học Thái Nguyên |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | A | Tổng số thu, chi nộp ngân sách phí, lệ phí | | | | | | | | | | | | | | | | |
 | I | Tổng số thu phí | | 2.660,0 | 2.660,0 | | | | | | | | | | | | | |
 | II | Chi từ nguồn thu phí được để lại | | 1.820,0 | 1.820,0 | | | | | | | | | | | | | |
@@ -218,7 +214,6 @@ Stt	Nội dung	Loại Khoản	Tổng số được giao	Tổng số phân bổ	T
 
 ----- [Trang 7] -----
 Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Trường Đại học Tây nguyên | Trường Đại học Đà lạt | Trường Đại học Mỹ thuật Công nghiệp | Trường Đại học Sư phạm Thể dục Thể thao Hà Nội | Trường Đại học Sư phạm Thể dục Thể thao TP.HCM | Trường Đại học Sư phạm Nghệ thuật TW | Trường Đại học Kiến Giang | Trường Đại học Nông Lâm TP.HCM | Trường Đại học Nha Trang | Trường Đại học Xây dựng Hà Nội | Trường Đại học Giao thông vận tải | Trường Đại học Mỏ - Địa chất | Đại học Thái Nguyên
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1.2.29 | Đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030 (Đề án 89) | 070-084 Mã 00968 | 180.955,00 | | | | | | | | 147,70 | 50,50 | | 135,00 | 253,50 | 50,00 | 675,90
 1.2.30 | Kinh phí toán ngành | 070-083 | 19.619,93 | | | | | | | | | | | | | |
 1.2.31 | Kinh phí tính giản biên chế | 070-081 | 380,07 | | | | | | | | | | | | | |
@@ -259,7 +254,6 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 TỔNG HỢP DỰ TOÁN NGÂN SÁCH
 
 Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Đại học Huế | Đại học Đà Nẵng | Trường Đại học Sư phạm Hà Nội | Trường THPT chuyên Đại học sư phạm | Trường Đại học Sư phạm Hà Nội II | Trường Đại học Vinh | Trường Đại học Quy Nhơn | Trường Đại học sư phạm Kỹ thuật Hưng Yên | Trường Đại học Đồng Tháp | Trường Cao đẳng sư phạm TW | Trường Cao đẳng sư phạm TW Nha Trang | Trường Cao đẳng sư phạm TW TPHCM
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 A | Tổng số thu, chi nộp ngân sách, lệ phí | | | | | | | | | | | | | | | 
 I | Tổng số thu phí | 2.660,0 | 2.660,0 | | | | | | | | | | | | |
 II | Chi từ nguồn thu phí được để lại | 1.820,0 | 1.820,0 | | | | | | | | | | | | |
@@ -295,7 +289,6 @@ I | Nguồn ngân sách trung ương | 5.937.580,0 | 5.937.562,00 | 438.512,30 |
 
 ----- [Trang 9] -----
 Số TT | Nội dung | Loại | Tổng số được giao | Tổng số phân bổ | Đại học Huế | Đại học Đà Nẵng | Trường Đại học Sư phạm Hà Nội | Trường Đại học Sư phạm Hà Nội II | Trường Đại học Vinh | Trường Đại học Quy Nhơn | Trường Đại học sư phạm TP.HCM | Trường Đại học Sư phạm Kỹ thuật Hưng Yên | Trường Đại học Đồng Tháp | Trường Cao đẳng sư phạm TW | Trường Cao đẳng sư phạm TW Nha Trang | Trường Cao đẳng sư phạm TW Tp.HCM
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
 1.2.12 | Chính sách dân tộc theo Thông tư số 109/2009/TTLT-BTC-BGDĐT | | | 39.623,00 | | | | | | | | | | | | 
 | Chi Học bổng | 070-074 | | 33.252,00 | | | | | | | | | | | | 
 | Chi trang cấp hiện vật và các chế độ khác | 070-074 | | 6.371,00 | | | | | | | | | | | | 
@@ -323,7 +316,6 @@ Số TT | Nội dung | Loại | Tổng số được giao | Tổng số phân b�
 
 ----- [Trang 10] -----
 Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Đại học Huế | Đại học Đà Nẵng | Trường Đại học Sư phạm Hà Nội | Trường Đại học Thử nghiệm Đại học sư phạm | Trường Đại học Sư phạm Hà Nội II | Trường Đại học Vinh | Trường Đại học Quy Nhơn | Trường Đại học Sư phạm TP.HCM | Trường Đại học Sư phạm Kỹ thuật Hưng Yên | Trường Đại học Đồng Tháp | Trường Cao đẳng Sư phạm TW | Trường Cao đẳng Sư phạm TW Nha Trang | Trường Cao đẳng Sư phạm TW TP.HCM
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 A | B | 2 | 34=7-70 | 3 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43
 1.2.29 | Đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030 (Đề án 89) | 070-084 Mã 00968 | 100.955,00 | 261,80 | 773,30 | 37,50 | - | 164,20 | 445,00 | 647,70 | 271,30 | | | | |
 1.2.30 | Kinh phí toán ngành | 070-083 | 119.619,93 | | | | | | | | | | | | |
@@ -403,7 +395,6 @@ I | Nguồn ngân sách trung ương | | 5.937.380,0 | 5.937.362,00 | 122.094,08
 
 ----- [Trang 12] -----
 | STT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Trường Đại học Việt Đức | Học viện Quản lý giáo dục | Cán bộ Quản lý giáo dục TPHCM | Tạp chí giáo dục | TTKV về học tập suốt đời của tổ chức SEAMEO tại VN | Trường Hữu nghị 80 | Trường Hữu nghị T78 | Viện Khoa học Giáo dục VN | Viện Nghiên cứu thiết kế cao cấp về Toán | Viện nghiên cứu chiến lược và ODA | Ban Quản lý Dự án (Bộ GD&ĐT) | Ban Quản lý các dự án (Bộ Giáo dục và Đào tạo) | Văn phòng Bộ Giáo dục |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 2 | 3 | 4 | 5=3+4 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 |
 | 1.2.12 | Chính sách dân tộc theo Thông tư số 109/2009/TTLT-BTC-BGDĐT | | | 39.623,00 | | | | | | 19.196,00 | 20.427,00 | | | | | | | |
 | | Chi học bổng | 070-074 | | 33.252,00 | | | | | | 16.030,00 | 17.222,00 | | | | | | | |
@@ -432,7 +423,6 @@ I | Nguồn ngân sách trung ương | | 5.937.380,0 | 5.937.362,00 | 122.094,08
 
 ----- [Trang 13] -----
 Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Trường Đại học Việt Đức | Học viện Quản lý giáo dục | Trường Cán bộ Quản lý giáo dục TP.HCM | Tạp chí giáo dục | TTKV về học tập suất đời của tổ chức SEAMEO tại VN | Trường Hữu nghị 80 | Trường Hữu nghị T78 | Viện Khoa học Giáo dục | Viện nghiên cứu cao cấp về Toán | Ban Quản lý Đề án ngoại ngữ 2020 | Ban Quản lý các dự án Bộ GD&ĐT | Văn phòng Bộ Giáo dục và Đào tạo | Trung tâm Phát triển GDĐT phía Nam
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | Đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030 (Đề án 89) | 070-084; Mã 00968 | | 100.955,00 | | | | | | | | | | | | 100.955,00 | 
 1.2.30 | Kinh phí toán ngành | 070-083 | | 119.619,93 | | | 1.447,00 | | | | | | | | | 118.172,93 | 
 1.2.31 | Kinh phí tỉnh gian chế | 070-081 | | 380,07 | | | | | | | | | | | | 380,07 | 
@@ -473,7 +463,6 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 TỔNG HỢP DỰ TOÁN NGÂN SÁCH
 
 | Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Vụ Giáo dục Thường xuyên và Sách | Thanh tra Bộ Giáo dục và Đào tạo | Cục Quản lý chất lượng | Văn phòng Cục QLCL | Trung tâm Kiểm định chất lượng giáo dục | Trung tâm Khám thí và Kiểm định chất lượng giáo dục văn bằng | Cục Nhà giáo và Cán bộQLGD | Cục Công nghệ thông tin | Cục Hợp tác quốc tế | Văn phòng Cục HTQT | Phân viện Puskin | Trung tâm Phát triển giáo dục quốc tế | Văn phòng QG Giáo dục và PTNL | Hội đồng Giáo sư nhà nước | Dự án Giáo dục THCS khu vực khó khăn nhất giai đoạn II |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 2 | 3 | 4 | 5=3+4 | 20 | 30 | 39 | 40 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | ... |
 | A | Tổng số thu, chi nộp ngân sách phí, lệ phí | | | | | | | | | | 2.660,0 | | | | | | | | |
 | I | Tổng số thu phí | | 2.660,0 | 2.660,0 | | | | | | | 2.660,0 | | | | | | | | |
@@ -510,7 +499,6 @@ TỔNG HỢP DỰ TOÁN NGÂN SÁCH
 
 ----- [Trang 15] -----
 Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số phân bổ | Vụ Giáo dục Thường xuyên và Sự kiện | Thanh tra Bộ Giáo dục và Đào tạo | Cục Quản lý chất lượng | Văn phòng Cục QLCL | Trung tâm Khảo thí Quốc gia và Đánh giá chất lượng giáo dục | Trung tâm Công nhận văn bằng | Cục Nhà giáo và Cán bộ QLGD | Cục Công nghệ thông tin | Cục Hợp tác quốc tế | Văn phòng Cục HTQT | Phân viện Puskin | Trung tâm Phát triển giáo dục quốc tế | Văn phòng QG Giáo dục & PTNL | Hội đồng Giáo sư nhà nước | Dự án Giáo dục THCS khu vực khó khăn nhất (giai đoạn II)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1.2.12 | Chính sách dân tộc theo Thông tư số 109/2009/TTLT-BTC-BGDĐT | | 39.623,00 | | | | | | | | | | | | | | | |
 | Chi học bổng | 070-074 | 33.252,00 | | | | | | | | | | | | | | | |
 | Chi trang cấp vật tư và các chế độ khác | 070-074 | 6.371,00 | | | | | | | | | | | | | | | |
@@ -538,41 +526,41 @@ Số TT | Nội dung | Loại Khoản | Tổng số được giao | Tổng số 
 
 ----- [Trang 16] -----
 Số TT	Nội dung	Loại Khoản	Tổng số được giao	Tổng số phân bổ	Vụ Đào tạo	Cục Quản lý chất lượng	Cục Hợp tác quốc tế	Văn phòng Đảng ủy QG Giáo dục và PTNL	Hội đồng Giáo sư nhà nước	Dự án Giáo dục THCS khu vực khó khăn nhất giai đoạn II
-			Trung tâm truyền thông và Sự kiện	Thanh tra Bộ Giáo dục và Đào tạo	Văn phòng Cục QLCL	Trung tâm Kiểm định chất lượng giáo dục	Trung tâm Công nhận văn bằng	Cục Nhà giáo và Cán bộQLGD	Cục Công nghệ thông tin	Văn phòng Cục HTQT	Phân viện Puskin	Trung tâm Phát triển giáo dục quốc tế		
+ Trung tâm truyền thông và Sự kiện	Thanh tra Bộ Giáo dục và Đào tạo	Văn phòng Cục QLCL	Trung tâm Kiểm định chất lượng giáo dục	Trung tâm Công nhận văn bằng	Cục Nhà giáo và Cán bộQLGD	Cục Công nghệ thông tin	Văn phòng Cục HTQT	Phân viện Puskin	Trung tâm Phát triển giáo dục quốc tế 
 1	2	3	4	5	6=4-20	7	8	9	10	11	12	13	14	15	16	17	18	19
-1.2.29	Đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030 (Đề án 89)	070-084 Mã 00968	100.955,00				96.103,00			
-1.2.30	Kinh phí toán ngành	070-083	119.619,93	###	250,00	9.880,00		5.250,00	910,00	950,00		2.420,00	7.000,00	
-1.2.31	Kinh phí tinh giản biên chế	070-081	380,07							
-2	Chi hoạt động kinh tế		3.110,0	3.110,00							
-2.1	Kinh phí nhiệm vụ không thường xuyên			3.110,00							
-	Kinh phí giáo dục an toàn giao thông trong trường học	280-332	0,00							
-	Kinh phí thực hiện hỗ trợ, đào tạo, bồi dưỡng nguồn nhân lực cho doanh nghiệp nhỏ và vừa	280-332	1.300,00							
-3	Chi sự nghiệp văn hóa thông tin		2.100,0	2.100,00							
-3.1	Kinh phí nhiệm vụ không thường xuyên			2.100,00							
-	Kinh phí đặt hàng xuất bản phẩm	160-171	2.100,00							
-4	Chi sự nghiệp khoa học và công nghệ		202.250,0	202.249,9995							
-4.1	Kinh phí chi thường xuyên	100-101	27.863,0000							
-4.2	KP thực hiện nhiệm vụ KHCN cấp bộ	100-101	140.931,0010							
-4.3	KP nhiệm vụ không thường xuyên		33.455,9995							
-	KP Nhiệm vụ nâng cấp tạp chí	100-101	3.181,1100							
-	Đăng niên giám	100-101	95,9500							
-	Thưởng công bố khoa học	100-101	9.202,0495							
-	Hỗ trợ đào tạo, bồi dưỡng NNL cho DNVVN	100-101	2.700,0000							
-	Nhiệm vụ không thường xuyên của Viện Toàn	100-101	11.093,0000							
-	Nhiệm vụ quản lý đề tài (VP Bộ)	100-101	7.365,0000							
-5	Chi sự nghiệp bảo vệ môi trường		1.950,0	1.950,00							
-	Kinh phí nhiệm vụ không thường xuyên	250-251	1.950,00							
-6	Chi quản lý nhà nước, đảng, đoàn thể		147.280,0	147.280,00		10.400,00	10.260,00		8.455,00	12.036,00	14.243,00		1.207,00	1.718,00	
-6.1	Kinh phí thực hiện chế độ tự chủ	340-341	122.038,00		9.245,00	7.034,00		5.975,00	5.158,00	11.602,00		1.207,00	1.718,00	
-6.2	Kinh phí không thực hiện chế độ tự chủ	340-341	25.242,00		1.235,00	3.226,00		2.480,00	6.878,00	2.641,00			
-	Trong đó tiết kiệm 10% chi TX		63,00							
-II	Nguồn vốn viện trợ		186.330,0	186.330,00				3.375,00				
-I	Chi sự nghiệp giáo dục, đào tạo và dạy nghề		186.330,00				3.375,00				
-III	Nguồn vay nợ nước ngoài		80.350,0	80.350,00							
-I	Chi sự nghiệp giáo dục, đào tạo và dạy nghề		80.350,00							
-IV	Kinh phí hợp tác với Lào-Campuchia		141.076,00							5.076,00			
-I	Chi sự nghiệp giáo dục, đào tạo và dạy nghề		141.076,00							5.076,00			
-	Hợp tác với Lào, Campuchia	400-402						5.076,00
+1.2.29	Đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030 (Đề án 89)	070-084 Mã 00968	100.955,00 96.103,00 
+1.2.30	Kinh phí toán ngành	070-083	119.619,93	###	250,00	9.880,00 5.250,00	910,00	950,00 2.420,00	7.000,00	
+1.2.31	Kinh phí tinh giản biên chế	070-081	380,07 
+2	Chi hoạt động kinh tế 3.110,0	3.110,00 
+2.1	Kinh phí nhiệm vụ không thường xuyên 3.110,00 
+	Kinh phí giáo dục an toàn giao thông trong trường học	280-332	0,00 
+	Kinh phí thực hiện hỗ trợ, đào tạo, bồi dưỡng nguồn nhân lực cho doanh nghiệp nhỏ và vừa	280-332	1.300,00 
+3	Chi sự nghiệp văn hóa thông tin 2.100,0	2.100,00 
+3.1	Kinh phí nhiệm vụ không thường xuyên 2.100,00 
+	Kinh phí đặt hàng xuất bản phẩm	160-171	2.100,00 
+4	Chi sự nghiệp khoa học và công nghệ 202.250,0	202.249,9995 
+4.1	Kinh phí chi thường xuyên	100-101	27.863,0000 
+4.2	KP thực hiện nhiệm vụ KHCN cấp bộ	100-101	140.931,0010 
+4.3	KP nhiệm vụ không thường xuyên 33.455,9995 
+	KP Nhiệm vụ nâng cấp tạp chí	100-101	3.181,1100 
+	Đăng niên giám	100-101	95,9500 
+	Thưởng công bố khoa học	100-101	9.202,0495 
+	Hỗ trợ đào tạo, bồi dưỡng NNL cho DNVVN	100-101	2.700,0000 
+	Nhiệm vụ không thường xuyên của Viện Toàn	100-101	11.093,0000 
+	Nhiệm vụ quản lý đề tài (VP Bộ)	100-101	7.365,0000 
+5	Chi sự nghiệp bảo vệ môi trường 1.950,0	1.950,00 
+	Kinh phí nhiệm vụ không thường xuyên	250-251	1.950,00 
+6	Chi quản lý nhà nước, đảng, đoàn thể 147.280,0	147.280,00 10.400,00	10.260,00 8.455,00	12.036,00	14.243,00 1.207,00	1.718,00	
+6.1	Kinh phí thực hiện chế độ tự chủ	340-341	122.038,00 9.245,00	7.034,00 5.975,00	5.158,00	11.602,00 1.207,00	1.718,00	
+6.2	Kinh phí không thực hiện chế độ tự chủ	340-341	25.242,00 1.235,00	3.226,00 2.480,00	6.878,00	2.641,00 
+	Trong đó tiết kiệm 10% chi TX 63,00 
+II	Nguồn vốn viện trợ 186.330,0	186.330,00 3.375,00 
+I	Chi sự nghiệp giáo dục, đào tạo và dạy nghề 186.330,00 3.375,00 
+III	Nguồn vay nợ nước ngoài 80.350,0	80.350,00 
+I	Chi sự nghiệp giáo dục, đào tạo và dạy nghề 80.350,00 
+IV	Kinh phí hợp tác với Lào-Campuchia 141.076,00 5.076,00 
+I	Chi sự nghiệp giáo dục, đào tạo và dạy nghề 141.076,00 5.076,00 
+	Hợp tác với Lào, Campuchia	400-402 5.076,00
 
 ----- [Trang 17] -----
 ĐẠI HỌC ĐÀ NẴNG

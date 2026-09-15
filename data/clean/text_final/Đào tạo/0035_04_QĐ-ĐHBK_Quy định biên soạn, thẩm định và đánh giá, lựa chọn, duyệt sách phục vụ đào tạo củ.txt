@@ -422,18 +422,18 @@ GIÁO TRÌNH, SÁCH CHUYÊN KHẢO, SÁCH HƯỚNG DẪN
 I. HÌNH THỨC
 
 A. Bản thảo dùng cho công tác thẩm định
-- In trên khổ giấy A4 ($210 \times 297\text{ mm}$).
-- Định lề: Lề trên $25\text{ mm}$, lề dưới $25\text{ mm}$, lề trái $30\text{ mm}$, lề phải $20\text{ mm}$.
+- In trên khổ giấy A4 (210 × 297 mm).
+- Định lề: Lề trên 25 mm, lề dưới 25 mm, lề trái 30 mm, lề phải 20 mm.
 - Hệ soạn thảo văn bản Microsoft Word, với:
  + Bảng mã: Unicode.
  + Font chữ: Times New Roman.
  + Cỡ chữ: 13.
- + Chế độ dãn dòng trong đoạn văn bản: chế độ $1,15\text{ lines}$.
- + Khoảng cách các đoạn văn bản liền kề: Trước và sau: $3\text{ pt}$.
+ + Chế độ dãn dòng trong đoạn văn bản: chế độ 1,15 lines.
+ + Khoảng cách các đoạn văn bản liền kề: Trước và sau: 3 pt.
 - Hoặc hệ soạn thảo văn bản khác (Open Office, LaTeX,...) với các định dạng của văn bản tương đương như trên.
 
 B. Bản in chính thức
-Sau khi khi hoàn thành, sách được Hội đồng thẩm định đánh giá Đạt, tác giả hiệu chỉnh định dạng để phù hợp với khổ $16\times24$ và các quy định khác của Nhà xuất bản.
+Sau khi khi hoàn thành, sách được Hội đồng thẩm định đánh giá Đạt, tác giả hiệu chỉnh định dạng để phù hợp với khổ 16×24 và các quy định khác của Nhà xuất bản.
 
 II. CẤU TRÚC
 
@@ -479,14 +479,12 @@ Kính gửi: Ban Giám hiệu
 Khoa ............................................................................ đang quản lý và giảng dạy học phần ................................................................................................. cho sinh viên của trường, với số liệu như sau:
 
 | TT | Tiêu chí | Số lượng | Ghi chú |
-| :--- | :--- | :---: | :---: |
 | 01 | Số ngành học học phần | | |
 | 02 | Tổng số sinh viên tuyển hàng năm | | |
 
 Tình trạng về tài liệu giảng dạy/ học tập của học phần này như sau:
 
 | TT | Tiêu chí | Có / Không | Tác giả / Năm xuất bản/Nhà xuất bản |
-| :--- | :--- | :---: | :---: |
 | 01 | Giáo trình do tác giả ngoài ĐH Đà Nẵng biên soạn | | |
 | 02 | Giáo trình do tác giả thuộc ĐH Đà Nẵng biên soạn | | |
 | 03 | Bài giảng chi tiết do giảng viên thuộc khoa biên soạn đã được khoa thông qua | | |
@@ -496,10 +494,10 @@ Tình trạng về tài liệu giảng dạy/ học tập của học phần nà
 Hội đồng khoa đã họp, có kết luận là cần thiết biên soạn tài liệu để giảng dạy.
 
 Kính trình Ban Giám hiệu xét duyệt biên soạn:
-- Loại học liệu: [ ] Giáo trình $\quad$ [ ] Sách hướng dẫn
+- Loại học liệu: [ ] Giáo trình [ ] Sách hướng dẫn
 - Tên học liệu: ................................................................................................................................
 - Sử dụng để giảng dạy học phần: ......................................................................... tín chỉ (... tiết).
-- Thuộc chương trình đào tạo trình độ: [ ] Đại học $\quad$ [ ] Sau đại học
+- Thuộc chương trình đào tạo trình độ: [ ] Đại học [ ] Sau đại học
 - Tác giả/ Nhóm tác giả biên soạn: ...................................................................................................
 - Dự kiến thời gian hoàn thành: .....................................................................................................
 
@@ -591,7 +589,6 @@ Kính gửi: Ban Giám hiệu
 Căn cứ Quy định hiện hành của Trường về biên soạn giáo trình và sách; đề nghị của các Khoa; kết quả rà soát đối sánh với thực tế, Trung tâm học liệu và truyền thông, Phòng Đào tạo và Phòng Kế hoạch - Tài chính kính đề nghị Ban Giám hiệu phê duyệt Kế hoạch biên soạn giáo trình và sách hướng dẫn, sách chuyên khảo năm học 20.../20... như sau:
 
 | TT | Khoa | Tên học phần | Số TC | Loại học liệu | Giảng viên biên soạn (*) | Ngành sử dụng giáo trình | SLSV mỗi khóa | Kinh phí biên soạn | Dự kiến hoàn thành |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 | 3 | | | | | | | | | |
@@ -623,7 +620,6 @@ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 KẾ HOẠCH BIÊN SOẠN GIÁO TRÌNH VÀ SÁCH HƯỚNG DẪN, SÁCH CHUYÊN KHẢO NĂM HỌC 20.../20...
 
 | TT | Khoa | Tên học phần | Số TC | Loại học liệu | Tác giả biên soạn | Ngành sử dụng giáo trình | SLSV mỗi khóa | Kinh phí biên soạn | Dự kiến hoàn thành |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 | 3 | | | | | | | | | |
@@ -748,7 +744,6 @@ D.3.3. Kết cấu nội dung, tính khoa học của giáo trình/ sách:
 
 D.4. Điểm đánh giá của Bộ môn:
 | TT | Nội dung đánh giá | Điểm tối đa | Trung bình điểm đánh giá của GV |
-|---|---|---|---|
 | 1 | Đề cương giáo trình/ sách phù hợp đề cương học phần đã được phê duyệt; phù hợp với yêu cầu chuẩn đầu ra của học phần/ chương trình đào tạo | 40 | |
 | 2 | Ý tưởng biên soạn độc đáo/ mới trong giáo trình/ sách mới so với giáo trình/ sách đã có (của Trường hoặc tác giả ngoài Trường) | 30 | |
 | 3 | Kết cấu nội dung, tính khoa học của giáo trình/ sách | 30 | |
@@ -846,21 +841,19 @@ Ngày ........ tháng ........ năm 20..... Bộ môn ........ đã họp để 
 Các thành viên dự họp đã đánh giá về giáo trình/ sách như sau:
 
 | TT | Tiêu chí | Thang đánh giá | Đánh giá |
-|:---:|---|---|:---:|
-| | | | (\) | (\\*) |
+| | | | (\) | (*) |
 | 1 | Đúng đề cương học phần và đề cương giáo trình/ sách đã được thông qua | Thấp đến cao: 1, 2, 3, 4, 5 | | |
 | 2 | Tính khoa học | Thấp đến cao: 1, 2, 3, 4, 5 | | |
 | 3 | Tính mới, cập nhật thông tin hiện đại | Thấp đến cao: 1, 2, 3, 4, 5 | | |
 | 4 | Mức độ phù hợp với yêu cầu chuẩn đầu ra của học phần/ ngành | Thấp đến cao: 1, 2, 3, 4, 5 | | |
 | 5 | Hình thức trình bày (định dạng, chính tả, hình vẽ, bảng biểu, công thức,...) | Thấp đến cao: 1, 2, 3, 4, 5 | | |
 
-Ghi chú: Cột (\) ghi mức đánh giá trung bình của Bộ môn, cột (\\) ghi mức đánh giá thấp nhất của thành viên.*
+Ghi chú: Cột (\) ghi mức đánh giá trung bình của Bộ môn, cột () ghi mức đánh giá thấp nhất của thành viên.*
 
 Ý kiến kết luận khác: ........................................................................................................................
 Khoa thống nhất giới thiệu người để Ban giám hiệu xem xét quyết định Hội đồng thẩm định giáo trình/ sách, như sau:
 
 | TT | Họ và tên | Học vị | Nơi công tác | Thông tin liên lạc |
-|:---:|---|---|---|---|
 | | | | | |
 | | | | | |
 
@@ -992,7 +985,6 @@ Kính gửi:
 Căn cứ biên bản đánh giá giáo trình/ sách “................................” ngày .../.../20...., nhóm tác giả trả lời các ý kiến phản biện và góp ý như sau:
 
 | STT | Góp ý | Trả lời |
-| :--- | :--- | :--- |
 | 1 | Ý kiến TS. ........ | ............................................................................................ |
 | | ............................................................................................ | ............................................................................................ |
 | | ............................................................................................ | ............................................................................................ |
@@ -1069,7 +1061,6 @@ QUYẾT ĐỊNH:
 Điều 1. Thành lập hội đồng thẩm định giáo trình “..................................” do tác giả: .................................................... biên soạn, gồm các thành viên sau:
 
 | TT | Họ và tên | Nơi công tác | Nhiệm vụ |
-| :---: | :--- | :--- | :--- |
 | 1. | | | Chủ tịch |
 | 2. | | | Phản biện 1 |
 | 3. | | | Phản biện 2 |
@@ -1176,7 +1167,6 @@ B.4.5. Chỉ mục tác giả:
 B.5. Điểm đánh giá chung:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :--- | :--- | :---: | :---: |
 | 1 | Đúng đề cương đã được thông qua | 30 | |
 | 2 | Mức độ phù hợp với yêu cầu chuẩn đầu ra của học phần/ ngành | 20 | |
 | 3 | Tính khoa học | 20 | |
@@ -1211,7 +1201,7 @@ PHIẾU ĐÁNH GIÁ THẨM ĐỊNH GIÁO TRÌNH
 
 1. Tên giáo trình: ................................................................................................................
 - Dùng cho học phần: ................................................................................................... tiết.
-- Thuộc chương trình đào tạo trình độ: $\square$ Đại học $\square$ Sau đại học
+- Thuộc chương trình đào tạo trình độ: ☐ Đại học ☐ Sau đại học
 2. Hội đồng được thành lập theo QĐ số: .../QĐ-ĐHBK/ ngày: .../.../20...
 3. Họ tên thành viên HĐ: ......................................................................................................
 Trách nhiệm trong HĐ: ........................................................................................................
@@ -1271,7 +1261,6 @@ Cơ quan công tác: ...........................................................
 4.5. Điểm đánh giá chung: (Ghi chú: < 80: không đạt)
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :--- | :--- | :---: | :---: |
 | 1 | Đúng đề cương đã được thông qua | 30 | |
 | 2 | Mức độ phù hợp với yêu cầu chuẩn đầu ra của học phần/ ngành | 20 | |
 | 3 | Tính khoa học | 20 | |
@@ -1287,9 +1276,9 @@ B.7. Ý kiến khác (nếu có): ..............................................
 .........................................................................................................................................
 .........................................................................................................................................
 
-$\square$ Đạt yêu cầu cao, đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
-$\square$ Đạt yêu cầu nhưng phải chỉnh sửa trước khi đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
-$\square$ Chưa đạt yêu cầu, phải chỉnh sửa, bổ sung và phải tổ chức thẩm định lại (nếu tổng điểm dưới 80).
+☐ Đạt yêu cầu cao, đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
+☐ Đạt yêu cầu nhưng phải chỉnh sửa trước khi đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
+☐ Chưa đạt yêu cầu, phải chỉnh sửa, bổ sung và phải tổ chức thẩm định lại (nếu tổng điểm dưới 80).
 
 Đà Nẵng, ngày ...... tháng ...... năm 20...
 Chữ ký và họ tên Người đánh giá
@@ -1322,7 +1311,7 @@ Hội đồng được Hiệu trưởng thành lập theo Quyết định số: 
 B. Thông tin về giáo trình được thẩm định:
 B.1. Tên giáo trình: ...........................................................................................................
 B.2. Dùng cho học phần: ...................................................................................................
-Mã học phần: ..........................., tiết, thuộc CTĐT trình độ: $\square$ Đại học $\square$ Sau ĐH
+Mã học phần: ..........................., tiết, thuộc CTĐT trình độ: ☐ Đại học ☐ Sau ĐH
 B.3. Tác giả: .......................................................................................................................
 
 C. Thẩm định:
@@ -1366,7 +1355,6 @@ C.3.4. Văn phong, hình thức, chất lượng soạn thảo (công thức, b�
 C.4. Điểm đánh giá của Hội đồng:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :--- | :--- | :---: | :---: |
 | 1 | Đúng đề cương đã được thông qua | 30 | |
 | 2 | Mức độ phù hợp với yêu cầu chuẩn đầu ra của học phần, chương trình đào tạo | 20 | |
 | 3 | Tính khoa học | 20 | |
@@ -1379,7 +1367,7 @@ C.4. Điểm đánh giá của Hội đồng:
 -
 
 ----- [Trang 52] -----
-Số thành viên đánh giá mức “Đạt yêu cầu cao, đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản” ($\ge$ 90 điểm): ............................................
+Số thành viên đánh giá mức “Đạt yêu cầu cao, đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản” (≥ 90 điểm): ............................................
 - Số thành viên đánh giá mức “Đạt yêu cầu nhưng phải chỉnh sửa trước khi đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản” (80-89 điểm): ............................................
 - Số thành viên đánh giá mức “Chưa đạt yêu cầu, phải chỉnh sửa, bổ sung và phải tổ chức thẩm định lại” (< 80 điểm): ............................................
 
@@ -1455,7 +1443,6 @@ QUYẾT ĐỊNH:
 Điều 1. Thành lập hội đồng thẩm định sách hướng dẫn “....................................................” do tác giả: .................................................... biên soạn, gồm các thành viên sau:
 
 | TT | Ho và tên | Nơi công tác | Nhiệm vụ |
-| :---: | :---: | :---: | :---: |
 | 1 | | | Chủ tịch |
 | 2 | | | Phản biện 1 |
 | 3 | | | Phản biện 2 |
@@ -1518,11 +1505,10 @@ B.1.5. Tính hợp lý về trình tự các bài thí nghiệm
 3
 
 ----- [Trang 56] -----
-TRANG 1
+----- [Trang 1] -----
 
 B.2. Tính cập nhật trang thiết bị hiện có tại Trường được sử dụng:
 | TT | Bài thí nghiệm | Tên trang thiết bị có thể dùng cho bài TN, sắp xếp tăng dần theo mức độ mới/hiện đại | Hiện có ở Trường | Sử dụng trong bài TN |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Bài 1 - Đặc tính động cơ điện | | | |
 | 1a | | | | |
 | 1b | | | | |
@@ -1538,7 +1524,6 @@ B.4. Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung:
 
 B.5. Điểm đánh giá chung:
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách dẫn đã được thông qua | 20 | |
 | 2 | Thông tin chung về trang thiết bị thí nghiệm, quy tắc an toàn, những lưu ý chuẩn bị và sử dụng trang thiết bị | 20 | |
 | 3 | Khái quát kiến thức lý thuyết có liên quan và trích dẫn tài liệu tham khảo | 20 | |
@@ -1556,7 +1541,7 @@ B.5. Ý kiến khác (nếu có):
 Đà Nẵng, ngày ........ tháng ........ năm 20.......
 Họ tên và chữ ký Người phản biện
 
-TRANG 2
+----- [Trang 2] -----
 
 ----- [Trang 57] -----
 Mẫu 6b.2b
@@ -1602,7 +1587,7 @@ B.1.4.4. Phương pháp đánh giá thực hành:
 - Có bảng tiêu chí đánh giá:
 - Mức độ hợp lý của bảng tiêu chí đánh giá:
 
-TRANG 3
+----- [Trang 3] -----
 
 ----- [Trang 58] -----
 B.1.5. Tính hợp lý về trình tự các bài thực hành:
@@ -1610,7 +1595,6 @@ B.1.5. Tính hợp lý về trình tự các bài thực hành:
 
 B.2. Tính cập nhật trang thiết bị hiện có tại Trường được sử dụng:
 | TT | Bài thực hành | Tên trang thiết bị có thể dùng cho bài thực hành, sắp xếp tăng dần theo mức độ mới/hiện đại | Hiện có ở Trường | Sử dụng trong bài TH |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Bài 1 - | | | |
 | 1a | | | | |
 | 1b | | | | |
@@ -1622,7 +1606,6 @@ B.3. Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung:
 
 B.4. Điểm đánh giá chung:
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách đã được thông qua | 20 | |
 | 2 | Thông tin chung về trang thiết bị thực hành, quy tắc an toàn, những lưu ý chuẩn bị và sử dụng trang thiết bị | 20 | |
 | 3 | Phương pháp, tiêu chí đánh giá thực hành | 20 | |
@@ -1639,7 +1622,7 @@ B.5. Ý kiến khác (nếu có):
 Đà Nẵng, ngày ........ tháng ........ năm 20.......
 Họ tên và chữ ký Người phản biện
 
-TRANG 4
+----- [Trang 4] -----
 
 ----- [Trang 59] -----
 Mẫu 6b.2c
@@ -1684,7 +1667,7 @@ B.2. Nhận xét chi tiết:
 ......................................................................................................................................................
 ......................................................................................................................................................
 
-TRANG 5
+----- [Trang 5] -----
 
 ----- [Trang 60] -----
 Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung:
@@ -1694,7 +1677,6 @@ Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung:
 
 B.3. Điểm đánh giá chung:
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách đã được thông qua | 25 | |
 | 2 | Hệ thống các tiêu chuẩn, quy phạm; tài liệu tham khảo | 25 | |
 | 3 | Tính logic, chính xác của tài liệu hướng dẫn | 50 | |
@@ -1734,7 +1716,6 @@ Cơ quan công tác: ...........................................................
 4. Ý kiến đánh giá của thành viên Hội đồng:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách hướng dẫn đã được thông qua | 20 | |
 | 2 | Thông tin chung về trang thiết bị thí nghiệm, quy tắc an toàn, những lưu ý chuẩn bị và sử dụng trang thiết bị | 20 | |
 | 3 | Khái quát kiến thức lý thuyết có liên quan và trích dẫn tài liệu tham khảo | 20 | |
@@ -1781,7 +1762,6 @@ Cơ quan công tác: ...........................................................
 4. Ý kiến đánh giá của thành viên Hội đồng:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách đã được thông qua | 20 | |
 | 2 | Thông tin chung về trang thiết bị thực hành, quy tắc an toàn, những lưu ý chuẩn bị và sử dụng trang thiết bị | 20 | |
 | 3 | Phương pháp, tiêu chí đánh giá thực hành | 20 | |
@@ -1861,7 +1841,6 @@ nội dung cần làm rõ/ chỉnh sửa/ bổ sung:*
 B.3. Điểm đánh giá chung:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách đã được thông qua | 25 | |
 | 2 | Hệ thống các tiêu chuẩn, quy phạm; tài liệu tham khảo | 25 | |
 | 3 | Tính logic, chính xác của tài liệu hướng dẫn | 50 | |
@@ -2004,7 +1983,6 @@ C.3.3. Nội dung trích dẫn trong sách hướng dẫn, nguồn gốc tài li
 C.4. Điểm đánh giá của Hội đồng:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách hướng dẫn đã được thông qua | 20 | |
 | 2 | Thông tin chung về trang thiết bị thí nghiệm/thực hành, quy tắc an toàn, những lưu ý chuẩn bị và sử dụng trang thiết bị | 20 | |
 | 3 | Khái quát kiến thức lý thuyết có liên quan và trích dẫn tài liệu tham khảo
@@ -2117,7 +2095,6 @@ Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung::
 C.4. Điểm đánh giá của Hội đồng:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Phù hợp với mục tiêu và chuẩn đầu ra đã công bố của học phần, đề cương sách đã được thông qua | 25 | |
 | 2 | Hệ thống các tiêu chuẩn, quy phạm; tài liệu tham khảo | 25 | |
 | 3 | Tính logic, chính xác của tài liệu hướng dẫn | 50 | |
@@ -2209,7 +2186,6 @@ QUYẾT ĐỊNH:
 Điều 1. Thành lập hội đồng thẩm định sách chuyên khảo gồm các thành viên sau:
 
 | TT | Họ và tên | Nơi công tác | Nhiệm vụ |
-| :---: | :--- | :--- | :--- |
 | 1 | | | Chủ tịch |
 | 2 | | | Phản biện 1 |
 | 3 | | | Phản biện 2 |
@@ -2298,7 +2274,6 @@ Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung:
 B.3. Điểm đánh giá chung:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Cấu trúc sách | 25 | |
 | 2 | Tính toàn diện của vấn đề chính được trình bày trong sách | 25 | |
 | 3 | Tính chuyên sâu của vấn đề chính trình bày trong sách | 25 | |
@@ -2377,7 +2352,6 @@ Những nội dung cần làm rõ/ chỉnh sửa/ bổ sung:
 B.3. Điểm đánh giá chung:
 
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Cấu trúc sách | 25 | |
 | 2 | Tính toàn diện của vấn đề chính được trình bày trong sách | 25 | |
 | 3 | Tính chuyên sâu của vấn đề chính trình bày trong sách | 25 | |
@@ -2476,7 +2450,6 @@ Trang 2:
 ----- [Trang 82] -----
 C.4. Điểm đánh giá chung trung bình các thành viên HĐ:
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :---: | :--- | :---: | :---: |
 | 1 | Cấu trúc sách | 25 | |
 | 2 | Tính toàn diện của vấn đề chính trình bày trong sách | 25 | |
 | 3 | Tính chuyên sâu của vấn đề chính trình bày trong sách | 25 | |
@@ -2485,12 +2458,12 @@ C.4. Điểm đánh giá chung trung bình các thành viên HĐ:
 
 Ghi chú: Không đạt nếu:
 - Có một trong các tiêu chí có điểm đánh giá trung bình < 20;
-- Hoặc có $\ge 20\%$ số thành viên HĐ có điểm đánh giá cá nhân < 80.
+- Hoặc có ≥ 20% số thành viên HĐ có điểm đánh giá cá nhân < 80.
 
 C.5. Kết luận của Hội đồng về bản thảo sách chuyên khảo:
-$\square$ Đạt yêu cầu, đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
-$\square$ Đạt yêu cầu nhưng phải chỉnh sửa trước khi đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
-$\square$ Chưa đạt yêu cầu, phải chỉnh sửa, bổ sung và phải tổ chức thẩm định lại.
+☐ Đạt yêu cầu, đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
+☐ Đạt yêu cầu nhưng phải chỉnh sửa trước khi đề nghị Hiệu trưởng cho phép tiến hành thủ tục xuất bản
+☐ Chưa đạt yêu cầu, phải chỉnh sửa, bổ sung và phải tổ chức thẩm định lại.
 
 Các nội dung tác giả cần sửa chữa:
 .............................................................................................................................
@@ -2549,14 +2522,12 @@ Kính gửi: Ban Giám hiệu
 Khoa ......................................................................................... đang quản lý và giảng dạy học phần .........................................................................., trình độ đào tạo ........................ với số liệu như sau:
 
 | TT | Tiêu chí | Số lượng | Ghi chú |
-| :---: | :--- | :---: | :---: |
 | 01 | Số ngành học học phần | | |
 | 02 | Tổng số sinh viên tuyển/ năm | | |
 
 Tình trạng về tài liệu giảng dạy/ học tập của học phần này như sau:
 
 | TT | Tiêu chí | Có/ Không | Tác giả / Năm xuất bản/ Nhà xuất bản |
-| :---: | :--- | :---: | :---: |
 | 01 | Giáo trình do tác giả ngoài ĐH Đà Nẵng biên soạn | | |
 | 02 | Giáo trình do tác giả thuộc ĐH Đà Nẵng biên soạn | | |
 | 03 | Bài giảng chi tiết do giảng viên thuộc khoa biên soạn đã được khoa thông qua | | |
@@ -2569,7 +2540,7 @@ Hội đồng khoa đã họp và có ý kiến đề nghị Trường tổ ch�
 - ISBN: ...................... Nhà XB: ............................................. Năm xuất bản: ................
 - Tác giả/ Nhóm tác giả: ................................................................... Giá bìa: ...................
 - Sử dụng để giảng dạy học phần: ..................................................................... (... tiết).
-- Thuộc chương trình đào tạo ........................ trình độ: $\square$ Đại học $\square$ Sau đại học
+- Thuộc chương trình đào tạo ........................ trình độ: ☐ Đại học ☐ Sau đại học
 - Đề xuất thời gian đánh giá lựa chọn, xét duyệt: ...............................................................
 
 2
@@ -2616,7 +2587,6 @@ Kính gửi: Ban Giám hiệu
 Căn cứ Quy định hiện hành của Trường về việc lựa chọn, duyệt giáo trình; đề nghị của các Khoa; kết quả rà soát đối sánh với thực tế, Trung tâm học liệu và truyền thông, Phòng Đào tạo và Phòng Kế hoạch - Tài chính kính để Ban Giám hiệu phê duyệt Kế hoạch lựa chọn, duyệt giáo trình của Trường trong năm học 20.../20... như sau:
 
 | TT | Khoa | Học phần cần giáo trình | Ngành đào tạo/ Trình độ đào tạo | Thông tin về sách được đề xuất lựa chọn | Dự kiến thời gian họp Hội đồng lựa chọn |
-|---|---|---|---|---|---|---|---|
 | Tên sách | ISBN/ Nhà xuất bản, năm XB | Tác giả/ Nhóm tác giả | Số trang/ Giá bìa |
 | 1 | | | Kỹ thuật .... / đại học | | | | | |
 | 2 | | | | | | | | |
@@ -2646,7 +2616,6 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 KẾ HOẠCH LỰA CHỌN, DUYỆT GIÁO TRÌNH NĂM HỌC 20...-20...
 
 | TT | Khoa | Học phần cần giáo trình | Ngành đào tạo/ Trình độ đào tạo | Thông tin về sách được đề xuất lựa chọn | Dự kiến thời gian họp Hội đồng lựa chọn |
-|---|---|---|---|---|---|---|---|
 | Tên sách | ISBN/ Nhà xuất bản, năm XB | Tác giả/ Nhóm tác giả | Số trang/ Giá bìa |
 | 1 | | | Kỹ thuật .... / đại học | | | | | |
 | 2 | | | | | | | | |
@@ -2709,7 +2678,6 @@ QUYẾT ĐỊNH:
 Điều 1. Thành lập hội đồng đánh giá, lựa chọn giáo trình gồm các thành viên:
 
 | TT | Họ và tên | Nơi công tác | Nhiệm vụ |
-|---|---|---|---|
 | 1 | | | Chủ tịch |
 | 2 | | | Ủy viên |
 | 3 | | | Ủy viên |
@@ -2745,7 +2713,7 @@ A. Thông tin về sách và Hội đồng, người đánh giá:
 - ISBN: ................................... Nhà xuất bản: ....................................... Năm XB: ...................
 - Dự kiến chọn làm giáo trình để giảng dạy học phần: .............................................................
 ......................................................................................................................... tín chỉ (… tiết).
-- Thuộc chương trình đào tạo ........................ trình độ: $\square$ Đại học $\square$ Sau đại học
+- Thuộc chương trình đào tạo ........................ trình độ: ☐ Đại học ☐ Sau đại học
 2. Hội đồng lựa chọn, xét duyệt giáo trình được thành lập theo QĐ số: ................................
 ngày .../.../.... của Hiệu trưởng Trường Đại học Bách Khoa.
 3. Người đánh giá:
@@ -2791,7 +2759,6 @@ B.5. Những hạn chế của sách khi chọn làm giáo trình:
 
 C. Điểm đánh giá chung:
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :--- | :--- | :---: | :---: |
 | 1 | Mức độ phù hợp với yêu cầu chuẩn đầu ra của học phần | 20 | |
 | 2 | Mức độ đúng đề cương học phần (về nội dung, kế hoạch giảng dạy) | 30 | |
 | 3 | Tính khoa học | 20 | |
@@ -2800,8 +2767,8 @@ C. Điểm đánh giá chung:
 | Cộng: | | 100 | |
 
 D. Kết luận:
-$\square$ Đạt yêu cầu, đề nghị Hiệu trưởng duyệt làm giáo trình
-$\square$ Không đạt yêu cầu, đề nghị không lựa chọn (nếu tổng điểm dưới 80).
+☐ Đạt yêu cầu, đề nghị Hiệu trưởng duyệt làm giáo trình
+☐ Không đạt yêu cầu, đề nghị không lựa chọn (nếu tổng điểm dưới 80).
 Đà Nẵng, ngày ..... tháng ..... năm 20.....
 Họ tên và chữ ký Người đánh giá
 
@@ -2835,7 +2802,7 @@ B. Thông tin về sách:
 - ISBN: ................................... Nhà xuất bản: ....................................... Năm XB: ...................
 - Dự kiến chọn làm giáo trình để giảng dạy học phần: .............................................................
 ......................................................................................................................... tín chỉ (… tiết).
-- Thuộc chương trình đào tạo ........................ trình độ: $\square$ Đại học $\square$ Sau đại học
+- Thuộc chương trình đào tạo ........................ trình độ: ☐ Đại học ☐ Sau đại học
 
 C. Nội dung cuộc họp:
 C.1. Hội đồng đã xem xét hồ sơ lựa chọn sách làm giáo trình, gồm các tài liệu:
@@ -2886,7 +2853,6 @@ hạn chế của sách khi chọn làm giáo trình:
 
 C.3. Điểm đánh giá chung:
 | TT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-| :--- | :--- | :---: | :---: |
 | 1 | Mức độ phù hợp với yêu cầu chuẩn đầu ra của học phần | 20 | |
 | 2 | Mức độ đúng đề cương học phần (về nội dung, kế hoạch giảng dạy) | 30 | |
 | 3 | Tính khoa học | 20 | |
@@ -2895,8 +2861,8 @@ C.3. Điểm đánh giá chung:
 | Cộng: | | 100 | |
 
 D. Kết luận:
-$\square$ Đạt yêu cầu, đề nghị Hiệu trưởng duyệt làm giáo trình (có ít nhất 4/5 thành viên HĐ đồng ý đề xuất chọn & có tổng điểm trung bình $\geq 80$)
-$\square$ Không đạt yêu cầu, đề nghị không lựa chọn.
+☐ Đạt yêu cầu, đề nghị Hiệu trưởng duyệt làm giáo trình (có ít nhất 4/5 thành viên HĐ đồng ý đề xuất chọn & có tổng điểm trung bình ≥ 80)
+☐ Không đạt yêu cầu, đề nghị không lựa chọn.
 
 Biên bản này đã được thông qua trước các thành viên của Hội đồng.
 
@@ -2940,7 +2906,6 @@ Kính gửi: Ban Giám hiệu
 Căn cứ Biên bản họp Hội đồng khoa vào ngày .... tháng .... năm 20... về việc xem xét chọn sách sử dụng làm tài liệu tham khảo phục vụ công tác đào tạo, Khoa kính đề nghị Ban Giám hiệu xem xét cho phép sử dụng cuốn sách có thông tin:
 
 | Tên sách: | |
-| :--- | :--- |
 | Tác giả: | |
 | Ngôn ngữ: | |
 | ISBN-10: | |
@@ -2952,7 +2917,6 @@ Căn cứ Biên bản họp Hội đồng khoa vào ngày .... tháng .... năm 
 Được làm tài liệu tham khảo cho học phần:
 
 | TT | Học phần | Mã học phần | Ngành | Trình độ đào tạo |
-| :---: | :---: | :---: | :---: | :---: |
 | | | | | |
 | | | | | |
 
@@ -2996,7 +2960,6 @@ Kính gửi: Ban Giám hiệu
 Căn cứ Quy định hiện hành của Trường về việc đánh giá, công nhận sách tham khảo, đề nghị của các Khoa, kết quả rà soát đối sánh với thực tế hiện nay về sách tham khảo sử dụng tại Trường, Trung tâm học liệu và truyền thông, Phòng Đào tạo và Phòng Kế hoạch - Tài chính kính đề nghị Ban Giám hiệu phê duyệt Kế hoạch đánh giá, công nhận sách tham khảo của Trường trong năm học 20.../20... như sau:
 
 | TT | Khoa | Học phần cần sách tham khảo | Ngành đào tạo/ Trình độ đào tạo | Thông tin về sách được đề xuất lựa chọn | | | | Dự kiến thời gian họp Hội đồng đánh giá |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | Tên sách | ISBN/ Nhà xuất bản, năm XB | Tác giả/ Nhóm tác giả | Số trang/ Giá bìa | |
 | 1 | | | Kỹ thuật ..../ đại học | | | | | |
 | 2 | | | | | | | | |
@@ -3027,7 +2990,6 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 KẾ HOẠCH ĐÁNH GIÁ, CÔNG NHẬN SÁCH THAM KHẢO NĂM HỌC 20...-20...
 
 | TT | Khoa | Học phần cần sách tham khảo | Ngành đào tạo/ Trình độ đào tạo | Thông tin về sách được đề xuất lựa chọn | | | | Dự kiến thời gian họp Hội đồng đánh giá |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | Tên sách | ISBN/ Nhà xuất bản, năm XB | Tác giả/ Nhóm tác giả | Số trang/ Giá bìa | |
 | 1 | | | Kỹ thuật .... / đại học | | | | | |
 | 2 | | | | | | | | |
@@ -3220,7 +3182,6 @@ d. Những hạn chế của sách, những lưu ý cần thiết khi tham khả
 C.2.4. Đánh giá chung về mức độ hoàn thiện về nội dung của sách trong việc giúp người học đạt được chuẩn đầu ra của học phần (nêu ở mục a):
 
 | Mức | Không đạt | Đạt | Tốt |
-| :--- | :---: | :---: | :---: |
 | Kết quả đánh giá | / | / | / |
 | Số người/ Số thành viên họp | / | / | / |
 

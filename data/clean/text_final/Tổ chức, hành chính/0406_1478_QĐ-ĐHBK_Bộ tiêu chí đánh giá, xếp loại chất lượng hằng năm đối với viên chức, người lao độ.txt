@@ -59,7 +59,6 @@ Cấp đánh giá:
 I. BỘ TIÊU CHÍ ĐÁNH GIÁ, XẾP LOẠI KHÔNG HOÀN THÀNH NHIỆM VỤ, HOÀN THÀNH NHIỆM VỤ VÀ HOÀN THÀNH TỐT NHIỆM VỤ
 
 | STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | I. Tiêu chí chung |
 | 1 | Chính trị tư tưởng: | - Xuất sắc: Thực hiện tốt và nêu gương.
 - Tốt: Thực hiện tốt.
@@ -112,7 +111,6 @@ II. TIÊU CHÍ RIÊNG
 A. Ngạch giảng viên (Giảng viên; giảng viên hướng dẫn thực hành, thí nghiệm; trợ giảng)
 
 | STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | A.9 | Tham gia hoạt động giảng dạy | - Xuất sắc: Thực hiện theo đúng nhiệm vụ của chức danh giảng viên, chưa từng bị nêu tên do vi phạm theo kết luận kiểm tra của Phòng Thanh tra – Pháp chế (TTPC) hoặc vi phạm về quy định nộp điểm theo nhắc nhở của Phòng Đào tạo; được người học và tập thể lãnh đạo đơn vị đánh giá cao.
 - Tốt: Thực hiện theo đúng nhiệm vụ của chức danh giảng viên, chưa từng bị nhắc nhở, nêu tên do vi phạm theo kết luận kiểm tra của Phòng TTPC hoặc vi phạm quy định nộp điểm theo nhắc nhở của Phòng Đào tạo.
 - Hoàn thành: thực hiện theo nhiệm vụ của chức danh giảng viên, bị nhắc nhở, nêu tên vi phạm theo kết luận thanh tra của Phòng TTPC hoặc vi phạm về quy định nộp điểm theo nhắc nhở của Phòng Đào tạo 01 lần/học kỳ.
@@ -131,7 +129,6 @@ A. Ngạch giảng viên (Giảng viên; giảng viên hướng dẫn thực hà
 5
 
 STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú
----|---|---|---
 B. Chuyên viên | | |
 B.9 | Hoàn thành có hiệu quả, chủ động, sáng tạo trong công việc, các mảng công tác được giao | - Xuất sắc: Hoàn thành 100% các chỉ tiêu, nhiệm vụ được giao, đảm bảo đúng tiến độ, chất lượng, hiệu quả và trong đó có ít nhất 50% chỉ tiêu, nhiệm vụ hoàn thành vượt mức.
 - Tốt: Hoàn thành 100% các chỉ tiêu, nhiệm vụ được giao, đảm bảo đúng tiến độ, chất lượng, hiệu quả.
@@ -152,7 +149,6 @@ C.9 | Hoàn thành có hiệu quả, chủ động, sáng tạo trong công vi�
 6
 
 STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú
----|---|---|---
 C.10 | Tham gia hoạt động nghiên cứu khoa học, sáng kiến cải tiến | - Xuất sắc: Có cải tiến trong công việc được cấp khoa/phòng ghi nhận (biên bản họp Khoa/Phòng)
 - Tốt: Hoàn thành các nhiệm vụ được giao. | Việc triển khai cụ thể cho các tiêu chí do tập thể lãnh đạo đơn vị quyết định.
 D. Viên chức quản lý có ngạch giảng viên | | |
@@ -171,7 +167,6 @@ D.11 | Tham gia hoạt động nghiên cứu khoa học | - Xuất sắc: Vượ
 7
 
 STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú
----|---|---|---
 | | - Tốt: Đạt giờ định mức NCKH hoặc điểm công trình >=0.5 hoặc đạt ít nhất 50% giờ định mức NCKH và bù 50% còn lại bằng giờ giảng vượt chuẩn.
 - Hoàn thành: Đạt >=50% định mức NCKH hoặc điểm công trình >=0.25 hoặc đạt ít nhất 25% giờ định mức NCKH và 25% còn lại bằng giờ giảng vượt chuẩn.
 - Không hoàn thành: trường hợp còn lại | cụ thể tại Quyết định số 3092/QĐ-ĐHBK ngày 08/8/2022
@@ -190,7 +185,6 @@ E.10 | Tham gia hoạt động nghiên cứu khoa học, sáng kiến cải ti�
 8
 
 STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú
----|---|---|---
 | | - Tốt: Có cải tiến trong công việc được cấp khoa/phòng ghi nhận (biên bản họp khoa/phòng)
 - Hoàn thành: Hoàn thành các nhiệm vụ được giao. |
 E.11 | Kết quả hoạt động của đơn vị | Xuất sắc: Đơn vị hoàn thành 100% các chỉ tiêu, nhiệm vụ được giao và trong đó có ít nhất 50% chỉ tiêu, nhiệm vụ hoàn thành vượt mức; 100% VC, NLĐ trong đơn vị được đánh giá hoàn thành nhiệm vụ trở lên, trong đó ít nhất 70% hoàn thành tốt nhiệm vụ trở lên.
@@ -214,7 +208,6 @@ _Lưu ý:_ - Không có tiêu chí không hoàn thành nhiệm vụ
 9
 
 STT | Tiêu chí | Cách đánh giá, xếp loại | Ghi chú
----|---|---|---
 Người lao động | - Tiêu chí 1-4: HTTNV;
 - Tiêu chí 5-10: đạt 4/6 tiêu chí HTTNV.
 _Lưu ý:_ - Không có tiêu chí không hoàn thành nhiệm vụ
@@ -240,8 +233,8 @@ II. QUY TRÌNH ĐÁNH GIÁ, XẾP LOẠI VIÊN CHỨC HOÀN THÀNH XUẤT SẮC 
 a) Đối với viên chức giữ ngạch Giảng viên
 - Tiêu chí 1-4: HT tốt NV trở lên;
 - Tiêu chí 5-11: đạt 4/7 tiêu chí HTXSNV.
-  _Lưu ý:_ - Không có tiêu chí không hoàn thành nhiệm vụ
-  - Tiêu chí nghiên cứu khoa học: Phải đạt loại Tốt trở lên
+ _Lưu ý:_ - Không có tiêu chí không hoàn thành nhiệm vụ
+ - Tiêu chí nghiên cứu khoa học: Phải đạt loại Tốt trở lên
 
 ----- [Trang 11] -----
 Trang 1:

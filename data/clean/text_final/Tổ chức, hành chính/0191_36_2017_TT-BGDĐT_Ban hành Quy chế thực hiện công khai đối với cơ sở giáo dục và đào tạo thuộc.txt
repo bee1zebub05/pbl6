@@ -317,7 +317,6 @@ THÔNG BÁO
 Cam kết chất lượng giáo dục của cơ sở giáo dục mầm non, năm học.....
 
 | STT | Nội dung | Nhà trẻ | Mẫu giáo |
-| :---: | :--- | :---: | :---: |
 | I | Chất lượng nuôi dưỡng chăm sóc giáo dục trẻ dự kiến đạt được | | |
 | II | Chương trình giáo dục mầm non của nhà trường thực hiện | | |
 | III | Kết quả đạt được trên trẻ theo các lĩnh vực phát triển | | |
@@ -336,7 +335,6 @@ THÔNG BÁO
 Công khai chất lượng giáo dục mầm non thực tế, năm học.....
 
 | STT | Nội dung | Tổng số trẻ em | Nhà trẻ (3-12 tháng tuổi, 13-24 tháng tuổi, 25-36 tháng tuổi) | Mẫu giáo (3-4 tuổi, 4-5 tuổi, 5-6 tuổi) |
-| :--- | :--- | :--- | :--- | :--- |
 | I | Tổng số trẻ em | | | |
 | 1 | Số trẻ em nhóm ghép | | | |
 | 2 | Số trẻ em học 1 buổi/ngày | | | |
@@ -369,7 +367,6 @@ THÔNG BÁO
 Công khai thông tin cơ sở vật chất của cơ sở giáo dục mầm non, năm học....
 
 | STT | Nội dung | Số lượng | Bình quân số m²/trẻ em |
-| :--- | :--- | :--- | :--- |
 | I | Tổng số phòng | | - |
 | II | Loại phòng học | | - |
 | 1 | Phòng học kiên cố | | - |
@@ -396,7 +393,6 @@ Công khai thông tin cơ sở vật chất của cơ sở giáo dục mầm non
 | 1 | ... | | |
 
 | XI | Nhà vệ sinh | Số lượng (m²) | Số m²/trẻ em |
-| :--- | :--- | :--- | :--- |
 | | | Dùng cho giáo viên | Dùng cho học sinh | Dùng cho giáo viên | Dùng cho học sinh |
 | | | Chung | Chung | Nam/Nữ | Chung | Chung | Nam/Nữ |
 | 1 | Đạt chuẩn vệ sinh* | | | | | | |
@@ -406,12 +402,10 @@ Trang 3: Biểu mẫu 03 (tiếp theo)
 
 ----- [Trang 18] -----
 Chưa đạt chuẩn vệ sinh* | | |
-| :--- | :--- | :--- | :--- |
 
 (*Theo Quyết định số 14/2008/QĐ-BGDĐT ngày 07/4/2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Điều lệ Trường mầm non và Thông tư số 27/2011/TT-BYT ngày 24/6/2011 của Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về nhà tiêu- điều kiện bảo đảm hợp vệ sinh)
 
 | | | Có | Không |
-| :--- | :--- | :--- | :--- |
 | XII | Nguồn nước sinh hoạt hợp vệ sinh | | |
 | XIII | Nguồn điện (lưới, phát điện riêng) | | |
 | XIV | Kết nối internet | | |
@@ -428,7 +422,6 @@ THÔNG BÁO
 Công khai thông tin về đội ngũ nhà giáo, cán bộ quản lý và nhân viên của cơ sở giáo dục mầm non, năm học ....
 
 | STT | Nội dung | Tổng số | Trình độ đào tạo (TS, ThS, ĐH, CĐ, TC, Dưới TC) | Hạng chức danh nghề nghiệp (Hạng IV, Hạng III, Hạng II) | Chuẩn nghề nghiệp (Xuất sắc, Khá, Trung bình, Kém) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | | Tổng số giáo viên, cán bộ quản lý và nhân viên | | | | |
 |
 
@@ -460,7 +453,6 @@ THÔNG BÁO
 Cam kết chất lượng giáo dục của trường tiểu học, năm học.....
 
 | STT | Nội dung | Chia theo khối lớp (Lớp.., Lớp.., ..., ...) |
-| :--- | :--- | :--- |
 | I | Điều kiện tuyển sinh | |
 | II | Chương trình giáo dục mà cơ sở giáo dục thực hiện | |
 | III | Yêu cầu về phối hợp giữa cơ sở giáo dục và gia đình. Yêu cầu về thái độ học tập của học sinh | |
@@ -482,7 +474,6 @@ THÔNG B́ÁO
 Công khai thông tin chất lượng giáo dục tiểu học thực tế, năm học .....
 
 | STT | Nội dung | Tổng số | Chia ra theo khối lớp | | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | Lớp 1 | Lớp 2 | Lớp 3 | Lớp 4 | Lớp 5 |
 | I | Tổng số học sinh | | | | | | |
 | II | Số học sinh học 2 buổi/ngày | | | | | | |
@@ -528,26 +519,25 @@ THÔNG BÁO
 Công khai thông tin cơ sở vật chất của trường tiểu học, năm học .....
 
 | STT | Nội dung | Số lượng | Bình quân |
-| :---: | :--- | :---: | :---: |
-| I | Số phòng học/số lớp | | Số $\text{m}^2$/học sinh |
+| I | Số phòng học/số lớp | | Số m^2/học sinh |
 | II | Loại phòng học | - | - |
 | 1 | Phòng học kiên cố | - | - |
 | 2 | Phòng học bán kiên cố | - | - |
 | 3 | Phòng học tạm | - | - |
 | 4 | Phòng học nhờ, mượn | - | - |
 | III | Số điểm trường lẻ | - | - |
-| IV | Tổng diện tích đất ($\text{m}^2$) | | |
-| V | Diện tích sân chơi, bãi tập ($\text{m}^2$) | | |
+| IV | Tổng diện tích đất (m^2) | | |
+| V | Diện tích sân chơi, bãi tập (m^2) | | |
 | VI | Tổng diện tích các phòng | | |
-| 1 | Diện tích phòng học ($\text{m}^2$) | | |
-| 2 | Diện tích thư viện ($\text{m}^2$) | | |
-| 3 | Diện tích phòng giáo dục thể chất hoặc nhà đa năng ($\text{m}^2$) | | |
-| 4 | Diện tích phòng giáo dục nghệ thuật ($\text{m}^2$) | | |
-| 5 | Diện tích phòng ngoại ngữ ($\text{m}^2$) | | |
-| 6 | Diện tích phòng học tin học ($\text{m}^2$) | | |
-| 7 | Diện tích phòng thiết bị giáo dục ($\text{m}^2$) | | |
-| 8 | Diện tích phòng hỗ trợ giáo dục học sinh khuyết tật học hoà nhập ($\text{m}^2$) | | |
-| 9 | Diện tích phòng truyền thống và hoạt động Đội ($\text{m}^2$) | | |
+| 1 | Diện tích phòng học (m^2) | | |
+| 2 | Diện tích thư viện (m^2) | | |
+| 3 | Diện tích phòng giáo dục thể chất hoặc nhà đa năng (m^2) | | |
+| 4 | Diện tích phòng giáo dục nghệ thuật (m^2) | | |
+| 5 | Diện tích phòng ngoại ngữ (m^2) | | |
+| 6 | Diện tích phòng học tin học (m^2) | | |
+| 7 | Diện tích phòng thiết bị giáo dục (m^2) | | |
+| 8 | Diện tích phòng hỗ trợ giáo dục học sinh khuyết tật học hoà nhập (m^2) | | |
+| 9 | Diện tích phòng truyền thống và hoạt động Đội (m^2) | | |
 | VII | Tổng số thiết bị dạy học tối thiểu 
 (Đơn vị tính: bộ) | | Số bộ/lớp |
 | 1 | Tổng số thiết bị dạy học tối thiểu hiện có theo quy định | | |
@@ -571,7 +561,6 @@ Trang 3
 
 ----- [Trang 23] -----
 STT | Nội dung | Số lượng | Bình quân |
-| :---: | :--- | :---: | :---: |
 | | phục vụ học tập (Đơn vị tính: bộ) | | |
 | IX | Tổng số thiết bị dùng chung khác | | Số thiết bị/lớp |
 | 1 | Ti vi | | |
@@ -581,21 +570,18 @@ STT | Nội dung | Số lượng | Bình quân |
 | 5 | Thiết bị khác... | | |
 | 6 | ..... | | |
 
-| | Nội dung | Số lượng ($\text{m}^2$) |
-| :---: | :--- | :---: |
+| | Nội dung | Số lượng (m^2) |
 | X | Nhà bếp | |
 | XI | Nhà ăn | |
 
 | | Nội dung | Số lượng phòng, 
-tổng diện tích ($\text{m}^2$) | Số chỗ | Diện tích 
+tổng diện tích (m^2) | Số chỗ | Diện tích 
 bình quân/chỗ |
-| :---: | :--- | :---: | :---: | :---: |
 | XII | Phòng nghỉ cho học sinh bán trú | | | |
 | XIII | Khu nội trú | | | |
 
 | XIV | Nhà vệ sinh | Dùng cho 
-giáo viên | Dùng cho học sinh | Số $\text{m}^2$/học sinh |
-| :---: | :--- | :---: | :---: | :---: |
+giáo viên | Dùng cho học sinh | Số m^2/học sinh |
 | | | | Chung | Nam/Nữ | Chung | Nam/Nữ |
 | 1 | Đạt chuẩn vệ sinh* | | | | | |
 | 2 | Chưa đạt chuẩn vệ sinh* | | | | | |
@@ -603,7 +589,6 @@ giáo viên | Dùng cho học sinh | Số $\text{m}^2$/học sinh |
 *(Theo Thông tư số 41/2010/TT-BGDĐT ngày 30/12/2010 của Bộ GDĐT ban hành Điều lệ trường tiểu học và Thông tư số 27/2011/TT-BYT ngày 24/6/2011 của Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về nhà tiêu- điều kiện bảo đảm hợp vệ sinh).*
 
 | | | Có | Không |
-| :---: | :--- | :---: | :---: |
 | XV | Nguồn nước sinh hoạt hợp vệ sinh | | |
 | XVI | Nguồn điện (lưới, phát điện riêng) | | |
 | XVII | Kết nối internet | | |
@@ -625,7 +610,6 @@ THÔNG BÁO
 Công khai thông tin về đội ngũ nhà giáo, cán bộ quản lý và nhân viên của trường tiểu học, năm học .....
 
 | STT | Nội dung | Tổng số | Trình độ đào tạo | | | | | | | Hàng chức danh nghề nghiệp | | | Chuẩn nghề nghiệp | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | TS | ThS | ĐH | CĐ | TC | Dưới TC | Hạng IV | Hạng III | Hạng II | Xuất sắc | Khá | Trung bình | Kém |
 | I | Tổng số giáo viên, cán bộ quản lý và nhân viên | | | | | | | | | | | | | | |
 | | Giáo viên | | | | | | | | | | | | | | |
@@ -670,7 +654,6 @@ THÔNG BÁO
 Cam kết chất lượng giáo dục của trường trung học cơ sở và trường trung học phổ thông, năm học.....
 
 | STT | Nội dung | Chia theo khối lớp | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: |
 | | | Lớp .. | Lớp .. | ... | ... |
 | I | Điều kiện tuyển sinh | | | | |
 | II | Chương trình giáo dục mà cơ sở giáo dục thực hiện | | | | |
@@ -694,7 +677,6 @@ THÔNG BÁO
 Công khai thông tin chất lượng giáo dục thực tế của trường trung học cơ sở và trường trung học phổ thông, năm học .....
 
 | STT | Nội dung | Tổng số | Chia ra theo khối lớp |
-| :--- | :--- | :--- | :--- |
 | Lớp ... | Lớp ... | Lớp ... | Lớp ... |
 | I | Số học sinh chia theo hạnh kiểm | | | | |
 | 1 | Tốt | | | | |
@@ -740,7 +722,6 @@ Công khai thông tin chất lượng giáo dục thực tế của trường tr
 
 ----- [Trang 27] -----
 2 | Cấp tỉnh/thành phố | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 3 | Quốc gia, khu vực một số nước, quốc tế | | | | |
 | V | Số học sinh dự xét hoặc dự thi tốt nghiệp | | | | |
 | VI | Số học sinh được công nhận tốt nghiệp | | | | |
@@ -768,8 +749,7 @@ THÔNG BÁO
 Công khai thông tin cơ sở vật chất của trường trung học cơ sở và trường trung học phổ thông, năm học .....
 
 | STT | Nội dung | Số lượng | Bình quân |
-| :--- | :--- | :--- | :--- |
-| Số $m^2$/học sinh |
+| Số m^2/học sinh |
 | I | Số phòng học | | |
 | II | Loại phòng học | - | - |
 | 1 | Phòng học kiên cố | | - |
@@ -781,14 +761,14 @@ Công khai thông tin cơ sở vật chất của trường trung học cơ sở
 | 7 | Bình quân lớp/phòng học | | - |
 | 8 | Bình quân học sinh/lớp | | - |
 | III | Số điểm trường | | - |
-| IV | Tổng số diện tích đất ($m^2$) | | |
-| V | Tổng diện tích sân chơi, bãi tập ($m^2$) | | |
+| IV | Tổng số diện tích đất (m^2) | | |
+| V | Tổng diện tích sân chơi, bãi tập (m^2) | | |
 | VI | Tổng diện tích các phòng | | |
-| 1 | Diện tích phòng học ($m^2$) | | |
-| 2 | Diện tích phòng học bộ môn ($m^2$) | | |
-| 3 | Diện tích thư viện ($m^2$) | | |
-| 4 | Diện tích nhà tập đa năng (Phòng giáo dục rèn luyện thể chất) ($m^2$) | | |
-| 5 | Diện tích phòng hoạt động Đoàn Đội, phòng truyền thống ($m^2$) | | |
+| 1 | Diện tích phòng học (m^2) | | |
+| 2 | Diện tích phòng học bộ môn (m^2) | | |
+| 3 | Diện tích thư viện (m^2) | | |
+| 4 | Diện tích nhà tập đa năng (Phòng giáo dục rèn luyện thể chất) (m^2) | | |
+| 5 | Diện tích phòng hoạt động Đoàn Đội, phòng truyền thống (m^2) | | |
 | VII | Tổng số thiết bị dạy học tối thiểu (Đơn vị tính: bộ) | | Số bộ/lớp |
 | 1 | Tổng số thiết bị dạy học tối thiểu hiện có theo quy định | | |
 | 1.1 | Khối lớp... | | |
@@ -805,7 +785,6 @@ Công khai thông tin cơ sở vật chất của trường trung học cơ sở
 
 ----- [Trang 29] -----
 STT | Nội dung | Số lượng | Bình quân |
-| :--- | :--- | :--- | :--- |
 | VIII | Tổng số máy vi tính đang sử dụng phục vụ học tập (Đơn vị tính: bộ) | | Số học sinh/bộ |
 | IX | Tổng số thiết bị dùng chung khác | | Số thiết bị/lớp |
 | 1 | Ti vi | | |
@@ -816,7 +795,6 @@ STT | Nội dung | Số lượng | Bình quân |
 | 6 | ..... | | |
 
 | IX | Tổng số thiết bị đang sử dụng | | Số thiết bị/lớp |
-| :---: | :--- | :--- | :--- |
 | 1 | Ti vi | | |
 | 2 | Cát xét | | |
 | 3 | Đầu Video/đầu đĩa | | |
@@ -824,18 +802,15 @@ STT | Nội dung | Số lượng | Bình quân |
 | 5 | Thiết bị khác... | | |
 | .. | ........ | | |
 
-| | Nội dung | Số lượng ($m^2$) |
-| :--- | :--- | :--- |
+| | Nội dung | Số lượng (m^2) |
 | X | Nhà bếp | |
 | XI | Nhà ăn | |
 
-| | Nội dung | Số lượng phòng, tổng diện tích ($m^2$) | Số chỗ | Diện tích bình quân/chỗ |
-| :---: | :--- | :---: | :---: | :---: |
+| | Nội dung | Số lượng phòng, tổng diện tích (m^2) | Số chỗ | Diện tích bình quân/chỗ |
 | XII | Phòng nghỉ cho học sinh bán trú | | | |
 | XIII | Khu nội trú | | | |
 
-| XIV | Nhà vệ sinh | Dùng cho giáo viên | Dùng cho học sinh | Số $m^2$/học sinh |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| XIV | Nhà vệ sinh | Dùng cho giáo viên | Dùng cho học sinh | Số m^2/học sinh |
 | Chung | Nam/Nữ | Chung | Nam/Nữ |
 | 1 | Đạt chuẩn vệ sinh* | | | | | |
 | 2 | Chưa đạt chuẩn vệ sinh* | | | | | |
@@ -843,7 +818,6 @@ STT | Nội dung | Số lượng | Bình quân |
 _(*Theo Thông tư số 12/2011/TT-BGDĐT ngày 28/3/2011 của Bộ GDĐT ban hành Điều lệ trường trung học cơ sở, trường trung học phổ thông và trường trung học phổ thông có nhiều cấp học và Thông tư số 27/2011/TT-BYT ngày 24/6/2011 của Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về nhà tiêu- điều kiện bảo đảm hợp vệ sinh)._
 
 | | Nội dung | Có | Không |
-| :--- | :--- | :---: | :---: |
 | XV | Nguồn nước sinh hoạt hợp vệ sinh | | |
 | XVI | Nguồn điện (lưới, phát điện riêng) | | |
 | XVII | Kết nối internet | | |
@@ -852,7 +826,6 @@ _(*Theo Thông tư số 12/2011/TT-BGDĐT ngày 28/3/2011 của Bộ GDĐT ban h
 
 ----- [Trang 30] -----
 Trang thông tin điện tử (website) của trường | |
-| :--- | :--- | :--- |
 | XIX | Tường rào xây | |
 
 ....., ngày......tháng.......năm......
@@ -869,7 +842,6 @@ Công khai thông tin về đội ngũ nhà giáo, cán bộ quản lý và nhâ
 của trường trung học cơ sở và trường trung học phổ thông, năm học.....
 
 | STT | Nội dung | Tổng số | Trình độ đào tạo | | | | | | Hạng chức danh nghề nghiệp | | | Chuẩn nghề nghiệp | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | TS | ThS | ĐH | CĐ | TC | Dưới TC | Hạng I | Hạng II | Hạng III | Xuất sắc | Khá | Trung bình | Kém |
 | I | Tổng số giáo viên, cán bộ quản lý và nhân viên | | | | | | | | | | | | | | |
 | 1 | Giáo viên | | | | | | | | | | | | | | |
@@ -907,7 +879,6 @@ THÔNG BÁO
 Công khai cam kết chất lượng giáo dục của cơ sở giáo dục thường xuyên, năm học....
 
 | STT | Nội dung | Chia theo khối lớp | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: |
 | | | ... | ... | ... | ... |
 | I | Điều kiện tuyển sinh | | | | |
 | II | Chương trình giáo dục mà cơ sở giáo dục thực hiện | | | | |
@@ -932,7 +903,6 @@ Công khai thông tin chất lượng giáo dục thực tế của cơ sở gi�
 A. Giáo dục thường xuyên
 
 | STT | Nội dung | Tổng số | Chia ra theo khối lớp | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | | | | Lớp... | Lớp... | Lớp... | Lớp... |
 | I | Số học viên thuộc diện xếp loại hạnh kiểm | | | | | |
 | 1 | Tốt 
@@ -986,7 +956,6 @@ A. Giáo dục thường xuyên
 B. Đào tạo liên kết hình thức vừa làm vừa học, từ xa (đại học, cao đẳng sư phạm, trung cấp sư phạm)
 
 | STT | Trình độ đào tạo | Quy mô đào tạo | Số học viên tốt nghiệp | Phân loại tốt nghiệp | | | | Tỷ lệ học viên tốt nghiệp có việc làm sau 1 năm ra trường (Đối với học viên chưa có việc làm) |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | Loại xuất sắc | Loại giỏi | Loại khá | |
 | I | Tổng số | | | | | | | |
 | II | Liên kết đào tạo hình thức vừa làm vừa học | | | | | | | |
@@ -1002,7 +971,6 @@ B. Đào tạo liên kết hình thức vừa làm vừa học, từ xa (đại 
 C. Các chương trình bồi dưỡng, đào tạo khác
 
 | STT | Chương trình bồi dưỡng, đào tạo | Số người tham gia | Thời gian bồi dưỡng, đào tạo (tháng) | Số người được cấp chứng chỉ (nếu có) |
-| :---: | :--- | :---: | :---: | :---: |
 | 1 | ... | | | |
 | 2 | ... | | | |
 | 3 | ... | | | |
@@ -1022,7 +990,6 @@ THÔNG BÁO
 Công khai thông tin cơ sở vật chất của cơ sở giáo dục thường xuyên, năm học .....
 
 | STT | Nội dung | Số lượng | Bình quân |
-| :---: | :--- | :---: | :---: |
 | I | Số phòng học | | - |
 | II | Loại phòng học | | - |
 | 1 | Phòng học kiên cố | | - |
@@ -1033,16 +1000,16 @@ Công khai thông tin cơ sở vật chất của cơ sở giáo dục thường
 | 6 | Số phòng học đa chức năng (có phương tiện nghe nhìn) | | |
 | 7 | Bình quân lớp/phòng học | | |
 | 8 | Bình quân học viên/lớp | | |
-| III | Số điểm trường | | Số $\text{m}^2$/học viên |
-| IV | Tổng số diện tích đất ($\text{m}^2$) | | |
-| V | Tổng diện tích sân chơi, bãi tập ($\text{m}^2$) | | |
+| III | Số điểm trường | | Số m^2/học viên |
+| IV | Tổng số diện tích đất (m^2) | | |
+| V | Tổng diện tích sân chơi, bãi tập (m^2) | | |
 | VI | Tổng diện tích các phòng | | |
-| 1 | Diện tích phòng học ($\text{m}^2$) | | |
-| 2 | Diện tích phòng thí nghiệm ($\text{m}^2$) | | |
-| 3 | Diện tích thư viện ($\text{m}^2$) | | |
-| 4 | Diện tích phòng lao động sản xuất ($\text{m}^2$) | | |
-| 5 | Diện tích phòng thực hành ($\text{m}^2$) | | |
-| 6 | Diện tích xưởng sản xuất ($\text{m}^2$) | | |
+| 1 | Diện tích phòng học (m^2) | | |
+| 2 | Diện tích phòng thí nghiệm (m^2) | | |
+| 3 | Diện tích thư viện (m^2) | | |
+| 4 | Diện tích phòng lao động sản xuất (m^2) | | |
+| 5 | Diện tích phòng thực hành (m^2) | | |
+| 6 | Diện tích xưởng sản xuất (m^2) | | |
 | VII | Tổng số thiết bị dạy học tối thiểu 
  (Đơn vị tính: bộ) | | Số bộ/lớp |
 | 1 | Tổng số thiết bị dạy học tối thiểu hiện có theo quy định | | |
@@ -1062,7 +1029,6 @@ Công khai thông tin cơ sở vật chất của cơ sở giáo dục thường
 Trang 1
 
 | STT | Nội dung | Số lượng | Bình quân |
-| :--- | :--- | :--- | :--- |
 | VIII | Tổng số máy vi tính đang sử dụng phục vụ học tập (Đơn vị tính: bộ) | | Số học sinh/bộ |
 | IX | Tổng số thiết bị dùng chung khác | | Số thiết bị/lớp |
 | 1 | Ti vi | | |
@@ -1072,18 +1038,15 @@ Trang 1
 | 5 | Thiết bị khác... | | |
 | 6 | ..... | | |
 
-| | Nội dung | Số lượng ($\text{m}^2$) |
-| :--- | :--- | :--- |
+| | Nội dung | Số lượng (m^2) |
 | X | Nhà bếp | |
 | XI | Nhà ăn | |
 
-| | Nội dung | Số lượng phòng, tổng diện tích ($\text{m}^2$) | Số chỗ | Diện tích bình quân/chỗ |
-| :--- | :--- | :--- | :--- | :--- |
+| | Nội dung | Số lượng phòng, tổng diện tích (m^2) | Số chỗ | Diện tích bình quân/chỗ |
 | XII | Phòng nghỉ cho học viên bán trú | | | |
 | XIII | Khu nội trú | | | |
 
-| XIV | Nhà vệ sinh | Dùng cho giáo viên | Dùng cho học viên | $\text{m}^2$/học viên |
-| :--- | :--- | :--- | :--- | :--- |
+| XIV | Nhà vệ sinh | Dùng cho giáo viên | Dùng cho học viên | m^2/học viên |
 | Chung | Nam/Nữ | Chung | Nam/Nữ |
 | 1 | Đạt chuẩn vệ sinh* | | | | | |
 | 2 | Chưa đạt chuẩn vệ sinh* | | | | | |
@@ -1091,7 +1054,6 @@ Trang 1
 (*Theo Thông tư số 27/2011/TT-BYT ngày 24/6/2011 của Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về nhà tiêu- điều kiện bảo đảm hợp vệ sinh).
 
 | | Nội dung | Có | Không |
-| :--- | :--- | :--- | :--- |
 | XV | Nguồn nước sinh hoạt hợp vệ sinh | | |
 | XVI | Nguồn điện (lưới, phát điện riêng) | | |
 | XVII | Kết nối internet | | |
@@ -1117,7 +1079,6 @@ Công khai thông tin về đội ngũ nhà giáo, cán bộ quản lý và nhâ
 của cơ sở giáo dục thường xuyên, năm học ....
 
 | STT | Nội dung | Tổng số | Trình độ đào tạo | | | | | | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | TS | ThS | ĐH | CĐ | TC | Trình độ khác |
 | | Tổng số giáo viên, cán bộ quản lý và nhân viên | | | | | | | | |
 | I | Giáo viên | | | | | | | | |
@@ -1160,7 +1121,6 @@ cơ sở giáo dục đại học, trường cao đẳng sư phạm, trung cấp
 1. Chuyên ngành đào tạo...(theo từng mã ngành đào tạo cấp IV)
 
 | STT | Nội dung | Trình độ đào tạo | | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Tiến sĩ | Thạc sĩ | Đại học | | | Cao đẳng sư phạm chính quy | Trung cấp sư phạm chính quy |
 | Chính quy | Liên thông chính quy | Văn bằng 2 chính quy |
 | I | Điều kiện đăng ký tuyển sinh | | | | | | | |
@@ -1191,7 +1151,6 @@ cao đẳng sư phạm, trung cấp sư phạm năm học...
 A. Công khai thông tin về quy mô đào tạo hiện tại
 
 | STT | Khối ngành | Quy mô sinh viên hiện tại | | | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng sư phạm | Trung cấp sư phạm |
 | Chính quy | Vừa làm vừa học | Chính quy | Vừa làm vừa học | Chính quy | Vừa làm vừa học |
 | | Tổng số | | | | | | | | |
@@ -1206,7 +1165,6 @@ A. Công khai thông tin về quy mô đào tạo hiện tại
 B. Công khai thông tin về sinh viên tốt nghiệp và tỷ lệ sinh viên có việc làm sau 01 năm ra trường
 
 | STT | Khối ngành | Số sinh viên tốt nghiệp | Phân loại tốt nghiệp (%) | | | Tỷ lệ sinh viên tốt nghiệp có việc làm sau 1 năm ra trường (%)* |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Loại xuất sắc | Loại giỏi | Loại khá |
 | | Tổng số | | | | | |
 | 1 | Khối ngành I | | | | | |
@@ -1222,7 +1180,6 @@ B. Công khai thông tin về sinh viên tốt nghiệp và tỷ lệ sinh viên
 C. Công khai các môn học của từng khóa học, chuyên ngành
 
 | STT | Tên môn học | Mục đích môn học | Số tín chỉ | Lịch trình giảng dạy | Phương pháp đánh giá sinh viên |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | | |
 | 2 | | | | | |
 
@@ -1236,14 +1193,12 @@ Trang 5
 
 ----- [Trang 40] -----
 STT | Tên giáo trình, tài liệu tham khảo (kể cả giáo trình điện tử) | Năm xuất bản | Kế hoạch soạn thảo giáo trình, tài liệu tham khảo (kể cả giáo trình điện tử) |
-| :--- | :--- | :--- | :--- |
 | 1 | | | |
 | 2 | | | |
 
 E. Công khai thông tin về đồ án, khóa luận, luận văn, luận án tốt nghiệp
 
 | STT | Trình độ đào tạo | Tên đề tài | Họ và tên người thực hiện | Họ và tên người hướng dẫn | Nội dung tóm tắt |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Tiến sĩ | | | | |
 | 2 | Thạc sĩ | | | | |
 | 3 | Đại học | | | | |
@@ -1251,28 +1206,24 @@ E. Công khai thông tin về đồ án, khóa luận, luận văn, luận án t
 G. Công khai thông tin đào tạo theo đơn đặt hàng của nhà nước, địa phương và doanh nghiệp
 
 | STT | Tên đơn vị đặt hàng đào tạo | Số lượng | Trình độ đào tạo | Chuyên ngành đào tạo | Kết quả đào tạo |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | | |
 | 2 | | | | | |
 
 H. Công khai hội nghị, hội thảo khoa học do cơ sở giáo dục tổ chức
 
 | STT | Tên chủ đề hội nghị, hội thảo khoa học | Thời gian tổ chức | Địa điểm tổ chức | Số lượng đại biểu tham dự |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | |
 | 2 | | | | |
 
 I. Công khai thông tin về các hoạt động nghiên cứu khoa học, chuyển giao công nghệ, sản xuất thử và tư vấn
 
 | STT | Tên dự án, nhiệm vụ khoa học công nghệ | Người chủ trì và các thành viên | Đối tác trong nước và quốc tế | Thời gian thực hiện | Kinh phí thực hiện | Tóm tắt sản phẩm, ứng dụng thực tiễn |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | | | |
 | 2 | | | | | | |
 
 K. Công khai thông tin kiểm định cơ sở giáo dục và chương trình giáo dục
 
 | STT | Tên cơ sở đào tạo hoặc các chương trình đào tạo | Thời điểm đánh giá ngoài | Kết quả đánh giá/Công nhận | Nghị quyết của Hội đồng KĐCLGD | Công nhận đạt/không đạt chất lượng giáo dục | Giấy chứng nhận/Công nhận | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ngày cấp | Giá trị đến |
 | 1 | | | | | | | |
 | 2 | | | | | | | |
@@ -1309,7 +1260,6 @@ A. Công khai thông tin về diện tích đất, tổng diện tích sàn xây
 B. Công khai thông tin về các phòng thí nghiệm, phòng thực hành, xưởng thực tập, nhà tập đa năng, hội trường, phòng học, thư viện, trung tâm học liệu
 
 STT | Tên | Số lượng | Mục đích sử dụng | Đối tượng sử dụng | Diện tích sàn xây dựng (m2) | Hình thức sử dụng (Sở hữu, Liên kết, Thuê)
----|---|---|---|---|---|---
 1 | Phòng thí nghiệm... | | | | | 
 2 | Phòng thực hành... | | | | | 
 3 | Xưởng thực tập... | | | | | 
@@ -1325,7 +1275,6 @@ STT | Tên | Số lượng | Mục đích sử dụng | Đối tượng sử d�
 C. Công khai thông tin về học liệu (sách, tạp chí, e-book, cơ sở dữ liệu điện tử) của thư viện và trung tâm học liệu
 
 STT | Tên | Số lượng
----|---|---
 1 | Số phòng đọc | 
 2 | Số chỗ ngồi đọc | 
 3 | Số máy tính của thư viện | 
@@ -1335,7 +1284,6 @@ STT | Tên | Số lượng
 D. Diện tích đất/sinh viên; diện tích sàn/sinh viên
 
 STT | Tên | Tỷ lệ
----|---|---
 1 | Diện tích đất/sinh viên | 
 2 | Diện tích sàn/sinh viên | 
 
@@ -1357,7 +1305,6 @@ Công khai thông tin về đội ngũ giảng viên cơ hữu của cơ sở gi
 A. Công khai thông tin về đội ngũ giảng viên cơ hữu
 
 STT | Nội dung | Tổng số | Chức danh (Giáo sư, Phó Giáo sư) | Trình độ đào tạo (Tiến sĩ, Thạc sĩ, Đại học, Cao đẳng, Trình độ khác) | Hạng chức danh nghề nghiệp (Hạng III, Hạng II, Hạng I)
----|---|---|---|---|---
 I | Tổng số | | | | 
 1 | Giảng viên cơ hữu theo ngành | | | | 
 a | Khối ngành I (Ngành...) | | | | 
@@ -1372,7 +1319,6 @@ g | Khối ngành VII (Ngành...) | | | |
 B. Công khai thông tin về danh sách chi tiết đội ngũ giảng viên cơ hữu theo khối ngành
 
 STT | Họ và tên | Năm sinh | Giới tính | Chức danh | Trình độ đào tạo | Chuyên ngành giảng dạy
----|---|---|---|---|---|---
 1 | Khối ngành
 
 ----- [Trang 44] -----
@@ -1387,7 +1333,6 @@ I | | | | |
 C. Công khai tỷ lệ sinh viên/giảng viên quy đổi
 
 STT | Khối ngành | Tỷ lệ Sinh viên/Giảng viên cơ hữu quy đổi
----|---|---
 1 | Khối ngành I | 
 2 | Khối ngành II | 
 3 | Khối ngành III | 
@@ -1410,7 +1355,6 @@ THÔNG BÁO
 Công khai tài chính của cơ sở giáo dục đại học, trường cao đẳng sư phạm, trung cấp sư phạm năm học .....
 
 STT | Nội dung | Đơn vị tính | Học phí/1SV/năm học... | Dự kiến Học phí/1SV của cả khóa học
----|---|---|---|---
 I | Học phí chính quy chương trình đại trà | | | 
 1 | Tiến sĩ | Triệu đồng/năm | | 
  | Khối ngành... | Triệu đồng/năm | | 

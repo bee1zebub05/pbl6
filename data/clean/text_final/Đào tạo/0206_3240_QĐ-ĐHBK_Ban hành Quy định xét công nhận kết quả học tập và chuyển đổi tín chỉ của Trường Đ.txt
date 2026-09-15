@@ -102,14 +102,13 @@ PGS.TS. Đoàn Quang Vinh
 
 ----- [Trang 6] -----
 
-TRANG 4
+----- [Trang 4] -----
 
 PHỤ LỤC I
 BẢNG QUY ĐỔI THANG ĐIỂM
 (Ban hành kèm theo Quyết định số 3240 /QĐ-ĐHBK ngày 19 tháng 8 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
 
 | TT | Thang điểm 10 | Thang điểm chữ | Thang điểm 4 | Đổi từ thang điểm chữ (A, A+, B, B+, C, C+, D, D+) sang thang điểm 10 | Đổi từ thang điểm chữ (A, B, C, D) sang thang điểm 10 |
-|---|---|---|---|---|---|
 | 1 | Từ 9,5 đến 10,0 | A+ | 4,0 | 9,7 | 9,2 |
 | 2 | Từ 8,5 đến dưới 9,5 | A | 4,0 | 9,0 | 9,2 |
 | 3 | Từ 8,0 đến dưới 8,5 | B+ | 3,5 | 8,2 | 7,7 |
@@ -119,7 +118,7 @@ BẢNG QUY ĐỔI THANG ĐIỂM
 | 7 | Từ 5,0 đến dưới 5,5 | D+ | 1,5 | 5,2 | 4,7 |
 | 8 | Từ 4,0 đến dưới 5,0 | D | 1,0 | 4,5 | 4,7 |
 
-TRANG 5
+----- [Trang 5] -----
 
 PHỤ LỤC IIa
 MẪU ĐƠN ĐỀ NGHỊ XÉT MIỄN VÀ CÔNG NHẬN ĐIỂM HỌC PHẦN NGOẠI NGỮ
@@ -144,7 +143,6 @@ Số hiệu chứng chỉ: .....................................................
 Nay tôi làm đơn này kính đề nghị Nhà trường xét và công nhận điểm các học phần, theo Quy định hiện hành của Trường:
 
 | TT | Mã học phần | Tên học phần | Số tín chỉ | Điểm đề nghị được công nhận |
-|---|---|---|---|---|
 | | | | | |
 | | | | | |
 
@@ -159,7 +157,7 @@ Ghi chú:
 - Sinh viên nộp đơn có đính kèm bản chính và bản photo chứng chỉ (không cần công chứng) tại bàn tiếp nhận hồ sơ của Phòng Đào tạo;
 - Sau khi Trường xét duyệt và công bố kết quả sinh viên đến nhận lại bản chính chứng chỉ.
 
-TRANG 6
+----- [Trang 6] -----
 
 PHỤ LỤC IIb
 MẪU ĐƠN ĐỀ NGHỊ XÉT CÔNG NHẬN VÀ CHUYỂN ĐIỂM HỌC PHẦN NGOẠI NGỮ
@@ -184,7 +182,6 @@ Số hiệu chứng chỉ: .....................................................
 Nay tôi làm đơn này kính đề nghị Nhà trường xét công nhận và chuyển điểm các học phần, theo Quy định hiện hành của Trường:
 
 | TT | Mã học phần | Tên học phần | Số tín chỉ | Điểm học phần |
-|---|---|---|---|---|
 | | | | | |
 | | | | | |
 
@@ -200,7 +197,7 @@ Ghi chú:
 - Sinh viên nộp đơn có đính kèm bản chính và bản photo chứng chỉ (không cần công chứng) tại bàn tiếp nhận hồ sơ của Phòng Đào tạo;
 - Sau khi Trường xét duyệt và công bố kết quả sinh viên đến nhận lại bản chính chứng chỉ.
 
-TRANG 7
+----- [Trang 7] -----
 
 PHỤ LỤC III
 MẪU ĐƠN ĐỀ NGHỊ XÉT MIỄN VÀ CÔNG NHẬN ĐIỂM HỌC PHẦN
@@ -222,7 +219,6 @@ Trình độ đào tạo: [ ] Cử nhân [ ] Kỹ sư [ ] Kiến trúc sư [ ] T
 Nay tôi làm đơn này kính đề nghị được xét miễn và công nhận điểm học phần do đã hoàn thành các học phần, khóa đào tạo, thực tập, nghiên cứu tại Trường/ viện nghiên cứu/ doanh nghiệp: ....................................................................., cụ thể như sau:
 
 | TT | Tên học phần đã học | Số tín chỉ | Điểm | Tên học phần đề nghị xét công nhận | Mã học phần | Ghi chú |
-|---|---|---|---|---|---|---|
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
@@ -237,7 +233,7 @@ Ghi chú:
 - Người học nộp đơn có đính kèm bản chính bảng điểm tại bàn tiếp nhận hồ sơ của Phòng Đào tạo.
 - Sau khi Trường xét duyệt và công bố kết quả, người học xem thông tin trong website Hệ thống thông tin sinh viên.
 
-TRANG 8
+----- [Trang 8] -----
 
 PHỤ LỤC IV
 MẪU BIÊN BẢN HỌP XÉT CÔNG NHẬN KẾT QUẢ HỌC TẬP VÀ CHUYỂN ĐỔI TÍN CHỈ
@@ -289,7 +285,6 @@ Mã số: ..........................
 Lớp: ..................................................................................... Khóa: ....................................
 
 | TT | Tên học phần đã học | Số tín chỉ | Điểm | Tên học phần đề nghị xét công nhận | Mã học phần | Điểm công nhận | Ghi chú |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |

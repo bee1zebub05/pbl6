@@ -142,7 +142,6 @@ a) Dịch vụ mượn tài liệu được thư viện cung cấp cho tất c�
 b) Chính sách phục vụ mượn tài liệu được quy định không vượt quá số lượng tổng của các loại tài liệu mượn trong tài khoản dùng tin của mỗi đối tượng như sau:
 
 | Nhóm đối tượng | Chính sách mượn tài liệu |
-| :--- | :--- |
 | | Giáo trình | Sách chuyên khảo |
 | Cán bộ viên chức | 07 cuốn, 90 ngày | 05 cuốn, 45 ngày |
 | Học viên cao học, Nghiên cứu sinh | 07 cuốn, 90 ngày | 05 cuốn, 30 ngày |

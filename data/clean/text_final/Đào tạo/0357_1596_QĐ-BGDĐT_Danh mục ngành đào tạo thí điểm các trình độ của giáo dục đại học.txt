@@ -42,7 +42,6 @@ CÁC TRÌNH ĐỘ CỦA GIÁO DỤC ĐẠI HỌC
 Phần I: Danh mục ngành thí điểm trình độ đại học
 
 | Mã ngành | Tên ngành | Hiệu lực | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | 721 | Nghệ thuật | | |
 | 72102 | Nghệ thuật trình diễn | | |
 | 7210206 | Quản lý nghệ thuật | | |
@@ -136,7 +135,6 @@ Phần I: Danh mục ngành thí điểm trình độ đại học
 Phần II: Danh mục ngành thí điểm trình độ thạc sĩ
 
 | Mã ngành | Tên ngành | Hiệu lực | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | 821 | Nghệ thuật | | |
 | 82102 | Nghệ thuật trình diễn | | |
 | 8210206 | Quản lý nghệ thuật | | |
@@ -168,10 +166,9 @@ Phần II: Danh mục ngành thí điểm trình độ thạc sĩ
 | 8580215 | Kỹ thuật an toàn giao thông | | |
 
 ----- [Trang 6] -----
-TRANG 1
+----- [Trang 1] -----
 
 | Mã ngành | Tên ngành | Hiệu lực | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | 872 | Sức khoẻ | | |
 | 87201 | Y học | | |
 | 8720113 | Dịch tễ học thực địa | | |
@@ -193,7 +190,6 @@ TRANG 1
 Phần III: Danh mục ngành thí điểm trình độ tiến sĩ
 
 | Mã ngành | Tên ngành | Hiệu lực | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | 921 | Nghệ thuật | | |
 | 92101 | Mỹ thuật | | |
 | 9210102 | Mỹ thuật tạo hình | | |
@@ -203,13 +199,12 @@ Phần III: Danh mục ngành thí điểm trình độ tiến sĩ
 | 92290 | Khác | | |
 | 9229047 | Di sản học | | |
 
-TRANG 2
+----- [Trang 2] -----
 
 |
 
 ----- [Trang 7] -----
 Mã ngành | Tên ngành | Hiệu lực | Ghi chú |
-| :--- | :--- | :--- | :--- |
 | 931 | Khoa học xã hội và hành vi | | |
 | 93101 | Kinh tế học | | |
 | 9310109 | Kinh tế và quản lý tài nguyên biển | | |
@@ -229,7 +224,7 @@ Mã ngành | Tên ngành | Hiệu lực | Ghi chú |
 | 98103 | Thể dục, thể thao | | |
 | 9810302 | Huấn luyện thể thao | | |
 
-TRANG 3
+----- [Trang 3] -----
 
 ----- [Trang 8] -----
 ĐẠI HỌC ĐÀ NẴNG 
@@ -262,7 +257,7 @@ Thời hạn hoàn thành: .....................................................
 Ý kiến đề xuất của người giải quyết⁶: 
 .................................................................................................................................. 
 
-\ Đơn vị chủ trì thực hiện.* 
+ Đơn vị chủ trì thực hiện.* 
 *¹ Ghi tên loại, số, ký hiệu; ngày, tháng, năm; cơ quan (tổ chức) ban hành và trích yếu nội dung của văn bản đến.* 
 *² Phần này dành cho Trưởng Phòng TCHC: ghi rõ tên của thành viên Ban Giám hiệu sẽ cho ý kiến chỉ đạo đối với văn bản đến* 
 *³ Ý kiến phân phối, chỉ đạo giải quyết của Ban Giám hiệu giao đơn vị, cá nhân chủ trì; các đơn vị, cá nhân tham gia phối hợp giải quyết văn bản đến (nếu có); thời hạn giải quyết đối với mỗi đơn vị, cá nhân (nếu có) và ngày tháng cho ý kiến phân phối, giải quyết, ký tên.* 

@@ -68,7 +68,6 @@ PHẦN I: DANH MỤC GIÁO DỤC, ĐÀO TẠO
 DANH MỤC GIÁO DỤC, ĐÀO TẠO CẤP I
 
 | Mã cấp I | TÊN GỌI |
-| :---: | :--- |
 | 0 | Mầm non |
 | 1 | Tiểu học |
 | 2 | Trung học cơ sở |
@@ -84,7 +83,6 @@ DANH MỤC GIÁO DỤC, ĐÀO TẠO CẤP I
 DANH MỤC GIÁO DỤC, ĐÀO TẠO CẤP II
 
 | Cấp II | TÊN GỌI |
-| :---: | :--- |
 | 01 | Chương trình cơ bản |
 | 08 | Chương trình xoá mù chữ |
 | 09 | Chương trình giáo dục chuyên biệt |
@@ -117,7 +115,6 @@ DANH MỤC GIÁO DỤC, ĐÀO TẠO CẤP II
 DANH MỤC GIÁO DỤC, ĐÀO TẠO CẤP III
 
 | Mã các cấp | TÊN GỌI |
-| :---: | :--- |
 | Cấp II | Cấp III |
 | 01 | Chương trình cơ bản |
 | | 0101 | Chương trình giáo dục mầm non |

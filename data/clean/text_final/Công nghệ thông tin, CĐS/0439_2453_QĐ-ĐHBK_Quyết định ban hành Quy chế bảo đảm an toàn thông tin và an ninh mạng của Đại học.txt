@@ -80,7 +80,7 @@ CĐS của ĐHĐN.
 Điều 2. Giải thích từ ngữ
 Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
 É.Mạng là môi trường trong đó thông tin được cung cấp; truyền dưa; thu thập; xử
-lý, Iưu trữ-và trao đổi thông qua mạng viễn thông và mạng máy tính
+lý, lưu trữ-và trao đổi thông qua mạng viễn thông và mạng máy tính
 2 Không gian mạng là mạng lưới kết nối của cơ sở hạ tầng công nghệ thông tin,
 bao gồm mạng viễn thông; mạng Internet; mạng máy tính, hệ thống thông tin; hệ thống
 xử lý và điều khiển thông tin; cơ sở dữ liệu; là nơi con người thực hiện các hành vi xã
@@ -121,7 +121,7 @@ toàn thông tin mạng và Điều 4 Luật An ninh mạng:
 2. Trách nhiệm bảo đảm ATTT, ANM gắn với trách nhiệm của người đứng đầu
 đơn vị và cá nhân trực tiếp liên quan.
 3. Xử lý sự cố ATTT, ANM phải phù hợp với trách nhiệm, quyền hạn và bảo đảm
-lợi íchhợp pháp của cơ quan, đơn vị, cá nhân liên quan và theo quy định của pháp Iuật.
+lợi íchhợp pháp của cơ quan, đơn vị, cá nhân liên quan và theo quy định của pháp luật.
 4. Việc quản lý, sử dụng và bảo đảm ANM, mạng máy tính nội bộ có lưu trữ,
 truyền đưa bí mật nhà nước phải tuân thủ theo Quyết định số 2763/QĐ-ĐHĐN ngày
 14/8/2020 của Giám đốc ĐHĐN về việc ban hành Quy chế về công tác bảo vệ bí mật
@@ -140,7 +140,7 @@ thông tin mạng và Điều 8 Luật An ninh mạng.
 
 3. Tựý đăng lên; tải về chia sẻ dưới mọi hình thức các dữ liệuatài liệtersế liêu nôi
 bộ, những văn bản chưa được cấp có thẩm quyền công khai lên mạng internet và các
-phuơng tiện thông tin đại chúng khác
+phương tiện thông tin đại chúng khác
 4. Tựý đấu nối thiết bị mạng; thiết bị cấp phát - địa chỉ mạng, thiết bị phát sóng nhu
 điểm truy cập không dây của cá nhân vào mạng nội bộ.
 đổi, lắp mới; tráo đổi thành phần của máy tính phục vụ công việc; gỡ
@@ -158,7 +158,7 @@ b) Các trường ĐHTV, các đơn vị trực thuộc ĐHĐN là chủ quản 
 đầu tư phát triển; nâng cấp; mở rộng HTTT và các HTTT khác được giao.
 2. Đơn vị vận hành HTTT tâm Công nghệ thông tin và Học liệu 8ố, ĐHĐN (sau đâx_viết tắt là Trung
 a) Trungcâm CôngaghệcáônẴ 7T7T o ĐHĐN làm chú quản HTTT.
-tâm IDC) b) Các truờng ĐHTV, các dơn vị trực thuộc ĐHĐN chịu trách nhiệm phân công
+tâm IDC) b) Các trường ĐHTV, các dơn vị trực thuộc ĐHĐN chịu trách nhiệm phân công
 đơn vị vận hành HTTT của đơn vị minh.
 3. Đơn vị chuyên trách về ATTT tâm IDC là đơn vị chuyên trách về ATTT cho các HTTT do ĐHĐN làm
 Trung
@@ -272,7 +272,7 @@ Quy chế này)
 Hồ sơ đề xuất cấp độ, thẩm định hồ sơ đề xuất cấp độ, hồ sơ phê duyệt đề xuất
 cấp độ HTTT thực hiện theo quy định tại Điều 15, Điều 16,Điều 17 của Nghị định c)
 85/2016/NĐ-CP và Điều 8 của Thông tư số 12/2022/TT-BTTTT (Hướng dẫn xây dựng
-Hlồ sơ đề xuất cấp độ tại Phu Iục II kèm theo Quy chế này, Huớng dẫn các bước thẩm
+Hlồ sơ đề xuất cấp độ tại Phu lục II kèm theo Quy chế này, Hướng dẫn các bước thẩm
 định, phê duyệt hỗ sơ đề xuất cấp độ tại Phụ lục III kèm theo Quy chế này; Hướng dẫn
 thẩm dịnh hỗ sơ đề xuất cấp độ HTTT tại Phụ lục IV kèm theo Quy chế này).
 Phương án bảo đảm an toàn HTTT theo cấp độ đáp ứng theo yêu cầu quy định
@@ -322,7 +322,7 @@ a) Có nội dung, kế hoạch; quy trình thử nghiệm và nghiệm thu hệ
 kế hoạch và quy trình nghiệm thu hệ thống được thực hiện theo Thông tư số 16/2024/TT-
 BTTTT ngày 30/12/2024 của Bộ Thông tin và Truyền thông quy định chi tiết nội dung
 công tác triển khai, giám sát công tác triển khai, nghiệm thu đối với dự án đầu tư ứng
-dụng công nghệ thông tin; xác định yêu cầu về chất Iượng dịch vụ và các nội dung đặc
+dụng công nghệ thông tin; xác định yêu cầu về chất lượng dịch vụ và các nội dung đặc
 thù của hợp đồng thuê dịch vụ đối với thuê dịch vụ công nghệ thông tin theo yêu cầu
 riêng.
 b) Có bộ phận có trách nhiệm thực hiện thử nghiệm và nghiệm thu hệ thống.
@@ -386,7 +386,7 @@ do thiên nhiên hoặc con người gây ra Đồng thời, xây dựng; triể
 phục hệ thong sau thẳm họa bào dẳm tính sẵn sàng và liên tục của hệ thổng:
 Thiết lập cơ chế bảo 9tbêt giám sát; phát hiện xâm ahâRe êaịsoát can thiệp vật
 lý đối với các thiết bị mạng; bị bảo mật như tường lửa, bị định tuyến; máy chủ
-và hệ thông Iưu trữ:. Việc truy cập; kết nối vật lý phài được kiểm soát chặt chẽ; phù hợp
+và hệ thông lưu trữ:. Việc truy cập; kết nối vật lý phài được kiểm soát chặt chẽ; phù hợp
 với vai trò, trách nhiệm của từng cá nhân, đơn vị.
 Trang bị hệ thống camera giám sát hoạt dộng liên tục 24 giờ mỗi ngày 7 ngày
 mỗi tuần (24/7), bảo đảm phạm vi giám sát toàn bộ khu vực. Dữ liệu hình ảnh từ hệ
@@ -442,13 +442,13 @@ phpchậ rvarongqátậir rủi ro trong quá trình triển khai; vận hành �
 phần mềm; ứng dụng trên máy chủ, máy trạm và thiết bị kết nối
 cập thống nội bộ.
 mạng trong hệ cập; có kết nối với hệ thống
-sát tập trung; có phương án bẳo mật thông tin liên lạc; chống chối bỏ và bảo vệ mã c) Ứng dụng phải thiết Iập chính sách kiểm soát truy
+sát tập trung; có phương án bẳo mật thông tin liên lạc; chống chối bỏ và bảo vệ mã c) Ứng dụng phải thiết lập chính sách kiểm soát truy
 giám
 nguồn.
 d) Thực hiện phân quyền truy cập, quản trị và sử dụng ứng dụng; cơ sở dữ liệu
 theo chức năng; nhiệm vụ của người dùng; bảo đảm việc phân quyền theo từng cấp độ,
 phù hợp với yểu cẩu nghiệp vụ cúa từng cá nhân hoặc nhóm người dùng:
-Ứng dụng phải có chức năng ghi, Iưu trữ và quản lý nhật ký hệ thống; bao gồm:
+Ứng dụng phải có chức năng ghi, lưu trữ và quản lý nhật ký hệ thống; bao gồm:
 thông tin truy cập; ihay đổi cấu hình, thời gian sử dụng; lỗi đ) phát sinh và thông tin đăng
 nhập khi quản trị.
 Thực hiện thu hồi tài khoản Office 365 đối với viên chức; người lao động khi
@@ -467,7 +467,7 @@ cứng lưu trữ dược xử lý trên máy tính độc lập, không kết
 d) Dữ liệu mật; tối mật; tuyệt mật phải
 nối mạng; có mật khẩu, mã hóa và các biện pháp bảo mật khác .
 Sao luu các tệp cấu hình, hệ điều hành máy chủ; cơ sở dữ Jiệu và dữ liệu nghiệp
-phân loại yà Iuu trữ theo nhóm; có giải pháp Iưu trữ tại địa điểm khác phòng ngừa
+phân loại yà Iuu trữ theo nhóm; có giải pháp lưu trữ tại địa điểm khác phòng ngừa
 thiên tai, sự cố. vụ;
 Xây dựng phương án bảo mật và kiểm soát việc chia sẻ, gửiVnhận thông tin trong
 và ngoài đơn vị.
@@ -499,7 +499,7 @@ huống phát sinh.
 6. Đảm bảo an toàn thông tin đối với cổng- trang thông tin điện tử
 a) Quản lý toàn bộ phiên bản mã nguồn; tổ chức mô hình vận hành hợp lý, triển
 khai các hệ thống phòng vệ như tường lửa, hệ thống phát hiện và phòng ngừa xâm nhập
-(IDSIIPS), tường Iửa ứng dụng web (WAF)
+(IDSIIPS), tường lửa ứng dụng web (WAF)
 b) Áp dụng phương thức xác thực đa yếu tố (MFA) nhằm dảm bảo chỉ người dùng
 hợp lệ được truy cập hệ thống; đồng thời triển khai giám sát và phát hiện tẩn công để
 kịp thời phát hiện các hành vi bất thường:
@@ -533,9 +533,9 @@ việc thì hộp thư điện tử sẽ bị khóa và xóa bỏ khỏi hệ th
 a) Lựa chọn nhà cung cấp dịch vụ máy chủ ảo uy tín, có chính sách bảo mật rõ
 ràng và hỗ trợ kỹ thuật 24/7.
 b) Hệ điều hành và phần mềm trên máy chủ ảo phải được cập nhật phiên bản mới
-liên tục; sử dụng tường lửa để kiểm soát lưu Iượng mạng đến máy chủ
+liên tục; sử dụng tường lửa để kiểm soát lưu lượng mạng đến máy chủ
 Thực hiện sao lưu định kỳ dữ liệu và kiểm tra khả năng khôi phục từ bản sao
-Juu; mã hóa dữ liệu nhạy cảm khi truyền và Iưu trữ.
+Juu; mã hóa dữ liệu nhạy cảm khi truyền và lưu trữ.
 d) Xây dựng kế hoạch ứng phó sự cố bảo mật và thực hiện kiểm tra đánh giá bảo
 mật định kỳ. tất cả các ứng dụng và dịch vụ trên máy chủ luôn được cập nhật
 Đảm bảo rằng7 để phát hiện và
@@ -563,7 +563,7 @@ hiện ra bất kỳ dấu hiện nào liên quan đến việc bị nhiễm mã
 dụng phẳi báo trực tiểp cho bộ phận chuyên trách của đơn vị để xửlý
 Điều 10. Bảo đảm ATTT khi tiếp nhận, phát triển và bảo trì HTTT
 1. Khi tiếp nhận; phát triển, nâng cấp; bảo trì HTTT, chủ quản HTTT phải rà soát
-cấp độ, phuơng án bảo đảm an toàn của HTTT và thực hiện điều chỉnh, bố sung hoặc
+cấp độ, phương án bảo đảm an toàn của HTTT và thực hiện điều chỉnh, bố sung hoặc
 thay mới hồ sơ dề xuất cấp độ trong trường hợp cần thiết, dồng thời dơn vị phải tiên
 hành phân tích, xác dịnh rủi ro có thễ xảy ra, đánh giá phạm vi tác động và chuẩn bị các
 biện pháp hạn chế, loại trừ các rủi ro này và yêu cẩu các bên cung cấp, thi công, các cá
@@ -575,7 +575,7 @@ loại HTTT theo cấp độ; triển khai phương án bảo đảm an toàn HT
 
 13
 cơ bẳn trong tiêu chuẩn; quy chuẩn kỹ thuật về bảo đảm an toàn HTTT theo cấp độ;
-thường xuyên kiểm tra; giám Ỉại và Iưu trữ đây đủ thông tin nhật ký hệ thống để phục vụ sát an toàn HTTT; tuân thủ quy trình vận hành; quy trình
+thường xuyên kiểm tra; giám Ỉại và lưu trữ đây đủ thông tin nhật ký hệ thống để phục vụ sát an toàn HTTT; tuân thủ quy trình vận hành; quy trình
 xử lý sự cố đã xây dựng; ghi
 quản_ lý, kiểm soát thông tin. HTTT được cài dặt tại Trung tâm dữ liệuPhòng máy chủ cần dáp ứng cc
 yêu cầu: tách biệt với các 3. Các môi trường phát triển, kiểm tra và thử nghiệm; không cài đặt
@@ -607,7 +607,7 @@ Quản lý, giám sát việc cài đặt bản vá lỗ điễm yếủ ATTT đ
 c) công cụ dò quét 1ỗ hổng;
 nhật liên tục các hiện được các lỗ hổng bảo mật mới nhất.
 phát điểm yếu ATTT sau khi bản vá được phát
-Triển khai cài đặt bản vá lỗ bẳo vệ tạm thời trong truờng hợp bản vá bảo mật chưa hổng,
+Triển khai cài đặt bản vá lỗ bẳo vệ tạm thời trong trường hợp bản vá bảo mật chưa hổng,
 daợc phát hành hoặc chua dủ điêu kiện để triển khai. hành; áp dụng các biện pháp
 trách ATTT phối hợp với đơn vị vận hành HTTT trien khai quản
 2. Đơn vị chuyên quản 1ỗ hông, diem yếu ATTT theo quy định tại khoản
@@ -649,10 +649,10 @@ thông quy dịnh về điều phối, ứng cứu sự cố an toàn thông tin
 Điều 15. Kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT
 1.Khi kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT đơn vị chủ quản HTTT
 thực hiện hủy bỏ toàn bộ thông tin, dữ liệu trên hệ thống
-2. Đối với các HTTT có dữ liệu được Iưu trữ trên tài sản vật lý cần phải mang đi
+2. Đối với các HTTT có dữ liệu được lưu trữ trên tài sản vật lý cần phải mang đi
 bảo hành, bảo dưỡng sửa chữa bên ngoài thì phải được sự phê duyệt của chủ quản HTTT
 và thực hiện các biện pháp bào vệ dữ liệu; có cam kết bảo mật thông tin giữa bên có dữ
-liệu và bên cung cấp dịch vụ sửa chữa thiết bị Iưu trữ dữ liệu.
+liệu và bên cung cấp dịch vụ sửa chữa thiết bị lưu trữ dữ liệu.
 
 ----- [Trang 17] -----
 
@@ -676,8 +676,8 @@ nước. lý, nghiệp vụ; kỹ thuật trong vận hành, sử dụng và b�
 Quy trình quản phải đáp ứng các yêu cầu cơ bản bảo
 ANM đối với dữ liệu, hạ tầng kỹ thuật, trong đó
 đảm an toàn HTTT. d) Điều kiện về nhân sự làm công tác quản trị mạng vận hành hệ thống; bảo đảm
-ANM, an toàn thông ' tin và liên quan đến hoạt động soạn thảo, Iưu trữ; truyền đưa bí mật
-nhà nuớc qua hệ thống mạng máy tính.
+ANM, an toàn thông ' tin và liên quan đến hoạt động soạn thảo, lưu trữ; truyền đưa bí mật
+nhà nước qua hệ thống mạng máy tính.
 rõ trách nhiệm của từng bộ phận; viên chức, người lao động trong
 quẳn lý, sử dụng; bào dàm ANM; an toàn thông tin. Quy định
 Chế tài xử lý những vi phạm quy định về đảm bảo ANM:
@@ -688,7 +688,7 @@ dưa trển hệ thống thông tin thuộc phạm vi lý; nhằm nâng cao tín
 VLAN (Virtual Local Area Network) để quản trị mạng hệ thống khi
 liệu, hạn chễ bị tấn công mạng và dễ dàng tìm ra nguyên nhân khẳc phục
 bị sự cố. HTTT tổ chức bồi dưỡng kiến thức về ANM cho viên chức; người
-4. Chủ quản lực bảo vệ ANM cho Iực lượng bảo vệ ANM:
+4. Chủ quản lực bảo vệ ANM cho lực lượng bảo vệ ANM:
 lao động; nâng cao năng HTTT triển khai kiểm tra ANM đối với hệ thống thông tin; phòng,
 5. Chủ quản luật về ANM; ứng phó, khắc phục sự cố ANM:
 chống hành vi vi phạm pháp
@@ -724,7 +724,7 @@ Huấn luyện; diễn tập; phòng ngừa sự cố, giám sát phát hiện, 
 kiện sẵn sàng đối phó, khắc phục sự cố.
 Các giải pháp đảm bảo; tổ chức triển khai phương án, kế hoạch và kinh phí
 thực hiện.
-Điều 19. Lực Iượng bảo vệ ANM
+Điều 19. Lực lượng bảo vệ ANM
 1. Trung tâm IDC là đơn vị bảo vệ ANM cho các HTTT do ĐHĐN làm chủ quản
 HTTT và các HTTT được giao khác.
 2 Các trường ĐHTV, các đơn vị trực thuộc ĐHĐN chịu trách nhiệm bố trí Jực
@@ -750,7 +750,7 @@ người lao động tại Cơ quan ĐHĐN.
 5. Tiếp nhận và đưa ra các cảnh báo về an toàn; an ninh thông tin; áp dụng các biện
 pháp đế khẳc phục và hạn chế tối đa thiệt hại do sự cố mất ATTT, ANM tại ĐHĐN.
 6. Nhắc nhở, tạm dừng cung cấp các dịch vu mạng ĐHĐN dối với đơn vị người
-sử dụng có liên quan đê kiểm tra, khẳc phục sự cố. Truờng hợp có sự cố nghiêm trọng
+sử dụng có liên quan đê kiểm tra, khẳc phục sự cố. Trường hợp có sự cố nghiêm trọng
 vượt quá khả năng khắc phục phải báo cáo Lãnh đạo ĐHN và thông báo cho các tổ
 chức hỗ trợ xử lý sự cố mất ATTT, ANM để cùng phối hợp giải quyết.
 7. Lập kế hoạch hàng năm trình Lãnh đạo ĐHĐN phê duyệt và tổ chức triển khai
@@ -795,13 +795,13 @@ luật về ATTT, ANM.
 2. Tự quản lý, bảo quản thiết bị mà mình được giao sử dụng Khi phát hiện sự cố
 phải báo ngay với cấp trên và bộ phận chuyên trách vê công nghệ thông tin để kịp thời
 ngăn chặn; xử lý-
-3. Tích cực tham gia các chuơng trinh đào tạo, hội nghị về an toàn thông tin do các
+3. Tích cực tham gia các chương trinh đào tạo, hội nghị về an toàn thông tin do các
 đơn vị chuyên môn tổ chức, nhằm nâng cao nhận thức về trách nhiệm đảm bảo ATTT,
 ANM.
 Chương
 TỔ CHỨC THỰC HIỆN
 Điều 23. Kinh phí thực hiện
-1. Kinh phí đảm bảo ATTT, ANM thực hiện lồng ghép; tích hợp với các chưong
+1. Kinh phí đảm bảo ATTT, ANM thực hiện lồng ghép; tích hợp với các chương
 trình, đề án, nhiệm vụ công nghệ thông tin từ nguồn ngân sách nhà nước và các nguồn
 kinh phí hợp pháp khác của các đơn vị.
 2. Căn cứ vào kế hoạch hàng năm; các đơn vị liên quan có trách nhiệm xây dựng
@@ -924,7 +924,7 @@ vễ việc đễ xuất cấp độ căn cứ trên các tiêu chí theo quy đ
 thuyết minh phương án bẳo đảm an toàn thông tin theo cấp độ tương ứng:
 Khi xây dựng HSEXCĐ, đối với HTTT lớn gồm nhiều hệ thống thành phần nếu
 các hệ thống thành phần được quản lý và chia sẻ trên cùng một hạ tầng dùng chung,
-chuộcscùng dơn vị vận hành và có thể trien khai phưong án bảo đảm an toàn thông tin
+chuộcscùng dơn vị vận hành và có thể trien khai phương án bảo đảm an toàn thông tin
 chung cho toàn bộ hạ tầng ~ thì có thể lập một HSĐXCĐ chung cho toàn bộ các hệ thống
 thành phần. Trường hợp hệ thống ' thành phần độc lập về hạ tầng, cƠ chế quản lý và đơn
 vị vận hành thì phải xây dựng HSEXCĐ riêng cho từng hệ thống: Việc xây dựng
@@ -1018,7 +1018,7 @@ nhẳm bảo đảm đáp ứng đẩy đủ các yêu cầu an toàn thông tin
 Đối với các yêu cầu an toàn kỹ thuật: Trường hợp các yêu cầu kỹ thuật đã được
 đáp ứng, thuyết minh phương án cân mô tả cụ thế phương án triển khai, hiện trang cấu
 hình và thiết lập hệ thong nhẳm chứng minh sự phù hợp với các yêu cầu kỹ thuât dược
-đề ra. Truờng hợp chua đáp ứng, cân trình bày rõ phuơng án, lộ trình nâng cấp hoặc
+đề ra. Trường hợp chua đáp ứng, cân trình bày rõ phương án, lộ trình nâng cấp hoặc
 điều chỉnh hệ thống nhằm đáp ứng đầy đủ các yêu cầu kỹ thuật đặt ra_
 
 ----- [Trang 27] -----
@@ -1072,7 +1072,7 @@ tin; phù hợp với vị trí dụng.
 b) Trong quá trình làm việc: Có quy định về việc thực hiện nội quy, quy chế bào
 đảm an toàn thông til cho người sử dụng; viên chức quản lý và vận hành hệ thống.
 Chấm dứt hoặc thay đổi công việc: Viên chức, người lao động chấm dứt hoặc
-thay đổi công việc phải thu hồi thẻ truy cập; thông tin được lưu trên các phương tiện Iưu
+thay đổi công việc phải thu hồi thẻ truy cập; thông tin được lưu trên các phương tiện lưu
 trữ, các trang thiết bị máy móc, phần cứng, phần mềm và các tài sản khác (nếu có) thuộc
 sở hữu của đơn vị.
 Bảng thể hiện mối liên hệ giữa các cấp độ đề xuất (từ cấp độ 1 đến cấp độ 3) của
@@ -1147,7 +1147,7 @@ Phương án quản lý rủi ro an toàn thông tin cần bao gồm các thành
 định mức rủỉ ro chấp nhận được đối với hệ thống thông tin; (2) quy trinh đánh giá và
 quản lý rủi ro an toàn thông tin và (3) các biện pháp kiểm soát và giẳm thiểu rủi ro.
 1.7. Phương án Kết thúc vận hành, khai thác, thanh lý, hủy bỏ
-Phưong án kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT cần làm rõ các
+Phương án kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT cần làm rõ các
 vấn đề sau: (1) quy định về bảo đảm an toàn thông tin trong quá trình kết thúc vận hành,
 khai thác, thanh lý hoặc hủy bỏ hệ thong; (2) quy trinh xử Ỉý thông tin khi thay đổi mục
 đích sử dụng hoặc khỉ tiến hành gỡ bỏ hệ thống và (3) phương án kỹ thuật thực hiện việc
@@ -1164,10 +1164,10 @@ Thuyết minh phương án thiết kế bảo đảm các yêu cầu tương ứ
 độ; cụ thể như sau:
 Phương án quản lý truy cập, quản trị hệ thống từ xa an toàn: Mô tả thiết kế hệ
 thống mạng sử dụng thiết bị chuyên dụng hay thiết lập cấu hình chức năng bảo mật trên
-hệ thổng hoặc phuơng án tương dương khác nếu có để bảo đảm việc truy cập, quản trị
+hệ thổng hoặc phương án tương dương khác nếu có để bảo đảm việc truy cập, quản trị
 hệ thống từ xa an toàn.
 Phương án quản lý truy cập giữa các vùng mạng và phòng chống xâm nhập: Mô
-tả thiết kế hệ thống mạng sử dụng thiết bị tường lửa hoặc thiết bị có chức năng tưong
+tả thiết kế hệ thống mạng sử dụng thiết bị tường lửa hoặc thiết bị có chức năng tương
 dương để quản lý truy cập và phòng chống xâm nhập giữa các vùng mạng:
 Phương án cân bằng tải; dự phòng nóng cho các thiết bị mạng: Mô tả phương án
 thiết kế và triển khai các thiết bị mạng trong hệ thống để thực hiện chức năng cân bằng
@@ -1179,7 +1179,7 @@ bảo đảm an toàn cho máy chủ cơ sở dữ liệu.
 án sử dụng thiết bị chuyên dụng hay chức năng trên thiết bị tường lửa hoặc phương án
 tương đương để phát hiện và ngăn chặn các hành vi mã độc trên môi trường mang.
 Phương án phòng chống tấn công từ chối dịch vụ: Mô tả phương án sử dụng giải
-pháp chuyên dụng hay thuê dịch yụ hoặc phưong án tưong đương khác để phòng chống tấn
+pháp chuyên dụng hay thuê dịch yụ hoặc phương án tương đương khác để phòng chống tấn
 công từ chối dịch vụ cho hệ thống (chỉ yêu cẩu đối vớị các hệ thống có kết nối mạng
 Internet)
 
@@ -1192,7 +1192,7 @@ tin tập trung:
 Phương án giám sát an toàn hệ thống thông tin tập trung: Mô tả phương án sử
 dụng giài pháp chuyên dụng hay giài pháp tuong đuong khác để thực hiện giám sát hoạt
 dộng cúa hệ thống mạng; bào đam tính sẵn sàng của hệ thống:
-Phuơng án quản lý sao lưu dự phòng tập trung: Mô tả phương án quản lý sao lưu
+Phương án quản lý sao lưu dự phòng tập trung: Mô tả phương án quản lý sao lưu
 dự phòngntão Eung sử dụng giài pháp chuyên dụng hoặc giải pháp tương dương sử dụng
 các giải pháp như SAN,,NAS .
 Phương án quản lý phần mềm phòng chống mã độc trên các máy chủlmáy tính
@@ -1257,7 +1257,7 @@ b) Kiểm soát truy cập: Mô tả việc cấu trình/thiết lập chính s�
 trên máy chủ để bảo đảm việc truy cập, sử dụng máy chủ an toàn sau khi đăng nhập
 thành công
 c) Nhật ký hệ thống: Mô tả phương án quản lý nhật ký hệ thống (log) trên các máy
-chủ về: Bật chức năng ghi log; Thông tin ghi log; Thời gian; Dung Iượng ghi log; Quản
+chủ về: Bật chức năng ghi log; Thông tin ghi log; Thời gian; Dung lượng ghi log; Quản
 lý log;
 d) Phòng chống xâm nhập: Mô tả việc cấu trình/thiết lập cấu hình bảo mật trên
 máy chủ để bảo bảo vệ tấn công xâm nhập từ bên ngoài.
@@ -1318,10 +1318,10 @@ An toàn ứng dụng và mã nguồn yêu câu 6.2.3.4 7.2.3.6
 4) Bảo đảm an toàn dữ liệu
 Nguyên vẹn dữ liệu: Mô tả phương án lưu trữ, quản lý thay đổi, khôi phục dữ
 liệu bảo đảm tính nguyên vẹn của dữ liệu. a)
-b) Bảo mật dữ liệu: Mô tả phương án Iưu trữ, quản lý thay đổi, khôi phục dữ liệu
+b) Bảo mật dữ liệu: Mô tả phương án lưu trữ, quản lý thay đổi, khôi phục dữ liệu
 bảo đảm tính bí mật của dữ liệu.
-Sao luu dự phòng: Mô tả phương án sao Iưu dự phòng dữ liệu: Các thông tin
-yêu cẩu sao Iưu dự phòng; Phân loại dữ liệu sao lưu dự phòng; Hệ thống sao lưu dự
+Sao luu dự phòng: Mô tả phương án sao lưu dự phòng dữ liệu: Các thông tin
+yêu cẩu sao lưu dự phòng; Phân loại dữ liệu sao lưu dự phòng; Hệ thống sao lưu dự
 phòng.
 Bảng thế hiện mổi liên hệ giữa các cấp độ đề xuất (từ cấp độ 1 đến cấp độ 3) của
 HTTT với các mục yêu cầu an toàn tương ứng trong tiêu chuẩn TCVN 11930.2017
@@ -1519,7 +1519,7 @@ quy định. Đối với yêu cầu an toàn về kỹ thuật: Đơn vi thẩm
 minh trong HSĐXCĐ về phương án thiết kế, thiết lập; cấu hình hệ thống để đánh giá
 khả năng đáp ứng các yêu cầu kỹ thuật đặt ra. Trường hợp đã đáp ứng; cần làm rõ nội
 dung thiết lập cụ thễ, các thiết bị được sử dụng và các yêu cầu kỹ thuật tương ứng
-Trường hợp chưa đáp ứng; HSEXCĐ phải thể hiện rõ phuơng án hoặc kế hoạch nâng
+Trường hợp chưa đáp ứng; HSEXCĐ phải thể hiện rõ phương án hoặc kế hoạch nâng
 cấp; điểu chỉnh nhằm đảm bảo phù hợp với các yêu cầu kỹ thuật.
 Việc thuyết minh phương án bảo đảm an toàn thông tin trong HSĐXCĐ theo đúng
 nội dung tiêu chuẩn quốc gia TCVN 11930.2017 được xem là đáp ứng đầy đủ các yêu

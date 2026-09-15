@@ -110,7 +110,6 @@ a) Khung học phí (mức sàn - mức trần) đối với cơ sở giáo dụ
 Đơn vị: nghìn đồng/học sinh/tháng
 
 | Vùng | Mầm non | Tiểu học | Trung học cơ sở | Trung học phổ thông |
-| :--- | :--- | :--- | :--- | :--- |
 | Thành thị | Từ 300 đến 540 | Từ 300 đến 540 | Từ 300 đến 650 | Từ 300 đến 650 |
 | Nông thôn | Từ 100 đến 220 | Từ 100 đến 220 | Từ 100 đến 270 | Từ 200 đến 330 |
 | Vùng dân tộc thiểu số và miền núi | Từ 50 đến 110 | Từ 50 đến 110 | Từ 50 đến 170 | Từ 100 đến 220 |
@@ -152,7 +151,6 @@ a) Mức trần học phí đối với các chương trình đào tạo trình 
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | TT | Nhóm ngành, nghề đào tạo | Năm học 2021 - 2022 |
-| :--- | :--- | :--- |
 | 1 | Khoa học xã hội nhân văn, nghệ thuật, giáo dục và đào tạo, báo chí, thông tin và kinh doanh | |
 | 1.1 | Khoa học xã hội nhân văn, giáo dục và đào tạo, báo chí, thông tin và kinh doanh | 780 |
 | 1.2 | Nghệ thuật | 940 |
@@ -169,7 +167,6 @@ b) Mức trần học phí đối với các chương trình đào tạo trình 
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | TT | Nhóm ngành, nghề đào tạo | Năm học 2021 - 2022 |
-| :--- | :--- | :--- |
 | 1 | Khoa học xã hội nhân văn, nghệ thuật, giáo dục và đào tạo, báo chí, thông tin và kinh doanh | |
 | 1.1 | Khoa học xã hội nhân văn, giáo dục và đào tạo, báo chí, thông tin và kinh doanh | 1.640 |
 | 1.2 | Nghệ thuật | 1.920 |
@@ -192,7 +189,6 @@ Căn cứ danh mục ngành, nghề đào tạo cấp IV trình độ cao đẳn
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | TT | Nhóm ngành, nghề đào tạo | Năm 2022-2023 | Năm 2023-2024 | Năm 2024-2025 | Năm 2025-2026 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Khoa học xã hội nhân văn, nghệ thuật, giáo dục và đào tạo, báo chí, thông tin và kinh doanh | 1.248 | 1.328 | 1.360 | 1.600 |
 | 2 | Khoa học, pháp luật và toán | 1.326 | 1.411 | 1.445 | 1.700 |
 | 3 | Kỹ thuật và công nghệ thông tin | 1.870 | 1.992 | 2.040 | 2.400 |
@@ -257,7 +253,6 @@ a) Mức trần học phí đối với các khối ngành đào tạo trình đ
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | Khối ngành | Năm học 2021 - 2022 |
-| :--- | :---: |
 | Khối ngành I: Khoa học giáo dục và đào tạo giáo viên | 980 |
 | Khối ngành II: Nghệ thuật | 1.170 |
 | Khối ngành III: Kinh doanh và quản lý, pháp luật | 980 |
@@ -267,7 +262,6 @@ Trang 13
 (Tiếp theo bảng mức trần học phí năm học 2021 - 2022 cho cơ sở chưa tự bảo đảm chi thường xuyên và chi đầu tư)
 
 | Khối ngành | Năm học 2021 - 2022 |
-| :--- | :---: |
 | Khối ngành IV: Khoa học sự sống, khoa học tự nhiên | 1.170 |
 | Khối ngành V: Toán, thống kê máy tính, công nghệ thông tin, công nghệ kỹ thuật, kỹ thuật, sản xuất và chế biến, kiến trúc và xây dựng, nông lâm nghiệp và thủy sản, thú y | 1.170 |
 | Khối ngành VI.1: Các khối ngành sức khỏe khác | 1.430 |
@@ -279,7 +273,6 @@ b) Mức trần học phí đối với các khối ngành đào tạo trình đ
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | Khối ngành | Năm học 2021 - 2022 |
-| :--- | :---: |
 | Khối ngành I: Khoa học giáo dục và đào tạo giáo viên | 2.050 |
 | Khối ngành II: Nghệ thuật | 2.400 |
 | Khối ngành III: Kinh doanh và quản lý, pháp luật | 2.050 |
@@ -298,7 +291,6 @@ Trang 14
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | Khối ngành | Năm học 2022 - 2023 | Năm học 2023 - 2024 | Năm học 2024 - 2025 | Năm học 2025 - 2026 |
-| :--- | :---: | :---: | :---: | :---: |
 | Khối ngành I: Khoa học giáo dục và đào tạo giáo viên | 1.250 | 1.410 | 1.590 | 1.790 |
 | Khối ngành II: Nghệ thuật | 1.200 | 1.350 | 1.520 | 1.710 |
 | Khối ngành III: Kinh doanh và quản lý, pháp luật | 1.250 | 1.410 | 1.590 | 1.790 |
@@ -1028,7 +1020,7 @@ Người làm đơn
 
 ----- [Trang 46] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Phụ lục VIII
 GIẤY XÁC NHẬN
@@ -1063,7 +1055,7 @@ Thủ trưởng đơn vị
 
 (1) Trẻ em học mẫu giáo, học sinh trung học cơ sở: gửi Phòng Giáo dục và Đào tạo; học sinh học trung học phổ thông: gửi Sở Giáo dục và Đào tạo; học sinh, sinh viên học ở cơ sở giáo dục nghề nghiệp và giáo dục đại học: gửi Phòng Lao động - Thương binh và Xã hội.
 
-TRANG 2
+----- [Trang 2] -----
 
 Phụ lục IX
 DỰ TOÁN KINH PHÍ CẤP BÙ TIỀN MIỄN, GIẢM HỌC PHÍ
@@ -1074,7 +1066,6 @@ Tên cơ sở giáo dục nghề nghiệp/giáo dục đại học: ...
 DỰ TOÁN KINH PHÍ CẤP BÙ TIỀN MIỄN, GIẢM HỌC PHÍ NĂM...
 
 | TT | Nội dung | Số đối tượng được miễn, giảm học phí | Mức thu học phí/tháng | Số tháng miễn, giảm | Tổng KP cấp bù tiền miễn, giảm học phí | Ghi chú |
-|---|---|---|---|---|---|---|
 | 1 | Sau Đại học | | | | | |
 | | - Tiến sĩ | | | | | |
 | | Nhóm ngành... | | | | | |
@@ -1095,7 +1086,7 @@ DỰ TOÁN KINH PHÍ CẤP BÙ TIỀN MIỄN, GIẢM HỌC PHÍ NĂM...
 Thủ trưởng đơn vị
 (Ký tên, đóng dấu)
 
-TRANG 3
+----- [Trang 3] -----
 
 Phụ lục X
 TỔNG HỢP DỰ TOÁN KINH PHÍ CẤP BÙ TIỀN MIỄN, GIẢM HỌC PHÍ
@@ -1106,7 +1097,6 @@ Bộ, ngành, địa phương...
 TỔNG HỢP DỰ TOÁN KINH PHÍ CẤP BÙ TIỀN MIỄN, GIẢM HỌC PHÍ NĂM...
 
 | TT | Tên cơ sở giáo dục nghề nghiệp/giáo dục đại học | Số đối tượng được miễn, giảm học phí | Tổng dự toán kinh phí | Ghi chú |
-|---|---|---|---|---|
 | 1 | Trường... | | | |
 | 2 | Trường... | | | |
 | 3 | Trường... | | | |

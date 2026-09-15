@@ -1,7 +1,5 @@
 ----- [Trang 1] -----
 
-TRANG 1
-
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 Số: 5247/QĐ-ĐHBK
@@ -44,7 +42,7 @@ HIỆU TRƯỞNG
 (Đã ký và đóng dấu)
 PGS.TS. Nguyễn Hữu Hiếu
 
-TRANG 2
+----- [Trang 2] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
@@ -56,12 +54,11 @@ GIAI ĐOẠN 2025-2030, TẦM NHÌN ĐẾN NĂM 2045
 
 Đà Nẵng, tháng 10 năm 2025
 
-TRANG 3
+----- [Trang 3] -----
 
 DANH MỤC CHỮ VIẾT TẮT
 
 | Viết tắt | Ý nghĩa |
-| :--- | :--- |
 | VC | Viên chức |
 | CGCN | Chuyển giao công nghệ |
 | CLC | Chất lượng cao |
@@ -86,7 +83,7 @@ DANH MỤC CHỮ VIẾT TẮT
 | SV | Sinh viên |
 | TTTT | Thông tin truyền thông |
 
-TRANG 4
+----- [Trang 4] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
@@ -108,7 +105,7 @@ Trải qua 50 năm xây dựng và phát triển (1975-2025), Trường Đại h
 
 Với những đóng góp của nhiều thế hệ viên chức, giảng viên, cựu sinh viên cho sự phát triển kinh tế - xã hội khu vực miền Trung-Tây nguyên và cả nước, Trường Đại học Bách khoa, Đại học Đà Nẵng vinh dự được Đảng và Nhà nước trao tặng nhiều danh hiệu và phần thưởng...
 
-TRANG 5
+----- [Trang 5] -----
 
 (Tiếp theo trang 4)
 ...cao quý: Anh hùng lao động thời kỳ đổi mới, Huân chương độc lập (hạng Nhì), Huân chương Lao động (hạng Nhất).
@@ -341,7 +338,7 @@ Kết quả thực hiện chiến lược phát triển Nhà trường 2020-2025
 
 ----- [Trang 16] -----
 
-TRANG 13
+----- [Trang 13] -----
 
 BẢNG CHỈ TIÊU VÀ KẾT QUẢ THỰC HIỆN
 
@@ -363,7 +360,7 @@ Chỉ số đo lường: 1. Số lượng CTĐT đạt chuẩn kiểm định ch
 Chỉ tiêu đến năm 2025: 23 CTĐT, trong đó có 04 CTĐT Thạc sĩ
 Kết quả thực hiện (đến 30/6/2025): 26 CTĐT (Đạt)
 
-TRANG 14
+----- [Trang 14] -----
 
 (Tiếp nối TT 2)
 Phương hướng: ...các bên liên quan, khung trình độ quốc gia và tiệm cận với chất lượng quốc tế; đảm bảo khả năng có việc làm phù hợp của người học sau khi tốt nghiệp.
@@ -383,7 +380,7 @@ Chỉ số đo lường & Chỉ tiêu & Kết quả:
 3. Số lượng các công bố khoa học trên các tạp chí thuộc WoS/Scopus, tăng 10%/năm (P3.3) | Chỉ tiêu: > 750 bài (tổng 05 năm) | Kết quả: 841 bài (Đạt)
 4. Tăng số lượng hồ sơ đăng ký sở hữu trí tuệ (P3.5) | Chỉ tiêu: 25 đơn đăng ký được chấp nhận | Kết quả: 44 đơn (Đạt)
 
-TRANG 15
+----- [Trang 15] -----
 
 (Tiếp nối TT 3)
 Chỉ số đo lường & Chỉ tiêu & Kết quả:
@@ -403,7 +400,7 @@ Chỉ số đo lường & Chỉ tiêu & Kết quả:
 2. Cải thiện không gian tự học cho sinh viên (P5.4) | Chỉ tiêu: 05 khu tự học (khu A, F, H, E, HL&TT) | Kết quả: Khu A, C, PFIEV, Trung tâm HL&TT, Maker Innovation Space.
 3. Cải thiện, nâng cấp hạ tầng CNTT đảm bảo phục vụ hiệu quả nhu cầu học tập, nghiên cứu của VC và người học (P5.6) | Chỉ tiêu: Phủ internet toàn bộ các khu giảng đường, khu THTN | Kết quả: Khu F, H (60%); Khu E, B, C (70%); khu THTN (40%, trừ Xưởng Nhiệt).
 
-TRANG 16
+----- [Trang 16] -----
 
 TT: 6
 Phương hướng: Nâng cao chất lượng phục vụ cộng đồng, đổi mới sáng tạo và khởi nghiệp thông qua các hoạt động chuyên môn và công tác xã hội.
@@ -418,7 +415,7 @@ Chỉ số đo lường & Chỉ tiêu & Kết quả:
 1. Tăng nguồn thu trung bình đáp ứng nhu cầu phát triển và nâng cao đời sống viên chức, người lao động (P7.1) | Chỉ tiêu: Tăng 05-07%/năm | Kết quả: 7,0% (Trung bình 3 năm 2022-2024)
 2. Tăng thu nhập bình quân của viên chức, người lao động (P7.2) | Chỉ tiêu: Tăng 05%/năm | Kết quả: 8,5%/năm (Trung bình 3 năm 2022-2024)
 
-TRANG 17
+----- [Trang 17] -----
 
 III. CHIẾN LƯỢC PHÁT TRIỂN TRƯỜNG ĐẠI HỌC BÁCH KHOA, ĐẠI HỌC ĐÀ NẴNG GIAI ĐOẠN 2025-2030, TẦM NHÌN ĐẾN 2045
 

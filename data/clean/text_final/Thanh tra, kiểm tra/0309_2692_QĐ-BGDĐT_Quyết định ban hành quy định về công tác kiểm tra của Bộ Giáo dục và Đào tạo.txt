@@ -252,7 +252,7 @@ b) Xây dựng, gửi đề xuất kế hoạch kiểm tra và điều chỉnh k
 
 ----- [Trang 11] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 c) Trong quá trình tiến hành kiểm tra theo chức năng, nhiệm vụ được giao, các đơn vị cần kịp thời kiến nghị tiến hành thanh tra khi phát hiện dấu hiệu vi phạm pháp luật hoặc thấy cần thiết;
 
@@ -263,7 +263,7 @@ d) Tạo điều kiện cho cán bộ, công chức hoặc các thành viên Đo
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 10
 
-[TRANG 2]
+----- [Trang 2] -----
 
 MẪU SỐ 01-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo)
@@ -278,7 +278,6 @@ DANH MỤC
 Đề xuất kế hoạch kiểm tra năm ....................
 
 | TT | Nội dung kiểm tra | Số cuộc kiểm tra | Đối tượng kiểm tra | Thời gian tiến hành | Đơn vị chủ trì | Đơn vị phối hợp | Căn cứ đề xuất |
-|---|---|---|---|---|---|---|---|
 | 1 | A (ghi rõ tên nội dung kiểm tra) | Cuộc 1 | Số đối tượng (tên cụ thể của từng đối tượng) | Tháng ... | ... | ... | ... |
 | | | Cuộc 2 | Như trên | Tháng ... | ... | ... | ... |
 | | | ... | ... | ... | ... | ... | ... |
@@ -298,7 +297,7 @@ THỦ TRƯỞNG ĐƠN VỊ
 
 Ghi chú: Ghép tối đa các nội dung kiểm tra có cùng đối tượng, thời gian kiểm tra
 
-[TRANG 3]
+----- [Trang 3] -----
 
 MẪU SỐ 02-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo)
@@ -346,7 +345,7 @@ T/L BỘ TRƯỞNG
 ........(Chức danh của người ra quyết định kiểm tra)
 (Ký, ghi rõ tên và đóng dấu)
 
-[TRANG 4]
+----- [Trang 4] -----
 
 MẪU SỐ 03-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo)
@@ -389,7 +388,7 @@ Nơi nhận:
 - (Chức danh của người ra quyết định kiểm tra);
 - Lưu
 
-[TRANG 5]
+----- [Trang 5] -----
 
 MẪU SỐ 04-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo)
@@ -438,7 +437,7 @@ Người ghi biên bản
 
 ----- [Trang 16] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 MẪU SỐ 05-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo)
@@ -487,7 +486,7 @@ Nơi nhận:
 Trưởng đoàn kiểm tra
 (Ký, ghi rõ họ tên)
 
-TRANG 2
+----- [Trang 2] -----
 
 MẪU SỐ 06-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo)

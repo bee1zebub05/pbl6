@@ -132,7 +132,7 @@ c) Các điểm a, b khoản 1 Điều 8; khoản 3 Điều 9 và khoản 2 Đi�
 
 ----- [Trang 6] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 6
 
@@ -166,14 +166,13 @@ THỦ TƯỚNG
 (Đã ký và đóng dấu)
 Nguyễn Xuân Phúc
 
-TRANG 2
+----- [Trang 2] -----
 
 Phụ lục I
 LỘ TRÌNH TUỔI NGHỈ HƯU TRONG ĐIỀU KIỆN LAO ĐỘNG BÌNH THƯỜNG GẮN VỚI THÁNG, NĂM SINH TƯƠNG ỨNG
 (Ban hành kèm theo Nghị định số 135/2020/NĐ-CP ngày 18 tháng 11 năm 2020 của Chính phủ)
 
 | Lao động nam | | | Lao động nữ | | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu |
 | Tháng / Năm | | Tháng / Năm | Tháng / Năm | | Tháng / Năm |
 | 1 / 1961 | 60 tuổi 3 tháng | 5 / 2021 | 1 / 1966 | 55 tuổi 4 tháng | 6 / 2021 |
@@ -201,12 +200,11 @@ LỘ TRÌNH TUỔI NGHỈ HƯU TRONG ĐIỀU KIỆN LAO ĐỘNG BÌNH THƯỜNG 
 | 11 / 1962 | 60 tuổi 9 tháng | 9 / 2023 | 11 / 1967 | 56 tuổi | 12 / 2023 |
 | 12 / 1962 | 60 tuổi 9 tháng | 10 / 2023 | 12 / 1967 | 56 tuổi | 1 / 2024 |
 
-TRANG 3
+----- [Trang 3] -----
 
 2
 
 | Lao động nam | | | Lao động nữ | | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu |
 | Tháng / Năm | | Tháng / Năm | Tháng / Năm | | Tháng / Năm |
 | 1 / 1963 | 61 tuổi | 11 / 2023 | 1 / 1968 | 56 tuổi 4 tháng | 6 / 2024 |
@@ -247,12 +245,11 @@ TRANG 3
 | 12 / 1965 | 61 tuổi 9 tháng | 10 / 2027 | 12 / 1970 | 57 tuổi 8 tháng | 9 / 2028 |
 | 1 / 1966 | 61 tuổi 9 tháng | 11 / 2027 | 1 / 1971 | 57 tuổi 8 tháng | 10 / 2028 |
 
-TRANG 4
+----- [Trang 4] -----
 
 3
 
 | Lao động nam | | | Lao động nữ | | |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu |
 | Tháng / Năm | | Tháng / Năm | Tháng / Năm | | Tháng / Năm |
 | 2 / 1966 | 61 tuổi 9 tháng | 12 / 2027 | 2 / 1971 | 57 tuổi 8 tháng | 11 / 2028 |
@@ -290,12 +287,11 @@ TRANG 4
 | | | | 10 / 1973 | 59 tuổi | 11 / 2032 |
 | | | | 11 / 1973 | 59 tuổi | 12 / 2032 |
 
-TRANG 5
+----- [Trang 5] -----
 
 4
 
 | Lao động nữ | | |
-| :--- | :--- | :--- |
 | Thời điểm sinh | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu |
 | Tháng / Năm | | Tháng / Năm |
 | 12 / 1973 | 59 tuổi | 1 / 2033 |
@@ -326,38 +322,36 @@ TUỔI NGHỈ HƯU THẤP NHẤT GẮN VỚI THÁNG, NĂM SINH TƯƠNG ỨNG
 I. LAO ĐỘNG NAM
 
 | Thời điểm sinh (Tháng/Năm) | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu (Tháng/Năm) |
-| :--- | :--- | :--- |
-| 1/1966 $\rightarrow$ 12/1966 | 55 tuổi 3 tháng | 5/2021 $\rightarrow$ 12/2021 |
-| 1/1967 $\rightarrow$ 12/1967 | 55 tuổi 6 tháng | 1/2022 $\rightarrow$ 12/2022 |
-| 1/1968 $\rightarrow$ 12/1968 | 56 tuổi | 11/2023 $\rightarrow$ 1/2025 |
-| 1/1969 $\rightarrow$ 12/1969 | 56 tuổi 3 tháng | 5/2025 $\rightarrow$ 1/2026 |
-| 1/1970 $\rightarrow$ 12/1970 | 56 tuổi 6 tháng | 8/2026 $\rightarrow$ 10/2027 |
-| 1/1971 $\rightarrow$ 3/1971 | 57 tuổi | 11/2027 $\rightarrow$ 1/2028 |
+| 1/1966 → 12/1966 | 55 tuổi 3 tháng | 5/2021 → 12/2021 |
+| 1/1967 → 12/1967 | 55 tuổi 6 tháng | 1/2022 → 12/2022 |
+| 1/1968 → 12/1968 | 56 tuổi | 11/2023 → 1/2025 |
+| 1/1969 → 12/1969 | 56 tuổi 3 tháng | 5/2025 → 1/2026 |
+| 1/1970 → 12/1970 | 56 tuổi 6 tháng | 8/2026 → 10/2027 |
+| 1/1971 → 3/1971 | 57 tuổi | 11/2027 → 1/2028 |
 | Từ tháng 4/1971 trở đi | 57 tuổi | Tháng liền kề sau tháng người lao động đủ 57 tuổi |
 
 II. LAO ĐỘNG NỮ
 
 | Thời điểm sinh (Tháng/Năm) | Tuổi nghỉ hưu | Thời điểm hưởng lương hưu (Tháng/Năm) |
-| :--- | :--- | :--- |
-| 1/1971 $\rightarrow$ 6/1971 | 50 tuổi 4 tháng | 6/2021 $\rightarrow$ 11/2021 |
-| 7/1971 $\rightarrow$ 12/1971 | 50 tuổi 8 tháng | 12/2021 $\rightarrow$ 9/2022 |
-| 1/1972 $\rightarrow$ 6/1972 | 51 tuổi | 10/2022 $\rightarrow$ 1/2023 |
-| 7/1972 $\rightarrow$ 12/1972 | 51 tuổi 4 tháng | 6/2023 $\rightarrow$ 1/2024 |
-| 1/1973 $\rightarrow$ 6/1973 | 51 tuổi 8 tháng | 6/2024 $\rightarrow$ 11/2024 |
-| 7/1973 $\rightarrow$ 12/1973 | 52 tuổi | 12/2024 $\rightarrow$ 9/2025 |
-| 1/1974 $\rightarrow$ 6/1974 | 52 tuổi 4 tháng | 10/2025 $\rightarrow$ 1/2026 |
-| 7/1974 $\rightarrow$ 12/1974 | 52 tuổi 8 tháng | 6/2026 $\rightarrow$ 1/2027 |
-| 1/1975 $\rightarrow$ 6/1975 | 53 tuổi | 6/2027 $\rightarrow$ 11/2027 |
-| 7/1975 $\rightarrow$ 12/1975 | 53 tuổi 4 tháng | 12/2027 $\rightarrow$ 9/2028 |
-| 1/1976 $\rightarrow$ 6/1976 | 53 tuổi 8 tháng | 10/2028 $\rightarrow$ 12/2028 |
-| 7/1976 $\rightarrow$ 12/1976 | 54 tuổi | 1/2029 $\rightarrow$ 1/2030 |
-| 1/1977 $\rightarrow$ 6/1977 | 54 tuổi 4 tháng | 6/2030 $\rightarrow$ 11/2030 |
-| 7/1977 $\rightarrow$ 12/1977 | 54 tuổi 8 tháng | 12/2030 $\rightarrow$ 9/2031 |
-| 1/1978 $\rightarrow$ 6/1978 | 55 tuổi | 10/2031 $\rightarrow$ 1/2032 |
-| 7/1978 $\rightarrow$ 12/1978 | 55 tuổi 4 tháng | 6/2032 $\rightarrow$ 1/2033 |
-| 1/1979 $\rightarrow$ 6/1979 | 55 tuổi 8 tháng | 6/2033 $\rightarrow$ 11/2033 |
-| 7/1979 $\rightarrow$ 12/1979 | 56 tuổi | 12/2033 $\rightarrow$ 9/2034 |
-| 1/1980 $\rightarrow$ 4/1980 | 56 tuổi 4 tháng | 10/2034 $\rightarrow$ 1/2035 |
+| 1/1971 → 6/1971 | 50 tuổi 4 tháng | 6/2021 → 11/2021 |
+| 7/1971 → 12/1971 | 50 tuổi 8 tháng | 12/2021 → 9/2022 |
+| 1/1972 → 6/1972 | 51 tuổi | 10/2022 → 1/2023 |
+| 7/1972 → 12/1972 | 51 tuổi 4 tháng | 6/2023 → 1/2024 |
+| 1/1973 → 6/1973 | 51 tuổi 8 tháng | 6/2024 → 11/2024 |
+| 7/1973 → 12/1973 | 52 tuổi | 12/2024 → 9/2025 |
+| 1/1974 → 6/1974 | 52 tuổi 4 tháng | 10/2025 → 1/2026 |
+| 7/1974 → 12/1974 | 52 tuổi 8 tháng | 6/2026 → 1/2027 |
+| 1/1975 → 6/1975 | 53 tuổi | 6/2027 → 11/2027 |
+| 7/1975 → 12/1975 | 53 tuổi 4 tháng | 12/2027 → 9/2028 |
+| 1/1976 → 6/1976 | 53 tuổi 8 tháng | 10/2028 → 12/2028 |
+| 7/1976 → 12/1976 | 54 tuổi | 1/2029 → 1/2030 |
+| 1/1977 → 6/1977 | 54 tuổi 4 tháng | 6/2030 → 11/2030 |
+| 7/1977 → 12/1977 | 54 tuổi 8 tháng | 12/2030 → 9/2031 |
+| 1/1978 → 6/1978 | 55 tuổi | 10/2031 → 1/2032 |
+| 7/1978 → 12/1978 | 55 tuổi 4 tháng | 6/2032 → 1/2033 |
+| 1/1979 → 6/1979 | 55 tuổi 8 tháng | 6/2033 → 11/2033 |
+| 7/1979 → 12/1979 | 56 tuổi | 12/2033 → 9/2034 |
+| 1/1980 → 4/1980 | 56 tuổi 4 tháng | 10/2034 → 1/2035 |
 | Từ tháng 5/1980 trở đi | 55 tuổi | Tháng liền kề sau tháng người lao động đủ 55 tuổi |
 
 PHỤ LỤC III

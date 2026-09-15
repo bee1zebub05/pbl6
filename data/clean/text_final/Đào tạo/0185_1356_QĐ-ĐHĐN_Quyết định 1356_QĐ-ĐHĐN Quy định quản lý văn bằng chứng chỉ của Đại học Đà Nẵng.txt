@@ -238,7 +238,6 @@ Kính gửi:
 Thực hiện quy định của Đại học Đà Nẵng về việc đăng ký in phôi văn bằng, chứng chỉ, trong năm ...... cơ sở đào tạo (Trường, Phân hiệu, Viện, Khoa,...) sẽ cấp các loại bằng, chứng chỉ với số lượng dự kiến như sau:
 
 | STT | Loại phôi | Dự kiến SL phôi bằng, CC sẽ cấp trong năm | Ghi chú |
-|---|---|---|---|
 | 1 | Bằng tốt nghiệp trung cấp sư phạm | | |
 | 2 | Bằng tốt nghiệp cao đẳng sư phạm | | |
 | 3 | Bằng cử nhân | | |
@@ -278,7 +277,6 @@ Kính gửi:
 Cơ sở đào tạo (Trường, Phân hiệu, Viện, Khoa,...) đề nghị Đại học Đà Nẵng cấp phôi văn bằng (chứng chỉ) với số lượng cụ thể như sau:
 
 | STT | Loại phôi | Quyết định tốt nghiệp số: ngày, tháng, năm | Số lượng | Năm tuyển sinh | Hình thức đào tạo |
-|---|---|---|---|---|---|
 | 1 | Bằng tốt nghiệp trung cấp sư phạm | | | | |
 | 2 | Bằng tốt nghiệp cao đẳng sư phạm | | | | |
 | 3 | Bằng cử nhân | | | | |
@@ -352,7 +350,6 @@ DANH SÁCH SINH VIÊN/HỌC VIÊN NGÀNH ............
 (Kèm theo Quyết định số........, ngày ...... tháng ...... năm..... của........)
 
 | STT | Họ và tên | Ngày tháng năm sinh | Điểm trung bình | Xếp loại tốt nghiệp | Quyết định trúng tuyển số, ngày tháng năm |
-|---|---|---|---|---|---|
 | | Chuyên ngành ... | | | | |
 | 1 | | | | | |
 | 2 | | | | | |
@@ -422,7 +419,6 @@ DANH SÁCH HỌC VIÊN ĐƯỢC CẤP CHỨNG CHỈ ............................
 (Kèm theo Quyết định số........, ngày ...... tháng ..... năm ...... của........)
 
 | STT | Họ và tên | Ngày tháng năm sinh | Điểm trung bình | Xếp loại tốt nghiệp | Ghi chú |
-|---|---|---|---|---|---|
 | 1 | | | | | |
 | 2 | | | | | |
 | 3 | | | | | |
@@ -471,7 +467,6 @@ Hôm nay, ngày ...... tháng ...... năm 20 ..., tại ........................
 - Thông tin sai và sửa đúng:
 
 | Sai | Đúng |
-|---|---|
 | | |
 
 HIỆU TRƯỞNG
@@ -504,7 +499,6 @@ Kính gửi: Văn phòng Đại học Đà Nẵng
 Cơ sở đào tạo (Trường, Phân hiệu, Viện, Khoa,...) đã được Đại học Đà Nẵng cấp ..... phôi bằng/chứng chỉ ....................................................................., tuy nhiên trong quá trình in ấn thông tin đã bị hư hỏng ........ phôi, chi tiết như sau:
 
 | STT | Số hiệu | Loại văn bằng/chứng chỉ | Lý do hủy | Ghi chú |
-|---|---|---|---|---|
 | | | | | |
 | | | | | |
 | | | | | |

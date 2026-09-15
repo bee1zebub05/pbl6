@@ -1,6 +1,5 @@
 ----- [Trang 1] -----
 
------ [Trang 1] -----
 CHÍNH PHỦ
 Số: 76/2018/NĐ-CP
 
@@ -1327,7 +1326,6 @@ Chuyển giao quyền sử dụng công nghệ:
 6. Giá trị chuyển giao công nghệ
 
 TT | Nội dung | Giá trị
----|---|---
 1 | Bí quyết kỹ thuật, bí quyết công nghệ; phương án, quy trình công nghệ; giải pháp, thông số, bản vẽ, sơ đồ kỹ thuật; công thức, phần mềm máy tính, thông tin dữ liệu; giải pháp hợp lý hóa sản xuất, đổi mới công nghệ | 
 2 | Chuyển giao quyền đối với các đối tượng sở hữu công nghiệp: (Sáng chế / Giải pháp hữu ích / Kiểu dáng công nghiệp) | 
 3 | Đào tạo | 
@@ -1533,7 +1531,7 @@ LÃNH ĐẠO TỔ CHỨC
 ³ Cách ghi như sau: Hóa học/Sinh học/Cơ lý/Dược phẩm/Điện - điện tử/Vật liệu xây dựng/An toàn sinh học,...). Trường hợp số liệu nhiều thì tổ chức lập thành Phụ lục kèm theo.
 
 ----- [Trang 61] -----
-TRANG 12
+----- [Trang 12] -----
 
 Mẫu số 06
 
@@ -1587,7 +1585,6 @@ CHUYÊN GIA ĐÁNH GIÁ/GIÁM ĐỊNH VIÊN CÔNG NGHỆ CỦA TỔ CHỨC
 Danh sách chuyên gia đánh giá/giám định viên công nghệ (đối với tổ chức đánh giá/giám định công nghệ):
 
 | STT | Họ và tên/năm sinh | Chuyên môn được đào tạo | Kinh nghiệm công tác (ghi số năm) | Kinh nghiệm đánh giá/giám định công nghệ (ghi số cuộc) | Thỏa thuận hợp tác hoặc quyết định tuyển dụng hoặc hợp đồng đã ký | Ngành, lĩnh vực sẽ thực hiện đánh giá, giám định công nghệ tại tổ chức | Ghi chú |
-|---|---|---|---|---|---|---|---|
 | 1 | | | | | | | |
 | 2 | | | | | | | |
 | ... | | | | | | | |
@@ -1616,13 +1613,11 @@ TÓM TẮT KINH NGHIỆM HOẠT ĐỘNG ĐÁNH GIÁ/GIÁM ĐỊNH CÔNG NGHỆ C
 
 2. Quá trình công tác:
 | TT | Thời gian | Nhiệm vụ chuyên môn | Đơn vị công tác |
-|---|---|---|---|
 | | | | |
 | | | | |
 
 3. Kinh nghiệm trong lĩnh vực đánh giá/giám định công nghệ:
 | TT | Thời gian | Tên tổ chức, doanh nghiệp đã đánh giá/giám định | Địa chỉ liên hệ, điện thoại, Fax, người đại diện của tổ chức, doanh nghiệp | Lĩnh vực đánh giá/giám định công nghệ¹ | Kết quả đánh giá/giám định công nghệ |
-|---|---|---|---|---|---|
 | 1 | Từ năm... đến năm... | | | | |
 | | Từ năm... đến năm... | | | | |
 
@@ -1664,7 +1659,6 @@ Kính gửi: Bộ Khoa học và Công nghệ.
 
 a) Nhân sự thực hiện đánh giá/giám định công nghệ:
 | Chỉ tiêu | Số lượng: Trong kỳ báo cáo | Số lượng: Cùng kỳ năm trước |
-|---|---|---|
 | Tổng số chuyên gia đánh giá/giám định công nghệ | | |
 
 Kèm theo chi tiết danh sách chuyên gia đánh giá/giám định công nghệ đã tham gia thực hiện đánh giá/giám định công nghệ tại tổ chức.

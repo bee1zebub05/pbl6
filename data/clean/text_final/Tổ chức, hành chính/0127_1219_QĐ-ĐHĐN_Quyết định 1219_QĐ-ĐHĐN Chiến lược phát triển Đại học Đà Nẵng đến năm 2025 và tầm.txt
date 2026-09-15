@@ -1,7 +1,5 @@
 ----- [Trang 1] -----
 
-TRANG 1
-
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 HỘI ĐỒNG ĐẠI HỌC ĐÀ NẴNG
 Số: 1219/QĐ-HĐĐHĐN
@@ -44,7 +42,7 @@ CHỦ TỊCH
 GIÁM ĐỐC
 GS.TS. Trần Văn Nam
 
-TRANG 2
+----- [Trang 2] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC ĐÀ NẴNG
@@ -55,7 +53,7 @@ CHIẾN LƯỢC PHÁT TRIỂN ĐẠI HỌC ĐÀ NẴNG ĐẾN NĂM 2025 VÀ TẦ
 
 ĐÀ NẴNG, 2018
 
-TRANG 3
+----- [Trang 3] -----
 
 MỤC LỤC
 
@@ -82,7 +80,7 @@ MỤC LỤC
  7.1. Đại học Đà Nẵng ................................................................................................................. 22
  7.2. Các cơ sở giáo dục đại học thành viên ................................................................................. 22
 
-TRANG 4
+----- [Trang 4] -----
 
 1. MỞ ĐẦU
 
@@ -92,7 +90,7 @@ TRANG 4
 
 2) Đầu tư phát triển đội ngũ cán bộ giảng dạy, nâng cao năng lực đội ngũ quản lý của ĐHĐN. Trong suốt hơn 10 năm qua, ĐHĐN đã đầu tư bằng các nguồn lực khác nhau, tận dụng các chương trình hợp tác quốc tế để ưu tiên đào tạo đội ngũ cán bộ giảng dạy. ĐHĐN đã có chủ trương quyết liệt đối với cán bộ giảng dạy trẻ được giữ lại trường, nếu sau 3 năm không học sau đại học ở nước ngoài thì chuyển công tác khác. Nhờ vậy, cán bộ trẻ ngay khi ở lại trường đã xác định được nhiệm vụ phấn đấu, học tập. Đến nay đội ngũ cán bộ khoa học có học vị tiến sĩ và có chức danh Giáo sư, Phó Giáo sư chiếm tỷ lệ khá cao so với mặt bằng chung trong cả nước. Trường Đại học Bách khoa - ĐHĐN đã có tỉ lệ giảng viên có trình độ tiến sĩ trên 45%, có những bộ môn đạt 100%. Đặc biệt, đội ngũ tiến sĩ ngày càng trẻ hơn, có nhiều mối quan hệ với bạn bè, đồng nghiệp nước
 
-TRANG 5
+----- [Trang 5] -----
 
 ngoài đã tạo nên động lực mạnh mẽ cho công tác đổi mới đào tạo, nghiên cứu khoa học của ĐHĐN.
 
@@ -370,7 +368,6 @@ CÁC CHỈ TIÊU CƠ BẢN
 (Chiến lược phát triển ĐHĐN đến năm 2025 và tầm nhìn đến năm 2035)
 
 | TT | Tiêu chí | 2018 | 2025 | 2035 |
-|---|---|---|---|---|
 | 1 | Quy hoạch, phát triển mạng lưới | | | |
 | | - Số trường đại học thành viên | 5 | 9 | 12 |
 | | - Số Khoa trực thuộc | 56 | 77 | 97 |
@@ -411,10 +408,9 @@ CÁC CHỈ TIÊU CƠ BẢN
 
 ----- [Trang 26] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 | TT | Tiêu chí | Chỉ tiêu 2018 | Chỉ tiêu 2025 | Chỉ tiêu 2035 |
-| :--- | :--- | :---: | :---: | :---: |
 | | - Quốc tế | 300 | 850 | 2410 |
 | | - ISI/Scopus | 65 | 330 | 827 |
 | 5.2 | Sách | 10 | 35 | 80 |
@@ -438,10 +434,9 @@ TRANG 1
 | | - Số lượt sinh viên đi trao đổi/năm | 147 | 520 | 1100 |
 | | - Số lượt sinh viên nước ngoài đến | 245 | 560 | 1000 |
 
-TRANG 2
+----- [Trang 2] -----
 
 | TT | Tiêu chí | Chỉ tiêu 2018 | Chỉ tiêu 2025 | Chỉ tiêu 2035 |
-| :--- | :--- | :---: | :---: | :---: |
 | | - Số lượt cán bộ đi trao đổi/năm | 109 | 385 | 749 |
 | | - Số lượt cán bộ nước ngoài đến | 328 | 578 | 1000 |
 | 6.2 | Số chương trình đào tạo cấp bằng của ĐHĐN ở nước ngoài | 0 | 10 | 25 |

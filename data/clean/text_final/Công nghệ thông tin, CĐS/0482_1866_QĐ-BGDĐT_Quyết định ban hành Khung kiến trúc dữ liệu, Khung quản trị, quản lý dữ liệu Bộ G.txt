@@ -113,7 +113,6 @@ V. TỔ CHỨC THỰC HIỆN ...................................................
 THUẬT NGỮ VÀ CÁC TỪ NGỮ VIẾT TẮT
 
 | STT | Thuật ngữ/Chữ viết tắt | Mô tả |
-| :--- | :--- | :--- |
 | 1 | ATTT | An toàn thông tin |
 | 2 | API | Application Programming Interface: Giao diện lập trình ứng dụng: Bộ quy tắc cho phép các phần mềm trao đổi dữ liệu với nhau một cách chuẩn hóa. |
 | 3 | GD&ĐT | Giáo dục và Đào tạo |
@@ -133,7 +132,6 @@ THUẬT NGỮ VÀ CÁC TỪ NGỮ VIẾT TẮT
 5
 
 | 15 | AGN | Agent Node : Cổng điều phối dữ liệu tại chỗ |
-| :--- | :--- | :--- |
 | 16 | AI | Artificial Intelligence: Trí tuệ nhân tạo |
 | 17 | BI | Business Intelligence: Hệ thống phân tích, báo cáo thông minh |
 | 18 | CDC | Change Data Capture :Thu thập dữ liệu thay đổi |
@@ -459,7 +457,6 @@ Trên cơ sở đó, dữ liệu được điều phối, chia sẻ thông qua c
 Quy trình khai thác, điều phối dữ liệu dùng chung của Bộ Giáo dục và Đào tạo bao gồm các luồng dữ liệu chính như sau:
 
 | Bước | Thành phần | Đối tượng | Mô tả |
-| :--- | :--- | :--- | :--- |
 | 1 | Hợp nhất dữ liệu | Nguồn dữ liệu | Hợp nhất dữ liệu nguồn vào CSDL quốc gia về GD&ĐT thông qua LGSP/LDOP. |
 | 2 | Hợp nhất dữ liệu | LGSP/LDOP | Hợp nhất dữ liệu từ LGSP/LDOP vào CSDL Quốc gia về GD&ĐT. |
 
@@ -467,7 +464,6 @@ Quy trình khai thác, điều phối dữ liệu dùng chung của Bộ Giáo d
 22
 
 | Chuẩn hóa dữ liệu | CSDL Quốc gia về GD&ĐT | Tổ chức, cấu trúc dữ liệu nhằm loại bỏ trùng lặp, bảo đảm tính nhất quán, toàn vẹn và giảm thiểu sai sót. |
-| :--- | :--- | :--- |
 | Lưu trữ dữ liệu và khai thác | CSDL Quốc gia về GD&ĐT | Lưu trữ dữ liệu dùng chung phục vụ tra cứu, thống kê, phân tích, chia sẻ. |
 | 3,4,5, Chia sẻ dữ liệu (7) | CSDL Quốc gia về GD&ĐT | Tích hợp dữ liệu lên LGSP/LDOP, sau đó truyền sang NDOP (C12) thông qua điểm kết nối bảo mật AGN để cung cấp dữ liệu cho Cơ sở dữ liệu dùng chung quốc gia và chia sẻ ra bên ngoài theo quyền truy cập và phạm vi dữ liệu được xác định. |
 | 6,8,9 Phân phối dữ liệu (7) | Cơ sở dữ liệu tổng hợp quốc gia | Phân phối dữ liệu từ Cơ sở dữ liệu tổng hợp quốc gia đến CSDL quốc gia về Giáo dục và Đào tạo thông qua NDOP -> AGN -> LGSP/LDOP 
@@ -626,7 +622,6 @@ quản trị thống nhất trong toàn ngành giáo dục. Sự phân tầng r�
 Mô hình kiến trúc An toàn thông tin 8 lớp là mô hình phân tầng để bảo vệ toàn diện hệ sinh thái số của Bộ Giáo dục và Đào tạo. Mỗi lớp tập trung vào một lĩnh vực cụ thể, tạo thành các lớp phòng thủ kế tiếp nhau, từ hạ tầng vật lý đến các chính sách quản trị.
 
 | Lớp | Tên Lớp | Mục tiêu chính |
-| :--- | :--- | :--- |
 | 1 | Bảo vệ Dữ liệu gốc | Đảm bảo dữ liệu được chuẩn hóa, phân loại, gắn metadata và quản lý vòng đời đầy đủ từ khi tạo lập. |
 | 2 | Phân loại và Gắn nhãn Dữ liệu | Phân loại dữ liệu theo mức độ nhạy cảm (công khai, nội bộ, cá nhân, nhạy cảm) để áp dụng chính sách bảo vệ phù hợp. |
 | 3 | Quản lý truy cập và mã hóa dữ liệu. | Kiểm soát truy cập theo vai trò, định danh; mã hóa dữ liệu trong lưu trữ và truyền tải nhằm ngăn chặn truy cập trái phép. |
@@ -1726,7 +1721,6 @@ a) Bộ chỉ số đánh giá bao gồm:
 Bao gồm các KPI và KQI liên quan đến khung quản trị, vai trò trách nhiệm, chính sách và tiêu chuẩn về dữ liệu
 
 | Loại chỉ số | Chỉ số (KPI/KQI) | Mô tả | Tiêu chí chấm điểm (0-5) |
-| :--- | :--- | :--- | :--- |
 | KPI | Tỷ lệ áp dụng chính thức khung quản trị dữ liệu (%) | Phần trăm các bộ phận/đơn vị áp dụng khung quản trị đã được ban hành và công nhận | 0: 0% không có khung |
 | | | | 1: <10% có khung nhưng chưa phê |
 
@@ -1786,7 +1780,6 @@ Bao gồm các KPI và KQI liên quan đến khung quản trị, vai trò trách
 Bao gồm các chỉ số liên quan đến kiểm soát chất lượng dữ liệu, metadata và truy vết dữ liệu (data lineage).
 
 | Loại chỉ số | Chỉ số (KPI/KQI) | Mô tả | Tiêu chí chấm điểm (0-5) |
-| :--- | :--- | :--- | :--- |
 | KPI | Tỷ lệ dữ liệu có kiểm soát chất lượng tự động (%) | Phần trăm dữ liệu được kiểm soát chất lượng qua các giải pháp tự động hóa | 0: Không kiểm soát tự động |
 | | | | 1: <10% kiểm soát thủ công ít hiệu quả |
 | | | | 2: 10-29% có rule kiểm tra cơ bản |
@@ -1797,7 +1790,6 @@ Bao gồm các chỉ số liên quan đến kiểm soát chất lượng dữ li
 41
 
 | Loại chỉ số | Chỉ số (KPI/KQI) | Mô tả | Tiêu chí chấm điểm (0-5) |
-| --- | --- | --- | --- |
 | KPI | Tỷ lệ dữ liệu có lineage rõ ràng, hỗ trợ audit (%) | Phần trăm dữ liệu có mô tả lineage chính xác, có công cụ hỗ trợ audit | 0: Không có lineage |
 | | | | 1: <10%, chỉ thủ công, thiếu công cụ |
 | | | | 2: 10-29%, mô tả tay, không dùng công cụ visual |
@@ -1816,7 +1808,6 @@ Bao gồm các chỉ số liên quan đến kiểm soát chất lượng dữ li
 42
 
 | | Tỷ lệ yêu cầu truy vết lineage đáp ứng SLA (%) | Phần trăm yêu cầu truy vết lineage được hoàn thành kịp thời, theo đúng thỏa thuận dịch vụ (SLA) | 1: 10-30% đáp ứng |
-| --- | --- | --- | --- |
 | | | | 2: 30-50% đáp ứng |
 | | | | 3: 50-70% đáp ứng |
 | | | | 4: 70-99% đáp ứng |
@@ -1837,13 +1828,11 @@ Bao gồm các chỉ số liên quan đến kiểm soát chất lượng dữ li
 43
 
 | | | | 5: 100% đồng bộ tự động, cảnh báo lỗi tự động |
-| --- | --- | --- | --- |
 
 (3) Nhóm năng lực nền tảng công nghệ hỗ trợ và tự động hóa
 Bao gồm các chỉ số liên quan đến nền tảng công nghệ phục vụ vận hành, tự động hóa và giám sát quản trị dữ liệu.
 
 | Loại chỉ số | Chỉ số (KPI/KQI) | Mô tả | Tiêu chí chấm điểm (0-5) |
-| --- | --- | --- | --- |
 | KPI | Có nền tảng công nghệ hỗ trợ quản trị dữ liệu | Mức độ sử dụng nền tảng công nghệ quản trị metadata, chất lượng dữ liệu, lineage | 0: Không có nền tảng |
 | | | | 1: Có nhưng ít được dùng, hỗ trợ yếu |
 | | | | 2: Công cụ phân tán, sử dụng hạn chế |
@@ -1860,7 +1849,6 @@ Bao gồm các chỉ số liên quan đến nền tảng công nghệ phục v�
 44
 
 | | | | 5: 100% tự động hóa đầy đủ, tích hợp sâu |
-| --- | --- | --- | --- |
 | KQI | Số lần xảy ra sự cố hệ thống quản trị gây mất truy cập (> 1h) | Số lần mất truy cập hoặc gián đoạn thao tác nghiêm trọng ảnh hưởng đến công tác quản trị | 0: >5 lần |
 | | | | 1: 3-5 lần |
 | | | | 2: 2 lần |
@@ -1883,7 +1871,6 @@ b) Phương pháp tính điểm và phân loại mức độ trưởng thành v�
 45
 
 | Điểm trung bình | Mức xếp loại |
-| --- | --- |
 | 0.0 - 0.99 | Không có năng lực |
 | 1.0 - 1.99 | Không ổn định |
 | 2.0 - 2.99 | Đang phát triển |
@@ -2071,7 +2058,6 @@ PHỤ LỤC I
 1. Danh sách thành viên Ban Chỉ đạo về dữ liệu Bộ Giáo dục và Đào tạo
 
 | TT | Chức vụ người phụ trách | Đơn vị thuộc Bộ Giáo dục & Đào tạo | Vai trò trong Ban chỉ đạo |
-| :--- | :--- | :--- | :--- |
 | 1 | Bộ trưởng | Bộ Giáo dục và Đào tạo | Trưởng ban chỉ đạo |
 | 2 | Thứ trưởng Thường trực | Bộ Giáo dục và Đào tạo | Phó Trưởng Ban Thường trực Ban Chỉ đạo |
 | 3 | Thứ trưởng | Bộ Giáo dục và Đào tạo | Phó Trưởng Ban Chỉ đạo |
@@ -2090,7 +2076,6 @@ PHỤ LỤC I
 54
 
 | TT | Chức vụ người phụ trách | Đơn vị thuộc Bộ Giáo dục & Đào tạo | Vai trò trong Ban chỉ đạo |
-| :--- | :--- | :--- | :--- |
 | 14 | Chánh Văn phòng | Văn phòng | Thành viên |
 | 15 | Cục trưởng | Cục Nhà giáo và Cán bộ quản lý giáo dục | Thành viên |
 | 16 | Cục trưởng | Cục Quản lý chất lượng | Thành viên |
@@ -2101,7 +2086,6 @@ PHỤ LỤC I
 2. Phân công vai trò quản trị dữ liệu Cấp 1
 
 | STT | Vai trò | Đơn vị | Chức vụ người chịu trách nhiệm chính |
-| :--- | :--- | :--- | :--- |
 | 1 | Ban chỉ đạo dữ liệu về Giáo dục và Đào tạo | Tham chiếu Phụ lục 1 | Tham chiếu Phụ lục 1 |
 | 2 | Người chịu trách nhiệm quản trị, quản lý dữ liệu | Cục Khoa học, Công nghệ và Thông tin | Cục trưởng |
 | 3 | Bộ phận tuân thủ | Cục Khoa học, Công nghệ và Thông tin là thành viên thường trực; Các Cục/Vụ chuyên môn | |
@@ -2112,7 +2096,6 @@ PHỤ LỤC I
 55
 
 | STT | Vai trò | Đơn vị | Chức vụ người chịu trách nhiệm chính |
-| :--- | :--- | :--- | :--- |
 | 6 | Bộ phận kỹ thuật dữ liệu | Cục Khoa học, Công nghệ và Thông tin | |
 | 7 | Bộ phận đổi mới sáng tạo | Cục Khoa học, Công nghệ và Thông tin | |
 
@@ -2120,7 +2103,6 @@ PHỤ LỤC I
 Mỗi Sở Giáo dục và Đào tạo các Tỉnh/Thành phố; các Cục Vụ chuyên môn và Viện, trường Đại học, Cao đẳng thuộc Bộ Giáo dục và Đào tạo ban hành theo mẫu và gửi về Cục Khoa học, Công nghệ và Thông tin để tổng hợp, theo dõi.
 
 | STT | Vai trò | Tên Sở/Cục/Vụ | Họ và tên người phụ trách | Chức vụ người phụ trách | Số điện thoại | Email | Ngày có hiệu lực |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Quản lý dữ liệu Cấp đơn vị | | | | | | |
 | 2 | Bộ phận quản trị dữ liệu cấp đơn vị | | | | | | |
 | 3 | Bộ phận chủ quản hệ thống | | | | | | |

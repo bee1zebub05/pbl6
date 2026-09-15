@@ -215,7 +215,7 @@ pháp của người chưa đủ tuổi thành niên; dự thảo quy trình ti�
 7. Quyết định cấp phép thử nghiệm có kiểm soát phải xác định tối thiểu các nội dung: tên tổ chức tham gia; tên giải pháp; mục tiêu thử nghiệm; cơ sở giáo dục phối hợp; thời gian, không gian, phạm vi, đối tượng thử nghiệm; số lượng người tham gia; nội dung được phép triển khai; giới hạn sử dụng; nghĩa vụ bảo vệ
 
 ----- [Trang 11] -----
-TRANG 9
+----- [Trang 9] -----
 
 dữ liệu; chỉ số báo cáo; phương án giám sát; ngưỡng cảnh báo và dừng khẩn cấp; yêu cầu về bồi thường, khắc phục hậu quả; trách nhiệm của các bên.
 
@@ -262,7 +262,7 @@ pháp luật có quy định khác. Hồ sơ, nhật ký, dữ liệu và báo c
 
 2. Trước khi kết thúc thử nghiệm tối thiểu 30 ngày, tổ chức tham gia cơ chế thử nghiệm gửi hồ sơ đề nghị kết thúc thử nghiệm hoặc đề nghị cấp Quyết định chứng nhận hoàn thành thử nghiệm, gồm: đơn đề nghị, báo cáo tổng kết kết quả thử nghiệm, báo cáo đánh giá tác động, báo cáo về an toàn sức khỏe, an toàn thông tin và dữ liệu, kết quả xử lý phản ánh, khiếu nại, phương án xử lý dữ liệu, phương án bàn giao và tài liệu liên quan.
 
-TRANG 11
+----- [Trang 11] -----
 
 ----- [Trang 13] -----
 3. Bộ Giáo dục và Đào tạo quyết định dừng thử nghiệm và thu hồi Quyết định cấp phép thử nghiệm có kiểm soát trong trường hợp tổ chức cung cấp thông tin sai lệch, không triển khai thử nghiệm đúng thời hạn, không thực hiện đúng Quyết định cấp phép thử nghiệm có kiểm soát, cản trở kiểm tra, giám sát, không khắc phục sự cố sau thời hạn tạm dừng hoặc xảy ra sự cố nghiêm trọng ảnh hưởng đến người học, dữ liệu, an toàn thông tin, quyền lợi hợp pháp của các bên liên quan hoặc lợi ích công cộng.
@@ -299,7 +299,7 @@ b) Thông tin đầy đủ cho người học, cha mẹ hoặc người giám h�
 5. Người học, nhà giáo, cha mẹ hoặc người giám hộ hợp pháp
 Có quyền được cung cấp thông tin đầy đủ, được lựa chọn tham gia hoặc rút khỏi thử nghiệm, được bảo vệ dữ liệu cá nhân, được phản ánh, khiếu nại, được hỗ trợ khi gặp sự cố và được bảo đảm quyền, lợi ích hợp pháp theo quy định của pháp luật. Kết quả giải pháp thử nghiệm không được sử dụng làm căn cứ duy nhất để xếp loại, đánh giá, kỷ luật, phân luồng, tuyển chọn người học, trừ trường hợp đã được phê duyệt hoặc pháp luật có quy định./.
 
-TRANG 5
+----- [Trang 5] -----
 
 ----- [Trang 15] -----
 PHỤ LỤC
@@ -309,7 +309,6 @@ BỘ TIÊU CHÍ ĐÁNH GIÁ HỒ SƠ THAM GIA CƠ CHẾ THỬ NGHIỆM CÓ KIỂ
 Tổ chức đăng ký tham gia cơ chế thử nghiệm phải đạt tổng điểm tối thiểu 70/100, đồng thời không có tiêu chí bắt buộc bị đánh giá không đạt. Hội đồng thẩm định có thể kiến nghị yêu cầu bổ sung tài liệu, kiểm thử độc lập hoặc nâng ngưỡng điểm đối với giải pháp có rủi ro cao.
 
 | STT/ Nhóm | Tiêu chí đánh giá | Điểm tối đa | Điểm tối thiểu | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- |
 | I | Tính sư phạm, nội dung và phù hợp chương trình | 30 | 20 | |
 | 1 | Tính chính xác, khoa học, pháp lý, văn hóa của nội dung học liệu số thực - ảo; không có sai lệch kiến thức, không trái pháp luật, đạo đức xã hội, thuần phong mỹ tục (*) | 10 | 8 | Bắt buộc |
 | 2 | Mức độ phù hợp với mục tiêu, yêu cầu cần đạt, chuẩn đầu ra, chương trình, học phần, hoạt động giáo dục dự kiến triển khai | 8 | 5 | |
@@ -343,7 +342,6 @@ Thời hạn hoàn thành: . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2
 
 | STT/ Nhóm | Tiêu chí đánh giá | Điểm tối đa | Điểm tối thiểu | Ghi chú |
-| :--- | :--- | :---: | :---: | :---: |
 | 8 | Phương án theo dõi sức khỏe, tâm lý, vệ sinh thiết bị, phòng ngừa chóng mặt, đau mắt, say mô phỏng, kích ứng, động kinh cảm quang | 5 | 3 | |
 | 9 | Quy trình xử lý sự cố, sơ cứu, dừng khẩn cấp, thông báo cha mẹ hoặc người giám hộ hợp pháp/cơ sở giáo dục, bồi thường, bảo hiểm hoặc bảo đảm tài chính | 5 | 3 | |
 | 10 | Cơ chế bảo vệ quyền trẻ em, quyền rút khỏi thử nghiệm, không ép buộc, không kỳ thị người không tham gia | 2 | 1 | |
@@ -360,7 +358,6 @@ Thời hạn hoàn thành: . . . . . . . . . . . . . . . . . . . . . . . . . . .
 3
 
 | STT/ Nhóm | Tiêu chí đánh giá | Điểm tối đa | Điểm tối thiểu | Ghi chú |
-| :--- | :--- | :---: | :---: | :---: |
 | 18 | Phương án quản trị rủi ro tổng thể, cơ chế khiếu nại, bồi thường, dừng thử nghiệm, bàn giao, kết thúc hợp đồng, xử lý dữ liệu sau thử nghiệm | 6 | 5 | Bắt buộc |
 | 19 | Giá trị thực tiễn đối với hoàn thiện chính sách, tiêu chuẩn, quy chuẩn, danh mục thiết bị, học liệu số và khả năng nhân rộng bền vững | 5 | 3 | |
 

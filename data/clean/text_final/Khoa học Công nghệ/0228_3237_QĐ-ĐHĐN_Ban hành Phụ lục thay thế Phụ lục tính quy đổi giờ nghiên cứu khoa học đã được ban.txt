@@ -59,30 +59,29 @@ Tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng
 
 Bảng 1. Quy đổi số giờ nghiên cứu khoa học (NCKH) đối với kết quả NCKH
 
-| Mục | Loại kết quả NCKH | $m$ là số điểm quy đổi | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :--- | :--- | :---: | :---: | :--- |
-| 1 | Bài báo được đăng tại Tạp chí SCIE/SSCI/AHCI có điểm quy đổi $m = 2$ điểm + điểm xếp hạng của Q | Q1 = 1 điểm | 3 | $600 \times m \times a$ | Minh chứng thể hiện tạp chí thuộc SCIE/SSCI/AHCI/Scopus/ESCI và phân loại Q1 đến Q4 của Scimago. 
+| Mục | Loại kết quả NCKH | m là số điểm quy đổi | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
+| 1 | Bài báo được đăng tại Tạp chí SCIE/SSCI/AHCI có điểm quy đổi m = 2 điểm + điểm xếp hạng của Q | Q1 = 1 điểm | 3 | 600 × m × a | Minh chứng thể hiện tạp chí thuộc SCIE/SSCI/AHCI/Scopus/ESCI và phân loại Q1 đến Q4 của Scimago. 
 
  Minh chứng bài báo (bản điện tử hoặc bản giấy): 
 - Trang bìa/mục lục (nếu Tạp chí có), 
 - Toàn văn bài báo đã công bố và đường link bài báo đã công bố |
-| Q2 = 0.75 điểm | 2.75 | $600 \times m \times a$ | |
-| Q3 = 0.5 điểm | 2.5 | $600 \times m \times a$ | |
-| Q4 = 0.25 điểm | 2.25 | $600 \times m \times a$ | |
-| Chưa có Q = 0 điểm | 2 | $600 \times m \times a$ | |
-| 2 | Bài báo được đăng tại Tạp chí Scopus/ESCI có điểm quy đổi $m = 1.5$ điểm + điểm xếp hạng của Q | Q1 = 1 điểm | 2.5 | $600 \times m \times a$ | Minh chứng thể hiện tạp chí thuộc SCIE/SSCI/AHCI/Scopus/ESCI và phân loại Q1 đến Q4 của Scimago. 
+| Q2 = 0.75 điểm | 2.75 | 600 × m × a | |
+| Q3 = 0.5 điểm | 2.5 | 600 × m × a | |
+| Q4 = 0.25 điểm | 2.25 | 600 × m × a | |
+| Chưa có Q = 0 điểm | 2 | 600 × m × a | |
+| 2 | Bài báo được đăng tại Tạp chí Scopus/ESCI có điểm quy đổi m = 1.5 điểm + điểm xếp hạng của Q | Q1 = 1 điểm | 2.5 | 600 × m × a | Minh chứng thể hiện tạp chí thuộc SCIE/SSCI/AHCI/Scopus/ESCI và phân loại Q1 đến Q4 của Scimago. 
 
  Minh chứng bài báo (bản điện tử hoặc bản giấy): 
 - Trang bìa/mục lục (nếu Tạp chí có), 
 - Toàn văn bài báo đã công bố và đường link bài báo đã công bố |
-| Q2 = 0.75 điểm | 2.25 | $600 \times m \times a$ | |
-| Q3 = 0.5 điểm | 2 | $600 \times m \times a$ | |
-| Q4 = 0.25 điểm | 1.75 | $600 \times m \times a$ | |
-| Chưa có Q = 0 điểm | 1.5 | $600 \times m \times a$ | |
-| 3 | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Trung ương Đảng/Quốc hội, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức hoặc quản lý | | 3 | $600 \times m \times a$ | Minh chứng (bản điện tử hoặc bản giấy): 
+| Q2 = 0.75 điểm | 2.25 | 600 × m × a | |
+| Q3 = 0.5 điểm | 2 | 600 × m × a | |
+| Q4 = 0.25 điểm | 1.75 | 600 × m × a | |
+| Chưa có Q = 0 điểm | 1.5 | 600 × m × a | |
+| 3 | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Trung ương Đảng/Quốc hội, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức hoặc quản lý | | 3 | 600 × m × a | Minh chứng (bản điện tử hoặc bản giấy): 
 - Trang bìa/mục lục (nếu có), 
 - Toàn văn bài tham luận/báo cáo/bài báo đã được đăng hoặc trình bày và đường link nếu có |
-| 4 | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Tỉnh ủy/Thành ủy/Hội đồng nhân dân cấp Tỉnh/thành phố trực thuộc Trung ương, Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc Trung ương tổ chức hoặc quản lý | | 1.5 | $600 \times m \times a$ | Minh chứng (bản điện tử hoặc bản giấy): 
+| 4 | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Tỉnh ủy/Thành ủy/Hội đồng nhân dân cấp Tỉnh/thành phố trực thuộc Trung ương, Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc Trung ương tổ chức hoặc quản lý | | 1.5 | 600 × m × a | Minh chứng (bản điện tử hoặc bản giấy): 
 - Trang bìa/mục lục (nếu có), 
 - Toàn văn bài tham luận/báo cáo/bài báo đã được đăng hoặc trình bày và đường link nếu có |
 | 5 |
@@ -96,15 +95,15 @@ Bảng 1. Quy đổi số giờ nghiên cứu khoa học (NCKH) đối với k�
 
 Quy định cụ thể của Bảng 1:
 1.1) Số giờ quy đổi ở các mục 1,2,3,4 (cột đầu tiên của Bảng 1) được tính cụ thể như sau:
-a) Đối với công trình khoa học có tất cả các tác giả liên hệ (ứng với mục 1, 2) hoặc tất cả các tác giả (ứng với mục 3, 4) thể hiện cơ quan công tác chỉ có các trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN, hệ số $a$ được tính bằng 2.
-b) Đối với công trình khoa học có tác giả liên hệ (ứng với mục 1, 2) thể hiện các cơ quan công tác gồm trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN và đơn vị ngoài ĐHĐN, hệ số $a$ được tính bằng 1.5.
-c) Đối với các trường hợp khác, hệ số $a$ được tính bằng 1.
+a) Đối với công trình khoa học có tất cả các tác giả liên hệ (ứng với mục 1, 2) hoặc tất cả các tác giả (ứng với mục 3, 4) thể hiện cơ quan công tác chỉ có các trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN, hệ số a được tính bằng 2.
+b) Đối với công trình khoa học có tác giả liên hệ (ứng với mục 1, 2) thể hiện các cơ quan công tác gồm trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN và đơn vị ngoài ĐHĐN, hệ số a được tính bằng 1.5.
+c) Đối với các trường hợp khác, hệ số a được tính bằng 1.
 
 1.2) Nếu một công trình khoa học có nhiều tác giả tham gia thì nhóm các tác giả chính (bao gồm các tác giả đầu và các tác giả liên hệ nếu có xác định tác giả liên hệ) được nhận 1/3 tổng số giờ quy đổi NCKH tương ứng của công trình khoa học nêu trên, trong đó số giờ NCKH quy đổi của mỗi tác giả chính là bằng nhau. Phần 2/3 số giờ quy đổi còn lại của công trình khoa học được chia đều cho tất cả các tác giả (bao gồm cả các tác giả chính và các đồng tác giả).
 Cụ thể, cách tính giờ quy đổi nêu trên của mỗi nhóm tác giả được mô tả bằng công thức tính như sau:
-+ Giờ quy đổi NCKH của mỗi tác giả chính = $\frac{B}{3n} + \frac{2B}{3p}$
-+ Giờ quy đổi của mỗi đồng tác giả = $\frac{2B}{3p}$
-Trong đó, $B$ là tổng số giờ NCKH quy đổi của 1 công trình khoa học, $n$ là tổng số lượng tác giả chính, $p$ là tổng số tác giả (gồm tác giả đầu, tác giả liên hệ và đồng tác giả) của công trình khoa học.
++ Giờ quy đổi NCKH của mỗi tác giả chính = B/3n + 2B/3p
++ Giờ quy đổi của mỗi đồng tác giả = 2B/3p
+Trong đó, B là tổng số giờ NCKH quy đổi của 1 công trình khoa học, n là tổng số lượng tác giả chính, p là tổng số tác giả (gồm tác giả đầu, tác giả liên hệ và đồng tác giả) của công trình khoa học.
 
 1.3) Trong một kết quả NCKH, chỉ có các tác giả thể hiện cơ quan công tác là trường ĐHTV, đơn vị thuộc/ trực thuộc ĐHĐN mới được tính giờ quy đổi NCKH (đối với bài báo tiếng Việt phải có tên Đại học Đà Nẵng và bài báo tiếng Anh phải có tên tiếng Anh của đơn vị được viết đúng theo quy định trong Quyết định số 639/QĐ-ĐHĐN ngày 3/2/2021 của Giám đốc ĐHĐN về việc quy định tên giao dịch tiếng Anh của Đại học Đà Nẵng, các trường ĐHTV, các đơn vị thuộc và trực thuộc, các chức danh lãnh đạo trong Đại học Đà
 
@@ -116,7 +115,6 @@ Nẵng). Đối với tác giả thể hiện cơ quan công tác thuộc đơn 
 Bảng 2. Quy định về giờ NCKH của viên chức
 
 | Nhóm | Chức danh | Định mức số giờ NCKH | Yêu cầu cụ thể |
-| :---: | :--- | :---: | :--- |
 | (a) | (b) | (c) | |
 | 1. | Giảng viên có trình độ Đại học, Thạc sĩ | 600 | Có ít nhất 01 công bố khoa học trong giai đoạn 03 năm học liền kề (năm học đang xét và 2 năm học liền kề trước đó) |
 | 2. | Giảng viên có trình độ Tiến sĩ | 600 | Có ít nhất 01 kết quả NCKH thuộc một trong 4 mục đầu tiên của Bảng 1 (mục 1, 2, 3, 4) trong giai đoạn 03 năm học liền kề (năm học đang xét và 2 năm học liền kề trước đó) |
@@ -138,14 +136,13 @@ Quy định cụ thể của Bảng 2:
 ----- [Trang 6] -----
 4
 
-san theo chế độ Nhà nước, định mức số giờ NCKH sẽ được xác định theo thời gian CBVC công tác trong năm học. Cụ thể, định mức số giờ NCKH trong năm học bằng $600 \times \frac{n}{12}$ trong đó $n$ là số tháng CBVC công tác thực tế trong năm học tại trường ĐHTV hoặc đơn vị thuộc/ trực thuộc ĐHĐN.
+san theo chế độ Nhà nước, định mức số giờ NCKH sẽ được xác định theo thời gian CBVC công tác trong năm học. Cụ thể, định mức số giờ NCKH trong năm học bằng 600 × n/12 trong đó n là số tháng CBVC công tác thực tế trong năm học tại trường ĐHTV hoặc đơn vị thuộc/ trực thuộc ĐHĐN.
 
 2.5) Số giờ NCKH được tính quy đổi trong một năm học (với định mức liên quan tại cột b) chỉ tính từ các kết quả NCKH được công bố hoặc hoàn thành trong năm học đang xét.
 
 Bảng 3. Định mức khối lượng giờ thực hiện NCKH đối với giảng viên giữ chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể
 
 | STT | Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể | Tỷ lệ % định mức |
-| :---: | :--- | :---: |
 | 1 | Chủ tịch Hội đồng ĐHĐN, Giám đốc ĐHĐN | 10% |
 | 2 | Phó Chủ tịch Hội đồng ĐHĐN, Phó Giám đốc ĐHĐN, Chủ tịch Công đoàn ĐHĐN chuyên trách, Chủ tịch Hội đồng trường ĐHTV, Hiệu trưởng trường ĐHTV và tương đương | 15% |
 | 3 | Phó Chủ tịch Hội đồng trường ĐHTV, Phó Hiệu trưởng trường ĐHTV, Thư ký Hội đồng ĐHĐN, Chánh Văn phòng Đảng ủy ĐHĐN, Chánh Văn phòng ĐHĐN, Trưởng các ban chức năng của ĐHĐN, Thủ trưởng các đơn vị trực thuộc ĐHĐN và tương đương | 20% |
@@ -172,7 +169,6 @@ Bảng 3. Định mức khối lượng giờ thực hiện NCKH đối với gi
 5
 
 | STT | Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể | Tỷ lệ % định mức |
-| :---: | :--- | :---: |
 | 16 | Phó Bí thư Đoàn Thanh niên ĐHĐN, Chủ tịch Hội sinh viên ĐHĐN | 40% |
 | 17 | Phó Chủ tịch Hội sinh viên ĐHĐN | 50% |
 | 18 | Bí thư Đoàn các trường ĐHTV và các đơn vị trực thuộc | |
@@ -209,7 +205,6 @@ PHIẾU GIẢI QUYẾT VĂN BẢN ĐẾN
 Quyết định 3237/QĐ-ĐHĐN ngày 31/7/2023 của Đại học Đà Nẵng về Phụ lục tính quy đổi giờ NCKH trong ĐHĐN thay thế Phụ lục tính quy đổi giờ NCKH đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc ĐHĐN¹
 
 | Kính chuyển²: | Ban Giám hiệu |
-| :--- | :--- |
 | Ý kiến của Ban Giám hiệu³:
 ... CTHĐT, BGĐ (để biết).
 ... P. KHCN - HTQT ()*
@@ -221,7 +216,7 @@ Quyết định 3237/QĐ-ĐHĐN ngày 31/7/2023 của Đại học Đà Nẵng v
 | Thời hạn hoàn thành: ............................................................................................................................ | |
 | Ý kiến đề xuất của người giải quyết⁶: ...................................................................................................... | |
 
-\ Đơn vị chủ trì thực hiện.*
+ Đơn vị chủ trì thực hiện.*
 ¹ Ghi tên loại; số, ký hiệu; ngày, tháng, năm; cơ quan (tổ chức) ban hành và trích yếu nội dung của văn bản đến.
 ² Phần này dành cho Trưởng Phòng TCHC: ghi rõ tên của thành viên Ban Giám hiệu sô cho ý kiến chỉ đạo đối với văn bản đến này
 ³ Ý kiến phân phối, chỉ đạo giải quyết của Ban Giám hiệu giao đơn vị, cá nhân chủ trì; các đơn vị, cá nhân tham gia phối hợp giải quyết văn bản đến (nếu có); thời hạn giải quyết đối với mỗi đơn vị, cá nhân (nếu có) và ngày tháng cho ý kiến phân phối, giải quyết, ký tên.

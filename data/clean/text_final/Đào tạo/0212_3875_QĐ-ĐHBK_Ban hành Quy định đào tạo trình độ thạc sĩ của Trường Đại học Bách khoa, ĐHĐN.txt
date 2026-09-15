@@ -159,7 +159,6 @@ e) Kết hợp đánh giá ý thức học tập chuyên cần và tính độc 
 3. Điểm học phần là tổng các điểm thành phần nhân với trọng số tương ứng, làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây.
 
 | Điểm theo thang 10 | Điểm theo thang chữ | Điểm theo thang 4 |
-| :--- | :---: | :---: |
 | Từ 9,5 đến 10,0 | A+ | 4,0 |
 | Từ 8,5 đến dưới 9,5 | A | 4,0 |
 | Từ 8,0 đến dưới 8,5 | B+ | 3,5 |
@@ -721,7 +720,6 @@ BẢNG THAM CHIẾU QUY ĐỔI MỘT SỐ VĂN BẰNG HOẶC CHỨNG CHỈ NGO�
 (Kèm theo Quyết định số 3875/QĐ-ĐHBK ngày 12 tháng 10 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
 
 | TT | Ngôn ngữ | Chứng chỉ /Văn bằng | Trình độ/Thang điểm: Tương đương Bậc 3 | Trình độ/Thang điểm: Tương đương Bậc 4 |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Tiếng Anh | TOEFL iBT | 30-45 | 46-93 |
 | | | TOEFL ITP | 450-499 | |
 | | | IELTS | 4.0 - 5.0 | 5.5 - 6.5 |
@@ -746,5 +744,4 @@ Diplôme de Langue |
 25
 
 | TT | Ngôn ngữ | Chứng chỉ /Văn bằng | Trình độ/Thang điểm: Tương đương Bậc 3 | Trình độ/Thang điểm: Tương đương Bậc 4 |
-| :--- | :--- | :--- | :--- | :--- |
 | 6 | Tiếng Nga | ТРКИ - Тест по русскому языку как иностранному | ТРКИ-1 | ТРКИ-2 |

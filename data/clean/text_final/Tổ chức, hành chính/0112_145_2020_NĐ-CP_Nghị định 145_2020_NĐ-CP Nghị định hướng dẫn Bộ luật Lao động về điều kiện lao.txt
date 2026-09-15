@@ -2106,13 +2106,12 @@ Phụ lục I
 (Kèm theo Nghị định số 145/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ)
 
 | Mẫu số | Tên báo cáo |
-| :--- | :--- |
 | Mẫu số 01/PLI | Báo cáo tình hình sử dụng lao động (do người sử dụng lao động lập) |
 | Mẫu số 02/PLI | Báo cáo tình hình sử dụng lao động (do Sở Lao động - Thương binh và Xã hội lập) |
 
 ----- [Trang 91] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 TÊN DOANH NGHIỆP, CƠ QUAN, TỔ CHỨC
 Số:..../.........
@@ -2163,7 +2162,7 @@ Ghi chú:
 - Cột (9) Chuyên môn kỹ thuật bậc cao: Nhóm này bao gồm những nghề đòi hỏi phải có kiến thức chuyên môn, nghiệp vụ và kinh nghiệm ở trình độ cao (đại học trở lên) trong lĩnh vực khoa học và kỹ thuật, sức khỏe, giáo dục, kinh doanh và quản lý, công nghệ thông tin và truyền thông, luật pháp, văn hóa, xã hội;
 - Cột (10) Chuyên môn kỹ thuật bậc trung: Nhóm này bao gồm những nghề đòi hỏi kiến thức và kinh nghiệm ở trình độ bậc trung (cao đẳng, trung cấp) về các lĩnh vực khoa học và kỹ thuật, sức khỏe, kinh doanh và quản lý, luật pháp, văn hóa, xã hội, thông tin và truyền thông, giáo viên, giáo dục, công nghệ thông tin.
 
-TRANG 2
+----- [Trang 2] -----
 
 ỦY BAN NHÂN DÂN TỈNH/ THÀNH PHỐ.....
 SỞ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI........
@@ -2203,14 +2202,13 @@ Ghi chú:
 - Cột (8) Chuyên môn kỹ thuật bậc cao: Nhóm này bao gồm những nghề đòi hỏi phải có kiến thức chuyên môn, nghiệp vụ và kinh nghiệm ở trình độ cao (đại học trở lên) trong lĩnh vực khoa học và kỹ thuật, sức khỏe, giáo dục, kinh doanh và quản lý, công nghệ thông tin và truyền thông, luật pháp, văn hóa, xã hội;
 - Cột (9) Chuyên môn kỹ thuật bậc trung: Nhóm này bao gồm những nghề đòi hỏi kiến thức và kinh nghiệm ở trình độ bậc trung (cao đẳng, trung cấp) về các lĩnh vực khoa học và kỹ thuật, sức khỏe, kinh doanh và quản lý, luật pháp, văn hóa, xã hội, thông tin và truyền thông, giáo viên, giáo dục, công nghệ thông tin.
 
-TRANG 3
+----- [Trang 3] -----
 
 Phụ lục II
 DANH MỤC CÔNG VIỆC ĐƯỢC THỰC HIỆN CHO THUÊ LẠI LAO ĐỘNG
 (Kèm theo Nghị định số 145/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ)
 
 STT | Công việc
----|---
 1 | Phiên dịch/Biên dịch/Tốc ký
 2 | Thư ký/Trợ lý hành chính
 3 | Lễ tân
@@ -2232,13 +2230,12 @@ STT | Công việc
 19 | Quản lý, giám sát, vận hành, sửa chữa, bảo dưỡng và phục vụ trên giàn khoan dầu khí
 20 | Lái tàu bay, phục vụ trên tàu bay/Bảo dưỡng, sửa chữa tàu bay và thiết bị tàu bay/Điều độ, khai thác bay/Giám sát bay
 
-TRANG 4
+----- [Trang 4] -----
 
 Phụ lục III
 (Kèm theo Nghị định số 145/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ)
 
 Mẫu số | Tên mẫu
----|---
 Mẫu số 01/PLIII | Giấy chứng nhận tiền ký quỹ hoạt động cho thuê lại lao động
 Mẫu số 02/PLIII | Văn bản rút tiền ký quỹ
 Mẫu số 03/PLIII | Quyết định trích tiền ký quỹ kinh doanh hoạt động cho thuê lại lao động
@@ -2252,7 +2249,7 @@ Mẫu số 10/PLIII | Báo cáo tổng hợp tình hình hoạt động cho thu�
 Mẫu số 11/PLIII | Báo cáo tình hình nhận tiền ký quỹ kinh doanh hoạt động cho thuê lại lao động
 Mẫu số 12/PLIII | Danh mục mã tỉnh, thành phố trực thuộc trung ương
 
-TRANG 5
+----- [Trang 5] -----
 
 TÊN NGÂN HÀNG
 Số:.............
@@ -2300,7 +2297,7 @@ Ghi chú:
 
 ----- [Trang 96] -----
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 02/PLIII
 
@@ -2340,7 +2337,7 @@ Ghi chú:
 (5) Ghi lý do rút tiền ký quỹ theo quy định tại khoản 1 Điều 18 Nghị định này.
 (6) Trường hợp cấp phó được giao ký thay thì ghi chữ viết tắt “KT.” vào trước Chủ tịch, bên dưới ghi Phó Chủ tịch.
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 03/PLIII
 
@@ -2394,7 +2391,7 @@ Ghi chú:
 (9) Chức danh người đại diện theo pháp luật của ngân hàng nhận ký quỹ.
 (10) Trường hợp cấp phó được giao ký thay thì ghi chữ viết tắt “KT.” vào trước Chủ tịch, bên dưới ghi Phó Chủ tịch.
 
-TRANG 5
+----- [Trang 5] -----
 
 Mẫu số 04/PLIII
 
@@ -2447,7 +2444,7 @@ Ghi chú:
 (11) Trường hợp cấp lại giấy phép cho thuê lại lao động mà thời hạn cấp lại có ngày lẻ không trọn tháng thì ghi rõ số tháng, số ngày.
 (12) Trường hợp cấp phó được giao ký thay thì ghi chữ viết tắt “KT.” vào trước Chủ tịch, bên dưới ghi Phó Chủ tịch.
 
-TRANG 6
+----- [Trang 6] -----
 
 Mẫu số 05/PLIII
 
@@ -2498,7 +2495,7 @@ Ghi chú:
 (8) Ghi lý do quy định tại khoản 1 Điều 27 Nghị định này nếu thuộc trường hợp cấp lại giấy phép.
 (9) Chức danh của người đại diện theo pháp luật của doanh nghiệp theo giấy chứng nhận đăng ký doanh nghiệp.
 
-TRANG 7
+----- [Trang 7] -----
 
 Mẫu số 06/PLIII
 
@@ -2546,7 +2543,7 @@ Ghi chú:
 
 ----- [Trang 101] -----
 
-TRANG 8
+----- [Trang 8] -----
 
 Mẫu số 07/PLIII
 
@@ -2583,7 +2580,7 @@ IV. LÝ LỊCH VỀ TƯ PHÁP
 ..................................................................................................................................................................
 ..................................................................................................................................................................
 
-TRANG 9
+----- [Trang 9] -----
 
 12. Vi phạm pháp luật nước ngoài (Thời gian vi phạm, mức độ vi phạm, hình thức xử lý)
 ..................................................................................................................................................................
@@ -2595,7 +2592,7 @@ Tôi xin cam đoan lời khai trên là đúng sự thật, nếu sai tôi xin c
 ..................., ngày ..... tháng ..... năm ......
 (Người khai ký, ghi rõ họ tên)
 
-TRANG 10
+----- [Trang 10] -----
 
 ỦY BAN NHÂN DÂN ... (1)
 Số: .../QĐ-UBND
@@ -2643,7 +2640,7 @@ Ghi chú:
 (6) Ghi cụ thể cơ quan, tổ chức, doanh nghiệp và cá nhân liên quan có trách nhiệm thực hiện Quyết định.
 (7) Trường hợp cấp phó được giao ký thay thì ghi chữ viết tắt “KT.” vào trước Chủ tịch, bên dưới ghi Phó Chủ tịch.
 
-TRANG 11
+----- [Trang 11] -----
 
 TÊN DOANH NGHIỆP (1)
 
@@ -2667,7 +2664,6 @@ Loại hình chủ sở hữu: (2) [ ] Doanh nghiệp nhà nước [ ] Doanh ngh
 
 (Bảng số liệu)
 Cột: Chỉ tiêu | Đầu kỳ | Tăng trong kỳ | Giảm trong kỳ | Cuối kỳ | Số lao động tham gia bảo hiểm bắt buộc (người) (3) | Ghi chú
---- | --- | --- | --- | --- | --- | ---
 1. Tổng số lao động theo hợp đồng lao động của doanh nghiệp, trong đó: | | | | | |
 a) Số lao động làm việc tại doanh nghiệp cho thuê lại (4), chia ra: | | | | | |
 - Số lao động có hợp đồng lao động không xác định thời hạn | | | | | |
@@ -2680,13 +2676,12 @@ b) Số lao động cho thuê lại, chia ra: | | | | | |
 - Trong địa bàn tỉnh | | | | | |
 - Ngoài địa bàn tỉnh | | | | | |
 
-TRANG 12
+----- [Trang 12] -----
 
 2. Tình hình hoạt động cho thuê lại lao động
 
 (Bảng số liệu)
 Cột: TT | Công việc cho thuê lại (5) | Số lượng doanh nghiệp thuê lại lao động (6) [Trong địa bàn tỉnh | Ngoài địa bàn tỉnh] | Số lao động thuê lại (người) [Trong địa bàn tỉnh | Ngoài địa bàn tỉnh] | Số lao động theo thời hạn cho thuê lại lao động (người) [Dưới 6 tháng | Từ 6-12 tháng | Khác] | Các chế độ của người lao động thuê lại [Tiền lương bình quân (đồng/người/tháng) | Thu nhập bình quân (đồng/người/tháng) | Chế độ phúc lợi] | Ghi chú
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | | | | | | | | | | | |
 2 | | | | | | | | | | | |
 
@@ -2706,7 +2701,7 @@ Ghi chú:
 
 ----- [Trang 106] -----
 
-TRANG 13
+----- [Trang 13] -----
 
 Mẫu số 10/PLIII
 
@@ -2742,7 +2737,7 @@ Hàng:
 - Doanh nghiệp bị thu hồi giấy phép
 6. Số doanh nghiệp có giấy phép đang hoạt động cuối kỳ (2)
 
-TRANG 14
+----- [Trang 14] -----
 
 2. Tình hình hoạt động cho thuê lại lao động
 
@@ -2772,7 +2767,7 @@ Ghi chú:
 (7) Số lao động thuê lại được tham gia bảo hiểm bắt buộc: bảo hiểm xã hội; bảo hiểm y tế; bảo hiểm thất nghiệp; bảo hiểm tai nạn lao động, bệnh nghề nghiệp.
 (8) Giám đốc; trường hợp cấp phó được giao ký thay thì ghi chữ viết tắt “KT.” vào trước Giám đốc, bên dưới ghi Phó Giám đốc.
 
-TRANG 15
+----- [Trang 15] -----
 
 Mẫu số 11/PLIII
 
@@ -2807,14 +2802,13 @@ Hàng:
 (Chữ ký, dấu)
 Họ và tên
 
-TRANG 16
+----- [Trang 16] -----
 
 Mẫu số 12/PLIII
 
 DANH MỤC MÃ TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG
 
 STT | Tên tỉnh, thành phố | Mã tỉnh, thành phố
----|---|---
 1 | An Giang | SAG
 2 | Bà Rịa - Vũng Tàu | SBRVT
 3 | Bắc Cạn | SBC
@@ -2849,12 +2843,11 @@ STT | Tên tỉnh, thành phố | Mã tỉnh, thành phố
 32 | Kiên Giang | SKG
 33 | Kon Tum | SKT
 
-TRANG 17
+----- [Trang 17] -----
 
 (Tiếp theo Danh mục mã tỉnh, thành phố)
 
 STT | Tên tỉnh, thành phố | Mã tỉnh, thành phố
----|---|---
 34 | Lai Châu | SLC
 35 | Lâm Đồng | SLĐ
 36 | Lạng Sơn | SLS
@@ -2888,17 +2881,16 @@ STT | Tên tỉnh, thành phố | Mã tỉnh, thành phố
 
 ----- [Trang 111] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 Phụ lục IV
 (Kèm theo Nghị định số 145/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ)
 
 | Mẫu số | Tên văn bản |
-| :--- | :--- |
 | Mẫu số 01/PLIV | Văn bản thỏa thuận làm thêm giờ |
 | Mẫu số 02/PLIV | Công văn thông báo làm thêm từ trên 200 giờ đến 300 giờ |
 
-[TRANG 2]
+----- [Trang 2] -----
 
 2
 Mẫu số 01/PLIV
@@ -2917,7 +2909,6 @@ VĂN BẢN THỎA THUẬN LÀM THÊM GIỜ (1)
 - Lý do làm thêm: ...
 
 | STT | Họ tên | Nghề, công việc đang làm (2) | Số giờ làm việc trong ngày (2) | Số giờ làm thêm (trong ngày, tuần, ...) (3) | Chữ ký của người lao động |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | | | | | | |
 | | | | | | |
@@ -2931,7 +2922,7 @@ Ghi chú:
 (2) Trường hợp đã sử dụng bảng chấm công và công việc, giờ làm việc không thay đổi trong nhiều ngày, nhiều tháng đã ghi trong bảng chấm công thì không bắt buộc có các cột này trong bản thỏa thuận.
 (3) Có thể ghi thỏa thuận riêng theo từng ngày hoặc theo tuần, theo tháng hoặc thỏa thuận kết hợp nhiều nội dung về thời giờ làm thêm.
 
-[TRANG 3]
+----- [Trang 3] -----
 
 3
 Mẫu số 02/PLIV
@@ -2953,7 +2944,6 @@ Thực hiện kế hoạch sản xuất kinh doanh năm ..., doanh nghiệp, đ�
 1. Trường hợp phải làm thêm từ trên 200 giờ đến 300 giờ trong năm:
 
 | STT | Các trường hợp phải làm thêm từ trên 200 giờ đến 300 giờ trong năm (1) | Ghi chú |
-| :--- | :--- | :--- |
 | 1. | | |
 | ... | | |
 
@@ -2973,18 +2963,17 @@ Ghi chú:
 (1) Phải phù hợp với các trường hợp được quy định.
 (2) Khuyến khích các thỏa thuận có lợi hơn cho người lao động khi tham gia làm thêm giờ, như: tăng cường bồi dưỡng bằng hiện vật, thực hiện ăn ca, tăng cường kiểm tra sức khỏe...
 
-[TRANG 4]
+----- [Trang 4] -----
 
 Phụ lục V
 (Kèm theo Nghị định số 145/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ)
 
 | Mẫu số | Tên văn bản |
-| :--- | :--- |
 | Mẫu số 01/PLV | Hợp đồng lao động giúp việc gia đình |
 | Mẫu số 02/PLV | Thông báo về việc sử dụng lao động là người giúp việc gia đình |
 | Mẫu số 03/PLV | Thông báo về việc chấm dứt hợp đồng lao động giúp việc gia đình |
 
-[TRANG 5]
+----- [Trang 5] -----
 
 2
 Mẫu số 01/PLV

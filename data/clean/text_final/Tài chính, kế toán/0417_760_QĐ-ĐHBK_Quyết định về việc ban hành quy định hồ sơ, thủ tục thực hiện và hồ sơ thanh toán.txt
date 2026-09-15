@@ -71,7 +71,6 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 *(Kèm theo Quyết định số 760 /QĐ-ĐHBK ngày 24 tháng 02 năm 2025 của Hiệu trưởng Trường Đại học Bách khoa)*
 
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Dưới 5.000.000đ. | - BGH phê duyệt đề xuất và nội dung thực hiện.
 - 01 báo giá đối với mua sắm công cụ, dụng cụ (không thông qua Tổ xét duyệt giá).
 - Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
@@ -98,7 +97,6 @@ Trang 4
 
 ----- [Trang 4] -----
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | | | - Bộ hồ sơ tư vấn thẩm định giá (*) của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm).
 - Bản vẽ thiết kế/sơ đồ nguyên lý và dự toán (đối với gói thầu sửa chữa và gia công thiết bị).
 - Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá).
@@ -127,7 +125,6 @@ Trang 5
 
 ----- [Trang 5] -----
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | | | thầu sửa chữa máy móc, thiết bị, sửa chữa xây dựng).
 - Bản vẽ thiết kế/sơ đồ nguyên lý (đối với gói thầu sửa chữa và gia công lắp đặt thiết bị).
 - Thư mời báo giá.
@@ -164,7 +161,6 @@ STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | H�
 4
 
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | 4.1 | Từ 50.000.000đ đến dưới 300.000.000đ (đối với hạng mục mua sắm, sửa chữa máy móc thiết bị) | - BGH phê duyệt chủ trương/nội dung thực hiện.
 - Biên bản kiểm tra/báo cáo hiện trạng (đối với gói thầu sửa chữa máy móc, thiết bị).
 - Thư mời báo giá.
@@ -198,7 +194,6 @@ STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | H�
 
 ----- [Trang 7] -----
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | | | - Dự thảo KHLCNT và dự toán.
 - Báo cáo thẩm định KHLCNT và dự toán.
 - Quyết định phê duyệt dự toán và KHLCNT.
@@ -234,7 +229,6 @@ STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | H�
 
 ----- [Trang 8] -----
 Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | | chữa xây dựng) | - Tờ trình phê duyệt chủ trương thực hiện.
 - Quyết định phê duyệt chủ trương thực hiện.
 - Tờ trình về việc phê duyệt KHLCNT các gói thầu giai đoạn tư vấn.
@@ -275,7 +269,6 @@ Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu m�
 
 ----- [Trang 9] -----
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | | | - Biên bản hoàn thiện hợp đồng.
 - Quyết định phê duyệt kết quả lựa chọn nhà thầu.
 - Hợp đồng.
@@ -337,7 +330,6 @@ Cung cấp chứng nhận xuất xưởng/ chứng nhận hợp quy/phiếu ki�
 BIỂU MẪU BAN HÀNH
 
 | STT | Mã hiệu | Tên biểu mẫu |
-| :---: | :---: | :--- |
 | 1 | BM.01 | Mẫu biên bản kiểm tra, báo cáo hiện trạng |
 | 2 | BM.02 | Mẫu thư mời |
 | 3 | BM.03 | Hồ sơ dự toán |

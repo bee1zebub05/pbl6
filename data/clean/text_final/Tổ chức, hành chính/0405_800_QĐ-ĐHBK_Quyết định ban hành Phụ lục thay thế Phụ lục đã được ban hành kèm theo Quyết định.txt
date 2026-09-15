@@ -69,7 +69,6 @@ Phụ lục II
 (Kèm theo Quyết định số 800/QĐ-ĐHBK ngày 01 tháng 3 năm 2024)
 
 | TT | Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể | Tỷ lệ % định mức |
-| :--- | :--- | :---: |
 | 1 | Chủ tịch Hội đồng trường, Hiệu trưởng | 15% |
 | 2 | Phó Chủ tịch Hội đồng trường, Phó Hiệu trưởng | 20% |
 | 3 | Trưởng phòng, Thư ký Hội đồng trường và tương đương | 25% |
@@ -122,7 +121,6 @@ QUY ĐỔI HOẠT ĐỘNG GIẢNG DẠY ĐẠI HỌC RA GIỜ CHUẨN GIẢNG D�
 (Kèm theo Quyết định số 800/QĐ-ĐHBK ngày 01 tháng 3 năm 2024)
 
 | TT | Nội dung công việc | Hệ số quy đổi |
-| :--- | :--- | :---: |
 | 1 | Một tiết giảng lý thuyết trực tiếp trên lớp hoặc trực tuyến cho các lớp đào tạo trình độ đại học | |
 | 1.1 | Lớp tối đa 40 sinh viên | 1 giờ chuẩn |
 | 1.2 | Lớp từ 41 đến 50 sinh viên | 1,1 giờ chuẩn |
@@ -145,16 +143,15 @@ QUY ĐỔI HOẠT ĐỘNG GIẢNG DẠY ĐẠI HỌC RA GIỜ CHUẨN GIẢNG D�
 | 3.5 | Lớp bài tập, thí nghiệm trên 36 sinh viên | 0,7 giờ chuẩn |
 | 3.6 | Lớp thực hành (CNTT) tối đa 40 sinh viên | 0,5 giờ chuẩn |
 | 3.7 | Lớp thực hành (CNTT) >40 sinh viên | 0,55 giờ chuẩn |
-| 4 | Một tiết hướng dẫn bài tập, thực hành, thí nghiệm bằng tiếng nước ngoài đối với môn học không phải là môn ngoại ngữ (nếu có nhiều người cùng hướng dẫn một môn thực hành, thí nghiệm,... thì số giờ chuẩn quy đổi chia đều cho từng người)$^1$: Số tiết quy đổi = số TC \* 30 | |
+| 4 | Một tiết hướng dẫn bài tập, thực hành, thí nghiệm bằng tiếng nước ngoài đối với môn học không phải là môn ngoại ngữ (nếu có nhiều người cùng hướng dẫn một môn thực hành, thí nghiệm,... thì số giờ chuẩn quy đổi chia đều cho từng người)^1: Số tiết quy đổi = số TC \* 30 | |
 | 4.1 | Lớp bài tập, thí nghiệm tối đa 20 sinh viên | 0,75 giờ chuẩn |
 
-*$^1$ Điều kiện thanh toán: minh chứng bài hướng dẫn TH/TN và báo cáo của sinh viên bằng tiếng nước ngoài.*
+*^1 Điều kiện thanh toán: minh chứng bài hướng dẫn TH/TN và báo cáo của sinh viên bằng tiếng nước ngoài.*
 
 ----- [Trang 6] -----
 5
 
 | TT | Nội dung công việc | Hệ số quy đổi |
-| :---: | :--- | :---: |
 | 4.2 | Lớp bài tập, thí nghiệm 21-25 sinh viên | 0,8 giờ chuẩn |
 | 4.3 | Lớp bài tập, thí nghiệm 26-30 sinh viên | 0,85 giờ chuẩn |
 | 4.4 | Lớp bài tập, thí nghiệm 31-35 sinh viên | 0,9 giờ chuẩn |
@@ -185,7 +182,6 @@ Số tiết quy đổi = số SV * 20
 
 ----- [Trang 7] -----
 TT | Nội dung công việc | Hệ số quy đổi |
-| :---: | :--- | :---: |
 | 10 | Một tiết quy đổi cho Hội đồng chấm đồ án tốt nghiệp
 Số tiết quy đổi = số SV * 3
 Hệ số của các thành viên trong hội đồng:
@@ -205,21 +201,21 @@ Số tiết quy đổi = số SV * 2
 - Thi chung: Số tiết quy đổi = 2 tiết * số đề thi/học phần (thanh toán tối đa 2 đề) | |
 | 13.2 | Ra đề thi cuối kỳ và đáp án:
 Số tiết quy đổi = 1,5 số TC số đề thi/học phần (thanh toán tối đa 2 đề)
-Đối với học phần $\ge$ 3 TC, số tiết quy đổi sẽ tính như học phần 3 TC | |
+Đối với học phần ≥ 3 TC, số tiết quy đổi sẽ tính như học phần 3 TC | |
 | 13.3 | Phản biện đề thi cuối kỳ và đáp án:
 Số tiết quy đổi = 0,5 số TC số đề thi/học phần
-Đối với học phần $\ge$ 3 TC, số tiết quy đổi sẽ tính như học phần 3 TC | |
+Đối với học phần ≥ 3 TC, số tiết quy đổi sẽ tính như học phần 3 TC | |
 | 13.4 | a) Coi thi giữa kỳ:
 Số tiết quy đổi = 1 tiết/CBCT/ca thi
 b) Coi thi cuối kỳ:
-- Số tiết quy đổi = 1 tiết/CBCT/ca thi (học phần $\le$ 1 TC)
-- Số tiết quy đổi = 1,5 tiết/CBCT/ca thi (1 TC < học phần $\le$ 2 TC)
+- Số tiết quy đổi = 1 tiết/CBCT/ca thi (học phần ≤ 1 TC)
+- Số tiết quy đổi = 1,5 tiết/CBCT/ca thi (1 TC < học phần ≤ 2 TC)
 - Số tiết quy đổi = 2 tiết/CBCT/ca thi (học phần > 2 TC)
 (CBCT: cán bộ coi thi) | |
 | 13.5 | Chấm thi giữa kỳ: Số tiết quy đổi = 1 tiết/15 bài thi | |
 | 13.6 | Chấm thi cuối kỳ:
-- Số tiết quy đổi = 1 tiết/ 15 bài thi (học phần $\le$ 1 TC)
-- Số tiết quy đổi = 1 tiết/ 10 bài thi (1 TC < học phần $\le$ 2 TC) | |
+- Số tiết quy đổi = 1 tiết/ 15 bài thi (học phần ≤ 1 TC)
+- Số tiết quy đổi = 1 tiết/ 10 bài thi (1 TC < học phần ≤ 2 TC) | |
 
 7
 
@@ -227,12 +223,11 @@ b) Coi thi cuối kỳ:
 
 ----- [Trang 8] -----
 TT | Nội dung công việc | Hệ số quy đổi |
-| :---: | :--- | :---: |
 | | - Số tiết quy đổi = 1 tiết/ 7 bài thi (học phần > 2 TC) | |
 | 13.7 | Chấm thi cuối kỳ cho thực hành, thí nghiệm: Số tiết quy đổi = 1 tiết/ 10 bài thi | |
 | 13.8 | Chấm báo cáo PBL, Thực tập, Đồ án học phần:
-- Số tiết quy đổi = 1 tiết/ 10 sinh viên (học phần $\le$ 1 TC)
-- Số tiết quy đổi = 1 tiết/ 7 sinh viên (1 TC < học phần $\le$ 2 TC)
+- Số tiết quy đổi = 1 tiết/ 10 sinh viên (học phần ≤ 1 TC)
+- Số tiết quy đổi = 1 tiết/ 7 sinh viên (1 TC < học phần ≤ 2 TC)
 - Số tiết quy đổi = 1 tiết/ 5 sinh viên (học phần > 2 TC) | |
 | 14 | Về công tác chủ nhiệm lớp, đối với giảng viên làm công tác chủ nhiệm nhiều lớp:
 - Số tiết quy đổi = 10 tiết/học kỳ/lớp * số lớp chủ nhiệm (chỉ tính với lớp thứ hai trở đi, có xác nhận hoàn thành công tác chủ nhiệm lớp của Lãnh đạo Khoa) | |
@@ -252,7 +247,6 @@ QUY ĐỔI HOẠT ĐỘNG GIẢNG DẠY SAU ĐẠI HỌC RA GIỜ CHUẨN GIẢN
 (Kèm theo Quyết định số 800/QĐ-ĐHBK ngày 01 tháng 3 năm 2024)
 
 | STT | Nội dung công việc | Hệ số quy đổi |
-| :---: | :--- | :---: |
 | 1 | Một tiết giảng chuyên đề, giảng lý thuyết trực tiếp trên lớp hoặc trực tuyến cho các lớp đào tạo trình độ thạc sĩ | |
 | 1.1 | Lớp tối đa 40 học viên | 1,5 giờ chuẩn |
 | 1.2 | Lớp từ 41 đến 50 học viên | 1,6 giờ chuẩn |
@@ -284,7 +278,6 @@ Số tiết quy đổi = Số NCS * Số tín chỉ | 3 giờ chuẩn |
 
 ----- [Trang 10] -----
 STT | Nội dung công việc | Hệ số quy đổi |
-| :---: | :--- | :---: |
 | 11 | Một tiết quy đổi cho công tác thông qua đề cương luận văn/đề án tốt nghiệp thạc sĩ (Hội đồng từ 3-5 thành viên)
 Số tiết quy đổi = Số học viên * 6
 Hệ số của các thành viên trong hội đồng:
@@ -324,7 +317,6 @@ Số tiết quy đổi = Số NCS * 24 | 1 giờ chuẩn |
 10
 
 | STT | Nội dung công việc | Hệ số quy đổi |
-| :---: | :--- | :---: |
 | 17 | Một tiết quy đổi cho công tác khảo thí 
  Số tiết quy đổi: giống trình độ đại học ở Phụ lục IV | 1,5 giờ chuẩn |
 
@@ -345,148 +337,140 @@ QUY ĐỔI HOẠT ĐỘNG NGHIÊN CỨU KHOA HỌC RA GIỜ HÀNH CHÍNH
 Bảng 1. Quy đổi số giờ nghiên cứu khoa học (NCKH) đối với kết quả NCKH
 
 | TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
-| 1. | Bài báo được đăng tại Tạp chí SCIE/SSCI/AHCI có điểm quy đổi: m = 2 điểm + điểm xếp hạng (Q) | Q1 = 1 điểm | 3 | $600 \times m \times a$ | Minh chứng thể hiện tạp chí thuộc SCIE/SSCI/AHCI/Scopus/ ESCI và phân loại Q1 đến Q4 của Scimago. 
+| 1. | Bài báo được đăng tại Tạp chí SCIE/SSCI/AHCI có điểm quy đổi: m = 2 điểm + điểm xếp hạng (Q) | Q1 = 1 điểm | 3 | 600 × m × a | Minh chứng thể hiện tạp chí thuộc SCIE/SSCI/AHCI/Scopus/ ESCI và phân loại Q1 đến Q4 của Scimago. 
  Minh chứng bài báo (bản điện tử hoặc bản giấy): 
  - Trang bìa/mục
 
 ----- [Trang 13] -----
 lục (nếu Tạp chí có), 
  - Toàn văn bài báo đã công bố và đường link bài báo đã công bố |
-| Q2 = 0.75 điểm | 2.75 | $600 \times m \times a$ | |
-| Q3 = 0.5 điểm | 2.5 | $600 \times m \times a$ | |
-| Q4 = 0.25 điểm | 2.25 | $600 \times m \times a$ | |
-| Chưa có Q = 0 điểm | 2 | $600 \times m \times a$ | |
-| 2. | Bài báo được đăng tại Tạp chí Scopus/ESCI có điểm quy đổi: m = 1.5 điểm + điểm xếp hạng (Q) | Q1 = 1 điểm | 2.5 | $600 \times m \times a$ | |
-| Q2 = 0.75 điểm | 2.25 | $600 \times m \times a$ | |
-| Q3 = 0.5 điểm | 2 | $600 \times m \times a$ | |
-| Q4 = 0.25 điểm | 1.75 | $600 \times m \times a$ | |
-| Chưa có Q = 0 điểm | 1.5 | $600 \times m \times a$ | |
-| 3. | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Trung ương Đảng/Quốc hội, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức hoặc quản lý | 3 | $600 \times m \times a$ | Minh chứng (bản điện tử hoặc bản giấy): 
+| Q2 = 0.75 điểm | 2.75 | 600 × m × a | |
+| Q3 = 0.5 điểm | 2.5 | 600 × m × a | |
+| Q4 = 0.25 điểm | 2.25 | 600 × m × a | |
+| Chưa có Q = 0 điểm | 2 | 600 × m × a | |
+| 2. | Bài báo được đăng tại Tạp chí Scopus/ESCI có điểm quy đổi: m = 1.5 điểm + điểm xếp hạng (Q) | Q1 = 1 điểm | 2.5 | 600 × m × a | |
+| Q2 = 0.75 điểm | 2.25 | 600 × m × a | |
+| Q3 = 0.5 điểm | 2 | 600 × m × a | |
+| Q4 = 0.25 điểm | 1.75 | 600 × m × a | |
+| Chưa có Q = 0 điểm | 1.5 | 600 × m × a | |
+| 3. | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Trung ương Đảng/Quốc hội, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổ chức hoặc quản lý | 3 | 600 × m × a | Minh chứng (bản điện tử hoặc bản giấy): 
  - Trang bìa/mục lục (nếu có), 
  - Toàn văn bài tham luận/báo cáo/bài báo đã được đăng hoặc trình bày và đường link nếu có |
-| 4. | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Tỉnh ủy/Thành ủy/Hội đồng nhân dân cấp Tỉnh/thành phố trực thuộc Trung ương, Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc Trung ương tổ chức hoặc quản lý | 1.5 | $600 \times m \times a$ | |
-| 5. | Công bố bài báo khoa học | Tạp chí ACI | 1.25 | $600 \times m \times a$ | - Minh chứng thể hiện tạp chí thuộc ACI. 
+| 4. | Tham luận/báo cáo/bài báo được trình bày tại các sự kiện, diễn đàn, ấn phẩm xuất bản do các cơ quan của Tỉnh ủy/Thành ủy/Hội đồng nhân dân cấp Tỉnh/thành phố trực thuộc Trung ương, Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc Trung ương tổ chức hoặc quản lý | 1.5 | 600 × m × a | |
+| 5. | Công bố bài báo khoa học | Tạp chí ACI | 1.25 | 600 × m × a | - Minh chứng thể hiện tạp chí thuộc ACI. 
  - Minh chứng bài báo: |
 
 12
 
 | TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
 | | | | | trang bìa/mục lục (nếu Tạp chí có), toàn văn bài báo. |
-| | Tạp chí quốc tế khác và các tạp chí trong danh mục hiện hành của Hội đồng Giáo sư nhà nước (HDGSNN) | Lấy điểm cao nhất theo các ngành liên quan nhưng không quá 1.2 điểm | $600 \times \text{số điểm quy đổi} \times a$ | - Trang bìa/mục lục (nếu có), toàn văn bài báo. 
+| | Tạp chí quốc tế khác và các tạp chí trong danh mục hiện hành của Hội đồng Giáo sư nhà nước (HDGSNN) | Lấy điểm cao nhất theo các ngành liên quan nhưng không quá 1.2 điểm | 600 × số điểm quy đổi × a | - Trang bìa/mục lục (nếu có), toàn văn bài báo. 
  - Nếu tạp chí/kỷ yếu hội nghị xuất bản trực tuyến thì cung cấp các trang in của website tạp chí/kỷ yếu hội nghị và chương trình hội nghị với thông tin về tên bài báo và tên tác giả |
-| | Tạp chí có ISSN khác | 0.5 | $600 \times m \times a$ | |
-| | Kỷ yếu hội thảo trong cơ sở dữ liệu WoS | 1.3 | $600 \times m \times a$ | |
-| | Kỷ yếu hội thảo trong cơ sở dữ liệu Scopus | 1.2 | $600 \times m \times a$ | |
-| | Kỷ yếu hội thảo quốc tế, quốc gia khác có ISBN | 0.8 | $600 \times m \times a$ | |
-| | Kỷ yếu hội thảo khác có ISBN | 0.4 | $600 \times m \times a$ | |
-| | Kỷ yếu hội thảo không có ISBN | 0.2 | $600 \times m \times a$ | |
-| 6. | Sở hữu trí tuệ (SHTT) | Bằng độc quyền sáng chế được công nhận | 2 | $600 \times m$ | Giấy chứng nhận của Cục Sở hữu trí tuệ |
-| | Bằng độc quyền giải pháp hữu ích được công nhận | 1 | $600 \times m$ | |
-| | Hồ sơ đăng ký | 1 | $600 \times m$ | Văn bản thể hiện hồ sơ |
+| | Tạp chí có ISSN khác | 0.5 | 600 × m × a | |
+| | Kỷ yếu hội thảo trong cơ sở dữ liệu WoS | 1.3 | 600 × m × a | |
+| | Kỷ yếu hội thảo trong cơ sở dữ liệu Scopus | 1.2 | 600 × m × a | |
+| | Kỷ yếu hội thảo quốc tế, quốc gia khác có ISBN | 0.8 | 600 × m × a | |
+| | Kỷ yếu hội thảo khác có ISBN | 0.4 | 600 × m × a | |
+| | Kỷ yếu hội thảo không có ISBN | 0.2 | 600 × m × a | |
+| 6. | Sở hữu trí tuệ (SHTT) | Bằng độc quyền sáng chế được công nhận | 2 | 600 × m | Giấy chứng nhận của Cục Sở hữu trí tuệ |
+| | Bằng độc quyền giải pháp hữu ích được công nhận | 1 | 600 × m | |
+| | Hồ sơ đăng ký | 1 | 600 × m | Văn bản thể hiện hồ sơ |
 
 ----- [Trang 14] -----
 13
 
 | TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
 | | Bằng sáng chế được chấp nhận là hợp lệ | | | hợp lệ từ cơ quan quản lý SHTT |
-| | Hồ sơ đăng ký giải pháp hữu ích được chấp nhận là hợp lệ | 0.7 | $600 \times m$ | |
-| 7. | Sáng kiến | Sáng kiến (các giải pháp kỹ thuật, giải pháp quản lý, giải pháp tác nghiệp, giải pháp ứng dụng tiến bộ kỹ thuật) được công nhận cấp cơ sở | 0.5 | $600 \times m$ | Quyết định và biên bản công nhận các cấp (nếu nhiều người tham gia thì chia theo tỷ lệ đóng góp, không xác định được tỷ lệ đóng góp thì chia đều) |
-| | Sáng kiến (các giải pháp kỹ thuật, giải pháp quản lý, giải pháp tác nghiệp, giải pháp ứng dụng tiến bộ kỹ thuật) được công nhận cấp bộ | 1 | $600 \times m$ | |
-| 8. | Xuất bản/Tái xuất bản sách, giáo trình | Sách chuyên khảo | 3 | $600 \times m$ | - Trang bìa, mục lục và trang thông tin pháp lý của sách. 
+| | Hồ sơ đăng ký giải pháp hữu ích được chấp nhận là hợp lệ | 0.7 | 600 × m | |
+| 7. | Sáng kiến | Sáng kiến (các giải pháp kỹ thuật, giải pháp quản lý, giải pháp tác nghiệp, giải pháp ứng dụng tiến bộ kỹ thuật) được công nhận cấp cơ sở | 0.5 | 600 × m | Quyết định và biên bản công nhận các cấp (nếu nhiều người tham gia thì chia theo tỷ lệ đóng góp, không xác định được tỷ lệ đóng góp thì chia đều) |
+| | Sáng kiến (các giải pháp kỹ thuật, giải pháp quản lý, giải pháp tác nghiệp, giải pháp ứng dụng tiến bộ kỹ thuật) được công nhận cấp bộ | 1 | 600 × m | |
+| 8. | Xuất bản/Tái xuất bản sách, giáo trình | Sách chuyên khảo | 3 | 600 × m | - Trang bìa, mục lục và trang thông tin pháp lý của sách. 
  - Bản sao hồ sơ thể hiện giáo trình đã được nghiệm thu tại cơ sở giáo dục đại học. 
  - Biên bản họp của Hội đồng Khoa (liên quan lĩnh vực của sách) hoặc Hội đồng KH&ĐT của đơn vị xác nhận sách là (i) chuyên khảo hoặc (ii) tham khảo |
-| | Giáo trình | 2 | $600 \times m$ | |
-| | Sách tham khảo/ sách bài tập | 1.5 | $600 \times m$ | |
-| | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ | 1 | $600 \times m$ | |
+| | Giáo trình | 2 | 600 × m | |
+| | Sách tham khảo/ sách bài tập | 1.5 | 600 × m | |
+| | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ | 1 | 600 × m | |
 
 ----- [Trang 15] -----
 14
 
 | TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
 | | liệu của WoS, Scopus) | | | |
-| | Tái bản sách chuyên khảo | $b \times 3$ | $600 \times m$ | $b$ là tỷ lệ % viết mới (có xác nhận của Hội đồng Khoa) |
-| | Tái bản giáo trình | $b \times 2$ | $600 \times m$ | - Trang bìa, mục lục và trang thông tin pháp lý của giáo trình/sách. 
+| | Tái bản sách chuyên khảo | b × 3 | 600 × m | b là tỷ lệ % viết mới (có xác nhận của Hội đồng Khoa) |
+| | Tái bản giáo trình | b × 2 | 600 × m | - Trang bìa, mục lục và trang thông tin pháp lý của giáo trình/sách. 
  - Bản sao quyết định và biên bản họp của Hội đồng trường công nhận nội dung tái bản |
-| | Tái bản sách tham khảo | $b \times 1.5$ | $600 \times m$ | |
-| | Tái bản một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của WoS, Scopus) | $b \times 1$ | $600 \times m$ | |
-| 9. | Nhiệm vụ KHCN/ Đổi mới sáng tạo (ĐMST) các cấp | Đề xuất nhiệm vụ KHCN/ ĐMST cấp đơn vị được đưa vào danh mục được giao tuyển chọn thực hiện của trường | 0.05 | $600 \times m$ | Minh chứng bản đề xuất, có danh mục tuyển chọn thực hiện và chỉ được tính 1 lần |
-| | Đề xuất nhiệm vụ KHCN/ĐMST cấp ĐHĐN, cấp bộ, cấp tỉnh/địa phương, doanh nghiệp được đưa vào danh mục được giao tuyển chọn thực hiện | 0.1 | $600 \times m$ | - Đề xuất Chương trình KHCN/ĐMST, dự án SXTN |
-| | - Đề xuất Chương trình KHCN/ĐMST, dự án SXTN | 0.3 | $600 \times m$ | |
+| | Tái bản sách tham khảo | b × 1.5 | 600 × m | |
+| | Tái bản một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của WoS, Scopus) | b × 1 | 600 × m | |
+| 9. | Nhiệm vụ KHCN/ Đổi mới sáng tạo (ĐMST) các cấp | Đề xuất nhiệm vụ KHCN/ ĐMST cấp đơn vị được đưa vào danh mục được giao tuyển chọn thực hiện của trường | 0.05 | 600 × m | Minh chứng bản đề xuất, có danh mục tuyển chọn thực hiện và chỉ được tính 1 lần |
+| | Đề xuất nhiệm vụ KHCN/ĐMST cấp ĐHĐN, cấp bộ, cấp tỉnh/địa phương, doanh nghiệp được đưa vào danh mục được giao tuyển chọn thực hiện | 0.1 | 600 × m | - Đề xuất Chương trình KHCN/ĐMST, dự án SXTN |
+| | - Đề xuất Chương trình KHCN/ĐMST, dự án SXTN | 0.3 | 600 × m | |
 
 ----- [Trang 16] -----
 15
 
-| TT | Loại kết quả NCKH | Số điểm quy đổi ($m$) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
+| TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
 | | (cấp bộ, cấp ĐHĐN, tỉnh/ địa phương)
 - Đề xuất nhiệm vụ KHCN/ĐMST cấp nhà nước/ quốc gia, nghị định thư, Nafosted, dự án KHCN hợp tác quốc tế | | | |
-| | Hoàn thành đề tài KHCN/ĐMST cấp đơn vị | 0.1 | $600 \times m$ | Quyết định giao đề tài hoặc hợp đồng triển khai, Quyết định thành lập hội đồng nghiệm thu, biên bản nghiệm thu, giấy xác nhận hoàn thành đề tài. |
-| | Hoàn thành đề tài KHCN/ĐMST cấp ĐHĐN, cấp bộ, chương trình KHCN cấp bộ, cấp tỉnh/địa phương, doanh nghiệp | 0.2 | $600 \times m$ | |
-| | Hoàn thành chương trình KHCN/ĐMST, nhiệm vụ KHCN cấp nhà nước/quốc gia, nghị định thư, dự án sản xuất thử nghiệm, Nafosted, dự án KHCN hợp tác quốc tế | 0.4 | $600 \times m$ | |
+| | Hoàn thành đề tài KHCN/ĐMST cấp đơn vị | 0.1 | 600 × m | Quyết định giao đề tài hoặc hợp đồng triển khai, Quyết định thành lập hội đồng nghiệm thu, biên bản nghiệm thu, giấy xác nhận hoàn thành đề tài. |
+| | Hoàn thành đề tài KHCN/ĐMST cấp ĐHĐN, cấp bộ, chương trình KHCN cấp bộ, cấp tỉnh/địa phương, doanh nghiệp | 0.2 | 600 × m | |
+| | Hoàn thành chương trình KHCN/ĐMST, nhiệm vụ KHCN cấp nhà nước/quốc gia, nghị định thư, dự án sản xuất thử nghiệm, Nafosted, dự án KHCN hợp tác quốc tế | 0.4 | 600 × m | |
 | 10. | Hoàn tất hợp đồng tư vấn, chuyển giao công nghệ | Đơn vị tư vấn, chuyển giao công nghệ là:
-- Trường đại học thành viên | Giá trị hợp đồng/ 300 triệu đồng | $600 \times$ số điểm quy đổi | Bản sao hợp đồng chuyển giao công nghệ và thanh lý hợp đồng |
+- Trường đại học thành viên | Giá trị hợp đồng/ 300 triệu đồng | 600 × số điểm quy đổi | Bản sao hợp đồng chuyển giao công nghệ và thanh lý hợp đồng |
 
 ----- [Trang 17] -----
 16
 
-| TT | Loại kết quả NCKH | Số điểm quy đổi ($m$) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
+| TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
 | | ĐHĐN (hoặc đơn vị trực thuộc trường đại học thành viên),
 -Đơn vị trực thuộc ĐHĐN,
 -ĐHĐN | | | |
-| 11. | Báo cáo khoa học tại khoa | 0.025 | $600 \times m$ | Giấy xác nhận của phòng quản lý KHCN, nội dung báo cáo |
-| 12. | Hướng dẫn sinh viên tham gia: NCKH, DMST, bồi dưỡng sinh viên tham gia các kỳ thi Olympic, cuộc thi SV giỏi đạt giải. Công trình NCKH, tác phẩm nghệ thuật đạt giải | Đạt giải thưởng cấp khoa | 0.1 | $600 \times m$ | Quyết định giao hướng dẫn, minh chứng giải thưởng (giấy khen, Quyết định công nhận..). |
-| | Đạt giải thưởng cấp trường hoặc tương đương | 0.15 | $600 \times m$ | |
-| | Đạt giải thưởng cấp ĐHĐN, thành phố, tỉnh | 0.25 | $600 \times m$ | |
-| | Đạt giải thưởng cấp bộ, quốc gia | 0.5 | $600 \times m$ | |
-| | Đạt giải thưởng cấp quốc tế | 1 | $600 \times m$ | |
-| | Sinh viên không đạt giải | 0.05 | $600 \times m$ | |
-| 13. | Công tác phản biện khoa học | Tạp chí uy tín thế giới (SCIE, SSCI, AHCI, Scopus, ESCI, tạp chí trong ĐHĐN thuộc danh mục ACI) | 0.07 | $600 \times m$ | Thư mời phản biện của tạp chí; Giấy xác nhận từ Ban biên tập của tạp chí |
-| | Tạp chí trong danh mục hiện hành của hội đồng Giáo sư | Lấy điểm cao nhất theo các | $600 \times m$ | |
+| 11. | Báo cáo khoa học tại khoa | 0.025 | 600 × m | Giấy xác nhận của phòng quản lý KHCN, nội dung báo cáo |
+| 12. | Hướng dẫn sinh viên tham gia: NCKH, DMST, bồi dưỡng sinh viên tham gia các kỳ thi Olympic, cuộc thi SV giỏi đạt giải. Công trình NCKH, tác phẩm nghệ thuật đạt giải | Đạt giải thưởng cấp khoa | 0.1 | 600 × m | Quyết định giao hướng dẫn, minh chứng giải thưởng (giấy khen, Quyết định công nhận..). |
+| | Đạt giải thưởng cấp trường hoặc tương đương | 0.15 | 600 × m | |
+| | Đạt giải thưởng cấp ĐHĐN, thành phố, tỉnh | 0.25 | 600 × m | |
+| | Đạt giải thưởng cấp bộ, quốc gia | 0.5 | 600 × m | |
+| | Đạt giải thưởng cấp quốc tế | 1 | 600 × m | |
+| | Sinh viên không đạt giải | 0.05 | 600 × m | |
+| 13. | Công tác phản biện khoa học | Tạp chí uy tín thế giới (SCIE, SSCI, AHCI, Scopus, ESCI, tạp chí trong ĐHĐN thuộc danh mục ACI) | 0.07 | 600 × m | Thư mời phản biện của tạp chí; Giấy xác nhận từ Ban biên tập của tạp chí |
+| | Tạp chí trong danh mục hiện hành của hội đồng Giáo sư | Lấy điểm cao nhất theo các | 600 × m | |
 
 ----- [Trang 18] -----
 17
 
-| TT | Loại kết quả NCKH | Số điểm quy đổi ($m$) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
+| TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
 | | nhà nước ngành liên quan nhưng không quá 1 điểm và nhân thêm 1/20 | ngành liên quan nhưng không quá 1 điểm và nhân thêm 1/20 | | |
-| | Kỷ yếu hội thảo trong cơ sở dữ liệu WoS/ Scopus | 0.05 | $600 \times m$ | |
-| | Kỷ yếu hội thảo khác có ISBN | 0.025 | $600 \times m$ | |
-| | Sách chuyên khảo | 0.15 | $600 \times m$ | Thư mời phản biện; Quyết định lập Hội đồng phân phản biện sách/Giáo trình; xác nhận của cấp có thẩm quyền |
-| | Giáo trình | 0.1 | $600 \times m$ | |
-| | Sách tham khảo | 0.075 | $600 \times m$ | |
-| | Cấp Bộ, Thành phố | 0.075 - 0.15 | $600 \times m$ | |
-| | Cấp đơn vị thành viên, trực thuộc ĐHĐN và cấp ĐHĐN, Sở, Ban ngành | 0.05 - 0.1 | $600 \times m$ | |
-| 14. | Tác phẩm nghệ thuật tham gia triển lãm và được tính cho 1 lần triển lãm | Cấp Quốc tế | 0.5 | $600 \times m$ | Hình ảnh, thư mời hoặc giấy xác nhận về triển lãm |
-| | Cấp Quốc gia | 0.25 | $600 \times m$ | |
-| | Cấp Tỉnh/thành phố | 0.125 | $600 \times m$ | |
-| 15. | Khen thưởng đề tài KH&CN | Đề tài cấp cơ sở | | 10% $\times$ 150 | - Thưởng 10% số giờ quy đổi
+| | Kỷ yếu hội thảo trong cơ sở dữ liệu WoS/ Scopus | 0.05 | 600 × m | |
+| | Kỷ yếu hội thảo khác có ISBN | 0.025 | 600 × m | |
+| | Sách chuyên khảo | 0.15 | 600 × m | Thư mời phản biện; Quyết định lập Hội đồng phân phản biện sách/Giáo trình; xác nhận của cấp có thẩm quyền |
+| | Giáo trình | 0.1 | 600 × m | |
+| | Sách tham khảo | 0.075 | 600 × m | |
+| | Cấp Bộ, Thành phố | 0.075 - 0.15 | 600 × m | |
+| | Cấp đơn vị thành viên, trực thuộc ĐHĐN và cấp ĐHĐN, Sở, Ban ngành | 0.05 - 0.1 | 600 × m | |
+| 14. | Tác phẩm nghệ thuật tham gia triển lãm và được tính cho 1 lần triển lãm | Cấp Quốc tế | 0.5 | 600 × m | Hình ảnh, thư mời hoặc giấy xác nhận về triển lãm |
+| | Cấp Quốc gia | 0.25 | 600 × m | |
+| | Cấp Tỉnh/thành phố | 0.125 | 600 × m | |
+| 15. | Khen thưởng đề tài KH&CN | Đề tài cấp cơ sở | | 10% × 150 | - Thưởng 10% số giờ quy đổi
 - Quyết định và biên bản nghiệm thu đề tài |
-| | Đề tài cấp ĐHĐN, cấp bộ, cấp tỉnh/địa phương | | 10% $\times$ 300 | |
-| | Đề tài cấp nhà nước/ quốc gia, | | 10% $\times$ 600 | |
+| | Đề tài cấp ĐHĐN, cấp bộ, cấp tỉnh/địa phương | | 10% × 300 | |
+| | Đề tài cấp nhà nước/ quốc gia, | | 10% × 600 | |
 
 ----- [Trang 19] -----
 18
 
-| TT | Loại kết quả NCKH | Số điểm quy đổi ($m$) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
-| :---: | :--- | :---: | :---: | :--- |
-| | nghị định thư, chương trình KHCN, dự án sản xuất thử nghiệm, Nafosted, dự án KHCN hợp tác quốc tế | | 10% $\times$ 600 | |
+| TT | Loại kết quả NCKH | Số điểm quy đổi (m) | Số giờ NCKH quy đổi | Minh chứng kết quả NCKH |
+| | nghị định thư, chương trình KHCN, dự án sản xuất thử nghiệm, Nafosted, dự án KHCN hợp tác quốc tế | | 10% × 600 | |
 
 Quy định cụ thể của Bảng 1:
 1.1) Số giờ quy đổi ở các mục 1,2,3,4,5 (cột đầu tiên của Bảng 1) được tính cụ thể như sau:
-a) Đối với công trình khoa học có tất cả các tác giả liên hệ (ứng với mục 1, 2) hoặc tất cả các tác giả (ứng với mục 3, 4,5) thể hiện cơ quan công tác chỉ có các trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN, hệ số $a$ được tính bằng 2.
-b) Đối với công trình khoa học có tác giả liên hệ (ứng với mục 1, 2) thể hiện các cơ quan công tác gồm trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN và đơn vị ngoài ĐHĐN, hệ số $a$ được tính bằng 1.5
-c) Đối với các trường hợp khác, hệ số $a$ được tính bằng 1.
+a) Đối với công trình khoa học có tất cả các tác giả liên hệ (ứng với mục 1, 2) hoặc tất cả các tác giả (ứng với mục 3, 4,5) thể hiện cơ quan công tác chỉ có các trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN, hệ số a được tính bằng 2.
+b) Đối với công trình khoa học có tác giả liên hệ (ứng với mục 1, 2) thể hiện các cơ quan công tác gồm trường đại học thành viên, đơn vị thuộc/trực thuộc ĐHĐN và đơn vị ngoài ĐHĐN, hệ số a được tính bằng 1.5
+c) Đối với các trường hợp khác, hệ số a được tính bằng 1.
 
 1.2) Nếu một công trình khoa học có nhiều tác giả tham gia thì nhóm các tác giả chính (bao gồm các tác giả đầu và các tác giả liên hệ nếu có xác định tác giả liên hệ) được nhận 1/3 tổng số giờ quy đổi NCKH tương ứng của công trình khoa học nêu trên, trong đó số giờ quy đổi của mỗi tác giả chính là bằng nhau. Phần 2/3 số giờ quy đổi còn lại của công trình khoa học được chia đều cho tất cả các tác giả (bao gồm cả các tác giả chính và các đồng tác giả).
 Cụ thể, cách tính giờ quy đổi nêu trên của mỗi nhóm tác giả được mô tả bằng công thức tính như sau:
-+ Giờ quy đổi NCKH của mỗi tác giả chính = $\frac{B}{3n} + \frac{2B}{3p}$
-+ Giờ quy đổi của mỗi đồng tác giả = $\frac{2B}{3p}$
-Trong đó, $B$ là tổng số giờ NCKH quy đổi của 1 công trình khoa học, $n$ là tổng số lượng tác giả chính, $p$ là tổng số tác giả (gồm tác giả đầu, tác giả liên hệ và đồng tác giả) của công trình khoa học.
++ Giờ quy đổi NCKH của mỗi tác giả chính = B/3n + 2B/3p
++ Giờ quy đổi của mỗi đồng tác giả = 2B/3p
+Trong đó, B là tổng số giờ NCKH quy đổi của 1 công trình khoa học, n là tổng số lượng tác giả chính, p là tổng số tác giả (gồm tác giả đầu, tác giả liên hệ và đồng tác giả) của công trình khoa học.
 - Đối với sản phẩm SHTT không thể hiện tác giả chính và tỷ lệ đóng góp của mỗi tác giả, số điểm quy đổi NCKH của mỗi tác giả được tính bằng số điểm quy đổi của sản phẩm SHTT chia đều cho số lượng tác giả. Đối với sản phẩm SHTT có thể hiện đơn vị nộp hồ sơ là Trường Đại học Bách khoa – ĐHĐN: điểm quy đổi công trình được nhân thêm hệ số 2.
 
 1.3) Trong một kết quả NCKH, chỉ có các tác giả thể hiện cơ quan công tác là trường DHTV, đơn vị thuộc/ trực thuộc ĐHĐN mới được tính giờ quy đổi NCKH (đối với bài báo tiếng Việt phải có tên Đại học Đà Nẵng và bài báo tiếng Anh phải có tên tiếng Anh của đơn vị được viết đúng theo quy định trong Quyết định số...
@@ -500,7 +484,6 @@ Trong đó, $B$ là tổng số giờ NCKH quy đổi của 1 công trình khoa 
 Bảng 2. Quy định về NCKH của viên chức
 
 | TT | Chức danh | Định mức số giờ NCKH | Yêu cầu cụ thể |
-| :---: | :--- | :---: | :--- |
 | (a) | (b) | (c) | |
 | 1. | Giảng viên có trình độ Đại học, Thạc sĩ | 600 | Có ít nhất 01 công bố khoa học trong giai đoạn 03 năm học liền kề (năm học đang xét và 2 năm học liền kề trước đó) |
 | 2. | Giảng viên có trình độ Tiến sĩ | 600 | Có ít nhất 01 kết quả NCKH thuộc một trong 4 mục đầu tiên của Bảng 1 (mục 1,2,3,4) trong giai đoạn 03 năm học liền kề (năm học đang xét và 2 năm học liền kề trước đó) |
@@ -514,7 +497,7 @@ Quy định cụ thể của Bảng 2:
 2.2) Đối với cán bộ viên chức (CBVC) thuộc trường hợp đặc biệt (không đáp ứng yêu cầu cụ thể cột c của Bảng 2), Hiệu trưởng các trường DHTV ĐHĐN quyết định loại...
 
 ----- [Trang 21] -----
-TRANG 20
+----- [Trang 20] -----
 
 20
 hình kết quả khoa học công nghệ (KHCN) khác để thay thế. Số lượng CBVC được áp dụng quy định thay thế của mỗi nhóm trong Bảng 2 không vượt quá 1/3 tổng số lượng CBVC thuộc nhóm đó của mỗi trường ĐHTV ĐHĐN. Đối với khối các đơn vị thuộc/ trực thuộc ĐHĐN, Giám đốc ĐHĐN quyết định loại hình khác để thay thế trên cơ sở đề xuất của thủ trưởng đơn vị thuộc/trực thuộc ĐHĐN.
@@ -523,13 +506,13 @@ hình kết quả khoa học công nghệ (KHCN) khác để thay thế. Số l�
 - Đối với viên chức thuộc trường ĐHTV ĐHĐN, Hiệu trưởng trường ĐHTV quyết định.
 - Đối với viên chức thuộc khối các đơn vị thuộc/trực thuộc ĐHĐN, Giám đốc ĐHĐN quyết định.
 
-2.4) Đối với CBVC tham gia công tác một phần thời gian của năm học (phần còn lại đi học, công tác ở đơn vị ngoài ĐHĐN hoặc nước ngoài theo Quyết định cử đi học hoặc cử đi công tác của cấp có thẩm quyền) hoặc đối với CBVC là nữ đang trong thời gian nghỉ thai sản theo chế độ Nhà nước, định mức số giờ NCKH sẽ được xác định theo thời gian CBVC công tác trong năm học. Cụ thể, định mức số giờ NCKH trong năm học bằng $600 \times \frac{n}{12}$, trong đó $n$ là số tháng CBVC công tác thực tế trong năm học tại trường ĐHTV hoặc đơn vị thuộc/ trực thuộc ĐHĐN.
+2.4) Đối với CBVC tham gia công tác một phần thời gian của năm học (phần còn lại đi học, công tác ở đơn vị ngoài ĐHĐN hoặc nước ngoài theo Quyết định cử đi học hoặc cử đi công tác của cấp có thẩm quyền) hoặc đối với CBVC là nữ đang trong thời gian nghỉ thai sản theo chế độ Nhà nước, định mức số giờ NCKH sẽ được xác định theo thời gian CBVC công tác trong năm học. Cụ thể, định mức số giờ NCKH trong năm học bằng 600 × n/12, trong đó n là số tháng CBVC công tác thực tế trong năm học tại trường ĐHTV hoặc đơn vị thuộc/ trực thuộc ĐHĐN.
 
 Trường hợp CBVC có thay đổi chức vụ, chức danh trong năm học, định mức giờ NCKH được tính (tăng hoặc giảm) theo số tháng thay đổi trong năm học.
 
 2.5) Số giờ NCKH được tính quy đổi trong một năm học (với định mức liên quan tới cột b) chỉ tính từ các kết quả NCKH được công bố hoặc hoàn thành trong năm học đang xét.
 
-TRANG 21
+----- [Trang 21] -----
 
 ----- [Trang 22] -----
 21
@@ -539,7 +522,6 @@ QUY ĐỔI CÁC HOẠT ĐỘNG PHỤC VỤ CỘNG ĐỒNG VÀ THỰC HIỆN NHI�
 (Kèm theo Quyết định số 800/QĐ-ĐHBK ngày 01 tháng 3 năm 2024)
 
 | TT | Công việc | Số giờ hành chính | Ghi chú/ Minh chứng |
-| :--- | :--- | :--- | :--- |
 | A. | Nhiệm vụ chung liên quan đến chuyên môn, nghiệp vụ | | |
 | 1 | Xây dựng video bài giảng phục vụ giảng dạy E-learning | 30 giờ / 1 tín chỉ | Video bài giảng |
 | 2 | Cải tiến chương trình đào tạo theo Kế hoạch của Trường: | 1.800 giờ / CTĐT
@@ -571,7 +553,6 @@ TRANG
 22
 
 | TT | Công việc | Số giờ hành chính | Ghi chú/ Minh chứng |
-| :--- | :--- | :--- | :--- |
 | 8 | Viết bài báo, hoặc đi báo cáo về lĩnh vực giáo dục hoặc chuyên ngành, dưới danh nghĩa Trường (không phải báo NCKH, không phải báo mạng) | 10 giờ / bài | Bài trong nước |
 | 20 giờ / bài | Bài quốc tế |
 | 9 | Xây dựng và tham gia nhóm nghiên cứu mạnh, dự án quốc tế/ quốc gia/ tỉnh/ thành mang danh nghĩa Trường | (30-50) giờ / năm | Có quyết định thành lập nhóm và hoạt động thực tế được công nhận |
@@ -590,7 +571,6 @@ TRANG
 23
 
 | TT | Công việc | Số giờ hành chính | Ghi chú/ Minh chứng |
-| :--- | :--- | :--- | :--- |
 | | công việc đương nhiệm (ví dụ: khóa bồi dưỡng kỹ năng sư phạm; khóa bồi dưỡng kỹ năng an toàn thông tin; khóa bồi dưỡng kỹ năng sử dụng hệ thống giảng dạy trực tuyến,...) do Trường tổ chức | | |
 | 15 | Chứng nhận bồi dưỡng chuyên môn, nghiệp vụ (ví dụ: khóa bồi dưỡng kỹ năng sư phạm; khóa bồi dưỡng kỹ năng an toàn thông tin; khóa bồi dưỡng kỹ năng sử dụng hệ thống giảng dạy trực tuyến,...) do đơn vị ngoài Trường tổ chức | Theo số thời gian thực tế trong quyết định | Bản sao Chứng nhận
 Trước khi tham dự phải có ý kiến đồng ý của Khoa/ Bộ môn và phải đảm bảo việc giảng dạy tại Trường |
@@ -609,7 +589,6 @@ TRANG
 24
 
 | TT | Công việc | Số giờ hành chính | Ghi chú/ Minh chứng |
-| :--- | :--- | :--- | :--- |
 | | về lớp học phần và đánh giá khóa học | Báo cáo khảo sát: 8 giờ/ CTĐT | |
 | 22 | Xây dựng bài giảng học phần mới | 1/2 của giáo trình | Biên bản họp Bộ môn/ Khoa |
 | 23 | Các hoạt động phục vụ cộng đồng khác | tối đa 20 giờ / năm | Khoa quyết định. Giảng viên cung cấp minh chứng và Trưởng Khoa chịu trách nhiệm phê duyệt. |
@@ -626,7 +605,6 @@ TRANG
 
 ----- [Trang 26] -----
 | TT | Công việc | Số giờ hành chính | Ghi chú/ Minh chứng |
-| :--- | :--- | :--- | :--- |
 | 7 | Tham gia các hoạt động văn thể mỹ, sự kiện chung của Trường hoặc đơn vị. | 10 giờ / hoạt động, không quá 50 giờ /năm | Do Công đoàn chấm điểm và xác nhận. |
 | 8 | Lập báo cáo hàng năm đánh giá chương trình đào tạo | 120 giờ /CTĐT | Báo cáo theo quy định hiện hành. Trường đơn vị căn cứ mức độ tham gia của các giảng viên để phân bổ số giờ quy đổi. Quyết định cử tham dự (theo tỷ lệ theo nhiệm vụ) |
 | 9 | Lập báo cáo đánh giá chương trình đào tạo (khi có sinh viên của khóa học tốt nghiệp) | 1800 giờ /CTĐT | Báo cáo có nội dung thỏa mãn các yêu cầu tại quy định hiện hành của cơ quan cấp trên. Trường đơn vị căn cứ mức độ tham gia của các giảng viên (kể cả ngoài đơn vị) để phân bổ số giờ quy đổi. |
@@ -642,7 +620,6 @@ TRANG
 
 ----- [Trang 27] -----
 TT | Công việc | Số giờ hành chính | Ghi chú/ Minh chứng |
-| :--- | :--- | :--- | :--- |
 | 14 | Xây dựng báo cáo tự đánh giá CTĐT phục vụ đánh giá ngoài | 2000 giờ/CTĐT | Báo cáo tự đánh giá. Khoa quyết định giờ cho cán bộ tham gia. |
 | 15 | Tham gia Hội đồng đảm bảo chất lượng cấp Trường | 30 giờ /năm | Chủ tịch |
 | 25 giờ /năm | Phó chủ tịch |
@@ -687,7 +664,6 @@ Năm học: 202.... - 202.....
 3. Kết quả thực hiện nhiệm vụ giảng viên trong năm học:
 
 | TT | Nội dung | Giờ nghĩa vụ trong năm | Kế hoạch (được Khoa/Bộ môn thông qua) | Kết quả đạt được |
-| :---: | :--- | :---: | :---: | :---: |
 | 1 | Nhiệm vụ giảng dạy | | | |
 | a) | Giảng dạy lý thuyết | | | |
 | b) | Hướng dẫn bài tập; thí nghiệm; thực hành | | | |
@@ -709,5 +685,4 @@ Năm học: 202.... - 202.....
 Đà Nẵng, ngày ....... tháng ....... năm 202...
 
 | Xác nhận của Trưởng bộ môn | Xác nhận của Trưởng Khoa | Người báo cáo |
-| :---: | :---: | :---: |
 | (Ký) | (Ký) | (Ký) |

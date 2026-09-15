@@ -54,7 +54,6 @@ PHẦN I. DANH MỤC THỦ TỤC HÀNH CHÍNH (TTHC)
 A. DANH MỤC TTHC NỘI BỘ NHÓM A
 
 | TT | Tên TTHC | Lĩnh vực | Cơ quan thực hiện |
-|---|---|---|---|
 | I | TTHC cấp Bộ | | |
 | 1 | Phê duyệt, ban hành tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng lĩnh vực giáo dục - đào tạo | Giáo dục và Đào tạo | Bộ GDĐT |
 | II | TTHC cấp tỉnh | | |
@@ -63,7 +62,6 @@ A. DANH MỤC TTHC NỘI BỘ NHÓM A
 B. DANH MỤC TTHC NỘI BỘ NHÓM B
 
 | TT | Tên TTHC | Lĩnh vực | Cơ quan thực hiện |
-|---|---|---|---|
 | I | TTHC thuộc thẩm quyền giải quyết của Bộ GDĐT | | |
 | 1 | Xây dựng kế hoạch đầu tư công trung hạn nguồn ngân sách nhà nước của Bộ GDĐT | Kế hoạch và Đầu tư | Bộ GDĐT |
 | 2 | Xây dựng kế hoạch đầu tư công hằng năm vốn ngân sách nhà nước | Kế hoạch và Đầu tư | Bộ GDĐT |
@@ -76,7 +74,6 @@ B. DANH MỤC TTHC NỘI BỘ NHÓM B
 (Trang 3)
 
 | TT | Tên TTHC | Lĩnh vực | Cơ quan thực hiện |
-|---|---|---|---|
 | |
 
 ----- [Trang 3] -----
@@ -99,7 +96,6 @@ tư công tại nước ngoài | và Đầu tư | |
 (Trang 4)
 
 | TT | Tên TTHC | Lĩnh vực | Cơ quan thực hiện |
-|---|---|---|---|
 | |
 
 ----- [Trang 4] -----
@@ -126,7 +122,6 @@ mời quan tâm | và Đầu tư | |
 (Trang 5)
 
 | TT | Tên TTHC | Lĩnh vực | Cơ quan thực hiện |
-|---|---|---|---|
 | | trường phổ thông có nhiều cấp học (cấp học cao nhất là THPT) đạt tiêu chuẩn Mức độ 1 | và Đào tạo | |
 | 2 | Công nhận thư viện trường THPT và trường phổ thông có nhiều cấp học (cấp học cao nhất là THPT) đạt tiêu chuẩn Mức độ 2 | Giáo dục và Đào tạo | Sở GDĐT |
 | 3 | Công nhận thư viện trường mầm non, tiểu học, trung học cơ sở và trường phổ thông có nhiều cấp học (cấp học cao nhất là THCS) đạt tiêu chuẩn Mức độ 1 | Giáo dục và Đào tạo | Phòng GDĐT |
@@ -1917,14 +1912,12 @@ Thống kê kết quả thực hiện công tác đấu thầu theo Bảng sau:
 Bảng thống kê kết quả thực hiện công tác đấu thầu3
 
 | Nội dung thống kê | Tổng số | Hàng hóa | Xây lắp | Phi tư vấn | Tư vấn | Hỗn hợp |
-|---|---|---|---|---|---|---|
 
 3 Chủ đầu tư trích xuất bảng thống kê từ Hệ thống mạng đấu thầu quốc gia. Thời gian trích xuất là 5 năm tính đến ngày lập kế hoạch tổng thể lựa chọn nhà thầu; trường hợp 5 năm trước đó là trước ngày 16/9/2022 thì tính từ ngày 16/9/2022.
 
 ----- [Trang 64] -----
 63
 | Nội dung thống kê | Tổng số | Hàng hóa | Xây lắp | Phi tư vấn | Tư vấn | Hỗn hợp |
-|---|---|---|---|---|---|---|
 | Tổng số gói thầu | | | | | | |
 | Tổng số gói thầu đã có kết quả lựa chọn nhà thầu | | | | | | |
 | Tỷ lệ tiết kiệm trung bình | | | | | | |
@@ -1988,7 +1981,6 @@ DANH MỤC TÀI LIỆU
 (Kèm theo Tờ trình phê duyệt kế hoạch tổng thể lựa chọn nhà thầu)
 
 | STT | Nội dung | Ghi chú |
-| :---: | :--- | :---: |
 | 1 | Quyết định chủ trương đầu tư chương trình, dự án | Bản chụp |
 | 2 | Quyết định phê duyệt dự án (nếu có) | Bản chụp |
 | 3 | Điều ước quốc tế, thỏa thuận vay đối với dự án sử dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài (nếu có) | Bản chụp |
@@ -2100,7 +2092,6 @@ III. Phần công việc đã thực hiện(1)
 
 Bảng số 1
 | STT | Nội dung công việc hoặc tên gói thầu(2) | Đơn vị thực hiện(3) | Giá trị(4) | Văn bản phê duyệt(5) |
-|---|---|---|---|---|
 | 1 | | | | |
 | 2 | | | | |
 | ... | | | | |
@@ -2118,7 +2109,6 @@ IV. Phần công việc không áp dụng được một trong các hình thức
 
 Bảng số 2
 | STT | Nội dung công việc(2) | Đơn vị thực hiện(3) | Giá trị(4) |
-|---|---|---|---|
 
 ----- [Trang 72] -----
 71
@@ -2139,7 +2129,6 @@ V. Phần công việc thuộc kế hoạch lựa chọn nhà thầu
 
 Bảng số 3
 | Stt | Tên chủ đầu tư(2) | Tên gói thầu(3) (Tên gói / Tóm tắt công việc chính của gói thầu) | Giá gói thầu(4) | Nguồn vốn(5) | Hình thức lựa chọn nhà thầu(6) | Phương thức lựa chọn nhà thầu(7) | Thời gian tổ chức lựa chọn nhà thầu(8) | Thời gian bắt đầu tổ chức lựa chọn nhà thầu(9) | Loại hợp đồng(10) | Thời gian thực hiện gói thầu(11) | Tùy chọn mua thêm(12) | Giám sát hoạt động đấu thầu(13) |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 * Đối với nội dung tổ chức đền bù giải phóng mặt bằng, đối với các công việc mà Hội đồng đền bù giải phóng mặt bằng tự làm (ví dụ: tổ chức họp với người sử dụng đất, chủ sở hữu tài sản; trình duyệt, công khai phương án bồi thường, bàn giao chi phí bồi thường,...) thì thuộc phần công việc không áp dụng một trong các hình thức lựa chọn nhà thầu ở Mục IV. Đối với các hạng mục công việc phải hình thành gói thầu để thuê tư vấn thực hiện thì ghi vào phần công việc thuộc kế hoạch lựa chọn nhà thầu ở Mục V.
 
@@ -2217,7 +2206,6 @@ Trường hợp tại thời điểm lập kế hoạch lựa chọn nhà thầu
 
 Bảng số 4
 | STT | Nội dung | Giá trị |
-| :---: | :--- | :---: |
 | 1 | | |
 | 2 | | |
 | 3 | | |
@@ -2228,7 +2216,6 @@ VII. Tổng giá trị các phần công việc
 
 Bảng số 5
 | STT | Nội dung | Giá trị |
-| :---: | :--- | :---: |
 | 1 | Tổng giá trị phần công việc đã thực hiện | |
 | 2 | Tổng giá trị phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầu | |
 | 3 | Tổng giá trị phần công việc thuộc kế hoạch lựa chọn nhà thầu | |
@@ -2237,7 +2224,6 @@ Bảng số 5
 ----- [Trang 77] -----
 76
 | Tổng giá trị các phần công việc | |
-| :--- | :--- |
 | Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tư | [ghi giá trị] |
 
 VIII. Kiến nghị
@@ -2257,7 +2243,6 @@ DANH MỤC TÀI LIỆU
 (Kèm theo Tờ trình phê duyệt kế hoạch lựa chọn nhà thầu)
 
 | STT | Nội dung | Ghi chú |
-| :---: | :--- | :---: |
 | I | Đối với dự án | |
 | 1 | Quyết định phê duyệt dự án và các tài liệu có liên quan. Đối với gói thầu cần thực hiện trước khi phê duyệt dự án là quyết định của người đứng đầu chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp chưa xác định được chủ đầu tư. | Bản chụp |
 | 2 | Quyết định phê duyệt kế hoạch tổng thể lựa chọn nhà thầu (nếu có) | Bản chụp |
@@ -2269,7 +2254,6 @@ DANH MỤC TÀI LIỆU
 ----- [Trang 78] -----
 77
 | II | Đối với dự toán mua sắm | |
-| :---: | :--- | :---: |
 | 1 | Tài liệu về tiêu chuẩn, định mức sử dụng tài sản công của cơ quan, tổ chức, đơn vị và cán bộ, công chức, viên chức, người lao động (nếu có) | Bản chụp |
 | 2 | Văn bản pháp lý có liên quan | |
 
@@ -2285,7 +2269,7 @@ Số: ...... / ..................
 BÁO CÁO THẨM ĐỊNH
 Kế hoạch lựa chọn nhà thầu dự án, dự toán mua sắm: [Ghi tên dự án, dự toán mua sắm]
 
-Kính gửi: [Người phê duyệt kế hoạch lựa chọn nhà thầu]$^{10}$
+Kính gửi: [Người phê duyệt kế hoạch lựa chọn nhà thầu]^10
 
 Trên cơ sở tờ trình của [don vi trình] về việc phê duyệt kế hoạch lựa chọn nhà thầu và các tài liệu liên quan được cung cấp, [đơn vị thẩm định] đã tiến hành thẩm định kế hoạch lựa chọn nhà thầu dự án, dự toán mua sắm [ghi tên dự án, dự toán mua sắm] từ ngày ..... tháng ..... năm ..... [ngày nhận được đầy đủ hồ sơ trình duyệt] và báo cáo về kết quả thẩm định như sau:
 
@@ -2299,11 +2283,11 @@ I. CĂN CỨ PHÁP LÝ VÀ THÔNG TIN CƠ BẢN
 2.1. Đối với dự án, phần này giới thiệu khái quát thông tin về dự án như sau:
 - Tên dự án: [Ghi tên dự án...]
 
-$^{10}$ Được xác định căn cứ theo quy định tại khoản 2 Điều 40 và khoản 2 Điều 41 của Luật Đấu thầu.
+^10 Được xác định căn cứ theo quy định tại khoản 2 Điều 40 và khoản 2 Điều 41 của Luật Đấu thầu.
 
 ----- [Trang 79] -----
 78
-- Tổng mức đầu tư$^{11}$;
+- Tổng mức đầu tư^11;
 - Chủ đầu tư hoặc đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp chưa xác định được chủ đầu tư;
 - Nguồn vốn;
 - Thời gian thực hiện dự án;
@@ -2329,7 +2313,7 @@ a) Đơn vị thẩm định
 Đơn vị thẩm định là: *[ghi rõ tên đơn vị, phòng, ban thực hiện thẩm định theo chức năng, nhiệm vụ được phân công hoặc tên đơn vị tư vấn đấu thầu được thuê theo hợp đồng]*.
 b) Cách thức làm việc
 
-$^{11}$ Đối với kế hoạch lựa chọn nhà thầu của gói thầu thực hiện trước khi phê duyệt dự án thì thay bằng "dự toán nhiệm vụ chuẩn bị đầu tư".
+^11 Đối với kế hoạch lựa chọn nhà thầu của gói thầu thực hiện trước khi phê duyệt dự án thì thay bằng "dự toán nhiệm vụ chuẩn bị đầu tư".
 
 ----- [Trang 80] -----
 79
@@ -2342,7 +2326,6 @@ Kết quả thẩm định về căn cứ pháp lý của việc lập kế ho�
 
 Bảng số 1
 | STT | Nội dung kiểm tra | Kết quả thẩm định | |
-| :---: | :--- | :---: | :---: |
 | | | Có | Không có |
 | | (1) | (2) | (3) |
 | I | Đối với dự án | | |
@@ -2385,7 +2368,6 @@ Bảng số 2
 TỔNG HỢP KẾT QUẢ THẨM ĐỊNH NỘI DUNG KẾ HOẠCH LỰA CHỌN NHÀ THẦU
 
 | STT | Nội dung thẩm định | Kết quả thẩm định |
-| :---: | :--- | :---: | :---: |
 | Tuân thủ, phù hợp | Không tuân thủ hoặc không phù hợp |
 | (1) | (2) | (3) |
 | 1 | Tên gói thầu, bao gồm cả nội dung công việc chính của gói thầu | | |
@@ -2396,7 +2378,6 @@ TỔNG HỢP KẾT QUẢ THẨM ĐỊNH NỘI DUNG KẾ HOẠCH LỰA CHỌN NH�
 81
 
 | 4 | Hình thức lựa chọn nhà thầu | | |
-| :---: | :--- | :---: | :---: |
 | 5 | Phương thức lựa chọn nhà thầu | | |
 | 6 | Thời gian tổ chức lựa chọn nhà thầu | | |
 | 7 | Thời gian bắt đầu tổ chức lựa chọn nhà thầu | | |
@@ -2459,7 +2440,6 @@ DANH MỤC TÀI LIỆU
 (Kèm theo Báo cáo thẩm định kế hoạch lựa chọn nhà thầu)
 
 | STT | Nội dung | Ghi chú |
-| :---: | :--- | :---: |
 | 1 | Văn bản trình kế hoạch lựa chọn nhà thầu | Bản chính/Bản chụp |
 | 2 | Văn bản của đơn vị thẩm định đề nghị đơn vị trình kế hoạch lựa chọn nhà thầu bổ sung tài liệu, giải trình (nếu có) | Bản chính/Bản chụp |
 | 3 | Văn bản giải trình, bổ sung tài liệu của đơn vị trình kế hoạch lựa chọn nhà thầu (nếu có) | Bản chính/Bản chụp |
@@ -2531,7 +2511,6 @@ DỰ ÁN, DỰ TOÁN MUA SẮM: [ghi tên dự án, dự toán mua sắm]
 (Kèm theo Quyết định số ___ ngày ___ tháng ___ năm ___ của ___)
 
 | Stt | Tên chủ đầu tư (14) | Tên gói thầu (Tên gói thầu | Tóm tắt công việc chính của gói thầu) | Giá gói thầu | Nguồn vốn | Hình thức lựa chọn nhà thầu | Phương thức lựa chọn nhà thầu | Thời gian tổ chức lựa chọn nhà thầu | Thời gian bắt đầu tổ chức lựa chọn nhà thầu | Loại hợp đồng | Thời gian thực hiện gói thầu | Tùy chọn mua thêm | Giám sát hoạt động đấu thầu |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | | | | | | | | | | | | | |
 | 2 | | | | | | | | | | | | | |
 | | Tổng giá gói thầu | | | | | | | | | | | | |
@@ -2609,13 +2588,11 @@ I. Tên dự án: ..............................................................
 II. Danh mục tài sản đề nghị xử lý:
 
 | STT | Danh mục tài sản (chi tiết theo từng loại tài sản) | Đơn vị tính | Số lượng | Nguyên giá | Giá trị còn lại | Giá trị đánh giá | Hình thức xử lý | Ghi chú |
-|---|---|---|---|---|---|---|---|---|
 
 ----- [Trang 89] -----
 88
 
 | (1) | (2) | (3) | (4) | (5) (đồng) | (6) (đồng) | (7) lại (đồng) | (8) lý | (9) chú |
-|---|---|---|---|---|---|---|---|---|
 | A | Trụ sở làm việc, cơ sở hoạt động sự nghiệp,... | | | | | | | |
 | 1 | Địa chỉ nhà, đất 1 | | | | | | | |
 | 2 | Địa chỉ nhà, đất 2 | | | | | | | |

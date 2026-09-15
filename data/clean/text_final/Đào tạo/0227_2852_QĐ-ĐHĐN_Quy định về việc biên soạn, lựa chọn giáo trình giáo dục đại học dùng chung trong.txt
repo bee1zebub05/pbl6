@@ -114,7 +114,6 @@ DANH MỤC SÁCH, GIÁO TRÌNH ĐỀ NGHỊ SỬ DỤNG LÀM GIÁO TRÌNH DÙNG 
 (Kèm theo Tờ trình số ..... /TTr.... ngày ... tháng ... năm ... của ..........)
 
 | TT | Tên sách, giáo trình | Tên tác giả | Nhà xuất bản | Số ISBN | Năm xuất bản | Dành cho học phần | Mã học phần | Trình độ đào tạo | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 
@@ -141,7 +140,6 @@ DANH MỤC SÁCH, GIÁO TRÌNH ĐỀ NGHỊ SỬ DỤNG LÀM GIÁO TRÌNH DÙNG 
 (Kèm theo Biên bản họp.... ngày ... tháng ... năm ... của Hội đồng lựa chọn)
 
 | TT | Tên sách, giáo trình | Tên tác giả | Nhà xuất bản | Số ISBN | Năm xuất bản | Dành cho học phần | Mã học phần | Trình độ đào tạo | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 
@@ -167,7 +165,6 @@ DANH MỤC SÁCH, GIÁO TRÌNH ĐƯỢC PHÊ DUYỆT LÀM GIÁO TRÌNH DÙNG CHU
 (Kèm theo Quyết định số ... /QĐ-ĐHĐN ngày ... tháng ... năm ...)
 
 | TT | Tên sách, giáo trình | Tên tác giả | Nhà xuất bản | Số ISBN | Năm xuất bản | Dành cho học phần | Mã học phần | Trình độ đào tạo | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 

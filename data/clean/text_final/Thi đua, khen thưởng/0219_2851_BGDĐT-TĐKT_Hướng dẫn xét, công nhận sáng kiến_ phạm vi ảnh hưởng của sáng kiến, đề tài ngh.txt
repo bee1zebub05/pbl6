@@ -117,7 +117,6 @@ DANH SÁCH VÀ TÓM TẮT NỘI DUNG SÁNG KIẾN
 CẤP BỘ (HOẶC CẤP TOÀN QUỐC) NĂM …
 
 | TT | Họ và tên, chức vụ, đơn vị công tác | Tên sáng kiến; số, ngày tháng năm ban hành quyết định công nhận sáng kiến cơ sở của cấp có thẩm quyền | Tóm tắt nội dung sáng kiến, tính mới, thời gian ứng dụng thực tiễn, hiệu quả áp dụng, phạm vi ảnh hưởng của sáng kiến |
-| :---: | :---: | :---: | :---: |
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
@@ -150,7 +149,6 @@ Hoặc
 Nhóm tác giả: 
 
 | Số TT | Họ và tên | Nơi công tác (hoặc nơi thường trú) | Chức danh | Trình độ chuyên môn | Tỷ lệ (%) đóng góp vào việc tạo ra sáng kiến của các đồng tác giả sáng kiến |
-| :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | |
 | 2 | | | | | |
 | 3 | | | | | |
@@ -186,7 +184,6 @@ Trưởng nhóm sáng kiến
 (nếu có))* | …, ngày... tháng... năm…
 Tác giả sáng kiến
 (Ký, ghi rõ họ tên) |
-| :---: | :---: |
 
 9
 Mẫu số 03
@@ -205,7 +202,6 @@ DANH SÁCH VÀ TÓM TẮT NỘI DUNG ĐỀ TÀI NGHIÊN CỨU KHOA HỌC
 CẤP BỘ, CẤP TOÀN QUỐC NĂM …
 
 | TT | Họ và tên, chức vụ, đơn vị công tác | Tên đề tài nghiên cứu khoa học; mã số; số, ngày tháng năm ban hành quyết định hội đồng nghiệm thu; ngày tháng năm nghiệm thu; kết quả nghiệm thu | Tóm tắt nội dung đề tài nghiên cứu khoa học, sản phẩm/kết quả đề tài | Các địa chỉ áp dụng kết quả nghiên cứu, thời gian áp dụng thực tiễn, hiệu quả áp dụng, phạm vi ảnh hưởng |
-| :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | |
 | 2 | | | | |
 | 3 | | | | |

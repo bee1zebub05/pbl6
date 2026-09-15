@@ -295,7 +295,6 @@ III. Nội dung:
 Hai bên thống nhất bàn giao quản lý, sử dụng thiết bị lưu khoá bí mật như sau:
 
 | TT | Tên chứng thư chữ ký số | Số hiệu chứng thư chữ ký số | Mật khẩu truy cập | Số hiệu thiết bị | Loại chứng thư chữ ký số | Ngày hết hạn sử dụng | Ghi chú |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | | | | | | | |
 | 2 | | | | | | | |
 | ... | | | | | | | |

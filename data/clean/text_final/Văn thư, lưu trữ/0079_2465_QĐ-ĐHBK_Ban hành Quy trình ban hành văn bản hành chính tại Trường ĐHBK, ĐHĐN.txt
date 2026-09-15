@@ -121,7 +121,7 @@ Lưu ý:
 
 ----- [Trang 6] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu 1
 
@@ -185,7 +185,7 @@ BAN GIÁM HIỆU
 - Bản gốc phiếu trình ký được lưu trữ tại Phòng TC-HC để làm cơ sở theo dõi, kiểm tra, đánh giá quá trình thực hiện. Bản sao phiếu trình ký được chuyển đến thủ trưởng đơn vị trình ký để biết và tổ chức thực hiện.
 - () Cần có ý kiến của các Phòng chức năng liên quan đối với các văn bản cần xin ý kiến thống nhất của nhiều đơn vị.
 
-TRANG 2
+----- [Trang 2] -----
 
 Mẫu 2
 

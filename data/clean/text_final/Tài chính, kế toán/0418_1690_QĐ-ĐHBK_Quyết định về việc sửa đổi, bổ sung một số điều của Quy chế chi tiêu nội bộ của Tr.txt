@@ -31,7 +31,6 @@ b) Các hệ số thành phần bổ sung đơn giá giờ giảng chuẩn năm 
 
 Bảng 1. Các hệ số thành phần bổ sung đơn giá giờ giảng chuẩn năm học
 STT | Tên hệ số | Ký hiệu
---- | --- | ---
 1 | Hệ số chức danh | HCD
 2 | Hệ số giảng dạy chất lượng cao | HCLC
 3 | Hệ số giảng dạy chương trình tiên tiến | HCTTT
@@ -58,15 +57,15 @@ STT | Ký hiệu hệ số | Hệ số | Ghi chú
 6 | HXA | 0,2 | Áp dụng đối với các lớp giảng dạy ngoài thành phố Đà Nẵng theo kế hoạch của Nhà trường.
 7 | HLD | Chi tiết ở bên dưới | Áp dụng cho giờ giảng lý thuyết của các lớp giảng dạy theo phương pháp dạy và học trực tiếp có từ 91 sinh viên trở lên.
 
-Hệ số lớp đông ($H_{LĐ}$) được xác định theo công thức sau:
-$H_{LĐ} = 0,1 \times n$
-Trong đó: $n$ là bậc hệ số lớp đông, được xác định dựa trên số lượng sinh viên $S$ ($S \ge 91$) theo quy tắc sau:
-- $n = 1$, nếu $91 \le S \le 100$
-- $n = 2$, nếu $101 \le S \le 110$
-- $n = 3$, nếu $111 \le S \le 120$
-- $n = 4$, nếu $121 \le S \le 130$
-- $n = 5$, nếu $131 \le S \le 140$
-- $n = 6$, nếu $141 \le S \le 150$
+Hệ số lớp đông (H_LĐ) được xác định theo công thức sau:
+H_LĐ = 0,1 × n
+Trong đó: n là bậc hệ số lớp đông, được xác định dựa trên số lượng sinh viên S (S ≥ 91) theo quy tắc sau:
+- n = 1, nếu 91 ≤ S ≤ 100
+- n = 2, nếu 101 ≤ S ≤ 110
+- n = 3, nếu 111 ≤ S ≤ 120
+- n = 4, nếu 121 ≤ S ≤ 130
+- n = 5, nếu 131 ≤ S ≤ 140
+- n = 6, nếu 141 ≤ S ≤ 150
 -
 
 ----- [Trang 3] -----
@@ -76,15 +75,15 @@ Và tiếp tục tăng tương ứng, cứ thêm mỗi khoảng 10 người họ
 “Điều 11. Chi thanh toán giờ giảng hệ đại học
 4. Thanh toán giờ giảng mức 1
 a) Trường Đại học Bách khoa thanh toán giờ giảng trong định mức (mức 1) với đơn giá cụ thể cho các loại hình đào tạo được xác định như sau:
-$\text{ĐMức 1} = \text{ĐCNH} \times \text{HSBS}_{\text{Mức 1}}$
-Với $\text{HSBS}_{\text{Mức 1}} = 0,8 \times (1 + H_{\text{CLC/CTTT}} + H_{\text{ĐM}} + H_{\text{XA}} + H_{\text{LĐ}}) \times (1 + H_{\text{NG}})$”
+ĐMức 1 = ĐCNH × HSBS_Mức 1
+Với HSBS_Mức 1 = 0,8 × (1 + H_CLC/CTTT + H_ĐM + H_XA + H_LĐ) × (1 + H_NG)”
 
 4. Sửa đổi, bổ sung điểm a, khoản 5, Điều 11 như sau:
 “Điều 11. Chi thanh toán giờ giảng hệ đại học
 5. Thanh toán giờ giảng mức 2
-a) Đơn giá thanh toán giờ giảng mức 2 ($\text{ĐMức 2}$) cho các lớp lý thuyết, PBL của chương trình truyền thống, chất lượng cao, chương trình tiên tiến được xác định bằng:
-$\text{ĐMức 2} = \text{ĐCNH} \times \text{HSBS}_{\text{Mức 2}}$
-Với $\text{HSBS}_{\text{Mức 2}} = (1 + H_{\text{CĐ}} + H_{\text{CLC/CTTT}} + H_{\text{ĐM}} + H_{\text{LĐ}}) \times (1 + H_{\text{NG/HE}})$”
+a) Đơn giá thanh toán giờ giảng mức 2 (ĐMức 2) cho các lớp lý thuyết, PBL của chương trình truyền thống, chất lượng cao, chương trình tiên tiến được xác định bằng:
+ĐMức 2 = ĐCNH × HSBS_Mức 2
+Với HSBS_Mức 2 = (1 + H_CĐ + H_CLC/CTTT + H_ĐM + H_LĐ) × (1 + H_NG/HE)”
 
 6. Sửa đổi, bổ sung khoản 1, Điều 15 như sau:
 “Điều 15. Chi thanh toán dịch vụ công cộng
@@ -141,9 +140,9 @@ b) Chế độ hỗ trợ, khen thưởng
 + Bài báo đăng tạp chí nhóm Q3 (Scimago), thuộc danh mục SCIE/SSCI/A&HCI (WoS) đối với lĩnh vực KH tự nhiên, KH công nghệ, KH nghệ thuật, Y – Dược hoặc tạp chí nhóm Q3 thuộc Scopus đối với các lĩnh vực KH xã hội – nhân văn: 20.000.000 đồng/bài;
 + Bài báo đăng tạp chí thuộc danh mục SCIE/SSCI/A&HCI (WoS, ngoài các nhóm trên), Scopus và ESCI: 10.000.000 đồng/bài;
 - Bài báo có nhiều tác giả thì kinh phí hỗ trợ, khen thưởng sẽ được chia đều cho số lượng tác giả.
-- Trong trường hợp cá nhân là tác giả thứ nhất ($1^{\text{st}}\text{ author}$) và tác giả liên hệ (corresponding author) thì 30% kinh phí hỗ trợ, khen thưởng sẽ được chi cho cá nhân trên, phần còn lại được chia đều cho tất cả tác giả (kể cả cá nhân trên).
-- Trong trường hợp cá nhân là tác giả thứ nhất ($1^{\text{st}}\text{ author}$) hoặc tác giả liên hệ (corresponding author) thì 15% kinh phí hỗ trợ, khen thưởng sẽ được chi cho cá nhân trên, phần còn lại được chia đều cho tất cả tác giả (kể cả cá nhân trên).
-- Trong trường hợp bài báo có nhiều tác giả thứ nhất ($1^{\text{st}}\text{ author}$) hoặc nhiều tác giả liên hệ (corresponding author) thì kinh phí hỗ trợ, khen thưởng sẽ được chia đều cho số lượng tác giả.
+- Trong trường hợp cá nhân là tác giả thứ nhất (1^st author) và tác giả liên hệ (corresponding author) thì 30% kinh phí hỗ trợ, khen thưởng sẽ được chi cho cá nhân trên, phần còn lại được chia đều cho tất cả tác giả (kể cả cá nhân trên).
+- Trong trường hợp cá nhân là tác giả thứ nhất (1^st author) hoặc tác giả liên hệ (corresponding author) thì 15% kinh phí hỗ trợ, khen thưởng sẽ được chi cho cá nhân trên, phần còn lại được chia đều cho tất cả tác giả (kể cả cá nhân trên).
+- Trong trường hợp bài báo có nhiều tác giả thứ nhất (1^st author) hoặc nhiều tác giả liên hệ (corresponding author) thì kinh phí hỗ trợ, khen thưởng sẽ được chia đều cho số lượng tác giả.
 Trong những trường hợp khác, Phòng Khoa học Công nghệ và Hợp tác Quốc tế sẽ tham mưu Ban Giám hiệu xem xét quyết định.
 - VC-NLĐ của Trường đứng nhiều tên đơn vị (không thuộc Trường Đại học Bách khoa) thì kinh phí hỗ trợ, khen thưởng được nhận sẽ là kinh phí được tính theo các công thức trên, sau đó được chia cho số đơn vị đứng tên.”
 

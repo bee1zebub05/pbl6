@@ -586,7 +586,6 @@ Thực hiện theo Nghị định 86 /2015/NĐ-CP của Chính phủ
 Đơn vị tính: 1.000 đồng
 
 | TT | Nội dung | Số HS, SV được miễn, giảm học phí | Mức thu học phí/tháng | Số tháng | Tổng KP cấp bù tiền miễn, giảm học phí | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sau Đại học | | | | | (chỉ áp dụng cho các chuyên ngành Lao, Phong, Tám thần, Pháp Y, Giải phẫu bệnh |
 | | - Cao học | | | | | |
 | | - NCS ... | | | | | |
@@ -628,7 +627,6 @@ Thực hiện theo Nghị định 86 /2015/NĐ-CP của Chính phủ
 Đơn vị tính: 1.000 đồng
 
 | TT | Tên cơ sở giáo dục nghề nghiệp và giáo dục đại học trực thuộc | Số lượng đối tượng được miễn, giảm học phí | Tổng dự toán kinh phí | Ghi chú |
-| :---: | :--- | :---: | :---: | :---: |
 | 1 | Trường A | | | |
 | 2 | Trường B | | | |
 | 3 | Trường C | | | |
@@ -647,7 +645,6 @@ TỔNG HỢP NHU CẦU HỖ TRỢ CHI PHÍ HỌC TẬP
 THEO NGHỊ ĐỊNH SỐ 86/2015/NĐ-CP CỦA CHÍNH PHỦ
 
 | TT | Chỉ tiêu | Dự toán kinh phí hỗ trợ chi phí học tập năm ... | Kết quả thực hiện hỗ trợ chi phí học tập năm học ... | Kết quả thực hiện hỗ trợ chi phí học tập năm học ... |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Số đối tượng | Kinh phí | Số đối tượng | Số tháng hỗ trợ | Nhu cầu hỗ trợ chi phí học tập năm học... | Số đối tượng | Số tháng hỗ trợ | Nhu cầu hỗ trợ chi phí học tập năm học... |
 | | Tổng số | | | | | | | | |
 | 1 | Trẻ em mẫu giáo và học sinh phổ thông mồ côi cả cha lẫn mẹ không nơi nương tựa hoặc bị tàn tật, khuyết tật có khó khăn về kinh tế | | | | | | | | |
@@ -665,7 +662,6 @@ TỔNG HỢP NHU CẦU CẤP BÙ HỌC PHÍ KHỐI GIÁO DỤC MẦM NON VÀ PH�
 THEO NGHỊ ĐỊNH SỐ 86/2015/NĐ-CP CỦA CHÍNH PHỦ
 
 | TT | Chỉ tiêu | Dự toán kinh phí cấp bù học phí năm ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kinh phí cấp bù học phí năm ... |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Số đối tượng miễn | Số đối tượng giảm | Nhu cầu cấp bổ sung học phí năm ... | Đối tượng miễn (Năm học ...) | Đối tượng giảm 50% (Năm học....) | Mức thu học phí HĐND quyết định năm học ... | Số tháng miễn, giảm | |
 | | Tổng số | | | | | | | |
 | I | Trường mầm non và phổ thông công lập | | | | | | | |
@@ -689,7 +685,6 @@ THEO NGHỊ ĐỊNH SỐ 86/2015/NĐ-CP CỦA CHÍNH PHỦ
 28
 
 | TT | Chỉ tiêu | Dự toán kinh phí cấp bù học phí năm ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kinh phí cấp bù học phí năm ... |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Số đối tượng miễn | Số đối tượng giảm | Nhu cầu cấp bổ sung học phí năm ... | Đối tượng miễn (Năm học ...) | Đối tượng giảm 50% (Năm học....) | Mức thu học phí HĐND quyết định năm học ... | Số tháng miễn, giảm | |
 | | - Trung học phổ thông | | | | | | | |
 | | - Giáo dục thường xuyến THPT | | | | | | | |
@@ -723,7 +718,6 @@ TỔNG HỢP NHU CẦU CẤP BÙ HỌC PHÍ THEO NGHỊ ĐỊNH SỐ 86/2015/NĐ
 CƠ SỞ GIÁO DỤC NGHỀ NGHIỆP VÀ GIÁO DỤC ĐẠI HỌC CÔNG LẬP
 
 | TT | Chỉ tiêu | Dự toán cấp bù học phí năm ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kết quả thực hiện cấp bù học phí năm học ... | Kinh phí cấp bù học phí năm ... |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Số đối tượng | Kinh phí | Trung cấp nghề | Trung cấp chuyên nghiệp | Cao đẳng, Cao đẳng nghề | Đại học | | |
 | Số đối tượng | Mức học phí bq/ tháng | Số đối tượng | Mức học phí bq/ tháng | Số đối tượng | Mức học phí bq/ tháng | Số đối tượng | Mức học phí bq/ tháng | |
 | | Tổng số | | | | | | | | | | |
@@ -751,7 +745,6 @@ CƠ SỞ GIÁO DỤC NGHỀ NGHIỆP VÀ ĐẠI HỌC NGOÀI CÔNG LẬP
 VÀ CƠ SỞ GIÁO DỤC ĐẠI HỌC/NGHỀ NGHIỆP THUỘC DOANH NGHIỆP NHÀ NƯỚC, TỔ CHỨC KINH TẾ
 
 | TT | Chỉ tiêu | Dự toán cấp bù học phí năm ... | Kết quả thực hiện cấp bù học phí năm học ... |
-| :--- | :--- | :--- | :--- |
 | | | Số đối tượng | Kinh phí | Số đối tượng | Trung cấp nghề | Trung cấp chuyên nghiệp | Cao đẳng, Cao đẳng nghề | Đại học | Kinh phí cấp bù học phí năm ... |
 | | | | | | Mức học phí bq/tháng | Số đối tượng | Mức học phí bq/tháng | Số đối tượng | Mức học phí bq/tháng | Số đối tượng | Mức học phí bq/tháng | Số đối tượng | Mức học phí bq/tháng |
 | | Tổng số | | | | | | | | | | | | |
