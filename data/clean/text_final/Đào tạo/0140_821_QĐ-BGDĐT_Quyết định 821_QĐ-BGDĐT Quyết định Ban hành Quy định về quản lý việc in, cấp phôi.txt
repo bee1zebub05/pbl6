@@ -190,7 +190,6 @@ Hình thức nhận:
 Hồ sơ kèm theo:
 
 | STT | Tên phôi VBCC | Đơn vị tính | Số lượng đề nghị | Số lượng duyệt | Số hiệu seri |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | Số đầu | Số cuối |
 | 1 | | | | | | |
 | Tổng | | | | | | |
@@ -223,7 +222,6 @@ Văn bản đề nghị:
 Hình thức nhận phôi:
 
 | STT | Tên phôi VBCC | Đơn vị tính | Số lượng đề nghị | Số lượng duyệt cấp |
-| :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | |
 | Tổng | | | | |
 

@@ -471,7 +471,7 @@ Dấu "GIẢM XUỐNG TỐI MẬT" và dấu “GIẢM XUỐNG MẬT” được
 
 ----- [Trang 21] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 4. Mẫu dấu “TĂNG LÊN TỐI MẬT”: Hình chữ nhật, kích thước 50mm x 13mm, có hai đường viền xung quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ nhất là dòng chữ “TĂNG LÊN TỐI MẬT”, trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new roman, đứng, đậm; hàng thứ hai là chữ "Từ:..........." ở đầu hàng và các dấu chấm cho đến hết, trình bày bằng chữ thường, cỡ chữ 13, kiểu chữ times new roman; khoảng cách giữa hàng chữ thứ nhất và hàng chữ thứ hai là 02mm.
 
@@ -479,7 +479,7 @@ TRANG 1
 
 Dấu "TĂNG LÊN TUYỆT MẬT" và dấu “TĂNG LÊN TỐI MẬT” được sử dụng để đóng trên tài liệu bí mật nhà nước kể từ ngày có quyết định tăng độ mật của người có thẩm quyền và từ ngày nhận được thông báo tăng độ mật. Sau khi đóng dấu "TĂNG LÊN TUYỆT MẬT" và dấu “TĂNG LÊN TỐI MẬT” ở dòng “Từ:.....” phải ghi rõ thời gian tăng độ mật bắt đầu từ ngày, tháng, năm lãnh đạo có thẩm quyền quyết định tăng độ mật.
 
-TRANG 2
+----- [Trang 2] -----
 
 MẪU SỐ 07
 (Ban hành kèm theo Quyết định số 479 /QĐ-ĐHBK ngày 21 tháng 02 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng)
@@ -496,7 +496,7 @@ Dấu "CHỈ NGƯỜI CÓ TÊN MỚI ĐƯỢC BÓC BÌ" sử dụng trong trư�
 
 (Hình ảnh mẫu dấu: CHỈ NGƯỜI CÓ TÊN MỚI ĐƯỢC BÓC BÌ)
 
-TRANG 3
+----- [Trang 3] -----
 
 MẪU SỐ 8
 (Ban hành kèm theo Quyết định số 479 /QĐ-ĐHBK ngày 21 tháng 02 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng)
@@ -505,7 +505,7 @@ Mẫu dấu “BẢN SỐ” hình chữ nhật, kích thước 30mm x 8mm, có 
 
 (Hình ảnh mẫu dấu: BẢN SỐ:........)
 
-TRANG 4
+----- [Trang 4] -----
 
 MẪU SỐ 09
 (Ban hành kèm theo Quyết định số 479 /QĐ-ĐHBK ngày 21 tháng 02 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
@@ -524,7 +524,7 @@ Số lượng:....................
 Nơi nhận:....................
 Thẩm quyền sao:....................)
 
-TRANG 5
+----- [Trang 5] -----
 
 MẪU SỐ 10
 (Ban hành kèm theo Quyết định số 479 /QĐ-ĐHBK ngày 21 tháng 02 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
@@ -590,7 +590,6 @@ b) Phần quản lý sao, chụp bí mật nhà nước
 Phần quản lý sao, chụp bí mật nhà nước được trình bày trên trang giấy khổ A4 (210mm x 297mm) bao gồm 09 cột theo mẫu sau:
 
 | Số thứ tự | Ngày, tháng, năm sao, chụp tài liệu, vật chứa BMNN (2) | Tên loại và trích yếu nội dung tài liệu, vật chứa BMNN được sao, chụp (3) | Độ mật (4) | Số lượng bản sao, chụp (5) | Nơi nhận bản sao, chụp (6) | Người có thẩm quyền cho phép sao, chụp (7) | Người thực hiện sao, chụp (8) | Ghi chú (9) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | | | |
 
 2. Hướng dẫn quản lý
@@ -657,7 +656,7 @@ Ghi chú:
 
 ----- [Trang 31] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 (2) : Tên đơn vị.
 (3) : Năm mở Sổ đăng ký bí mật nhà nước đi.
@@ -692,7 +691,7 @@ Cột 8: Ghi tên đơn vị lưu tài liệu.
 Cột 9: Ghi số lượng bản phát hành tài liệu.
 Cột 10: Ghi những nội dung cần thiết khác.
 
-TRANG 2
+----- [Trang 2] -----
 
 MẪU SỐ 15
 SỔ ĐĂNG KÝ BÍ MẬT NHÀ NƯỚC ĐẾN
@@ -730,7 +729,7 @@ Cột 8: Ghi rõ độ mật của tài liệu, vật chứa bí mật nhà nư�
 Cột 9: Ghi tên đơn vị hoặc cá nhân nhận tài liệu, vật chứa bí mật nhà nước đến.
 Cột 10: Ghi những nội dung cần thiết khác.
 
-TRANG 3
+----- [Trang 3] -----
 
 MẪU SỐ 16
 SỔ CHUYỂN GIAO BÍ MẬT NHÀ NƯỚC
@@ -760,7 +759,7 @@ Cột 4: Ghi tên đơn vị hoặc cá nhân nhận bí mật nhà nước.
 Cột 5: Chữ ký của người trực tiếp nhận bí mật nhà nước.
 Cột 6: Ghi nội dung cần thiết khác (như bản sao, số lượng tài liệu...).
 
-TRANG 4
+----- [Trang 4] -----
 
 MẪU SỐ 17
 (Ban hành kèm theo Quyết định số 479 /QĐ-ĐHBK ngày 21 tháng 02 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
@@ -792,7 +791,7 @@ Ghi chú:
 (3) Loại, trích yếu nội dung của bí mật nhà nước
 (4) Trường hợp cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước ngoài phải cam kết không cung cấp cho bên thứ ba, nếu không có sự đồng ý của bên cung cấp.
 
-TRANG 5
+----- [Trang 5] -----
 
 MẪU SỐ 18
 (Ban hành kèm theo Quyết định số 479 /QĐ-ĐHBK ngày 21 tháng 02 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)

@@ -230,7 +230,7 @@ Nơi nhận: THỦ TRƯỞNG ĐƠN VỊ
 
 ----- [Trang 11] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 10
 
@@ -273,7 +273,7 @@ Nơi nhận:
 THỦ TRƯỞNG ĐƠN VỊ
 (Ký tên, ghi rõ họ tên, đóng dấu)
 
-TRANG 2
+----- [Trang 2] -----
 
 11
 
@@ -315,7 +315,7 @@ Ghi chú:
 - Trưởng đoàn: ghi rõ họ tên, chức vụ của Trưởng đoàn;
 - Số thành viên đoàn: ghi rõ tổng số thành viên tham gia đoàn, bao gồm cả
 
-TRANG 3
+----- [Trang 3] -----
 
 12
 
@@ -326,7 +326,7 @@ trưởng đoàn.
 - Báo cáo: Ghi rõ số và ngày phát hành văn bản báo cáo kết quả hoạt động của đoàn, nơi gửi báo cáo (Bỏ trống nghĩa là không có báo cáo).
 - Đoàn trong kế hoạch: Đánh dấu (x) nếu là đoàn có trong kế hoạch đã được duyệt, bỏ trống nếu là đoàn ngoài kế hoạch.
 
-TRANG 4
+----- [Trang 4] -----
 
 13
 
@@ -356,7 +356,7 @@ THỦ TRƯỞNG ĐƠN VỊ
 
 () Cơ sở dự toán kinh phí căn cứ vào văn bản hiện hành của Bộ Tài chính quy định chế độ công tác phí cho cán bộ, công chức nhà nước đi công tác ngắn hạn ở nước ngoài do ngân sách nhà nước đảm bảo kinh phí.
 
-TRANG 5
+----- [Trang 5] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA

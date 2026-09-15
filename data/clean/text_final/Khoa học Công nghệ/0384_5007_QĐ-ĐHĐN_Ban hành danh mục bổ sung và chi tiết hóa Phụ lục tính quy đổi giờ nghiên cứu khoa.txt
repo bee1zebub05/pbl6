@@ -72,11 +72,10 @@ Bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu k
 Bảng 1 : Quy đổi số giờ nghiên cứu khoa học (NCKH) đối với kết quả NCKH khác - chi tiết mục 5 của bảng 1, Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng (ĐHĐN) ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng
 
 | TT | Hoạt động | Phân loại chi tiết | Số điểm quy đổi (m) | Số giờ NCKH quy đổi (B) | Minh chứng hoạt động NCKH |
-| :--- | :--- | :--- | :---: | :---: | :--- |
 | 1. | Bài báo được đăng trên tạp chí/Kỷ yếu | Tạp chí ACI | 1.25 | 750 | Bản giấy: Trang bìa, mục lục, toàn văn bài báo
 
 Nếu tạp chí/kỷ yếu hội nghị xuất bản trực tuyến thì cung cấp các trang in của website trang/kỷ yếu hội nghị và chương trình hội nghị với thông tin về tên bài báo và tên tác giả, đường link công bố |
-| | | Tạp chí quốc tế khác và các tạp chí trong danh mục hiện hành của Hội đồng Giáo sư nhà nước (HĐGSNN) | Lấy điểm cao nhất theo các ngành liên quan nhưng không quá 1.2 điểm | $600 \times \text{số điểm quy đổi}$ | |
+| | | Tạp chí quốc tế khác và các tạp chí trong danh mục hiện hành của Hội đồng Giáo sư nhà nước (HĐGSNN) | Lấy điểm cao nhất theo các ngành liên quan nhưng không quá 1.2 điểm | 600 × số điểm quy đổi | |
 | | | Tạp chí có ISSN khác | 0.2 | 120 | |
 | | | Kỷ yếu hội thảo trong cơ sở dữ liệu WoS | 1.3 | 780 | |
 | | | Kỷ yếu hội thảo trong cơ sở dữ liệu Scopus | 1.2 | 720 | |
@@ -91,7 +90,6 @@ Nếu tạp chí/kỷ yếu hội nghị xuất bản trực tuyến thì cung c
 (Trang 4)
 
 | TT | Hoạt động | Phân loại chi tiết | Số điểm quy đổi (m) | Số giờ NCKH quy đổi (B) | Minh chứng hoạt động NCKH |
-| :--- | :--- | :--- | :---: | :---: | :--- |
 | | | | | | sản
 
 ----- [Trang 4] -----
@@ -105,16 +103,15 @@ phẩm SHTT, phần 2/3 số giờ quy đổi còn lại được chia đều ch
 | | | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của WoS) | 1 | 600 | Bản sao hồ sơ thể hiện giáo trình đã được nghiệm thu tại cơ sở giáo dục đại học |
 | | | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của Scopus) | 0.75 | 450 | Biên bản họp của Hội đồng Khoa học và Đào tạo khoa học và Đào tạo (KH&ĐT) của đơn vị xác nhận sách là (i) chuyên khảo hoặc (ii) tham khảo |
 | | | Tài liệu dạy học, tài liệu huấn luyện, điều lệ, điều lệnh | 0.5 | 300 | |
-| | | Sách chuyên khảo (tái bản) | $b \times 3$ | $600 \times b \times 3$ | Đối với mỗi loại sách xuất bản nếu có chủ biên và nhiều đồng tác giả thì chủ biên được nhận 1/3 tổng số giờ quy đổi NCKH của loại sách xuất bản tương ứng, phần 2/3 số giờ quy đổi còn lại được chia đều cho các |
-| | | Giáo trình (tái bản) | $b \times 2$ | $600 \times b \times 2$ | |
-| | | Sách tham khảo/ sách bài tập (tái bản) | $b \times 1.5$ | $600 \times b \times 1.5$ | |
-| | | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của WoS) (tái bản) | $b \times 1$ | $600 \times b \times 1$ | |
-| | | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của Scopus) (tái bản) | $b \times 0.75$ | $600 \times b \times 0.75$ | |
+| | | Sách chuyên khảo (tái bản) | b × 3 | 600 × b × 3 | Đối với mỗi loại sách xuất bản nếu có chủ biên và nhiều đồng tác giả thì chủ biên được nhận 1/3 tổng số giờ quy đổi NCKH của loại sách xuất bản tương ứng, phần 2/3 số giờ quy đổi còn lại được chia đều cho các |
+| | | Giáo trình (tái bản) | b × 2 | 600 × b × 2 | |
+| | | Sách tham khảo/ sách bài tập (tái bản) | b × 1.5 | 600 × b × 1.5 | |
+| | | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của WoS) (tái bản) | b × 1 | 600 × b × 1 | |
+| | | Một chương sách xuất bản bằng tiếng nước ngoài của các nhà xuất bản uy tín thế giới (sách thuộc cơ sở dữ liệu của Scopus) (tái bản) | b × 0.75 | 600 × b × 0.75 | |
 
 (Trang 5)
 
 | TT | Hoạt động | Phân loại chi tiết | Số điểm quy đổi (m) | Số giờ NCKH quy đổi (B) | Minh chứng hoạt động NCKH |
-| :--- | :--- | :--- | :---: | :---: | :--- |
 | | | | | | tác giả (bao gồm chủ biên và các đồng tác giả), nếu không có chủ biên thì chia đều cho các tác giả.
 Đối với tài liệu dạy học, tài liệu huấn luyện... phải có xác nhận của Hội đồng Khoa học Hội đồng KH&ĐT của đơn
 
@@ -189,16 +186,15 @@ Quy định cụ thể của Bảng 1:
 ----- [Trang 9] -----
 công trình khoa học được chia đều cho tất cả các tác giả (bao gồm cả tác giả chính và các đồng tác giả).
 Cụ thể, cách tính giờ quy đổi nêu trên của mỗi nhóm tác giả được mô tả bằng công thức tính như sau:
-+ Giờ quy đổi NCKH của mỗi tác giả chính $= \frac{B}{3n} + \frac{2B}{3p}$
-+ Giờ quy đổi của mỗi đồng tác giả $= \frac{2B}{3p}$
-Trong đó, $B$ là tổng số giờ NCKH quy đổi của 1 công trình khoa học, $n$ là tổng số lượng tác giả chính, $p$ là tổng số tác giả (gồm tác giả đầu, tác giả liên hệ và đồng tác giả) của công trình khoa học.
++ Giờ quy đổi NCKH của mỗi tác giả chính = B/3n + 2B/3p
++ Giờ quy đổi của mỗi đồng tác giả = 2B/3p
+Trong đó, B là tổng số giờ NCKH quy đổi của 1 công trình khoa học, n là tổng số lượng tác giả chính, p là tổng số tác giả (gồm tác giả đầu, tác giả liên hệ và đồng tác giả) của công trình khoa học.
 1.2) Trong một kết quả NCKH, chỉ có các tác giả thể hiện cơ quan công tác là trường ĐHTV, đơn vị thuộc/ trực thuộc ĐHĐN mới được tính giờ quy đổi NCKH (đối với bài báo tiếng Việt phải có tên Đại học Đà Nẵng và bài báo tiếng Anh phải có tên tiếng Anh của đơn vị được viết đúng theo quy định trong Quyết định số 639/QĐ-ĐHĐN ngày 3/2/2021 của Giám đốc ĐHĐN về việc quy định tên giao dịch tiếng Anh của Đại học Đà Nẵng, các trường ĐHTV, các đơn vị thuộc và trực thuộc, các chức danh lãnh đạo trong Đại học Đà Nẵng). Đối với tác giả thể hiện cơ quan công tác thuộc đơn vị trong ĐHĐN và đơn vị ngoài ĐHĐN, số giờ NCKH quy đổi của tác giả này (sau khi được tính theo các quy định nêu trên) sẽ được chia hai.
 1.3) Đối với cán bộ là nữ, số giờ NCKH quy đổi của các nội dung trong Bảng 1 được nhân thêm với hệ số 1.2.
 
 Bảng 2. Bổ sung định mức khối lượng giờ thực hiện NCKH đối với giảng viên giữ chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể của Phụ lục tính quy đổi nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng
 
 | STT | Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể | Tỷ lệ % định mức |
-| :---: | :--- | :---: |
 | 1 | Giám đốc Phân hiệu ĐHĐN, Viện trưởng các Viện thuộc, trực thuộc ĐHĐN, Hiệu trưởng trường thuộc ĐHĐN, trưởng khoa thuộc ĐHĐN, Giám đốc các Trung tâm thuộc, trực thuộc ĐHĐN và tương đương | 20% |
 | 2 | Phó Giám đốc Phân hiệu ĐHĐN, Phó Viện trưởng các Viện thuộc, trực thuộc ĐHĐN, Phó Hiệu trưởng trường thuộc ĐHĐN, Phó trưởng khoa thuộc ĐHĐN, Phó Giám đốc các Trung tâm thuộc, trực thuộc ĐHĐN và tương đương | 25% |
 | 3 | Trưởng phòng chức năng thuộc Phân hiệu ĐHĐN/ các Viện/Trường thuộc ĐHĐN/ các Trung tâm thuộc, trực thuộc ĐHĐN và tương đương; tổ trưởng tổ chức năng thuộc Khoa Giáo dục Quốc phòng và An ninh (GDQPAN), tổ trưởng tổ trực thuộc Khoa Giáo dục thể chất (GDTC) | 30% |
@@ -212,7 +208,6 @@ Bảng 2. Bổ sung định mức khối lượng giờ thực hiện NCKH đố
 
 ----- [Trang 10] -----
 Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, đảng, đoàn thể | Tỷ lệ % định mức |
-| :---: | :--- | :---: |
 | | - Trưởng khoa thuộc Phân hiệu ĐHĐN; trưởng khoa/Tổ trưởng tổ chuyên môn thuộc Viện; trưởng khoa/trưởng bộ môn Trường Y dược; trưởng bộ môn thuộc Khoa GDQPAN/GDTC; trưởng phòng thí nghiệm, Giám đốc Trung tâm thuộc các đơn vị | 60% |
 | | - Phó Trưởng khoa thuộc Phân hiệu ĐHĐN; phó trưởng khoa/Tổ phó tổ chuyên môn thuộc Viện; phó trưởng khoa/phó trưởng bộ môn thuộc Trường Y dược; phó trưởng bộ môn thuộc Khoa GDQPAN/GDTC; Phó Giám đốc Trung tâm thuộc các đơn vị | 70% |
 | b. | Đối với Khoa/tổ chuyên môn thuộc Phân hiệu ĐHĐN/Các viện/Trường Y dược, bộ môn thuộc Khoa GDQPAN/GDTC có dưới 40 giảng viên hoặc có quy mô dưới 800 người học | |

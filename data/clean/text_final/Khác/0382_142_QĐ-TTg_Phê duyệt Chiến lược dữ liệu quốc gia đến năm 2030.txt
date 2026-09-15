@@ -563,7 +563,6 @@ DANH MỤC CÁC NHIỆM VỤ TRỌNG TÂM THỰC HIỆN CHIẾN LƯỢC DỮ LI�
 (Kèm theo Quyết định số 142/QĐ-TTg ngày 02 tháng 01 năm 2024 của Thủ tướng Chính phủ)
 
 | TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | Thời gian |
-|:---|:---|:---|:---|:---|
 | A | NHIỆM VỤ TRỌNG TÂM QUỐC GIA | | | |
 | I | Xây dựng thể chế, chính sách | | | |
 | 1 | Xây dựng Luật Công nghiệp công nghệ số. | Bộ Thông tin và Truyền thông | Các bộ ngành | 2024 - 2025 |
@@ -619,7 +618,6 @@ quan | 2024 - 2030 |
 6
 
 | TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | Thời gian |
-| :--- | :--- | :--- | :--- | :--- |
 | 4 | Xây dựng, ban hành các văn bản hướng dẫn kỹ thuật về kết nối, tích hợp, chia sẻ dữ liệu giữa các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống thông tin. | Bộ Thông tin và Truyền thông | Các bộ ngành | 2024 - 2025 |
 | II | Phát triển hạ tầng dữ liệu | | | |
 | 1 | Triển khai Cổng dữ liệu của các bộ, ngành, địa phương, tích hợp với Cổng dữ liệu quốc gia. Tận dụng tối đa cơ sở hạ tầng triển khai Chính phủ số sẵn có tại bộ, ngành, địa phương; ưu tiên sử dụng phương án thuê dịch vụ trong quá trình triển khai xây dựng Cổng dữ liệu. | Các bộ, ngành, địa phương | | 2024 - 2025 |
@@ -632,7 +630,6 @@ quan | 2024 - 2030 |
 
 ----- [Trang 32] -----
 TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | Thời gian |
-| :--- | :--- | :--- | :--- | :--- |
 | | mây của các doanh nghiệp đáp ứng được yêu cầu nghiệp vụ, tiêu chuẩn, quy chuẩn kỹ thuật phục vụ Chính phủ số. | | | |
 | III | Phát triển dữ liệu | | | |
 | 1 | Thu thập, củng cố và hoàn thiện dữ liệu chủ, cơ sở dữ liệu dùng chung trong cơ sở dữ liệu của bộ, ngành, địa phương, các cơ sở dữ liệu chuyên ngành phục vụ ứng dụng dịch vụ Chính quyền số trong cơ quan nhà nước của các bộ, ngành, địa phương. | Các bộ, ngành, địa phương | | Thường xuyên |
@@ -648,7 +645,6 @@ TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | 
 
 ----- [Trang 33] -----
 TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | Thời gian |
-| :--- | :--- | :--- | :--- | :--- |
 | | địa phương kết nối liên thông với nền tảng tích hợp, chia sẻ dữ liệu quốc gia. | | | |
 | 2 | - Hợp tác xây dựng các bộ dữ liệu lớn theo vùng, miền để cùng tích hợp, chia sẻ, tận dụng tài nguyên dữ liệu dùng chung cho các tỉnh, thành phố thuộc vùng, miền có những đặc trưng và lợi thế tương đồng. Thiết lập các chuỗi giá trị trên cơ sở khai thác dữ liệu liên vùng để thúc đẩy phát triển kinh tế. | Các bộ, ngành, địa phương | | Thường xuyên |
 | | - Các địa phương chia sẻ dữ liệu lớn của địa phương với các bộ, ngành, địa phương khác và từng bước đưa dữ liệu lớn vào ứng dụng trong mọi mặt của đời sống chính trị, kinh tế, xã hội của địa phương. | | | |
@@ -661,7 +657,6 @@ TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | 
 
 ----- [Trang 34] -----
 TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | Thời gian |
-| :--- | :--- | :--- | :--- | :--- |
 | | hành chính, cung cấp dịch vụ công trực tuyến và phục vụ công tác chỉ đạo, điều hành khi có yêu cầu. | | | |
 | C | NHIỆM VỤ CỤ THỂ CỦA MỘT SỐ BỘ, NGÀNH | | | |
 | I | Bộ Thông tin và Truyền thông | | | |
@@ -674,7 +669,6 @@ TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | 
 10
 
 | TT | Nhiệm vụ, giải pháp | Cơ quan chủ trì | Cơ quan phối hợp | Thời gian |
-| :--- | :--- | :--- | :--- | :--- |
 | | doanh nghiệp để thúc đẩy phát triển hạ tầng dữ liệu quốc gia, phát triển dữ liệu quốc gia, các Trung tâm dữ liệu quốc gia, Trung tâm dữ liệu vùng. | | | |
 | 3 | - Đưa các nhiệm vụ về "Tuyên truyền, nâng cao nhận thức và phổ biến kiến thức về dữ liệu số" và "Đào tạo và phát triển nguồn nhân lực dữ liệu số" vào trong nội dung của Đề án “Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030” để tạo nguồn lực phát huy hiệu quả của Chiến lược. | Bộ Thông tin và Truyền thông | Các bộ, ngành, địa phương liên quan | 2024 - 2030 |
 | | - Xây dựng, đưa bổ sung các bộ chỉ số đánh giá về phát triển dữ liệu vào Bộ chỉ số chuyển đổi số (DTI) để đánh giá kết quả phát triển dữ liệu của các bộ, ngành, địa phương và theo dõi, đánh giá hằng năm. | | | |

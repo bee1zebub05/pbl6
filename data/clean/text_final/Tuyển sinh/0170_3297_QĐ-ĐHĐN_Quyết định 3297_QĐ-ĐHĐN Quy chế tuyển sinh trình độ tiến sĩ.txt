@@ -207,7 +207,6 @@ MẪU ĐỀ ÁN TUYỂN SINH VÀ ĐÀO TẠO TRÌNH ĐỘ TIẾN SĨ
 (Ban hành kèm theo Quyết định số 3297/QĐ - ĐHĐN ngày 29 tháng 9 năm 2021 của Giám đốc Đại học Đà Nẵng)
 
 TÊN CƠ SỞ ĐÀO TẠO | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
----|---
 | Độc lập – Tự do – Hạnh phúc
 
 ......, ngày tháng năm......
@@ -264,7 +263,6 @@ Ngành đào tạo:
 Mã ngành đào tạo:
 
 | Năm học | Nội dung học tập, nghiên cứu | Khối lượng học tập, nghiên cứu đăng ký | Kết quả dự kiến |
-| :--- | :--- | :--- | :--- |
 | Năm thứ 1 | Các học phần về chuyên môn bổ sung (nếu có) | 10 - 12 tín chỉ | Chứng nhận kết thúc học phần |
 | | Các học phần về phương pháp nghiên cứu | 04 - 06 tín chỉ | Chứng nhận kết thúc học phần |
 | Năm thứ 2 | Thực hiện phần 1 của Luận án | đến 24 tín chỉ | Chương Tổng quan về vấn đề nghiên cứu, phương pháp nghiên cứu,... |
@@ -278,14 +276,13 @@ Lưu ý: Phần in nghiêng là ví dụ về các nội dung trong kế hoạch
 
 ----- [Trang 11] -----
 
-TRANG 3
+----- [Trang 3] -----
 
 Phụ lục III
 DANH SÁCH MỘT SỐ CHỨNG CHỈ TIẾNG NƯỚC NGOÀI MINH CHỨNG CHO TRÌNH ĐỘ NGOẠI NGỮ CỦA NGƯỜI DỰ TUYỂN
 (Ban hành kèm theo Quyết định số 3297/QĐ - ĐHĐN ngày 29 tháng 9 năm 2021 của Giám đốc Đại học Đà Nẵng)
 
 | Stt | Ngôn ngữ | Bằng/Chứng chỉ/Chứng nhận | Trình độ/Thang điểm |
-|---|---|---|---|
 | 1 | Tiếng Anh | TOEFL iBT | Từ 46 trở lên |
 | | | IELTS | Từ 5.5 trở lên |
 | | | Cambridge Assessment English | B2 First/B2 Business Vantage/Linguaskill Thang điểm: từ 160 trở lên |
@@ -297,7 +294,7 @@ DANH SÁCH MỘT SỐ CHỨNG CHỈ TIẾNG NƯỚC NGOÀI MINH CHỨNG CHO TRÌ
 | 6 | Tiếng Nga | ТРКИ - Тест по русскому языку как иностранному (TORFL - Test of Russian as a Foreign Language) | TPKH-2 trở lên |
 | 7 | Các ngôn ngữ tiếng nước ngoài khác | Chứng chỉ đánh giá theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam | Từ bậc 4 trở lên |
 
-TRANG 4
+----- [Trang 4] -----
 
 Phụ lục IV
 HỒ SƠ XÉT DUYỆT NGHIÊN CỨU SINH
@@ -327,7 +324,6 @@ Ngành dự tuyển: ...........................................................
 1. Tổng hợp kết quả đánh giá của các thành viên Hội đồng dành cho ứng viên nghiên cứu sinh
 
 | STT | Họ và tên thành viên Hội đồng | Điểm đánh giá hồ sơ | Điểm đánh giá phần trình bày | Điểm thưởng | Tổng điểm của từng thành viên |
-|---|---|---|---|---|---|
 | 1. | | | | | |
 | 2. | | | | | |
 | 3. | | | | | |
@@ -344,7 +340,7 @@ Tổng điểm của Hội đồng: ............................................
 
 3. Kết luận của Hội đồng
 
-TRANG 5
+----- [Trang 5] -----
 
 3.1 Tên đề xuất của đề tài luận án
 ....................................................................................................................................................................
@@ -377,7 +373,7 @@ Thư ký Chủ tịch Hội đồng
 Xác nhận của
 ĐẠI HỌC ĐÀ NẴNG
 
-TRANG 6
+----- [Trang 6] -----
 
 Biểu 2
 
@@ -421,7 +417,7 @@ Trả lời câu hỏi 3:
 Câu hỏi 4:
 ....................................................................................................................................................................
 
-TRANG 7
+----- [Trang 7] -----
 
 Trả lời câu hỏi 4:
 ....................................................................................................................................................................
@@ -472,7 +468,6 @@ Mỗi ủy viên đánh giá thí sinh dự tuyển NCS với tổng điểm t�
 II. Kết quả đánh giá
 
 STT | Nội dung đánh giá | Điểm tối đa | Điểm của UV
----|---|---|---
 1 | TỔNG ĐIỂM ĐÁNH GIÁ HỒ SƠ DỰ TUYỂN | 50 | 
 1.1 | Điểm trung bình đánh giá kết quả học tập đối với thí sinh có bằng tốt nghiệp đại học loại giỏi hoặc thí sinh có trình độ thạc sĩ hoặc người dự tuyển đã tốt nghiệp CTĐT chuyên sâu đặc thù trình độ bậc 7 (Điểm trung bình lấy từ hồ sơ kết quả học tập) | 10 | 
 1.2 | Tổng điểm đánh giá chất lượng đề cương nghiên cứu | 35 | 

@@ -235,7 +235,6 @@ c) Tiền thuê phòng nghỉ tại nơi đến công tác
 - Người đi công tác được thanh toán tiền thuê phòng nghỉ tại nơi đến công tác theo hóa đơn thực tế hoặc theo hình thức khoán với các định mức như sau:
 
 | Đối tượng thanh toán/Nơi ở | Theo hình thức khoán chi | Theo hóa đơn thực tế (đã bao gồm thuế, phí) |
-| :--- | :--- | :--- |
 | 1. Đối với Hiệu trưởng, Bí thư Đảng uỷ, Chủ tịch Hội đồng Trường và các thành viên Ban Giám hiệu | 450.000 đ/ngày/người | 700.000 đ/ngày/phòng |
 | 2. Đối với Chủ tịch Công đoàn Trường, Bí thư Đoàn thanh niên Trường, CBVC có hệ số phụ cấp chức vụ từ 0,5 trở lên | 400.000 đ/ngày/người | 600.000 đ/ngày/phòng |
 | 3. Trường hợp còn lại | | |
@@ -332,7 +331,6 @@ Chi phí nghiệp vụ chuyên môn là các khoản chi mua sách, báo, tạp 
 ĐVT: Đồng
 
 | STT | Nội dung | Giáo trình (2 tín chỉ) | Giáo trình (3 tín chỉ) | Sách chuyên khảo | Sách hướng dẫn | Sách tham khảo |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Chi phí bồi dưỡng cho tác giả: 450.000 đ/tiết | 13.500.000 | 20.250.000 | 27.000.000 | 10.125.000 | |
 | 2 | Chi phí bồi dưỡng cho công tác phản biện: 30.000 đ/tiết | 900.000 | 1.350.000 | 1.800.000 | 675.000 | 675.000 |
 | 3 | Chi phí bồi dưỡng thẩm định và nghiệm thu: | | | | | |
@@ -341,7 +339,6 @@ Chi phí nghiệp vụ chuyên môn là các khoản chi mua sách, báo, tạp 
 Trang 14
 
 | STT | Nội dung | Giáo trình (2 tín chỉ) | Giáo trình (3 tín chỉ) | Sách chuyên khảo | Sách hướng dẫn | Sách tham khảo |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 3.2 | Tại Hội đồng nghiệm thu cấp Trường: | | | | | |
 | | - Đối với Giáo trình, sách chuyên khảo (Chủ tịch: 350.000 đồng; Thành viên: 200.000 đồng; Thư ký: 150.000 đồng) | 1.300.000 | 1.300.000 | 2.600.000 | | |
 | | - Đối với sách hướng dẫn, sách tham khảo (Chủ tịch: 250.000 đồng; Thành viên: 150.000 đồng; Thư ký: 100.000 đồng) | | | | 950.000 | 950.000 |
@@ -594,7 +591,6 @@ PHỤ LỤC QUY CHẾ
 Phụ lục 1: Hệ số trách nhiệm quản lý và phục vụ
 
 | STT | Chức vụ | Hệ số | Quy định chi tiết |
-| :--- | :--- | :--- | :--- |
 | 1 | Hiệu trưởng, Chủ tịch Hội đồng Trường | 6,5 | |
 | 2 | Phó Hiệu trưởng | 5,5 | |
 | 3 | Thư ký Hội đồng Trường, Trưởng các đơn vị chức năng | 4,0 | |
@@ -639,7 +635,6 @@ Trang 26
 Phụ lục 2: Hệ số phụ cấp trách nhiệm đối với cán bộ thuộc các tổ chức Đảng, Công đoàn, Đoàn Thanh niên
 
 | STT | Chức danh lãnh đạo | Hệ số |
-|---|---|---|
 | I. | Đảng | |
 | 1 | Bí thư Đảng ủy Trường | 6,0 |
 | 2 | Phó Bí thư Đảng ủy Trường | 5,0 |
@@ -673,7 +668,6 @@ Phụ lục 3: Mức khoán cước phí điện thoại di động
 ĐVT: Đồng/tháng
 
 | STT | Chức danh | Mức khoán |
-|---|---|---|
 | 1 | Hiệu trưởng, Chủ tịch Hội đồng trường | 400.000 |
 | 2 | Phó Hiệu trưởng, Chủ tịch Công đoàn Trường | 200.000 |
 | 3 | Trưởng các đơn vị chức năng, Trưởng các Khoa, Bí thư Đoàn Thanh niên Trường, Chủ tịch Hội sinh viên Trường | 150.000 |
@@ -690,7 +684,6 @@ Trang 28
 Phụ lục 4. Định mức chi khen thưởng
 
 | STT | Danh hiệu thi đua hoặc hình thức khen thưởng | Mức thưởng (Hệ số x mức lương tối thiểu) - Cá nhân (Hệ số) | Mức thưởng (Hệ số x mức lương tối thiểu) - Tập thể (Hệ số) |
-|---|---|---|---|
 | 1 | Huân chương Hồ Chí Minh | 30,5 | 61,0 |
 | 2 | Huân chương Độc lập hạng Nhất | 15,0 | 30,0 |
 | 3 | Huân chương Độc lập hạng Nhì | 12,5 | 25,0 |

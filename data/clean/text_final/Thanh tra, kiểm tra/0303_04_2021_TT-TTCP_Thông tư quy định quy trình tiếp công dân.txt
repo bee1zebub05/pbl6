@@ -228,7 +228,6 @@ Mẫu số 03- Sổ tiếp công dân
 SỔ TIẾP CÔNG DÂN
 
 | STT | Ngày tiếp | Họ tên - Địa chỉ | CMND/Hộ chiếu của công dân | Nội dung vụ việc | Phân loại đơn/Số người | Cơ quan đã giải quyết | Hướng xử lý | Theo dõi kết quả giải quyết | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | Thụ lý để giải quyết | Trả lại đơn và hướng dẫn | Chuyển đơn đến cơ quan, tổ chức đơn vị có thẩm quyền | | |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | | | | | | | | | | | | |

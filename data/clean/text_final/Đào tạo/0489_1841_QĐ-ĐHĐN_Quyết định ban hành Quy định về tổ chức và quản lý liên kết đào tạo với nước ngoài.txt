@@ -361,7 +361,6 @@ Cơ sở đào tạo ở Việt Nam: … - Đại học Đà Nẵng
 Cơ sở đào tạo ở nước ngoài: …
 
 | STT | Họ và tên người học | Ngày tháng năm sinh | Nơi sinh | Giới tính | Dân tộc | Quốc tịch | Năm tốt nghiệp | Xếp loại tốt nghiệp | Ngày tháng năm cấp bằng | Số hiệu văn bằng (nếu có) | Ngày tháng năm cấp phát văn bằng cho người học | Người nhận văn bằng ký và ghi rõ họ và tên | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | | | | | |
 | 2 | | | | | | | | | | | | | |
 | … | | | | | | | | | | | | | |
@@ -393,7 +392,6 @@ SỔ THEO DÕI NHẬN VĂN BẰNG TỪ CSGD ĐH NƯỚC NGOÀI
 (áp dụng trong trường hợp CSGD ĐH nước ngoài cấp bằng)
 
 | STT | Tên chương trình liên kết đào tạo | Ngành đào tạo | Trình độ đào tạo | Hình thức liên kết | Đối tác cấp bằng | Số lượng văn bằng nhận | Ngày tháng năm nhận văn bằng từ đối tác | Người nhận ký và ghi rõ họ tên | Tình trạng niêm phong | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | | | | |
 
 THỦ TRƯỞNG ĐƠN VỊ
@@ -555,7 +553,6 @@ Cơ sở đào tạo ở Việt Nam: …
 Cơ sở đào tạo ở nước ngoài: …
 
 | STT | Họ và tên thí sinh | Ngày tháng năm sinh | Nơi sinh | Giới tính | Quốc tịch | Số CCCD/Số hộ chiếu | Trình độ ngoại ngữ đầu vào của người học³ | Minh chứng đáp ứng yêu cầu về trình độ ngoại ngữ | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 | … | | | | | | | | | |
@@ -593,7 +590,6 @@ Cơ sở đào tạo ở Việt Nam: … - Đại học Đà Nẵng
 Cơ sở đào tạo ở nước ngoài: …
 
 | STT | Mã số người học (nếu có) | Họ và tên | Ngày tháng năm sinh | Nơi sinh | Giới tính | Quốc tịch | Năm trúng tuyển | Xếp loại tốt nghiệp | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 | … | | | | | | | | | |

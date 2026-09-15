@@ -1,7 +1,5 @@
 ----- [Trang 1] -----
 
-[TRANG 1 - TRANG BÌA]
-
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC ĐÀ NẴNG
 
@@ -10,7 +8,7 @@ VỀ CÔNG TÁC QUẢN LÝ HOẠT ĐỘNG HỢP TÁC QUỐC TẾ TẠI ĐẠI H�
 
 ĐÀ NẴNG, THÁNG 6 NĂM 2023
 
-[TRANG 2]
+----- [Trang 2] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC ĐÀ NẴNG
@@ -39,7 +37,7 @@ Căn cứ Quyết định số 06/2020/QĐ-TTg ngày 21/02/2020 của Thủ tư�
 Căn cứ Thông tư số 30/2018/TT-BGDĐT ngày 24/12/2018 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý người nước ngoài học tập tại Việt Nam;
 Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;
 
-[TRANG 3]
+----- [Trang 3] -----
 
 2
 
@@ -64,7 +62,7 @@ PHÓ GIÁM ĐỐC
 (Đã ký và đóng dấu)
 PGS.TS. Lê Quang Sơn
 
-[TRANG 4]
+----- [Trang 4] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 ĐẠI HỌC ĐÀ NẴNG
@@ -99,7 +97,7 @@ a) Hội nghị, hội thảo do các cơ quan, tổ chức Việt Nam tổ ch�
 b) Hội nghị, hội thảo do các cơ quan tổ chức nước ngoài tổ chức.
 5. Người nước ngoài (NNN) làm việc bao gồm các tình nguyện viên, người lao động nước ngoài đang hoạt động giảng dạy, nghiên cứu, tư vấn chuyên môn... tại ĐHĐN.
 
-[TRANG 5]
+----- [Trang 5] -----
 
 2
 
@@ -308,7 +306,7 @@ Việc quản lý và sử dụng vốn hỗ trợ phát triển chính thức (
 Điều 25. Tổ chức bộ máy thực hiện chương trình/dự án/phi dự án
 1. Chủ chương trình/dự án/phi dự án
 a) Chủ chương trình/dự án/phi dự án phải được xác định trong quyết định phê duyệt tiếp nhận viện trợ;
-d) Chủ chương trình/dự án/phi dự án có nhiệm vụ trực tiếp quản lý chương trình/dự án/phi dự án và chịu trách nhiệm trước Giám đốc ĐHĐN/Thủ trưởng đơn vị và trước pháp luật về tiến độ, chất lượng và hiệu quả của chương trình/dự án/phi dự án;
+b) Chủ chương trình/dự án/phi dự án có nhiệm vụ trực tiếp quản lý chương trình/dự án/phi dự án và chịu trách nhiệm trước Giám đốc ĐHĐN/Thủ trưởng đơn vị và trước pháp luật về tiến độ, chất lượng và hiệu quả của chương trình/dự án/phi dự án;
 c) Đối với chương trình/dự án ODA thực hiện theo quy định tại Nghị định 114.
 
 12
@@ -331,7 +329,7 @@ d) BQL dự án có các nhiệm vụ chủ yếu sau:
 + Các nhiệm vụ khác được giao.
 
 Điều 26. Theo dõi, đánh giá chương trình/dự án
-1. Theo dõi chương trình/dự án là hoạt động thường xuyên và định kỳ nhằm cập nhật toàn bộ thông tin liên quan đến tình hình thực hiện chương trình/dự án; phát hiện...
+1. Theo dõi chương trình/dự án là hoạt động thường xuyên và định kỳ nhằm cập nhật toàn bộ thông tin liên quan đến tình hình thực hiện chương trình/dự án; phát hiện
 
 ----- [Trang 16] -----
 
@@ -413,7 +411,6 @@ Kính gửi: Đại học Đà Nẵng
 Đơn vị....kính đề nghị Đại học Đà Nẵng xem xét việc nhập cảnh của (số lượng) khách nước ngoài, cụ thể như sau:
 
 | STT | Họ và tên (in hoa) | Giới tính | Ngày sinh | Quốc tịch (Gốc / Hiện nay) | Số, loại hộ chiếu | Chức vụ, Nghề nghiệp |
-|---|---|---|---|---|---|---|
 | | | | | | | |
 
 Được xuất nhập cảnh Việt Nam: Một/ nhiều lần, từ ngày ... đến ngày ...;
@@ -474,8 +471,6 @@ có giá trị đến ngày / Valid to (Day, Month, Year): ..../..../....
 
 ----- [Trang 21] -----
 
-TRANG 1
-
 To extend the duration of stay until (Day, Month, Year)
 3- Lý do Reason(s) Học tập tại Đại học Đà Nẵng
 IV- Những điều cần trình bày thêm Additional statements:
@@ -496,7 +491,7 @@ Người đề nghị
 The applicant's signature and full name
 
 Ghi chú Notes:
-(1) Mỗi người khai 1 bản, kèm hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế và 01 ảnh mới chụp cỡ 4x6cm, phong nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính mầu, nộp trực tiếp tại cơ quan quản lý xuất nhập cảnh.
+(1) Mỗi người khai 1 bản, kèm hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế và 01 ảnh mới chụp cỡ 4x6cm, phông nền trắng, mặt nhìn thẳng, đầu để trần, không đeo kính màu, nộp trực tiếp tại cơ quan quản lý xuất nhập cảnh.
 Submit in person one completed application form enclosed with passport or International Travel Document and one recently taken photo in 4x6cm size, with white background, front view, bare head without sunglasses at the Immigration Office.
 (2) Ghi rõ loại hộ chiếu phổ thông, công vụ, ngoại giao hoặc giấy tờ có giá trị đi lại quốc tế.
 Specify type of passport whether it is Ordinary, Official or Diplomatic; or specify name of the International Travel Document.
@@ -507,14 +502,14 @@ Be certified by the head of the organization if the sponsor is an organisation o
 Trường hợp công dân Việt Nam, người nước ngoài có thẻ thường trú, bảo lãnh, thì Trưởng Công an phường, xã xác nhận các nội dung tại điểm 2 Mục II.
 Be certified by the Chief of the local Ward/Commune Public Security where the sponsor is residing permanently if the sponsor is a Vietnamese citizen or a foreigner with Permanent Resident Card.
 
-TRANG 2
+----- [Trang 22] -----
 
-Phụ lục II: BÁO CÁO THÔNG KẾ NGƯỜI NƯỚC NGOÀI TẠI ĐƠN VỊ
+Phụ lục II: BÁO CÁO THỐNG KÊ NGƯỜI NƯỚC NGOÀI TẠI ĐƠN VỊ
 (Ban hành kèm theo Quyết định số: 2268/ĐHĐN-HTQT, ngày 01 tháng 6 năm 2023 về Quy định về Quản lý hoạt động hợp tác quốc tế của Giám đốc Đại học Đà Nẵng)
 
-Mẫu số 1: Thống kê người nước ngoài ngoải tại đơn vị
+Mẫu số 1: Thống kê người nước ngoài tại đơn vị
 
-ĐẠI HỌC ĐÃ NĂNG
+ĐẠI HỌC ĐÀ NẴNG
 ĐƠN VỊ: ......
 Số: .../...-...
 
@@ -526,8 +521,7 @@ BÁO CÁO
 DANH SÁCH NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI ĐƠN VỊ
 Thời điểm báo cáo tính đến ngày....
 
-| STT | Họ và tên | Ngày sinh | Giới tính | Quốc tịch | Số hộ chiếu | Địa chỉ tạm trú | Nghề nghiệp /Chức danh | Số GPLD/T hời hạn | Số visa/Thẻ tạm trú | Thời hạn tạm trú | Nơi làm việc | Ghi chú/ Nơi làm việc |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| STT | Họ và tên | Ngày sinh | Giới tính | Quốc tịch | Số hộ chiếu | Địa chỉ tạm trú | Nghề nghiệp /Chức danh | Số GPLĐ/Thời hạn | Số visa/Thẻ tạm trú | Thời hạn tạm trú | Nơi làm việc | Ghi chú/ Nơi làm việc |
 | 1 | | | | | | | | | | | | |
 | 2 | | | | | | | | | | | | |
 | 3 | | | | | | | | | | | | |
@@ -539,7 +533,7 @@ Nơi nhận:
 Thủ trưởng đơn vị
 (ký tên, đóng dấu)
 
-TRANG 3
+----- [Trang 23] -----
 
 Mẫu số 2: Thống kê sinh viên, học viên, nghiên cứu sinh người nước ngoài vào học tập, thực tập, nghiên cứu tại đơn vị
 
@@ -551,12 +545,11 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
 Đà Nẵng, ngày... tháng... năm....
 
-BÁO CÁO THỐNG KẾ
+BÁO CÁO THỐNG KÊ
 SINH VIÊN/ HỌC VIÊN/ NGHIÊN CỨU SINH NGƯỜI NƯỚC NGOÀI
 Thời điểm báo cáo tính đến ngày.....
 
 | STT | Họ và tên | Ngày sinh | Giới tính | Quốc tịch | Ngành học | Diện | Số hộ chiếu | Địa chỉ tạm trú | Nghề nghiệp /Chức danh | Số visa/Thẻ tạm trú | Thời hạn tạm trú | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | | | | | | | |
 | 2 | | | | | | | | | | | | |
 | 3 | | | | | | | | | | | | |
@@ -568,7 +561,7 @@ Nơi nhận:
 Thủ trưởng đơn vị
 (ký tên, đóng dấu)
 
-TRANG 4
+----- [Trang 24] -----
 
 Phụ lục III: XÂY DỰNG KẾ HOẠCH ĐOÀN RA
 (Ban hành kèm theo Quyết định số: 2268/ĐHĐN-HTQT, ngày 01 tháng 6 năm 2023 về Quy định về Quản lý hoạt động hợp tác quốc tế của Giám đốc Đại học Đà Nẵng)
@@ -584,7 +577,6 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 KẾ HOẠCH ĐOÀN RA NĂM ....
 
 | STT | Tên đoàn | Danh nghĩa đoàn | Trưởng đoàn | Số thành viên | Đến nước | Đối tác làm việc | Nội dung hoạt động | Số ngày | Thời gian thực hiện | Nguồn kinh phí | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | | | | | | |
 
 Nơi nhận:
@@ -595,7 +587,7 @@ Nơi nhận:
 Thủ trưởng đơn vị
 (ký tên và đóng dấu)
 
-TRANG 5
+----- [Trang 25] -----
 
 Phụ lục IV: BÁO CÁO CHUYẾN ĐI CÔNG TÁC/ HỌC TẬP NƯỚC NGOÀI
 (Ban hành kèm theo Quyết định số: 2268/ĐHĐN-HTQT, ngày 01 tháng 6 năm 2023 về Quy định về Quản lý hoạt động hợp tác quốc tế của Giám đốc Đại học Đà Nẵng)
@@ -651,7 +643,6 @@ BÁO CÁO THỐNG KÊ
 CÁN BỘ, SINH VIÊN ĐI CÔNG TÁC VÀ HỌC TẬP Ở NƯỚC NGOÀI 
 
 | STT | Mục đích/ Nội dung | Sản phẩm dự kiến | Nơi đến | Thời gian | Thành phần đoàn ra | Nguồn kinh phí |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | |
 | | | | | | | |
 
@@ -710,7 +701,6 @@ THỰC HIỆN CÁC VĂN BẢN KÝ KẾT HỢP TÁC VỚI ĐỐI TÁC TRONG VÀ N
 Thời điểm báo cáo tính đến ngày........ 
 
 | STT | Đối tác | Thời hạn hợp tác | Nội dung hợp tác | Các hoạt động/ chương trình đã triển khai | Kế hoạch thực hiện | Đề xuất và kiến nghị |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | | |
 | 2 | | | | | | |
 
@@ -751,7 +741,7 @@ II. THÔNG TIN CỤ THỂ VỀ HỘI NGHỊ, HỘI THẢO
 
 III. NỘI DUNG, CHƯƠNG TRÌNH LÀM VIỆC 
 IV. CÁC HOẠT ĐỘNG BÊN LỀ HỘI NGHỊ, HỘI THẢO (NÊU RÕ THỜI GIAN, ĐỊA ĐIỂM, NỘI DUNG) 
-V. KẾ HOẠCH TUYYỀN TRUYỀN HỘI NGHỊ, HỘI THẢO 
+V. KẾ HOẠCH TUYÊN TRUYỀN HỘI NGHỊ, HỘI THẢO 
 VI. NGUỒN KINH PHÍ TỔ CHỨC 
 
 Nơi nhận: 
@@ -773,7 +763,6 @@ DANH SÁCH NGƯỜI VIỆT NAM THAM DỰ
 (Kèm theo Đề án số: ..../....-... ngày....tháng....năm....) 
 
 | Stt | Họ và tên | Ngày sinh | Giới tính | Chức vụ | Đơn vị |
-| :---: | :---: | :---: | :---: | :---: | :---: |
 | 1. | | | | | |
 | 2. | | | | | |
 | 3. | | | | | |
@@ -792,8 +781,6 @@ DANH SÁCH NGƯỜI VIỆT NAM THAM DỰ
 
 ----- [Trang 31] -----
 
-TRANG 1
-
 ĐẠI HỌC ĐÀ NẴNG
 ĐƠN VỊ: .......
 
@@ -805,7 +792,6 @@ DANH SÁCH NGƯỜI NƯỚC NGOÀI THAM DỰ
 (Kèm theo Đề án số:..../....-...ngày...tháng...năm...)
 
 | Stt | Họ và tên | Ngày sinh | Giới tính | Quốc tịch | Số hộ chiếu | Chức vụ | Đơn vị |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 16. | | | | | | | |
 | 17. | | | | | | | |
 | 18. | | | | | | | |
@@ -819,7 +805,7 @@ DANH SÁCH NGƯỜI NƯỚC NGOÀI THAM DỰ
 | 26. | | | | | | | |
 | 27. | | | | | | | |
 
-TRANG 2
+----- [Trang 32] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 ĐƠN VỊ: ......
@@ -832,7 +818,6 @@ CHƯƠNG TRÌNH DỰ KIẾN
 (Kèm theo Đề án số:..../...-....ngày....tháng....năm....)
 
 | Thời gian | Nội dung | Cá nhân/Tổ chức thực hiện |
-| :---: | :---: | :---: |
 | | | |
 | | | |
 | | | |
@@ -841,7 +826,7 @@ CHƯƠNG TRÌNH DỰ KIẾN
 | | | |
 | | | |
 
-TRANG 3
+----- [Trang 33] -----
 
 Phụ lục IX: BÁO CÁO HỘI NGHỊ/ HỘI THẢO QUỐC TẾ
 (Ban hành kèm theo Quyết định số: 2268 /ĐHĐN-HTQT, ngày 01 tháng 6 năm 2023

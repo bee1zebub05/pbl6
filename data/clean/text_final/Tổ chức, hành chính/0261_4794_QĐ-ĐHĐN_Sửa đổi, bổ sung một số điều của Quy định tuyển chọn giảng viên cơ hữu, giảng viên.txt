@@ -42,7 +42,6 @@ QUYẾT ĐỊNH:
 - Đối với ứng viên đăng ký dự tuyển tại cơ sở đào tạo ở nước ngoài: bản chụp màn hình cơ sở đào tạo có ngành thuộc nhóm 500 ngành hàng đầu (trong 05 năm gần nhất) tại 03 bảng xếp hạng theo nhóm ngành và lĩnh vực đào tạo sau đây:
 
 | TT | Bảng xếp hạng | Địa chỉ website |
-|---|---|---|
 | 1 | THE Ranking | https://www.timeshighereducation.com/world-university-rankings/by-subject |
 | 2 | QS Ranking | https://www.topuniversities.com/subject-rankings/2021 |
 | 3 | US News | https://www.usnews.com/education/best-global-universities?int=top_nav_Global_Universities |
@@ -100,7 +99,7 @@ a) Bước 1: Ứng viên có nguyện vọng xin chuyển ngành đào tạo/c�
 
 ----- [Trang 6] -----
 
-[TRANG 6]
+----- [Trang 6] -----
 
 (i) Đơn xin chuyển ngành đào tạo/cơ sở đào tạo/hình thức đào tạo (theo Mẫu số 10).
 
@@ -126,7 +125,7 @@ d) Bước 4: Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đ�
 đ) Bước 5:
 (i) Trường hợp Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89 cấp ĐHĐN có ý kiến đồng ý cho ứng viên được chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo, Giám đốc ĐHĐN ban hành Quyết định điều chỉnh Quyết định phê duyệt danh sách giảng viên cơ hữu, giảng viên nguồn
 
-[TRANG 7]
+----- [Trang 7] -----
 
 tuyển chọn đi học theo Đề án 89 đã ban hành trước đó và báo cáo Bộ Giáo dục và Đào tạo.
 
@@ -154,7 +153,7 @@ GIÁM ĐỐC
 (Đã ký và đóng dấu)
 PGS.TS. Nguyễn Ngọc Vũ
 
-[TRANG 8 - Mẫu số 01]
+----- [Trang 8] -----
 
 Mẫu số 01
 
@@ -198,7 +197,7 @@ Thời gian đào tạo:................... năm. Từ..........................
 Trường.............................................................................................................................................
 Nước:...............................................................................................................................................
 
-[TRANG 9 - Tiếp theo Mẫu số 01]
+----- [Trang 9] -----
 
 Hình thức đào tạo: ............................................................................................................................
 Chuyên ngành ...................................................................................................................................
@@ -233,7 +232,7 @@ Cơ sở đào tạo và ngành đào tạo nằm trong Quyết định số 183
 
 Cơ sở đào tạo có ngành thuộc nhóm 500 ngành hàng đầu (trong 05 năm gần đây) tại 03 bảng xếp hạng theo nhóm ngành và lĩnh vực đào tạo (nếu học nước ngoài): THE Ranking (https://www.timeshighereducation.com/world-university-rankings/by-subject), QS Ranking
 
-[TRANG 10 - Kết thúc Mẫu số 01]
+----- [Trang 10] -----
 
 (https://www.topuniversities.com/subject-rankings/2021), US News (https://www.usnews.com/education/best-global-universities?int=top_nav_Global_Universities)
 
@@ -355,7 +354,7 @@ HƯỚNG DẪN GHI BẢN CAM KẾT
 
 ----- [Trang 16] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 4
 
@@ -388,7 +387,7 @@ HƯỚNG DẪN GHI BẢN CAM KẾT
 (25) Ghi đầy đủ tên của cá nhân đăng ký dự tuyển.
 (26) Ghi đầy đủ tên của cá nhân đăng ký dự tuyển.
 
-TRANG 2
+----- [Trang 2] -----
 
 Mẫu số 04
 
@@ -442,7 +441,7 @@ Danh sách có ... người học.
 Tổng: ....................
 Danh sách có .... người học.
 
-TRANG 3
+----- [Trang 3] -----
 
 2. Đào tạo trình độ tiến sĩ theo các chương trình liên kết
 
@@ -488,7 +487,7 @@ Danh sách có .... người học.
 Tổng: ....................
 Danh sách có ... người học.
 
-TRANG 4
+----- [Trang 4] -----
 
 6. Đào tạo trình độ thạc sĩ tập trung toàn thời gian ở nước ngoài
 
@@ -509,7 +508,7 @@ TRANG 4
 
 Tổng: ....................
 
-TRANG 5
+----- [Trang 5] -----
 
 Mẫu số 05
 
@@ -575,7 +574,6 @@ Nay tôi làm đơn này kính đề nghị Quý cấp có thẩm quyền xem x�
 1. Bảng kê kinh phí đề nghị cấp:
 
 | Stt | Loại chi phí | Số tiền | Minh chứng | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Học phí và các khoản có liên quan đến học phí | ...... | Thông báo mức học phí trong giấy báo tiếp nhận học viên của cơ sở đào tạo/Hóa đơn/Biên lai thu học phí | Đã có |
 | 2 | Chi phí làm hộ chiếu, visa | ...... | Hóa đơn lệ phí visa thực tế của nước nơi người học được cử đi đào tạo/Biên lai thu tiền lệ phí visa | Chưa có |
 | 3 | Sinh hoạt phí | ...... | ...... | ...... |
@@ -667,7 +665,7 @@ Người cam kết
 
 ----- [Trang 26] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 09
 
@@ -707,7 +705,7 @@ THỦ TRƯỞNG ĐƠN VỊ ..................., ngày... tháng... năm.........
 (Ghi ý kiến, ký tên và đóng dấu) Người làm đơn
  (Ký và ghi rõ họ tên)
 
-TRANG 2
+----- [Trang 2] -----
 
 Mẫu số 10
 
@@ -758,7 +756,7 @@ Kết quả học tập đến thời điểm hiện tại (nếu có):.........
 
 Tôi cam kết:
 
-TRANG 3
+----- [Trang 3] -----
 
 1. Việc xin chuyển ngành học/cơ sở đào tạo/hình thức đào tạo đáp ứng yêu cầu theo quy định tại Thông tư số 25/2021/TT-BGDĐT, các quy định hiện hành của Nhà nước và Đại học Đà Nẵng;
 
@@ -777,7 +775,7 @@ E-mail: ........................................................................
  Người làm đơn
  (Ký và ghi rõ họ tên)
 
-TRANG 4
+----- [Trang 4] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA

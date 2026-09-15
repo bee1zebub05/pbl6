@@ -225,7 +225,7 @@ THỨ TRƯỞNG
 Nguyễn Văn Phúc
 
 ----- [Trang 11-15] -----
-TRANG 1
+----- [Trang 1] -----
 
 Phụ lục
 
@@ -270,7 +270,7 @@ Ghi chú:
 ³ Chữ viết tắt cơ sở giáo dục ban hành văn bản.
 ⁴ Tên cơ quan/tổ chức báo cáo.
 
-TRANG 2
+----- [Trang 2] -----
 
 Biểu số 01
 
@@ -285,7 +285,6 @@ THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH TIẾP NHẬN MỚI NĂM 20.... (\*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Quốc tịch | Trình độ | | | | | | | | | | | | | | | | | Ghi chú |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | | | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng | Trung cấp | Phổ thông | Dự bị tiếng Việt | Thực tập | Khác | Tổng cộng |
 | | | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -305,7 +304,7 @@ Ghi chú:
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
 ³ Tổng số người theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHD).
 
-TRANG 3
+----- [Trang 3] -----
 
 Biểu số 02
 
@@ -320,7 +319,6 @@ THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH ĐANG HỌC TẬP NĂM 20.... (\*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Quốc tịch | Trình độ | | | | | | | | | | | | | | | | | Ghi chú |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | | | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng | Trung cấp | Phổ thông | Dự bị tiếng Việt | Thực tập | Khác | Tổng cộng |
 | | | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -340,7 +338,7 @@ Ghi chú:
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
 ³ Tổng số lưu học sinh đang học tập tại cơ sở giáo dục ở thời điểm báo cáo theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHD).
 
-TRANG 4
+----- [Trang 4] -----
 
 Biểu số 03
 
@@ -355,7 +353,6 @@ THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH VỀ NƯỚC NĂM 20.... (\*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Quốc tịch | Trình độ | | | | | | | | | | | | | | | | | Ghi chú |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | | | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng | Trung cấp | Phổ thông | Dự bị tiếng Việt | Thực tập | Khác | Tổng cộng |
 | | | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -375,7 +372,7 @@ Ghi chú:
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
 ³ Tổng số người theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHD).
 
-TRANG 5
+----- [Trang 5] -----
 
 Biểu số 04
 
@@ -390,7 +387,6 @@ DANH SÁCH LƯU HỌC SINH ĐANG HỌC NĂM 20.... (\*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Họ và tên | Ngày sinh | | Số hộ chiếu | Chỗ ở hiện nay | Quốc tịch | Trình độ đào tạo ³ | Ngành học | Nhóm ngành | Năm bắt đầu khóa học | Năm kết thúc khóa học (dự kiến) | Nguồn kinh phí ⁴ | Ghi chú |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | | | Nam | Nữ | | | | | | | | | | |
 | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | |

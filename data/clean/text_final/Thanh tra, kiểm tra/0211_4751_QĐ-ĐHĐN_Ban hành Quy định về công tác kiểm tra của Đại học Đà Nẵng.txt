@@ -563,13 +563,12 @@ Biên bản bàn giao hồ sơ, tài liệu đã được đọc lại cho nhữ
 
 ----- [Trang 21] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 DANH MỤC HỒ SƠ, TÀI LIỆU
 (Kèm theo Biên bản bàn giao hồ sơ, tài liệu ngày..../..../.......)
 
 | STT | Tên tài liệu | Thời gian ban hành | Hình thức văn bản | Số trang | Ghi chú |
-|---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |
@@ -590,7 +589,7 @@ DANH MỤC HỒ SƠ, TÀI LIỆU
 (Ký, ghi rõ họ tên)
 (Có chữ ký)
 
-TRANG 2
+----- [Trang 2] -----
 
 MẪU SỐ 01-KT
 (Ban hành kèm theo Quy định về công tác kiểm tra của Đại học Đà Nẵng)
@@ -606,7 +605,6 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 DANH MỤC ĐỀ XUẤT KẾ HOẠCH KIỂM TRA NĂM ............
 
 | TT | Đối tượng kiểm tra | Nội dung kiểm tra | Phạm vi kiểm tra | Đơn vị chủ trì | Đơn vị phối hợp | Thời gian dự kiến tiến hành kiểm tra | Ghi chú |
-|---|---|---|---|---|---|---|---|
 | 1 | | | | | | | |
 | 2 | | | | | | | |
 | 3 | | | | | | | |

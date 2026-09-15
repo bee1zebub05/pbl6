@@ -668,7 +668,7 @@ I. Đối với bằng tốt nghiệp các cấp học: tiểu học, trung họ
 
 ----- [Trang 31] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 2
 
@@ -695,7 +695,7 @@ III. Đối với văn bằng giáo dục đại học
 1. Tên bằng theo từng trình độ đào tạo (bằng tiến sĩ, bằng thạc sĩ, bằng cử nhân, bằng tốt nghiệp đại học, bằng bác sĩ, bằng kỹ sư...).
 2. Ngành đào tạo.
 
-TRANG 2
+----- [Trang 2] -----
 
 3
 
@@ -722,7 +722,7 @@ TRANG 2
 23. Tình trạng văn bằng (đã được cấp lại, chỉnh sửa, thu hồi, hủy bỏ... nếu có).
 24. Ghi chú (dùng để ghi chú thêm, ví dụ “chương trình chất lượng cao”, các thông tin khác).
 
-TRANG 3
+----- [Trang 3] -----
 
 4
 
@@ -747,7 +747,7 @@ IV. Đối với chứng chỉ
 17. Số vào sổ gốc cấp chứng chỉ.
 18. Tình trạng chứng chỉ (đã được cấp lại, chỉnh sửa, thu hồi, hủy bỏ... nếu có).
 
-TRANG 4
+----- [Trang 4] -----
 
 Phụ lục VI
 MẪU PHIẾU ĐỀ NGHỊ
@@ -787,7 +787,7 @@ Ghi chú:
 (7) Liệt kê hồ sơ kèm theo hoặc gắn đường dẫn trích xuất thông tin từ cơ sở dữ liệu của cơ quan có thẩm quyền để giải quyết thủ tục hành chính nếu thực hiện dịch vụ công trực tuyến.
 (8) Thông tin để cơ quan có thẩm quyền trả kết quả giải quyết thủ tục hành chính hoặc liên hệ.
 
-TRANG 5
+----- [Trang 5] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
@@ -800,7 +800,6 @@ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Thông tư số 10/2026/TT-BGDĐT ngày 26/02/2026 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân
 
 | Kính chuyển¹: | Ban Giám hiệu |
-| :--- | :--- |
 | Ý kiến của Ban Giám hiệu²: | ....................................................................................................................................
 ....................................................................................................................................
 .................................................................................................................................... |

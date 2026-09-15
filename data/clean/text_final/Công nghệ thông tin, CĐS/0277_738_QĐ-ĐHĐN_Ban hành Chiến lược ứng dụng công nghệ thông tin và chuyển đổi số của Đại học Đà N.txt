@@ -52,7 +52,6 @@ i
 DANH MỤC TỪ NGỮ VIẾT TẮT
 
 STT | Từ ngữ viết tắt được sử dụng | Diễn giải
---- | --- | ---
 1 | AI | Trí tuệ nhân tạo
 2 | ATTT | An toàn, an ninh thông tin
 3 | Big Data | Dữ liệu lớn
@@ -735,7 +734,6 @@ Giải pháp CSDL để lưu trữ thông tin cho một hay nhiều ứng dụng
 PHỤ LỤC 2: NHIỆM VỤ TRIỂN KHAI BÀI TOÁN NGHIỆP VỤ
 
 | STT | Bài toán nghiệp vụ | Dùng chung | Dùng riêng | Đề xuất |
-| :--- | :--- | :---: | :---: | :--- |
 | 1 | Quản lý Văn phòng điện tử | X | | Nâng cấp Hệ thống điều hành tác nghiệp dùng chung thống nhất toàn bộ ĐHĐN. Đề xuất triển khai mô hình nhiều cấp và Cơ chế phân quyền cho nhóm người dùng hoặc từng đơn vị có trách nhiệm quản lý, cập nhật thông tin.
 Nâng cấp các chức năng như Chữ ký số, SSO |
 | 2 | Số hóa tài liệu, lưu trữ tài liệu điện tử | X | | Xây dựng mới, tích hợp với Phân hệ quản lý văn bản
@@ -787,7 +785,6 @@ Xây dựng mới phân hệ thuộc hệ thống EMIS |
 PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện | | |
-| :---: | :--- | :--- | :---: | :---: | :---: |
 | | | | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | I | Hạ tầng kỹ thuật | Hiện đại hóa hạ tầng CNTT và hệ thống nền tảng tiên tiến, đồng bộ phục vụ triển khai các ứng dụng, CSDL của ĐHĐN | | | |
 | 1 | Xây dựng Trung tâm dữ liệu và Trung tâm điều hành xử lý tập trung đa nhiệm | Giai đoạn 1: Đầu tư xây dựng mới Trung tâm dữ liệu và hệ thống điều hành tổng thể theo hướng tập trung tại Khu đô thị ĐHĐN | X | | |
@@ -809,7 +806,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 34
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
-|---|---|---|---|
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | 7 | Hiện đại hóa cơ sở vật chất và hạ tầng CNTT cho các tổ chức, đơn vị trực thuộc ĐHĐN | - Trang bị máy tính, thiết bị CNTT, phần mềm bản quyền... cho cá nhân, tổ chức, đơn vị trong ĐHĐN | X | X | X |
 | - Trang bị hạ tầng kỹ thuật phục vụ họp trực tuyến: phòng họp trực tuyến, hạ tầng thiết bị họp tuyến, | X | | |
@@ -832,7 +828,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 35
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
-|---|---|---|---|
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | | | - Đầu tư hệ quản trị dữ liệu, công cụ khai thác | X | X | X |
 | 3.2 | Xây dựng Kho dữ liệu dùng chung | - Xây dựng CSDL chứa nhiều nguồn dữ liệu ở dạng tự nhiên liên quan đến đào tạo (Data Lake) | X | X | |
@@ -853,7 +848,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 36
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
-|---|---|---|---|
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | | chỉ đạo điều hành nội bộ trên môi trường mạng | trung; tích hợp xác thực điện tử SSO, chữ ký số chuyên dùng phục vụ điều hành, quản lý | | | |
 | 3.1 | Phân hệ phần mềm quản lý văn bản và điều hành tác nghiệp | | X | | |
@@ -882,7 +876,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 37
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
-|---|---|---|---|
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | | tương tác, tự học với trợ lý ảo) | Trang bị các phần mềm mô phỏng trong nghiên cứu và giảng dạy dùng chung cài đặt tại trung tâm dữ liệu ĐHĐN theo các lĩnh vực nghiên cứu và giảng dạy như mô phòng phòng thí nghiệm lĩnh vực khoa học kỹ thuật như tự động hóa, điều khiển, điện tử, cơ điện tử, hàng không, hóa sinh, điện tử y sinh... và các phần mềm phân tích, thiết kế kỹ thuật. | | | |
 | Hệ thống phòng học tương tác thông minh, phòng Lab mô phỏng, ứng dụng công nghệ thực tế ảo (VR) và thực tế tăng cường (AR), công nghệ học máy | | | |
@@ -904,7 +897,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 38
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
-|---|---|---|---|
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | | | thống thông tin, CSDL, các thiết bị đầu cuối của ĐHĐN | | | |
 | 3 | Mua sắm bản quyền cho các hệ thống, phần mềm thương mại và thiết bị CNTT | Trang bị đầy đủ bản quyền cho các hệ thống, phần mềm thương mại và thiết bị CNTT | X | X | X |
@@ -926,7 +918,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 39
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
-|---|---|---|---|
 | | | | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | | | dụng thành thạo các phần mềm ứng dụng trong công việc; Nâng cao kỹ năng ứng dụng CNTT, đảm bảo an toàn, bảo mật trong quá trình vận hành, khai thác hạ tầng, ứng dụng trong công việc của CBVC ĐHĐN trong việc xử lý các công việc hàng ngày | | | |
 | 4 | Các nhiệm vụ liên quan khác | | | |
@@ -940,7 +931,6 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-|---|---|---|---|---|---|---|
 | I | Hạ tầng kỹ thuật | | | | | |
 | 1 | Xây dựng Trung tâm dữ liệu và Trung tâm điều hành xử lý tập trung đa nhiệm | ĐHĐN | | Ưu tiên: 1 | 50 | |
 | 2 | Xây dựng Trung tâm dữ liệu dự phòng | ĐHĐN | | Ưu tiên: 2 | 20 | |
@@ -958,7 +948,6 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 41
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-|---|---|---|---|---|---|---|
 | 1 | Xây dựng, chuẩn hoá hệ thống chỉ tiêu, mẫu biểu kết nối, thu thập thông tin từ các đơn vị trực thuộc | ĐHĐN | ĐHTV, đơn vị trực thuộc | Ưu tiên: 1 | 3 | |
 | 2 | Thiết kế và ứng dụng công nghệ số trong xây dựng hệ thống CSDL ĐHĐN | ĐHĐN | ĐHTV | Ưu tiên: 1 | 10 | |
 | 3 | Xây dựng hệ thống CSDL tích hợp từ nhiều nguồn về ĐHĐN | | | | | |
@@ -978,7 +967,6 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 42
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-|---|---|---|---|---|---|---|
 | | | | đào tạo trực thuộc | | | |
 | 3 | Xây dựng các ứng dụng hỗ trợ hoạt động chỉ đạo điều hành nội bộ trên môi trường mạng | ĐHĐN | | | | |
 | 3.1 | Nâng cấp phần mềm quản lý văn bản và điều hành tác nghiệp | ĐHĐN | Các đơn vị thuộc và trực thuộc | Ưu tiên: 1 | | Tự thực hiện |
@@ -997,7 +985,6 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 43
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-|---|---|---|---|---|---|---|
 | | ĐHĐN và khiếu nại, tố cáo | | tra và Pháp chế | | | |
 | 3.12 | Phần mềm/Phân hệ quản lý đảm bảo chất lượng giáo dục và xếp hạng đại học | ĐHĐN | Văn phòng ĐHĐN và Ban ĐBCLGD | Ưu tiên: 2 | 5 | |
 | 3.13 | Phân hệ khảo sát sự hài lòng của người học | ĐHĐN | Văn phòng ĐHĐN và Ban ĐBCLGD | Ưu tiên: 1 | 3 | |
@@ -1009,12 +996,11 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 | 3 | Phần mềm tổng hợp, báo cáo trực tuyến hỗ trợ hoạt động chỉ đạo điều hành các ĐHTV, đơn vị đào tạo trực thuộc | ĐHTV, đơn vị đào tạo trực thuộc | ĐHĐN | Ưu tiên: 1 | 30 | Độc lập tại các đơn vị |
 
 ----- [Trang 51] -----
-TRANG 1
+----- [Trang 1] -----
 
 44
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | 4 | Xây dựng hệ thống nền tảng tích hợp, chia sẻ, kết nối, liên thông dữ liệu của từng đơn vị | ĐHTV, đơn vị đào tạo trực thuộc | ĐHĐN | Ưu tiên: 1 | 24 | Độc lập tại các đơn vị |
 | 5 | Triển khai, thí điểm triển khai các mô hình dạy - học tiên tiến trên nền tảng số theo hướng dạy học kết hợp (lớp học thông minh, nhóm học tương tác, tự học với trợ lý ảo) phù hợp với điều kiện, đặc thù, nhu cầu thực tế đi kèm với hệ thống phòng học, phòng thực hành. Xây dựng hệ thống LCMS theo chuẩn | ĐHTV | ĐHĐN | Ưu tiên: 1 | 10 | Thí điểm 2 đơn vị |
 | 6 | Phát triển các kho học liệu số, học liệu mở; triển khai học liệu và tư liệu cho các phòng thực hành ảo ứng dụng các công nghệ VR, AR, AI (trợ lý ảo) | ĐHTV | ĐHĐN | Ưu tiên: 2 | 18 | Độc lập tại các đơn vị |
@@ -1025,13 +1011,12 @@ TRANG 1
 | IV | Đảm bảo ATTT | | | | | |
 | 1 | Xác định cấp độ an toàn thông tin theo Nghị định 85/2016/NĐ-CP | Văn phòng ĐHĐN, ĐHTV | | Ưu tiên: 1 | 1 | |
 
-TRANG 2
+----- [Trang 2] -----
 
 ----- [Trang 52] -----
 45
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | 2 | Triển khai các giải pháp, hệ thống giám sát và đảm bảo ATTT | Văn phòng ĐHĐN, ĐHTV | | Ưu tiên: 1 | 25 | |
 | 3 | Mua sắm bản quyền cho các hệ thống, phần mềm thương mại và thiết bị CNTT | Văn phòng ĐHĐN, ĐHTV | Ban Quản lý cơ sở vật chất và Đầu tư | Ưu tiên: 2 | 10 | |
 | 4 | Đánh giá, giám sát thường xuyên tổng thể hệ thống thông tin của ĐHĐN; Thực hiện khắc phục sự cố | Văn phòng ĐHĐN, ĐHTV | | Ưu tiên: 1 | 2 | |
@@ -1045,12 +1030,11 @@ TRANG 2
 ----- [Trang 53] -----
 đơn vị đào tạo trực thuộc | Ưu tiên: 2 | | Tự thực hiện |
 
-TRANG 3
+----- [Trang 3] -----
 
 46
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | 5 | Xây dựng và triển khai quy định quản lý dịch vụ CNTT | Văn phòng ĐHĐN | ĐHTV, đơn vị đào tạo trực thuộc | Ưu tiên: 2 | 3 | |
 | 6 | Chính sách thu hút, khuyến khích nguồn nhân lực chất lượng cao về CNTT; quy định về thuê dịch vụ và nhân lực CNTT trong ĐHĐN (tư vấn, hạ tầng, lưu trữ, quản lý, khai thác dữ liệu, đào tạo...) | ĐHĐN | | Ưu tiên: 2 | | Tự thực hiện |
 | VI | Phát triển, đào tạo nguồn nhân lực | | | | | |
@@ -1062,7 +1046,7 @@ TRANG 3
 | 4.2 | Hợp tác trong nước và quốc tế trong quá trình triển khai thực hiện Chiến lược | Ban chỉ đạo | | Ưu tiên: 2 | | Tự thực hiện |
 | 4.3 | Giám sát đánh giá tình hình thực hiện và điều chỉnh Chiến lược | Ban chỉ đạo | | Ưu tiên: 1 | | Tự thực hiện |
 
-TRANG 4
+----- [Trang 4] -----
 
 ----- [Trang 54] -----
 ĐẠI HỌC ĐÀ NẴNG
@@ -1075,7 +1059,7 @@ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 PHIẾU GIẢI QUYẾT VĂN BẢN ĐẾN
 Quyết định số 738/QĐ-ĐHĐN ngày 22/02/2024
-của Đại học Đà Nẵng về việc ban hành Chiến lược ứng dụng Công nghệ thông tin và chuyển đổi số của Đại học Đà Nẵng đến năm $2035^1$
+của Đại học Đà Nẵng về việc ban hành Chiến lược ứng dụng Công nghệ thông tin và chuyển đổi số của Đại học Đà Nẵng đến năm 2035^1
 
 Kính chuyển²: Ban Giám hiệu
 
@@ -1097,7 +1081,7 @@ Thời hạn hoàn thành: .....................................................
 Ý kiến đề xuất của người giải quyết⁶:
 ................................................................................................................................................................
 
-\ Đơn vị chủ trì thực hiện.* 
+ Đơn vị chủ trì thực hiện.* 
 ¹ Ghi tên loại; số, ký hiệu; ngày, tháng, năm; cơ quan (tổ chức) ban hành và trích yếu nội dung của văn bản đến. 
 ² Phần này dành cho Trưởng Phòng TCHC: ghi rõ tên của thành viên Ban Giám hiệu sẽ cho ý kiến chỉ đạo đối với văn bản đến này 
 ³ Ý kiến phân phối, chỉ đạo giải quyết của Ban Giám hiệu giao đơn vị, cá nhân chủ trì; các đơn vị, cá nhân tham gia phối hợp giải quyết văn bản đến (nếu có); thời hạn giải quyết đối với mỗi đơn vị, cá nhân (nếu có) và ngày tháng cho ý kiến phân phối, giải quyết, ký tên. 

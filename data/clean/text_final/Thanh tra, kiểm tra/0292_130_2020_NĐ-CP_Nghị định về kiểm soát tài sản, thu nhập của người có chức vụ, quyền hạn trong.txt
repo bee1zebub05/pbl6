@@ -615,7 +615,6 @@ Ví dụ: Trong thời kỳ từ 16/12/2019 đến 15/12/2020, ông A bán một
 Ông A sẽ ghi như sau:
 
 | Loại tài sản, thu nhập | Tăng/giảm: Số lượng tài sản | Tăng/giảm: Giá trị tài sản, thu nhập | Nội dung giải trình nguồn gốc tài sản tăng thêm và tổng thu nhập |
-| :--- | :--- | :--- | :--- |
 | 1. Quyền sử dụng đất | | | |
 | 1.1. Đất ở | | | |
 | - Bán thửa đất B | - 100m² | 500 triệu | Giảm do bán |
@@ -626,7 +625,6 @@ CÔNG BÁO/Số 1047 + 1048/Ngày 10-11-2020
 (Tiếp tục bảng ví dụ)
 
 | Loại tài sản, thu nhập | Tăng/giảm: Số lượng tài sản | Tăng/giảm: Giá trị tài sản, thu nhập | Nội dung giải trình nguồn gốc tài sản tăng thêm và tổng thu nhập |
-| :--- | :--- | :--- | :--- |
 | 2. Nhà ở, công trình xây dựng | | | |
 | 2.1. Nhà ở | | | |
 | - Mua căn hộ tại chung cư C | + 100 m² | 3.500 triệu | Mua nhà từ tiền bán thửa đất B |

@@ -318,11 +318,11 @@ Từ 4,00 đến 4,99: Yếu;
 Dưới 4,00: Kém.
 6. Sinh viên được xếp trình độ theo năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học (gọi tắt là N) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn (gọi tắt là M), cụ thể như sau:
 a) Trình độ năm thứ nhất: N < M;
-b) Trình độ năm thứ hai: $M \le N < 2M$;
-c) Trình độ năm thứ ba: $2M \le N < 3M$;
-d) Trình độ năm thứ tư: $3M \le N < 4M$;
-đ) Trình độ năm thứ năm: $4M \le N < 5M$.
-e) Trình độ năm thứ sáu: $5M \le N < 6M$.
+b) Trình độ năm thứ hai: M ≤ N < 2M;
+c) Trình độ năm thứ ba: 2M ≤ N < 3M;
+d) Trình độ năm thứ tư: 3M ≤ N < 4M;
+đ) Trình độ năm thứ năm: 4M ≤ N < 5M.
+e) Trình độ năm thứ sáu: 5M ≤ N < 6M.
 Điều 14. Xử lý kết quả học tập theo tín chỉ
 1. Cuối năm học, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau:
 a) Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24;
@@ -616,23 +616,19 @@ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Thông tư số 56/2026/TT-BGDĐT ngày 07/07/2026 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đào tạo trình độ đại học 
 
 | Kính chuyển¹: | Ban Giám hiệu |
-| :--- | :--- |
 | Ý kiến của Ban Giám hiệu²: | |
 
 Thời hạn hoàn thành: .............................................................................................................................. 
 
 | Ý kiến của lãnh đạo đơn vị chủ trì thực hiện³: | |
-| :--- | :--- |
 
 Thời hạn hoàn thành: .............................................................................................................................. 
 
 | Ý kiến của lãnh đạo đơn vị phối hợp thực hiện⁴: | |
-| :--- | :--- |
 
 Thời hạn hoàn thành: .............................................................................................................................. 
 
 | Ý kiến đề xuất của người giải quyết⁵: | |
-| :--- | :--- |
 
 ¹ Phần này dành cho Trưởng Phòng TCHC: ghi rõ tên của thành viên Ban Giám hiệu sẽ cho ý kiến chỉ đạo đối với văn bản đến này 
 ² Ý kiến phân phối, chỉ đạo giải quyết của Ban Giám hiệu giao đơn vị, cá nhân chủ trì; các đơn vị, cá nhân tham gia phối hợp giải quyết văn bản đến (nếu có); thời hạn giải quyết đối với mỗi đơn vị, cá nhân (nếu có) và ngày tháng cho ý kiến phân phối, giải quyết, ký tên. 

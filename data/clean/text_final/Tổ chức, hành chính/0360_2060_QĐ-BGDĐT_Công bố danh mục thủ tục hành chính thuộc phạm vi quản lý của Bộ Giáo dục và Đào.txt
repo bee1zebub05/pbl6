@@ -57,7 +57,6 @@ THỦ TỤC HÀNH CHÍNH THUỘC PHẠM VI QUẢN LÝ CỦA BỘ GIÁO DỤC VÀ
 (Kèm theo Quyết định số 2060/QĐ-BGDĐT ngày 05 tháng 08 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo)
 
 | STT | Mã TTHC | Tên TTHC/Dịch vụ công | Cấp giải quyết |
-| :--- | :--- | :--- | :--- |
 | I. | Lĩnh vực giáo dục mầm non (gồm: 01 TTHC cấp huyện) | | |
 | 1 | 1.004494 | Thành lập trường mẫu giáo, trường mầm non, nhà trẻ công lập hoặc cho phép thành lập trường mẫu giáo, trường mầm non, nhà trẻ dân lập, tư thục | Cấp huyện |
 | II. | Lĩnh vực giáo dục tiểu học (gồm: 01 TTHC cấp huyện) | | |
@@ -104,7 +103,7 @@ THỦ TỤC HÀNH CHÍNH THUỘC PHẠM VI QUẢN LÝ CỦA BỘ GIÁO DỤC VÀ
 
 ----- [Trang 6] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 6
 
@@ -121,7 +120,7 @@ VIII. Lĩnh vực hệ thống văn bằng, chứng chỉ (gồm: 02 TTHC cấp 
 1 | 1.005092 | Cấp bản sao văn bằng, chứng chỉ từ sổ gốc | Cấp tỉnh
 2 | 1.004889 | Công nhận bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, giấy chứng nhận hoàn thành chương trình giáo dục phổ thông do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam | Cấp tỉnh
 
-TRANG 2
+----- [Trang 2] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA

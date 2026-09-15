@@ -238,7 +238,6 @@ PHỤ LỤC
 (Kèm theo Thông tư số: 33/2018/TT-BGDĐT ngày 26 tháng 12 năm 2018 của Bộ Giáo dục và Đào tạo)
 
 | Mẫu số | Tên mẫu |
-| :--- | :--- |
 | Mẫu số 01 | Báo cáo tiếp nhận thông tin |
 | Mẫu số 02 | Báo cáo đánh giá mức độ, nguy cơ tổn hại và nhu cầu của người học |
 | Mẫu số 03 | Kế hoạch can thiệp trợ giúp người học trong cơ sở giáo dục |
@@ -320,7 +319,6 @@ Vấn đề khác (ghi rõ): ...................................................
 
 2. Đánh giá mức độ, nguy cơ tổn hại của người học
 | Đánh giá mức độ tổn hại/ nguy cơ bị tổn hại của người học | Mức độ (Cao, Trung bình, Thấp) |
-| :--- | :--- |
 | Đánh giá về mức độ tổn hại của người học | Cao (tổn hại của người học vẫn còn rất nghiêm trọng); Trung bình (tổn hại của người học còn ít nghiêm trọng); Thấp (tổn hại của người học không còn nghiêm trọng). |
 | Đánh giá nguy cơ bị tổn hại của người học | Cao (Người học có nguy cơ cao bị tổn hại); Trung bình (Người học có nguy cơ bị tổn hại, nhưng không nghiêm trọng); Thấp (Người học ít hoặc không có nguy cơ bị tổn hại). |
 | Tổng số | |
@@ -385,7 +383,6 @@ Khác (ghi rõ): ...............................................................
 
 3. Tổ chức thực hiện
 | Stt | Tên hoạt động | Cán bộ thực hiện chính | Cán bộ phối hợp | Thời gian thực hiện |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Ngăn chặn các yếu tố gây mất an toàn cho người học | ............ | ............ | ............ |
 | 2 | Giáo dục nâng cao nhận thức về vấn đề gặp phải | ............ | ............ | ............ |
 | 3 | Phối hợp nhóm nâng cao nhận thức và tự giải quyết vấn đề | ............ | ............ | ............ |
@@ -423,7 +420,6 @@ Ngày, tháng, năm thực hiện: .............................................
 1. Đánh giá tình trạng của người học sau can thiệp, trợ giúp
 
 | Đánh giá mức độ tổn hại của người học | Mức độ (Cao, Trung bình, Thấp) |
-| :--- | :--- |
 | Đánh giá về mức độ an toàn của người học | Cao (Người học vẫn chưa được an toàn)
 Trung bình (Người học được bảo đảm an toàn những vẫn còn nguy cơ)
 Thấp (Người học được an toàn tuyệt đối) |

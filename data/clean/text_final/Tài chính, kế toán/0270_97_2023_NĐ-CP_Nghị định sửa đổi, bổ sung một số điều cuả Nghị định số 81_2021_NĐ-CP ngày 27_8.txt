@@ -36,7 +36,6 @@ a) Mức trần học phí đối với các chương trình đào tạo trình 
 Đơn vị: nghìn đồng/học sinh, sinh viên/tháng
 
 | TT | Nhóm ngành, nghề đào tạo | Năm học 2021 - 2022 và năm học 2022 - 2023 |
-|---|---|---|
 | 1 | Khoa học xã hội nhân văn, nghệ thuật, giáo dục và đào tạo, báo chí, thông tin và kinh doanh, quản lý | |
 | 1.1 | Khoa học xã hội nhân văn, giáo dục và đào tạo, báo chí, thông tin và kinh doanh, quản lý | 780 |
 | 1.2 | Nghệ thuật | 940 |
@@ -52,7 +51,6 @@ b) Mức trần học phí đối với các chương trình đào tạo trình 
 Đơn vị: nghìn đồng/học sinh, sinh viên/tháng
 
 | TT | Nhóm ngành, nghề đào tạo | Năm học 2021 - 2022 và năm học 2022 - 2023 |
-|---|---|---|
 | 1 | Khoa học xã hội nhân văn, nghệ thuật, giáo dục và đào tạo, báo chí, thông tin và kinh doanh, quản lý | |
 | 1.1 | Khoa học xã hội nhân văn, giáo dục và đào tạo, báo chí, thông tin và kinh doanh, quản lý | 1.640 |
 | 1.2 | Nghệ thuật | 1.920 |
@@ -70,7 +68,6 @@ a) Đối với cơ sở giáo dục nghề nghiệp công lập chưa tự bả
 Đơn vị: Nghìn đồng/học sinh, sinh viên/tháng
 
 | TT | Nhóm ngành, nghề đào tạo | Năm học 2023-2024 | Năm học 2024-2025 | Năm học 2025-2026 | Năm học 2026-2027 |
-|---|---|---|---|---|---|
 | 1 | Khoa học xã hội nhân văn, nghệ thuật, giáo dục và đào tạo, báo chí, thông tin và kinh doanh, quản lý | 1.248 | 1.328 | 1.360 | 1.600 |
 | 2 | Khoa học, pháp luật và toán | 1.326 | 1.411 | 1.445 | 1.700 |
 | 3 | Kỹ thuật và công nghệ thông tin | 1.870 | 1.992 | 2.040 | 2.400 |
@@ -88,7 +85,6 @@ a) Mức trần học phí đối với các khối ngành đào tạo trình đ
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | Khối ngành | Năm học 2021 - 2022 và năm học 2022 - 2023 |
-|---|---|
 | Khối ngành I: Khoa học giáo dục và đào tạo giáo viên | 980 |
 | Khối ngành II: Nghệ thuật | 1.170 |
 | Khối ngành III: Kinh doanh và quản lý, pháp luật | 980 |
@@ -102,7 +98,6 @@ b) Mức trần học phí đối với các khối ngành đào tạo trình đ
 Đơn vị: nghìn đồng/sinh viên/tháng
 
 | Khối ngành | Năm học 2021 - 2022 và năm học 2022 - 2023 |
-|---|---|
 | Khối ngành I: Khoa học giáo dục và đào tạo giáo viên | 2.050 |
 | Khối ngành II: Nghệ thuật | 2.400 |
 | Khối ngành III: Kinh doanh và quản lý, pháp luật | 2.050 |
@@ -118,7 +113,6 @@ a) Mức trần học phí đối với cơ sở giáo dục đại học công 
 Đơn vị: nghìn đồng/học sinh/tháng
 
 | Khối ngành | Năm học 2023-2024 | Năm học 2024-2025 | Năm học 2025-2026 | Năm học 2026-2027 |
-|---|---|---|---|---|
 | Khối ngành I: Khoa học giáo dục và đào tạo giáo viên | 1.250 | 1.410 | 1.590 | 1.790 |
 | Khối ngành II: Nghệ thuật | 1.200 | 1.350 | 1.520 | 1.710 |
 | Khối ngành III: Kinh doanh và quản lý, pháp luật | 1.250 | 1.410 | 1.590 | 1.790 |

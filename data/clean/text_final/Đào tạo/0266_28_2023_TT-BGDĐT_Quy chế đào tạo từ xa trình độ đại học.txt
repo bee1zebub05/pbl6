@@ -372,7 +372,7 @@ Lãnh đạo cơ sở đào tạo
 
 ----- [Trang 16] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 5
@@ -407,7 +407,7 @@ Thỏa thuận hợp tác ĐTTX:
 Hàng 1: ...
 Hàng 2: ...
 
-TRANG 2
+----- [Trang 2] -----
 
 6
 
@@ -447,7 +447,7 @@ Nơi nhận:
 Lãnh đạo cơ sở phối hợp đào tạo
 (Ký tên và đóng dấu)
 
-TRANG 3
+----- [Trang 3] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA

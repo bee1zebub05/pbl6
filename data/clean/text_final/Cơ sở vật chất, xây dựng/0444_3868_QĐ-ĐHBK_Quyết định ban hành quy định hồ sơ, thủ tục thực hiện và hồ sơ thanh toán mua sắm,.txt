@@ -53,7 +53,6 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 (Kèm theo Quyết định số 3868/QĐ-ĐHBK ngày 05 tháng 8 năm 2025 của Hiệu trưởng Trường Đại học Bách khoa)
 
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Dưới 5.000.000đ | - BGH phê duyệt đề xuất và nội dung thực hiện.
 - 01 báo giá đối với mua sắm công cụ, dụng cụ (không thông qua Tổ xét duyệt giá).
 - Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
@@ -128,7 +127,7 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 
 ----- [Trang 6] -----
 
-TRANG 4
+----- [Trang 4] -----
 
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu
 
@@ -173,7 +172,7 @@ Biểu mẫu:
 - BM.10
 - BM.11
 
-TRANG 5
+----- [Trang 5] -----
 
 (Tiếp nối mục 4.1)
 Hồ sơ/thủ tục mua sắm, sửa chữa:
@@ -211,7 +210,7 @@ Biểu mẫu:
 - BM.15
 - BM.16
 
-TRANG 6
+----- [Trang 6] -----
 
 4.2 | Từ 50.000.000đ đến dưới 500.000.000đ (đối với hạng mục sửa chữa xây dựng)
 Hồ sơ/thủ tục mua sắm, sửa chữa:
@@ -261,7 +260,7 @@ Biểu mẫu:
 - BM.15
 - BM.16
 
-TRANG 7
+----- [Trang 7] -----
 
 (Tiếp nối mục 4.2)
 Hồ sơ/thủ tục mua sắm, sửa chữa:
@@ -290,7 +289,7 @@ Hồ sơ thanh toán:
 - Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá).
 - Quyết định phê duyệt dự toán và KHLCNT.
 
-TRANG 8
+----- [Trang 8] -----
 
 (Tiếp nối mục 5)
 Hồ sơ/thủ tục mua sắm, sửa chữa:
@@ -395,7 +394,6 @@ Trang 12
 BIỂU MẪU BAN HÀNH
 
 STT | Mã hiệu | Tên biểu mẫu
----|---|---
 1 | BM.01 | Mẫu biên bản kiểm tra, báo cáo hiện trạng
 2 | BM.02 | Mẫu thư mời
 3 | BM.03 | Hồ sơ dự toán

@@ -1,7 +1,5 @@
 ----- [Trang 1] -----
 
-TRANG 1
-
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 Số: 1121.../QĐ-ĐHBK
@@ -40,13 +38,12 @@ HIỆU TRƯỞNG
 (Đã ký và đóng dấu)
 PGS.TS. ĐOÀN QUANG VINH
 
-TRANG 2
+----- [Trang 2] -----
 
 TIÊU CHÍ ĐÁNH GIÁ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ HÀNG NĂM
 (Kèm theo Quyết định số 1121 / QĐ-ĐHBK ngày 15 tháng 6 năm 2020 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
 
 | STT | Tên hoạt động khoa học | Đơn vị tính | Điểm đánh giá hoạt động KHCN |
-| :--- | :--- | :--- | :--- |
 | 1 | Dành cho cá nhân | | |
 | 1.1 | Công trình công bố trên các tạp chí khoa học quốc tế | | |
 | | - Tạp chí khoa học quốc tế có mã số ISSN thuộc danh mục ISI - SCIE/SSCI/A&HCI trong Web of Science | Bài báo | 2,0 |
@@ -63,12 +60,11 @@ TIÊU CHÍ ĐÁNH GIÁ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ HÀNG NĂM
 | | - Báo cáo đăng trong kỷ yếu Hội nghị, Hội thảo khác, đăng toàn văn và có ISBN | Báo cáo | 0,25 |
 | 1.4 | Sách đã xuất bản (có quyết định công nhận sử dụng của Nhà trường) | | |
 
-TRANG 3
+----- [Trang 3] -----
 
 (Tiếp theo bảng Tiêu chí đánh giá)
 
 | STT | Tên hoạt động khoa học | Đơn vị tính | Điểm đánh giá hoạt động KHCN |
-| :--- | :--- | :--- | :--- |
 | | - Sách chuyên khảo | Quyển | 2,0 |
 | | - Sách giáo trình | Quyển | 1,5 |
 | | - Sách tham khảo, sách hướng dẫn, từ điển chuyên ngành, bài tập | Quyển | 1,0 |
@@ -92,12 +88,11 @@ TRANG 3
 | | - Hướng dẫn phụ | NCS | 1/3 |
 | 1.9 | Nghiệm thu thành công đề tài/dự án/chương trình NCKH (chỉ tính cho chủ nhiệm đề tài) | | |
 
-TRANG 4
+----- [Trang 4] -----
 
 (Tiếp theo bảng Tiêu chí đánh giá)
 
 | STT | Tên hoạt động khoa học | Đơn vị tính | Điểm đánh giá hoạt động KHCN |
-| :--- | :--- | :--- | :--- |
 | | - Chương trình cấp Nhà nước | Chương trình | 1,5 |
 | | - Đề tài cấp Nhà nước | Đề tài | 1,0 |
 | | - Đề tài cấp Bộ, tỉnh/thành phố | Đề tài | 0,5 |
@@ -126,12 +121,11 @@ TRANG 4
 | | Trên 50% - ≤60% | % | 0,5 |
 | 2.3 | Tổ chức, đồng tổ chức Hội thảo, Hội nghị khoa học và các hoạt động KHCN khác có Quyết định thành lập Ban Tổ chức của Trường ĐHBK hoặc của ĐHĐN, có xuất bản Kỷ yếu có chỉ số ISBN, có thông báo trên website. Đối với Hội thảo, Hội nghị quốc tế phải có Quyết định cho phép tổ chức của sở Ngoại vụ. | | |
 
-TRANG 5
+----- [Trang 5] -----
 
 (Tiếp theo bảng Tiêu chí đánh giá)
 
 | STT | Tên hoạt động khoa học | Đơn vị tính | Điểm đánh giá hoạt động KHCN |
-| :--- | :--- | :--- | :--- |
 | | Hội thảo, hội nghị quốc tế | | |
 | | - Qui mô từ 100 báo cáo trở lên | Hội nghị/Hội thảo | 4,0 |
 | | - Qui mô từ 50 đến 100 báo cáo | Hội nghị/Hội thảo | 3,5 |

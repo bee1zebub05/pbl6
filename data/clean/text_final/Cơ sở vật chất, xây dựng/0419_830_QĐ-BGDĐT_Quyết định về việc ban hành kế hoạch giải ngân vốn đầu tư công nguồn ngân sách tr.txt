@@ -1,6 +1,6 @@
 ----- [Trang 1] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 Số: 830 /QĐ-BGDĐT
@@ -31,7 +31,7 @@ a) Khẩn trương tổ chức thực hiện kế hoạch giải ngân được 
 b) Chịu trách nhiệm trước Bộ trưởng, Lãnh đạo Bộ về việc tổ chức thực hiện và kết quả giải ngân của đơn vị;
 c) Thường xuyên rà soát, kiểm tra, đôn đốc, kịp thời phát hiện và tháo gỡ
 
-[TRANG 2]
+----- [Trang 2] -----
 
 các khó khăn vướng mắc của từng dự án; tăng cường kỷ luật, kỷ cương, cá thể hóa trách nhiệm người đứng đầu trong trường hợp giải ngân chậm, gắn trách nhiệm, đánh giá mức độ hoàn thành công việc của các cá nhân, đơn vị được giao với tiến độ thực hiện giải ngân của từng dự án; kịp thời thay thế, điều chuyển, xử lý nghiêm các trường hợp vi phạm, cản trở, làm việc cầm chừng, né tránh, đùn đẩy, sợ trách nhiệm, để trì trệ, làm chậm tiến độ giao vốn, giải ngân vốn, không đáp ứng yêu cầu công việc được giao; tăng cường nâng cao năng lực tổ chức thực hiện dự án của chủ đầu tư và Ban quản lý dự án; thực hiện nghiêm các quy định của pháp luật, lựa chọn nhà thầu có đầy đủ năng lực để triển khai đúng tiến độ, bảo đảm chất lượng các nhiệm vụ, dự án; kịp thời thực hiện các thủ tục thanh quyết toán đối với những khối lượng đủ điều kiện, không để dồn vào thời điểm cuối năm; xử lý nghiêm các tổ chức, các nhân có hành vi vi phạm quy định pháp luật; thu hồi dứt điểm số dự nợ tạm ứng quá hạn (nếu có) và báo cáo về Bộ Giáo dục và Đào tạo.
 
@@ -66,7 +66,6 @@ KẾ HOẠCH GIẢI NGÂN VỐN ĐẦU TƯ CÔNG NGÂN SÁCH TRUNG ƯƠNG NĂM 2
 (Vì bảng dữ liệu rất lớn với 29 cột chi tiết theo tháng, tôi xin tóm tắt các cột chính: STT, Tên dự án, Kế hoạch vốn năm 2025 và Tổng giải ngân cuối năm 01/2026)
 
 | TT | Tên dự án | KH kế hoạch năm 2025 | Tổng giải ngân đến 01/2026 |
-|:---|:---|:---:|:---:|
 | 1 | Dự án tư vấn cơ sở và thiết kế bản vẽ thi công... | 921,337 | 921,337 |
 | 2 | Dự án xây dựng cơ sở vật chất và xây dựng... | 1,960 | 1,960 |
 | 3 | Dự án xây dựng cơ sở vật chất... | 1,500 | 1,500 |
@@ -124,7 +123,6 @@ TRANG 1: BẢNG KẾ HOẠCH GIẢI NGÂN
 Đơn vị: Triệu đồng
 
 | TT | Tên dự án | Kế hoạch đầu tư công năm 2025 | Kế hoạch giải ngân đến hết tháng 01/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 02/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 03/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 04/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 05/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 06/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 07/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 08/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 09/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 10/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 11/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 12/2025 (Tổng số / Tỷ lệ %) | Kế hoạch giải ngân đến hết tháng 01/2026 (Tổng số / Tỷ lệ %) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 50 | Dự án đầu tư xây dựng Đại học Thái Nguyên bước III giai đoạn 2021-2025 | 188.450 | 0% | 0% | 91.521 / 49% | 91.521 / 49% | 91.521 / 49% | 110.949 / 59% | 110.949 / 59% | 110.949 / 59% | 134.185 / 71% | 134.185 / 71% | 134.185 / 71% | 188.450 / 100% | 188.450 / 100% |
 | | Vốn trong nước | 188.450 | 0% | 0% | 91.521 / 49% | 91.521 / 49% | 91.521 / 49% | 110.949 / 59% | 110.949 / 59% | 110.949 / 59% | 134.185 / 71% | 134.185 / 71% | 134.185 / 71% | 188.450 / 100% | 188.450 / 100% |
 | 51 | Dự án đầu tư xây dựng các phòng thí nghiệm trọng điểm dùng chung khu vực Bắc, Trung, Nam (giai đoạn 2) | 256.258 | 0% | 0% | 23.635 / 9% | 23.635 / 9% | 23.635 / 9% | 31.904 / 12% | 31.904 / 12% | 31.904 / 12% | 142.632 / 56% | 142.632 / 56% | 142.632 / 56% | 256.258 / 100% | 256.258 / 100% |

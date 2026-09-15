@@ -1,172 +1,193 @@
 ----- [Trang 1] -----
 
-ĐẠI HỌC ĐÀ NẴNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-TRƯỜNG ĐAI HỌC BÁCH KHOA Độc lập ~Tự do Hanh phúc
-Số: .8462. IQĐ-ĐHBK Đà Nẵng ngày 28 tháng 02 năm 2023
-QUYÉT ĐỊNH
+ĐẠI HỌC ĐÀ NẴNG
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC BÁCH KHOA
+Độc lập - Tự do - Hạnh phúc
+
+Số: 840/QĐ-ĐHBK
+Đà Nẵng, ngày 28 tháng 02 năm 2023
+
+QUYẾT ĐỊNH
 Ban hành Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và
 Đồ án tốt nghiệp theo hình thức Capstone Project của Trường Đại học Bách khoa,
-Đai hoc Đà Nẵng
+Đại học Đà Nẵng
+
 HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA
-Căn cứ Luật Giáo dục đại học ngày 18/6/2012; Luật sửa đổi; bổ sung một số điều
+
+Căn cứ Luật Giáo dục đại học ngày 18/6/2012; Luật sửa đổi, bổ sung một số điều
 của Luật Giáo dục đại học ngày 19/11/2018;
 Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại
 học Đà Nẵng;
 Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định
 chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của
 Luật Giáo dục đại học;
-Căn cứ Thông tu số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo
+Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo
 dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;
-Căn cứ Thông tv số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo
-dục và Đào tạo ban hành Quy định về chuẩn chương trình đào tạo; xây dựng; thẩm định
+Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo
+dục và Đào tạo ban hành Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định
 và ban hành chương trình đào tạo các trình độ của giáo dục đại học;
 Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà
-Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng ~ và Nghị quyết số
-13/NQ- HĐĐH ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ
+Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số
+13/NQ-HĐĐH ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ
 chức và hoạt động của Đại học Đà Nẵng;
-Căn cứ Nghị quyết số O5/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường
+Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường
 Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách
-khoa, Đại học Đà Nẵng- và Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi;
-bổ sung một số điều của Quy chế tổ chức và hoạt động của Trwờng Đại học Bách khoa;
+khoa, Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi,
+bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;
 Căn cứ Quyết định số 1691/QĐ-ĐHBK ngày 15/7/2020 của Hiệu trưởng Trường
 Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Mục tiêu và Chuẩn đầu ra
-chương trình ẳào tạo tích hợp Cử nhân Kỹ sư 180 tín chi;
-Căn cứ 'Quyết định số 3092/QĐ-ĐHBK ngày 08/08/2022 của Hiệu trưởng Trường
-Đại học Bách khoa; Đại học Đà Nẵng ban hành Quy định chế độ làm việc của giảng
-viên Trường Đại học Bách khoa Đại học Đà Nẵng;
+chương trình đào tạo tích hợp Cử nhân Kỹ sư 180 tín chỉ;
+Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08/08/2022 của Hiệu trưởng Trường
+Đại học Bách khoa, Đại học Đà Nẵng ban hành Quy định chế độ làm việc của giảng
+viên Trường Đại học Bách khoa, Đại học Đà Nẵng;
 Theo đề nghị của Phó Trưởng phòng phụ trách Phòng Đào tạo.
-QUYÉT ĐỊNH:
+
+QUYẾT ĐỊNH:
+
 Điều 1. Ban hành kèm theo Quyết định này Quy định về việc tổ chức và triển khai
 thực hiện Thực tập tốt nghiệp và Đồ án tốt nghiệp theo hình thức Capstone Project của
-Truờng Đại học Bách khoa, Đại học Đà Nẵng:
+Trường Đại học Bách khoa, Đại học Đà Nẵng.
 
 ----- [Trang 2] -----
 
-Điều 2. Quyết định này có hiệu Iực kể từ ngày ký và áp dung từ Học kỳ 2 năm học
-2022-2023
-Điều 3. Truởng phòng Phòng Tổ chức-Hành chính, Phó Truởng phòng phụ trách
-Phòng Đào tạo, Trưởng các đơn vị; cá nhân có liên quan và sinh viên của Trường chịu
-trách nhiệm thi hành Quyết định nàyai
-Noi nhận: DyC HIỆU TRƯỞNG
-Như Điều 3; TRUỜNG
-Đại học Đà Nẵng (để báo cáo); (Ạl HỌ
-Hội đồng Tnờng (để báo cáo); BÁCH KH8A
-Ban Giám hiệu;
-Lưu: VT, ĐT.
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký và áp dụng từ Học kỳ 2 năm học
+2022-2023.
+Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Phó Trưởng phòng phụ trách
+Phòng Đào tạo, Trưởng các đơn vị, cá nhân có liên quan và sinh viên của Trường chịu
+trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3;
+- Đại học Đà Nẵng (để báo cáo);
+- Hội đồng Trường (để báo cáo);
+- Ban Giám hiệu;
+- Lưu: VT, ĐT.
+
+HIỆU TRƯỞNG
 PGS.TS. Nguyễn Hữu Hiếu
 
 ----- [Trang 3] -----
 
-ĐAI HỌC ĐÀ NẴNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-TRƯỜNG ĐAI HỌC BÁCH KHOA Độc lập Tự do Hanh phúc
+ĐẠI HỌC ĐÀ NẴNG
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC BÁCH KHOA
+Độc lập - Tự do - Hạnh phúc
+
 QUY ĐỊNH
 về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt nghiệp
 theo hình thức Capstone Project của Trường Đại học Bách khoa, Đại học Đà Nẵng
-(Ban hành kèm theo Quyết định số 840 /QĐ-ĐHBK ngày 2% tháng ' 02 năm 2023
+(Ban hành kèm theo Quyết định số 840/QĐ-ĐHBK ngày 28 tháng 02 năm 2023
 của Hiệu trưởng Trường Đại học Bách khoa)
+
 Chương I
 QUY ĐỊNH CHUNG
+
 Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
 1. Quy định này quy định việc tổ chức và triển khai Thực tập tốt nghiệp và Đồ án
-tốt nghiệp kết hợp giữa Nhà truờng và Doanh nghiệp, Viện/Trung tâm/Phòng thí nghiệm
-nghiên cứu, cơ quan sở ban ngành chuyên môn (sau đây goi chung là doanh nghiệp)
+tốt nghiệp kết hợp giữa Nhà trường và Doanh nghiệp, Viện/Trung tâm/Phòng thí nghiệm
+nghiên cứu, cơ quan sở ban ngành chuyên môn (sau đây gọi chung là doanh nghiệp)
 theo hình thức Capstone Project (sau đây gọi tên là Capstone Project) cho sinh viên năm
-cuối khóa của Truờng Đại học Bách khoa; Đại học Đà Nẵng (sau đây goi tắt là Truờng)
+cuối khóa của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường).
 Capstone Project được áp dụng nhằm nâng cao chất lượng Thực tập tốt nghiệp
-(viết = tắt là TTTN) và Đồ án tốt nghiệp (viết = tắtlà ĐATN); gắn kết nội dung đề tài ĐATN
+(viết tắt là TTTN) và Đồ án tốt nghiệp (viết tắt là ĐATN); gắn kết nội dung đề tài ĐATN
 với thực tế để đáp ứng mục tiêu chương trình đào tạo và nhu cầu nhân lực chất lượng
-cao của thị trường lao động:
-2. Quy định này áp dụng đối với viên chức tham gia công tác đào tao, sinh viên
-năm cuối của Trường và các cá nhân; đơn vị có liên quan
-Điều 2. Thòi gian và khối Iượng thực hiện, phương thức triển khai và đánh
+cao của thị trường lao động.
+2. Quy định này áp dụng đối với viên chức tham gia công tác đào tạo, sinh viên
+năm cuối của Trường và các cá nhân, đơn vị có liên quan.
+Điều 2. Thời gian và khối lượng thực hiện, phương thức triển khai và đánh
 giá
-1 Capstone Project được triển khai liên tục theo kế hoạch năm cuối của chuơng
-trình đào tao.
-2. Số tín chỉ của học phần Capstone Project; bao gồm số tín chỉ TTTN và số tín
+1. Capstone Project được triển khai liên tục theo kế hoạch năm cuối của chương
+trình đào tạo.
+2. Số tín chỉ của học phần Capstone Project, bao gồm số tín chỉ TTTN và số tín
 chỉ ĐATN, được thể hiện trong chương trình đào tạo. Trong đó:
 a) TTTN được thực hiện tại doanh nghiệp.
 b) ĐATN được thực hiện tại doanh nghiệp; hoặc kết hợp tại doanh nghiệp và tại
-Truờng; hoặc thực hiện tại Truờng.
+Trường; hoặc thực hiện tại Trường.
 c) ĐATN được triển khai sau khi thực hiện TTTN hoặc có thể được triển khai
-đồng' thời với TTTN. Nội dung ĐATN được triển khai theo định hướng nghiên cứu; phát
-triển; sản xuất gắn với doanh nghiệp. Tùy theo nội dung đề tài, ĐATN có thể được triển
+đồng thời với TTTN. Nội dung ĐATN được triển khai theo định hướng nghiên cứu, phát
+triển, sản xuất gắn với doanh nghiệp. Tùy theo nội dung đề tài, ĐATN có thể được triển
 khai liên ngành.
 d) Điểm đánh giá của học phần Capstone Project bao gồm điểm TTTN và điểm
-ĐATN. Trong số của từng nội dung được tính theo tỷ lệ số tín chỉ đóng góp trong Đề
+ĐATN. Trọng số của từng nội dung được tính theo tỷ lệ số tín chỉ đóng góp trong Đề
 
 ----- [Trang 4] -----
 
-cuong chi tiết học phần. Sinh viên không hoàn thành TTTN thì không được tiếp tục làm
+cương chi tiết học phần. Sinh viên không hoàn thành TTTN thì không được tiếp tục làm
 ĐATN, sinh viên phải đăng ký lại học phần Capstone Project.
-3 Truờng hợp TTTN và ĐATN là 02 học phần riêng lẻ trong chương trình đào
-tao; điểm đánh giá TTTN và ĐATN là 02 cột điểm riêng lẻ.
+3. Trường hợp TTTN và ĐATN là 02 học phần riêng lẻ trong chương trình đào
+tạo, điểm đánh giá TTTN và ĐATN là 02 cột điểm riêng lẻ.
 4. Sinh viên thực hiện ĐATN dưới sự hướng dẫn và đánh giá bởi Hội đồng hướng
-dẫn (viết tắt là HĐHD) và Hội đồng ' bảo vệ tốt nghiệp (viết tắt là HĐBVTN).
-Chưong II
+dẫn (viết tắt là HĐHD) và Hội đồng bảo vệ tốt nghiệp (viết tắt là HĐBVTN).
+
+Chương II
 HỘI ĐỒNG HƯỚNG DẪN, HỘI ĐỒNG BẢO VỆ TỐT NGHIỆP
 VÀ SINH VIÊN THỰC HIỆN CAPSTONE PROJECT
+
 Điều 3. Hội đồng hướng dẫn và Hội đồng bảo vệ tốt nghiệp
-1. Hiệu trưởng quyết . định thành lập HĐHD và HĐBVTN. Quyết định thành lập
+1. Hiệu trưởng quyết định thành lập HĐHD và HĐBVTN. Quyết định thành lập
 Hội đồng thể hiện đầy đủ nhiệm vụ các thành viên hội đồng, đơn vị công tác, danh sách
 sinh viên và tên đề tài theo đề nghị của khoa.
-2. Hội đồng7 hướng dẫn
+2. Hội đồng hướng dẫn
 a) HĐHD có ít nhất 02 thành viên, trong đó có ít nhất 01 thành viên đại diện cho
 doanh nghiệp là đồng hướng dẫn. Chủ tịch hội đồng là giảng viên hướng dẫn của
-Trường:
+Trường.
 b) Chủ tịch HĐHD tổ chức việc hướng dẫn và đánh giá theo các tiêu chí tại Phụ
-lục 1 (mốc MI, M2, M3 của Bảng 2)
+lục 1 (mốc M1, M2, M3 của Bảng 2).
 3. Hội đồng bảo vệ tốt nghiệp
-HĐBVTN có số thành viên là số lẻ, trong đó có chủ tịch, nguời phản biện và
-thư ký . Chủ tịch và thư ký HĐBVTN là giảng viên của Truờng. HĐBVTN có ít nhất 01
+a) HĐBVTN có số thành viên là số lẻ, trong đó có chủ tịch, người phản biện và
+thư ký. Chủ tịch và thư ký HĐBVTN là giảng viên của Trường. HĐBVTN có ít nhất 01
 thành viên đại diện cho doanh nghiệp và 01 thành viên không phải là thành viên của
 HĐHD.
 b) HĐBVTN chấm bảo vệ ĐATN theo các tiêu chí tại Phụ lục 1 (mốc M3 của
-Bảng 2)
+Bảng 2).
 c) HĐBVTN làm việc khi có các phiếu nhận xét đồng ý cho bảo vệ của HĐHD,
 của người phản biện và có ít nhất 3/4 số thành viên tham dự, trong đó phải có chủ tịch,
-thu ký hội đồng. Thành viên vắng mặt họp hội đồng, phải xin phép chủ tịch hội đồng
+thư ký hội đồng. Thành viên vắng mặt họp hội đồng, phải xin phép chủ tịch hội đồng
 bằng văn bản.
 Chênh lệch điểm đánh giá (quy về thang điểm 10) của các thành viên
-HĐBVTN không vuợt quá 1,5 điểm.
+HĐBVTN không vượt quá 1,5 điểm.
 Chênh lệch điểm đánh giá (quy về thang điểm 10) của người phản biện giữa 2
-lần đánh giá sản phẩm ĐATN và đánh giá tại HĐBVTN không vuợt quá 1,5 điểm.
+lần đánh giá sản phẩm ĐATN và đánh giá tại HĐBVTN không vượt quá 1,5 điểm.
 
 ----- [Trang 5] -----
 
-4 Yêu cầu đối với thành viên đại diện cho doanh nghiệp tham gia HĐHD và
+4. Yêu cầu đối với thành viên đại diện cho doanh nghiệp tham gia HĐHD và
 HĐBVTN: tốt nghiệp trình độ đại học trở lên; có chuyên môn phù hợp với nội dung đề
 tài.
 Điều 4. Sinh viên thực hiện Capstone Project
-1 Capstone Project được khuyến khích triển khai cho nhóm từ 02 đến 03 sinh
-viên đăng ký tham gia làm chung đề tài; tối đa 05 sinh viên/nhóm-
+1. Capstone Project được khuyến khích triển khai cho nhóm từ 02 đến 03 sinh
+viên đăng ký tham gia làm chung đề tài; tối đa 05 sinh viên/nhóm.
 2. Nhóm sinh viên có nhiệm vụ xây dựng đề cương ĐATN, phân công nhiệm vụ
 và thực hiện dưới sự hướng dẫn của HĐHD, thực hiện báo cáo định kỳ trước HĐHD và
 HĐBVTN theo các tiêu chí đánh giá tại Phụ lục 1.
-3 Sinh viên có trách nhiệm tuân thủ các quy định tại doanh nghiệp, hoàn thành
+3. Sinh viên có trách nhiệm tuân thủ các quy định tại doanh nghiệp, hoàn thành
 đúng tiến độ các nội dung cần thực hiện của Capstone Project.
+
 Chương III
 QUY TRÌNH TRIỂN KHAI CAPSTONE PROJECT
+
 Điều 5. Quy trình triển khai Thực tập tốt nghiệp
-Nội dung công việc Thời gian Đơn vị chủ trì Đơn vị phối hợp uc
-thực hiện thực hiện VẨ
-1 Xây dựng kế hoach triển khai TTTN tai doanh nghiệp #RUỜNG
-1.1. Liên hệ doanh nghiệp để Phòng EẠl HỌC
-Trước thời Khoa/Bộ môn Đào tao;BÁkH KHOA ,
+Nội dung công việc Thời gian Đơn vị chủ trì Đơn vị phối hợp
+thực hiện thực hiện
+1. Xây dựng kế hoạch triển khai TTTN tại doanh nghiệp
+1.1. Liên hệ doanh nghiệp để Phòng
+Trước thời Khoa/Bộ môn Đào tạo;
 gửi sinh viên TTTN điểm TTTN Trung tâm hỗ trợ
-theo Kế hoạch sinh viên và quan HGc DA
+theo Kế hoạch sinh viên và quan
 năm học hệ doanh nghiệp
 (HTSV&QHDN)
-1.2 Thông báo cho sinh viên Khoa/Bộ môn Doanh nghiệp
+1.2. Thông báo cho sinh viên Khoa/Bộ môn Doanh nghiệp
 kế hoạch TTTN tại doanh
 nghiệp
-2. Tổ chức TTTN tai doanh nghiệp
-Giám sát; hướng dẫn sinh viên Theo Kế Doanh nghiệp Khoa; Bộ môn
-thực tập tại doanh nghiệp: hoạch năm học
+2. Tổ chức TTTN tại doanh nghiệp
+Giám sát, hướng dẫn sinh viên Theo Kế Doanh nghiệp Khoa/Bộ môn
+thực tập tại doanh nghiệp. hoạch năm học
 3. Đánh giá TTTN
-Sinh viên báo cáo kết quả Tuần cuối Khoa/Bộ môn; Phòng Đào tao
+Sinh viên báo cáo kết quả Tuần cuối Khoa/Bộ môn, Phòng Đào tạo
 TTTN. cùng của đợt Doanh nghiệp
 Khoa/Bộ môn tổ chức đánh giá TTTN theo Kế
-theo các tiêu chí ở Phụ lục hoạch năm học
+theo các tiêu chí ở Phụ lục 1 hoạch năm học
 (Bảng 1)
 
 ----- [Trang 6] -----
@@ -174,65 +195,64 @@ theo các tiêu chí ở Phụ lục hoạch năm học
 Điều 6. Quy trình triển khai Đồ án tốt nghiệp
 Nội dung công việc Thời gian Đơn vị chủ trì Đơn vị phối hợp
 thực hiện thực hiện
-1 Xây dựng kế hoach triển khai ĐATN với sự tham gia của doanh nghiệp
-1.1 Thông báo cho sinh viên Trước hoặc Khoa/Bộ môn Phòng Đào tao
-về nội dung; quy trình triển trong quá trình
+1. Xây dựng kế hoạch triển khai ĐATN với sự tham gia của doanh nghiệp
+1.1. Thông báo cho sinh viên Trước hoặc Khoa/Bộ môn Phòng Đào tạo
+về nội dung, quy trình triển trong quá trình
 khai Capstone Project triển khai
 TTTN Khoa/Bộ môn Phòng Đào tạo;
 1.2. Liên hệ mời doanh nghiệp Trung tâm
 hợp tác triển khai HTSV&QHDN
 1.3. Lập kế hoạch để doanh Khoa/Bộ môn Trung tâm HTSV
 nghiệp tổ chức seminar giới & QHDN;
-thiệu doanh nghiệp; tuyển Các Khoa có
-chon sinh viên tham gia
-1.4. Tổ chức tuyển chon sinh Khoa/Bộ môn Doanh nghiệp
+thiệu doanh nghiệp, tuyển Các Khoa có
+chọn sinh viên tham gia
+1.4. Tổ chức tuyển chọn sinh Khoa/Bộ môn Doanh nghiệp
 viên làm Capstone Project
 1.5. Lập danh sách sinh viên Chậm nhất là Khoa/Bộ môn Doanh nghiệp
 làm ĐATN, gồm có: tuần cuối cùng
 Danh sách sinh viên làm của đợt TTTN
-: : ĐATN tại doanh nghiệp; theo kế hoạch
+ĐATN tại doanh nghiệp; theo kế hoạch
 Danh sách sinh viên làm đào tạo của
 ĐATN kết hợp tại doanh năm học
-nghiệp và tại Truờng;
+nghiệp và tại Trường;
 Danh sách sinh viên làm
-ĐATN tại Truờng:
-1.6 Thảo luận với doanh Khoa/Bộ môn Doanh nghiệp;
+ĐATN tại Trường.
+1.6. Thảo luận với doanh Khoa/Bộ môn Doanh nghiệp;
 nghiệp và các khoa cùng Các khoa có
 hướng dẫn (nếu có) về nội tham gia
 dung đề tài và thành viên của
 doanh nghiệp, giảng viên tham
 gia HĐHD, hướng đề tài, mục
-tiêu, sản phẩm đạt dược. Xác
+tiêu, sản phẩm đạt được. Xác
 định đề tài được thực hiện
 bằng ngoại ngữ (tiếng
 Anh/Pháp/Nhật) (nếu có)
 2. Thành lập HĐHD
-2.1. Gửi cho Phòng Đào tao Chậm nhất là Khoa Bộ môn;
+2.1. Gửi cho Phòng Đào tạo Chậm nhất là Khoa/Bộ môn;
 Danh sách HĐHD cho từng đề tuần cuối cùng Phòng Đào tạo
 tài kèm theo danh sách sinh của đợt TTTN
-viên làm Capstone Project. theo kế hoach
+viên làm Capstone Project. theo kế hoạch
 
 ----- [Trang 7] -----
 
-5
 Nội dung công việc Thời gian Đơn vị chủ trì Đơn vị phối hợp
 thực hiện thực hiện
-2.2. Trình Ban Giám hiệu ban đào tạo của Phòng Đào tao Phòng Tổ chức
+2.2. Trình Ban Giám hiệu ban đào tạo của Phòng Đào tạo Phòng Tổ chức -
 hành quyết định thành lập năm học Hành chính
 HĐHD.
-3 Triển khai Capstone Project
+3. Triển khai Capstone Project
 Sinh viên triển khai Capstone Theo Kế HĐHD Khoa/Bộ môn
-Project dưới sự hướng dẫn và hoach năm học Doanh nghiệp
+Project dưới sự hướng dẫn và hoạch năm học Doanh nghiệp
 đánh giá của HĐHD theo các
-tiêu chí tại Phụ lục 1 (mốc Ml,
+tiêu chí tại Phụ lục 1 (mốc M1,
 M2, M3 của Bảng 2)
 4. Thành lập HĐBVTN
-4.1. Gửi cho Phòng Đào tao Tiến hành Khoa Bộ môn;
-danh sách HĐBVTN cho từng truớc thời Phòng Đào tao;
+4.1. Gửi cho Phòng Đào tạo Tiến hành Khoa/Bộ môn;
+danh sách HĐBVTN cho từng trước thời Phòng Đào tạo;
 nhóm sinh viên làm Capstone điểm bảo vệ Các khoa có
 Project với tên đề tài đã được 02 tuần theo tham gia
 xác định bởi HĐHD. kế hoạch đào
-4.2. Trình Ban Giám hiệu ban tao năm học Phòng Đào tao Phòng Tổ chức
+4.2. Trình Ban Giám hiệu ban tạo năm học Phòng Đào tạo Phòng Tổ chức -
 hành quyết định thành lập Hành chính
 HĐBVTN.
 5. Tổ chức bảo vệ Capstone Project
@@ -242,194 +262,194 @@ HĐBVTN chấm bảo vệ học
 ĐATN theo các tiêu chí đánh
 giá tại Phụ lục 1 (mốc M3 của
 Bảng 2)
+
 Chương IV
 KINH PHÍ THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH
+
 Điều 7. Kinh phí thực hiện
-Truờng chi hỗ trợ cho công tác quản lý, công tác tổ chức triển khai thực hiện
-Capstone Project theo định mức quy định tại Phụ lục 2
-Hồ sơ của mỗi Capstone Project được Truờng chi hỗ trợ là các hồ sơ có đầy đủ
+Trường chi hỗ trợ cho công tác quản lý, công tác tổ chức triển khai thực hiện
+Capstone Project theo định mức quy định tại Phụ lục 2.
+Hồ sơ của mỗi Capstone Project được Trường chi hỗ trợ là các hồ sơ có đầy đủ
 minh chứng theo các tiêu chí đánh giá tại Phụ lục 1.
 Điều 8. Tổ chức thực hiện
-Trưởng phòng Phòng Đào tạo có trách nhiệm hướng dẫn các đơn vị trong việc
-thực hiện Quy định này .
+1. Trưởng phòng Phòng Đào tạo có trách nhiệm hướng dẫn các đơn vị trong việc
+thực hiện Quy định này.
 
 ----- [Trang 8] -----
 
-2. Trưởng khoa/Truởng bộ môn có trách nhiệm phổ biến Quy định này đến các
-giảng viên thuộc đơn vị; các giàng viên thuộc Đại học Đà Nẵng; các giảng viên thỉnh
-giảng tham gia HHD, HĐBVTN và các cá nhân có liên quan.
+2. Trưởng khoa/Trưởng bộ môn có trách nhiệm phổ biến Quy định này đến các
+giảng viên thuộc đơn vị, các giảng viên thuộc Đại học Đà Nẵng, các giảng viên thỉnh
+giảng tham gia HĐHD, HĐBVTN và các cá nhân có liên quan.
 3. Chủ tịch HĐHD có trách nhiệm phổ biến Quy định này cho sinh viên ngay từ
 tuần đầu của thời gian làm ĐATN.
 Điều 9. Áp dụng quy định chuyển tiếp
-Đối với sinh viên chuơng trình tiên tiến từ khóa 2019 về trước: áp dụng Quyết
-định số 39/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Truờng Đại học Bách khoa về
-việc ban hành 'Quy định tổ chức và triển khai thực hiện Thực tập tốt nghiệp và làm Đồ
-án tốt nghiệp cho sinh viên Chương trình tiên tiến"
+Đối với sinh viên chương trình tiên tiến từ khóa 2019 về trước: áp dụng Quyết
+định số 39/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về
+việc ban hành "Quy định tổ chức và triển khai thực hiện Thực tập tốt nghiệp và làm Đồ
+án tốt nghiệp cho sinh viên Chương trình tiên tiến".
 Điều 10. Hiệu lực thi hành
 1. Quy định này có hiệu lực kể từ ngày ký và được áp dụng từ học kỳ 2 năm học
-2022-2023
-2. Bãi bỏ Quyết định số 38/QĐ-ĐHBK ngày 12/01/2016 của Hiệu truởng Trường
+2022-2023.
+2. Bãi bỏ Quyết định số 38/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường
 Đại học Bách khoa về việc ban hành "Quy định tổ chức và triển khai thực hiện Đồ án
-tốt nghiệp kết hợp giữa Nhà trường và doanh nghiệp Capstone project" .
-3 . Những quy định khác về việc tổ chức và triển khai Capstone Project được thực
-hiện theo các văn bản pháp luật hiện hành và quy định về ĐATN của Trường:
-4. Các trường hợp khác với Quy định này do Hiệu truởng xem xét; quyết định.
-5. Trong quá trình thực hiện Quy định này, nếu có vướng mắc; các đơn vị; cá
-nhân có liên quan phản ánh bằng_ văn bản về Phòng Đào tạo để tổng hợp, báo cáo Hiệu
-trưởng xem xét, quyết định; ~hal
-DyC HỆU TRƯỞNG Upne _
-IRYYNG
-ĐẠl HỌq
-BÁCH KH%
-PGS.TS. Nguyễn Hữu Hiếu Wo
+tốt nghiệp kết hợp giữa Nhà trường và doanh nghiệp Capstone project".
+3. Những quy định khác về việc tổ chức và triển khai Capstone Project được thực
+hiện theo các văn bản pháp luật hiện hành và quy định về ĐATN của Trường.
+4. Các trường hợp khác với Quy định này do Hiệu trưởng xem xét, quyết định.
+5. Trong quá trình thực hiện Quy định này, nếu có vướng mắc, các đơn vị, cá
+nhân có liên quan phản ánh bằng văn bản về Phòng Đào tạo để tổng hợp, báo cáo Hiệu
+trưởng xem xét, quyết định./.
+
+HIỆU TRƯỞNG
+PGS.TS. Nguyễn Hữu Hiếu
 
 ----- [Trang 9] -----
 
 PHỤ LỤC 1
-TỔ CHỨC ĐÁNH GIÁ <CAPSTONE PROJECT?
-(Kèm theo QĐ số 840 /QĐ-ĐHBK ngày43 /.92./2023 của Hiệu trưởng Trường Đại học Bách khoa)
-LĐánh giá nội dung TTTN
+TỔ CHỨC ĐÁNH GIÁ "CAPSTONE PROJECT"
+(Kèm theo QĐ số 840/QĐ-ĐHBK ngày 28/02/2023 của Hiệu trưởng Trường Đại học Bách khoa)
+
+I. Đánh giá nội dung TTTN
 TTTN theo hình thức Capstone Project được đánh giá bởi khoa/bộ môn và doanh nghiệp theo các tiêu chí ở Bảng 1
 Bảng 1: Tiêu chí đánh giá, các chuẩn đầu ra và trọng số từng phần của TTTN
 Tiêu chí đánh giá, chuẩn đầu ra Trọng số mỗi Hình thức báo cáo, đánh giá
 tiêu chí
-1. Tìm hiểu tổng quan hoạt động của doanh nghiệp S+109 Ngoài bìa quyển báo cáo TTTN ghi rõ "THỰC
+1. Tìm hiểu tổng quan hoạt động của doanh nghiệp 5÷10% Ngoài bìa quyển báo cáo TTTN ghi rõ "THỰC
 TẬP TỐT NGHIỆP CAPSTONE
-2. Có ý thức tổ chức, tính kỷ luật, ý thức chấp hành nội 10+20% PROJECT?' (20-30 trang, không kể phụ lục)
-quy tai doanh nghiệp. Điểm TTTN gồm điểm chấm của doanh nghiệp
-3. Hiểu rõ cách vận hành/hệ thônglquy trình công nghệ và giảng viên: Trọng số đánh giá của doanh
+2. Có ý thức tổ chức, tính kỷ luật, ý thức chấp hành nội 10÷20% PROJECT" (20-30 trang, không kể phụ lục)
+quy tại doanh nghiệp. Điểm TTTN gồm điểm chấm của doanh nghiệp
+3. Hiểu rõ cách vận hành/hệ thống/quy trình công nghệ và giảng viên. Trọng số đánh giá của doanh
 và biện pháp khắc phục khi có sự cố nghiệp do bộ môn/khoa quyết định.
-70+85% Thời gian báo cáo của mỗi sinh viên do khoa/bộ
-4 Chuẩn đầu ra khác theo đặc thù của CTĐT môn quy định.
+70÷85% Thời gian báo cáo của mỗi sinh viên do khoa/bộ
+4. Chuẩn đầu ra khác theo đặc thù của CTĐT môn quy định.
 Hình thức báo cáo: sinh viên báo cáo trực tiếp tại
-Iruờng hoặc tai doanh nghiệp
+Trường hoặc tại doanh nghiệp
 
 ----- [Trang 10] -----
 
-8
-IL Đánh giá nội dung ĐATN
+II. Đánh giá nội dung ĐATN
 Nội dung ĐATN theo hình thức Capstone Project được đánh giá bởi HĐHD và HĐBVTN theo quy trình và các chuẩn đầu ra được
 mô tả ở Bảng 2
 Bảng 2: Quy trình đánh giá, các chuẩn đầu ra và trọng số từng phần của ĐATN
-Mốc Tiêu chí đánh giá Trọng sổ Trọng số mỗi Hình thức báo cáo, đánh giá
-ĐATN (Kết quả học tậplchuẩn đầu ra) mỗi báo tiêu chí trong
+Mốc Tiêu chí đánh giá Trọng số Trọng số mỗi Hình thức báo cáo, đánh giá
+ĐATN (Kết quả học tập/chuẩn đầu ra) mỗi báo tiêu chí trong
 cáo mỗi báo cáo
-MI Báo cáo đầu kỳ 10%
-Tuân thứ 1.1. Điều tra tông quan: tính cấp thiết của 20% Nhóm sinh viên nộp 1 quyển báo cáo chung (10-
-2 (đối với đềtài; điều tra tổng" quan các giải pháp hiện 15 trang). Ngoài bìa ghi rõ "ĐỒ ÁN TỐT
-cử nhân)/ có gồm giải pháp kỹ thuật và sản phẩm NGHIỆP _ CAPSTONE PROJECT? .
+M1 Báo cáo đầu kỳ 10%
+Tuần thứ 1.1. Điều tra tổng quan: tính cấp thiết của 20% Nhóm sinh viên nộp 1 quyển báo cáo chung (10-
+2 (đối với đề tài; điều tra tổng quan các giải pháp hiện 15 trang). Ngoài bìa ghi rõ "ĐỒ ÁN TỐT
+cử nhân)/ có gồm giải pháp kỹ thuật và sản phẩm NGHIỆP - CAPSTONE PROJECT".
 tuần thứ 4 thương mại liên quan (nếu có) Nhóm sinh viên báo cáo kết quả và giải đáp các
-(đối với 1.2 Đề xuất giải pháp sơ bộ: giải pháp kỹ 209 câu hỏi, thảo luận của Hội đồng hướng dẫn
-kỹ SU, thuật với sơ đồ khối, quy trình thiết kế; (HĐHD) .
-kiến trúc công cụ; nguyên vật liệu cần để triển khai; HĐHD đánh giá mức độ đạt đối với cả nhóm cho
-su) của 1.3 . Dự kiến kết quả đạt được: phương 20% từng chuẩn đầu ra
-thời gian pháp, quy trình mô hình mẫu, công bố Điểm MI của sinh viên là điểm chấm trung bình
+(đối với 1.2. Đề xuất giải pháp sơ bộ: giải pháp kỹ 20% câu hỏi, thảo luận của Hội đồng hướng dẫn
+kỹ sư, thuật với sơ đồ khối, quy trình thiết kế; (HĐHD).
+kiến trúc công cụ, nguyên vật liệu cần để triển khai; HĐHD đánh giá mức độ đạt đối với cả nhóm cho
+sư) của 1.3. Dự kiến kết quả đạt được: phương 20% từng chuẩn đầu ra
+thời gian pháp, quy trình mô hình mẫu, công bố Điểm M1 của sinh viên là điểm chấm trung bình
 làm khoa học, (sau đây gọi chung là sản của các thành viên HĐHD.
 ĐATN phẩm) Thời gian báo cáo của mỗi nhóm do khoa/bộ môn
 theo kế quy định.
-hoạch 1.4.Đề xuất phuơng pháp đánh giá, tiêu chí 20%
+hoạch 1.4. Đề xuất phương pháp đánh giá, tiêu chí 20%
 kiểm thử cho sản phẩm gồm hiệu quả, chi Hình thức báo cáo: trực tuyến hoặc trực tiếp, Chủ
-đào tạo phí, độ phức tạp; độ chính xác, tịch HĐHD báo cáo trưởng khoa/bộ môn quyết
+đào tạo phí, độ phức tạp, độ chính xác, tịch HĐHD báo cáo trưởng khoa/bộ môn quyết
 năm học
-1.5 Kế hoạch thực hiện và phân công 20% định.
-việcIngười
+1.5. Kế hoạch thực hiện và phân công 20% định.
+việc/người
 
 ----- [Trang 11] -----
 
-Mốc Tiêu chí đánh giá Trọng sổ Trọng số mỗi Hình thức báo cáo, đánh giá
-ĐATN (Kết quả học tậplchuẩn đầu ra) mỗi báo tiêu chí trong
+Mốc Tiêu chí đánh giá Trọng số Trọng số mỗi Hình thức báo cáo, đánh giá
+ĐATN (Kết quả học tập/chuẩn đầu ra) mỗi báo tiêu chí trong
 cáo mỗi báo cáo
 M2 Báo cáo giữa kỳ 20%
-Tuần thứ 2.1. Chi tiết giải pháp, kỹ thuật được áp 60% Nhóm sinh viên nộp quyên báo cáo chung (tổi
-5 (đối với dụng để giải quyết vấn đề. Cần trình bày thiểu 20 -30 trang, không kể phụ lục). Ngoài bìa
+Tuần thứ 2.1. Chi tiết giải pháp, kỹ thuật được áp 60% Nhóm sinh viên nộp quyển báo cáo chung (tối
+5 (đối với dụng để giải quyết vấn đề. Cần trình bày thiểu 20-30 trang, không kể phụ lục). Ngoài bìa
 cử nhân)/ rõ nội dung đóng góp của từng thành viên ghi rõ "ĐỒ ÁN TỐT NGHIỆP CAPSTONE
-tuần thứ 9 đối với giá trị tổng thể của toàn bộ đề tài. PROJECT? .
+tuần thứ 9 đối với giá trị tổng thể của toàn bộ đề tài. PROJECT".
 (đối với (Chú ý đến phân công việc trong 1.5) Nhóm sinh viên báo cáo kết quả và giải đáp các
-kỹ su, 2.2 Sản phẩm, mô hình, phần mềml phần 20% câu hỏi, thảo luận của HĐHD.
-kiến trúc cứng, thuật toán, đã được xây dựng HĐHD đánh giá mức độ đạt đối với tùng thành DYC
-su) của và/hoặc phát triển tính đến thời điểm đánh viên cho chuẩn đầu ra 21 và đối với cả nhóm cho TRUờI
-thời gian giá M2 chuẩn đầu ra 2.2 và 2.3. DẠI HP
-làm {CH KH
+kỹ sư, 2.2. Sản phẩm, mô hình, phần mềm/phần 20% câu hỏi, thảo luận của HĐHD.
+kiến trúc cứng, thuật toán, đã được xây dựng HĐHD đánh giá mức độ đạt đối với từng thành
+sư) của và/hoặc phát triển tính đến thời điểm đánh viên cho chuẩn đầu ra 2.1 và đối với cả nhóm cho
+thời gian giá M2 chuẩn đầu ra 2.2 và 2.3.
+làm
 20% Điểm M2 của sinh viên là điểm chấm trung bình
 ĐATN của các thành viên HĐHD.
-theo kế 2.3. Đề xuất lộ trình và giải pháp tiếp theo Thời gian báo cáo của mỗi nhóm dokhoalbộ môn
-hoach để hoàn thiện sản phẩm theo mục tiêu đặt
+theo kế 2.3. Đề xuất lộ trình và giải pháp tiếp theo Thời gian báo cáo của mỗi nhóm do khoa/bộ môn
+hoạch để hoàn thiện sản phẩm theo mục tiêu đặt
 đào tạo ra ban đầu (chú ý phù hợp với quỹ thời quy định.
 năm học gian tính đến M3) Hình thức báo cáo: trực tuyến hoặc trực tiếp; Chủ
 tịch HĐHD báo cáo trưởng khoa/bộ môn quyết
 định
 M3 Bảo vệ ĐATN 70%
-Tuần 3.1. Chất lượng quyển ĐATN: nội dung, 109 Nhóm sinh viên nộp 01 quyển ĐATN chung (tối
-BVTN kết quả đạt được và cách thức trình bày thiểu 50 trang không kể phụ lục) cho người_ phản
+Tuần 3.1. Chất lượng quyển ĐATN: nội dung, 10% Nhóm sinh viên nộp 01 quyển ĐATN chung (tối
+BVTN kết quả đạt được và cách thức trình bày thiểu 50 trang không kể phụ lục) cho người phản
 theo kế biện cùng với phiếu nhận xét của HĐHD. Ngoài
 
 ----- [Trang 12] -----
 
-10
-Mốc Tiêu chí đánh giá Trọng sổ Trọng số mỗi Hình thức báo cáo, đánh giá
-ĐATN (Kết quả học tậplchuẩn đầu ra) mỗi báo tiêu chí trong
+Mốc Tiêu chí đánh giá Trọng số Trọng số mỗi Hình thức báo cáo, đánh giá
+ĐATN (Kết quả học tập/chuẩn đầu ra) mỗi báo tiêu chí trong
 cáo mỗi báo cáo
-hoạch 3.2. Cách thức trình bày trên slide và kỹ 10% bìa ghi rõ <ĐỒ AN TỐT NGHIỆP
-đào tạo năng thuyết trình CAPSTONE PROJECT? .
-năm học 3.3. Chất luợng phần trả lời, giải đáp trước 80% Nhóm sinh viên báo cáo kết quả và giải đáp các
+hoạch 3.2. Cách thức trình bày trên slide và kỹ 10% bìa ghi rõ "ĐỒ ÁN TỐT NGHIỆP
+đào tạo năng thuyết trình CAPSTONE PROJECT".
+năm học 3.3. Chất lượng phần trả lời, giải đáp trước 80% Nhóm sinh viên báo cáo kết quả và giải đáp các
 HĐBVTN câu hỏi, thảo luận của HĐBVTN.
 3.4. Thành tích nổi trội HĐBVTN đánh giá mức độ đạt đối với cả nhóm
-Căn cú vào minh chứng sản phẩm cho chuẩn đầu ra 3.1, 3.4 và đối với tùng thành
-HĐBVTN xem xét một trong các thành tích viên cho chuẩn đầu ra 3.2,3.3
+Căn cứ vào minh chứng sản phẩm cho chuẩn đầu ra 3.1, 3.4 và đối với từng thành
+HĐBVTN xem xét một trong các thành tích viên cho chuẩn đầu ra 3.2, 3.3
 sau đây của sinh viên để cộng điểm ĐATN: Điểm M3 của sinh viên là điểm chấm trung bình
-Kết quả thực hiện đề tài được doanh của nguời phản biện; của HĐHD và điểm chấm
+Kết quả thực hiện đề tài được doanh của người phản biện, của HĐHD và điểm chấm
 nghiệp áp dụng trong thực tế; của các thành viên HĐBVTN (Người phản biện có
-Kết quả thực hiện đề tài được thuơng mại 2 cột điểm)
+Kết quả thực hiện đề tài được thương mại 2 cột điểm)
 hóa; Thời gian báo cáo của mỗi nhóm do trưởng
-Kết quả thực hiện đề tài có đăng ký sáng khoa/bộ môn quy định:
-chế, sở hữu trí tuệ; Mức điểm cộng cho thành tích nổi trội của đềtài
-Kết quả thực hiện đề tài có bài báo đăng do khoalbộ môn quyết định, tối đa là 01 điểm theo
+Kết quả thực hiện đề tài có đăng ký sáng khoa/bộ môn quy định.
+chế, sở hữu trí tuệ; Mức điểm cộng cho thành tích nổi trội của đề tài
+Kết quả thực hiện đề tài có bài báo đăng do khoa/bộ môn quyết định, tối đa là 01 điểm theo
 trên kỷ yếu hội thảo, tạp chí trong và ngoài thang điểm 10.
-nước; Hình thức báo cáo: trực tiếp tại Truờng:
-IIL Mức độ đạt ứng vói các tiêu chí:
+nước; Hình thức báo cáo: trực tiếp tại Trường.
+
+III. Mức độ đạt ứng với các tiêu chí:
 Tùy theo từng tiêu chí đánh giá trong Bảng 1 và Bảng 2 mà vận dụng các mục tiêu đánh giá chung trong Bảng 3.1 cho phù hợp.
 
 ----- [Trang 13] -----
 
-Mức độ đạt ứng với từng7 mục tiêu đánh giá chung được giải thích thông qua thang đo cấp độ tư duy (nhớ, hiểu, vận dụng; phân tích,
-đánh giá và sáng 7 tao)
+Mức độ đạt ứng với từng mục tiêu đánh giá chung được giải thích thông qua thang đo cấp độ tư duy (nhớ, hiểu, vận dụng, phân tích,
+đánh giá và sáng tạo)
 Mức độ đạt được xác định là mức Kém (0) nếu không đạt được mức Cần cải thiện (1)
 Quy định chuyển đổi mức độ đạt sang điểm số và điểm chữ được trình bày trong Bảng 3.2.
 Bảng 3.1: Thang đo mức độ đạt mục tiêu của các tiêu chí
 Mục tiêu Mức độ đạt
 đánh giá Cần cải thiện Đáp ứng cơ bản Đạt chuẩn yêu cầu (3) Vượt trên chuẩn (4)
 Mục tiêu Mục tiêu công việc không Mục tiêu công việc được xác Mục tiêu công việc được xác Mục tiêu công việc được xác
-công việc được xác định; Các giải định; Các giải pháp đề xuất định rõ ràng; Các giải pháp định rõ ràng; Các giải phápđề
-(mục tiêu pháp đề xuất chính không chính có hỗ trợ vấn đề cần đề xuất chính phù hợp để giải xuất chính phù hợp và có tnh
-tổng thể) hỗ trợ giải quyết vấn đề; giải quyết; Cấu trúc đề xuất quyết vấn đề; Cấu trúc đề hiện đại để giải quyết vẩn @ề
-Cấu trúc đề xuất chua được có sự kết nối xuất liên kết mạch lạc Cấu trúc đề xuất liên kếtmacH
+công việc được xác định; Các giải định; Các giải pháp đề xuất định rõ ràng; Các giải pháp định rõ ràng; Các giải pháp đề
+(mục tiêu pháp đề xuất chính không chính có hỗ trợ vấn đề cần đề xuất chính phù hợp để giải xuất chính phù hợp và có tính
+tổng thể) hỗ trợ giải quyết vấn đề; giải quyết; Cấu trúc đề xuất quyết vấn đề; Cấu trúc đề hiện đại để giải quyết vấn đề
+Cấu trúc đề xuất chưa được có sự kết nối xuất liên kết mạch lạc Cấu trúc đề xuất liên kết mạch
 liền mạch lạc ở mức chi tiết
-Mục tiêu về Hiểu biết chua chắc chẳn Có hiểu biết và vận dụng các Nẳm vững và vận dụng các Nắm vững các kiến thức co
+Mục tiêu về Hiểu biết chưa chắc chắn Có hiểu biết và vận dụng các Nắm vững và vận dụng các Nắm vững các kiến thức cơ
 kiến thức các kiến thức cơ bản; Vận kiến thức cơ bản của lĩnh vực kiến thức cơ bản cùng với các bản; vận dụng tốt các giải
-(mục tiêu kỹ dụng chua hợp lý các kiến liên quan để giải quyết vấn giải pháp kỹ thuật phức tạp pháp kỹ thuật phức tạp; có đề
+(mục tiêu kỹ dụng chưa hợp lý các kiến liên quan để giải quyết vấn giải pháp kỹ thuật phức tạp pháp kỹ thuật phức tạp; có đề
 thuật) thức cơ bản để giải quyết đề để giải quyết vấn đề; Có khả xuất sáng tạo để giải quyết
 vấn đề năng phân tích vấn đề, đánh vấn đề hiệu quả hơn; Có kỹ
 giá kết quả và đưa ra các năng phân tích vấn đề chi tiết;
 nhận xét để cải tiến đánh giá và so sánh kết quả;
 Có đề xuất chi tiết để cải tiến
-Mục tiêu vê Thông tin không được sắp Thông tin được sắp xếp có Thông tin được sắp xếp có Thông tin được sẳp xếp có
-tổ chức, xếp có cấu trúc. Người đọc cấu trúc. Người đọc có thể cấu trúc hợp lý. Người đọc cấu trúc và có sự sáng tao_
-trình bày khó theo dõi và hiểu nhũng theo dõi và hiểu những nội hiểu tất cả những nội dung Người đọc hiểu rõ những nội
+Mục tiêu về Thông tin không được sắp Thông tin được sắp xếp có Thông tin được sắp xếp có Thông tin được sắp xếp có
+tổ chức, xếp có cấu trúc. Người đọc cấu trúc. Người đọc có thể cấu trúc hợp lý. Người đọc cấu trúc và có sự sáng tạo.
+trình bày khó theo dõi và hiểu những theo dõi và hiểu những nội hiểu tất cả những nội dung Người đọc hiểu rõ những nội
 
 ----- [Trang 14] -----
 
-12
 Mục tiêu Mức độ đạt
 đánh giá Cần cải thiện Đáp ứng cơ bản (2) Đạt chuẩn yêu cầu (3) Vượt trên chuẩn
 (mục tiêu kỹ nội dung chính của báo dung chính của báo cáo ở chính của báo cáo. Phần trình dung chính của báo cáo và có
-năng) cáo. Cách trình bày rời rạc, mức độ tối thiểu. Phần trình bày có cấu trúc hợp lý, cách khả năng_ lặp lại các công việc
+năng) cáo. Cách trình bày rời rạc, mức độ tối thiểu. Phần trình bày có cấu trúc hợp lý, cách khả năng lặp lại các công việc
 cách giải thích không bày có cấu trúc cơ bản; cách giải thích thuyết phục được được mô tả trong báo cáo một
-thuyết phục được được giải thích thuyết phục được nguời nghe cách tương đối. Phần trình
+thuyết phục được giải thích thuyết phục được người nghe cách tương đối. Phần trình
 người nghe người nghe ở mức tối thiểu bày có cấu trúc hợp lý và sinh
 động giúp thuyết phục người
 nghe; Phần giải thích hầu hết
 giải đáp được các thắc mắc
 của người nghe.
+
 Bảng 3.2 Bảng ánh xạ điểm số ứng với mức độ đạt
 Xếp loại Thang điểm 10 Thang điểm chữ Thang điểm
 Vượt trên chuẩn 8,5 - 10 A
@@ -440,45 +460,46 @@ Không đạt Kém <4,0 F 0
 
 ----- [Trang 15] -----
 
-DUC VÁ @ PHU LỤC 2
-TRUằTÍNH GIỜ QUY ĐỔI VIỆC TỔ CHỨC VÀ TRIỂN KHAI THỰC TẬP TỐT
-PNGHIỆBĐÒ ÁN TÓT NGHIỆP THEO HÌNH THỨC CAPSTONE PROJECT
-BÁCPRem Hhed QĐ số 840 /QĐ-ĐHBK ngày <8 7072023 của Hiệu trưởng Trường Đại
-HỌC Đk học Bách khoa)
-TT Hang mục công việc Hệ sổ quy đổi
-Hướng dẫn TTTN
+PHỤ LỤC 2
+TÍNH GIỜ QUY ĐỔI VIỆC TỔ CHỨC VÀ TRIỂN KHAI THỰC TẬP TỐT
+NGHIỆP, ĐỒ ÁN TỐT NGHIỆP THEO HÌNH THỨC CAPSTONE PROJECT
+(Kèm theo QĐ số 840/QĐ-ĐHBK ngày 28/02/2023 của Hiệu trưởng Trường Đại
+học Bách khoa)
+
+TT Hạng mục công việc Hệ số quy đổi
+1 Hướng dẫn TTTN
 1.1 Hướng dẫn sinh viên TTTN:
 Số tiết quy đổi số sinh viên số tín chỉ
-Nếu có nhiều thành viên viên cùng hướng dẫn thì số giờ chuẩn
+Nếu có nhiều thành viên cùng hướng dẫn thì số giờ chuẩn
 quy đổi chia theo tỷ lệ tham gia.
-1.2 Chẩm báo cáo TTTN
-Số tiết quy đổi =1 tiếtl 7 sinh viên (TTTN = 2 TC)
-Số tiết quy đổi = 1 tiết 5 sinh viên (TTTN > 2 TC)
+1.2 Chấm báo cáo TTTN
+Số tiết quy đổi = 1 tiết/7 sinh viên (TTTN = 2 TC)
+Số tiết quy đổi = 1 tiết/5 sinh viên (TTTN > 2 TC)
 2 Hướng dẫn ĐATN
-2.1 Một tiết quy đối hướng dẫn ĐATN cử nhân (đối với giảng viên 1,5 giờ chuẩn
+2.1 Một tiết quy đổi hướng dẫn ĐATN cử nhân (đối với giảng viên 1,5 giờ chuẩn
 hướng dẫn): Số tiết quy đổi số SV số TC
-Đối với ĐATN thực hiện bằng = ngoai ngữ (tiếng AnhPháp/ Nhật):
-Số tiết quy đổi 1,5 số SV sổ TC
+Đối với ĐATN thực hiện bằng ngoại ngữ (tiếng Anh/Pháp/Nhật):
+Số tiết quy đổi 1,5 số SV số TC
 Nếu có nhiều giảng viên cùng hướng dẫn thì số giờ chuẩn quy đổi
 chia theo tỷ lệ tham gia.
-2.2 Một tiết quy đổi hướng dẫn ĐATN kỹ sulkiến trúc sư (đối với 2 giờ chuẩn
+2.2 Một tiết quy đổi hướng dẫn ĐATN kỹ sư/kiến trúc sư (đối với 2 giờ chuẩn
 giảng viên hướng dẫn): Số tiết quy đổi = số SV số TC
-Đối với ĐATN thực hiện bằng ngoai ngữ (tiếng Anh/Pháp/ Nhật):
+Đối với ĐATN thực hiện bằng ngoại ngữ (tiếng Anh/Pháp/Nhật):
 Số tiết quy đổi = 1,5 số SV số TC
 Nếu có nhiều giảng viên cùng hướng dẫn thì số giờ chuẩn quy đổi
 chia theo tỷ lệ tham gia.
 2.3 Một tiết quy đổi hướng dẫn chi trả cho doanh nghiệp:
-Số tiết quy đổi = 10 tiếtSV
+Số tiết quy đổi = 10 tiết/SV
 3 Bảo vệ ĐATN
-3.1 Phản biện ĐATN: Số tiết quy đối = số SV 2
-Đối với ĐATN thực hiện bằng 5 ngoại ngữ (tiếng AnhPháp/ Nhật):
+3.1 Phản biện ĐATN: Số tiết quy đổi = số SV 2
+Đối với ĐATN thực hiện bằng ngoại ngữ (tiếng Anh/Pháp/Nhật):
 Số tiết quy đổi 1,5 số SV 2
-3.2 Hội đồng bão vệ tốt nghiệp: Sổ tiễt quy đỗĩ 5 tiếtSV
-Đối với ĐATN thực hiện bằng ngoại ngữ (tiếng Anh/Phápl Nhật):
-Số tiết quy đổi 7,5 tiếtSV
-Hệ số của các thành viên trong hội đồng: Chủ tịch: 1,5; Thu ký:
+3.2 Hội đồng bảo vệ tốt nghiệp: Số tiết quy đổi 5 tiết/SV
+Đối với ĐATN thực hiện bằng ngoại ngữ (tiếng Anh/Pháp/Nhật):
+Số tiết quy đổi 7,5 tiết/SV
+Hệ số của các thành viên trong hội đồng: Chủ tịch: 1,5; Thư ký:
 1,3; Thành viên 1
-Chi ngoại giao doanh nghiệp: Số tiết quy đổi 0,5 tiếtSV
+4 Chi ngoại giao doanh nghiệp: Số tiết quy đổi 0,5 tiết/SV
 Chi công tác tổ chức của khoa/bộ môn: Số tiết quy đổi 0,5
 tiết/SV
-Các mục 1, 2.3,3 và 4: Đơn giá 01 tiết do Hiệu truởng quyết , định.
+Các mục 1, 2.3, 3 và 4: Đơn giá 01 tiết do Hiệu trưởng quyết định.

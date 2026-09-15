@@ -184,7 +184,6 @@ Giới tính: .................................................... Dân tộc: .
 6. Tóm tắt quá trình công tác:
 
 | STT | Thời gian | Đơn vị công tác | Chức vụ |
-|---|---|---|---|
 | 1 | | | |
 | 2 | | | |
 | ... | | | |
@@ -192,7 +191,6 @@ Giới tính: .................................................... Dân tộc: .
 7. Danh mục công trình đăng ký tham gia xét tặng Giải thưởng
 
 | STT | Tên công trình | Là kết quả nghiên cứu của nhiệm vụ, đề tài, dự án, chương trình KHCN cấp quốc gia, cấp Bộ, bài báo khoa học, sách/giáo trình... | Tác giả/ Đồng tác giả | Năm nghiệm thu, công bố | Số năm ứng dụng kết quả của công trình |
-|---|---|---|---|---|---|
 | 1 | | | | | |
 | 2 | | | | | |
 | ... | | | | | |

@@ -165,47 +165,47 @@ IV. HƯỚNG DẪN XÁC ĐỊNH CÁC CHỈ SỐ ĐÁNH GIÁ
 
 (Bảng số liệu các tiêu chuẩn, tiêu chí, chỉ số, yêu cầu)
 - Tiêu chuẩn 1. Tổ chức và quản trị:
- - 1.1 | Số tháng khuyết lãnh đạo chủ chốt | $\le 06$
+ - 1.1 | Số tháng khuyết lãnh đạo chủ chốt | ≤ 06
  - 1.2 | Mức độ hoàn thiện văn bản theo Luật GDĐH | 100%
- - 1.3 | Tỉ lệ các chỉ số hoạt động chính được cải thiện | $\ge 50\%$
+ - 1.3 | Tỉ lệ các chỉ số hoạt động chính được cải thiện | ≥ 50%
  - 1.4 | Mức độ cập nhật dữ liệu quản lý trên HEMIS | 100%
 - Tiêu chuẩn 2. Giảng viên:
- - 2.1 | Tỉ lệ người học trên giảng viên | $\le 40:1$
- - 2.2 | Tỉ lệ giảng viên cơ hữu trong độ tuổi lao động | $\ge 70\%$
- - 2.3 | Tỉ lệ giảng viên có trình độ tiến sĩ | $\ge 20\%$ (30%)
- - Đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù | $\ge 40\%$ (50%)
- - Đối với trường đào tạo ngành đặc thù không đào tạo tiến sĩ | $\ge 5\%$ (10%)
- - Đối với trường đào tạo ngành đặc thù có đào tạo tiến sĩ | $\ge 10\%$ (15%)
+ - 2.1 | Tỉ lệ người học trên giảng viên | ≤ 40:1
+ - 2.2 | Tỉ lệ giảng viên cơ hữu trong độ tuổi lao động | ≥ 70%
+ - 2.3 | Tỉ lệ giảng viên có trình độ tiến sĩ | ≥ 20% (30%)
+ - Đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù | ≥ 40% (50%)
+ - Đối với trường đào tạo ngành đặc thù không đào tạo tiến sĩ | ≥ 5% (10%)
+ - Đối với trường đào tạo ngành đặc thù có đào tạo tiến sĩ | ≥ 10% (15%)
 - Tiêu chuẩn 3. Cơ sở vật chất:
- - 3.1 | Diện tích đất trên người học ($m^2$) | ($\ge 25$)
- - 3.2 | 1. Diện tích sàn trên người học ($m^2$) | $\ge 2,8$
+ - 3.1 | Diện tích đất trên người học (m^2) | (≥ 25)
+ - 3.2 | 1. Diện tích sàn trên người học (m^2) | ≥ 2,8
 
 -
 
 ----- [Trang 8] -----
-2. Tỉ lệ giảng viên có chỗ làm việc riêng biệt | $\ge 70\%$
-- 3.3 | 1. Số đầu sách trên ngành đào tạo | $\ge 40$
- | 2. Số bản sách trên người học | $\ge 05$
-- 3.4 | 1. Tỉ lệ học phần sẵn sàng giảng dạy trực tuyến | $\ge 10\%$
- | 2. Tốc độ Internet trên một nghìn người học (Mbps) | $\ge$ trung bình tốc độ mạng băng rộng cố định của Việt Nam
+2. Tỉ lệ giảng viên có chỗ làm việc riêng biệt | ≥ 70%
+- 3.3 | 1. Số đầu sách trên ngành đào tạo | ≥ 40
+ | 2. Số bản sách trên người học | ≥ 05
+- 3.4 | 1. Tỉ lệ học phần sẵn sàng giảng dạy trực tuyến | ≥ 10%
+ | 2. Tốc độ Internet trên một nghìn người học (Mbps) | ≥ trung bình tốc độ mạng băng rộng cố định của Việt Nam
 - Tiêu chuẩn 4. Tài chính:
- - 4.1 | Biên độ hoạt động trung bình 3 năm | $\ge 0$ và $\le 30\%$
- - 4.2 | Chỉ số tăng trưởng bền vững | $\ge 0$
+ - 4.1 | Biên độ hoạt động trung bình 3 năm | ≥ 0 và ≤ 30%
+ - 4.2 | Chỉ số tăng trưởng bền vững | ≥ 0
 - Tiêu chuẩn 5. Tuyển sinh và đào tạo:
- - 5.1 | 1. Tỉ lệ nhập học trung bình 3 năm | $\ge 50\%$
- | 2. Tỉ lệ tăng giảm quy mô đào tạo 3 năm | $> -30\%$
- - 5.2 | 1. Tỉ lệ thôi học | $\le 10\%$
- | 2. Tỉ lệ thôi học năm đầu | $\le 15\%$
- - 5.3 | 1. Tỉ lệ tốt nghiệp | $\ge 60\%$
- | 2. Tỉ lệ tốt nghiệp đúng hạn | $\ge 40\%$
- - 5.4 | 1. Tỉ lệ người học hài lòng với giảng viên | $\ge 70\%$
- | 2. Tỉ lệ người học hài lòng tổng thể | $\ge 70\%$
- - 5.5 | Tỉ lệ tốt nghiệp có việc làm | $\ge 70\%$
+ - 5.1 | 1. Tỉ lệ nhập học trung bình 3 năm | ≥ 50%
+ | 2. Tỉ lệ tăng giảm quy mô đào tạo 3 năm | > -30%
+ - 5.2 | 1. Tỉ lệ thôi học | ≤ 10%
+ | 2. Tỉ lệ thôi học năm đầu | ≤ 15%
+ - 5.3 | 1. Tỉ lệ tốt nghiệp | ≥ 60%
+ | 2. Tỉ lệ tốt nghiệp đúng hạn | ≥ 40%
+ - 5.4 | 1. Tỉ lệ người học hài lòng với giảng viên | ≥ 70%
+ | 2. Tỉ lệ người học hài lòng tổng thể | ≥ 70%
+ - 5.5 | Tỉ lệ tốt nghiệp có việc làm | ≥ 70%
 - Tiêu chuẩn 6. Nghiên cứu và đổi mới sáng tạo:
- - 6.1 | Tỉ trọng thu khoa học - công nghệ (chỉ áp dụng đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù) | $\ge 5\%$
- - 6.2 | 1. Số công bố trên giảng viên | $\ge 0,3$
- | - Đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù | $\ge 0,6$
- | 2. Số công bố WoS, Scopus trên giảng viên (chỉ áp dụng đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù) | $\ge 0,3$
+ - 6.1 | Tỉ trọng thu khoa học - công nghệ (chỉ áp dụng đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù) | ≥ 5%
+ - 6.2 | 1. Số công bố trên giảng viên | ≥ 0,3
+ | - Đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù | ≥ 0,6
+ | 2. Số công bố WoS, Scopus trên giảng viên (chỉ áp dụng đối với cơ sở GDĐH có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù) | ≥ 0,3
 
 (*): Giá trị trong dấu ngoặc là yêu cầu từ năm 2030
 
@@ -235,14 +235,14 @@ Tỉ lệ các chỉ số của Chuẩn cơ sở GDĐH có thể được tính 
 Tiêu chuẩn 2: Giảng viên
 2.1 Tỉ lệ người học trên giảng viên
 Tổng số người học quy đổi theo trình độ, lĩnh vực và hình thức đào tạo (N) chia cho tổng số GVTTG.
-$\text{N} = \sum [\text{N1}(i) \times 1,0 + \text{N2}(i) \times 0,8 + \text{N3}(i) \times 0,5 + \text{N4}(i) \times 1,5 + \text{N5}(i) \times 2,0] \times \text{K}_{\text{GD}}(i)$
+N = Σ [N1(i) × 1,0 + N2(i) × 0,8 + N3(i) × 0,5 + N4(i) × 1,5 + N5(i) × 2,0] × K_GD(i)
 Trong đó:
-- $\text{N1}(i)$ là số SVĐH chính quy của lĩnh vực đào tạo ($i$)
-- $\text{N2}(i)$ là số SVĐH vừa làm vừa học của lĩnh vực đào tạo ($i$)
-- $\text{N3}(i)$ là số SVĐH đào tạo từ xa của lĩnh vực đào tạo ($i$)
-- $\text{N4}(i)$ là số HVCH của lĩnh vực đào tạo ($i$)
-- $\text{N5}(i)$ là số NCS của lĩnh vực đào tạo ($i$)
-- $\text{K}_{\text{GD}}(i)$ là hệ số tải giảng dạy của lĩnh vực đào tạo ($i$), được quy định tại Mục 3 ở cuối Phần này.
+- N1(i) là số SVĐH chính quy của lĩnh vực đào tạo (i)
+- N2(i) là số SVĐH vừa làm vừa học của lĩnh vực đào tạo (i)
+- N3(i) là số SVĐH đào tạo từ xa của lĩnh vực đào tạo (i)
+- N4(i) là số HVCH của lĩnh vực đào tạo (i)
+- N5(i) là số NCS của lĩnh vực đào tạo (i)
+- K_GD(i) là hệ số tải giảng dạy của lĩnh vực đào tạo (i), được quy định tại Mục 3 ở cuối Phần này.
 
 2.2 Tỉ lệ giảng viên cơ hữu trong độ tuổi lao động
 Số giảng viên cơ hữu trong độ tuổi lao động chia cho tổng số GVTTG.
@@ -253,34 +253,34 @@ Số GVTTG có trình độ tiến sĩ chia cho tổng số GVTTG.
 Tiêu chuẩn 3: Cơ sở vật chất
 3.1 Diện tích đất trên người học
 Tổng diện tích đất của cơ sở GDĐH hoặc của một phân hiệu có nhân hệ số theo vị trí khuôn viên (S), chia cho số người học chính quy quy đổi theo trình độ và lĩnh vực đào tạo (N) của cơ sở GDĐH hoặc của phân hiệu.
-$\text{S} = \sum \text{S}(i) \times \text{K}_{\text{VT}}(i)$
+S = Σ S(i) × K_VT(i)
 
-$\text{
+$
 
 ----- [Trang 10] -----
-N} = \sum [\text{N1}(j) \times 1,0 + \text{N2}(j) \times 1,5 + \text{N3}(j) \times 2,0] \times \text{K}_{\text{DT}}(j)$
+N = Σ [N1(j) × 1,0 + N2(j) × 1,5 + N3(j) × 2,0] × K_DT(j)$
 Trong đó:
-- $\text{S}(i)$ là diện tích đất tại khuôn viên ($i$) mà cơ sở GDĐH được cấp quyền sử dụng ổn định lâu dài hoặc sử dụng có thời hạn theo pháp luật đất đai phục vụ mục đích hoạt động GDĐH, tính theo đơn vị $m^2$;
-- $\text{K}_{\text{VT}}(i)$ là hệ số vị trí của khuôn viên ($i$): $\text{K}_{\text{VT}} = 2,5$ đối với các khuôn viên nằm trong địa giới các quận của các thành phố trực thuộc Trung ương, $\text{K}_{\text{VT}} = 1$ đối với các khu vực còn lại;
-- $\text{N1}(j)$ là số SVĐH chính quy của lĩnh vực đào tạo ($j$);
-- $\text{N2}(j)$ là số HVCH của lĩnh vực đào tạo ($j$);
-- $\text{N3}(j)$ là số NCS của lĩnh vực đào tạo ($j$);
-- $\text{K}_{\text{DT}}(j)$ là hệ số diện tích của lĩnh vực đào tạo ($j$), được quy định tại Mục 3 ở cuối Phần này.
+- S(i) là diện tích đất tại khuôn viên (i) mà cơ sở GDĐH được cấp quyền sử dụng ổn định lâu dài hoặc sử dụng có thời hạn theo pháp luật đất đai phục vụ mục đích hoạt động GDĐH, tính theo đơn vị m^2;
+- K_VT(i) là hệ số vị trí của khuôn viên (i): K_VT = 2,5 đối với các khuôn viên nằm trong địa giới các quận của các thành phố trực thuộc Trung ương, K_VT = 1 đối với các khu vực còn lại;
+- N1(j) là số SVĐH chính quy của lĩnh vực đào tạo (j);
+- N2(j) là số HVCH của lĩnh vực đào tạo (j);
+- N3(j) là số NCS của lĩnh vực đào tạo (j);
+- K_DT(j) là hệ số diện tích của lĩnh vực đào tạo (j), được quy định tại Mục 3 ở cuối Phần này.
 
 3.2.1 Diện tích sàn trên người học
 Tổng diện tích sàn xây dựng trực tiếp phục vụ đào tạo của cơ sở GDĐH hoặc của phân hiệu (S), chia cho số người học chính quy quy đổi theo trình độ và lĩnh vực đào tạo (N) của cơ sở GDĐH hoặc của phân hiệu.
-$\text{S} = \sum \text{S}(i) \times \text{K}_{\text{SD}}(i)$
-$\text{N} = \sum [\text{N1}(j) \times 1,0 + \text{N2}(j) \times 1,5 + \text{N3}(j) \times 2,0] \times \text{K}_{\text{DT}}(j)$
+S = Σ S(i) × K_SD(i)
+N = Σ [N1(j) × 1,0 + N2(j) × 1,5 + N3(j) × 2,0] × K_DT(j)
 Trong đó:
-- $\text{S}(i)$ là tổng diện tích sàn xây dựng của công trình ($i$), tính theo đơn vị $m^2$;
-- $\text{K}_{\text{SD}}(i)$ là hệ số sử dụng diện tích của công trình ($i$) phục vụ trực tiếp hoạt động đào tạo (sau khi trừ đi phần diện tích tường xây, hành lang, cầu thang, các hạng mục kỹ thuật... và các diện tích phục vụ mục đích khác), $\text{K}_{\text{SD}} \le 0,7$;
-- $\text{N1}(j)$ là số SVĐH chính quy của lĩnh vực đào tạo ($j$);
-- $\text{N2}(j)$ là số HVCH của lĩnh vực đào tạo ($j$);
-- $\text{N3}(j)$ là số NCS của lĩnh vực đào tạo ($j$);
-- $\text{K}_{\text{DT}}(j)$ là hệ số diện tích của lĩnh vực đào tạo ($j$), được quy định tại Mục 3 ở cuối Phần này.
+- S(i) là tổng diện tích sàn xây dựng của công trình (i), tính theo đơn vị m^2;
+- K_SD(i) là hệ số sử dụng diện tích của công trình (i) phục vụ trực tiếp hoạt động đào tạo (sau khi trừ đi phần diện tích tường xây, hành lang, cầu thang, các hạng mục kỹ thuật... và các diện tích phục vụ mục đích khác), K_SD ≤ 0,7;
+- N1(j) là số SVĐH chính quy của lĩnh vực đào tạo (j);
+- N2(j) là số HVCH của lĩnh vực đào tạo (j);
+- N3(j) là số NCS của lĩnh vực đào tạo (j);
+- K_DT(j) là hệ số diện tích của lĩnh vực đào tạo (j), được quy định tại Mục 3 ở cuối Phần này.
 
 3.2.2 Tỉ lệ giảng viên có chỗ làm việc riêng biệt
-Tỉ lệ GVTTG được bố trí diện tích và bàn ghế làm việc riêng biệt tại cơ sở GDĐH, trong phòng chung hoặc riêng nhưng không ít hơn $6m^2$ cho mỗi người.
+Tỉ lệ GVTTG được bố trí diện tích và bàn ghế làm việc riêng biệt tại cơ sở GDĐH, trong phòng chung hoặc riêng nhưng không ít hơn 6m^2 cho mỗi người.
 Trường hợp áp dụng cho phân hiệu, số GVTTG được lấy theo số liệu dùng để xác định chỉ tiêu tuyển sinh của phân hiệu.
 
 3.3.1 Số đầu sách trên ngành đào tạo
@@ -294,20 +294,20 @@ Tổng số đầu sách giáo trình, sách chuyên khảo có trong thư việ
 
 3.3.2 Số bản sách trên người học
 Số bản sách giáo trình, sách chuyên khảo tính bình quân trên một người học quy đổi theo trình độ đào tạo, được tính theo công thức:
-$[M1/M] \times 5 + M2/[M - M1] \times M3/N$
+[M1/M] × 5 + M2/[M - M1] × M3/N
 
 Trong đó:
-- $M$ là tổng số đầu sách giáo trình, sách chuyên khảo cần có theo yêu cầu của tất cả chương trình đào tạo và ngành đào tạo;
-- $M1$ là số đầu sách điện tử có thể truy cập trực tuyến cho người học và cán bộ;
-- $M2$ là số đầu sách có bản in;
-- $M3$ là số bản sách in;
-- $N$ là tổng số người học quy đổi, $N = \sum N1 \times 1,0 + N2 \times 1,5 + N3 \times 2,0$
-- $N1, N2, N3$ lần lượt là tổng số SVĐH, tổng số HVCH và tổng số NCS của cơ sở GDĐH (hoặc của phân hiệu).
+- M là tổng số đầu sách giáo trình, sách chuyên khảo cần có theo yêu cầu của tất cả chương trình đào tạo và ngành đào tạo;
+- M1 là số đầu sách điện tử có thể truy cập trực tuyến cho người học và cán bộ;
+- M2 là số đầu sách có bản in;
+- M3 là số bản sách in;
+- N là tổng số người học quy đổi, N = Σ N1 × 1,0 + N2 × 1,5 + N3 × 2,0
+- N1, N2, N3 lần lượt là tổng số SVĐH, tổng số HVCH và tổng số NCS của cơ sở GDĐH (hoặc của phân hiệu).
 
 3.4.1 Tỉ lệ học phần sẵn sàng giảng dạy trực tuyến
-Số học phần sẵn sàng giảng dạy trực tuyến trên $50\%$ thời lượng, chia cho tổng số học phần được giảng dạy trong năm.
+Số học phần sẵn sàng giảng dạy trực tuyến trên 50% thời lượng, chia cho tổng số học phần được giảng dạy trong năm.
 
-Một học phần được gọi là sẵn sàng giảng dạy trực tuyến khi cơ sở GDĐH có đầy đủ điều kiện sẵn sàng cho phép quản lý và tổ chức dạy học trực tuyến trên $50\%$ thời lượng của học phần đó qua môi trường Internet. Những điều kiện đó bao gồm: đội ngũ giảng viên và cán bộ kỹ thuật có đủ năng lực, hệ thống học liệu, phần mềm tổ chức dạy học trực tuyến trực tiếp, hệ thống quản lý học tập trực tuyến, hệ thống quản lý nội dung tập trực tuyến... sẵn sàng đáp ứng yêu cầu dạy và học trực tuyến với chất lượng không thấp hơn dạy và học trực tiếp.
+Một học phần được gọi là sẵn sàng giảng dạy trực tuyến khi cơ sở GDĐH có đầy đủ điều kiện sẵn sàng cho phép quản lý và tổ chức dạy học trực tuyến trên 50% thời lượng của học phần đó qua môi trường Internet. Những điều kiện đó bao gồm: đội ngũ giảng viên và cán bộ kỹ thuật có đủ năng lực, hệ thống học liệu, phần mềm tổ chức dạy học trực tuyến trực tiếp, hệ thống quản lý học tập trực tuyến, hệ thống quản lý nội dung tập trực tuyến... sẵn sàng đáp ứng yêu cầu dạy và học trực tuyến với chất lượng không thấp hơn dạy và học trực tiếp.
 
 3.4.2 Tốc độ Internet trên một nghìn người học
 Tốc độ đường truyền Internet (Mbps) hoặc tổng băng thông của các đường thuê bao Internet ra bên ngoài, chia cho tổng số người học các hình thức đào tạo làm tròn tới đơn vị nghìn.
@@ -317,44 +317,44 @@ Trung bình tốc độ mạng băng rộng cố định của Việt Nam đư�
 Tiêu chuẩn 4: Tài chính
 
 4.1 Biên độ hoạt động trung bình 3 năm
-Trung bình biên độ hoạt động của 3 năm gần nhất: $[M(n) + M(n-1) + M(n-2)]/3$
+Trung bình biên độ hoạt động của 3 năm gần nhất: [M(n) + M(n-1) + M(n-2)]/3
 
 Trong đó:
-- $M(n)$ là biên độ hoạt động của năm báo cáo (n), $M(n) = [R(n) - E(n)]/R(n)$;
+- M(n) là biên độ hoạt động của năm báo cáo (n), M(n) = [R(n) - E(n)]/R(n);
 
 ----- [Trang 12] -----
 10
 
-- $R(n)$ là tổng thu hoạt động trong năm báo cáo (n) từ các hoạt động thường xuyên (bao gồm cả ngân sách Nhà nước hỗ trợ) và thực hiện nhiệm vụ không thường xuyên (không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp);
-- $E(n)$ là tổng chi phí hoạt động trong năm báo cáo (n), bao gồm chi thường xuyên, chi thực hiện nhiệm vụ không thường xuyên, tính cả kinh phí khấu hao tài sản.
-- $M(n-1), M(n-2)$ là biên độ hoạt động của 2 năm trước liền kề.
+- R(n) là tổng thu hoạt động trong năm báo cáo (n) từ các hoạt động thường xuyên (bao gồm cả ngân sách Nhà nước hỗ trợ) và thực hiện nhiệm vụ không thường xuyên (không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp);
+- E(n) là tổng chi phí hoạt động trong năm báo cáo (n), bao gồm chi thường xuyên, chi thực hiện nhiệm vụ không thường xuyên, tính cả kinh phí khấu hao tài sản.
+- M(n-1), M(n-2) là biên độ hoạt động của 2 năm trước liền kề.
 
 4.2 Chỉ số tăng trưởng bền vững
 Trung bình cộng tốc độ tăng tổng thu và tốc độ tăng thu ngoài học phí, tính trung bình trong 3 năm gần nhất:
-$[R(n)/R(n-1) + R(n-1)/R(n-2) + R(n-2)/R(n-3) + T(n)/T(n-1) + T(n-1)/T(n-2) + T(n-2)/T(n-3)]/6 - 1$
+[R(n)/R(n-1) + R(n-1)/R(n-2) + R(n-2)/R(n-3) + T(n)/T(n-1) + T(n-1)/T(n-2) + T(n-2)/T(n-3)]/6 - 1
 
 Trong đó:
-- $R(n)$ là tổng thu hoạt động trong năm báo cáo (n) từ các hoạt động thường xuyên và thực hiện nhiệm vụ không thường xuyên, không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp;
-- $T(n)$ là phần thu hoạt động ngoài học phí và ngoài ngân sách Nhà nước, chủ đầu tư hỗ trợ chi thường xuyên trong năm báo cáo (n), không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp;
-- $R(n-1), R(n-2), T(n-1), T(n-2)$ là tổng thu và phần thu ngoài học phí của 2 năm trước liền kề.
+- R(n) là tổng thu hoạt động trong năm báo cáo (n) từ các hoạt động thường xuyên và thực hiện nhiệm vụ không thường xuyên, không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp;
+- T(n) là phần thu hoạt động ngoài học phí và ngoài ngân sách Nhà nước, chủ đầu tư hỗ trợ chi thường xuyên trong năm báo cáo (n), không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp;
+- R(n-1), R(n-2), T(n-1), T(n-2) là tổng thu và phần thu ngoài học phí của 2 năm trước liền kề.
 
 Tiêu chuẩn 5: Tuyển sinh và đào tạo
 
 5.1.1 Tỉ lệ nhập học trung bình 3 năm
 Trung bình cộng của tỉ lệ nhập học trong 3 năm gần nhất, tính tất cả trình độ đào tạo và hình thức đào tạo:
-$T = [A(n)/B(n) + A(n-1)/B(n-1) + A(n-2)/B(n-2)]/3$
+T = [A(n)/B(n) + A(n-1)/B(n-1) + A(n-2)/B(n-2)]/3
 
 Trong đó:
-- $A(n), A(n-1), A(n-2)$ là số lượng nhập học mới của năm báo cáo (n) và hai năm trước liền kề;
-- $B(n), B(n-1), B(n-2)$ là chỉ tiêu theo kế hoạch của năm báo cáo (n) và hai năm trước liền kề.
+- A(n), A(n-1), A(n-2) là số lượng nhập học mới của năm báo cáo (n) và hai năm trước liền kề;
+- B(n), B(n-1), B(n-2) là chỉ tiêu theo kế hoạch của năm báo cáo (n) và hai năm trước liền kề.
 
 5.1.2 Tỉ số tăng giảm quy mô đào tạo 3 năm
 Số lượng tăng giảm quy mô đào tạo của năm báo cáo so với 3 năm trước, chia cho quy mô đào tạo của 3 năm trước, tính tất cả trình độ đào tạo và hình thức đào tạo:
-$T = A(n)/A(n-3) - 1$
+T = A(n)/A(n-3) - 1
 
 Trong đó:
-- $A(n)$ là quy mô đào tạo của năm báo cáo (n)
-- $A(n-3)$ là quy mô đào tạo của 3 năm trước (n-3).
+- A(n) là quy mô đào tạo của năm báo cáo (n)
+- A(n-3) là quy mô đào tạo của 3 năm trước (n-3).
 
 5.2.1 Tỉ lệ thôi học
 Số người thôi học trong năm (B) chia cho tổng số người học được thống kê có mặt tại thời điểm cuối năm trước (A) và còn trong thời gian học tập cho phép.
@@ -362,40 +362,40 @@ Số người thôi học trong năm (B) chia cho tổng số người học đ�
 ----- [Trang 13] -----
 11
 
-$B = A - C - D$
+B = A - C - D
 
 Trong đó:
-- $C$ là số người (nằm trong A) đã tốt nghiệp trong năm;
-- $D$ là số người (nằm trong A) tiếp tục theo học và có mặt tại thời điểm cuối năm.
+- C là số người (nằm trong A) đã tốt nghiệp trong năm;
+- D là số người (nằm trong A) tiếp tục theo học và có mặt tại thời điểm cuối năm.
 
 5.2.2 Tỉ lệ thôi học năm đầu
 Số người thôi học sau năm đầu tiên nhập học (B1) chia cho tổng số người nhập học được thống kê có mặt tại thời điểm cuối năm trước (A1).
-$B1 = A1 - C1 - D1$
+B1 = A1 - C1 - D1
 
 Trong đó:
-- $C1$ là số người (nằm trong A1) đã tốt nghiệp trong năm;
-- $D1$ là số người (nằm trong A1) tiếp tục theo học và có mặt tại thời điểm cuối năm.
+- C1 là số người (nằm trong A1) đã tốt nghiệp trong năm;
+- D1 là số người (nằm trong A1) tiếp tục theo học và có mặt tại thời điểm cuối năm.
 
 5.3.1 Tỉ lệ tốt nghiệp
-Tỉ lệ tốt nghiệp $T = \sum M(i)/N(i)$
+Tỉ lệ tốt nghiệp T = Σ M(i)/N(i)
 
 Trong đó:
-- $N(i)$ là tổng số người nhập học mới năm (i), có người tốt nghiệp trong năm;
-- $M(i)$ là số người nhập học mới năm (i) đã tốt nghiệp trong năm, không vượt quá 1,5 lần thời gian theo kế hoạch học tập chuẩn.
+- N(i) là tổng số người nhập học mới năm (i), có người tốt nghiệp trong năm;
+- M(i) là số người nhập học mới năm (i) đã tốt nghiệp trong năm, không vượt quá 1,5 lần thời gian theo kế hoạch học tập chuẩn.
 
 5.3.2 Tỉ lệ tốt nghiệp đúng hạn
-Tỉ lệ tốt nghiệp $T1 = \sum M1(i)/N1(i)$
+Tỉ lệ tốt nghiệp T1 = Σ M1(i)/N1(i)
 
 Trong đó:
-- $N1(i)$ là tổng số người nhập học mới năm (i), có người tốt nghiệp trong năm;
-- $M1(i)$ là số người nhập học mới năm (i) đã tốt nghiệp trong năm, sớm hơn hoặc đúng thời gian theo kế hoạch học tập chuẩn.
+- N1(i) là tổng số người nhập học mới năm (i), có người tốt nghiệp trong năm;
+- M1(i) là số người nhập học mới năm (i) đã tốt nghiệp trong năm, sớm hơn hoặc đúng thời gian theo kế hoạch học tập chuẩn.
 
 5.4.1 Tỉ lệ người học hài lòng với giảng viên
-Tỉ lệ người học hài lòng viên $T1 = M1/N1$
+Tỉ lệ người học hài lòng viên T1 = M1/N1
 
 Trong đó:
-- $M1$ là số (lượt) người học phản hồi tích cực, đánh giá từ mức “Hài lòng” trở lên về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân;
-- $N1$ là tổng số (lượt) người học gửi ý kiến phản hồi hợp lệ về mức độ hài lòng về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân.
+- M1 là số (lượt) người học phản hồi tích cực, đánh giá từ mức “Hài lòng” trở lên về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân;
+- N1 là tổng số (lượt) người học gửi ý kiến phản hồi hợp lệ về mức độ hài lòng về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân.
 
 Yêu cầu khảo sát:
 a) Cơ sở GDĐH thực hiện khảo sát theo hình thức trên giấy hoặc trực tuyến, theo một trong 2 cách dưới đây:
@@ -406,58 +406,58 @@ a) Cơ sở GDĐH thực hiện khảo sát theo hình thức trên giấy hoặ
 
 - Khảo sát tổng thể đội ngũ giảng viên với toàn bộ người học, mỗi người học tham gia một lượt khảo sát, số lượt khảo sát bằng tổng số người học, kết quả khảo sát tính chung cho toàn bộ đội ngũ giảng viên.
 
-b) Cơ quan quản lý nhà nước có thể tiến hành khảo sát độc lập (để kiểm chứng) với tối thiểu $20\%$ người học theo cách lựa chọn ngẫu nhiên, bảo đảm đại diện cho tất cả các khóa đào tạo và chương trình đào tạo.
+b) Cơ quan quản lý nhà nước có thể tiến hành khảo sát độc lập (để kiểm chứng) với tối thiểu 20% người học theo cách lựa chọn ngẫu nhiên, bảo đảm đại diện cho tất cả các khóa đào tạo và chương trình đào tạo.
 c) Câu hỏi khảo sát thống nhất theo mẫu “Anh/Chị hài lòng như thế nào về chất lượng, hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân?” với 5 mức đánh giá (Rất không hài lòng, Không hài lòng, Phân vân, Hài lòng, Rất hài lòng), trong đó có 2 mức cao nhất (Hài lòng, Rất hài lòng) được coi là phản hồi tích cực, đánh giá từ mức “Hài lòng” trở lên.
-d) Số lượt người học gửi ý kiến phản hồi lệch không bao gồm những phiếu trả lời hoàn toàn trống hoặc những phiếu có chứa thông tin mâu thuẫn, phiếu của một người học gửi nhiều lần cho một lượt khảo sát. Yêu cầu số lượt người học gửi ý kiến phản hồi hợp lệ đạt tối thiểu $70\%$ số lượt người học được khảo sát.
+d) Số lượt người học gửi ý kiến phản hồi lệch không bao gồm những phiếu trả lời hoàn toàn trống hoặc những phiếu có chứa thông tin mâu thuẫn, phiếu của một người học gửi nhiều lần cho một lượt khảo sát. Yêu cầu số lượt người học gửi ý kiến phản hồi hợp lệ đạt tối thiểu 70% số lượt người học được khảo sát.
 
 5.4.2 Tỉ lệ người tốt nghiệp hài lòng tổng thể
-Tỉ lệ người tốt nghiệp hài lòng tổng thể $T2 = M2/N2$
+Tỉ lệ người tốt nghiệp hài lòng tổng thể T2 = M2/N2
 
 Trong đó:
-- $M2$: Số người tốt nghiệp phản hồi tích cực, đánh giá từ mức hài lòng trở lên về tổng thể quá trình học tập và trải nghiệm tại cơ sở GDĐH đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân;
-- $N2$: Tổng số người tốt nghiệp phản hồi khảo sát mức độ hài lòng về tổng thể quá trình học tập và trải nghiệm tại cơ sở GDĐH đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân.
+- M2: Số người tốt nghiệp phản hồi tích cực, đánh giá từ mức hài lòng trở lên về tổng thể quá trình học tập và trải nghiệm tại cơ sở GDĐH đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân;
+- N2: Tổng số người tốt nghiệp phản hồi khảo sát mức độ hài lòng về tổng thể quá trình học tập và trải nghiệm tại cơ sở GDĐH đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân.
 
 Yêu cầu khảo sát:
 a) Cơ sở GDĐH thực hiện khảo sát theo hình thức trên giấy hoặc trực tuyến với tất cả người tốt nghiệp trong năm;
-b) Cơ quan quản lý nhà nước có thể tiến hành khảo sát độc lập (để kiểm chứng) với tối thiểu $20\%$ người tốt nghiệp theo cách lựa chọn ngẫu nhiên, bảo đảm đại diện cho tất cả các khóa đào tạo và chương trình đào tạo.
+b) Cơ quan quản lý nhà nước có thể tiến hành khảo sát độc lập (để kiểm chứng) với tối thiểu 20% người tốt nghiệp theo cách lựa chọn ngẫu nhiên, bảo đảm đại diện cho tất cả các khóa đào tạo và chương trình đào tạo.
 c) Câu hỏi khảo sát thống nhất theo mẫu “Anh/Chị hài lòng như thế nào về tổng thể quá trình học tập và trải nghiệm đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân?” với 5 mức đánh giá (Rất không hài lòng, Không hài lòng, Phân vân, Hài lòng, Rất hài lòng), trong đó có 2 mức cao nhất (Hài lòng, Rất hài lòng) được coi là phản hồi tích cực, đánh giá từ mức “Hài lòng” trở lên.
-d) Số lượt người tốt nghiệp gửi ý kiến phản hồi hợp lệ không bao gồm những phiếu trả lời hoàn toàn trống hoặc những phiếu có chứa thông tin mâu thuẫn, phiếu của một người tốt nghiệp gửi nhiều lần cho một lượt khảo sát. Yêu cầu số lượt người tốt nghiệp gửi ý kiến phản hồi hợp lệ đạt tối thiểu $70\%$ số lượt người tốt nghiệp được khảo sát.
+d) Số lượt người tốt nghiệp gửi ý kiến phản hồi hợp lệ không bao gồm những phiếu trả lời hoàn toàn trống hoặc những phiếu có chứa thông tin mâu thuẫn, phiếu của một người tốt nghiệp gửi nhiều lần cho một lượt khảo sát. Yêu cầu số lượt người tốt nghiệp gửi ý kiến phản hồi hợp lệ đạt tối thiểu 70% số lượt người tốt nghiệp được khảo sát.
 
 5.5 Tỉ lệ người tốt nghiệp có việc làm
 Tỉ lệ người tốt nghiệp đại học có việc làm phù hợp với trình độ chuyên môn được đào tạo
-$T = N1/N$
+T = N1/N
 
 ----- [Trang 15] -----
 13
 
 Trong đó:
-- $N$ là tổng số sinh viên đại học tốt nghiệp tất cả các đợt trong năm trước liền kề;
-- $N1$ là số sinh viên đại học tốt nghiệp nằm trong N, tại thời điểm 12 tháng sau khi tốt nghiệp đang có việc làm (kể cả đang trong giai đoạn tập sự, thử việc) phù hợp với trình độ chuyên môn được đào tạo hoặc tự tạo việc làm hoặc đang học tiếp trình độ cao hơn.
+- N là tổng số sinh viên đại học tốt nghiệp tất cả các đợt trong năm trước liền kề;
+- N1 là số sinh viên đại học tốt nghiệp nằm trong N, tại thời điểm 12 tháng sau khi tốt nghiệp đang có việc làm (kể cả đang trong giai đoạn tập sự, thử việc) phù hợp với trình độ chuyên môn được đào tạo hoặc tự tạo việc làm hoặc đang học tiếp trình độ cao hơn.
 
 Các phương pháp xác định N1:
 a) Cơ sở GDĐH thực hiện khảo sát theo hình thức trên giấy hoặc trực tuyến với tất cả người tốt nghiệp đại học trong năm trước liền kề, N1 được ước tính theo công thức:
-$N1 \approx M1 + (N - M)/2$
+N1 ≈ M1 + (N - M)/2
 
 Trong đó:
-- $M$ là số người tốt nghiệp (nằm trong N) có phản hồi khảo sát;
-- $M1$ là số người xác nhận đã có việc làm (kể cả đang trong giai đoạn tập sự, thử việc) phù hợp với trình độ đào tạo, hoặc tự tạo việc làm hoặc đang học tiếp trình độ cao hơn trong thời gian 12 tháng sau khi tốt nghiệp;
-- Đối với số người tốt nghiệp không phản hồi khảo sát $(N - M)$, tỉ lệ có việc làm được ước tính chung là $50\%$.
+- M là số người tốt nghiệp (nằm trong N) có phản hồi khảo sát;
+- M1 là số người xác nhận đã có việc làm (kể cả đang trong giai đoạn tập sự, thử việc) phù hợp với trình độ đào tạo, hoặc tự tạo việc làm hoặc đang học tiếp trình độ cao hơn trong thời gian 12 tháng sau khi tốt nghiệp;
+- Đối với số người tốt nghiệp không phản hồi khảo sát (N - M), tỉ lệ có việc làm được ước tính chung là 50%.
 
-b) Cơ quan quản lý nhà nước có thể tiến hành khảo sát độc lập (để kiểm chứng) với tối thiểu $20\%$ số người tốt nghiệp đại học trong năm trước liền kề, N1 được ước tính theo công thức:
-$N1 \approx [M1 + (P - M)/2] \times N/P$
+b) Cơ quan quản lý nhà nước có thể tiến hành khảo sát độc lập (để kiểm chứng) với tối thiểu 20% số người tốt nghiệp đại học trong năm trước liền kề, N1 được ước tính theo công thức:
+N1 ≈ [M1 + (P - M)/2] × N/P
 
 Trong đó:
-- $P$ là số người tốt nghiệp được khảo sát độc lập;
-- $M$ là số người tốt nghiệp (nằm trong P) có phản hồi khảo sát;
-- $M1$ là số người xác nhận đã có việc làm (kể cả đang trong giai đoạn tập sự, thử việc) phù hợp với trình độ đào tạo, hoặc tự tạo việc làm hoặc đang học tiếp trình độ cao hơn trong thời gian 12 tháng sau khi tốt nghiệp;
-- Đối với số người tốt nghiệp không phản hồi khảo sát $(P - M)$, tỉ lệ có việc làm được ước tính chung là $50\%$.
+- P là số người tốt nghiệp được khảo sát độc lập;
+- M là số người tốt nghiệp (nằm trong P) có phản hồi khảo sát;
+- M1 là số người xác nhận đã có việc làm (kể cả đang trong giai đoạn tập sự, thử việc) phù hợp với trình độ đào tạo, hoặc tự tạo việc làm hoặc đang học tiếp trình độ cao hơn trong thời gian 12 tháng sau khi tốt nghiệp;
+- Đối với số người tốt nghiệp không phản hồi khảo sát (P - M), tỉ lệ có việc làm được ước tính chung là 50%.
 
 c) Bộ Giáo dục và Đào tạo có thể tính toán thống kê (để kiểm chứng) dựa trên thông tin việc làm có trên các cơ sở dữ liệu quốc gia:
-$N1 \approx M1 + K_N \times N$
+N1 ≈ M1 + K_N × N
 
 Trong đó:
-- $M1$ là số người tốt nghiệp (nằm trong N) đang được ghi nhận có việc làm (kể cả đang trong giai đoạn tập sự, thử việc);
-- $K_N$ là hệ số ước tính tỉ lệ người tốt nghiệp đại học đang học tiếp trình độ cao hơn, hoặc ra nước ngoài làm việc (do cơ sở GDĐH cung cấp).
+- M1 là số người tốt nghiệp (nằm trong N) đang được ghi nhận có việc làm (kể cả đang trong giai đoạn tập sự, thử việc);
+- K_N là hệ số ước tính tỉ lệ người tốt nghiệp đại học đang học tiếp trình độ cao hơn, hoặc ra nước ngoài làm việc (do cơ sở GDĐH cung cấp).
 
 Tiêu chuẩn 6: Nghiên cứu và đổi mới sáng tạo
 
@@ -467,46 +467,45 @@ Tỉ trọng thu từ các hoạt động khoa học và công nghệ (nghiên c
 ----- [Trang 16] -----
 Trang 1
 14
-$T = [R1(n)/R + R1(n-1)/R(n-1) + R1(n-2)/R(n-2)]/3 \times K_{LV}$
+T = [R1(n)/R + R1(n-1)/R(n-1) + R1(n-2)/R(n-2)]/3 × K_LV
 Trong đó:
-- $R(n)$ là tổng thu hoạt động trong năm báo cáo (n) từ các hoạt động thường xuyên (bao gồm cả ngân sách Nhà nước, nhà đầu tư hỗ trợ) và thực hiện nhiệm vụ không thường xuyên, không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp; $R(n-1), R(n-2)$ là tổng thu hoạt động của 2 năm trước liền kề;
-- $R1(n)$ là phần thu từ nghiên cứu khoa học, đổi mới sáng tạo, chuyển giao tri thức (đề tài, dự án nghiên cứu, hợp đồng tư vấn, chuyển giao tri thức) quy đổi theo lĩnh vực đào tạo của năm báo cáo (n); $R1(n-1), R1(n-2)$ là phần thu tương ứng của 2 năm trước liền kề;
-- $K_{LV}$ là hệ số quy đổi kinh phí theo cơ cấu lĩnh vực đào tạo của cơ sở GDĐH tại năm báo cáo (n):
- $K_{LV} = \sum [M(i)/N] \times K_{TC}(i)$
-- $M(i)$ là số người học quy đổi theo hình thức và trình độ đào tạo của lĩnh vực đào tạo (i) tại năm báo cáo (n):
- $M(i) = M1(i) \times 1,0 + M2(i) \times 0,8 + M3(i) \times 0,5 + M4(i) \times 1,5 + M5(i) \times 2,0$
-- $M1(i), M2(i), M3(i), M4(i), M5(i)$ lần lượt là số SVĐH chính quy, vừa làm vừa học, đào tạo từ xa, số HVCH và số NCS của lĩnh vực đào tạo (i) trong năm báo cáo (n);
-- $N$ là tổng số người học quy đổi theo hình thức đào tạo và trình độ đào tạo của cơ sở GDĐH tại năm báo cáo (n):
- $N = \sum M(i)$
-- $K_{TC}(i)$ là hệ số kinh phí nghiên cứu và đổi mới sáng tạo quy đổi cho lĩnh vực đào tạo (i), được quy định tại Mục 3 ở cuối Phần này.
+- R(n) là tổng thu hoạt động trong năm báo cáo (n) từ các hoạt động thường xuyên (bao gồm cả ngân sách Nhà nước, nhà đầu tư hỗ trợ) và thực hiện nhiệm vụ không thường xuyên, không bao gồm kinh phí đầu tư do Nhà nước hoặc nhà đầu tư cấp; R(n-1), R(n-2) là tổng thu hoạt động của 2 năm trước liền kề;
+- R1(n) là phần thu từ nghiên cứu khoa học, đổi mới sáng tạo, chuyển giao tri thức (đề tài, dự án nghiên cứu, hợp đồng tư vấn, chuyển giao tri thức) quy đổi theo lĩnh vực đào tạo của năm báo cáo (n); R1(n-1), R1(n-2) là phần thu tương ứng của 2 năm trước liền kề;
+- K_LV là hệ số quy đổi kinh phí theo cơ cấu lĩnh vực đào tạo của cơ sở GDĐH tại năm báo cáo (n):
+ K_LV = Σ [M(i)/N] × K_TC(i)
+- M(i) là số người học quy đổi theo hình thức và trình độ đào tạo của lĩnh vực đào tạo (i) tại năm báo cáo (n):
+ M(i) = M1(i) × 1,0 + M2(i) × 0,8 + M3(i) × 0,5 + M4(i) × 1,5 + M5(i) × 2,0
+- M1(i), M2(i), M3(i), M4(i), M5(i) lần lượt là số SVĐH chính quy, vừa làm vừa học, đào tạo từ xa, số HVCH và số NCS của lĩnh vực đào tạo (i) trong năm báo cáo (n);
+- N là tổng số người học quy đổi theo hình thức đào tạo và trình độ đào tạo của cơ sở GDĐH tại năm báo cáo (n):
+ N = Σ M(i)
+- K_TC(i) là hệ số kinh phí nghiên cứu và đổi mới sáng tạo quy đổi cho lĩnh vực đào tạo (i), được quy định tại Mục 3 ở cuối Phần này.
 
 6.2.1 Số công bố trên giảng viên
 Tổng số công bố khoa học và công trình ứng dụng khoa học, công nghệ của cơ sở GDĐH được ghi nhận trong năm (P), chia cho số GVTTG.
-$P = P1 + P2 \times 3 + P3 \times 5$
+P = P1 + P2 × 3 + P3 × 5
 Trong đó:
-- $P1$ là tổng số bài báo tạp chí, báo cáo hội nghị nằm trong danh mục do Hội đồng Giáo sư Nhà nước công bố, số bằng độc quyền giải pháp hữu ích;
-- $P2$ là số sách chuyên khảo được xuất bản; số tác phẩm nghệ thuật, thành tích thể thao đạt giải thưởng quốc gia, quốc tế;
-- $P3$ là số bằng độc quyền sáng chế.
+- P1 là tổng số bài báo tạp chí, báo cáo hội nghị nằm trong danh mục do Hội đồng Giáo sư Nhà nước công bố, số bằng độc quyền giải pháp hữu ích;
+- P2 là số sách chuyên khảo được xuất bản; số tác phẩm nghệ thuật, thành tích thể thao đạt giải thưởng quốc gia, quốc tế;
+- P3 là số bằng độc quyền sáng chế.
 
 6.2.2 Số công bố WoS, Scopus trên giảng viên
 Tổng số công bố khoa học của cơ sở GDĐH trong năm thuộc danh mục Web of Science hoặc Scopus chia cho số GVTTG.
-$P = P1 \times K_{LV}$
+P = P1 × K_LV
 Trong đó:
-- $P1$ là tổng số bài báo thuộc danh mục Web of Science hoặc Scopus;
-- $K_{LV}$ là hệ số quy đổi theo cơ cấu lĩnh vực đào tạo của cả cơ sở GDĐH:
- $K_{LV} = \sum [M(i)/N] \times K_{BB}(i)$
+- P1 là tổng số bài báo thuộc danh mục Web of Science hoặc Scopus;
+- K_LV là hệ số quy đổi theo cơ cấu lĩnh vực đào tạo của cả cơ sở GDĐH:
+ K_LV = Σ [M(i)/N] × K_BB(i)
 
 Trang 2
 
 ----- [Trang 17] -----
 15
-- $K_{BB}(i)$ là hệ số quy đổi theo lĩnh vực đào tạo (i), được quy định tại Mục 3 ở cuối Phần này.
-- $M(i)$ là số người học quy đổi theo hình thức và trình độ đào tạo của lĩnh vực đào tạo (i) tại năm báo cáo, $N$ là tổng số người học quy đổi theo hình thức và trình độ đào tạo của cơ sở GDĐH tại năm báo cáo, giống như trong tính toán chỉ số 6.1 (Tỉ trọng thu khoa học - công nghệ).
+- K_BB(i) là hệ số quy đổi theo lĩnh vực đào tạo (i), được quy định tại Mục 3 ở cuối Phần này.
+- M(i) là số người học quy đổi theo hình thức và trình độ đào tạo của lĩnh vực đào tạo (i) tại năm báo cáo, N là tổng số người học quy đổi theo hình thức và trình độ đào tạo của cơ sở GDĐH tại năm báo cáo, giống như trong tính toán chỉ số 6.1 (Tỉ trọng thu khoa học - công nghệ).
 
 3. Các hệ số quy đổi theo lĩnh vực đào tạo phục vụ tính toán các chỉ số
 
-| STT | Lĩnh vực đào tạo | Hệ số tải giảng dạy $K_{GD}$ | Hệ số diện tích $K_{DT}$ | Hệ số kinh phí $K_{TC}$ | Hệ số công bố $K_{BB}$ |
-|:---|:---|:---:|:---:|:---:|:---:|
+| STT | Lĩnh vực đào tạo | Hệ số tải giảng dạy K_GD | Hệ số diện tích K_DT | Hệ số kinh phí K_TC | Hệ số công bố K_BB |
 | 1. | Khoa học giáo dục và đào tạo giáo viên | 1 | 1 | 2 | 1,5 |
 | 2. | Nghệ thuật | 2 | 1,5 | 2 | 2 |
 | 3. | Nhân văn | 0,8 | 0,8 | 2 | 2 |
@@ -541,7 +540,6 @@ V. CÁC BIỂU MẪU SỐ LIỆU
 TIÊU CHUẨN 1: TỔ CHỨC VÀ QUẢN TRỊ
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-|:---|:---|:---:|:---:|:---:|:---|
 | 1.1 | Số tháng khuyết lãnh đạo chủ chốt | 6 | | | |
 | 1.2 | Mức độ hoàn thiện văn bản theo Luật GDĐH | 100% | | | |
 | 1.3 | Tỉ lệ chỉ số hoạt động được cải thiện | 50% | | | |
@@ -550,7 +548,6 @@ TIÊU CHUẨN 1: TỔ CHỨC VÀ QUẢN TRỊ
 Bảng 1A: Danh sách lãnh đạo chủ chốt
 
 | STT | HỌ VÀ TÊN | CHỨC TRÁCH | THỜI HẠN GIỮ CHỨC VỤ ĐẾN | VĂN BẢN QUYẾT ĐỊNH | ĐƯỜNG DẪN TRANG WEB |
-|:---|:---|:---|:---|:---|:---|
 | Nơi ban hành | Ngày có hiệu lực |
 | 1 | | Chủ tịch HĐT/HĐĐH | | | |
 | 2 | | Hiệu trưởng/ Giám đốc | | | |
@@ -558,7 +555,6 @@ Bảng 1A: Danh sách lãnh đạo chủ chốt
 Bảng 1B: Tình trạng hoàn thiện các văn bản theo quy định của Luật GDĐH
 
 | STT | TÊN VĂN BẢN | TÌNH TRẠNG | SỐ, KÝ HIỆU NGÀY, THÁNG, NĂM BAN HÀNH | TÊN VĂN BẢN CỦA CƠ SỞ GDĐH | ĐƯỜNG DẪN TRANG WEB |
-|:---|:---|:---|:---|:---|:---|
 | 1 | Chiến lược, kế hoạch phát triển | | | | |
 | 2 | Quy chế tổ chức và hoạt động | | | | |
 | 3 | Quy chế tài chính | | | | |
@@ -572,7 +568,6 @@ Trang 4
 Bảng 1C: Kết quả thực hiện các chỉ số hoạt động chính
 
 | STT | CHỈ SỐ CHÍNH | CHỈ TIÊU CHIẾN LƯỢC | KẾT QUẢ ĐẠT ĐƯỢC | So sánh | GHI CHÚ |
-|:---|:---|:---|:---:|:---:|:---|:---|
 | 2021 | 2022 |
 | 1 | Chỉ số 1 | | | | | |
 | 2 | Chỉ số 2 | | | | | |
@@ -588,7 +583,6 @@ Bảng 1C: Kết quả thực hiện các chỉ số hoạt động chính
 Bảng 1D: Số liệu thống kê lập báo cáo đánh giá
 
 | STT | SỐ LIỆU THỐNG KÊ | MỨC ĐỘ ĐẦY ĐỦ CỦA SỐ LIỆU TRÍCH XUẤT TRÊN HEMIS | MỨC ĐỘ TIN CẬY CỦA SỐ LIỆU TRÍCH XUẤT TRÊN HEMIS | GHI CHÚ |
-|:---|:---|:---|:---|:---|
 | 1 | Bảng 1A: Danh sách lãnh đạo chủ chốt | | | |
 | 2 | Bảng 1B: Tình trạng hoàn thiện các văn bản | | | |
 | 3 | Bảng 1C: Kết quả thực hiện các chỉ số hoạt động chính | | | |
@@ -608,15 +602,13 @@ Trang 5
 TIÊU CHUẨN 2: GIẢNG VIÊN
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-|:---|:---|:---:|:---:|:---:|:---|
 | 2.1 | Tỉ lệ người học trên giảng viên | 40 | | | |
 | 2.2 | Tỉ lệ giảng viên cơ hữu trong độ tuổi lao động | 70% | | | |
 | 2.3 | Tỉ lệ giảng viên có trình độ tiến sĩ | 20% | | | |
 
 Bảng 2A: Đội ngũ giảng viên toàn thời gian
 
-| CHỈ SỐ THỐNG KÊ | Trình độ $^{(1)}$ | Chức danh | Tổng số | Tổng số GV quy đổi |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+| CHỈ SỐ THỐNG KÊ | Trình độ ^(1) | Chức danh | Tổng số | Tổng số GV quy đổi |
 | ĐH | ThS | TS | PGS | GS |
 |
 
@@ -630,9 +622,8 @@ Ghi chú:
 TIÊU CHUẨN 3: CƠ SỞ VẬT CHẤT
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-|:---|:---|:---:|:---:|:---:|:---|
-| 3.1 | Diện tích đất/người học ($m^2$) | 25 | | | |
-| 3.2.1 | Diện tích sàn/người học ($m^2$) | 2,8 | | | |
+| 3.1 | Diện tích đất/người học (m^2) | 25 | | | |
+| 3.2.1 | Diện tích sàn/người học (m^2) | 2,8 | | | |
 | 3.2.2 | Tỉ lệ giảng viên có chỗ làm việc riêng biệt | 70% | | | |
 | 3.3.1 | Số đầu sách/ngành đào tạo | 40 | | | |
 | 3.3.2 | Số bản sách/người học |
@@ -644,21 +635,19 @@ TIÊU CHUẨN 3: CƠ SỞ VẬT CHẤT
 
 Bảng 3A: Khuôn viên trụ sở chính và các phân hiệu
 
-| KHUÔN VIÊN | Ký hiệu | Diện tích đất ($m^2$) | Vị trí khuôn viên | Diện tích quy đổi | Địa chỉ |
-|:---|:---|:---|:---|:---|:---|
+| KHUÔN VIÊN | Ký hiệu | Diện tích đất (m^2) | Vị trí khuôn viên | Diện tích quy đổi | Địa chỉ |
 | 1 | Trụ sở chính | | | | |
 | 2 | Cơ sở... | | | | |
 | 3 | Phân hiệu... | | | | |
 
 ----- [Trang 21-25] -----
-TRANG 1
+----- [Trang 1] -----
 
 19
 
 Bảng 3B: Công trình phục vụ đào tạo
 
 | STT | CÔNG TRÌNH | Ký hiệu | Tổng diện tích sàn xây dựng | Hệ số diện tích sử dụng cho đào tạo | Diện tích sản sử dụng cho đào tạo | Địa chỉ | Ghi chú |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Toà nhà 1 | | | | | | |
 | 2 | Toà nhà 2 | | | | | | |
 | 3 | Toà nhà 3 | | | | | | |
@@ -669,7 +658,6 @@ Bảng 3B: Công trình phục vụ đào tạo
 Bảng 3C: Giáo trình, sách chuyên khảo
 
 | STT | CHỈ SỐ THÔNG KÊ | Giá trị | Nơi lưu trữ | Ghi chú |
-| :---: | :--- | :---: | :---: | :---: |
 | 1 | Tổng số ngành đào tạo các trình độ | | | |
 | 2 | Tổng số đầu giáo trình, sách chuyên khảo cần có | | | |
 | 3 | Số đầu sách điện tử có truy cập trực tuyến | | | |
@@ -681,19 +669,17 @@ Bảng 3C: Giáo trình, sách chuyên khảo
 Bảng 3D: Hạ tầng công nghệ thông tin
 
 | STT | CHỈ SỐ THÔNG KÊ | Giá trị | Ghi chú |
-| :---: | :--- | :---: | :---: |
 | 1 | Tốc độ hoặc băng thông đường truyền Internet (Mpbs) | | |
 | 2 | Tổng số học phần giảng dạy trong năm | | |
 | 3 | Tổng số học phần sẵn sàng giảng dạy trực tuyến > 50% | | |
 
-TRANG 2
+----- [Trang 2] -----
 
 20
 
 TIÊU CHUẨN 4: TÀI CHÍNH
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-| :---: | :--- | :---: | :---: | :---: | :---: |
 | 4.1 | Biên độ hoạt động trung bình 3 năm | 0%; 30% | | | |
 | 4.2 | Chỉ số tăng trưởng bền vững | 0,0% | | | |
 
@@ -702,7 +688,6 @@ Bảng 4: Tình hình thu chi hoạt động trong năm
 Đơn vị tính: Ti đồng
 
 | A | TỔNG THU HOẠT ĐỘNG | 2022 | 2021 | 2020 | 2019 | GHI CHÚ |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | I | Hỗ trợ chi thường xuyên từ Nhà nước/nhà đầu tư | | | | | |
 | II | Thu giáo dục và đào tạo | | | | | |
 | 1 | Học phí, lệ phí từ người học | | | | | |
@@ -725,12 +710,11 @@ Bảng 4: Tình hình thu chi hoạt động trong năm
 | 3 | Chi cho phát triển đội ngũ | | | | | |
 | 4 | Chi phí chung và chi khác | | | | | |
 
-TRANG 3
+----- [Trang 3] -----
 
 21
 
 | III | Chi hỗ trợ người học | | | | | |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | 1 | Chi học bổng và hỗ trợ học tập | | | | | |
 | 2 | Chi hoạt động nghiên cứu | | | | | |
 | 3 | Chi hoạt động khác | | | | | |
@@ -741,7 +725,6 @@ TRANG 3
 TIÊU CHUẨN 5: TUYỂN SINH VÀ ĐÀO TẠO
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-| :---: | :--- | :---: | :---: | :---: | :---: |
 | 5.1.1 | Tỉ lệ nhập học trung bình 3 năm | 50,0% | | | |
 | 5.1.2 | Tỉ số tăng giảm quy mô đào tạo 3 năm | -30,0% | | | |
 | 5.2.1 | Tỉ lệ thôi học | 10,0% | | | |
@@ -752,7 +735,7 @@ TIÊU CHUẨN 5: TUYỂN SINH VÀ ĐÀO TẠO
 | 5.4.2 | Tỉ lệ người tốt nghiệp hài lòng tổng thể | 70,0% | | | |
 | 5.5 | Tỉ lệ người tốt nghiệp có việc làm đúng chuyên môn | 70,0% | | | |
 
-TRANG 4
+----- [Trang 4] -----
 
 22
 
@@ -761,7 +744,6 @@ Bảng 5A: Kết quả đào tạo và tuyển sinh (cả ĐH và SĐH)
 Thời điểm thống kê: 31/12/20...
 
 | | CHỈ SỐ THÔNG KÊ | NĂM THỐNG KÊ | | | | | | | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | 2024 | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 |
 | 1 | Quy mô đào tạo tại thời điểm cuối năm | | | | | | | | | | |
 | 2 | Chỉ tiêu tuyển sinh theo kế hoạch từng năm | | | | | | | | | | |
@@ -769,16 +751,14 @@ Thời điểm thống kê: 31/12/20...
 | | Tỉ lệ nhập học = Số nhập học/chỉ tiêu | | | | | | | | | | |
 
 | | Thống kê tình trạng từng khóa theo năm nhập học | NĂM NHẬP HỌC | | | | | | | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | 2024 | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 |
 | 5 | Số hiện tại đang học tại cơ sở đào tạo | | | | | | | | | | |
 | 6 | Số tốt nghiệp trong năm qua, đúng hạn | | | | | | | | | | |
-| 7 | Số tốt nghiệp trong năm qua, quá hạn $\le$ 0,5 thời gian tiêu chuẩn | | | | | | | | | | |
+| 7 | Số tốt nghiệp trong năm qua, quá hạn ≤ 0,5 thời gian tiêu chuẩn | | | | | | | | | | |
 | 8 | Số tốt nghiệp trong năm qua, quá hạn 1,5 thời gian tiêu chuẩn | | | | | | | | | | |
 
 | | Số tốt nghiệp đúng hạn/số nhập học | | | | | | | | | | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| | Số tốt nghiệp quá hạn $\le$ 0,5 thời gian tiêu chuẩn/số nhập học | | | | | | | | | | |
+| | Số tốt nghiệp quá hạn ≤ 0,5 thời gian tiêu chuẩn/số nhập học | | | | | | | | | | |
 | | Số tốt nghiệp quá hạn 1,5 thời gian tiêu chuẩn/số nhập học | | | | | | | | | | |
 
 Ghi chú:
@@ -786,7 +766,7 @@ Ghi chú:
 (2) Số liệu của các chỉ số 5, 6 và 7 và 6 vào 7 của từng năm theo số sinh viên nhập học của năm đó, hiện đang còn đang theo học (5) hay đã tốt nghiệp trong năm qua (6, 7), cả đại học và sau đại học.
 (3) Cộng số sinh viên hiện tại đang theo học tại cơ sở GDĐH của tất cả năm nhập học dùng bằng tổng số sinh viên có mặt cuối năm thống kê (ngày 31 tháng 12).
 
-TRANG 5
+----- [Trang 5] -----
 
 23
 
@@ -795,8 +775,7 @@ Bảng 5B: Quy mô đào tạo theo lĩnh vực và theo trình độ đào tạ
 Thời điểm thống kê: 31/12/20...
 
 | STT | LĨNH VỰC ĐÀO TẠO | QUY MÔ ĐH | | | QUY MÔ SĐH | | TỔNG | Quy đổi về giảng dạy | | Quy đổi về diện tích | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| | | CQ | VLVH | DTTX | ThS | TS | | $K_{GĐ}$ | Số lượng | $K_{DT}$ | Số lượng |
+| | | CQ | VLVH | DTTX | ThS | TS | | K_GĐ | Số lượng | K_DT | Số lượng |
 | 1 | Khoa học giáo dục và đào tạo giáo viên | | | | | | | 1,0 | | 1,0 | |
 | 2 | Nghệ thuật | | | | | | | 2,0 | | 1,5 | |
 | 3 | Nhân văn | | | | | | | 0,8 | | 0,8 | |
@@ -824,14 +803,13 @@ Thời điểm thống kê: 31/12/20...
 | | Tổng số | | | | | | | | | | |
 
 ----- [Trang 26-27] -----
-TRANG 1
+----- [Trang 1] -----
 
 24
 
 TIÊU CHUẨN 6: NGHIÊN CỨU VÀ ĐỔI MỚI SÁNG TẠO
 
 | CHỈ SỐ ĐÁNH GIÁ | TC6 | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-| :--- | :---: | :---: | :---: | :--- |
 | 6.1 | Tỉ trọng thu khoa học-công nghệ | 5,0% | | |
 | 6.2.1 | Số công bố khoa học/giảng viên | 0,3 | | |
 | 6.2.2 | Số công bố WoS, Scopus/ giảng viên | 0,3 | | |
@@ -839,7 +817,6 @@ TIÊU CHUẨN 6: NGHIÊN CỨU VÀ ĐỔI MỚI SÁNG TẠO
 Bảng 6A: Công bố khoa học của giảng viên toàn thời gian
 
 | STT | CHỈ SỐ THỐNG KÊ | SỐ LƯỢNG | HỆ SỐ | QUY ĐỔI | GHI CHÚ |
-| :---: | :--- | :---: | :---: | :---: | :--- |
 | 1 | Tổng số bài báo khoa học được HĐCDGSNN công nhận không nằm trong danh mục WoS, Scopus và bằng độc quyền giải pháp hữu ích | | | | |
 | 2 | Tổng số công bố WoS, Scopus tất cả các lĩnh vực | | | | |
 | 3 | Tổng số sách chuyên khảo, số tác phẩm nghệ thuật và thành tích thể dục thể thao đạt giải thưởng quốc gia, quốc tế | | | | |
@@ -849,7 +826,6 @@ Bảng 6A: Công bố khoa học của giảng viên toàn thời gian
 Bảng KS.1: Kết quả khảo sát người học
 
 | STT | CÂU HỎI KHẢO SÁT Ý KIẾN (1) | Phương thức khảo sát: | | | | |
-| :---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | | | Người học | Số lượt khảo sát (2) | Số lượt phản hồi (3) | Tỉ lệ phản hồi tích cực (4) | Tỉ lệ phản hồi tích cực |
 | 1 | Anh/ Chị hài lòng như thế nào về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân? | Đại học | | | | |
 | Sau đại học | | | | |
@@ -859,7 +835,7 @@ Bảng KS.1: Kết quả khảo sát người học
 | Tổng số | | | | |
 | 3 | Trong thời gian 12 tháng sau khi tốt nghiệp, Anh/ Chị đã có việc làm, tự tạo việc làm (hoặc đi học tiếp) phù hợp với trình độ đào tạo hay chưa? | Đại học | | | | |
 
-TRANG 2
+----- [Trang 2] -----
 
 25
 

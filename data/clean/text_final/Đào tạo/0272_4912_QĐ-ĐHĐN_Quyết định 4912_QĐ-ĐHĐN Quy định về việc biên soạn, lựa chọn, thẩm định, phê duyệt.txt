@@ -338,12 +338,11 @@ Bản thảo giáo trình cần có cấu trúc như sau:
 
 ----- [Trang 16] -----
 
-TRANG 2
+----- [Trang 2] -----
 
 3. Đề mục, kích thước chữ, loại, kiểu chữ, cách sắp xếp
 
 | STT | Loại đề mục | Kích thước chữ | Loại, kiểu chữ | Cách sắp xếp |
-|---|---|---|---|---|
 | 1 | Tên giáo trình | 16 | In hoa, đứng, đậm | Canh giữa |
 | 2 | Tên tác giả | 14 | In hoa, đứng, đậm | Canh giữa |
 | 3 | Lời giới thiệu | 13 | In hoa, đứng, đậm | Canh giữa |
@@ -366,7 +365,7 @@ TRANG 2
 - Ví dụ:
 CHƯƠNG I
 
-TRANG 3
+----- [Trang 3] -----
 
 TÊN CHƯƠNG...
 1.1. Chữ in thường, đứng, đậm
@@ -386,7 +385,7 @@ Thực hiện theo quy định hiện hành.
 5. Viết hoa, viết tắt
 Thực hiện theo quy định hiện hành về công tác văn thư.
 
-TRANG 4
+----- [Trang 4] -----
 
 Bìa chính
 
@@ -401,7 +400,7 @@ Cơ quan công tác: ........
 
 Năm 20...
 
-TRANG 5
+----- [Trang 5] -----
 
 Bìa phụ
 
@@ -426,7 +425,6 @@ A. BIỂU MẪU BIÊN SOẠN, LỰA CHỌN, THẨM ĐỊNH GIÁO TRÌNH
 (áp dụng đối với các đơn vị thuộc và trực thuộc ĐHĐN)
 
 | STT | TÊN BIỂU MẪU |
-|---|---|
 | Biểu mẫu 01 | Phiếu nhận xét bản thảo giáo trình của Ủy viên Phản biện |
 | Biểu mẫu 02 | Phiếu nhận xét bản thảo giáo trình của thành viên Hội đồng |
 | Biểu mẫu 03 | Phiếu đánh giá bản thảo giáo trình |
@@ -437,7 +435,7 @@ A. BIỂU MẪU BIÊN SOẠN, LỰA CHỌN, THẨM ĐỊNH GIÁO TRÌNH
 
 ----- [Trang 21] -----
 
-[TRANG 2]
+----- [Trang 2] -----
 
 Biểu mẫu 01
 
@@ -475,7 +473,7 @@ Bài tập;
 6. Đối tượng sử dụng (CTĐT đại học/thạc sĩ/tiến sĩ):
 7. Ý kiến khác (nếu có):
 
-[TRANG 3]
+----- [Trang 3] -----
 
 8. Kết luận:
 (Ghi rõ “đồng ý nghiệm thu”, “không đồng ý nghiệm thu” hoặc “đồng ý nghiệm thu và cần chỉnh sửa”)
@@ -484,7 +482,7 @@ Bài tập;
 Người nhận xét
 (ký, ghi rõ họ tên)
 
-[TRANG 4]
+----- [Trang 4] -----
 
 Biểu mẫu 02
 
@@ -519,7 +517,7 @@ CỦA THÀNH VIÊN HỘI ĐỒNG
 Người nhận xét
 (ký, ghi rõ họ tên)
 
-[TRANG 5]
+----- [Trang 5] -----
 
 Biểu mẫu 03
 
@@ -540,7 +538,6 @@ PHIẾU ĐÁNH GIÁ BẢN THẢO GIÁO TRÌNH
 4. Kết quả đánh giá:
 
 | STT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-|---|---|---|---|
 | 1 | Về nội dung giáo trình (sự phù hợp với mục tiêu, nội dung CTĐT; đảm bảo chuẩn kiến thức, kỹ năng, đáp ứng chuẩn đầu ra của học phần) | 25 | |
 | 2 | Về kiến thức trong giáo trình (tính kế thừa, tính mới, tính sáng tạo, trình bày khoa học, logic, phù hợp với thực tiễn và cập nhật những tri thức mới...) | 25 | |
 | 3 | Khả năng ứng dụng trong giảng dạy, nghiên cứu và thực tiễn | 20 | |
@@ -557,7 +554,7 @@ PHIẾU ĐÁNH GIÁ BẢN THẢO GIÁO TRÌNH
 Người đánh giá
 (ký, ghi rõ họ tên)
 
-[TRANG 6]
+----- [Trang 6] -----
 
 Biểu mẫu 04
 
@@ -590,7 +587,6 @@ Có mặt: ............thành viên. Vắng mặt: ........ (lý do)
 6.5. Kết quả đánh giá
 
 | STT | Họ và tên thành viên | Về nội dung | Về kiến thức | Khả năng ứng dụng | Định dạng, cấu trúc | Tài liệu tham khảo | Tổng điểm | Kết luận |
-|---|---|---|---|---|---|---|---|---|
 | 1. | ... | | | | | | | |
 | 2. | ... | | | | | | | |
 | ... | ... | | | | | | | |
@@ -674,7 +670,6 @@ PHIẾU ĐÁNH GIÁ LỰA CHỌN SÁCH LÀM GIÁO TRÌNH
 3. Kết quả đánh giá:
 
 | STT | Nội dung đánh giá | Điểm tối đa | Điểm đánh giá |
-|---|---|---|---|
 | 1 | Về nội dung sách đã xuất bản (sự phù hợp với mục tiêu, nội dung CTĐT; đảm bảo chuẩn kiến thức, kỹ năng, đáp ứng chuẩn đầu ra của học phần) | 25 | |
 | 2 | Về kiến thức trong sách đã xuất bản (tính kế thừa, tính mới, tính sáng tạo, trình bày khoa học, logic, phù hợp với thực tiễn và cập nhật những tri thức mới...) | 25 | |
 | 3 | Khả năng ứng dụng trong giảng dạy, nghiên cứu và thực tiễn | 20 | |
@@ -728,7 +723,6 @@ Có mặt: ............ thành viên. Vắng mặt: ............ (lý do)
 Điểm của thành viên Hội đồng:
 
 | STT | Họ và tên thành viên | Về nội dung | Về kiến thức | Khả năng ứng dụng | Nội dung chi tiết | Tài liệu tham khảo | Tổng điểm | Kết luận |
-|---|---|---|---|---|---|---|---|---|
 | 1 | ... | | | | | | | |
 | 2 | ... | | | | | | | |
 | ... | ... | | | | | | | |
@@ -746,13 +740,12 @@ THƯ KÝ HỘI ĐỒNG CHỦ TỊCH HỘI ĐỒNG
 
 ----- [Trang 31] -----
 
-TRANG 12
+----- [Trang 12] -----
 
 B. BIỂU MẪU BIÊN SOẠN, LỰA CHỌN, THẨM ĐỊNH GIÁO TRÌNH
 (áp dụng đối với các đơn vị thuộc ĐHĐN)
 
 | STT | TÊN BIỂU MẪU |
-| :--- | :--- |
 | Biểu mẫu 08 | Danh mục giáo trình đăng ký biên soạn |
 | Biểu mẫu 09 | Thành viên ban biên soạn giáo trình |
 | Biểu mẫu 10 | Danh mục sách đã xuất bản cần sử dụng/bổ sung làm giáo trình giảng dạy, học tập |
@@ -762,7 +755,7 @@ B. BIỂU MẪU BIÊN SOẠN, LỰA CHỌN, THẨM ĐỊNH GIÁO TRÌNH
 | Biểu mẫu 14 | Bản giải trình chỉnh sửa, bổ sung nội dung bản thảo giáo trình sau khi thẩm định |
 | Biểu mẫu 15 | Bản cam kết về nội dung giáo trình đã được biên soạn |
 
-TRANG 13
+----- [Trang 13] -----
 
 Biểu mẫu 08
 
@@ -775,7 +768,6 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 DANH MỤC GIÁO TRÌNH ĐĂNG KÝ BIÊN SOẠN NĂM ....................
 
 | TT | Tên giáo trình | Mã số học phần | Tên học phần | Trình độ đào tạo | Dự kiến số trang | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | | | |
 | 2 | | | | | | |
 
@@ -787,7 +779,7 @@ TRƯỞNG BỘ MÔN
 TRƯỞNG ĐƠN VỊ
 (ký, ghi rõ họ tên)
 
-TRANG 14
+----- [Trang 14] -----
 
 Biểu mẫu 09
 
@@ -800,7 +792,6 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 THÀNH VIÊN BAN BIÊN SOẠN GIÁO TRÌNH NĂM ....................
 
 | TT | Tên giáo trình | Họ và tên | Chức danh | Chức vụ | Đơn vị | Chức trách | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | | | | |
 | 2 | | | | | | | |
 
@@ -812,7 +803,7 @@ TRƯỞNG BỘ MÔN
 TRƯỞNG ĐƠN VỊ
 (ký, ghi rõ họ tên)
 
-TRANG 15
+----- [Trang 15] -----
 
 Biểu mẫu 10
 
@@ -826,7 +817,6 @@ DANH MỤC SÁCH ĐÃ XUẤT BẢN CẦN SỬ DỤNG/BỔ SUNG LÀM GIÁO TRÌNH
 NĂM ....................
 
 | TT | Tên sách | Tên tác giả | Nhà xuất bản | Số ISBN | Năm xuất bản | Tham khảo cho học phần | Mã học phần | Trình độ đào tạo | Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | | | | | | | | | |
 | 2 | | | | | | | | | |
 
@@ -838,7 +828,7 @@ TRƯỞNG BỘ MÔN
 TRƯỞNG ĐƠN VỊ
 (ký, ghi rõ họ tên)
 
-TRANG 16
+----- [Trang 16] -----
 
 Biểu mẫu 11
 
@@ -883,7 +873,7 @@ CHỦ TỊCH HỘI ĐỒNG
 
 ----- [Trang 36] -----
 
-TRANG 17
+----- [Trang 17] -----
 
 Biểu mẫu 12
 
@@ -914,7 +904,7 @@ Trân trọng./.
 Người đề nghị
 (ký và ghi rõ họ tên)
 
-TRANG 18
+----- [Trang 18] -----
 
 Biểu mẫu 13
 
@@ -955,7 +945,7 @@ Có mặt: .........thành viên. Vắng mặt: ....... thành viên (lý do).
 THƯ KÝ HỘI ĐỒNG CHỦ TỊCH HỘI ĐỒNG
 (ký và ghi rõ họ tên) (ký và ghi rõ họ tên)
 
-TRANG 19
+----- [Trang 19] -----
 
 Biểu mẫu 14
 
@@ -981,13 +971,12 @@ BẢN GIẢI TRÌNH CHỈNH SỬA, BỔ SUNG NỘI DUNG BẢN THẢO GIÁO TRÌN
 Ban biên soạn đã hoàn thành việc chỉnh sửa, bổ sung bản thảo giáo trình theo những nội dung Hội đồng đã góp ý, cụ thể như sau: (ghi cụ thể từng nội dung đã sửa chữa thuộc các chương, mục, tiểu mục, trang ... theo thứ tự trong bản thảo giáo trình)
 
 | STT | Nội dung yêu cầu chỉnh sửa | Nội dung đã chỉnh sửa | Ghi chú |
-|---|---|---|---|
 | ... | ... | ... | ... |
 
 Ý kiến của Chủ tịch Hội đồng thẩm định Chủ biên/Đồng Chủ biên
 (ký và ghi rõ họ tên) (ký và ghi rõ họ tên)
 
-TRANG 20
+----- [Trang 20] -----
 
 Biểu mẫu 15
 

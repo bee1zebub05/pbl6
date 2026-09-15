@@ -206,7 +206,6 @@ c) Tiền thuê phòng nghỉ tại nơi đến công tác
 Người đi công tác được thanh toán tiền thuê phòng nghỉ tại nơi đến công tác theo hóa đơn thực tế hoặc theo hình thức khoán với các định mức như sau:
 
 | Nơi ở/ Đối tượng thanh toán | Theo hình thức khoán chi | Theo hóa đơn thực tế (đã bao gồm thuế, phí) |
-| :--- | :--- | :--- |
 | 1. Đi công tác tại các quận, thành phố thuộc thành phố trực thuộc trung ương và thành phố là đô thị loại I thuộc tỉnh | | |
 | a. Đối với CBVC là Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Chủ tịch Công đoàn Cơ quan ĐHĐN, CBVC có hệ số chức vụ từ 0,5 trở lên | 450.000 đ/ngày/người | Tối đa 1.000.000 đ/ngày/phòng |
 | b. Trường hợp còn lại | 360.000 đ/ngày/người | Tối đa 800.000 đ/ngày/phòng |
@@ -472,7 +471,6 @@ PHỤ LỤC QUY CHẾ
 Phụ lục 1: Tỷ lệ chi cho các đơn vị quản lý và phục vụ trực tiếp
 
 | STT | Đơn vị | Tỷ lệ | Ghi chú |
-| :---: | :--- | :---: | :---: |
 | 1 | Ban Giám đốc | 12% | |
 | 2 | Văn phòng | 18% | |
 | 3 | Ban Đào tạo | 10% | |
@@ -496,7 +494,6 @@ Phụ lục 1: Tỷ lệ chi cho các đơn vị quản lý và phục vụ tr�
 Phụ lục 2: Hệ số quản lý và phục vụ
 
 | STT | Chức vụ | Hệ số | Quy định chi tiết |
-| :---: | :--- | :---: | :---: |
 | 1 | Giám đốc ĐHĐN, Bí thư Đảng ủy ĐHĐN, Chủ tịch Hội đồng ĐHĐN | 7,5 | |
 | 2 | Phó Giám đốc ĐHĐN, Phó Bí thư Đảng ủy ĐHĐN, Phó Chủ tịch Hội đồng ĐHĐN, Chủ tịch Công đoàn ĐHĐN | 6,5 | |
 | 3 | Chủ nhiệm Ủy ban kiểm tra Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN | 6,0 | |
@@ -520,7 +517,6 @@ Ví dụ:
 06.031 (KTV)
 V.05.02.06 (KSC)
 V.05.02.07 (Kỹ sư) |
-| :---: | :--- | :---: | :--- |
 | 12 | - Viên chức là lái xe: 1,7
 - Viên chức là lái xe phục vụ Giám đốc: 1,9 | 1,7 - 1,9 | Mã chức danh nghề nghiệp: 01.010 |
 | 13 | Viên chức
@@ -566,7 +562,6 @@ Phụ lục 3: Mức khoán cước phí điện thoại di động
 Đơn vị: đồng
 
 | STT | Chức danh | Mức khoán |
-| :---: | :--- | :---: |
 | 1 | Ban Giám đốc, Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng | 700.000 |
 | 2 | Chánh Văn phòng ĐHĐN, Chủ tịch Công đoàn ĐHĐN | 400.000 |
 | 3 | Chánh Văn phòng Đảng ủy ĐHĐN, Trưởng các Ban, Thư ký Hội đồng ĐHĐN, Bí thư Đoàn TN ĐHĐN, Chủ tịch Hội sinh viên ĐHĐN, Phó Chủ tịch Công đoàn ĐHĐN, Chủ tịch Công đoàn Cơ quan ĐHĐN | 200.000 |
@@ -585,7 +580,6 @@ Phụ lục 4. Định mức chi khen thưởng của Đại học Đà Nẵng
 
 | STT | Danh hiệu thi đua hoặc hình thức khen thưởng | Mức thưởng
 (Hệ số x mức lương tối thiểu) | |
-| :---: | :--- | :---: | :---: |
 | | | Cá nhân (Hệ số) | Tập thể (Hệ số) |
 | 1 | Huân chương Hồ Chí Minh | 30,5 | 61,0 |
 | 2 | Huân chương Độc lập hạng Nhất | 15,0 | 30,0 |

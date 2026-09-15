@@ -393,7 +393,6 @@ II. ĐỘI NGŨ GIẢNG VIÊN, CÁN BỘ QUẢN LÝ VÀ NHÂN VIÊN
 1. Các chỉ số đánh giá về đội ngũ giảng viên toàn thời gian⁴
 
 | TT | Chỉ số đánh giá | Năm báo cáo⁵ | Năm trước liền kề năm báo cáo⁶ |
-| :---: | :--- | :---: | :---: |
 | 1 | Tỉ lệ người học quy đổi trên giảng viên | | |
 | 2 | Tỉ lệ giảng viên cơ hữu trong độ tuổi lao động | | |
 | 3 | Tỉ lệ giảng viên có trình độ tiến sĩ | | |
@@ -401,7 +400,6 @@ II. ĐỘI NGŨ GIẢNG VIÊN, CÁN BỘ QUẢN LÝ VÀ NHÂN VIÊN
 2. Thống kê đội ngũ giảng viên toàn thời gian theo các lĩnh vực đào tạo⁷
 
 | TT | Đội ngũ giảng viên | Số lượng | Trình độ | | | Chức danh | |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Đại học | Thạc sĩ | Tiến sĩ | PGS | GS |
 | 1 | Giảng viên toàn thời gian | | | | | | |
 | | Lĩnh vực A | | | | | | |
@@ -426,7 +424,6 @@ II. ĐỘI NGŨ GIẢNG VIÊN, CÁN BỘ QUẢN LÝ VÀ NHÂN VIÊN
 3. Thống kê đội ngũ cán bộ quản lý và nhân viên khối hành chính và hỗ trợ⁸
 
 | TT | Chỉ số | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | 1 | Số cán bộ quản lý khối hành chính và hỗ trợ | | |
 | 2 | Số nhân viên khối hành chính và hỗ trợ | | |
 | 3 | Tỉ lệ cán bộ quản lý và nhân viên khối hành chính và hỗ trợ trên tổng số giảng viên toàn thời gian | | |
@@ -435,7 +432,6 @@ III. CƠ SỞ VẬT CHẤT
 1. Các chỉ số đánh giá về cơ sở vật chất⁹
 
 | TT | Chỉ số đánh giá | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | 1 | Diện tích đất/người học (m2) | | |
 | 2 | Diện tích sàn/người học (m2) | | |
 | 3 | Tỉ lệ giảng viên có chỗ làm việc riêng biệt | | |
@@ -447,7 +443,6 @@ III. CƠ SỞ VẬT CHẤT
 2. Diện tích đất và diện tích sàn xây dựng phục vụ đào tạo¹⁰
 
 | TT | Địa điểm | Địa chỉ | Diện tích đất (m²) | Diện tích sàn (m²) |
-| :---: | :--- | :---: | :---: | :---: |
 | 1 | Trụ sở chính | | | |
 | 2 | Cơ sở... | | | |
 | 3 | Phân hiệu... | | | |
@@ -457,7 +452,6 @@ III. CƠ SỞ VẬT CHẤT
 3. Các hạng mục cơ sở vật chất được đầu tư mới trong năm
 
 | TT | Hạng mục đầu tư | Địa điểm¹¹ | Kinh phí (triệu đồng) |
-| :---: | :--- | :---: | :---: |
 | 1 | Xây mới tòa nhà... | | |
 
 ⁸ Chỉ tính số cán bộ quản lý và nhân viên các đơn vị hành chính phục vụ các hoạt động đào tạo, nghiên cứu, dịch vụ hỗ trợ cán bộ và sinh viên; không tính các đơn vị sản xuất, kinh doanh và dịch vụ hạch toán riêng.
@@ -471,7 +465,6 @@ III. CƠ SỞ VẬT CHẤT
 
 ----- [Trang 18] -----
 2 | Nâng cấp tòa nhà... | | |
-| :---: | :--- | :---: | :---: |
 | 3 | Đầu tư mới phòng thí nghiệm... | | |
 | 4 | Nâng cấp phòng thí nghiệm... | | |
 | | Tổng cộng | | |
@@ -486,7 +479,6 @@ IV. KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC
 2. Danh mục chương trình đào tạo được kiểm định
 
 | TT | Mã ngành | Tên ngành | Tên chương trình | Tên tổ chức kiểm định | Thời gian hiệu lực |
-| :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | |
 | 2 | | | | | |
 | | ... | | | | |
@@ -495,7 +487,6 @@ V. KẾT QUẢ TUYỂN SINH VÀ ĐÀO TẠO
 1. Các chỉ số đánh giá về tuyển sinh và đào tạo¹²
 
 | TT | Chỉ số đánh giá | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | 1 | Tỉ lệ nhập học trung bình 3 năm | | |
 | 2 | Tỉ số tăng giảm quy mô đào tạo 3 năm | | |
 | 3 | Tỉ lệ thôi học | | |
@@ -509,7 +500,6 @@ V. KẾT QUẢ TUYỂN SINH VÀ ĐÀO TẠO
 2. Quy mô đào tạo, tuyển mới và tốt nghiệp trong năm
 
 | TT | Số lượng người học | Đang học | Tuyển mới | Tốt nghiệp | Tỷ lệ việc làm¹³ |
-| :---: | :--- | :---: | :---: | :---: | :---: |
 | I | Đại học | | | | |
 | 1 | Lĩnh vực 1 | | | | |
 | | Chính quy | | | | |
@@ -523,7 +513,6 @@ tốt nghiệp đại học.
 [Trang 4]
 
 | TT | Số lượng người học | Đang học | Tuyển mới | Tốt nghiệp | Tỷ lệ việc làm¹³ |
-| :---: | :--- | :---: | :---: | :---: | :---: |
 | | Vừa làm vừa học | | | | |
 | | Đào tạo từ xa | | | | |
 | 2 | Lĩnh vực 2 | | | | |
@@ -541,7 +530,6 @@ VI. KẾT QUẢ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ
 1. Các chỉ số đánh giá về hoạt động khoa học và công nghệ¹⁴
 
 | TT | Chỉ số đánh giá | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | 1 | Tỉ trọng thu khoa học-công nghệ | | |
 | 2 | Số công bố khoa học/giảng viên | | |
 | 3 | Số công bố WoS, Scopus/ giảng viên | | |
@@ -549,7 +537,6 @@ VI. KẾT QUẢ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ
 2. Các đề tài nghiên cứu khoa học thực hiện trong năm
 
 | TT | Đề tài nghiên cứu khoa học | Số lượng | Kinh phí thực hiện trong năm |
-| :---: | :--- | :---: | :---: |
 | 1 | Đề tài cấp Nhà nước | | |
 | 2 | Đề tài cấp bộ, tỉnh | | |
 | 3 | Đề tài cấp cơ sở | | |
@@ -560,7 +547,6 @@ VI. KẾT QUẢ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ
 3. Kết quả công bố khoa học, công nghệ
 
 | TT | Công trình công bố | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | 1 | Tổng số bài báo khoa học được HĐGSNN | | |
 
 ¹⁴ Bao gồm các chỉ số theo Hướng dẫn xác định các chỉ số đánh giá tại Tiêu chuẩn 6 (Nghiên cứu và đổi mới sáng tạo) của Chuẩn cơ sở giáo dục đại học được ban hành theo Thông tư số 01/2024/TT-BGDĐT.
@@ -571,7 +557,6 @@ VI. KẾT QUẢ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ
 
 ----- [Trang 20] -----
 công nhận không nằm trong danh mục WoS, Scopus và bằng độc quyền giải pháp hữu ích | | |
-| :---: | :--- | :---: | :---: |
 | 2 | Tổng số công bố WoS, Scopus tất cả các lĩnh vực | | |
 | 3 | Tổng số sách chuyên khảo, số tác phẩm nghệ thuật và thành tích thể dục thể thao đạt giải thưởng quốc gia, quốc tế | | |
 | 4 | Tổng số bằng độc quyền sáng chế | | |
@@ -581,14 +566,12 @@ VII. KẾT QUẢ TÀI CHÍNH
 1. Các chỉ số đánh giá về tài chính¹⁵
 
 | TT | Chỉ số đánh giá | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | 1 | Biên độ hoạt động trung bình 3 năm | | |
 | 2 | Chỉ số tăng trưởng bền vững | | |
 
 2. Kết quả thu chi hoạt động¹⁶
 
 | TT | Chỉ số thống kê | Năm báo cáo | Năm trước liền kề năm báo cáo |
-| :---: | :--- | :---: | :---: |
 | A | TỔNG THU HOẠT ĐỘNG | | |
 | I | Hỗ trợ chi thường xuyên từ Nhà nước/nhà đầu tư | | |
 | II | Thu giáo dục và đào tạo | | |

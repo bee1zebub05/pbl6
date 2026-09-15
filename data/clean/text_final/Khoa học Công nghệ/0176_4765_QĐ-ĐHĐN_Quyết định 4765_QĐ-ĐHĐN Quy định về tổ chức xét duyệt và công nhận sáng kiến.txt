@@ -164,7 +164,6 @@ Hồ sơ đề nghị công nhận sáng kiến gồm:
 1. Thang điểm đối với sáng kiến
 
 | STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa |
-| :--- | :--- | :--- | :--- |
 | 1 | Tính mới, tính sáng tạo | Không trùng với nội dung của giải pháp trong đơn đăng ký sáng kiến nộp trước | 10 |
 | | | Chưa công khai trong các văn bản, sách báo, tài liệu kỹ thuật đến mức căn cứ vào đó có thể thực hiện được ngay | 10 |
 | | | Không trùng với giải pháp của người khác đã được áp dụng hoặc áp dụng thử, hoặc đưa vào kế hoạch áp dụng, phổ biến hoặc chuẩn bị các điều kiện để áp dụng, phổ biến | 10 |
@@ -179,7 +178,6 @@ Hồ sơ đề nghị công nhận sáng kiến gồm:
 
 ----- [Trang 7] -----
 3 | Tính hiệu quả | Mang lại hiệu quả trong công tác quản lý, tham mưu, phục vụ; cải thiện điều kiện làm việc, công tác | 30 |
-| :--- | :--- | :--- | :--- |
 | Tổng cộng | | | 100 |
 
 2. Điểm quy định công nhận sáng kiến
@@ -275,7 +273,6 @@ Kính gửi1: ..................................................................
 Tôi (chúng tôi) ghi tên dưới đây:
 
 | Số TT | Họ và tên | Ngày tháng năm sinh | Nơi công tác (hoặc nơi thường trú) | Chức danh | Trình độ chuyên môn | Tỷ lệ (%) đóng góp vào việc tạo ra sáng kiến (ghi rõ đối với từng đồng tác giả, nếu có) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | | | |
 
 Là tác giả (nhóm tác giả) đề nghị xét công nhận sáng kiến2:
@@ -312,7 +309,6 @@ Là tác giả (nhóm tác giả) đề nghị xét công nhận sáng kiến2:
 - Danh sách những cá nhân/đơn vị đã tham gia áp dụng thử hoặc áp dụng sáng kiến lần đầu (nếu có):
 
 | Số TT | Tên cá nhân/đại diện đơn vị | Nơi công tác (hoặc nơi thường trú) | Chức danh/chức vụ | Trình độ chuyên môn | Nội dung công việc hỗ trợ |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | |
 
 Tôi (chúng tôi) xin cam đoan mọi thông tin nêu trong đơn là trung thực, đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật.
@@ -380,7 +376,6 @@ Là Chủ tịch: [ ]
 3. Đánh giá
 
 | STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa | Điểm chấm |
-| :---: | :--- | :--- | :---: | :--- |
 | 1 | Tính mới, tính sáng tạo | Không trùng với nội dung của giải pháp trong đơn đăng ký sáng kiến nộp trước | 10 | |
 | | | Chưa công khai trong các văn bản, sách báo, tài liệu kỹ thuật đến mức căn cứ vào đó có thể thực hiện ngay được | 10 | |
 | | | Không trùng với giải pháp của người khác đã được áp dụng hoặc áp dụng thử, hoặc đưa vào kế hoạch áp dụng, phổ biến hoặc chuẩn bị các điều kiện để áp dụng, phổ biến | 10 | |
@@ -392,7 +387,6 @@ Là Chủ tịch: [ ]
 ----- [Trang 14] -----
 13
 | STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa | Điểm chấm |
-| :---: | :--- | :--- | :---: | :--- |
 | 3 | Tính hiệu quả | Mang lại hiệu quả trong công tác quản lý, tham mưu, phục vụ; cải thiện điều kiện làm việc, công tác | 30 | |
 | | | Tổng cộng: | 100 | |
 
@@ -442,13 +436,11 @@ a) Kết quả chấm điểm sáng kiến của từng Ủy viên Hội đồng
 b) Kết quả tổng hợp cho điểm của Hội đồng:
 
 | STT | Tên sáng kiến | Tên tác giả/đồng tác giả | Điểm trung bình Hội đồng8 |
-| :---: | :---: | :---: | :---: |
 | 1 | | | |
 
 5. Kết quả biểu quyết của Hội đồng
 
 | STT | Tên sáng kiến | Tên tác giả/đồng tác giả | Biểu quyết của Hội đồng | Kết luận Hội đồng |
-| :---: | :---: | :---: | :---: | :---: |
 | | | | Số phiếu đạt/Tổng số thành viên | Số phiếu không đạt/Tổng số thành viên | Đạt/Không đạt |
 | 1 | | | | |
 
@@ -462,7 +454,6 @@ Trang 1:
 Căn cứ kết quả họp đánh giá, thẩm định sáng kiến, đề nghị Giám đốc/Hiệu trưởng <TÊN ĐƠN VỊ> quyết định công nhận/không công nhận Sáng kiến cấp cơ sở <TÊN ĐƠN VỊ> cho sáng kiến sau:
 
 | STT | Tên sáng kiến | Tên tác giả/ đồng tác giả | Điểm trung bình Hội đồng | Kết quả |
-| :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | Đạt/Không đạt |
 
 Cuộc họp kết thúc hồi ......giờ, ngày ... tháng ...năm ...... Biên bản đã được các thành viên Hội đồng nhất trí thông qua./.

@@ -587,11 +587,10 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH
 Số liệu từ ngày.../.../..... đến... ngày.../.../.....
 (Kèm theo Báo cáo số... ngày.../.../..... của........................)
 
-Đơn vị tính: Tiền (triệu đồng), đất ($m^2$)
+Đơn vị tính: Tiền (triệu đồng), đất (m^2)
 
 | Đơn vị | Số cuộc thanh tra thực hiện trong kỳ | Tổng vi phạm về kinh tế | Thu hồi về NSNN | Xử lý khác về kinh tế | Kiến nghị xử lý | Hoàn thiện cơ chế, chính sách (số văn bản) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| | Tổng số | Phân loại | Đã ban hành kết luận | Số đơn vị được thanh tra | Tiến và tài sản quy thành tiền | Đất ($m^2$) | Tiền (Tr.đ) | Đất ($m^2$) | Tiền (Tr.đ) | Đất ($m^2$) | Hành chính | Chuyển cơ quan điều tra | |
+| | Tổng số | Phân loại | Đã ban hành kết luận | Số đơn vị được thanh tra | Tiến và tài sản quy thành tiền | Đất (m^2) | Tiền (Tr.đ) | Đất (m^2) | Tiền (Tr.đ) | Đất (m^2) | Hành chính | Chuyển cơ quan điều tra | |
 | | | Triển khai từ kỳ trước chuyển sang | Triển khai trong kỳ | Theo Kế hoạch | Đột xuất | | | | | | | | Tổ chức | Cá nhân | Vụ | Đối tượng | |
 | Ms | 1=2+3+4+5 | 2 | 3 | 4 | 5 | 6 | 7 | 8=10+12 | 9=11+13 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | Tổng | | | | | | | | | | | | | | | | | | |
@@ -622,11 +621,10 @@ TỔNG HỢP KẾT QUẢ THỰC HIỆN KẾT LUẬN THANH TRA HÀNH CHÍNH
 Số liệu từ ngày.../.../..... đến... ngày.../.../.....
 (Kèm theo Báo cáo số... ngày.../.../..... của........................)
 
-Đơn vị tính: Tiền (triệu đồng), đất ($m^2$)
+Đơn vị tính: Tiền (triệu đồng), đất (m^2)
 
 | Đơn vị | Kết luận thanh tra phải thực hiện | Tiến độ thực hiện kết luận | Thu hồi về ngân sách nhà nước | Xử lý khác về kinh tế | Xử lý hành chính | Chuyển cơ quan điều tra | Hoàn thiện cơ chế chính sách (số văn bản) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| | Tổng số | Trong đó số kết luận chưa được kiểm tra trực tiếp | Số kết luận đã hoàn thành | Số kết luận chưa hoàn thành | Tiền (Tr.đ) | Tổng số phải thu | Số đã thu trong kỳ | Đất ($m^2$) | Tổng số phải thu | Số đã thu trong kỳ | Tiền (Tr.đ) | Số tiền xử lý khác trong kỳ | Đất ($m^2$) | Tổng số phải xử lý | Tổ chức | Cá nhân | Tổ chức | Cá nhân | Vụ | Đối tượng | Tổng số kiến nghị hoàn thiện | Số kiến nghị đã thực hiện xong |
+| | Tổng số | Trong đó số kết luận chưa được kiểm tra trực tiếp | Số kết luận đã hoàn thành | Số kết luận chưa hoàn thành | Tiền (Tr.đ) | Tổng số phải thu | Số đã thu trong kỳ | Đất (m^2) | Tổng số phải thu | Số đã thu trong kỳ | Tiền (Tr.đ) | Số tiền xử lý khác trong kỳ | Đất (m^2) | Tổng số phải xử lý | Tổ chức | Cá nhân | Tổ chức | Cá nhân | Vụ | Đối tượng | Tổng số kiến nghị hoàn thiện | Số kiến nghị đã thực hiện xong |
 | Ms | 1=3+4 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | Tổng | | | | | | | | | | | | | | | | | | | | | | |
 | 23. Ghi chú: | | | | | | | | | | | | | | | | | | | | | | |
@@ -634,19 +632,17 @@ Số liệu từ ngày.../.../..... đến... ngày.../.../.....
 Hướng dẫn cách ghi biểu:
 - Cột "Đơn vị" để ghi tên các đơn vị trực thuộc
 - Cột (1) = 3 + 4; Tổng số kết luận thanh tra được thực hiện đôn đốc, kiểm tra trong kỳ báo cáo
-- Cột (2): Số kết luận thanh tra được kiểm tra trực tiếp nằm trong tổng số kết luận thanh tra được kiểm tra, đôn đốc ở cột (1), Cột 2 $\le$ Cột (1)
+- Cột (2): Số kết luận thanh tra được kiểm tra trực tiếp nằm trong tổng số kết luận thanh tra được kiểm tra, đôn đốc ở cột (1), Cột 2 ≤ Cột (1)
 - Từ Cột (3) là số liệu tổng hợp về kết quả thực hiện các kết luận thanh tra nêu tại Cột (1)
 - Cột (3): Số kết luận thanh tra đã hoàn thành (đã hoàn thành 100% thực hiện các kết luận nghị nêu tại kết luận
 - Cột (5): Tổng số tiền phải thu về ngân sách nhà nước trong kỳ báo cáo, gồm số tiền phải thu từ các kết luận trong kỳ + số tiền đưa thu được từ các kết luận kỳ trước chuyển sang
-- Cột (6): Tổng số tiền đã thu hồi về ngân sách nhà nước trong kỳ báo cáo; Cột (6) $\le$ (5)
-- Cột (7): Tổng diện tích đất phải thu hồi về ngân sách nhà nước trong kỳ báo cáo; Cột (8) $\le$ (7)
+- Cột (6): Tổng số tiền đã thu hồi về ngân sách nhà nước trong kỳ báo cáo; Cột (6) ≤ (5)
+- Cột (7): Tổng diện tích đất phải thu hồi về ngân sách nhà nước trong kỳ báo cáo; Cột (8) ≤ (7)
 - Cột (9): Tổng số tiền phải xử lý khác (ngoài toả, loại khỏi giá trị quyết toán, miễn giảm tiền thuê đất...) trong kỳ báo cáo, gồm số tiền phải xử lý khác từ các kết luận trong kỳ + số đất chưa thực hiện xử lý khác từ các kết luận kỳ trước chuyển sang
-- Cột (10): Tổng số tiền đã xử lý khác trong kỳ báo cáo; Cột (10) $\le$ (9)
+- Cột (10): Tổng số tiền đã xử lý khác trong kỳ báo cáo; Cột (10) ≤ (9)
 - Cột (11): Tổng diện tích đất phải xử lý khác trong kỳ báo cáo, gồm số đất phải xử lý khác từ các kết luận trong kỳ + số đất chưa thực hiện xử lý khác từ các kết luận kỳ trước chuyển sang
-- Cột (12): Tổng diện tích đất đã xử lý khác trong kỳ báo cáo; Cột (12) $\le$ (11)
+- Cột (12): Tổng diện tích đất đã xử lý khác trong kỳ báo cáo; Cột (12) ≤ (11)
 - Nội dung ghi chú thể hiện ở dòng 23 (nếu có)
-
-Tel
 
 Trang 4
 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021 63
@@ -657,11 +653,10 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC ĐẦU TƯ XÂ
 Số liệu từ ngày.../.../..... đến... ngày.../.../.....
 (Kèm theo Báo cáo số... ngày.../.../..... của........................)
 
-Đơn vị tính: Tiền (triệu đồng), đất ($m^2$)
+Đơn vị tính: Tiền (triệu đồng), đất (m^2)
 
 | Đơn vị | Số cuộc thanh tra thực hiện trong kỳ | Tổng vi phạm về kinh tế | Thu hồi về NSNN | Xử lý khác về kinh tế | Kiến nghị xử lý | Hoàn thiện cơ chế, chính sách (số văn bản) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| | Tổng số | Phân loại | Đã ban hành kết luận | Số đơn vị được thanh tra | Tiến và tài sản quy thành tiền | Đất ($m^2$) | Tiền (Tr.đ) | Đất ($m^2$) | Tiền (Tr.đ) | Đất ($m^2$) | Hành chính | Chuyển cơ quan điều tra | |
+| | Tổng số | Phân loại | Đã ban hành kết luận | Số đơn vị được thanh tra | Tiến và tài sản quy thành tiền | Đất (m^2) | Tiền (Tr.đ) | Đất (m^2) | Tiền (Tr.đ) | Đất (m^2) | Hành chính | Chuyển cơ quan điều tra | |
 | | | Triển khai từ kỳ trước chuyển sang | Triển khai trong kỳ | Theo Kế hoạch | Đột xuất | | | | | | | | Tổ chức | Cá nhân | Vụ | Đối tượng | |
 | Ms | 1=2+3+4+5 | 2 | 3 | 4 | 5 | 6 | 7 | 8=10+12 | 9=11+13 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | Tổng | | | | | | | | | | | | | | | | | | |
@@ -681,8 +676,6 @@ Hướng dẫn cách ghi biểu:
 - Cột (13): Số diện tích đất kiến nghị xử lý khác (ngoài kiến nghị thu hồi, bao gồm gồm: điều chỉnh mục đích sử dụng đất, bổ sung hồ sơ, hoàn thiện thủ tục...)
 - Nội dung ghi chú thể hiện ở dòng 19 (nếu có)
 
-Tel
-
 Trang 5
 64 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 
@@ -692,11 +685,10 @@ TỔNG HỢP KẾT QUẢ THANH TRA TRONG LĨNH VỰC TÀI CHÍNH - NGÂN SÁCH
 Số liệu từ ngày.../.../..... đến... ngày.../.../.....
 (Kèm theo Báo cáo số... ngày.../.../..... của........................)
 
-Đơn vị tính: Tiền (triệu đồng), đất ($m^2$)
+Đơn vị tính: Tiền (triệu đồng), đất (m^2)
 
 | Đơn vị | Số cuộc thanh tra thực hiện trong kỳ | Tổng vi phạm về kinh tế | Thu hồi về NSNN | Xử lý khác về kinh tế | Kiến nghị xử lý | Hoàn thiện cơ chế, chính sách (số văn bản) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| | Tổng số | Phân loại | Đã ban hành kết luận | Số đơn vị được thanh tra | Tiến và tài sản quy thành tiền | Đất ($m^2$) | Tiền (Tr.đ) | Đất ($m^2$) | Tiền (Tr.đ) | Đất ($m^2$) | Hành chính | Chuyển cơ quan điều tra | |
+| | Tổng số | Phân loại | Đã ban hành kết luận | Số đơn vị được thanh tra | Tiến và tài sản quy thành tiền | Đất (m^2) | Tiền (Tr.đ) | Đất (m^2) | Tiền (Tr.đ) | Đất (m^2) | Hành chính | Chuyển cơ quan điều tra | |
 | | | Triển khai từ kỳ trước chuyển sang | Triển khai trong kỳ | Theo Kế hoạch | Đột xuất | | | | | | | | Tổ chức | Cá nhân | Vụ | Đối tượng | |
 | Ms | 1=2+3+4+5 | 2 | 3 | 4 | 5 | 6 | 7 | 8=10+12 | 9=11+13 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | Tổng | | | | | | | | | | | | | | | | | | |
@@ -715,8 +707,6 @@ Hướng dẫn cách ghi biểu:
 - Cột (12): Số tiền kiến nghị xử lý khác (ngoài kiến nghị thu hồi, bao gồm: Xuất toán, loại khỏi giá trị quyết toán, miễn giảm tiền thuê đất...)
 - Cột (13): Số diện tích đất kiến nghị xử lý khác (ngoài kiến nghị thu hồi, bao gồm gồm: điều chỉnh mục đích sử dụng đất, bổ sung hồ sơ, hoàn thiện thủ tục...)
 - Nội dung ghi chú thể hiện ở dòng 19 (nếu có)
-
-Tel
 
 ----- [Trang 31-35] -----
 Trang 1: TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC ĐẤT ĐAI
@@ -898,7 +888,6 @@ TRANG 5: TIẾP NỐI TỔNG HỢP KẾT QUẢ VỀ CÔNG TÁC PHÒNG, CHỐNG T
 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 
 | MS | NỘI DUNG | ĐVT | SỐ LIỆU |
-| :--- | :--- | :--- | :--- |
 | 29 | Số vụ phát hiện vi phạm trong việc thực hiện thanh toán không dùng tiền mặt | Vụ | |
 | 30 | Tổng giá trị giao dịch qua Hệ thống thanh toán điện tử liên ngân hàng (1) | Triệu đồng | |
 | 31 | Tỷ trọng tiền mặt trên tổng phương tiện thanh toán (2) | % | |
@@ -924,7 +913,6 @@ CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 
 | MS | NỘI DUNG | ĐVT | SỐ LIỆU |
-| :--- | :--- | :--- | :--- |
 | 43 | Số đối tượng có hành vi tham nhũng được phát hiện qua kiểm tra hoạt động chống tham nhũng trong cơ quan có chức năng phòng, chống tham nhũng | Người | |
 | | - Trong đó số đối tượng có hành vi tham nhũng được phát hiện qua kiểm tra hoạt động chống tham nhũng trong cơ quan thanh tra | Người | |
 | | Qua hoạt động giám sát, thanh tra, kiểm toán | | |
@@ -950,7 +938,6 @@ CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 
 | MS | NỘI DUNG | ĐVT | SỐ LIỆU |
-| :--- | :--- | :--- | :--- |
 | | Qua điều tra tội phạm | | |
 | 58 | Số vụ án tham nhũng (thuộc phạm vi quản lý) đã được cơ quan chức năng khởi tố | Vụ | |
 | 59 | Số đối tượng tham nhũng (thuộc phạm vi quản lý) đã bị cơ quan chức năng khởi tố | Người | |
@@ -976,7 +963,6 @@ CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 
 | MS | NỘI DUNG | ĐVT | SỐ LIỆU |
-| :--- | :--- | :--- | :--- |
 | 68.3 | - Số đối tượng phạm tội tham nhũng rất nghiêm trọng | Người | |
 | 68.4 | - Số đối tượng phạm tội tham nhũng đặc biệt nghiêm trọng | Người | |
 | 69 | Số vụ việc tham nhũng đã được xử lý hành chính | Vụ | |
@@ -985,17 +971,17 @@ CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 | 72 | Số đối tượng tham nhũng đã được phát hiện, đang được xem xét để xử lý (chưa có kết quả xử lý) | Người | |
 | | Tài sản bị tham nhũng, gây thiệt hại do tham nhũng đã phát hiện được | | |
 | 73 | Bằng tiền (tiền Việt Nam + ngoại tệ, tài sản khác được quy đổi ra tiền Việt Nam) | Triệu đồng | |
-| 74 | Đất đai | $m^2$ | |
+| 74 | Đất đai | m^2 | |
 | | Tài sản tham nhũng, gây thiệt hại do tham nhũng đã được thu hồi, bồi thường | | |
 | 75 | Bằng tiền (tiền Việt Nam + ngoại tệ, tài sản khác được quy đổi ra tiền Việt Nam) | Triệu đồng | |
 | 75.1 | - Kết quả thu hồi tiền bằng biện pháp hành chính | Triệu | |
 | 75.2 | - Kết quả thu hồi tiền bằng biện pháp tư pháp | Triệu | |
-| 76 | Đất đai | $m^2$ | |
-| 76.1 | - Kết quả thu hồi đất bằng biện pháp hành chính | $m^2$ | |
-| 76.2 | - Kết quả thu hồi đất bằng biện pháp tư pháp | $m^2$ | |
+| 76 | Đất đai | m^2 | |
+| 76.1 | - Kết quả thu hồi đất bằng biện pháp hành chính | m^2 | |
+| 76.2 | - Kết quả thu hồi đất bằng biện pháp tư pháp | m^2 | |
 | | Tài sản tham nhũng, gây thiệt hại do tham nhũng không thể thu hồi, khắc phục được | | |
 | 77 | Bằng tiền (tiền Việt Nam + ngoại tệ, tài sản khác được quy đổi ra tiền Việt Nam) | Triệu đồng | |
-| 78 | Đất đai | $m^2$ | |
+| 78 | Đất đai | m^2 | |
 | | PHÒNG, CHỐNG THAM NHŨNG TRONG DOANH NGHIỆP, TỔ CHỨC KHU VỰC NGOÀI NHÀ NƯỚC | | |
 | 79 | Số công ty đại chúng, tổ chức tín dụng, tổ chức xã hội (quy định tại Khoản 1 Điều 80 Luật PCTN) thuộc phạm vi quản lý | Tổ chức | |
 
@@ -1003,7 +989,6 @@ CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 CÔNG BÁO/Số 547 + 548/Ngày 17-4-2021
 
 | MS | NỘI DUNG | ĐVT | SỐ LIỆU |
-| :--- | :--- | :--- | :--- |
 | 80 | Số công ty đại chúng, tổ chức tín dụng, tổ chức xã hội (quy định tại Khoản 1 Điều 80 Luật PCTN) được thanh tra, kiểm tra việc thực hiện pháp luật về PCTN | Tổ chức | |
 | 81 | Số công ty đại chúng, tổ chức tín dụng, tổ chức xã hội (quy định tại Khoản 1 Điều 80 Luật PCTN) bị xử lý do có vi phạm pháp luật về PCTN | Tổ chức | |
 | 82 | Số vụ tham nhũng trong khu vực ngoài nhà nước thuộc phạm vi quản lý được phát hiện | Vụ | |
@@ -1027,7 +1012,6 @@ DANH SÁCH CÁC VỤ THAM NHŨNG ĐƯỢC PHÁT HIỆN TRONG KỲ
 (Kèm theo Báo cáo số............... ngày... tháng... năm... của......)
 
 | TT | Tên vụ | Tên cơ quan, tổ chức, đơn vị xảy ra sự việc | Cơ quan thụ lý, giải quyết vụ việc | Tóm tắt nội dung vụ việc | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | | | | | |
 | 2 | | | | | |
 | ... | | | | | |
@@ -1039,7 +1023,6 @@ KẾT QUẢ PHÁT HIỆN, KHẮC PHỤC CÁC VĂN BẢN CÒN SƠ HỞ, DỄ BỊ
 (Kèm theo Báo cáo số............... ngày... tháng... năm... của......)
 
 | TT | Tên, số, ngày, tháng, năm | Cơ quan ban hành văn bản | Nội dung sơ hở, dễ bị lợi dụng để tham nhũng | Kết quả khắc phục | Nguyên nhân của việc chưa khắc phục | Ghi chú |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | | | Đã được khắc phục theo thẩm quyền | Chưa khắc phục xong | Đã khắc phục xong | |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | 1 | | | | | | | |
@@ -1061,7 +1044,6 @@ Số liệu tính từ ngày.../.../..... đến ngày.../.../.....
 Đơn vị tính: Người
 
 | Đơn vị | Số lượng công chức, viên chức, người lao động trong kỳ | Số sơ lượng biến động trong kỳ | Số người được đào tạo, bồi dưỡng nghiệp vụ | Tổng số | Vi phạm và kết quả xử lý | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | Trong đó | Trong đó | | | Tổng số cá nhân vi phạm | Đã xử lý | Đang xử chưa xử lý | |
 | | Tổng số | TTV cao cấp | TTV và tương đương | TTV và tương đương | Số lượng khác tương đương | Tăng | Giảm | Đào tạo, bồi dưỡng nghiệp vụ | Tiếp công dân, KN TC | Khác | Hành chính | Hình sự | Hành chính | Hình sự | Hành chính | Hình sự | Hình sự |
 | | | | | | | | | Tổng số | Nhu cầu | Đã được thực hiện | Nhu cầu | Đã được thực hiện | Nhu cầu | Đã được thực hiện | Nhu cầu | Đã được thực hiện | Nhu cầu | Đã được thực hiện | | | | | |
@@ -1092,7 +1074,6 @@ Số liệu tính từ ngày.../.../..... đến ngày.../.../.....
 (Kèm theo Báo cáo số............... ngày... tháng... năm... của......)
 
 | Đơn vị | Ban hành văn bản quản lý, chỉ đạo (Bộ, ngành, tỉnh, TP) về công tác thanh tra, TCD, KN, TC, PCTN | | | Tập huấn, tuyên truyền, giáo dục pháp luật về thanh tra, TCD, KN, TC, PCTN | | Thanh tra, kiểm tra trách nhiệm thực hiện pháp luật về thanh tra, TCD, KN, TC và PCTN | | | | | | | Kết quả thực hiện kết luận thanh tra, kiểm tra trách nhiệm | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | Số văn bản ban hành mới | Số văn bản được sửa đổi, bổ sung | Số văn bản bãi bỏ | Lớp | Người | Tổng số cuộc | Số cuộc đã ban kết luận | Số đơn vị được thanh tra, kiểm tra | Kiến nghị xử lý hành chính | | Kiến nghị chuyển cơ quan điều tra | Kiến nghị khác | Tổng số kết luận phải thực hiện | Đã xử lý hành chính | | Đã khỏi tố | |
 | | | | | | | | | | Tổ chức | Cá nhân | Vụ | Đối tượng | | Tổ chức | Cá nhân | Vụ | Đối tượng |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
@@ -1119,7 +1100,6 @@ Số liệu tính từ ngày.../.../..... đến ngày.../.../.....
 (Kèm theo Báo cáo số............... ngày... tháng... năm... của......)
 
 | Đơn vị | Ban hành văn bản quản lý, chỉ đạo (Bộ, ngành, tỉnh, TP) về công tác TCD, KN, TC | | | Tập huấn, tuyên truyền, giáo dục pháp luật về TCD, KN, TC | | Thực hiện hiến pháp luật về TCD, KN, TC | | | Thanh tra, kiểm tra trách nhiệm | | | Kiến nghị xử lý | | | Chuyển CQ điều tra | | Kết quả thực hiện kết luận, quyết định về thanh tra trách nhiệm | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | Số văn bản ban hành mới | Số văn bản được sửa đổi, bổ sung | Số văn bản hủy bỏ | Số lớp | Số người | Số cuộc | Số đơn vị | Số cuộc đã ban hành kết luận | Hành chính | | Kiến nghị xử lý | | Chuyển CQ điều tra | | Tổng số KL TT thực hiện | Đã xử lý hành chính | | Đã khởi tố | |
 | | | | | | | | | | Tổ chức | Cá nhân | Tổ chức | Cá nhân | Tổ chức | Cá nhân | | Tổ chức | Cá nhân | Tổ chức | Cá nhân |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |

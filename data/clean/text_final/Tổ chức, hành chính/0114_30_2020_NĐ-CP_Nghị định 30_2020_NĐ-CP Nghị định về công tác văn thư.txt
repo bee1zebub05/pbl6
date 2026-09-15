@@ -932,7 +932,7 @@ nét liền, kéo dài hết chiều ngang của vùng trình bày văn bản.
 
 ----- [Trang 36] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 16
 
@@ -966,7 +966,7 @@ b) Sơ đồ
  + Ô 7 (Nơi nhận) nằm góc dưới bên trái.
  + Ô 5a, 5b, 5c (Chức vụ, họ tên, chữ ký) và Ô 6 (Dấu) nằm góc dưới bên phải.)
 
-[TRANG 2]
+----- [Trang 2] -----
 
 Phụ lục II
 VIẾT HOA TRONG VĂN BẢN HÀNH CHÍNH
@@ -992,7 +992,7 @@ c) Trường hợp viết hoa đặc biệt: Thủ đô Hà Nội, Thành phố 
 d) Tên địa lý được cấu tạo giữa danh từ chung chỉ địa hình (sông, núi, hồ, biển, cửa, bến, cầu, vũng, lạch, vàm,...) với danh từ riêng (có một âm tiết) trở thành tên riêng của địa danh đó: Viết hoa tất cả các chữ cái tạo nên địa danh. Ví dụ: Cửa Lò, Vũng Tàu, Lạch Trường, Vàm Cỏ, Cầu Giấy,...
 Trường hợp danh từ chung chỉ địa hình đi liền với danh từ riêng: Không viết hoa danh từ chung mà chỉ viết hoa danh từ riêng. Ví dụ: biển Cửa Lò, chợ Bến Thành, sông Vàm Cỏ, vịnh Hạ Long,...
 
-[TRANG 3]
+----- [Trang 3] -----
 
 2
 
@@ -1016,7 +1016,7 @@ V. VIẾT HOA CÁC TRƯỜNG HỢP KHÁC
 2. Tên các huân chương, huy chương, các danh hiệu vinh dự: Viết hoa chữ cái đầu của các âm tiết của các thành phần tạo thành tên riêng và các từ chỉ thứ, hạng. Ví dụ: Huân chương Sao vàng, Nghệ sĩ Nhân dân, Anh hùng Lao động,...
 3. Tên chức vụ, học vị, danh hiệu: Viết hoa tên chức vụ, học vị nếu đi liền với tên người cụ thể. Ví dụ: Chủ tịch Quốc hội, Thủ tướng Chính phủ, Giáo sư Tôn Thất Tùng,...
 
-[TRANG 4]
+----- [Trang 4] -----
 
 3
 
@@ -1041,7 +1041,7 @@ c) Tên các ngày trong tuần và tháng trong năm: Viết hoa chữ cái đ�
 
 10. Tên các tác phẩm, sách báo, tạp chí: Viết hoa chữ cái đầu của âm tiết thứ nhất tạo thành tên tác phẩm, sách báo. Ví dụ: từ điển Bách khoa toàn thư, tạp chí Cộng sản,...
 
-[TRANG 5]
+----- [Trang 5] -----
 
 Phụ lục III
 BẢNG CHỮ VIẾT TẮT TÊN LOẠI, MẪU TRÌNH BÀY VĂN BẢN HÀNH CHÍNH VÀ BẢN SAO VĂN BẢN
@@ -1050,7 +1050,6 @@ BẢNG CHỮ VIẾT TẮT TÊN LOẠI, MẪU TRÌNH BÀY VĂN BẢN HÀNH CHÍNH
 I. BẢNG CHỮ VIẾT TẮT TÊN LOẠI VĂN BẢN HÀNH CHÍNH VÀ BẢN SAO VĂN BẢN
 
 STT | Tên loại văn bản hành chính | Chữ viết tắt
----|---|---
 1. | Nghị quyết (cá biệt) | NQ
 2. | Quyết định (cá biệt) | QĐ
 3. | Chỉ thị | CT
@@ -1780,7 +1779,6 @@ Quyển số: ....
 Tối thiểu gồm 10 nội dung:
 
 | (1) Số, ký hiệu văn bản | (2) Ngày tháng văn bản | (3) Tên loại và trích yếu nội dung văn bản | (4) Người ký | (5) Nơi nhận văn bản | (6) Đơn vị, người nhận bản lưu | (7) Số lượng bản | (8) Ngày chuyển | (9) Ký nhận | (10) Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | | | | |
 
 TRANG 4 (Trang 2 của Phụ lục IV)
@@ -1817,7 +1815,6 @@ Quyển số: ....
 Tối thiểu gồm 06 nội dung:
 
 | (1) Ngày chuyển | (2) Số, ký hiệu văn bản | (3) Nơi nhận văn bản | (4) Số lượng bì | (5) Ký nhận và dấu bưu điện | (6) Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | |
 
 TRANG 5 (Trang 3 của Phụ lục IV)
@@ -1841,12 +1838,11 @@ Quyển số: ....
 Tối thiểu gồm 09 nội dung:
 
 | (1) Ngày tháng | (2) Họ tên người sử dụng | (3) Số, ký hiệu ngày tháng văn bản | (4) Tên loại và trích yếu nội dung văn bản | (5) Số và ký hiệu HS | (6) Ký nhận | (7) Ngày trả | (8) Người cho phép sử dụng | (9) Ghi chú |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | | | |
 
 ----- [Trang 61] -----
 
-[TRANG 4]
+----- [Trang 4] -----
 
 V. MẪU DẤU “ĐẾN”: Được khắc sẵn, hình chữ nhật, kích thước 35 mm x 50 mm
 
@@ -1879,15 +1875,13 @@ Quyển số: ....
 Tối thiểu gồm 10 nội dung:
 
 | Ngày đến (1) | Số đến (2) | Tác giả (3) | Số, ký hiệu văn bản (4) | Ngày tháng văn bản (5) | Tên loại và trích yếu nội dung văn bản (6) | Đơn vị hoặc người nhận (7) | Ngày chuyển (8) | Ký nhận (9) | Ghi chú (10) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | | | | |
 
-[TRANG 5]
+----- [Trang 5] -----
 
 VII. MẪU PHIẾU GIẢI QUYẾT VĂN BẢN ĐẾN
 
 TÊN CƠ QUAN, TỔ CHỨC | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
---- | ---
 | Độc lập - Tự do - Hạnh phúc
 
 ...................., ngày ... tháng ... năm...
@@ -1909,7 +1903,7 @@ PHIẾU GIẢI QUYẾT VĂN BẢN ĐẾN
 - Ý kiến đề xuất giải quyết văn bản đến của cá nhân;
 - Ngày, tháng, năm đề xuất ý kiến.
 
-[TRANG 6]
+----- [Trang 6] -----
 
 VIII. MẪU SỔ THEO DÕI GIẢI QUYẾT VĂN BẢN ĐẾN
 
@@ -1929,7 +1923,6 @@ Quyển số: ....
 Tối thiểu gồm 07 nội dung:
 
 | Số đến (1) | Tên loại, số, ký hiệu, ngày, tháng và tên cơ quan, tổ chức ban hành văn bản (2) | Đơn vị hoặc người nhận (3) | Thời hạn giải quyết (4) | Tiến độ giải quyết (5) | Số, ký hiệu văn bản trả lời (6) | Ghi chú (7) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | |
 
 [TRANG PHỤ LỤC V - TRANG 1]
@@ -1959,7 +1952,6 @@ Việc đánh số hồ sơ có thể áp dụng một trong hai cách sau: Số
 II. MẪU DANH MỤC HỒ SƠ
 
 TÊN CQ, TC CHỦ QUẢN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
---- | ---
 TÊN CƠ QUAN, TỔ CHỨC | Độc lập - Tự do - Hạnh phúc
 
 DANH MỤC HỒ SƠ
@@ -1967,7 +1959,6 @@ Năm ...
 (Kèm theo Quyết định số .... ngày ..... tháng ..... năm ...... của...... )
 
 | Số và ký hiệu hồ sơ (1) | Tên đề mục và tiêu đề hồ sơ (2) | Thời hạn bảo quản (3) | Người lập hồ sơ (4) | Ghi chú (5) |
-| :--- | :--- | :--- | :--- | :--- |
 | | I. TÊN ĐỀ MỤC LỚN | | | |
 | | 1. Tên đề mục nhỏ | | | |
 | 01.TCCB | Tiêu đề hồ sơ | 20 năm | Họ và tên | |
@@ -1978,7 +1969,7 @@ Danh mục hồ sơ này có ........hồ sơ, bao gồm:
 
 ----- [Trang 66] -----
 
-[TRANG 3]
+----- [Trang 3] -----
 
 3
 
@@ -1992,7 +1983,6 @@ MỤC LỤC HỒ SƠ, TÀI LIỆU NỘP LƯU
 Năm ...
 
 | Số TT (1) | Số, ký hiệu hồ sơ (2) | Tiêu đề hồ sơ (3) | Thời gian tài liệu (4) | Thời hạn bảo quản (5) | Số tờ³/ Số trang⁴ (6) | Ghi chú (7) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | |
 
 Mục lục này gồm: ........................... hồ sơ (đơn vị bảo quản).
@@ -2009,7 +1999,7 @@ IV. MẪU MỤC LỤC VĂN BẢN, TÀI LIỆU TRONG HỒ SƠ ⁵
 ³ Áp dụng đối với văn bản giấy.
 ⁴ Áp dụng đối với văn bản điện tử.
 
-[TRANG 4]
+----- [Trang 4] -----
 
 4
 
@@ -2020,12 +2010,11 @@ Số, ký hiệu hồ sơ: ............
 Năm ...
 
 | STT (1) | Số, ký hiệu văn bản (2) | Ngày tháng năm văn bản (3) | Tên loại và trích yếu nội dung văn bản (4) | Tác giả văn bản (5) | Tờ số/ Trang số (6) | Ghi chú (7) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | | | | | | | |
 
 ⁵ Áp dụng cho hồ sơ có thời hạn bảo quản vĩnh viễn.
 
-[TRANG 5]
+----- [Trang 5] -----
 
 5
 
@@ -2207,7 +2196,6 @@ I. THÔNG TIN ĐẦU VÀO CỦA DỮ LIỆU QUẢN LÝ VĂN BẢN ĐI
 
 (Bảng dữ liệu)
 STT | Trường thông tin | Tên (viết tắt tiếng Anh) | Kiểu dữ liệu | Độ dài
----|---|---|---|---
 1 | Mã hồ sơ | FileCode | | 
 1.1 | Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ² | OrganId | String | 13
 1.2 | Năm hình thành hồ sơ | FileCatalog | Number | 4
@@ -2240,7 +2228,6 @@ II. THÔNG TIN ĐẦU VÀO CỦA DỮ LIỆU QUẢN LÝ VĂN BẢN ĐẾN
 
 (Bảng dữ liệu)
 STT | Trường thông tin | Tên (viết tắt tiếng Anh) | Kiểu dữ liệu | Độ dài
----|---|---|---|---
 1 | Mã hồ sơ | FileCode | | 
 1.1 | Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ³ | OrganId | String | 13
 1.2 | Năm hình thành hồ sơ | FileCatalog | Number | 4
@@ -2274,7 +2261,6 @@ STT | Trường thông tin | Tên (viết tắt tiếng Anh) | Kiểu dữ liệ
 III. THÔNG TIN ĐẦU VÀO CỦA DỮ LIỆU QUẢN LÝ HỒ SƠ
 
 | STT | Trường thông tin | Tên (viết tắt tiếng Anh) | Kiểu dữ liệu | Độ dài |
-| :--- | :--- | :--- | :--- | :--- |
 | 1 | Mã hồ sơ | FileCode | | |
 | 1.1 | Mã định danh của cơ quan, tổ chức lập danh mục hồ sơ⁴ | OrganId | String | 13 |
 | 1.2 | Năm hình thành hồ sơ | FileCatalog | Number | 4 |

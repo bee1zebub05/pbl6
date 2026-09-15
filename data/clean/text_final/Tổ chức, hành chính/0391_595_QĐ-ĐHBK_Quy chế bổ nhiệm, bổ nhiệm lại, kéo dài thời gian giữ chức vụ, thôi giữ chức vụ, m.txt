@@ -939,7 +939,6 @@ c) Trình độ chuyên môn
 - c3: Đại học trở lên.
 
 | STT | Chức vụ | Tiêu chuẩn | Ghi chú |
-| :--- | :--- | :---: | :--- |
 | 1 | Phó Hiệu trưởng | a1, b1, c1 | |
 | 2 | Kế toán trưởng | a2, b4, c3 | Vị trí Kế toán trưởng phải có Chứng chỉ Kế toán trưởng và các quy định khác của ngành Kế toán |
 | 3 | Trưởng khoa | a2, b2, c1 | |
@@ -950,7 +949,6 @@ c) Trình độ chuyên môn
 39
 
 | STT | Chức vụ | Tiêu chuẩn | Ghi chú |
-| :--- | :--- | :---: | :--- |
 | 6 | Trưởng các Phòng chức năng, Giám đốc Trung tâm thuộc Trường | a2, b2, c2 | Ngoài tiêu chuẩn b3, Trưởng phòng phụ trách công tác đào tạo, khoa học công nghệ, Khảo thí và Đảm bảo Chất lượng Giáo dục phải đạt c1. |
 | 7 | Phó Trưởng các Phòng chức năng, Phó Giám đốc Trung tâm thuộc Trường, Tổ trưởng Tổ Công nghệ Thông tin | b4, c3 | Ngoài tiêu chuẩn b4, Phó Trưởng phòng Phòng Đào tạo phụ trách công tác đào tạo sau đại học, Phó Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế được giao phụ trách khoa học công nghệ phải đạt c1. |
 | 8 | Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và đào tạo trực thuộc Trường ĐHBK | b3, c3 | |
@@ -964,7 +962,6 @@ Phụ lục 2
 NGHIÊN CỨU, CHUYỂN GIAO CÔNG NGHỆ VÀ DỊCH VỤ ĐÀO TẠO
 
 | STT | TRUNG TÂM | ĐƠN VỊ QUẢN LÝ CHUYÊN MÔN |
-| :---: | :--- | :--- |
 | 01 | Trung tâm Nghiên cứu bảo vệ môi trường | Khoa Môi trường |
 | 02 | Trung tâm Nghiên cứu và ứng dụng năng lượng thay thế | Khoa Cơ khí Giao thông |
 | 03 | Trung tâm Nghiên cứu, ứng dụng và Tư vấn kỹ thuật nền móng-công trình | Khoa Xây dựng Cầu đường |
@@ -983,7 +980,6 @@ NGHIÊN CỨU, CHUYỂN GIAO CÔNG NGHỆ VÀ DỊCH VỤ ĐÀO TẠO
 PHỤ LỤC 3: BẢNG QUY ĐỊNH VỀ HỆ SỐ PHỤ CẤP CHỨC VỤ
 
 | STT | Chức vụ | Hệ số |
-| :---: | :--- | :---: |
 | 01 | Hiệu trưởng, Chủ tịch Hội đồng trường | 1.0 |
 | 02 | Phó Hiệu trưởng, Phó Chủ tịch Hội đồng trường | 0.8 |
 | 03 | - Trưởng khoa, Trưởng phòng;

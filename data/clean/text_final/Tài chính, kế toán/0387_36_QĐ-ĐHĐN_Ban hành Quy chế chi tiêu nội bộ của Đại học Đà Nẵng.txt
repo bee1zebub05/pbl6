@@ -507,7 +507,6 @@ Phụ lục
 
 I. Tỷ lệ chi cho các đơn vị quản lý và phục vụ trực tiếp
 | STT | Đơn vị | Tỷ lệ | Ghi chú |
-| :--- | :--- | :---: | :---: |
 | 1 | Ban Giám đốc, Chủ tịch Hội đồng | 18% | |
 | 2 | Văn phòng ĐHĐN | 16% | |
 | 3 | Ban Đào tạo và Đảm bảo chất lượng giáo dục | 12% | |
@@ -524,7 +523,6 @@ I. Tỷ lệ chi cho các đơn vị quản lý và phục vụ trực tiếp
 
 II. Hệ số quản lý và phục vụ
 | STT | Vị trí quản lý, phục vụ | Hệ số | Quy định chi tiết |
-| :---: | :--- | :---: | :---: |
 | 1 | Giám đốc ĐHĐN, Bí thư Đảng ủy ĐHĐN, Chủ tịch Hội đồng ĐHĐN | 7,5 | |
 | 2 | Phó Giám đốc ĐHĐN, Phó Bí thư Đảng ủy ĐHĐN, Phó Chủ tịch Hội đồng ĐHĐN, Chủ tịch Công đoàn ĐHĐN | 6,5 | |
 | 3 | Chủ nhiệm Ủy ban kiểm tra Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN | 6,0 | |
@@ -651,7 +649,6 @@ III.
 Tỷ lệ chi trả công tác quản lý điều hành, phối hợp hỗ trợ
 
 | STT | Đơn vị | Hệ số |
-| :--- | :--- | :--- |
 | 1 | Ban Giám đốc + Chủ tịch Hội đồng | 40% |
 | 2 | Văn phòng ĐHĐN | 12% |
 | 3 | Ban Đào tạo và Đảm bảo chất lượng giáo dục | 13% |
@@ -665,7 +662,6 @@ IV. Mức khoán cước phí điện thoại di động
 Đơn vị: đồng
 
 | STT | Chức danh | Mức khoán |
-| :---: | :--- | :---: |
 | 1 | Ban Giám đốc, Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng | 700.000 |
 | 2 | Chánh Văn phòng ĐHĐN, Chủ tịch Công đoàn ĐHĐN | 400.000 |
 | 3 | Chánh Văn phòng Đảng ủy ĐHĐN, Trưởng ban, Thư ký Hội đồng ĐHĐN, Bí thư Đoàn TN ĐHĐN, Chủ tịch Hội sinh viên ĐHĐN, Phó Chủ tịch Công đoàn ĐHĐN, Chủ tịch Công đoàn Cơ quan ĐHĐN | 200.000 |
@@ -688,7 +684,6 @@ e) Từ chức vụ thứ năm không được tính.
 V. Định mức tiền thuê phòng nghỉ tại nơi đến công tác
 
 | Nơi ở/ Đối tượng thanh toán | Theo hình thức khoán chi | Theo hóa đơn thực tế (đã bao gồm thuế, phí) |
-| :--- | :---: | :---: |
 | 1. Đi công tác tại các quận, thành phố thuộc thành phố trực thuộc trung ương và thành phố là đô thị loại I thuộc tỉnh | | |
 | a. Đối với VC, NLĐ là Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Chủ tịch Công đoàn Cơ quan ĐHĐN, VC, NLĐ có hệ số chức vụ từ 0,5 trở lên | 450.000 đ/ngày/người | Tối đa 1.000.000 đ/ngày/phòng |
 | b. Trường hợp còn lại | 360.000 đ/ngày/người | Tối đa 800.000 đ/ngày/phòng |
@@ -708,7 +703,6 @@ VI. Chế độ phụ cấp kiêm nhiệm của Ban Biên tập, nhuận bút, b
 ĐVT: đồng/người/tháng
 
 | TT | Trách nhiệm Ban Biên tập | Phụ cấp |
-| :---: | :--- | :---: |
 | 1 | Trưởng ban | 900.000 |
 | 2 | Phó Trưởng ban | 700.000 |
 | 3 | Ủy viên thường trực | 500.000 |
@@ -718,7 +712,6 @@ VI. Chế độ phụ cấp kiêm nhiệm của Ban Biên tập, nhuận bút, b
 ĐVT: đồng
 
 | TT | Loại tin | Nhuận bút tác giả | Biên tập | Thành tiền (VNĐ) |
-| :---: | :--- | :---: | :---: | :---: |
 | Nội dung | Kỹ thuật | |
 | 1 | Tin viết tiếng Việt | 30.000 | 20.000 | 15.000 | 65.000 |
 | 2 | Tin viết tiếng Anh | 40.000 | 25.000 | 15.000 | 80.000 |
@@ -734,7 +727,6 @@ Thiết kế: 300.000 đ/số | 180.000 | 20.000 | 1.000.000 |
 VII. Định mức chi khen thưởng bài báo và sản phẩm sở hữu trí tuệ
 
 | Danh mục | Mức thưởng |
-| :--- | :---: |
 | 1. Bài báo được đăng trên tạp chí quốc tế uy tín | |
 | SCIE/SSCI/AHCI (Q1) | 10.000.000 đồng/bài báo |
 | SCIE/SSCI/AHCI (Q2) | 9.000.000 đồng/bài báo |
@@ -754,7 +746,6 @@ ESCI, Scopus (chưa có Q): 3.000.000 đồng/bài báo
 VIII. Định mức chi khen thưởng
 
 | STT | Danh hiệu thi đua hoặc hình thức khen thưởng | Mức thưởng (Hệ số x mức lương tối thiểu) |
-| :---: | :--- | :---: | :---: |
 | | | Cá nhân (Hệ số) | Tập thể (Hệ số) |
 | 1 | Huân chương Hồ Chí Minh | 30,5 | 61,0 |
 | 2 | Huân chương Độc lập hạng Nhất | 15,0 | 30,0 |

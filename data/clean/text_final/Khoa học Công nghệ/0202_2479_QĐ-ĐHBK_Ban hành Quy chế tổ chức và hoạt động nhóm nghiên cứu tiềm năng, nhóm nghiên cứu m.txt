@@ -277,7 +277,6 @@ PHỤ LỤC
 Bảng 1. Yêu cầu về kết quả công bố khoa học (CBKH), tính tích lũy đến cuối năm đánh giá.
 
 | Nhóm / Giao đoạn | Năm thứ nhất | Năm thứ hai | Năm thứ ba |
-| :--- | :--- | :--- | :--- |
 | Nhóm nghiên cứu tiềm năng | Điểm CBKH > 0,5 | Điểm CBKH > 1,5
 Số trích dẫn > 5 | Điểm CBKH > 3,0
 Số trích dẫn > 10 |
@@ -288,7 +287,6 @@ Số trích dẫn > 50 |
 Bảng 2. Điểm quy đổi các công bố khoa học uy tín.
 
 | TT | Sản phẩm | Điểm quy đổi |
-| :---: | :--- | :---: |
 | 1 | Bài báo đăng trên tạp chí thuộc danh mục SCI, SCIE, SSCI, A&HCI | |
 | 1.1 | Tạp chí trong nhóm Q1 thuộc lĩnh vực nghiên cứu của bài báo | 2,0 |
 | 1.2 | Tạp chí trong nhóm Q2 thuộc lĩnh vực nghiên cứu của bài báo | 1,6 |

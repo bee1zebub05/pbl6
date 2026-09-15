@@ -365,7 +365,6 @@ TRONG ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP
 (Kèm theo Nghị định số 232/2026/NĐ-CP ngày 26 tháng 6 năm 2026 của Chính phủ)
 
 | STT | Tên vị trí việc làm | Ghi chú |
-| :---: | :--- | :--- |
 | 1 | Người đứng đầu và tương đương của đơn vị sự nghiệp công lập (ĐVSNCL) | |
 | 2 | Cấp phó người đứng đầu và tương đương của ĐVSNCL | |
 | 3 | Trưởng ban, Trưởng phòng, Trưởng khoa, Trưởng trung tâm, Trưởng chi nhánh, Trưởng phân hiệu, Trưởng khu vực và tương đương của ĐVSNCL | |
@@ -383,7 +382,6 @@ DANH MỤC VỊ TRÍ VIỆC LÀM VIÊN CHỨC CHUYÊN MÔN, NGHIỆP VỤ TRONG 
 (Kèm theo Nghị định số 232/2026/NĐ-CP ngày 26 tháng 6 năm 2026 của Chính phủ)
 
 | TT | | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
-| :---: | :---: | :--- | :---: | :---: |
 | I | | NGÀNH, LĨNH VỰC NỘI VỤ | | |
 | 1 | 1 | Lưu trữ | Bậc 1 đến bậc 5 | |
 | 2 | 2 | Kiểm định kỹ thuật an toàn lao động | Bậc 1 đến bậc 4 | |
@@ -485,7 +483,6 @@ Bậc 3 đến bậc 5 | |
 Trang 1 (Trang 5 của tài liệu)
 
 | TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
-| :---: | :--- | :---: | :---: |
 | | Giảng viên cao cấp (bao gồm Giáo sư, Phó giáo sư) | Bậc 5 | |
 | 77 | 12 | Giảng viên đào tạo, bồi dưỡng (gồm: Giảng viên, Giảng viên chính, Giảng viên cao cấp, Giáo sư, Phó Giáo sư) | | |
 | | Giảng viên | Bậc 3 | |
@@ -517,7 +514,6 @@ Trang 2 (Trang 6 của tài liệu)
 
 ----- [Trang 22] -----
 TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
-| :---: | :---: | :---: | :---: |
 | 93 | 13 | Dinh dưỡng | Bậc 2 đến bậc 5 | |
 | 94 | 14 | Khúc xạ nhãn khoa | Bậc 3 đến bậc 5 | |
 | 95 | 15 | Kỹ thuật thiết bị y tế | Bậc 2 đến bậc 4 | |
@@ -550,7 +546,6 @@ Trang 3 (Trang 7 của tài liệu)
 
 ----- [Trang 23] -----
 TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
-| :---: | :---: | :---: | :---: |
 | 117 | 15 | Âm thanh viên | Bậc 1 đến bậc 5 | |
 | 118 | 16 | Kỹ thuật dựng phim | Bậc 1 đến bậc 5 | |
 | 119 | 17 | Phát thanh viên | Bậc 1 đến bậc 5 | |
@@ -581,7 +576,6 @@ Trang 4 (Trang 8 của tài liệu)
 
 ----- [Trang 24] -----
 Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
-| :---: | :---: | :---: | :---: |
 | XI | NGÀNH, LĨNH VỰC TÀI CHÍNH | | |
 | 138 | 1 | Kế toán | Bậc 1 đến bậc 5 | |
 | XII | NGÀNH, LĨNH VỰC KHÁC | | |
@@ -608,7 +602,6 @@ Trang 5 (Trang 9 của tài liệu)
 
 ----- [Trang 25] -----
 TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
-| :---: | :---: | :---: | :---: |
 | 154 | 11 | Quản lý dự án | Bậc 1 đến bậc 4 | Bao gồm quản lý dự án đường bộ; quản lý dự án đường sắt; quản lý dự án đường thủy; quản lý dự án hàng hải; quản lý dự án dân dụng và công nghiệp |
 | 155 | 12 | Quản lý chợ | Bậc 1 đến bậc 4 | |
 
@@ -621,7 +614,6 @@ DANH MỤC VỊ TRÍ VIỆC LÀM VIÊN CHỨC HỖ TRỢ TRONG ĐƠN VỊ SỰ N
 (Kèm theo Nghị định số 232/2026/NĐ-CP ngày 26 tháng 6 năm 2026 của Chính phủ)
 
 STT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú
---- | --- | --- | ---
 1 | Quản lý bến xe | Bậc 1 đến bậc 4 | Ngành, lĩnh vực xây dựng
 2 | Quản lý vận tải quá cảnh | Bậc 1 đến bậc 4 | 
 3 | Kiểm tra tải trọng xe | Bậc 1 đến bậc 4 | 
@@ -877,7 +869,6 @@ III. CÔNG VIỆC, KẾT QUẢ, SẢN PHẨM CHUYÊN MÔN
 8
 
 | Bậc | Nội dung công việc | Sản phẩm, Kết quả đầu ra | Tiêu chí đánh giá |
-| :--- | :--- | :--- | :--- |
 | Bậc 1 | Thực hiện công việc chuyên môn đơn giản theo hướng dẫn, quy trình có sẵn | Sản phẩm chuyên môn đơn giản theo từng công đoạn | Đúng quy trình, đủ nội dung, đúng thời hạn |
 | Bậc 2 | Thực hiện công việc theo quy trình; làm việc độc lập trong phạm vi được giao | Hồ sơ chuyên môn hoàn chỉnh; sản phẩm dịch vụ đạt chuẩn kỹ thuật (báo cáo chuyên môn, kết quả xử lý nghiệp vụ...) | Đầy đủ, chính xác, tuân thủ tiêu chuẩn chuyên môn |
 | Bậc 3 | Thực hiện công việc có mức độ phức tạp trung bình; phân tích, tổng hợp thông tin, xử lý các tình huống thông thường | Kết quả xử lý chuyên môn hoàn chỉnh; báo cáo phân tích; phương án xử lý tình huống | Chất lượng xử lý; tính độc lập; khả năng giải quyết vấn đề |
@@ -891,7 +882,6 @@ IV. CÔNG VIỆC, KẾT QUẢ, SẢN PHẨM QUẢN LÝ
 *(Chỉ áp dụng đối với vị trí quản lý; vị trí khác bỏ trống. Viên chức sau khi được bố trí vào bậc nghề nghiệp của vị trí việc làm phải thực hiện công việc và có kết quả sản phẩm theo yêu cầu của bậc được bố trí.)*
 
 | Bậc | Nội dung công việc | Sản phẩm, Kết quả đầu ra | Tiêu chí đánh giá |
-| :--- | :--- | :--- | :--- |
 | Bậc 1 | Tham gia hỗ trợ tổ chức thực hiện hoạt động chuyên môn; thực hiện các công việc được phân công | Báo cáo tổng hợp, dữ liệu phục vụ quản lý, chuyên môn | Đáp ứng yêu cầu; kịp thời, đầy đủ |
 | Bậc 2 | Phối hợp tổ chức thực hiện nhóm công việc; tham gia phân công, theo dõi tiến độ thực hiện | Kế hoạch công việc nhóm; kết quả thực hiện nhiệm vụ được giao | Hoàn thành nhiệm vụ nhóm; bảo đảm tiến độ |
 | Bậc 3 | Điều phối nhóm chuyên môn; phân công công việc; theo dõi, kiểm tra việc thực hiện | Kết quả hoạt động nhóm; báo cáo tiến độ, kết quả thực hiện | Hiệu quả phối hợp; kiểm soát tiến độ, chất lượng |
@@ -905,7 +895,6 @@ V. CÔNG VIỆC, KẾT QUẢ, SẢN PHẨM HỖ TRỢ
 *(Áp dụng đối với vị trí làm hỗ trợ. Viên chức sau khi được bố trí vào bậc nghề nghiệp của vị trí việc làm phải thực hiện công việc và có kết quả sản phẩm theo yêu cầu của bậc được bố trí.)*
 
 | Bậc | Nội dung công việc | Sản phẩm, Kết quả đầu ra | Tiêu chí đánh giá |
-| :--- | :--- | :--- | :--- |
 | Bậc 1 | Thực hiện công việc hỗ trợ đơn giản theo hướng dẫn | Công việc hoàn thành (các sản phẩm mang tính hỗ trợ hoặc thực thi công đoạn, như: bản dự thảo, bảng số liệu tổng hợp ...) | Hoàn thành đầy đủ, đúng yêu cầu, đúng thời hạn |
 | Bậc 2 | Thực hiện nghiệp vụ theo quy trình; làm việc độc lập trong phạm vi được giao | Hồ sơ, tài liệu đúng quy định; kết quả xử lý nghiệp vụ | Chính xác, tuân thủ quy trình, hạn chế sai sót |
 | Bậc 3 | Xử lý tình huống nghiệp vụ; phối hợp giải quyết công việc phát sinh | Kết quả xử lý cụ thể; báo cáo, đề xuất phương án | Hiệu quả xử lý; tính chủ động; phối hợp tốt |
@@ -926,7 +915,6 @@ d) Sử dụng công nghệ thông tin, ngoại ngữ: Sử dụng kỹ năng s�
 2. Năng lực chuyên môn *(Cấp độ từ 1 đến 5, không thấp hơn bậc nghề nghiệp được bố trí, áp dụng chung đối với mọi vị trí việc làm)*
 
 | Cấp độ | Mô tả | Bậc nghề nghiệp áp dụng |
-| :---: | :--- | :---: |
 | 1 | Có năng lực thực hiện công việc đơn giản theo hướng dẫn, quy trình có sẵn | Bậc 1 |
 | 2 | Có năng lực thực hiện nghiệp vụ cơ bản; làm việc độc lập trong phạm vi được giao | Bậc 2 |
 | 3 | Có năng lực phân tích, đánh giá, xử lý độc lập nhiệm vụ và tình huống thông thường | Bậc 3 |
@@ -936,7 +924,6 @@ d) Sử dụng công nghệ thông tin, ngoại ngữ: Sử dụng kỹ năng s�
 3. Năng lực quản lý (Áp dụng đối với vị trí quản lý)
 
 | Cấp độ | Mô tả | Bậc nghề nghiệp áp dụng |
-| :---: | :--- | :---: |
 | 1 | Hiểu và vận dụng các nguyên tắc quản lý; tham gia hỗ trợ tổ chức thực hiện, theo dõi, tổng hợp kết quả công việc | Bậc 1, Bậc 2 |
 | 2 | Tổ chức thực hiện công việc được giao; phân công nhiệm vụ trong phạm vi nhỏ; theo dõi, đôn đốc tiến độ | Bậc 2, Bậc 3 |
 | 3 | Điều hành nhóm công việc; phân công, kiểm tra, đánh giá kết quả; xử lý tình huống phát sinh trong phạm vi quản lý | Bậc 3 |
@@ -945,7 +932,6 @@ d) Sử dụng công nghệ thông tin, ngoại ngữ: Sử dụng kỹ năng s�
 12
 
 | Cấp độ | Mô tả | Bậc nghề nghiệp áp dụng |
-| :---: | :--- | :---: |
 | 4 | Chủ trì tổ chức, quản lý hoạt động; kiểm soát chất lượng, tiến độ; chịu trách nhiệm về kết quả thực hiện | Bậc 4 |
 | 5 | Dẫn dắt, đổi mới, phát triển hoạt động; xây dựng phương hướng, giải pháp nâng cao hiệu quả tổ chức trong phạm vi đơn vị hoặc theo phân cấp | Bậc 5 |
 
@@ -970,7 +956,6 @@ IX. YÊU CẦU VỀ TRÌNH ĐỘ, KINH NGHIỆM, PHẨM CHẤT
 
 | Nhóm yêu cầu | Yêu cầu cụ thể
 (Đơn vị sử dụng vị trí việc làm xác định cụ thể tương ứng bậc nghề nghiệp của vị trí việc làm) |
-| :--- | :--- |
 | Trình độ đào tạo | Xác định chuyên ngành đào tạo theo yêu cầu pháp luật chuyên ngành (nếu có) hoặc pháp luật có liên quan, phù hợp lĩnh vực hoạt động nghề nghiệp hoặc nhóm hoạt động có tính chất, nội dung chuyên môn cơ bản giống nhau |
 
 ----- [Trang 41] -----

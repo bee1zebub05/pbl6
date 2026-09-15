@@ -931,7 +931,7 @@ Họ và tên
 
 ----- [Trang 36] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 Ghi chú:
 
@@ -949,7 +949,7 @@ Ghi chú:
 (12) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (13) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-[TRANG 2]
+----- [Trang 2] -----
 
 Mẫu số 04/TT-Đề cương yêu cầu cung cấp thông tin, tài liệu để ban hành quyết định thanh tra
 
@@ -984,7 +984,7 @@ III. Nhận xét, đánh giá
 - Kiến nghị, đề xuất đối với công tác quản lý và việc sửa đổi, bổ sung cơ chế, chính sách.
 - Việc thực hiện các kết luận, kiến nghị thanh tra, kiểm tra, kiểm toán.
 
-[TRANG 3]
+----- [Trang 3] -----
 
 Ghi chú:
 
@@ -994,7 +994,7 @@ Ghi chú:
 (4) Nội dung, lĩnh vực dự kiến sẽ tiến hành thanh tra.
 (5) Cơ quan, tổ chức đơn vị dự kiến là đối tượng thanh tra.
 
-[TRANG 4]
+----- [Trang 4] -----
 
 Mẫu số 05/TT-Quyết định thanh tra
 
@@ -1040,7 +1040,7 @@ Nơi nhận:
 
 Họ và tên
 
-[TRANG 5]
+----- [Trang 5] -----
 
 Ghi chú:
 
@@ -1060,7 +1060,7 @@ Ghi chú:
 
 ----- [Trang 41] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 06/TT-Kế hoạch tiến hành thanh tra
 
@@ -1107,7 +1107,7 @@ Họ và tên
 
 PHÊ DUYỆT CỦA NGƯỜI RA QUYẾT ĐỊNH THANH TRA
 
-TRANG 2
+----- [Trang 2] -----
 
 Ghi Chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1121,7 +1121,7 @@ Ghi Chú:
 (9) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (10) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 07/TT-Biên bản công bố Quyết định thanh tra
 
@@ -1164,7 +1164,7 @@ Biên bản công bố Quyết định thanh tra đã được đọc lại cho 
 
 Họ và tên Họ và tên Họ và tên Họ và tên
 
-TRANG 4
+----- [Trang 4] -----
 
 Ghi Chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1179,7 +1179,7 @@ Ghi Chú:
 (10) Đại diện cơ quan, tổ chức là đối tượng thanh tra.
 (11) Đại diện chính quyền địa phương (nếu có).
 
-TRANG 5
+----- [Trang 5] -----
 
 Mẫu số 08/TT-Công văn yêu cầu cung cấp thông tin, tài liệu
 
@@ -1225,7 +1225,7 @@ Ghi chú:
 
 ----- [Trang 46] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 09/TT-Biên bản giao nhận hồ sơ, tài liệu
 
@@ -1269,13 +1269,12 @@ Ghi chú:
 (7) Người giao hồ sơ, tài liệu.
 (8) Người nhận hồ sơ, tài liệu.
 
-TRANG 2
+----- [Trang 2] -----
 
 DANH MỤC HỒ SƠ, TÀI LIỆU
 (Kèm theo Biên bản giao hồ sơ, tài liệu ngày .../..../....)
 
 | STT | Tên tài liệu | Thời gian ban hành | Hình thức văn bản | Số trang | Ghi chú |
-|---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |
@@ -1294,7 +1293,7 @@ Bên giao Người nhận
 
 Họ và tên Họ và tên
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 10/TT-Công văn yêu cầu báo cáo
 
@@ -1330,7 +1329,7 @@ Ghi chú:
 (9) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (10) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 11/TT-Biên bản kiểm tra, xác minh
 
@@ -1367,7 +1366,7 @@ Việc kiểm tra, xác minh kết thúc vào ... giờ ... ngày .../.../... Bi
 
 Họ và tên Họ và tên Họ và tên Họ và tên
 
-TRANG 5
+----- [Trang 5] -----
 
 Ghi chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1384,7 +1383,7 @@ Ghi chú:
 
 ----- [Trang 51] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 12/TT-Quyết định niêm phong tài liệu
 
@@ -1424,7 +1423,7 @@ Nơi nhận:
 
 Họ và tên
 
-TRANG 2
+----- [Trang 2] -----
 
 Ghi Chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1443,7 +1442,7 @@ Ghi Chú:
 (14) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (15) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 13/TT-Biên bản niêm phong tài liệu
 
@@ -1480,7 +1479,7 @@ Việc niêm phong tài liệu hoàn thành vào ... giờ ... ngày .../.../...
 
 Họ và tên Họ và tên Họ và tên Họ và tên
 
-TRANG 4
+----- [Trang 4] -----
 
 Ghi chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1492,13 +1491,12 @@ Ghi chú:
 (7) Tài liệu bị niêm phong.
 (8) Cơ quan, đơn vị, cá nhân được giao quản lý tài liệu niêm phong.
 
-TRANG 5
+----- [Trang 5] -----
 
 DANH MỤC TÀI LIỆU
 (Kèm theo Biên bản niêm phong tài liệu ngày .../.../...)
 
 | STT | Tên tài liệu | Thời gian ban hành | Hình thức văn bản | Số trang | Ghi chú |
-|---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |
@@ -1522,7 +1520,7 @@ Họ và tên
 
 ----- [Trang 56] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 14/TT-Quyết định mở niêm phong tài liệu
 
@@ -1562,7 +1560,7 @@ Nơi nhận:
 
 Họ và tên
 
-TRANG 2
+----- [Trang 2] -----
 
 Ghi Chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1580,7 +1578,7 @@ Ghi Chú:
 (13) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (14) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 15/TT-Biên bản mở niêm phong tài liệu
 
@@ -1613,7 +1611,7 @@ Việc mở niêm phong tài liệu hoàn thành vào ... giờ ... ngày .../..
 
 Họ và tên Họ và tên Họ và tên Họ và tên
 
-TRANG 4
+----- [Trang 4] -----
 
 Ghi chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -1625,7 +1623,7 @@ Ghi chú:
 (7) Tình trạng của việc niêm phong: dấu niêm phong, tên, loại, số, ký hiệu, ngày, tháng, năm, số tờ và trích yếu nội dung tài liệu niêm phong,...
 (8) Người được giao quản lý tài liệu sau khi mở niêm phong.
 
-TRANG 5
+----- [Trang 5] -----
 
 Mẫu số 16/TT-Quyết định kiểm kê tài sản
 
@@ -1667,7 +1665,7 @@ Họ và tên
 
 ----- [Trang 61] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Ghi Chú:
 
@@ -1688,7 +1686,7 @@ Ghi Chú:
 (15) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (16) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 2
+----- [Trang 2] -----
 
 Mẫu số 17/TT-Biên bản kiểm kê tài sản
 
@@ -1726,7 +1724,7 @@ Việc kiểm kê kết thúc hồi ... giờ ... ngày .../.../... Biên bản 
 
 Họ và tên Họ và tên Họ và tên Họ và tên
 
-TRANG 3
+----- [Trang 3] -----
 
 Ghi chú:
 
@@ -1739,7 +1737,7 @@ Ghi chú:
 (7) Tài sản được kiểm kê: số lượng, chủng loại, xuất xứ, đặc điểm, tình trạng tài sản... Trường hợp cần thiết thì lập danh mục tài sản được kiểm kê kèm theo biên bản.
 (8) Đại diện cơ quan, đơn vị hoặc cá nhân quản lý tài sản được kiểm kê.
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 18/TT-Công văn yêu cầu giám định
 
@@ -1780,7 +1778,7 @@ Ghi chú:
 (8) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (9) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 5
+----- [Trang 5] -----
 
 Mẫu số 19/TT-Quyết định tạm đình chỉ
 
@@ -1815,7 +1813,7 @@ Nơi nhận: ..........................(5)
 
 ----- [Trang 66] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Ghi Chú:
 (1) Tên cơ quan cấp trên trực tiếp (nếu có).
@@ -1835,7 +1833,7 @@ Ghi Chú:
 (15) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (16) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 2
+----- [Trang 2] -----
 
 Mẫu số 20/TT-Công văn kiến nghị đình chỉ việc làm gây thiệt hại
 
@@ -1876,7 +1874,7 @@ Ghi chú:
 (10) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (11) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 21/TT-Quyết định tạm giữ tiền, đồ vật, giấy phép sử dụng trái pháp luật
 
@@ -1929,7 +1927,7 @@ Ghi chú:
 (13) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (14) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 22/TT-Công văn yêu cầu tạm giữ tiền, đồ vật, giấy phép sử dụng trái pháp luật
 
@@ -1971,7 +1969,7 @@ Ghi chú:
 (11) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (12) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 5
+----- [Trang 5] -----
 
 Mẫu số 23/TT-Quyết định thu hồi tiền
 
@@ -2259,7 +2257,7 @@ Ghi chú:
 
 ----- [Trang 76] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 29/TT-Biên bản bàn giao hồ sơ vụ việc có dấu hiệu tội phạm sang cơ quan điều tra
 
@@ -2305,13 +2303,12 @@ Ghi chú:
 (5) Tên cơ quan điều tra.
 (6) Tên cuộc thanh tra.
 
-TRANG 2
+----- [Trang 2] -----
 
 DANH MỤC HỒ SƠ
 (Kèm theo Biên bản bàn giao hồ sơ vụ việc ngày.../.../....)
 
 | STT | Tên tài liệu | Thời gian ban hành | Hình thức văn bản | Số trang | Ghi chú |
-|---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |
@@ -2335,7 +2332,7 @@ Người nhận hồ sơ
 (Chữ ký)
 Họ và tên
 
-TRANG 3
+----- [Trang 3] -----
 
 Mẫu số 30/TT-Quyết định gia hạn thời hạn thanh tra
 
@@ -2386,7 +2383,7 @@ Ghi chú:
 (10) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (11) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 31/TT-Sổ nhật ký Đoàn thanh tra
 
@@ -2404,7 +2401,7 @@ NHẬT KÝ ĐOÀN THANH TRA
 
 Thời gian tiến hành thanh tra từ ngày .................................... đến ngày ....................................
 
-TRANG 5
+----- [Trang 5] -----
 
 Nhật ký Đoàn thanh tra
 Ngày ... tháng ... năm ...
@@ -2599,7 +2596,7 @@ PHÊ DUYỆT CỦA NGƯỜI RA QUYẾT ĐỊNH THANH TRA
 
 ----- [Trang 86] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 Ghi chú:
 
@@ -2613,7 +2610,7 @@ Ghi chú:
 (8) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (9) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-[TRANG 2]
+----- [Trang 2] -----
 
 Mẫu số 35/TT-Biên bản làm việc của Tổ giám sát (hoặc người giám sát)
 
@@ -2652,7 +2649,7 @@ Ghi chú:
 (8) Cơ quan, đơn vị, cá nhân cung cấp thông tin, tài liệu.
 (9) Đại diện Tổ giám sát.
 
-[TRANG 3]
+----- [Trang 3] -----
 
 Mẫu số 36/TT-Báo cáo kết quả giám sát
 
@@ -2689,7 +2686,7 @@ Ghi Chú:
 (7) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (8) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-[TRANG 4]
+----- [Trang 4] -----
 
 Mẫu số 37/TT-Báo cáo kết quả thanh tra
 
@@ -2719,7 +2716,7 @@ Nơi nhận: ....................................................(13)
 - ....................
 - Lưu: VT, (14), (15). Họ và tên
 
-[TRANG 5]
+----- [Trang 5] -----
 
 Ghi Chú:
 
@@ -2741,7 +2738,7 @@ Ghi Chú:
 
 ----- [Trang 91] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 38/TT-Phiếu trình dự thảo Kết luận thanh tra
 
@@ -2778,7 +2775,7 @@ Ghi chú:
 (5) Thủ trưởng cơ quan, đơn vị chủ trì cuộc thanh tra (nếu có): ghi rõ ý kiến của mình về nội dung dự thảo Kết luận thanh tra (nếu có).
 (6) Trưởng đoàn thanh tra, ghi rõ ý kiến của mình về nội dung dự thảo Kết luận thanh tra (nếu có).
 
-TRANG 2
+----- [Trang 2] -----
 
 Mẫu số 39/TT-Báo cáo kết quả thẩm định dự thảo Kết luận thanh tra
 
@@ -2815,7 +2812,7 @@ Nơi nhận:
 
 Họ và tên
 
-TRANG 3
+----- [Trang 3] -----
 
 Ghi Chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -2831,7 +2828,7 @@ Ghi Chú:
 (11) Chữ viết tắt đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (12) Ký hiệu người soạn thảo văn bản và số lượng bản phát hành (nếu cần).
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 40/TT-Kết luận thanh tra
 
@@ -2874,7 +2871,7 @@ Nơi nhận:
 
 Họ và tên
 
-TRANG 5
+----- [Trang 5] -----
 
 Ghi chú:
 (1) Tên cơ quan cấp trên trực tiếp (nếu có).
@@ -2895,7 +2892,7 @@ Ghi chú:
 
 ----- [Trang 96] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Phụ lục số 01
 TỔNG HỢP VI PHẠM VÀ XỬ LÝ VI PHẠM VỀ KINH TẾ
@@ -2929,7 +2926,7 @@ Ghi chú:
 - Cột 4: Ghi tiền đồng Việt Nam và/ hoặc ngoại tệ.
 - Cột 12, 13: Ghi các kiến nghị khác còn lại (ngoài các kiến nghị đã ghi tại cột 6-11).
 
-TRANG 2
+----- [Trang 2] -----
 
 Phụ lục số 02
 TỔNG HỢP KIẾN NGHỊ XỬ LÝ TRÁCH NHIỆM
@@ -2954,7 +2951,7 @@ Ghi chú:
 - Cột 3: Ghi từng nội dung vi phạm (nên ghi theo thứ tự nêu trong phần nội dung kết luận); nếu nội dung quá dài thì ghi khái quát/tóm tắt vi phạm chính.
 - Kiến nghị xử lý trách nhiệm: Kiến nghị xử lý hành chính thì ghi "X" vào cột 4; nếu chuyển cơ quan công an thì ghi tên cơ quan công an tiếp nhận vào cột 5 (ví dụ: cơ quan cảnh sát điều tra Bộ Công an); nếu chuyển cơ quan khác thì ghi tên cơ quan tiếp nhận (ví dụ: Uỷ ban Kiểm tra Trung ương).
 
-TRANG 3
+----- [Trang 3] -----
 
 Phụ lục số 03
 TỔNG HỢP KIẾN NGHỊ HOÀN THIỆN CƠ CHẾ, CHÍNH SÁCH, PHÁP LUẬT HOẶC VĂN BẢN CHỈ ĐẠO, ĐIỀU HÀNH
@@ -2979,7 +2976,7 @@ Ghi chú:
 - Cột 6: Ghi tiến độ, kết quả đã thực hiện kiến nghị (ví dụ: đã bãi bỏ văn bản số ... ngày ...; hoặc đã ban hành văn bản số .... ngày .... sửa đổi/ bổ sung văn bản số ... ngày ...).
 - Mục III (Kiến nghị ban hành mới): Ghi nội dung kiến nghị cần ban hành mới văn bản; không ghi thông tin tại các cột 3,4,5. (ví dụ: Kiến nghị ban hành Quy chế chi tiêu nội bộ).
 
-TRANG 4
+----- [Trang 4] -----
 
 Mẫu số 41/TT-Biên bản công bố Kết luận thanh tra
 
@@ -3018,7 +3015,7 @@ Việc công bố Kết luận thanh tra kết thúc hồi ... giờ ... ngày .
 
 Họ và tên Họ và tên Họ và tên
 
-TRANG 5
+----- [Trang 5] -----
 
 Ghi chú:
 (1) Tên cơ quan tiến hành thanh tra.
@@ -3035,7 +3032,7 @@ Ghi chú:
 
 ----- [Trang 101] -----
 
-TRANG 1
+----- [Trang 1] -----
 
 Mẫu số 42/TT-Biên bản bàn giao hồ sơ cho đơn vị lưu trữ
 
@@ -3079,13 +3076,12 @@ Ghi chú:
 (5) Tên đơn vị có nhiệm vụ lưu trữ hồ sơ.
 (6) Tên cuộc thanh tra.
 
-TRANG 2
+----- [Trang 2] -----
 
 DANH MỤC HỒ SƠ
 (Kèm theo biên bản bàn giao hồ sơ cho đơn vị lưu trữ ngày .../.../...)
 
 | STT | Tên tài liệu | Thời gian ban hành | Hình thức văn bản | Số trang | Ghi chú |
-|---|---|---|---|---|---|
 | | | | | | |
 | | | | | | |
 | | | | | | |

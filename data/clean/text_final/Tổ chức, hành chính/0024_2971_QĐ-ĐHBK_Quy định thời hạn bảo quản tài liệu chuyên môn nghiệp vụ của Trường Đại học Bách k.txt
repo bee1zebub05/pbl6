@@ -1,7 +1,5 @@
 ----- [Trang 1] -----
 
-TRANG 1
-
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 Số: 2971/QĐ-ĐHBK
@@ -105,7 +103,6 @@ BẢNG THỜI HẠN BẢO QUẢN TÀI LIỆU CHUYÊN MÔN NGHIỆP VỤ CỦA TR
 (Ban hành kèm theo Quyết định số: 2971/QĐ-ĐHBK ngày 26 tháng 12 năm 2018 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
 
 | TT | Tên nhóm hồ sơ, tài liệu | Thời hạn bảo quản | Nơi lưu trữ | Hình thức bảo quản |
-|:---|:---|:---|:---|:---|
 | | I. TÀI LIỆU CHUNG VỀ GIÁO DỤC VÀ ĐÀO TẠO | | | |
 | 1 | Tập văn bản quy định, hướng dẫn về công tác giáo dục và đào tạo gửi chung đến các cơ quan, đơn vị (hồ sơ nguyên tắc) | Theo hiệu lực văn bản | VT-TCHC | Đóng tập, tài liệu điện tử |
 | 2 | Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành các định hướng, phương hướng, chính sách phát triển giáo dục và đào tạo | Vĩnh viễn | VT-TCHC | Đóng tập, tài liệu điện tử |
@@ -140,7 +137,7 @@ BẢNG THỜI HẠN BẢO QUẢN TÀI LIỆU CHUYÊN MÔN NGHIỆP VỤ CỦA TR
 
 Cấu trúc cột: TT | Tên nhóm hồ sơ, tài liệu | Thời hạn bảo quản | Nơi lưu trữ | Hình thức bảo quản
 
-TRANG 1
+----- [Trang 1] -----
 
 21 | Hồ sơ thành lập hội đồng trường và bổ nhiệm chủ tịch hội đồng trường đại học công lập | 20 năm | VT-TCHC | Đóng tập, tài liệu điện tử
 22 | Hồ sơ phân tầng cơ sở giáo dục đại học | Vĩnh viễn | VT-TCHC | Đóng tập, tài liệu điện tử
@@ -158,7 +155,7 @@ TRANG 1
 34 | Tài liệu về tuyển sinh đại học | | P. ĐÀO TẠO | Đóng tập, tài liệu điện tử
 - Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm | Vĩnh viễn | P. ĐÀO TẠO | Đóng tập tài liệu
 
-TRANG 2
+----- [Trang 2] -----
 
 - Hồ sơ xây dựng phương án đảm bảo chất lượng đầu vào tuyển sinh | Vĩnh viễn | P. ĐÀO TẠO | Đóng tập tài liệu
 - Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh | Vĩnh viễn | P. ĐÀO TẠO | Đóng tập tài liệu
@@ -179,7 +176,7 @@ TRANG 2
 - Hồ sơ xét công nhận tốt nghiệp | Vĩnh viễn | P. ĐÀO TẠO | Đóng tập tài liệu
 - Các tài liệu khác có liên quan đến thi, xét tốt nghiệp | | P. ĐÀO TẠO | Đóng tập tài liệu
 
-TRANG 3
+----- [Trang 3] -----
 
 + Được Hội đồng đánh giá đạt yêu cầu trở lên | 20 năm | TTHLTT | File+quyển
 + Không đạt yêu cầu | 5 năm | Các khoa | File+quyển
@@ -200,7 +197,7 @@ TRANG 3
 52 | Tài liệu về công nhận tốt nghiệp và cấp bằng thạc sĩ | | P. ĐÀO TẠO | Đóng tập tài liệu
 - Quyết định công nhận tốt nghiệp và cấp bằng thạc sĩ; Danh sách tốt nghiệp | Vĩnh viễn | nt | nt
 
-TRANG 4
+----- [Trang 4] -----
 
 - Hồ sơ xét công nhận tốt nghiệp và cấp bằng thạc sĩ | Vĩnh viễn | nt | nt
 - Hồ sơ đánh giá luận văn thạc sĩ | 30 năm | nt | nt
@@ -224,7 +221,7 @@ TRANG 4
 60 | Bảng điểm từng học phần bao gồm điểm kiểm tra, điểm thi, điểm học phần | 10 năm sau tốt nghiệp | P. ĐÀO TẠO | Đóng tập tài liệu
 61 | Sổ theo dõi tình hình giảng dạy, học tập của giáo viên và học viên | 5 năm sau tốt nghiệp | P. ĐÀO TẠO | Đóng tập tài liệu
 
-TRANG 5
+----- [Trang 5] -----
 
 62 | Báo cáo chuyên đề, tiểu luận tổng quan của nghiên cứu sinh | 5 năm sau tốt nghiệp | P. ĐÀO TẠO | Đóng tập tài liệu
 Tài liệu về công nhận tốt nghiệp và cấp bằng tiến sĩ
@@ -253,7 +250,6 @@ Tài liệu về công nhận tốt nghiệp và cấp bằng tiến sĩ
 DANH MỤC HỒ SƠ, TÀI LIỆU LƯU TRỮ
 
 | TT | Tên nhóm hồ sơ, tài liệu | Thời hạn bảo quản | Nơi lưu trữ | Hình thức bảo quản |
-|:---|:---|:---|:---|:---|
 | | III. TÀI LIỆU VỀ KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC | | | |
 | 67 | Hồ sơ thẩm định kết quả đánh giá chất lượng giáo dục và cấp giấy chứng nhận kiểm định chất lượng giáo dục đối với cơ sở giáo dục, chương trình đào tạo | 20 năm | P.KT&ĐBC LGD | Đóng tập |
 | | IV. TÀI LIỆU VỀ VĂN BẰNG, CHỨNG CHỈ | | | |

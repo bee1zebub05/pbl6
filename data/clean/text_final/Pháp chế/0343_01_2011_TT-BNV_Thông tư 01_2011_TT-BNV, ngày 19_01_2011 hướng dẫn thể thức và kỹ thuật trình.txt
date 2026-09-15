@@ -511,7 +511,6 @@ BẢNG CHỮ VIẾT TẮT TÊN LOẠI VĂN BẢN VÀ BẢN SAO
 (Kèm theo Thông tư số 01/2011/TT-BNV ngày 19 tháng 01 năm 2011 của Bộ Nội vụ)
 
 STT | Tên loại văn bản hành chính | Chữ viết tắt
----|---|---
 1 | Nghị quyết (cá biệt) | NQ
 2 | Quyết định (cá biệt) | QĐ
 3 | Chỉ thị (cá biệt) | CT
@@ -541,12 +540,11 @@ STT | Tên loại văn bản hành chính | Chữ viết tắt
 
 ----- [Trang 21] -----
 
-TRANG 28
+----- [Trang 28] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 | STT | Tên loại văn bản hành chính | Chữ viết tắt |
-|---|---|---|
 | 27 | Giấy nghỉ phép | NP |
 | 28 | Giấy đi đường | ĐĐ |
 | 29 | Giấy biên nhận hồ sơ | BN |
@@ -558,7 +556,7 @@ CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 | 2 | Bản trích sao | TS |
 | 3 | Bản sao lục | SL |
 
-TRANG 29
+----- [Trang 29] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -573,7 +571,7 @@ SƠ ĐỒ BỐ TRÍ CÁC THÀNH PHẦN THỂ THỨC VĂN BẢN
 - Lề trái: 30-35 mm
 - Lề phải: 15-20 mm]
 
-TRANG 30
+----- [Trang 30] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -597,7 +595,7 @@ Ghi chú:
 14 : Địa chỉ cơ quan, tổ chức; địa chỉ E-Mail; địa chỉ Website; số điện thoại, số Telex, số Fax
 15 : Logo (in chìm dưới tên cơ quan, tổ chức ban hành văn bản)
 
-TRANG 31
+----- [Trang 31] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -622,14 +620,13 @@ Ghi chú:
 6 : Dấu của cơ quan, tổ chức
 7 : Nơi nhận
 
-TRANG 32
+----- [Trang 32] -----
 
 Phụ lục IV
 MẪU CHỮ VÀ CHI TIẾT TRÌNH BÀY THỂ THỨC VĂN BẢN VÀ THỂ THỨC BẢN SAO
 (Kèm theo Thông tư số 01/2011/TT-BNV ngày 19 tháng 01 năm 2011 của Bộ Nội vụ)
 
 | STT (1) | Thành phần thể thức và chi tiết trình bày (2) | Loại chữ (3) | Cỡ chữ (4) | Kiểu chữ (5) | Ví dụ minh họa (6) | Cỡ chữ (7) |
-|---|---|---|---|---|---|---|
 | | | | | | Phông chữ Times New Roman | |
 | 1 | Quốc hiệu | | | | | |
 | | - Dòng trên | In hoa | 12-13 | Đứng, đậm | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM | 12 |
@@ -713,7 +710,7 @@ Ghi chú: Cỡ chữ trong cùng một văn bản tăng, giảm phải thống n
 
 ----- [Trang 31] -----
 
-TRANG 38
+----- [Trang 38] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -747,7 +744,7 @@ Mẫu 1.19 - Thư công
 2. Mẫu trình bày bản sao văn bản
 Mẫu 2.1 - Bản sao văn bản
 
-TRANG 39
+----- [Trang 39] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | 39
 
@@ -790,7 +787,7 @@ Ghi chú:
 (7) Chữ viết tắt tên đơn vị soạn thảo văn bản và số lượng bản lưu (nếu cần).
 (8) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 40
+----- [Trang 40] -----
 
 40 | CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -832,7 +829,7 @@ Ghi chú:
 (7) Chữ viết tắt tên đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (8) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 41
+----- [Trang 41] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | 41
 
@@ -875,7 +872,7 @@ Ghi chú:
 (8) Chữ viết tắt tên đơn vị soạn thảo văn bản và số lượng bản lưu (nếu cần).
 (9) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 42
+----- [Trang 42] -----
 
 42 | CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -917,7 +914,7 @@ Ghi chú:
 
 ----- [Trang 36] -----
 
-TRANG 43
+----- [Trang 43] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | 43
 
@@ -935,7 +932,7 @@ Chủ tịch...); nếu thẩm quyền ban hành quyết định thuộc về t�
 
 (13) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 44
+----- [Trang 44] -----
 
 44 | CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -975,7 +972,7 @@ Ghi chú:
 (4) Địa danh.
 (5) Trích yếu nội dung quyết định.
 
-TRANG 45
+----- [Trang 45] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | 45
 
@@ -989,7 +986,7 @@ CÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | 45
 
 (10) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 46
+----- [Trang 46] -----
 
 46 | CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -1032,7 +1029,7 @@ Ghi chú:
 () Mẫu này áp dụng đối với các văn bản được ban hành kèm theo quyết định (cá biệt), bố cục có thể bao gồm chương, mục, điều, khoản, điểm.
 (1) Trích yếu nội dung của văn bản.
 
-TRANG 47
+----- [Trang 47] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | 47
 
@@ -1073,7 +1070,7 @@ Ghi chú:
 
 ----- [Trang 41] -----
 
-TRANG 48
+----- [Trang 48] -----
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 Mẫu 1.5 - Công văn
@@ -1116,7 +1113,7 @@ Ghi chú:
 (11) Địa chỉ cơ quan, tổ chức; số điện thoại, số Telex, số Fax; địa chỉ E-Mail; Website (nếu cần).
  Nếu nơi nhận (kính gửi) là những chức danh, chức vụ cao cấp của Nhà nước, thì phần nơi nhận không ghi “như trên” mà ghi trực tiếp những chức danh, chức vụ ấy vào.
 
-TRANG 49
+----- [Trang 49] -----
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 Mẫu 1.6 - Quyết định (cá biệt) của Thường trực Hội đồng nhân dân
@@ -1162,7 +1159,7 @@ Nếu ủy viên Thường trực ký thì ghi: KT. CHỦ TỊCH
 (9) Chữ viết tắt tên đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (10) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 50
+----- [Trang 50] -----
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 Mẫu 1.7 - Văn bản có tên loại của các Ban Hội đồng nhân dân
@@ -1200,7 +1197,7 @@ PHÓ TRƯỞNG BAN
 (9) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 (Mẫu này dùng chung cho tất cả các loại văn bản có tên loại do các Ban của Hội đồng nhân dân ban hành).
 
-TRANG 51
+----- [Trang 51] -----
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 Mẫu 1.8 - Văn bản có tên loại của Đoàn Đại biểu Quốc hội
@@ -1238,7 +1235,7 @@ PHÓ TRƯỞNG ĐOÀN
 (9) Ký hiệu người đánh máy, số lượng bản phát hành (nếu cần).
 (Mẫu này dùng chung cho tất cả các loại văn bản có tên loại của Đoàn Đại biểu Quốc hội).
 
-TRANG 52
+----- [Trang 52] -----
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 Mẫu 1.9 - Công điện
@@ -1281,7 +1278,7 @@ Ghi chú:
 
 ----- [Trang 46] -----
 
-TRANG 53
+----- [Trang 53] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 Mẫu 1.10 - Giấy mời
@@ -1322,7 +1319,7 @@ Ghi chú:
 (8) Chữ viết tắt tên đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 (9) Ký hiệu người đánh máy, nhân bản và số lượng bản phát hành (nếu cần).
 
-TRANG 54
+----- [Trang 54] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 Mẫu 1.11 - Giấy giới thiệu
@@ -1358,7 +1355,7 @@ Ghi chú:
 (5) Họ và tên, chức vụ và đơn vị công tác của người được giới thiệu.
 (6) Tên cơ quan, tổ chức được giới thiệu tới làm việc.
 
-TRANG 55
+----- [Trang 55] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 Mẫu 1.12 - Biên bản
@@ -1400,7 +1397,7 @@ Ghi chú:
 (4) Tên cuộc họp hoặc hội nghị, hội thảo.
 (5) Ghi chức vụ chính quyền (nếu cần).
 
-TRANG 56
+----- [Trang 56] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 Mẫu 1.13 - Giấy biên nhận
@@ -1441,7 +1438,7 @@ Ghi chú:
 (7) Liệt kê đầy đủ, cụ thể các văn bản, giấy tờ, tài liệu có trong hồ sơ.
 (8) Tên người hoặc cơ quan gửi hồ sơ.
 
-TRANG 57
+----- [Trang 57] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 Mẫu 1.14 - Giấy chứng nhận
@@ -1484,7 +1481,7 @@ Ghi chú:
 
 ----- [Trang 51] -----
 
-TRANG 58
+----- [Trang 58] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -1507,19 +1504,17 @@ QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ
 Họ và tên
 
 | Nơi đi và đến | Ngày tháng | Phương tiện | Độ dài chặng đường (Km) | Thời gian ở nơi đến | Xác nhận của cơ quan (tổ chức) nơi đi, đến |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | Đi .................... | | | | | |
 | Đến ................... | | | | | |
 | Đi .................... | | | | | |
 | Đến ................... | | | | | |
 | Đi .................... | | | | | |
 
-TRANG 59
+----- [Trang 59] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
 | Nơi đi và đến | Ngày tháng | Phương tiện | Độ dài chặng đường (Km) | Thời gian ở nơi đến | Xác nhận của cơ quan (tổ chức) nơi đi, đến |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | Đến ................... | | | | | |
 | Đi .................... | | | | | |
 | Đến ................... | | | | | |
@@ -1548,7 +1543,7 @@ Ghi chú:
 (4) Địa danh.
 (5) Họ và tên, chức vụ và đơn vị công tác của người được cấp giấy.
 
-TRANG 60
+----- [Trang 60] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -1589,7 +1584,7 @@ Ghi chú:
 (7) Người được cấp giấy nghỉ phép.
 (8) Chữ viết tắt tên đơn vị soạn thảo và số lượng bản lưu (nếu cần).
 
-TRANG 61
+----- [Trang 61] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 
@@ -1625,7 +1620,7 @@ Ghi chú:
 (7) Tên cơ quan, tổ chức nhận phiếu chuyển văn bản, tài liệu.
 (8) Thông thường, phiếu chuyển không cần lưu nhưng phải được vào sổ đăng ký tại văn thư cơ quan, tổ chức để theo dõi, kiểm tra.
 
-TRANG 62
+----- [Trang 62] -----
 
 CÔNG BÁO/Số 93 + 94 ngày 11-02-2011
 

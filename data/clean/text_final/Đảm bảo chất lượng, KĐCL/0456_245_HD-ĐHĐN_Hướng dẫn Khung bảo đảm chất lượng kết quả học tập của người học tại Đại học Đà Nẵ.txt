@@ -92,7 +92,6 @@ Trên cơ sở chu trình bảo đảm và nâng cao chất lượng kết quả
 [BẢNG HƯỚNG DẪN RÀ SOÁT]
 
 TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện
----|---|---
 1 | Hệ thống văn bản quản lý | - Các văn bản quản lý bao gồm quy định/quy trình/hướng dẫn/công cụ/kế hoạch về quản lý kết quả học tập của người học (NH) qua đánh giá đầu vào, đánh giá quá trình, đánh giá đầu ra CTĐT.
 | | | - Văn bản quản lý cũng bao gồm quy định/quy trình/tài liệu hướng dẫn việc thiết kế các phương pháp đánh giá, xây dựng đề thi phù hợp với phương thức đào tạo và tương thích với CĐR.
 | | | - Có chính sách/quy định/quy trình/hướng dẫn về đánh giá kết quả học tập và phúc khảo kết quả học tập của NH cho tất cả các phương thức đào tạo.
@@ -116,10 +115,7 @@ TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần th
 
 ----- [Trang 6] -----
 
-TRANG 6
-
 TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện
----|---|---
 | | | - Quy trình, thủ tục xét và công nhận tốt nghiệp, thời gian và số lần xét tốt nghiệp trong năm.
 | | | - Việc bảo lưu, công nhận kết quả học tập đã tích lũy đối với sinh viên không tốt nghiệp.
 | | | - Việc cho phép sinh viên hết thời gian học chính quy được chuyển qua học hình thức vừa làm vừa học, đào tạo từ xa theo quy định.
@@ -139,10 +135,9 @@ TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần th
 | | | - Thời gian, quy trình, thủ tục đối với việc đánh giá luận án lần thứ hai.
 3 | Chuẩn đầu ra của chương trình đào tạo | Kết quả học tập của người học bao gồm kết quả đo lường, đánh giá CĐR học phần, CĐR CTĐT, trong đó CĐR CTĐT phù hợp với yêu cầu về năng lực của NH tốt nghiệp quy định trong Khung trình độ
 
-TRANG 7
+----- [Trang 7] -----
 
 TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện
----|---|---
 | (tiếp) | (tiếp) | quốc gia Việt Nam, chuẩn CTĐT của một ngành (hoặc của một nhóm ngành, một lĩnh vực) và quy định hiện hành.
 | | | CĐR của CTĐT bao gồm các CĐR chung liên quan đến kiến thức, kỹ năng phát triển năng lực học tập suốt đời và CĐR chuyên biệt liên quan đến kiến thức và kỹ năng theo yêu cầu của ngành, chuyên ngành.
 | | | Chuẩn đầu ra CTĐT, học phần (HP) được xây dựng đáp ứng nguyên tắc (SMART, WISER...).
@@ -158,10 +153,9 @@ TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần th
 | | | Có bản mô tả CTĐT và các đề cương chi tiết học phần được ban hành ứng với các phiên bản của CTĐT trong đó thể hiện CTĐT được thiết kế và phát triển bảo đảm có lộ trình giúp NH đạt được CĐR.
 | | | Các đề cương chi tiết (ĐCCT) HP có thông tin thể hiện sự đa dạng, phù hợp, và tương thích của các phương pháp đánh giá với CĐR của HP.
 
-TRANG 8
+----- [Trang 8] -----
 
 TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện
----|---|---
 | (tiếp) | (tiếp) | Quy trình xây dựng, phát triển CĐR của CTĐT có thể hiện các bước đối sánh với Khung trình độ quốc gia Việt Nam và chuẩn CTĐT nhóm ngành.
 | | | Hồ sơ xây dựng CĐR có phân tích, đối sánh mức độ phù hợp, gắn kết giữa CĐR của CTĐT với Khung trình độ quốc gia Việt Nam ở trình độ đào tạo cụ thể của CTĐT.
 | | | Có báo cáo phân tích từng CĐR chung và chuyên biệt đáp ứng các yêu cầu của các BLQ bên trong, các BLQ bên ngoài.
@@ -177,10 +171,9 @@ TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần th
 | | | Có các văn bản tổng kết, sơ kết về hiệu quả của các phương pháp kiểm tra, đánh giá được áp dụng trong CTĐT:
 | | | - Báo cáo phân tích các phương pháp đánh giá kết quả học tập của NH thể hiện sự tương thích với CĐR của CTĐT.
 
-TRANG 9
+----- [Trang 9] -----
 
 TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện
----|---|---
 | (tiếp) | (tiếp) | - Báo cáo phân tích đánh giá mức độ tương thích của đề thi với CĐR của CTĐT.
 | | | - Báo cáo phân tích phổ điểm, mức độ phân hóa của đề thi các HP.
 | | | Thực hiện nghiên cứu, phân tích kết quả kiểm tra, đánh giá NH, sự tác động của các hình thức kiểm tra, đánh giá đối với chất lượng và hình thức tuyển chọn NH định kỳ bằng các công cụ hiện đại, hiệu quả.
@@ -197,10 +190,9 @@ TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần th
 | | | Khối lượng tối đa, yêu cầu của các học phần được xét công nhận và chuyển đổi tín chỉ đáp ứng các yêu cầu theo quy định.
 | | | Đơn vị quy định các điều kiện để sinh viên đang học chương trình đào tạo đại học (hoặc trình độ tương đương trở lên) có thể được đăng ký học trước một số học phần của chương trình đào tạo thạc sĩ tại đơn vị.
 
-TRANG 10
+----- [Trang 10] -----
 
 TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện
----|---|---
 | (tiếp) | (tiếp) | Đối với đào tạo Thạc sĩ, đơn vị quy định điều kiện công nhận và chuyển đổi tín chỉ của một số học phần khi đã học một chương trình đào tạo thạc sĩ khác hoặc đã tốt nghiệp một chương trình đào tạo chuyên sâu đặc thù theo quy định.
 8 | Đánh giá và tính điểm học phần | Phương pháp đánh giá, hình thức đánh giá và trọng số của mỗi điểm thành phần được quy định trong đề cương chi tiết của mỗi học phần.
 | | | Số lượng điểm thành phần cần đánh giá của mỗi học phần, thang điểm đánh giá các điểm thành phần đảm bảo đúng theo quy định hiện hành.
@@ -221,7 +213,6 @@ TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần th
 Trang 1 (Trang 11)
 
 | TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện |
-| :--- | :--- | :--- |
 | 10 | Đánh giá, thẩm định luận văn thạc sĩ, học phần tốt nghiệp chương trình thạc sĩ định hướng ứng dụng | Hình thức đánh giá trực tuyến được áp dụng khi bảo đảm sự tin cậy, công bằng và khách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trọng số điểm học phần, trừ luận văn và học phần tốt nghiệp thực hiện theo quy định. |
 | | | Đơn vị xử lý kỷ luật các trường hợp sau: |
 | | | - Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập. |
@@ -243,7 +234,6 @@ Trang 1 (Trang 11)
 Trang 2 (Trang 12)
 
 | TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện |
-| :--- | :--- | :--- |
 | | | - Điều kiện của người hướng dẫn. |
 | | | - Danh sách thành viên, điều kiện các thành viên, điều kiện tổ chức buổi bảo vệ. |
 | | | - Đánh giá lần thứ hai trong trường hợp đề án không đạt yêu cầu. |
@@ -265,7 +255,6 @@ Trang 2 (Trang 12)
 Trang 3 (Trang 13)
 
 | TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện |
-| :--- | :--- | :--- |
 | 12 | Phản hồi kết quả đánh giá | CSĐT thu nhận và xử lý theo quy định ý kiến phản hồi của NH, NH đã tốt nghiệp thông qua nhiều hình thức khác nhau |
 | | | Công khai chính sách/quy định/quy trình/hướng dẫn để đánh giá kết quả học tập và phúc khảo đến NH (trang thông tin điện tử, bản mô tả CTĐT/ĐCCT HP, sổ tay NH, ...) |
 | | | Kết quả đánh giá được phản hồi kịp thời cho NH bảo đảm NH cải thiện việc học tập, phương pháp học tập và kết quả học tập. |
@@ -283,7 +272,6 @@ Trang 3 (Trang 13)
 Trang 4 (Trang 14)
 
 | TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện |
-| :--- | :--- | :--- |
 | 14 | Việc đánh giá kết quả học tập và các quy định về đánh giá kết quả học tập | Thực hiện đánh giá đúng theo quy định/quy trình/hướng dẫn/công cụ về các tiêu chuẩn và thủ tục đánh giá kết quả học tập, xét công nhận kết quả học tập, xét tốt nghiệp. |
 | | | Kế hoạch triển khai đánh giá có thông tin về tiêu chuẩn và thủ tục đánh giá kết quả học tập theo học kỳ, năm học, xét công nhận kết quả học tập, xét tốt nghiệp, có phân công nhiệm vụ của đơn vị, cá nhân tham gia, phương thức triển khai. |
 | | | Có quy định/quy trình định kỳ rà soát hoạt động đánh giá kết quả học tập về sự tương thích của phương pháp đánh giá với CĐR, độ giá trị, độ tin cậy của phương pháp đánh giá, bảng tiêu chí đánh giá (rubrics), khả năng đo lường được mức độ đạt CĐR... |
@@ -302,7 +290,6 @@ Trang 4 (Trang 14)
 Trang 5 (Trang 15)
 
 | TT | Hạng mục BĐCL | Nội dung cần rà soát và hoạt động cần thực hiện |
-| :--- | :--- | :--- |
 | | | - Đã hoàn thành các học phần của chương trình đào tạo và bảo vệ luận văn, đề án đạt yêu cầu. |
 | | | - Có trình độ ngoại ngữ đạt yêu cầu theo chuẩn đầu ra của chương trình đào tạo trước thời điểm xét tốt nghiệp. |
 | | | - Hoàn thành trách nhiệm theo quy định của đơn vị, không bị truy cứu trách nhiệm hình sự và không trong thời gian kỷ luật, đình chỉ học tập. |
@@ -318,7 +305,7 @@ Trang 5 (Trang 15)
 
 ----- [Trang 16] -----
 
-[TRANG 1]
+----- [Trang 1] -----
 
 16
 
@@ -347,14 +334,13 @@ PHÓ GIÁM ĐỐC
 (Đã ký và đóng dấu: ĐẠI HỌC ĐÀ NẴNG)
 PGS. TS. Lê Thành Bắc
 
-[TRANG 2]
+----- [Trang 2] -----
 
 Phụ lục
 HƯỚNG DẪN XÂY DỰNG CHỈ SỐ THỰC HIỆN - PI VÀ CHỈ SỐ THỰC HIỆN CHÍNH - KPI VỀ KẾT QUẢ HỌC TẬP CỦA NGƯỜI HỌC
 (Kèm theo Hướng dẫn số 245/HD-ĐHĐN ngày 23 tháng 01 năm 2026 của Giám đốc Đại học Đà Nẵng)
 
 | TT | Chỉ số thực hiện - PI |
-|---|---|
 | 1 | Điểm trung bình của những học phần mà sinh viên đã học trong một học kỳ |
 | 2 | Điểm trúng tuyển (thang điểm 30) theo ngành đào tạo |
 | 3 | Điểm trúng tuyển trung bình của người học được tuyển |
@@ -378,12 +364,11 @@ HƯỚNG DẪN XÂY DỰNG CHỈ SỐ THỰC HIỆN - PI VÀ CHỈ SỐ THỰC H
 | 21 | Tỷ lệ cạnh tranh trong tuyển sinh (số người đăng ký/chỉ tiêu) |
 | 22 | Tỷ lệ có việc làm phù hợp với chuyên môn và trình độ đào tạo trong 12 tháng kể từ khi tốt nghiệp. |
 
-[TRANG 3]
+----- [Trang 3] -----
 
 2
 
 | TT | Chỉ số thực hiện - PI |
-|---|---|
 | 23 | Tỷ lệ có việc làm phù hợp với chuyên môn và trình độ đào tạo trong 6 tháng kể từ khi tốt nghiệp. |
 | 24 | Tỷ lệ có việc làm trái ngành đào tạo |
 | 25 | Tỷ lệ giữa số luận văn phải thẩm định lại trên tổng số luận văn được đánh giá. |
@@ -409,7 +394,7 @@ HƯỚNG DẪN XÂY DỰNG CHỈ SỐ THỰC HIỆN - PI VÀ CHỈ SỐ THỰC H
 
 Các đơn vị cần xác định đầy đủ các yếu tố sau cho các PI và KPI: Tên chỉ số, Công thức tính, Nguồn thông tin, Trọng số, Đơn vị tính, Giá trị chỉ số theo Kế hoạch và Giá trị chỉ số thực hiện được.
 
-[TRANG 4]
+----- [Trang 4] -----
 
 3
 
@@ -427,7 +412,7 @@ Giá trị chỉ số theo Kế hoạch: Là số hoặc mốc thời gian, th�
 
 Giá trị chỉ số thực hiện được: Là số phản ánh kết quả đạt được của việc thực hiện chỉ tiêu. Ví dụ: 93%.
 
-[TRANG 5]
+----- [Trang 5] -----
 
 ĐẠI HỌC ĐÀ NẴNG
 TRƯỜNG ĐẠI HỌC BÁCH KHOA

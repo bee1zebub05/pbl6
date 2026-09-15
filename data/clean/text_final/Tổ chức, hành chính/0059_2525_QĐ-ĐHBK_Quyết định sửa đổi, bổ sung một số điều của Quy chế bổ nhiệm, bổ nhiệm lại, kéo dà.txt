@@ -89,7 +89,6 @@ Riêng đối với chức vụ Trưởng Bộ môn, Giám đốc các Trung tâ
 13. Sửa đổi mục 6, mục 7 và bổ sung mục 8 Phụ lục 01 như sau:
 
 | STT | Chức vụ | Tiêu chuẩn | Ghi chú |
-|---|---|---|---|
 | 6 | Trưởng các Phòng chức năng, Giám đốc các Trung tâm thuộc; Giám đốc Trung tâm HTSV&QHDN, Giám đốc Viện DPIST | a2, b3, c2 | - Ngoài tiêu chuẩn a2, b3: 
  + Trưởng phòng Khảo thí và Đảm bảo Chất lượng Giáo dục phải có chứng chỉ hoàn thành chương trình đào tạo, bồi dưỡng kiểm định viên theo quy định của Bộ Giáo dục và Đào tạo và đạt c1; 
  + Trưởng phòng phụ trách công tác tổ chức cán bộ, công tác đào tạo, khoa học công nghệ phải có kinh nghiệm giảng dạy ít nhất 5 năm; 
@@ -102,7 +101,6 @@ Riêng đối với chức vụ Trưởng Bộ môn, Giám đốc các Trung tâ
 PHỤ LỤC 3. BẢNG QUY ĐỊNH VỀ HỆ SỐ PHỤ CẤP CHỨC VỤ
 
 | STT | Chức vụ | Hệ số |
-|---|---|---|
 | 1 | Hiệu trưởng, Chủ tịch Hội đồng Trường | 1.0 |
 | 2 | Phó Hiệu trưởng, Phó Chủ tịch Hội đồng Trường | 0.8 |
 | 3 | - Trưởng khoa; Trưởng phòng; 
