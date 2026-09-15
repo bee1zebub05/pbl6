@@ -78,8 +78,44 @@ Kết quả sau khi cứu:
 Không cắt giữa câu: cắt ẩu thì mỗi nửa mất đầu hoặc mất đuôi câu, model hiệu
 đính sẽ "chữa" nó thành một câu khác.
 
+## Khi chia tới từng trang vẫn bị chặn
+
+11 trang của kho trụ được qua ba lượt vá, dù mỗi lượt đều đi đủ bốn model và đều
+đã hạ xuống từng trang. Chúng là **bảng tiêu chí chấm điểm và biểu mẫu phụ lục** —
+đúng loại nội dung khuôn mẫu lặp lại trong nhiều văn bản công khai, nên khớp dữ
+liệu huấn luyện rất mạnh.
+
+Đã loại trừ bằng đo đạc:
+
+| Cách | Kết quả |
+|---|---|
+| 4 model × cả file / từng trang, 3 lượt | trượt |
+| 2 dạng gửi × 3 prompt × 4 model = 24 tổ hợp | trượt |
+| Text layer sẵn có của 11 trang | 0/11 dùng được — 7–8% dấu |
+| Cắt 4 và 6 **dải ngang** | phần lớn `ClientError`, ảnh quá dẹt |
+| **Cắt 2×2** | **10/10 chỗ** |
+
+Cách chạy được là **cắt trang thành 4 góc**. Nguyên tắc vẫn là chia nhỏ — thứ đã
+cứu 68/78 chỗ khi hạ từ cả file xuống từng trang — chỉ đẩy thêm một nấc xuống
+**dưới mức trang**. Một góc bảng không còn là "trang tài liệu hoàn chỉnh" nên
+không còn khớp với cái model đã thuộc.
+
+Đo trên 3 trang × 3 model trước khi áp, mọi mảnh đều trả `STOP`:
+
+| Trang | nguyên trang | cắt 2×2 |
+|---|---|---|
+| `0267` t13 | 0 ký tự | **1.688** |
+| `0373` t40 | 0 | **733** |
+| `0440` t56 | 0 | **511** |
+
+Script: `scripts/cuu_trang_recitation.py`.
+
+**Một hạn chế**: cắt 2×2 xé đôi bảng theo chiều dọc nên một hàng bảng bị tách làm
+hai mảnh. Đã thử giữ nguyên hàng bằng cách cắt dải ngang nhưng API từ chối ảnh quá
+dẹt. Vì vậy mỗi mảnh được dán nhãn vị trí (`[Trang 40 — góc trên-trái]`) để người
+đọc sau không hiểu nhầm là văn bản liền mạch.
+
 ## Còn thiếu
 
 Phần **đổi họ model** khi bị chặn chưa đưa vào `GeminiCorrector` vì lớp này
-hiện gắn với một model duy nhất. Nếu sau này gặp đoạn mà chia nhỏ tới ngưỡng
-vẫn bị chặn thì đó là việc cần làm tiếp.
+hiện gắn với một model duy nhất.

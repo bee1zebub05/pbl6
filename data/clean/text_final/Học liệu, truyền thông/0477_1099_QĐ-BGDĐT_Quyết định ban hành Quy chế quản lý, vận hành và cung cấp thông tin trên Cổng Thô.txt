@@ -1,0 +1,310 @@
+----- [Trang 1] -----
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC BÁCH KHOA
+CÔNG VĂN SỐ: 1099/QĐ-BGDĐT
+Số: 7712
+Ngày: 01/5/2026
+Chuyển:
+Số và ký hiệu: Ban hành Quy chế quản lý, vận hành và cung cấp thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 07 tháng 5 năm 2026
+
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, vận hành và cung cấp thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo
+
+BỘ TRƯỞNG BỘ GIÁO DỤC VÀ ĐÀO TẠO
+
+Căn cứ Luật An toàn thông tin mạng, số 86/2015/QH13 của Quốc hội khóa 13;
+Căn cứ Luật Tiếp cận thông tin, số 104/2016/QH13 của Quốc hội khóa 13;
+Căn cứ Luật Báo chí số 126/2025/QH15 của Quốc hội khóa 15;
+Căn cứ Luật An ninh mạng 2025, số 116/2025/QH15 của Quốc hội khóa 15;
+Căn cứ Văn bản 65/VBHN-VPQH hợp nhất Luật Công nghệ thông tin do Văn phòng Quốc hội ban hành ngày 15/8/2025.
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 42/2022/NĐ-CP ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;
+Căn cứ Chỉ thị 07/CT-TTg ngày 21/3/2023 của Thủ tướng Chính phủ về việc tăng cường công tác truyền thông chính sách;
+Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26/02/2025 của Chính phủ Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;
+Theo đề nghị của Chánh Văn phòng.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này “Quy chế quản lý, vận hành và cung cấp thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo”.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký; thay thế Quyết định số 733/QĐ-BGDĐT ngày 13/3/2017 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế hoạt động Cổng Thông tin điện tử Bộ Giáo dục và Đào tạo.
+
+----- [Trang 2] -----
+Điều 3. Các ông (bà) Chánh Văn phòng, Cục trưởng Cục Khoa học, Công nghệ và Thông tin, Vụ trưởng Vụ Tổ chức Cán bộ, Vụ trưởng Vụ Kế hoạch - Tài chính, Thủ trưởng các đơn vị có liên quan thuộc Bộ, các đơn vị sự nghiệp trực thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.
+
+Nơi nhận:
+- Như Điều 3;
+- Bộ trưởng (để b/c);
+- Các Thứ trưởng (để chỉ đạo t/h);
+- Các đơn vị thuộc, trực thuộc Bộ;
+- Cổng thông tin điện tử Bộ;
+- Lưu: VT, VP (TTTTSK).
+
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+(Đã ký và đóng dấu)
+Lê Quân
+
+----- [Trang 3] -----
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+QUY CHẾ
+QUẢN LÝ, VẬN HÀNH VÀ CUNG CẤP THÔNG TIN TRÊN CỔNG THÔNG TIN ĐIỆN TỬ CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+(Ban hành kèm theo Quyết định số 1099/QĐ-BGDĐT ngày 07 tháng 5 năm 2026 của Bộ trưởng Bộ Giáo dục và Đào tạo)
+
+Chương I
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định việc quản lý, vận hành, duy trì hoạt động, bảo đảm an toàn, an ninh thông tin, cung cấp, cập nhật, khai thác, sử dụng thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Cổng TTĐT Bộ); việc thiết lập, lập, kết nối, tích hợp các trang thông tin điện tử thành phần của các đơn vị thuộc, trực thuộc Bộ trên môi trường mạng.
+2. Quy chế này áp dụng đối với:
+a) Các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo (GDĐT);
+b) Các tổ chức, cá nhân được giao tham gia quản lý, vận hành, cung cấp, cập nhật, biên tập, đăng tải, khai thác, sử dụng thông tin trên Cổng TTĐT Bộ;
+c) Các cơ quan, tổ chức, cơ sở giáo dục, cá nhân khác có liên quan trong trường hợp tham gia cung cấp, khai thác, sử dụng thông tin hoặc tương tác trên Cổng TTĐT Bộ theo quy định của pháp luật.
+
+Điều 2. Vị trí, chức năng của Cổng TTĐT Bộ
+1. Cổng TTĐT Bộ là kênh cung cấp thông tin chính thống, tập trung của Bộ GDĐT trên môi trường mạng; là đầu mối kết nối, tích hợp, chia sẻ thông tin số của Bộ phục vụ công tác quản lý nhà nước, chỉ đạo, điều hành, cung cấp dịch vụ công trực tuyến, truyền thông chính sách và tương tác với tổ chức, cá nhân.
+2. Cổng TTĐT Bộ có các chức năng chủ yếu sau đây:
+a) Cung cấp, công bố thông tin chính thức của Bộ GDĐT theo quy định của pháp luật;
+b) Tuyên truyền, phổ biến chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong lĩnh vực giáo dục và đào tạo;
+c)
+
+----- [Trang 4] -----
+Tích hợp, kết nối thông tin, dữ liệu, dịch vụ công trực tuyến, các ứng dụng số của Bộ GDĐT;
+d) Tiếp nhận, chuyển xử lý, theo dõi, phản hồi ý kiến, kiến nghị, câu hỏi của tổ chức, cá nhân theo phạm vi chức năng, nhiệm vụ của Bộ;
+đ) Tổ chức các hoạt động truyền thông trên môi trường số, đăng tải nội dung đa phương tiện, hỗ trợ lan tỏa thông tin chính thống của Bộ thông qua các nền tảng số theo quy định của pháp luật;
+e) Thực hiện các chức năng khác theo quy định của pháp luật và chỉ đạo của Bộ trưởng.
+3. Cổng TTĐT Bộ hoạt động tại địa chỉ tên miền: https://moet.gov.vn hoặc tên miền khác do cơ quan có thẩm quyền cấp và được Bộ GDĐT quản lý, sử dụng theo quy định.
+
+Điều 3. Nguyên tắc quản lý, vận hành và cung cấp thông tin
+1. Thông tin đăng tải trên Cổng TTĐT Bộ phải bảo đảm đúng chủ trương của Đảng, chính sách, pháp luật của Nhà nước; đúng mục đích, trung thực, khách quan, công khai, minh bạch, đầy đủ, chính xác, kịp thời; phù hợp với chức năng, nhiệm vụ, quyền hạn của Bộ GDĐT và đơn vị cung cấp thông tin.
+2. Việc quản lý, vận hành và cung cấp thông tin trên Cổng TTĐT Bộ phải tuân thủ các quy định của pháp luật về công nghệ thông tin, giao dịch điện tử, báo chí, tiếp cận thông tin, bảo vệ bí mật nhà nước, an toàn thông tin, an ninh mạng, sở hữu trí tuệ và các quy định pháp luật khác có liên quan.
+3. Cổng TTĐT Bộ được quản lý, vận hành theo nguyên tắc tập trung, thống nhất, liên thông, đồng bộ, an toàn, hiệu quả; lấy người sử dụng làm trung tâm; kết hợp chặt chẽ giữa cung cấp thông tin, truyền thông chính sách và hỗ trợ chỉ đạo, điều hành.
+4. Cổng TTĐT Bộ phải đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật, yêu cầu về cấu trúc, bố cục, khả năng kết nối, chia sẻ dữ liệu, hỗ trợ truy cập bằng thiết bị di động, hỗ trợ người khuyết tật tiếp cận, sử dụng công nghệ thông tin và truyền thông theo quy định.
+5. Nghiêm cấm lợi dụng Cổng TTĐT Bộ để cung cấp, truyền đưa, lưu trữ, liên kết hoặc đăng tải thông tin vi phạm pháp luật; thông tin xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân; thông tin giả mạo, sai sự thật, không rõ nguồn gốc; thông tin vi phạm các quy định về bí mật nhà nước, an toàn, an ninh thông tin, sở hữu trí tuệ và các quy định pháp luật có liên quan.
+
+----- [Trang 5] -----
+Điều 4. Kết nối, tích hợp và mở rộng kênh cung cấp thông tin
+1. Cổng TTĐT Bộ được kết nối, tích hợp với Cổng Thông tin điện tử Chính phủ, Cổng Dịch vụ công quốc gia, hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ công của Chính phủ, các cơ sở dữ liệu, hệ thống thông tin, nền tảng số của Bộ và các hệ thống khác theo quy định của pháp luật.
+2. Cổng TTĐT Bộ được hỗ trợ kết nối hoặc mở kênh cung cấp thông tin chính thống của Bộ trên các nền tảng mạng xã hội và nền tảng số khác do cơ quan có thẩm quyền cho phép nhằm mở rộng khả năng tiếp cận, tăng cường tương tác, lan tỏa thông tin, chính sách giáo dục đến người học, nhà giáo, cán bộ quản lý giáo dục, phụ huynh và xã hội.
+3. Việc mở mới, điều chỉnh, nâng cấp các chức năng, giao diện, nền tảng kết nối, chuyên trang, chuyên mục, phiên bản ngôn ngữ nước ngoài hoặc các kênh cung cấp thông tin chính thống trên môi trường mạng phải được thực hiện theo quy định của Bộ và theo quyết định của cấp có thẩm quyền.
+
+Chương II
+QUẢN LÝ, VẬN HÀNH VÀ HẠ TẦNG KỸ THUẬT
+
+Điều 5. Ban Biên tập Cổng TTĐT Bộ
+1. Ban Biên tập Cổng TTĐT Bộ do Bộ trưởng quyết định thành lập.
+2. Thành phần Ban Biên tập gồm:
+a) Trưởng ban là Chánh Văn phòng Bộ;
+b) Các Phó Trưởng ban gồm một Phó Chánh Văn phòng Bộ và đại diện lãnh đạo Cục Khoa học, Công nghệ và Thông tin;
+c) Các thành viên là đại diện lãnh đạo một số đơn vị thuộc, trực thuộc Bộ.
+3. Ban Biên tập làm việc theo chế độ kiêm nhiệm, có Bộ phận Thường trực giúp việc.
+4. Ban Biên tập thực hiện chức năng chỉ đạo, tổ chức cung cấp thông tin và kiểm tra việc tổ chức cung cấp thông tin trên Cổng TTĐT Bộ; có nhiệm vụ, quyền hạn sau:
+a) Lựa chọn, phê duyệt nội dung và chỉ đạo tổ chức cung cấp thông tin trên Cổng TTĐT Bộ;
+b) Chỉ đạo việc tiếp nhận, rà soát, biên tập, đăng tải, cập nhật thông tin; bảo đảm thông tin được cung cấp kịp thời, chính xác, đúng thẩm quyền;
+c) Chủ trì điều phối nội dung truyền thông chính sách, các chuyên đề, chuyên trang, tuyến bài, sản phẩm truyền thông số trên Cổng TTĐT Bộ;
+
+----- [Trang 6] -----
+4
+d) Chỉ đạo việc tiếp nhận, chuyển xử lý, theo dõi, đôn đốc việc trả lời ý kiến, kiến nghị, câu hỏi của tổ chức, cá nhân gửi qua Cổng TTĐT Bộ;
+đ) Đề xuất phương án phát triển, nâng cấp, hoàn thiện Cổng TTĐT Bộ;
+e) Tổ chức kiểm tra, đánh giá định kỳ hoặc đột xuất việc thực hiện Quy chế này;
+g) Thực hiện các nhiệm vụ khác do Bộ trưởng giao.
+5. Trưởng Ban Biên tập chịu trách nhiệm trước Bộ trưởng về hoạt động của Ban Biên tập và Cổng TTĐT Bộ; phân công cụ thể cho các Phó Trưởng ban, thành viên Ban Biên tập và Bộ phận Thường trực.
+Điều 6. Bộ phận Thường trực giúp việc Ban Biên tập
+1. Bộ phận Thường trực giúp việc Ban Biên tập do Chánh Văn phòng Bộ quyết định thành lập hoặc phân công trên cơ sở nhân sự của Trung tâm Truyền thông và Sự kiện (trực thuộc Văn phòng Bộ) và các đơn vị thuộc Văn phòng có liên quan, phối hợp với Cục Khoa học, Công nghệ và Thông tin.
+2. Bộ phận Thường trực trực tiếp tổ chức thực hiện và vận hành hoạt động của Cổng TTĐT Bộ; có trách nhiệm:
+a) Tiếp nhận, tổng hợp, rà soát, biên tập, trình Ban Biên tập phê duyệt và tổ chức đăng tải, cập nhật thông tin trên Cổng TTĐT Bộ;
+b) Tổ chức sản xuất tin, bài, ảnh, video, đồ họa thông tin và các nội dung truyền thông số khác phục vụ hoạt động của Cổng TTĐT Bộ;
+c) Hướng dẫn, đôn đốc các đơn vị cung cấp thông tin đúng nội dung, hình thức, thời hạn theo yêu cầu của Ban Biên tập;
+d) Tổ chức vận hành các chuyên mục, chuyên trang, diễn đàn, mục hỏi - đáp; tiếp nhận, tổng hợp và tham mưu xử lý phản ánh, kiến nghị của tổ chức, cá nhân trên Cổng TTĐT Bộ;
+đ) Theo dõi, tổng hợp, báo cáo Ban Biên tập về tình hình hoạt động của Cổng TTĐT Bộ;
+e) Phối hợp với Cục Khoa học, Công nghệ và Thông tin trong việc duy trì hoạt động kỹ thuật, bảo đảm an toàn, an ninh thông tin của Cổng TTĐT Bộ.
+Điều 7. Trách nhiệm của Cục Khoa học, Công nghệ và Thông tin
+1. Chủ trì quản lý và tổ chức triển khai công tác duy trì, vận hành kỹ thuật đảm bảo an toàn thông tin của Cổng TTĐT Bộ.
+
+----- [Trang 7] -----
+5
+2. Phối hợp với Văn phòng Bộ, Ban Biên tập trong việc nâng cấp, mở rộng chức năng, hoàn thiện giao diện, bảo đảm khả năng kết nối, tích hợp, liên thông các hệ thống thông tin, dịch vụ, dữ liệu của Bộ trên Cổng TTĐT Bộ.
+3. Hướng dẫn, kiểm tra về mặt kỹ thuật đối với các trang thông tin điện tử thành phần của các đơn vị thuộc, trực thuộc Bộ để bảo đảm thống nhất, đồng bộ, an toàn, bảo mật và khả năng kết nối, tích hợp với Cổng TTĐT Bộ.
+4. Chủ trì tổ chức triển khai các hoạt động kỹ thuật phục vụ vận hành Cổng TTĐT Bộ theo quy định của pháp luật để thực hiện các nhiệm vụ sau đây:
+a) Bảo đảm Cổng TTĐT Bộ hoạt động ổn định, liên tục, an toàn, thông suốt; tổ chức giám sát, phát hiện, cảnh báo, ngăn chặn, xử lý sự cố kỹ thuật, sự cố an toàn, an ninh mạng theo quy định.
+b) Thực hiện phân quyền, quản lý tài khoản truy cập, quyền quản trị, quyền sử dụng hệ thống theo đúng chức năng, nhiệm vụ của từng tổ chức, cá nhân; kịp thời thu hồi, vô hiệu hóa tài khoản của tổ chức, cá nhân không còn thẩm quyền sử dụng, theo sự yêu cầu của Ban Biên tập Cổng.
+c) Tổ chức sao lưu dữ liệu, xây dựng phương án dự phòng, khôi phục hệ thống khi xảy ra sự cố; thực hiện kiểm tra, đánh giá, rà soát an toàn thông tin định kỳ hoặc đột xuất theo quy định của pháp luật và quy định nội bộ của Bộ.
+Điều 8. Trách nhiệm của Văn phòng Bộ
+1. Văn phòng Bộ là đơn vị chủ trì tham mưu quản lý nội dung Cổng TTĐT Bộ; tổ chức thực hiện các nhiệm vụ của Ban Biên tập và là đầu mối điều phối hoạt động cung cấp thông tin, truyền thông trên Cổng TTĐT Bộ.
+2. Trung tâm Truyền thông và Sự kiện thuộc Văn phòng Bộ là cơ quan thường trực trực tiếp giúp việc Ban Biên tập, có trách nhiệm:
+a) Quản lý nội dung Cổng TTĐT Bộ;
+b) Tổ chức sản xuất các sản phẩm truyền thông đáp ứng yêu cầu thông tin tuyên truyền về giáo dục và đào tạo;
+c) Theo dõi, đôn đốc, tổng hợp việc cung cấp thông tin của các đơn vị;
+d) Tổ chức, quản lý các chuyên mục, chuyên trang, nội dung truyền thông chính sách, hoạt động tương tác trên Cổng TTĐT Bộ;
+đ) Phối hợp với các đơn vị liên quan trong việc tiếp nhận, chuyển xử lý, công khai kết quả trả lời phản ánh, kiến nghị, câu hỏi của tổ chức, cá nhân theo quy định;
+e) Định kỳ tham mưu Ban Biên tập báo cáo Bộ trưởng về tình hình hoạt động của Cổng TTĐT Bộ.
+
+6
+
+----- [Trang 8] -----
+Điều 9. Quản lý các trang thông tin điện tử thành phần
+1. Các đơn vị thuộc, trực thuộc Bộ khi thiết lập trang thông tin điện tử thành phần phải tuân thủ quy định của pháp luật, quy định của Bộ về quản lý, kết nối, tích hợp dữ liệu, an toàn, an ninh thông tin, cấu trúc, bố cục, nhận diện và nền tảng công nghệ.
+2. Tên miền của trang thông tin điện tử thành phần sử dụng tên miền cấp 4 có dạng: tendonvi.moet.gov.vn hoặc theo quy định thống nhất của Bộ.
+3. Việc thiết lập mới, duy trì, điều chỉnh, nâng cấp hoặc chấm dứt hoạt động của trang thông tin điện tử thành phần được thực hiện theo quyết định của cấp có thẩm quyền sau khi có ý kiến thẩm định, thống nhất của Cục Khoa học, Công nghệ và Thông tin về kỹ thuật, an toàn thông tin và ý kiến của Văn phòng Bộ về nội dung, nhu cầu cung cấp thông tin.
+4. Thủ trưởng đơn vị có trang thông tin điện tử thành phần chịu trách nhiệm trước Bộ trưởng và trước pháp luật về hoạt động của trang thông tin điện tử thành phần thuộc phạm vi quản lý của đơn vị mình.
+Chương III
+CUNG CẤP, CẬP NHẬT VÀ XỬ LÝ THÔNG TIN
+Điều 10. Nội dung thông tin trên Cổng TTĐT Bộ
+1. Thông tin giới thiệu về Bộ GDĐT, bao gồm chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, lãnh đạo Bộ, lịch sử phát triển và các thông tin cần thiết khác.
+2. Thông tin chỉ đạo, điều hành của Lãnh đạo Bộ; các văn bản quy phạm pháp luật, văn bản quản lý, điều hành, chiến lược, quy hoạch, kế hoạch, chương trình, đề án, dự án, nhiệm vụ và các văn bản khác thuộc thẩm quyền công khai theo quy định.
+3. Thông tin về thủ tục hành chính, dịch vụ công trực tuyến, quy trình giải quyết công việc, phản ánh, kiến nghị liên quan đến thủ tục hành chính và việc thực hiện nhiệm vụ quản lý nhà nước của Bộ GDĐT.
+4. Tin tức, sự kiện, hoạt động của ngành giáo dục; hoạt động của các đơn vị thuộc, trực thuộc Bộ; các nội dung tuyên truyền, phổ biến, hướng dẫn thực hiện chính sách, pháp luật trong lĩnh vực giáo dục và đào tạo.
+5. Dự thảo văn bản quy phạm pháp luật và các nội dung cần lấy ý kiến tổ chức, cá nhân theo quy định của pháp luật.
+6. Số liệu thống kê, cơ sở dữ liệu, báo cáo, thông tin chuyên đề, thông tin hợp tác quốc tế, thông tin đối ngoại, thông tin bằng tiếng nước ngoài phục vụ hội nhập quốc tế và các nội dung khác theo chỉ đạo của Bộ trưởng.
+
+7
+
+----- [Trang 9] -----
+7. Nội dung hỏi - đáp, giải đáp chính sách, phản hồi thông tin, đính chính thông tin, kết quả xử lý ý kiến, kiến nghị, phản ánh của tổ chức, cá nhân.
+8. Các chuyên trang, chuyên mục, sản phẩm truyền thông số, nội dung đa phương tiện và các nội dung thông tin khác phục vụ yêu cầu quản lý, chỉ đạo, điều hành và truyền thông chính sách của Bộ GDĐT.
+Điều 11. Ngôn ngữ và hình thức thể hiện thông tin
+1. Ngôn ngữ chính thức sử dụng trên Cổng TTĐT Bộ là tiếng Việt. Căn cứ yêu cầu thực tế, các thông tin cần thiết, quan trọng hoặc phục vụ đối ngoại, hội nhập quốc tế được cung cấp thêm bằng tiếng Anh hoặc ngôn ngữ khác theo quyết định của cấp có thẩm quyền.
+2. Thông tin trên Cổng TTĐT Bộ được thể hiện dưới các hình thức phù hợp, bao gồm văn bản, hình ảnh, âm thanh, video, đồ họa thông tin, tệp dữ liệu điện tử và các hình thức hợp pháp khác.
+3. Nội dung, hình thức thể hiện thông tin phải bảo đảm thuận tiện cho việc truy cập, khai thác, sử dụng; phù hợp với yêu cầu truyền thông.
+Điều 12. Trách nhiệm cung cấp thông tin của các đơn vị thuộc, trực thuộc Bộ
+1. Các đơn vị thuộc, trực thuộc Bộ có trách nhiệm chủ động cung cấp đầy đủ, chính xác, kịp thời các thông tin, dữ liệu thuộc chức năng, nhiệm vụ, quyền hạn của đơn vị để đăng tải trên Cổng TTĐT Bộ phục vụ công tác truyền thông chính sách; tuyên truyền, phổ biến, giáo dục pháp luật và chỉ đạo, điều hành của Bộ.
+2. Thủ trưởng mỗi đơn vị phân công ít nhất một đầu mối chịu trách nhiệm phối hợp với Ban Biên tập và Bộ phận Thường trực trong việc cung cấp, rà soát, cập nhật, đính chính thông tin thuộc phạm vi quản lý của đơn vị.
+3. Đơn vị cung cấp thông tin chịu trách nhiệm trước Bộ trưởng và trước pháp luật về tính chính xác, đầy đủ, kịp thời, hợp pháp, mức độ mật và khả năng công khai của thông tin, dữ liệu do đơn vị mình cung cấp.
+4. Khi có sự thay đổi về thông tin giới thiệu đơn vị, chức năng, nhiệm vụ, cơ cấu tổ chức, đầu mối liên hệ, thủ tục hành chính, văn bản hướng dẫn, dữ liệu chuyên ngành và các thông tin liên quan khác, đơn vị có trách nhiệm thông báo, cung cấp ngay cho Ban Biên tập để cập nhật trên Cổng TTĐT Bộ.
+5. Đơn vị được giao chủ trì soạn thảo văn bản quy phạm pháp luật, đề án, chương trình, kế hoạch hoặc nội dung cần lấy ý kiến có trách nhiệm cung cấp đầy đủ hồ sơ, tài liệu, nội dung, thời hạn lấy ý kiến để đăng tải theo quy định.
+
+----- [Trang 10] -----
+8
+Điều 13. Tiếp nhận, biên tập, phê duyệt và đăng tải thông tin
+1. Thông tin được đăng tải trên Cổng TTĐT Bộ phải được tiếp nhận, rà soát, biên tập, kiểm tra về nội dung, hình thức, thẩm quyền và được phê duyệt trước khi đăng tải, trừ trường hợp pháp luật có quy định khác.
+2. Việc phân cấp thẩm quyền phê duyệt thông tin đăng tải trên Cổng TTĐT Bộ do Trưởng Ban Biên tập quy định phù hợp với tính chất, mức độ quan trọng của từng nhóm thông tin.
+3. Thời gian cập nhật, đăng tải thông tin trên Cổng TTĐT Bộ được thực hiện theo nguyên tắc kịp thời, liên tục, phù hợp với yêu cầu chỉ đạo, điều hành, truyền thông và tính chất của từng loại thông tin; đối với các nhóm thông tin cần xử lý gấp, thông tin thời sự, chỉ đạo điều hành, sự kiện nổi bật hoặc nội dung phục vụ công tác truyền thông chính sách, Ban Biên tập tổ chức cập nhật, đăng tải trong thời gian sớm nhất.
+4. Ban Biên tập ban hành hoặc trình cấp có thẩm quyền ban hành quy trình nội bộ về thời hạn tiếp nhận, biên tập, phê duyệt, đăng tải thông tin; thời hạn tiếp nhận, phân loại, chuyển xử lý và công khai kết quả trả lời đối với phản ánh, kiến nghị, câu hỏi của tổ chức, cá nhân gửi qua Cổng TTĐT Bộ.
+Điều 14. Tiếp nhận, chuyển xử lý và trả lời ý kiến, kiến nghị, câu hỏi của tổ chức, cá nhân
+1. Cổng TTĐT Bộ tổ chức các chuyên mục, chức năng để tiếp nhận phản ánh, kiến nghị, câu hỏi, góp ý của tổ chức, cá nhân theo quy định của pháp luật.
+2. Bộ phận Thường trực giúp việc Ban Biên tập có trách nhiệm tiếp nhận, phân loại, chuyển ý kiến, kiến nghị, câu hỏi đến đơn vị có thẩm quyền xử lý; theo dõi, đôn đốc, tổng hợp kết quả xử lý để đăng tải, phản hồi trên Cổng TTĐT Bộ theo quy định.
+3. Đơn vị được giao chủ trì xử lý có trách nhiệm nghiên cứu, trả lời đầy đủ, rõ ràng, đúng thời hạn; trường hợp nội dung phức tạp, cần kéo dài thời gian xử lý thì phải có thông báo cho Bộ phận Thường trực để thông tin tới tổ chức, cá nhân theo quy định.
+4. Việc trả lời, công khai kết quả xử lý phải bảo đảm đúng thẩm quyền, đúng quy định của pháp luật, không làm lộ bí mật nhà nước, bí mật công tác, thông tin thuộc danh mục hạn chế tiếp cận hoặc các thông tin không được phép công khai.
+Điều 15. Từ chối đăng tải, tạm ẩn, gỡ bỏ và đính chính thông tin
+1. Thông tin thuộc một trong các trường hợp sau đây không được đăng tải trên Cổng TTĐT Bộ:
+
+----- [Trang 11] -----
+a) Thông tin vi phạm quy định của pháp luật;
+
+b) Thông tin thuộc bí mật nhà nước, bí mật công tác hoặc thông tin không được phép công khai;
+
+c) Thông tin sai sự thật, không rõ nguồn gốc, không bảo đảm căn cứ pháp lý hoặc căn cứ thực tiễn;
+
+d) Thông tin không thuộc phạm vi chức năng, nhiệm vụ, quyền hạn của Bộ GDĐT hoặc của đơn vị cung cấp thông tin;
+
+đ) Thông tin trùng lặp, không cần thiết đăng tải hoặc không phù hợp với mục đích, tính chất hoạt động của Cổng TTĐT Bộ;
+
+e) Các trường hợp khác theo quy định của pháp luật.
+
+2. Thông tin đã đăng tải trên Cổng TTĐT Bộ bị tạm ẩn, gỡ bỏ hoặc thay thế khi thuộc một trong các trường hợp sau đây:
+
+a) Có căn cứ xác định thông tin sai sự thật, không chính xác hoặc không còn phù hợp;
+
+b) Có yêu cầu của cơ quan nhà nước có thẩm quyền;
+
+c) Có thay đổi về chính sách, pháp luật, tình trạng hiệu lực của văn bản hoặc yêu cầu quản lý nhà nước;
+
+d) Có nguy cơ gây lộ, lọt thông tin thuộc danh mục bí mật nhà nước, bí mật công tác hoặc ảnh hưởng đến an toàn, an ninh thông tin;
+
+đ) Các trường hợp khác theo quyết định của cấp có thẩm quyền.
+
+3. Việc tạm ẩn, gỡ bỏ, đính chính hoặc thay thế thông tin phải được thực hiện kịp thời, đúng thẩm quyền; trường hợp cần thiết phải đăng tải nội dung đính chính, làm rõ hoặc thông tin thay thế để bảo đảm tính minh bạch, chính xác của thông tin.
+
+Chương IV
+BẢO ĐẢM KINH PHÍ VÀ NHÂN LỰC
+
+Điều 16. Kinh phí hoạt động của Cổng TTĐT Bộ
+
+1. Kinh phí cho hoạt động quản lý, vận hành, duy trì, nâng cấp, bảo đảm an toàn, an ninh thông tin, sản xuất nội dung và các hoạt động khác của Cổng TTĐT Bộ được bảo đảm từ ngân sách nhà nước theo phân cấp ngân sách hiện hành và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật.
+
+2. Việc lập dự toán, quản lý, sử dụng, thanh quyết toán kinh phí cho hoạt động của Cổng TTĐT Bộ được thực hiện theo quy định của pháp luật về ngân sách nhà nước, tài chính, kế toán và các quy định có liên quan.
+
+----- [Trang 12] -----
+3. Văn phòng Bộ chủ trì, phối hợp với Cục Khoa học, Công nghệ và Thông tin và các đơn vị liên quan xây dựng dự toán kinh phí hoạt động hằng năm của Cổng TTĐT Bộ, trình cấp có thẩm quyền phê duyệt theo quy định.
+
+Điều 17. Chế độ nhuận bút, thù lao và phát triển nguồn tin
+
+1. Tổ chức, cá nhân tham gia viết, cung cấp, biên tập, xử lý, sản xuất, đăng tải thông tin, sản phẩm truyền thông trên Cổng TTĐT Bộ được hưởng nhuận bút, thù lao và các chế độ khác theo quy định của pháp luật và quy định của Bộ.
+
+2. Văn phòng Bộ chủ trì, phối hợp với các đơn vị liên quan tham mưu cấp có thẩm quyền ban hành quy định cụ thể về chế độ nhuận bút, thù lao, chi hỗ trợ đối với hoạt động của Cổng TTĐT Bộ.
+
+3. Căn cứ nhu cầu thực tế, Ban Biên tập được tổ chức mạng lưới cộng tác viên, đầu mối thông tin, chuyên gia, cán bộ truyền thông tại các đơn vị thuộc, trực thuộc Bộ và các cơ quan, tổ chức, cơ sở giáo dục có liên quan nhằm nâng cao chất lượng, tính đa dạng và tính kịp thời của nguồn thông tin phục vụ Cổng TTĐT Bộ.
+
+Điều 18. Phát triển nguồn nhân lực
+
+1. Công chức, viên chức, người lao động tham gia quản lý, vận hành, cung cấp, biên tập, đăng tải thông tin và bảo đảm kỹ thuật cho Cổng TTĐT Bộ được đào tạo, bồi dưỡng, cập nhật kiến thức, kỹ năng chuyên môn, nghiệp vụ truyền thông, báo chí, công nghệ thông tin, an toàn, an ninh mạng và các lĩnh vực liên quan theo kế hoạch hằng năm.
+
+2. Văn phòng Bộ chủ trì, phối hợp với Cục Khoa học, Công nghệ và Thông tin và các đơn vị liên quan xây dựng kế hoạch bồi dưỡng, tập huấn, hướng dẫn nghiệp vụ cho đội ngũ làm công tác Cổng TTĐT Bộ và đầu mối cung cấp thông tin của các đơn vị.
+
+Chương V
+TỔ CHỨC THỰC HIỆN
+
+Điều 19. Kiểm tra, đôn đốc, báo cáo và đánh giá việc thực hiện Quy chế
+
+1. Văn phòng Bộ chủ trì, phối hợp với Cục Khoa học, Công nghệ và Thông tin tổ chức hướng dẫn, đôn đốc, kiểm tra việc thực hiện Quy chế này tại các đơn vị thuộc, trực thuộc Bộ.
+
+2. Các đơn vị thuộc, trực thuộc Bộ có trách nhiệm thực hiện chế độ báo cáo định kỳ hoặc đột xuất về tình hình cung cấp, cập nhật thông tin, xử lý phản ánh, kiến nghị, vận hành trang thông tin điện tử thành phần theo yêu cầu của Ban Biên tập.
+
+----- [Trang 13] -----
+3. Ban Biên tập định kỳ 6 tháng, hằng năm hoặc đột xuất báo cáo Bộ trưởng về tình hình hoạt động của Cổng TTĐT Bộ; kiến nghị, đề xuất các giải pháp nâng cao chất lượng, hiệu quả hoạt động của Cổng TTĐT Bộ.
+
+4. Kết quả thực hiện Quy chế này là một trong những căn cứ để xem xét, đánh giá mức độ hoàn thành nhiệm vụ, chấm điểm cải cách hành chính, thi đua, khen thưởng hằng năm đối với các đơn vị và cá nhân có liên quan.
+
+Điều 20. Khen thưởng và xử lý vi phạm
+
+1. Tổ chức, cá nhân có thành tích trong quản lý, vận hành, cung cấp, cập nhật thông tin, bảo đảm an toàn, an ninh thông tin và phát triển Cổng TTĐT Bộ được xem xét khen thưởng theo quy định của pháp luật và quy định của Bộ.
+
+2. Tổ chức, cá nhân vi phạm Quy chế này, cản trở việc cung cấp thông tin, chậm cung cấp thông tin không có lý do chính đáng, cung cấp thông tin sai sự thật, không đúng thẩm quyền, làm lộ bí mật nhà nước, gây mất an toàn, an ninh thông tin hoặc có hành vi vi phạm khác thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật và quy định của Bộ.
+
+Điều 21. Điều khoản thi hành
+
+1. Quy chế này có hiệu lực kể từ ngày Quyết định ban hành có hiệu lực.
+
+2. Chánh Văn phòng Bộ, Cục trưởng Cục Khoa học, Công nghệ và Thông tin, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quy chế này.
+
+3. Trong quá trình tổ chức thực hiện, nếu có khó khăn, vướng mắc, các đơn vị phản ánh về Văn phòng Bộ để tổng hợp, phối hợp với Cục Khoa học, Công nghệ và Thông tin báo cáo Bộ trưởng xem xét, quyết định sửa đổi, bổ sung cho phù hợp./.
+
+----- [Trang 14] -----
+ĐẠI HỌC ĐÀ NẴNG
+TRƯỜNG ĐẠI HỌC BÁCH KHOA
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Đà Nẵng, ngày 08 tháng 05 năm 2026
+
+Quyết định số 1099/QĐ-BGDĐT ngày 07/05/2026 của Bộ Giáo dục và Đào tạo về việc Ban hành Quy chế quản lý, vận hành và cung cấp thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo
+
+Kính chuyển¹: Ban Giám hiệu
+Ý kiến của Ban Giám hiệu²:
+- K.M
+- Các Dự
+
+Thời hạn hoàn thành: ........................................................................................
+
+Ý kiến của lãnh đạo đơn vị chủ trì thực hiện³: ..........................................................................................................................................................................
+Thời hạn hoàn thành: ........................................................................................
+
+Ý kiến của lãnh đạo đơn vị phối hợp thực hiện⁴: ..........................................................................................................................................................................
+Thời hạn hoàn thành: ........................................................................................
+
+Ý kiến đề xuất của người giải quyết⁵: ..........................................................................................................................................................................
+
+*¹ Phần này dành cho Trưởng Phòng TCHC: ghi rõ tên của thành viên Ban Giám hiệu sẽ cho ý kiến chỉ đạo đối với văn bản đến này*
+*² Ý kiến phân phối, chỉ đạo giải quyết của Ban Giám hiệu giao đơn vị, cá nhân chủ trì; các đơn vị, cá nhân tham gia phối hợp giải quyết văn bản đến (nếu có); thời hạn giải quyết đối với mỗi đơn vị, cá nhân (nếu có) và ngày tháng cho ý kiến phân phối, giải quyết, ký tên.*
+*³ Ý kiến phân phối, chỉ đạo giải quyết của lãnh đạo đơn vị, cá nhân chủ trì giao cho cá nhân; thời hạn giải quyết đối với cá nhân (nếu có) và ngày tháng cho ý kiến, ký tên.*
+*⁴ Ý kiến phân phối, chỉ đạo giải quyết của lãnh đạo đơn vị, cá nhân tham gia phối hợp giao cho cá nhân; thời hạn giải quyết đối với cá nhân (nếu có) và ngày tháng cho ý kiến, ký tên.*
+⁵ Ý kiến đề xuất giải quyết văn bản đến của cá nhân và ngày tháng để xuất ý kiến, ký tên.
