@@ -53,21 +53,46 @@ PBL6/
 ├── rules/
 │   └── Ontology.md            ← đặc tả ontology v0.3 (7 node type, 12 quan hệ)
 │
-├── data/
-│   ├── raw/
-│   │   ├── pdf/<lĩnh vực>/*.pdf     ← 501 PDF đã tải
-│   │   └── metadata.csv            ← metadata từ crawler
-│   ├── interim/ocr_pdf/            ← PDF đã OCR (chỉ khi OCR_KEEP_PDF=true)
-│   ├── processed/
-│   │   ├── text_raw/<lĩnh vực>/*.txt   ← text OCR THÔ (để đối chiếu)
-│   │   ├── text_norm/<lĩnh vực>/*.txt  ← đã tiêm số hiệu/ngày + sửa trích dẫn
-│   │   └── text_clean/<lĩnh vực>/*.md  ← text đã Gemini hiệu đính
-│   └── manifest.jsonl              ← 1 dòng JSON / văn bản, gộp mọi metadata
+├── data/                      ← 📖 xem data/README.md để hiểu vòng đời dữ liệu
+│   ├── README.md              ← raw là gì, rụng còn bao nhiêu, qua bước nào
+│   ├── clean/                 ← DATA THẬT TRONG REPO
+│   │   ├── README.md          ← chi tiết kho text_final
+│   │   ├── text_final/        ← 455 văn bản — KHO CHUẨN, dùng cái này
+│   │   └── text_clean_gemma/  ← bản cũ, giữ vì config.py còn trỏ vào
+│   ├── kg/                    ← đầu ra knowledge graph (10 .jsonl + .cypher)
+│   ├── eval/                  ← kết quả đánh giá §6, gom ở BAO_CAO.md
+│   ├── manifest.jsonl         ← 501 dòng JSON, gộp metadata qua mọi bước
+│   ├── raw/                   ← RỖNG trong repo (PDF gốc 2,3 GB, không commit)
+│   ├── interim/               ← RỖNG trong repo
+│   └── processed/             ← RỖNG trong repo (bản OCR trung gian)
 │
 ├── sessions/<tên>/state.db    ← tiến độ từng file, từng bước
 ├── logs/
 └── docs/
 ```
+
+### ⚠ Có hai cây `data/` song song
+
+| | Đường dẫn | Có gì | Trong git? |
+|---|---|---|---|
+| **Bản làm việc** | `PBL6/data/` | `raw/` 2,3 GB PDF · `processed/` 2.186 file | **KHÔNG** |
+| **Bản trong repo** | `PBL6/pbl6/data/` | `clean/` · `kg/` · `eval/` | có |
+
+Repo chỉ chứa **đầu ra đã chốt**. Clone về thấy `data/raw/` và `data/processed/` rỗng
+là **bình thường** — PDF gốc 2,3 GB và các bản OCR trung gian không commit.
+
+Hai bản **không tự đồng bộ**: sửa ở bản làm việc xong phải copy đè sang repo.
+
+### Dữ liệu rụng dần qua từng bước
+
+| Bước | Còn lại | Mất vì sao |
+|---|---|---|
+| Mục lục website `dut.udn.vn` | **475** | — |
+| Tải về được | **460** | −15: máy chủ trả 404 |
+| Loại bản website gắn nhầm file | **455** | −5: sai file so với mục lục |
+| Kho chuẩn `text_final` | **455** | — |
+
+Chi tiết từng thư mục, trạng thái hiện tại và việc còn dở: **[data/README.md](data/README.md)**
 
 ---
 
