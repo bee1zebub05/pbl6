@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật. Chỉ chép phần Quyết định (3 Điều vỏ bọc), không chép nội dung đầy đủ của Quy chế chi tiêu nội bộ kèm theo (rất dài, nhiều bảng định mức) -- để normativeContents rỗng, đây là lựa chọn có chủ đích để giữ mock gọn.",
+  "document": {
+    "documentNumber": "3536/QĐ-ĐHBK",
+    "title": "Về việc ban hành Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/12/2021",
+    "effectiveDate": "01/01/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Tài chính, kế toán"],
+    "summary": "Ban hành Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, áp dụng từ 01/01/2022, theo cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": ["Hiệu trưởng"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "60/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 60/2021/NĐ-CP ngày 21/6/2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập."
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": ["Phòng Kế hoạch Tài chính", "Công đoàn Trường ĐHBK"],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo",
+      "text": "Ban hành kèm theo Quyết định này \"Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa\".",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Quyết định này có hiệu lực thi hành kể từ ngày 01/01/2022.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Trưởng các đơn vị thuộc, trực thuộc và viên chức, người lao động của Trường Đại học Bách khoa căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

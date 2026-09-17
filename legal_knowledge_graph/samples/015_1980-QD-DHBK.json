@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khảo thí/0213_1980_QĐ-ĐHBK_Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trườ.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật. Dòng tiêu đề trong bản OCR bị trống giữa 'QUYẾT ĐỊNH' và 'HIỆU TRƯỞNG...' -- title lấy theo tên file gốc. Một mục Căn cứ thật nhắc tới quan hệ AMENDS giữa HAI văn bản KHÁC (1274/QĐ-ĐHBK sửa đổi 29/QĐ-ĐHBK) -- không gán AMENDS cho văn bản đang xét (1980), chỉ ghi BASED_ON cả hai vì đều được văn bản này viện dẫn làm căn cứ.",
+  "document": {
+    "documentNumber": "1980/QĐ-ĐHBK",
+    "title": "Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "18/07/2019",
+    "effectiveDate": "18/07/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Khảo thí"],
+    "summary": "Ban hành Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": ["Hiệu trưởng"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên."
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc."
+    },
+    {
+      "targetDocumentNumber": "29/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng\"."
+    },
+    {
+      "targetDocumentNumber": "1274/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc Sửa đổi, bổ sung một số điều của \"Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng\"."
+    }
+  ],
+  "mentions": ["Phòng Khảo thí và Đảm bảo chất lượng giáo dục"],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo",
+      "text": "Ban hành kèm theo Quyết định này \"Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trường Đại học Bách khoa - Đại học Đà Nẵng\".",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Quyết định này có hiệu lực từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Trưởng phòng Khảo thí và Đảm bảo chất lượng giáo dục; Trưởng đơn vị, cán bộ viên chức của Trường Đại học Bách khoa và các cơ sở giáo dục đại học thành viên có liên quan; sinh viên và học viên chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": false
+    }
+  ]
+}

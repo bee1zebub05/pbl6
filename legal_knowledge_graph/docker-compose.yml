@@ -1,0 +1,24 @@
+# Container Neo4j THỨ HAI, tách biệt hoàn toàn khỏi container của pipeline
+# tự động (docker run --name neo4j-pbl6 -p 7474:7474 -p 7687:7687 ...).
+# Port/volume/mật khẩu đều khác để không thể vô tình đụng vào graph cũ.
+#
+#   docker compose -f legal_knowledge_graph/docker-compose.yml up -d
+#   docker compose -f legal_knowledge_graph/docker-compose.yml down       # dừng, giữ data
+#   docker compose -f legal_knowledge_graph/docker-compose.yml down -v    # dừng + xoá sạch data
+#
+# Neo4j Browser: http://localhost:7475  (đăng nhập neo4j / xem NEO4J_AUTH dưới)
+
+services:
+  neo4j-lkg:
+    image: neo4j:5
+    container_name: neo4j-pbl6-lkg
+    ports:
+      - "7475:7474" # HTTP Browser (khác cổng 7474 của instance chính)
+      - "7688:7687" # Bolt (khác cổng 7687 của instance chính)
+    environment:
+      - NEO4J_AUTH=neo4j/lkg12345678
+    volumes:
+      - neo4j-pbl6-lkg-data:/data
+
+volumes:
+  neo4j-pbl6-lkg-data:

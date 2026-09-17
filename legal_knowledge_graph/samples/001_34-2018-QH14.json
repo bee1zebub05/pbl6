@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0090_34_2018_QH14_Luật Giáo dục Đại học sửa đổi 2018 34_2018_QH14_388254 (hiệu lực 01_07_2019).txt",
+  "mappedBy": "mock",
+  "note": "Dựa trên văn bản thật (108KB, OCR nhiễu) — chỉ gõ lại 3 Điều đầy đủ, không chép hết mọi khoản sửa đổi bên trong Điều 1/2. AMENDS -> 8/2012/QH13 (Luật Giáo dục đại học gốc, chưa map -> tạo stub).",
+  "document": {
+    "documentNumber": "34/2018/QH14",
+    "title": "Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học",
+    "documentType": "Luật",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "19/11/2018",
+    "effectiveDate": "01/07/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Pháp chế", "Đào tạo"],
+    "summary": "Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học số 08/2012/QH13 (khái niệm cơ sở giáo dục đại học, đại học, đơn vị thành viên/trực thuộc, quyền tự chủ...) và thay thế một số cụm từ trong toàn văn Luật gốc.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Quốc hội",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Kim Ngân",
+      "academicTitle": null,
+      "position": ["Chủ tịch Quốc hội"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "8/2012/QH13",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học số 08/2012/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 74/2014/QH13 và Luật số 97/2015/QH13."
+    }
+  ],
+  "mentions": [],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học",
+      "text": "Sửa đổi, bổ sung Điều 2 (Đối tượng áp dụng), Điều 4 (Giải thích từ ngữ — bổ sung định nghĩa: cơ sở giáo dục đại học, trường đại học, đại học, đơn vị thành viên, đơn vị trực thuộc, đơn vị thuộc, ngành, chuyên ngành, lĩnh vực, quyền tự chủ, trách nhiệm giải trình...) và nhiều điều khác của Luật Giáo dục đại học số 08/2012/QH13.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thay thế, bỏ một số từ, cụm từ tại một số điều, khoản của Luật Giáo dục đại học",
+      "text": "Thay thế từ \"chủ động\" bằng từ \"tự chủ\" tại khoản 2 Điều 8; cụm từ \"viện nghiên cứu khoa học\" bằng cụm từ \"viện hàn lâm, viện\" tại Điều 30; cụm từ \"tự chịu trách nhiệm\" bằng cụm từ \"có trách nhiệm giải trình\" tại điểm d và điểm đ khoản 1 Điều 36, khoản 4 Điều 41 và Điều 53; cụm từ \"Hiệp định ký kết với Nhà nước Việt Nam\" bằng cụm từ \"điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên\" tại khoản 1 Điều 63. Bỏ một số cụm từ tại các Điều 19, 22, 27, 28, 48, 57, 62.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Điều khoản thi hành",
+      "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 07 năm 2019. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018.",
+      "isImplementationClause": true
+    }
+  ]
+}
