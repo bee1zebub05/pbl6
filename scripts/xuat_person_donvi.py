@@ -32,7 +32,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from vanban import config  # noqa: E402
+from vanban.core import config  # noqa: E402
 from vanban.kg.don_vi import org_type, tim_don_vi  # noqa: E402
 from vanban.kg.nguoi_ky import gop_ten_nguoi_ky, tim_nguoi_ky  # noqa: E402
 

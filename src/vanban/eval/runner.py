@@ -12,8 +12,8 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-from .. import config
-from ..pipeline import say
+from ..core import config
+from ..core.console import say
 from ..kg.session import KGSession
 from . import errors, extraction, goldset, retrieval
 

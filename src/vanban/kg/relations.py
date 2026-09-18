@@ -42,8 +42,8 @@ from __future__ import annotations
 import re
 from collections import defaultdict
 
-from ..normalize import deaccent
-from ..pipeline import STOP, say
+from ..core.text import deaccent
+from ..core.console import STOP, say
 from .session import KGSession
 
 # Quan hệ theo §4 Ontology.
@@ -215,7 +215,7 @@ def export(session: KGSession, out_dir=None):
 
     import json
 
-    from .. import config
+    from ..core import config
 
     out_dir = out_dir or config.KG_DIR
     out_dir.mkdir(parents=True, exist_ok=True)

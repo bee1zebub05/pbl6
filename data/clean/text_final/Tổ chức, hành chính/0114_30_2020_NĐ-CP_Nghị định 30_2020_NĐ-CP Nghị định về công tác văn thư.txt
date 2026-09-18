@@ -164,7 +164,7 @@ QUẢN LÝ VĂN BẢN ĐI
 
 1. Cấp số, thời gian ban hành văn bản.
 2. Đăng ký văn bản đi.
-3. Nhân bản, đóng dấu cơ quan, tổ chức, dấu chỉ độ mật, mức độ khẩn, (đối với văn bản giấy); ký số của cơ quan, tổ chức (đối với văn bản điện tử).
+3. Nhân bản, đóng dấu cơ quan, tổ chức, dấu chỉ độ mật, mức độ khẩn (đối với văn bản giấy); ký số của cơ quan, tổ chức (đối với văn bản điện tử).
 4. Phát hành và theo dõi việc chuyển phát văn bản đi.
 5. Lưu văn bản đi.
 
@@ -207,7 +207,7 @@ Văn bản được đăng ký bằng Hệ thống phải được in ra giấy 
 
 a) Văn bản đi được nhân bản theo đúng số lượng được xác định ở phần nơi nhận của văn bản.
 
-b) Việc đóng dấu cơ quan, tổ chức và dấu chỉ độ mật, mức độ khẩn, được thực hiện theo quy định tại Phụ lục I Nghị định này.
+b) Việc đóng dấu cơ quan, tổ chức và dấu chỉ độ mật, mức độ khẩn được thực hiện theo quy định tại Phụ lục I Nghị định này.
 
 2. Ký số của cơ quan, tổ chức đối với văn bản điện tử
 Ký số của cơ quan, tổ chức được thực hiện theo quy định tại Phụ lục I Nghị định này.
@@ -637,7 +637,7 @@ Họ và tên người ký văn bản bao gồm họ, tên đệm (nếu có) v�
 
 d) Hình ảnh, vị trí chữ ký số của người có thẩm quyền là hình ảnh chữ ký của người có thẩm quyền trên văn bản giấy, màu xanh, định dạng Portable Network Graphics (.png) nền trong suốt; đặt canh giữa chức vụ của người ký và họ tên người ký.
 
-đ) Quyền hạn, chức vụ của người ký được trình bày tại ô số 7a Mục IV Phần I Phụ lục này; chức vụ khác của người ký được trình bày tại ô số 7b Mục IV Phần I Phụ lục này, phía trên họ tên của người ký văn bản; các chữ viết tắt quyền hạn như: “TM.”, “Q.", "KT.", "TL.”, “TUQ.” và quyền hạn chức vụ của người ký được trình bày bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm.
+đ) Quyền hạn, chức vụ của người ký được trình bày tại ô số 7a Mục IV Phần I Phụ lục này; chức vụ khác của người ký được trình bày tại ô số 7b Mục IV Phần I Phụ lục này, phía trên họ tên của người ký văn bản; các chữ viết tắt quyền hạn như: “TM.”, “Q.”, “KT.”, “TL.”, “TUQ.” và quyền hạn chức vụ của người ký được trình bày bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm.
 
 Chữ ký của người có thẩm quyền được trình bày tại ô số 7c Mục IV Phần I Phụ lục này.
 
@@ -691,7 +691,7 @@ c) Thông tin chỉ dẫn kèm theo văn bản trên mỗi Phụ lục được 
 
 9
 
-Thông tin chỉ dẫn kèm theo văn bản trên mỗi phụ lục (Kèm theo văn bản số .../....... ngày tháng ....năm ....) được ghi đầy đủ đối với văn bản giấy; đối với văn bản điện tử, không phải điền thông tin tại các vị trí này.
+Thông tin chỉ dẫn kèm theo văn bản trên mỗi phụ lục (Kèm theo văn bản số .../... ngày ... tháng ... năm ...) được ghi đầy đủ đối với văn bản giấy; đối với văn bản điện tử, không phải điền thông tin tại các vị trí này.
 
 d) Đối với Phụ lục cùng tệp tin với nội dung văn bản điện tử, Văn thư cơ quan chỉ thực hiện ký số văn bản và không thực hiện ký số lên Phụ lục.
 
@@ -717,7 +717,7 @@ b) Dấu chỉ mức độ khẩn
 
 Khi soạn thảo văn bản có tính chất khẩn, đơn vị hoặc cá nhân soạn thảo văn bản đề xuất mức độ khẩn trình người ký văn bản quyết định. Tuỳ theo mức độ cần được chuyển phát nhanh, văn bản được xác định độ khẩn theo các mức sau: hoả tốc, thượng khẩn, khẩn.
 
-Con dấu các mức độ khẩn được khắc sẵn hình chữ nhật có kích thước 30 mm x 8 mm, 40 mm x 8 mm và 20 mm x 8 mm, trên đó các từ “HOẢ TỐC”, “THƯỢNG KHẨN” và “KHẨN”, trình bày bằng chữ in hoa, phông chữ Times New Roman, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm và đặt cân đối trong khung hình chữ nhật viền đơn. Dấu chỉ mức độ khẩn được đóng vào ô số 10b Mục IV Phần I Phụ lục này. Mực để đóng dấu chỉ mức độ khẩn dùng màu đỏ tươi.
+Con dấu các mức độ khẩn được khắc sẵn hình chữ nhật có kích thước 30 mm x 8 mm, 40 mm x 8 mm và 20 mm x 8 mm, trên đó các từ “HỎA TỐC”, “THƯỢNG KHẨN” và “KHẨN”, trình bày bằng chữ in hoa, phông chữ Times New Roman, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm và đặt cân đối trong khung hình chữ nhật viền đơn. Dấu chỉ mức độ khẩn được đóng vào ô số 10b Mục IV Phần I Phụ lục này. Mực để đóng dấu chỉ mức độ khẩn dùng màu đỏ tươi.
 
 10
 
@@ -776,28 +776,28 @@ CA
 20-25 mm 
 
 12
-V. MẪU CHỮ VÀ CHI TIẾT TRÌNH BÀY THẺ THỨC VĂN BẢN HÀNH CHÍNH
+V. MẪU CHỮ VÀ CHI TIẾT TRÌNH BÀY THỂ THỨC VĂN BẢN HÀNH CHÍNH
 STT
 Thành phần thể thức 
 và chi tiết trình bày
 Loại chữ Cỡ
 chữ1 Kiểu chữ
-Ví du minh hoa
+Ví dụ minh họa
 Phông chữ Times New Roman Cỡ
 chữ
 1 Quốc hiệu và Tiêu ngữ
-- Quốc hiệu In hoa 12-13 Đứng, đậm CỘNG HOÀ XÃ HỘI CHỦ NGHĨA V IỆT NAM 12
-- Tiêu ngữ In thường 13-14 Đứng, đậm Độc lập - T ự do - Hạnh phúc 13
+- Quốc hiệu In hoa 12-13 Đứng, đậm CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 12
+- Tiêu ngữ In thường 13-14 Đứng, đậm Độc lập - Tự do - Hạnh phúc 13
 - Dòng kẻ bên dưới
 2 Tên cơ quan, tổ chức ban hành văn 
 bản
 - Tên cơ quan, tổ chức chủ quản trực 
-tiếp ỉn hoa 12-13 Đứng BÔ NÔI VU 12
+tiếp In hoa 12-13 Đứng BỘ NỘI VỤ 12
 - Tên cơ quan, tổ chức ban hành văn 
 bản
-In hoa 12-13 Đứng, đậm CỤC VĂN T H Ư VÀ LƯU TR Ữ NHÀ NƯỚC 12
+In hoa 12-13 Đứng, đậm CỤC VĂN THƯ VÀ LƯU TRỮ NHÀ NƯỚC 12
 - Dòng kẻ bên dưới
-3 Số, ký hiệu của văn bản In thường 13 Đứng Số: 15/QĐ-BNV; số : 05/BNV-VP; số: 12/ƯBND-VX 13
+3 Số, ký hiệu của văn bản In thường 13 Đứng Số: 15/QĐ-BNV; Số: 05/BNV-VP; Số: 12/UBND-VX 13
 4 Địa danh và thời gian ban hành văn 
 bản
 In thường 13-14 Nghiêng Hà Nội, ngày 05 tháng 01 năm 2020
@@ -816,35 +816,35 @@ hoặc Quốc hiệu cỡ chữ 12, Tiêu ngữ cỡ chữ 13, địa danh và n
 STT Thành phần thể thức 
 và chi tiết trình bày Loại chữ Cỡ
 chữ Kiểu chữ
-Ví du minh hoa
+Ví dụ minh họa
 Phông chữ Times New Roman Cỡ
 chữ
 b Đối với công văn
 Trích yếu nội dung In thường 12-13 Đứng V/v nâng bậc lương năm 2019 12
-6 Nội dung văn bản In thường 13-14 Đứng Trong cô n g tác chỉ đạo ... 14
+6 Nội dung văn bản In thường 13-14 Đứng Trong công tác chỉ đạo ... 14
 a Gồm phần, chương, mục, tiểu mục, 
 điều, khoản, điểm
-- Từ “Phần”, “Chương” và sổ thứ tự 
-của phần, chương In thường 13-14 Đứng, đậm P h ầ n I Chương I 14
-- Tiêu đề của phần, chương In hoa 13-14 Đứng, đậm QUY ĐINH CHUNG QUY ĐINH CHƯNG 14
-- Từ “Mục” và số thứ tự In thường 13-14 Đứng, đậm M ụ c 1 14
-- Tiêu đê của mục In hoa 13-14 Đứng, đậm QUAN LY VAN BAN 14
-- Từ “Tiểu mục” và số thứ tự In thường 13-14 Đứng, đậm Tiểu m u c 1 14
-- Tiêu đề của tiểu mục In hoa 13-14 Đứng, đậm QUAN LY VAN BAN ĐI 14
-- Điều In thường 13-14 Đứng, đậm Đỉều 1. Bản sao văn bản 14
-- Khoản In thường 13-14 Đứng 1. C ác hình thức ... 14
-- Điểm In thường 13-14 Đứng a) Đôi v ớ i .... 14
+- Từ “Phần”, “Chương” và số thứ tự 
+của phần, chương In thường 13-14 Đứng, đậm Phần I Chương I 14
+- Tiêu đề của phần, chương In hoa 13-14 Đứng, đậm QUY ĐỊNH CHUNG QUY ĐỊNH CHUNG 14
+- Từ “Mục” và số thứ tự In thường 13-14 Đứng, đậm Mục 1 14
+- Tiêu đề của mục In hoa 13-14 Đứng, đậm QUẢN LÝ VĂN BẢN 14
+- Từ “Tiểu mục” và số thứ tự In thường 13-14 Đứng, đậm Tiểu mục 1 14
+- Tiêu đề của tiểu mục In hoa 13-14 Đứng, đậm QUẢN LÝ VĂN BẢN ĐI 14
+- Điều In thường 13-14 Đứng, đậm Điều 1. Bản sao văn bản 14
+- Khoản In thường 13-14 Đứng 1. Các hình thức ... 14
+- Điểm In thường 13-14 Đứng a) Đối với .... 14
 b Gồm phần, mục, khoản, điểm
 - Từ “Phần” và số thứ tự In thường 13-14 Đứng, đậm Phần I 14
-- Tiêu đề của phần In hoa 13-14 Đứng, đậm TỈNH HÌNH THựC HIỆN NHIỆM v ụ ... 14
-- Số thứ tự và tiêu đề của mục In hoa 13-14 Đứng, đậm I. NHỮNG KỂT QUẢ... 14
+- Tiêu đề của phần In hoa 13-14 Đứng, đậm TÌNH HÌNH THỰC HIỆN NHIỆM VỤ ... 14
+- Số thứ tự và tiêu đề của mục In hoa 13-14 Đứng, đậm I. NHỮNG KẾT QUẢ... 14
 - Khoản:
 Trường hợp có tiêu đề In thường 13-14 Đứng, đậm 1. Phạm vi và đối tượng áp dụng 14
 Trường hợp không có tiêu đề In thường 13-14 Đứng 1. Quyết định này có hiệu lực thi hành kể từ ngày... 14
-- Điểm In thường 13-14 Đứng a) Đôi v ớ i.... 14
-7 Chức vụ, họ tên của người có thấm quyền
-- Quyền hạn của người ký In hoa 13-14 Đứng, đậm TM. UY BAN NHAN DAN KT. BÔ TRƯỞNG 14
-- Chức vụ của người ký In hoa 13-14 Đứng, đậm CHU TICH THỨ TRƯỞNG 14
+- Điểm In thường 13-14 Đứng a) Đối với.... 14
+7 Chức vụ, họ tên của người có thẩm quyền
+- Quyền hạn của người ký In hoa 13-14 Đứng, đậm TM. ỦY BAN NHÂN DÂN KT. BỘ TRƯỞNG 14
+- Chức vụ của người ký In hoa 13-14 Đứng, đậm CHỦ TỊCH THỨ TRƯỞNG 14
 - Họ tên của người ký In thường 13-14 Đứng, đậm Nguyễn Văn A Trần Văn B 14 
 
 14
@@ -854,44 +854,44 @@ chữ Kiểu chữ
 Ví dụ minh họa
 Phông chữ Times New Roman Cỡ
 chữ
-8 Nơi nhân
-a Từ “Kính gửi” và tên cơ quan, tô 
+8 Nơi nhận
+a Từ “Kính gửi” và tên cơ quan, tổ 
 chức, cá nhân nhận văn bản
 In thường 13-14 Đứng 14
 - Gửi một nơi Kính gửi: Bộ Nội vụ 14
 - Gửi nhiều nơi Kính gửi:
 - Bộ Nội vụ;
-- Bộ K ế hoạch và Đầu tư;
-- Bô Tài chính.
+- Bộ Kế hoạch và Đầu tư;
+- Bộ Tài chính.
 14
 b Từ “Nơi nhận” và tên cơ quan, tổ 
 chức, cá nhân nhận văn bản
 - Từ “Nơi nhận” In thường 12 Nghiêng, đậm Nơi nhận: Nơi nhận: (đối với công văn) 12
 - Tên cơ quan, tổ chức, cá nhân nhận 
 văn bản
-In thường 11 Đứng - Các bộ, cơ quan ngang bộ,
+In thường 11 Đứng - Các bộ, cơ quan ngang bộ;
 - Lưu: VT, TCCB.
-- Như ừên;
+- Như trên;
 - Lưu: VT, NVĐP.
 11
-9 Phu luc vãn bản
+9 Phụ lục văn bản
 - Từ “Phụ lục” và số thứ tự của phụ 
-luc In thường 14 Đứng, đậm
+lục In thường 14 Đứng, đậm
 Phụ lục I 14
 - Tiêu đề của phụ lục In hoa 13-14 Đứng, đậm BẢNG CHỮ VIẾT TẮT 14
 10 Dấu chỉ mức độ khẩn In hoa 13-14 Đứng, đậm HỎA TỐC THƯỢNG KHẨN KHẨN 13
-11 Ký hiệu người soạn thảo vãn bản và 
+11 Ký hiệu người soạn thảo văn bản và 
 số lượng bản phát hành
 In thường 11 Đứng PL.(300) 11
 12 Địa chỉ cơ quan, tổ chức; thư điện tử; 
 trang thông tin điện tử; số điện thoại; 
 số Fax
-In thường 11 -12 Đứng
-Đ T :.................................... . Fax:....................................................
+In thường 11-12 Đứng
+ĐT:..................................... Fax:....................................................
 E-Mail:................................ Website:.................................................
 11
-13 Chỉ dẫn về phạm vi lưu hành In hoa 13-14 Đứng, đậm XEM XONG TRẢ LẠI LƯU HÀNH NỘI Bộ 13
-14 Sô trang In thường 13-14 Đứng 2, 7, 13 14 
+13 Chỉ dẫn về phạm vi lưu hành In hoa 13-14 Đứng, đậm XEM XONG TRẢ LẠI LƯU HÀNH NỘI BỘ 13
+14 Số trang In thường 13-14 Đứng 2, 7, 13 14 
 
 15
 Phần II
@@ -909,7 +909,7 @@ a) Vị trí: Góc trên, bên phải, trang đầu của văn bản, trình bà
 Mục IV Phần I Phụ lục này.
 b) Hình ảnh chữ ký số của cơ quan, tổ chức: Không hiển thị.
 c) Thông tin: Hình thức sao, tên cơ quan, tổ chức sao văn bản, thời gian 
-ký (ngày tháng năm; giờ phút giây; múi giờ Việt Nam theo tiêu chuân 
+ký (ngày tháng năm; giờ phút giây; múi giờ Việt Nam theo tiêu chuẩn 
 ISO 8601) được trình bày bằng phông chữ Times New Roman, chữ in thường, 
 kiểu chữ đứng, cỡ chữ 10, màu đen.
 II. BẢN SAO SANG ĐỊNH DẠNG GIẤY
@@ -919,7 +919,7 @@ b) Tên cơ quan, tổ chức sao văn bản.
 c) Số, ký hiệu bản sao bao gồm số thứ tự đăng ký (được đánh chung cho 
 các loại bản sao do cơ quan, tổ chức thực hiện) và chữ viết tắt tên loại bản sao 
 theo Bảng chữ viết tắt và mẫu trình bày văn bản, bản sao văn bản tại Mục I 
-Phụ lục III Nghị định này. số được ghi bằng chữ số Ả Rập, bắt đầu liên tiếp 
+Phụ lục III Nghị định này. Số được ghi bằng chữ số Ả Rập, bắt đầu liên tiếp 
 từ số 01 vào ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm.
 d) Địa danh và thời gian sao văn bản.
 đ) Chức vụ, họ tên và chữ ký của người có thẩm quyền sao văn bản.
@@ -1462,7 +1462,7 @@ TÊN CƠ QUAN, TỔ CHỨC²
 Số: ..../GM-...³... 
 ⁴......., ngày ...... tháng ...... năm ......
 
-GIÁY MỜI
+GIẤY MỜI
 ⁵
 ..................................................
 

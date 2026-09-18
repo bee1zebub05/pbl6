@@ -89,7 +89,7 @@ a)
 ----- [Trang 5] -----
 Mức độ gắn với chức năng, nhiệm vụ chính của đơn vị: Vị trí việc làm thực hiện trực tiếp chức năng, nhiệm vụ chuyên môn của đơn vị được xác định là vị trí việc làm chuyên môn, nghiệp vụ; vị trí việc làm tạo ra sản phẩm phục vụ hoạt động quản lý, điều hành hoặc bảo đảm điều kiện hoạt động chung của đơn vị được xác định là vị trí việc làm hỗ trợ.
 b) Tính chất của sản phẩm đầu ra: Vị trí việc làm tạo ra sản phẩm chuyên ngành, có giá trị chuyên môn độc lập và được sử dụng trực tiếp trong việc thực hiện chức năng, nhiệm vụ của đơn vị được xác định là vị trí việc làm chuyên môn, nghiệp vụ; vị trí việc làm tạo ra sản phẩm phục vụ nội bộ hoặc hỗ trợ quá trình hoạt động của đơn vị được xác định là vị trí việc làm hỗ trợ.
-c) Yêu cầu về năng lực chuyên ngành: Vị trí việc làm đòi hỏi kiến thức, kỹ năng chuyên môn sâu, đáp ứng tiêu chuẩn chức danh nghề nghiệp, tiêu chuẩn chuyên môn hoặc điều kiện hành nghề theo quy định của pháp luật được xác định là vị trí việc làm chuyên môn, nghiệp vụ; vị trí việc làm chủ yếu yêu cầu kiến thức, kỹ năng nghiệp vụ dụng chung, có thể áp dụng ở nhiều lĩnh vực khác nhau được xác định là vị trí việc làm hỗ trợ.
+c) Yêu cầu về năng lực chuyên ngành: Vị trí việc làm đòi hỏi kiến thức, kỹ năng chuyên môn sâu, đáp ứng tiêu chuẩn chức danh nghề nghiệp, tiêu chuẩn chuyên môn hoặc điều kiện hành nghề theo quy định của pháp luật được xác định là vị trí việc làm chuyên môn, nghiệp vụ; vị trí việc làm chủ yếu yêu cầu kiến thức, kỹ năng nghiệp vụ dùng chung, có thể áp dụng ở nhiều lĩnh vực khác nhau được xác định là vị trí việc làm hỗ trợ.
 d) Vai trò trong quy trình thực hiện chức năng, nhiệm vụ của đơn vị: Vị trí việc làm tham gia trực tiếp vào quá trình tạo ra sản phẩm, dịch vụ cốt lõi của đơn vị được xác định là vị trí việc làm chuyên môn, nghiệp vụ; vị trí việc làm có chức năng bảo đảm, phục vụ hoặc hỗ trợ quá trình đó được xác định là vị trí việc làm hỗ trợ.
 5. Trường hợp pháp luật chuyên ngành có quy định danh mục vị trí việc làm viên chức thuộc ngành, lĩnh vực thì thực hiện theo quy định của pháp luật chuyên ngành.
 
@@ -179,7 +179,7 @@ Tỷ lệ ở các bậc thấp hơn còn lại là tỷ lệ còn lại ở v�
 
 c) Trường hợp vị trí việc làm chỉ xác định sử dụng 2 bậc nghề nghiệp thì tỷ lệ ở bậc cao hơn không vượt quá 50% tổng số biên chế viên chức được cấp có thẩm quyền giao cho vị trí việc làm đó.
 
-3. Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chi đầu tư; đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên; đơn vị sự nghiệp công lập là tổ chức khoa học và công nghệ công lập hoặc trường hợp khác theo quy định của pháp luật chuyên ngành được quyết định vị trí việc làm thi đơn vị sự nghiệp công lập được quyết định tỷ lệ viên chức bố trí theo bậc nghề nghiệp của vị trí việc làm khác với tỷ lệ quy định tại khoản 2 Điều này phù hợp với yêu cầu hoạt động và khả năng tài chính của đơn vị sự nghiệp công lập.
+3. Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chi đầu tư; đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên; đơn vị sự nghiệp công lập là tổ chức khoa học và công nghệ công lập hoặc trường hợp khác theo quy định của pháp luật chuyên ngành được quyết định vị trí việc làm thì đơn vị sự nghiệp công lập được quyết định tỷ lệ viên chức bố trí theo bậc nghề nghiệp của vị trí việc làm khác với tỷ lệ quy định tại khoản 2 Điều này phù hợp với yêu cầu hoạt động và khả năng tài chính của đơn vị sự nghiệp công lập.
 
 4. Tỷ lệ viên chức bố trí theo bậc nghề nghiệp của vị trí việc làm không áp dụng đối với những vị trí việc làm không xác định bậc hoặc chỉ có duy nhất một bậc.
 
@@ -316,7 +316,7 @@ b) Bố trí viên chức vào vị trí việc làm theo danh mục vị trí v
 Trường hợp viên chức được tuyển dụng từ ngày 01 tháng 7 năm 2026 trở đi nhưng đơn vị sự nghiệp chưa được phê duyệt vị trí việc làm theo quy định tại Nghị định này thì chậm nhất đến ngày 01 tháng 7 năm 2027 phải hoàn thành việc phê duyệt vị trí việc làm và bố trí viên chức vào vị trí việc làm được phê duyệt theo quy định tại Nghị định này.
 2. Sau khi cơ quan, đơn vị có thẩm quyền phê duyệt vị trí việc làm theo quy định tại Nghị định này, viên chức chuyển từ chức danh nghề nghiệp đang giữ sang bậc nghề nghiệp của vị trí việc làm như sau:
 a) Viên chức giữ chức danh nghề nghiệp xếp lương viên chức loại B được chuyển vào bậc 1 của vị trí việc làm và tiếp tục xếp lương theo bậc, hệ số lương viên chức loại B đang hưởng.
-Trường hợp tiêu chuẩn chức danh nghề nghiệp theo quy định tại Thông tư đã ban hành trước ngày Nghị định này có hiệu lực thi hành được cơ quan có thẩm quyền điều chỉnh theo hướng nâng trình độ đào tạo tạo từ trung cấp lên cao đẳng (tương ứng viên chức loại A0), mà viên chức chưa đáp ứng yêu cầu về trình độ đào tạo theo quy định mới và đang trong thời gian thực hiện chuẩn hóa, thì được xếp vào bậc 1 của vị trí việc làm và tiếp tục hưởng lương theo bậc, hệ số lương viên chức loại B đang hưởng. Sau khi đáp ứng yêu cầu về trình độ đào tạo theo tiêu chuẩn chức danh nghề nghiệp, viên chức chuyển vào bậc 2 của vị trí việc làm tương ứng và áp dụng bảng lương viên chức loại A0; việc chuyển xếp lương từ loại B sang loại A0 thực hiện theo quy định của pháp luật hiện hành.
+Trường hợp tiêu chuẩn chức danh nghề nghiệp theo quy định tại Thông tư đã ban hành trước ngày Nghị định này có hiệu lực thi hành được cơ quan có thẩm quyền điều chỉnh theo hướng nâng trình độ đào tạo từ trung cấp lên cao đẳng (tương ứng viên chức loại A0), mà viên chức chưa đáp ứng yêu cầu về trình độ đào tạo theo quy định mới và đang trong thời gian thực hiện chuẩn hóa, thì được xếp vào bậc 1 của vị trí việc làm và tiếp tục hưởng lương theo bậc, hệ số lương viên chức loại B đang hưởng. Sau khi đáp ứng yêu cầu về trình độ đào tạo theo tiêu chuẩn chức danh nghề nghiệp, viên chức chuyển vào bậc 2 của vị trí việc làm tương ứng và áp dụng bảng lương viên chức loại A0; việc chuyển xếp lương từ loại B sang loại A0 thực hiện theo quy định của pháp luật hiện hành.
 
 ----- [Trang 14] -----
 14
@@ -326,7 +326,7 @@ d) Viên chức giữ chức danh nghề nghiệp xếp lương viên chức lo�
 đ) Viên chức giữ chức danh nghề nghiệp xếp lương viên chức loại A3, gồm nhóm 1 (A3.1) và nhóm 2 (A3.2) chuyển vào bậc 5 của vị trí việc làm và thực hiện xếp lương như sau: Trường hợp đang xếp lương theo bậc, hệ số lương viên chức loại A3, nhóm 1 (A3.1) thì tiếp tục xếp lương theo bậc, hệ số lương đang xếp ở viên chức loại A3, nhóm 1 (A3.1); trường hợp đang xếp lương theo bậc, hệ số lương viên chức loại A3, nhóm 2 (A3.2) thì thực hiện chuyển xếp lương vào viên chức loại A3, nhóm 1 (A3.1) theo quy định của pháp luật hiện hành.
 Sau khi bố trí vào bậc nghề nghiệp của vị trí việc làm, trường hợp có số lượng thực tế vượt quá tỷ lệ viên chức bố trí theo bậc nghề nghiệp của vị trí việc làm theo quy định tại Nghị định này đã được cấp có thẩm quyền phê duyệt thì cơ quan, đơn vị có thẩm quyền thực hiện sắp xếp, bố trí để bảo đảm sau ngày 01 tháng 7 năm 2027 thực hiện đúng tỷ lệ theo quy định. Trong thời gian này, không thực hiện việc thay đổi bậc nghề nghiệp hoặc thực hiện việc tuyển dụng, tiếp nhận vào làm viên chức đối với vị trí việc làm và bậc nghề nghiệp của vị trí việc làm đã vượt tỷ lệ theo quy định.
 3. Trường hợp pháp luật chuyên ngành có hướng dẫn về danh mục vị trí việc làm, hướng dẫn việc xếp lương đối với viên chức thuộc ngành, lĩnh vực có nội dung khác với quy định tại Nghị định này thì thực hiện theo hướng dẫn của pháp luật chuyên ngành.
-4. Đối với các vị trí việc làm thuộc ngành, lĩnh vực quy định tại Phụ lục III ban hành kèm theo Nghị định này (vị trí kế toán trưởng hoặc phụ trách kế toán) không áp dụng bậc nghề nghiệp thi bộ quản lý ngành, lĩnh vực có trách nhiệm chủ trì, phối hợp với các cơ quan có liên quan hướng dẫn cụ thể việc xếp lương đối với các vị trí việc làm này.
+4. Đối với các vị trí việc làm thuộc ngành, lĩnh vực quy định tại Phụ lục III ban hành kèm theo Nghị định này (vị trí kế toán trưởng hoặc phụ trách kế toán) không áp dụng bậc nghề nghiệp thì bộ quản lý ngành, lĩnh vực có trách nhiệm chủ trì, phối hợp với các cơ quan có liên quan hướng dẫn cụ thể việc xếp lương đối với các vị trí việc làm này.
 5. Trường hợp cấp có thẩm quyền ban hành chế độ tiền lương mới theo vị trí việc làm thì việc chuyển xếp lương đối với viên chức được thực hiện theo quy định và hướng dẫn của cơ quan có thẩm quyền.
 
 ----- [Trang 15] -----
@@ -403,7 +403,6 @@ DANH MỤC VỊ TRÍ VIỆC LÀM VIÊN CHỨC CHUYÊN MÔN, NGHIỆP VỤ TRONG 
 | 16 | 3 | Bảo vệ thực vật | Bậc 1 đến bậc 4 | |
 | 17 | 4 | Giám định thuốc bảo vệ thực vật | Bậc 1 đến bậc 4 | |
 | 18 | 5 | Kiểm dịch thực vật sau nhập khẩu | Bậc 1 đến bậc 4 | |
-|
 
 ----- [Trang 18] -----
 19 | 6 | Giám định kiểm dịch thực vật | Bậc 1 đến bậc 4 | |
@@ -430,7 +429,6 @@ DANH MỤC VỊ TRÍ VIỆC LÀM VIÊN CHỨC CHUYÊN MÔN, NGHIỆP VỤ TRONG 
 | 40 | 27 | Phân tích thí nghiệm | Bậc 1 đến bậc 4 | |
 | 41 | 28 | Quản lý, vận hành cảng cá, bến cá, khu neo đậu tránh trú bão cho tàu cá, khu bảo tồn biển | Bậc 1 đến bậc 4 | |
 | IV | | NGÀNH, LĨNH VỰC XÂY DỰNG | | |
-|
 
 ----- [Trang 19] -----
 42 | 1 | Kiến trúc sư | Bậc 3 đến bậc 5 | |
@@ -510,7 +508,6 @@ Trang 1 (Trang 5 của tài liệu)
 
 Trang 2 (Trang 6 của tài liệu)
 
-|
 
 ----- [Trang 22] -----
 TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
@@ -542,7 +539,6 @@ TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
 
 Trang 3 (Trang 7 của tài liệu)
 
-|
 
 ----- [Trang 23] -----
 TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
@@ -598,7 +594,6 @@ Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
 
 Trang 5 (Trang 9 của tài liệu)
 
-|
 
 ----- [Trang 25] -----
 TT | Tên vị trí việc làm | Bậc nghề nghiệp sử dụng | Ghi chú |
@@ -699,7 +694,7 @@ Trường hợp pháp luật chuyên ngành có quy định về chuẩn nghề 
 
 4. Việc phát triển, mở rộng phạm vi, mức độ phức tạp của công việc phải được thể hiện thông qua bậc nghề nghiệp của vị trí việc làm; không được sử dụng để hình thành vị trí việc làm.
 
-5. Bản mô tả công việc và khung năng lực vị trí việc làm phải xác định rõ công việc, kết quả, sản phẩm đầu ra, có tiêu chí đánh giá do lường được, gắn bậc nghề nghiệp của vị trí việc làm; làm căn cứ để tuyển dụng, bố trí, sử dụng, đánh giá, xếp loại chất lượng, thay đổi bậc nghề nghiệp của vị trí việc làm và thực hiện các nội dung sử dụng, quản lý viên chức.
+5. Bản mô tả công việc và khung năng lực vị trí việc làm phải xác định rõ công việc, kết quả, sản phẩm đầu ra, có tiêu chí đánh giá đo lường được, gắn bậc nghề nghiệp của vị trí việc làm; làm căn cứ để tuyển dụng, bố trí, sử dụng, đánh giá, xếp loại chất lượng, thay đổi bậc nghề nghiệp của vị trí việc làm và thực hiện các nội dung sử dụng, quản lý viên chức.
 
 6. Viên chức được bố trí vào bậc nghề nghiệp nào: Thực hiện công việc của bậc đó; đạt kết quả, sản phẩm theo yêu cầu; đáp ứng đầy đủ yêu cầu năng lực của bậc nghề nghiệp được bố trí. Công việc, sản phẩm, tiêu chí đánh giá giữa các
 
@@ -708,7 +703,7 @@ bậc nghề nghiệp phải thể hiện rõ sự khác biệt về mức độ
 
 7. Mẫu bản mô tả công việc và khung năng lực của vị trí việc làm được sử dụng thống nhất; mỗi vị trí việc làm sử dụng một bản mô tả công việc và khung năng lực của vị trí việc làm; một bản mô tả có nhiều bậc nghề nghiệp của vị trí việc làm; công việc ở bậc nghề nghiệp nào thì kết quả sản phẩm đầu ra phải tương ứng bậc nghề nghiệp đó và cấp độ năng lực không thấp hơn bậc nghề nghiệp được bố trí.
 
-8. Đối với vị trí việc làm quản lý có từ 02 người trở lên đảm nhiệm, chỉ xây dựng một bản mô tả công việc và khung năng lực thông nhất; không xây dựng nhiều bản mô tả công việc khác nhau cho cùng một vị trí việc làm nếu không có sự khác biệt về chuyên môn đảm nhiệm. Việc phân công phụ trách lĩnh vực, công việc cụ thể giữa các cá nhân chỉ là căn cứ để tổ chức thực hiện công việc, không phải là căn cứ để xác định vị trí việc làm.
+8. Đối với vị trí việc làm quản lý có từ 02 người trở lên đảm nhiệm, chỉ xây dựng một bản mô tả công việc và khung năng lực thống nhất; không xây dựng nhiều bản mô tả công việc khác nhau cho cùng một vị trí việc làm nếu không có sự khác biệt về chuyên môn đảm nhiệm. Việc phân công phụ trách lĩnh vực, công việc cụ thể giữa các cá nhân chỉ là căn cứ để tổ chức thực hiện công việc, không phải là căn cứ để xác định vị trí việc làm.
 
 9. Đơn vị sự nghiệp công lập thực hiện việc xây dựng bản mô tả công việc và khung năng lực vị trí việc làm, trong đó thể hiện công việc, năng lực cụ thể tương ứng theo bậc nghề nghiệp của vị trí việc làm được sử dụng tại đơn vị.
 
@@ -757,7 +752,7 @@ Xác định được sản phẩm, kết quả đầu ra.
 Không mô tả chung chung, không sao chép chức năng của đơn vị, không trùng lặp với mô tả công việc.
 
 3. Khi mô tả công việc chuyên môn
-a) Công việc chuyên môn được viết theo công thức: Động từ + nội dung công việc + mức độ xử lý + trách nhiệm thực hiện (ví dụ: “Xây dựng kế hoạch đào tạo hàng năm theo quy định của Bộ... và chịu trách nhiệm về chất lượng kế hoạch”); không viết chung chung như “Thực hiện nhiệm vụ chuyên môn”.
+a) Công việc chuyên môn được viết theo công thức: Động từ + nội dung công việc + mức độ xử lý + trách nhiệm thực hiện (ví dụ: “Xây dựng kế hoạch đào tạo hằng năm theo quy định của Bộ... và chịu trách nhiệm về chất lượng kế hoạch”); không viết chung chung như “Thực hiện nhiệm vụ chuyên môn”.
 
 4
 
@@ -789,7 +784,7 @@ d) Sản phẩm, kết quả đầu ra cụ thể của nhiệm vụ, kiểm ch�
 ----- [Trang 33] -----
 5
 
-d) Công việc, sản phẩm, kết quả đầu ra (đơn vị lựa chọn, điều chỉnh phù hợp với thực tế):
+đ) Công việc, sản phẩm, kết quả đầu ra (đơn vị lựa chọn, điều chỉnh phù hợp với thực tế):
 
 Nhóm công việc phổ biến: Xây dựng kế hoạch; tổ chức triển khai; kiểm tra, đánh giá; tổng hợp, báo cáo; đề xuất, cải tiến.
 
@@ -852,15 +847,15 @@ I. THÔNG TIN CHUNG
 ...........................................................................................................................................
 4. Lĩnh vực hoạt động: (Là nội dung cụ thể hóa phạm vi chuyên môn, lĩnh vực công tác của vị trí việc làm trong đơn vị; không phải là tên vị trí việc làm và không thay thế tên vị trí việc làm trong danh mục vị trí việc làm của đơn vị đã được phê duyệt)........................................................................................................................
 5. Đơn vị: ....................................................................................................................
-6. Cấp quản lý: ............................................................................................................
-7. Vị trí việc làm liên quan: ........................................................................................
-8. Số lượng người đảm nhiệm vị trí việc làm (nếu có): ............................................
+6. Cấp quản lý: .................................................................................................           
+7. Vị trí việc làm liên quan: .................................................................................       
+8. Số lượng người đảm nhiệm vị trí việc làm (nếu có): .................................           
 
 II. MỤC TIÊU VỊ TRÍ VIỆC LÀM
 (Viết theo công thức: Động từ + Đối tượng + Kết quả cuối cùng; gắn với chức năng, nhiệm vụ của đơn vị; không mô tả nhiệm vụ cụ thể của vị trí việc làm.)
-...........................................................................................................................................
-...........................................................................................................................................
-...........................................................................................................................................
+................................................................................................................................           
+................................................................................................................................           
+................................................................................................................................           
 
 III. CÔNG VIỆC, KẾT QUẢ, SẢN PHẨM CHUYÊN MÔN
 (Mô tả các công việc thực hiện theo quy định của pháp luật chuyên ngành, pháp luật có liên quan, chức năng, nhiệm vụ của đơn vị liên quan đến mục tiêu của vị trí việc làm. Viên chức sau khi được bố trí vào bậc nghề nghiệp của vị trí việc làm phải thực hiện công việc và có kết quả sản phẩm theo yêu cầu của bậc được bố trí.)
@@ -873,7 +868,7 @@ III. CÔNG VIỆC, KẾT QUẢ, SẢN PHẨM CHUYÊN MÔN
 | Bậc 2 | Thực hiện công việc theo quy trình; làm việc độc lập trong phạm vi được giao | Hồ sơ chuyên môn hoàn chỉnh; sản phẩm dịch vụ đạt chuẩn kỹ thuật (báo cáo chuyên môn, kết quả xử lý nghiệp vụ...) | Đầy đủ, chính xác, tuân thủ tiêu chuẩn chuyên môn |
 | Bậc 3 | Thực hiện công việc có mức độ phức tạp trung bình; phân tích, tổng hợp thông tin, xử lý các tình huống thông thường | Kết quả xử lý chuyên môn hoàn chỉnh; báo cáo phân tích; phương án xử lý tình huống | Chất lượng xử lý; tính độc lập; khả năng giải quyết vấn đề |
 | Bậc 4 | Thực hiện công việc có mức độ phức tạp cao; chủ động tổ chức thực hiện công việc; tham gia xây dựng, hoàn thiện phương pháp, quy trình chuyên môn, nghiệp vụ | Sản phẩm chuyên môn có tính tổng hợp hoặc hệ thống (quy trình nội bộ, hướng dẫn chuyên môn, sáng kiến cải tiến...) | Hiệu quả tổ chức; khả năng chuẩn hóa; mức độ cải tiến, áp dụng hiệu quả |
-| Bậc 5 | Thực hiện công việc có trình độ chuyên môn sâu, dẫn dắt, phát triển; chủ trì thực hiện công việc chuyên môn quan trọng; định hướng, hướng dẫn chuyên môn trong phạm vi đơn vị hoặc theo phân cấp; chủ trì xây dựng định hướng, kế hoạch phát triển chuyên trung và dài hạn trong phạm vi đơn vị, ngành hoặc lĩnh vực theo phân công | Sản phẩm chuyên môn hoàn thiện, giá trị áp dụng cao trong phạm vi đơn vị (quy trình chuẩn, mô hình, kỹ thuật, tài liệu chuyên sâu...); Sản phẩm chuyên môn nâng cao, có tính hướng dẫn, chuyển giao và nhân rộng trong phạm vi đơn vị hoặc hệ thống; Sản phẩm có tính định hướng phát triển, có tác động rộng và lâu dài đến hoạt động chuyên môn. | Mức độ làm chủ chuyên môn sâu; khả năng hướng dẫn, dẫn dắt chuyên môn; hiệu quả áp dụng trong thực tiễn; mức độ nâng cao chất lượng hoạt động chuyên môn; Tác động phát triển; tính đổi mới, bền vững; mức độ ảnh hưởng và khả năng lan tỏa; năng lực dẫn dắt, phát triển đội ngũ |
+| Bậc 5 | Thực hiện công việc có trình độ chuyên môn sâu, dẫn dắt, phát triển; chủ trì thực hiện công việc chuyên môn quan trọng; định hướng, hướng dẫn chuyên môn trong phạm vi đơn vị hoặc theo phân cấp; chủ trì xây dựng định hướng, kế hoạch phát triển chuyên môn trung và dài hạn trong phạm vi đơn vị, ngành hoặc lĩnh vực theo phân công | Sản phẩm chuyên môn hoàn thiện, giá trị áp dụng cao trong phạm vi đơn vị (quy trình chuẩn, mô hình, kỹ thuật, tài liệu chuyên sâu...); Sản phẩm chuyên môn nâng cao, có tính hướng dẫn, chuyển giao và nhân rộng trong phạm vi đơn vị hoặc hệ thống; Sản phẩm có tính định hướng phát triển, có tác động rộng và lâu dài đến hoạt động chuyên môn. | Mức độ làm chủ chuyên môn sâu; khả năng hướng dẫn, dẫn dắt chuyên môn; hiệu quả áp dụng trong thực tiễn; mức độ nâng cao chất lượng hoạt động chuyên môn; Tác động phát triển; tính đổi mới, bền vững; mức độ ảnh hưởng và khả năng lan tỏa; năng lực dẫn dắt, phát triển đội ngũ |
 
 9
 

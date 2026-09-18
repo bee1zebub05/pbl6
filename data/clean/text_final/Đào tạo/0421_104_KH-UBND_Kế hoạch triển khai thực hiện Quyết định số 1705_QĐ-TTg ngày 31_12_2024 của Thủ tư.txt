@@ -96,13 +96,10 @@ Ti lệ trẻ em trong các cơ sở giáo dục mam
 s
 2
 Ti lệ trẻ em trong các cơ sở giáo dục mam
-=
 A :
-.
 :ố
 5%
 3%
-=
 non bị thừa cân (béo phi)
 :ẵ
 Ti lệ giáo viên mâm non đạt chuân trình độ
@@ -154,7 +151,6 @@ Ti lệ hoàn thành mặp trung học cơ g'y
 Ti lệ hoan thành câp trung học phô théng
 99,9%
 99 .9%
-=
 Ty lệ chuyên
 câp
 từ tiêu
@@ -172,7 +168,6 @@ o
 2.
 Tilệ chuyen câp từ trung học cơ sở lên trung
 o
-.
 'g
 học phổ thông và trình độ khác
 99%
@@ -199,11 +194,8 @@ quốc
 gia
 35%
 40%
-=
 Ti lệ
 giảng vién các trường đại học ngoài
-=
-=
 công lập có trình độ tién sĩ
 21.3%
 26,6%
@@ -213,7 +205,6 @@ công lập có trình độ tién sĩ
 chuẩn chất lượng theo các chu kì kiểm định
 100%
 100%
-<]
 phù hợp
 Sp
 Ti lệ người biét chữ mức độ I trong độ tuổi
@@ -230,7 +221,6 @@ Ti lệ người biét chữ mức độ 1 trong độ tudi
 o =
 g
 Ti lệ quan, huyện được công nhận danh hiệu
-.
 5
 €]
 quận, huyện học tập
@@ -556,7 +546,6 @@ Kính chuyén?:
 Ban Giám hiệu
 Ý kiến của Ban Giám hiệu:
 cơ quan (15 chức) bạn hành và trích yếu nội dung của văn bản dén.
-\
 G tên của thinh viên Bạn Giám hiệu sẽ cho ÿ kiển chỉdạo
 dỗi với văn bản dén này
 a phối hợp e

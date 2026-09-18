@@ -187,7 +187,7 @@ a) Phân loại theo tính chất chia sẻ dữ liệu gồm: dữ liệu dùng
 
 b) Phân loại theo tính chất quan trọng của dữ liệu gồm: dữ liệu cốt lõi, dữ liệu quan trọng, dữ liệu khác;
 
-c) Phân loại theo tiêu chí khác đáp ứng yêu cầu quản trị, xử lý, bảo vệ dữ liệu do chủ quân dữ liệu quyết định.
+c) Phân loại theo tiêu chí khác đáp ứng yêu cầu quản trị, xử lý, bảo vệ dữ liệu do chủ quản dữ liệu quyết định.
 
 2. Chủ sở hữu dữ liệu, chủ quản dữ liệu không thuộc quy định tại khoản 1 Điều này phải phân loại dữ liệu theo quy định tại điểm b khoản 1 Điều này và được phân loại dữ liệu theo các tiêu chí khác.
 

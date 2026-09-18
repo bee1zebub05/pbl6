@@ -623,9 +623,8 @@ Hướng dẫn cách ghi biểu:
 - Nội dung ghi chú thể hiện ở dòng 19 (nếu có)
 
 ----- [Trang 26-30] -----
-Dưới đây là nội dung văn bản được trích xuất (OCR) từ các trang tài liệu bạn đã cung cấp, được trình bày dưới dạng plaintext để bạn dễ dàng sao chép. Do các bảng biểu trong tài liệu rất phức tạp với nhiều cột lồng nhau, tôi sẽ trình bày theo cấu trúc: Tiêu đề biểu mẫu -> Các mục chính trong bảng -> Phần Hướng dẫn cách ghi (Ghi chú) để đảm bảo tính chính xác và dễ đọc nhất.
 
-TRANG 1: BIỂU SỐ 02/TTR
+BIỂU SỐ 02/TTR
 
 CÔNG BÁO/Số 291 + 292/Ngày 14-02-2024
 Biểu số: 02/TTr
@@ -634,7 +633,6 @@ TỔNG HỢP KẾT QUẢ THỰC HIỆN KẾT LUẬN THANH TRA HÀNH CHÍNH
 (Kèm theo Báo cáo số: .................... ngày...../..../.... đến.... ngày.../..../... của ....................)
 Đơn vị tính: Tiền (triệu đồng), đất (m²)
 
-[Cấu trúc các cột chính trong bảng]
 1. Kết luận thanh tra phải thực hiện (Tổng số, Trong đó: số kết luận chưa thực hiện xong, số kết luận đã hoàn thành)
 2. Tiến độ thực hiện kết luận (Số kết luận chưa hoàn thành, Số kết luận đã hoàn thành)
 3. Thu hồi về ngân sách nhà nước (Tiền (Tr.đ), Đất (m²))
@@ -659,7 +657,7 @@ TỔNG HỢP KẾT QUẢ THỰC HIỆN KẾT LUẬN THANH TRA HÀNH CHÍNH
 - Cột (12): Tổng diện tích đất đã xử lý khác trong kỳ báo cáo; Cột (12) <= (11)
 - Nội dung ghi chú thể hiện ở dòng 23 (nếu có)
 
-TRANG 2: BIỂU SỐ 03/TTR
+BIỂU SỐ 03/TTR
 
 CÔNG BÁO/Số 291 + 292/Ngày 14-02-2024
 Biểu số: 03/TTr
@@ -668,7 +666,6 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC ĐẦU TƯ XÂ
 (Kèm theo Báo cáo số: .................... ngày...../..../.... đến.... ngày.../..../... của ....................)
 Đơn vị tính: Tiền (triệu đồng); đất (m²)
 
-[Cấu trúc các cột chính trong bảng]
 1. Số cuộc thanh tra thực hiện trong kỳ (Tổng số, Phân loại: Triển khai từ kỳ trước chuyển sang, Triển khai trong kỳ, Theo kế hoạch, Đột xuất)
 2. Số cuộc thanh tra đã ban hành kết luận (Số cuộc thanh tra đã ban hành kết luận)
 3. Số đơn vị được thanh tra (Số đơn vị được thanh tra)
@@ -689,7 +686,7 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC ĐẦU TƯ XÂ
 - Cột (13): Số diện tích đất kiến nghị xử lý khác (ngoài kiến nghị thu hồi, bao gồm: điều chỉnh mục đích sử dụng đất, bổ sung hồ sơ, hoàn thiện thủ tục, ...)
 - Nội dung ghi chú thể hiện ở dòng 19 (nếu có)
 
-TRANG 3: BIỂU SỐ 04/TTR
+BIỂU SỐ 04/TTR
 
 CÔNG BÁO/Số 291 + 292/Ngày 14-02-2024
 Biểu số: 04/TTr
@@ -698,7 +695,6 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC TÀI CHÍNH - 
 (Kèm theo Báo cáo số: .................... ngày...../..../.... đến.... ngày.../..../... của ....................)
 Đơn vị tính: Tiền (triệu đồng); đất (m²)
 
-[Cấu trúc các cột chính trong bảng]
 1. Số cuộc thanh tra thực hiện trong kỳ (Tổng số, Phân loại: Triển khai từ kỳ trước chuyển sang, Triển khai trong kỳ, Theo kế hoạch, Đột xuất)
 2. Số cuộc thanh tra đã ban hành kết luận
 3. Số đơn vị được thanh tra
@@ -719,7 +715,7 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC TÀI CHÍNH - 
 - Cột (13): Số diện tích đất kiến nghị xử lý khác (ngoài kiến nghị thu hồi, bao gồm: điều chỉnh mục đích sử dụng đất, bổ sung hồ sơ, hoàn thiện thủ tục, ...)
 - Nội dung ghi chú thể hiện ở dòng 19 (nếu có)
 
-TRANG 4: BIỂU SỐ 05/TTR
+BIỂU SỐ 05/TTR
 
 CÔNG BÁO/Số 291 + 292/Ngày 14-02-2024
 Biểu số: 05/TTr
@@ -728,7 +724,6 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC ĐẤT ĐAI
 (Kèm theo Báo cáo số: .................... ngày...../..../.... đến.... ngày.../..../... của ....................)
 Đơn vị tính: Tiền (triệu đồng); đất (m²)
 
-[Cấu trúc các cột chính trong bảng]
 1. Số cuộc thanh tra thực hiện trong kỳ (Tổng số, Phân loại: Triển khai từ kỳ trước chuyển sang, Triển khai trong kỳ, Theo kế hoạch, Đột xuất)
 2. Số cuộc thanh tra đã ban hành kết luận
 3. Số đơn vị được thanh tra
@@ -749,7 +744,7 @@ TỔNG HỢP KẾT QUẢ THANH TRA HÀNH CHÍNH TRONG LĨNH VỰC ĐẤT ĐAI
 - Cột (13): Số diện tích đất kiến nghị xử lý khác (ngoài kiến nghị thu hồi, bao gồm: điều chỉnh mục đích sử dụng đất, bổ sung hồ sơ, hoàn thiện thủ tục, ...)
 - Nội dung ghi chú thể hiện ở dòng 19 (nếu có)
 
-TRANG 5: BIỂU SỐ 06/TTR
+BIỂU SỐ 06/TTR
 
 CÔNG BÁO/Số 291 + 292/Ngày 14-02-2024
 Biểu số: 06/TTr
@@ -758,7 +753,6 @@ TỔNG HỢP KẾT QUẢ THANH TRA, KIỂM TRA CHUYÊN NGÀNH
 (Kèm theo Báo cáo số: .................... ngày...../..../.... đến.... ngày.../..../... của ....................)
 Đơn vị tính: Tiền (triệu đồng)
 
-[Cấu trúc các cột chính trong bảng]
 1. Số cuộc thanh tra, kiểm tra trong kỳ (Tổng số, Phân loại: Triển khai từ kỳ trước chuyển sang, Triển khai trong kỳ, Theo kế hoạch, Đột xuất)
 2. Số cuộc thanh tra đã ban hành kết luận
 3. Số tổ chức, cá nhân được thanh tra (Số tổ chức, Số cá nhân)
@@ -784,7 +778,7 @@ TỔNG HỢP KẾT QUẢ THANH TRA, KIỂM TRA CHUYÊN NGÀNH
 - Những nội dung cần ghi chú thể hiện tại dòng 28 (nếu có)
 
 ----- [Trang 31-35] -----
-Trang 1: TỔNG HỢP KẾT QUẢ THỰC HIỆN KẾT LUẬN, QUYẾT ĐỊNH XỬ PHẠT QUA THANH TRA CHUYÊN NGÀNH
+TỔNG HỢP KẾT QUẢ THỰC HIỆN KẾT LUẬN, QUYẾT ĐỊNH XỬ PHẠT QUA THANH TRA CHUYÊN NGÀNH
 Biểu số: 07/TTr
 - Đơn vị tính: Tiền (triệu đồng)
 - Các cột chính:
@@ -794,14 +788,14 @@ Biểu số: 07/TTr
  - Số tổ chức, cá nhân đã thực hiện quyết định xử phạt vi phạm hành chính bằng hình thức khác: Tổng số, Tổ chức, Cá nhân.
  - Đã khởi tố: Vụ, Đối tượng.
 
-Trang 2: TỔNG HỢP KẾT QUẢ TIẾP CÔNG DÂN THƯỜNG XUYÊN, ĐỊNH KỲ VÀ ĐỘT XUẤT
+TỔNG HỢP KẾT QUẢ TIẾP CÔNG DÂN THƯỜNG XUYÊN, ĐỊNH KỲ VÀ ĐỘT XUẤT
 Biểu số: 01/TCD
 - Các cột chính:
  - Tiếp công dân thường xuyên: Tổng số vụ việc, Số lượt tiếp, Số người, Trong đó đoàn đông người (Tổng số, Tiếp lần đầu, Tiếp nhiều lần).
  - Tiếp công dân định kỳ và đột xuất của Thủ trưởng: Tổng số vụ việc, Số lượt tiếp, Số người, Trong đó đoàn đông người (Tổng số, Tiếp lần đầu, Tiếp nhiều lần).
  - Ủy quyền tiếp: Tổng số vụ việc, Số lượt tiếp, Số người, Trong đó đoàn đông người (Tổng số, Tiếp lần đầu, Tiếp nhiều lần).
 
-Trang 3: TỔNG HỢP KẾT QUẢ XỬ LÝ ĐƠN
+TỔNG HỢP KẾT QUẢ XỬ LÝ ĐƠN
 Biểu số: 01/XLD
 - Các cột chính:
  - Tổng số đơn phải xử lý: Tổng số, Kỳ trước chuyển sang, Tiếp nhận trong kỳ.
@@ -811,22 +805,22 @@ Biểu số: 01/XLD
  - Phân loại đơn theo tình trạng giải quyết: Tổng số, Lần đầu, Nhiều lần, Đã giải quyết, Chưa giải quyết.
  - Kết quả xử lý đơn: Tổng số, Hướng dẫn, Chuyển đơn, Đơn không thuộc thẩm quyền, Đơn đốc giải quyết, Số văn bản phúc đáp nhận được do chuyển đơn.
 
-Trang 4: TỔNG HỢP KẾT QUẢ XỬ LÝ ĐƠN KHIẾU NẠI
+TỔNG HỢP KẾT QUẢ XỬ LÝ ĐƠN KHIẾU NẠI
 Biểu số: 02/XLD
 - Các cột chính:
  - Tổng số đơn phải xử lý: Tổng số, Kỳ trước chuyển sang, Tiếp nhận trong kỳ.
  - Đơn đã xử lý: Tổng số, Đơn tiếp nhận chuyển sang, Đơn tiếp nhận trong kỳ.
  - Đủ điều kiện xử lý: Số vụ việc.
- - Phân loại theo nội dung: Tổng, Chế độ chính sách, Đất đai, nhà cửa, Linh vực khác, Linh vực Đảng, đoàn thể.
+ - Phân loại theo nội dung: Tổng, Chế độ chính sách, Đất đai, nhà cửa, Lĩnh vực khác, Lĩnh vực Đảng, đoàn thể.
  - Kết quả giải quyết: Đã giải quyết (Tổng, Lần đầu, Lần 2), Chưa giải quyết (Tổng, Lần đầu, Lần 2), Vụ việc không thuộc thẩm quyền (Tổng, Hướng dẫn, Đơn đốc giải quyết), Số văn bản phúc đáp nhận được do chuyển đơn.
 
-Trang 5: TỔNG HỢP KẾT QUẢ XỬ LÝ ĐƠN TỐ CÁO
+TỔNG HỢP KẾT QUẢ XỬ LÝ ĐƠN TỐ CÁO
 Biểu số: 03/XLD
 - Các cột chính:
  - Tổng số đơn phải xử lý: Tổng số, Kỳ trước chuyển sang, Tiếp nhận trong kỳ.
  - Đơn đã xử lý: Tổng số, Đơn tiếp nhận chuyển sang, Đơn tiếp nhận trong kỳ.
  - Đủ điều kiện xử lý: Số vụ việc.
- - Phân loại theo nội dung: Tổng cộng, Chế độ chính sách, Đất đai, nhà cửa, Linh vực khác, Linh vực Đảng, đoàn thể, Tham nhũng.
+ - Phân loại theo nội dung: Tổng cộng, Chế độ chính sách, Đất đai, nhà cửa, Lĩnh vực khác, Lĩnh vực Đảng, đoàn thể, Tham nhũng.
  - Kết quả giải quyết: Tố cáo tiếp (Tổng, Đã giải quyết, Chưa giải quyết), Vụ việc thuộc thẩm quyền (Tổng, Tố cáo lần đầu, Tố cáo tiếp), Vụ việc không thuộc thẩm quyền (Tổng, Chuyển đơn, Đơn đốc giải quyết), Số văn bản phúc đáp nhận được do chuyển đơn.
 
 ----- [Trang 36-40] -----
@@ -835,7 +829,7 @@ Biểu số: 03/XLD
 
 Biểu số: 04/XLD
 
-TỔNG HỢP KẾT QUẢ XỬ LÝ, GIẢI QUYẾT ĐƠN KIẾN NGHỊ, PHÁN ÁNH
+TỔNG HỢP KẾT QUẢ XỬ LÝ, GIẢI QUYẾT ĐƠN KIẾN NGHỊ, PHẢN ÁNH
 Số liệu tính từ ngày…../…../….. đến…../…../…..
 (Kèm theo Báo cáo số ………………… ngày…… tháng…… năm…… của……………..)
 
@@ -858,7 +852,7 @@ Hướng dẫn cách ghi biểu
 - Cột (15): Tổng số vụ việc thuộc thẩm quyền giải quyết
 - Cột (16): Tổng số vụ việc không thuộc thẩm quyền giải quyết
 - Cột (17): Tổng số vụ việc KN, PA không thuộc thẩm quyền có văn bản chuyển đơn đến cơ quan có thẩm quyền giải quyết
-- Cột (18): Thống kê số vụ việc có văn bản đốn đốc hoặc chuyển đơn từ lần thứ 2 trở lên do chưa nhận được kết quả giải quyết của cơ quan có thẩm quyền
+- Cột (18): Thống kê số vụ việc có văn bản đôn đốc hoặc chuyển đơn từ lần thứ 2 trở lên do chưa nhận được kết quả giải quyết của cơ quan có thẩm quyền
 - Cột (19): Tổng số vụ việc KN, PA thuộc thẩm quyền (thống kê kể tại cột 15) đã được giải quyết và có kết luận, trả lời người KN, PA trong kỳ báo cáo
 - Cột (20): Tổng số vụ việc KN, PA thuộc thẩm quyền (thống kê kể tại cột 15) đang được giải quyết hoặc chưa được giải quyết
 - Nội dung ghi chú viết vào dòng 21 (nếu có)
@@ -936,7 +930,7 @@ Số liệu tính từ ngày…../…../….. đến…../…../…..
 (Kèm theo Báo cáo số ………………… ngày…… tháng…… năm…… của……………..)
 
 | Đơn tố cáo thuộc thẩm quyền | | | | Đã giải quyết | | | | | | | | Trả lại cho tổ chức, cá nhân | | | | | | Kiến nghị xử lý hành chính | | | | Chuyển cơ quan điều tra | | | Phân tích kết quả giải quyết (vụ việc) | | | | | | Chấp hành thời hạn giải quyết | |
-| Đơn vị | Tổng số | Kỳ trước chuyển sang | Tiếp nhận trong kỳ | Tổng số | Trong đó số vụ việc thuộc thẩm quyền giao tiếp lần đầu | Số vụ việc có kết luận nội dung tố cáo | Số vụ việc không đúng nội dung tố cáo | Tổng số | Số vụ việc có kết luận nội dung tố cáo | Số vụ việc không đúng nội dung tố cáo | Khác | Tổ chức Tiền (Trđ) | Tổ chức Đất (m^2) | Cá nhân Tiền (Trđ) | Cá nhân Đất (m^2) | Số tổ chức được trả lại quyền lợi | Số cá nhân được trả lại quyền lợi | Tổng số | Trong đó số cán bộ, công chức, viên chức | Số vụ | Số người | Trong đó số cán bộ, công chức, viên chức | Tổ cáo đúng | Tố cáo sai | Tố cáo đúng một phần | Trong đó có cơ sở | Tố cáo sai, không có cơ sở | Tố cáo có sai, có cơ sở | Trong đó có cơ sở | Chấp hành đúng quy định | Không đúng quy định |
+| Đơn vị | Tổng số | Kỳ trước chuyển sang | Tiếp nhận trong kỳ | Tổng số | Trong đó số vụ việc thuộc thẩm quyền giao tiếp lần đầu | Số vụ việc có kết luận nội dung tố cáo | Số vụ việc không đúng nội dung tố cáo | Tổng số | Số vụ việc có kết luận nội dung tố cáo | Số vụ việc không đúng nội dung tố cáo | Khác | Tổ chức Tiền (Trđ) | Tổ chức Đất (m^2) | Cá nhân Tiền (Trđ) | Cá nhân Đất (m^2) | Số tổ chức được trả lại quyền lợi | Số cá nhân được trả lại quyền lợi | Tổng số | Trong đó số cán bộ, công chức, viên chức | Số vụ | Số người | Trong đó số cán bộ, công chức, viên chức | Tố cáo đúng | Tố cáo sai | Tố cáo đúng một phần | Trong đó có cơ sở | Tố cáo sai, không có cơ sở | Tố cáo có sai, có cơ sở | Trong đó có cơ sở | Chấp hành đúng quy định | Không đúng quy định |
 | MS | 1=2+3 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 
 32. Ghi chú:
@@ -1057,8 +1051,8 @@ Nguồn: *
 | 31 | Số cán bộ, công chức, viên chức phải thực hiện chuyển đổi vị trí công tác nhằm phòng ngừa tham nhũng | Người | |
 | 32 | Số cán bộ, công chức, viên chức được chuyển đổi vị trí công tác nhằm phòng ngừa tham nhũng | Người | |
 | | Cải cách hành chính, ứng dụng khoa học công nghệ trong quản lý và thanh toán không dùng tiền mặt | | |
-| 33 | Số thủ tục hành chính chính công được áp dụng tại cơ quan, tổ chức, đơn vị | Thủ tục | |
-| 34 | Số thủ tục hành chính chính công được áp dụng mức độ 3 hoặc 4 tại cơ quan, tổ chức, đơn vị | Thủ tục | |
+| 33 | Số thủ tục hành chính công được áp dụng tại cơ quan, tổ chức, đơn vị | Thủ tục | |
+| 34 | Số thủ tục hành chính công được áp dụng mức độ 3 hoặc 4 tại cơ quan, tổ chức, đơn vị | Thủ tục | |
 | 35 | Số thủ tục hành chính yêu cầu người dân, doanh nghiệp bổ sung hồ sơ từ 02 lần trở lên | Lượt thủ tục | |
 | 36 | Số cuộc kiểm tra, thanh tra việc thực hiện thanh toán không dùng tiền mặt | Cuộc | |
 | 37 | Số vụ phát hiện vi phạm trong việc thực hiện thanh toán không dùng tiền mặt | Vụ | |
@@ -1120,15 +1114,15 @@ BẢNG THỐNG KÊ (Tiếp theo)
 | 63 | Số đối tượng có hành vi tham nhũng phát hiện qua giải quyết khiếu nại, tố cáo | Người | |
 | | Qua các hoạt động khác (ngoài những hoạt động nêu trên, nếu có) | | |
 | 64 | Số vụ tham nhũng được phát hiện thông qua các hoạt động khác | Vụ | |
-| 65 | Số đối tượng có hành vi tham nhũng phát hiện qua các hoạt động khác | Người | |
+| 65 | Số đối tượng có hành vi tham nhũng phát hiện thông qua các hoạt động khác | Người | |
 | | Qua điều tra tội phạm | | |
 | 66 | Số vụ án tham nhũng (thuộc phạm vi quản lý) đã được cơ quan chức năng khởi tố | Vụ | |
 | 67 | Số đối tượng tham nhũng (thuộc phạm vi quản lý) đã bị cơ quan chức năng khởi tố | Người | |
 | | Bảo vệ, khen thưởng người tố cáo, phát hiện tham nhũng | | |
-| 68 | Số người tố cáo hành vi tham nhũng được được bảo vệ theo quy định của pháp luật về tố cáo | Người | |
+| 68 | Số người tố cáo hành vi tham nhũng được bảo vệ theo quy định của pháp luật về tố cáo | Người | |
 | 69 | Số người tố cáo hành vi tham nhũng bị trả thù | Người | |
 | 70 | Số người đã bị xử lý do có hành vi trả thù người tố cáo | Người | |
-| 71 | Số người tố cáo hành vi tham nhũng đã được khen, thưởng | Người | |
+| 71 | Số người tố cáo hành vi tham nhũng đã được khen thưởng | Người | |
 
 ----- [Trang 47] -----
 
@@ -1138,7 +1132,7 @@ CÔNG BÁO/Số 291 + 292/Ngày 14-02-2024
 | | XỬ LÝ TRÁCH NHIỆM CỦA NGƯỜI ĐỨNG ĐẦU CƠ QUAN, TỔ CHỨC, ĐƠN VỊ KHI ĐỂ XẢY RA THAM NHŨNG | | |
 | 72 | Số người đứng đầu, cấp phó người đứng đầu bị kết luận là thiếu trách nhiệm để xảy ra hành vi tham nhũng | Người | |
 | 73 | Số người đứng đầu, cấp phó người đứng đầu đã bị xử lý hình sự do thiếu trách nhiệm để xảy ra hành vi tham nhũng | Người | |
-| 74 | Số người đứng đầu, cấp phó người đứng đầu bị xử lý kỷ luật do thiếu trách nhiệm để xảy ra tham nhũng | Người | |
+| 74 | Số người đứng đầu, cấp phó người đứng đầu bị xử lý kỷ luật do thiếu trách nhiệm để xảy ra hành vi tham nhũng | Người | |
 | 74.1 | - Khiển trách | Người | |
 | 74.2 | - Cảnh cáo | Người | |
 | 74.3 | - Cách chức | Người | |
@@ -1232,7 +1226,7 @@ KẾT QUẢ PHÁT HIỆN, KHẮC PHỤC CÁC VĂN BẢN CÒN SƠ HỞ, DỄ BỊ
 (Kèm theo Báo cáo số............ ngày... tháng... năm... của......)
 
 | TT | Tên, số, ngày, tháng, năm | Cơ quan ban hành văn bản | Nội dung sơ hở, dễ bị lợi dụng để tham nhũng, tiêu cực | Kết quả khắc phục | Ghi chú |
-| | | | | Đã được khắc phục theo thẩm quyền | Chưa khác phục xong | Nguyên nhân của việc chưa khắc phục xong | |
+| | | | | Đã được khắc phục theo thẩm quyền | Chưa khắc phục xong | Nguyên nhân của việc chưa khắc phục xong | |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | 1 | | | | | | | |
 | 2 | | | | | | | |
@@ -1254,7 +1248,7 @@ Số liệu tính từ ngày.../.../..... đến... ngày.../.../.....
 
 Đơn vị tính: Người
 
-| Đơn vị | Số lượng công chức, viên chức, người lao động trong kỳ | Số lượng biên độang trong kỳ | Tổng số | Đào tạo, bồi dưỡng nghiệp vụ | Vi phạm và kết quả xử lý | | | | | | |
+| Đơn vị | Số lượng công chức, viên chức, người lao động trong kỳ | Số lượng biến động trong kỳ | Tổng số | Đào tạo, bồi dưỡng nghiệp vụ | Vi phạm và kết quả xử lý | | | | | | |
 | | Trong đó | Tăng | Giảm | | Trong đó | Tổng số cá nhân vi phạm | Đã xử lý | Đang và chưa xử lý | | | |
 | | Tổng số | Số TTV cao cấp và tương đương | Số TTV chính và tương đương | Số TTV và tương đương | Khác | | Số người được chuyển đổi vị trí công tác | Nhu cầu | Đã thực hiện | Thanh tra viên | Thanh tra viên chính | Thanh tra viên cao cấp | Đã thực hiện | Nhu cầu | Đã thực hiện | Nhu cầu | Tiếp công dân, TCK | Khác | Hành chính | Hình sự | Hành chính | Hình sự | Hành chính | Hình sự |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9=11+13+ 15+17+19 | 10=12+14+ 16+18+20 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -1269,7 +1263,7 @@ Số liệu tính từ ngày.../.../..... đến... ngày.../.../.....
 - Cột (9) = Cột (11) + (13) + (15) + (17) + (19) là nhu cầu về đào tạo, bồi dưỡng chuyên sâu về nghiệp vụ trong công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo
 - Cột (10) = Cột (12) + (14) + (16) + (18) + (20) là kết quả về đào tạo, bồi dưỡng chuyên sâu về nghiệp vụ trong công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo
 - Cột (17), (18) là nhu cầu và kết quả đào tạo, bồi dưỡng chuyên sâu về nghiệp vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo
-- Cột (19), (20) là nhu cầu và kết quả đào tạo, bồi dưỡng nghiệp vụ khác trong các lĩnh vực quản lý nhà nước của TTCP. VD: nghiệp vụ thanh tra chuyên ngành y tế, đất đai, xây dựng, nghiệp vụ thưởng thế khai, tổng hợp báo cáo...
+- Cột (19), (20) là nhu cầu và kết quả đào tạo, bồi dưỡng nghiệp vụ khác trong các lĩnh vực quản lý nhà nước của TTCP. VD: nghiệp vụ thanh tra chuyên ngành y tế, đất đai, xây dựng, nghiệp vụ thưởng thuế khai, tổng hợp báo cáo...
 - Cột (21) - Cột (26) là số lượng cán bộ làm công tác thanh tra, tiếp công dân, giải quyết KN, TC và PCTN có vi phạm phải xử lý và kết quả xử lý
 - Nội dung ghi chú thể hiện ở dòng 27 (nếu có)
 
@@ -1282,7 +1276,7 @@ Số liệu tính từ ngày.../.../..... đến... ngày.../.../.....
 (Kèm theo Báo cáo số............ ngày... tháng... năm... của......)
 
 | Đơn vị | Ban hành văn bản quản lý, chỉ đạo (Bộ, ngành, tỉnh, TP) về công tác thanh tra | | | Tập huấn, tuyên truyền, giáo dục pháp luật về thanh tra | | Thanh tra trách nhiệm thực hiện pháp luật về thanh tra | | | | | | Kết quả thực hiện kết luận thanh tra | | | | |
-| | Số văn bản ban hành mới | Số văn bản được sửa đổi, bổ sung | Số văn bản bãi bỏ | Lớp | Người | Tổng số cuộc | Số cuộc đã ban hành kết luận | Số đơn vị được thanh tra | Kiến nghị xử lý hành chính | | Kiến nghị chuyển cơ quan điều tra | Tổng số kết luận phải thực hiện | Đã xử lý hành chính | | Đã khởi tố | Đội tượng |
+| | Số văn bản ban hành mới | Số văn bản được sửa đổi, bổ sung | Số văn bản bãi bỏ | Lớp | Người | Tổng số cuộc | Số cuộc đã ban hành kết luận | Số đơn vị được thanh tra | Kiến nghị xử lý hành chính | | Kiến nghị chuyển cơ quan điều tra | Tổng số kết luận phải thực hiện | Đã xử lý hành chính | | Đã khởi tố | Đối tượng |
 | | | | | | | | | | Tổ chức | Cá nhân | Vụ | | Tổ chức | Cá nhân | Vụ | |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | | | | | | | | | | | | | | | | | | |
@@ -1293,7 +1287,7 @@ Số liệu tính từ ngày.../.../..... đến... ngày.../.../.....
 - Số liệu từ Cột (8) đến Cột (12) là số liệu tổng hợp từ các kết luận thanh tra đã ban hành nếu tại Cột (7)
 - Cột (8): Số cơ quan, tổ chức được thanh tra, kiểm tra theo kết luận thanh tra
 - Cột (13): Số kết luận thanh tra phải thực hiện trong kỳ báo cáo, gồm số kết luận phải thực hiện trong kỳ và kết luận từ kỳ trước chưa thực hiện xong chuyển sang.
-- Từ Cột (14) - Cột (17): Kết quả thực hiện từ kết luận tổng hợp từ kết kết luận nêu tại Cột (13)
+- Từ Cột (14) - Cột (17): Kết quả thực hiện từ kết luận tổng hợp từ kết luận nêu tại Cột (13)
 - Nội dung ghi chú thể hiện ở dòng 18 (nếu có)
 
 Biểu số: 03/QLNN
@@ -1305,7 +1299,7 @@ Số liệu tính từ ngày.../.../..... đến... ngày.../.../.....
 (Kèm theo Báo cáo số............ ngày... tháng... năm... của......)
 
 | Đơn vị | Ban hành văn bản quản lý, chỉ đạo (Bộ, ngành, tỉnh, TP) về công tác TCD, KN, TC | | | Tập huấn, tuyên truyền, giáo dục pháp luật về TCD, KN, TC | | Thực hiện pháp luật về TCD, KN, TC | | | Thanh tra trách nhiệm | | Kiến nghị xử lý | | | | Kết quả thực hiện kết luận, quyết định xử lý về thanh tra trách nhiệm | | | | |
-| | Số văn bản ban hành mới | Số văn bản được sửa đổi, bổ sung | Số văn bản bãi bỏ | Số lớp | Số người | Số cuộc | Số đơn vị | Số người | Số cuộc đã ban hành kết luận | Hành chính | | Chuyển cơ quan điều tra | Tổng số thực hiện | Đã xử lý hành chính | | Đã khởi tố | Đội tượng |
+| | Số văn bản ban hành mới | Số văn bản được sửa đổi, bổ sung | Số văn bản bãi bỏ | Số lớp | Số người | Số cuộc | Số đơn vị | Số người | Số cuộc đã ban hành kết luận | Hành chính | | Chuyển cơ quan điều tra | Tổng số thực hiện | Đã xử lý hành chính | | Đã khởi tố | Đối tượng |
 | | | | | | | | | | | Tổ chức | Cá nhân | Tổ chức | Cá nhân | KLTT thực hiện | Tổ chức | Cá nhân | Vụ | |
 | MS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | | | | | | | | | | | | | | | | | | | |

@@ -66,7 +66,7 @@ QUY ĐỊNH CƠ CHẾ THỬ NGHIỆM CÓ KIỂM SOÁT ĐỐI VỚI ỨNG DỤNG 
 3. Công nghệ thực tế tăng cường (Augmented Reality - AR) là công nghệ bổ sung, chồng ghép hoặc hiển thị thông tin, đối tượng, hình ảnh, âm thanh, mô hình ba chiều hoặc dữ liệu số lên môi trường thực nhằm hỗ trợ quan sát, tương tác và học tập.
 4. Công nghệ thực tế hỗn hợp, thực tế mở rộng (Mixed Reality/Extended Reality - MR/XR) là công nghệ kết hợp các yếu tố của VR, AR và các công nghệ nhập vai khác, cho phép đối tượng số tương tác với môi trường thực hoặc tạo trải nghiệm học tập trong không gian thực - ảo tích hợp.
 5. Giải pháp thử nghiệm là sản phẩm, dịch vụ, nền tảng, hệ thống, thiết bị, học liệu số, mô hình triển khai phương thức tổ chức dạy học, học tập, kiểm tra, đánh giá có ứng dụng công nghệ VR, AR, MR, XR được đề nghị tham gia cơ chế thử nghiệm.
-6. Học liệu số - ảo là bài học, mô phòng, thí nghiệm ảo, phòng thực hành ảo, đối tượng số, cảnh quan số, mô hình 3D, kịch bản tương tác, tài liệu trực quan hoặc nội dung số khác được thiết kế để sử dụng trong hoạt động giáo dục.
+6. Học liệu số - ảo là bài học, mô phỏng, thí nghiệm ảo, phòng thực hành ảo, đối tượng số, cảnh quan số, mô hình 3D, kịch bản tương tác, tài liệu trực quan hoặc nội dung số khác được thiết kế để sử dụng trong hoạt động giáo dục.
 7. Tổ chức đăng ký tham gia cơ chế thử nghiệm là tổ chức, doanh nghiệp, cơ sở giáo dục nộp hồ sơ đề nghị Bộ Giáo dục và Đào tạo xem xét, phê duyệt tham gia cơ chế thử nghiệm.
 8. Tổ chức tham gia cơ chế thử nghiệm là tổ chức, doanh nghiệp, cơ sở giáo dục được Bộ Giáo dục và Đào tạo ban hành Quyết định cấp phép thử nghiệm có kiểm soát.
 9. Người tham gia thử nghiệm là người học, nhà giáo, cán bộ quản lý giáo dục hoặc cá nhân khác tự nguyện tham gia hoạt động thử nghiệm trong phạm vi được phê duyệt.
@@ -78,7 +78,7 @@ QUY ĐỊNH CƠ CHẾ THỬ NGHIỆM CÓ KIỂM SOÁT ĐỐI VỚI ỨNG DỤNG 
 Điều 4. Mục tiêu của cơ chế thử nghiệm
 1. Thúc đẩy đổi mới sáng tạo, chuyển đổi số và hiện đại hóa giáo dục thông qua thử nghiệm có kiểm soát các giải pháp VR, AR, MR, XR có giá trị sư phạm, góp phần nâng cao chất lượng dạy học, học tập, thực hành, thí nghiệm, trải nghiệm nghề nghiệp và phát triển năng lực người học.
 2. Tạo môi trường thử nghiệm để đánh giá khách quan tính mới, lợi ích, chi phí, tính khả thi, tác động sư phạm, sức khỏe, xã hội, mức độ an toàn dữ liệu, an toàn thông tin, khả năng vận hành, tích hợp với hạ tầng giáo dục và khả năng mở rộng của giải pháp; đồng thời kiểm soát, phòng ngừa, phát hiện và hạn chế rủi ro đối với người học, nhà giáo, cơ sở giáo dục, dữ liệu giáo dục, dữ liệu cá nhân và quyền, lợi ích hợp pháp của các bên liên quan.
-3. Xác định khoảng trống, điểm nghẽn, vướng mắc về học liệu số, thiết bị dạy học, tiêu chuẩn kỹ thuật, định mức y tế học đường, quy trình thẩm định định học liệu, cơ chế mua sắm, quản lý dữ liệu, an toàn thông tin và quản lý công nghệ thực - ảo trong giáo dục; làm căn cứ thực tiễn để Bộ Giáo dục và Đào tạo xây dựng, sửa đổi, bổ sung hoặc đề xuất hoàn thiện quy định của pháp luật, tiêu chuẩn, quy chuẩn, hướng dẫn chuyên môn, danh mục thiết bị dạy học, kho học liệu số và mô hình quản trị phù hợp.
+3. Xác định khoảng trống, điểm nghẽn, vướng mắc về học liệu số, thiết bị dạy học, tiêu chuẩn kỹ thuật, định mức y tế học đường, quy trình thẩm định học liệu, cơ chế mua sắm, quản lý dữ liệu, an toàn thông tin và quản lý công nghệ thực - ảo trong giáo dục; làm căn cứ thực tiễn để Bộ Giáo dục và Đào tạo xây dựng, sửa đổi, bổ sung hoặc đề xuất hoàn thiện quy định của pháp luật, tiêu chuẩn, quy chuẩn, hướng dẫn chuyên môn, danh mục thiết bị dạy học, kho học liệu số và mô hình quản trị phù hợp.
 
 Điều 5. Nguyên tắc thực hiện cơ chế thử nghiệm
 1. Nguyên tắc xét duyệt tổ chức tham gia cơ chế thử nghiệm:
@@ -92,7 +92,7 @@ d) Giải pháp thử nghiệm phải phù hợp với lứa tuổi, cấp học
 
 kiện theo quy định của pháp luật. Quyết định cấp phép thử nghiệm có kiểm soát phải xác định rõ tên giải pháp, tổ chức tham gia, cơ sở giáo dục phối hợp, thời gian, không gian, phạm vi, đối tượng, giới hạn kỹ thuật, nội dung được phép thử nghiệm, nghĩa vụ báo cáo, chỉ số giám sát, ngưỡng cảnh báo rủi ro và cơ chế dừng khẩn cấp;
 
-đ) Các mẫu đơn đề nghị, quyết định cấp phép, điều chỉnh, gia hạn, đình chỉ hoặc thu hồi liên quan đến cơ sở thử nghiệm trong Quy định này được thực hiện thống nhất theo hệ thống biểu mẫu định quy định tại Phụ lục ban hành kèm theo Nghị định số 353/2025/NĐ-CP ngày 31/12/2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Công nghiệp công nghệ số.
+đ) Các mẫu đơn đề nghị, quyết định cấp phép, điều chỉnh, gia hạn, đình chỉ hoặc thu hồi liên quan đến cơ sở thử nghiệm trong Quy định này được thực hiện thống nhất theo hệ thống biểu mẫu quy định tại Phụ lục ban hành kèm theo Nghị định số 353/2025/NĐ-CP ngày 31/12/2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Công nghiệp công nghệ số.
 
 2. Nguyên tắc lập và gửi hồ sơ:
 
@@ -119,13 +119,13 @@ thử nghiệm không được triển khai ngoài không gian, địa bàn, cơ
 
 4. Phạm vi thử nghiệm bao gồm cấp học, chương trình, môn học, học phần, chủ đề, hoạt động giáo dục, nhóm người học, số lượng người tham gia, loại thiết bị, phiên bản phần mềm, hạ tầng kỹ thuật, loại dữ liệu được xử lý, phương thức tích hợp và mức độ sử dụng trong hoạt động giáo dục. Nội dung ngoài phạm vi đã được phê duyệt phải thực hiện thủ tục điều chỉnh theo Quy định này.
 
-5. Việc gia hạn thử nghiệm chỉ được xem xét khi tổ chức tham gia cơ sở chế thử nghiệm có nhu cầu, có báo cáo kết quả thử nghiệm, không phát sinh rủi ro nghiêm trọng chưa được khắc phục và việc gia hạn là cần thiết để đánh giá đầy đủ tác động. Trên cơ sở quy định về thời gian gia hạn tại khoản 1 Điều 18 Nghị định số 353/2025/NĐ-CP và bảo đảm phù hợp với chu kỳ năm học cũng như an toàn sức khỏe lứa tuổi của người học trong môi trường giáo dục, thời gian gia hạn không quá 12 tháng, không quá 01 lần và tổng thời gian thử nghiệm sau gia hạn không vượt quá 36 tháng, trừ trường hợp pháp luật về thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số cho phép thời gian khác và được cấp có thẩm quyền quyết định.
+5. Việc gia hạn thử nghiệm chỉ được xem xét khi tổ chức tham gia cơ chế thử nghiệm có nhu cầu, có báo cáo kết quả thử nghiệm, không phát sinh rủi ro nghiêm trọng chưa được khắc phục và việc gia hạn là cần thiết để đánh giá đầy đủ tác động. Trên cơ sở quy định về thời gian gia hạn tại khoản 1 Điều 18 Nghị định số 353/2025/NĐ-CP và bảo đảm phù hợp với chu kỳ năm học cũng như an toàn sức khỏe lứa tuổi của người học trong môi trường giáo dục, thời gian gia hạn không quá 12 tháng, không quá 01 lần và tổng thời gian thử nghiệm sau gia hạn không vượt quá 36 tháng, trừ trường hợp pháp luật về thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số cho phép thời gian khác và được cấp có thẩm quyền quyết định.
 
 6. Việc thử nghiệm được triển khai theo nguyên tắc tăng dần quy mô: kiểm thử kỹ thuật trong môi trường phòng thí nghiệm; thử nghiệm giới hạn tại một số lớp, nhóm người học hoặc học phần; đánh giá giữa kỳ; sau đó mới xem xét mở rộng phạm vi trong Quyết định cấp phép thử nghiệm có kiểm soát hoặc Quyết định điều chỉnh.
 
-7. Chậm nhất 90 ngày kể từ ngày được phê duyệt, tổ chức tham gia cơ sở chế thử nghiệm phải triển khai thử nghiệm theo kế hoạch, trừ trường hợp bất khả kháng, trở ngại khách quan được Bộ Giáo dục và Đào tạo chấp thuận bằng văn bản.
+7. Chậm nhất 90 ngày kể từ ngày được phê duyệt, tổ chức tham gia cơ chế thử nghiệm phải triển khai thử nghiệm theo kế hoạch, trừ trường hợp bất khả kháng, trở ngại khách quan được Bộ Giáo dục và Đào tạo chấp thuận bằng văn bản.
 
-Điều 7. Điều kiện và tiêu chí tham gia cơ sở thử nghiệm
+Điều 7. Điều kiện và tiêu chí tham gia cơ chế thử nghiệm
 
 1. Giải pháp thử nghiệm phải đáp ứng các điều kiện chung sau đây:
 
@@ -162,16 +162,16 @@ d) Có cơ chế phối hợp với cơ sở giáo dục, nhà giáo, cha mẹ h
 
 3. Hồ sơ được đánh giá theo tiêu chí tại Phụ lục ban hành kèm theo Quy định này. Tổ chức đăng ký phải đạt tối thiểu 70/100 điểm, đồng thời không có tiêu chí bắt buộc bị đánh giá không đạt. Bộ Giáo dục và Đào tạo có quyền quy định ngưỡng điểm cao hơn hoặc yêu cầu bổ sung tiêu chí đối với giải pháp có mức độ rủi ro cao, triển khai với người học chưa đủ tuổi thành niên hoặc xử lý dữ liệu nhạy cảm.
 
-Điều 8. Hồ sơ đăng ký tham gia cơ sở thử nghiệm
+Điều 8. Hồ sơ đăng ký tham gia cơ chế thử nghiệm
 
 1. Tổ chức đăng ký gửi 01 bộ hồ sơ điện tử qua Cổng dịch vụ công của Bộ Giáo dục và Đào tạo hoặc Cổng dịch vụ công quốc gia; trường hợp cần thiết có thể gửi bản giấy hoặc vật mang tin theo yêu cầu của cơ quan tiếp nhận. Hồ sơ gồm:
 
 7
 
 ----- [Trang 9] -----
-a) Đơn đề nghị tham gia cơ sở thử nghiệm;
+a) Đơn đề nghị tham gia cơ chế thử nghiệm;
 
-b) Tài liệu chứng minh tư cách pháp lý, chức năng, nhiệm vụ, ngành nghề hoạt động, điều lệ hoặc quy chế tổ chức và hoạt động; quyết định hoặc nghị quyết của cơ quan có thẩm quyền trong tổ chức về việc đăng ký tham gia cơ sở thử nghiệm;
+b) Tài liệu chứng minh tư cách pháp lý, chức năng, nhiệm vụ, ngành nghề hoạt động, điều lệ hoặc quy chế tổ chức và hoạt động; quyết định hoặc nghị quyết của cơ quan có thẩm quyền trong tổ chức về việc đăng ký tham gia cơ chế thử nghiệm;
 
 c) Tài liệu mô tả cơ cấu tổ chức, nhân sự chủ chốt, cơ chế quản lý, phân công trách nhiệm khi triển khai thử nghiệm; hồ sơ năng lực của nhân sự phụ trách chuyên môn giáo dục, kỹ thuật, an toàn thông tin, bảo vệ dữ liệu, hỗ trợ người dùng;
 
@@ -198,9 +198,9 @@ pháp của người chưa đủ tuổi thành niên; dự thảo quy trình ti�
 
 2. Bộ Giáo dục và Đào tạo có quyền yêu cầu tổ chức đăng ký bổ sung tài liệu chứng minh, mẫu thiết bị, tài khoản thử nghiệm, môi trường demo, báo cáo kiểm thử độc lập, kiểm thử an toàn thông tin, ý kiến của chuyên gia hoặc cơ quan có thẩm quyền khi cần thiết cho việc thẩm định.
 
-Điều 9. Trình tự, thủ tục đăng ký tham gia cơ sở thử nghiệm
+Điều 9. Trình tự, thủ tục đăng ký tham gia cơ chế thử nghiệm
 
-1. Cục Khoa học, Công nghệ và Thông tin là đầu mối tiếp nhận hồ sơ đăng ký tham gia cơ sở thử nghiệm. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Khoa học, Công nghệ và Thông tin có văn bản xác nhận hồ sơ đầy đủ, hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ.
+1. Cục Khoa học, Công nghệ và Thông tin là đầu mối tiếp nhận hồ sơ đăng ký tham gia cơ chế thử nghiệm. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Khoa học, Công nghệ và Thông tin có văn bản xác nhận hồ sơ đầy đủ, hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ.
 
 2. Trong thời hạn 15 ngày kể từ ngày có văn bản yêu cầu bổ sung, nếu tổ chức đăng ký không bổ sung đầy đủ thành phần hồ sơ theo yêu cầu, Cục Khoa học, Công nghệ và Thông tin có văn bản trả hồ sơ và nêu rõ lý do.
 
@@ -235,7 +235,7 @@ dữ liệu; chỉ số báo cáo; phương án giám sát; ngưỡng cảnh bá
 
 2. Trường hợp xảy ra sự cố có khả năng ảnh hưởng đến sức khỏe, tính mạng, an toàn tâm lý của người học; an toàn thông tin; dữ liệu cá nhân hoặc dữ liệu giáo dục, tổ chức tham gia cơ chế thử nghiệm phải thông báo ngay cho cơ sở giáo dục và Cục Khoa học, Công nghệ và Thông tin.
 
-3. Báo cáo phải phản ánh đầy đủ tiến độ, quy mô, kết quả triển khai, chỉ số sử dụng, phản hồi của các bên liên quan, kết quả sự phạm, sự cố phát sinh, biện pháp khắc phục và kiến nghị điều chỉnh. Báo cáo, dữ liệu và tài liệu liên quan được gửi bằng phương thức điện tử, có ký số khi cần thiết; dữ liệu cá nhân phải được ẩn danh hóa, giả danh hóa hoặc tổng hợp trước khi cung cấp, trừ trường hợp
+3. Báo cáo phải phản ánh đầy đủ tiến độ, quy mô, kết quả triển khai, chỉ số sử dụng, phản hồi của các bên liên quan, kết quả sư phạm, sự cố phát sinh, biện pháp khắc phục và kiến nghị điều chỉnh. Báo cáo, dữ liệu và tài liệu liên quan được gửi bằng phương thức điện tử, có ký số khi cần thiết; dữ liệu cá nhân phải được ẩn danh hóa, giả danh hóa hoặc tổng hợp trước khi cung cấp, trừ trường hợp
 
 TRANG
 
@@ -254,7 +254,7 @@ pháp luật có quy định khác. Hồ sơ, nhật ký, dữ liệu và báo c
 
 4. Tổ chức có nhu cầu gia hạn thử nghiệm gửi hồ sơ đề nghị gia hạn trước khi hết thời hạn thử nghiệm tối thiểu 60 ngày, gồm đơn đề nghị gia hạn, báo cáo kết quả thử nghiệm, lý do và phương án gia hạn, đánh giá rủi ro cập nhật, cam kết nguồn lực và ý kiến của cơ sở giáo dục phối hợp.
 
-5. Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Khoa học, Công nghệ và Thông tin chủ trì thẩm định, trình Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quyết định gia hạn hoặc Quyết định gia hạn hoặc có văn bản từ chối, nêu rõ lý do. Trường hợp cần lấy ý kiến chuyên môn hoặc kiểm tra thực tế, thời hạn xử lý không quá 30 ngày làm việc.
+5. Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Khoa học, Công nghệ và Thông tin chủ trì thẩm định, trình Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quyết định gia hạn hoặc có văn bản từ chối, nêu rõ lý do. Trường hợp cần lấy ý kiến chuyên môn hoặc kiểm tra thực tế, thời hạn xử lý không quá 30 ngày làm việc.
 
 Điều 13. Kết thúc thử nghiệm
 

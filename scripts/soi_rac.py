@@ -13,7 +13,7 @@ Khong chi markdown. Lan nay soi ca nhung loai rac da gap rai rac trong phien:
   7. Dong chi toan dau cham / gach
 
     python scripts/soi_rac.py
-    python scripts/soi_rac.py --nguon data/clean/text_clean_gemma
+    python scripts/soi_rac.py --nguon data/clean/text_final
 """
 import argparse
 import io

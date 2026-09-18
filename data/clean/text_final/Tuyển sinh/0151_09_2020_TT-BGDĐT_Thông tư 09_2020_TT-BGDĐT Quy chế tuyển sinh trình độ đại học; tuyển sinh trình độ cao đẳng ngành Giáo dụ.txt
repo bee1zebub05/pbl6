@@ -221,7 +221,7 @@ d) Thí sinh chịu trách nhiệm về tính xác thực của các thông tin 
 6. Xét tuyển đợt 1
 a) Sau khi kết thúc thời gian ĐKXT, các trường tham khảo thông tin trên Cổng thông tin tuyển sinh của Bộ GDĐT để chuẩn bị phương án tuyển sinh phù hợp;
 b) Sau khi hết thời hạn thí sinh được điều chỉnh nguyện vọng ĐKXT, các trường/nhóm trường khai thác thông tin (của trường/nhóm trường mình và của các trường/nhóm trường khác có liên quan) trên Cổng thông tin tuyển sinh của Bộ GDĐT để dự kiến điểm trúng tuyển, dự kiến danh sách thí sinh trúng tuyển vào trường/nhóm trường theo nguyên tắc quy định tại điểm b khoản 1 Điều này;
-c) Các trường/nhóm trường  nhập lên Cổng thông tin tuyển sinh của Bộ GDĐT danh sách thí sinh trúng tuyển dự kiến trong thời gian quy định để hệ thống tự động loại bỏ những nguyện vọng thấp của thí sinh được dự kiến trúng tuyển nhiều nguyện vọng theo quy định tại điểm b khoản 1 Điều này;
+c) Các trường/nhóm trường nhập lên Cổng thông tin tuyển sinh của Bộ GDĐT danh sách thí sinh trúng tuyển dự kiến trong thời gian quy định để hệ thống tự động loại bỏ những nguyện vọng thấp của thí sinh được dự kiến trúng tuyển nhiều nguyện vọng theo quy định tại điểm b khoản 1 Điều này;
 d) Các trường/nhóm trường điều chỉnh điểm trúng tuyển cho phù hợp với chỉ tiêu trong thời hạn quy định; quyết định điểm trúng tuyển và danh sách thí sinh trúng tuyển chính thức; công bố kết quả trúng tuyển trên trang thông tin điện tử của trường và trên phương tiện thông tin đại chúng khác;
 Đối với nhóm ngành đào tạo giáo viên và các ngành thuộc nhóm ngành sức khoẻ có cấp chứng chỉ hành nghề có quy định ngưỡng đảm bảo chất lượng đầu vào, nếu số thí sinh trúng tuyển không đủ điều kiện để tổ chức lớp học thì nhà trường phải liên hệ, thống nhất với thí sinh phương án giải quyết, không trái quy định của pháp luật hoặc báo cáo Bộ GDĐT để có phương án giải quyết, đảm bảo quyền lợi cho thí sinh;
 đ) Thí sinh xác nhận nhập học vào trường đã trúng tuyển trong thời hạn quy định bằng cách gửi bản chính Giấy chứng nhận kết quả thi đến trường trực tiếp hoặc bằng hình thức thư chuyển phát nhanh, thí sinh đã xác nhận nhập học thì không được tham gia xét tuyển ở các trường khác;
@@ -241,7 +241,7 @@ Kết quả các môn học ở THPT dùng để xét tuyển được ghi trong
 2. Đối với tất cả các phương thức tuyển sinh không sử dụng kết quả thi tốt nghiệp THPT, ngưỡng đảm bảo chất lượng đầu vào của các ngành thuộc nhóm ngành đào tạo giáo viên; các ngành thuộc nhóm ngành sức khỏe có cấp chứng chỉ hành nghề như sau:
 a) Đối với các ngành thuộc nhóm ngành đào tạo giáo viên
 - Xét tuyển trình độ ĐH dựa trên tổ hợp các môn học ở THPT: học sinh đã tốt nghiệp THPT phải có học lực lớp 12 xếp loại giỏi hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên;
-Riêng các ngành Giáo dục Thể chất và Huấn luyện thể thao người dự tuyển phải có học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên; nếu  tuyển sinh các thí sinh là vận động viên cấp 1, kiện tướng, vận động viên đã từng đoạt huy chương tại Hội khỏe Phù Đổng, các giải trẻ quốc gia và quốc tế hoặc giải vô địch quốc gia và quốc tế hoặc có điểm thi năng khiếu do trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) thì có thể  tuyển sinh trường hợp học sinh đạt các điều kiện quy định tại Điều 5 Quy chế này Các ngành Sư phạm Âm nhạc, Sư phạm Mỹ thuật người dự tuyển phải có học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên; nếu thí sinh có điểm thi năng khiếu do trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) thì có thể tuyển sinh trường hợp học sinh đạt các điều kiện quy định tại Điều 5 Quy chế này;
+Riêng các ngành Giáo dục Thể chất và Huấn luyện thể thao người dự tuyển phải có học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên; nếu tuyển sinh các thí sinh là vận động viên cấp 1, kiện tướng, vận động viên đã từng đoạt huy chương tại Hội khỏe Phù Đổng, các giải trẻ quốc gia và quốc tế hoặc giải vô địch quốc gia và quốc tế hoặc có điểm thi năng khiếu do trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) thì có thể tuyển sinh trường hợp học sinh đạt các điều kiện quy định tại Điều 5 Quy chế này Các ngành Sư phạm Âm nhạc, Sư phạm Mỹ thuật người dự tuyển phải có học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên; nếu thí sinh có điểm thi năng khiếu do trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) thì có thể tuyển sinh trường hợp học sinh đạt các điều kiện quy định tại Điều 5 Quy chế này;
 - Xét tuyển trình độ CĐ ngành Giáo dục Mầm non dựa trên tổ hợp các môn học ở THPT: người dự tuyển phải có học lực lớp 12 xếp loại khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên;
 - Thi tuyển trình độ ĐH: học sinh đã tốt nghiệp THPT phải có học lực lớp 12 xếp loại khá hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên;
 Riêng các ngành Giáo dục Thể chất, Huấn luyện thể thao, Sư phạm Âm nhạc và Sư phạm Mỹ thuật, học sinh đạt các điều kiện quy định tại Điều 5 Quy chế này được dự thi tuyển;
@@ -376,7 +376,7 @@ XỬ LÝ THÔNG TIN PHẢN ÁNH VI PHẠM QUY CHẾ TUYỂN SINH VÀ CHẾ ĐỘ
 4. Chánh Thanh tra Sở GDĐT quyết định thanh tra và thành lập đoàn thanh tra công tác tuyển sinh; trường hợp cần thiết giám đốc sở GDĐT quyết định thanh tra và thành lập đoàn thanh tra công tác tuyển sinh đối với cơ sở giáo dục trực thuộc UBND cấp tỉnh.
 5. Hiệu trưởng các trường tổ chức thanh tra, kiểm tra công tác tuyển sinh trong cơ sở theo quy định.
 6. Trình tự, thủ tục tổ chức thanh tra, kiểm tra theo quy định của pháp luật về thanh tra, kiểm tra và hướng dẫn của Bộ GDĐT.
-7. Những người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của  mình và của vợ hoặc chồng) dự thi hay xét tuyển vào các trường không được tham gia công tác thanh tra, kiểm tra công tác tuyển sinh trong năm đó.
+7. Những người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của mình và của vợ hoặc chồng) dự thi hay xét tuyển vào các trường không được tham gia công tác thanh tra, kiểm tra công tác tuyển sinh trong năm đó.
 Điều 24. Xử lý thông tin phản ánh vi phạm Quy chế tuyển sinh
 1. Nơi tiếp nhận thông tin, bằng chứng về vi phạm Quy chế tuyển sinh:
 a) Hội đồng tuyển sinh các trường;
@@ -421,7 +421,7 @@ g) Thực hiện quy trình tuyển sinh không đúng trình tự theo quy đ�
 h) Cố ý vi phạm các quy định khác của Quy chế này.
 4. Người tham gia công tác tuyển sinh là công chức, viên chức có hành vi vi phạm quy chế, tùy theo mức độ, sẽ bị cơ quan quản lý cán bộ xử lý theo quy định tại Điều 71 của Luật Giáo dục đại học; Luật Viên chức, Luật Cán bộ, công chức và các văn bản quy định về xử lý kỷ luật viên chức, công chức. Đối với những người vi phạm Quy chế tuyển sinh là cán bộ, giảng viên, giáo viên, nhân viên cơ hữu của các trường ngoài công lập không phải là công chức, viên chức, hiệu trưởng nhà trường quyết định xử lý theo quy định của Bộ luật lao động và các văn bản pháp luật hiện hành.
 5. Các trường vi phạm về tuyển sinh tùy theo mức độ vi phạm sẽ bị áp dụng xử lý theo quy định hiện hành.
- 
+ 
 Phụ lục
 (Ban hành kèm theo Thông tư số 09/TT-BGDĐT ngày 7/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo)
 (Cơ quan chủ quản)...............
@@ -433,7 +433,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 ĐỀ ÁN TUYỂN SINH TRÌNH ĐỘ ĐẠI HỌC, TRÌNH ĐỘ CAO ĐẲNG NGÀNH GIÁO DỤC MẦM NON NĂM ...
 I. Thông tin chung (tính đến thời điểm xây dựng đề án)
 1. Tên trường, sứ mệnh, địa chỉ các trụ sở (trụ sở chính và phân hiệu) và địa chỉ trang thông tin điện tử của trường
-2. Quy mô đào tạo chính quy đến 31/12/     ... (người học)
+2. Quy mô đào tạo chính quy đến 31/12/     ... (người học)
 Stt
 
 Theo phương thức, trình độ đào tạo
@@ -1274,9 +1274,9 @@ Năm bắt đầu đào tạo
 5.2. Chỉ tiêu đào tạo
 5.3. Ngưỡng đảm bảo chất lượng đầu vào
 5.4. Các nội dung tuyển sinh đào tạo theo đặt hàng do các trường quy định (không trái quy định hiện hành).
- 
+ 
 Cán bộ kê khai
 (Ghi rõ họ tên, số điện thoại liên hệ, địa chỉ Email)
 
-Ngày…….tháng      năm 202....
+Ngày…….tháng      năm 202....
 THỦ TRƯỞNG ĐƠN VỊ

@@ -33,9 +33,9 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-from .. import config
-from ..normalize import deaccent
-from ..pipeline import STOP, say
+from ..core import config
+from ..core.text import deaccent
+from ..core.console import STOP, say
 from . import norm, segment
 from .session import KGSession
 

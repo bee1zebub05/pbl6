@@ -19,8 +19,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from .. import config
-from ..pipeline import say
+from ..core import config
+from ..core.console import say
 
 BATCH = 500
 

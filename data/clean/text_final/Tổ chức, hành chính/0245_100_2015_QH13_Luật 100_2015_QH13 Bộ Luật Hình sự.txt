@@ -14,7 +14,7 @@ CHƯƠNG I
 Điều 1. Nhiệm vụ của Bộ luật hình sự
 Bộ luật hình sự có nhiệm vụ bảo vệ chủ quyền quốc gia an ninh của đất
 nước, bảo vệ chế độ xã hội chủ nghĩa, quyền con người, quyền công dân, bảo
-vệ quyền bình đẳng giữa đồng bào các dân tộc; bảo vệ lợi ích của Nhà nước, tố
+vệ quyền bình đẳng giữa đồng bào các dân tộc; bảo vệ lợi ích của Nhà nước, tổ
 chức, bảo vệ trật tự pháp luật, chống mọi hành vi phạm tội; giáo dục mọi người
 ý thức tuân theo pháp luật phòng ngừa và đấu tranh chống tội phạm.
 Bộ luật này quy định về tội phạm và hình phạt.
@@ -776,7 +776,7 @@ b) Đã tái phạm; chưa được xóa án tích mà lại thực hiện hành
 do cố ý
 Mục 2
 QUYẾT ĐỊNH HÌNH PHẠT TRONG CÁC TRƯỜNG HỢP CỤ THỂ
-Điều 54. Quyết định hình phạt dưới mức thấp nhất của khung bình
+Điều 54. Quyết định hình phạt dưới mức thấp nhất của khung hình
 phạt được áp dụng
 1. Tòa án có thể quyết định một hình phạt dưới mức thấp nhất của khung
 hình phạt được áp dụng nhưng phải trong khung hình phạt liền kề nhẹ hơn
@@ -1100,7 +1100,7 @@ hoặc tử hình nhưng đã được giảm án.
 Trường hợp người bị kết án đang chấp hành hình phạt bổ sung là quản
 chế, cấm cư trú, cấm đảm nhiệm chức vụ; cấm hành nghề hoặc làm công
 việc nhất định, tước một số quyền công dân mà thời hạn phải chấp hành dài
-hơn thời hạn quy định tại các điểm a, b và c khoản này thì thời hạn dương
+hơn thời hạn quy định tại các điểm a, b và c khoản này thì thời hạn đương
 nhiên được xóa án tích sẽ hết vào thời điểm người đó chấp hành xong hình
 phạt bổ sung.
 3. Người bị kết án đương nhiên được xóa án tích, nếu từ khi hết thời
@@ -1354,7 +1354,7 @@ Khi xét xử cùng 01 lần pháp nhân thương mại phạm nhiều tội, T�
 1. Đối với hình phạt chính:
 a) Nếu các hình phạt đã tuyên cùng là phạt tiền thì các khoản tiền phạt
 được cộng lại thành hình phạt chung;
-b) Hình phạt đã tuyên là đình chỉ hoạt động có thời hạn đối với tùng lĩnh
+b) Hình phạt đã tuyên là đình chỉ hoạt động có thời hạn đối với từng lĩnh
 vực cụ thể thì không tổng hợp;
 Hình phạt tiền không tổng hợp với các loại hình phạt khác;
 2. Đối với hình phạt bổ sung:
@@ -1438,7 +1438,7 @@ dâm người từ đủ 13 tuổi đến dưới 16 tuổi); Điều 150 (tội
 249 (tội tàng trữ trái phép chất ma túy); Điều 250 (tội vận chuyển trái phép
 chất ma túy); Điều 251 (tội mua bán trái phép chất ma túy); Điều 252 (tội
 chiếm đoạt chất ma túy) của Bộ luật này;
-c) Người dưới 18 tuổi là người đồng phạm nhưng có vai trò không dáng
+c) Người dưới 18 tuổi là người đồng phạm nhưng có vai trò không đáng
 kể trong vụ án.
 3. Việc truy cứu trách nhiệm hình sự người dưới 18 tuổi phạm tội chỉ
 trong trường hợp cần thiết và phải căn cứ vào những đặc điểm về nhân thân
@@ -3532,7 +3532,7 @@ Thu lợi bất chính từ 200.000.000 đồng đến dưới 500.000.000 đồ
 g) Phạm tội thuộc một trong các trường hợp quy định tại các điểm a, b; c
 và d khoản 1 Điều này qua biên giới hoặc từ khu phi thuế quan vào nội địa và
 ngược lại;
-h) Tái phạm nguy hiếm.
+h) Tái phạm nguy hiểm.
 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05
 năm đến 10 năm:
 Hàng phạm pháp trị giá 500.000.000 đồng trở lên;
@@ -3790,7 +3790,7 @@ sau:
 ----- [Trang 102] -----
 
 102
-a) Pháp nhân thương mại phạm tội thuộc trường hợp quy định tai khoản
+a) Pháp nhân thương mại phạm tội thuộc trường hợp quy định tại khoản
 1 Điều này, thì bị phạt tiền từ 1.000.000.000 đồng đến 4.000.000.000 đồng;
 b) Phạm tội thuộc trường hợp quy định tại khoản 2 Điều này; thì bị phạt
 tiền từ 4.000.000.000 đồng đến 9.000.000.000 đồng;
@@ -3833,11 +3833,11 @@ năm đến 10 năm:
 a) Có tổ chức;
 b) Có tính chất chuyên nghiệp;
 c) Tái phạm nguy hiểm;
-Lợi dụng chúc vụ, quyền hạn;
+Lợi dụng chức vụ, quyền hạn;
 Lợi dụng danh nghĩa cơ quan; tổ chức;
 Phạm tội qua biên giới hoặc từ khu phi thuế quan vào nội địa và
 ngược lại;
-8 Hàng giả trị giá từ 100.000.000 đồng đến dưới 200.000.000 đồng tính theo
+g) Hàng giả trị giá từ 100.000.000 đồng đến dưới 200.000.000 đồng tính theo
 giá bán; giá niêm yết giá ghi trong hóa đơn;
 h) Hàng giả tương đương với số lượng của hàng thật trị giá từ
 150.000.000 đồng đến dưới 500.000.000 đồng trong trường hợp không xác
@@ -3847,10 +3847,10 @@ i) Gây thiệt hại về tài sản từ 500.000.000 đồng đến dưới 1.
 k) Thu lợi bất chính từ 100.000.000 đồng đến dưới 500.000.000 đồng
 3. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 10 năm
 đến 15 năm:
-Hàng già có giá bán giá niêm yết; giá ghi trong hóa đơn 200.000.000
+Hàng giả có giá bán giá niêm yết; giá ghi trong hóa đơn 200.000.000
 đồng trở lên;
 b) Hàng giả tương đương với số lượng của hàng thật trị giá 500.000.000
-đồng trở lên trong tường hợp không xác định được giá thành sản xuất, giá
+đồng trở lên trong trường hợp không xác định được giá thành sản xuất, giá
 bán; giá niêm yết, giá ghi trong hóa đơn;
 Gây thiệt hại về tài sản từ 1.500.000.000 đồng đến dưới
 3.000.000.000 đồng;
@@ -3965,7 +3965,7 @@ về hành vi này hoặc đã bị kết án về tội này chưa được xó
 phạm, thì bị phạt tiền từ 30.000.000 đồng đến 150.000.000 đồng, phạt cải tạo
 không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm:
 a) Cắt điện không có căn cứ hoặc không thông báo theo quy định;
-b) Tù chối cung cấp điện không có căn cứ;
+b) Từ chối cung cấp điện không có căn cứ;
 Trì hoãn việc xử lý sự cố điện không có lý do chính đáng:
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ
 150.000.000 đồng đến 500.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm:
@@ -3992,7 +3992,7 @@ c) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 việc nhất định từ 01 năm đến 05 năm
 Mục 2
 CÁC TỘI PHẠM TRONG LĨNH VỰC THUẾ, TÀI CHÍNH;
-NGÂN HÀNG, CHỨNG KHOẢN, BẢO HIỂM
+NGÂN HÀNG, CHỨNG KHOÁN, BẢO HIỂM
 Điều 200. Tội trốn thuế
 1. Người nào thực hiện một trong các hành vi sau đây trốn thuế với số
 tiền từ 100.000.000 đồng đến dưới 300.000.000 đồng hoặc dưới 100.000.000
@@ -4012,7 +4012,7 @@ bán;
 d) Sử dụng hóa đơn, chứng từ không hợp pháp để hạch toán hàng hóa,
 nguyên liệu đầu vào trong hoạt động phát sinh nghĩa vụ thuế làm giảm số tiền
 thuế phải nộp hoặc làm tăng số tiền thuế được miễn; số tiền thuế được giảm
-hoặc tăng số tiền thuế được khấu trù, số tiền thuế được hoàn;
+hoặc tăng số tiền thuế được khấu trừ, số tiền thuế được hoàn;
 Sử dụng chứng từ, tài liệu không hợp pháp khác để xác định sai số
 tiền thuế phải nộp, số tiền thuế được hoàn;
 
@@ -4114,7 +4114,7 @@ a) Có tổ chức;
 b) Có tính chất chuyên nghiệp;
 c) Lợi dụng chức vụ; quyền hạn;
 Hóa đơn; chứng từ ở dạng phôi từ 100 số trở lên hoặc hóa đơn, chứng
-tù đã ghi nội dung từ 30 số trở lên;
+từ đã ghi nội dung từ 30 số trở lên;
 Thu lợi bất chính 100.000.000 đồng trở lên;
 e) Gây thiệt hại cho ngân sách nhà nước 100.000.000 đồng trở lên;
 g Tái phạm nguy hiểm.
@@ -4229,7 +4229,7 @@ tờ có giá giả khác có trị giá tương ứng từ 10.000.000 đồng �
 100.000.000 đồng, thì bị phạt tù từ 05 năm đến 10 năm.
 3. Phạm tội trong trường hợp công cụ chuyển nhượng giả hoặc các giấy
 tờ có giá giả khác có trị giá tương ứng từ 100.000.000 đồng đến dưới
-300.000.000 đồng, thì bị phạt tà từ 10 năm đến 15 năm.
+300.000.000 đồng, thì bị phạt tù từ 10 năm đến 15 năm.
 4. Phạm tội trong trường hợp công cụ chuyển nhượng giả hoặc các giấy
 tờ có giá giả khác có trị giá tương ứng từ 300.000.000 đồng trở lên, thì bị phạt
 tù từ 15 năm đến 20 năm.
@@ -4281,7 +4281,7 @@ lợi bất chính từ 300.000.000 đồng đến dưới 1.000.000.000 đồng
 ----- [Trang 115] -----
 
 115
-hại cho nhà đầu từ từ 500.000.000 đồng đến dưới 1.500.000.000 đồng, thì bị
+hại cho nhà đầu tư từ 500.000.000 đồng đến dưới 1.500.000.000 đồng, thì bị
 phạt tiền từ 500.000.000 đồng đến 2.000.000.000 đồng hoặc phạt tù từ 06 tháng
 đến 03 năm.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ
@@ -4326,7 +4326,7 @@ giá mở cửa mới cho loại chứng khoán đó trên thị trường;
 Giao dịch chứng khoán bằng hình thức cấu kết, lôi kéo người khác
 liên tục đặt lệnh mua; bán chứng khoán gây ảnh hưởng lớn đến cung cầu và
 giá chứng khoán; thao túng giá chứng khoán;
-Đua ra ý kiến một cách trực tiếp hoặc gián tiếp thông qua phương tiện
+Đưa ra ý kiến một cách trực tiếp hoặc gián tiếp thông qua phương tiện
 thông tin đại chúng về một loại chứng khoán; về tổ chức phát hành chứng
 khoán nhằm tạo ảnh hưởng đến giá của loại chứng khoán đó sau khi đã thực
 hiện giao dịch và nắm giữ vị thế đối với loại chứng khoán đó;
@@ -4387,7 +4387,7 @@ Giả mạo tài liệu, cố ý làm sai lệch thông tin trong hồ sơ yêu 
 thường, trả tiền bảo hiểm;
 d) Tự gây thiệt hại về tài sản, sức khỏe của mình để hưởng quyền lợi bảo
 hiểm trừ trường hợp luật quy định khác.
-2. Phạm tội thuộc một trong các tường hợp sau đây, thì bị phạt tiền từ
+2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ
 100.000.000 đồng đến 300.000.000 đồng hoặc phạt tù từ 01 năm đến 03 năm:
 a) Có tổ chức;
 b) Dùng thủ đoạn tinh vi; xảo quyệt;
@@ -4422,7 +4422,7 @@ thiệt hại 5.000.000.000 đồng trở lên, thì bị phạt tiền từ 3.0
 đến 7.000.000.000 đồng;
 Pháp nhân thương mại còn có thể bị cấm kinh doanh; cấm hoạt động
 trong một số lĩnh vực nhất định hoặc cấm huy động vốn từ 01 năm đến 03 năm
-Điều 214. Tội gian lận bảo hiểm xã bội, bảo hiểm thất nghiệp
+Điều 214. Tội gian lận bảo hiểm xã hội, bảo hiểm thất nghiệp
 1 Người nào thực hiện một trong các hành vi sau đây, chiếm đoạt tiền
 bảo hiểm xã hội, bảo hiểm thất nghiệp từ 10.000.000 đồng đến dưới
 100.000.000 đồng hoặc gây thiệt hại từ 20.000.000 đồng đến dưới
@@ -4491,14 +4491,14 @@ b) Gây thiệt hại 500.000.000 đồng trở lên.
 việc nhất định từ 01 năm đến 05 năm
 Điều 216. Tội trốn đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm
 thất nghiệp cho người lao động
-1. Người nào có nghĩa vụ đóng bảo hiểm xã hội, bảo hiếm y tế, bảo hiếm
+1. Người nào có nghĩa vụ đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm
 thất nghiệp cho người lao động mà gian dối hoặc bằng thủ đoạn khác để
 không đóng hoặc không đóng đầy đủ theo quy định từ 06 tháng trở lên thuộc
 một trong những trường hợp sau đây, đã bị xử phạt vi phạm hành chính về
-hành vi này mà còn vi phạm; thì bị phạt tiến từ 50.000.000 đồng đến
+hành vi này mà còn vi phạm; thì bị phạt tiền từ 50.000.000 đồng đến
 200.000.000 đồng, phạt cải tạo không giam giữ đến 01 năm hoặc phạt tù từ 03
 tháng đến 01 năm:
-a) Trốn đóng bào hiểm từ 50.000.000 đồng đến dưới 300.000.000 đồng;
+a) Trốn đóng bảo hiểm từ 50.000.000 đồng đến dưới 300.000.000 đồng;
 b) Trốn đóng bảo hiểm cho từ 10 người đến dưới 50 người lao động:
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ
 200.000.000 đồng đến 500.000.000 đồng hoặc phạt tù từ 06 tháng năm đến 03
@@ -4518,7 +4518,7 @@ d) Không đóng số tiền bảo hiểm đã thu hoặc đã khấu trừ củ
 năm:
 a) Trốn đóng bảo hiểm 1.000.000.000 đồng trở lên;
 b) Trốn đóng bảo hiểm cho 200 người trở lên;
-c) Không đóng số tiền bào hiểm đã thu hoặc đã khấu trừ của người lao
+c) Không đóng số tiền bảo hiểm đã thu hoặc đã khấu trừ của người lao
 động quy định tại điểm b hoặc điểm c khoản 2 Điều này.
 4 Người phạm tội còn có thể bị phạt tiền từ 20.000.000 đồng đến
 100.000.000 đồng, cấm đảm nhiệm chức vụ; cấm hành nghề hoặc làm công
@@ -4691,7 +4691,7 @@ Gian lận trong đấu thầu;
 Cản trở hoạt động đấu thầu;
 Vi phạm quy định của pháp luật về bảo đảm công bằng, minh bạch
 trong hoạt động đấu thầu;
-Tổ chức lụa chọn nhà thầu khi nguồn vốn cho gói thầu chưa được xác
+Tổ chức lựa chọn nhà thầu khi nguồn vốn cho gói thầu chưa được xác
 định dẫn đến nợ đọng vốn của nhà thầu;
 g Chuyển nhượng thầu trái phép.
 
@@ -5025,7 +5025,7 @@ phòng hộ hoặc từ 0,5 mét khối (m3) đến dưới 01 mét khối (m3) 
 dụng hoặc khu bảo tồn thiên nhiên;
 Tàng trữ; vận chuyển; chế biến, mua bán trái phép từ 1,5 mét khối
 (m) đến dưới 03 mét khối (m3) đối với gỗ loài nguy cấp, quý, hiếm Nhóm IA
-hoặc gỗ có nguồn gốc tù nước ngoài của loài thuộc Phụ lục I Công ước về
+hoặc gỗ có nguồn gốc từ nước ngoài của loài thuộc Phụ lục I Công ước về
 buôn bán quốc tế các loài động vật; thực vật hoang dã, nguy cấp hoặc Danh
 mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ;từ 10 mét khối (m3) đến
 dưới 20 mét khối (m3) gỗ loài thực vật nguy cấp, quý, hiếm Nhóm IIA hoặc
@@ -5438,7 +5438,7 @@ a) Xây nhà; công trình trái phép trong phạm vi bảo vệ an toàn công
 thủy lợi, đê điều, phòng, chống thiên tai;
 b) Hủy hoại hoặc làm hư hỏng công trình thủy lợi, đê điều, phòng chống
 thiên tai, công trình bảo vệ, khai thác, sử dụng, quan trắc, giám sát tài nguyên
-nước, công trình phòng, chống và khắc phục hậu quả tác hại do nước gây Ia,
+nước, công trình phòng, chống và khắc phục hậu quả tác hại do nước gây ra,
 trừ trường hợp quy định tại Điều 303 của Bộ luật này;
 c) Khoan, đào thăm dò, khảo sát; khai thác đất; đá, cát sỏi, khoáng sản,
 nước dưới đất trái phép;
@@ -5448,7 +5448,7 @@ dụng, quan trắc, giám sát tài nguyên nước; công trình phòng, chố
 phục hậu quả tác hại do nước gây ra, trừ trường hợp có giấy phép hoặc trường
 hợp khẩn cấp do luật định;
 đ) Vận hành hồ chứa nước, liên hồ chứa nước, công trình phân lũ, làm
-chậm lũ không đúng với quy trình; quy chuẩn kỹ thuật cho phép, trù trường
+chậm lũ không đúng với quy trình; quy chuẩn kỹ thuật cho phép, trừ trường
 hợp đặc biệt thực hiện theo sự chỉ đạo của người có thẩm quyền:
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ
 300.000.000 đồng đến 2.000.000.000 đồng hoặc phạt tù từ 02 năm đến 07
@@ -5568,7 +5568,7 @@ từ 06 tháng đến 03 năm:
 a) Đưa vào, mang ra hoặc cho phép đưa vào, mang ra khỏi vùng có dịch
 động vật; thực vật; sản phẩm động vật; thực vật hoặc vật phẩm khác bị nhiễm
 bệnh hoặc mang mầm bệnh, trừ trường hợp pháp luật có quy định khác;
-b) Đua vào hoặc cho phép đưa vào lãnh thổ Việt Nam động vật thực
+b) Đưa vào hoặc cho phép đưa vào lãnh thổ Việt Nam động vật thực
 vật; sản phẩm động vật; thực vật thuộc diện kiểm dịch mà không thực hiện
 
 ----- [Trang 149] -----
@@ -6014,7 +6014,7 @@ gam;
 h) Các chất ma túy khác ở thể lỏng có thể tích từ 10 mililít đến dưới 100
 mililít;
 i) Có 02 chất ma túy trở lên mà tổng số lượng của các chất đó tương
-dương với số lượng chất ma túy quy định tại một trong các điểm tù điểm b
+đương với số lượng chất ma túy quy định tại một trong các điểm từ điểm b
 đến điểm h khoản này.
 2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 05
 năm đến 10 năm:
@@ -6146,7 +6146,7 @@ p) Tái phạm nguy hiểm.
 
 164
 năm đến 20 năm:
-a) Nhựa thuốc phiện, nhựa cần sa hoặc cao cô ca có khối lượng từ 01
+a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01
 kilôgam đến dưới 05 kilôgam;
 b) Hêrôin, côcain; Methamphetamine; Amphetamine MDMA có khối
 lượng từ 30 gam đến dưới 100 gam;
@@ -6210,7 +6210,7 @@ l) Quả thuốc phiện tươi có khối lượng từ 10 kilôgam đến dư�
 kilôgam;
 m) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100
 gam;
-n) Các chất ma túy khác ở thể lòng có thể tích từ 100 mililít đến dưới
+n) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới
 250 mililít;
 o) Có 02 chất ma túy trở lên mà tổng số lượng của các chất đó tương
 đương với số lượng chất ma túy quy định tại một trong các điểm từ điểm a
@@ -6234,7 +6234,7 @@ Quả thuốc phiện tươi có khối lượng từ 50 kilôgam đến dưới
 kilôgam;
 Các chất ma túy khác ở thể rắn có khối lượng từ 100 gam đến dưới 300
 gam;
-g) Các chất ma túy khác ở thể lòng có thể tích từ 250 mililít đến dưới
+g) Các chất ma túy khác ở thể lỏng có thể tích từ 250 mililít đến dưới
 750 mililít;
 h) Có 02 chất ma túy trở lên mà tổng số lượng của các chất đó tương
 đương với số lượng chất ma túy quy định tại một trong các điểm từ điểm a
@@ -6279,7 +6279,7 @@ e) Quả thuốc phiện tươi có khối lượng từ 01 kilôgam đến dư�
 kilôgam;
 g Các chất ma túy khác ở thể rắn có khối lượng từ 01 gam đến dưới 20
 gam;
-h) Các chất ma túy khác ở thể lòng có thể tích từ 10 mililít đến dưới 100
+h) Các chất ma túy khác ở thể lỏng có thể tích từ 10 mililít đến dưới 100
 mililít;
 i) Có 02 chất ma túy trở lên mà tổng số lượng của các chất đó tương
 đương với số lượng chất ma túy quy định tại một trong các điểm từ điểm b
@@ -6310,12 +6310,12 @@ gam;
 m) Các chất ma túy khác ở thể lỏng có thể tích từ 100 mililít đến dưới
 250 mililít;
 n) Có 02 chất ma túy trở lên mà tổng số lượng của các chất đó tương
-dương với số lượng chất ma túy quy định tại một trong các điểm từ điểm
+đương với số lượng chất ma túy quy định tại một trong các điểm từ điểm
 đến điểm m khoản này;
 o) Tái phạm nguy hiểm.
 3. Phạm tội thuộc một trong các trường hợp sau đây; thì bị phạt tù từ 10
 đến 15 năm:
-a) Nhựa thuốc phiện, nhựa cần sa hoặc cao cô ca có khối lượng từ 01
+a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng từ 01
 kilôgam đến dưới 05 kilôgam;
 b) Hêrôin, côcain; Methamphetamine, Amphetamine; MDMA có khối
 lượng từ 30 gam đến dưới 100 gam;
@@ -6375,7 +6375,7 @@ b) Phạm tội 02 lần trở lên;
 c) Lợi dụng chức vụ; quyền hạn;
 d) Lợi dụng danh nghĩa cơ quan; tổ chức;
 Tiền chất ở thể rắn có khối lượng từ 200 gam đến dưới 500 gam;
-e) Tiền chất ở thể lòng từ 300 mililít đến dưới 750 mililít;
+e) Tiền chất ở thể lỏng từ 300 mililít đến dưới 750 mililít;
 g) Sử dụng người dưới 16 tuổi vào việc phạm tội;
 h) Vận chuyển; mua bán qua biên giới;
 i) Tái phạm nguy hiểm.
@@ -6594,7 +6594,7 @@ năm đến 10 năm:
 a) Không có giấy phép lái xe theo quy định;
 b) Trong tình trạng có sử dụng rượu; bia mà trong máu hoặc hơi thở có
 nồng độ cồn vượt quá mức quy định hoặc có sử dụng chất ma túy hoặc các
-chất kích thích mạnh khác mà pháp luật cấm sứ dụng;
+chất kích thích mạnh khác mà pháp luật cấm sử dụng;
 Gây tai nạn rồi bỏ chạy để trốn tránh trách nhiệm hoặc cố ý không
 cứu giúp người bị nạn;
 d) Không chấp hành hiệu lệnh của người điều khiển hoặc hướng dẫn giao thông;
@@ -6695,7 +6695,7 @@ hoặc phạt cải tạo không giam giữ đến 01 năm.
 đường bộ, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ
 thuật tham gia giao thông
 1. Người nào chịu trách nhiệm trực tiếp về việc điều động hoặc về tình
-trang kỹ thuật mà cho phép đưa vào sử dụng phương tiện giao thông cơ giới
+trạng kỹ thuật mà cho phép đưa vào sử dụng phương tiện giao thông cơ giới
 đường bộ, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật
 tham gia giao thông thuộc một trong các trường hợp sau đây, thì bị phạt tiền
 từ 20.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến
@@ -6712,7 +6712,7 @@ Gây thương tích hoặc gây tổn hại cho sức khỏe của 03 người t
 mà tổng tỷ lệ tổn thương cơ thể của những người này từ 61% đến 121%;
 d) Gây thiệt hại về tài sản từ 100.000.000 đồng đến dưới 500.000.000
 đồng:
-2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt từ từ 03
+2. Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 03
 năm đến 07 năm:
 a) Làm chết 02 người;
 b) Gây thương tích hoặc gây tổn hại cho sức khỏe của 02 người với tỷ lệ
@@ -6784,7 +6784,7 @@ mà tổng tỷ lệ tổn thương cơ thể của những người này 201% t
 d) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 4 Người có thẩm quyền mà biết rõ người không có giấy phép lái xe,
 không đủ sức khỏe, độ tuổi để điều khiển phương tiện; người đang trong tình
-trang có sử dụng rượu, bia mà trong máu hoặc hơi thờ có nồng độ cồn vượt
+trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt
 quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh
 khác mà vẫn điều động người đó điều khiển các phương tiện tham gia giao
 thông đường bộ gây thương tích hoặc gây tổn hại cho sức khỏe của 01 người
@@ -6799,7 +6799,7 @@ việc nhất định từ 01 năm đến 05 năm.
 phương tiện tham gia giao thông đường bộ
 1. Người chủ sở hữu, quản lý phương tiện tham gia giao thông đường bộ
 mà giao cho người không có giấy phép lái xe hoặc người đang trong tình
-trang có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt
+trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt
 quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh
 khác hoặc không đủ các điều kiện khác theo quy định của pháp luật điều
 khiển phương tiện tham gia giao thông đường bộ thuộc một trong các trường
@@ -6836,7 +6836,7 @@ mà tổng tỷ lệ tổn thương cơ thể của những người này 201% t
 d) Gây thiệt hại về tài sản 1.500.000.000 đồng trở lên.
 4. Người chủ sở hữu, quản lý phương tiện tham gia giao thông đường bộ
 mà giao cho người không có giấy phép lái xe hoặc người đang trong tình
-trang có sử dụng rượu; bia mà trong máu hoặc hơi thở có nồng độ cồn vượt
+trạng có sử dụng rượu; bia mà trong máu hoặc hơi thở có nồng độ cồn vượt
 quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất kích thích mạnh
 khác hoặc không đủ các điều kiện khác theo quy định của pháp luật gây
 thương tích hoặc gây tổn hại cho sức khỏe của 01 người với tỷ lệ tổn thương
@@ -7087,7 +7087,7 @@ tháng đến 02 năm
 Điều 269. Tội đưa vào sử dụng các phương tiện, thiết bị giao thông
 đường sắt không bảo đảm an toàn
 1 Người nào chịu trách nhiệm trực tiếp về việc điều động hoặc về tình
-trang kỹ thuật của phương tiện giao thông đường sắt mà cho phép đưa vào sử
+trạng kỹ thuật của phương tiện giao thông đường sắt mà cho phép đưa vào sử
 dụng các phương tiện; thiết bị không có giấy chứng nhận đăng ký; đăng kiểm
 hoặc có nhưng biết là các phương tiện, thiết bị đó không bảo đảm tiêu chuẩn
 kỹ thuật, an toàn gây thiệt hại thuộc một trong các trường hợp sau đây hoặc
@@ -7232,7 +7232,7 @@ quá mức quy định hoặc có sử dụng chất ma túy hoặc các chất 
 khác hoặc không đủ các điều kiện khác theo quy định của pháp luật điều khiển
 phương tiện giao thông đường sắt gây thương tích hoặc gây tổn hại cho sức khỏe
 của 01 người với tỷ lệ tổn thương cơ thể từ 31% đến 60% hoặc gây thương tích
-hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tốn thương cơ
+hoặc gây tổn hại cho sức khỏe của 02 người trở lên mà tổng tỷ lệ tổn thương cơ
 thể của những người này từ 31% đến 60% hoặc đã bị xử lý kỷ luật về hành vi
 này mà còn vi phạm; thì bị phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng
 hoặc phạt cải tạo không giam giữ đến 03 năm:
@@ -7363,7 +7363,7 @@ tháng đến 02 năm:
 Điều 274. Tội đưa vào sử dụng các phương tiện giao thông đường
 thuỷ không bảo đảm an toàn
 1 Người nào chịu trách nhiệm trực tiếp về việc điều động hoặc về tình
-trang kỹ thuật của phương tiện giao thông đường thuỷ mà cho phép đưa vào
+trạng kỹ thuật của phương tiện giao thông đường thuỷ mà cho phép đưa vào
 sử dụng phương tiện giao thông đường thuỷ rõ ràng không bảo đảm an toàn
 gây thiệt hại thuộc một trong các trường hợp sau đây hoặc đã bị xử lý kỷ luật;
 xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa
@@ -7514,7 +7514,7 @@ của 02 người trở lên mà tổng tỷ lệ tổn thương cơ thể của
 này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm; thì bị
 phạt tiền từ 30.000.000 đồng đến 100.000.000 đồng hoặc phạt cải tạo không
 giam giữ đến 03 năm
-5. Người phạm tội còn có thể bị cấm đảm nhiệm chức vu; cấm hành
+5. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ; cấm hành
 nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm:
 Điều 277. Tội vi phạm quy định điều khiển tàu bay
 1. Người nào chỉ huy; điều khiển tàu bay mà vi phạm các quy định về an
@@ -11394,5 +11394,4 @@ VĂN PHÒNG SAO Y BẢN CHÍNH
 CHỦ TỊCH NƯỚC Hà Nội, ngày 11 tháng 12 năm 2015
 KT. CHỦ NHIỆM VĂN PHÒNG CHỦ TỊCH NƯỚC
 Số: 42 /SY-VPCTN NHIỆM THƯỜNG TRỰC
-;
 Giang Sơn

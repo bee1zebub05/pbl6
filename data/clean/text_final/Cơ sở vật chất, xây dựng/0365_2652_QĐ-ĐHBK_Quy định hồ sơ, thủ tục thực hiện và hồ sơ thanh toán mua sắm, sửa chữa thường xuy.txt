@@ -219,7 +219,6 @@ Quyết định phê duyệt dự toán và KHLCNT.
 
 6
 
-|
 
 ----- [Trang 8] -----
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
@@ -294,15 +293,15 @@ Cung cấp chứng nhận xuất xưởng/ chứng nhận hợp quy/phiếu ki�
 
 7. Nếu các gói thầu có mặt hàng đúng với mặt hàng của gói thầu đã thực hiện trước đó mà đã được cấp chứng thư thẩm định giá (còn thời gian hiệu lực) thì được sử dụng lại chứng thư thẩm định giá này cho mặt hàng đó.
 
-8.(*) Bộ hồ sơ tư vấn Thẩm định giá: Thư mời báo giá, Biên bản xét duyệt báo giá đối với hồ sơ từ 5.000.000 đồng trở lên (chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá), thương thảo hợp đồng (đối với hồ sơ từ 20.000.000 đồng trở lên), quyết định phê duyệt kết quả LCNT, Hợp đồng, Chứng thư, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán (Mẫu C37-HD);
+8. (*) Bộ hồ sơ tư vấn Thẩm định giá: Thư mời báo giá, Biên bản xét duyệt báo giá đối với hồ sơ từ 5.000.000 đồng trở lên (chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá), thương thảo hợp đồng (đối với hồ sơ từ 20.000.000 đồng trở lên), quyết định phê duyệt kết quả LCNT, Hợp đồng, Chứng thư, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán (Mẫu C37-HD);
 
-9.() Bộ hồ sơ tư vấn lập dự toán: Thư mời, Quyết định phê duyệt kết quả LCNT, Hợp đồng, Hồ sơ dự toán, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán (Mẫu C37-HD);
+9. () Bộ hồ sơ tư vấn lập dự toán: Thư mời, Quyết định phê duyệt kết quả LCNT, Hợp đồng, Hồ sơ dự toán, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán (Mẫu C37-HD);
 
 10. (*) Bộ hồ sơ tư vấn thẩm tra: Thư mời, Quyết định kết quả LCNT, Hợp đồng, Báo cáo thẩm tra, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán (Mẫu C37-HD);
 
-11.() Bộ hồ sơ quản lý chất lượng công trình: căn cứ theo quy định thuộc Nghị định 06/2021/NĐ-CP;
+11. () Bộ hồ sơ quản lý chất lượng công trình: căn cứ theo quy định thuộc Nghị định 06/2021/NĐ-CP;
 
-12.(*) Bộ hồ sơ quyết toán: căn cứ theo quy định tại Nghị định 99/2021/NĐ-CP; Biểu mẫu theo Thông tư 96/2021/TT-BTC.
+12. (*) Bộ hồ sơ quyết toán: căn cứ theo quy định tại Nghị định 99/2021/NĐ-CP; Biểu mẫu theo Thông tư 96/2021/TT-BTC.
 
 13. Việc mua vé máy bay cho các đoàn đi công tác trong nước và quốc tế không phải lập, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu.
 

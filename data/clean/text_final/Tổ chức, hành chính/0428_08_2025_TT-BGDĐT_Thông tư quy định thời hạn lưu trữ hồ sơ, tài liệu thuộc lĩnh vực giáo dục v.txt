@@ -96,7 +96,6 @@ THỜI HẠN LƯU TRỮ HỒ SƠ, TÀI LIỆU THUỘC LĨNH VỰC GIÁO DỤC V�
 | 7. | Hồ sơ xây dựng, quản lý, tổ chức thực hiện các đề án, chương trình mục tiêu, dự án chuyên môn về giáo dục và đào tạo | Vĩnh viễn |
 | 8. | Kế hoạch nhiệm vụ năm học; báo cáo tình hình thực hiện kế hoạch nhiệm vụ năm học | 20 năm |
 | 9. | Kế hoạch đào tạo đối với khóa học, năm học; báo cáo tổng kết năm học, khóa học và bản lưu các báo cáo liên quan đến đào tạo gửi cơ quan quản lý nhà nước có thẩm quyền | 10 năm |
-|
 
 ----- [Trang 5] -----
 10. | Báo cáo đánh giá, tổng hợp giáo dục các cấp học cả nước qua từng thời kỳ và năm học | Vĩnh viễn |
@@ -145,7 +144,6 @@ THỜI HẠN LƯU TRỮ HỒ SƠ, TÀI LIỆU THUỘC LĨNH VỰC GIÁO DỤC V�
 
 4
 
-|
 
 ----- [Trang 7] -----
 STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
@@ -208,7 +206,6 @@ Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 
 7
 
-|
 
 ----- [Trang 10] -----
 STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
@@ -239,7 +236,7 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | 85. | Sổ đăng bộ | Vĩnh viễn |
 | 86. | Sổ theo dõi học sinh chuyển đi, chuyển đến | 05 năm |
 | 87. | Sổ gọi tên và ghi điểm | Vĩnh viễn |
-| 88. | Sổ nghị quyết của trường và nghị quyết của hội đồng trường | 10 nam |
+| 88. | Sổ nghị quyết của trường và nghị quyết của hội đồng trường | 10 năm |
 | 89. | Học bạ học sinh | Trả học sinh khi ra trường, chuyển trường |
 | 90. | Hồ sơ khen thưởng, kỷ luật học sinh | 10 năm |
 | 91. | Hồ sơ giáo dục đối với học sinh khuyết tật | 10 năm |
@@ -253,7 +250,6 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 
 9
 
-|
 
 ----- [Trang 12] -----
 STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
@@ -320,7 +316,7 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | | - Dự án dự thi: Báo cáo tóm tắt, Báo cáo kết quả nghiên cứu | |
 | | + Đạt giải cấp quốc gia | Vĩnh viễn |
 | | + Đạt giải cấp trường, tỉnh | 10 năm |
-| | - Các liệu khác liên quan đến cuộc thi | 05 năm |
+| | - Các tài liệu khác liên quan đến cuộc thi | 05 năm |
 | | IV. HỒ SƠ, TÀI LIỆU VỀ ĐÀO TẠO TRÌNH ĐỘ CAO ĐẲNG SƯ PHẠM, TRÌNH ĐỘ ĐẠI HỌC, TRÌNH ĐỘ THẠC SĨ, TRÌNH ĐỘ TIẾN SĨ | |
 | | 1. Hồ sơ, tài liệu về đào tạo trình độ cao đẳng sư phạm | |
 | 109. | Hồ sơ thành lập, đăng ký hoạt động, đình chỉ hoạt động, sáp nhập, chia, tách, giải thể, đổi tên trường cao đẳng sư phạm | Vĩnh viễn |
@@ -407,7 +403,7 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | 154. | Hồ sơ biên soạn, thẩm định và duyệt giáo trình dùng chung cho các môn học bắt buộc, bồi dưỡng các cơ sở giáo dục đại học | Vĩnh viễn |
 | 155. | Hồ sơ biên soạn, lựa chọn, thẩm định, duyệt và sử dụng tài liệu giảng dạy, giáo trình các trình độ của giáo dục đại học | Vĩnh viễn |
 | 156. | Tài liệu về tuyển sinh đại học | |
-| | - Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm | Vĩnh viễn |
+| | - Hồ sơ xác định chỉ tiêu tuyển sinh hằng năm | Vĩnh viễn |
 | | - Hồ sơ xây dựng phương án đảm bảo chất lượng đầu vào tuyển sinh | Vĩnh viễn |
 | | - Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh | Vĩnh viễn |
 | | - Hồ sơ đăng ký dự tuyển | Hết khóa học |
@@ -448,7 +444,7 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | 168. | Hồ sơ cho phép đào tạo, đình chỉ tuyển sinh, thu hồi quyết định cho phép đào tạo ngành, chuyên ngành thạc sĩ | Vĩnh viễn |
 | 169. | Hồ sơ cho phép liên kết đào tạo trình độ thạc sĩ với cơ sở giáo dục trong nước | Vĩnh viễn |
 | 170. | Tài liệu về tuyển sinh thạc sĩ | |
-| | - Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm | Vĩnh viễn |
+| | - Hồ sơ xác định chỉ tiêu tuyển sinh hằng năm | Vĩnh viễn |
 | | - Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh | Vĩnh viễn |
 | | - Hồ sơ đăng ký dự tuyển | 05 năm sau tốt nghiệp |
 | | - Bài thi | 05 năm sau tốt nghiệp |
@@ -477,12 +473,12 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | | + Được hội đồng đánh giá đạt yêu cầu trở lên | 30 năm |
 | | + Không đạt yêu cầu | 05 năm |
 | | - Tài liệu khác có liên quan đến xét tốt nghiệp | 05 năm |
-| 179. | Hồ sơ hủy bỏ/không công nhận kết quả đào tạo trình độ thạc sĩ | 20 nam |
+| 179. | Hồ sơ hủy bỏ/không công nhận kết quả đào tạo trình độ thạc sĩ | 20 năm |
 | IV. | Hồ sơ, tài liệu về đào tạo trình độ tiến sĩ | |
 | 180. | Hồ sơ cho phép đào tạo, đình chỉ tuyển sinh, thu hồi quyết định cho phép đào tạo ngành, chuyên ngành tiến sĩ | Vĩnh viễn |
 | 181. | Hồ sơ cho phép liên kết đào tạo trình độ tiến sĩ với cơ sở giáo dục trong nước và ngoài nước | Vĩnh viễn |
 | 182. | Tài liệu về tuyển sinh tiến sĩ | |
-| | - Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm | Vĩnh viễn |
+| | - Hồ sơ xác định chỉ tiêu tuyển sinh hằng năm | Vĩnh viễn |
 | | - Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh | Vĩnh viễn |
 | | - Hồ sơ đăng ký dự tuyển | 05 năm sau tốt nghiệp |
 | | - Các tài liệu khác liên quan đến tuyển sinh | 05 năm sau tốt nghiệp |
@@ -535,7 +531,7 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |
 | 199. | Hồ sơ chuyển cơ sở giáo dục nghề nghiệp tư thục thành cơ sở giáo dục nghề nghiệp tư thục hoạt động không vì lợi nhuận | Vĩnh viễn |
 | 200. | Hồ sơ thành lập văn phòng đại diện của tổ chức, cơ sở giáo dục nghề nghiệp nước ngoài tại Việt Nam | Vĩnh viễn |
-| 201. | Hồ sơ xây dựng quy chuẩn kỹ thuật quốc gia, định mức kinh tế-kỹ thuật chuyên ngành trong lĩnh vực giáo dục nghề nghiệp; tiêu chuẩn kỹ năng nghề quốc gia | Vĩnh viễn |
+| 201. | Hồ sơ xây dựng quy chuẩn kỹ thuật quốc gia, định mức kinh tế - kỹ thuật chuyên ngành trong lĩnh vực giáo dục nghề nghiệp; tiêu chuẩn kỹ năng nghề quốc gia | Vĩnh viễn |
 | 202. | Hồ sơ xây dựng, thẩm định, ban hành chương trình đào tạo trình độ trung cấp, cao đẳng nghề | Vĩnh viễn |
 | 203. | Hồ sơ hướng dẫn thực hiện quy trình xây dựng, thẩm định, ban hành chương trình đào tạo trình độ trung cấp, cao đẳng nghề | Vĩnh viễn |
 | 204. | Hồ sơ biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng chương trình, giáo trình đào tạo nghề; áp dụng các chương trình đào tạo nghề của nước ngoài | Vĩnh viễn |
@@ -577,11 +573,11 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ
 | | - Các tài liệu có liên quan đến đăng cai tổ chức thi kỹ năng nghề quốc gia, huấn luyện đội tuyển quốc gia chuẩn bị tham dự các Kỳ thi kỹ năng nghề quốc gia, ASEAN, châu Á và thế giới | 05 năm
 | 3. Hồ sơ, tài liệu về tuyển sinh, công nhận tốt nghiệp trong các cơ sở giáo dục nghề nghiệp | |
 226. | Tài liệu về tuyển sinh |
-| | - Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm | Vĩnh viễn
+| | - Hồ sơ xác định chỉ tiêu tuyển sinh hằng năm | Vĩnh viễn
 | | - Văn bản phê duyệt danh sách người học trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh | Vĩnh viễn
 | | - Hồ sơ đăng ký dự tuyển | Hết khóa học
 | | - Bài thi | Hết khóa học
-| | - Các tài liệu khác liên quan đến tuyển sinh | Hết khóa học
+| | - Các tài liệu khác có liên quan đến tuyển sinh | Hết khóa học
 227. | Tài liệu tổ chức thi kết thúc môn học, mô đun: Kế hoạch thi và lịch thi; danh sách người dự thi và kết quả từng môn thi; phiếu nộp bài thi có chữ ký của người học và cán bộ coi thi; bản ghi âm buổi thi đối với hình thức thi trực tuyến |
 | | - Hồ sơ phê duyệt kết quả thi hết môn học, mô đun | 10 năm sau tốt nghiệp
 | | - Bài thi | Hết khóa học
@@ -1013,7 +1009,7 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ
 | 464. | Hồ sơ tuyển chọn chuyên gia giáo dục đi làm việc ở nước ngoài | 20 năm |
 | 465. | Hồ sơ không trúng tuyển của ứng viên dự tuyển chọn chuyên gia giáo dục đi làm việc ở nước ngoài | 05 năm |
 | 466. | Hồ sơ chuyên gia giáo dục đi làm việc ở nước ngoài và tiếp nhận về nước | Vĩnh viễn |
-| 467. | Danh sách thống kê hàng năm du học sinh Việt Nam đi học tập ở nước ngoài có sử dụng ngân sách nhà nước và về nước | Vĩnh viễn |
+| 467. | Danh sách thống kê hằng năm du học sinh Việt Nam đi học tập ở nước ngoài có sử dụng ngân sách nhà nước và về nước | Vĩnh viễn |
 | | 3. Hồ sơ, tài liệu về hợp tác đầu tư với nước ngoài | |
 | 468. | Hồ sơ xây dựng cơ chế, chính sách hợp tác đầu tư từ nước ngoài | Vĩnh viễn |
 
@@ -1072,7 +1068,6 @@ STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ
 | 497. | Hồ sơ Hội đồng cấp cơ sở thẩm định, đề nghị xét tặng danh hiệu nhà giáo nhân dân, nhà giáo ưu tú | Vĩnh viễn |
 | 498. | Hồ sơ Hội đồng cấp tỉnh thẩm định, đề nghị xét tặng danh hiệu nhà giáo nhân dân, nhà giáo ưu tú | Vĩnh viễn |
 
-|
 
 ----- [Trang 52] -----
 STT | Tên nhóm hồ sơ, tài liệu | Thời hạn lưu trữ |

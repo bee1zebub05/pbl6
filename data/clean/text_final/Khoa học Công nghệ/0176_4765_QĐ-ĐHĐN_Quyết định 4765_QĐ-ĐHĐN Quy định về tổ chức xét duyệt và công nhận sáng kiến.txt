@@ -113,7 +113,6 @@ d) Tên sáng kiến; lĩnh vực áp dụng; mô tả bản chất của sáng 
 - Tên sáng kiến: Phải thể hiện bản chất của giải pháp trong đơn;
 - Lĩnh vực áp dụng: Nêu rõ lĩnh vực có thể áp dụng sáng kiến và vấn đề mà sáng kiến giải quyết;
 - Mô tả sáng kiến:
-+
 
 ----- [Trang 5] -----
 Về nội dung của sáng kiến: Mô tả ngắn gọn, đầy đủ và rõ ràng các bước thực hiện giải pháp cũng như các điều kiện cần thiết để áp dụng giải pháp; nếu là giải pháp cải tiến giải pháp đã biết trước đó tại cơ sở thì cần nêu rõ tình trạng của giải pháp đã biết, những nội dung đã cải tiến, sáng tạo để khắc phục những nhược điểm của giải pháp đã biết. Bản mô tả nội dung sáng kiến có thể minh họa bằng các bản vẽ, thiết kế, sơ đồ, ảnh chụp mẫu sản phẩm... nếu cần thiết;
@@ -174,7 +173,6 @@ Hồ sơ đề nghị công nhận sáng kiến gồm:
 
 6
 
-|
 
 ----- [Trang 7] -----
 3 | Tính hiệu quả | Mang lại hiệu quả trong công tác quản lý, tham mưu, phục vụ; cải thiện điều kiện làm việc, công tác | 30 |
@@ -222,7 +220,7 @@ Hoàn thiện biên bản sau khi Hội đồng sáng kiến họp, trình Thủ
 
 1. Các thành viên Hội đồng sáng kiến xem xét tóm tắt hồ sơ yêu cầu công nhận sáng kiến và cho ý kiến thảo luận, nhận xét, đánh giá theo mẫu 3 tại Quy định này.
 
-2. Hội đồng tổng hợp kết quả chấm của các thành viên, đưa ra điểm chấm cuối cùng của Hội đồng và biểu quyết thông qua kết quả. Quyết định của Hội đồng được thông qua theo nguyên tắc biểu quyết với ít nhất 2/3 ý kiến đồng ý của các thành viên Hội đồng Hội đồng.
+2. Hội đồng tổng hợp kết quả chấm của các thành viên, đưa ra điểm chấm cuối cùng của Hội đồng và biểu quyết thông qua kết quả. Quyết định của Hội đồng được thông qua theo nguyên tắc biểu quyết với ít nhất 2/3 ý kiến đồng ý của các thành viên Hội đồng.
 
 3. Khi cần thiết, Hội đồng sáng kiến mời cá nhân có đơn đề nghị công nhận sáng kiến đến trình bày (bảo vệ) sáng kiến của mình.
 
@@ -445,7 +443,6 @@ b) Kết quả tổng hợp cho điểm của Hội đồng:
 | 1 | | | | |
 
 ----- [Trang 16] -----
-Trang 1:
 
 15
 
@@ -464,7 +461,6 @@ Cuộc họp kết thúc hồi ......giờ, ngày ... tháng ...năm ...... Biê
 CHỦ TỊCH HỘI ĐỒNG
 (Ký tên, đóng dấu)
 
-Trang 2:
 
 ----- [Trang 17] -----
 16

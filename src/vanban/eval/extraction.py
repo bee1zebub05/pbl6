@@ -30,8 +30,8 @@ import json
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from .. import config
-from ..pipeline import say
+from ..core import config
+from ..core.console import say
 
 QUAN_HE = ("BASED_ON", "REFERENCES", "REPLACES", "AMENDS", "REPEALS")
 KHONG = "KHONG"

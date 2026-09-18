@@ -1,6 +1,6 @@
 ----- [Trang 1] -----
 VGP
-CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
+CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
 Ký bởi: Cổng Thông tin điện tử Chính phủ
 Email: thongtinchinhphu@chinhphu.vn
 Cơ quan: Văn phòng Chính phủ
@@ -98,7 +98,7 @@ Thời hạn giải quyết tố cáo được tính từ ngày ra quyết đị
 a) Công bố tại cuộc họp ở cơ quan, tổ chức nơi người bị tố cáo công tác hoặc ở cơ quan, tổ chức của người giải quyết tố cáo hoặc ở cơ quan, tổ chức của người được giao xác minh với thành phần gồm người giải quyết tố cáo, người xác minh nội dung tố cáo, người bị tố cáo; người đứng đầu cơ quan, tổ chức, đơn vị nơi người bị tố cáo công tác, cơ quan, tổ chức, cá nhân khác có liên quan;
 b) Niêm yết tại trụ sở làm việc hoặc nơi tiếp công dân của người đã giải quyết tố cáo, người đã ra quyết định xử lý hành vi vi phạm bị tố cáo. Thời gian niêm yết ít nhất 15 ngày liên tục;
 c) Đăng tải trên cổng thông tin điện tử hoặc mạng thông tin nội bộ của cơ quan đã giải quyết tố cáo, cơ quan người đã ra quyết định xử lý hành vi vi phạm bị tố cáo. Thời gian đăng tải trên cổng thông tin điện tử, trên mạng thông tin nội bộ của cơ quan giải quyết tố cáo ít nhất 15 ngày liên tục;
-d) Thông báo trên phương tiện thông tin đại chúng, (bao gồm: báo in, báo nói, báo hình, báo điện tử) và cổng thông tin điện tử. Việc thông báo trên báo in, báo nói, báo hình phải được thực hiện ít nhất 02 lần liên tục; việc thông báo trên báo điện tử, cổng thông tin điện tử phải thực hiện ít nhất 15 ngày liên tục.
+d) Thông báo trên phương tiện thông tin đại chúng (bao gồm: báo in, báo nói, báo hình, báo điện tử) và cổng thông tin điện tử. Việc thông báo trên báo in, báo nói, báo hình phải được thực hiện ít nhất 02 lần liên tục; việc thông báo trên báo điện tử, cổng thông tin điện tử phải thực hiện ít nhất 15 ngày liên tục.
 
 Mục 2
 BẢO VỆ NGƯỜI TỐ CÁO
@@ -145,7 +145,7 @@ Người tố cáo có trách nhiệm trình bày trung thực về nội dung t
 Điều 12. Làm việc trực tiếp với người bị tố cáo
 1. Người giải quyết tố cáo, Tổ xác minh phải làm việc trực tiếp với người bị tố cáo; yêu cầu người bị tố cáo giải trình bằng văn bản về những nội dung bị tố cáo, cung cấp thông tin, tài liệu, bằng chứng liên quan đến nội dung bị tố cáo, nội dung giải trình.
 
-2. Nội dung làm việc với người bị tố cáo phải được lập thành biên bản theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định này. Biên bản phải có chữ ký của người bị tố cáo, người chủ trì làm việc với người bị tố cáo và được lập thành ít nhất 02 bản, giao 01 bản cho người bị tố cáo (nếu người bị tố có yêu cầu) và lưu 01 bản trong hồ sơ giải quyết tố cáo.
+2. Nội dung làm việc với người bị tố cáo phải được lập thành biên bản theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định này. Biên bản phải có chữ ký của người bị tố cáo, người chủ trì làm việc với người bị tố cáo và được lập thành ít nhất 02 bản, giao 01 bản cho người bị tố cáo (nếu người bị tố cáo có yêu cầu) và lưu 01 bản trong hồ sơ giải quyết tố cáo.
 
 3. Trường hợp thông tin, tài liệu, bằng chứng do người bị tố cáo cung cấp chưa đầy đủ, việc giải trình của người bị tố cáo chưa rõ thì người giải quyết tố cáo, Tổ xác minh yêu cầu người bị tố cáo tiếp tục cung cấp thông tin, tài liệu, bằng chứng, giải trình về các vấn đề còn chưa rõ.
 
@@ -208,7 +208,7 @@ quyết tố cáo trước đó (nếu có) và kiến nghị việc xử lý đ
 2. Trường hợp giải quyết lại vụ việc tố cáo thì ngoài các nội dung quy định tại khoản 1 Điều này, người giải quyết tố cáo phải kết luận về những nội dung vi phạm pháp luật, sai lầm hoặc không phù hợp của việc giải quyết tố cáo trước đó (nếu có); xử lý theo thẩm quyền hoặc chỉ đạo, kiến nghị cơ quan, tổ chức, đơn vị, cá nhân có thẩm quyền xử lý đối với cơ quan, tổ chức, đơn vị, cá nhân có hành vi vi phạm pháp luật trong quá trình giải quyết tố cáo trước đó.
 
 Điều 18. Xử lý kết luận nội dung tố cáo
-1. Việc xử lý kết luận nội dung tố cáo được thực hiện theo Điều 36 Luật Tố cáo. Người giải quyết tố cáo căn cứ vào tính chất, mức độ vi phạm xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý các hành vi vi phạm của cơ quan, tổ chức, cá nhân, khắc phục hậu quả xẩy ra.
+1. Việc xử lý kết luận nội dung tố cáo được thực hiện theo Điều 36 Luật Tố cáo. Người giải quyết tố cáo căn cứ vào tính chất, mức độ vi phạm xử lý theo thẩm quyền hoặc kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý các hành vi vi phạm của cơ quan, tổ chức, cá nhân, khắc phục hậu quả xảy ra.
 
 2. Người giải quyết tố cáo có trách nhiệm theo dõi, đôn đốc hoặc giao cho cơ quan thanh tra nhà nước cùng cấp theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
 Trường hợp giao cho cơ quan thanh tra nhà nước cùng cấp theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo thì cơ quan thanh tra nhà nước phải định kỳ hàng tháng báo cáo với người giải quyết tố cáo về kết quả theo dõi, đôn đốc việc thực hiện kết luận nội dung tố cáo.
@@ -372,7 +372,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 (1)..., ngày ... tháng... năm...
 
-ĐƠN RÚT TÓ CÁO
+ĐƠN RÚT TỐ CÁO
 
 Kính gửi: ...................(2)..........................................
 
@@ -382,7 +382,7 @@ Tên tôi là:........................................ (3) .....................
 
 Tôi đề nghị với......................(2)....cho tôi rút nội dung tố cáo ................ (4)
 
-NGƯỜI RÚT TÓ CÁO (3)
+NGƯỜI RÚT TỐ CÁO (3)
 (Chữ ký hoặc điểm chỉ)
 
 Họ và tên
@@ -419,7 +419,7 @@ Biên bản này đã được đọc cho người rút tố cáo nghe và xác 
 
 Biên bản được lập thành ... bản và giao cho ...(5) 01 bản./.
 
-NGƯỜI RÚT TÓ CÁO (5)
+NGƯỜI RÚT TỐ CÁO (5)
 (Chữ ký hoặc điểm chỉ)
 
 Họ và tên

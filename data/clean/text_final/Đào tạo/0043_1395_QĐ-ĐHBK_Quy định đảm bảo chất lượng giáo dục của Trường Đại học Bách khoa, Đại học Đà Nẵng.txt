@@ -126,7 +126,7 @@ Hệ thống BĐCLGD của Trường được thể hiện ở Sơ đồ 1:
 2. Mô hình đánh giá chất lượng Trường theo AUN-QA
 
 Nhu cầu của các bên liên quan
-[BDCL về mặt Chiến lược]
+[BĐCL về mặt Chiến lược]
 1. Tầm nhìn, sứ mạng và Văn hóa
 2. Quản trị
 3. Lãnh đạo và quản lý
@@ -136,13 +136,13 @@ Nhu cầu của các bên liên quan
 7. Quản lý tài chính và cơ sở vật chất
 8. Các mạng lưới và quan hệ đối ngoại
 
-[BDCL về mặt Hệ thống]
+[BĐCL về mặt Hệ thống]
 9. Hệ thống BĐCL bên trong
 10. Đánh giá chất lượng bên trong và bên ngoài
 11. Hệ thống thông tin BĐCL bên trong
 12. Nâng cao chất lượng
 
-[BDCL về mặt Thực hiện Chức năng]
+[BĐCL về mặt Thực hiện Chức năng]
 Đào tạo
 13. Tuyển sinh và nhập học
 14. Thiết kế và rà soát chương trình dạy học
@@ -169,7 +169,7 @@ Sơ đồ 2. Mô hình đánh giá chất lượng Trường theo AUN-QA (Nguồ
 3. Mô hình bảo đảm chất lượng bên trong (IQA)
 
 BẢO ĐẢM CHẤT LƯỢNG BÊN TRONG
-- Các công cụ giám sát | Tiến bộ của người học | Tỉ lệ bỏ học, tỉ lệ tốt nghiệp | Phản hồi của thị trường lao động và cựu người học | Kết quả nghiên cứu cứu
+- Các công cụ giám sát | Tiến bộ của người học | Tỉ lệ bỏ học, tỉ lệ tốt nghiệp | Phản hồi của thị trường lao động và cựu người học | Kết quả nghiên cứu
 - Các công cụ đánh giá | Đánh giá người học | Đánh giá khóa học + chương trình học | Đánh giá nghiên cứu | Đánh giá dịch vụ
 - Các quy trình BĐCL đặc biệt | Đảm bảo việc kiểm tra, thi cử của người học | BĐCL đội ngũ nhân viên | BĐCL các trang thiết bị | BĐCL hỗ trợ người học
 - Các công cụ BĐCL cụ thể | Phân tích SWOT | Thẩm định giữa các trường | Hệ thống thông tin | Sổ tay chất lượng
@@ -215,7 +215,7 @@ Hội đồng BĐCLGD Trường có chức năng tư vấn cho Ban Giám hiệu 
 
 Hội đồng BĐCLGD Trường có nhiệm vụ và quyền hạn sau đây:
 1. Định hướng chiến lược, đề xuất ban hành các chính sách và các quy định BĐCLGD nhằm không ngừng nâng cao chất lượng giáo dục, nâng cao vị trí, vai trò và uy tín của Nhà trường.
-2. Định hướng công tác KĐCL Trường và các CTDT theo tiêu chuẩn trong nước và quốc tế.
+2. Định hướng công tác KĐCL Trường và các CTĐT theo tiêu chuẩn trong nước và quốc tế.
 3. Tư vấn về BĐCLGD và KĐCLGD theo quy định của Luật giáo dục đại học và các quy định liên quan của ĐHĐN, Bộ GD&ĐT, các Bộ và ngành liên quan.
 4. Tư vấn về xây dựng kế hoạch và chiến lược BĐCLGD bên trong; giám sát, đánh giá việc thực hiện kế hoạch và chiến lược trong toàn Trường.
 5. Tư vấn về các hoạt động tự đánh giá chất lượng và cải tiến chất lượng sau kiểm định, các hoạt động phát triển văn hóa chất lượng trong Trường.
@@ -270,7 +270,7 @@ c) Đo lường, đánh giá mức độ người học đạt các chuẩn đ�
 d) Tham gia xây dựng, rà soát, đánh giá và cải tiến CTĐT, đề cương học phần; cải tiến các hoạt động giảng dạy, các bài kiểm tra đánh giá.
 e) Tham gia công tác BĐCLGD và KĐCLGD theo lĩnh vực chuyên môn phụ trách và theo yêu cầu của đơn vị và Nhà Trường.
 f) Được tạo điều kiện tham gia các hoạt động bồi dưỡng, tập huấn, nâng cao năng lực chuyên môn, sư phạm, năng lực về BĐCLGD và KĐCLGD.
-g) Được đóng góp ý kiến cho lãnh đạo đơn vị nhằm cải tiến và nâng cao chất lượng giáo dục
+g) Được đóng góp ý kiến cho lãnh đạo đơn vị nhằm cải tiến và nâng cao chất lượng giáo dục.
 h) Báo cáo công tác giảng dạy về khoa/bộ môn sau khi kết thúc học kỳ.
 
 5. Nhiệm vụ và quyền hạn của đội ngũ cán bộ hỗ trợ trong công tác BĐCLGD

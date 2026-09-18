@@ -3,7 +3,7 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-Số: 49 /2026/TT-BGDĐT
+Số: 49/2026/TT-BGDĐT
 Hà Nội, ngày 30 tháng 06 năm 2026
 
 THÔNG TƯ
@@ -56,14 +56,14 @@ Việc ứng dụng công nghệ trong cơ sở giáo dục tuân thủ các ngu
 
 ----- [Trang 3] -----
 chất lượng theo quy định; công nghệ và trí tuệ nhân tạo là công cụ hỗ trợ, không thay thế trách nhiệm chuyên môn và trách nhiệm học thuật của cơ sở giáo dục, giảng viên và người học.
-3. Gắn với việc tạo lập, phát triển, quản lý và khai thác dữ liệu hiệu quả, phục vụ vụ quản trị, điều hành, phân tích, dự báo và nâng cao hiệu quả hoạt động của cơ sở giáo dục.
+3. Gắn với việc tạo lập, phát triển, quản lý và khai thác dữ liệu hiệu quả, phục vụ quản trị, điều hành, phân tích, dự báo và nâng cao hiệu quả hoạt động của cơ sở giáo dục.
 4. Tuân thủ kiến trúc số do cơ quan có thẩm quyền ban hành; bảo đảm khả năng kết nối, liên thông, chia sẻ dữ liệu; tránh đầu tư phân tán, cục bộ, trùng lắp trong quá trình ứng dụng công nghệ.
 5. Bảo đảm an toàn thông tin, an ninh dữ liệu, an ninh mạng, bảo vệ dữ liệu cá nhân; sử dụng công nghệ và trí tuệ nhân tạo có trách nhiệm, tuân thủ các nguyên tắc đạo đức và bảo đảm liêm chính học thuật.
 
 Điều 5. Nội dung ứng dụng công nghệ trong cơ sở giáo dục
 Ứng dụng công nghệ phải được thực hiện toàn diện trong các hoạt động của cơ sở giáo dục; trong đó, Thông tư này quy định cụ thể một số nhóm hoạt động chủ yếu sau:
 1. Hoạt động đào tạo và nghiên cứu khoa học: bao gồm tổ chức giảng dạy, học tập, kiểm tra, đánh giá và phát triển, khai thác học liệu; tổ chức, quản lý và triển khai nghiên cứu, công bố và chia sẻ kết quả nghiên cứu.
-2. Hoạt động quản trị và cung cấp dịch vụ: bao gồm quản lý, điều hành, bảo đảm chất lượng hỗ trợ các dịch vụ vụ đào tạo, hành chính, tư vấn, hướng nghiệp và các dịch vụ hỗ trợ trong cơ sở giáo dục; tạo lập, quản lý, tích hợp, chia sẻ và khai thác dữ liệu hiệu quả phục vụ quản trị, điều hành, cung cấp dịch vụ, phân tích, dự báo và ra quyết định.
+2. Hoạt động quản trị và cung cấp dịch vụ: bao gồm quản lý, điều hành, bảo đảm chất lượng hỗ trợ các dịch vụ đào tạo, hành chính, tư vấn, hướng nghiệp và các dịch vụ hỗ trợ trong cơ sở giáo dục; tạo lập, quản lý, tích hợp, chia sẻ và khai thác dữ liệu hiệu quả phục vụ quản trị, điều hành, cung cấp dịch vụ, phân tích, dự báo và ra quyết định.
 
 Chương II
 ỨNG DỤNG CÔNG NGHỆ TRONG HOẠT ĐỘNG ĐÀO TẠO, NGHIÊN CỨU KHOA HỌC
@@ -85,9 +85,9 @@ c) Quản lý quá trình học tập, theo dõi tiến độ và kết quả h�
 d) Hỗ trợ cá thể hóa học tập, tư vấn học tập và định hướng nghề nghiệp;
 đ) Phân tích dữ liệu học tập để cải tiến chương trình và phương pháp giảng dạy.
 4. Việc ứng dụng công nghệ trong đào tạo phải bảo đảm yêu cầu tối thiểu sau:
-a) Có hệ thống quản lý học tập đáp ứng yêu cầu về nghiệp vụ đào tạo, tiêu chuẩn kỹ thuật, công nghệ, trong đó phải bảo đảm tối thiểu các chức năng về xác thực danh tính người học; quản lý và lưu vết toàn bộ quá trình học tập; hỗ trợ kiểm tra, đánh giá và phòng ngừa gian lận; bảo đảm khả năng truy xuất, kiểm chứng và giải trình dữ liệu; hỗ trợ công bố, kiểm soát việc sử dụng trí tuệ nhân tạo; bảo đảm khả năng kết nối, chia sẻ dữ liệu với các hệ thống quản lý đào tạo và cơ sở giáo dục theo quy định; đáp ứng yêu cầu về an toàn thông tin, bảo vệ dữ liệu cá nhân và phục vụ định chất lượng cơ sở giáo dục tổ chức đánh giá, nghiệm thu hệ thống quản lý học tập trước khi đưa vào sử dụng.
-b) Đào tạo dựa trên công nghệ phải bảo đảm chất lượng, chương trình đào tạo, chuẩn đầu ra, phương thức kiểm tra đánh giá và các điều kiện bảo đảm chất lượng theo định của pháp luật về giáo dục đại học và giáo dục nghề nghiệp;
-c) Bảo đảm khả năng tổ chức, quản lý và theo dõi, đánh giá toàn bộ các hoạt động đào tạo, trọng tâm là quá trình học tập của người học; quản lý hồ sơ, quá trình và kết quả học tập của người học, hoạt động dạy của người dạy; ghi nhận trung thực, chính xác dữ liệu phục vụ vụ quản lý, kiểm tra, giám sát và giải trình;
+a) Có hệ thống quản lý học tập đáp ứng yêu cầu về nghiệp vụ đào tạo, tiêu chuẩn kỹ thuật, công nghệ, trong đó phải bảo đảm tối thiểu các chức năng về xác thực danh tính người học; quản lý và lưu vết toàn bộ quá trình học tập; hỗ trợ kiểm tra, đánh giá và phòng ngừa gian lận; bảo đảm khả năng truy xuất, kiểm chứng và giải trình dữ liệu; hỗ trợ công bố, kiểm soát việc sử dụng trí tuệ nhân tạo; bảo đảm khả năng kết nối, chia sẻ dữ liệu với các hệ thống quản lý đào tạo và cơ sở giáo dục theo quy định; đáp ứng yêu cầu về an toàn thông tin, bảo vệ dữ liệu cá nhân và phục vụ đánh giá chất lượng cơ sở giáo dục; tổ chức đánh giá, nghiệm thu hệ thống quản lý học tập trước khi đưa vào sử dụng.
+b) Đào tạo dựa trên công nghệ phải bảo đảm chất lượng, chương trình đào tạo, chuẩn đầu ra, phương thức kiểm tra đánh giá và các điều kiện bảo đảm chất lượng theo quy định của pháp luật về giáo dục đại học và giáo dục nghề nghiệp;
+c) Bảo đảm khả năng tổ chức, quản lý và theo dõi, đánh giá toàn bộ các hoạt động đào tạo, trọng tâm là quá trình học tập của người học; quản lý hồ sơ, quá trình và kết quả học tập của người học, hoạt động dạy của người dạy; ghi nhận trung thực, chính xác dữ liệu phục vụ quản lý, kiểm tra, giám sát và giải trình;
 d) Định kỳ đánh giá để có biện pháp điều chỉnh bảo đảm tính hiệu quả của phương thức tổ chức đào tạo ứng dụng công nghệ;
 đ) Việc sử dụng trí tuệ nhân tạo phải bảo đảm hỗ trợ, không thay thế vai trò của giảng viên; không làm sai lệch kết quả học tập; tuân thủ liêm chính học thuật và có cơ chế kiểm soát, giám sát, minh bạch.
 5. Bộ Giáo dục và Đào tạo khuyến khích, hướng dẫn và thúc đẩy phát triển các nền tảng hỗ trợ đào tạo dùng chung trong các cơ sở giáo dục.
@@ -105,7 +105,7 @@ d) Đánh giá quá trình học tập trên hệ thống số dựa trên dữ 
 a) Xây dựng, quản lý ngân hàng câu hỏi, đề thi;
 b) Tổ chức kiểm tra, đánh giá và chấm điểm;
 c) Giám sát quá trình kiểm tra, đánh giá;
-d) Lưu trữ, quản lý và khai thác dữ liệu đánh giá; phân tích kết quả học tập và đánh giá năng lực người học;
+d) Lưu trữ, quản lý và khai thác dữ liệu đánh giá; phân tích kết quả học tập và đánh giá năng lực người học.
 4. Việc ứng dụng công nghệ trong kiểm tra, đánh giá phải bảo đảm:
 a) Có hệ thống quản lý kiểm tra, đánh giá hoặc được tích hợp trong hệ thống quản lý học tập;
 b) Kết quả kiểm tra, đánh giá được thực hiện trên môi trường số phải được lưu trữ, có khả năng truy xuất, kiểm chứng, phục vụ công tác thanh tra, kiểm tra và giải trình theo quy định;
@@ -113,12 +113,10 @@ c) Bảo đảm tính tương đương giữa các hình thức đánh giá; có
 d) Việc sử dụng trí tuệ nhân tạo trên cơ sở hỗ trợ, có kiểm soát, không thay thế vai trò của giảng viên; minh bạch, tuân thủ quy định về liêm chính học thuật.
 
 Điều 8. Ứng dụng công nghệ trong nghiên cứu khoa học
-1. Cơ sở giáo dục chủ động ứng dụng công nghệ số và trí tuệ nhân tạo trong các hoạt động nghiên cứu khoa học, bao gồm quản lý và triển khai nhiệm vụ khoa học và công nghệ; thu thập, xử lý, phân tích dữ liệu; mô phỏng, thử nghiệm và...
+1. Cơ sở giáo dục chủ động ứng dụng công nghệ số và trí tuệ nhân tạo trong các hoạt động nghiên cứu khoa học, bao gồm quản lý và triển khai nhiệm vụ khoa học và công nghệ; thu thập, xử lý, phân tích dữ liệu; mô phỏng, thử nghiệm và
 
 ----- [Trang 6] -----
-6
 phát triển sản phẩm; công bố, chia sẻ và hợp tác nghiên cứu; quản lý và khai thác dữ liệu, kết quả nghiên cứu.
-
 2. Việc ứng dụng công nghệ trong nghiên cứu khoa học phải bảo đảm:
 a) Quản lý, lưu trữ, chia sẻ và khai thác dữ liệu nghiên cứu theo quy định;
 b) Bảo đảm tính khoa học, tính xác thực, minh bạch và khả năng kiểm chứng của quá trình và kết quả nghiên cứu;
@@ -128,7 +126,6 @@ d) Sử dụng trí tuệ nhân tạo phải bảo đảm minh bạch, có thể
 
 Điều 9. Phát triển và sử dụng học liệu số
 1. Học liệu số được sử dụng trong hoạt động đào tạo, kiểm tra, đánh giá và nghiên cứu khoa học trong cơ sở giáo dục, được sử dụng trong các hình thức đào tạo có ứng dụng công nghệ.
-
 2. Cơ sở giáo dục có trách nhiệm phát triển và sử dụng học liệu số, bao gồm học liệu mở, bảo đảm:
 a) Chất lượng, tính khoa học, tính cập nhật và phù hợp với chuẩn đầu ra của chương trình đào tạo;
 b) Được thẩm định, quản lý, sử dụng và cập nhật theo quy định nội bộ;
@@ -136,21 +133,17 @@ c) Có khả năng truy cập, chia sẻ, tái sử dụng và liên thông theo
 d) Việc sử dụng công nghệ số và trí tuệ nhân tạo trong phát triển, cập nhật và khai thác học liệu phải bảo đảm tính chính xác, minh bạch nguồn gốc và kiểm soát chất lượng;
 đ) Việc phát triển, sử dụng và chia sẻ học liệu, bao gồm học liệu mở, phải tuân thủ quy định của pháp luật về sở hữu trí tuệ và các quy định có liên quan; xác định rõ quyền sở hữu, quyền sử dụng và điều kiện khai thác học liệu; bảo đảm quyền và lợi ích hợp pháp của tác giả, cơ sở giáo dục, người học và các bên liên quan.
 
-7
-
 ----- [Trang 7] -----
 Điều 10. Bảo đảm liêm chính học thuật khi ứng dụng công nghệ
 1. Việc ứng dụng công nghệ số và trí tuệ nhân tạo trong đào tạo, kiểm tra, đánh giá và nghiên cứu khoa học phải bảo đảm trung thực, khách quan, minh bạch; tôn trọng quyền sở hữu trí tuệ; phản ánh đúng năng lực của người học và kết quả nghiên cứu; bảo đảm khả năng kiểm chứng, giải trình và không làm sai lệch kết quả; công nghệ số và trí tuệ nhân tạo chỉ là công cụ hỗ trợ, không thay thế trách nhiệm học thuật của người học, nhà giáo và nhà nghiên cứu.
-
 2. Các hành vi vi phạm liêm chính học thuật trong môi trường số gồm:
 a) Sử dụng công nghệ, bao gồm trí tuệ nhân tạo, để gian lận trong học tập, kiểm tra, đánh giá hoặc nghiên cứu khoa học;
 b) Sao chép, đạo văn, sử dụng trái phép tài liệu, dữ liệu, học liệu số hoặc kết quả nghiên cứu;
 c) Giả mạo, làm sai lệch dữ liệu, kết quả nghiên cứu hoặc thông tin học tập;
 d) Nhờ người khác thực hiện hoặc thực hiện thay các nhiệm vụ học tập, kiểm tra, đánh giá hoặc nghiên cứu khoa học;
-d) Không công bố hoặc công bố không đầy đủ việc sử dụng công nghệ, trí tuệ nhân tạo khi có yêu cầu theo quy định nội bộ của cơ sở giáo dục và pháp luật của Nhà nước;
+đ) Không công bố hoặc công bố không đầy đủ việc sử dụng công nghệ, trí tuệ nhân tạo khi có yêu cầu theo quy định nội bộ của cơ sở giáo dục và pháp luật của Nhà nước;
 e) Các hành vi khác vi phạm quy định về liêm chính học thuật theo quy định của pháp luật và quy chế của cơ sở giáo dục.
-
-3. Trách nhiệm của các bên liên quan
+3. Trách nhiệm của các bên liên quan:
 a) Cơ sở giáo dục ban hành quy định nội bộ về liêm chính học thuật, trong đó xác định rõ các hành vi vi phạm, biện pháp phòng ngừa, quy trình xử lý và trách nhiệm của các bên liên quan; tổ chức phổ biến, tuyên truyền, nâng cao nhận thức về liêm chính học thuật; áp dụng các biện pháp phù hợp để phòng ngừa, phát hiện và xử lý vi phạm;
 b) Người học, giảng viên và các bên liên quan tuân thủ quy định về liêm chính học thuật; trung thực trong hoạt động học thuật; công bố việc sử dụng công nghệ, trí tuệ nhân tạo theo quy định và chịu trách nhiệm về sản phẩm học tập, giảng dạy và nghiên cứu của mình.
 
@@ -160,26 +153,20 @@ Chương III
 Điều 11. Ứng dụng công nghệ trong quản trị cơ sở giáo dục
 1. Ứng dụng công nghệ trong quản trị cơ sở giáo dục được thực hiện toàn diện trong các hoạt động quản lý, điều hành của cơ sở giáo dục, ưu tiên thực hiện trong các hoạt động chủ yếu sau:
 
-8
-
 ----- [Trang 8] -----
 a) Quản lý tổ chức bộ máy, nhân sự, tài chính, tài sản, cơ sở vật chất;
 b) Quản trị chương trình đào tạo, bảo đảm chất lượng đào tạo, nghiên cứu khoa học và các hoạt động giáo dục;
 c) Quản trị phát triển người học, phát triển đội ngũ giảng viên;
 d) Quản trị, đánh giá hiệu quả hoạt động của cơ sở giáo dục và các đơn vị trực thuộc; phân tích, dự báo, hỗ trợ ra quyết định và hoạch định chiến lược phát triển;
 đ) Cung cấp thông tin, báo cáo, công khai, minh bạch và trách nhiệm giải trình.
-
 2. Việc ứng dụng công nghệ trong quản trị phải bảo đảm:
 a) Lấy dữ liệu làm cơ sở cho quản trị, điều hành và ra quyết định;
 b) Bảo đảm tính thống nhất, đồng bộ trong quản lý, điều hành;
 c) Hỗ trợ phân tích, dự báo, đánh giá và nâng cao chất lượng ra quyết định;
 d) Nâng cao hiệu quả quản trị, minh bạch và trách nhiệm giải trình;
 đ) Tuân thủ quy định của pháp luật, bảo đảm an toàn thông tin và bảo vệ dữ liệu.
-
 3. Hệ thống quản trị số phải bảo đảm tích hợp, liên thông, hỗ trợ quản lý thống nhất; cung cấp thông tin, dữ liệu chính xác, kịp thời phục vụ quản trị, điều hành, giám sát, đánh giá và ra quyết định.
-
 4. Cơ sở giáo dục xây dựng và ban hành kiến trúc, mô hình giáo dục số làm cơ sở triển khai ứng dụng công nghệ trong quản trị, đào tạo, nghiên cứu khoa học và cung cấp dịch vụ.
-
 5. Bộ Giáo dục và Đào tạo ban hành hướng dẫn triển khai kiến trúc, mô hình giáo dục số; ban hành tiêu chí đánh giá mức độ chuyển đổi số và các quy định có liên quan để tổ chức triển khai ứng dụng công nghệ trong giáo dục đại học, giáo dục nghề nghiệp.
 
 Điều 12. Ứng dụng công nghệ trong cung cấp dịch vụ số
@@ -187,39 +174,31 @@ d) Nâng cao hiệu quả quản trị, minh bạch và trách nhiệm giải tr
 a) Tiếp nhận, xử lý, giải quyết hồ sơ, thủ tục, yêu cầu, phản ánh, kiến nghị trên môi trường số;
 b) Cập nhật, công bố, cung cấp thông tin phục vụ người học, giảng viên, cơ quan quản lý nhà nước và các bên liên quan;
 
-9
-
 ----- [Trang 9] -----
 c) Tra cứu, đăng ký, xác nhận, thanh toán, sử dụng dịch vụ trên môi trường số;
 d) Tích hợp, liên thông dữ liệu giữa các đơn vị trong cơ sở giáo dục và với hệ thống thông tin, cơ sở dữ liệu có liên quan theo quy định;
 đ) Theo dõi, đánh giá mức độ sử dụng, chất lượng cung cấp dịch vụ và mức độ hài lòng của người sử dụng dịch vụ.
-
 2. Việc cung cấp dịch vụ trên môi trường số phải bảo đảm:
 a) Công khai, minh bạch, thuận tiện, kịp thời, lấy người học làm trung tâm;
 b) Không yêu cầu tổ chức, cá nhân cung cấp lại thông tin, dữ liệu hợp lệ đã có trong các hệ thống số được kết nối, chia sẻ theo quy định;
 c) Bảo đảm khả năng tiếp cận đối với người học, bao gồm người khuyết tật và các nhóm đối tượng cần được hỗ trợ;
 d) Có cơ chế tiếp nhận, xử lý phản ánh, kiến nghị, khiếu nại và giải trình về chất lượng cung cấp dịch vụ.
-
 3. Cơ sở giáo dục chịu trách nhiệm về chất lượng, hiệu quả, tính liên tục của dịch vụ số; thực hiện trách nhiệm báo cáo, giải trình trước cơ quan quản lý nhà nước, người học và xã hội theo quy định.
 
 Điều 13. Ứng dụng công nghệ trong hỗ trợ và phát triển người học
 1. Cơ sở giáo dục ứng dụng công nghệ để hỗ trợ người học trong toàn bộ quá trình học tập và phát triển, từ tuyển sinh, nhập học, học tập, rèn luyện, nghiên cứu khoa học, thực tập, hướng nghiệp, tốt nghiệp đến kết nối việc làm và hỗ trợ cựu người học.
-
 2. Ứng dụng công nghệ trong hỗ trợ người học được thực hiện trong các hoạt động chủ yếu sau:
 a) Xây dựng, quản lý hồ sơ người học điện tử; hỗ trợ theo dõi quá trình học tập và rèn luyện của người học;
 b) Cung cấp các dịch vụ học tập, hành chính, xác nhận, đăng ký, thanh toán không dùng tiền mặt và các dịch vụ hỗ trợ khác trên môi trường số;
 c) Cung cấp dịch vụ tư vấn hướng nghiệp, việc làm, khởi nghiệp, tư vấn tâm lý và các dịch vụ hỗ trợ cần thiết khác trên môi trường số;
 d) Thiết lập kênh giao tiếp, tương tác và hỗ trợ trực tuyến giữa người học với nhà trường, giảng viên và các đơn vị liên quan;
 đ) Ứng dụng phân tích dữ liệu và trí tuệ nhân tạo để nhận diện nhu cầu hỗ trợ, dự báo rủi ro và hỗ trợ cá thể hóa đối với người học.
-
 3. Việc ứng dụng công nghệ trong hỗ trợ người học phải bảo đảm:
 
 ----- [Trang 10] -----
-10
 a) Kịp thời, thuận tiện, thân thiện, bao trùm và phù hợp với đặc điểm, nhu cầu của người học;
 b) Tôn trọng quyền riêng tư, bảo vệ dữ liệu cá nhân và quyền, lợi ích hợp pháp của người học; bảo đảm tính minh bạch, không phân biệt đối xử khi sử dụng dữ liệu và trí tuệ nhân tạo để hỗ trợ, tư vấn, khuyến nghị;
 c) Có cơ chế phối hợp giữa các đơn vị trong cơ sở giáo dục để hỗ trợ người học toàn diện; có cơ chế tiếp nhận phản hồi và đánh giá mức độ hài lòng của người học để cải tiến chất lượng hỗ trợ.
-
 4. Cơ sở giáo dục phát triển các hệ thống và kênh hỗ trợ người học trên môi trường số bao gồm cổng dịch vụ số, nền tảng số và trợ lý ảo; bảo đảm khả năng tiếp nhận, xử lý kịp thời các yêu cầu của người học và kết nối, liên thông với các hệ thống đào tạo, quản trị và dịch vụ của cơ sở giáo dục.
 
 Điều 14. Xây dựng và phát triển cơ sở dữ liệu giáo dục
@@ -228,20 +207,15 @@ a) Phục vụ quản trị, điều hành cơ sở giáo dục trên môi trư�
 b) Phục vụ công tác quản lý nhà nước về giáo dục đại học, giáo dục nghề nghiệp;
 c) Nâng cao chất lượng đào tạo, kiểm tra, đánh giá và nghiên cứu khoa học;
 d) Tạo lập nền tảng dữ liệu cho phân tích, dự báo và ứng dụng công nghệ số, bao gồm trí tuệ nhân tạo; thúc đẩy đổi mới sáng tạo và chuyển đổi số trong giáo dục đại học, giáo dục nghề nghiệp.
-
 2. Nội dung số hóa thông tin cho cơ sở dữ liệu phải bao quát các hoạt động trong cơ sở giáo dục, trong đó tối thiểu gồm: dữ liệu về chương trình đào tạo, người học, quá trình và kết quả học tập, văn bằng, chứng chỉ, nhà giáo và cán bộ quản lý giáo dục, hoạt động nghiên cứu khoa học, học liệu số, hoạt động quản trị, dịch vụ và các dữ liệu khác có liên quan.
-
 3. Việc phát triển và quản lý cơ sở dữ liệu phải bảo đảm:
 a) Dữ liệu được phân loại, chuẩn hóa, số hóa và quản lý thống nhất; có khả năng kết nối, liên thông, chia sẻ và tái sử dụng trong nội bộ cơ sở giáo dục;
 b) Bảo đảm tính chính xác, đầy đủ, kịp thời và khả năng cập nhật;
 c) Phù hợp với quản trị cơ sở giáo dục, quản lý nhà nước và nâng cao chất lượng giáo dục;
 d) Tuân thủ quy định của pháp luật về dữ liệu.
-
 4. Cơ sở dữ liệu giáo dục phải thực hiện kết nối, chia sẻ dữ liệu với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu ngành và các hệ thống thông tin có liên quan theo quy định.
 
 ----- [Trang 11] -----
-11
-
 5. Bộ Giáo dục và Đào tạo ban hành Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu, Từ điển dữ liệu ngành giáo dục; hướng dẫn kết nối, chia sẻ dữ liệu với cơ sở dữ liệu ngành giáo dục để các cơ sở giáo dục thực hiện.
 
 Chương IV
@@ -262,8 +236,6 @@ a) Phù hợp với kiến trúc, mô hình giáo dục số; hạn chế phát 
 b) Bảo đảm đầu tư hiệu quả, tránh trùng lặp; đồng bộ giữa hạ tầng kỹ thuật, hệ thống thông tin, nền tảng số và dữ liệu; bảo đảm vận hành ổn định, liên tục, có khả năng mở rộng, nâng cấp và phục hồi khi xảy ra sự cố.
 
 ----- [Trang 12] -----
-12
-
 3. Việc đầu tư, phát triển, quản lý, duy trì và vận hành hạ tầng số phải tuân thủ quy định của pháp luật về an toàn thông tin và an ninh mạng; có biện pháp phòng ngừa, phát hiện và khắc phục, xử lý sự cố kịp thời.
 
 Điều 17. Quản trị dữ liệu và an ninh mạng
@@ -286,8 +258,6 @@ d) Định kỳ đánh giá, kiểm tra, rà soát rủi ro, lỗ hổng và hi�
 3. Các quy định nội bộ phải bảo đảm tối thiểu các yêu cầu sau:
 
 ----- [Trang 13] -----
-13
-
 a) Phù hợp với quy định của pháp luật;
 b) Chuẩn hóa quy trình, phương thức tổ chức thực hiện;
 c) Xác định rõ trách nhiệm của các đơn vị, cá nhân;
@@ -310,8 +280,6 @@ c) Nguồn xã hội hóa, hợp tác với tổ chức, doanh nghiệp;
 d) Các nguồn hợp pháp khác.
 
 ----- [Trang 14] -----
-14
-
 3. Cơ sở giáo dục chủ động xây dựng và thực hiện các cơ chế, chính sách huy động nguồn lực, bao gồm:
 a) Hợp tác với doanh nghiệp trong đầu tư, phát triển, cung cấp và vận hành hệ thống, nền tảng công nghệ;
 b) Huy động nguồn lực xã hội hóa, tài trợ, viện trợ, các mô hình hợp tác công – tư và các hình thức hợp tác hợp pháp khác;
@@ -327,12 +295,10 @@ TỔ CHỨC THỰC HIỆN
 3. Ban hành và tổ chức thực hiện các quy định nội bộ nhằm thể chế hóa việc ứng dụng công nghệ trong các hoạt động đào tạo, nghiên cứu khoa học, quản trị và cung cấp dịch vụ.
 
 Điều 21. Trách nhiệm của các bên liên quan
-1. Tổ chức, doanh nghiệp cung cấp nền tảng, giải pháp công nghệ số và trí tuệ nhân tạo phục vụ vụ giáo dục đại học, giáo dục nghề nghiệp có trách nhiệm tuân thủ các quy chuẩn kỹ thuật, tiêu chuẩn dữ liệu, yêu cầu về an toàn thông tin, an ninh mạng, bảo vệ dữ liệu cá nhân, bảo đảm khả năng kết nối, chia sẻ dữ liệu, duy trì tính liên tục của dịch vụ và thực hiện chuyển giao dữ liệu theo thỏa thuận, quy định nội bộ của cơ sở giáo dục và quy định của pháp luật có liên quan.
+1. Tổ chức, doanh nghiệp cung cấp nền tảng, giải pháp công nghệ số và trí tuệ nhân tạo phục vụ giáo dục đại học, giáo dục nghề nghiệp có trách nhiệm tuân thủ các quy chuẩn kỹ thuật, tiêu chuẩn dữ liệu, yêu cầu về an toàn thông tin, an ninh mạng, bảo vệ dữ liệu cá nhân, bảo đảm khả năng kết nối, chia sẻ dữ liệu, duy trì tính liên tục của dịch vụ và thực hiện chuyển giao dữ liệu theo thỏa thuận, quy định nội bộ của cơ sở giáo dục và quy định của pháp luật có liên quan.
 2. Giảng viên, người học và các bên tham gia hoạt động học thuật có trách nhiệm tuân thủ quy định về liêm chính học thuật; trung thực trong học tập, giảng dạy, nghiên cứu khoa học và công bố việc sử dụng công nghệ, trí tuệ nhân tạo khi có yêu cầu.
 
 ----- [Trang 15] -----
-15
-
 Điều 22. Điều khoản thi hành
 1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 08 năm 2026.
 2. Thông tư số 15/2018/TT-BGDĐT ngày 27 tháng 7 năm 2018 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tổ chức hoạt động, sử dụng thư điện tử và trang thông tin điện tử của các cơ sở giáo dục đại học, các trường cao đẳng sư phạm; Thông tư số 30/2023/TT-BGDĐT ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về ứng dụng công nghệ thông tin trong đào tạo trực tuyến đối với giáo dục đại học hết hiệu lực thi hành từ ngày Thông tư này có hiệu lực.

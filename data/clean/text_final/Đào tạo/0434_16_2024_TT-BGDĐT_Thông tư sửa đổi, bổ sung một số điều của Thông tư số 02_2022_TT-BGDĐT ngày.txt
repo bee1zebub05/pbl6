@@ -18,7 +18,7 @@ Theo đề nghị của Vụ trưởng Vụ Giáo dục Đại học;
 
 Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ.
 
-Điều 1. Sửa đổi, bổ sung, một số điều của Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ.
+Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ.
 
 1. Bổ sung điểm d vào khoản 2 và các khoản 8, 9 vào Điều 3 như sau:
 a) Bổ sung điểm d vào khoản 2 như sau:
@@ -245,11 +245,11 @@ Tên phòng thí nghiệm, thực hành | Y khoa | Y học cổ truyền | Răng
 | 29 | Dược lâm sàng | - | - | - | - | - | - | X | - | - | - | - |
 | 30 | Công nghiệp dược | - | - | - | - | - | - | X | - | - | - | - |
 | 31 | Kiểm nghiệm thuốc | - | - | - | - | - | - | X | - | - | - | - |
-| 32 | Chiết suất vi sinh | - | - | - | - | - | - | X | - | - | - | - |
+| 32 | Chiết xuất vi sinh | - | - | - | - | - | - | X | - | - | - | - |
 | 33 | Nhà thuốc | - | - | - | - | - | - | X | - | - | - | - |
 | 34 | Trung tâm tiền lâm sàng (các phòng thực hành về: hệ nội, hệ ngoại, phụ sản, nhi, hồi sức cấp cứu, điều dưỡng) | X | - | - | X | - | - | - | - | - | - | - |
 | 35 | Trung tâm tiền lâm sàng (các phòng thực hành về: hệ nội, hệ ngoại, hồi sức cấp cứu, điều dưỡng, châm cứu, xoa bóp-dưỡng sinh) | - | X | - | - | - | - | - | - | - | - | - |
-| 36 | Trung tâm tiền lâm sàng (các phòng thực hành về: chữa răng và nội nha, phục hình, chỉnh nha, nha nhu, phẫu thuật trong miệng và phẫu thuật hàm mặt, Labo răng giả) | - | - | X | - | - | - | - | - | - | - | - |
+| 36 | Trung tâm tiền lâm sàng (các phòng thực hành về: chữa răng và nội nha, phục hình, chỉnh nha, nha chu, phẫu thuật trong miệng và phẫu thuật hàm mặt, Labo răng giả) | - | - | X | - | - | - | - | - | - | - | - |
 
 [TRANG
 
@@ -263,19 +263,17 @@ Tên phòng thí nghiệm, thực hành | Y khoa | Y học cổ truyền | Răng
 
 ----- [Trang 11] -----
 
-Trang 1:
 
 11
 
 | STT | Tên phòng thí nghiệm, thực hành | Ngành đào tạo dự kiến mở |
 | | | Y khoa | Y học cổ truyền | Răng Hàm Mặt | Y học Dự phòng | Điều dưỡng | Hộ sinh | Dược học | Kỹ thuật Phục hình răng | Kỹ thuật xét nghiệm y học | Kỹ thuật Hình ảnh y học | Kỹ thuật Phục hồi chức năng |
 | | nữ và kế hoạch hóa gia đình) | | | | | | | | | | | |
-| 39 | Labo Kỹ thuật phục hình răng (các phòng về: kỹ thuật phục hình tháo lắp, kỹ thuật phục hình cố định, kỹ thuật phục hình sứ, kỹ thuật phục hình trên implant, kỹ thuật CAD/CAM & số trong nha khoa, Labo răng giả. | - | - | - | - | - | - | - | X | - | - | - |
+| 39 | Labo Kỹ thuật phục hình răng (các phòng về: kỹ thuật phục hình tháo lắp, kỹ thuật phục hình cố định, kỹ thuật phục hình sứ, kỹ thuật phục hình trên implant, kỹ thuật CAD/CAM & số trong nha khoa, Labo răng giả) | - | - | - | - | - | - | - | X | - | - | - |
 | 40 | Trung tâm tiền lâm sàng gồm: 
 - Các phòng thực hành Vật lý trị liệu: Thực hành điều trị bằng tay; Thực hành Vận động trị liệu; Thực hành Điện trị liệu. 
 - Các phòng thực hành Hoạt động trị liệu: thực | - | - | - | - | - | - | - | - | - | - | X |
 
-Trang 2:
 
 ----- [Trang 12] -----
 
@@ -295,7 +293,6 @@ Trang 2:
 | 48 | X-Quang chuyên khoa | - | - | - | - | - | - | - | - | - | X | - |
 | 49 | Phòng kiến tập X quang | - | - | - | - | - | - | - | - | - | X | - |
 
-Trang 3:
 
 ----- [Trang 13] -----
 
@@ -308,14 +305,13 @@ Trang 3:
 | 51 | Chụp cộng hưởng từ | - | - | - | - | - | - | - | - | - | X | - |
 | 52 | Y học hạt nhân xạ trị | - | - | - | - | - | - | - | - | - | X | - |
 
-Trang 4:
 
 ----- [Trang 14] -----
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO 
 ĐẠI HỌC ĐÀ NẴNG 
 
-CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
 Độc lập - Tự do - Hạnh phúc 
 
 Đà Nẵng, ngày 26 tháng 11 năm 2024 

@@ -8,3 +8,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# Trang thai chay cua cau gemini_web
+tools/gemini_web/trang_thai_*.json

@@ -29,8 +29,8 @@ import json
 from collections import Counter
 from pathlib import Path
 
-from .. import config
-from ..pipeline import say
+from ..core import config
+from ..core.console import say
 from ..kg.session import KGSession
 
 

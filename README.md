@@ -19,18 +19,25 @@ PBL6/
 ├── .env.example
 ├── requirements.txt
 │
-├── src/vanban/                ← code pipeline
-│   ├── config.py              ← đường dẫn + tham số, đọc từ .env
-│   ├── naming.py              ← chuẩn hoá / phục hồi tên file PDF
-│   ├── session.py             ← trạng thái chạy (SQLite), dừng-tiếp tục
-│   ├── pdf_text.py            ← trích text bằng PyMuPDF + chấm điểm tiếng Việt
-│   ├── ocr_local.py           ← OCR tại máy bằng EasyOCR (engine mặc định)
-│   ├── ocr_client.py          ← gọi API OCR, retry, tải file kết quả
-│   ├── normalize.py           ← tiêm số hiệu/ngày từ metadata + bỏ phiếu trích dẫn
-│   ├── gemini_fix.py          ← cắt khối + hiệu đính bằng Gemma/Gemini
-│   ├── pipeline.py            ← điều phối các bước
+├── src/vanban/                ← code pipeline, chia theo TẦNG
 │   ├── cli.py                 ← định nghĩa câu lệnh
-│   └── kg/                    ← xây knowledge graph (rules/Ontology.md)
+│   ├── core/                  ← nền dùng chung, không phụ thuộc tầng nào
+│   │   ├── config.py          ← đường dẫn + tham số, đọc từ .env
+│   │   ├── console.py         ← in tiến độ + Ctrl+C dừng êm
+│   │   ├── text.py            ← bỏ dấu, khoanh vùng header trang 1
+│   │   ├── naming.py          ← chuẩn hoá / phục hồi tên file PDF
+│   │   └── session.py         ← trạng thái chạy (SQLite), dừng-tiếp tục
+│   ├── clean/                 ← TẦNG 1: PDF → OCR → chuẩn hoá → hiệu đính
+│   │   ├── pdf_text.py        ← trích text bằng PyMuPDF + chấm điểm tiếng Việt
+│   │   ├── ocr_local.py       ← OCR tại máy bằng EasyOCR (engine mặc định)
+│   │   ├── ocr_client.py      ← gọi API OCR, retry, tải file kết quả
+│   │   ├── normalize.py       ← tiêm số hiệu/ngày từ metadata + bỏ phiếu trích dẫn
+│   │   ├── gemini_fix.py      ← cắt khối + hiệu đính bằng Gemma/Gemini
+│   │   ├── key_pool.py        ← bể API key dùng chung nhiều luồng
+│   │   └── pipeline.py        ← điều phối các bước
+│   ├── rag/                   ← TẦNG 3: truy hồi
+│   │   └── engines.py         ← ba hệ BM25 / KG / HYBRID
+│   └── kg/                    ← TẦNG 2: xây knowledge graph (rules/Ontology.md)
 │       ├── norm.py            ← số hiệu chuẩn, authority_level, hiệu lực, tổ chức
 │       ├── session.py         ← tiến độ xây graph (SQLite riêng, kg.db)
 │       ├── documents.py       ← Bước 0: chốt bảng Document
@@ -46,6 +53,14 @@ PBL6/
 │       ├── errors.py          ← §6.6-6.7 ablation + phân tích lỗi
 │       └── runner.py          ← điều phối + gom BAO_CAO.md
 │
+├── tools/                     ← công cụ chạy tay, ngoài luồng run.py
+│   ├── README.md              ← vì sao tách khỏi src/
+│   ├── gemini_web/            ← hiệu đính hàng loạt qua GIAO DIỆN WEB Gemini
+│   │   ├── cau_sua_txt.py     ← máy chủ hàng chờ (cổng 8779)
+│   │   └── extension/         ← extension Chrome lái nhiều tab Gemini
+│   └── kiem_tra/              ← đo chất lượng kho text_final
+│       └── kiem_ban_cuoi.py   ← ra data/kiem_tra/bao_cao_ban_cuoi.csv
+│
 ├── scripts/
 │   ├── crawl_vanban.py        ← crawler gốc (dut.udn.vn), ghi vào data/raw/
 │   └── viz_ontology.py        ← vẽ KG trong rules/Ontology.md ra docs/*.png
@@ -57,8 +72,8 @@ PBL6/
 │   ├── README.md              ← raw là gì, rụng còn bao nhiêu, qua bước nào
 │   ├── clean/                 ← DATA THẬT TRONG REPO
 │   │   ├── README.md          ← chi tiết kho text_final
-│   │   ├── text_final/        ← 455 văn bản — KHO CHUẨN, dùng cái này
-│   │   └── text_clean_gemma/  ← bản cũ, giữ vì config.py còn trỏ vào
+│   │   └── text_final/        ← 455 văn bản — KHO CHUẨN, nguồn duy nhất
+│   ├── kiem_tra/              ← báo cáo chất lượng do tools/kiem_tra sinh ra
 │   ├── kg/                    ← đầu ra knowledge graph (10 .jsonl + .cypher)
 │   ├── eval/                  ← kết quả đánh giá §6, gom ở BAO_CAO.md
 │   ├── manifest.jsonl         ← 501 dòng JSON, gộp metadata qua mọi bước
@@ -334,7 +349,7 @@ Key trùng nhau bị tự loại (dán nhầm hai lần cũng không sao).
 
 ### Cách chọn key
 
-Mỗi lượt gọi mượn một key từ bể (`src/vanban/key_pool.py`), chọn theo
+Mỗi lượt gọi mượn một key từ bể (`src/vanban/clean/key_pool.py`), chọn theo
 **key nào đang gánh ít request nhất**, hoà thì lấy key lâu chưa dùng. Cách này
 trải tải đều dù số luồng nhiều hay ít hơn số key.
 
@@ -464,7 +479,7 @@ Crawler đã lấy sẵn `so_hieu` và `ngay_ban_hanh` cho cả 501 văn bản t
 án, nên `normalize` ghi đè thẳng vào header trang 1 — chính xác tuyệt đối, chi
 phí bằng 0.
 
-Ba ràng buộc an toàn trong [`normalize.py`](src/vanban/normalize.py):
+Ba ràng buộc an toàn trong [`normalize.py`](src/vanban/clean/normalize.py):
 
 - **Chỉ đụng vào vùng header**, dừng trước chữ `Căn cứ` đầu tiên. Phần căn cứ
   pháp lý cũng viết `ngày 04 tháng 04 năm 1994` nhưng đó là chữ IN của văn bản
@@ -654,10 +669,7 @@ Sửa trong `.env`:
 | `GEMINI_CHUNK_CHARS` | 7000 | kích thước mỗi khối gửi lên |
 | `GEMINI_THINKING_BUDGET` | 0 | >0 nếu muốn model cẩn thận hơn |
 | `NATIVE_TEXT_THRESHOLD` | 200 | ký tự/trang để coi PDF là bản số |
-| `KG_CORPUS_DIR` | data/clean/text_clean_gemma | kho text đã hiệu đính dùng để xây graph |
-#   p b l 6 
- 
- 
+| `KG_CORPUS_DIR` | data/clean/text_final | kho text đã hiệu đính dùng để xây graph |
 
 ---
 
@@ -702,7 +714,7 @@ rõ (nhóm file không có trong manifest).
 
 **1. Neo vào kho text CÓ THẬT.** `data/manifest.jsonl` xuất ngày 17/8, ghi
 `fix_status: pending` cho 498/501 và `text_clean: null` — trong khi 460 văn bản
-đã hiệu đính xong và nằm ở `data/clean/text_clean_gemma/`. Nên nguồn chuẩn về
+đã hiệu đính xong và nằm ở `data/clean/text_final/`. Nên nguồn chuẩn về
 **text** là thư mục trên đĩa; manifest chỉ còn là nguồn chuẩn về **metadata**
 (ngày ban hành, cơ quan, tình trạng hiệu lực — `data/raw/metadata.csv` đã bị xoá
 cùng thư mục PDF nên không còn nguồn nào khác).
@@ -785,7 +797,7 @@ Một dòng `documents.jsonl`:
   "orgId": "bo_giao_duc_va_dao_tao",
   "topics": ["Công tác sinh viên"],
   "doc_ids": ["0005"],
-  "clean_path": "data/clean/text_clean_gemma/Công tác sinh viên/0005_...txt",
+  "clean_path": "data/clean/text_final/Công tác sinh viên/0005_...txt",
   "clean_chars": 37884,
   "header_check": "khop",
   "level_note": "onto",

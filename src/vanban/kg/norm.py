@@ -14,7 +14,7 @@ import re
 import unicodedata
 from datetime import date
 
-from ..normalize import deaccent
+from ..core.text import deaccent
 
 
 # ============================================================

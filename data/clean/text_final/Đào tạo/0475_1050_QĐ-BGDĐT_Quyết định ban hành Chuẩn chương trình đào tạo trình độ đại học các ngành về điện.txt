@@ -4,7 +4,7 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-Số: 1050 /QĐ-BGDĐT
+Số: 1050/QĐ-BGDĐT
 Hà Nội, ngày 04 tháng 5 năm 2026
 
 QUYẾT ĐỊNH
@@ -73,60 +73,60 @@ Chuẩn chương trình đào tạo trình độ đại học các ngành về �
 1.3. Danh mục các ngành về điện hạt nhân trình độ đại học
 Danh mục thống kê các ngành về điện hạt nhân (Nhóm ngành kỹ thuật và Nhóm ngành khác) trình độ đại học theo quy định hiện hành bao gồm:
 
-| TT | Mã ngành | Tên ngành | Ghi chú |
-| Trình độ đại học | | | |
-| Ngành cốt lõi | | | |
-| 1 | 7520402 | Kỹ thuật hạt nhân | |
-| 2 | 7510407 | Công nghệ kỹ thuật hạt nhân | |
-| 3 | 7520115 | Kỹ thuật nhiệt | |
-| 4 | 7510206 | Công nghệ kỹ thuật nhiệt | |
-| 5 | 7520201 | Kỹ thuật điện | |
-| 6 | 7520406 | Kỹ thuật năng lượng | |
-| 7 | 7520401 | Vật lý kỹ thuật | |
-| 8 | 7520216 | Kỹ thuật điều khiển và tự động hóa | |
-| 9 | 7520207 | Kỹ thuật điện tử - viễn thông | |
-| 10 | 7520215 | Kỹ thuật điện, điện tử | |
-| 11 | 7520103 | Kỹ thuật cơ khí | |
-| 12 | 7520114 | Kỹ thuật cơ điện tử | |
-| 13 | 7520107 | Kỹ thuật robot | Thí điểm |
-| 14 | 7440102 | Vật lý học | |
-| 15 | 7440106 | Vật lý nguyên tử và hạt nhân | |
-| 16 | 7440110 | Cơ học | |
-| 17 | 7520101 | Cơ kỹ thuật | |
-| 18 | 7520301 | Kỹ thuật hóa học | |
-| 19 | 7520320 | Kỹ thuật môi trường | |
-| Ngành phụ trợ - Liên ngành | | | |
-| 20 | 7520309 | Kỹ thuật vật liệu | |
-| 21 | 7520310 | Kỹ thuật vật liệu kim loại | |
-| 22 | 7580201 | Kỹ thuật xây dựng | |
-| 23 | 7580202 | Kỹ thuật xây dựng công trình thủy | |
-| 24 | 7580210 | Kỹ thuật cơ sở hạ tầng | |
-| 25 | 7510105 | Công nghệ kỹ thuật vật liệu xây dựng | |
-| 26 | 7480101 | Khoa học máy tính | |
-| 27 | 7480102 | Mạng máy tính và truyền thông dữ liệu | |
-| 28 | 7480104 | Hệ thống thông tin | |
-| 29 | 7480202 | An toàn thông tin | |
-| 30 | 7480208 | An ninh mạng | Thí điểm |
-| 31 | 7480106 | Kỹ thuật máy tính | |
-| 32 | 7480103 | Kỹ thuật phần mềm | |
-| 33 | 7480107 | Trí tuệ nhân tạo | |
-| 34 | 7480201 | Công nghệ thông tin | |
-| 35 | 7460107 | Khoa học tính toán | |
-| 36 | 7460108 | Khoa học dữ liệu | |
-| 37 | 7480108 | Công nghệ kỹ thuật máy tính | |
-| 38 | 7510401 | Công nghệ kỹ thuật hóa học | |
-| 39 | 7510301 | Công nghệ kỹ thuật điện, điện tử | |
-| 40 | 7510303 | Công nghệ kỹ thuật điều khiển và tự động hóa | |
-| 41 | 7510406 | Công nghệ kỹ thuật môi trường | |
-| 42 | 7510402 | Công nghệ vật liệu | |
-| 43 | 7510201 | Công nghệ kỹ thuật cơ khí | |
-| 44 | 7510203 | Công nghệ kỹ thuật cơ điện tử | |
-| 45 | 7510206 | Công nghệ kỹ thuật nhiệt | |
-| 46 | 7510302 | Công nghệ kỹ thuật điện tử - viễn thông | |
-| 47 | 7440112 | Hóa học | |
-| 48 | 7440122 | Khoa học vật liệu | |
-| 49 | 7440301 | Khoa học môi trường | |
-| 50 | 7440201 | Địa chất học | |
+TT | Mã ngành | Tên ngành | Ghi chú
+Trình độ đại học
+Ngành cốt lõi
+1 | 7520402 | Kỹ thuật hạt nhân | 
+2 | 7510407 | Công nghệ kỹ thuật hạt nhân | 
+3 | 7520115 | Kỹ thuật nhiệt | 
+4 | 7510206 | Công nghệ kỹ thuật nhiệt | 
+5 | 7520201 | Kỹ thuật điện | 
+6 | 7520406 | Kỹ thuật năng lượng | 
+7 | 7520401 | Vật lý kỹ thuật | 
+8 | 7520216 | Kỹ thuật điều khiển và tự động hóa | 
+9 | 7520207 | Kỹ thuật điện tử - viễn thông | 
+10 | 7520215 | Kỹ thuật điện, điện tử | 
+11 | 7520103 | Kỹ thuật cơ khí | 
+12 | 7520114 | Kỹ thuật cơ điện tử | 
+13 | 7520107 | Kỹ thuật robot | Thí điểm
+14 | 7440102 | Vật lý học | 
+15 | 7440106 | Vật lý nguyên tử và hạt nhân | 
+16 | 7440110 | Cơ học | 
+17 | 7520101 | Cơ kỹ thuật | 
+18 | 7520301 | Kỹ thuật hóa học | 
+19 | 7520320 | Kỹ thuật môi trường | 
+Ngành phụ trợ - Liên ngành
+20 | 7520309 | Kỹ thuật vật liệu | 
+21 | 7520310 | Kỹ thuật vật liệu kim loại | 
+22 | 7580201 | Kỹ thuật xây dựng | 
+23 | 7580202 | Kỹ thuật xây dựng công trình thủy | 
+24 | 7580210 | Kỹ thuật cơ sở hạ tầng | 
+25 | 7510105 | Công nghệ kỹ thuật vật liệu xây dựng | 
+26 | 7480101 | Khoa học máy tính | 
+27 | 7480102 | Mạng máy tính và truyền thông dữ liệu | 
+28 | 7480104 | Hệ thống thông tin | 
+29 | 7480202 | An toàn thông tin | 
+30 | 7480208 | An ninh mạng | Thí điểm
+31 | 7480106 | Kỹ thuật máy tính | 
+32 | 7480103 | Kỹ thuật phần mềm | 
+33 | 7480107 | Trí tuệ nhân tạo | 
+34 | 7480201 | Công nghệ thông tin | 
+35 | 7460107 | Khoa học tính toán | 
+36 | 7460108 | Khoa học dữ liệu | 
+37 | 7480108 | Công nghệ kỹ thuật máy tính | 
+38 | 7510401 | Công nghệ kỹ thuật hóa học | 
+39 | 7510301 | Công nghệ kỹ thuật điện, điện tử | 
+40 | 7510303 | Công nghệ kỹ thuật điều khiển và tự động hóa | 
+41 | 7510406 | Công nghệ kỹ thuật môi trường | 
+42 | 7510402 | Công nghệ vật liệu | 
+43 | 7510201 | Công nghệ kỹ thuật cơ khí | 
+44 | 7510203 | Công nghệ kỹ thuật cơ điện tử | 
+45 | 7510206 | Công nghệ kỹ thuật nhiệt | 
+46 | 7510302 | Công nghệ kỹ thuật điện tử - viễn thông | 
+47 | 7440112 | Hóa học | 
+48 | 7440122 | Khoa học vật liệu | 
+49 | 7440301 | Khoa học môi trường | 
+50 | 7440201 | Địa chất học | 
 
 Ngoài các ngành đào tạo được nêu tại danh mục này, các ngành được Bộ trưởng Bộ Giáo dục và Đào tạo cho phép thí điểm hoặc bổ sung vào danh mục đào tạo trình độ đại học các ngành về điện hạt nhân phải thực hiện theo những quy định tại Chuẩn chương trình đào tạo này.
 
@@ -148,14 +148,14 @@ Chuẩn đầu ra dưới đây áp dụng đầy đủ cho người học thu�
 
 BẢNG CHUẨN ĐẦU RA CHUNG
 
-| Chuẩn đầu ra | Mức độ năng lực tối thiểu: Cử nhân (bậc 6) | Mức độ năng lực tối thiểu: Kỹ sư (bậc 7) |
-| (1) Kiến thức: Vận dụng các nguyên lý khoa học tự nhiên, toán học và kỹ thuật cốt lõi để xác định, hình thành và giải quyết các vấn đề kỹ thuật phức tạp trong các ngành về điện hạt nhân (bao gồm hạ tầng, công nghệ, hệ thống điện và dữ liệu) | Mức 3 | Mức 5 |
-| (2) Kiến thức: Áp dụng tư duy thiết kế kỹ thuật để phát triển, đánh giá hoặc lựa chọn các giải pháp công nghệ đáp ứng nhu cầu cụ thể của nhà máy điện hạt nhân và các cơ sở liên quan; có xét đến các yếu tố sức khỏe, an toàn bức xạ, môi trường, kinh tế, xã hội và tuân thủ nghiêm ngặt các quy định pháp luật. | Mức 3 | Mức 5 |
-| (3) Kỹ năng: Truyền đạt thông tin chính xác, rõ ràng về các vấn đề kỹ thuật và an toàn hạt nhân thông qua văn bản, thuyết trình và các phương tiện trực quan, giao tiếp hiệu quả với nhiều đối tượng (chuyên gia kỹ thuật, cơ quan quản lý nhà nước, công chúng); | Mức 3 | Mức 4 |
-| (4) Kỹ năng: Làm việc hiệu quả trong các nhóm chuyên môn đơn ngành hoặc nhóm đa ngành (liên kết giữa Xây dựng - Cơ khí - Vật lý - Kỹ thuật nhiệt - Điện – Công nghệ thông tin); thể hiện trách nhiệm thành viên hoặc vai trò lãnh đạo nhằm giải quyết các xung đột kỹ thuật và hoàn thành mục tiêu chung. | Mức 3 | Mức 4 |
-| (5) Kỹ năng: Thiết kế và thực hiện các thực nghiệm, mô phỏng hoặc nhiệm vụ kỹ thuật đặc thù; phân tích, giải thích dữ liệu và sử dụng phán đoán kỹ thuật tận dụng công cụ trí tuệ nhân tạo và công nghệ số để đưa ra kết luận phù hợp với thực tiễn vận hành và các tiêu chuẩn an toàn quốc tế/quốc gia. | Mức 3 | Mức 5 |
-| (6) Mức tự chủ và trách nhiệm: Thực hành nghề nghiệp dựa trên đạo đức kỹ thuật và văn hóa an toàn; đưa ra các quyết định sáng suốt trong các tình huống kỹ thuật, nhận thức rõ tác động của giải pháp đối với sự an toàn của con người, môi trường và sự phát triển bền vững của ngành năng lượng. | Mức 3 | Mức 4 |
-| (7) Mức tự chủ và trách nhiệm: Chủ động cập nhật kiến thức mới về công nghệ, tiêu chuẩn và quy định pháp luật để đáp ứng sự phát triển nhanh chóng của ngành điện hạt nhân, đổi mới sáng tạo, tham gia khởi nghiệp, duy trì năng lực chuyên môn thông qua định hướng học tập suốt đời. | Mức 3 | Mức 4 |
+Chuẩn đầu ra | Mức độ năng lực tối thiểu: Cử nhân (bậc 6) | Mức độ năng lực tối thiểu: Kỹ sư (bậc 7)
+(1) Kiến thức: Vận dụng các nguyên lý khoa học tự nhiên, toán học và kỹ thuật cốt lõi để xác định, hình thành và giải quyết các vấn đề kỹ thuật phức tạp trong các ngành về điện hạt nhân (bao gồm hạ tầng, công nghệ, hệ thống điện và dữ liệu) | Mức 3 | Mức 5
+(2) Kiến thức: Áp dụng tư duy thiết kế kỹ thuật để phát triển, đánh giá hoặc lựa chọn các giải pháp công nghệ đáp ứng nhu cầu cụ thể của nhà máy điện hạt nhân và các cơ sở liên quan; có xét đến các yếu tố sức khỏe, an toàn bức xạ, môi trường, kinh tế, xã hội và tuân thủ nghiêm ngặt các quy định pháp luật. | Mức 3 | Mức 5
+(3) Kỹ năng: Truyền đạt thông tin chính xác, rõ ràng về các vấn đề kỹ thuật và an toàn hạt nhân thông qua văn bản, thuyết trình và các phương tiện trực quan, giao tiếp hiệu quả với nhiều đối tượng (chuyên gia kỹ thuật, cơ quan quản lý nhà nước, công chúng); | Mức 3 | Mức 4
+(4) Kỹ năng: Làm việc hiệu quả trong các nhóm chuyên môn đơn ngành hoặc nhóm đa ngành (liên kết giữa Xây dựng - Cơ khí - Vật lý - Kỹ thuật nhiệt - Điện – Công nghệ thông tin); thể hiện trách nhiệm thành viên hoặc vai trò lãnh đạo nhằm giải quyết các xung đột kỹ thuật và hoàn thành mục tiêu chung. | Mức 3 | Mức 4
+(5) Kỹ năng: Thiết kế và thực hiện các thực nghiệm, mô phỏng hoặc nhiệm vụ kỹ thuật đặc thù; phân tích, giải thích dữ liệu và sử dụng phán đoán kỹ thuật tận dụng công cụ trí tuệ nhân tạo và công nghệ số để đưa ra kết luận phù hợp với thực tiễn vận hành và các tiêu chuẩn an toàn quốc tế/quốc gia. | Mức 3 | Mức 5
+(6) Mức tự chủ và trách nhiệm: Thực hành nghề nghiệp dựa trên đạo đức kỹ thuật và văn hóa an toàn; đưa ra các quyết định sáng suốt trong các tình huống kỹ thuật, nhận thức rõ tác động của giải pháp đối với sự an toàn của con người, môi trường và sự phát triển bền vững của ngành năng lượng. | Mức 3 | Mức 4
+(7) Mức tự chủ và trách nhiệm: Chủ động cập nhật kiến thức mới về công nghệ, tiêu chuẩn và quy định pháp luật để đáp ứng sự phát triển nhanh chóng của ngành điện hạt nhân, đổi mới sáng tạo, tham gia khởi nghiệp, duy trì năng lực chuyên môn thông qua định hướng học tập suốt đời. | Mức 3 | Mức 4
 
 7
 
@@ -181,14 +181,14 @@ Người học tốt nghiệp chương trình đào tạo theo hướng Kỹ thu
 
 BẢNG CHUẨN ĐẦU RA: KỸ THUẬT CÔNG TRÌNH VÀ HẠ TẦNG HẠT NHÂN
 
-| Chuẩn đầu ra | Mức độ năng lực tối thiểu: Cử nhân (bậc 6) | Mức độ năng lực tối thiểu: Kỹ sư (bậc 7) |
-| (1) Kiến thức: Vận dụng các nguyên lý toán học, cơ học kết cấu và khoa học hạt nhân để phân tích và giải quyết các vấn đề kỹ thuật phức tạp của kết cấu và hạ tầng hạt nhân; đánh giá khả năng chịu tải và yêu cầu bảo vệ an toàn của công trình theo tiêu chuẩn và pháp quy chuyên ngành. | Mức 3 | Mức 5 |
-| (2) Kiến thức: Áp dụng các phương pháp và nguyên lý kỹ thuật để thiết kế và đánh giá các hạng mục công trình trong cơ sở hạt nhân, bảo đảm tuân thủ tiêu chuẩn, pháp quy và đáp ứng yêu cầu về an toàn bức xạ, độ bền và hiệu quả kinh tế – môi trường. | Mức 3 | Mức 5 |
-| (3) Kỹ năng: Trình bày, xây dựng và truyền đạt thông tin kỹ thuật thông qua bản vẽ, hồ sơ thiết kế và báo cáo chuyên môn; giao tiếp rõ ràng, chính xác với cơ quan quản lý nhà nước và các bên liên quan trong quá trình thiết kế, đánh giá an toàn và triển khai công trình hạt nhân. | Mức 3 | Mức 4 |
-| (4) Kỹ năng: Hợp tác hiệu quả trong các nhóm thiết kế, thi công đa ngành; phối hợp giải quyết các vướng mắc kỹ thuật tại hiện trường và hỗ trợ giám sát chất lượng công trình theo quy trình và tiêu chuẩn chuyên ngành. | Mức 3 | Mức 4 |
-| (5) Kỹ năng: Thực hiện các phép đo, thí nghiệm và quan trắc liên quan đến vật liệu, kết cấu; sử dụng công cụ mô phỏng, phân tích dữ liệu ứng dụng công cụ trí tuệ nhân tạo và công nghệ số để đánh giá độ ổn định, độ tin cậy và tuổi thọ công trình trong môi trường có bức xạ cao. | Mức 3 | Mức 5 |
-| (6) Tự chủ và trách nhiệm: Thực hành nghề nghiệp gắn với trách nhiệm nghề nghiệp và văn hóa an toàn trong xây dựng hạ tầng hạt nhân; đánh giá và cân nhắc tác động của các giải pháp thiết kế, thi công hoặc tháo dỡ đối với an toàn công cộng và môi trường bền vững. | Mức 3 | Mức 4 |
-| (7) Tự chủ và trách nhiệm: Chủ động học tập suốt đời, cập nhật tiêu chuẩn thiết kế, công nghệ vật liệu và phương pháp kỹ thuật mới, đổi mới sáng tạo, tham gia khởi nghiệp thích ứng với sự phát triển của công nghệ xây dựng và yêu cầu pháp quy trong lĩnh vực năng lượng hạt nhân. | Mức 3 | Mức 4 |
+Chuẩn đầu ra | Mức độ năng lực tối thiểu: Cử nhân (bậc 6) | Mức độ năng lực tối thiểu: Kỹ sư (bậc 7)
+(1) Kiến thức: Vận dụng các nguyên lý toán học, cơ học kết cấu và khoa học hạt nhân để phân tích và giải quyết các vấn đề kỹ thuật phức tạp của kết cấu và hạ tầng hạt nhân; đánh giá khả năng chịu tải và yêu cầu bảo vệ an toàn của công trình theo tiêu chuẩn và pháp quy chuyên ngành. | Mức 3 | Mức 5
+(2) Kiến thức: Áp dụng các phương pháp và nguyên lý kỹ thuật để thiết kế và đánh giá các hạng mục công trình trong cơ sở hạt nhân, bảo đảm tuân thủ tiêu chuẩn, pháp quy và đáp ứng yêu cầu về an toàn bức xạ, độ bền và hiệu quả kinh tế – môi trường. | Mức 3 | Mức 5
+(3) Kỹ năng: Trình bày, xây dựng và truyền đạt thông tin kỹ thuật thông qua bản vẽ, hồ sơ thiết kế và báo cáo chuyên môn; giao tiếp rõ ràng, chính xác với cơ quan quản lý nhà nước và các bên liên quan trong quá trình thiết kế, đánh giá an toàn và triển khai công trình hạt nhân. | Mức 3 | Mức 4
+(4) Kỹ năng: Hợp tác hiệu quả trong các nhóm thiết kế, thi công đa ngành; phối hợp giải quyết các vướng mắc kỹ thuật tại hiện trường và hỗ trợ giám sát chất lượng công trình theo quy trình và tiêu chuẩn chuyên ngành. | Mức 3 | Mức 4
+(5) Kỹ năng: Thực hiện các phép đo, thí nghiệm và quan trắc liên quan đến vật liệu, kết cấu; sử dụng công cụ mô phỏng, phân tích dữ liệu ứng dụng công cụ trí tuệ nhân tạo và công nghệ số để đánh giá độ ổn định, độ tin cậy và tuổi thọ công trình trong môi trường có bức xạ cao. | Mức 3 | Mức 5
+(6) Tự chủ và trách nhiệm: Thực hành nghề nghiệp gắn với trách nhiệm nghề nghiệp và văn hóa an toàn trong xây dựng hạ tầng hạt nhân; đánh giá và cân nhắc tác động của các giải pháp thiết kế, thi công hoặc tháo dỡ đối với an toàn công cộng và môi trường bền vững. | Mức 3 | Mức 4
+(7) Tự chủ và trách nhiệm: Chủ động học tập suốt đời, cập nhật tiêu chuẩn thiết kế, công nghệ vật liệu và phương pháp kỹ thuật mới, đổi mới sáng tạo, tham gia khởi nghiệp thích ứng với sự phát triển của công nghệ xây dựng và yêu cầu pháp quy trong lĩnh vực năng lượng hạt nhân. | Mức 3 | Mức 4
 
 9
 
@@ -202,13 +202,13 @@ Người học tốt nghiệp chương trình đào tạo theo hướng Vật l�
 
 BẢNG CHUẨN ĐẦU RA: VẬT LÝ VÀ CÔNG NGHỆ LÒ PHẢN ỨNG
 
-| Chuẩn đầu ra | Mức độ năng lực tối thiểu: Cử nhân (bậc 6) | Mức độ năng lực tối thiểu: Kỹ sư (bậc 7) |
-| (1) Kiến thức: Vận dụng nguyên lý vật lý neutron và nhiệt - thủy lực để giải thích các hiện tượng trong quá trình vận hành và kiểm soát phản ứng dây chuyền, xác định và giải quyết các vấn đề kỹ thuật phức tạp về trạng thái tới hạn, phân bố công suất và động học lò phản ứng | Mức 3 | Mức 5 |
-| (2) Kiến thức: Áp dụng phương pháp kỹ thuật để đề xuất giải pháp quản lý nhiên liệu, cấu hình vùng hoạt hoặc quy trình vận hành tối ưu, đảm bảo các giới hạn an toàn, hiệu quả kinh tế nhiên liệu và tuân thủ quy định về kiểm soát vật liệu hạt nhân. | Mức 3 | Mức 5 |
-| (3) Kỹ năng: Trao đổi hiệu quả thông qua việc ghi chép nhật ký vận hành, lập báo cáo phân tích vật lý lò và truyền đạt chính xác các thông số trạng thái của lò tới đội ngũ kỹ thuật, quản lý và cơ quan pháp quy. | Mức 3 | Mức 4 |
-| (4) Kỹ năng: Làm việc hiệu quả và kỷ luật trong nhóm vận hành hoặc nhóm kỹ thuật liên quan; phối hợp chặt chẽ để thực hiện các thao tác điều khiển vận hành lò và xử lý tình huống theo đúng kịch bản phối hợp. | Mức 3 | Mức 4 |
-| (5) Kỹ năng: Sử dụng các công cụ mô phỏng, thí nghiệm hoặc thiết bị đo lường để thu thập, phân tích và đánh giá dữ liệu neutron, nhiệt - thủy lực và trạng thái hệ thống tận dụng công cụ trí tuệ nhân tạo và công nghệ số để hỗ trợ xác định điều kiện vận hành an toàn và hiệu suất của lò phản ứng. | Mức 3 | Mức 5 |
-| (6) Tự chủ và trách nhiệm: Thực hành nghề nghiệp trên cơ sở văn hóa an toàn và đạo đức | Mức 3 | Mức 4 |
+Chuẩn đầu ra | Mức độ năng lực tối thiểu: Cử nhân (bậc 6) | Mức độ năng lực tối thiểu: Kỹ sư (bậc 7)
+(1) Kiến thức: Vận dụng nguyên lý vật lý neutron và nhiệt - thủy lực để giải thích các hiện tượng trong quá trình vận hành và kiểm soát phản ứng dây chuyền, xác định và giải quyết các vấn đề kỹ thuật phức tạp về trạng thái tới hạn, phân bố công suất và động học lò phản ứng | Mức 3 | Mức 5
+(2) Kiến thức: Áp dụng phương pháp kỹ thuật để đề xuất giải pháp quản lý nhiên liệu, cấu hình vùng hoạt hoặc quy trình vận hành tối ưu, đảm bảo các giới hạn an toàn, hiệu quả kinh tế nhiên liệu và tuân thủ quy định về kiểm soát vật liệu hạt nhân. | Mức 3 | Mức 5
+(3) Kỹ năng: Trao đổi hiệu quả thông qua việc ghi chép nhật ký vận hành, lập báo cáo phân tích vật lý lò và truyền đạt chính xác các thông số trạng thái của lò tới đội ngũ kỹ thuật, quản lý và cơ quan pháp quy. | Mức 3 | Mức 4
+(4) Kỹ năng: Làm việc hiệu quả và kỷ luật trong nhóm vận hành hoặc nhóm kỹ thuật liên quan; phối hợp chặt chẽ để thực hiện các thao tác điều khiển vận hành lò và xử lý tình huống theo đúng kịch bản phối hợp. | Mức 3 | Mức 4
+(5) Kỹ năng: Sử dụng các công cụ mô phỏng, thí nghiệm hoặc thiết bị đo lường để thu thập, phân tích và đánh giá dữ liệu neutron, nhiệt - thủy lực và trạng thái hệ thống tận dụng công cụ trí tuệ nhân tạo và công nghệ số để hỗ trợ xác định điều kiện vận hành an toàn và hiệu suất của lò phản ứng. | Mức 3 | Mức 5
+(6) Tự chủ và trách nhiệm: Thực hành nghề nghiệp trên cơ sở văn hóa an toàn và đạo đức
 
 ----- [Trang 11] -----
 

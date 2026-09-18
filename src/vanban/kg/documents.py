@@ -8,7 +8,7 @@ làm ba việc và chỉ ba việc:
 **1. Neo vào kho text CÓ THẬT trên đĩa.**
 `data/manifest.jsonl` được xuất ngày 17/8, ghi `fix_status: pending` cho
 498/501 văn bản và `text_clean: null` — trong khi thực tế 460 văn bản đã hiệu
-đính xong, nằm ở `data/clean/text_clean_gemma/` (đường dẫn khác hẳn cái
+đính xong, nằm ở `data/clean/text_final/` (đường dẫn khác hẳn cái
 `data/processed/text_clean/` mà pipeline ghi trong session). Tin manifest là
 dựng graph trên nền rỗng. Nên nguồn chuẩn về **text** là thư mục trên đĩa,
 manifest chỉ còn là nguồn chuẩn về **metadata** (ngày ban hành, cơ quan, tình
@@ -44,9 +44,9 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
-from .. import config
-from ..normalize import _header_span, deaccent
-from ..pipeline import STOP, say
+from ..core import config
+from ..core.text import _header_span, deaccent
+from ..core.console import STOP, say
 from . import norm
 from .session import KGSession
 

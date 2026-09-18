@@ -96,9 +96,12 @@ mức ký tự**, giữ để hoàn tác nếu cần.
 ```
 data/clean/
 ├── README.md                 ← chi tiết kho text_final, ĐỌC FILE ĐÓ
-├── text_final/       455 file ← KHO CHUẨN, dùng cái này
-└── text_clean_gemma/ 464 file ← bản cũ, giữ vì config.py còn trỏ vào
+└── text_final/       455 file ← KHO CHUẨN, nguồn duy nhất
 ```
+
+`text_clean_gemma` (464 file, bản hiệu đính lượt một) **đã bỏ khỏi repo**:
+`config.py` nay trỏ thẳng `text_final`, không còn gì cần tới nó. Bản cũ vẫn nằm ở
+cây làm việc `F:\DUT4\PBL6\data\processed	ext_clean_gemma` nếu cần đối chiếu.
 
 Kho `text_final` được dựng bằng cách **chọn bản OCR tốt hơn cho từng văn bản** giữa
 bản cũ và bản OCR lại, qua cổng lọc năm điều kiện — trong đó hai điều kiện quan trọng
@@ -154,9 +157,9 @@ Nạp vào Neo4j (`bolt://localhost:7687`) ra **10.978 node · 14.120 cạnh**.
 
 Đặc tả 7 loại node và 12 quan hệ ở [`rules/Ontology.md`](../rules/Ontology.md).
 
-**Lưu ý:** `documents.jsonl` và `src/vanban/config.py` hiện còn trỏ vào
-`text_clean_gemma` chứ chưa phải `text_final`. Muốn chuyển thì sửa `config.py` rồi
-chạy lại `python run.py kg docs`.
+**Lưu ý:** `config.py` đã trỏ `text_final`, nhưng `documents.jsonl` trong
+`data/kg/` vẫn là bản dựng từ `text_clean_gemma`. Chạy lại `python run.py kg docs`
+để dựng lại cho khớp.
 
 ---
 
@@ -193,6 +196,6 @@ tải được — để truy vết, không phải để dùng làm kho.
 | Đọc tay từng trang | 75/455 văn bản |
 | `0440` | mới sửa tới trang 19/~60 |
 | 7 chỗ cần đối chiếu ảnh gốc | chưa làm — xem `clean/README.md` |
-| Chuyển KG sang `text_final` | chưa — `config.py` còn trỏ `text_clean_gemma` |
+| Chuyển KG sang `text_final` | `config.py` đã trỏ đúng; còn phải chạy lại `run.py kg docs` |
 
 Ghi chép chi tiết để chạy tiếp nằm ở `TIEN_DO_SUA_OCR.md` (bản local, ngoài repo).

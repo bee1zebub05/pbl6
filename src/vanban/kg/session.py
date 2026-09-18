@@ -27,7 +27,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
-from ..config import SESSIONS_DIR
+from ..core.config import SESSIONS_DIR
 
 # Các giai đoạn theo lộ trình §8 Ontology, theo đúng thứ tự phụ thuộc.
 STAGES = ("doc", "seg", "cite", "rel", "art")

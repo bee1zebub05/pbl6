@@ -46,8 +46,8 @@ import random
 import sqlite3
 from pathlib import Path
 
-from .. import config
-from ..pipeline import say
+from ..core import config
+from ..core.console import say
 from ..kg.session import KGSession
 
 # Nhãn hợp lệ mà người gán được điền. `KHONG` = đây không phải một quan hệ
@@ -308,7 +308,7 @@ dòng nào** trong phiếu, thêm một dòng mới ở cuối: để trống `i
 `so_hieu_duoc_nhac`, `NHAN`, và ghi `GHI_CHU = may-bo-sot`. Đây chính là dữ
 liệu để đo **recall**, đừng bỏ qua.
 
-Văn bản gốc nằm ở `data/clean/text_clean_gemma/<lĩnh vực>/`, tìm theo số hiệu.
+Văn bản gốc nằm ở `data/clean/text_final/<lĩnh vực>/`, tìm theo số hiệu.
 
 ## Quy trình
 

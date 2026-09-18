@@ -14,8 +14,9 @@ import argparse
 import sys
 from pathlib import Path
 
-from . import config, pipeline
-from .session import Session, list_sessions
+from .core import config
+from .clean import pipeline
+from .core.session import Session, list_sessions
 
 
 def _force_utf8() -> None:
@@ -759,7 +760,7 @@ def cmd_eval(args) -> int:
 
 
 def cmd_health(args) -> int:
-    from .ocr_client import OCRClient
+    from .clean.ocr_client import OCRClient
 
     try:
         data = OCRClient().health()
