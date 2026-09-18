@@ -334,7 +334,7 @@ Key trùng nhau bị tự loại (dán nhầm hai lần cũng không sao).
 
 ### Cách chọn key
 
-Mỗi lượt gọi mượn một key từ bể (`src/vanban/key_pool.py`), chọn theo
+Mỗi lượt gọi mượn một key từ bể (`src/vanban/clean/key_pool.py`), chọn theo
 **key nào đang gánh ít request nhất**, hoà thì lấy key lâu chưa dùng. Cách này
 trải tải đều dù số luồng nhiều hay ít hơn số key.
 
@@ -464,7 +464,7 @@ Crawler đã lấy sẵn `so_hieu` và `ngay_ban_hanh` cho cả 501 văn bản t
 án, nên `normalize` ghi đè thẳng vào header trang 1 — chính xác tuyệt đối, chi
 phí bằng 0.
 
-Ba ràng buộc an toàn trong [`normalize.py`](src/vanban/normalize.py):
+Ba ràng buộc an toàn trong [`normalize.py`](src/vanban/clean/normalize.py):
 
 - **Chỉ đụng vào vùng header**, dừng trước chữ `Căn cứ` đầu tiên. Phần căn cứ
   pháp lý cũng viết `ngày 04 tháng 04 năm 1994` nhưng đó là chữ IN của văn bản

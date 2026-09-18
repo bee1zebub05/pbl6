@@ -21,7 +21,7 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
-from . import config
+from ..core import config
 
 # Mỗi tiến trình con giữ riêng một reader + một document đang mở. Nạp model mất
 # ~7 giây nên tuyệt đối không tạo lại cho từng trang.

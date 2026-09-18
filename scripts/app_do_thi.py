@@ -23,7 +23,7 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from vanban import config  # noqa: E402
+from vanban.core import config  # noqa: E402
 
 st.set_page_config(page_title="KG văn bản pháp quy DUT", layout="wide")
 

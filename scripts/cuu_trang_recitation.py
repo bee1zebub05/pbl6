@@ -46,8 +46,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from vanban import config  # noqa: E402
-from vanban.key_pool import KeyPool, NoKeyAvailable  # noqa: E402
+from vanban.core import config  # noqa: E402
+from vanban.clean.key_pool import KeyPool, NoKeyAvailable  # noqa: E402
 
 MOC = re.compile(r"\[\[KHÔNG OCR ĐƯỢC TRANG ([\d,\s-]+)\]\]")
 

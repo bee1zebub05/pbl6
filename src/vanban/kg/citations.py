@@ -45,8 +45,8 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from .. import config
-from ..pipeline import STOP, say
+from ..core import config
+from ..core.console import STOP, say
 from . import norm, segment
 from .session import KGSession
 

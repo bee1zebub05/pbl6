@@ -19,7 +19,7 @@ from pathlib import Path
 
 import requests
 
-from . import config
+from ..core import config
 
 
 class OCRError(RuntimeError):

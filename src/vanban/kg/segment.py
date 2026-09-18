@@ -66,9 +66,9 @@ from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from .. import config
-from ..normalize import deaccent
-from ..pipeline import STOP, say
+from ..core import config
+from ..core.text import deaccent
+from ..core.console import STOP, say
 from .session import KGSession
 
 

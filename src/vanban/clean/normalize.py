@@ -40,57 +40,18 @@ import unicodedata
 from collections import Counter
 from dataclasses import dataclass, field
 
-
-# ============================================================
-# BỎ DẤU GIỮ NGUYÊN ĐỘ DÀI
-# ============================================================
-
-def _build_ascii_map() -> dict[int, str]:
-    """
-    Bảng đổi 1 ký tự có dấu -> 1 ký tự ASCII.
-
-    Bắt buộc 1:1 để `str.translate` không đổi độ dài chuỗi — nhờ vậy vị trí
-    tìm được trên bản bỏ dấu dùng thẳng được trên bản gốc, không phải map lại.
-    """
-
-    table: dict[int, str] = {}
-
-    for code in range(0x00C0, 0x1EF9 + 1):
-        decomposed = unicodedata.normalize("NFD", chr(code))
-
-        if decomposed and decomposed[0].isascii() and decomposed[0].isalpha():
-            table[code] = decomposed[0]
-
-    # Đ / đ không tự tách trong NFD nên phải khai riêng. Ð (eth, U+00D0) cũng
-    # vậy — OCR hay trả về nó thay cho Đ.
-    for char, base in (("Đ", "D"), ("đ", "d"), ("Ð", "D"), ("ð", "d")):
-        table[ord(char)] = base
-
-    return table
-
-
-_ASCII_MAP = _build_ascii_map()
-
-
-def deaccent(text: str) -> str:
-    """Bỏ dấu tiếng Việt, giữ nguyên độ dài chuỗi."""
-
-    return text.translate(_ASCII_MAP)
+from ..core.text import _header_span, deaccent
 
 
 # ============================================================
 # PHẦN 1 — TIÊM SỐ HIỆU / NGÀY TỪ METADATA
 # ============================================================
 
-_PAGE_1 = re.compile(r"-----\s*\[Trang\s*1\]\s*-----")
-_PAGE_2 = re.compile(r"-----\s*\[Trang\s*2\]\s*-----")
 
 # Phần "Căn cứ ..." cũng viết "ngày 04 tháng 04 năm 1994" — nhưng đó là chữ in
 # của văn bản KHÁC được trích dẫn. Ghi đè vào đó là phá dữ liệu, nên vùng
 # header phải dừng lại trước nó.
-_CAN_CU = re.compile(r"\bCan\s*cu\b", re.IGNORECASE)
 
-_HEADER_MAX_CHARS = 1800
 
 # Neo vào HẬU TỐ (`/QĐ-ĐHBK`) chứ không vào chữ "Số:".
 #
@@ -149,30 +110,6 @@ class HeaderResult:
     so_hieu_fixed: bool = False
     ngay_fixed: bool = False
     notes: list[str] = field(default_factory=list)
-
-
-def _header_span(text: str) -> tuple[int, int]:
-    """Trả về (đầu, cuối) của vùng header trang 1."""
-
-    start = 0
-    match = _PAGE_1.search(text)
-
-    if match:
-        start = match.end()
-
-    end = len(text)
-    match = _PAGE_2.search(text)
-
-    if match:
-        end = match.start()
-
-    flat = deaccent(text)
-    match = _CAN_CU.search(flat, start, end)
-
-    if match:
-        end = match.start()
-
-    return start, min(end, start + _HEADER_MAX_CHARS)
 
 
 def fix_header(

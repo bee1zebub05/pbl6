@@ -60,7 +60,7 @@ Kết quả sau khi cứu:
 
 ## Đã sửa gì trong code
 
-`src/vanban/gemini_fix.py`:
+`src/vanban/clean/gemini_fix.py`:
 
 1. Thêm `RecitationError(GeminiError)` và `_la_recitation(response)`.
 

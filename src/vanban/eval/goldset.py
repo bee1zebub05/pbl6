@@ -46,8 +46,8 @@ import random
 import sqlite3
 from pathlib import Path
 
-from .. import config
-from ..pipeline import say
+from ..core import config
+from ..core.console import say
 from ..kg.session import KGSession
 
 # Nhãn hợp lệ mà người gán được điền. `KHONG` = đây không phải một quan hệ

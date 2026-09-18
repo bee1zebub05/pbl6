@@ -44,9 +44,9 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
-from .. import config
-from ..normalize import _header_span, deaccent
-from ..pipeline import STOP, say
+from ..core import config
+from ..core.text import _header_span, deaccent
+from ..core.console import STOP, say
 from . import norm
 from .session import KGSession
 

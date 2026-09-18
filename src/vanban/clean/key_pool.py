@@ -22,7 +22,7 @@ import threading
 import time
 from dataclasses import dataclass, field
 
-from . import config
+from ..core import config
 
 
 class NoKeyAvailable(RuntimeError):

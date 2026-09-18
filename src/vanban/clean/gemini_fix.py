@@ -23,7 +23,7 @@ import re
 import threading
 import time
 
-from . import config
+from ..core import config
 from .key_pool import KeyPool, NoKeyAvailable, classify_error
 from .pdf_text import PAGE_MARKER
 
