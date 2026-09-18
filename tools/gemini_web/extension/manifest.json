@@ -1,32 +1,49 @@
 {
   "manifest_version": 3,
-  "name": "Gemini sửa lỗi OCR (PBL6)",
-  "short_name": "GeminiSuaTxt",
-  "version": "1.1",
-  "description": "Đẩy file .txt đã OCR (cầu 8779) hoặc ảnh scan từng trang PNG (cầu 8780) lên Gemini bằng 10 tab song song, bấm nút Sao chép mã để lấy bản sạch.",
-  "permissions": ["storage", "tabs", "scripting", "alarms", "clipboardRead"],
+  "name": "Gemini cho PBL6 (cầu 8779)",
+  "short_name": "GeminiPBL6",
+  "version": "1.2",
+  "description": "Đẩy từng file .txt trong kho đã sạch lên Gemini web bằng nhiều tab song song. Chế độ do CẦU quyết định (sửa lỗi OCR hoặc xuất JSON), extension chỉ gõ prompt cầu đưa.",
+  "permissions": [
+    "storage",
+    "tabs",
+    "scripting",
+    "alarms",
+    "clipboardRead"
+  ],
   "host_permissions": [
     "https://gemini.google.com/*",
     "http://127.0.0.1:8779/*",
-    "http://localhost:8779/*",
-    "http://127.0.0.1:8780/*",
-    "http://localhost:8780/*"
+    "http://localhost:8779/*"
   ],
-  "background": { "service_worker": "background.js" },
+  "background": {
+    "service_worker": "background.js"
+  },
   "content_scripts": [
     {
-      "matches": ["https://gemini.google.com/*"],
-      "js": ["che_an_tab.js"],
+      "matches": [
+        "https://gemini.google.com/*"
+      ],
+      "js": [
+        "che_an_tab.js"
+      ],
       "run_at": "document_start",
       "world": "MAIN",
       "all_frames": true
     }
   ],
-  "action": { "default_popup": "panel.html", "default_title": "Gemini sửa lỗi OCR" },
+  "action": {
+    "default_popup": "panel.html",
+    "default_title": "Gemini PBL6"
+  },
   "web_accessible_resources": [
     {
-      "resources": ["may_gemini.js"],
-      "matches": ["https://gemini.google.com/*"]
+      "resources": [
+        "may_gemini.js"
+      ],
+      "matches": [
+        "https://gemini.google.com/*"
+      ]
     }
   ]
 }
