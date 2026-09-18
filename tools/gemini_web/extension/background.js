@@ -192,7 +192,7 @@ async function lamMotViec(luongId, tabId) {
     try {
       kq = await chayTrenTrang(tabId, "chayMotFile", [{
         id: job.id, ten_file: job.ten_file, prompt: job.prompt,
-        noi_dung: noiDung, so_ky_tu_goc: job.so_ky_tu_goc, kieu,
+        noi_dung: noiDung, so_ky_tu_goc: job.so_ky_tu_goc,
       }]);
     } finally { await dungTheoDoi(); }
 
@@ -278,10 +278,23 @@ async function batDau() {
   dangChay = true;
   try {
     const { soLuong } = await S.lay();
-    const tabs = await chuanBiTabs(soLuong);
+
+    // Không mở nhiều tab hơn số việc đang chờ. Hàng chờ 1 file mà mở 10 tab thì
+    // 9 tab kia bật lên, xin việc, "hết việc", rồi nằm đó — nhìn như lỗi.
     let cd = "";
-    try { cd = (await cauGET("/api/stats")).che_do || ""; } catch (_) {}
-    await ghi("▶", `chạy ${soLuong} luồng`, cd ? `· chế độ ${cd}` : "");
+    let can = soLuong;
+    try {
+      const st = await cauGET("/api/stats");
+      cd = st.che_do || "";
+      const conLai = (st.cho || 0) + (st.dang_lam || 0);
+      if (conLai > 0) can = Math.min(soLuong, conLai);
+    } catch (_) {}
+    if (can < soLuong) {
+      await ghi("≡", `hàng chờ còn ${can} việc — chỉ mở ${can} tab thay vì ${soLuong}`);
+    }
+
+    const tabs = await chuanBiTabs(can);
+    await ghi("▶", `chạy ${can} luồng`, cd ? `· chế độ ${cd}` : "");
     vongXoayFocus();
     await Promise.all(tabs.map((_t, i) => chayLuong(i + 1)));
     await ghi("✔", "tất cả luồng đã nghỉ");
