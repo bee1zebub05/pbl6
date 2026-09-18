@@ -513,7 +513,11 @@
             //    <code data-test-id="code-content">. Gap that voi 0112 tren
             //    Flash-Lite: no lam tron 1.042 khoi ma may van bao hong.
             //  - khong co gi trong so do -> moi thuc su la cau tu choi ngan.
-            const coHang = chu.indexOf("```") >= 0 || chu.indexOf("[Trang") >= 0;
+            //  - che do JSON: model hay tra thang object khong boc rao nao ca.
+            //    Bat dau bang "{" va ket thuc bang "}" la co hang that, cau se
+            //    tu boc lay (xem _boc_json trong cau_json.py).
+            const laJson = chu.startsWith("{") && chu.endsWith("}");
+            const coHang = chu.indexOf("```") >= 0 || chu.indexOf("[Trang") >= 0 || laJson;
             if (coHang) {
               // CO noi dung, chi la rao ``` dat sai cho nen khong thanh khoi ma.
               // KHONG duoc nem loi o day: nem thi bamSaoChepVaLay() (noi co ham
