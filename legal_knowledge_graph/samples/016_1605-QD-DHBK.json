@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0027_1605_QĐ-ĐHBK_Quy định công tác thi đua, khen thưởng tại Trường Đại học Bách khoa, Đại học Đà Nẵ.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật. Bản gốc ghi 'Nghị định số 32/NĐ-CP' (thiếu chữ CP đúng chỗ, khác cách viết '32/CP' ở mọi văn bản khác trong kho) -- người map chuẩn hoá lại thành '32/CP' cho nhất quán với thực tế đây là cùng một Nghị định thành lập ĐHĐN, tránh tạo hai stub khác nhau cho cùng một văn bản.",
+  "document": {
+    "documentNumber": "1605/QĐ-ĐHBK",
+    "title": "Ban hành Quy định công tác thi đua, khen thưởng tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "31/05/2019",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Thi đua, khen thưởng"],
+    "summary": "Ban hành Quy định công tác thi đua, khen thưởng tại Trường Đại học Bách khoa, áp dụng từ năm học 2019-2020 (không có ngày hiệu lực cụ thể trong văn bản).",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": ["Hiệu trưởng"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/NĐ-CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng (chuẩn hoá: 32/CP, cùng văn bản với các Quyết định khác trong kho)."
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật thi đua, khen thưởng."
+    },
+    {
+      "targetDocumentNumber": "08/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/TT-BNV ngày 27/10/2017 của Bộ Nội vụ quy định chi tiết thi hành một số điều của Nghị định số 91/2017/NĐ-CP."
+    },
+    {
+      "targetDocumentNumber": "4501/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4501/QĐ-ĐHĐN ngày 25/12/2018 của Giám đốc Đại học Đà Nẵng ban hành Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": ["Phòng Thanh tra - Pháp chế"],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo",
+      "text": "Ban hành kèm theo Quyết định này \"Quy định công tác thi đua, khen thưởng tại Trường Đại học Bách khoa, Đại học Đà Nẵng\".",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực áp dụng",
+      "text": "Quyết định này có hiệu lực áp dụng từ năm học 2019-2020.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Trưởng Phòng Tổ chức - Hành chính, Trưởng các phòng chức năng, Trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "Tổ chức đã biết, copy DATA (không import code) từ bảng _ORG_BY_CODE trong src/vanban/kg/norm.py. Người gán tay: nếu cơ quan ban hành/ký/được nhắc trùng một trong các name dưới đây (không phân biệt hoa/thường, có/không dấu), dùng lại đúng orgId này trong idOverride hoặc cứ điền name — loader tự khớp. Nếu không có trong danh sách, điền organization.orgType thủ công và loader tự tạo orgId mới.",
+  "organizations": [
+    { "orgId": "quoc_hoi", "name": "Quốc hội", "orgType": "quoc_hoi", "parentOrg": null },
+    { "orgId": "uy_ban_thuong_vu_quoc_hoi", "name": "Ủy ban Thường vụ Quốc hội", "orgType": "quoc_hoi", "parentOrg": "quoc_hoi" },
+    { "orgId": "chu_tich_nuoc", "name": "Chủ tịch nước", "orgType": "quoc_hoi", "parentOrg": null },
+    { "orgId": "chinh_phu", "name": "Chính phủ", "orgType": "chinh_phu", "parentOrg": null },
+    { "orgId": "thu_tuong_chinh_phu", "name": "Thủ tướng Chính phủ", "orgType": "thu_tuong", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_giao_duc_va_dao_tao", "name": "Bộ Giáo dục và Đào tạo", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_tai_chinh", "name": "Bộ Tài chính", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_noi_vu", "name": "Bộ Nội vụ", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_thong_tin_va_truyen_thong", "name": "Bộ Thông tin và Truyền thông", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_khoa_hoc_va_cong_nghe", "name": "Bộ Khoa học và Công nghệ", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_lao_dong_thuong_binh_va_xa_hoi", "name": "Bộ Lao động - Thương binh và Xã hội", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_tu_phap", "name": "Bộ Tư pháp", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_y_te", "name": "Bộ Y tế", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_quoc_phong", "name": "Bộ Quốc phòng", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_cong_an", "name": "Bộ Công an", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_xay_dung", "name": "Bộ Xây dựng", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "bo_ke_hoach_va_dau_tu", "name": "Bộ Kế hoạch và Đầu tư", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "thanh_tra_chinh_phu", "name": "Thanh tra Chính phủ", "orgType": "bo_nganh", "parentOrg": "chinh_phu" },
+    { "orgId": "dai_hoc_da_nang", "name": "Đại học Đà Nẵng", "orgType": "dai_hoc_vung", "parentOrg": "bo_giao_duc_va_dao_tao" },
+    { "orgId": "truong_dai_hoc_bach_khoa", "name": "Trường Đại học Bách khoa", "orgType": "truong_thanh_vien", "parentOrg": "dai_hoc_da_nang" },
+    { "orgId": "hoi_dong_dai_hoc_da_nang", "name": "Hội đồng Đại học Đà Nẵng", "orgType": "don_vi_truc_thuoc", "parentOrg": "dai_hoc_da_nang" },
+    { "orgId": "hoi_dong_truong_dai_hoc_bach_khoa", "name": "Hội đồng Trường Đại học Bách khoa", "orgType": "don_vi_truc_thuoc", "parentOrg": "truong_dai_hoc_bach_khoa" }
+  ]
+}

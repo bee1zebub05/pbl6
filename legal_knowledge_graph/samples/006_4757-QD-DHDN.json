@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0452_4757_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật. AMENDS -> 4481/QĐ-ĐHĐN (file 005, Điều 3 và Điều 11 — chỉ ghi targetArticle Điều 3 vì sửa nhiều điều). Bỏ 2 mục Căn cứ không có số hiệu rõ (Luật Giáo dục, Luật Giáo dục đại học ghi theo ngày, không theo số).",
+  "document": {
+    "documentNumber": "4757/QĐ-ĐHĐN",
+    "title": "Về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa làm vừa học ban hành kèm theo Quyết định số 4481/QĐ-ĐHĐN ngày 18/11/2022 của Giám đốc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/12/2025",
+    "effectiveDate": "24/12/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Đào tạo", "Tuyển sinh"],
+    "summary": "Sửa đổi, bổ sung Điều 3 (tổ chức tuyển sinh, thành lập HĐTS) và Điều 11 (thành phần Hội đồng tuyển sinh) của Quy chế tuyển sinh VLVH ban hành kèm theo Quyết định 4481/QĐ-ĐHĐN; thay cụm từ \"Đề án tuyển sinh\" bằng \"Thông tin tuyển sinh\" tại nhiều điều khoản.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": ["Phó Giám đốc"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên."
+    },
+    {
+      "targetDocumentNumber": "18/2017/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "4481/QĐ-ĐHĐN",
+      "relationType": "AMENDS",
+      "targetArticle": "Điều 3",
+      "context": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa làm vừa học ban hành kèm theo Quyết định số 4481/QĐ-ĐHĐN ngày 18/11/2022 của Giám đốc Đại học Đà Nẵng (gọi tắt là Quy chế 4481). 1. Sửa đổi, bổ sung Điều 3 như sau... 2. Sửa đổi, bổ sung Điều 11 như sau..."
+    }
+  ],
+  "mentions": [],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung Điều 3 và Điều 11 của Quy chế 4481",
+      "text": "1. Sửa đổi, bổ sung Điều 3 như sau: \"1. Đại học Đà Nẵng (ĐHĐN) thống nhất quản lý, hướng dẫn và chỉ đạo các ban chức năng, các CSĐT trong công tác tuyển sinh VLVH. 2. ĐHĐN chịu trách nhiệm tổ chức tuyển sinh hoặc ủy quyền, giao nhiệm vụ cho các trường đại học thành viên, các đơn vị đào tạo thuộc, trực thuộc thực hiện theo quy định hiện hành...\" 2. Sửa đổi, bổ sung Điều 11 như sau: \"1. Hiệu trưởng trường đại học thành viên quyết định thành lập HĐTS để điều hành công tác tuyển sinh của trường...\"",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thay thế cụm từ",
+      "text": "Thay thế cụm từ \"Đề án tuyển sinh\" bằng cụm từ \"Thông tin tuyển sinh\" tại nội dung các khoản 2 Điều 2; khoản 2, khoản 3 Điều 3; khoản 3 Điều 4; khoản 1, khoản 2 Điều 6; khoản 1, khoản 6 Điều 7 của Quy chế 4481.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hiệu lực thi hành",
+      "text": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": false
+    }
+  ]
+}

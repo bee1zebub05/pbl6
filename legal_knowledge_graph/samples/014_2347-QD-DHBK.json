@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0082_2347_QĐ-ĐHBK_Ban hành Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện t.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật, chỉ chép phần Quyết định. BASED_ON tới 70/2014/QĐ-TTg (Điều lệ trường đại học, cấp Thủ tướng Chính phủ) -- ví dụ thật của chuỗi thẩm quyền lên tới bậc 3.",
+  "document": {
+    "documentNumber": "2347/QĐ-ĐHBK",
+    "title": "Về việc ban hành \"Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện tử của Trường Đại học Bách khoa, Đại học Đà Nẵng\"",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/11/2018",
+    "effectiveDate": "14/11/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Công nghệ thông tin, CĐS"],
+    "summary": "Ban hành Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện tử của Trường Đại học Bách khoa.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": ["Hiệu trưởng"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "70/2014/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Điều lệ trường đại học ban hành kèm theo Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ."
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên."
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc."
+    },
+    {
+      "targetDocumentNumber": "15/2018/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 15/2018/TT-BGDĐT ngày 27 tháng 7 năm 2018 về việc Quy định về tổ chức hoạt động, sử dụng thư điện tử và trang thông tin điện tử của các cơ sở giáo dục đại học."
+    }
+  ],
+  "mentions": ["Tổ Công nghệ thông tin", "Phòng Tổ chức - Hành chính"],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo",
+      "text": "Ban hành kèm theo Quyết định này Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện tử của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Trưởng phòng Phòng Tổ chức - Hành chính, Tổ trưởng Tổ Công nghệ thông tin, Trưởng các đơn vị, cán bộ viên chức và sinh viên, học viên của Trường Đại học Bách khoa chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": false
+    }
+  ]
+}

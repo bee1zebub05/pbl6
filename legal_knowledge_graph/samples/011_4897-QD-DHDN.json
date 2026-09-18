@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0381_4897_QĐ-ĐHĐN_Ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật (13KB, 9 Điều trong nội dung kèm theo) — chỉ chép Điều 1-3 (Chương I và đầu Chương II); bỏ Điều 4-9 (trách nhiệm thành viên, thành lập/kiện toàn, tổ chức họp, kinh phí, điều khoản thi hành).",
+  "document": {
+    "documentNumber": "4897/QĐ-ĐHĐN",
+    "title": "Về việc ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/11/2024",
+    "effectiveDate": "27/11/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Khoa học Công nghệ"],
+    "summary": "Ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo ĐHĐN — cơ quan tư vấn cho Giám đốc ĐHĐN về chiến lược đào tạo/KHCN, nhân sự Hội đồng Giáo sư cơ sở, thẩm định mở ngành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": ["Giám đốc"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên."
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": ["Ban Đào tạo và Đảm bảo chất lượng giáo dục", "Ban Khoa học và Hợp tác Quốc tế"],
+  "normativeContents": [
+    {
+      "title": "Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "1. Quy chế này quy định về vị trí pháp lý, chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng (ĐHĐN). 2. Quy chế này áp dụng đối với các thành viên Hội đồng Khoa học và Đào tạo ĐHĐN, các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Vị trí pháp lý và chức năng, nhiệm vụ của Hội đồng",
+          "text": "1. Hội đồng do Giám đốc ĐHĐN quyết định thành lập, giải thể, kiện toàn, thay thế, bổ sung thành viên và có nhiệm kỳ theo nhiệm kỳ của Giám đốc ĐHĐN. 2. Hội đồng tư vấn cho Giám đốc ĐHĐN về: a) Chiến lược, chính sách, giải pháp trong lĩnh vực đào tạo, khoa học công nghệ; b) Nhân sự Hội đồng Giáo sư cơ sở ĐHĐN; c) Việc thẩm định mở ngành đào tạo theo thẩm quyền và quy định hiện hành của Bộ Giáo dục và Đào tạo và của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Cơ cấu tổ chức của Hội đồng",
+          "text": "1. Thành phần Hội đồng: thực hiện theo quy định tại điểm a khoản 1 Điều 11 Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo",
+      "text": "Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng, các đơn vị, tổ chức và cá nhân có liên quan căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

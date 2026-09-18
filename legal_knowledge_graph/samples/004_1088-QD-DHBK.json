@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0070_1088_QĐ-ĐHBK_Sửa đổi một số điều của Quy định xét thi đua, khen thưởng với sinh viên đại học hệ.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật, chép gần như đầy đủ vì file gốc chỉ 4.296 byte. AMENDS -> 2231/QĐ-ĐHBK (file 003, Điều 7). Căn cứ thật có tới 10 mục trải khắp 4 bậc thẩm quyền (Quốc hội/Chính phủ/ĐHĐN/ĐHBK) — chỉ chọn 4 mục có số hiệu rõ ràng để minh hoạ chuỗi.",
+  "document": {
+    "documentNumber": "1088/QĐ-ĐHBK",
+    "title": "Về việc sửa đổi một số điều của Quy định xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/04/2022",
+    "effectiveDate": "13/04/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Công tác sinh viên", "Thi đua, khen thưởng"],
+    "summary": "Sửa đổi điểm a và điểm c khoản 3 Điều 7 của Quy định xét thi đua, khen thưởng đối với sinh viên (ban hành kèm theo Quyết định 2231/QĐ-ĐHBK) — điều kiện xét danh hiệu Sinh viên xuất sắc.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": ["Hiệu trưởng"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng."
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "2231/QĐ-ĐHBK",
+      "relationType": "AMENDS",
+      "targetArticle": "Điều 7",
+      "context": "Sửa đổi một số điều của Quy định xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 2231/QĐ-ĐHBK ngày 10/9/2021 của Hiệu trưởng Trường Đại học Bách khoa như sau: 1. Điểm a khoản 3 Điều 7 được sửa đổi..."
+    }
+  ],
+  "mentions": ["Phòng Công tác Sinh viên", "Phòng Tổ chức - Hành chính"],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi một số điều",
+      "text": "Sửa đổi một số điều của Quy định xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 2231/QĐ-ĐHBK ngày 10/9/2021 của Hiệu trưởng Trường Đại học Bách khoa như sau: 1. Điểm a khoản 3 Điều 7 được sửa đổi: \"a) Có điểm trung bình học tập năm học đạt loại xuất sắc và kết quả rèn luyện năm học đạt từ loại tốt trở lên;\". 2. Điểm c khoản 3 Điều 7 được sửa đổi: \"c) Được tập thể lớp sinh viên ghi nhận và bầu chọn (có biên bản kèm theo); Mỗi lớp bầu chọn 01 sinh viên đủ tiêu chuẩn để Khoa xem xét và đề xuất lên Hội đồng TĐKT của Trường để xét và ra quyết định công nhận.\"",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Công tác Sinh viên, Trưởng các đơn vị và cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}
