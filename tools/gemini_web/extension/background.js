@@ -192,6 +192,7 @@ async function lamMotViec(luongId, tabId) {
     try {
       kq = await chayTrenTrang(tabId, "chayMotFile", [{
         id: job.id, ten_file: job.ten_file, prompt: job.prompt,
+        ten_dinh_kem: job.ten_dinh_kem || job.ten_file,
         noi_dung: noiDung, so_ky_tu_goc: job.so_ky_tu_goc,
       }]);
     } finally { await dungTheoDoi(); }

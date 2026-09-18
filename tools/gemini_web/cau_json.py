@@ -139,7 +139,11 @@ class KhoJson(Kho):
                 continue
             self.viec[ma] = {
                 "id": ma,
+                # ten_file la ten file KET QUA (.json). Ten dung khi dinh kem
+                # phai la ten .txt that — dat .json thi Gemini tuong dau vao la
+                # JSON, hien icon <> va co the doc sai dinh dang.
                 "ten_file": p.stem + ".json",
+                "ten_dinh_kem": p.name,
                 "linh_vuc": p.parent.name,
                 "duong_dan": str(p),
                 "so_dong": 0,

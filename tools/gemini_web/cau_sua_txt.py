@@ -179,6 +179,9 @@ class Kho:
                 self.dang_lam[ma] = {"worker": worker, "luc": gio}
                 v = dict(self.viec[ma])
                 v["prompt"] = self.PROMPT
+                # Che do txt: dau vao va dau ra cung ten. Che do JSON thi khac,
+                # nen lay ten_dinh_kem neu kho co khai rieng.
+                v.setdefault("ten_dinh_kem", v["ten_file"])
                 v["so_ky_tu_goc"] = len(self._doc(ma))
                 return v
             return None

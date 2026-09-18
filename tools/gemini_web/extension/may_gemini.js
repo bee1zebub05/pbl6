@@ -702,7 +702,7 @@
         viec.kieu === "anh" ? "(ảnh)" : "(txt)");
       await chatMoi();
       log("đã mở chat mới");
-      await dinhFile(viec.ten_file, viec.noi_dung, viec.kieu);
+      await dinhFile(viec.ten_dinh_kem || viec.ten_file, viec.noi_dung);
       log("đã đính file");
       const cach = await goPrompt(viec.prompt);
       log("đã chèn câu lệnh bằng", cach);
