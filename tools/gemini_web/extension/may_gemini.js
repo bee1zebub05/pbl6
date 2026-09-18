@@ -151,7 +151,14 @@
     // executeScript, điều hướng trang là giết luôn frame -> "Frame with ID 0 was
     // removed", mất trắng việc đang làm (đã gặp ở 0112). Không thấy nút thì báo
     // lỗi tạm thời để cầu xếp lại hàng chờ, background sẽ dựng lại tab.
-    const a = O.nutChatMoi();
+    // Tab vừa mở còn đang tải Angular — tìm nút ngay là trượt. Chờ tối đa 30 giây
+    // rồi mới chịu thua; gặp thật khi tab mới dựng lại sau lỗi trước đó.
+    let a = O.nutChatMoi();
+    if (!a) {
+      log("chưa thấy nút Cuộc trò chuyện mới — chờ trang tải xong");
+      a = await cho(O.nutChatMoi, 30000, 500, "nút Cuộc trò chuyện mới")
+        .catch(() => null);
+    }
     if (!a) throw new Error("không thấy nút Cuộc trò chuyện mới (tab hỏng?)");
     a.click();
     await nghi(1200);
@@ -714,7 +721,10 @@
       // Quá hạn / quá tải là tạm thời -> cho cầu xếp lại hàng chờ, không đánh hỏng hẳn
       // "văn xuôi" = Gemini từ chối đọc ảnh. Từ chối là ngẫu nhiên (cùng một
       // tài liệu, trang được trang không) nên phải cho thử lại, không đánh hỏng hẳn.
-      const tamThoi = /quá hạn|dấu hiệu|văn xuôi|khối mã|quota|429|503|network|fetch|Frame/i
+      // Lỗi do TRANG chưa sẵn sàng cũng là tạm thời: tab vừa mở còn đang tải,
+      // người dùng đóng tab giữa chừng, Gemini render chậm. Đánh hỏng hẳn những
+      // lỗi này là sai — chạy lại là được, không cần sửa gì.
+      const tamThoi = /quá hạn|dấu hiệu|văn xuôi|khối mã|quota|429|503|network|fetch|Frame|tab đã đóng|không thấy nút|không thấy ô nhập|chưa đăng nhập|không đặt được prompt|không đính được/i
         .test(loi);
       log("LỖI:", loi);
       return { ok: false, loi, tam_thoi: tamThoi, nhat_ky: layNhatKy() };
