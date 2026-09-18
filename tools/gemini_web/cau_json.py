@@ -243,7 +243,16 @@ def _validate(data: dict) -> list[str]:
         tam.unlink(missing_ok=True)
 
 
-_DIEU = re.compile(r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)\s*[.．:]?", re.M)
+# Tieu de Dieu THAT: "Điều 5." / "Điều 5 Pham vi..." — sau so la dau cham hoac
+# mot tieu de mo dau bang CHU HOA.
+#
+# Phai loai VIEN DAN bi OCR ngat dong roi roi xuong dau dong:
+#     "...quy dinh tai khoan 2\nĐiều 16 của Luật này, trừ..."
+# Dem ca nhung cai do thi 0090 (Luat sua doi, chi co 3 Dieu that) bi bao la co
+# 9 Dieu, roi canh bao "thieu Dieu" oan cho ban JSON dung.
+_DIEU = re.compile(
+    r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)\s*(?:[.．:]|\s+(?=[A-ZĐÀ-Ỹ]))", re.M)
+_VIEN_DAN = re.compile(r"^\s*(?:của|tại|và|;|,)|^\s*[Ll]uật này|^\s*này\b")
 
 
 def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
@@ -278,7 +287,8 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
         if len(chu) > 8 and all(c.isupper() for c in chu[:20]):
             canh_bao.append("%s dang in HOA toan bo: %r" % (ten, s[:40]))
 
-    so_goc = len(set(_DIEU.findall(txt)))
+    so_goc = len({m.group(1) for m in _DIEU.finditer(txt)
+                  if not _VIEN_DAN.match(txt[m.end():m.end() + 24])})
     so_json = len(data.get("articles") or []) + sum(
         len(n.get("articles") or []) for n in data.get("normativeContents") or [])
     if so_goc and so_json < so_goc * 0.8:
