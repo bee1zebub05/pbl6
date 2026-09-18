@@ -98,6 +98,8 @@ class Kho:
     """
 
     PROMPT = PROMPT
+    CHE_DO = "sửa lỗi OCR → plaintext"      # panel doc cai nay de hien, khong tu doan
+    RA_MO_TA = "data/interim/text_gemini_sach/"
 
     def __init__(self, csv_path, ra_dir, chi=None, tu_loi_cao=None):
         self.khoa = threading.Lock()
@@ -266,7 +268,8 @@ class Kho:
             return {"tong": len(self.viec), "cho": len(self.hang),
                     "dang_lam": len(self.dang_lam), "xong": len(self.xong),
                     "hong": len(self.hong),
-                    "nghi_ngo": sum(1 for v in self.xong.values() if v.get("nghi_ngo"))}
+                    "nghi_ngo": sum(1 for v in self.xong.values() if v.get("nghi_ngo")),
+                    "che_do": self.CHE_DO, "ra": self.RA_MO_TA}
 
 
 class Handler(BaseHTTPRequestHandler):

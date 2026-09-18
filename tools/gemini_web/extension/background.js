@@ -10,8 +10,9 @@
  * Việc đang dở lúc tắt máy sẽ tự quay lại hàng chờ (cầu không thấy ai nộp).
  */
 
-const CAU = "http://127.0.0.1:8779";        // cầu txt — bản cũ, giữ nguyên
-const CAU_ANH = "http://127.0.0.1:8780";    // cầu ảnh — đưa thẳng ảnh scan cho Gemini
+// Một cổng duy nhất. Cầu nào đang nghe ở đây thì tự khai chế độ qua /api/stats
+// (sửa txt hay xuất JSON) — extension không cần biết, nó chỉ gõ prompt cầu đưa.
+const CAU = "http://127.0.0.1:8779";
 const SO_LUONG_MAC_DINH = 10;
 const URL_GEMINI = "https://gemini.google.com/u/1/app?pageId=none";
 const NHIP_XOAY_FOCUS = 3500;   // ms — mỗi tab được "ngó" tới sau chừng này
@@ -20,10 +21,9 @@ const NHIP_XOAY_FOCUS = 3500;   // ms — mỗi tab được "ngó" tới sau ch
 const S = {
   async lay() {
     const d = await chrome.storage.local.get(
-      ["chay", "soLuong", "tabs", "dangLam", "nhatKy", "soLieu", "cheDo"]);
+      ["chay", "soLuong", "tabs", "dangLam", "nhatKy", "soLieu"]);
     return {
       chay: d.chay || false,
-      cheDo: d.cheDo === "anh" ? "anh" : "txt",   // "txt" (8779) | "anh" (8780)
       soLuong: d.soLuong || SO_LUONG_MAC_DINH,
       tabs: d.tabs || [],                 // [tabId,...]
       dangLam: d.dangLam || {},           // luongId -> {id, ten}
@@ -52,55 +52,17 @@ async function ghi(muc, ...phan) {
 /** Địa chỉ cầu theo chế độ đang chọn. Đọc thẳng storage chứ không nhớ vào biến
  *  toàn cục: service worker MV3 ngủ dậy là biến bay, storage thì còn. */
 async function diaChiCau() {
-  const d = await chrome.storage.local.get(["cheDo"]);
-  return d.cheDo === "anh" ? CAU_ANH : CAU;
-}
-
-async function cauGET(duong) {
-  const goc = await diaChiCau();
-  const r = await fetch(goc + duong, { cache: "no-store" });
-  if (!r.ok) throw new Error(`cầu trả ${r.status}`);
-  return r.json();
-}
-async function cauPOST(duong, body) {
-  const goc = await diaChiCau();
-  const r = await fetch(goc + duong, {
-    method: "POST", headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
-  return r.json().catch(() => ({ ok: false, error: "trả về không phải JSON" }));
-}
-/** Đổi Blob thành chuỗi data URL base64.
- *
- *  Không dùng FileReader — trong service worker MV3 nó không chắc có. Đọc thẳng
- *  ArrayBuffer rồi btoa. Phải cắt khúc 32 KB khi dựng chuỗi nhị phân vì
- *  String.fromCharCode.apply nổ "Maximum call stack size exceeded" nếu đổ cả
- *  vài triệu byte vào một lần gọi.
- */
-async function blobSangDataURL(blob) {
-  const byte = new Uint8Array(await blob.arrayBuffer());
-  const BUOC = 0x8000;
-  let nhiPhan = "";
-  for (let i = 0; i < byte.length; i += BUOC) {
-    nhiPhan += String.fromCharCode.apply(null, byte.subarray(i, i + BUOC));
-  }
-  return `data:${blob.type || "image/png"};base64,${btoa(nhiPhan)}`;
+  return CAU;
 }
 
 /** Tải bản gốc của một việc về.
  *
- *  - kiểu txt: cầu 8779 trả văn bản -> r.text(), y như cũ.
- *  - kiểu ảnh: cầu 8780 trả BYTE PNG thật -> r.blob(), rồi đổi sang data URL.
- *    Lý do phải đổi: executeScript chỉ truyền sang MAIN world được thứ JSON hoá
- *    được, Blob/File không đi lọt. Chuỗi "data:image/png;base64,..." thì đi
- *    được, phía may_gemini.js dựng lại thành File. Ảnh 1–3 MB nở ~1,33 lần
- *    thành chuỗi 1,3–4 MB — vẫn truyền được.
+ *  Cầu trả về văn bản thuần (.txt của kho đã sạch), dùng cho mọi chế độ.
  */
-async function cauTaiFile(id, kieu) {
+async function cauTaiFile(id) {
   const goc = await diaChiCau();
   const r = await fetch(`${goc}/api/file/${id}`, { cache: "no-store" });
   if (!r.ok) throw new Error(`không tải được bản gốc (${r.status})`);
-  if (kieu === "anh") return await blobSangDataURL(await r.blob());
   return r.text();
 }
 
@@ -208,13 +170,7 @@ async function lamMotViec(luongId, tabId) {
   try {
     if (!(await tabConSong(tabId))) throw new Error("tab đã đóng");
     await bomMay(tabId);
-    // Kiểu lấy theo việc cầu giao; cầu txt cũ không có trường này -> mặc định txt.
-    const kieu = job.kieu === "anh" ? "anh" : "txt";
-    const noiDung = await cauTaiFile(job.id, kieu);
-    if (kieu === "anh") {
-      await ghi("▣", `L${luongId}`, job.id,
-        `ảnh ~${Math.round(noiDung.length / 1365)} KB (base64 ${noiDung.length} ký tự)`);
-    }
+    const noiDung = await cauTaiFile(job.id);
     const dungTheoDoi = theoDoiNhatKy(luongId, tabId);
     let kq;
     try {
@@ -305,10 +261,11 @@ async function batDau() {
   if (dangChay) return;
   dangChay = true;
   try {
-    const { soLuong, cheDo } = await S.lay();
+    const { soLuong } = await S.lay();
     const tabs = await chuanBiTabs(soLuong);
-    await ghi("▶", `chạy ${soLuong} luồng`,
-      cheDo === "anh" ? "· chế độ ĐỌC ẢNH (cầu 8780)" : "· chế độ sửa txt (cầu 8779)");
+    let cd = "";
+    try { cd = (await cauGET("/api/stats")).che_do || ""; } catch (_) {}
+    await ghi("▶", `chạy ${soLuong} luồng`, cd ? `· chế độ ${cd}` : "");
     vongXoayFocus();
     await Promise.all(tabs.map((_t, i) => chayLuong(i + 1)));
     await ghi("✔", "tất cả luồng đã nghỉ");
@@ -324,7 +281,6 @@ chrome.runtime.onMessage.addListener((m, _s, traLoi) => {
     if (m.kieu === "bat") {
       await S.dat({
         chay: true, soLuong: m.soLuong || SO_LUONG_MAC_DINH,
-        ...(m.cheDo ? { cheDo: m.cheDo === "anh" ? "anh" : "txt" } : {}),
       });
       batDau();
       traLoi({ ok: true });
@@ -336,18 +292,7 @@ chrome.runtime.onMessage.addListener((m, _s, traLoi) => {
       const s = await S.lay();
       let cau = null;
       try { cau = await cauGET("/api/stats"); } catch (_) {}
-      traLoi({ ...s, cau, diaChi: s.cheDo === "anh" ? CAU_ANH : CAU });
-    } else if (m.kieu === "doi_che_do") {
-      // Đổi cầu giữa chừng là trộn hai hàng chờ -> chỉ cho đổi lúc đang nghỉ.
-      const s = await S.lay();
-      if (s.chay) {
-        traLoi({ ok: false, error: "đang chạy — hãy Tắt trước khi đổi chế độ" });
-        return;
-      }
-      const cd = m.cheDo === "anh" ? "anh" : "txt";
-      await S.dat({ cheDo: cd });
-      await ghi("⇄", "chế độ:", cd === "anh" ? "đọc ảnh (cầu 8780)" : "sửa txt (cầu 8779)");
-      traLoi({ ok: true, cheDo: cd });
+      traLoi({ ...s, cau, diaChi: CAU });
     } else if (m.kieu === "day_lai_hong") {
       traLoi(await cauPOST("/api/requeue", {}));
     } else if (m.kieu === "dong_tabs") {

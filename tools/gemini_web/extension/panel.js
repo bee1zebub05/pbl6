@@ -11,8 +11,9 @@ async function ve() {
   if (!s) return;
 
   const c = s.cau;
-  const cheDo = s.cheDo === "anh" ? "anh" : "txt";
-  const ten = cheDo === "anh" ? "đọc ảnh" : "sửa txt";
+  // Che do KHONG do panel chon nua: cau nao dang nghe o 8779 thi tu khai minh
+  // lam gi qua /api/stats. Mot nguon su that, khong the lech nhan voi thuc te.
+  const ten = (c && c.che_do) || "chưa rõ";
   // Địa chỉ lấy từ background để panel không tự đoán cổng của chế độ nào.
   const dc = (s.diaChi || "").replace(/^https?:\/\//, "") || "127.0.0.1:8779";
 
@@ -24,9 +25,9 @@ async function ve() {
     : `⚠ ${ten} · chưa thấy cầu ở ${dc}`;
   $("cauSong").style.color = c ? "#8b949e" : "#e0a030";
 
-  // Đang chạy thì khoá công tắc: đổi cầu giữa chừng là trộn hai hàng chờ.
-  $("cheDo").disabled = s.chay;
-  if (document.activeElement !== $("cheDo")) $("cheDo").value = cheDo;
+  $("ghiChu").innerHTML = (c && c.ra)
+    ? `Ghi vào <code>${c.ra}</code>. Tắt máy giữa chừng thì bật lại chạy tiếp.`
+    : "Tắt máy giữa chừng thì bật lại chạy tiếp.";
 
   const dl = Object.entries(s.dangLam || {});
   $("dangLam").innerHTML = s.chay
@@ -48,7 +49,6 @@ async function ve() {
 $("bat").onclick = async () => {
   await hoi("bat", {
     soLuong: Math.max(1, Math.min(20, +$("soLuong").value || 10)),
-    cheDo: $("cheDo").value === "anh" ? "anh" : "txt",
   });
   ve();
 };
@@ -65,11 +65,6 @@ $("soLuong").onchange = () => {
   chrome.storage.local.set({ soLuong: n });
 };
 
-$("cheDo").onchange = async () => {
-  const r = await hoi("doi_che_do", { cheDo: $("cheDo").value });
-  if (!(r && r.ok)) alert((r && r.error) || "Không đổi được chế độ.");
-  ve();
-};
 
 $("dongTabs").onclick = async () => { await hoi("dong_tabs"); ve(); };
 

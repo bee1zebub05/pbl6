@@ -128,6 +128,8 @@ class KhoJson(Kho):
     """Hang cho cho che do JSON: quet thang kho txt, nhan ket qua qua validate."""
 
     PROMPT = PROMPT
+    CHE_DO = "xuất JSON → document.schema.json"
+    RA_MO_TA = "data/kg_json/"
 
     def _nap_csv(self, csv_path, chi, tu_loi_cao):
         """Bo qua CSV — nguon viec la toan bo `data/clean/text_final`."""

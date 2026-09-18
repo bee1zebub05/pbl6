@@ -16,9 +16,6 @@
   label { font-size: 12px; color: #8b949e; white-space: nowrap; }
   #soLuong { width: 46px; background: #21242a; color: #e7e9ea; border: 1px solid #333940;
              border-radius: 5px; padding: 5px; font: inherit; text-align: center; }
-  #cheDo { flex: 1; background: #21242a; color: #e7e9ea; border: 1px solid #333940;
-           border-radius: 5px; padding: 5px; font: inherit; }
-  #cheDo:disabled { opacity: .5; }
   .so { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin: 10px 0; }
   .o { background: #21242a; border-radius: 7px; padding: 7px 9px; }
   .o b { display: block; font-size: 17px; }
@@ -35,13 +32,6 @@
 <h1>Gemini — sửa lỗi OCR hàng loạt</h1>
 <div id="cauSong">…</div>
 
-<div class="hang">
-  <label>Chế độ</label>
-  <select id="cheDo" title="Đổi chế độ là đổi cầu; chỉ đổi được khi đang dừng">
-    <option value="txt">Sửa txt — cầu 8779</option>
-    <option value="anh">Đọc ảnh — cầu 8780</option>
-  </select>
-</div>
 <div class="hang">
   <label>Số luồng</label><input id="soLuong" type="number" min="1" max="20" value="10">
   <button id="bat">▶ Bật</button>
@@ -60,7 +50,6 @@
 
 <div id="dangLam">đã dừng</div>
 <div id="nk"></div>
-<div class="canh">Ghi vào <code>data/processed/text_gemini_sach/</code> — không đụng
-<code>text_final</code>. Tắt máy giữa chừng thì bật lại chạy tiếp.</div>
+<div class="canh" id="ghiChu">Tắt máy giữa chừng thì bật lại chạy tiếp.</div>
 
 <script src="panel.js"></script>
