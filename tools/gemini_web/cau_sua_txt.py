@@ -380,6 +380,32 @@ class Handler(BaseHTTPRequestHandler):
             return self._json({"ok": False, "error": "%s: %s" % (type(e).__name__, e)}, 500)
 
 
+def chan_cau_trung(port: int) -> None:
+    """Chet ngay neu da co cau khac nghe cong nay.
+
+    Tren Windows, socket cua Python mac dinh bat SO_REUSEADDR nen HAI cau van
+    bind duoc cung mot cong — khong ai bao loi. Request roi vao cau nao la ngau
+    nhien, hai ben giu hai trang thai khac nhau: panel doc cua cau A, extension
+    nop cho cau B, ket qua bay mat. Da dinh that.
+    """
+    import urllib.error
+    import urllib.request
+
+    try:
+        with urllib.request.urlopen(
+                "http://127.0.0.1:%d/api/stats" % port, timeout=2) as r:
+            cu = json.loads(r.read().decode("utf-8"))
+    except (urllib.error.URLError, OSError, ValueError):
+        return          # khong ai tra loi -> cong trong, chay tiep
+
+    noi("[cau] CONG %d DA CO CAU KHAC DANG CHAY:" % port)
+    noi("       che do: %s | tong %s · cho %s · xong %s · hong %s"
+        % (cu.get("che_do"), cu.get("tong"), cu.get("cho"),
+           cu.get("xong"), cu.get("hong")))
+    noi("       Tat cau do truoc roi hay bat lai. Hai cau cung cong = mat ket qua.")
+    raise SystemExit(1)
+
+
 def main():
     global TRANG_THAI
     ap = argparse.ArgumentParser()
@@ -395,6 +421,8 @@ def main():
                     help="file checkpoint rieng (dung khi chay doi chung lan 2)")
     a = ap.parse_args()
     TRANG_THAI = Path(a.trang_thai)
+
+    chan_cau_trung(a.port)
 
     chi = set(x.strip() for x in a.chi.split(",") if x.strip()) or None
     Handler.kho = Kho(a.csv, a.out, chi=chi, tu_loi_cao=a.tu_loi_cao)

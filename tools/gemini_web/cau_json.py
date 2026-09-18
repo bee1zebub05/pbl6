@@ -31,7 +31,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from cau_sua_txt import Handler, Kho, noi          # noqa: E402
+from cau_sua_txt import Handler, Kho, chan_cau_trung, noi   # noqa: E402
 
 GOC = Path(__file__).resolve().parents[2]
 KHO_TXT = GOC / "data" / "clean" / "text_final"
@@ -267,6 +267,8 @@ def main():
 
     import cau_sua_txt
     cau_sua_txt.TRANG_THAI = Path(a.trang_thai)
+
+    chan_cau_trung(a.port)
 
     chi = set(x.strip() for x in a.chi.split(",") if x.strip()) or None
     Handler.kho = KhoJson(None, a.out, chi=chi)
