@@ -300,6 +300,19 @@ async function batDau() {
     await Promise.all(tabs.map((_t, i) => chayLuong(i + 1)));
     await ghi("✔", "tất cả luồng đã nghỉ");
     await S.dat({ chay: false });
+
+    // Xong xuôi thì dọn tab. Chạy 455 file mà để 10 tab Gemini nằm lại là phiền.
+    // NHƯNG còn việc hỏng thì GIỮ NGUYÊN — lúc đó cần mở tab ra xem Gemini trả
+    // lời gì, đóng đi là mất dấu vết duy nhất.
+    let conHong = 0;
+    try { conHong = (await cauGET("/api/stats")).hong || 0; } catch (_) {}
+    if (conHong) {
+      await ghi("⚠", `còn ${conHong} file hỏng — giữ tab lại để soi`);
+    } else {
+      for (const id of tabs) { try { await chrome.tabs.remove(id); } catch (_) {} }
+      await S.dat({ tabs: [] });
+      await ghi("✕", `đã đóng ${tabs.length} tab`);
+    }
   } catch (e) {
     await ghi("✖", "điều phối chết:", String(e));
     await S.dat({ chay: false });
