@@ -91,7 +91,13 @@ def noi(*a):
 
 
 class Kho:
-    """Giu hang cho + trang thai, co khoa de nhieu worker goi song song."""
+    """Giu hang cho + trang thai, co khoa de nhieu worker goi song song.
+
+    `PROMPT` la thuoc tinh cua lop chu khong phai bien module, de lop con doi
+    cau lenh ma khong phai chep lai toan bo may hang cho (xem cau_json.py).
+    """
+
+    PROMPT = PROMPT
 
     def __init__(self, csv_path, ra_dir, chi=None, tu_loi_cao=None):
         self.khoa = threading.Lock()
@@ -170,7 +176,7 @@ class Kho:
                     continue
                 self.dang_lam[ma] = {"worker": worker, "luc": gio}
                 v = dict(self.viec[ma])
-                v["prompt"] = PROMPT
+                v["prompt"] = self.PROMPT
                 v["so_ky_tu_goc"] = len(self._doc(ma))
                 return v
             return None
