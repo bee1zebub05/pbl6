@@ -276,7 +276,8 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
 
     # --- cac loi da gap that o lan chay thu, schema khong chan duoc ---
     ct = data.get("citations") or []
-    so_hieu = re.compile(r"^\d{1,5}\s*/")
+    # So hieu co the mang chu cai sau so: 30a/2008/NQ-CP, 16a/2019/TT-BGDDT.
+    so_hieu = re.compile(r"^\d{1,5}[a-zA-Z]?\s*/")
     xau = [c.get("targetDocumentNumber", "") for c in ct
            if not so_hieu.match(c.get("targetDocumentNumber", ""))]
     if xau:
