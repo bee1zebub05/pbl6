@@ -55,6 +55,22 @@ async function diaChiCau() {
   return CAU;
 }
 
+async function cauGET(duong) {
+  const goc = await diaChiCau();
+  const r = await fetch(goc + duong, { cache: "no-store" });
+  if (!r.ok) throw new Error(`cầu trả ${r.status}`);
+  return r.json();
+}
+
+async function cauPOST(duong, body) {
+  const goc = await diaChiCau();
+  const r = await fetch(goc + duong, {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  return r.json().catch(() => ({ ok: false, error: "trả về không phải JSON" }));
+}
+
 /** Tải bản gốc của một việc về.
  *
  *  Cầu trả về văn bản thuần (.txt của kho đã sạch), dùng cho mọi chế độ.
