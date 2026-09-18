@@ -117,10 +117,23 @@ PROMPT = (
     "7. `citations`: quan hệ lấy theo động từ trong câu — 'Căn cứ' → BASED_ON, "
     "'thay thế' → REPLACES, 'sửa đổi, bổ sung' → AMENDS, 'bãi bỏ' → REPEALS, còn lại "
     "chỉ nhắc tên → REFERENCES. Không tự trích dẫn chính văn bản này.\n"
+    "7a. `targetDocumentNumber` CHỈ được là SỐ HIỆU, dạng `<số>/<năm>/<mã>` hoặc "
+    "`<số>/<mã>` — ví dụ `35/2021/TT-BGDĐT`, `32/CP`, `08/NQ-HĐĐH`. Văn bản được "
+    "viện dẫn bằng TÊN mà không kèm số hiệu (ví dụ 'Luật Giáo dục đại học ngày "
+    "18/6/2012') thì BỎ khỏi `citations`, đừng đặt cả câu vào ô số hiệu.\n"
+    "7b. Mỗi số hiệu chỉ xuất hiện MỘT lần trong `citations`. Nếu một văn bản vừa "
+    "nằm ở phần Căn cứ vừa được nhắc trong thân bài thì chỉ ghi một dòng, lấy quan "
+    "hệ mạnh hơn theo thứ tự REPEALS > REPLACES > AMENDS > BASED_ON > REFERENCES.\n"
     "8. TUYỆT ĐỐI không thêm các khoá normalizedNumber, orgId, personId, topicId, "
     "articleId, authorityLevel, isStub — máy nạp tự sinh.\n"
     "9. Chuỗi JSON phải escape đúng: xuống dòng trong `text` viết là \\n, dấu nháy kép "
     "viết là \\\". JSON phải parse được.\n"
+    "10. Văn bản in HOA TOÀN BỘ ở phần đầu (tên cơ quan, tiêu đề) thì viết lại theo "
+    "chính tả thường: `ĐẠI HỌC ĐÀ NẴNG` → `Đại học Đà Nẵng`, `QUYẾT ĐỊNH Ban hành` → "
+    "`Quyết định Ban hành`. Chỉ áp dụng cho `organization.name` và `document.title`; "
+    "`articles[].text` vẫn chép nguyên si.\n"
+    "11. Mốc trang `----- [Trang N] -----` là do máy OCR chèn, KHÔNG phải nội dung. "
+    "Bỏ hẳn khỏi mọi trường; câu nào bị nó cắt làm đôi thì nối lại cho liền.\n"
 )
 
 
@@ -237,6 +250,33 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
     """Kiem cac thu schema khong bat duoc — deu la dau hieu model bo bot noi dung."""
     canh_bao: list[str] = []
     txt = io.open(goc, encoding="utf-8", errors="replace").read()
+
+    # --- cac loi da gap that o lan chay thu, schema khong chan duoc ---
+    ct = data.get("citations") or []
+    so_hieu = re.compile(r"^\d{1,5}\s*/")
+    xau = [c.get("targetDocumentNumber", "") for c in ct
+           if not so_hieu.match(c.get("targetDocumentNumber", ""))]
+    if xau:
+        canh_bao.append("citations co %d muc khong phai so hieu: %s"
+                        % (len(xau), "; ".join(x[:40] for x in xau[:2])))
+
+    dem: dict[str, int] = {}
+    for c in ct:
+        k = (c.get("targetDocumentNumber") or "").strip()
+        dem[k] = dem.get(k, 0) + 1
+    trung = [k for k, v in dem.items() if v > 1]
+    if trung:
+        canh_bao.append("citations trung so hieu: %s" % ", ".join(trung[:3]))
+
+    if "[Trang" in json.dumps(data, ensure_ascii=False):
+        canh_bao.append("con sot moc [Trang N] trong JSON")
+
+    for ten, gt in (("organization.name", data.get("organization", {}).get("name")),
+                    ("document.title", data.get("document", {}).get("title"))):
+        s = (gt or "").strip()
+        chu = [c for c in s if c.isalpha()]
+        if len(chu) > 8 and all(c.isupper() for c in chu[:20]):
+            canh_bao.append("%s dang in HOA toan bo: %r" % (ten, s[:40]))
 
     so_goc = len(set(_DIEU.findall(txt)))
     so_json = len(data.get("articles") or []) + sum(
