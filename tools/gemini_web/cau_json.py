@@ -144,11 +144,22 @@ class KhoJson(Kho):
     CHE_DO = "xuất JSON → document.schema.json"
     RA_MO_TA = "data/kg_json/"
 
+    # Loc theo co file, dat tu main(). JSON phai chua toan van tung Dieu nen file
+    # cang to cang de bi Gemini cat giua chung — day la bien rui ro duy nhat chua
+    # kiem soat duoc, nen chia dot chay theo no.
+    TU_KB = 0.0
+    TOI_KB = 1e9
+
     def _nap_csv(self, csv_path, chi, tu_loi_cao):
         """Bo qua CSV — nguon viec la toan bo `data/clean/text_final`."""
+        bo_co = 0
         for p in sorted(KHO_TXT.rglob("*.txt")):
             ma = p.name[:4]
             if chi and ma not in chi:
+                continue
+            kb = p.stat().st_size / 1024
+            if not (self.TU_KB <= kb <= self.TOI_KB):
+                bo_co += 1
                 continue
             self.viec[ma] = {
                 "id": ma,
@@ -163,6 +174,9 @@ class KhoJson(Kho):
                 "ty_le_loi": "",
             }
         noi("[cau] nap %d van ban tu %s" % (len(self.viec), KHO_TXT))
+        if bo_co:
+            noi("[cau] bo qua %d file ngoai khoang %.0f-%.0f KB"
+                % (bo_co, self.TU_KB, self.TOI_KB))
 
     # ---------- nhan ket qua ----------
     def nop(self, ma, text, nguon=None):
@@ -317,6 +331,10 @@ def main():
     ap.add_argument("--out", default=str(RA_MAC_DINH))
     ap.add_argument("--chi", default="", help="chi lam nhung ma nay, vd 0322,0425")
     ap.add_argument("--trang-thai", default=str(TRANG_THAI))
+    ap.add_argument("--tu-kb", type=float, default=0.0,
+                    help="chi lam file tu co nay tro len (KB)")
+    ap.add_argument("--toi-kb", type=float, default=1e9,
+                    help="chi lam file toi co nay (KB) — chia dot theo co file")
     a = ap.parse_args()
 
     import cau_sua_txt
@@ -325,6 +343,7 @@ def main():
     chan_cau_trung(a.port)
 
     chi = set(x.strip() for x in a.chi.split(",") if x.strip()) or None
+    KhoJson.TU_KB, KhoJson.TOI_KB = a.tu_kb, a.toi_kb
     Handler.kho = KhoJson(None, a.out, chi=chi)
     Path(a.out).mkdir(parents=True, exist_ok=True)
 
