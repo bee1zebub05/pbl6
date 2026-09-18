@@ -77,6 +77,61 @@ def _cat_dieu(txt: str):
     return ra, tho
 
 
+# Tieu de ban ban hanh kem theo, dung MOT MINH tren dong va in HOA.
+TIEU_DE_ND = re.compile(
+    r"^[ \t]*(QUY\s*CHẾ|QUY\s*ĐỊNH|ĐIỀU\s*LỆ|QUY\s*TRÌNH|NỘI\s*QUY|ĐỀ\s*ÁN|"
+    r"CHƯƠNG\s*TRÌNH)[ \t]*$", re.M)
+_LOAI_ND = {"QUY CHẾ": "Quy chế", "QUY ĐỊNH": "Quy định", "ĐIỀU LỆ": "Điều lệ",
+            "QUY TRÌNH": "Quy trình", "NỘI QUY": "Nội quy", "ĐỀ ÁN": "Đề án",
+            "CHƯƠNG TRÌNH": "Chương trình"}
+
+
+def _tach_ban_kem(txt: str):
+    """Tach phan ban hanh kem theo. -> (dict Dieu, day tho, ten, loai) hoac (None,...).
+
+    Lay tieu de in hoa CUOI CUNG — van ban long ba lop (0013) co ca Quyet dinh
+    goc chep lai o giua, cat o moc dau tien la van con lan.
+    """
+    ms = list(TIEU_DE_ND.finditer(txt))
+    if not ms:
+        return None, None, None, None
+    m = ms[-1]
+    than = txt[m.end():]
+    goc, tho = _cat_dieu(than)
+    if len(goc) < 5 or tho != sorted(tho) or len(set(tho)) != len(tho):
+        return None, None, None, None
+    # ten = may dong ngay sau tieu de, truoc "Chương" hoac "Điều 1"
+    sau = than[:400].strip().split("\n")
+    ten = " ".join(x.strip() for x in sau[:3]
+                   if x.strip() and not re.match(r"^(Chương|Điều)\b", x.strip()))
+    khoa = re.sub(r"\s+", " ", m.group(1).upper())
+    return goc, tho, (ten[:200] or khoa.title()), _LOAI_ND.get(khoa, "Quy định")
+
+
+def _ghi_nd(js, d, goc, thieu, ten, loai):
+    them = [{
+        "number": k,
+        "heading": goc[k]["tieu_de"],
+        "text": goc[k]["than"],
+        "isImplementationClause": bool(THI_HANH.search(goc[k]["than"])),
+    } for k in thieu]
+    nd = (d.get("normativeContents") or [])
+    if nd:
+        nd[0]["articles"] = sorted(
+            (nd[0].get("articles") or []) + them,
+            key=lambda x: int(re.match(r"\d+", x["number"].replace("Điều", "").strip()).group()))
+    else:
+        nd = [{"title": ten, "contentType": loai, "status": None,
+               "idOverride": None, "articles": them}]
+    d["normativeContents"] = nd
+    cu = (d.get("note") or "").strip()
+    d["note"] = (cu + " " if cu else "") + (
+        "%d Điều của bản kèm theo được cắt thẳng từ bản .txt gốc." % len(them))
+    shutil.copy2(js, str(js) + ".truoc_khi_va")
+    io.open(js, "w", encoding="utf-8", newline="\n").write(
+        json.dumps(d, ensure_ascii=False, indent=2) + "\n")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--ghi", action="store_true")
@@ -103,6 +158,26 @@ def main() -> int:
         thieu = [k for k in goc if k not in co]
         if not thieu or len(goc) < 5:
             continue
+
+        # Van ban LONG NHAU van va duoc, mien la tach dung ranh gioi truoc.
+        # Hinh dang: Quyet dinh (Dieu 1-3) ... "QUY CHẾ" ... Dieu 1-24 cua Quy che.
+        # Cac Dieu SAU tieu de in hoa do thuoc `normativeContents`, khong phai
+        # `articles` cua Quyet dinh. Tach xong thi moi ben lai tang deu.
+        if tho != sorted(tho):
+            goc2, tho2, ten_nd, loai_nd = _tach_ban_kem(
+                io.open(tx, encoding="utf-8", errors="replace").read())
+            if goc2 is not None:
+                co_nd = set()
+                for n in d.get("normativeContents") or []:
+                    co_nd |= {a_["number"] for a_ in (n.get("articles") or [])}
+                thieu_nd = [k for k in goc2 if k not in co_nd]
+                if thieu_nd:
+                    print("%s  bản kèm theo %r: vá %d/%d Điều vào normativeContents"
+                          % (ma, ten_nd[:40], len(thieu_nd), len(goc2)))
+                    tong_va += len(thieu_nd)
+                    if a.ghi:
+                        _ghi_nd(js, d, goc2, thieu_nd, ten_nd, loai_nd)
+                    continue
 
         # CHOT AN TOAN: chi va khi so Dieu TANG DEU tu dau den cuoi file.
         #
