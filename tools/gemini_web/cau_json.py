@@ -266,7 +266,14 @@ def _validate(data: dict) -> list[str]:
 # 9 Dieu, roi canh bao "thieu Dieu" oan cho ban JSON dung.
 _DIEU = re.compile(
     r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)\s*(?:[.．:]|\s+(?=[A-ZĐÀ-Ỹ]))", re.M)
-_VIEN_DAN = re.compile(r"^\s*(?:của|tại|và|;|,)|^\s*[Ll]uật này|^\s*này\b")
+# Vien dan mo dau bang TEN LOAI van ban roi "này"/"số" — "Điều 7 Nghị định này;"
+# — cung phai loc, khong thi dem Dieu bi thua va bao "thieu Dieu" oan.
+_LOAI_VB_VD = (r"Nghị\s*định|Thông\s*tư|Quyết\s*định|Luật|Bộ\s*luật|Quy\s*chế|"
+               r"Quy\s*định|Điều\s*lệ|Pháp\s*lệnh|Nghị\s*quyết|Chỉ\s*thị|Hiến\s*pháp")
+_VIEN_DAN = re.compile(
+    r"^\s*(?:của|tại|và|;|,)"
+    r"|^\s*[Ll]uật này|^\s*này\b"
+    r"|^\s*(?:%s)\s+(?:này|số|\d)" % _LOAI_VB_VD)
 
 
 def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
