@@ -128,9 +128,9 @@ Mẫu 1
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 (ĐƠN VỊ TRÌNH KÝ)
 
-CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-Đà Nẵng, ngày tháng năm
+Đà Nẵng, ngày      tháng      năm    
 
 PHIẾU TRÌNH KÝ VĂN BẢN
 
@@ -153,7 +153,7 @@ Chuyên viên trình ký
 Thủ trưởng đơn vị trình ký
 (ký, ghi rõ họ tên; ngày tháng năm)
 
-II. Ý KIẾN CỦA PHÒNG TỔ CHỨC HÀNH CHÍNH()
+II. Ý KIẾN CỦA PHÒNG TỔ CHỨC HÀNH CHÍNH(*)
 ......................................................................................................................................................
 ......................................................................................................................................................
 ......................................................................................................................................................
@@ -163,7 +163,7 @@ LÃNH ĐẠO PHÒNG TC-HC
 (ký, ghi rõ họ tên; ngày tháng năm)
 
 III. Ý KIẾN CỦA PHÒNG TỔ CHỨC HÀNH CHÍNH
-(Sau khi văn bản đã đơn vị soạn thảo hiệu chỉnh)
+(Sau khi văn bản đã được đơn vị soạn thảo hiệu chỉnh)
 ......................................................................................................................................................
 ......................................................................................................................................................
 ......................................................................................................................................................
@@ -183,7 +183,7 @@ BAN GIÁM HIỆU
 
 - Phiếu trình ký được sử dụng cho tất cả các loại văn bản.
 - Bản gốc phiếu trình ký được lưu trữ tại Phòng TC-HC để làm cơ sở theo dõi, kiểm tra, đánh giá quá trình thực hiện. Bản sao phiếu trình ký được chuyển đến thủ trưởng đơn vị trình ký để biết và tổ chức thực hiện.
-- () Cần có ý kiến của các Phòng chức năng liên quan đối với các văn bản cần xin ý kiến thống nhất của nhiều đơn vị.
+- (*) Cần có ý kiến của các Phòng chức năng liên quan đối với các văn bản cần xin ý kiến thống nhất của nhiều đơn vị.
 
 ----- [Trang 2] -----
 
@@ -195,7 +195,7 @@ Số: ........../UQ-ĐHBK
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập – Tự do – Hạnh phúc
-Đà Nẵng, ngày tháng năm 2021
+Đà Nẵng, ngày      tháng      năm 2021
 
 GIẤY ỦY QUYỀN
 
@@ -217,5 +217,5 @@ Nội dung ủy quyền:
 Thời gian ủy quyền:
 Giấy ủy quyền này có hiệu lực thi hành kể từ ngày ký cho đến khi có văn bản khác thay thế./.
 
-Người được ủy quyền Người ủy quyền
-(Ký và ghi rõ họ tên) (Ký và ghi rõ họ tên)
+Người được ủy quyền                    Người ủy quyền
+(Ký và ghi rõ họ tên)                  (Ký và ghi rõ họ tên)

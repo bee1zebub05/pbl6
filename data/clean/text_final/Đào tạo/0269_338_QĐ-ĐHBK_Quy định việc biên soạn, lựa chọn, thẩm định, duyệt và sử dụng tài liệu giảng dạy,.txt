@@ -49,12 +49,8 @@ PGS.TS Nguyễn Hữu Hiếu
 
 ----- [Trang 2] -----
 
-Trang này gần như trống hoàn toàn. Ở phía dưới cùng có một con dấu mờ và bị in ngược (mirrored), nội dung không đủ rõ ràng để có thể OCR chính xác 100%.
 
-Phần OCR bạn cung cấp trong yêu cầu ("VAPHOURT BIVI HỘC") là kết quả nhận diện sai của công cụ tự động. Dựa trên quan sát hình ảnh, con dấu này có vẻ là một con dấu tiếng Việt (có chữ "ĐẠI HỌC" ở dòng dưới cùng nhưng bị ngược), tuy nhiên các chữ còn lại quá mờ để xác định chính xác.
 
-Kết quả OCR:
-(Trang trống)
 
 ----- [Trang 3] -----
 
@@ -975,7 +971,7 @@ Kính gửi: Ban Giám hiệu
 
 Căn cứ Kế hoạch biên soạn giáo trình/ sách hướng dẫn/ sách chuyên khảo năm học 20….- 20…. đã được Hiệu trưởng phê duyệt, Bộ môn ………………………………………….. đã tổ chức đánh giá đề cương giáo trình/ sách hướng dẫn/ sách chuyên khảo/ sách bài tập:
 - Tên giáo trình/ sách: …………………………………………………………………………………………
-Thế loại: ▢ Giáo trình ▢ Sách hướng dẫn ▢ Sách chuyên khảo ▢ Sách bài tập
+Thể loại: ▢ Giáo trình ▢ Sách hướng dẫn ▢ Sách chuyên khảo ▢ Sách bài tập
 - Sử dụng để giảng dạy học phần: …………………………………………….., …… tiết.
 - Thuộc chương trình đào tạo: ………………………………………………….
 trình độ: ▢ Đại học ▢ Sau đại học
@@ -1014,7 +1010,7 @@ A. Thành phần dự họp:
 
 B. Thông tin về đề cương giáo trình/sách được đánh giá:
 - Tên giáo trình/ sách dự kiến: ……………………………………………………………………………..
-Thế loại: ▢ Giáo trình ▢ Sách hướng dẫn ▢ Sách chuyên khảo ▢ Sách bài tập
+Thể loại: ▢ Giáo trình ▢ Sách hướng dẫn ▢ Sách chuyên khảo ▢ Sách bài tập
 - Sử dụng để giảng dạy học phần: …………………………………………….., …… tiết.
 - Thuộc chương trình đào tạo ………………………………………………………………………………
 trình độ: ▢ Đại học ▢ Sau đại học
@@ -1069,7 +1065,7 @@ TRƯỞNG BỘ MÔN
 TRƯỜNG ĐẠI HỌC BÁCH KHOA
 PHÒNG ĐÀO TẠO
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do- Hạnh phúc
+Độc lập - Tự do - Hạnh phúc
 
 Đà Nẵng, ngày 04 tháng 4 năm 1994
 
@@ -1077,7 +1073,7 @@ Kính gửi: Ban Giám hiệu
 
 Khoa …………………… gửi trình Hồ sơ xét duyệt đề cương và đề nghị triển khai ký kết hợp đồng biên soạn giáo trình/ sách hướng dẫn /sách chuyên khảo/ sách bài tập:
 - Tên giáo trình/ sách: …………………………………………………………………………………………
-Thế loại: ▢ Giáo trình ▢ Sách hướng dẫn ▢ Sách chuyên khảo ▢ Sách bài tập
+Thể loại: ▢ Giáo trình ▢ Sách hướng dẫn ▢ Sách chuyên khảo ▢ Sách bài tập
 - Sử dụng để giảng dạy học phần: …………………………………………….., …… tiết.
 - Thuộc chương trình đào tạo ………………………………………………………………………………
 trình độ: ▢ Đại học ▢ Sau đại học
@@ -2590,7 +2586,7 @@ TRƯỜNG ĐẠI HỌC BÁCH KHOA
 Số: ........./QĐ-ĐHBK
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do- Hạnh phúc
+Độc lập - Tự do - Hạnh phúc
 
 Đà Nẵng, ngày ....... tháng .... năm 20......
 
@@ -3254,7 +3250,7 @@ Khoa đã họp ngày ............................ và có ý kiến đề ngh�
 - Thuộc chương trình đào tạo .................................... trình độ: [ ] Đại học [ ] Sau đại học
 - Đề xuất thời gian đánh giá lựa chọn, xét duyệt: ....................................................................
 
-Sách hiện chưa có tại Trung tâm học liệu và tuyển thông của Trường.
+Sách hiện chưa có tại Trung tâm học liệu và truyền thông của Trường.
 Khoa thống nhất giới thiệu người để Ban giám hiệu xem xét quyết định Hội đồng đánh giá sách như sau:
 
 | TT | Họ và tên¹ | Học hàm, Học vị | Bộ môn | Chuyên môn | Nhiệm vụ trong Hội đồng |
@@ -3364,7 +3360,7 @@ PHẦN A. Trước khi họp, thư ký hội đồng tổng hợp hồ sơ sử 
 
 PHẦN B. Thư ký hội đồng tổng hợp hồ sơ họp đánh giá và gửi về Phòng Đào tạo, gồm có:
 1. Hồ sơ Phần A ở trên từ mục 2 đến mục 4;
-2. Tất cả các các phiếu đánh giá sử dụng tại phiên họp (Mẫu 9b);
+2. Tất cả các phiếu đánh giá sử dụng tại phiên họp (Mẫu 9b);
 3. Biên bản họp hội đồng có chữ ký của thư ký và chủ tịch hội đồng (Mẫu 9c).
 
 ----- [Trang 2] -----
@@ -3626,7 +3622,7 @@ Căn cứ Biên bản họp Khoa vào ngày .... tháng .... năm 20... về vi�
 | | | | | |
 | | | | | |
 
-Sách hiện chưa có tại Trung tâm học liệu và tuyển thông của Trường.
+Sách hiện chưa có tại Trung tâm học liệu và truyền thông của Trường.
 Khoa thống nhất giới thiệu người để Ban giám hiệu xem xét quyết định Hội đồng đánh giá sách như sau:
 
 | TT | Họ và tên¹ | Học hàm, Học vị | Bộ môn | Chuyên môn | Nhiệm vụ trong Hội đồng |

@@ -2,7 +2,7 @@
 Trích người ký từ kho văn bản đã OCR -> JSON để nạp node `Person` (Ontology §2.3).
 
     python scripts/trich_nguoi_ky.py
-    python scripts/trich_nguoi_ky.py --nguon data/clean/text_clean_gemma
+    python scripts/trich_nguoi_ky.py --nguon data/clean/text_final
     python scripts/trich_nguoi_ky.py --ra data/kg/nguoi_ky.json --chi-tiet
 
 Tách riêng khỏi `kg/documents.py` để chạy được độc lập trên bất kỳ thư mục text
@@ -29,7 +29,7 @@ from vanban.kg.nguoi_ky import gop_ten_nguoi_ky, tim_nguoi_ky  # noqa: E402
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--nguon", default="data/clean/text_clean_gemma")
+    ap.add_argument("--nguon", default="data/clean/text_final")
     ap.add_argument("--ra", default="data/kg/nguoi_ky.json")
     ap.add_argument("--chi-tiet", action="store_true")
     args = ap.parse_args()

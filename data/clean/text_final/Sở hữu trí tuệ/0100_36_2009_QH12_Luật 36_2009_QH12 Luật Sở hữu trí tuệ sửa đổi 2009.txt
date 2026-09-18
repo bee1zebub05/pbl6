@@ -38,7 +38,7 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 10. Sao chép là việc tạo ra một hoặc nhiều bản sao của tác phẩm hoặc bản ghi âm, ghi hình bằng bất kỳ phương tiện hay hình thức nào, bao gồm cả việc tạo bản sao dưới hình thức điện tử.
 11. Phát sóng là việc truyền âm thanh hoặc hình ảnh hoặc cả âm thanh và hình ảnh của tác phẩm, cuộc biểu diễn, bản ghi âm, ghi hình, chương trình phát sóng đến công chúng bằng phương tiện vô tuyến hoặc hữu tuyến, bao gồm cả việc truyền qua vệ tinh để công chúng có thể tiếp nhận được tại địa điểm và thời gian do chính họ lựa chọn.
 12. Sáng chế là giải pháp kỹ thuật dưới dạng sản phẩm hoặc quy trình nhằm giải quyết một vấn đề xác định bằng việc ứng dụng các quy luật tự nhiên.
-13. Kiểu dáng công nghiệp là hình dáng bên ngoài của sản phẩm được hiện bằng hình khối, đường nét, màu sắc hoặc sự kết hợp những yếu tố này.
+13. Kiểu dáng công nghiệp là hình dáng bên ngoài của sản phẩm được thể hiện bằng hình khối, đường nét, màu sắc hoặc sự kết hợp những yếu tố này.
 14. Mạch tích hợp bán dẫn là sản phẩm dưới dạng thành phẩm hoặc bán thành phẩm, trong đó các phần tử với ít nhất một phần tử tích cực và một số hoặc tất cả các mối liên kết được gắn liền bên trong hoặc bên trên tấm vật liệu bán dẫn nhằm thực hiện chức năng điện tử. Mạch tích hợp đồng nghĩa với IC, chip và mạch vi điện tử.
 15. Thiết kế bố trí mạch tích hợp bán dẫn (sau đây gọi là thiết kế bố trí) là cấu trúc không gian của các phần tử mạch và mối liên kết các phần tử đó trong mạch tích hợp bán dẫn.
 16. Nhãn hiệu là dấu hiệu dùng để phân biệt hàng hóa, dịch vụ của các tổ chức, cá nhân khác nhau.

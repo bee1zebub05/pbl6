@@ -58,7 +58,7 @@ Chương I
 NHỮNG QUY ĐỊNH CHUNG
 
 Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
-1. Quy định này quy định chi tiết về tổ chức, quản lý đào tạo trình độ thạc sĩ và cấp bằng thạc sĩ của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường) nhằm cụ thể hóa các quy định của Quy chế tuyển sinh và đào tạo trình độ thạc sĩ ban hành kèm theo Thông tư số 23/2021/TT-BGD ĐT ngày 30/8/2021 của Bộ Giáo dục và Đào tạo.
+1. Quy định này quy định chi tiết về tổ chức, quản lý đào tạo trình độ thạc sĩ và cấp bằng thạc sĩ của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường) nhằm cụ thể hóa các quy định của Quy chế tuyển sinh và đào tạo trình độ thạc sĩ ban hành kèm theo Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ Giáo dục và Đào tạo.
 2. Quy định này áp dụng đối với các đơn vị, cá nhân liên quan đến công tác đào tạo, cấp bằng thạc sĩ của Trường.
 3. Quy định này không áp dụng đối với việc tổ chức đào tạo các chương trình liên kết đào tạo trình độ thạc sĩ giữa Trường với các cơ sở đào tạo của nước ngoài do cơ sở giáo dục nước ngoài cấp bằng (bao gồm cả các chương trình liên kết đào tạo với nước ngoài theo quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục).
 
@@ -158,16 +158,16 @@ e) Kết hợp đánh giá ý thức học tập chuyên cần và tính độc 
 
 3. Điểm học phần là tổng các điểm thành phần nhân với trọng số tương ứng, làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây.
 
-| Điểm theo thang 10 | Điểm theo thang chữ | Điểm theo thang 4 |
-| Từ 9,5 đến 10,0 | A+ | 4,0 |
-| Từ 8,5 đến dưới 9,5 | A | 4,0 |
-| Từ 8,0 đến dưới 8,5 | B+ | 3,5 |
-| Từ 7,0 đến dưới 8,0 | B | 3,0 |
-| Từ 6,5 đến dưới 7,0 | C+ | 2,5 |
-| Từ 5,5 đến dưới 6,5 | C | 2,0 |
-| Từ 5,0 đến dưới 5,5 | D+ | 1,5 |
-| Từ 4,0 đến dưới 5,0 | D | 1,0 |
-| Dưới 4,0 | F | 0 |
+Điểm theo thang 10 | Điểm theo thang chữ | Điểm theo thang 4
+Từ 9,5 đến 10,0 | A+ | 4,0
+Từ 8,5 đến dưới 9,5 | A | 4,0
+Từ 8,0 đến dưới 8,5 | B+ | 3,5
+Từ 7,0 đến dưới 8,0 | B | 3,0
+Từ 6,5 đến dưới 7,0 | C+ | 2,5
+Từ 5,5 đến dưới 6,5 | C | 2,0
+Từ 5,0 đến dưới 5,5 | D+ | 1,5
+Từ 4,0 đến dưới 5,0 | D | 1,0
+Dưới 4,0 | F | 0
 
 4. Học phần được xếp loại đạt khi có điểm đánh giá từ mức C trở lên (từ 5,5 điểm trở lên theo thang điểm 10). Trường hợp điểm học phần dưới 5,5 thì học viên phải học lại học phần đó, hoặc đổi sang học phần tương đương nếu là học phần tự chọn. Hình thức kiểm tra thường xuyên, trọng số đánh giá kiểm tra thường xuyên và trọng số điểm thi kết thúc học phần được quy định trong đề cương chi tiết học phần.
 
@@ -719,29 +719,29 @@ PHỤ LỤC
 BẢNG THAM CHIẾU QUY ĐỔI MỘT SỐ VĂN BẰNG HOẶC CHỨNG CHỈ NGOẠI NGỮ TƯƠNG ĐƯƠNG BẬC 3 VÀ BẬC 4 KHUNG NĂNG LỰC NGOẠI NGỮ 6 BẬC DÙNG CHO VIỆT NAM ÁP DỤNG TRONG TUYỂN SINH VÀ ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ
 (Kèm theo Quyết định số 3875/QĐ-ĐHBK ngày 12 tháng 10 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng)
 
-| TT | Ngôn ngữ | Chứng chỉ /Văn bằng | Trình độ/Thang điểm: Tương đương Bậc 3 | Trình độ/Thang điểm: Tương đương Bậc 4 |
-| 1 | Tiếng Anh | TOEFL iBT | 30-45 | 46-93 |
-| | | TOEFL ITP | 450-499 | |
-| | | IELTS | 4.0 - 5.0 | 5.5 - 6.5 |
-| | | Cambridge Assessment English | B1 Preliminary/B1 Business Preliminary/ Linguaskill. Thang điểm: 140-159 | B2 First/B2 Business Vantage/Linguaskill. Thang điểm: 160-179 |
-| | | TOEIC (4 kỹ năng) | Nghe: 275-399
+TT | Ngôn ngữ | Chứng chỉ /Văn bằng | Trình độ/Thang điểm: Tương đương Bậc 3 | Trình độ/Thang điểm: Tương đương Bậc 4
+1 | Tiếng Anh | TOEFL iBT | 30-45 | 46-93
+| | TOEFL ITP | 450-499 | 
+| | IELTS | 4.0 - 5.0 | 5.5 - 6.5
+| | Cambridge Assessment English | B1 Preliminary/B1 Business Preliminary/ Linguaskill. Thang điểm: 140-159 | B2 First/B2 Business Vantage/Linguaskill. Thang điểm: 160-179
+| | TOEIC (4 kỹ năng) | Nghe: 275-399
 Đọc: 275-384
 Nói: 120-159
 Viết: 120-149 | Nghe: 400-489
 Đọc: 385-454
 Nói: 160-179
-Viết: 150-179 |
-| 2 | Tiếng Pháp | CIEP/Alliance francaise diplomas | TCF: 300-399
+Viết: 150-179
+2 | Tiếng Pháp | CIEP/Alliance francaise diplomas | TCF: 300-399
 Văn bằng DELF B1
 Diplôme de Langue | TCF: 400-499
 Văn bằng DELF B2
-Diplôme de Langue |
-| 3 | Tiếng Đức | Goethe-Institut | Goethe-Zertifikat B1 | Goethe-Zertifikat B2 |
-| | | The German TestDaF language certificate | TestDaF Bậc 3 (TDN 3) | TestDaF Bậc 4 (TDN 4) |
-| 4 | Tiếng Trung Quốc | Hanyu Shuiping Kaoshi (HSK) | HSK Bậc 3 | HSK Bậc 4 |
-| 5 | Tiếng Nhật | Japanese Language Proficiency Test (JLPT) | N4 | N3 |
+Diplôme de Langue
+3 | Tiếng Đức | Goethe-Institut | Goethe-Zertifikat B1 | Goethe-Zertifikat B2
+| | The German TestDaF language certificate | TestDaF Bậc 3 (TDN 3) | TestDaF Bậc 4 (TDN 4)
+4 | Tiếng Trung Quốc | Hanyu Shuiping Kaoshi (HSK) | HSK Bậc 3 | HSK Bậc 4
+5 | Tiếng Nhật | Japanese Language Proficiency Test (JLPT) | N4 | N3
 
 25
 
-| TT | Ngôn ngữ | Chứng chỉ /Văn bằng | Trình độ/Thang điểm: Tương đương Bậc 3 | Trình độ/Thang điểm: Tương đương Bậc 4 |
-| 6 | Tiếng Nga | ТРКИ - Тест по русскому языку как иностранному | ТРКИ-1 | ТРКИ-2 |
+TT | Ngôn ngữ | Chứng chỉ /Văn bằng | Trình độ/Thang điểm: Tương đương Bậc 3 | Trình độ/Thang điểm: Tương đương Bậc 4
+6 | Tiếng Nga | ТРКИ - Тест по русскому языку как иностранному | ТРКИ-1 | ТРКИ-2

@@ -316,7 +316,6 @@ thời gian dén.
 r Tông sô giảng viên trong Khoa: ............
 + Sô lượng Giáo sư: ................
 † 80 lượng Phó Giáo sư: ................
-\
 - Đánh giá tình hình ket qua nghiên cứu khoa học. chuyên giao công nghệ của Khoa hiện
 nay.
 + Số lượng đề
@@ -324,7 +323,6 @@ tài NCKH hiện nav:........
 + S0 lượng bài báo khoa học trong nước và qu6c tê đã công bo trong năm học 2018-
 2019:
 ...(ghi rõ số hnmg bài báo trong nước, bài báo quốc
-=
 số lượng, tiêu chuẩn và điều hẹn
 bồ nhiệm chức danh giáo sư,
 c làm, phù hợp với từng chuyên ngành đào tạo do Khoa quản
@@ -384,13 +382,11 @@ việc làm, phu hợp với từng chuyên ngành đào tạo như sau:
 1. Tiêu chuan bổ nhiệm chức danh giáo sư, phó giáo sư:
 Sốlượng |
 Ghi chú
-|
 Vi tri
 -
 I
 n -
 4
-=
 3
 THƯ KÝ
 CHỦ TRÌ BUOI HỌP
@@ -439,20 +435,15 @@ tham dự: bỏ phiều, kiểm phiều và công bồ kết quả.
 Giới | Năm | Chức danh đề
 L
 Y
-|
 STI
 Họ và tên
 Ĩml
 Am
 .C ;am” N
 Chuyénnganh
-|
-.
-|
 Không
 tinh | sinh | nghị bô nhiệm
 | Đồngý
-|
 . |
 Đông
 ¥
@@ -461,15 +452,12 @@ Giáo su/Phó
 1]
 I
 DDD EEEE GGGG
-.
 Ỉ/Z/)(
-|
 Giáo sư
 l
 T
 ĩ
 T
-]
 ˆ
 LUẬN
 - Đồng chí DDD EEEE GGGG và .... đề nghị bd nhiệm chức danh Giáo sư/Phó Giáo sư của
@@ -564,10 +552,8 @@ e
 n
 | ZZ/XX
 Giáo sư
-|
 z —
 m
-|
 )
 VI KET LUẬN
 - Đồng chi DDD E,
@@ -598,10 +584,7 @@ sách kèm theo vừa được Hội đồng Chức danh Giáo sư Nhà nước 
 Gido sư/Phó Giáo sư năm zzzzzzzzZZ.
 Đề nghị ông (bà) cho biết ý kiến của mình về việc bd nhiệm chức danh Giác sư/Phó Giáo sư bằng
 cách đánh dầu X vào mục ý kién "Đồng ý" hoặc "Không Đồng ý" ¢ bảng sau:
-=
-\
 Ý kién
-:
 -
 Giới | Năm
 Chức danh đê
@@ -611,7 +594,6 @@ IP
 —
 Í
 STT
-|
 Họ và tên
 i
 h
@@ -625,10 +607,8 @@ nghị bo nhiệm
 Đồng ý
 Gg
 ˆ | Đôngý
-|
 Giáo sư/Phó
 Giáo sư
-|
 Nguoi được ldy ý kién này có the ký tén hoặc không ky tên
 Ky tên
 
@@ -636,7 +616,6 @@ Ky tên
 
 CONG HOA XA HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
-.
 BIENBANKIEM PHIEU
 LAY Ý KIEN VE VIEC BO NHIỆM CHỨC DANH GIAO SU, PHÓ GIÁO
 Hom nay. vao h
@@ -659,7 +638,6 @@ phiếu;: Số phiếu không hợp lệ:.
 phicu
 111 Kết qui kiểm phiếu
 I
-|
 )
 Vi
 | Giéi | Năm
@@ -669,29 +647,20 @@ Chức danh d¢
  STT ‘
 Họ và tên
 Chuyên ngành
-.
 Không
-|
 tinh
-|
 sinh
 nghị bỏ nhiệm
-|
 Đông ý
 -
-|
-|
 Ông
 ý
 Giáo su/Pho
-|
 I
 | DDD EEEE GGGG
 Giao sư
-|
 s
 x
-|
 Biên bản nay lập thành 02 bản có giá tri tương duong./.
 Tổ trưởng
 Tổ viên

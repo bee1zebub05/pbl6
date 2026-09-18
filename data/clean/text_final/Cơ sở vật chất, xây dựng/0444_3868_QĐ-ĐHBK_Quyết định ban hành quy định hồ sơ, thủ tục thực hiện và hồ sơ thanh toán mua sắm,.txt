@@ -19,7 +19,7 @@ Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Đấu 
 Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;
 Căn cứ Nghị định số 214/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu;
 Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;
-Căn cứ Thông tư số 79/2025/TT-BTC ngày 04 tháng 8 năm 2025 của Bộ trưởng Bộ tài chính hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và mẫu hồ sơ đấu thầu trên hệ thống mạng đấu thầu quốc gia;
+Căn cứ Thông tư số 79/2025/TT-BTC ngày 04 tháng 8 năm 2025 của Bộ trưởng Bộ Tài chính hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và mẫu hồ sơ đấu thầu trên hệ thống mạng đấu thầu quốc gia;
 Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;
 Căn cứ Nghị quyết số 04/NQ-HĐĐH ngày 18 tháng 01 năm 2023 của Hội đồng Đại học Đà Nẵng về việc phân cấp thẩm quyền quyết định trong công tác quản lý đầu tư, mua sắm tài sản, hàng hóa, dịch vụ, sửa chữa thường xuyên công trình xây dựng cho các trường đại học thành viên, đơn vị trực thuộc Đại học Đà Nẵng;
 Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;
@@ -55,7 +55,7 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 | STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu |
 | 1 | Dưới 5.000.000đ | - BGH phê duyệt đề xuất và nội dung thực hiện.
 - 01 báo giá đối với mua sắm công cụ, dụng cụ (không thông qua Tổ xét duyệt giá).
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản bàn giao cho đơn vị sử dụng (nếu có).
 - Hóa đơn tài chính.
 - Giấy đề nghị thanh toán của đơn vị cung cấp (nếu thanh toán trực tiếp cho đơn vị cung cấp).
@@ -75,7 +75,7 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 - Bộ hồ sơ tư vấn thẩm định giá () của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm).
 - Bản vẽ thiết kế/sơ đồ nguyên lý và dự toán (đối với gói thầu sửa chữa và gia công thiết bị).
 - Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá).
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản nghiệm thu và bàn giao bên A-bên B (Trưởng khoa, trưởng đơn vị chức năng chịu trách nhiệm ký biên bản với nhà cung cấp; thành phần ký biên bản bao gồm cá nhân chịu trách nhiệm trực tiếp thực hiện).
 - Biên bản bàn giao cho đơn vị sử dụng (nếu có).
 - Hóa đơn tài chính.
@@ -93,7 +93,7 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 - Quyết định phê duyệt kết quả lựa chọn nhà thầu.
 - Hợp đồng. | - BGH phê duyệt chủ trương/nội dung thực hiện.
 - Chứng thư thẩm định giá () của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm).
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản nghiệm thu và bàn giao bên A-bên B.
 - Biên bản bàn giao cho đơn vị sử dụng (nếu có).
 - Hóa đơn tài chính.
@@ -108,7 +108,7 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 - Biên bản thanh lý hợp đồng.
 - Hóa đơn tài chính.
 - Chứng thư thẩm định giá () của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm).
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Giấy đề nghị thanh toán của Nhà cung cấp. | - BM.12
 - BM.15
 - BM.16
@@ -132,7 +132,7 @@ QUY ĐỊNH VỀ HỒ SƠ, THỦ TỤC THỰC HIỆN VÀ HỒ SƠ THANH TOÁN MU
 STT | Hạn mức kinh phí | Hồ sơ/thủ tục mua sắm, sửa chữa | Hồ sơ thanh toán | Biểu mẫu
 
 (Tiếp nối phần trước)
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản nghiệm thu và bàn giao (bên A- bên B).
 - Biên bản bàn giao cho đơn vị sử dụng (nếu có).
 - Hóa đơn tài chính.
@@ -184,7 +184,7 @@ Hồ sơ/thủ tục mua sắm, sửa chữa:
 - Biên bản hoàn thiện hợp đồng.
 - Quyết định phê duyệt kết quả lựa chọn nhà thầu.
 - Hợp đồng.
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản nghiệm thu và bàn giao (bên A- bên B).
 - Bảng xác định giá trị khối lượng công việc hoàn thành.
 - Biên bản bàn giao cho đơn vị sử dụng (nếu có).
@@ -194,7 +194,7 @@ Hồ sơ/thủ tục mua sắm, sửa chữa:
 - Giấy đề nghị thanh toán.
 
 Hồ sơ thanh toán:
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản nghiệm thu và bàn giao (bên A- bên B).
 - Bảng xác định giá trị khối lượng công việc hoàn thành.
 - Biên bản bàn giao cho đơn vị sử dụng (nếu có).
@@ -303,7 +303,7 @@ Hồ sơ/thủ tục mua sắm, sửa chữa:
 - Biên bản nghiệm thu và bàn giao (bên A- bên B).
 - Biên bản bàn giao cho đơn vị sử dụng.
 - Bảng xác định giá trị khối lượng công việc hoàn thành.
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Hóa đơn tài chính.
 - Biên bản thanh lý hợp đồng.
 - Giấy đề nghị thanh toán của Nhà thầu.
@@ -314,7 +314,7 @@ Hồ sơ thanh toán:
 - Quyết định phê duyệt kết quả lựa chọn nhà thầu.
 - Biên bản hoàn thiện hợp đồng.
 - Hợp đồng.
-- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có).
+- Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có).
 - Biên bản nghiệm thu và bàn giao (bên A- bên B).
 - Bảng xác định giá trị khối lượng công việc hoàn thành.
 - Biên bản bàn giao cho đơn vị sử dụng.
@@ -332,20 +332,20 @@ Trang 9
 9
 
 1. Đối với Mục 1 và Mục 2
-- Trưởng khoa, Trưởng đơn vị chức năng chịu hoàn toàn trách nhiệm về hoá đơn tài chính và hồ sơ đề nghị thanh toán.
-- Giá trị mua sắm, sửa chữa dưới 200.000 đồng vẫn phải yêu cầu hoá đơn tài chính (không sử dụng hoá đơn bán lẻ).
+- Trưởng khoa, Trưởng đơn vị chức năng chịu hoàn toàn trách nhiệm về hóa đơn tài chính và hồ sơ đề nghị thanh toán.
+- Giá trị mua sắm, sửa chữa dưới 200.000 đồng vẫn phải yêu cầu hóa đơn tài chính (không sử dụng hóa đơn bán lẻ).
 - Không thực hiện ký kết hợp đồng. Nếu hóa đơn tài chính không ghi thông tin tài khoản thì đơn vị cung cấp lập giấy đề nghị có nội dung chi tiết gồm: tên tài khoản, số tài khoản và tên ngân hàng của đơn vị cung cấp.
 
 2. Đối với Mục 4.1 và 4.2:
 Kế hoạch lựa chọn nhà thầu (KHLCNT) và kết quả lựa chọn nhà thầu (KQLCNT) phải đăng tải lên Hệ thống mạng đấu thầu quốc gia (https://muasamcong.mpi.gov.vn/) – Liên hệ Phòng Cơ sở Vật chất. KHLCNT phải bao gồm đầy đủ các hạng mục chi phí mua sắm/sửa chữa, chi phí tư vấn và các chi phí có liên quan.
 
-3. Đối với hoá đơn tài chính:
-Lập theo quy định tại Nghị định số 123/2020/NĐ-CP và Nghị định số 70/2025/NĐ-CP, nên đính kèm theo minh chứng kiểm tra trên trang thông tin điện tử về thuế https://tracuunnt.gdt.gov.vn/tcnnt/mstdn.jsp tại thời điểm xuất hoá đơn.
+3. Đối với hóa đơn tài chính:
+Lập theo quy định tại Nghị định số 123/2020/NĐ-CP và Nghị định số 70/2025/NĐ-CP, nên đính kèm theo minh chứng kiểm tra trên trang thông tin điện tử về thuế https://tracuunnt.gdt.gov.vn/tcnnt/mstdn.jsp tại thời điểm xuất hóa đơn.
 
-4. Đối với hàng hoá nhập khẩu:
+4. Đối với hàng hóa nhập khẩu:
 Phải cung cấp chứng nhận xuất xứ CO; chứng nhận chất lượng CQ/ chứng nhận hợp quy COC/ Test report (nếu có);
 
-5. Đối với hàng hoá trong nước:
+5. Đối với hàng hóa trong nước:
 Cung cấp chứng nhận xuất xưởng/ chứng nhận hợp quy/phiếu kiểm tra chất lượng (nếu có);
 
 6. Đối với gói chỉ định thầu:
@@ -360,14 +360,14 @@ Trang 10
 
 10
 
-Biên bản xét duyệt báo giá (đối với giá trị chi phí tư vấn thẩm định giá từ 5.000.000 đồng trở lên, chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá); Hợp đồng thẩm định giá; Chứng thư thẩm định giá; Biên bản bàn giao Chứng thư thẩm định giá; Biên bản nghiệm thu A-B; Hoá đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của nhà thầu; Giấy đề nghị thanh toán.
+Biên bản xét duyệt báo giá (đối với giá trị chi phí tư vấn thẩm định giá từ 5.000.000 đồng trở lên, chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá); Hợp đồng thẩm định giá; Chứng thư thẩm định giá; Biên bản bàn giao Chứng thư thẩm định giá; Biên bản nghiệm thu A-B; Hóa đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của nhà thầu; Giấy đề nghị thanh toán.
 
 8.2.() Bộ hồ sơ tư vấn Thẩm định giá: của gói thầu mua sắm có giá trị dự toán từ 50.000.000 đồng đến 500.000.000 đồng:
-Thư mời báo giá; Biên bản xét duyệt báo giá (đối với giá trị chi phí tư vấn thẩm định giá từ 5.000.000 đồng trở lên, chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá); Quyết định phê duyệt Kế hoạch lựa chọn nhà thầu (đối với giá trị chi phí tư vấn thẩm định giá trên 50.000.000 đồng); Biên bản hoàn thiện hợp đồng (đối với giá trị chi phí tư vấn thẩm định giá từ 20.000.000 đồng trở lên); Quyết định phê duyệt Kết quả lựa chọn nhà thầu; Hợp đồng thẩm định giá; Chứng thư thẩm định giá; Biên bản bàn giao Chứng thư thẩm định giá; Biên bản nghiệm thu A-B; Bảng xác định giá trị khối lượng công việc hoàn thành (Mẫu 03aTT); Hoá đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của nhà thầu; Giấy đề nghị thanh toán.
+Thư mời báo giá; Biên bản xét duyệt báo giá (đối với giá trị chi phí tư vấn thẩm định giá từ 5.000.000 đồng trở lên, chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá); Quyết định phê duyệt Kế hoạch lựa chọn nhà thầu (đối với giá trị chi phí tư vấn thẩm định giá trên 50.000.000 đồng); Biên bản hoàn thiện hợp đồng (đối với giá trị chi phí tư vấn thẩm định giá từ 20.000.000 đồng trở lên); Quyết định phê duyệt Kết quả lựa chọn nhà thầu; Hợp đồng thẩm định giá; Chứng thư thẩm định giá; Biên bản bàn giao Chứng thư thẩm định giá; Biên bản nghiệm thu A-B; Bảng xác định giá trị khối lượng công việc hoàn thành (Mẫu 03aTT); Hóa đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của nhà thầu; Giấy đề nghị thanh toán.
 
-9. () Bộ hồ sơ tư vấn lập dự toán: Thư mời, biên bản hoàn thiện hợp đồng, Quyết định phê duyệt KQLCNT, Hợp đồng, Hồ sơ dự toán, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán;
+9. () Bộ hồ sơ tư vấn lập dự toán: Thư mời, biên bản hoàn thiện hợp đồng, Quyết định phê duyệt KQLCNT, Hợp đồng, Hồ sơ dự toán, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hóa đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán;
 
-10. () Bộ hồ sơ tư vấn thẩm tra: Thư mời, biên bản hoàn thiện hợp đồng, Quyết định phê duyệt KQLCNT, Hợp đồng, Báo cáo thẩm tra, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hoá đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán;
+10. () Bộ hồ sơ tư vấn thẩm tra: Thư mời, biên bản hoàn thiện hợp đồng, Quyết định phê duyệt KQLCNT, Hợp đồng, Báo cáo thẩm tra, Biên bản bàn giao, Biên bản nghiệm thu, Mẫu 3aTT, Hóa đơn, Biên bản thanh lý, Giấy đề nghị thanh toán của nhà thầu, giấy đề nghị thanh toán;
 
 11. () Bộ hồ sơ quản lý chất lượng công trình: căn cứ theo quy định thuộc Nghị định 06/2021/NĐ-CP;
 

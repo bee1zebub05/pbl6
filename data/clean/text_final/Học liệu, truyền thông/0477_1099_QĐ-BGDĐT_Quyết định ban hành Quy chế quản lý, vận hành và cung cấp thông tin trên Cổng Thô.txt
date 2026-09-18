@@ -62,7 +62,7 @@ Chương I
 QUY ĐỊNH CHUNG
 
 Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
-1. Quy chế này quy định việc quản lý, vận hành, duy trì hoạt động, bảo đảm an toàn, an ninh thông tin, cung cấp, cập nhật, khai thác, sử dụng thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Cổng TTĐT Bộ); việc thiết lập, lập, kết nối, tích hợp các trang thông tin điện tử thành phần của các đơn vị thuộc, trực thuộc Bộ trên môi trường mạng.
+1. Quy chế này quy định việc quản lý, vận hành, duy trì hoạt động, bảo đảm an toàn, an ninh thông tin, cung cấp, cập nhật, khai thác, sử dụng thông tin trên Cổng Thông tin điện tử của Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Cổng TTĐT Bộ); việc thiết lập, kết nối, tích hợp các trang thông tin điện tử thành phần của các đơn vị thuộc, trực thuộc Bộ trên môi trường mạng.
 2. Quy chế này áp dụng đối với:
 a) Các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo (GDĐT);
 b) Các tổ chức, cá nhân được giao tham gia quản lý, vận hành, cung cấp, cập nhật, biên tập, đăng tải, khai thác, sử dụng thông tin trên Cổng TTĐT Bộ;
@@ -135,7 +135,7 @@ e) Phối hợp với Cục Khoa học, Công nghệ và Thông tin trong việc
 3. Hướng dẫn, kiểm tra về mặt kỹ thuật đối với các trang thông tin điện tử thành phần của các đơn vị thuộc, trực thuộc Bộ để bảo đảm thống nhất, đồng bộ, an toàn, bảo mật và khả năng kết nối, tích hợp với Cổng TTĐT Bộ.
 4. Chủ trì tổ chức triển khai các hoạt động kỹ thuật phục vụ vận hành Cổng TTĐT Bộ theo quy định của pháp luật để thực hiện các nhiệm vụ sau đây:
 a) Bảo đảm Cổng TTĐT Bộ hoạt động ổn định, liên tục, an toàn, thông suốt; tổ chức giám sát, phát hiện, cảnh báo, ngăn chặn, xử lý sự cố kỹ thuật, sự cố an toàn, an ninh mạng theo quy định.
-b) Thực hiện phân quyền, quản lý tài khoản truy cập, quyền quản trị, quyền sử dụng hệ thống theo đúng chức năng, nhiệm vụ của từng tổ chức, cá nhân; kịp thời thu hồi, vô hiệu hóa tài khoản của tổ chức, cá nhân không còn thẩm quyền sử dụng, theo sự yêu cầu của Ban Biên tập Cổng.
+b) Thực hiện phân quyền, quản lý tài khoản truy cập, quyền quản trị, quyền sử dụng hệ thống theo đúng chức năng, nhiệm vụ của từng tổ chức, cá nhân; kịp thời thu hồi, vô hiệu hóa tài khoản của tổ chức, cá nhân không còn thẩm quyền sử dụng, theo yêu cầu của Ban Biên tập Cổng.
 c) Tổ chức sao lưu dữ liệu, xây dựng phương án dự phòng, khôi phục hệ thống khi xảy ra sự cố; thực hiện kiểm tra, đánh giá, rà soát an toàn thông tin định kỳ hoặc đột xuất theo quy định của pháp luật và quy định nội bộ của Bộ.
 Điều 8. Trách nhiệm của Văn phòng Bộ
 1. Văn phòng Bộ là đơn vị chủ trì tham mưu quản lý nội dung Cổng TTĐT Bộ; tổ chức thực hiện các nhiệm vụ của Ban Biên tập và là đầu mối điều phối hoạt động cung cấp thông tin, truyền thông trên Cổng TTĐT Bộ.

@@ -33,7 +33,7 @@ Nơi nhận:
 - Như Điều 3;
 - Cổng thông tin điện tử của Chính phủ;
 - Cổng thông tin điện tử của Bộ GDĐT;
-- Lưu: VT, PC, GDDH.
+- Lưu: VT, PC, GDĐH.
 
 KT. BỘ TRƯỞNG 
 THỨ TRƯỞNG 
@@ -64,7 +64,7 @@ NHỮNG QUY ĐỊNH CHUNG
 
 1. Hoạt động đào tạo trình độ đại học được tổ chức theo chuẩn đầu ra, khối lượng học tập, điều kiện bảo đảm chất lượng và trách nhiệm giải trình của cơ sở đào tạo; việc bảo đảm chất lượng đào tạo không phụ thuộc hình thức đào tạo, phương thức tổ chức đào tạo, địa điểm đào tạo hoặc môi trường đào tạo.
 
-2. Cơ sở đào tạo được tự chủ tổ chức đào tạo, lựa chọn phương thức tổ chức đào tạo, công nhận kết quả học tập, hỗ trợ lộ trình học tập linh hoạt của sinh viên; đồng thời chịu trách nhiệm giải trình về chuẩn đầu ra, điều kiện bảo đảm chất lượng, tính thực của kết quả đánh giá, dữ liệu đào tạo và quyền lợi hợp pháp của sinh viên.
+2. Cơ sở đào tạo được tự chủ tổ chức đào tạo, lựa chọn phương thức tổ chức đào tạo, công nhận kết quả học tập, hỗ trợ lộ trình học tập linh hoạt của sinh viên; đồng thời chịu trách nhiệm giải trình về chuẩn đầu ra, điều kiện bảo đảm chất lượng, tính xác thực của kết quả đánh giá, dữ liệu đào tạo và quyền lợi hợp pháp của sinh viên.
 
 3. Bảo đảm quyền học tập, quyền được tiếp cận thông tin, quyền được hỗ trợ học tập và quyền được đối xử công bằng của sinh viên.
 
@@ -81,7 +81,7 @@ NHỮNG QUY ĐỊNH CHUNG
 
 1. Chương trình đào tạo được áp dụng thống nhất đối với các hình thức đào tạo, phương thức tổ chức đào tạo và đối tượng sinh viên. Đối với người đã có bằng tốt nghiệp trình độ khác hoặc ngành đào tạo khác, khối lượng học tập phải thực hiện được xác định trên cơ sở công nhận hoặc chuyển đổi tín chỉ, miễn trừ học phần theo quy định của chương trình đào tạo và quy chế của cơ sở đào tạo.
 
-2. Cơ sở đào tạo công bố kế hoạch học tập chuẩn toàn khóa của từng chương trình đào tạo đối tới từng hình thức đào tạo, bảo đảm sinh viên hoàn thành chương trình trong thời gian đào tạo chuẩn theo quy định của chuẩnên trình đào tạo. Thời gian đào tạo chuẩn của hình thức đào tạo thường xuyên phải dài hơn ít nhất một phần tư (1/4) so với thời gian đào tạo chuẩn của cùng chương trình đào tạo theo hình thức đào tạo chính quy.
+2. Cơ sở đào tạo công bố kế hoạch học tập chuẩn toàn khóa của từng chương trình đào tạo đối với từng hình thức đào tạo, bảo đảm sinh viên hoàn thành chương trình trong thời gian đào tạo chuẩn theo quy định của chuẩn chương trình đào tạo. Thời gian đào tạo chuẩn của hình thức đào tạo thường xuyên phải dài hơn ít nhất một phần tư (1/4) so với thời gian đào tạo chuẩn của cùng chương trình đào tạo theo hình thức đào tạo chính quy.
 
 3. Thời gian đào tạo tối thiểu để hoàn thành chương trình đào tạo không ít hơn hai phần ba (2/3) thời gian đào tạo chuẩn của chương trình đào tạo, và thời gian đào tạo tối đa không vượt quá 2,0 lần thời gian đào tạo chuẩn của chương trình đào tạo.
 
@@ -91,7 +91,7 @@ NHỮNG QUY ĐỊNH CHUNG
 
 1. Đào tạo theo niên chế:
 
-a) Là cách thức tổ chức đào tạo theo lớp học tương đối cố định đối với tất cả các học phần bắt buộc của chương trình đào tạo trong toàn khoá học, cho phép sinh viên cùng lớp thực hiện theo kế hoạch học tập chuẩn và theo một thời khóa biểu chung từ những học phần tự chọn hoặc học lại;
+a) Là cách thức tổ chức đào tạo theo lớp học tương đối cố định đối với tất cả các học phần bắt buộc của chương trình đào tạo trong toàn khóa học, cho phép sinh viên cùng lớp thực hiện theo kế hoạch học tập chuẩn và theo một thời khóa biểu chung trừ những học phần tự chọn hoặc học lại;
 
 b) Sinh viên được đánh giá đạt tiến độ học tập theo kế hoạch học tập chuẩn sẽ được học tiếp năm sau theo kế hoạch học tập chuẩn và đăng ký học lại những học phần chưa đạt theo quy định trong chương trình đào tạo;
 
@@ -122,7 +122,7 @@ c) Áp dụng đào tạo theo tín chỉ cho một số khóa hoặc cho một 
 
 a) Hoạt động giảng dạy có sự hiện diện đồng thời, tương tác trực tiếp giữa giảng viên và sinh viên, được tổ chức tập trung tại cơ sở đào tạo trong khung giờ ban ngày chiếm trên 50% tổng khối lượng của chương trình đào tạo; phần được thực hiện theo phương thức tổ chức đào tạo từ xa và phần thực hiện tại cơ sở phối hợp liên kết đào tạo trong nước và phần được công nhận, chuyển đổi tín chỉ cộng lại không làm cho khối lượng thực học trực tiếp tại cơ sở đào tạo thấp hơn tỷ lệ nêu trên;
 
-b) Sinh viên theo học tập trung toàn thời gian theo thời gian theo kế hoạch học tập chuẩn toàn khóa và thời khóa biểu do cơ sở đào tạo bố trí; được tuyển sinh theo kế hoạch chung cho tuyển sinh hình thức đào tạo chính quy do Bộ Giáo dục và Đào tạo ban hành;
+b) Sinh viên theo học tập trung toàn thời gian theo kế hoạch học tập chuẩn toàn khóa và thời khóa biểu do cơ sở đào tạo bố trí; được tuyển sinh theo kế hoạch chung cho tuyển sinh hình thức đào tạo chính quy do Bộ Giáo dục và Đào tạo ban hành;
 
 c) Hiệu trưởng cơ sở đào tạo quy định cụ thể khung giờ ban ngày và các điều kiện tổ chức giảng dạy trực tiếp, bảo đảm không thấp hơn yêu cầu tại điểm a khoản này.
 
@@ -135,7 +135,7 @@ b) Thời gian tổ chức hoạt động đào tạo do cơ sở đào tạo qu
 
 3. Đối với hình thức đào tạo chính quy, hình thức đào tạo thường xuyên cơ sở đào tạo có thể thực hiện một hoặc đồng thời các phương thức tổ chức đào tạo gồm: trực tiếp, từ xa; kết hợp giữa trực tiếp và từ xa. Hình thức đào tạo chính quy đồng thời phải đáp ứng quy định tại khoản 1 Điều này.
 
-4. Phương thức tổ chức đào tạo từ xa phải đáp ứng ứng các yêu cầu về việc ứng dụng công nghệ trong giáo dục đại học và các yêu cầu sau đây:
+4. Phương thức tổ chức đào tạo từ xa phải đáp ứng các yêu cầu về việc ứng dụng công nghệ trong giáo dục đại học và các yêu cầu sau đây:
 
 a) Cơ sở đào tạo có hệ thống tổ chức đào tạo từ xa bao gồm quy chế quản lý, bộ phận quản lý, đội ngũ giảng viên và nhân sự hỗ trợ, hệ thống quản lý học tập (LMS), hệ thống kiểm tra, đánh giá, hạ tầng kỹ thuật và thư viện số đáp ứng yêu cầu tổ chức đào tạo;
 
@@ -163,7 +163,7 @@ a) Bảo đảm đội ngũ giảng viên cơ hữu giảng dạy chương trìn
 b) Đã ban hành quy định về liên kết và thẩm định các yêu cầu bảo đảm chất lượng của cơ sở phối hợp đào tạo và chịu trách nhiệm về kết quả thẩm định.
 
 5. Trách nhiệm của các bên tham gia liên kết đào tạo:
-a) Cơ sở chủ trì chịu trách nhiệm về chất lượng đào tạo, cùng cơ sở phối hợp đào tạo thực hiện nội dung đã thỏa thuận phù hợp với các quy định của Quy chế này và các quy định pháp luật khác có liên quan và thông báo cho uỷ ban nhân dân cấp tỉnh nơi liên kết đào tạo ngay sau khi tuyển sinh;
+a) Cơ sở chủ trì chịu trách nhiệm về chất lượng đào tạo, cùng cơ sở phối hợp đào tạo thực hiện nội dung đã thỏa thuận phù hợp với các quy định của Quy chế này và các quy định pháp luật khác có liên quan và thông báo cho ủy ban nhân dân cấp tỉnh nơi liên kết đào tạo ngay sau khi tuyển sinh;
 b) Trường hợp cơ sở phối hợp đào tạo không đáp ứng được các yêu cầu về bảo đảm chất lượng theo quy định của học phần hoặc của chương trình đào tạo thì phải chuyển sinh viên về cơ sở chủ trì liên kết đào tạo để tiếp tục đào tạo theo quy định và bảo đảm quyền lợi cho sinh viên;
 c) Bảo đảm không để gián đoạn học tập của sinh viên và bồi hoàn chi phí phát sinh nếu dừng tổ chức đào tạo;
 d) Trường hợp tạm dừng, chấm dứt đào tạo phải công bố và thực hiện phương án bảo đảm mọi quyền lợi cho sinh viên (kế hoạch học tiếp, chuyển chương trình, tín chỉ, học phí, tốt nghiệp...).
@@ -188,8 +188,8 @@ KẾ HOẠCH VÀ TỔ CHỨC ĐÀO TẠO
 
 Điều 8. Kế hoạch giảng dạy và học tập
 1. Một năm học có 02 hoặc 03 học kỳ chính với tổng số tuần tối thiểu học trên lớp là 30 tuần học tập, giảng dạy và hoạt động đào tạo theo kế hoạch. Ngoài các học kỳ chính, cơ sở đào tạo có thể tổ chức thêm học kỳ phụ.
-2. Kế hoạch học kỳ bao gồm kế hoạch mở lớp, hình thức dạy và học (trực tiếp hoặc từ xa), lịch học, lịch thi của các học phần được tổ chức trong học kỳ cho các khoá học, chương trình đào tạo và hình thức đào tạo. Kế hoạch học kỳ phải được xây dựng và công bố tối thiểu trước 04 tuần bắt đầu ngày học chính thức.
-3. Thời khóa biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc các khoá học, hình thức và chương trình đào tạo. Thời khóa biểu của các lớp học được bố trí đều trong các buổi trong tuần của học kỳ.
+2. Kế hoạch học kỳ bao gồm kế hoạch mở lớp, hình thức dạy và học (trực tiếp hoặc từ xa), lịch học, lịch thi của các học phần được tổ chức trong học kỳ cho các khóa học, chương trình đào tạo và hình thức đào tạo. Kế hoạch học kỳ phải được xây dựng và công bố tối thiểu trước 04 tuần bắt đầu ngày học chính thức.
+3. Thời khóa biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc các khóa học, hình thức và chương trình đào tạo. Thời khóa biểu của các lớp học được bố trí đều trong các buổi trong tuần của học kỳ.
 4. Quy chế đào tạo của cơ sở đào tạo quy định việc phân bổ các học kỳ, thời gian, địa điểm, hình thức đào tạo, bố trí các giờ lên lớp theo quy định của Quy chế này.
 
 Điều 9. Tổ chức đăng ký học tập
@@ -220,10 +220,10 @@ a) Cơ sở đào tạo tổ chức các lớp học theo phương thức trực
 lượng và minh chứng về chất lượng tổ chức lớp học theo phương thức tổ chức đào tạo từ xa tương đương lớp học phương thức trực tiếp;
 b) Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng khác, cơ sở đào tạo thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo.
 3. Quy chế của cơ sở đào tạo quy định:
-a) Việc phân công giảng viên cho các lớp học, giảng viên giảng dạy, giảng viên hướng dẫn sinh viên làm thí nghiệm, thực hành, thực tập, đồ án, khoá luận và thực hiện các hoạt động học tập khác;
+a) Việc phân công giảng viên cho các lớp học, giảng viên giảng dạy, giảng viên hướng dẫn sinh viên làm thí nghiệm, thực hành, thực tập, đồ án, khóa luận và thực hiện các hoạt động học tập khác;
 b) Việc lấy ý kiến phản hồi của sinh viên về các điều kiện bảo đảm chất lượng, hiệu quả học tập đối với tất cả các lớp học của cơ sở đào tạo và việc công khai ý kiến phản hồi của sinh viên, bao gồm nội dung, mức độ, hình thức công khai;
 c) Trách nhiệm và quyền hạn của giảng viên được phân công giảng dạy hoặc hướng dẫn sinh viên; trách nhiệm của các đơn vị chuyên môn và các đơn vị quản lý, hỗ trợ liên quan;
-d) Trách nhiệm và quyền hạn của sinh viên khi tham dự các lớp học, tham gia thí nghiệm, thực hành, thực tập hoặc khi được giao đồ án, khoá luận và các hoạt động học tập khác;
+d) Trách nhiệm và quyền hạn của sinh viên khi tham dự các lớp học, tham gia thí nghiệm, thực hành, thực tập hoặc khi được giao đồ án, khóa luận và các hoạt động học tập khác;
 đ) Việc thực hiện lớp học theo phương thức tổ chức đào tạo từ xa bảo đảm nguyên tắc chất lượng như lớp học trực tiếp;
 e) Không áp dụng phương thức tổ chức đào tạo từ xa đối với các học phần thực hành chuyên ngành, thực hành lâm sàng, thực tập nghề nghiệp và đánh giá năng lực nghề nghiệp thuộc lĩnh vực sức khỏe; phần thực hành nghề nghiệp cốt lõi của các ngành nghệ thuật biểu diễn, điện ảnh và sáng tác nghệ thuật, các học phần đòi hỏi tương tác trực tiếp giữa giảng viên và sinh viên của các ngành thuộc lĩnh vực nghệ thuật, biểu diễn do cơ sở đào tạo quy định.
 
@@ -256,7 +256,6 @@ D: từ 4,0 đến 5,49.
 b) Loại đạt không phân mức, áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập:
 
 ----- [Trang 11] -----
-Trang 1:
 10
 P: từ 5,00 trở lên.
 c) Loại không đạt áp dụng cho các học phần được tính vào điểm trung bình học tập:
@@ -276,15 +275,14 @@ d) Quy định về thành viên hội đồng đánh giá kết quả học t�
 đ) Việc có yêu cầu ngưỡng điểm đạt phải cao hơn quy định tại điểm a khoản 4 Điều này; việc áp dụng nhiều mức điểm chữ xếp loại hơn quy định tại khoản 4 Điều này;
 e) Việc cho phép thi lại, đánh giá lại để cải thiện điểm học phần;
 g) Việc cho phép học lại để cải thiện điểm và quy tắc tính điểm chính thức của học phần trong trường hợp điểm học lần sau thấp hơn;
-h) Bảo đảm công bằng đối với tất cả sinh viên trong lớp, giữa các lớp, các khoá học, các hình thức đào tạo.
+h) Bảo đảm công bằng đối với tất cả sinh viên trong lớp, giữa các lớp, các khóa học, các hình thức đào tạo.
 
-Trang 2:
 
 ----- [Trang 12] -----
 11
 Điều 13. Đánh giá kết quả học tập theo học kỳ, năm học
 1. Kết quả học tập của sinh viên được đánh giá sau từng học kỳ hoặc sau từng năm học dựa trên kết quả các học phần thuộc chương trình đào tạo theo các tiêu chí sau đây:
-a) Tổng số tín chỉ những học phần mà sinh viên không đạt trong một học kỳ, trong một năm học, hoặc từ đầu khoá học;
+a) Tổng số tín chỉ những học phần mà sinh viên không đạt trong một học kỳ, trong một năm học, hoặc từ đầu khóa học;
 b) Tổng số tín chỉ của những học phần mà sinh viên đã đạt từ đầu khóa học (số tín chỉ tích lũy), tính cả các học phần được miễn học, được công nhận tín chỉ;
 c) Điểm trung bình của những học phần mà sinh viên đã học trong một học kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học) hoặc tính từ đầu khóa học (điểm trung bình chung tích lũy), tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó.
 2. Để tính điểm trung bình, điểm chữ của học phần được quy đổi về điểm số như dưới đây, trừ trường hợp quy định tại khoản 4 Điều này.
@@ -302,7 +300,6 @@ Từ 3,60 đến 4,0: Xuất sắc;
 Từ 3,20 đến 3,59: Giỏi;
 Từ 2,50 đến 3,19: Khá;
 
-Trang 3:
 
 ----- [Trang 13] -----
 12
@@ -332,12 +329,11 @@ c) Điểm trung bình tích lũy đạt dưới 1,20 đối với sinh viên tr
 a) Số lần cảnh báo học tập hoặc mức cảnh báo học tập vượt quá giới hạn theo quy định của cơ sở đào tạo;
 b) Thời gian học tập vượt quá thời gian đào tạo tối đa theo quy định tại khoản 3 Điều 3 của Quy chế này.
 
-Trang 4:
 
 ----- [Trang 14] -----
 13
 3. Quy chế của cơ sở đào tạo quy định cụ thể:
-a) Số lần cảnh báo, thời gian cảnh báo học sinh viên; bảo đảm thông tin cảnh báo tới sinh viên kịp thời;
+a) Số lần cảnh báo, thời gian cảnh báo cho sinh viên; bảo đảm thông tin cảnh báo tới sinh viên kịp thời;
 b) Việc lựa chọn áp dụng một số điều kiện cảnh báo học tập, giới hạn số lần hoặc mức cảnh báo học tập nhưng không vượt quá 3 lần cảnh báo liên tiếp;
 c) Quy trình, hình thức, đối tượng, cảnh báo học tập, buộc thôi học; việc công nhận kết quả học tập và cấp bảng điểm kết quả học tập đã tích lũy trong trường hợp sinh viên bị buộc thôi học và các quy định khác bảo đảm quyền lợi sinh viên;
 d) Việc thực hiện cảnh báo sớm, tư vấn học tập, thông báo cho sinh viên và tạo điều kiện để sinh viên đăng ký học lại, học cải thiện hoặc điều chỉnh kế hoạch học tập theo quy chế của cơ sở đào tạo.
@@ -349,12 +345,11 @@ b) Số tín chỉ nợ đọng từ đầu khóa không vượt quá 20% khối
 a) Điểm trung bình chung tích lũy các năm học không đạt quy định tại khoản 1 Điều này;
 b) Điểm trung bình chung tích lũy đạt dưới 3,80 sau 2 năm học, dưới 4,00 sau 3 năm học và dưới 4,20 từ 4 năm học trở đi;
 c) Thời gian học tập vượt quá thời gian đào tạo tối đa theo quy định tại khoản 3 Điều 3 của Quy chế này.
-3. Sinh viên không thuộc diện quy định tại khoản 1 và khoản 2 Điều này được xếp lớp học cùng khoá sau để cải thiện kết quả học tập hoặc chuyển sang hình thức đào tạo.
+3. Sinh viên không thuộc diện quy định tại khoản 1 và khoản 2 Điều này được xếp lớp học cùng khóa sau để cải thiện kết quả học tập hoặc chuyển sang hình thức đào tạo khác.
 4. Quy chế của cơ sở đào tạo quy định cụ thể:
 a) Việc lựa chọn áp dụng một số điều kiện cảnh báo học tập tương tự quy định đối với đào tạo theo tín chỉ tại khoản 1 Điều 14 của Quy chế này;
 b) Quy trình, hình thức, đối tượng, cảnh báo học tập, buộc thôi học; việc thông báo hình thức áp dụng tới sinh viên; trách nhiệm thực hiện cảnh báo sớm, tư vấn học tập, thông báo cho sinh viên và tạo điều kiện để sinh viên đăng ký học lại, học cải thiện hoặc điều chỉnh kế hoạch học tập theo quy chế của cơ sở đào tạo;
 
-Trang 5:
 
 ----- [Trang 15] -----
 14
@@ -367,7 +362,7 @@ d) Việc chuyển đổi hình thức đào tạo chính quy sang đào tạo t
 4. Sinh viên được cơ sở đào tạo xem xét công nhận để chuyển đổi tín chỉ của các học phần trên cơ sở kết quả học tập theo phương thức tổ chức đào tạo từ xa hoặc các kỹ năng, kiến thức và kinh nghiệm mà sinh viên đã tích lũy được thông qua quá trình học tập làm việc khi bảo đảm:
 a) Phù hợp với mục tiêu, chuẩn đầu ra, nội dung và yêu cầu của chương trình đào tạo;
 b) Việc công nhận và chuyển đổi tín chỉ chỉ được thực hiện trên cơ sở đánh giá học thuật, bảo đảm công bằng, minh bạch và chất lượng chương trình đào tạo, thời hạn sử dụng công nhận kết quả học tập, chứng chỉ;
-c) Phù hợp với các quy định của cơ sở đào tạo về điều kiện, tiêu chí đánh giá; quy trình xét công nhận; thời hạn hiệu lực của kết quả học tập; giới hạn số tín chỉ được công nhận; các trường hợp phải đánh giá bổ sung; thẩm quyền quyết định và cơ sở giải quyết khiếu nại;
+c) Phù hợp với các quy định của cơ sở đào tạo về điều kiện, tiêu chí đánh giá; quy trình xét công nhận; thời hạn hiệu lực của kết quả học tập; giới hạn số tín chỉ được công nhận; các trường hợp phải đánh giá bổ sung; thẩm quyền quyết định và cơ chế giải quyết khiếu nại;
 d) Việc công nhận kết quả học tập và chuyển đổi tín chỉ chỉ dựa trên đối sánh chuẩn đầu ra, khối lượng học tập, nội dung học tập, mức độ tương đương về đánh giá, điều kiện bảo đảm chất lượng và tính xác thực của kết quả học tập; kết quả công nhận không làm giảm yêu cầu chất lượng hoặc thay đổi chuẩn đầu ra của chương trình đào tạo;
 đ) Các chứng chỉ ngoại ngữ sử dụng làm minh chứng đạt yêu cầu đầu ra và chuẩn đầu ra ngoại ngữ.
 
@@ -389,7 +384,7 @@ c) Hoàn thành các yêu cầu cần đạt của chương trình đào tạo v
 
 2. Sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng cơ sở đào tạo công nhận tốt nghiệp và cấp bằng tốt nghiệp theo Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân hiện hành tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với cơ sở đào tạo.
 
-3. Hạng tốt nghiệp được xác định căn cứ vào điểm trung bình tích lũy toàn khoá quy định tại khoản 5 Điều 13 của Quy chế này, trong đó, hạng tốt nghiệp của sinh viên có điểm trung bình tích lũy xuất sắc và giỏi sẽ bị giảm đi một mức nếu thuộc một trong các trường hợp sau:
+3. Hạng tốt nghiệp được xác định căn cứ vào điểm trung bình tích lũy toàn khóa quy định tại khoản 5 Điều 13 của Quy chế này, trong đó, hạng tốt nghiệp của sinh viên có điểm trung bình tích lũy xuất sắc và giỏi sẽ bị giảm đi một mức nếu thuộc một trong các trường hợp sau:
 
 a) Khối lượng của các học phần phải học lại quá 10% khối lượng học tập chuẩn của chương trình đào tạo;
 
@@ -492,7 +487,7 @@ b) Đã tích lũy tối thiểu 25% khối lượng học tập chuẩn của c
 
 3. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là thời gian tối đa quy định cho chương trình thứ nhất, quy định tại khoản 3 Điều 3 của Quy chế này. Khi học chương trình thứ hai, sinh viên được công nhận kết quả của những học phần có nội dung và khối lượng kiến thức tương đương có trong chương trình thứ nhất.
 
-4. Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai khi đủ điều kiện tốt nghiệp ở chương trình thứ nhất và đã đăng kí muộn nhất 02 năm trước thời điểm xét tốt nghiệp chương trình thứ hai.
+4. Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai khi đủ điều kiện tốt nghiệp ở chương trình thứ nhất và đã đăng ký muộn nhất 02 năm trước thời điểm xét tốt nghiệp chương trình thứ hai.
 
 5. Cơ sở đào tạo chỉ tổ chức đào tạo chương trình thứ hai cho sinh viên khi đáp ứng các yêu cầu bảo đảm chất lượng về số lượng tuyển sinh, năng lực đào tạo; đồng thời có quy định chi tiết về quy trình, điều kiện đăng ký học và cấp bằng tốt nghiệp chương trình thứ hai.
 
@@ -504,7 +499,7 @@ b) Đã tích lũy tối thiểu 25% khối lượng học tập chuẩn của c
 
 3. Sinh viên thuộc chương trình đào tạo trình độ đại học chính quy được phép đăng ký học chương trình đào tạo trình độ thạc sĩ cùng nhóm ngành đào tạo khi đạt ít nhất 3/4 khối lượng học tập chuẩn của chương trình đào tạo trình độ đại học ban đầu và có điểm trung bình tích lũy đạt khá trở lên.
 
-4. Sinh viên được cấp bằng cùng lúc trình độ đại học và trình độ thạc sĩ khi đáp ứng ứng chuẩn đầu ra và yêu cầu cần đạt của từng giai đoạn và toàn bộ quá trình đào tạo.
+4. Sinh viên được cấp bằng cùng lúc trình độ đại học và trình độ thạc sĩ khi đáp ứng chuẩn đầu ra và yêu cầu cần đạt của từng giai đoạn và toàn bộ quá trình đào tạo.
 
 5. Quy chế của cơ sở đào tạo quy định chi tiết quy trình sinh viên đăng ký học vượt chương trình đào tạo trình độ thạc sĩ; yêu cầu tiên quyết để được học vượt các học phần đối với các chương trình đào tạo chuyên sâu.
 
@@ -591,9 +586,9 @@ e) Các minh chứng về việc đáp ứng các yêu cầu tối thiểu đố
 
 Điều 27. Điều khoản chuyển tiếp
 
-1. Quy chế này áp dụng đối với khoá tuyển sinh năm 2026 và bắt đầu tổ chức đào tạo từ năm học 2026 - 2027 trở đi.
+1. Quy chế này áp dụng đối với khóa tuyển sinh năm 2026 và bắt đầu tổ chức đào tạo từ năm học 2026 - 2027 trở đi.
 
-2. Đối với các khoá tuyển sinh đã có thông báo tuyển sinh trước ngày Thông tư này có hiệu lực và chưa nhập học hoặc chưa tổ chức đào tạo, các khóa đang đào tạo theo các hình thức chính quy, vừa làm vừa học, từ xa; chương trình đào tạo từ xa đã công bố, tuyển sinh hoặc đang triển khai; hoạt động liên kết đào tạo đã ký kết, đã tuyển sinh; kết quả học tập, tín chỉ, học phần, chứng chỉ đã được công nhận, chuyển đổi miễn trừ theo thực hiện các Quy chế đào tạo trình độ đại học có hiệu lực tại thời điểm thông báo tuyển sinh.
+2. Đối với các khóa tuyển sinh đã có thông báo tuyển sinh trước ngày Thông tư này có hiệu lực và chưa nhập học hoặc chưa tổ chức đào tạo, các khóa đang đào tạo theo các hình thức chính quy, vừa làm vừa học, từ xa; chương trình đào tạo từ xa đã công bố, tuyển sinh hoặc đang triển khai; hoạt động liên kết đào tạo đã ký kết, đã tuyển sinh; kết quả học tập, tín chỉ, học phần, chứng chỉ đã được công nhận, chuyển đổi miễn trừ theo thực hiện các Quy chế đào tạo trình độ đại học có hiệu lực tại thời điểm thông báo tuyển sinh.
 
 3. Các chứng chỉ ngoại ngữ, minh chứng năng lực ngoại ngữ sử dụng cho các chương trình đào tạo trình độ đại học quy định tại Phụ lục ban hành kèm theo Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021 Ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ, và Phụ lục ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ của Bộ trưởng Bộ Giáo dục và Đào tạo được tiếp tục sử dụng đến hết ngày 31 tháng 12 năm 2027.
 
@@ -608,7 +603,7 @@ Trường hợp chưa có chuẩn chương trình đào tạo theo ngành, nhóm
 ----- [Trang 25] -----
 ĐẠI HỌC ĐÀ NẴNG 
 TRƯỜNG ĐẠI HỌC BÁCH KHOA 
-CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
 Độc lập - Tự do - Hạnh phúc 
 
 Đà Nẵng, ngày 31 tháng 07 năm 2026 

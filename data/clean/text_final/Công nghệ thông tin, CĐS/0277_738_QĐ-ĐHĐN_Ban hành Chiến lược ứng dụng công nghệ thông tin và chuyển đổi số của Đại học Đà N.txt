@@ -65,7 +65,7 @@ STT | Từ ngữ viết tắt được sử dụng | Diễn giải
 11 | Data Warehouse - DWH | Kho Dữ liệu
 12 | ĐHĐN | Đại học Đà Nẵng
 13 | ĐHTV | Đại học thành viên
-14 | GDĐT hoặc GD&DT | Giáo dục và Đào tạo
+14 | GDĐT hoặc GD&ĐT | Giáo dục và Đào tạo
 15 | IoT | Internet kết nối vạn vật
 16 | KHCN | Khoa học và Công nghệ
 17 | LAN | Mạng nội bộ
@@ -159,7 +159,7 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN ..
 PHẦN 1: MỞ ĐẦU
 
 Đại học Đà Nẵng (ĐHĐN) là một trong ba đại học vùng trọng điểm quốc gia bao
-gồm 06 trường đại học thành viên (ĐVTV), 09 trung tâm và 05 đơn vị đào tạo trực thuộc
+gồm 06 trường đại học thành viên (ĐHTV), 09 trung tâm và 05 đơn vị đào tạo trực thuộc
 (sau đây gọi tắt các đơn vị), tổ chức theo hai cấp, đào tạo đa ngành, đa lĩnh vực ở tất cả
 các trình độ của giáo dục đại học, triển khai nghiên cứu khoa học, chuyển giao công
 nghệ đáp ứng nhu cầu phát triển kinh tế - xã hội của vùng, miền và cả nước. Công tác
@@ -279,7 +279,7 @@ từng đơn vị nên việc chia sẻ dữ liệu còn hạn chế.
 
 ----- [Trang 11] -----
 4. Nguồn nhân lực
-ĐHĐN có nguồn nhân lực triển khai ứng dụng, phát triển về lĩnh vực CNTT dồi dào, được đào tạo bài bản, có trình độ chuyên môn cao, song nguồn lực hầu hết là giảng viên và đang công tác tại các trường DHTV, đang đảm nhận việc giảng dạy và nghiên cứu. Vì thế, nhân lực CNTT bố trí cho bộ phận chuyên trách các hệ thống CNTT tại các đơn vị còn mỏng và đang bị phân tán.
+ĐHĐN có nguồn nhân lực triển khai ứng dụng, phát triển về lĩnh vực CNTT dồi dào, được đào tạo bài bản, có trình độ chuyên môn cao, song nguồn lực hầu hết là giảng viên và đang công tác tại các trường ĐHTV, đang đảm nhận việc giảng dạy và nghiên cứu. Vì thế, nhân lực CNTT bố trí cho bộ phận chuyên trách các hệ thống CNTT tại các đơn vị còn mỏng và đang bị phân tán.
 
 5. Đánh giá hiện trạng
 5.1. Điểm mạnh
@@ -410,7 +410,7 @@ bộ mới của công nghệ số vào quản trị đại học và cung cấp
 - Hội nhập toàn diện, chia sẻ dữ liệu đại học số với các trường đại học khác trong khu vực.
 
 4. Nhiệm vụ Chiến lược ứng dụng CNTT
-Chiến lược ứng dụng CNTT tập trung vào xây dựng hạ tầng số của ĐHĐN (bao gồm: (i) hạ tầng kỹ thuật; (ii) hạ tầng dữ liệu; (iii) hạ tầng ứng dụng; (iv) hạ tầng toàn an ninh thông tin; (v) hạ tầng pháp lý; (vi) nguồn nhân lực) và ứng dụng các công nghệ số (theo Cấu trúc hệ thống CNTT tại Phụ lục 1), đặc biệt các phương pháp phân tích dữ liệu lớn để phục vụ quản trị mọi hoạt động trong toàn ĐHĐN. (chi tiết danh mục nhiệm vụ triển khai đến năm 2035 tại Phụ lục 2 và Phụ lục 3 kèm theo).
+Chiến lược ứng dụng CNTT tập trung vào xây dựng hạ tầng số của ĐHĐN (bao gồm: (i) hạ tầng kỹ thuật; (ii) hạ tầng dữ liệu; (iii) hạ tầng ứng dụng; (iv) hạ tầng an toàn, an ninh thông tin; (v) hạ tầng pháp lý; (vi) nguồn nhân lực) và ứng dụng các công nghệ số (theo Cấu trúc hệ thống CNTT tại Phụ lục 1), đặc biệt các phương pháp phân tích dữ liệu lớn để phục vụ quản trị mọi hoạt động trong toàn ĐHĐN. (chi tiết danh mục nhiệm vụ triển khai đến năm 2035 tại Phụ lục 2 và Phụ lục 3 kèm theo).
 
 4.1. Xây dựng hạ tầng kỹ thuật
 Những đặc tính của tổ chức dữ liệu lớn và công nghệ số đặt ra những yêu cầu mà hạ tầng kỹ thuật phải hiện đại hóa, đáp ứng trên mô hình điện toán đám mây (Cloud Computing) để chuẩn bị nền tảng kỹ thuật cho các loại hạ tầng khác cũng như phục vụ cho Big Data và AI. Vì vậy, việc xây dựng hạ tầng kỹ thuật để chuyển đổi sang cấu trúc của điện toán đám mây lai - Hybrid Cloud Computing như sau:
@@ -429,7 +429,7 @@ Những đặc tính của tổ chức dữ liệu lớn và công nghệ số �
 Nội dung xây dựng hạ tầng dữ liệu hướng tới các CSDL được liên kết, chia sẻ, hình thành các nguồn dữ liệu lớn để phục vụ cho mọi hoạt động của ĐHĐN, cụ thể:
 - Xây dựng CSDL quản lý ĐHĐN tập trung, đồng bộ, thống nhất, chia sẻ, liên thông cho các đơn vị để tạo lập hệ thống dữ liệu lớn và kho tri thức ĐHĐN phục vụ các hoạt động quản trị, đào tạo, nghiên cứu khoa học, giúp phân tích, hỗ trợ ra quyết định của lãnh đạo ĐHĐN và lãnh đạo các đơn vị. Cụ thể:
 + Quản trị các lĩnh vực: đào tạo; nguồn nhân lực; tài chính; người học; cơ sở vật chất; nghiên cứu khoa học; đảm bảo chất lượng giáo dục và xếp hạng đại học.
-+ Xây dựng các CSDL tri thức, gồm: danh mục dữ liệu dùng chung; bộ tiêu chuẩn, chi tiêu đánh giá chất lượng đào tạo, lĩnh vực đào tạo; bài giảng, phương pháp nghiên cứu khoa học; các hướng dẫn. Đây là nền tảng để phát triển các công cụ hỗ trợ phân tích dữ liệu và thực hiện việc tự động hóa một số nhiệm vụ ĐHĐN.
++ Xây dựng các CSDL tri thức, gồm: danh mục dữ liệu dùng chung; bộ tiêu chuẩn, chỉ tiêu đánh giá chất lượng đào tạo, lĩnh vực đào tạo; bài giảng, phương pháp nghiên cứu khoa học; các hướng dẫn. Đây là nền tảng để phát triển các công cụ hỗ trợ phân tích dữ liệu và thực hiện việc tự động hóa một số nhiệm vụ ĐHĐN.
 + Xây dựng và triển khai tích hợp các CSDL nội bộ: văn bản, nhân sự, đào
 
 ----- [Trang 20] -----
@@ -469,14 +469,14 @@ quản trị đại học số: Phát triển, ứng dụng các phương pháp 
 
 4.4. Hạ tầng đảm bảo an toàn, an ninh, bảo mật thông tin
 
-Định hướng Chuyển đổi số quốc gia đã chỉ ra "Dữ liệu số là trung tâm và là tài sản quan trọng... Dữ liệu là tài nguyên mới" và phải được phân ra nhiều mức theo yêu cầu khai thác của các nhóm đối tượng khác nhau, kéo theo các mức độ an toàn, an ninh, bảo mật dữ liệu khác nhau. Vì vậy, chiến lược và các giải pháp đảm bảo ATTT cho hệ thống CNTT của ĐHĐN cũng cần xây dựng theo hướng trọng tâm là bảo vệ dữ liệu, nhưng phải đảm bảo thuận tiện cho công tác chuyên môn và đào tạo, nghiên cứu trong môi trường số. Đồng thời, chiến lược ATTT của ĐHĐN phải đảm bảo tuân thủ quy định của Luật An toàn thông tin Số 86/2015/QH13 ngày 11/9/2015, Luật An ninh mạng số 24/2018/QH14 ngày 12/6/2018, Luật Bảo vệ bí mật nhà nước số 29/2018/QH14 ngày
+Định hướng Chuyển đổi số quốc gia đã chỉ ra "Dữ liệu số là trung tâm và là tài sản quan trọng... Dữ liệu là tài nguyên mới" và phải được phân ra nhiều mức theo yêu cầu khai thác của các nhóm đối tượng khác nhau, kéo theo các mức độ an toàn, an ninh, bảo mật dữ liệu khác nhau. Vì vậy, chiến lược và các giải pháp đảm bảo ATTT cho hệ thống CNTT của ĐHĐN cũng cần xây dựng theo hướng trọng tâm là bảo vệ dữ liệu, nhưng phải đảm bảo thuận tiện cho công tác chuyên môn và đào tạo, nghiên cứu trong môi trường số. Đồng thời, chiến lược ATTT của ĐHĐN phải đảm bảo tuân thủ quy định của Luật An toàn thông tin số 86/2015/QH13 ngày 11/9/2015, Luật An ninh mạng số 24/2018/QH14 ngày 12/6/2018, Luật Bảo vệ bí mật nhà nước số 29/2018/QH14 ngày
 
 ----- [Trang 22] -----
 15
 
-15/11/2018, Nghị định số 85/2016/NĐ-CP ngày 01/7/2016, Nghị định số 53/NĐ-CP ngày 15/8/2022 của Chính phủ và các văn bản hướng dẫn đi kèm; đáp ứng nhu cầu thực tế, phù hợp Chiến lược ứng dụng CNTT của ĐHĐN và phù hợp với cấp độ an toàn hệ thống thông tin tương ứng là cấp độ 3 và hướng đến tiến cận cấp độ 4.
+15/11/2018, Nghị định số 85/2016/NĐ-CP ngày 01/7/2016, Nghị định số 53/NĐ-CP ngày 15/8/2022 của Chính phủ và các văn bản hướng dẫn đi kèm; đáp ứng nhu cầu thực tế, phù hợp Chiến lược ứng dụng CNTT của ĐHĐN và phù hợp với cấp độ an toàn hệ thống thông tin tương ứng là cấp độ 3 và hướng đến tiếp cận cấp độ 4.
 
-Về đảm bảo ATTT trong hệ thống hạ tầng số, ngoài những yêu cầu chiến lược trên còn có những yếu tố khác phát xuất từ đặc tính tổ chức dữ liệu lớn, tính mở và chia sẻ bên cạnh sự gắn kết hài hoà giữa những ứng dụng truyền thống với ứng dụng được phát triển trên nền tảng công nghệ số. Từ đó, chiến lược an toàn, an ninh thông tin tập trung vào các nội dung sau:
+Về đảm bảo ATTT trong hệ thống hạ tầng số, ngoài những yêu cầu chiến lược trên còn có những yếu tố khác phát xuất từ đặc tính tổ chức dữ liệu lớn, tính mở và chia sẻ bên cạnh sự gắn kết hài hòa giữa những ứng dụng truyền thống với ứng dụng được phát triển trên nền tảng công nghệ số. Từ đó, chiến lược an toàn, an ninh thông tin tập trung vào các nội dung sau:
 
 - Xây dựng hệ thống chủ động phòng vệ, tự động dò quét các ứng dụng để tìm mã độc hại. Kiểm soát, phát hiện và ngăn chặn các hành động thâm nhập, tấn công từ bên ngoài và bên trong, đặc biệt là máy chủ của ĐHĐN.
 
@@ -492,7 +492,7 @@ Với các yêu cầu nêu trên, chiến lược đảm bảo ATTT sẽ hướn
 
 4.5. Xây dựng cơ chế, chính sách
 
-- Ban hành và kiến nghị ban hành các văn bản quản lý liên quan đến thu thập, tạo lập, quản trị dữ liệu, quản lý dữ liệu, thông tin cá nhân, xác thực điện tử...; quy định về kết nối, liên thông và chia sẻ dữ liệu trong nội bộ ĐHĐN và với các đơn vị thuộc và trực thuộc; Bộ chỉ số, tiêu chuẩn kết nối chia sẻ thông tin, cơ chế và trách nhiệm cung cấp thông tin trong nội bộ các đơn vị, cơ chế, tránh nhiệm cung cấp thông tin từ các đơn vị cho ĐHĐN; Bộ chỉ số đánh giá hiệu quả hoạt động (KPI) trong giám sát hoạt động quản trị CNTT...
+- Ban hành và kiến nghị ban hành các văn bản quản lý liên quan đến thu thập, tạo lập, quản trị dữ liệu, quản lý dữ liệu, thông tin cá nhân, xác thực điện tử...; quy định về kết nối, liên thông và chia sẻ dữ liệu trong nội bộ ĐHĐN và với các đơn vị thuộc và trực thuộc; Bộ chỉ số, tiêu chuẩn kết nối chia sẻ thông tin, cơ chế và trách nhiệm cung cấp thông tin trong nội bộ các đơn vị, cơ chế, trách nhiệm cung cấp thông tin từ các đơn vị cho ĐHĐN; Bộ chỉ số đánh giá hiệu quả hoạt động (KPI) trong giám sát hoạt động quản trị CNTT...
 
 - Chính sách bắt buộc ứng dụng CNTT trong ĐHĐN; cơ chế hỗ trợ (cả kinh phí và cơ sở vật chất) cho các đơn vị thu thập, số hóa cập nhật dữ liệu; chính sách thu hút, khuyến khích nguồn nhân lực chất lượng cao về CNTT; quy định về thuê dịch vụ và nhân lực CNTT trong ĐHĐN (dịch vụ tư vấn, hạ tầng, lưu trữ, quản lý, khai thác dữ liệu, đào tạo...).
 
@@ -595,7 +595,7 @@ Xây dựng và triển khai thành công Chiến lược ứng dụng CNTT góp
 
 2. Rủi ro
 
-Khi Chiến lược ứng dụng CNTT được thực hiện, chúng ta đều mong muốn là sẽ thành công và đem lại hiệu quả thiết thực, tuy nhiên không thể không tính đến phương án rủi ro là Chiến lược ứng dụng CNTT thực hiện không thành công hoặc kém hiệu quả. Bài học kinh nghiệm về vấn đề này đã diễn ra trong các cơ quan Nhà nước trong những năm qua. Do vậy việc triển khai cần được nghiên cứu kỹ; đặc biệt là xây dựng và hình thành các tiêu chuẩn, chi tiêu đánh giá đối với các lĩnh vực quản trị, đào tạo và nghiên cứu khoa học, các giải pháp kỹ thuật, công nghệ cho các dự án thành phần; cơ chế quản lý, vận hành về mặt pháp lý và sử dụng nguồn tài chính của dự án (kể cả ngân sách và nguồn tài trợ, nguồn vốn xã hội hóa từ doanh nghiệp). Ngoài ra, để tránh rủi ro thì cần phải phối hợp các Bộ, ngành, địa phương để các dự án thành phần triển khai trong Chiến lược ứng dụng CNTT đem lại hiệu quả.
+Khi Chiến lược ứng dụng CNTT được thực hiện, chúng ta đều mong muốn là sẽ thành công và đem lại hiệu quả thiết thực, tuy nhiên không thể không tính đến phương án rủi ro là Chiến lược ứng dụng CNTT thực hiện không thành công hoặc kém hiệu quả. Bài học kinh nghiệm về vấn đề này đã diễn ra trong các cơ quan Nhà nước trong những năm qua. Do vậy việc triển khai cần được nghiên cứu kỹ; đặc biệt là xây dựng và hình thành các tiêu chuẩn, chỉ tiêu đánh giá đối với các lĩnh vực quản trị, đào tạo và nghiên cứu khoa học, các giải pháp kỹ thuật, công nghệ cho các dự án thành phần; cơ chế quản lý, vận hành về mặt pháp lý và sử dụng nguồn tài chính của dự án (kể cả ngân sách và nguồn tài trợ, nguồn vốn xã hội hóa từ doanh nghiệp). Ngoài ra, để tránh rủi ro thì cần phải phối hợp các Bộ, ngành, địa phương để các dự án thành phần triển khai trong Chiến lược ứng dụng CNTT đem lại hiệu quả.
 
 Mặt khác, khi triển khai thực hiện Chiến lược ứng dụng CNTT cũng phải phòng ngừa tình trạng có hạ tầng hiện đại, có CSDL, có thông tin, song chất lượng CSDL thiếu độ tin cậy, không sử dụng được hoặc khai thác sử dụng kém hiệu quả do không có cơ chế vận hành, không đảm bảo nguồn lực. Do vậy, cần đào tạo, đảm bảo nguồn nhân lực
 
@@ -612,7 +612,7 @@ PHẦN 6: TRÁCH NHIỆM CÁC CƠ QUAN, ĐƠN VỊ
 Chiến lược ứng dụng CNTT được phê duyệt làm cơ sở cho việc lập, trình duyệt và triển khai các dự án/nhiệm vụ trong từng giai đoạn. Để thực hiện thành công Chiến lược ứng dụng CNTT đã ban hành, trách nhiệm các cơ quan, đơn vị trong ĐHĐN đối với việc triển khai Chiến lược như sau:
 
 1. Lãnh đạo ĐHĐN
-Lãnh đạo, chỉ đạo các đơn vị có liên quan tích cực tham gia triển khai thực hiện, đảm bảo hoàn thành các mục tiêu, chi tiêu đặt ra trong Chiến lược ứng dụng CNTT. Định kỳ hoặc đột xuất tổ chức họp đánh giá tiến độ thực hiện để kịp thời nắm bắt tình hình triển khai, giải quyết những khó khăn, vướng mắc và đề xuất phương hướng, nhiệm vụ trong quá trình thực hiện Chiến lược ứng dụng CNTT.
+Lãnh đạo, chỉ đạo các đơn vị có liên quan tích cực tham gia triển khai thực hiện, đảm bảo hoàn thành các mục tiêu, chỉ tiêu đặt ra trong Chiến lược ứng dụng CNTT. Định kỳ hoặc đột xuất tổ chức họp đánh giá tiến độ thực hiện để kịp thời nắm bắt tình hình triển khai, giải quyết những khó khăn, vướng mắc và đề xuất phương hướng, nhiệm vụ trong quá trình thực hiện Chiến lược ứng dụng CNTT.
 
 2. Ban Chỉ đạo Chuyển đổi số của ĐHĐN
 Xây dựng quy chế làm việc, chỉ đạo triển khai, đôn đốc, kiểm tra tình hình triển khai thực hiện các nhiệm vụ/dự án thuộc Chiến lược ứng dụng CNTT; tư vấn, kiểm tra, đánh giá nhằm tham mưu kịp thời với lãnh đạo ĐHĐN trong quá trình triển khai thực hiện.
@@ -622,7 +622,7 @@ Với vai trò là đơn vị chuyên trách CNTT và thường trực Ban Chỉ
 - Chủ trì xây dựng kế hoạch, đề xuất giải pháp, nội dung và lộ trình triển khai thực hiện các nội dung của Chiến lược ứng dụng CNTT.
 - Cập nhật, duy trì Kiến trúc tổng thể CNTT theo Chiến lược ứng dụng CNTT đã ban hành; tham mưu xây dựng các văn bản pháp lý, hướng dẫn các tiêu chuẩn kỹ thuật (theo hướng dẫn của Bộ Thông tin và Truyền thông), tiêu chuẩn kết nối, trình Lãnh đạo ĐHĐN quyết định ban hành nhằm tạo cơ chế, chính sách thúc đẩy các hoạt động triển khai Chiến lược ứng dụng CNTT.
 - Chủ trì, phối hợp với các đơn vị, tổ chức hướng dẫn, hỗ trợ các đơn vị triển khai Chiến lược ứng dụng CNTT.
-- Phối hợp với các đơn vị xây dựng yêu cầu nghiệp vụ cần tin học hóa, số hóa hồ sơ, tài liệu và các bộ tiêu chuẩn, chi tiêu đánh giá đối với từng nội dung, lĩnh vực; tổ chức thực hiện và phối hợp triển khai các chương trình, dự án ứng dụng, phát triển CNTT trong Chiến lược ứng dụng CNTT theo nhiệm vụ được phân công, trong đó trọng tâm là các nhiệm vụ xây dựng Trung tâm dữ liệu, CSDL dùng chung, CSDL lĩnh vực, CSDL tri thức, phát triển các ứng dụng hỗ trợ phân tích dữ liệu và thực hiện việc tự động hóa một số nhiệm vụ phân tích báo cáo của ĐHĐN,...
+- Phối hợp với các đơn vị xây dựng yêu cầu nghiệp vụ cần tin học hóa, số hóa hồ sơ, tài liệu và các bộ tiêu chuẩn, chỉ tiêu đánh giá đối với từng nội dung, lĩnh vực; tổ chức thực hiện và phối hợp triển khai các chương trình, dự án ứng dụng, phát triển CNTT trong Chiến lược ứng dụng CNTT theo nhiệm vụ được phân công, trong đó trọng tâm là các nhiệm vụ xây dựng Trung tâm dữ liệu, CSDL dùng chung, CSDL lĩnh vực, CSDL tri thức, phát triển các ứng dụng hỗ trợ phân tích dữ liệu và thực hiện việc tự động hóa một số nhiệm vụ phân tích báo cáo của ĐHĐN,...
 - Xây dựng các văn bản, chính sách về quản lý, vận hành và khai thác sử dụng các hệ thống thông tin của ĐHĐN.
 - Đôn đốc, tổng hợp kết quả triển khai định kỳ hàng năm và đột xuất, báo cáo Ban Chỉ đạo Chuyển đổi số và Lãnh đạo ĐHĐN; đề xuất điều chỉnh nội dung Chiến lược ứng dụng CNTT phù hợp tình hình thực tế.
 
@@ -644,13 +644,13 @@ Với vai trò là đơn vị chuyên trách CNTT và thường trực Ban Chỉ
 - Chủ trì xây dựng Chiến lược và kiến trúc CNTT của các đơn vị đảm bảo đồng bộ, thống nhất với chiến lược và kiến trúc tổng thể CNTT ĐHĐN.
 - Thực hiện việc cập nhật và đánh giá triển khai Kiến trúc tổng thể CNTT của đơn vị định kỳ hàng năm. Phối hợp với ĐHĐN trong việc triển khai đồng bộ và thống nhất các nhiệm vụ.
 - Tập trung giải pháp tích hợp các ứng dụng và đồng bộ các dữ liệu theo chuẩn của Bộ GDĐT, đồng bộ dữ liệu dùng chung của đơn vị.
-- Chủ trì, phối hợp Văn phòng ĐHĐN xây dựng các yêu cầu nghiệp vụ cần tin học hóa, số hóa hồ sơ, tài liệu; xây dựng các bộ tiêu chuẩn, chi tiêu đánh giá đối với từng nội dung, lĩnh vực phục vụ xây dựng Kho dữ liệu phục vụ quản trị, Kho dữ liệu dùng chung và Kho học liệu số, học liệu mở.
+- Chủ trì, phối hợp Văn phòng ĐHĐN xây dựng các yêu cầu nghiệp vụ cần tin học hóa, số hóa hồ sơ, tài liệu; xây dựng các bộ tiêu chuẩn, chỉ tiêu đánh giá đối với từng nội dung, lĩnh vực phục vụ xây dựng Kho dữ liệu phục vụ quản trị, Kho dữ liệu dùng chung và Kho học liệu số, học liệu mở.
 - Chủ trì nâng cấp các phần mềm ứng dụng đáp ứng các yêu cầu nghiệp vụ, phát triển các ứng dụng hỗ trợ phân tích dữ liệu và thực hiện việc tự động hóa một số nhiệm vụ đào tạo và nghiên cứu khoa học; kết nối các hệ thống hiện có vào CSDL dùng chung của ĐHĐN.
-- Nâng cao vai trò, trách nhiệm tại đơn vị trong công tác khai thác, sử dụng các hệ thống thông tin của ĐHĐN và DHTV đã xây dựng theo đúng quy định.
+- Nâng cao vai trò, trách nhiệm tại đơn vị trong công tác khai thác, sử dụng các hệ thống thông tin của ĐHĐN và ĐHTV đã xây dựng theo đúng quy định.
 
 8. Trách nhiệm của các đơn vị khác thuộc ĐHĐN
-- Phối hợp Văn phòng ĐHĐN xây dựng các yêu cầu nghiệp vụ cần tin học hóa; xây dựng các bộ tiêu chuẩn, chi tiêu đánh giá đối với từng nội dung, lĩnh vực phục vụ việc xây dựng Data Warehouse quản trị, Data Warehouse dùng chung và Kho học liệu số, học liệu mở.
-- Phối hợp Văn phòng ĐHĐN trong việc triển khai các các nhiệm vụ/dự án trong Chiến lược ứng dụng CNTT.
+- Phối hợp Văn phòng ĐHĐN xây dựng các yêu cầu nghiệp vụ cần tin học hóa; xây dựng các bộ tiêu chuẩn, chỉ tiêu đánh giá đối với từng nội dung, lĩnh vực phục vụ việc xây dựng Data Warehouse quản trị, Data Warehouse dùng chung và Kho học liệu số, học liệu mở.
+- Phối hợp Văn phòng ĐHĐN trong việc triển khai các nhiệm vụ/dự án trong Chiến lược ứng dụng CNTT.
 - Nâng cao vai trò, trách nhiệm tại đơn vị trong công tác khai thác, sử dụng các hệ thống thông tin của ĐHĐN đã xây dựng theo đúng quy định.
 
 (Đã ký) 
@@ -681,7 +681,7 @@ Sơ đồ kiến trúc phân lớp mô hình kiến trúc CNTT của ĐHĐN đ�
 
 Hình 2. Mô hình kiến trúc CNTT của ĐHĐN
 a) Lớp người dùng
-Thác nhân tham gia sử dụng dịch vụ đại học số bao gồm: Học sinh tham gia tuyển sinh, sinh viên, cựu sinh viên, giảng viên, nghiên cứu viên, cán bộ hành chính, đối tác của ĐHĐN tham gia sử dụng dịch vụ giáo dục và đào tạo của ĐHĐN, gồm:
+Các tác nhân tham gia sử dụng dịch vụ đại học số bao gồm: Học sinh tham gia tuyển sinh, sinh viên, cựu sinh viên, giảng viên, nghiên cứu viên, cán bộ hành chính, đối tác của ĐHĐN tham gia sử dụng dịch vụ giáo dục và đào tạo của ĐHĐN, gồm:
 
 ----- [Trang 33] -----
 26
@@ -708,7 +708,7 @@ Xuất phát từ định hướng chiến lược, từ cơ cấu tổ chức, 
  + Quản trị đào tạo: thu thập dữ liệu từ các ứng dụng liên quan đến quản lý đào tạo tại các đơn vị đào tạo thành viên thuộc hình thành hệ thống kho dữ liệu phục vụ quản lý.
  + Quản lý tài chính và mua sắm thiết bị, tài sản: quản lý công tác kế hoạch tài chính - kế toán của các đơn vị trực thuộc và thu thập dữ liệu từ các phần mềm quản lý tất cả tài sản của các đơn vị như thiết bị giảng dạy, CNTT, học liệu, trang thiết bị,...
  + Quản lý dịch vụ trực tuyến: dịch vụ một cửa cho người học, người dạy, CBVC được triển khai tập trung tại ĐHĐN trong đó tập trung cung cấp các dịch vụ phục vụ người học như đăng ký học tín chỉ, tra cứu thông tin và kết quả học tập, các xác nhận của trường, học phí, dịch vụ liên quan đến thư viện, kí túc xá...
- + Hệ thống theo vết người người học: quản lý các tiêu chí đánh giá và bộ câu hỏi phục vụ đánh giá, phân tích xu hướng, nhu cầu đào tạo...
+ + Hệ thống theo vết người học: quản lý các tiêu chí đánh giá và bộ câu hỏi phục vụ đánh giá, phân tích xu hướng, nhu cầu đào tạo...
  + Hệ thống khảo sát ý kiến người học: quản lý các tiêu chí khảo sát, bộ câu hỏi phục vụ đánh giá các khóa học, tuyển sinh, học tập của người học, người dạy..., phân tích kết quả khảo sát, báo cáo thống kê phục vụ cải tiến hoạt động quản lý và đào tạo.
  + Các hệ thống phụ trợ phục vụ quản lý như Quản lý Đảng - Đoàn thể, quản lý thông tin hợp tác quốc tế, thanh tra công vụ, khiếu nại tố cáo...
  + Hệ thống báo cáo, phân tích dữ liệu phục vụ chỉ đạo, điều hành của ĐHĐN (EMIS) dựa trên số liệu thu thập từ các đơn vị cung cấp thông tin. Hệ thống báo cáo ĐHĐN được xây dựng hướng tới mục tiêu đơn giản hóa chế độ báo cáo trong hoạt động của các bộ phận hành chính; bảo đảm cung cấp thông tin chính xác, đầy đủ, kịp thời, phục vụ hiệu quả công tác quản lý, chỉ đạo, điều hành của bộ máy quản trị đại học, người có thẩm quyền. Các dữ liệu từ kho dữ liệu quản lý cho phép cung cấp dữ liệu cho Cổng dữ liệu quốc gia qua các Open API và trục liên thông của Bộ GDĐT, trục liên thông Quốc gia...
@@ -745,11 +745,11 @@ Nâng cấp các chức năng như Chữ ký số, SSO |
 - Nâng cấp các chức năng do quy định của cấp trên đã có thay đổi như bổ nhiệm, kéo dài thời gian giữ chức vụ, quản lý lương, BHXH,...
 Đề xuất triển khai mô hình nhiều cấp và Cơ chế phân quyền cho nhóm người dùng hoặc từng đơn vị có trách nhiệm quản lý, cập nhật thông tin |
 | 4 | Quản lý Tài chính kế toán, thanh toán trực tuyến | X | X | Sử dụng phần mềm Misa quản lý tài chính, kế toán thống nhất theo ĐHĐN
-Xây dựng mới hoặc tích hợp phân hệ quản lý học phí vào phần mềm Phần mềm quản lý đào tạo. Cho phép kết nối thanh toán học phí online (Liên kết với nhà cung cấp dịch vụ thanh toán như các tổ chức thanh toán trung gian: NAPAS, VNPay, các loại ví như MoMo và các ngân hàng)
+Xây dựng mới hoặc tích hợp phân hệ quản lý học phí vào phần mềm Quản lý đào tạo. Cho phép kết nối thanh toán học phí online (Liên kết với nhà cung cấp dịch vụ thanh toán như các tổ chức thanh toán trung gian: NAPAS, VNPay, các loại ví như MoMo và các ngân hàng)
 Nâng cấp quản lý thu nhập cá nhân |
 | 5 | Thống kê, khen thưởng | X | | Tích hợp hệ thống Phần mềm quản lý nhân sự (HRM) |
 | 6 | Đảm bảo, kiểm định chất lượng và xếp hạng đại học | X | | Xây dựng mới |
-| 7 | Đào tạo truyền thông | | X | Các ĐHTV nâng cấp Phần mềm quản lý
+| 7 | Đào tạo truyền thống | | X | Các ĐHTV nâng cấp Phần mềm quản lý
 
 ----- [Trang 38] -----
 đào tạo đáp ứng yêu cầu CSDL quản lý theo quy định về ngành đào tạo, chương trình đào tạo, đội ngũ CBVC, người học
@@ -808,9 +808,9 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
 | 7 | Hiện đại hóa cơ sở vật chất và hạ tầng CNTT cho các tổ chức, đơn vị trực thuộc ĐHĐN | - Trang bị máy tính, thiết bị CNTT, phần mềm bản quyền... cho cá nhân, tổ chức, đơn vị trong ĐHĐN | X | X | X |
-| - Trang bị hạ tầng kỹ thuật phục vụ họp trực tuyến: phòng họp trực tuyến, hạ tầng thiết bị họp tuyến, | X | | |
+| - Trang bị hạ tầng kỹ thuật phục vụ họp trực tuyến: phòng họp trực tuyến, hạ tầng thiết bị họp trực tuyến | X | | |
 | - Trang bị các thiết bị phục vụ công tác đào tạo, bồi dưỡng nguồn nhân lực: phòng học đa phương tiện, phòng thực hành... | X | X | X |
-| 8 | Hiện đại hóa cơ sở vật chất và hạ tầng CNTT cho các DHTV | - Trang bị máy tính, thiết bị CNTT, phần mềm bản quyền... cho cá nhân, tổ chức, đơn vị trong DHTV | X | X | X |
+| 8 | Hiện đại hóa cơ sở vật chất và hạ tầng CNTT cho các ĐHTV | - Trang bị máy tính, thiết bị CNTT, phần mềm bản quyền... cho cá nhân, tổ chức, đơn vị trong ĐHTV | X | X | X |
 | - Trang bị hạ tầng kỹ thuật phục vụ họp trực tuyến: phòng họp trực tuyến, hạ tầng thiết bị họp | X | | |
 | - Trang bị các thiết bị phục vụ công tác đào tạo, bồi dưỡng nguồn nhân lực: phòng học đa phương tiện, phòng thực hành... | X | X | X |
 | 9 | Trung tâm giám sát, điều hành Đô thị ĐH thông minh | Hệ thống NOC giám sát CNTT | X | | |
@@ -834,7 +834,7 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 | - Số hóa các tài liệu lưu trữ (bài giảng, học liệu điện tử, luận văn, kết quả nghiên cứu khoa học) | X | X | X |
 | 3.3 | Xây dựng Kho học liệu số, học liệu mở chia sẻ dùng chung | - Xây dựng các bài giảng điện tử dùng chung cho các môn học của các trường | X | X | X |
 | - Xây dựng nền tảng dữ liệu mở của ĐHĐN và Cổng dữ liệu mở của ĐHĐN | | X | |
-| - Kết nối với hệ Trí thức Việt số hóa, tích hợp dữ liệu chia sẻ trong hệ thống thông tin tri thức của Quốc gia và trên thế giới (các trường đại học, các tổ chức xã hội, tạp chí..) | | | X |
+| - Kết nối với hệ Tri thức Việt số hóa, tích hợp dữ liệu chia sẻ trong hệ thống thông tin tri thức của Quốc gia và trên thế giới (các trường đại học, các tổ chức xã hội, tạp chí..) | | | X |
 | 4 | Xây dựng hệ thống quản lý đào tạo tích hợp LMS dùng chung | Xây dựng hệ thống quản lý đào tạo tích hợp LMS dùng chung trong toàn ĐHĐN | X | X | |
 | 4.1 | Thí điểm hệ thống quản lý đào tạo tích hợp LMS dùng chung | Triển khai tại 02 đơn vị đào tạo thuộc ĐHĐN | X | X | |
 | 4.2 | Áp dụng rộng rãi cho các đơn vị đào tạo | Triển khai diện rộng cho các đơn vị đào tạo sau thí điểm | | X | |
@@ -864,12 +864,12 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 | 3.12 | Phân hệ quản lý đảm bảo chất lượng giáo dục và xếp hạng đại học | | X | | |
 | 3.13 | Phân hệ khảo sát sự hài lòng của người học | | X | | |
 | 3.14 | Phân hệ theo dõi sinh viên tốt nghiệp | | X | | |
-| 3.15 | Phát triển hệ thống LCMS và LMS dùng chung có tích hợp với các ứng dụng trực tuyến như Zoom, Team... Hệ thống cần sẵn sàng tích hợp nền tảng cung cấp các khóa học trực tuyến đại chúng mở (MOOC) dùng chung của Bộ GDĐT | | X | X |
-| | Triển khai các ứng dụng dùng riêng tại các DHTV, cơ sở đào tạo | | | | |
+| 3.15 | Phát triển hệ thống LCMS và LMS dùng chung có tích hợp với các ứng dụng trực tuyến như Zoom, Teams... Hệ thống cần sẵn sàng tích hợp nền tảng cung cấp các khóa học trực tuyến đại chúng mở (MOOC) dùng chung của Bộ GDĐT | | X | X |
+| | Triển khai các ứng dụng dùng riêng tại các ĐHTV, cơ sở đào tạo | | | | |
 | 1 | Phần mềm quản lý đào tạo kết hợp với đào tạo trực tuyến | Nâng cấp phần mềm quản lý đào tạo với hệ thống LMS và LCMS | X | | |
 | 2 | Phần mềm quản lý tư liệu, thư viện | Nâng cấp phần mềm quản lý thư viện hiện có | | X | |
-| 3 | Phần mềm tổng hợp, báo cáo trực tuyến hỗ trợ hoạt động chỉ đạo điều hành các DHTV, đơn vị đào tạo trực thuộc | Xây dựng độc lập tại các DHTV, tích hợp với hệ thống phần mềm báo cáo của ĐHĐN hoặc sử dụng phần mềm quản trị tập trung của ĐHĐN sau khi triển khai xong | X | X | X |
-| 4 | Xây dựng hệ thống nền tảng tích hợp, chia sẻ, kết nối, liên thông dữ liệu của từng đơn vị | Tích hợp các phần mềm đang có tại các DHTV (Quản lý đào tạo, quản lý nhân sự, quản lý cơ sở vật chất, nghiên cứu khoa học, văn phòng điện tử) | X | X | |
+| 3 | Phần mềm tổng hợp, báo cáo trực tuyến hỗ trợ hoạt động chỉ đạo điều hành các ĐHTV, đơn vị đào tạo trực thuộc | Xây dựng độc lập tại các ĐHTV, tích hợp với hệ thống phần mềm báo cáo của ĐHĐN hoặc sử dụng phần mềm quản trị tập trung của ĐHĐN sau khi triển khai xong | X | X | X |
+| 4 | Xây dựng hệ thống nền tảng tích hợp, chia sẻ, kết nối, liên thông dữ liệu của từng đơn vị | Tích hợp các phần mềm đang có tại các ĐHTV (Quản lý đào tạo, quản lý nhân sự, quản lý cơ sở vật chất, nghiên cứu khoa học, văn phòng điện tử) | X | X | |
 | 5 | Triển khai, thí điểm triển khai các mô hình dạy - học tiên tiến trên nền tảng số theo hướng dạy học kết hợp (lớp học thông minh, nhóm học | Xây dựng phù hợp với điều kiện, đặc thù, nhu cầu thực tế đi kèm với hệ thống phòng học, phòng thực hành. Xây dựng hệ thống LCMS theo chuẩn | | X | X |
 
 ----- [Trang 44] -----
@@ -877,10 +877,10 @@ PHỤ LỤC 3: LỘ TRÌNH THỰC HIỆN CÁC NHIỆM VỤ
 
 | TT | Tên nhiệm vụ | Nội dung | Lộ trình thực hiện |
 | 2023 - 2025 | 2026 - 2030 | 2031 - 2035 |
-| | tương tác, tự học với trợ lý ảo) | Trang bị các phần mềm mô phỏng trong nghiên cứu và giảng dạy dùng chung cài đặt tại trung tâm dữ liệu ĐHĐN theo các lĩnh vực nghiên cứu và giảng dạy như mô phòng phòng thí nghiệm lĩnh vực khoa học kỹ thuật như tự động hóa, điều khiển, điện tử, cơ điện tử, hàng không, hóa sinh, điện tử y sinh... và các phần mềm phân tích, thiết kế kỹ thuật. | | | |
+| | tương tác, tự học với trợ lý ảo) | Trang bị các phần mềm mô phỏng trong nghiên cứu và giảng dạy dùng chung cài đặt tại trung tâm dữ liệu ĐHĐN theo các lĩnh vực nghiên cứu và giảng dạy như mô phỏng phòng thí nghiệm lĩnh vực khoa học kỹ thuật như tự động hóa, điều khiển, điện tử, cơ điện tử, hàng không, hóa sinh, điện tử y sinh... và các phần mềm phân tích, thiết kế kỹ thuật. | | | |
 | Hệ thống phòng học tương tác thông minh, phòng Lab mô phỏng, ứng dụng công nghệ thực tế ảo (VR) và thực tế tăng cường (AR), công nghệ học máy | | | |
 | 6 | Phát triển các kho học liệu số, học liệu mở; triển khai học liệu và tư liệu cho các phòng thực hành ảo | Thường xuyên tạo lập các học liệu số theo nhu cầu sử dụng, tập trung học liệu số mức 3 | X | X | X |
-| 7 | Triển khai thí điểm mô hình giáo dục đại học số tại một số cơ sở giáo dục đại học | Sử dụng chung một nền tảng quản trị đại học số gồm Quản lý đào tạo (truyền thông và qua mạng), sử dụng chung các ứng dụng quản trị đại học, phần mềm dùng chung | | X | X |
+| 7 | Triển khai thí điểm mô hình giáo dục đại học số tại một số cơ sở giáo dục đại học | Sử dụng chung một nền tảng quản trị đại học số gồm Quản lý đào tạo (truyền thống và qua mạng), sử dụng chung các ứng dụng quản trị đại học, phần mềm dùng chung | | X | X |
 | | Triển khai các ứng dụng cung cấp dịch vụ cho người học, người dạy dùng chung | | | | |
 | 1 | Cổng dịch vụ trực tuyến | - Dịch vụ phục vụ người học | X | X | |
 | - Dịch vụ phục vụ giảng viên, nhân viên, cán bộ quản lý | | | |
@@ -961,13 +961,13 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 | III | Hạ tầng ứng dụng | | | | | |
 | | Triển khai các ứng dụng dùng chung trong ĐHĐN | | | | | |
 | 1 | Nâng cấp Cổng thông tin tích hợp của ĐHĐN | ĐHĐN | | Ưu tiên: 2 | | Tự thực hiện |
-| 2 | Xây dựng Cổng thông tin đào tạo qua mạng của ĐHĐN | ĐHĐN | Trung tâm Đào tạo Thường xuyên, ĐHTV, đơn vị | Ưu tiên: 1 | 5 | |
+| 2 | Xây dựng Cổng thông tin đào tạo qua mạng của ĐHĐN | ĐHĐN | Trung tâm Đào tạo Thường xuyên, ĐHTV, đơn vị đào tạo trực thuộc | Ưu tiên: 1 | 5 | |
 
 ----- [Trang 49] -----
 42
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-| | | | đào tạo trực thuộc | | | |
+| | | | | | | |
 | 3 | Xây dựng các ứng dụng hỗ trợ hoạt động chỉ đạo điều hành nội bộ trên môi trường mạng | ĐHĐN | | | | |
 | 3.1 | Nâng cấp phần mềm quản lý văn bản và điều hành tác nghiệp | ĐHĐN | Các đơn vị thuộc và trực thuộc | Ưu tiên: 1 | | Tự thực hiện |
 | 3.2 | Hệ thống thư điện tử nội bộ | ĐHĐN | | Ưu tiên: 3 | 5 | |
@@ -979,13 +979,12 @@ PHỤ LỤC 4: DANH MỤC NHIỆM VỤ TRIỂN KHAI VÀ MỨC ĐỘ ƯU TIÊN
 | 3.8 | Phần mềm/Phân hệ quản lý đề tài khoa học (Quản lý, số hóa lưu trữ đề tài số hóa) | ĐHĐN | Văn phòng ĐHĐN và Ban KH&HTQT | Ưu tiên: 1 | | Tự thực hiện |
 | 3.9 | Phần mềm/Phân hệ quản lý hoạt động hợp tác quốc tế | ĐHĐN | Văn phòng ĐHĐN và Ban KH&HTQT | Ưu tiên: 1 | 3 | |
 | 3.10 | Phần mềm/Phân hệ quản lý đánh giá xếp loại, thi đua, khen thưởng | ĐHĐN | Văn phòng ĐHĐN và Ban TCCB | Ưu tiên: 2 | 3 | |
-| 3.11 | Phần mềm/Phân hệ quản lý thanh tra | ĐHĐN | Văn phòng ĐHĐN và Ban Thanh | Ưu tiên: 2 | 3 | |
+| 3.11 | Phần mềm/Phân hệ quản lý thanh tra ĐHĐN và khiếu nại, tố cáo | ĐHĐN | Văn phòng ĐHĐN và Ban Thanh tra và Pháp chế | Ưu tiên: 2 | 3 | |
 
 ----- [Trang 50] -----
 43
 
 | TT | Tên nhiệm vụ | Đơn vị chủ trì | Đơn vị phối hợp | Mức độ ưu tiên (1-3) | Chi phí (tỷ đồng) | Ghi chú |
-| | ĐHĐN và khiếu nại, tố cáo | | tra và Pháp chế | | | |
 | 3.12 | Phần mềm/Phân hệ quản lý đảm bảo chất lượng giáo dục và xếp hạng đại học | ĐHĐN | Văn phòng ĐHĐN và Ban ĐBCLGD | Ưu tiên: 2 | 5 | |
 | 3.13 | Phân hệ khảo sát sự hài lòng của người học | ĐHĐN | Văn phòng ĐHĐN và Ban ĐBCLGD | Ưu tiên: 1 | 3 | |
 | 3.14 | Phân hệ theo dõi sinh viên tốt nghiệp | ĐHĐN | Văn phòng ĐHĐN và Ban ĐBCLGD | Ưu tiên: 1 | 3 | |

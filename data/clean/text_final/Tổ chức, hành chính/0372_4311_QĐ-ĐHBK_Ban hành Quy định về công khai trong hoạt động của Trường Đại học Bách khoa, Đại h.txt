@@ -1,5 +1,5 @@
 ----- [Trang 1] -----
-ĐI HỌC ĐÀ NẴNG 
+ĐẠI HỌC ĐÀ NẴNG 
 TRƯỜNG ĐẠI HỌC BÁCH KHOA 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
 Độc lập - Tự do - Hạnh phúc 
@@ -206,7 +206,6 @@ II. ĐỘI NGŨ GIẢNG VIÊN, VIÊN CHỨC QUẢN LÝ VÀ NHÂN VIÊN
 
 7
 
-|
 
 ----- [Trang 8] -----
 TT | Chỉ số | Năm báo cáo | Năm trước liền kề năm báo cáo |
@@ -239,7 +238,6 @@ III. CƠ SỞ VẬT CHẤT
 
 8
 
-|
 
 ----- [Trang 9] -----
 TT | Hạng mục đầu tư | Địa điểm | Kinh phí (triệu đồng) |
@@ -276,7 +274,6 @@ V. KẾT QUẢ TUYỂN SINH VÀ ĐÀO TẠO
 
 9
 
-|
 
 ----- [Trang 10] -----
 TT | Chỉ số đánh giá | Năm báo cáo | Năm trước liền kề năm báo cáo |

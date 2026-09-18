@@ -91,7 +91,7 @@ Thời gian phục vụ sẽ được xem xét định kỳ và có thể điề
 
 Điều 5. Phân loại nguồn thông tin, tài liệu được sử dụng
 Việc khai thác và sử dụng thông tin học liệu phục vụ tại Trung tâm được thiết lập theo các quy định về chính sách phục vụ cụ thể dành cho tài liệu sử dụng tại chỗ, tài liệu được phép mượn về đối với tài liệu bản in; chính sách truy cập và xem nội dung thông tin thư mục, tóm tắt hay toàn văn của các bộ sưu tập số thuộc tài liệu nội sinh.
-Việc truy cập và xem, tải nội dung các tài liệu nguyền thông tin mở, tài liệu trong các cơ sở dữ liệu điện tử miễn phí, cơ sở dữ liệu điện tử truy cập có điều kiện được thực hiện theo chính sách quy định của nhà cung cấp.
+Việc truy cập và xem, tải nội dung các tài liệu nguồn thông tin mở, tài liệu trong các cơ sở dữ liệu điện tử miễn phí, cơ sở dữ liệu điện tử truy cập có điều kiện được thực hiện theo chính sách quy định của nhà cung cấp.
 
 Điều 6. Trao đổi thông tin, tài liệu
 1. Chỉ được phép trao đổi thông tin, tài liệu giữa Trung tâm với các trung tâm thông tin, thư viện khác trong và ngoài nước để đào tạo cán bộ thư viện, bổ sung thông tin, tài
@@ -162,7 +162,7 @@ c) Điều kiện áp dụng chính sách mượn tài liệu:
 
 + Tiền cược được hoàn trả cho người dùng tin ngay khi có nguyện vọng chấm dứt sử dụng dịch vụ mượn tài liệu của thư viện.
 
-+ Sau 03 lần phát hành thông báo triệu hồi tài liệu phục vụ cho công tác của thư viện, nếu người dùng tin không thực hiện trả tài liệu; tiền cược sẽ được sử dụng để khấu hao vào các phí phạt quá hạn và đền bù tổn thất đối tới tài liệu được mượn tại Trung tâm.
++ Sau 03 lần phát hành thông báo triệu hồi tài liệu phục vụ cho công tác của thư viện, nếu người dùng tin không thực hiện trả tài liệu; tiền cược sẽ được sử dụng để khấu hao vào các phí phạt quá hạn và đền bù tổn thất đối với tài liệu được mượn tại Trung tâm.
 
 6
 
@@ -236,7 +236,7 @@ a) Tài liệu điện tử được tổ chức phục vụ phải tuân thủ 
 ----- [Trang 9] -----
 8
 
-b) Tài liệu điện tử được tổ chức lưu trữ, quản lý và cung cấp truy cập đảm bảo các yêu cầu về kết nối an ninh mạng, tuân thủ các điều kiện về an toàn dữ liệu, bảo mật, truy cập và khai thác tài liệu nguyên mạng theo quy định.
+b) Tài liệu điện tử được tổ chức lưu trữ, quản lý và cung cấp truy cập đảm bảo các yêu cầu về kết nối an ninh mạng, tuân thủ các điều kiện về an toàn dữ liệu, bảo mật, truy cập và khai thác tài nguyên mạng theo quy định.
 
 c) Đối với các tài liệu điện tử được quy định tại Chương 3, Điều 9, khoản 1, 2, 4 và 5, người dùng tin chỉ được phép truy cập, khai thác và sử dụng sau khi đã xác thực quyền đăng nhập tài khoản dùng tin do thư viện cấp qua cổng thông tin hệ thống mạng thư viện của Trung tâm tại http://lib.dut.udn.vn theo chính sách truy cập dành cho mỗi bộ sưu tập; hoặc theo chính sách quy định của nhà cung cấp dịch vụ qua địa chỉ liên kết trực tiếp do thư viện tổng hợp và giới thiệu.
 

@@ -1,0 +1,18 @@
+# Kho văn bản phải BYTE-CHÍNH-XÁC ở mọi máy.
+#
+# Mặc định của Git trên Windows (core.autocrlf=true) sẽ đổi LF thành CRLF lúc
+# checkout. Với data thì đó là hỏng: số ký tự đổi, vị trí mốc `[Trang N]` lệch,
+# và mọi phép đối chiếu md5 giữa cây làm việc với repo đều sai.
+#
+# `text eol=lf` = Git vẫn coi là văn bản (diff được, xem lịch sử được) nhưng
+# luôn checkout ra LF, không đổi gì.
+
+data/clean/**      text eol=lf
+data/kg/**         text eol=lf
+data/eval/**       text eol=lf
+data/kiem_tra/**   text eol=lf
+data/manifest.jsonl text eol=lf
+
+# Ảnh và tài liệu Word là nhị phân, đừng đụng vào.
+*.png  binary
+*.docx binary

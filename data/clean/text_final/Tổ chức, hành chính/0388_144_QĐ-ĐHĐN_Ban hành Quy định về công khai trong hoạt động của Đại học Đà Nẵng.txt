@@ -86,7 +86,7 @@ NỘI DUNG CÔNG KHAI CỦA ĐẠI HỌC ĐÀ NẴNG VÀ PHÂN CÔNG CUNG CẤP 
 (Sử dụng cho Công khai các hoạt động giáo dục và Báo cáo thường niên của Đại học Đà Nẵng)
 (Kèm theo Quy định về công khai trong hoạt động của Đại học Đà Nẵng ban hành theo Quyết định số 144 /QĐ-ĐHĐN ngày 15 tháng 01 năm 2025 của Giám đốc Đại học Đà Nẵng)
 
-| TT | Nội dung công khai | Sử dụng cho (Đấu "X") | Đơn vị |
+| TT | Nội dung công khai | Sử dụng cho (Dấu "X") | Đơn vị |
 | HĐGD | BCTN | Chủ trì | Phối hợp |
 | 1 | Thông tin chung về ĐHĐN | | | | |
 | 1.1 | Tên gọi đầy đủ của ĐHĐN (bao gồm tên bằng tiếng Anh). | X | X | VP | |
@@ -132,14 +132,14 @@ Thông tin về kết quả đánh giá chất lượng cơ sở giáo dục và
 - Kết quả tự đánh giá của cơ sở giáo dục; kế hoạch cải tiến chất lượng sau tự đánh giá;
 - Kế hoạch và kết quả thực hiện cải tiến chất lượng sau đánh giá ngoài trong 05 năm và hằng năm.
 X
-DT&DBCL
+ĐT&ĐBCL
 
 3.7
 - Thông tin về kết quả kiểm định chất lượng cơ sở giáo dục và chương trình đào tạo
 - Kiểm định chất lượng giáo dục (mục IV Phụ lục II của Thông tư 09).
 X
 X
-DT&DBCL
+ĐT&ĐBCL
 
 4
 Kế hoạch và kết quả hoạt động đào tạo, hoạt động khoa học và công nghệ
@@ -147,14 +147,14 @@ Kế hoạch và kết quả hoạt động đào tạo, hoạt động khoa h�
 4.1
 Thông tin về kế hoạch tuyển sinh, tổ chức đào tạo hằng năm đối với từng trình độ, hình thức đào tạo theo các quy chế tuyển sinh, đào tạo hiện hành.
 X
-DT&DBCL
+ĐT&ĐBCL
 
 4.2
 - Thông tin về kết quả tuyển sinh và đào tạo hằng năm.
 - Các chỉ số đánh giá về tuyển sinh và đào tạo, Quy mô đào tạo, tuyển mới và tốt nghiệp trong năm (mục V.1, V.2 Phụ lục II của Thông tư 09).
 X
 X
-DT&DBCL
+ĐT&ĐBCL
 CTHSSV
 
 4.3
@@ -193,7 +193,7 @@ Các đơn vị liên quan
 Ghi chú:
 - VP: Văn phòng ĐHĐN
 - TCCB: Ban Tổ chức Cán bộ
-- ĐT&DBCL: Ban Đào tạo và Đảm bảo chất lượng giáo dục
+- ĐT&ĐBCL: Ban Đào tạo và Đảm bảo chất lượng giáo dục
 - CTHSSV: Ban Công tác Học sinh sinh viên
 - KHTC: Ban Kế hoạch - Tài chính
 - KH&HTQT: Ban Khoa học và Hợp tác Quốc tế

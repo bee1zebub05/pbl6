@@ -147,13 +147,13 @@ Hội đồng tuyển dụng viên chức có 05 hoặc 07 thành viên
 a) Hội đồng tuyển dụng viên chức của ĐHĐN, bao gồm:
 - Chủ tịch Hội đồng là Giám đốc ĐHĐN hoặc Phó Giám đốc ĐHĐN;
 - Phó Chủ tịch Hội đồng là Phó Giám đốc ĐHĐN hoặc người phụ trách công tác tổ chức cán bộ;
-- Uỷ viên kiêm Thư ký hội đồng là viên chức của Ban Tổ chức Cán bộ;
+- Ủy viên kiêm Thư ký hội đồng là viên chức của Ban Tổ chức Cán bộ;
 - Các ủy viên khác là những người có chuyên môn, nghiệp vụ liên quan đến việc tổ chức tuyển dụng do Giám đốc ĐHĐN quyết định.
 
 b) Hội đồng tuyển dụng viên chức của các trường đại học thành viên, bao gồm:
 - Chủ tịch Hội đồng là Hiệu trưởng hoặc Phó Hiệu trưởng;
 - Phó Chủ tịch Hội đồng là Phó Hiệu trưởng hoặc người phụ trách công tác tổ chức cán bộ;
-- Uỷ viên kiêm Thư ký hội đồng là viên chức giúp việc về công tác tổ chức cán bộ của Phòng Tổ chức - Hành chính;
+- Ủy viên kiêm Thư ký hội đồng là viên chức giúp việc về công tác tổ chức cán bộ của Phòng Tổ chức - Hành chính;
 - Các ủy viên khác là những người có chuyên môn, nghiệp vụ liên quan đến vị trí tuyển dụng.
 
 2. Nguyên tắc hoạt động của Hội đồng tuyển dụng
@@ -247,7 +247,7 @@ Xét tuyển viên chức được thực hiện theo 2 vòng như sau:
 
 9
 
-I. Vòng 1
+1. Vòng 1
 Kiểm tra điều kiện dự tuyển tại Phiếu đăng ký và hồ sơ dự tuyển theo yêu cầu của vị trí việc làm cần tuyển, nếu đáp ứng đủ thì người dự tuyển được tham dự vòng 2.
 
 2. Vòng 2 được thực hiện như quy định tại khoản 2 Điều 12 Quy định này.
@@ -269,7 +269,7 @@ c) Người đã từng là cán bộ, công chức, viên chức, sau đó đư
 
 10
 
-trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết.
+trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết.
 
 2. Quy trình xem xét tiếp nhận vào làm viên chức
 a) Khi xem xét tiếp nhận vào làm viên chức không giữ chức vụ quản lý đối với các trường hợp quy định tại điểm a khoản 1 Điều này, thủ trưởng đơn vị phải thành lập Hội đồng kiểm tra, sát hạch. Thành phần Hội đồng kiểm tra, sát hạch được thực hiện theo quy định tại khoản 1 Điều 9 Quy định này.
@@ -345,7 +345,7 @@ Trường hợp cơ quan, đơn vị có thẩm quyền tuyển dụng tổ ch�
 
 5. Tổ chức xét tuyển:
 a) Chậm nhất 05 ngày làm việc sau ngày kết thúc việc kiểm tra điều kiện, tiêu chuẩn của người dự tuyển tại vòng 1, Hội đồng tuyển dụng phải lập danh sách và thông báo triệu tập thí sinh đủ điều kiện dự xét tuyển ở vòng 2, đồng thời đăng tải trên trang thông tin điện tử hoặc Cổng thông tin điện tử và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị có thẩm quyền tuyển dụng;
-b) Chậm nhất 15 ngày kể từ ngày thông báo triệu tập thí sinh được tham dự vòng 2 thì phải tiến hành tổ chức thi vòng 2 như quy định tại điểm b khoản 3 Điều này này.
+b) Chậm nhất 15 ngày kể từ ngày thông báo triệu tập thí sinh được tham dự vòng 2 thì phải tiến hành tổ chức thi vòng 2 như quy định tại điểm b khoản 3 Điều này.
 
 Điều 19. Thông báo kết quả tuyển dụng viên chức
 1. Sau khi hoàn thành việc chấm thi vòng 2 theo quy định tại Điều 18 Quy định này, chậm nhất 05 ngày làm việc, Hội đồng tuyển dụng phải báo cáo thủ trưởng đơn vị xem xét, công nhận kết quả tuyển dụng.
@@ -720,7 +720,7 @@ b) Căn cứ vào chủ trương và sự chỉ đạo của Giám đốc ĐHĐN
 c) Ban Tổ chức Cán bộ báo cáo Giám đốc ĐHĐN xem xét và quyết định việc chuyển viên chức sang đơn vị khác.
 
 4. Trường hợp viên chức có đơn xin chuyển sang đơn vị khác
-a) Cá nhân phải có đơn xin chuyển sang đơn vị khác, được thủ trưởng đơn vị sử dụng viên chức đồng ý, thủ trưởng đơn vị dự kiến chuyển đến đồng ý, gửi Ban Tổ chức cán bộ.
+a) Cá nhân phải có đơn xin chuyển sang đơn vị khác, được thủ trưởng đơn vị sử dụng viên chức đồng ý, thủ trưởng đơn vị dự kiến chuyển đến đồng ý, gửi Ban Tổ chức Cán bộ.
 b) Ban Tổ chức Cán bộ xin ý kiến Giám đốc ĐHĐN.
 
 5. Trường hợp chuyển viên chức là lãnh đạo, quản lý từ cấp Phó Trưởng ban và tương đương trở lên: xin ý kiến của Ban Thường vụ hoặc Đảng ủy ĐHĐN theo phân cấp quản lý.
@@ -823,7 +823,7 @@ Trường hợp viên chức được miễn thi môn ngoại ngữ, tin học t
 
 d) Đáp ứng yêu cầu về thời gian công tác tối thiểu giữ chức danh nghề nghiệp hạng dưới liền kề theo yêu cầu của tiêu chuẩn chức danh nghề nghiệp dự thi hoặc xét thăng hạng;
 
-Trường hợp viên chức trước khi được tuyển dụng, tiếp nhận đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật bảo hiểm xã hội, làm việc ở vị trí việc làm có yêu cầu về trình độ chuyên môn, nghiệp vụ phù hợp (nếu có thời gian công tác không liên tục mà chưa nhận trợ cấp bảo hiểm xã hội một lần thì được cộng dồn) và thời gian đó được cơ quan, đơn vị có thẩm quyền tuyển dụng tính làm căn cứ xếp lương ở chức danh nghề nghiệp hiện giữ thì được tính là tương đương với hạng chức danh nghề nghiệp hiện giữ;
+Trường hợp viên chức trước khi được tuyển dụng, tiếp nhận đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật Bảo hiểm xã hội, làm việc ở vị trí việc làm có yêu cầu về trình độ chuyên môn, nghiệp vụ phù hợp (nếu có thời gian công tác không liên tục mà chưa nhận trợ cấp bảo hiểm xã hội một lần thì được cộng dồn) và thời gian đó được cơ quan, đơn vị có thẩm quyền tuyển dụng tính làm căn cứ xếp lương ở chức danh nghề nghiệp hiện giữ thì được tính là tương đương với hạng chức danh nghề nghiệp hiện giữ;
 
 Trường hợp có thời gian tương đương thì phải có ít nhất 01 năm (đủ 12 tháng) giữ chức danh nghề nghiệp hạng dưới liền kề so với hạng chức danh nghề nghiệp dự thi hoặc xét tính đến ngày hết thời hạn nộp hồ sơ đăng ký dự thi hoặc xét thăng hạng.
 
@@ -930,9 +930,9 @@ d) Trường hợp viên chức được tuyển dụng từ ngày 01 tháng 7 n
 
 3. Kinh phí chi trả trợ cấp thôi việc
 
-a) Đối với đơn sự nghiệp công lập tự bảo đảm về chi thường xuyên, chi đầu tư và đơn vị sự nghiệp công lập tự bảo đảm về chi thường xuyên: Nguồn kinh phí chi trả trợ cấp thôi việc được lấy từ nguồn tài chính của đơn vị, kể cả thời gian trước đó viên chức đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị.
+a) Đối với đơn vị sự nghiệp công lập tự bảo đảm về chi thường xuyên, chi đầu tư và đơn vị sự nghiệp công lập tự bảo đảm về chi thường xuyên: Nguồn kinh phí chi trả trợ cấp thôi việc được lấy từ nguồn tài chính của đơn vị, kể cả thời gian trước đó viên chức đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị.
 
-b) Đối với đơn sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên: Nguồn kinh phí chi trả được lấy từ nguồn tài chính của đơn vị sự nghiệp công lập, kể cả thời gian trước đó viên chức đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị. Trường hợp nguồn tài chính của đơn vị sự nghiệp công lập không đáp ứng đủ phần kinh phí chi trả cho thời gian viên chức trước đó đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị thì ngân sách nhà nước hỗ trợ.
+b) Đối với đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên: Nguồn kinh phí chi trả được lấy từ nguồn tài chính của đơn vị sự nghiệp công lập, kể cả thời gian trước đó viên chức đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị. Trường hợp nguồn tài chính của đơn vị sự nghiệp công lập không đáp ứng đủ phần kinh phí chi trả cho thời gian viên chức trước đó đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị thì ngân sách nhà nước hỗ trợ.
 
 4. Viên chức thôi việc được hưởng trợ cấp thôi việc quy định tại khoản 1 và khoản 2 Điều này và được xác nhận thời gian có đóng bảo hiểm xã hội theo quy định của pháp luật.
 
@@ -1159,7 +1159,7 @@ Nơi kết nạp:...............................................................
 Tình trạng sức khỏe hiện nay:..................................................................................................................
 Nghề nghiệp hoặc trình độ chuyên môn...................................................................................................
 Cấp bậc:...................................................................................Lương chính hiện nay:............................
-Ngày nhập ngũ QĐNDVN(TNXP)........ ....................ngày xuất ngũ.......................................................
+Ngày nhập ngũ QĐNDVN(TNXP)........................................ngày xuất ngũ.......................................................
 Lý do:.......................................................................................................................................................
 
 HOÀN CẢNH GIA ĐÌNH
@@ -1928,7 +1928,7 @@ Thỏa thuận ký kết Hợp đồng làm việc không xác định thời h�
 8
 
 được trả ............ lần vào các ngày .................................................... và ngày .................................... hàng tháng.
-- Thời gian tính nâng bậc lương: ....................................................................................................................
+- Thời gian tính nâng bậc lương: .................................................................................................................---
 - Khoản trả ngoài lương: ....................................................................................................................................
 - Được trang bị bảo hộ khi làm việc (nếu có) gồm: .............................................................................................
 ................................................................................................................................................................................

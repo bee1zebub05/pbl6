@@ -14,7 +14,7 @@ HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA
 
 Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;
 
-Căn cứ Thông tư số 08/2014/TT-BDGĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;
+Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;
 
 Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;
 
@@ -79,7 +79,7 @@ e) “Danh sách kiểm tra giữa kỳ” của lớp học phần và “Danh 
 - Phòng Đào tạo in và ký.
 - Giáo vụ khoa (hoặc giảng viên được Trưởng Bộ môn/ Khoa chuyên môn phân công, đối với đơn vị ngoài Trường) nhận danh sách tại Phòng Đào tạo để giao cho Bộ môn.
 - Giảng viên nhận danh sách tại Bộ môn/ Khoa chuyên môn.
-f) Giảng viên phụ trách lớp học phần dùng “Danh sách kiểm tra giữa kỳ" để điểm danh sinh viên, học viên dự kiểm tra.
+f) Giảng viên phụ trách lớp học phần dùng “Danh sách kiểm tra giữa kỳ” để điểm danh sinh viên, học viên dự kiểm tra.
 
 2. Nhập điểm kiểm tra giữa kỳ, công bố kết quả, nộp bảng điểm
 a) Trong thời gian quy định nhập điểm tại Khoản 2 Điều 22, giảng viên dùng Phần mềm để nhập điểm và công bố kết quả kiểm tra. Giảng viên phụ trách lớp học phần giải thích thắc mắc cho sinh viên, học viên (nếu có).
@@ -213,8 +213,8 @@ f) Phải có mặt tại điểm thi đúng lịch quy định để thực hi�
 - Nhận danh sách dự thi, văn phòng phẩm, đề thi;
 - Thực hiện công tác tại phòng thi:
 + Đánh số thứ tự vị trí ngồi của sinh viên, học viên trong danh sách dự thi (sau đây gọi chung là thí sinh); gọi tên thí sinh vào phòng thi; kiểm tra các vật dụng thí sinh mang vào phòng thi; hướng dẫn ngồi đúng chỗ quy định; nhận diện thí sinh qua thẻ sinh viên hoặc CMND (Trường hợp thí sinh bị mất giấy tờ tùy thân nhưng chưa kịp làm lại thẻ sinh viên, thẻ học viên thì phải có giấy xác nhận của Trường); nhắc thí sinh những yêu cầu thi; ghi rõ trên bảng các nội dung: tên học phần, thời gian làm bài, được hay không được sử dụng tài liệu, số lượng thí sinh trong danh sách có mặt, phương án đánh số chỗ ngồi của thí sinh;
-+ Đến giờ qui định, công bố cho thí sinh biết tình trạng túi đề thi còn nguyên niêm phong; bóc túi đựng đề thi và phát đề thi cho từng thí sinh. Trước khi phát đề, cần kiểm tra số lượng đề, nếu thừa, thiếu hoặc lẫn đề thi khác, cần báo ngay cho Trưởng Bộ môn hoặc cán bộ phụ trách ca thi xử lý;
-+ Nhắc thí sinh ghi đủ thông tin trên đề thi, giấy thi, giấy nháp và ghi mã đề thi vào bài thi (đối với phòng thi có từ hai mã đề thi trở lên); ghi mã đề thi của từng thí sinh vào danh sách sự thi; sau đó ký tên vào giấy thi của thí sinh;
++ Đến giờ quy định, công bố cho thí sinh biết tình trạng túi đề thi còn nguyên niêm phong; bóc túi đựng đề thi và phát đề thi cho từng thí sinh. Trước khi phát đề, cần kiểm tra số lượng đề, nếu thừa, thiếu hoặc lẫn đề thi khác, cần báo ngay cho Trưởng Bộ môn hoặc cán bộ phụ trách ca thi xử lý;
++ Nhắc thí sinh ghi đủ thông tin trên đề thi, giấy thi, giấy nháp và ghi mã đề thi vào bài thi (đối với phòng thi có từ hai mã đề thi trở lên); ghi mã đề thi của từng thí sinh vào danh sách dự thi; sau đó ký tên vào giấy thi của thí sinh;
 + Bao quát phòng thi và đảm bảo trật tự phòng thi trong giờ làm bài thi; chỉ trả lời công khai trong phạm vi quy định nếu có thí sinh hỏi;
 + Lập biên bản xử lý theo đúng quy định và ghi chú các trường hợp bị xử lý kỷ luật vào danh sách dự thi, khi có thí sinh vi phạm. Đối với trường hợp đình chỉ...
 
@@ -335,7 +335,7 @@ Chương V
 QUẢN LÝ HOÃN THI, THI BỔ SUNG
 
 Điều 17. Quản lý hoãn kiểm tra giữa kỳ, hoãn thi cuối kỳ
-1. Phòng Đào tạo giải quyết cho sinh viên, học viên kiểm tra giữa kỳ, hoãn thi cuối kỳ theo quy định đào tạo của Trường; quản lý thông tin hoãn kiểm tra, thi.
+1. Phòng Đào tạo giải quyết cho sinh viên, học viên hoãn kiểm tra giữa kỳ, hoãn thi cuối kỳ theo quy định đào tạo của Trường; quản lý thông tin hoãn kiểm tra, thi.
 2. Cuối mỗi học kỳ, Phòng Đào tạo:
 a) Lập danh sách những sinh viên, học viên hoãn kiểm tra, hoãn thi đã quá 01 năm mà không kiểm tra, thi bổ sung; trình Hiệu trưởng quyết định buộc nhận điểm 0 đối với cột điểm hoãn;
 b) Nhập điểm 0 đối với những sinh viên, học viên có tên ở danh sách kèm theo Quyết định; cập nhật tính lại điểm toàn khóa đối với các sinh viên, học viên này;
@@ -433,7 +433,7 @@ b) Bản chính các loại hồ sơ tài liệu in: Danh sách thi, các loại
 c) Đơn xin hoãn thi, đơn xin thi bổ sung; Bảng tổng hợp người học hoãn thi mỗi học kỳ; Các danh sách thi bổ sung kiêm bảng điểm; Bảng tổng hợp người học thi bổ sung mỗi học kỳ; Quyết định và danh sách người học phải nhận điểm 0 do hết thời hạn hoãn mà không thi bổ sung; Quyết định và danh sách người học phải nhận điểm 0 do không đủ tư cách dự thi.
 d) Các tập tin bảng điểm của toàn bộ các lớp học phần trong mỗi học kỳ. Tập tin theo định dạng PDF, được xuất trực tiếp từ Phần mềm. Mỗi bảng điểm có thông tin về tổng số điểm của từng cột điểm thành phần của tất cả người học trong lớp.
 e) Các đơn đề nghị đính chính điểm của giảng viên và minh chứng; Bảng tổng hợp đính chính điểm mỗi học kỳ.
-5. Bộ môn quản lý và lưu trữ:
+2. Bộ môn quản lý và lưu trữ:
 a) Cơ sở dữ liệu điểm đánh giá bộ phận, điểm thi kết thúc học phần và điểm tổng kết học phần của các học phần do đơn vị giảng dạy. Cơ sở dữ liệu điểm này nhận từ Phòng Đào tạo cuối mỗi học kỳ; dùng để đối chiếu với cơ sở dữ liệu do Phòng Đào tạo quản lý khi cần thiết.
 b) Bản sao các loại hồ sơ tài liệu in: Các loại bảng điểm tường minh Lớp học phần - Tên người học - Điểm; Hồ sơ đánh giá đồ án tốt nghiệp, đánh giá luận văn, đánh giá luận án; Bảng tổng hợp người học hoãn thi mỗi học kỳ; Các danh sách thi bổ sung kiêm bảng điểm; Bảng tổng hợp người học thi bổ sung mỗi học kỳ; Quyết định và danh sách người học phải nhận điểm 0 do hết thời hạn hoãn mà không thi bổ sung.
 c) Các tập tin bảng điểm của toàn bộ các lớp học phần trong mỗi học kỳ. Tập tin theo định dạng PDF, được Giáo vụ khoa xuất trực tiếp từ Phần mềm. Mỗi bảng điểm có thông tin về tổng số điểm của từng cột điểm thành phần của tất cả người học trong lớp.

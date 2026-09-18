@@ -65,7 +65,6 @@ Phần I: Danh mục ngành thí điểm trình độ đại học
 | 7310631 | Châu Á - Thái Bình Dương học | | |
 | 7310639 | Châu Mỹ học | | |
 | 7310640 | Hoa Kỳ học | | |
-| 
 
 ----- [Trang 3] -----
 738 | Pháp luật | | |
@@ -99,7 +98,6 @@ Phần I: Danh mục ngành thí điểm trình độ đại học
 | 762 | Nông, lâm nghiệp và thủy sản | | |
 | 76202 | Lâm nghiệp | | |
 | 7620210 | Lâm nghiệp | | |
-| 
 
 ----- [Trang 4] -----
 772 | Sức khoẻ | | |
@@ -129,7 +127,7 @@ Phần I: Danh mục ngành thí điểm trình độ đại học
 | 78601 | An ninh và trật tự xã hội | | |
 | 7860114 | An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao | | |
 | 78602 | Quân sự | | |
-| 7860215 | Chỉ huy tham mưu tác chiến không gian mạng | | |
+| 7860215 | Chỉ huy tham mưu tác chiến không gian mạng | |
 
 ----- [Trang 5] -----
 Phần II: Danh mục ngành thí điểm trình độ thạc sĩ
@@ -201,7 +199,6 @@ Phần III: Danh mục ngành thí điểm trình độ tiến sĩ
 
 ----- [Trang 2] -----
 
-|
 
 ----- [Trang 7] -----
 Mã ngành | Tên ngành | Hiệu lực | Ghi chú |

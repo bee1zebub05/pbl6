@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Gemini sửa lỗi OCR</title>
+<style>
+  body { font: 13px/1.5 system-ui, sans-serif; width: 400px; margin: 0; padding: 14px;
+         background: #16181c; color: #e7e9ea; }
+  h1 { font-size: 14px; margin: 0 0 4px; font-weight: 600; }
+  #cauSong { font-size: 11px; color: #8b949e; margin-bottom: 10px; }
+  .hang { display: flex; gap: 8px; margin-bottom: 8px; align-items: center; }
+  button { flex: 1; padding: 7px 10px; border: 0; border-radius: 7px; cursor: pointer;
+           font: inherit; font-weight: 600; }
+  button:disabled { opacity: .4; cursor: default; }
+  #bat { background: #2f7d32; color: #fff; }
+  #tat { background: #7d2f2f; color: #fff; }
+  #dayLai, #dongTabs { background: #333940; color: #e7e9ea; font-weight: 500; font-size: 12px; }
+  label { font-size: 12px; color: #8b949e; white-space: nowrap; }
+  #soLuong { width: 46px; background: #21242a; color: #e7e9ea; border: 1px solid #333940;
+             border-radius: 5px; padding: 5px; font: inherit; text-align: center; }
+  #cheDo { flex: 1; background: #21242a; color: #e7e9ea; border: 1px solid #333940;
+           border-radius: 5px; padding: 5px; font: inherit; }
+  #cheDo:disabled { opacity: .5; }
+  .so { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin: 10px 0; }
+  .o { background: #21242a; border-radius: 7px; padding: 7px 9px; }
+  .o b { display: block; font-size: 17px; }
+  .o span { color: #8b949e; font-size: 11px; }
+  #dangLam { background: #21242a; border-radius: 7px; padding: 7px 9px; margin-bottom: 10px;
+             font: 11px/1.5 ui-monospace, Consolas, monospace; color: #9aa4ae;
+             max-height: 110px; overflow: auto; }
+  #nk { background: #0f1115; border-radius: 7px; padding: 8px; height: 180px; overflow: auto;
+        font: 11px/1.45 ui-monospace, Consolas, monospace; white-space: pre-wrap; }
+  .canh { color: #8b949e; font-size: 11px; margin-top: 8px; }
+  code { color: #b5c6d6; }
+</style>
+
+<h1>Gemini — sửa lỗi OCR hàng loạt</h1>
+<div id="cauSong">…</div>
+
+<div class="hang">
+  <label>Chế độ</label>
+  <select id="cheDo" title="Đổi chế độ là đổi cầu; chỉ đổi được khi đang dừng">
+    <option value="txt">Sửa txt — cầu 8779</option>
+    <option value="anh">Đọc ảnh — cầu 8780</option>
+  </select>
+</div>
+<div class="hang">
+  <label>Số luồng</label><input id="soLuong" type="number" min="1" max="20" value="10">
+  <button id="bat">▶ Bật</button>
+  <button id="tat">■ Tắt</button>
+</div>
+<div class="hang">
+  <button id="dayLai">Đẩy lại file hỏng</button>
+  <button id="dongTabs">Đóng hết tab</button>
+</div>
+
+<div class="so">
+  <div class="o"><b id="sCho">–</b><span>đang chờ</span></div>
+  <div class="o"><b id="sXong">–</b><span>đã xong</span></div>
+  <div class="o"><b id="sNghi">–</b><span>nghi ngờ</span></div>
+</div>
+
+<div id="dangLam">đã dừng</div>
+<div id="nk"></div>
+<div class="canh">Ghi vào <code>data/processed/text_gemini_sach/</code> — không đụng
+<code>text_final</code>. Tắt máy giữa chừng thì bật lại chạy tiếp.</div>
+
+<script src="panel.js"></script>

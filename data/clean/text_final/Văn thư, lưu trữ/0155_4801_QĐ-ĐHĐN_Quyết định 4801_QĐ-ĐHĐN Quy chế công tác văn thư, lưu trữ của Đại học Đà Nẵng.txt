@@ -180,21 +180,21 @@ Cá nhân chủ trì soạn thảo văn bản phải kiểm tra và chịu trác
 
 Điều 13. Ký ban hành văn bản
 1. Thẩm quyền ký văn bản
-a) Giám đốc ĐHĐN, Thủ trưởng các đơn vị có tư cách pháp nhân: có thẩm quyền ký tất cả văn bản do đơn vị ban hành; có thể giao cấp phó ký thay các văn bản thuộc lĩnh vực được phân công phụ trách và một số văn bản thuộc thẩm quyền của người đứng đầu. Trường hợp cấp phó được giao phụ trách, điều hành thì thực hiện ký như cấp phó ký thay cấp trưởng. Các trường hợp ký thay phải ghi “KT” trước chức vụ người đứng đầu.
-b) Đối với các Khoa thuộc ĐHĐN: Giám đốc ĐHĐN ra quyết định uỷ quyền cho Trưởng khoa hoặc Phó Trưởng khoa ký thừa uỷ quyền một số văn bản. Người được uỷ quyền không được uỷ quyền lại cho người khác ký. Văn bản ký thừa uỷ quyền được thực hiện theo thể thức và đóng dấu hoặc ký số của ĐHĐN. Các trường hợp ký thừa uỷ quyền phải ghi “TUQ” trước chức vụ người đứng đầu.
+a) Giám đốc ĐHĐN, Thủ trưởng các đơn vị có tư cách pháp nhân: có thẩm quyền ký tất cả văn bản do đơn vị ban hành; có thể giao cấp phó ký thay các văn bản thuộc lĩnh vực được phân công phụ trách và một số văn bản thuộc thẩm quyền của người đứng đầu. Trường hợp cấp phó được giao phụ trách, điều hành thì thực hiện ký như cấp phó ký thay cấp trưởng. Các trường hợp ký thay phải ghi “KT.” trước chức vụ người đứng đầu.
+b) Đối với các Khoa thuộc ĐHĐN: Giám đốc ĐHĐN ra quyết định uỷ quyền cho Trưởng khoa hoặc Phó Trưởng khoa ký thừa uỷ quyền một số văn bản. Người được uỷ quyền không được uỷ quyền lại cho người khác ký. Văn bản ký thừa uỷ quyền được thực hiện theo thể thức và đóng dấu hoặc ký số của ĐHĐN. Các trường hợp ký thừa uỷ quyền phải ghi “TUQ.” trước chức vụ người đứng đầu.
 
 7
 
 ----- [Trang 8] -----
-c) Đối với các Ban chức năng thuộc ĐHĐN: Giám đốc ĐHĐN giao cho Trưởng ban ký thừa lệnh một số văn bản. Trưởng ban được giao lại cho cấp phó ký thay. Văn bản ký thừa lệnh được thực hiện theo thể thức và đóng dấu hoặc ký số của ĐHĐN. Các trường hợp ký thừa lệnh phải ghi “TL” trước chức vụ người đứng đầu.
+c) Đối với các Ban chức năng thuộc ĐHĐN: Giám đốc ĐHĐN giao cho Trưởng ban ký thừa lệnh một số văn bản. Trưởng ban được giao lại cho cấp phó ký thay. Văn bản ký thừa lệnh được thực hiện theo thể thức và đóng dấu hoặc ký số của ĐHĐN. Các trường hợp ký thừa lệnh phải ghi “TL.” trước chức vụ người đứng đầu.
 2. Người ký văn bản phải chịu trách nhiệm trước pháp luật về văn bản do mình ký ban hành. Thủ trưởng đơn vị phải chịu trách nhiệm trước pháp luật về toàn bộ văn bản do đơn vị ban hành.
-3. Đối với văn bản giấy, khi ký văn bản dùng bút có mực màu xanh, không dung các loại mực dễ phai.
+3. Đối với văn bản giấy, khi ký văn bản dùng bút có mực màu xanh, không dùng các loại mực dễ phai.
 4. Đối với văn bản điện tử, người có thẩm quyền thực hiện ký số. Vị trí, hình ảnh chữ ký số thực hiện theo quy định tại Phụ lục I tại Nghị định 30.
 
 Điều 14. Bản sao văn bản
 1. Các hình thức bản sao gồm: bản sao y bản chính, bản trích sao và bản sao lục
 a) Sao y gồm: Sao y từ văn bản giấy sang văn bản giấy, sao y từ văn bản điện tử sang văn bản giấy, sao y từ văn bản giấy sang văn bản điện tử.
-- Sao y từ văn bản giấy sang văn bản giấy được thực hiện bằng việc chụp từ bản gốc hoặc bảng chính văn bản giấy sang giấy;
+- Sao y từ văn bản giấy sang văn bản giấy được thực hiện bằng việc chụp từ bản gốc hoặc bản chính văn bản giấy sang giấy;
 - Sao y từ văn bản điện tử sang văn bản giấy được thực hiện bằng việc in từ bản gốc văn bản điện tử ra giấy;
 - Sao y từ văn bản giấy sang văn bản điện tử được thực hiện bằng việc số hóa văn bản giấy và ký số của đơn vị.
 b) Sao lục gồm: Sao lục từ văn bản giấy sang văn bản giấy, sao lục từ văn bản giấy sang văn bản điện tử, sao lục từ văn bản điện tử sang văn bản giấy.
@@ -315,7 +315,7 @@ d) Văn bản mật được cấp hệ thống số riêng.
 a) Văn bản được đăng ký bằng sổ: Văn thư cơ quan đăng ký văn bản vào Sổ đăng ký văn bản đi.
 b) Văn bản được đăng ký bằng hệ thống: Văn thư cơ quan in ra giấy đầy đủ các trường thông tin theo mẫu Sổ đăng ký văn bản đi, đóng sổ để quản lý.
 c) Văn bản mật được đăng ký theo quy định của pháp luật về bảo vệ bí mật nhà nước.
-d) Mẫu sổ đăng ký văn bản đi theo quy định tại Nghị định 30
+d) Mẫu sổ đăng ký văn bản đi theo quy định tại Nghị định 30.
 4. Nhân bản, đóng dấu, ký số và dấu chỉ độ mật, mức độ khẩn
 a) Nhân bản
 - Số lượng văn bản cần nhân bản để phát hành được xác định trên cơ sở số lượng tại nơi nhận văn bản; nếu gửi đến nhiều nơi mà trong văn bản không liệt kê đủ danh sách thì đơn vị soạn thảo phải có phụ lục nơi nhận kèm theo để lưu ở Văn thư cơ quan, văn thư đơn vị;
@@ -349,7 +349,7 @@ c) Theo dõi việc chuyển phát văn bản đi
 - Văn bản đã phát hành nhưng có sai sót về nội dung phải được sửa đổi, thay thế bằng văn bản có hình thức tương đương. Văn bản đã phát hành nhưng có sai sót về thể thức, kỹ thuật trình bày, thủ tục ban hành phải được đính chính bằng công văn của đơn vị ban hành văn bản.
 d) Thu hồi văn bản
 - Đối với những văn bản đi có đóng dấu “Tài liệu thu hồi”, văn thư phải theo dõi, thu hồi đúng thời hạn; khi nhận lại, phải kiểm tra, đối chiếu để bảo đảm văn bản không bị thiếu hoặc thất lạc;
-- Đối với văn bản giấy, trường hợp nhận được văn bản thông báo thu hồi, bên nhận có trách nhiệm gởi lại văn bản đã nhận;
+- Đối với văn bản giấy, trường hợp nhận được văn bản thông báo thu hồi, bên nhận có trách nhiệm gửi lại văn bản đã nhận;
 - Đối với văn bản điện tử, trường hợp nhận được văn bản thông báo thu hồi, bên nhận hủy bỏ văn bản điện tử bị thu hồi trên hệ thống, đồng thời thông báo qua hệ thống để bên gửi biết.
 đ) Phát hành văn bản giấy từ văn bản được ký số của người có thẩm quyền: Văn thư cơ quan thực hiện in văn bản đã được ký số của người có thẩm quyền ra giấy, đóng dấu đơn vị để tạo bản chính văn bản giấy và phát hành văn bản.
 e) Trường hợp cần phát hành văn bản điện tử từ văn bản giấy: Văn thư cơ quan thực hiện số hoá văn bản giấy và ký số của ĐHĐN hoặc đơn vị.
@@ -439,11 +439,11 @@ QUẢN LÝ, SỬ DỤNG CON DẤU VÀ THIẾT BỊ LƯU KHÓA BÍ MẬT TRONG C�
 ----- [Trang 18] -----
 17]
 
-2. Giám đốc ĐHĐN, Thủ trưởng các đơn vị có trách nhiệm giao cho Văn thư cơ quan quản lý, sử dụng con dấu, thiết bị lưu khoá bí mật của đơn vị theo quy định.
+2. Giám đốc ĐHĐN, Thủ trưởng các đơn vị có trách nhiệm giao cho Văn thư cơ quan quản lý, sử dụng con dấu, thiết bị lưu khóa bí mật của đơn vị theo quy định.
 3. Thủ trưởng các đơn vị có sử dụng con dấu chịu trách nhiệm trước Giám đốc ĐHĐN về việc quản lý, sử dụng con dấu, thiết bị lưu khóa bí mật của đơn vị.
 4. Văn thư cơ quan có trách nhiệm
 a) Bảo quản an toàn, sử dụng con dấu, thiết bị lưu khóa bí mật tại Văn phòng ĐHĐN hoặc phòng hành chính các đơn vị.
-b) Chỉ giao con dấu, thiết bị lưu khoá bí mật khi được phép bằng văn bản của thủ trưởng đơn vị. Việc bàn giao con dấu, thiết bị lưu khoá bí mật của đơn vị phải được lập biên bản.
+b) Chỉ giao con dấu, thiết bị lưu khóa bí mật khi được phép bằng văn bản của thủ trưởng đơn vị. Việc bàn giao con dấu, thiết bị lưu khóa bí mật của đơn vị phải được lập biên bản.
 c) Phải trực tiếp đóng dấu, ký số vào văn bản do đơn vị ban hành và bản sao văn bản.
 d) Chỉ được đóng dấu, ký số của đơn vị vào văn bản đã có chữ ký của người có thẩm quyền và bản sao văn bản do đơn vị trực tiếp thực hiện.
 đ) Khi nét dấu bị mòn hoặc biến dạng, Văn thư cơ quan phải báo cáo Giám đốc ĐHĐN hoặc Thủ trưởng đơn vị làm thủ tục đổi con dấu. Trường hợp con dấu bị mất, Giám đốc ĐHĐN hoặc Thủ trưởng đơn vị phải báo cáo cơ quan công an, nơi xảy ra mất con dấu, lập biên bản theo quy định.
@@ -455,7 +455,7 @@ a) Dấu đóng phải rõ ràng, ngay ngắn, đúng chiều và dùng đúng m
 b) Khi đóng dấu lên chữ ký, dấu đóng phải trùm lên khoảng 1/3 chữ ký về phía bên trái.
 c) Các văn bản ban hành kèm theo văn bản chính hoặc phụ lục: Dấu được đóng lên trang đầu, trùm một phần tên cơ quan, tổ chức hoặc tiêu đề phụ lục.
 d) Việc đóng dấu treo, dấu giáp lai, đóng dấu nổi lên trên văn bản giấy do người đứng đầu cơ quan, tổ chức quy định.
-đ) Dấu giáp lại được đóng vào khoảng giữa mép phải của văn bản hoặc phụ lục văn bản, trùm lên một phần các tờ giấy; mỗi dấu đóng tối đa 05 tờ văn bản.
+đ) Dấu giáp lai được đóng vào khoảng giữa mép phải của văn bản hoặc phụ lục văn bản, trùm lên một phần các tờ giấy; mỗi dấu đóng tối đa 05 tờ văn bản.
 2. Sử dụng thiết bị lưu khóa bí mật
 Thiết bị lưu khóa bí mật của ĐHĐN và các đơn vị được sử dụng để ký số các văn bản điện tử do ĐHĐN và các đơn vị ban hành và bản sao từ văn bản giấy sang văn bản điện tử.
 
@@ -529,18 +529,18 @@ d) Hồ sơ hủy tài liệu hết giá trị gồm:
 - Tờ trình và bản thuyết minh kèm theo Danh mục tài liệu hết giá trị;
 - Biên bản họp Hội đồng xác định giá trị tài liệu;
 - Văn bản đề nghị thẩm định của đơn vị có tài liệu hết giá trị;
-- Văn bản thẩm định, cho ý kiến của của Cục Văn thư và Lưu trữ nhà nước;
+- Văn bản thẩm định, cho ý kiến của Cục Văn thư và Lưu trữ nhà nước;
 - Quyết định hủy tài liệu;
 - Biên bản bàn giao tài liệu hủy;
 - Biên bản hủy tài liệu hết giá trị.
 
 đ) Hồ sơ hủy tài liệu hết giá trị phải được bảo quản tại Lưu trữ cơ quan, Lưu trữ đơn vị ít nhất 20 năm, kể từ ngày hủy tài liệu.
 
-Điều 37. Quản lý hồ sơ, tài liệu của các đơn vị chia, tách, sát nhập, giải thể
+Điều 37. Quản lý hồ sơ, tài liệu của các đơn vị chia, tách, sáp nhập, giải thể
 
 1. Trường hợp đơn vị được chia, tách thành nhiều đơn vị mới thì hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ được chuyển vào Lưu trữ cơ quan, Lưu trữ đơn vị để tiến hành phân loại, chỉnh lý theo quy định. Đối với hồ sơ, tài liệu chưa giải quyết xong thuộc chức năng, nhiệm vụ của đơn vị nào thì do đơn vị đó tiếp nhận.
 
-2. Trường hợp một hoặc nhiều đơn vị được sát nhập vào một đơn vị khác hoặc thành lập mới đơn vị thì các hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ phải chuyển giao cho Lưu trữ cơ quan, Lưu trữ đơn vị để tiến hành phân loại, chỉnh lý theo quy định. Đối với hồ sơ tài liệu chưa giải quyết xong thuộc chức năng, nhiệm vụ của đơn vị nào thì do đơn vị đó tiếp nhận.
+2. Trường hợp một hoặc nhiều đơn vị được sáp nhập vào một đơn vị khác hoặc thành lập mới đơn vị thì các hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ phải chuyển giao cho Lưu trữ cơ quan, Lưu trữ đơn vị để tiến hành phân loại, chỉnh lý theo quy định. Đối với hồ sơ tài liệu chưa giải quyết xong thuộc chức năng, nhiệm vụ của đơn vị nào thì do đơn vị đó tiếp nhận.
 
 3. Trường hợp đơn vị giải thể thì toàn bộ hồ sơ, tài liệu của đơn vị đó phải giao nộp vào Lưu trữ cơ quan, Lưu trữ đơn vị để tiến hành phân loại, chỉnh lý theo quy định.
 

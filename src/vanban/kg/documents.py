@@ -8,7 +8,7 @@ làm ba việc và chỉ ba việc:
 **1. Neo vào kho text CÓ THẬT trên đĩa.**
 `data/manifest.jsonl` được xuất ngày 17/8, ghi `fix_status: pending` cho
 498/501 văn bản và `text_clean: null` — trong khi thực tế 460 văn bản đã hiệu
-đính xong, nằm ở `data/clean/text_clean_gemma/` (đường dẫn khác hẳn cái
+đính xong, nằm ở `data/clean/text_final/` (đường dẫn khác hẳn cái
 `data/processed/text_clean/` mà pipeline ghi trong session). Tin manifest là
 dựng graph trên nền rỗng. Nên nguồn chuẩn về **text** là thư mục trên đĩa,
 manifest chỉ còn là nguồn chuẩn về **metadata** (ngày ban hành, cơ quan, tình

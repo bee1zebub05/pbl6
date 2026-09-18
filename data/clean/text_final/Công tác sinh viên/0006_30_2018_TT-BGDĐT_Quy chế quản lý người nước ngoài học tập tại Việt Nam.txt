@@ -42,7 +42,7 @@ Nguyễn Văn Phúc
 
 ----- [Trang 2] -----
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
-CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
 QUY CHẾ
@@ -90,7 +90,7 @@ Chương II
 ----- [Trang 4] -----
 Việt tương đương B2 (bậc 4/6) trở lên theo Khung năng lực tiếng Việt quy định tại Thông tư số 17/2015/TT-BGDĐT ngày 01/9/2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Khung năng lực tiếng Việt dùng cho người nước ngoài được miễn yêu cầu về điều kiện tiếng Việt.
 2. Lưu học sinh đăng ký học tập, nghiên cứu, thực tập bằng ngôn ngữ khác mà cơ sở giáo dục tiếp nhận đào tạo được phép sử dụng trong đào tạo cần đạt yêu cầu về trình độ ngôn ngữ đó theo quy định cụ thể của từng chương trình. Lưu học sinh là người bản ngữ (của ngôn ngữ sử dụng trong học tập, nghiên cứu, thực tập) hoặc đã tốt nghiệp phổ thông, trung cấp, cao đẳng, đại học hoặc thạc sĩ, tiến sĩ bằng ngôn ngữ đó thì được miễn yêu cầu về ngoại ngữ.
-3. Lưu học sinh chưa đủ trình độ tiếng Việt để vào học chương trình chính thức bằng tiếng Việt thì phải học dự bị tiếng Việt
+3. Lưu học sinh chưa đủ trình độ tiếng Việt để vào học chương trình chính thức bằng tiếng Việt thì phải học dự bị tiếng Việt:
 a) Bộ Giáo dục và Đào tạo bố trí lưu học sinh Hiệp định vào học tại các cơ sở giáo dục đào tạo dự bị tiếng Việt. Các cơ sở giáo dục tiếp nhận đào tạo lưu học sinh ngoài Hiệp định phải tổ chức để lưu học sinh được học chương trình dự bị tiếng Việt hoặc gửi lưu học sinh vào học tại các cơ sở giáo dục đào tạo dự bị tiếng Việt;
 b) Thời gian học dự bị tiếng Việt đối với lưu học sinh Hiệp định thực hiện theo các điều ước quốc tế mà Việt Nam là thành viên; đối với lưu học sinh ngoài Hiệp định thực hiện theo thỏa thuận, hợp đồng đào tạo đã ký với cơ sở giáo dục của Việt Nam;
 c) Sau khi kết thúc khóa học dự bị, lưu học sinh phải tham dự kiểm tra trình độ tiếng Việt, nếu đạt yêu cầu sẽ được chuyển vào học chương trình chính thức; nếu không đạt yêu cầu thì phải tiếp tục học bổ sung và dự đợt kiểm tra khác đến khi đạt yêu cầu và được cấp chứng chỉ để được chuyển vào học chương trình chính thức.
@@ -281,12 +281,12 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO ²
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH TIẾP NHẬN MỚI NĂM 20.... (\*)
+THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH TIẾP NHẬN MỚI NĂM 20.... (*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Quốc tịch | Trình độ | | | | | | | | | | | | | | | | | Ghi chú |
 | | | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng | Trung cấp | Phổ thông | Dự bị tiếng Việt | Thực tập | Khác | Tổng cộng |
-| | | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | |
+| | | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -299,10 +299,10 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO
 Họ và tên
 
 Ghi chú:
-(\*) Lập biểu trên Microsoft Excel, phong chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu từ quản lý lưu học sinh tại địa chỉ http://lhsmn.viet.vn.
+(*) Lập biểu trên Microsoft Excel, phông chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu điện tử quản lý lưu học sinh tại địa chỉ http://lhsnn.vied.vn.
 ¹ Tên cơ quan chủ quản.
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
-³ Tổng số người theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHD).
+³ Tổng số người theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHĐ).
 
 ----- [Trang 3] -----
 
@@ -315,12 +315,12 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO ²
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH ĐANG HỌC TẬP NĂM 20.... (\*)
+THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH ĐANG HỌC TẬP NĂM 20.... (*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Quốc tịch | Trình độ | | | | | | | | | | | | | | | | | Ghi chú |
 | | | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng | Trung cấp | Phổ thông | Dự bị tiếng Việt | Thực tập | Khác | Tổng cộng |
-| | | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | |
+| | | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -333,10 +333,10 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO
 Họ và tên
 
 Ghi chú:
-(\*) Lập biểu trên Microsoft Excel, phong chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu từ quản lý lưu học sinh tại địa chỉ http://lhsmn.viet.vn.
+(*) Lập biểu trên Microsoft Excel, phông chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu điện tử quản lý lưu học sinh tại địa chỉ http://lhsnn.vied.vn.
 ¹ Tên cơ quan chủ quản.
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
-³ Tổng số lưu học sinh đang học tập tại cơ sở giáo dục ở thời điểm báo cáo theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHD).
+³ Tổng số lưu học sinh đang học tập tại cơ sở giáo dục ở thời điểm báo cáo theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHĐ).
 
 ----- [Trang 4] -----
 
@@ -349,12 +349,12 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO ²
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH VỀ NƯỚC NĂM 20.... (\*)
+THỐNG KÊ SỐ LƯỢNG LƯU HỌC SINH VỀ NƯỚC NĂM 20.... (*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Quốc tịch | Trình độ | | | | | | | | | | | | | | | | | Ghi chú |
 | | | Tiến sĩ | Thạc sĩ | Đại học | Cao đẳng | Trung cấp | Phổ thông | Dự bị tiếng Việt | Thực tập | Khác | Tổng cộng |
-| | | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | HĐ | NHD | |
+| | | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | HĐ | NHĐ | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -367,10 +367,10 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO
 Họ và tên
 
 Ghi chú:
-(\*) Lập biểu trên Microsoft Excel, phong chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu từ quản lý lưu học sinh tại địa chỉ http://lhsmn.viet.vn.
+(*) Lập biểu trên Microsoft Excel, phông chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu điện tử quản lý lưu học sinh tại địa chỉ http://lhsnn.vied.vn.
 ¹ Tên cơ quan chủ quản.
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
-³ Tổng số người theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHD).
+³ Tổng số người theo từng trình độ và diện đào tạo gồm: Hiệp định (HĐ), ngoài Hiệp định (NHĐ).
 
 ----- [Trang 5] -----
 
@@ -383,7 +383,7 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO ²
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-DANH SÁCH LƯU HỌC SINH ĐANG HỌC NĂM 20.... (\*)
+DANH SÁCH LƯU HỌC SINH ĐANG HỌC NĂM 20.... (*)
 (Kèm theo Báo cáo số .........../BC-...... ngày ...... tháng ...... năm 20.....)
 
 | STT | Họ và tên | Ngày sinh | | Số hộ chiếu | Chỗ ở hiện nay | Quốc tịch | Trình độ đào tạo ³ | Ngành học | Nhóm ngành | Năm bắt đầu khóa học | Năm kết thúc khóa học (dự kiến) | Nguồn kinh phí ⁴ | Ghi chú |
@@ -401,8 +401,8 @@ SỞ GIÁO DỤC VÀ ĐÀO TẠO
 Họ và tên
 
 Ghi chú:
-(\) Báo cáo toàn bộ danh sách lưu học sinh nước ngoài học tập tại cơ sở giáo dục (tại thời điểm báo cáo). Lập biểu trên Microsoft Excel, phong chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu từ quản lý lưu học sinh tại địa chỉ http://lhsmn.viet.vn.*
+(*) Báo cáo toàn bộ danh sách lưu học sinh nước ngoài học tập tại cơ sở giáo dục (tại thời điểm báo cáo). Lập biểu trên Microsoft Excel, phông chữ Times New Roman, cỡ chữ 12 trên cùng 1 file gồm các biểu khác nhau và gửi file báo cáo vào mục Báo cáo trên hệ thống cơ sở dữ liệu điện tử quản lý lưu học sinh tại địa chỉ http://lhsnn.vied.vn.
 ¹ Tên cơ quan chủ quản.
 ² Tên cơ sở giáo dục/Sở Giáo dục và Đào tạo.
 ³ Ghi rõ: tiến sĩ (TS), thạc sĩ (ThS), đại học (ĐH), cao đẳng SP (CĐSP), trung cấp sư phạm (TCSP), trung học phổ thông (THPT), trung học cơ sở (THCS), tiểu học (TH), dự bị tiếng Việt (ĐBTV), thực tập (TT), khác.
-⁴ Ghi rõ nguồn kinh phí: Hiệp định (HĐ), ngoài Hiệp định (NHD).
+⁴ Ghi rõ nguồn kinh phí: Hiệp định (HĐ), ngoài Hiệp định (NHĐ).

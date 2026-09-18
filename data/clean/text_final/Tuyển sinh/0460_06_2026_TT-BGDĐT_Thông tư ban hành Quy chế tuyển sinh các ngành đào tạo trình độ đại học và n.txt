@@ -1087,9 +1087,8 @@ Mã trình đào trình đào
 tạo, thức
 xét ngành, tạo, tạo, tuyển Số Điểm trúng Số Điểm trúng
 tuyển ngành, ngành, Số Số
-nhóm sinh nhập tuyển/Thang nhập tuyển/Thang
 nhóm nhóm lượng điểm xét lượng điểm xét
-ngành ngành học học
+nhóm ngành ngành học học
 ngành
 xét
 tuyển
@@ -1143,7 +1142,7 @@ Mã Tên
 Mã xét Tên chương trình, trình, lượng Phương thức tuyển
 TT ngành, nhóm trình, Ghi
 tuyển ngành xét tuyển ngành, ngành, |tuyển sinh chú
-nhóm nhóm sinh
+ngành nhóm nhóm sinh
 ngành ngành
 Phương thức 1 (Tổ
 hợp)

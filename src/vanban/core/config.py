@@ -17,7 +17,8 @@ from dotenv import load_dotenv
 # PATHS
 # ============================================================
 
-ROOT = Path(__file__).resolve().parents[2]
+# src/vanban/core/config.py -> parents: [0]=core [1]=vanban [2]=src [3]=<goc repo>
+ROOT = Path(__file__).resolve().parents[3]
 
 load_dotenv(ROOT / ".env")
 
@@ -42,10 +43,14 @@ MANIFEST_PATH = DATA_DIR / "manifest.jsonl"
 # Kho text đã hiệu đính dùng để xây knowledge graph.
 #
 # Không trỏ vào TEXT_CLEAN_DIR: bước hiệu đính cuối cùng chạy ngoài pipeline
-# (Colab) rồi tải kết quả về đây, nên đường dẫn khác với chỗ pipeline tự ghi.
+# (Colab, rồi các đợt sửa tay) nên đường dẫn khác chỗ pipeline tự ghi.
 # Đổi được bằng KG_CORPUS_DIR trong .env hoặc `--corpus` khi chạy.
+#
+# Trước đây trỏ `text_clean_gemma` — bản hiệu đính lượt một. Kho chuẩn hiện tại là
+# `text_final`: dựng bằng cách chọn bản OCR tốt hơn cho từng văn bản, rồi đi qua các
+# đợt sửa lỗi ký tự và dọn phần do mô hình tự chèn thêm. Bản cũ đã bỏ khỏi repo.
 KG_CORPUS_DIR = Path(
-    os.getenv("KG_CORPUS_DIR", "") or DATA_DIR / "clean" / "text_clean_gemma"
+    os.getenv("KG_CORPUS_DIR", "") or DATA_DIR / "clean" / "text_final"
 )
 
 # Node / quan hệ đã trích xuất, dạng JSONL, sẵn sàng nạp vào Neo4j.

@@ -4,7 +4,7 @@ VGP
 Ký bởi: Cổng Thông tin điện tử Chính phủ
 Email: thongtinchinhphu@chinhphu.vn
 Cơ quan: Văn phòng Chính phủ
-CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ Thời gian ký: 26.02.2019 15:29:52 +07:00
+CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ Thời gian ký: 26.02.2019 15:29:52 +07:00
 
 BỘ GIÁO DỤC VÀ ĐÀO TẠO
 CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -421,7 +421,7 @@ Ngày, tháng, năm thực hiện: .............................................
 
 | Đánh giá mức độ tổn hại của người học | Mức độ (Cao, Trung bình, Thấp) |
 | Đánh giá về mức độ an toàn của người học | Cao (Người học vẫn chưa được an toàn)
-Trung bình (Người học được bảo đảm an toàn những vẫn còn nguy cơ)
+Trung bình (Người học được bảo đảm an toàn nhưng vẫn còn nguy cơ)
 Thấp (Người học được an toàn tuyệt đối) |
 | Đánh giá về kiến thức, kỹ năng nhận biết, giải quyết vấn đề | Cao (Người học chưa có đủ kiến thức, kỹ năng tự giải quyết vấn đề)
 Trung bình (Người học cơ bản bước đầu đã có kiến thức, kỹ năng nhưng khả năng xử lý vấn đề còn hạn chế)

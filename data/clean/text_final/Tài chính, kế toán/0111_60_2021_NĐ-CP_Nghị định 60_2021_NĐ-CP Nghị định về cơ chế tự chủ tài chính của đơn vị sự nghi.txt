@@ -62,7 +62,7 @@ b) Trích khấu hao tài sản cố định theo quy định pháp luật về 
 2. Trường hợp cơ quan có thẩm quyền chưa ban hành định mức kinh tế - kỹ thuật, định mức chi phí, giá dịch vụ sự nghiệp công sử dụng ngân sách nhà nước được xác định theo quy định của pháp luật về giá hoặc mức bình quân chi phí hợp lý, hợp lệ thực hiện của 03 năm trước liền kề.
 3. Lộ trình tính giá dịch vụ sự nghiệp công sử dụng ngân sách nhà nước
 a) Đến hết năm 2021, cơ bản hoàn thành lộ trình tính giá dịch vụ sự nghiệp công (tính đủ chi phí tiền lương, chi phí trực tiếp, chi phí quản lý và khấu hao tài sản cố định, chi phí khác theo quy định của pháp luật về giá). Trường hợp do khó khăn khách quan cần xây dựng lộ trình khác, các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh chủ trì, trình Thủ tướng Chính phủ xem xét, quyết định, sau khi có ý kiến thẩm định của Bộ Tài chính.
-Riêng đối với giá dịch vụ khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh công lập; giá dịch vụ giáo dục đào tạo và giáo dục nghề nghiệp tại cơ sở giáo dục đào tạo, giáo dục nghề nghiệp công lập: Trường hợp không thực hiện được lộ trình quy định tại điểm a khoản này, Bộ Y tế, Bộ Giáo dục và Đào tạo, Bộ Lao động – Thương binh và Xã hội chủ trì, báo cáo Thủ tướng Chính phủ trình cấp có thẩm quyền xem xét, quyết định, sau khi có ý kiến thẩm định của Bộ Tài chính.
+Riêng đối với giá dịch vụ khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh công lập; giá dịch vụ giáo dục đào tạo và giáo dục nghề nghiệp tại cơ sở giáo dục đào tạo, giáo dục nghề nghiệp công lập: Trường hợp không thực hiện được lộ trình quy định tại điểm a khoản này, Bộ Y tế, Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội chủ trì, báo cáo Thủ tướng Chính phủ trình cấp có thẩm quyền xem xét, quyết định, sau khi có ý kiến thẩm định của Bộ Tài chính.
 b) Đối với dịch vụ sự nghiệp công đang được Nhà nước đặt hàng theo giá tính đủ chi phí thì tiếp tục thực hiện theo giá tính đủ chi phí.
 4. Phương pháp định giá và cơ quan có thẩm quyền định giá dịch vụ sự nghiệp công sử dụng ngân sách nhà nước thực hiện theo quy định pháp luật về giá.
 
@@ -333,7 +333,7 @@ c) Chi tiền thưởng: Thực hiện theo chế độ tiền lương do Chính
 
 a) Đơn vị tự bảo đảm từ 70% đến dưới 100% chi thường xuyên
 
-Đối đối với các nội dung chi đã có định mức chi theo quy định của cơ quan nhà nước có thẩm quyền, căn cứ yêu cầu thực tế, mức giá thực tế trên thị trường và khả năng tài chính, đơn vị được quyết định mức chi cao hơn (trong trường hợp đơn vị chi từ nguồn thu sự nghiệp, không phải nguồn ngân sách nhà nước) hoặc bằng hoặc thấp hơn mức chi do cơ quan nhà nước có thẩm quyền ban hành và quy định trong quy chế chi tiêu nội bộ của đơn vị nhưng phải bảo đảm tiêu chuẩn chất lượng dịch vụ theo quy định Nhà nước.
+Đối với các nội dung chi đã có định mức chi theo quy định của cơ quan nhà nước có thẩm quyền, căn cứ yêu cầu thực tế, mức giá thực tế trên thị trường và khả năng tài chính, đơn vị được quyết định mức chi cao hơn (trong trường hợp đơn vị chi từ nguồn thu sự nghiệp, không phải nguồn ngân sách nhà nước) hoặc bằng hoặc thấp hơn mức chi do cơ quan nhà nước có thẩm quyền ban hành và quy định trong quy chế chi tiêu nội bộ của đơn vị nhưng phải bảo đảm tiêu chuẩn chất lượng dịch vụ theo quy định Nhà nước.
 
 Đối với các nội dung chi chưa được cơ quan nhà nước có thẩm quyền quy định, căn cứ tình hình thực tế, đơn vị sự nghiệp công xây dựng mức chi cho phù hợp với nguồn tài chính của đơn vị và quy định trong quy chế chi
 
@@ -685,12 +685,12 @@ b) Chuyển ít nhất 30% số lượng đơn vị sự nghiệp công tự b�
 
 c) Chuyển ít nhất 30% số lượng đơn vị sự nghiệp công tự bảo đảm từ 10% đến dưới 30% chi thường xuyên sang đơn vị sự nghiệp công tự bảo đảm từ 30% đến dưới 70% chi thường xuyên; hằng năm, thực hiện giảm tối thiểu 2,5% chi hỗ trợ trực tiếp từ ngân sách nhà nước.
 
-5. Đơn vị sự nghiệp công đã được cơ quan có thẩm quyền phân loại là đơn vị nhóm 1 hoặc nhóm 2 tiếp tục thực hiện theo các quy định về cơ chế tự chủ tài chính quy định tại Nghị định này; không được điều chỉnh phân loại sang đơn vị nhóm 3 hoặc nhóm 4 trong giai đoạn ổn định loại 05 (năm) năm hoặc sau giai đoạn ổn định 05 (năm) năm, trừ trường hợp bất khả kháng do nguyên nhân khách quan (như thiên tai, dịch bệnh) hoặc được cơ quan có thẩm quyền của Nhà nước điều chỉnh về chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật dẫn đến biến động nguồn thu của đơn vị và làm thay đổi mức độ tự chủ tài chính.
+5. Đơn vị sự nghiệp công đã được cơ quan có thẩm quyền phân loại là đơn vị nhóm 1 hoặc nhóm 2 tiếp tục thực hiện theo các quy định về cơ chế tự chủ tài chính quy định tại Nghị định này; không được điều chỉnh phân loại sang đơn vị nhóm 3 hoặc nhóm 4 trong giai đoạn ổn định 05 (năm) năm hoặc sau giai đoạn ổn định 05 (năm) năm, trừ trường hợp bất khả kháng do nguyên nhân khách quan (như thiên tai, dịch bệnh) hoặc được cơ quan có thẩm quyền của Nhà nước điều chỉnh về chức năng, nhiệm vụ, quyền hạn theo quy định của pháp luật dẫn đến biến động nguồn thu của đơn vị và làm thay đổi mức độ tự chủ tài chính.
 
 ----- [Trang 31] -----
 31
 
-Đơn vị nhóm 1 và nhóm 2 có trách nhiệm bổ sung hồ sơ, báo cáo cơ quan quản lý cấp trên để triển khai việc giao đất đặt, tài sản công theo quy định của pháp luật liên quan.
+Đơn vị nhóm 1 và nhóm 2 có trách nhiệm bổ sung hồ sơ, báo cáo cơ quan quản lý cấp trên để triển khai việc giao đất, tài sản công theo quy định của pháp luật liên quan.
 
 6. Cơ quan quản lý cấp trên thực hiện sắp xếp tổ chức lại hoặc giải thể các đơn vị sự nghiệp công hoạt động không hiệu quả theo quy định của Chính phủ về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập.
 
@@ -756,7 +756,7 @@ b) Xây dựng, quản lý, vận hành hệ thống thông tin dữ liệu về
 
 Điều 40. Điều khoản chuyển tiếp
 
-1. Đối với các đơn vị đã được giao quyền tự chủ tài chính theo quy định tại Nghị định số 43/2006/NĐ-CP ngày 25 tháng 4 năm 2006 của Chính phủ quy định quyền tự chủ, tự chịu trách nhiệm về thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính đối với đơn vị sự nghiệp công lập, Nghị định số 54/2016/NĐ-CP ngày 14 tháng 6 năm 2016 của Chính phủ quy định cơ chế tự chủ của tổ chức khoa học và công nghệ công lập; Nghị định số 141/2016/NĐ-CP ngày 10 tháng 10 năm 2016 của Chính phủ quy định cơ chế tự chủ của đơn vị sự nghiệp công lập trong lĩnh vực sự nghiệp kinh tế và sự nghiệp khác thì tiếp tục thực hiện theo phương án tự chủ tài chính được cấp có thẩm quyền phê duyệt đến hết năm 2021.
+1. Đối với các đơn vị đã được giao quyền tự chủ tài chính theo quy định tại Nghị định số 43/2006/NĐ-CP ngày 25 tháng 4 năm 2006 của Chính phủ quy định quyền tự chủ, tự chịu trách nhiệm về thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính đối với đơn vị sự nghiệp công lập; Nghị định số 54/2016/NĐ-CP ngày 14 tháng 6 năm 2016 của Chính phủ quy định cơ chế tự chủ của tổ chức khoa học và công nghệ công lập; Nghị định số 141/2016/NĐ-CP ngày 10 tháng 10 năm 2016 của Chính phủ quy định cơ chế tự chủ của đơn vị sự nghiệp công lập trong lĩnh vực sự nghiệp kinh tế và sự nghiệp khác thì tiếp tục thực hiện theo phương án tự chủ tài chính được cấp có thẩm quyền phê duyệt đến hết năm 2021.
 
 34
 
@@ -767,7 +767,7 @@ a) Đến ngày 31 tháng 3 năm 2022, đơn vị nhóm 3 và đơn vị nhóm 4
 
 b) Đến ngày 30 tháng 6 năm 2022, các bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh, cấp huyện phê duyệt phương án tự chủ tài chính của đơn vị sự nghiệp công thuộc phạm vi quản lý sau khi có ý kiến của cơ quan tài chính cùng cấp.
 
-3. Đơn vị sự nghiệp công đã được Thủ tướng Chính phủ hoặc Ủy ban nhân dân cấp tỉnh cho phép thực hiện thí điểm cơ chế tự chủ, tự chịu trách nhiệm toàn diện về thường xuyên và chi đầu tư trước ngày Nghị định này có hiệu lực thi hành thì tiếp tục được phân loại là đơn vị nhóm 1 và được lựa chọn tiếp tục thực hiện theo Quyết định của Thủ tướng Chính phủ hoặc Ủy ban nhân dân cấp tỉnh đã phê duyệt hoặc áp dụng cơ chế tự chủ tài chính theo quy định tại Nghị định này.
+3. Đơn vị sự nghiệp công đã được Thủ tướng Chính phủ hoặc Ủy ban nhân dân cấp tỉnh cho phép thực hiện thí điểm cơ chế tự chủ, tự chịu trách nhiệm toàn diện về chi thường xuyên và chi đầu tư trước ngày Nghị định này có hiệu lực thi hành thì tiếp tục được phân loại là đơn vị nhóm 1 và được lựa chọn tiếp tục thực hiện theo Quyết định của Thủ tướng Chính phủ hoặc Ủy ban nhân dân cấp tỉnh đã phê duyệt hoặc áp dụng cơ chế tự chủ tài chính theo quy định tại Nghị định này.
 
 4. Đơn vị sự nghiệp công đã được cơ quan có thẩm quyền cho phép áp dụng cơ chế tài chính như doanh nghiệp trước ngày Nghị định này có hiệu lực thi hành thì được lựa chọn tiếp tục thực hiện theo quy định của cấp có thẩm quyền hoặc áp dụng cơ chế tự chủ tài chính của đơn vị nhóm 1 theo quy định tại Nghị định này.
 
@@ -843,7 +843,7 @@ II. Lĩnh vực sự nghiệp giáo dục nghề nghiệp
 1. Dịch vụ đào tạo trình độ cao đẳng
 2. Dịch vụ đào tạo trình độ trung cấp
 3. Dịch vụ đào tạo sơ cấp nghề, đào tạo nghề dưới 03 tháng
-4. Dịch vụ đào tạo nghề học nặng nhọc, độc hại, nguy hiểm
+4. Dịch vụ đào tạo nghề nặng nhọc, độc hại, nguy hiểm
 
 III. Lĩnh vực sự nghiệp y tế - dân số
 1. Dịch vụ y tế dự phòng và chăm sóc sức khỏe ban đầu
@@ -865,81 +865,81 @@ V. Lĩnh vực sự nghiệp văn hóa, gia đình, thể thao và du lịch
 ----- [Trang 37] -----
 2
 
-2 Dịch vụ gia đình
-3 Dịch vụ thể dục, thể thao
-4 Dịch vụ du lịch
-5 Dịch vụ khác
-VI Lĩnh vực sự nghiệp khoa học và công nghệ
-1 Dịch vụ hoạt động khoa học và công nghệ
-2 Dịch vụ lĩnh vực tiêu chuẩn đo lường chất lượng (bao gồm tiêu chuẩn, quy chuẩn kỹ thuật)
-3 Dịch vụ lĩnh vực sở hữu trí tuệ
-4 Dịch vụ phát triển tiềm lực khoa học và công nghệ (bao gồm thông tin khoa học và công nghệ)
-5 Dịch vụ lĩnh vực năng lượng nguyên tử, an toàn bức xạ và hạt nhân
-VII Lĩnh vực sự nghiệp bảo vệ môi trường
-1 Dịch vụ môi trường
-2 Dịch vụ bảo tồn thiên nhiên và đa dạng sinh học
-VIII Các hoạt động kinh tế, sự nghiệp khác
-A Hoạt động kinh tế nông nghiệp và phát triển nông thôn
-1 Dịch vụ lĩnh vực trồng trọt
-2 Dịch vụ lĩnh vực chăn nuôi
-3 Dịch vụ lĩnh vực bảo vệ thực vật
-4 Dịch vụ lĩnh vực thú y
-5 Dịch vụ lĩnh vực thủy sản
-6 Dịch vụ lĩnh vực lâm nghiệp
-7 Dịch vụ lĩnh vực thủy lợi
-8 Dịch vụ lĩnh vực phòng chống thiên tai
-9 Dịch vụ lĩnh vực quản lý chất lượng
-10 Dịch vụ khác
-B Hoạt động kinh tế giao thông vận tải
-1 Dịch vụ lĩnh vực đường bộ
-2 Dịch vụ lĩnh vực đường thủy nội địa
+2. Dịch vụ gia đình
+3. Dịch vụ thể dục, thể thao
+4. Dịch vụ du lịch
+5. Dịch vụ khác
+VI. Lĩnh vực sự nghiệp khoa học và công nghệ
+1. Dịch vụ hoạt động khoa học và công nghệ
+2. Dịch vụ lĩnh vực tiêu chuẩn đo lường chất lượng (bao gồm tiêu chuẩn, quy chuẩn kỹ thuật)
+3. Dịch vụ lĩnh vực sở hữu trí tuệ
+4. Dịch vụ phát triển tiềm lực khoa học và công nghệ (bao gồm thông tin khoa học và công nghệ)
+5. Dịch vụ lĩnh vực năng lượng nguyên tử, an toàn bức xạ và hạt nhân
+VII. Lĩnh vực sự nghiệp bảo vệ môi trường
+1. Dịch vụ môi trường
+2. Dịch vụ bảo tồn thiên nhiên và đa dạng sinh học
+VIII. Các hoạt động kinh tế, sự nghiệp khác
+A. Hoạt động kinh tế nông nghiệp và phát triển nông thôn
+1. Dịch vụ lĩnh vực trồng trọt
+2. Dịch vụ lĩnh vực chăn nuôi
+3. Dịch vụ lĩnh vực bảo vệ thực vật
+4. Dịch vụ lĩnh vực thú y
+5. Dịch vụ lĩnh vực thủy sản
+6. Dịch vụ lĩnh vực lâm nghiệp
+7. Dịch vụ lĩnh vực thủy lợi
+8. Dịch vụ lĩnh vực phòng chống thiên tai
+9. Dịch vụ lĩnh vực quản lý chất lượng
+10. Dịch vụ khác
+B. Hoạt động kinh tế giao thông vận tải
+1. Dịch vụ lĩnh vực đường bộ
+2. Dịch vụ lĩnh vực đường thủy nội địa
 
 ----- [Trang 38] -----
 3
 
-3 Dịch vụ lĩnh vực hàng hải
-4 Dịch vụ lĩnh vực hàng không
-5 Dịch vụ lĩnh vực đường sắt
-6 Dịch vụ khác
-C Hoạt động kinh tế tài nguyên môi trường
-1 Dịch vụ lĩnh vực quản lý đất đai
-2 Dịch vụ lĩnh vực đo đạc và bản đồ
-3 Dịch vụ lĩnh vực địa chất và khoáng sản
-4 Dịch vụ lĩnh vực tài nguyên nước
-5 Dịch vụ lĩnh vực khí tượng thủy văn và biến đổi khí hậu
-6 Dịch vụ lĩnh vực quản lý tổng hợp tài nguyên môi trường biển và hải đảo
-7 Dịch vụ lĩnh vực viễn thám
-8 Dịch vụ khác
-D Hoạt động kinh tế công thương
-1 Dịch vụ lĩnh vực điện lực, tiết kiệm năng lượng, hiệu quả
-2 Dịch vụ lĩnh vực hóa chất
-3 Dịch vụ lĩnh vực quản lý cạnh tranh
-4 Dịch vụ lĩnh vực thương mại điện tử
-5 Dịch vụ khuyến công; xúc tiến thương mại
-6 Dịch vụ khác
-Đ Hoạt động kinh tế xây dựng
-1 Dịch vụ lập các đồ án quy hoạch theo phân cấp
-2 Dịch vụ nghiên cứu thiết kế điển hình, thiết kế mẫu trong các lĩnh vực quản lý nhà nước của ngành xây dựng
-3 Dịch vụ xây dựng cơ sở dữ liệu, đo đạc, thành lập bản đồ chuyên ngành xây dựng
-4 Dịch vụ xây dựng, thu thập, duy trì hệ thống cơ sở dữ liệu trong lĩnh vực quản lý nhà nước của ngành xây dựng, phát triển cổng thông tin điện tử
-5 Dịch vụ điều tra thống kê
+3. Dịch vụ lĩnh vực hàng hải
+4. Dịch vụ lĩnh vực hàng không
+5. Dịch vụ lĩnh vực đường sắt
+6. Dịch vụ khác
+C. Hoạt động kinh tế tài nguyên môi trường
+1. Dịch vụ lĩnh vực quản lý đất đai
+2. Dịch vụ lĩnh vực đo đạc và bản đồ
+3. Dịch vụ lĩnh vực địa chất và khoáng sản
+4. Dịch vụ lĩnh vực tài nguyên nước
+5. Dịch vụ lĩnh vực khí tượng thủy văn và biến đổi khí hậu
+6. Dịch vụ lĩnh vực quản lý tổng hợp tài nguyên môi trường biển và hải đảo
+7. Dịch vụ lĩnh vực viễn thám
+8. Dịch vụ khác
+D. Hoạt động kinh tế công thương
+1. Dịch vụ lĩnh vực điện lực, tiết kiệm năng lượng, hiệu quả
+2. Dịch vụ lĩnh vực hóa chất
+3. Dịch vụ lĩnh vực quản lý cạnh tranh
+4. Dịch vụ lĩnh vực thương mại điện tử
+5. Dịch vụ khuyến công; xúc tiến thương mại
+6. Dịch vụ khác
+Đ. Hoạt động kinh tế xây dựng
+1. Dịch vụ lập các đồ án quy hoạch theo phân cấp
+2. Dịch vụ nghiên cứu thiết kế điển hình, thiết kế mẫu trong các lĩnh vực quản lý nhà nước của ngành xây dựng
+3. Dịch vụ xây dựng cơ sở dữ liệu, đo đạc, thành lập bản đồ chuyên ngành xây dựng
+4. Dịch vụ xây dựng, thu thập, duy trì hệ thống cơ sở dữ liệu trong lĩnh vực quản lý nhà nước của ngành xây dựng, phát triển cổng thông tin điện tử
+5. Dịch vụ điều tra thống kê
 
 ----- [Trang 39] -----
 4
-6 Dịch vụ khác
-E Lĩnh vực sự nghiệp lao động thương binh và xã hội
-1 Dịch vụ chăm sóc người có công
-2 Dịch vụ về việc làm
-3 Dịch vụ đưa người lao động đi làm việc ở nước ngoài
-4 Dịch vụ trợ giúp xã hội và bảo vệ chăm sóc trẻ em; dịch vụ xã hội trong cơ sở bảo trợ xã hội
-5 Dịch vụ phòng, chống tệ nạn xã hội
-6 Dịch vụ về an toàn vệ sinh lao động
-G Lĩnh vực tư pháp
-1 Dịch vụ trợ giúp pháp lý
-2 Dịch vụ khác
-H Lĩnh vực sự nghiệp khác
-1 Dịch vụ cứu nạn trên biển
-2 Dịch vụ sự nghiệp khác
+6. Dịch vụ khác
+E. Lĩnh vực sự nghiệp lao động thương binh và xã hội
+1. Dịch vụ chăm sóc người có công
+2. Dịch vụ về việc làm
+3. Dịch vụ đưa người lao động đi làm việc ở nước ngoài
+4. Dịch vụ trợ giúp xã hội và bảo vệ chăm sóc trẻ em; dịch vụ xã hội trong cơ sở bảo trợ xã hội
+5. Dịch vụ phòng, chống tệ nạn xã hội
+6. Dịch vụ về an toàn vệ sinh lao động
+G. Lĩnh vực tư pháp
+1. Dịch vụ trợ giúp pháp lý
+2. Dịch vụ khác
+H. Lĩnh vực sự nghiệp khác
+1. Dịch vụ cứu nạn trên biển
+2. Dịch vụ sự nghiệp khác
 
 ----- [Trang 40] -----
 Phụ lục II

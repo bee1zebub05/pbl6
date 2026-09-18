@@ -188,7 +188,7 @@ d) 840 giờ đối với chức danh giáo sư.
 7
 
 đánh giá thông qua các sản phẩm khoa học và công nghệ, các hoạt động nghiên cứu và chuyển giao công nghệ được xác định theo quy định hiện hành của Trường và ĐHĐN về quản lý hoạt động khoa học và công nghệ.
-5. Đối với những giảng viên không hoàn thành nhiệm vụ NCKH theo quy định, Trưởng các Phòng, Khoa và đơn vị thuộc (sau đây gọi tắt là Trưởng đơn vị) căn cứ mức độ, hoàn cảnh cụ thể để xem xét khi đánh giá kết quả thực hiện nhiệm vụ trong năm học, xếp loại thi đua và giải quyết các chế độ, chính sách liên quan; đồng thời cho phép bù giờ chuẩn giảng dạy sang giờ NCKH theo quy định tại khoản 3 Điều 13 Quy định này.
+5. Đối với những giảng viên không hoàn thành nhiệm vụ NCKH theo quy định, Trưởng các Phòng, Khoa và đơn vị trực thuộc (sau đây gọi tắt là Trưởng đơn vị) căn cứ mức độ, hoàn cảnh cụ thể để xem xét khi đánh giá kết quả thực hiện nhiệm vụ trong năm học, xếp loại thi đua và giải quyết các chế độ, chính sách liên quan; đồng thời cho phép bù giờ chuẩn giảng dạy sang giờ NCKH theo quy định tại khoản 3 Điều 13 Quy định này.
 
 Điều 8. Quy định về phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác
 1. Giảng viên phải dành thời gian làm việc trong năm học để phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác (bao gồm học tập, bồi dưỡng nâng cao năng lực chuyên môn, nghiệp vụ; xây dựng, cải tiến chương trình đào tạo; kiểm định, đảm bảo chất lượng; liên hệ, cung cấp thông tin Trường và ĐHĐN cho các học giả, đồng nghiệp, doanh nghiệp phục vụ xếp hạng đại học,..). Định mức thời gian phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác trong mỗi năm học đối với mỗi chức danh giảng viên như sau:
@@ -605,7 +605,7 @@ TT | Hoạt động | Phân loại chi tiết | Số điểm quy đổi | Số g
 | | | Tạp chí trong danh mục hiện hành của hội đồng Giáo sư nhà nước | Lấy điểm cao nhất theo các ngành liên quan nhưng không quá 1 điểm và nhân thêm 1/20 | 600 x số điểm quy đổi | Thư mời phản biện của tạp chí; Giấy xác nhận từ Ban biên tập của tạp chí
 | | | Kỷ yếu hội thảo trong cơ sở dữ liệu WoS/ Scopus | 0,05 | 30 | 
 | | | Kỷ yếu hội thảo khác có ISBN | 0,025 | 15 | 
-| | | Sách chuyên khảo | 0,15 | 90 | Thư mời phản biện; Quyết định lập Hội đồng phân phản biện sách/Giáo trình; xác nhận của cấp có thẩm quyền
+| | | Sách chuyên khảo | 0,15 | 90 | Thư mời phản biện; Quyết định lập Hội đồng phản biện sách/Giáo trình; xác nhận của cấp có thẩm quyền
 | | | Giáo trình | 0,1 | 60 | 
 | | | Sách tham khảo | 0,075 | 45 | 
 | | | Cấp Bộ, Thành phố | 0,075-0,15 | 45-90 | 

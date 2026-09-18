@@ -113,7 +113,6 @@ sinh là giảng viên có chức danh hoặc trình độ khác nhau của cơ 
 Hệ số giảng viên | Hệ số giảng viên thỉnh
 cơ hữu
 giảng
-.
 Trm‘:;ng
 Các
 Chức danh/ Trình độ
@@ -400,7 +399,6 @@ TH
 cT
 TH
 Tỷ lệ
-%
 1
 Sau đại học
 11
@@ -452,7 +450,6 @@ TH
 cT
 TH
 Ty lệ
-%
 2.14
 Đào tao chính quy
 đối với người đã có
@@ -507,7 +504,6 @@ cT
 TH
 c TH
 Tỷ lệ
-%
 Cao đẳng ngành
 Giáo dục Mằm non
 Cao đẳng chính
@@ -575,14 +571,12 @@ và đào tạo | nhân lực
 tiên đào tạo
 ên ngài
 cho phép
-.
 2.
 AR
 N
 dt dau
 Ñ
 H
-.
 ˆ
 ngành
 ở
@@ -633,7 +627,6 @@ Ngành/ trình độ chủ trì giảng dạy và tính chỉ tiêu tuyển sinh
 sé
 tuyển | Thời | Chức
 Chuyên | Giang
-:
 Deih
 Thc
 T
@@ -668,7 +661,7 @@ e
 3
 )
 Ø
-16) | Ø | @& | @
+16) | Ø | @& |
 |10
 (1)
 2 103 | 09 | (15
@@ -725,7 +718,6 @@ môn
 A
 nganh ưu tiên
 năm sinh
-.
 H
 N
 mà trường đăng
@@ -865,7 +857,6 @@ Khôi
 Khôi
 Khôi
 ong
-:
 ngành
 I |ngành II ngành III | ngành
 IV | ngành
@@ -894,7 +885,6 @@ igành đào tạo wu tiên
 ién
 2.1.2.1 Nganh...
 22 Lién thông từ trung cập
-"~
 _ liên đại học chính quy
 2.2.1 Ngành...
 Liên thông từ cao
@@ -944,7 +934,6 @@ chính quy
 Pao tạo chính quy
 33
 doi với người đã có
-~
 băng tốt nghiệp trình
 độ cao đăng
 I
@@ -999,7 +988,6 @@ THI Đào tạo từ xa
 ......... (Người)
 Theo phương thức,
 Ì)l_4l' kiến n?;u'iri mg tết ỵhiử theo Khổi ngỉ1l1f1 đào n_on
-.
 STT
  ginhđôđàotạopb[Khối
 Khối
@@ -1007,8 +995,6 @@ Khối
 Khéi
 Khổ
 Khố | Khối | Tong
-.
-:
 ngành
 I |ngành II ngành III ngành
 IV | ngành
@@ -1307,12 +1293,10 @@ Sau dai học
 1.2.2 |Ngành ....
 2
 Đạihọc
-|
 2.1
 |Chinh quy
 211 Các ngành đào tạo trừ
 ˆ
-.
 ngành đào tạo ưu tiên
 _¬
 2.1.1.1Ngành...
@@ -1377,15 +1361,11 @@ Khối ngành đào tạo
 STT |Logi chỉ tiêu
 Khối | Khối
 Khố | Khối | Khối
-|
 Khối | Khối
-|
 ngành | ngành
 ngành
 ngành | ngành
-|
 ngành | ngành
-=
 I
 m m m
 IV
@@ -1402,13 +1382,11 @@ lên cao đăng chính quy
 Đào tạo chính quy đôi với
 Ị
 33 người đã có bằng tt
-|
 x
 X
 X
 x
 x
-|
 I |Viralam vừa học
 X
 X

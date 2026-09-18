@@ -3,7 +3,7 @@ BỘ GIÁO DỤC VÀ ĐÀO TẠO
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
-Số: 01 /2024/TT-BGDĐT
+Số: 01/2024/TT-BGDĐT
 Hà Nội, ngày 05 tháng 02 năm 2024
 
 THÔNG TƯ
@@ -52,7 +52,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 
 CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC
-(Kèm theo Thông tư số 01 /2024/TT-BGDĐT ngày 05 tháng 02 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo)
+(Kèm theo Thông tư số 01/2024/TT-BGDĐT ngày 05 tháng 02 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo)
 
 I. GIẢI THÍCH TỪ NGỮ
 
@@ -177,8 +177,8 @@ IV. HƯỚNG DẪN XÁC ĐỊNH CÁC CHỈ SỐ ĐÁNH GIÁ
  - Đối với trường đào tạo ngành đặc thù không đào tạo tiến sĩ | ≥ 5% (10%)
  - Đối với trường đào tạo ngành đặc thù có đào tạo tiến sĩ | ≥ 10% (15%)
 - Tiêu chuẩn 3. Cơ sở vật chất:
- - 3.1 | Diện tích đất trên người học (m^2) | (≥ 25)
- - 3.2 | 1. Diện tích sàn trên người học (m^2) | ≥ 2,8
+ - 3.1 | Diện tích đất trên người học (m²) | (≥ 25)
+ - 3.2 | 1. Diện tích sàn trên người học (m²) | ≥ 2,8
 
 -
 
@@ -255,12 +255,11 @@ Tiêu chuẩn 3: Cơ sở vật chất
 Tổng diện tích đất của cơ sở GDĐH hoặc của một phân hiệu có nhân hệ số theo vị trí khuôn viên (S), chia cho số người học chính quy quy đổi theo trình độ và lĩnh vực đào tạo (N) của cơ sở GDĐH hoặc của phân hiệu.
 S = Σ S(i) × K_VT(i)
 
-$
 
 ----- [Trang 10] -----
 N = Σ [N1(j) × 1,0 + N2(j) × 1,5 + N3(j) × 2,0] × K_DT(j)$
 Trong đó:
-- S(i) là diện tích đất tại khuôn viên (i) mà cơ sở GDĐH được cấp quyền sử dụng ổn định lâu dài hoặc sử dụng có thời hạn theo pháp luật đất đai phục vụ mục đích hoạt động GDĐH, tính theo đơn vị m^2;
+- S(i) là diện tích đất tại khuôn viên (i) mà cơ sở GDĐH được cấp quyền sử dụng ổn định lâu dài hoặc sử dụng có thời hạn theo pháp luật đất đai phục vụ mục đích hoạt động GDĐH, tính theo đơn vị m²;
 - K_VT(i) là hệ số vị trí của khuôn viên (i): K_VT = 2,5 đối với các khuôn viên nằm trong địa giới các quận của các thành phố trực thuộc Trung ương, K_VT = 1 đối với các khu vực còn lại;
 - N1(j) là số SVĐH chính quy của lĩnh vực đào tạo (j);
 - N2(j) là số HVCH của lĩnh vực đào tạo (j);
@@ -272,7 +271,7 @@ Tổng diện tích sàn xây dựng trực tiếp phục vụ đào tạo của
 S = Σ S(i) × K_SD(i)
 N = Σ [N1(j) × 1,0 + N2(j) × 1,5 + N3(j) × 2,0] × K_DT(j)
 Trong đó:
-- S(i) là tổng diện tích sàn xây dựng của công trình (i), tính theo đơn vị m^2;
+- S(i) là tổng diện tích sàn xây dựng của công trình (i), tính theo đơn vị m²;
 - K_SD(i) là hệ số sử dụng diện tích của công trình (i) phục vụ trực tiếp hoạt động đào tạo (sau khi trừ đi phần diện tích tường xây, hành lang, cầu thang, các hạng mục kỹ thuật... và các diện tích phục vụ mục đích khác), K_SD ≤ 0,7;
 - N1(j) là số SVĐH chính quy của lĩnh vực đào tạo (j);
 - N2(j) là số HVCH của lĩnh vực đào tạo (j);
@@ -280,7 +279,7 @@ Trong đó:
 - K_DT(j) là hệ số diện tích của lĩnh vực đào tạo (j), được quy định tại Mục 3 ở cuối Phần này.
 
 3.2.2 Tỉ lệ giảng viên có chỗ làm việc riêng biệt
-Tỉ lệ GVTTG được bố trí diện tích và bàn ghế làm việc riêng biệt tại cơ sở GDĐH, trong phòng chung hoặc riêng nhưng không ít hơn 6m^2 cho mỗi người.
+Tỉ lệ GVTTG được bố trí diện tích và bàn ghế làm việc riêng biệt tại cơ sở GDĐH, trong phòng chung hoặc riêng nhưng không ít hơn 6m² cho mỗi người.
 Trường hợp áp dụng cho phân hiệu, số GVTTG được lấy theo số liệu dùng để xác định chỉ tiêu tuyển sinh của phân hiệu.
 
 3.3.1 Số đầu sách trên ngành đào tạo
@@ -610,20 +609,19 @@ Bảng 2A: Đội ngũ giảng viên toàn thời gian
 
 | CHỈ SỐ THỐNG KÊ | Trình độ ^(1) | Chức danh | Tổng số | Tổng số GV quy đổi |
 | ĐH | ThS | TS | PGS | GS |
-|
 
 ----- [Trang 19] -----
 1 | Số giảng viên toàn thời gian | | | | | | | |
 | 2 | Số giảng viên cơ hữu trong độ tuổi lao động | | | | | | | |
 
 Ghi chú:
-(1) Lưu ý: Số giảng viên có trình độ độ tiến sĩ kê khai ở đây BAO GỒM cả những người có chức danh giáo sư, phó giáo sư.
+(1) Lưu ý: Số giảng viên có trình độ tiến sĩ kê khai ở đây BAO GỒM cả những người có chức danh giáo sư, phó giáo sư.
 
 TIÊU CHUẨN 3: CƠ SỞ VẬT CHẤT
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-| 3.1 | Diện tích đất/người học (m^2) | 25 | | | |
-| 3.2.1 | Diện tích sàn/người học (m^2) | 2,8 | | | |
+| 3.1 | Diện tích đất/người học (m²) | 25 | | | |
+| 3.2.1 | Diện tích sàn/người học (m²) | 2,8 | | | |
 | 3.2.2 | Tỉ lệ giảng viên có chỗ làm việc riêng biệt | 70% | | | |
 | 3.3.1 | Số đầu sách/ngành đào tạo | 40 | | | |
 | 3.3.2 | Số bản sách/người học |
@@ -635,7 +633,7 @@ TIÊU CHUẨN 3: CƠ SỞ VẬT CHẤT
 
 Bảng 3A: Khuôn viên trụ sở chính và các phân hiệu
 
-| KHUÔN VIÊN | Ký hiệu | Diện tích đất (m^2) | Vị trí khuôn viên | Diện tích quy đổi | Địa chỉ |
+| KHUÔN VIÊN | Ký hiệu | Diện tích đất (m²) | Vị trí khuôn viên | Diện tích quy đổi | Địa chỉ |
 | 1 | Trụ sở chính | | | | |
 | 2 | Cơ sở... | | | | |
 | 3 | Phân hiệu... | | | | |
@@ -657,7 +655,7 @@ Bảng 3B: Công trình phục vụ đào tạo
 
 Bảng 3C: Giáo trình, sách chuyên khảo
 
-| STT | CHỈ SỐ THÔNG KÊ | Giá trị | Nơi lưu trữ | Ghi chú |
+| STT | CHỈ SỐ THỐNG KÊ | Giá trị | Nơi lưu trữ | Ghi chú |
 | 1 | Tổng số ngành đào tạo các trình độ | | | |
 | 2 | Tổng số đầu giáo trình, sách chuyên khảo cần có | | | |
 | 3 | Số đầu sách điện tử có truy cập trực tuyến | | | |
@@ -668,8 +666,8 @@ Bảng 3C: Giáo trình, sách chuyên khảo
 
 Bảng 3D: Hạ tầng công nghệ thông tin
 
-| STT | CHỈ SỐ THÔNG KÊ | Giá trị | Ghi chú |
-| 1 | Tốc độ hoặc băng thông đường truyền Internet (Mpbs) | | |
+| STT | CHỈ SỐ THỐNG KÊ | Giá trị | Ghi chú |
+| 1 | Tốc độ hoặc băng thông đường truyền Internet (Mbps) | | |
 | 2 | Tổng số học phần giảng dạy trong năm | | |
 | 3 | Tổng số học phần sẵn sàng giảng dạy trực tuyến > 50% | | |
 
@@ -743,7 +741,7 @@ Bảng 5A: Kết quả đào tạo và tuyển sinh (cả ĐH và SĐH)
 
 Thời điểm thống kê: 31/12/20...
 
-| | CHỈ SỐ THÔNG KÊ | NĂM THỐNG KÊ | | | | | | | | | |
+| | CHỈ SỐ THỐNG KÊ | NĂM THỐNG KÊ | | | | | | | | | |
 | | | 2024 | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 |
 | 1 | Quy mô đào tạo tại thời điểm cuối năm | | | | | | | | | | |
 | 2 | Chỉ tiêu tuyển sinh theo kế hoạch từng năm | | | | | | | | | | |
@@ -775,7 +773,7 @@ Bảng 5B: Quy mô đào tạo theo lĩnh vực và theo trình độ đào tạ
 Thời điểm thống kê: 31/12/20...
 
 | STT | LĨNH VỰC ĐÀO TẠO | QUY MÔ ĐH | | | QUY MÔ SĐH | | TỔNG | Quy đổi về giảng dạy | | Quy đổi về diện tích | |
-| | | CQ | VLVH | DTTX | ThS | TS | | K_GĐ | Số lượng | K_DT | Số lượng |
+| | | CQ | VLVH | DTTX | ThS | TS | | K_GD | Số lượng | K_DT | Số lượng |
 | 1 | Khoa học giáo dục và đào tạo giáo viên | | | | | | | 1,0 | | 1,0 | |
 | 2 | Nghệ thuật | | | | | | | 2,0 | | 1,5 | |
 | 3 | Nhân văn | | | | | | | 0,8 | | 0,8 | |
@@ -810,9 +808,9 @@ Thời điểm thống kê: 31/12/20...
 TIÊU CHUẨN 6: NGHIÊN CỨU VÀ ĐỔI MỚI SÁNG TẠO
 
 | CHỈ SỐ ĐÁNH GIÁ | TC6 | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
-| 6.1 | Tỉ trọng thu khoa học-công nghệ | 5,0% | | |
+| 6.1 | Tỉ trọng thu khoa học - công nghệ | 5,0% | | |
 | 6.2.1 | Số công bố khoa học/giảng viên | 0,3 | | |
-| 6.2.2 | Số công bố WoS, Scopus/ giảng viên | 0,3 | | |
+| 6.2.2 | Số công bố WoS, Scopus/giảng viên | 0,3 | | |
 
 Bảng 6A: Công bố khoa học của giảng viên toàn thời gian
 
@@ -827,13 +825,13 @@ Bảng KS.1: Kết quả khảo sát người học
 
 | STT | CÂU HỎI KHẢO SÁT Ý KIẾN (1) | Phương thức khảo sát: | | | | |
 | | | Người học | Số lượt khảo sát (2) | Số lượt phản hồi (3) | Tỉ lệ phản hồi tích cực (4) | Tỉ lệ phản hồi tích cực |
-| 1 | Anh/ Chị hài lòng như thế nào về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân? | Đại học | | | | |
+| 1 | Anh/Chị hài lòng như thế nào về chất lượng và hiệu quả giảng dạy, hướng dẫn của giảng viên đối với tiến bộ học tập của bản thân? | Đại học | | | | |
 | Sau đại học | | | | |
 | Tổng số | | | | |
-| 2 | Anh/ Chị hài lòng như thế nào về tổng thể quá trình đào tạo và trải nghiệm tại trường đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân? | Đại học | | | | |
+| 2 | Anh/Chị hài lòng như thế nào về tổng thể quá trình đào tạo và trải nghiệm tại trường đối với sự phát triển về kiến thức, năng lực và phẩm chất của bản thân? | Đại học | | | | |
 | Sau đại học | | | | |
 | Tổng số | | | | |
-| 3 | Trong thời gian 12 tháng sau khi tốt nghiệp, Anh/ Chị đã có việc làm, tự tạo việc làm (hoặc đi học tiếp) phù hợp với trình độ đào tạo hay chưa? | Đại học | | | | |
+| 3 | Trong thời gian 12 tháng sau khi tốt nghiệp, Anh/Chị đã có việc làm, tự tạo việc làm (hoặc đi học tiếp) phù hợp với trình độ đào tạo hay chưa? | Đại học | | | | |
 
 ----- [Trang 2] -----
 
@@ -842,11 +840,11 @@ Bảng KS.1: Kết quả khảo sát người học
 Ghi chú:
 (1) Câu hỏi khảo sát ý kiến có năm mức độ đánh giá:
 - Đối với câu hỏi 1 và 2: Rất không hài lòng, Không hài lòng, Phân vân, Hài lòng, Rất hài lòng.
-- Đối với câu hỏi 3 (dành cho sinh viên đã tốt nghiệp): Chưa đi tìm việc làm; Chưa có việc làm; Có việc làm (hoặc: Tự tạo việc làm; Tư việc làm phù hợp với trình độ chuyên môn; Đã đi học hoặc chuẩn bị đi học trình độ cao hơn).
+- Đối với câu hỏi 3 (dành cho sinh viên đã tốt nghiệp): Chưa đi tìm việc làm; Chưa có việc làm; Có việc làm (hoặc: Tự tạo việc làm; Tự việc làm phù hợp với trình độ chuyên môn; Đã đi học hoặc chuẩn bị đi học trình độ cao hơn).
 
 (2) Số lượt khảo sát tính theo tổng số lượt người học được gửi và đề nghị trả lời câu hỏi khảo sát (bao gồm tất cả hình thức đào tạo). Đối với hình thức khảo sát theo lớp học, một sinh viên có thể tham gia nhiều lượt khảo sát (theo từng lớp học, đối với từng giảng viên). Đối với các hình thức khảo sát tổng thể, một sinh viên tham gia một lượt khảo sát, số lượt khảo sát bằng tổng số sinh viên. Đối với hình thức khảo sát chọn mẫu, số lượt khảo sát ít nhất bằng 20% số sinh viên và phải mang tính ngẫu nhiên, đại diện cho cả khóa đào tạo và chương trình đào tạo.
 
-(3) Số phần trăm gợi ý kiến phản hồi hợp lệ (sau khi loại bỏ những phiếu trả lời hoàn toàn trống hoặc những phiếu có chứa thông tin mẫu thuẫn, phiếu của một sinh viên gửi nhiều lần...).
+(3) Số phần trăm gợi ý kiến phản hồi hợp lệ (sau khi loại bỏ những phiếu trả lời hoàn toàn trống hoặc những phiếu có chứa thông tin mâu thuẫn, phiếu của một sinh viên gửi nhiều lần...).
 
 (4) Số phản hồi tích cực là số chọn hai mức độ đánh giá cao nhất:
 - Đối với câu hỏi 1 và 2: Là số lượt sinh viên đánh giá từ mức "Hài lòng" trở lên ("Hài lòng", "Rất hài lòng").
