@@ -47,6 +47,7 @@ import va_dieu_thieu as VD     # noqa: E402  — bo cat Dieu tu .txt
 
 KHO_TXT = GOC / "data" / "clean" / "text_final"
 RA = GOC / "data" / "kg_json"
+SCHEMA = GOC / "legal_knowledge_graph" / "schema" / "document.schema.json"
 ENV = GOC.parent / "project" / ".env"
 
 MODEL_MAC_DINH = "gemini-3.5-flash-lite"
@@ -305,6 +306,30 @@ def _ngay_that(s):
         return False
 
 
+def _doc_enum(ten):
+    """Lay enum tu schema cua ductran thay vi chep cung vao day."""
+    try:
+        d = json.loads(io.open(SCHEMA, encoding="utf-8").read())
+    except Exception:
+        return set()
+    ra = set()
+
+    def di(o, k=""):
+        if isinstance(o, dict):
+            if k == ten and isinstance(o.get("enum"), list):
+                ra.update(x for x in o["enum"] if x)
+            for a, b in o.items():
+                di(b, a)
+        elif isinstance(o, list):
+            for x in o:
+                di(x, k)
+
+    di(d)
+    return ra
+
+
+_ORG_TYPE = _doc_enum("orgType")
+
 def _don_dang(d):
     """Sua may cho model hay viet sai DANG — thuan co hoc, khong doan noi dung.
 
@@ -334,6 +359,12 @@ def _don_dang(d):
     if len(ds) != len(d.get("citations") or []):
         d["citations"] = ds
 
+    # 4b. orgType khong co trong enum -> None (truong nay cho phep None).
+    #     0246 tra ve 'co_quan_cua_quoc_hoi', model tu nghi ra.
+    org = d.get("organization") or {}
+    if org.get("orgType") and org["orgType"] not in _ORG_TYPE:
+        org["orgType"] = None
+
     # signers không có tên thì không dựng được node Person
     sg = [s for s in (d.get("signers") or []) if (s.get("fullName") or "").strip()]
     if len(sg) != len(d.get("signers") or []):
@@ -357,6 +388,24 @@ def _dem_dieu(d):
     return len(d.get("articles") or []) + sum(
         len(n.get("articles") or []) for n in d.get("normativeContents") or [])
 
+
+# Cau ghi chu do chinh bo cat sinh ra. Khong dung [^.]* duoc vi trong cau co
+# "ban .txt goc" — dau cham cua .txt cat cau lam doi.
+_NOTE_CUA_TA = re.compile(
+    r"\s*(?:\d+ Điều (?:lấy toàn văn trực tiếp|thân chính cắt thẳng)"
+    r"|Văn bản lồng nhau:"
+    r"|\d+ Điều của bản kèm theo được cắt thẳng)"
+    r".*?(?:gốc(?: \(gồm cả bản kèm theo\))?\.|không đưa vào\.)")
+
+
+def _ghi_note(data, cau):
+    """Thay cau ghi chu cua BO CAT, giu nguyen phan model tu viet.
+
+    --va-lai chay lai nhieu lan tren cung mot file; noi them moi lan thi note
+    phinh ra va cac con so mau thuan nhau.
+    """
+    cu = _NOTE_CUA_TA.sub("", data.get("note") or "").strip()
+    data["note"] = ((cu + " ") if cu else "") + cau
 
 def _lam_dieu(cat, k):
     return {
@@ -426,6 +475,21 @@ def _bu_dieu(data, goc):
     normativeContents (ban ban hanh kem theo). Cac mach sau deu la phu luc
     danh so lai, bo.
     """
+    if VD._du_bo(goc):
+        # Du Dieu ca, chi lech thu tu -> cat thang, khong can theo mach
+        cat = VD._cat_tat_ca(goc)
+        if len(cat) >= 2:
+            o, i = _cho_dat(data, cat)
+            if o == "articles":
+                data["articles"] = _gop(data.get("articles"), cat)
+            else:
+                nd = list(data["normativeContents"])
+                nd[i] = dict(nd[i], articles=_gop(nd[i].get("articles"), cat))
+                data["normativeContents"] = nd
+            _ghi_note(data, "%d Điều lấy toàn văn trực tiếp từ bản .txt gốc."
+                      % len(cat))
+            return
+
     mach = VD._tach_mach(goc)
     if not mach:
         return
@@ -460,10 +524,8 @@ def _bu_dieu(data, goc):
 
     n = len(cat) + (len(kem) if kem else 0)
     if n:
-        ghi = (data.get("note") or "").strip()
-        data["note"] = (ghi + " " if ghi else "") + (
-            "%d Điều lấy toàn văn trực tiếp từ bản .txt gốc%s."
-            % (n, " (gồm cả bản kèm theo)" if kem else ""))
+        _ghi_note(data, "%d Điều lấy toàn văn trực tiếp từ bản .txt gốc%s."
+                  % (n, " (gồm cả bản kèm theo)" if kem else ""))
 
 
 def va_lai(chi=None) -> int:

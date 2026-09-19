@@ -54,7 +54,7 @@ VIEN_DAN = re.compile(
     # "Điều 32 đến Điều 42, các điều 44, 45..." — vien dan khoang. Sot mot chu
     # "đến" nay tung lam 0280 mat 170/173 Dieu: day so gay dung mot cho, chot
     # an toan chan ca file.
-    r"^\s*(?:của|tại|và|đến|;|,)"
+    r"^\s*(?:của|tại|và|đến|các|khoản|điểm|;|,)"
     r"|^\s*[Ll]uật này|^\s*này\b"
     # "Điều 24, Điều 25, Điều 26 Quy chế..." — liet ke vien dan, khong phai tieu
     # de. Phan biet duoc vi sau "Điều"/"Khoản"/"Điểm" la mot CON SO; tieu de
@@ -63,7 +63,7 @@ VIEN_DAN = re.compile(
     # "Điều 10, 11, 12, 13, 14 và 15 Nghị định này" — sau dau ngan la CHU SO
     # thi chac chan la liet ke vien dan, tieu de that khong bao gio bat dau
     # bang so. Thieu luat nay thi 0134 tut tu 41 xuong 16 Dieu.
-    r"|^[ \t]*\d"
+    r"|^[ \t]*\d{1,3}[ \t]*(?:[,;]|và\b|hoặc\b)"
     r"|^\s*(?:%s)\s+(?:này|số|\d)" % _LOAI_VB_VD)
 MOC_TRANG = re.compile(
     r"^[ 	]*(?:-{3,}[ 	]*)?\[Trang[^\]]*\][ 	]*(?:-{3,}[ 	]*)?$", re.M)
@@ -152,6 +152,55 @@ def _tach_mach(txt: str):
         ra.append((d, so))
     return ra
 
+
+def _do_phu(txt: str):
+    """-> (so moc, so Dieu duy nhat, so lon nhat). Dung de biet van ban co du
+    Dieu khong, khong quan tam thu tu."""
+    moc = [m for m in DIEU.finditer(txt)
+           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    so = [int(re.match(r"\d+", m.group(1)).group()) for m in moc]
+    return (len(so), len(set(so)), max(so)) if so else (0, 0, 0)
+
+
+def _du_bo(txt: str) -> bool:
+    """Van ban co du Dieu 1..N, chi lech thu tu o vai cho.
+
+    Ban scan hai cot doi khi dao cot o mot vai trang: 0245 (Bo luat Hinh su)
+    chay 332 -> 339 -> ... -> 333 -> ... -> 338 -> 344. Doc theo mach thi mat
+    87 Dieu, nhung tap so Dieu van du 1..426 va khong trung — nghia la khong
+    Dieu nao thieu, chi la thu tu trong file khac thu tu danh so. Than moi
+    Dieu van lien mach trong file nen cat van dung.
+
+    Khac han 0196, bi tron cot nang: 42 moc cho 96 Dieu, phu 44%. Cho nay
+    doi phu >= 95% nen 0196 khong lot.
+    """
+    n, duy, lon = _do_phu(txt)
+    # n ~ duy: gan nhu khong co so nao xuat hien hai lan. Thieu dieu kien nay
+    # thi 0133 (89 moc cho 67 Dieu, phan thua la bieu mau danh so lai) cung lot
+    # vao day, va _cat_tat_ca se lay nham than bieu mau de len Dieu that.
+    return lon >= 20 and duy >= 0.95 * lon and n <= 1.02 * duy
+
+
+def _cat_tat_ca(txt: str):
+    """Cat moi moc theo dung thu tu xuat hien trong file. -> dict.
+
+    Chi dung cho van ban da qua _du_bo. Moc trung so thi giu ban DAI hon, vi
+    ban ngan gan nhu chac chan la vien dan lot luoi.
+    """
+    moc = [m for m in DIEU.finditer(txt)
+           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    ra = {}
+    for i, m in enumerate(moc):
+        het = moc[i + 1].start() if i + 1 < len(moc) else len(txt)
+        than = MOC_TRANG.sub("", txt[m.start():het])
+        than = re.sub(r"\n{3,}", "\n\n", than).strip()
+        dong1 = than.split("\n", 1)[0]
+        tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
+        ten = "Điều %s" % m.group(1)
+        if ten in ra and len(ra[ten]["than"]) >= len(than):
+            continue
+        ra[ten] = {"tieu_de": tieu[:200] or None, "than": than}
+    return ra
 
 def _la_bieu_mau(cat) -> bool:
     """Mach nay la bieu mau phu luc chu khong phai van ban quy pham.
