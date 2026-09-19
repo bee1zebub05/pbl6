@@ -92,7 +92,7 @@ class BeKey:
 def goi_api(model, prompt, be, han_giay=300):
     """-> (text, usage). Tu doi key khi 429/500, chiu thua sau 6 lan."""
     loi_cuoi = ""
-    for lan in range(6):
+    for lan in range(8):
         key = be.lay()
         if key is None:
             time.sleep(20)
@@ -118,12 +118,16 @@ def goi_api(model, prompt, be, han_giay=300):
         except urllib.error.HTTPError as e:
             loi_cuoi = "HTTP %s" % e.code
             if e.code in (429, 500, 503):
-                be.phat(key, 60 if e.code == 429 else 15)
-            time.sleep(1.5 * (lan + 1) + random.random())
+                be.phat(key, 90 if e.code == 429 else 20)
+            elif e.code == 403:
+                # 403 o day = key het han muc ngay, khong phai sai key.
+                # Cho key do nghi han, khong thi moi lan xoay lai deu dinh.
+                be.phat(key, 3600)
+            time.sleep(2.5 * (lan + 1) + random.random() * 2)
         except Exception as e:
             loi_cuoi = "%s: %s" % (type(e).__name__, str(e)[:80])
             time.sleep(1.5 * (lan + 1))
-    raise RuntimeError("goi API that bai sau 6 lan — %s" % loi_cuoi)
+    raise RuntimeError("goi API that bai sau 8 lan — %s" % loi_cuoi)
 
 
 # ============================================================
@@ -160,6 +164,24 @@ def lam_mot(tx: Path, model, be):
 
 
 _CHI_DIEU = re.compile(r"Điều\s+(\d{1,3}[a-zA-Z]?)")
+_NGAY = re.compile(r"^(\d{2})/(\d{2})/(\d{4})$")
+
+
+def _khoa_so(s):
+    """Khoá so sánh số hiệu: bỏ dấu cách, hạ chữ thường. 08/NQ-HĐT == 08/nq-hđt."""
+    return re.sub(r"\s+", "", (s or "")).lower() or None
+
+
+def _ngay_that(s):
+    m = _NGAY.match(s or "")
+    if not m:
+        return False
+    import datetime
+    try:
+        datetime.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        return True
+    except ValueError:
+        return False
 
 
 def _don_dang(d):
@@ -173,12 +195,34 @@ def _don_dang(d):
     if nd != (d.get("normativeContents") or []):
         d["normativeContents"] = nd
 
+    minh = _khoa_so(d.get("document", {}).get("documentNumber"))
+    ds = []
     for c in d.get("citations") or []:
         ta = c.get("targetArticle")
-        if not ta:
+        if ta:
+            m = _CHI_DIEU.search(ta)
+            c["targetArticle"] = ("Điều %s" % m.group(1)) if m else None
+        # schema đặt trần 400 ký tự cho context; model hay chép nguyên cả câu dài
+        ct = c.get("context")
+        if ct and len(ct) > 400:
+            c["context"] = ct[:397].rstrip() + "…"
+        # tự trích dẫn chính mình -> bỏ, loader sẽ sinh vòng lặp
+        if minh and _khoa_so(c.get("targetDocumentNumber")) == minh:
             continue
-        m = _CHI_DIEU.search(ta)
-        c["targetArticle"] = ("Điều %s" % m.group(1)) if m else None
+        ds.append(c)
+    if len(ds) != len(d.get("citations") or []):
+        d["citations"] = ds
+
+    # signers không có tên thì không dựng được node Person
+    sg = [s for s in (d.get("signers") or []) if (s.get("fullName") or "").strip()]
+    if len(sg) != len(d.get("signers") or []):
+        d["signers"] = sg
+
+    # ngày phải đúng dd/mm/yyyy và CÓ THẬT; sai thì để null còn hơn nhập bừa
+    doc = d.get("document") or {}
+    for k in ("issueDate", "effectiveDate", "expiryDate"):
+        if doc.get(k) and not _ngay_that(doc[k]):
+            doc[k] = None
 
     for nhom in [d.get("articles") or []] + [
             n.get("articles") or [] for n in (d.get("normativeContents") or [])]:
@@ -240,7 +284,7 @@ def _bu_dieu(data, goc):
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", default=MODEL_MAC_DINH)
-    ap.add_argument("--luong", type=int, default=6)
+    ap.add_argument("--luong", type=int, default=3)
     ap.add_argument("--toi-kb", type=float, default=1e9)
     ap.add_argument("--tu-kb", type=float, default=0.0)
     ap.add_argument("--chi", default="")
