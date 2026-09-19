@@ -345,6 +345,51 @@ def _bu_dieu(data, goc):
 
 
 # ============================================================
+def va_lai(chi=None) -> int:
+    """Chay lai _don_dang + _bu_dieu tren JSON DA CO, khong goi API.
+
+    Bo cat Dieu con sua tiep (loc moc trang, phan biet trich dan voi tieu de...).
+    Moi lan no kha len thi cac JSON cu van mang ban cat cu. Mode nay cat lai tu
+    .txt goc va ghi de — mien phi, vi toan van von khong den tu model.
+    """
+    txt_theo_ma = {}
+    for p in KHO_TXT.rglob("*.txt"):
+        txt_theo_ma.setdefault(p.name[:4], p)
+
+    sua = giu = hong = 0
+    for j in sorted(RA.rglob("*.json")):
+        ma = j.name[:4]
+        if chi and ma not in chi:
+            continue
+        tx = txt_theo_ma.get(ma)
+        if tx is None:
+            noi("  ? %s  khong tim thay .txt goc" % ma)
+            continue
+        data = json.loads(io.open(j, encoding="utf-8").read())
+        truoc = json.dumps(data, ensure_ascii=False, sort_keys=True)
+
+        _don_dang(data)
+        _bu_dieu(data, io.open(tx, encoding="utf-8", errors="replace").read())
+
+        if json.dumps(data, ensure_ascii=False, sort_keys=True) == truoc:
+            giu += 1
+            continue
+        loi = CJ._validate(data)
+        if loi:
+            hong += 1
+            noi("  x %s  va xong lai truot schema, giu nguyen ban cu: %s"
+                % (ma, loi[0][:80]))
+            continue
+        io.open(j, "w", encoding="utf-8", newline="\n").write(
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+        sua += 1
+        noi("  v %s  da va lai" % ma)
+
+    noi("[va-lai] sua %d · khong doi %d · bo qua vi truot schema %d"
+        % (sua, giu, hong))
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", default=MODEL_MAC_DINH)
@@ -353,7 +398,13 @@ def main() -> int:
     ap.add_argument("--tu-kb", type=float, default=0.0)
     ap.add_argument("--chi", default="")
     ap.add_argument("--lam-lai", action="store_true", help="làm cả file đã có JSON")
+    ap.add_argument("--va-lai", action="store_true",
+                    help="cắt lại Điều cho JSON đã có, không gọi API")
     a = ap.parse_args()
+
+    chi_ma = {x.strip() for x in a.chi.split(",") if x.strip()} or None
+    if a.va_lai:
+        return va_lai(chi_ma)
 
     keys = re.findall(r'^GEMMA_API_KEY[_0-9]*\s*=\s*"?([^"\s]+)',
                       io.open(ENV, encoding="utf-8", errors="replace").read(), re.M)
@@ -362,7 +413,7 @@ def main() -> int:
     be = BeKey(keys)
 
     da_co = {p.name[:4] for p in RA.rglob("*.json")}
-    chi = {x.strip() for x in a.chi.split(",") if x.strip()} or None
+    chi = chi_ma
     viec = []
     for p in sorted(KHO_TXT.rglob("*.txt")):
         ma = p.name[:4]

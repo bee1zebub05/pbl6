@@ -47,7 +47,8 @@ VIEN_DAN = re.compile(
     r"^\s*(?:của|tại|và|;|,)"
     r"|^\s*[Ll]uật này|^\s*này\b"
     r"|^\s*(?:%s)\s+(?:này|số|\d)" % _LOAI_VB_VD)
-MOC_TRANG = re.compile(r"^-{3,}\s*\[Trang[^\]]*\]\s*-{3,}\s*$", re.M)
+MOC_TRANG = re.compile(
+    r"^[ 	]*(?:-{3,}[ 	]*)?\[Trang[^\]]*\][ 	]*(?:-{3,}[ 	]*)?$", re.M)
 THI_HANH = re.compile(r"hiệu lực thi hành|chịu trách nhiệm thi hành|có hiệu lực kể từ", re.I)
 
 
