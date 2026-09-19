@@ -32,6 +32,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from cau_sua_txt import Handler, Kho, chan_cau_trung, noi   # noqa: E402
+import va_dieu_thieu as VD                                  # noqa: E402
 
 GOC = Path(__file__).resolve().parents[2]
 KHO_TXT = GOC / "data" / "clean" / "text_final"
@@ -363,13 +364,43 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
     dai += sum(len(a.get("text") or "")
                for n in (data.get("normativeContents") or [])
                for a in (n.get("articles") or []))
-    # Doi them NGUONG TUYET DOI. Van ban nao cung co phan khong thuoc than Dieu
-    # — tieu ngu, so hieu, can cu, noi nhan, khoi ky — va chung da nam o cac
-    # truong khac. Van ban nho thi phan do chiem ti le lon: 0407 chi 2,8 KB, ba
-    # Dieu dung 624 ky tu (29%) la DU, khong thieu gi ca.
-    if so_json and dai < len(txt) * 0.3 and len(txt) - dai >= 3000:
-        canh_bao.append("than Dieu ngan bat thuong (%d/%d ky tu = %.0f%%)"
-                        % (dai, len(txt), 100.0 * dai / max(len(txt), 1)))
+    # So voi VUNG QUY PHAM (tu tieu de Dieu dau den tieu de Dieu cuoi) chu
+    # KHONG so voi ca file. Phu luc — bieu mau, danh muc, de an — khong thuoc
+    # Dieu nao ca; lay ca file lam mau so thi 0482 co ba Dieu dung 391 ky tu
+    # tren file 200 KB se bi bao thieu, trong khi no da chep du ca ba.
+    # Do DO PHU giua chinh cac Dieu DA CO trong JSON: dinh vi tung than Dieu
+    # trong .txt, roi xem tu Dieu dau den Dieu cuoi con doan nao khong thuoc
+    # Dieu nao khong. Do moi tra loi dung cau hoi 'co bi rot noi dung giua
+    # chung khong'.
+    #
+    # Hai mau so truoc deu sai: lay ca file thi phu luc lam phong mau so; lay
+    # tu tieu de Dieu dau den tieu de cuoi thi bieu mau phu luc (cung danh so
+    # Dieu lai tu 1) cung lam phong. Ca hai deu bao nham hang chuc file.
+    _sach = re.sub(r"\n{3,}", "\n\n", VD.MOC_TRANG.sub("", txt))
+    _vt = []
+    for _a in (data.get('articles') or []) + [
+            y for _n in (data.get('normativeContents') or [])
+            for y in (_n.get('articles') or [])]:
+        _t = _a.get('text') or ''
+        _i = _sach.find(_t) if _t else -1
+        if _i >= 0:
+            _vt.append((_i, _i + len(_t)))
+    if len(_vt) >= 2:
+        _vt.sort()
+        _gop = [list(_vt[0])]
+        for _s, _e in _vt[1:]:
+            if _s <= _gop[-1][1]:
+                _gop[-1][1] = max(_gop[-1][1], _e)
+            else:
+                _gop.append([_s, _e])
+        _phu = sum(e - s for s, e in _gop)
+        _span = _gop[-1][1] - _gop[0][0]
+        # Nguong 0,85 chon tu phan bo that tren 334 file: 304 file >= 95%,
+        # dai 85-95% la tieu de Chuong/Muc da co y cat ra (chung nam GIUA cac
+        # Dieu nen hien len thanh khoang ho), va chi 4 file rot xuong duoi 85%.
+        if _span >= 3000 and _phu < _span * 0.85:
+            canh_bao.append("ho noi dung giua cac Dieu (%d/%d ky tu = %.0f%%)"
+                            % (_phu, _span, 100.0 * _phu / max(_span, 1)))
 
     if not (data.get("signers") or []):
         canh_bao.append("khong co nguoi ky")

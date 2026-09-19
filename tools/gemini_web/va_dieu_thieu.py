@@ -301,29 +301,36 @@ def _cat_tat_ca(txt: str):
         ra[ten] = {"tieu_de": tieu[:200] or None, "than": than}
     return ra
 
+# Dau hieu bieu mau: cho dien ten/chu ky, huong dan dien.
+_DAU_BIEU_MAU = re.compile(
+    r"Bên A|Bên B|\(ghi rõ|\(Ký tên|Ký, ghi rõ|đóng dấu\)"
+    r"|Mẫu số|MẪU SỐ|\.\.\.\.", re.I)
+
+
 def _la_bieu_mau(cat) -> bool:
     """Mach nay la bieu mau phu luc chu khong phai van ban quy pham.
 
-    Do bang MAT DO CHO TRONG (so cum "....."/"____" tren 1000 ky tu) chu
-    khong bang ti le ky tu cham. Do tren cac ca da biet thi hai nhom tach han:
+    Do HAI tin hieu tren 1000 ky tu: mat do CHO TRONG ("....."/"____") va mat
+    do DAU HIEU BIEU MAU ("Bên A", "(ghi rõ", "(Ký tên", "đóng dấu)").
+    Do lai tren 16 mach da dan nhan tay, sau khi than Dieu da duoc cat duoi:
 
-        ban kem THAT   0.00 - 2.92   (0164, 0439, 0169 58 Dieu, 0033, 0227)
-        bieu mau       3.38 - 9.25   (0133, 0485, 0380 mau hop dong, 0476)
+        ban kem THAT   cho trong 0.00-0.19   dau hieu 0.00-0.07
+        bieu mau       cho trong 1.59-14.85  dau hieu 7.37-235.70
 
-    Ti le ky tu cham khong tach duoc: mau hop dong 0380 dien cho trong kieu
-    "Tu ngay ..... thang ..... nam ....." — nhieu cho nhung moi cho ngan, ti
-    le chi 6.7%, lot thom vao nhom that. Dem SO CHO thi no len 3.38, dung ve
-    phia bieu mau. Nguong cu 3% ky tu cham loai nham ca 0169 (58 Dieu), 0033
-    (24 Dieu), 0269 (21 Dieu) — deu la van ban that.
-
-    Mach tu 10 Dieu tro len thi gan nhu chac chan la van ban that, noi rong
-    nguong: bieu mau it khi dai the.
+    Phai do CA HAI. Ban truoc chi do cho trong voi nguong 3.2, va sau khi
+    _bo_duoi_hanh_chinh cat bot phan dien cho trong o duoi thi mau hop dong
+    cua 0380 tut tu 3.38 xuong 1.59 — lot luoi, 8 Dieu mau hop dong chui vao
+    normativeContents. Dau hieu van con 7.37 nen bat duoc.
     """
     than = "\n".join(v["than"] for v in cat.values())
     if len(than) < 1000:
         return True
-    mat_do = 1000.0 * len(_CHO_TRONG.findall(than)) / len(than)
-    return mat_do >= (6.0 if len(cat) >= 10 else 3.2)
+    trong = 1000.0 * len(_CHO_TRONG.findall(than)) / len(than)
+    dau = 1000.0 * len(_DAU_BIEU_MAU.findall(than)) / len(than)
+    # Mach tu 10 Dieu tro len thi gan nhu chac chan la van ban that, noi tay.
+    if len(cat) >= 10:
+        return trong >= 4.0 or dau >= 8.0
+    return trong >= 1.0 or dau >= 2.0
 
 # Tieu de ban ban hanh kem theo, dung MOT MINH tren dong va in HOA.
 TIEU_DE_ND = re.compile(
