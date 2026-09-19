@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tổ chức, hành chính/0021_1177_QĐ-ĐHBK_Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa, Đại học Đà.txt",
   "mappedBy": "gemini-web",
-  "note": "23 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo). Bản gốc Quyết định 1177/QĐ-ĐHBK đánh số trùng: có hai Điều 19 — \"Quan hệ giữa Nhà trường với chính quyền địa phương\" (Chương III) và \"Tổ chức thực hiện\" (Chương IV). Đã đối chiếu thẳng bản scan gốc, trang 8-10: bản gốc đúng là như vậy, không phải lỗi OCR. Schema không cho trùng số Điều nên nội dung của Điều 19 thứ hai nằm lồng trong thân Điều 19 thứ nhất; không mất chữ nào nhưng đồ thị sẽ có 23 node cho 24 Điều.",
+  "note": "Bản gốc Quyết định 1177/QĐ-ĐHBK đánh số trùng: có hai Điều 19 — \"Quan hệ giữa Nhà trường với chính quyền địa phương\" (Chương III) và \"Tổ chức thực hiện\" (Chương IV). Đã đối chiếu thẳng bản scan gốc, trang 8-10: bản gốc đúng là như vậy, không phải lỗi OCR. Schema không cho trùng số Điều nên nội dung của Điều 19 thứ hai nằm lồng trong thân Điều 19 thứ nhất; không mất chữ nào nhưng đồ thị sẽ có 23 node cho 24 Điều. 23 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
   "document": {
     "documentNumber": "1177/QĐ-ĐHBK",
     "title": "Quyết định V/v Ban hành Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng",

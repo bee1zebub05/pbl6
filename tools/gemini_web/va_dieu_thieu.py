@@ -272,6 +272,14 @@ def _du_bo(txt: str) -> bool:
     Khac han 0196, bi tron cot nang: 42 moc cho 96 Dieu, phu 44%. Cho nay
     doi phu >= 95% nen 0196 khong lot.
     """
+    # "Điều 1" xuat hien hai lan nghia la file chua HAI van ban, khong phai
+    # mot van ban lech thu tu. 0196 la mot so Cong bao in ca Luat sua doi
+    # (Dieu 1-2) lan Luat Thi dua khen thuong hop nhat (Dieu 1-103): day so
+    # van phu 100% nen hai dieu kien kia deu qua, nhung go het vao mot ro thi
+    # 103 Dieu cua luat NAY lai gan cho luat KIA.
+    moc = [m for m in DIEU.finditer(txt) if _la_tieu_de(txt, m)]
+    if sum(1 for m in moc if int(re.match(r"\d+", m.group(1)).group()) == 1) > 1:
+        return False
     n, duy, lon = _do_phu(txt)
     # n ~ duy: gan nhu khong co so nao xuat hien hai lan. Thieu dieu kien nay
     # thi 0133 (89 moc cho 67 Dieu, phan thua la bieu mau danh so lai) cung lot
