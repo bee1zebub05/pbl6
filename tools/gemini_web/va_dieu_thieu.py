@@ -63,7 +63,7 @@ VIEN_DAN = re.compile(
     # "Điều 10, 11, 12, 13, 14 và 15 Nghị định này" — sau dau ngan la CHU SO
     # thi chac chan la liet ke vien dan, tieu de that khong bao gio bat dau
     # bang so. Thieu luat nay thi 0134 tut tu 41 xuong 16 Dieu.
-    r"|^\s*\d"
+    r"|^[ \t]*\d"
     r"|^\s*(?:%s)\s+(?:này|số|\d)" % _LOAI_VB_VD)
 MOC_TRANG = re.compile(
     r"^[ 	]*(?:-{3,}[ 	]*)?\[Trang[^\]]*\][ 	]*(?:-{3,}[ 	]*)?$", re.M)
