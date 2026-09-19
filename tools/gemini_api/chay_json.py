@@ -63,27 +63,89 @@ def noi(*a):
 # ============================================================
 # BE KEY
 # ============================================================
-class BeKey:
-    """Xoay key theo vong. Key nao dinh 429 thi nghi mot luc roi quay lai."""
+RPM_MOI_KEY = 15          # han muc that cua flash-lite, do tren bang Google AI Studio
 
-    def __init__(self, keys):
+
+class BeKey:
+    """Xoay key, CHAN DUNG han muc tung key thay vi xoay vong mu.
+
+    Moi key duoc 15 luot/phut. Xoay vong khong dem thi vao luc cao diem nhieu
+    luong co the dap cung mot key trong cung mot phut -> 429, roi ca be cung
+    dinh day chuyen. Dem bang cua so truot 60 giay thi khong bao gio vuot.
+
+    TPM 250K khong phai tran that: van ban trung vi 29 KB ~ 8.800 token, tuc
+    250K/8.800 = 28 luot/phut, rong hon RPM 15.
+    """
+
+    def __init__(self, keys, rpm=RPM_MOI_KEY):
         self.keys = list(keys)
+        self.rpm = rpm
         self.khoa = threading.Lock()
         self.i = 0
         self.nghi_toi = {}                 # key -> thoi diem duoc dung lai
+        self.moc = {k: [] for k in self.keys}   # key -> cac moc goi trong 60s
 
-    def lay(self):
-        with self.khoa:
-            for _ in range(len(self.keys)):
-                k = self.keys[self.i % len(self.keys)]
-                self.i += 1
-                if self.nghi_toi.get(k, 0) <= time.time():
-                    return k
-            return None                    # ca be dang nghi
+    def lay(self, cho_toi_da=120):
+        """Tra ve key con suat. Het suat thi CHO chu khong tra None ngay."""
+        het = time.time() + cho_toi_da
+        while True:
+            with self.khoa:
+                gio = time.time()
+                for _ in range(len(self.keys)):
+                    k = self.keys[self.i % len(self.keys)]
+                    self.i += 1
+                    if self.nghi_toi.get(k, 0) > gio:
+                        continue
+                    m = self.moc[k] = [x for x in self.moc[k] if x > gio - 60]
+                    if len(m) < self.rpm:
+                        m.append(gio)
+                        return k
+            if time.time() > het:
+                return None
+            time.sleep(1.0)
 
     def phat(self, k, giay=60):
         with self.khoa:
             self.nghi_toi[k] = time.time() + giay
+
+    def bo(self, k):
+        """Key chet han — bo khoi be, khong xoay vao nua."""
+        with self.khoa:
+            if k in self.keys and len(self.keys) > 1:
+                self.keys.remove(k)
+                self.moc.pop(k, None)
+                return len(self.keys)
+        return len(self.keys)
+
+
+def loc_key_song(keys, model):
+    """Thu tung key mot lan, bo nhung key bi tu choi han (403 denied access)."""
+    body = json.dumps({"contents": [{"parts": [{"text": "ping"}]}],
+                       "generationConfig": {"maxOutputTokens": 8}}).encode()
+
+    def thu(k):
+        req = urllib.request.Request(
+            API % model, data=body,
+            headers={"Content-Type": "application/json", "x-goog-api-key": k})
+        try:
+            with urllib.request.urlopen(req, timeout=40) as r:
+                r.read()
+            return k, None
+        except urllib.error.HTTPError as e:
+            if e.code == 403:
+                return k, "403 " + e.read().decode("utf-8", "replace")[:60]
+            return k, None                  # 429/503 la nhat thoi, van giu key
+        except Exception:
+            return k, None
+
+    import concurrent.futures as cf
+    with cf.ThreadPoolExecutor(6) as ex:
+        kq = list(ex.map(thu, keys))
+    song = [k for k, e in kq if not e]
+    for k, e in kq:
+        if e:
+            noi("[api] bỏ 1 key bị từ chối hẳn: %s" % e[:70])
+    return song
 
 
 # ============================================================
@@ -120,9 +182,10 @@ def goi_api(model, prompt, be, han_giay=300):
             if e.code in (429, 500, 503):
                 be.phat(key, 90 if e.code == 429 else 20)
             elif e.code == 403:
-                # 403 o day = key het han muc ngay, khong phai sai key.
-                # Cho key do nghi han, khong thi moi lan xoay lai deu dinh.
-                be.phat(key, 3600)
+                # 403 = key bi tu choi han ("project has been denied access"),
+                # khong phai het han muc. Bo hen khoi be, giu lai chi to dinh mai.
+                con = be.bo(key)
+                noi("[api] key dính 403 — bỏ khỏi bể, còn %d key" % con)
             time.sleep(2.5 * (lan + 1) + random.random() * 2)
         except Exception as e:
             loi_cuoi = "%s: %s" % (type(e).__name__, str(e)[:80])
@@ -293,6 +356,8 @@ def main() -> int:
 
     keys = re.findall(r'^GEMMA_API_KEY[_0-9]*\s*=\s*"?([^"\s]+)',
                       io.open(ENV, encoding="utf-8", errors="replace").read(), re.M)
+    noi("[api] thử %d key…" % len(keys))
+    keys = loc_key_song(keys, a.model)
     be = BeKey(keys)
 
     da_co = {p.name[:4] for p in RA.rglob("*.json")}
@@ -309,7 +374,8 @@ def main() -> int:
             continue
         viec.append(p)
 
-    noi("[api] %s · %d key · %d luồng" % (a.model, len(keys), a.luong))
+    noi("[api] %s · %d key sống · %d luồng · trần %d lượt/phút"
+        % (a.model, len(keys), a.luong, RPM_MOI_KEY * len(keys)))
     noi("[api] %d file cần làm (đã có %d)" % (len(viec), len(da_co)))
     if not viec:
         return 0
