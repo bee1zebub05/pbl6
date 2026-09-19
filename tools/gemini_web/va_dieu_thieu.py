@@ -70,6 +70,40 @@ MOC_TRANG = re.compile(
 THI_HANH = re.compile(r"hiệu lực thi hành|chịu trách nhiệm thi hành|có hiệu lực kể từ", re.I)
 
 
+_TU_CHUONG = r"(?:Chương|CHƯƠNG|Mục|MỤC|Phần|PHẦN)"
+# Dong chi co moi "Chương III" / "Mục 1" / "PHẦN II", khong gi khac.
+MOC_CHUONG = re.compile(
+    r"^[ 	]*" + _TU_CHUONG + r"[ 	]+(?:[IVXLCDM]+|[0-9]{1,2})[ 	]*$",
+    re.M)
+
+
+def _bo_duoi_chuong(than: str) -> str:
+    """Bo tieu de Chuong/Muc cua chuong KE TIEP dinh o cuoi than Dieu.
+
+    Dieu cuoi cua mot chuong chay den tan tieu de chuong sau, vi moc cat la
+    "Điều" ke tiep chu khong phai "Chương". The la than Dieu 6 cua 0013 co
+    duoi "Chương III / HỆ THỐNG TỔ CHỨC, QUẢN LÝ" — tieu de cua chuong sau,
+    khong phai noi dung Dieu 6. Do tren corpus: 1.420 Dieu o 234 file.
+
+    Chi cat khi phan tu dong "Chương N" den het DUNG la tieu de: toi da 4
+    dong, moi dong duoi 100 ky tu, cac dong sau chu yeu la CHU HOA. Con van
+    xuoi thi giu nguyen — tha thua con hon cat nham.
+    """
+    ms = list(MOC_CHUONG.finditer(than))
+    if not ms:
+        return than
+    m = ms[-1]
+    dong = [x.strip() for x in than[m.start():].strip().splitlines() if x.strip()]
+    if len(dong) > 4 or any(len(x) > 100 for x in dong):
+        return than
+    for x in dong[1:]:
+        if MOC_CHUONG.match(x):
+            continue
+        chu = [c for c in x if c.isalpha()]
+        if chu and sum(1 for c in chu if c.isupper()) < 0.8 * len(chu):
+            return than
+    return than[:m.start()].rstrip()
+
 def _cat_dieu(txt: str, gioi_han: int | None = None):
     """-> (dict {'Điều 5': {...}}, day so THO theo thu tu xuat hien).
 
@@ -87,6 +121,7 @@ def _cat_dieu(txt: str, gioi_han: int | None = None):
         than = txt[m.start():het]
         than = MOC_TRANG.sub("", than)                  # moc trang khong phai noi dung
         than = re.sub(r"\n{3,}", "\n\n", than).strip()
+        than = _bo_duoi_chuong(than)
         # tieu de = phan con lai cua dong dau, sau "Điều N."
         dong1 = than.split("\n", 1)[0]
         tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
@@ -143,6 +178,7 @@ def _tach_mach(txt: str):
                 moc[idx + 1].start() if idx + 1 < len(moc) else len(txt))
             than = MOC_TRANG.sub("", txt[m.start():het])
             than = re.sub(r"\n{3,}", "\n\n", than).strip()
+            than = _bo_duoi_chuong(than)
             dong1 = than.split("\n", 1)[0]
             tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
             ten = "Điều %s" % m.group(1)
@@ -194,6 +230,7 @@ def _cat_tat_ca(txt: str):
         het = moc[i + 1].start() if i + 1 < len(moc) else len(txt)
         than = MOC_TRANG.sub("", txt[m.start():het])
         than = re.sub(r"\n{3,}", "\n\n", than).strip()
+        than = _bo_duoi_chuong(than)
         dong1 = than.split("\n", 1)[0]
         tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
         ten = "Điều %s" % m.group(1)

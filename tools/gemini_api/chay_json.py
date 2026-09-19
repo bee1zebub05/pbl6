@@ -457,7 +457,22 @@ def _gop(cu, cat, bo_qua=None):
 
     giu = [a for a in (cu or [])
            if a.get("number") not in cat and not trung_cho_khac(a)]
-    return _sap([_lam_dieu(cat, x) for x in cat] + giu)
+    # Lay `text` tu ban cat, nhung GIU `heading` va `isImplementationClause`
+    # cua model. Tieu de may moc la "phan con lai cua dong dau", con model dat
+    # tieu de theo nghia: Dieu 1 cua Quyet dinh ra "Ban hành kèm theo" thay vi
+    # ca cau "Ban hành kèm theo Quyết định này Quy định về việc biên soạn...".
+    o_cu = {a.get("number"): a for a in (cu or [])}
+    ra = []
+    for x in cat:
+        m = _lam_dieu(cat, x)
+        c = o_cu.get(x)
+        if c:
+            if (c.get("heading") or "").strip():
+                m["heading"] = c["heading"]
+            if isinstance(c.get("isImplementationClause"), bool):
+                m["isImplementationClause"] = c["isImplementationClause"]
+        ra.append(m)
+    return _sap(ra + giu)
 
 
 def _cho_dat(data, cat):
