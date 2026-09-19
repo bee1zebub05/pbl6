@@ -34,7 +34,14 @@ KHO_TXT = GOC / "data" / "clean" / "text_final"
 RA = GOC / "data" / "kg_json"
 
 # Tieu de Dieu THAT (khong phai vien dan bi ngat dong) — cung luat voi cau_json.py
-DIEU = re.compile(r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)\s*(?:[.．:]|\s+(?=[A-ZĐÀ-Ỹ]))", re.M)
+# Bon dang tieu de gap trong corpus (dem duoc: 10.564 / 111 / 44 / 9 cho):
+#   "Điều 1. Ban hành kèm theo..."   - pho bien
+#   "Điều 2"                         - tran, het dong (Hien phap 2013, 0130...)
+#   "Điều 3 1"                       - tran + so trang OCR dinh vao
+#   "Điều 8: ..." / "Điều 56, ..."   - dau bi doc nham
+DIEU = re.compile(
+    r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)"
+    r"(?:[ \t]*[.．:,;]|[ \t]*\d{0,3}[ \t]*$|[ \t]+(?=[A-ZĐÀ-Ỹ]))", re.M)
 # Vien dan: sau "Điều N" la ten mot van ban KHAC chu khong phai tieu de cua Dieu.
 #     "Điều 5 của Luật này"        -> tu noi o dau
 #     "Điều 7 Nghị định này;"      -> TEN LOAI van ban roi "này" — kieu nay tung lot
@@ -44,15 +51,26 @@ DIEU = re.compile(r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)\s*(?:[.．:]|\s+(?=[A-Z�
 _LOAI_VB_VD = (r"Nghị\s*định|Thông\s*tư|Quyết\s*định|Luật|Bộ\s*luật|Quy\s*chế|"
                r"Quy\s*định|Điều\s*lệ|Pháp\s*lệnh|Nghị\s*quyết|Chỉ\s*thị|Hiến\s*pháp")
 VIEN_DAN = re.compile(
-    r"^\s*(?:của|tại|và|;|,)"
+    # "Điều 32 đến Điều 42, các điều 44, 45..." — vien dan khoang. Sot mot chu
+    # "đến" nay tung lam 0280 mat 170/173 Dieu: day so gay dung mot cho, chot
+    # an toan chan ca file.
+    r"^\s*(?:của|tại|và|đến|;|,)"
     r"|^\s*[Ll]uật này|^\s*này\b"
+    # "Điều 24, Điều 25, Điều 26 Quy chế..." — liet ke vien dan, khong phai tieu
+    # de. Phan biet duoc vi sau "Điều"/"Khoản"/"Điểm" la mot CON SO; tieu de
+    # that thi la chu ("Điều 38. Điều khoản thi hành").
+    r"|^\s*(?:Điều|Khoản|Điểm|Chương|Mục)\s+\d"
+    # "Điều 10, 11, 12, 13, 14 và 15 Nghị định này" — sau dau ngan la CHU SO
+    # thi chac chan la liet ke vien dan, tieu de that khong bao gio bat dau
+    # bang so. Thieu luat nay thi 0134 tut tu 41 xuong 16 Dieu.
+    r"|^\s*\d"
     r"|^\s*(?:%s)\s+(?:này|số|\d)" % _LOAI_VB_VD)
 MOC_TRANG = re.compile(
     r"^[ 	]*(?:-{3,}[ 	]*)?\[Trang[^\]]*\][ 	]*(?:-{3,}[ 	]*)?$", re.M)
 THI_HANH = re.compile(r"hiệu lực thi hành|chịu trách nhiệm thi hành|có hiệu lực kể từ", re.I)
 
 
-def _cat_dieu(txt: str):
+def _cat_dieu(txt: str, gioi_han: int | None = None):
     """-> (dict {'Điều 5': {...}}, day so THO theo thu tu xuat hien).
 
     Phai tra ve ca day THO: dict da khu trung lap nen nhin vao no thi van ban
@@ -60,6 +78,8 @@ def _cat_dieu(txt: str):
     """
     moc = [m for m in DIEU.finditer(txt)
            if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    if gioi_han is not None:
+        moc = moc[:gioi_han]
     tho: list[int] = []
     ra: dict[str, dict] = {}
     for i, m in enumerate(moc):
@@ -69,13 +89,82 @@ def _cat_dieu(txt: str):
         than = re.sub(r"\n{3,}", "\n\n", than).strip()
         # tieu de = phan con lai cua dong dau, sau "Điều N."
         dong1 = than.split("\n", 1)[0]
-        tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:]?\s*", "", dong1).strip()
+        tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
         ten = "Điều %s" % m.group(1)
         tho.append(int(re.match(r"\d+", m.group(1)).group()))
         if ten in ra:                                   # phu luc danh so lai tu dau
             continue
         ra[ten] = {"tieu_de": tieu[:200] or None, "than": than}
     return ra, tho
+
+
+_CHAM = re.compile(r"[.．…]{4,}")
+
+
+def _tach_mach(txt: str):
+    """Tach van ban thanh cac MACH Dieu danh so lien tiep. -> list[(dict, [so])].
+
+    Mot van ban .txt thuong chua nhieu hon mot mach: Quyet dinh (Dieu 1-3) roi
+    Quy dinh ban hanh kem theo (Dieu 1-N) roi mot loat bieu mau phu luc, moi
+    cai lai bat dau tu "Điều 1.". Truoc day chot an toan thay day so khong tang
+    deu la bo ca file — do tren corpus la 176 file bi chan.
+
+    Cach doc day so o day:
+      - so dung bang ky vong, hoac vuot khong qua 2  -> nhan (chua 1-2 tieu de
+        OCR lam mat, van la mot mach)
+      - so ve 1                                      -> mach moi bat dau
+      - con lai                                      -> bo qua, gan nhu chac
+        chan la vien dan lot luoi (0090 co "1 2 19 22 3", 0255 co "1 26 2 3")
+
+    Nho vay mot vien dan lot khong con pha ca file nua, va van ban long nhau
+    thi moi mach ve dung cho cua no.
+    """
+    moc = [m for m in DIEU.finditer(txt)
+           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    mach, hien, ky_vong = [], [], 1
+    for idx, m in enumerate(moc):
+        n = int(re.match(r"\d+", m.group(1)).group())
+        if ky_vong <= n <= ky_vong + 2:
+            hien.append(idx)
+            ky_vong = n + 1
+        elif n == 1 and hien:
+            mach.append(hien)
+            hien, ky_vong = [idx], 2
+    if hien:
+        mach.append(hien)
+
+    ra = []
+    for nhom in mach:
+        d, so = {}, []
+        for vt, idx in enumerate(nhom):
+            m = moc[idx]
+            ke = nhom[vt + 1] if vt + 1 < len(nhom) else None
+            het = moc[ke].start() if ke is not None else (
+                moc[idx + 1].start() if idx + 1 < len(moc) else len(txt))
+            than = MOC_TRANG.sub("", txt[m.start():het])
+            than = re.sub(r"\n{3,}", "\n\n", than).strip()
+            dong1 = than.split("\n", 1)[0]
+            tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
+            ten = "Điều %s" % m.group(1)
+            so.append(int(re.match(r"\d+", m.group(1)).group()))
+            if ten not in d:
+                d[ten] = {"tieu_de": tieu[:200] or None, "than": than}
+        ra.append((d, so))
+    return ra
+
+
+def _la_bieu_mau(cat) -> bool:
+    """Mach nay la bieu mau phu luc chu khong phai van ban quy pham.
+
+    Bieu mau viet kieu "Điều 1. Phê duyệt liên kết ......(6)......" — cho trong
+    de dien, nen dac dau cham va rat ngan. Dua vao normativeContents thi do thi
+    co them node rac mang so hieu Dieu that.
+    """
+    than = "\n".join(v["than"] for v in cat.values())
+    if not than:
+        return True
+    cham = sum(len(x) for x in _CHAM.findall(than))
+    return len(than) < 1000 or cham > len(than) * 0.03
 
 
 # Tieu de ban ban hanh kem theo, dung MOT MINH tren dong va in HOA.

@@ -158,7 +158,10 @@ def _quota(than: str) -> str:
     if m:
         return m.group(1)
     m = re.search(r"(GenerateRequests?Per[A-Za-z]+)", than)
-    return m.group(1) if m else " ".join(than.split())[:70]
+    if m:
+        return m.group(1)
+    m = re.search(r"\"message\"\s*:\s*\"([^\"]{0,120})", than)
+    return m.group(1) if m else " ".join(than.split())[:90]
 
 
 def goi_api(model, prompt, be, han_giay=300):
@@ -332,50 +335,114 @@ def _dem_dieu(d):
         len(n.get("articles") or []) for n in d.get("normativeContents") or [])
 
 
-def _bu_dieu(data, goc):
-    """Bu Dieu thieu bang ban cat tu .txt. Dung DUNG chot an toan cua va_dieu_thieu."""
-    cat, tho = VD._cat_dieu(goc)
-    if len(cat) < 2 or tho != sorted(tho) or len(set(tho)) != len(tho):
-        return                              # tron cot / van ban long nhau -> khong dung
-    # ĐÈ toàn văn cho cả Điều model đã tự chép, không chỉ bù chỗ thiếu.
-    #
-    # Model chép lại thì hay chuẩn hoá khoảng trắng, nối dòng, đôi khi diễn đạt
-    # lại — đo trên 0090: 0/3 Điều khớp nguyên văn. Bản cắt từ .txt thì đúng
-    # từng ký tự. Giữ `heading` và `isImplementationClause` của model vì đó là
-    # phần nó suy ra tốt, còn `text` thì lấy bản cắt.
-    dat = 0
-    for nhom in [data.get("articles") or []] + [
-            n.get("articles") or [] for n in (data.get("normativeContents") or [])]:
-        for a in nhom:
-            c = cat.get(a.get("number"))
-            if c and a.get("text") != c["than"]:
-                a["text"] = c["than"]
-                dat += 1
-
-    co = {a["number"] for a in (data.get("articles") or [])}
-    for n in data.get("normativeContents") or []:
-        co |= {a["number"] for a in (n.get("articles") or [])}
-    them = [{
+def _lam_dieu(cat, k):
+    return {
         "number": k,
         "heading": cat[k]["tieu_de"],
         "text": cat[k]["than"],
         "isImplementationClause": bool(VD.THI_HANH.search(cat[k]["than"])),
-    } for k in cat if k not in co]
-    if not them:
-        if dat:
-            cu = (data.get("note") or "").strip()
-            data["note"] = (cu + " " if cu else "") + (
-                "%d Điều lấy toàn văn trực tiếp từ bản .txt gốc." % dat)
+    }
+
+
+def _sap(ds):
+    return sorted(ds, key=lambda x: int(
+        re.match(r"\d+", x["number"].replace("Điều", "").strip()).group()))
+
+
+def _gop(cu, cat, bo_qua=None):
+    """Gop ban cat vao danh sach Dieu san co. KHONG BAO GIO lam mat Dieu.
+
+    Ban cat la toan van nen thang; Dieu nao model co ma ban cat khong co thi
+    GIU LAI — bo cat con sot, ghi de thang tay la tut so Dieu.
+
+    `bo_qua`: ban cat cua CHO KHAC (ban kem theo). Chi bo Dieu nao model dat
+    nham sang day THAT, do bang NOI DUNG chu khong bang so: 0227 co Dieu 2 phan
+    ngoai ("Quyet dinh nay co hieu luc...") va Dieu 2 ban kem ("Trong Quy dinh
+    nay...") — hai Dieu khac han, trung moi cai so.
+    """
+    def trung_cho_khac(a):
+        c = (bo_qua or {}).get(a.get("number"))
+        if not c:
+            return False
+        x = " ".join((a.get("text") or "").split())[:150]
+        y = " ".join(c["than"].split())
+        return bool(x) and (x in y or y[:150] == x)
+
+    giu = [a for a in (cu or [])
+           if a.get("number") not in cat and not trung_cho_khac(a)]
+    return _sap([_lam_dieu(cat, x) for x in cat] + giu)
+
+
+def _cho_dat(data, cat):
+    """Model da dat mach Dieu nay o dau? -> ("articles", None) | ("nd", i).
+
+    Quyet dinh ban hanh kem theo mot Quy che thuong chi co MOT mach Dieu trong
+    .txt (Dieu 1-3 cua Quyet dinh nam trong doan van, khong co tieu de rieng),
+    va model dat ca mach do vao normativeContents — dung. Cu the ghi vao
+    `articles` la thanh hai ban: 0051 tu 28 Dieu thanh 56.
+    """
+    so = set(cat)
+    tot = len(so & {x.get("number") for x in (data.get("articles") or [])})
+    cho = ("articles", None)
+    for i, n in enumerate(data.get("normativeContents") or []):
+        c = len(so & {x.get("number") for x in (n.get("articles") or [])})
+        if c > tot:
+            tot, cho = c, ("nd", i)
+    return cho
+
+
+def _bu_dieu(data, goc):
+    """Lay toan van Dieu tu .txt de vao JSON. Van ban nao cung mot duong nay.
+
+    Model chep lai thi hay chuan hoa khoang trang, noi dong, doi khi dien dat
+    lai — do tren 0090: 0/3 Dieu khop nguyen van. Ban cat tu .txt thi dung tung
+    ky tu. Nen giu `heading` cua model (phan no suy ra tot) va lay `text` tu
+    ban cat.
+
+    Mach dau -> articles. Mach thu hai, neu du dai va khong phai bieu mau ->
+    normativeContents (ban ban hanh kem theo). Cac mach sau deu la phu luc
+    danh so lai, bo.
+    """
+    mach = VD._tach_mach(goc)
+    if not mach:
         return
-    data["articles"] = sorted(
-        (data.get("articles") or []) + them,
-        key=lambda x: int(re.match(r"\d+", x["number"].replace("Điều", "").strip()).group()))
-    cu = (data.get("note") or "").strip()
-    data["note"] = (cu + " " if cu else "") + (
-        "%d Điều lấy toàn văn trực tiếp từ bản .txt gốc." % len(them))
+    cat, _ = mach[0]
+
+    kem = ten = loai = None
+    if len(mach) > 1:
+        c2, _ = mach[1]
+        if len(c2) >= 5 and not VD._la_bieu_mau(c2):
+            kem = c2
+            _, _, ten, loai = VD._tach_ban_kem(goc)
+
+    if len(cat) >= 2:
+        o, i = _cho_dat(data, cat)
+        if o == "articles":
+            data["articles"] = _gop(data.get("articles"), cat, bo_qua=kem)
+        else:
+            nd = list(data["normativeContents"])
+            nd[i] = dict(nd[i], articles=_gop(nd[i].get("articles"), cat))
+            data["normativeContents"] = nd
+
+    if kem:
+        cu_nd = list(data.get("normativeContents") or [])
+        dau = cu_nd[0] if cu_nd else {}
+        data["normativeContents"] = [{
+            "title": dau.get("title") or ten or "Bản ban hành kèm theo",
+            "contentType": dau.get("contentType") or loai or "Quy định",
+            "status": dau.get("status"),
+            "idOverride": dau.get("idOverride"),
+            "articles": _gop(dau.get("articles"), kem),
+        }] + cu_nd[1:]
+
+    n = len(cat) + (len(kem) if kem else 0)
+    if n:
+        ghi = (data.get("note") or "").strip()
+        data["note"] = (ghi + " " if ghi else "") + (
+            "%d Điều lấy toàn văn trực tiếp từ bản .txt gốc%s."
+            % (n, " (gồm cả bản kèm theo)" if kem else ""))
 
 
-# ============================================================
 def va_lai(chi=None) -> int:
     """Chay lai _don_dang + _bu_dieu tren JSON DA CO, khong goi API.
 
