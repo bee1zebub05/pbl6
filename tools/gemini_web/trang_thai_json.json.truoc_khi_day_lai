@@ -1,0 +1,3095 @@
+{
+ "xong": {
+  "0322": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Hợp tác quốc tế\\0322_1787_ĐHĐN-KHHTQT_Sửa đổi, bổ sung điều khoản về thủ tục tiếp nhận người nước ngoài đến học tập,.json",
+   "so_ky_tu": 1768,
+   "goc": 6860,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789715533
+  },
+  "0227": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0227_2852_QĐ-ĐHĐN_Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong.json",
+   "so_ky_tu": 10126,
+   "goc": 13685,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 10,
+   "luc": 1789715543
+  },
+  "0149": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0149_30_2020_TT-BGDĐT_Thông tư 30_2020_TT-BGDĐT Thông tư Bãi bỏ một số văn bản quy phạm pháp luật.json",
+   "so_ky_tu": 21499,
+   "goc": 11331,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 4,
+   "luc": 1789715554
+  },
+  "0090": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0090_34_2018_QH14_Luật Giáo dục Đại học sửa đổi 2018 34_2018_QH14_388254 (hiệu lực 01_07_2019).json",
+   "so_ky_tu": 80099,
+   "goc": 108177,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789715648
+  },
+  "0004": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công tác sinh viên\\0004_861_QĐ-TTg_Phê duyệt danh sách các xã khu vực III, khu vực II, khu vực I thuộc vùng đồng bào d.json",
+   "so_ky_tu": 5211,
+   "goc": 97244,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (1694/81347 ky tu = 2%)"
+   ],
+   "so_dieu": 5,
+   "luc": 1789737805
+  },
+  "0006": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0006_30_2018_TT-BGDĐT_Quy chế quản lý người nước ngoài học tập tại Việt Nam.json",
+   "so_ky_tu": 26340,
+   "goc": 39217,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 20,
+   "luc": 1789737811
+  },
+  "0007": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0007_1325_QĐ-BGDĐT_Đính chính Thông tư số 10_2016_TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ.json",
+   "so_ky_tu": 4614,
+   "goc": 3523,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789737815
+  },
+  "0008": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0008_35_2011_TT-BGDĐT_Quy định về trao và nhận học bổng, trợ cấp cho người học trong các cơ sở giá.json",
+   "so_ky_tu": 14516,
+   "goc": 13591,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 11,
+   "luc": 1789737819
+  },
+  "0001": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0001_78_2020_NĐ-CP_Sĩ quan dự bị quân đội nhân dân Việt Nam.json",
+   "so_ky_tu": 41883,
+   "goc": 51559,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 27,
+   "luc": 1789737855
+  },
+  "0013": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công tác sinh viên\\0013_973_QĐ-ĐHĐN_Sửa đổi Phụ lục kèm theo Quyết định số 2721_QĐ-ĐHĐN ngày 10_8_2018 của Đại học Đà.json",
+   "so_ky_tu": 5021,
+   "goc": 69278,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~24, JSON co 3",
+    "than Dieu ngan bat thuong (486/52709 ky tu = 1%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789737876
+  },
+  "0015": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0015_2900_QĐ-ĐHĐN_Quy định về việc tham gia hoạt động cộng đồng của sinh viên Đại học Đà Nẵng.json",
+   "so_ky_tu": 22151,
+   "goc": 30014,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 21,
+   "luc": 1789737886
+  },
+  "0011": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công tác sinh viên\\0011_09_2016_TTLT-BGDĐT-BTC-BLĐTBXH_Thông tư liên tịch hướng dẫn thực hiện một số điều của Nghị đị.json",
+   "so_ky_tu": 53446,
+   "goc": 85386,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 30a/2008/NQ-CP"
+   ],
+   "so_dieu": 9,
+   "luc": 1789737897
+  },
+  "0012": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0012_2721_QĐ-ĐHĐN_Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy.json",
+   "so_ky_tu": 45090,
+   "goc": 58756,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 27,
+   "luc": 1789737928
+  },
+  "0017": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0017_1001_QĐ-ĐHBK_Quy chế Công tác sinh viên của Trường Đại học Bách khoa đối với chương trình đào t.json",
+   "so_ky_tu": 63549,
+   "goc": 82635,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 32,
+   "luc": 1789737950
+  },
+  "0024": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0024_2971_QĐ-ĐHBK_Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách k.json",
+   "so_ky_tu": 9907,
+   "goc": 39010,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (4545/29891 ky tu = 15%)"
+   ],
+   "so_dieu": 10,
+   "luc": 1789737954
+  },
+  "0027": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0027_1605_QĐ-ĐHBK_Quy định công tác thi đua, khen thưởng tại Trường Đại học Bách khoa, Đại học Đà Nẵ.json",
+   "so_ky_tu": 33422,
+   "goc": 52026,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 29,
+   "luc": 1789737988
+  },
+  "0031": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0031_542_QĐ-ĐHBK_Quy định soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đ.json",
+   "so_ky_tu": 12280,
+   "goc": 11328,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789738010
+  },
+  "0033": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0033_1562_QĐ-ĐHBK_Quy định mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách k.json",
+   "so_ky_tu": 26521,
+   "goc": 57207,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 27,
+   "luc": 1789738057
+  },
+  "0038": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng.json",
+   "so_ky_tu": 62613,
+   "goc": 77476,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 37,
+   "luc": 1789738123
+  },
+  "0039": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại.json",
+   "so_ky_tu": 31176,
+   "goc": 33507,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 26,
+   "luc": 1789738141
+  },
+  "0040": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0040_1345_QĐ-ĐHBK_Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trìn.json",
+   "so_ky_tu": 13450,
+   "goc": 16140,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789738180
+  },
+  "0042": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0042_1394_QĐ-ĐHBK_Chính sách bảo đảm chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵ.json",
+   "so_ky_tu": 4437,
+   "goc": 10723,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (351/8083 ky tu = 4%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789738238
+  },
+  "0041": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0041_1779_QĐ-ĐHBK_Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng.json",
+   "so_ky_tu": 14575,
+   "goc": 13603,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 13,
+   "luc": 1789738253
+  },
+  "0044": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0044_1980_QĐ-ĐHBK_Quy định tổ chức dánh giá học tập của sinh viên đại học, học viên cao học của Trườ.json",
+   "so_ky_tu": 66689,
+   "goc": 78603,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 38,
+   "luc": 1789738368
+  },
+  "0046": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Khoa học Công nghệ\\0046_1121_QĐ-ĐHBK_Điều chỉnh Phụ lục “Tiêu chí đánh giá hoạt động khoa học công nghệ hàng năm của Tr.json",
+   "so_ky_tu": 4382,
+   "goc": 11933,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 213b/QĐ-ĐHBK-KH,SĐH&HTQT",
+    "than Dieu ngan bat thuong (556/9297 ky tu = 6%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789738476
+  },
+  "0045": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0045_1404_QĐ-ĐHBK_Quy định quản lý hoạt động khoa học công nghệ tại Trường Đại học Bách khoa, Đại họ.json",
+   "so_ky_tu": 61605,
+   "goc": 69907,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 43,
+   "luc": 1789738483
+  },
+  "0047": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0047_1250_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Viện Khoa học và Công nghệ Bách khoa Đà Nẵng.json",
+   "so_ky_tu": 28322,
+   "goc": 32345,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789738563
+  },
+  "0051": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Học liệu, truyền thông\\0051_905_QĐ-ĐHBK_Quy chế quản lý, khai thác, sử dụng thông tin, tài liệu tại Trung tâm Học liệu và.json",
+   "so_ky_tu": 23701,
+   "goc": 25096,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 28,
+   "luc": 1789738570
+  },
+  "0053": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0053_1475_QĐ-ĐHBK_Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa,.json",
+   "so_ky_tu": 22575,
+   "goc": 25268,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789738585
+  },
+  "0052": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0052_1474_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông, Trường Đại họ.json",
+   "so_ky_tu": 22076,
+   "goc": 23069,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 20,
+   "luc": 1789738595
+  },
+  "0056": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0056_22_NQ-HĐT_Nghị quyết sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường.json",
+   "so_ky_tu": 21034,
+   "goc": 19900,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 4,
+   "luc": 1789738621
+  },
+  "0057": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0057_23_NQ-HĐT_Quy chế thực hiện dân chủ trong hoạt động của Trường ĐHBK, ĐHĐN.json",
+   "so_ky_tu": 31249,
+   "goc": 33380,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789738627
+  },
+  "0059": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0059_2525_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dà.json",
+   "so_ky_tu": 15240,
+   "goc": 16261,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 2,
+   "luc": 1789738652
+  },
+  "0061": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0061_1606_HD-ĐHBK_Hướng dẫn Đánh giá đồ án, luận văn, luận án tốt nghiệp theo hình thức trực tuyến c.json",
+   "so_ky_tu": 2634,
+   "goc": 27012,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789738660
+  },
+  "0060": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0060_487_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Hội đồng Trường Đại học Bách khoa, Đại học Đà Nẵn.json",
+   "so_ky_tu": 26843,
+   "goc": 30239,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 22,
+   "luc": 1789738666
+  },
+  "0068": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0068_493_QĐ-ĐHBK_Quy định về tổ chức xét duyệt và công nhận sáng kiến tại Trường ĐHBK, ĐHĐN.json",
+   "so_ky_tu": 23547,
+   "goc": 41894,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 16,
+   "luc": 1789738723
+  },
+  "0063": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0063_2244_QĐ-ĐHBK_Quy định đào tạo trình độ đại học.json",
+   "so_ky_tu": 55613,
+   "goc": 66272,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 29,
+   "luc": 1789738740
+  },
+  "0065": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Cơ sở vật chất, xây dựng\\0065_2673_QĐ-ĐHBK_Quy chế quản lý, sử dụng tài sản công Trường ĐHBK, ĐHĐN.json",
+   "so_ky_tu": 61166,
+   "goc": 71998,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 41,
+   "luc": 1789738766
+  },
+  "0070": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công tác sinh viên\\0070_1088_QĐ-ĐHBK_Sửa đổi một số điều của Quy định xét thi đua, khen thưởng với sinh viên đại học hệ.json",
+   "so_ky_tu": 5998,
+   "goc": 4248,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (897/3172 ky tu = 28%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789738780
+  },
+  "0072": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Văn thư, lưu trữ\\0072_479_QĐ-ĐHBK_Nội quy về công tác bảo vệ bí mật Nhà nước tại Trường Đại học Bách khoa, ĐHĐN.json",
+   "so_ky_tu": 37419,
+   "goc": 78977,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 23,
+   "luc": 1789738850
+  },
+  "0071": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Văn thư, lưu trữ\\0071_1616_QĐ-ĐHBK_Quy chế công tác văn thư, lưu trữ của Trường Đại học Bách khoa, ĐHĐN.json",
+   "so_ky_tu": 58547,
+   "goc": 68838,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 48,
+   "luc": 1789738853
+  },
+  "0078": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0078_2533_QĐ-ĐHBK_Ban hành Quy định quản lý, khai thác và sử dụng thông tin học liệu phục vụ tại Tru.json",
+   "so_ky_tu": 29988,
+   "goc": 34644,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789738910
+  },
+  "0076": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0076_4194_QĐ-ĐHĐN_Ban hành Quy định chế độ làm việc của giảng viên ĐHĐN.json",
+   "so_ky_tu": 31066,
+   "goc": 46879,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789738917
+  },
+  "0077": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Học liệu, truyền thông\\0077_2352_QĐ-ĐHBK_Ban hành Quy chế hoạt động truyền thông của Trường ĐHBK, ĐHĐN.json",
+   "so_ky_tu": 22024,
+   "goc": 22741,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: O5/NQ-HĐT"
+   ],
+   "so_dieu": 24,
+   "luc": 1789738936
+  },
+  "0081": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0081_389_QĐ-ĐHBK_Ban hành Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong th.json",
+   "so_ky_tu": 12373,
+   "goc": 11918,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 11,
+   "luc": 1789738974
+  },
+  "0082": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công nghệ thông tin, CĐS\\0082_2347_QĐ-ĐHBK_Ban hành Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện t.json",
+   "so_ky_tu": 34443,
+   "goc": 43767,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 28,
+   "luc": 1789739020
+  },
+  "0084": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0084_334_QĐ-ĐHBK_Ban hành mẫu logo của Trường ĐHBK, ĐHĐN.json",
+   "so_ky_tu": 2670,
+   "goc": 3657,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (440/2806 ky tu = 16%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789739032
+  },
+  "0083": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0083_730_QĐ-ĐHBK_Ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng Trường ĐHBK, ĐHĐN.json",
+   "so_ky_tu": 41709,
+   "goc": 49316,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 27,
+   "luc": 1789739052
+  },
+  "0085": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Cơ sở vật chất, xây dựng\\0085_1425_QĐ-ĐHĐN_Ban hành Quy định quản lý và sử dụng tài sản công tại ĐHĐN.json",
+   "so_ky_tu": 19128,
+   "goc": 20111,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789739077
+  },
+  "0088": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0088_29_2018_QH14_Luật 29_2018_QH14 Luật Bảo vệ Bí mật nhà nước.json",
+   "so_ky_tu": 47065,
+   "goc": 58459,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 28,
+   "luc": 1789739138
+  },
+  "0093": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công nghệ thông tin, CĐS\\0093_24_2018_QH14_Luật 24_2018_QH14 Luật An ninh mạng 2018.json",
+   "so_ky_tu": 67893,
+   "goc": 84233,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 43,
+   "luc": 1789739240
+  },
+  "0092": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0092_25_2018_QH14_Luật Tố cáo 25.2018 (hiệu lực từ 01_01_2019).json",
+   "so_ky_tu": 79553,
+   "goc": 95930,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 67,
+   "luc": 1789739247
+  },
+  "0099": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0099_01_2011_QH13_Luật 01_2011_QH13 Luật lưu trữ.json",
+   "so_ky_tu": 42748,
+   "goc": 50126,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 42,
+   "luc": 1789739325
+  },
+  "0098": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0098_42_2013_QH13_Luật 42_2013_QH13 Luật Tiếp công dân năm 2013.json",
+   "so_ky_tu": 53224,
+   "goc": 62516,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 36,
+   "luc": 1789739328
+  },
+  "0100": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Sở hữu trí tuệ\\0100_36_2009_QH12_Luật 36_2009_QH12 Luật Sở hữu trí tuệ sửa đổi 2009.json",
+   "so_ky_tu": 45742,
+   "goc": 59655,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789739360
+  },
+  "0101": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0101_15_2003_QH11_Luật 15_2003_QH11 Luật Thi đua, khen thưởng năm 2003.json",
+   "so_ky_tu": 66803,
+   "goc": 75100,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 103,
+   "luc": 1789739368
+  },
+  "0106": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0106_01_2013_NĐ-CP_Nghị định 01_2013_NĐ-CP Quy định chi tiết thi hành một số điều của Luật lưu trữ.json",
+   "so_ky_tu": 23956,
+   "goc": 28538,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 29,
+   "luc": 1789739412
+  },
+  "0107": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0107_89_2021_NĐ-CP_Nghị định 89_2021_NĐ-CP Nghị định sửa đổi Nghị định 101_2017_NĐ-CP về đào tạo,.json",
+   "so_ky_tu": 15964,
+   "goc": 20351,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 2,
+   "luc": 1789739417
+  },
+  "0113": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0113_135_2020_NĐ-CP_Nghị định 135_2020_NĐ-CP Nghị định quy định về tuổi nghỉ hưu.json",
+   "so_ky_tu": 12783,
+   "goc": 26999,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 9,
+   "luc": 1789739431
+  },
+  "0115": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0115_31_2019_NĐ-CP_Nghị định 31_2019_NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luậ.json",
+   "so_ky_tu": 30126,
+   "goc": 66469,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789739464
+  },
+  "0119": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0119_27_2015_NĐ-CP_Nghị định 27_2015_NĐ-CP Quy định về xét tặng danh hiệu _Nhà giáo Nhân dân_, _Nh.json",
+   "so_ky_tu": 34456,
+   "goc": 76116,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 19,
+   "luc": 1789739470
+  },
+  "0122": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0122_28_2013_NĐ-CP_Nghị định 28_2013_NĐ-CP Hướng dẫn Luật phổ biến, giáo dục pháp luật.json",
+   "so_ky_tu": 16153,
+   "goc": 18254,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 13,
+   "luc": 1789739487
+  },
+  "0121": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0121_42_2013_NĐ-CP_Nghị định 42_2013_NĐ-CP Tổ chức và hoạt động thanh tra giáo dục.json",
+   "so_ky_tu": 28920,
+   "goc": 32777,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 29,
+   "luc": 1789739502
+  },
+  "0124": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0124_05_2022_QĐ-TTg_Quyết định 05_2022_QĐ-TTg Quyết định sửa đổi, bổ sung một số điều của Quyết đị.json",
+   "so_ky_tu": 5777,
+   "goc": 5438,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789739526
+  },
+  "0125": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0125_69_QĐ-TTg_Quyết định 69_QĐ-TTg Quyết định năm 2019 về phê duyệt Đề án nâng cao chất lượng giá.json",
+   "so_ky_tu": 20438,
+   "goc": 26166,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789739545
+  },
+  "0127": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0127_1219_QĐ-ĐHĐN_Quyết định 1219_QĐ-ĐHĐN Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm.json",
+   "so_ky_tu": 5413,
+   "goc": 67822,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 29-NQ/TW",
+    "than Dieu ngan bat thuong (368/51619 ky tu = 1%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789739558
+  },
+  "0126": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0126_18_2017_QĐ-TTg_Quyết định 18_2017_QĐ-TTg Quy định về liên thông giữa trình độ trung cấp, trìn.json",
+   "so_ky_tu": 16252,
+   "goc": 18056,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 10,
+   "luc": 1789739559
+  },
+  "0134": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Khoa học Công nghệ\\0134_70_2018_NĐ-CP_Nghị định 70_2018_NĐ-CP Quy định việc quản lý, sử dụng tài sản được hình thành.json",
+   "so_ky_tu": 3341,
+   "goc": 86465,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~41, JSON co 3",
+    "than Dieu ngan bat thuong (1314/64553 ky tu = 2%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789739636
+  },
+  "0132": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0132_106_2020_NĐ-CP_Nghị định 106_2020_NĐ-CP Nghị định về vị trí việc làm và số lượng người làm việ.json",
+   "so_ky_tu": 31755,
+   "goc": 71743,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 21,
+   "luc": 1789739643
+  },
+  "0135": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0135_69_2017_NĐ-CP_Nghị định 69_2017_NĐ-CP Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ ch.json",
+   "so_ky_tu": 18360,
+   "goc": 23396,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 5,
+   "luc": 1789739693
+  },
+  "0138": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Cơ sở vật chất, xây dựng\\0138_89_2013_NĐ-CP_Nghị định 89_2013_NĐ-CP Quy định chi tiết thi hành một số điều của Luật Giá về.json",
+   "so_ky_tu": 48453,
+   "goc": 58552,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 35,
+   "luc": 1789739739
+  },
+  "0139": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0139_27_2012_NĐ-CP_Nghị định 27_2012_NĐ-CP Nghị định Quy định về xử lý kỷ luật viên chức và trách.json",
+   "so_ky_tu": 6020,
+   "goc": 60337,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~41, JSON co 4",
+    "than Dieu ngan bat thuong (2068/44743 ky tu = 5%)"
+   ],
+   "so_dieu": 4,
+   "luc": 1789739752
+  },
+  "0141": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0141_01_2017_QĐ-TTg_Quyết định 01_2017_QĐ-TTg Danh mục giáo dục, đào tạo của hệ thống giáo dục quố.json",
+   "so_ky_tu": 3297,
+   "goc": 48226,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (1166/37386 ky tu = 3%)"
+   ],
+   "so_dieu": 4,
+   "luc": 1789739796
+  },
+  "0144": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0144_24_2021_TT-BGDĐT_Thông tư 24_2021_TT-BGDĐT Thông tư 24_2021_TT-BGDĐT sửa đổi Quy chế thi đánh.json",
+   "so_ky_tu": 13485,
+   "goc": 16102,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789739813
+  },
+  "0146": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0146_17_2021_TT-BGDĐT_Thông tư 17_2021_TT-BGDĐT Thông tư 17_2021_TT-BGDĐT quy định về chuẩn chương.json",
+   "so_ky_tu": 4685,
+   "goc": 56177,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~22, JSON co 1",
+    "than Dieu ngan bat thuong (1215/41728 ky tu = 3%)"
+   ],
+   "so_dieu": 1,
+   "luc": 1789739871
+  },
+  "0145": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0145_23_2021_TT-BGDĐT_Thông tư 23_2021_TT-BGDĐT Quy chế tuyển sinh và đào tạo trình độ thạc sỹ.json",
+   "so_ky_tu": 37808,
+   "goc": 47872,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 21,
+   "luc": 1789739882
+  },
+  "0152": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0152_07_2020_TT-BGDĐT_Thông tư 07_2020_TT-BGDĐT Thông tư 07_2020_TT-BGDĐT sửa đổi Thông tư 06_2018.json",
+   "so_ky_tu": 19639,
+   "goc": 42353,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 4,
+   "luc": 1789740019
+  },
+  "0154": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0154_18_2021_TT-BGDĐT_Thông tư 18_2021_TT-BGDĐT về Quy chế tuyển sinh và đào tạo trình độ tiến sĩ.json",
+   "so_ky_tu": 45829,
+   "goc": 64212,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 27,
+   "luc": 1789740104
+  },
+  "0156": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0156_2858_QĐ-ĐHĐN_Quyết định 2858_QĐ-ĐHĐN Quyết định ban hành mẫu bản sao bằng giáo dục đại học của.json",
+   "so_ky_tu": 4063,
+   "goc": 7344,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (880/5948 ky tu = 15%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789740161
+  },
+  "0155": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Văn thư, lưu trữ\\0155_4801_QĐ-ĐHĐN_Quyết định 4801_QĐ-ĐHĐN Quy chế công tác văn thư, lưu trữ của Đại học Đà Nẵng.json",
+   "so_ky_tu": 59349,
+   "goc": 69599,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 48,
+   "luc": 1789740171
+  },
+  "0157": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0157_4653_QĐ-ĐHĐN_Quyết định 4653_QĐ-ĐHĐN Quy định phát ngôn và cung cấp thông tin cho báo chí của Đ.json",
+   "so_ky_tu": 13208,
+   "goc": 13852,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789740196
+  },
+  "0159": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đảm bảo chất lượng, KĐCL\\0159_5778_BGDĐT-QLCL_5778_BGDĐT-QLCL Công văn của Bộ GDĐT về việc ứng dụng công nghệ thông tin trong.json",
+   "so_ky_tu": 1231,
+   "goc": 4469,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 0,
+   "luc": 1789740205
+  },
+  "0160": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đảm bảo chất lượng, KĐCL\\0160_2085_QLCL-KĐCLGD_2085_QLCL-KĐCLGD Công văn về việc hướng dẫn tự đánh giá và đánh giá ngoài chươ.json",
+   "so_ky_tu": 4443,
+   "goc": 56116,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789740228
+  },
+  "0161": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0161_40_2017_TT-BTC_Thông tư 40_2017_TT-BTC Quy định chế độ công tác phí, chế độ chi hội nghị.json",
+   "so_ky_tu": 5458,
+   "goc": 44974,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~16, JSON co 1",
+    "than Dieu ngan bat thuong (575/34031 ky tu = 2%)"
+   ],
+   "so_dieu": 1,
+   "luc": 1789740253
+  },
+  "0170": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0170_3297_QĐ-ĐHĐN_Quyết định 3297_QĐ-ĐHĐN Quy chế tuyển sinh trình độ tiến sĩ.json",
+   "so_ky_tu": 19835,
+   "goc": 41452,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 13,
+   "luc": 1789740341
+  },
+  "0171": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0171_3183_QĐ-ĐHĐN_Quyết định 3183_QĐ-ĐHĐN Quy định tổ chức tuyển sinh đào tạo trình độ thạc sỹ theo.json",
+   "so_ky_tu": 20019,
+   "goc": 21820,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789740378
+  },
+  "0173": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0173_2390_QĐ-ĐHĐN_Quyết định 2390_QĐ-ĐHĐN Quy chế nâng bậc lương trước thời hạn do lập thành tích xu.json",
+   "so_ky_tu": 19759,
+   "goc": 21272,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789740389
+  },
+  "0175": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0175_998_QĐ-ĐHĐN_Quyết định 998_QĐ-ĐHĐN Quy định tiêu chuẩn bổ sung trong việc xét, công nhận danh.json",
+   "so_ky_tu": 8878,
+   "goc": 8855,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 7,
+   "luc": 1789740401
+  },
+  "0174": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0174_2058_QĐ-ĐHĐN_Quyết định 2058_QĐ-ĐHĐN Quy định tổ chức đánh giá đồ án, khoá luận, luận văn, luận.json",
+   "so_ky_tu": 15560,
+   "goc": 15571,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 13,
+   "luc": 1789740402
+  },
+  "0176": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0176_4765_QĐ-ĐHĐN_Quyết định 4765_QĐ-ĐHĐN Quy định về tổ chức xét duyệt và công nhận sáng kiến.json",
+   "so_ky_tu": 21112,
+   "goc": 33766,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789740412
+  },
+  "0181": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0181_3226_QĐ-ĐHĐN_Quyết định 3226_QĐ-ĐHĐN Quy định hoạt động nghiên cứu khoa học của sinh viên Đại h.json",
+   "so_ky_tu": 23218,
+   "goc": 24539,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 26,
+   "luc": 1789740470
+  },
+  "0185": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0185_1356_QĐ-ĐHĐN_Quyết định 1356_QĐ-ĐHĐN Quy định quản lý văn bằng chứng chỉ của Đại học Đà Nẵng.json",
+   "so_ky_tu": 20715,
+   "goc": 31821,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789740478
+  },
+  "0186": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0186_637_QĐ-ĐHĐN_Quyết định 637_QĐ-ĐHĐN Quy chế phục vụ cộng đồng đối với công chức, viên chức và n.json",
+   "so_ky_tu": 10415,
+   "goc": 10524,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789740489
+  },
+  "0188": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0188_1214_QĐ-ĐHĐN_Quyết định 1214_QĐ-ĐHĐN Quy chế xét tặng Giải thưởng _Công trình khoa học tiêu biể.json",
+   "so_ky_tu": 13712,
+   "goc": 29278,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789740549
+  },
+  "0187": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0187_1826_QĐ-ĐHĐN_Quyết định 1826_QĐ-ĐHĐN Quy định về quản lý đề tài khoa học và công nghệ cấp ĐHĐN.json",
+   "so_ky_tu": 44856,
+   "goc": 52462,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 43,
+   "luc": 1789740570
+  },
+  "0192": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0192_1609_QĐ-ĐHBK_Ban hành Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trườn.json",
+   "so_ky_tu": 21888,
+   "goc": 24579,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789740584
+  },
+  "0190": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0190_07_2022_TT-BGDĐT_Quy định công tác tư vấn nghề nghiệp, việc làm và hỗ trợ khởi nghiệp trong c.json",
+   "so_ky_tu": 27404,
+   "goc": 33704,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789740586
+  },
+  "0196": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0196_47_2005_QH11_Luật sửa đổi bổ sung một số điều của Luật thi đua khen thưởng ngày 16_11_2013.json",
+   "so_ky_tu": 3337,
+   "goc": 75898,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~51, JSON co 2",
+    "than Dieu ngan bat thuong (1556/58047 ky tu = 3%)"
+   ],
+   "so_dieu": 2,
+   "luc": 1789740641
+  },
+  "0199": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0199_09_2022_TT-BGDĐT_Thông tư Quy định danh mục thống kê ngành đào tạo của giáo dục đại học.json",
+   "so_ky_tu": 17297,
+   "goc": 88512,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (12576/72890 ky tu = 17%)"
+   ],
+   "so_dieu": 10,
+   "luc": 1789740651
+  },
+  "0203": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đảm bảo chất lượng, KĐCL\\0203_11_2022_TT-BGDĐT_Thông tư 11_2022_TT-BGDĐT quy định về liên kết tổ chức thi cấp chứng chỉ năn.json",
+   "so_ky_tu": 11935,
+   "goc": 15245,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 6,
+   "luc": 1789740707
+  },
+  "0202": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0202_2479_QĐ-ĐHBK_Ban hành Quy chế tổ chức và hoạt động nhóm nghiên cứu tiềm năng, nhóm nghiên cứu m.json",
+   "so_ky_tu": 28866,
+   "goc": 35270,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789740730
+  },
+  "0205": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0205_50_2022_NĐ-CP_Nghị định 50_2022_NĐ-CP ngày 02_8_2022 của Chính phủ quy định về nghỉ hưu ở tuổ.json",
+   "so_ky_tu": 7504,
+   "goc": 8158,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 8,
+   "luc": 1789740765
+  },
+  "0204": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0204_3092_QĐ-ĐHBK_Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, ĐHĐN.json",
+   "so_ky_tu": 36217,
+   "goc": 88902,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 21,
+   "luc": 1789740782
+  },
+  "0208": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0208_73_2021_QH14_Luật phòng, chống ma túy.json",
+   "so_ky_tu": 64519,
+   "goc": 77450,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 55,
+   "luc": 1789740896
+  },
+  "0209": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0209_57_2020_QH14_Luật thanh niên.json",
+   "so_ky_tu": 35044,
+   "goc": 39718,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 41,
+   "luc": 1789740900
+  },
+  "0211": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0211_4751_QĐ-ĐHĐN_Ban hành Quy định về công tác kiểm tra của Đại học Đà Nẵng.json",
+   "so_ky_tu": 29444,
+   "goc": 51401,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789740979
+  },
+  "0212": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0212_3875_QĐ-ĐHBK_Ban hành Quy định đào tạo trình độ thạc sĩ của Trường Đại học Bách khoa, ĐHĐN.json",
+   "so_ky_tu": 62476,
+   "goc": 77105,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 37,
+   "luc": 1789741012
+  },
+  "0213": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khảo thí\\0213_1980_QĐ-ĐHBK_Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trườ.json",
+   "so_ky_tu": 65758,
+   "goc": 78616,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 38,
+   "luc": 1789741048
+  },
+  "0218": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đảm bảo chất lượng, KĐCL\\0218_49_2012_TT-BGDĐT_Tiêu chuẩn đánh giá chất lượng chương trình đào tạo GV THPT trình độ Đại học.json",
+   "so_ky_tu": 24790,
+   "goc": 29374,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789741084
+  },
+  "0219": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0219_2851_BGDĐT-TĐKT_Hướng dẫn xét, công nhận sáng kiến_ phạm vi ảnh hưởng của sáng kiến, đề tài ngh.json",
+   "so_ky_tu": 3938,
+   "goc": 17361,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789741095
+  },
+  "0215": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đảm bảo chất lượng, KĐCL\\0215_1395_QĐ-ĐHBK_Quy định bảo đảm chất lượng giáo dục Trường Đại học Bách khoa, Đại học Đà Nẵng.json",
+   "so_ky_tu": 42664,
+   "goc": 48676,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 38,
+   "luc": 1789741119
+  },
+  "0223": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0223_840_QĐ-ĐHBK_Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt.json",
+   "so_ky_tu": 17771,
+   "goc": 31433,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 13,
+   "luc": 1789741130
+  },
+  "0224": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0224_866_QĐ-ĐHĐN_Quy định đào tạo theo phương thức trực tuyến và phương thức trực tiếp kết hợp trực.json",
+   "so_ky_tu": 25839,
+   "goc": 29060,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789741169
+  },
+  "0226": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0226_1340_QĐ-ĐHBK_Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023.json",
+   "so_ky_tu": 6288,
+   "goc": 5038,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 5,
+   "luc": 1789741175
+  },
+  "0230": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0230_3106_QĐ-ĐHĐN_Quyết định về việc giao Hiệu trưởng các trường đại học thành viên quyết định bổ nh.json",
+   "so_ky_tu": 4670,
+   "goc": 3336,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789741190
+  },
+  "0237": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0237_5166_QĐ-ĐHĐN_Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng.json",
+   "so_ky_tu": 21921,
+   "goc": 24159,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789741246
+  },
+  "0238": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0238_4754_QĐ-ĐHĐN_Quy định về công tác kiểm tra của Đại học Đà Nẵng.json",
+   "so_ky_tu": 29523,
+   "goc": 46247,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789741251
+  },
+  "0233": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Hợp tác quốc tế\\0233_2268_QĐ-ĐHĐN_Quy định về công tác quản lý hợp tác quốc tế tại Đại học Đà Nẵng.json",
+   "so_ky_tu": 45051,
+   "goc": 73415,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 35,
+   "luc": 1789741261
+  },
+  "0225": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0225_1248_QĐ-ĐHĐN_Ban hành Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng.json",
+   "so_ky_tu": 32757,
+   "goc": 35961,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 32,
+   "luc": 1789741293
+  },
+  "0240": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0240_4305_QĐ-ĐHĐN_Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ củ.json",
+   "so_ky_tu": 16875,
+   "goc": 45120,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (10165/34298 ky tu = 30%)"
+   ],
+   "so_dieu": 12,
+   "luc": 1789741296
+  },
+  "0241": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0241_4481_QĐ-ĐHĐN_Quy chế tuyển sinh đại học vừa làm vừa học.json",
+   "so_ky_tu": 21428,
+   "goc": 22632,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789741304
+  },
+  "0249": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Cơ sở vật chất, xây dựng\\0249_06_2022_TT-BGDĐT_Hướng dẫn trang bị kiến thức, kỹ năng về phòng cháy, chữa cháy và cứu nạn, c.json",
+   "so_ky_tu": 19251,
+   "goc": 23617,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 13,
+   "luc": 1789741350
+  },
+  "0250": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công tác sinh viên\\0250_33_2018_TT-BGDĐT_Hướng dẫn công tác xã hội trong trường học.json",
+   "so_ky_tu": 23627,
+   "goc": 40154,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 2 muc khong phai so hieu: 2016; 2005"
+   ],
+   "so_dieu": 19,
+   "luc": 1789741352
+  },
+  "0253": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0253_27_2009_TT-BGDĐT_Ban hành Quy chế ngoại trú của học sinh, sinh viên các trường đại học, cao đ.json",
+   "so_ky_tu": 13788,
+   "goc": 15896,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789741360
+  },
+  "0254": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0254_3496_QĐ-ĐHĐN_Ban hành Quy định quản lý và sử dụng chứng thư số, chữ ký số của Đại học Đà Nẵng.json",
+   "so_ky_tu": 32633,
+   "goc": 40375,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 24,
+   "luc": 1789741391
+  },
+  "0256": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0256_2858_QĐ-BGDĐT_Ban hành Quy chế tổ chức và hoạt động Đoàn thanh tra của Bộ Giáo dục và Đào tạo.json",
+   "so_ky_tu": 17875,
+   "goc": 24884,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 20,
+   "luc": 1789741410
+  },
+  "0259": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tuyển sinh\\0259_4495_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế P.json",
+   "so_ky_tu": 7233,
+   "goc": 24617,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (2922/19575 ky tu = 15%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789741449
+  },
+  "0255": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công nghệ thông tin, CĐS\\0255_53_2022_NĐ-VP_Quy định chi tiết một số điều của Luật An ninh mạng.json",
+   "so_ky_tu": 64658,
+   "goc": 96837,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 30,
+   "luc": 1789741491
+  },
+  "0262": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0262_4347_QĐ-ĐHBK_Quy định chấm công bằng quét dấu vân tay tại Trường Đại học Bách khoa, Đại học Đà.json",
+   "so_ky_tu": 14246,
+   "goc": 15083,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789741506
+  },
+  "0261": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0261_4794_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên.json",
+   "so_ky_tu": 20334,
+   "goc": 74327,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (12686/60175 ky tu = 21%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789741528
+  },
+  "0264": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0264_1982_QĐ-TTg_Phê duyệt Khung trình độ quốc gia Việt Nam.json",
+   "so_ky_tu": 15566,
+   "goc": 32508,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 4,
+   "luc": 1789741548
+  },
+  "0263": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0263_5005_QĐ-ĐHĐN_Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện n.json",
+   "so_ky_tu": 23024,
+   "goc": 27488,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 1448-CV/ĐU"
+   ],
+   "so_dieu": 12,
+   "luc": 1789741551
+  },
+  "0268": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0268_30_2023_TT-BGDĐT_Quy định về ứng dụng công nghệ thông tin trong đào tạo trực tuyến đối với gi.json",
+   "so_ky_tu": 14593,
+   "goc": 21158,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789741607
+  },
+  "0266": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0266_28_2023_TT-BGDĐT_Quy chế đào tạo từ xa trình độ đại học.json",
+   "so_ky_tu": 30860,
+   "goc": 45646,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789741615
+  },
+  "0270": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tài chính, kế toán\\0270_97_2023_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều cuả Nghị định số 81_2021_NĐ-CP ngày 27_8.json",
+   "so_ky_tu": 14355,
+   "goc": 17318,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789741619
+  },
+  "0267": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0267_29_2023_TT-BGDĐT_Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng đối với.json",
+   "so_ky_tu": 27686,
+   "goc": 45100,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789741633
+  },
+  "0271": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0271_30_2023_TT-BGDĐT_Quy định về ứng dụng công nghệ thông tin trong đào tạo trực tuyến đối với gi.json",
+   "so_ky_tu": 14635,
+   "goc": 17957,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789741665
+  },
+  "0272": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0272_4912_QĐ-ĐHĐN_Quyết định 4912_QĐ-ĐHĐN Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt.json",
+   "so_ky_tu": 24339,
+   "goc": 73021,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789741671
+  },
+  "0283": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0283_55_2011_NĐ-CP_Nghị định Quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ c.json",
+   "so_ky_tu": 37355,
+   "goc": 44975,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789741757
+  },
+  "0284": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Pháp chế\\0284_42_2020_TT-BGDĐT_Thông tư bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ GD và ĐT l.json",
+   "so_ky_tu": 7188,
+   "goc": 8628,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 4,
+   "luc": 1789741775
+  },
+  "0286": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0286_48_2023_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều của nghị định số 90_2020_NĐ-CP ngày 13 t.json",
+   "so_ky_tu": 6646,
+   "goc": 8038,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789741810
+  },
+  "0288": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0288_01_2024_TT-NBV_Thông tư Quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số.json",
+   "so_ky_tu": 23032,
+   "goc": 28531,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 10,
+   "luc": 1789741813
+  },
+  "0295": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0295_43_2023_NĐ-CP_Nghị định quy định chi tiết một số điều Luật thanh tra 2022.json",
+   "so_ky_tu": 4352,
+   "goc": 81595,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~70, JSON co 4",
+    "than Dieu ngan bat thuong (1730/63036 ky tu = 3%)"
+   ],
+   "so_dieu": 4,
+   "luc": 1789741866
+  },
+  "0297": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0297_39_2013_TT-BGDĐT_Thông tư hướng dẫn về thanh tra chuyên ngành trong lĩnh vực giáo dục.json",
+   "so_ky_tu": 21482,
+   "goc": 24146,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789741871
+  },
+  "0292": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0292_130_2020_NĐ-CP_Nghị định về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn trong.json",
+   "so_ky_tu": 29024,
+   "goc": 76866,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 3 muc khong phai so hieu: 2015; 2019"
+   ],
+   "so_dieu": 25,
+   "luc": 1789741878
+  },
+  "0296": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0296_51_2012_TT-BGDĐT_Thông tư quy định về tổ chức và hoạt động thanh tra của cơ sở giáo dục đại h.json",
+   "so_ky_tu": 25290,
+   "goc": 29302,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789741880
+  },
+  "0302": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0302_03_2021_TT-TTCP_Thông tư quy định chi tiết danh mục và thời hạn định kỳ chuyển đổi vị trí côn.json",
+   "so_ky_tu": 4995,
+   "goc": 4379,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 5,
+   "luc": 1789741910
+  },
+  "0298": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0298_01_2014_TT-TTCP_Thông tư quy định việc xây dựng, phê duyệt định hướng chương trình thanh tra,.json",
+   "so_ky_tu": 30120,
+   "goc": 35484,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789741917
+  },
+  "0300": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0300_25_2019_TT-BGDĐT_Thông tư sửa đổi, bổ sung một số điều của Thông tư số 40_2013_TT-BGDĐT ngày.json",
+   "so_ky_tu": 12852,
+   "goc": 14005,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789741927
+  },
+  "0301": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0301_01_2021_TT-TTCP_Thông tư quy định quy tắc ứng xử của cán bộ, công chức, viên chức trong ngành.json",
+   "so_ky_tu": 17917,
+   "goc": 21632,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789741934
+  },
+  "0303": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0303_04_2021_TT-TTCP_Thông tư quy định quy trình tiếp công dân.json",
+   "so_ky_tu": 15423,
+   "goc": 23414,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789741941
+  },
+  "0306": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0306_07_2021_TT-TTCP_Thông tư quy định về thẩm quyền, nội dung thanh tra, trách nhiệm thực hiện ph.json",
+   "so_ky_tu": 21865,
+   "goc": 23055,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 16,
+   "luc": 1789741973
+  },
+  "0310": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0310_624_BGDĐT-TTr_Công văn về việc tăng cường công tác thanh tra, kiểm tra nội bộ trong cơ sở GDĐH.json",
+   "so_ky_tu": 2291,
+   "goc": 7397,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789741982
+  },
+  "0309": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0309_2692_QĐ-BGDĐT_Quyết định ban hành quy định về công tác kiểm tra của Bộ Giáo dục và Đào tạo.json",
+   "so_ky_tu": 25699,
+   "goc": 45654,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 21,
+   "luc": 1789741982
+  },
+  "0311": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Khoa học Công nghệ\\0311_07_2017_QH14_Luật Chuyển giao công nghệ.json",
+   "so_ky_tu": 8199,
+   "goc": 99428,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~60, JSON co 4",
+    "than Dieu ngan bat thuong (6028/74889 ky tu = 8%)"
+   ],
+   "so_dieu": 4,
+   "luc": 1789741991
+  },
+  "0313": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0313_07_2024_TT-BGDĐT_Thông tư sửa đổi, bổ sung Điều 7 và thay thế Phụ lục II, III của Thông tư số.json",
+   "so_ky_tu": 7918,
+   "goc": 16915,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789741997
+  },
+  "0316": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0316_04_2024_TT-BGDĐT_Thông tư hướng dẫn về vị trí việc làm lãnh đạo, quản lý và vị trí việc làm c.json",
+   "so_ky_tu": 8715,
+   "goc": 9606,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 8,
+   "luc": 1789742041
+  },
+  "0315": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0315_1155_QĐ-ĐHĐN_Quyết định sửa đổi, bổ sung một số điều của Quy chế công nhận, bổ nhiệm, bổ nhiệm.json",
+   "so_ky_tu": 44066,
+   "goc": 64755,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 3 muc khong phai so hieu: 80-QĐ/TW; 101-QĐ/TW"
+   ],
+   "so_dieu": 4,
+   "luc": 1789742065
+  },
+  "0320": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0320_4960_HD-ĐHĐN_Hướng dẫn khung đảm bảo chất lượng trong nghiên cứu khoa học.json",
+   "so_ky_tu": 1765,
+   "goc": 46715,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789742112
+  },
+  "0323": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0323_86_2011_NĐ-CP_Nghị định số 86_2011_NĐ-CP ngày 22_9_2011 Quy định chi tiết và hướng dẫn thi hà.json",
+   "so_ky_tu": 3138,
+   "goc": 86293,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~80, JSON co 2",
+    "than Dieu ngan bat thuong (567/67104 ky tu = 1%)"
+   ],
+   "so_dieu": 2,
+   "luc": 1789742122
+  },
+  "0325": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0325_02_2021_TT-TTCP_Thông tư số 02_2021_TT-TTCP ngày 22_3_2021 Quy định chế độ báo cáo công tác t.json",
+   "so_ky_tu": 16046,
+   "goc": 97378,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (10547/75644 ky tu = 14%)"
+   ],
+   "so_dieu": 11,
+   "luc": 1789742169
+  },
+  "0328": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0328_14_2021_TT-BGD&ĐT_Thông tư số 14_2021_TT-BGD&ĐT ngày 20_5_2021 Sửa đổi , bổ sung một số điều.json",
+   "so_ky_tu": 13065,
+   "goc": 15166,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789742179
+  },
+  "0319": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0319_85_2023_NĐ-CP_Nghị định 85_2023_NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115_2020_.json",
+   "so_ky_tu": 67883,
+   "goc": 97936,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789742211
+  },
+  "0330": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0330_39_2023_TT-BGDĐT_Thông tư số 39_2023_TT-BGDĐT ngày 29_12_2023 Quy định chi tiết thi hành một.json",
+   "so_ky_tu": 27789,
+   "goc": 42073,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 15,
+   "luc": 1789742252
+  },
+  "0331": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0331_39_2013_QH13_Luật sửa đổi bổ sung một số điều của Luật thi đua khen thưởng.json",
+   "so_ky_tu": 46649,
+   "goc": 60288,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 2,
+   "luc": 1789742293
+  },
+  "0333": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0333_4499_BGDĐT-GDĐH_Công văn số 4499_BGDĐT-GDĐH ngày 06_10_2021 của Bộ trưởng Bộ GDĐT về hướng dẫn.json",
+   "so_ky_tu": 3617,
+   "goc": 21695,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 8OO/CT-BGDĐT"
+   ],
+   "so_dieu": 0,
+   "luc": 1789742300
+  },
+  "0339": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0339_4735_BGDĐT-GDĐH_Công văn số 4735_BGDĐT-GDĐH ngày 23_9_2022 của Bộ Giáo dục và Đào tạo về việc h.json",
+   "so_ky_tu": 3030,
+   "goc": 18417,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789742561
+  },
+  "0340": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0340_1375_KH-BGDĐT_Kế hoạch 1375_KH-BGDĐT ngày 02_11_2020 của Bộ Giáo dục và Đào tạo thực hiện Phong.json",
+   "so_ky_tu": 2408,
+   "goc": 13666,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 3 muc khong phai so hieu: 29-NQ/TW; 34-CT/TW"
+   ],
+   "so_dieu": 0,
+   "luc": 1789742618
+  },
+  "0344": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0344_04_2019_TT-BKHCN_Thông tư 04_2019_TT-BKHCN về quy định sử dụng hóa chất để thực hiện thí nghi.json",
+   "so_ky_tu": 18510,
+   "goc": 22551,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 11,
+   "luc": 1789742739
+  },
+  "0346": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0346_11_2020_TT-BGDĐT_Thông tư số 11_2020_TT-BGDĐT- Thông tư hướng dẫn thực hiện dân chủ trong hoạ.json",
+   "so_ky_tu": 22683,
+   "goc": 27774,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 22,
+   "luc": 1789742918
+  },
+  "0347": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0347_59_2010_QH12_Luật Bảo vệ quyền lợi người tiêu dùng năm 2010.json",
+   "so_ky_tu": 43572,
+   "goc": 50262,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 51,
+   "luc": 1789742938
+  },
+  "0355": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0355_1559_QĐ-BGDĐT_Xét thăng hạng chức danh nghề nghiệp, bổ nhiệm chức danh nghề nghiệp, xếp lương,.json",
+   "so_ky_tu": 9880,
+   "goc": 12588,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 505-TB/BCSĐ"
+   ],
+   "so_dieu": 7,
+   "luc": 1789742993
+  },
+  "0349": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0349_52_2019_QH14_Luật sửa đổi, bổ sung một số điều của luật cán bộ, công chức và viên chức.json",
+   "so_ky_tu": 34583,
+   "goc": 44181,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789742998
+  },
+  "0358": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0358_1749_QĐ-BGDĐT_Quy định xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn q.json",
+   "so_ky_tu": 31072,
+   "goc": 48976,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 23,
+   "luc": 1789743323
+  },
+  "0360": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0360_2060_QĐ-BGDĐT_Công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào.json",
+   "so_ky_tu": 4932,
+   "goc": 14254,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (570/11130 ky tu = 5%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789743379
+  },
+  "0364": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0364_2140_QĐ-BGDĐT_Công khai đường dây nóng, hộp thư điện tử tiếp nhận thông tin về hành vi nhũng nh.json",
+   "so_ky_tu": 5653,
+   "goc": 8638,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (1721/6831 ky tu = 25%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789743585
+  },
+  "0368": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Khoa học Công nghệ\\0368_66_2014_QĐ-TTg_Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sả.json",
+   "so_ky_tu": 3428,
+   "goc": 20584,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (779/15762 ky tu = 5%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789743642
+  },
+  "0372": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0372_4311_QĐ-ĐHBK_Ban hành Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại h.json",
+   "so_ky_tu": 17532,
+   "goc": 30610,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789743896
+  },
+  "0377": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0377_3560_QĐ-BGDĐT_Công bố công khai dự toán ngân sách nhà nước năm 2024.json",
+   "so_ky_tu": 5430,
+   "goc": 74885,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (328/65175 ky tu = 1%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789744232
+  },
+  "0378": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0378_4804_QĐ-ĐHĐN_Ban hành quy định đào tạo trực tuyến và đào tạo kết hợp của Đại học Đà Nẵng.json",
+   "so_ky_tu": 27344,
+   "goc": 32955,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789744252
+  },
+  "0014": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0014_3758_QĐ-ĐHĐN_Ban hành Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được.json",
+   "so_ky_tu": 20606,
+   "goc": 23085,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789781704
+  },
+  "0018": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0018_1414_QĐ-ĐHBK_Ban hành Quy định về viêc xét, cấp học bổng cho sinh viên hệ đại học chính quy tại.json",
+   "so_ky_tu": 23208,
+   "goc": 25207,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789781728
+  },
+  "0029": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0029_176_QĐ-ĐHBK_Nội quy tiếp công dân của Trường Đại học Bách khoa, Đại học Đà Nẵng.json",
+   "so_ky_tu": 7326,
+   "goc": 6333,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 6,
+   "luc": 1789781766
+  },
+  "0030": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0030_199_QĐ-ĐHBK_Quy trình thanh tra công tác giảng dạy và tổ chức thi cuối kỳ của Trường Đại học B.json",
+   "so_ky_tu": 10181,
+   "goc": 9985,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 7,
+   "luc": 1789781770
+  },
+  "0048": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tài chính, kế toán\\0048_771_QĐ-ĐHBK_Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động.json",
+   "so_ky_tu": 5981,
+   "goc": 5443,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 6,
+   "luc": 1789781805
+  },
+  "0043": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0043_1395_QĐ-ĐHBK_Quy định đảm bảo chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵng.json",
+   "so_ky_tu": 44472,
+   "goc": 51422,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 38,
+   "luc": 1789781841
+  },
+  "0062": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0062_2231_QĐ-ĐHBK_Ban hành Quy định xét thi đua, khen thưởng, đối với sinh viên đại học hệ chính quy.json",
+   "so_ky_tu": 32630,
+   "goc": 42060,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 21,
+   "luc": 1789781855
+  },
+  "0064": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Hợp tác quốc tế\\0064_3646_QĐ-ĐHBK_Quy định về công tác quản lý hoạt động hợp tác quốc tế của Trường Đại học Bách kho.json",
+   "so_ky_tu": 56792,
+   "goc": 63699,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 41,
+   "luc": 1789781909
+  },
+  "0074": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0074_3337_QĐ-ĐHBK_Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ ch.json",
+   "so_ky_tu": 30577,
+   "goc": 45326,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789781968
+  },
+  "0086": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0086_51_2019_QH14_Luật 52_2019_QH14 Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, Công chức v.json",
+   "so_ky_tu": 34032,
+   "goc": 43532,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789781993
+  },
+  "0110": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0110_77_2021_NĐ-CP_Nghị định 77_2021_NĐ-CP Quy định chế độ phụ cấp thâm niên nhà giáo.json",
+   "so_ky_tu": 10543,
+   "goc": 12028,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 8,
+   "luc": 1789782025
+  },
+  "0095": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công tác sinh viên\\0095_78_2015_QH13_Luật 78_2015_QH13 Luật nghĩa vụ quân sự.json",
+   "so_ky_tu": 53440,
+   "goc": 62435,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 62,
+   "luc": 1789782033
+  },
+  "0123": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0123_99_2019_NĐ-CP_Nghị định 99_2019_NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của.json",
+   "so_ky_tu": 60910,
+   "goc": 79628,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 20,
+   "luc": 1789782106
+  },
+  "0130": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0130_39_2013_QH13_Luật 39_2013_QH13 Luật Sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởn.json",
+   "so_ky_tu": 46699,
+   "goc": 60300,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 2,
+   "luc": 1789782139
+  },
+  "0140": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0140_821_QĐ-BGDĐT_Quyết định 821_QĐ-BGDĐT Quyết định Ban hành Quy định về quản lý việc in, cấp phôi.json",
+   "so_ky_tu": 16691,
+   "goc": 19091,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 16,
+   "luc": 1789782223
+  },
+  "0150": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0150_10_2020_TT-BGDĐT_Thông tư 10_2020_TT-BGDĐT Quy chế tổ chức và hoạt động của Đại học vùng và c.json",
+   "so_ky_tu": 34774,
+   "goc": 41060,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 30,
+   "luc": 1789782382
+  },
+  "0147": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0147_08_2021_TT-BGDĐT_Thông tư 08_2021_TT-BGDĐT Quy chế đào tạo trình độ đại học.json",
+   "so_ky_tu": 48135,
+   "goc": 56528,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789782388
+  },
+  "0148": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0148_38_2020_TT-BGDĐT_Thông tư 38_2020_TT-BGDĐT Thông tư quy định về liên kết đào tạo với nước ngoài trình độ đại học, thạc sĩ,.json",
+   "so_ky_tu": 16023,
+   "goc": 18500,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 11,
+   "luc": 1789782393
+  },
+  "0162": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tài chính, kế toán\\0162_1676_QĐ-ĐHĐN_Quyết định 1676_QĐ-ĐHĐN Quy chế chi tiêu nội bộ của ĐHĐN.json",
+   "so_ky_tu": 60628,
+   "goc": 70986,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 35,
+   "luc": 1789782432
+  },
+  "0165": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0165_23_2016_TT-BGDĐT_Thông tư 23_2016_TT-BGDĐT Quy định về tổ chức và hoạt động thanh tra các kỳ.json",
+   "so_ky_tu": 29825,
+   "goc": 46357,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 26,
+   "luc": 1789782439
+  },
+  "0177": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0177_4766_QĐ-ĐHĐN_Quyết định 4766_QĐ-ĐHĐN Quy định quản lý hoạt động khoa học công nghệ tại ĐHĐN.json",
+   "so_ky_tu": 22478,
+   "goc": 35206,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 20,
+   "luc": 1789782447
+  },
+  "0195": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0195_436_QĐ-TTg_Ban hành Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ c.json",
+   "so_ky_tu": 3224,
+   "goc": 17408,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (448/13150 ky tu = 3%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789782499
+  },
+  "0178": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0178_4768_QĐ-ĐHĐN_Quyết định 4768_QĐ-ĐHĐN Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng.json",
+   "so_ky_tu": 52728,
+   "goc": 62860,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 32,
+   "luc": 1789782507
+  },
+  "0197": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0197_12_2019_TT-BNV_Thông tư số 12_2019_TT-BNV ngày 04_11_2019 của Bộ Nội vụ Quy định chi tiết thi.json",
+   "so_ky_tu": 25295,
+   "goc": 28682,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789782532
+  },
+  "0207": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0207_4036_QĐ-ĐHĐN_Quy định tiêu chuẩn bổ sung trong việc xét, công nhận danh hiệu Chiến sĩ thi đua c.json",
+   "so_ky_tu": 11181,
+   "goc": 10783,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 7,
+   "luc": 1789782563
+  },
+  "0210": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0210_4511_QĐ-ĐHBK_Ban hành Quy định về yêu cầu năng lực ngoại ngữ đối với sinh viên Trường Đại học B.json",
+   "so_ky_tu": 30275,
+   "goc": 35395,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789782574
+  },
+  "0221": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0221_1274_QĐ-ĐHBK_Sửa đổi, bổ sung một số điều của _Quy định về liêm chính học thuật của Trường Đại.json",
+   "so_ky_tu": 9536,
+   "goc": 10322,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789782605
+  },
+  "0229": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0229_3175_ĐHĐN-TCCB_Công văn hướng dẫn một số nội dung liên quan đến việc quản lý viên chức đi đào t.json",
+   "so_ky_tu": 1597,
+   "goc": 3458,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789782643
+  },
+  "0232": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0232_14_2023_TT-BGDĐT_Quy định tiêu chuẩn thư viện cơ sở giáo dục đại học.json",
+   "so_ky_tu": 19083,
+   "goc": 26716,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 10,
+   "luc": 1789782661
+  },
+  "0239": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0239_4513_ĐHĐN-TCCB_Bộ tiêu chí đánh giá chấm điểm các trường đại học thành viên năm học 2022-2023.json",
+   "so_ky_tu": 1695,
+   "goc": 4746,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789782703
+  },
+  "0244": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công nghệ thông tin, CĐS\\0244_86_2015_QH13_Luật 86_2015_QH13 Luật an toàn thông tin mạng 2015.json",
+   "so_ky_tu": 2497,
+   "goc": 79923,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~54, JSON co 3",
+    "than Dieu ngan bat thuong (518/61013 ky tu = 1%)",
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 3,
+   "luc": 1789782704
+  },
+  "0273": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0273_4796_ĐHĐN-TCCB_Công văn về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại.json",
+   "so_ky_tu": 1731,
+   "goc": 4776,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789782756
+  },
+  "0279": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0279_14_2012_QH13_Luật phổ biến, giáo dục pháp luật 2012.json",
+   "so_ky_tu": 38625,
+   "goc": 45137,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 41,
+   "luc": 1789782792
+  },
+  "0299": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0299_24_2016_TT-BGDĐT_Thông tư quy dịnh chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra g.json",
+   "so_ky_tu": 3492,
+   "goc": 31286,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (544/24180 ky tu = 2%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789782814
+  },
+  "0304": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thanh tra, kiểm tra\\0304_05_2021_TT-TTCP_Thông tư quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, p.json",
+   "so_ky_tu": 28366,
+   "goc": 40960,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co nguoi ky"
+   ],
+   "so_dieu": 32,
+   "luc": 1789782859
+  },
+  "0332": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0332_800_CT-BGDĐT_Chỉ thị số 800_CT-BGDĐT ngày 24_8_2021 của Bộ trưởng Bộ GDĐT về thực hiện nhiệm v.json",
+   "so_ky_tu": 16191,
+   "goc": 18143,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 8,
+   "luc": 1789782916
+  },
+  "0334": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0334_871_KH-BGDĐT_Kế hoạch số 871_KH-BGDĐT ngày 20_8_2019 của Bộ trưởng Bộ GDĐT triển khai thực hiệ.json",
+   "so_ky_tu": 2268,
+   "goc": 12521,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789782927
+  },
+  "0336": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0336_1176_KH-BGDĐT_Kế hoạch số 1176_KH-BGDĐT ngày 27_10_2021 của Bộ GDĐT phát động phong trào thi đu.json",
+   "so_ky_tu": 4598,
+   "goc": 22993,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789782973
+  },
+  "0338": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0338_621_BGDĐT-TĐKT_Công văn số 621_BGDĐT-TĐKT ngày 22_2_2021 của Bộ Giáo dục và Đào tạo về việc ph.json",
+   "so_ky_tu": 2189,
+   "goc": 3010,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 1,
+   "luc": 1789782983
+  },
+  "0335": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0335_1374_KH-BGDĐT_Kế hoạch số 1374_KH-BGDĐT ngày 02_11_2020 của Bộ GDĐT về thực hiện Phong trào thi.json",
+   "so_ky_tu": 1715,
+   "goc": 13751,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 0,
+   "luc": 1789782988
+  },
+  "0341": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0341_1368_BGDĐT-TCCB_Công văn số 1368_BGDĐT-TCCB ngày 31_3_2023 của Bộ Giáo dục và Đào tạo về việc h.json",
+   "so_ky_tu": 4039,
+   "goc": 6495,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 1,
+   "luc": 1789783029
+  },
+  "0342": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Thi đua, khen thưởng\\0342_595_KH-BGDĐT_Kế hoạch 595_KH-BGDĐT ngày 10_4_2023 Triển khai Đề án “Tuyên truyền gương điển hì.json",
+   "so_ky_tu": 3035,
+   "goc": 37985,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 2 muc khong phai so hieu: 29-NQ/TW; 34-CT/TW"
+   ],
+   "so_dieu": 0,
+   "luc": 1789783041
+  },
+  "0348": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Pháp chế\\0348_09_2012_QH13_Luật Phòng, chống tác hại thuốc lá năm 2012.json",
+   "so_ky_tu": 35246,
+   "goc": 42052,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 35,
+   "luc": 1789783116
+  },
+  "0352": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Pháp chế\\0352_3878_BGDĐT-PC_Công văn số 3878_BGDĐT-PC Hướng dẫn tổ chức làm công tác pháp chế trong các cơ sở giáo dục đại học.json",
+   "so_ky_tu": 1978,
+   "goc": 8454,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789783147
+  },
+  "0350": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Pháp chế\\0350_58_2010_QH12_Luật Viên chức năm 2010.json",
+   "so_ky_tu": 53230,
+   "goc": 64177,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 62,
+   "luc": 1789783154
+  },
+  "0359": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0359_2888_QĐ-ĐHBK_Quy định quản lý và sử dụng hệ thống văn bản điện tử tại Trường Đại học Bách khoa,.json",
+   "so_ky_tu": 16369,
+   "goc": 16550,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 17,
+   "luc": 1789783204
+  },
+  "0362": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0362_3154_QĐ-ĐHĐN_Quy định về liêm chính học thuật trong hạt động khoa học và công nghệ tại Đại học.json",
+   "so_ky_tu": 20971,
+   "goc": 26084,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789783224
+  },
+  "0369": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0369_3828_QĐ-ĐHĐN_Quy định về công tác thi đua, khen thưởng của Đại học Đà Nẵng.json",
+   "so_ky_tu": 68698,
+   "goc": 89931,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 41,
+   "luc": 1789783320
+  },
+  "0374": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Pháp chế\\0374_59_2023_NĐ-CP_Quy định chi tiết một số điều của Luật Thực hiện dân chủ ở cơ sở.json",
+   "so_ky_tu": 6033,
+   "goc": 78679,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~31, JSON co 6",
+    "than Dieu ngan bat thuong (2434/60309 ky tu = 4%)"
+   ],
+   "so_dieu": 6,
+   "luc": 1789783378
+  },
+  "0381": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khoa học Công nghệ\\0381_4897_QĐ-ĐHĐN_Ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà.json",
+   "so_ky_tu": 11092,
+   "goc": 13144,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789783450
+  },
+  "0385": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0385_4808_QĐ-ĐHĐN_Ban hành Quy định đào tạo trực tuyến và đào tạo kết hợp của Đại học Đà Nẵng.json",
+   "so_ky_tu": 27209,
+   "goc": 30254,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789783559
+  },
+  "0388": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0388_144_QĐ-ĐHĐN_Ban hành Quy định về công khai trong hoạt động của Đại học Đà Nẵng.json",
+   "so_ky_tu": 8738,
+   "goc": 17531,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (3885/13584 ky tu = 29%)"
+   ],
+   "so_dieu": 8,
+   "luc": 1789783616
+  },
+  "0389": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0389_02_2025_TT-BGDĐT_Quy định Khung năng lực số cho người học.json",
+   "so_ky_tu": 7936,
+   "goc": 12582,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 6,
+   "luc": 1789783619
+  },
+  "0390": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0390_03_2025_TT-BGDĐT_Hướng dẫn về Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực.json",
+   "so_ky_tu": 17111,
+   "goc": 24380,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 12,
+   "luc": 1789783624
+  },
+  "0398": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Khác\\0398_43_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31_2024_QH15, Luật Nhà ở s.json",
+   "so_ky_tu": 4882,
+   "goc": 4852,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 5,
+   "luc": 1789783672
+  },
+  "0396": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công nghệ thông tin, CĐS\\0396_60_2024_QH15_Luật Dữ liệu năm 2024.json",
+   "so_ky_tu": 56204,
+   "goc": 63963,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 46,
+   "luc": 1789783690
+  },
+  "0402": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0402_51_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm Y tế.json",
+   "so_ky_tu": 54257,
+   "goc": 68849,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~4, JSON co 3"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783713
+  },
+  "0397": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Cơ sở vật chất, xây dựng\\0397_37_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật đấu giá tài sản.json",
+   "so_ky_tu": 62399,
+   "goc": 83898,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~5, JSON co 3"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783722
+  },
+  "0405": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0405_800_QĐ-ĐHBK_Quyết định ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định.json",
+   "so_ky_tu": 8246,
+   "goc": 62034,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (825/48173 ky tu = 2%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783747
+  },
+  "0404": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tài chính, kế toán\\0404_423_QĐ-ĐHBK_Ban hành Quy chế kiểm toán nội bộ Trường Đại học Bách khoa, Đại học Đà Nẵng.json",
+   "so_ky_tu": 36145,
+   "goc": 40522,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 30,
+   "luc": 1789783757
+  },
+  "0407": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0407_2569_QĐ-ĐHBK_Quyết định về việc thanh toán trách nhiệm quản lý theo chức vụ, chức danh năm 2024.json",
+   "so_ky_tu": 4588,
+   "goc": 2800,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (624/2126 ky tu = 29%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783762
+  },
+  "0409": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Công tác sinh viên\\0409_4420_QĐ-ĐHBK_Quyết định về việc ban hành Quy định về văn hóa học đường và quy tắc ứng xử văn hó.json",
+   "so_ky_tu": 22597,
+   "goc": 25060,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 22,
+   "luc": 1789783771
+  },
+  "0410": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0410_5780_QĐ-ĐHBK_Quyết định công bố công khai dự toán ngân sách năm 2024.json",
+   "so_ky_tu": 7450,
+   "goc": 5078,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (358/3872 ky tu = 9%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783779
+  },
+  "0415": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0415_890_QĐ-ĐHĐN_Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Đại học Đà.json",
+   "so_ky_tu": 4957,
+   "goc": 8053,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (315/6337 ky tu = 5%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783801
+  },
+  "0413": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0413_534_QĐ-BGDĐT_Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Bộ Giáo d.json",
+   "so_ky_tu": 4971,
+   "goc": 27659,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (335/23182 ky tu = 1%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783815
+  },
+  "0419": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Cơ sở vật chất, xây dựng\\0419_830_QĐ-BGDĐT_Quyết định về việc ban hành kế hoạch giải ngân vốn đầu tư công nguồn ngân sách tr.json",
+   "so_ky_tu": 8881,
+   "goc": 42346,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (2541/36619 ky tu = 7%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789783859
+  },
+  "0421": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0421_104_KH-UBND_Kế hoạch triển khai thực hiện Quyết định số 1705_QĐ-TTg ngày 31_12_2024 của Thủ tư.json",
+   "so_ky_tu": 3119,
+   "goc": 32091,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 2 muc khong phai so hieu: 29-NQ/TW; 91-KL/TW"
+   ],
+   "so_dieu": 0,
+   "luc": 1789783892
+  },
+  "0426": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0426_2155_QĐ-ĐHBK_Quyết định về việc ban hành Quy định quản lý và sử dụng chứng thư chữ ký số, chữ k.json",
+   "so_ky_tu": 30722,
+   "goc": 37045,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789784001
+  },
+  "0429": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Hợp tác quốc tế\\0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại.json",
+   "so_ky_tu": 65241,
+   "goc": 77168,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 37,
+   "luc": 1789784114
+  },
+  "0430": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0430_1236_QĐ-BGDĐT_Quyết định quy định danh mục và thời hạn định kỳ chuyển đổi vị trí công tác trong.json",
+   "so_ky_tu": 8306,
+   "goc": 17728,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (3730/13533 ky tu = 28%)"
+   ],
+   "so_dieu": 8,
+   "luc": 1789784172
+  },
+  "0432": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thanh tra, kiểm tra\\0432_28_2024_TT-BGDĐT_Thông tư về việc thanh tra chuyên ngành trong lĩnh vực giáo dục và thanh tra.json",
+   "so_ky_tu": 34696,
+   "goc": 40157,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789784302
+  },
+  "0433": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0433_19_2024_TT-BGDĐT_Thông tư quy định danh mục và thời hạn định kỳ chuyển đổi vị trí công tác th.json",
+   "so_ky_tu": 6913,
+   "goc": 8042,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 6,
+   "luc": 1789784358
+  },
+  "0434": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0434_16_2024_TT-BGDĐT_Thông tư sửa đổi, bổ sung một số điều của Thông tư số 02_2022_TT-BGDĐT ngày.json",
+   "so_ky_tu": 13914,
+   "goc": 29373,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789784376
+  },
+  "0435": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Pháp chế\\0435_56_2024_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều của Nghị định số 55_2011_NĐ-CP ngày 04 t.json",
+   "so_ky_tu": 34041,
+   "goc": 42714,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 27-NQ/TW"
+   ],
+   "so_dieu": 4,
+   "luc": 1789784390
+  },
+  "0437": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0437_32_NQ-HĐĐH_Nghị quyết ban hành Quy chế thực hiện dân chủ trong hoạt động của Đại học Đà Nẵng.json",
+   "so_ky_tu": 52360,
+   "goc": 61278,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 34,
+   "luc": 1789784440
+  },
+  "0441": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đảm bảo chất lượng, KĐCL\\0441_3707_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều tại _Quy định về liêm chính học thuật của.json",
+   "so_ky_tu": 11330,
+   "goc": 12549,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789784446
+  },
+  "0445": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0445_3699_QĐ-ĐHĐN_Quyết định sửa đổi, bổ sung một số điều của Quy chế công nhận, bổ nhiệm, bổ nhiệm.json",
+   "so_ky_tu": 7075,
+   "goc": 12127,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co can cu/trich dan nao"
+   ],
+   "so_dieu": 3,
+   "luc": 1789784496
+  },
+  "0446": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tài chính, kế toán\\0446_4532_QĐ-ĐHBK_Quyết định về việc ban hành chính sách miễn học phí đào tạo thạc sĩ từ khóa tuyển.json",
+   "so_ky_tu": 4780,
+   "goc": 3147,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (385/2363 ky tu = 16%)"
+   ],
+   "so_dieu": 2,
+   "luc": 1789784504
+  },
+  "0443": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0443_4303_QĐ-ĐHBK_Quyết định ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng thuộc Tr.json",
+   "so_ky_tu": 63951,
+   "goc": 79169,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 25,
+   "luc": 1789784521
+  },
+  "0451": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0451_3571_QĐ-BGDĐT_Quyết định về việc công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế.json",
+   "so_ky_tu": 3961,
+   "goc": 19259,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (703/15051 ky tu = 5%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789784557
+  },
+  "0452": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0452_4757_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa.json",
+   "so_ky_tu": 8950,
+   "goc": 10691,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 4,
+   "luc": 1789784560
+  },
+  "0456": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đảm bảo chất lượng, KĐCL\\0456_245_HD-ĐHĐN_Hướng dẫn Khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵ.json",
+   "so_ky_tu": 3875,
+   "goc": 57142,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 0,
+   "luc": 1789784611
+  },
+  "0458": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Tổ chức, hành chính\\0458_123_2025_QH15_Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 43_2019_QH14.json",
+   "so_ky_tu": 39551,
+   "goc": 50984,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "thieu Dieu: txt co ~3, JSON co 2"
+   ],
+   "so_dieu": 2,
+   "luc": 1789784646
+  },
+  "0463": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0463_13_2026_TT-BGDĐT_Thông tư sửa đổi bổ sung một số điều của Quy chế thi tốt nghiệp trung học ph.json",
+   "so_ky_tu": 17715,
+   "goc": 46415,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 23,
+   "luc": 1789784699
+  },
+  "0468": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0468_1478_QĐ-ĐHĐN_Quyết định ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học hình thứ.json",
+   "so_ky_tu": 33917,
+   "goc": 38883,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 32,
+   "luc": 1789784879
+  },
+  "0470": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Thi đua, khen thưởng\\0470_1364_QĐ-ĐHĐN_Quyết định sửa đổi Quy định về tổ chức xét duyệt và công nhận sáng kiến.json",
+   "so_ky_tu": 5114,
+   "goc": 3517,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 3,
+   "luc": 1789784936
+  },
+  "0472": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0472_1280_QĐ-ĐHĐN_Quyết định ban hành Quy định số hóa dữ liệu văn bằng chứng chỉ của các đơn vị thuộ.json",
+   "so_ky_tu": 4122,
+   "goc": 2398,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (503/1765 ky tu = 28%)"
+   ],
+   "so_dieu": 2,
+   "luc": 1789785049
+  },
+  "0475": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0475_1050_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo trình độ đại học các ngành về điện.json",
+   "so_ky_tu": 3466,
+   "goc": 84062,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (830/63461 ky tu = 1%)"
+   ],
+   "so_dieu": 4,
+   "luc": 1789785105
+  },
+  "0477": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0477_1099_QĐ-BGDĐT_Quyết định ban hành Quy chế quản lý, vận hành và cung cấp thông tin trên Cổng Thô.json",
+   "so_ky_tu": 30377,
+   "goc": 36158,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 24,
+   "luc": 1789785166
+  },
+  "0478": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0478_2152_QĐ-ĐHĐN_Quyết định ban hành Quy chế thực hiện dân chủ trong hoạt động của Đại học Đà Nẵng.json",
+   "so_ky_tu": 50916,
+   "goc": 63426,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 35,
+   "luc": 1789785187
+  },
+  "0493": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Học liệu, truyền thông\\0493_61_2026_TT-BGDĐT_Thông tư quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt độ.json",
+   "so_ky_tu": 21675,
+   "goc": 30384,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 14,
+   "luc": 1789785334
+  },
+  "0494": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0494_3107_QĐ-ĐHĐN_Quy chế văn bằng, chứng chỉ của Đại học Đà Nẵng New.json",
+   "so_ky_tu": 16435,
+   "goc": 42178,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "khong co nguoi ky"
+   ],
+   "so_dieu": 15,
+   "luc": 1789785338
+  },
+  "0357": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Đào tạo\\0357_1596_QĐ-BGDĐT_Danh mục ngành đào tạo thí điểm các trình độ của giáo dục đại học.json",
+   "so_ky_tu": 2390,
+   "goc": 12508,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (394/10366 ky tu = 4%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789785560
+  },
+  "0466": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Pháp chế\\0466_10_2026_NQ-CP_Nghị quyết về việc tiếp tục áp dụng văn bản quy định chi tiết, quy định biện ph.json",
+   "so_ky_tu": 4536,
+   "goc": 25480,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "than Dieu ngan bat thuong (1907/19737 ky tu = 10%)"
+   ],
+   "so_dieu": 4,
+   "luc": 1789785671
+  },
+  "0483": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công nghệ thông tin, CĐS\\0483_1829_QĐ-BGDĐT_Quyết định ban hành quy định cơ chế thử nghiệm có kiểm soát đối với ứng dụng công.json",
+   "so_ky_tu": 37796,
+   "goc": 59948,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 1 muc khong phai so hieu: 02-CTr/BCĐTW"
+   ],
+   "so_dieu": 17,
+   "luc": 1789785692
+  },
+  "0486": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0486_232_2026_NĐ-CP_Nghị định quy định về vị trí việc làm viên chức.json",
+   "so_ky_tu": 36212,
+   "goc": 99122,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 19,
+   "luc": 1789785752
+  },
+  "0484": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tổ chức, hành chính\\0484_129_2025_QH15_Luật Viên chức.json",
+   "so_ky_tu": 46879,
+   "goc": 56634,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 43,
+   "luc": 1789785756
+  },
+  "0489": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Đào tạo\\0489_1841_QĐ-ĐHĐN_Quyết định ban hành Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài.json",
+   "so_ky_tu": 26872,
+   "goc": 49486,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 18,
+   "luc": 1789785805
+  },
+  "0490": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\Tuyển sinh\\0490_53_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh và đào tạo sau đại học.json",
+   "so_ky_tu": 75000,
+   "goc": 94123,
+   "nghi_ngo": false,
+   "nguon": "dom",
+   "canh_bao": [],
+   "so_dieu": 37,
+   "luc": 1789786439
+  },
+  "0455": {
+   "duong_dan": "F:\\DUT4\\PBL6\\pbl6\\data\\kg_json\\_nghi_ngo\\Công nghệ thông tin, CĐS\\0455_191_QĐ-ĐHĐN_Quyết định ban hành Kế hoạch thực hiện Nghị quyết số 57-NQ_TW ngày 22_12_2024 của.json",
+   "so_ky_tu": 5490,
+   "goc": 57026,
+   "nghi_ngo": true,
+   "nguon": "dom",
+   "canh_bao": [
+    "citations co 4 muc khong phai so hieu: 57-NQ/TW; 59-NQ/TW",
+    "than Dieu ngan bat thuong (957/44023 ky tu = 2%)"
+   ],
+   "so_dieu": 3,
+   "luc": 1789786456
+  }
+ },
+ "hong": {
+  "0032": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0032_1604_QĐ-ĐHBK_Qu",
+  "0034": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0034_1274_QĐ-ĐHBK_Sử",
+  "0131": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0131_02_2011_QH13_Lu",
+  "0193": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0193_150_ĐHĐN-TCCB_C",
+  "0321": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0321_1773_QĐ-ĐHĐN_Qu",
+  "0356": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0356_09_2024_TT-BGDĐ",
+  "0365": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0365_2652_QĐ-ĐHBK_Qu",
+  "0228": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0228_3237_QĐ-ĐHĐN_Ba",
+  "0386": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0386_4473_QĐ-ĐHĐN_Ba",
+  "0383": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0383_4268_QĐ-BGDĐT_B",
+  "0408": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0408_3492_QĐ-ĐHBK_Qu",
+  "0406": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0406_1478_QĐ-ĐHBK_Bộ",
+  "0414": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0414_538_QĐ-BGDĐT_Qu",
+  "0418": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0418_1690_QĐ-ĐHBK_Qu",
+  "0420": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0420_899_QĐ-BGDĐT_Qu",
+  "0400": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0400_50_2024_QH15_Lu",
+  "0453": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0453_4809_QĐ-ĐHĐN_Qu",
+  "0476": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0476_1060_QĐ-BGDĐT_Q",
+  "0464": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0464_618_QĐ-BGDĐT_Qu",
+  "0444": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0444_3868_QĐ-ĐHBK_Qu",
+  "0481": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0481_49_2026_TT-BGDĐ",
+  "0469": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0469_31_2026_TT-BGDĐ",
+  "0492": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0492_56_2026_TT-BGDĐ",
+  "0487": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0487_182_2026_NĐ-CP_",
+  "0488": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0488_783_QC-ĐHBK_Quy",
+  "0491": "thu 3 lan deu hong: quá hạn chờ Gemini nhận file 0491_62_2026_TT-BGDĐ"
+ },
+ "so_lan": {
+  "0014": 1,
+  "0018": 1,
+  "0025": 2,
+  "0028": 1,
+  "0032": 3,
+  "0034": 3,
+  "0043": 1,
+  "0048": 1,
+  "0062": 1,
+  "0066": 1,
+  "0073": 1,
+  "0074": 1,
+  "0086": 1,
+  "0095": 1,
+  "0110": 1,
+  "0123": 1,
+  "0130": 1,
+  "0131": 3,
+  "0143": 1,
+  "0147": 1,
+  "0150": 1,
+  "0148": 1,
+  "0177": 1,
+  "0178": 1,
+  "0180": 1,
+  "0193": 3,
+  "0195": 1,
+  "0229": 1,
+  "0232": 1,
+  "0239": 1,
+  "0244": 1,
+  "0273": 1,
+  "0279": 1,
+  "0304": 1,
+  "0317": 1,
+  "0321": 3,
+  "0332": 1,
+  "0334": 1,
+  "0335": 1,
+  "0338": 1,
+  "0336": 1,
+  "0341": 1,
+  "0342": 1,
+  "0348": 1,
+  "0350": 1,
+  "0351": 1,
+  "0352": 1,
+  "0357": 2,
+  "0356": 3,
+  "0359": 1,
+  "0362": 1,
+  "0365": 3,
+  "0366": 2,
+  "0367": 1,
+  "0369": 1,
+  "0370": 2,
+  "0049": 1,
+  "0105": 2,
+  "0228": 3,
+  "0236": 1,
+  "0265": 1,
+  "0386": 3,
+  "0383": 3,
+  "0379": 2,
+  "0400": 3,
+  "0406": 3,
+  "0408": 3,
+  "0414": 3,
+  "0418": 3,
+  "0420": 3,
+  "0427": 2,
+  "0431": 2,
+  "0444": 3,
+  "0453": 3,
+  "0455": 2,
+  "0461": 2,
+  "0476": 3,
+  "0483": 1,
+  "0486": 1,
+  "0466": 1,
+  "0464": 3,
+  "0481": 3,
+  "0484": 1,
+  "0469": 3,
+  "0487": 3,
+  "0488": 3,
+  "0489": 1,
+  "0490": 1,
+  "0491": 3,
+  "0492": 3
+ }
+}
