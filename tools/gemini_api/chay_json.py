@@ -141,6 +141,7 @@ def lam_mot(tx: Path, model, be):
         raise RuntimeError("tang ngoai cung khong phai object")
     data["sourceFile"] = "%s/%s" % (tx.parent.name, tx.name)
 
+    _don_dang(data)                         # <- sua may cho model hay viet sai dang
     n_may = _dem_dieu(data)
     _bu_dieu(data, goc)                     # <- toan van cat tu .txt
     n_sau = _dem_dieu(data)
@@ -156,6 +157,35 @@ def lam_mot(tx: Path, model, be):
     io.open(dich, "w", encoding="utf-8", newline="\n").write(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     return n_may, n_sau, nghi, canh_bao, use
+
+
+_CHI_DIEU = re.compile(r"Điều\s+(\d{1,3}[a-zA-Z]?)")
+
+
+def _don_dang(d):
+    """Sua may cho model hay viet sai DANG — thuan co hoc, khong doan noi dung.
+
+    Hai loi gap ngay o file dau tien:
+      - normativeContents co muc `articles: []` rong  -> schema doi non-empty
+      - targetArticle ghi "Khoản 3 Điều 2"            -> schema doi '^Điều N$'
+    """
+    nd = [n for n in (d.get("normativeContents") or []) if n.get("articles")]
+    if nd != (d.get("normativeContents") or []):
+        d["normativeContents"] = nd
+
+    for c in d.get("citations") or []:
+        ta = c.get("targetArticle")
+        if not ta:
+            continue
+        m = _CHI_DIEU.search(ta)
+        c["targetArticle"] = ("Điều %s" % m.group(1)) if m else None
+
+    for nhom in [d.get("articles") or []] + [
+            n.get("articles") or [] for n in (d.get("normativeContents") or [])]:
+        for a in nhom:
+            m = _CHI_DIEU.search(a.get("number") or "")
+            if m:
+                a["number"] = "Điều %s" % m.group(1)
 
 
 def _dem_dieu(d):
