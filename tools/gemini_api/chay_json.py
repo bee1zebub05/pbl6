@@ -554,7 +554,12 @@ def va_lai(chi=None) -> int:
     for p in KHO_TXT.rglob("*.txt"):
         txt_theo_ma.setdefault(p.name[:4], p)
 
-    sua = giu = hong = 0
+    sua = giu = hong = doi = 0
+
+    def _doi_cho(cu, moi):
+        moi.parent.mkdir(parents=True, exist_ok=True)
+        cu.replace(moi)
+
     for j in sorted(RA.rglob("*.json")):
         ma = j.name[:4]
         if chi and ma not in chi:
@@ -570,8 +575,14 @@ def va_lai(chi=None) -> int:
         _don_dang(data, _goc_khong_co_dieu=("Điều" not in goc))
         _bu_dieu(data, goc)
 
+        _, nghi = CJ._soi_them(data, tx)
+        dung = (RA / "_nghi_ngo" if nghi else RA) / tx.parent.name / j.name
         if json.dumps(data, ensure_ascii=False, sort_keys=True) == truoc:
-            giu += 1
+            if dung != j:
+                _doi_cho(j, dung)
+                doi += 1
+            else:
+                giu += 1
             continue
         loi = CJ._validate(data)
         if loi:
@@ -579,13 +590,18 @@ def va_lai(chi=None) -> int:
             noi("  x %s  va xong lai truot schema, giu nguyen ban cu: %s"
                 % (ma, loi[0][:80]))
             continue
-        io.open(j, "w", encoding="utf-8", newline="\n").write(
+        dung.parent.mkdir(parents=True, exist_ok=True)
+        io.open(dung, "w", encoding="utf-8", newline="\n").write(
             json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+        if dung != j:
+            j.unlink()
+            doi += 1
         sua += 1
-        noi("  v %s  da va lai" % ma)
+        noi("  v %s  da va lai%s" % (ma, " (chuyen sang %s)" % (
+            "nghi ngo" if nghi else "sach") if dung != j else ""))
 
-    noi("[va-lai] sua %d · khong doi %d · bo qua vi truot schema %d"
-        % (sua, giu, hong))
+    noi("[va-lai] sua %d · khong doi %d · xep lai thu muc %d · "
+        "bo qua vi truot schema %d" % (sua, giu, doi, hong))
     return 0
 
 
