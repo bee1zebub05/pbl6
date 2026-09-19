@@ -60,7 +60,15 @@
     nutChatMoi: () => tim(
       '[data-test-id="new-chat-button"] a',
       'a[aria-label="Cuộc trò chuyện mới"]'),
-    nutThem: () => tim('button[aria-label="Nội dung tải lên và công cụ"]'),
+    // Nút "+" mở menu đính kèm. aria-label đổi theo phiên bản giao diện nên
+    // phải có phương án dự phòng, không thì mất luôn đường mount input.
+    nutThem: () => tim(
+      'button[aria-label="Nội dung tải lên và công cụ"]',
+      'button[aria-label*="tải lên" i]',
+      'button[aria-label*="Thêm tệp" i]',
+      'button[aria-label*="upload" i]',
+      'toolbox-drawer button[aria-label]',
+      'uploader button[aria-label]'),
     // Trang có nhiều input[type=file] (ảnh, máy ảnh, ổ đĩa...). Vớ cái đầu tiên
     // là có khi nhét .txt vào ô chỉ nhận ảnh — Angular lặng lẽ bỏ qua.
     // anh=true thì tìm ô nhận ảnh, ngược lại tìm ô nhận .txt (mặc định, y như cũ).
@@ -210,16 +218,24 @@
     if (laAnh) log("dựng file ảnh " + f.size + " byte, type=" + f.type);
     const dt = new DataTransfer();
     dt.items.add(f);
+    let qua_input = false;
 
     // Cách 1 — input[type=file] có sẵn trong DOM (không phải bấm gì)
+    //
+    // PHẢI CHỜ, không được kiểm một phát rồi thôi: tab vừa mở chat mới thì
+    // Angular chưa hydrate xong ô soạn, cả input lẫn nút "+" đều chưa có. Gặp
+    // thật ở 0461 — trượt cả hai, rơi xuống dropzone, rồi treo 600 giây.
     let inp = O.oFile(laAnh);
     if (!inp) {
+      inp = await cho(() => O.oFile(laAnh), 12000, 300, "input file").catch(() => null);
+    }
+    if (!inp) {
       // Cách 2 — bấm "+" để Angular mount input rồi bắt lấy
-      const t = O.nutThem();
+      const t = O.nutThem() || await cho(O.nutThem, 8000, 300, "nút +").catch(() => null);
       if (t) {
         t.click();
         try {
-          inp = await cho(() => O.oFile(laAnh), 4000, 200, "input file");
+          inp = await cho(() => O.oFile(laAnh), 6000, 200, "input file");
         } catch (_) {}
         document.body.click();                    // đóng menu lại
       }
@@ -230,6 +246,7 @@
       inp.files = dt.files;
       inp.dispatchEvent(new Event("change", { bubbles: true }));
       inp.dispatchEvent(new Event("input", { bubbles: true }));
+      qua_input = true;
     } else {
       log("không thấy input[type=file] — thả file vào dropzone");
       // Cách 3 — thả file vào vùng drop
@@ -242,7 +259,12 @@
     }
     // Chờ ĐÚNG chip mang tên file này. Chờ "chip bất kỳ" là dính chip còn sót
     // của lượt trước, tưởng xong rồi trong khi Gemini chưa hề nhận file.
-    const het = Date.now() + 600000;
+    // Thời hạn co theo cách đính. Đính được qua input thì Gemini chắc chắn đã
+    // nhận, chỉ là xử lý lâu với file to -> chờ rộng. Rơi xuống dropzone nghĩa
+    // là đã trượt cả hai đường chính; dropzone hiếm khi ăn, chờ 10 phút chỉ tổ
+    // giữ luồng. Bỏ sớm để cầu xếp lại hàng chờ và luồng làm việc khác.
+    const HAN = qua_input ? 600000 : 60000;
+    const het = Date.now() + HAN;
     for (let vong = 0; ; vong++) {
       const chip = chipCuaFile(tenFile);
       if (chip) {
@@ -255,7 +277,7 @@
       }
       if (vong && vong % 12 === 0) {            // ~10 giây in một lần
         const cs = dsChip().map((e) => (e.textContent || "").trim().slice(0, 40));
-        log("chờ chip file " + Math.round((Date.now() - (het - 600000)) / 1000)
+        log("chờ chip file " + Math.round((Date.now() - (het - HAN)) / 1000)
           + "s — chip: " + (cs.length ? JSON.stringify(cs) : "không có")
           + " · ảnh blob ở ô soạn: " + dsChipAnh().length);
       }
