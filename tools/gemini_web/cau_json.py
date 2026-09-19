@@ -284,7 +284,10 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
     # --- cac loi da gap that o lan chay thu, schema khong chan duoc ---
     ct = data.get("citations") or []
     # So hieu co the mang chu cai sau so: 30a/2008/NQ-CP, 16a/2019/TT-BGDDT.
-    so_hieu = re.compile(r"^\d{1,5}[a-zA-Z]?\s*/")
+    # Hai dang so hieu hop le:
+    #   <so>/<ma>        35/2021/TT-BGDĐT, 32/CP, 30a/2008/NQ-CP
+    #   <so>-<ma>/TW     29-NQ/TW, 91-KL/TW — van ban Dang dung GACH NGANG
+    so_hieu = re.compile(r"^\d{1,5}[a-zA-Z]?\s*[/-]")
     xau = [c.get("targetDocumentNumber", "") for c in ct
            if not so_hieu.match(c.get("targetDocumentNumber", ""))]
     if xau:
@@ -321,7 +324,11 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
     dai += sum(len(a.get("text") or "")
                for n in (data.get("normativeContents") or [])
                for a in (n.get("articles") or []))
-    if so_json and dai < len(txt) * 0.3:
+    # Doi them NGUONG TUYET DOI. Van ban nao cung co phan khong thuoc than Dieu
+    # — tieu ngu, so hieu, can cu, noi nhan, khoi ky — va chung da nam o cac
+    # truong khac. Van ban nho thi phan do chiem ti le lon: 0407 chi 2,8 KB, ba
+    # Dieu dung 624 ky tu (29%) la DU, khong thieu gi ca.
+    if so_json and dai < len(txt) * 0.3 and len(txt) - dai >= 3000:
         canh_bao.append("than Dieu ngan bat thuong (%d/%d ky tu = %.0f%%)"
                         % (dai, len(txt), 100.0 * dai / max(len(txt), 1)))
 
