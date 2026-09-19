@@ -64,6 +64,9 @@ def noi(*a):
 # BE KEY
 # ============================================================
 RPM_MOI_KEY = 15          # han muc that cua flash-lite, do tren bang Google AI Studio
+TPM_MOI_KEY = 250_000     # han muc token/phut moi key
+TPM_AN_TOAN = 0.8         # chi dung 80%, chua cho phan prompt va sai so uoc luong
+TOKEN_MOI_KB = 305        # do that: 62 KB -> 18.821 token
 
 
 class BeKey:
@@ -73,20 +76,34 @@ class BeKey:
     luong co the dap cung mot key trong cung mot phut -> 429, roi ca be cung
     dinh day chuyen. Dem bang cua so truot 60 giay thi khong bao gio vuot.
 
-    TPM 250K khong phai tran that: van ban trung vi 29 KB ~ 8.800 token, tuc
-    250K/8.800 = 28 luot/phut, rong hon RPM 15.
+    Phai dem CA HAI, vi tran nao chat hon la tuy co van ban:
+
+      - van ban trung vi 29 KB ~ 8.800 token: 250K/8.800 = 28 luot/phut, rong
+        hon RPM 15  -> RPM la tran
+      - van ban dot 2 co 34.000 token: 15 luot x 34K = 510K, gap doi TPM
+        -> TPM la tran
+
+    Chi dem luot thi dot 2 chay den cuoi la dinh 429 hang loat (6 file hong,
+    deu la file 100-256 KB). Nen moi cua so 60 giay giu ca so luot lan so
+    token da tieu cua tung key.
     """
 
-    def __init__(self, keys, rpm=RPM_MOI_KEY):
+    def __init__(self, keys, rpm=RPM_MOI_KEY, tpm=int(TPM_MOI_KEY * TPM_AN_TOAN)):
         self.keys = list(keys)
         self.rpm = rpm
+        self.tpm = tpm
         self.khoa = threading.Lock()
         self.i = 0
         self.nghi_toi = {}                 # key -> thoi diem duoc dung lai
-        self.moc = {k: [] for k in self.keys}   # key -> cac moc goi trong 60s
+        self.moc = {k: [] for k in self.keys}   # key -> [(thoi diem, token)]
 
-    def lay(self, cho_toi_da=120):
-        """Tra ve key con suat. Het suat thi CHO chu khong tra None ngay."""
+    def lay(self, uoc_token=0, cho_toi_da=300):
+        """Tra ve key con ca suat luot lan suat token. Het thi CHO."""
+        # Van ban to hon ca han muc mot phut (0245, 0246) thi khong key nao du
+        # suat, vong lap se cho den het gio roi tra None. Ha yeu cau xuong dung
+        # bang tran: doi cua so rong roi cho di, de API tu tu choi neu that su
+        # qua kho, con hon treo.
+        uoc_token = min(uoc_token, self.tpm)
         het = time.time() + cho_toi_da
         while True:
             with self.khoa:
@@ -96,9 +113,9 @@ class BeKey:
                     self.i += 1
                     if self.nghi_toi.get(k, 0) > gio:
                         continue
-                    m = self.moc[k] = [x for x in self.moc[k] if x > gio - 60]
-                    if len(m) < self.rpm:
-                        m.append(gio)
+                    m = self.moc[k] = [x for x in self.moc[k] if x[0] > gio - 60]
+                    if len(m) < self.rpm and sum(x[1] for x in m) + uoc_token <= self.tpm:
+                        m.append((gio, uoc_token))
                         return k
             if time.time() > het:
                 return None
@@ -164,11 +181,17 @@ def _quota(than: str) -> str:
     return m.group(1) if m else " ".join(than.split())[:90]
 
 
-def goi_api(model, prompt, be, han_giay=300):
+def uoc_token(prompt: str) -> int:
+    """Uoc so token cua prompt. Khong can chinh xac, chi can khong duoi that."""
+    return int(len(prompt) / 1024 * TOKEN_MOI_KB) + 600
+
+
+def goi_api(model, prompt, be, han_giay=600):
     """-> (text, usage). Tu doi key khi 429/500, chiu thua sau 6 lan."""
     loi_cuoi = ""
+    n_tok = uoc_token(prompt)
     for lan in range(8):
-        key = be.lay()
+        key = be.lay(n_tok)
         if key is None:
             time.sleep(20)
             continue
