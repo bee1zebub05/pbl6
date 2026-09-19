@@ -85,24 +85,26 @@ def _bo_duoi_chuong(than: str) -> str:
     duoi "Chương III / HỆ THỐNG TỔ CHỨC, QUẢN LÝ" — tieu de cua chuong sau,
     khong phai noi dung Dieu 6. Do tren corpus: 1.420 Dieu o 234 file.
 
-    Chi cat khi phan tu dong "Chương N" den het DUNG la tieu de: toi da 4
-    dong, moi dong duoi 100 ky tu, cac dong sau chu yeu la CHU HOA. Con van
-    xuoi thi giu nguyen — tha thua con hon cat nham.
+    Phai cat tu moc SOM NHAT con hop le, khong phai moc cuoi: 0087 Dieu 12
+    co duoi bon dong long nhau "Chương III / HỢP ĐỒNG LAO ĐỘNG / Mục 1 /
+    GIAO KẾT HỢP ĐỒNG LAO ĐỘNG"; cat tu moc cuoi thi con lai hai dong dau.
+
+    Hop le = tu do den het toi da 4 dong, moi dong duoi 100 ky tu, cac dong
+    khong phai moc thi chu yeu la CHU HOA. Con van xuoi thi giu nguyen —
+    tha thua con hon cat nham.
     """
-    ms = list(MOC_CHUONG.finditer(than))
-    if not ms:
-        return than
-    m = ms[-1]
-    dong = [x.strip() for x in than[m.start():].strip().splitlines() if x.strip()]
-    if len(dong) > 4 or any(len(x) > 100 for x in dong):
-        return than
-    for x in dong[1:]:
-        if MOC_CHUONG.match(x):
+    for m in MOC_CHUONG.finditer(than):
+        dong = [x.strip() for x in than[m.start():].strip().splitlines() if x.strip()]
+        if len(dong) > 4 or any(len(x) > 100 for x in dong):
             continue
-        chu = [c for c in x if c.isalpha()]
-        if chu and sum(1 for c in chu if c.isupper()) < 0.8 * len(chu):
-            return than
-    return than[:m.start()].rstrip()
+        if all(MOC_CHUONG.match(x) or _phan_lon_hoa(x) for x in dong[1:]):
+            return than[:m.start()].rstrip()
+    return than
+
+
+def _phan_lon_hoa(dong: str) -> bool:
+    chu = [c for c in dong if c.isalpha()]
+    return bool(chu) and sum(1 for c in chu if c.isupper()) >= 0.8 * len(chu)
 
 def _cat_dieu(txt: str, gioi_han: int | None = None):
     """-> (dict {'Điều 5': {...}}, day so THO theo thu tu xuat hien).

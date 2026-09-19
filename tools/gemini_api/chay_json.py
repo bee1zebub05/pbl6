@@ -268,6 +268,7 @@ def lam_mot(tx: Path, model, be):
     _don_dang(data, _goc_khong_co_dieu=("Điều" not in goc))
     n_may = _dem_dieu(data)
     _bu_dieu(data, goc)                     # <- toan van cat tu .txt
+    _quet_duoi_chuong(data)
     n_sau = _dem_dieu(data)
 
     loi = CJ._validate(data)
@@ -455,8 +456,15 @@ def _gop(cu, cat, bo_qua=None):
         y = " ".join(c["than"].split())
         return bool(x) and (x in y or y[:150] == x)
 
-    giu = [a for a in (cu or [])
-           if a.get("number") not in cat and not trung_cho_khac(a)]
+    # Dieu model tu cho (ban cat khong co) cung phai cat duoi tieu de chuong:
+    # model chep tu .txt nen dinh y het.
+    giu = []
+    for a in (cu or []):
+        if a.get("number") in cat or trung_cho_khac(a):
+            continue
+        t = a.get("text") or ""
+        moi_t = VD._bo_duoi_chuong(t)
+        giu.append(dict(a, text=moi_t) if moi_t != t else a)
     # Lay `text` tu ban cat, nhung GIU `heading` va `isImplementationClause`
     # cua model. Tieu de may moc la "phan con lai cua dong dau", con model dat
     # tieu de theo nghia: Dieu 1 cua Quyet dinh ra "Ban hành kèm theo" thay vi
@@ -491,6 +499,23 @@ def _cho_dat(data, cat):
         if c > tot:
             tot, cho = c, ("nd", i)
     return cho
+
+
+def _quet_duoi_chuong(data):
+    """Quet lai MOI Dieu, bat ke no den tu duong nao.
+
+    _bu_dieu co nhieu nhanh (mach dau, du bo, ban kem); Dieu nam trong
+    normativeContents ma van ban khong co ban kem thi khong nhanh nao cham toi.
+    Ham nay chay sau cung nen khong lot. _bo_duoi_chuong luy dang, goi lai
+    khong hai gi.
+    """
+    for nhom in [data.get("articles") or []] + [
+            n.get("articles") or [] for n in (data.get("normativeContents") or [])]:
+        for a in nhom:
+            t = a.get("text") or ""
+            m = VD._bo_duoi_chuong(t)
+            if m != t:
+                a["text"] = m
 
 
 def _bu_dieu(data, goc):
@@ -589,6 +614,7 @@ def va_lai(chi=None) -> int:
         goc = io.open(tx, encoding="utf-8", errors="replace").read()
         _don_dang(data, _goc_khong_co_dieu=("Điều" not in goc))
         _bu_dieu(data, goc)
+        _quet_duoi_chuong(data)
 
         _, nghi = CJ._soi_them(data, tx)
         dung = (RA / "_nghi_ngo" if nghi else RA) / tx.parent.name / j.name
