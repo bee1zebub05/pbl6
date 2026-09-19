@@ -41,7 +41,11 @@ RA = GOC / "data" / "kg_json"
 #   "Điều 8: ..." / "Điều 56, ..."   - dau bi doc nham
 DIEU = re.compile(
     r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)"
-    r"(?:[ \t]*[.．:,;]|[ \t]*\d{0,3}[ \t]*$|[ \t]+(?=[A-ZĐÀ-Ỹ]))", re.M)
+    # Nhom 2 giu lai DAU NGAN. Vien dan thi khong co dau ("Điều 7 Nghị định
+    # này"), tieu de that thi co ("Điều 2. Quyết định này có hiệu lực...").
+    # Thieu cho nay thi bo loc vien dan an luon tieu de Dieu 2 va Dieu 3 cua
+    # gan nhu moi Quyet dinh — ba luot doc tay doc lap deu bao.
+    r"(?:[ \t]*([.．:,;])|[ \t]*\d{0,3}[ \t]*$|[ \t]+(?=[A-ZĐÀ-Ỹ]))", re.M)
 # Vien dan: sau "Điều N" la ten mot van ban KHAC chu khong phai tieu de cua Dieu.
 #     "Điều 5 của Luật này"        -> tu noi o dau
 #     "Điều 7 Nghị định này;"      -> TEN LOAI van ban roi "này" — kieu nay tung lot
@@ -70,10 +74,15 @@ MOC_TRANG = re.compile(
 THI_HANH = re.compile(r"hiệu lực thi hành|chịu trách nhiệm thi hành|có hiệu lực kể từ", re.I)
 
 
-_TU_CHUONG = r"(?:Chương|CHƯƠNG|Mục|MỤC|Phần|PHẦN)"
-# Dong chi co moi "Chương III" / "Mục 1" / "PHẦN II", khong gi khac.
+_TU_CHUONG = r"(?:Chương|CHƯƠNG|Mục|MỤC|Tiểu mục|TIỂU MỤC|Phần|PHẦN)"
+# Dong tieu de chuong/muc. Ba dang gap trong corpus:
+#   "Chương III"                         - sach
+#   "Chương II - TỔ CHỨC VÀ QUẢN LÝ"     - gach noi, tieu de cung dong (0054)
+#   "Chương III Ẽ ;" / "Chương IV 1"     - OCR ban hoac dinh so trang (0137)
+# Bo chi bat dang sach thi 0054 bi nuot 14 tieu de, 0137 nuot 2.
 MOC_CHUONG = re.compile(
-    r"^[ 	]*" + _TU_CHUONG + r"[ 	]+(?:[IVXLCDM]+|[0-9]{1,2})[ 	]*$",
+    r"^[ \t]*" + _TU_CHUONG + r"[ \t]+(?:[IVXLCDM]+|[0-9]{1,2})"
+    r"(?:[ \t]*$|[ \t]*[-–—][ \t]*[A-ZĐÀ-Ỹ]|[ \t]+[^\n]{0,6}$)",
     re.M)
 
 
@@ -106,14 +115,65 @@ def _phan_lon_hoa(dong: str) -> bool:
     chu = [c for c in dong if c.isalpha()]
     return bool(chu) and sum(1 for c in chu if c.isupper()) >= 0.8 * len(chu)
 
+_CHUC_KY = (r"(?:KT\.[ \t]*)?(?:TM\.[ \t]*)?"
+            r"(?:HIỆU TRƯỞNG|PHÓ HIỆU TRƯỞNG|GIÁM ĐỐC|PHÓ GIÁM ĐỐC|BỘ TRƯỞNG"
+            r"|THỨ TRƯỞNG|THỦ TƯỚNG|PHÓ THỦ TƯỚNG|CHÁNH VĂN PHÒNG|CHỦ NHIỆM"
+            r"|CỤC TRƯỞNG|VỤ TRƯỞNG|TỔNG GIÁM ĐỐC|CHÁNH THANH TRA|VIỆN TRƯỞNG"
+            r"|TỔNG CỤC TRƯỞNG|TRƯỞNG BAN|THỦ TRƯỞNG ĐƠN VỊ"
+            r"|CHỦ TỊCH[^\n]{0,44})")
+
+# Tu moc nay tro di la phan HANH CHINH o cuoi van ban, khong con la noi dung
+# Dieu nua.
+DUOI_HANH_CHINH = re.compile(
+    r"^[ \t]*(?:"
+    r"Nơi nhận[ \t]*:"
+    r"|" + _CHUC_KY + r"[ \t]*$"
+    r"|\([ \t]*(?:Đã ký|Ký tên)[^\n]*$"
+    r"|CỘNG[ \t]*HÒA[ \t]*XÃ[ \t]*HỘI"
+    r"|(?i:PHỤ[ \t]*LỤC)[ \t]*[IVXLCDM0-9]{0,4}[ \t]*$"
+    r"|(?i:MẪU[ \t]*SỐ|BIỂU[ \t]*MẪU|PHIẾU[ \t]*(?:GIẢI QUYẾT|CHUYỂN))"
+    r")", re.M)
+
+
+def _bo_duoi_hanh_chinh(than: str) -> str:
+    """Cat tu moc hanh chinh dau tien den het than Dieu.
+
+    Moc cat Dieu la "Điều" ke tiep, nen Dieu CUOI chay den het file: nuot
+    "Nơi nhận", chu ky, roi ca phu luc va ca phieu xu ly van ban di kem ban
+    scan. Do that: 0069 Dieu 3 dai 82.372 ky tu trong khi than that ~170;
+    0201 Dieu 3 dai 125.235 thay vi ~151. Dieu 3 cua moi Quyet dinh cung dinh
+    "Nơi nhận" + chu ky + khoi tieu de cua ban Quy dinh kem theo.
+
+    Ba luot doc tay doc lap bao loi nay tren 33/33 file ho kiem.
+    """
+    m = DUOI_HANH_CHINH.search(than)
+    if not m or m.start() == 0:
+        return than
+    return than[:m.start()].rstrip()
+
+def _la_tieu_de(txt: str, m) -> bool:
+    """Moc nay la tieu de Dieu that, hay chi la vien dan giua van?
+
+    Dau cham hoac hai cham ngay sau so Dieu thi chac chan la tieu de. Vien
+    dan khong viet the: "Điều 7 Nghị định này", "Điều 5 của Luật này". Nho
+    vay "Điều 2. Quyết định này có hiệu lực..." khong con bi luat
+    "<loai van ban> này" cua VIEN_DAN an mat.
+
+    Dau phay va cham phay thi VAN mo ho ("Điều 10, 11, 12 và 15 Nghị định
+    này" la liet ke vien dan, con "Điều 56, Quyền và nghĩa vụ..." la tieu de
+    bi OCR doc nham dau), nen van phai hoi VIEN_DAN.
+    """
+    if m.group(2) in (".", "．", ":"):
+        return True
+    return not VIEN_DAN.match(txt[m.end():m.end() + 24])
+
 def _cat_dieu(txt: str, gioi_han: int | None = None):
     """-> (dict {'Điều 5': {...}}, day so THO theo thu tu xuat hien).
 
     Phai tra ve ca day THO: dict da khu trung lap nen nhin vao no thi van ban
     long nhau (Dieu 1-3 roi lai Dieu 1-24) trong nhu tang deu.
     """
-    moc = [m for m in DIEU.finditer(txt)
-           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    moc = [m for m in DIEU.finditer(txt) if _la_tieu_de(txt, m)]
     if gioi_han is not None:
         moc = moc[:gioi_han]
     tho: list[int] = []
@@ -124,6 +184,7 @@ def _cat_dieu(txt: str, gioi_han: int | None = None):
         than = MOC_TRANG.sub("", than)                  # moc trang khong phai noi dung
         than = re.sub(r"\n{3,}", "\n\n", than).strip()
         than = _bo_duoi_chuong(than)
+        than = _bo_duoi_hanh_chinh(than)
         # tieu de = phan con lai cua dong dau, sau "Điều N."
         dong1 = than.split("\n", 1)[0]
         tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
@@ -156,8 +217,7 @@ def _tach_mach(txt: str):
     Nho vay mot vien dan lot khong con pha ca file nua, va van ban long nhau
     thi moi mach ve dung cho cua no.
     """
-    moc = [m for m in DIEU.finditer(txt)
-           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    moc = [m for m in DIEU.finditer(txt) if _la_tieu_de(txt, m)]
     mach, hien, ky_vong = [], [], 1
     for idx, m in enumerate(moc):
         n = int(re.match(r"\d+", m.group(1)).group())
@@ -181,6 +241,7 @@ def _tach_mach(txt: str):
             than = MOC_TRANG.sub("", txt[m.start():het])
             than = re.sub(r"\n{3,}", "\n\n", than).strip()
             than = _bo_duoi_chuong(than)
+            than = _bo_duoi_hanh_chinh(than)
             dong1 = than.split("\n", 1)[0]
             tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
             ten = "Điều %s" % m.group(1)
@@ -194,8 +255,7 @@ def _tach_mach(txt: str):
 def _do_phu(txt: str):
     """-> (so moc, so Dieu duy nhat, so lon nhat). Dung de biet van ban co du
     Dieu khong, khong quan tam thu tu."""
-    moc = [m for m in DIEU.finditer(txt)
-           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    moc = [m for m in DIEU.finditer(txt) if _la_tieu_de(txt, m)]
     so = [int(re.match(r"\d+", m.group(1)).group()) for m in moc]
     return (len(so), len(set(so)), max(so)) if so else (0, 0, 0)
 
@@ -225,14 +285,14 @@ def _cat_tat_ca(txt: str):
     Chi dung cho van ban da qua _du_bo. Moc trung so thi giu ban DAI hon, vi
     ban ngan gan nhu chac chan la vien dan lot luoi.
     """
-    moc = [m for m in DIEU.finditer(txt)
-           if not VIEN_DAN.match(txt[m.end():m.end() + 24])]
+    moc = [m for m in DIEU.finditer(txt) if _la_tieu_de(txt, m)]
     ra = {}
     for i, m in enumerate(moc):
         het = moc[i + 1].start() if i + 1 < len(moc) else len(txt)
         than = MOC_TRANG.sub("", txt[m.start():het])
         than = re.sub(r"\n{3,}", "\n\n", than).strip()
         than = _bo_duoi_chuong(than)
+        than = _bo_duoi_hanh_chinh(than)
         dong1 = than.split("\n", 1)[0]
         tieu = re.sub(r"^\s*Điều\s+\d{1,3}[a-zA-Z]?\s*[.．:,;]?\s*", "", dong1).strip()
         ten = "Điều %s" % m.group(1)

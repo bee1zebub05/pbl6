@@ -513,7 +513,7 @@ def _quet_duoi_chuong(data):
             n.get("articles") or [] for n in (data.get("normativeContents") or [])]:
         for a in nhom:
             t = a.get("text") or ""
-            m = VD._bo_duoi_chuong(t)
+            m = VD._bo_duoi_hanh_chinh(VD._bo_duoi_chuong(t))
             if m != t:
                 a["text"] = m
 
