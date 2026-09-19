@@ -265,7 +265,7 @@ def lam_mot(tx: Path, model, be):
         raise RuntimeError("tang ngoai cung khong phai object")
     data["sourceFile"] = "%s/%s" % (tx.parent.name, tx.name)
 
-    _don_dang(data)                         # <- sua may cho model hay viet sai dang
+    _don_dang(data, _goc_khong_co_dieu=("Điều" not in goc))
     n_may = _dem_dieu(data)
     _bu_dieu(data, goc)                     # <- toan van cat tu .txt
     n_sau = _dem_dieu(data)
@@ -335,7 +335,7 @@ def _doc_enum(ten):
 
 _ORG_TYPE = _doc_enum("orgType")
 
-def _don_dang(d):
+def _don_dang(d, _goc_khong_co_dieu=False):
     """Sua may cho model hay viet sai DANG — thuan co hoc, khong doan noi dung.
 
     Hai loi gap ngay o file dau tien:
@@ -363,6 +363,16 @@ def _don_dang(d):
         ds.append(c)
     if len(ds) != len(d.get("citations") or []):
         d["citations"] = ds
+
+    # 4a. Ban goc khong he co chu "Điều" ma JSON lai co Dieu -> nhan do model
+    #     tu dat. Chi thi / Cong van danh muc "1. 2. 3.", model goi moi muc
+    #     thanh mot Dieu. Noi dung that nhung nhan thi bia, ma nhan chinh la
+    #     khoa cua node Article trong do thi. Tha khong co Dieu con hon co Dieu
+    #     khong ton tai. Do duoc 4 file: 0193, 0332, 0338, 0341.
+    if _goc_khong_co_dieu and (d.get("articles") or d.get("normativeContents")):
+        d["articles"] = []
+        for n in d.get("normativeContents") or []:
+            n["articles"] = []
 
     # 4b. orgType khong co trong enum -> None (truong nay cho phep None).
     #     0246 tra ve 'co_quan_cua_quoc_hoi', model tu nghi ra.
@@ -556,8 +566,9 @@ def va_lai(chi=None) -> int:
         data = json.loads(io.open(j, encoding="utf-8").read())
         truoc = json.dumps(data, ensure_ascii=False, sort_keys=True)
 
-        _don_dang(data)
-        _bu_dieu(data, io.open(tx, encoding="utf-8", errors="replace").read())
+        goc = io.open(tx, encoding="utf-8", errors="replace").read()
+        _don_dang(data, _goc_khong_co_dieu=("Điều" not in goc))
+        _bu_dieu(data, goc)
 
         if json.dumps(data, ensure_ascii=False, sort_keys=True) == truoc:
             giu += 1
