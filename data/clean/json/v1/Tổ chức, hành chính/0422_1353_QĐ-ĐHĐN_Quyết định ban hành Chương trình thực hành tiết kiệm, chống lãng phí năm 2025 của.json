@@ -101,6 +101,16 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Rà soát, sửa đổi, bổ sung, ban hành mới các văn bản quy phạm nội bộ về quản lý và sử dụng tài sản công; các văn bản về định mức sử dụng xe ô tô phù hợp với thực tiễn, đảm bảo tiết kiệm, chống lãng phí và đúng quy định theo Nghị định số 72/2023/NĐ-CP ngày 26/9/2023 của Chính phủ quy định tiêu chuẩn, định mức sử dụng xe ô tô."
+    },
+    {
+      "targetDocumentNumber": "158/2024/QH15",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 158/2024/QH15 ngày 12/11/2024 của Quốc hội về Kế hoạch phát triển kinh tế - xã hội năm 2025;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
     }
   ],
   "mentions": [

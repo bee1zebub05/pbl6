@@ -47,6 +47,16 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Thông tư có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020 và thay thế Quyết định số 04/2000/QĐ-BGDĐT ngày 01 tháng 3 năm 2000 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế thực hiện dân chủ trong hoạt động của nhà trường."
+    },
+    {
+      "targetDocumentNumber": "123/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 123/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;"
+    },
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
     }
   ],
   "mentions": [

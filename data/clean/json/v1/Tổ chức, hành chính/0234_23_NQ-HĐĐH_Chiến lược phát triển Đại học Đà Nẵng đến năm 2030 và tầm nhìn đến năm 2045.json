@@ -77,6 +77,11 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Điều 2. Nghị quyết này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1219/QĐ-HĐĐHĐN ngày 17 tháng 4 năm 2018 của Hội đồng Đại học Đà Nẵng về việc ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035."
+    },
+    {
+      "targetDocumentNumber": "913/TTr-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Tờ trình số 913/TTr-ĐHĐN ngày 13 tháng 3 năm 2023 của Giám đốc"
     }
   ],
   "mentions": [

@@ -34,7 +34,33 @@
       "idOverride": null
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ về tuyển"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN"
+    },
+    {
+      "targetDocumentNumber": "4343/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 4343/QĐ-ĐHĐN ngày 01/12/2020 của Giám đốc"
+    }
+  ],
   "mentions": [
     "Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
     "Chính phủ",

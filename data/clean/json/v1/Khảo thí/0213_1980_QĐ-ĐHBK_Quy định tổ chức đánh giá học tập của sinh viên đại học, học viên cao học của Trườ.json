@@ -71,6 +71,21 @@
       "relationType": "REPEALS",
       "targetArticle": null,
       "context": "Bãi bỏ Quy định “Nhập điểm và quản lý kết quả học tập của sinh viên chính quy của Trường Đại học Bách khoa – Đại học Đà Nẵng” ban hành kèm theo Quyết định số 156/QĐ-ĐHBK ngày 29 tháng 5 năm 2015 của Hiệu trưởng Trường Đại học Bách khoa."
+    },
+    {
+      "targetDocumentNumber": "409/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ; Quyết định số 409/QĐ-ĐHBK ngày 20 tháng 10 năm 2016 ban hành Quy định đào tạo chương trình tiên tiến trình độ đại học; Quyết định số 598/QĐ-ĐHBK ngày 27 tháng 12 năm 2016 ban hành Quy định đào tạo thạc sỹ;"
+    },
+    {
+      "targetDocumentNumber": "598/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ; Quyết định số 409/QĐ-ĐHBK ngày 20 tháng 10 năm 2016 ban hành Quy định đào tạo chương trình tiên tiến trình độ đại học; Quyết định số 598/QĐ-ĐHBK ngày 27 tháng 12 năm 2016 ban hành Quy định đào tạo thạc sỹ;"
+    },
+    {
+      "targetDocumentNumber": "1274/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng”; Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc Sửa đổi, bổ sung một số điều của “Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng”;"
     }
   ],
   "mentions": [

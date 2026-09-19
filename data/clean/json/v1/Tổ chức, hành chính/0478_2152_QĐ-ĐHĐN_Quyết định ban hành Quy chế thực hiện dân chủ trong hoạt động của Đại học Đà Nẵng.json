@@ -58,6 +58,21 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Quy chế ban hành kèm theo Quyết định này thay thế Quy chế thực hiện dân chủ trong hoạt động của ĐHĐN ban hành kèm theo Nghị quyết số 32/NQ-HĐĐH ngày 02 tháng 6 năm 2025 của Hội đồng ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "11/HD-TLĐ",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Hướng dẫn số 11/HD-TLĐ ngày 14 tháng 3 năm 2024 của Tổng Liên đoàn lao động Việt Nam về việc công đoàn tham gia thực hiện dân chủ ở cơ sở;"
+    },
+    {
+      "targetDocumentNumber": "07/HD-CĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Hướng dẫn số 07/HD-CĐN ngày 04 tháng 10 năm 2024 của Công đoàn Giáo dục Việt Nam về việc tham gia thực hiện dân chủ ở cơ sở đối với các công đoàn thuộc Công đoàn Giáo dục Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "11/HD-CĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Hướng dẫn số 11/HD-CĐN ngày 20 tháng 02 năm 2025 của Công đoàn Giáo dục Việt Nam về công tác tổ chức và hoạt động của Ban Thanh tra nhân dân;"
     }
   ],
   "mentions": [

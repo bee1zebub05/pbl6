@@ -35,7 +35,13 @@
       "idOverride": null
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "44/NQ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 44/NQ-CP ngày 09 tháng 6 năm 2014 của Chính phủ"
+    }
+  ],
   "mentions": [
     "Bộ Giáo dục và Đào tạo",
     "Bộ Lao động - Thương binh và Xã hội",

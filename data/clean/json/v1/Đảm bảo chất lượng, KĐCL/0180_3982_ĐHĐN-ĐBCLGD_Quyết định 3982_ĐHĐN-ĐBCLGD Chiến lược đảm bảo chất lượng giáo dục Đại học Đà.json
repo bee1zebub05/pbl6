@@ -52,6 +52,16 @@
       "relationType": "BASED_ON",
       "targetArticle": null,
       "context": "Căn cứ Quyết định số 2762/QĐ-ĐHĐN ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1668/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 1668/QLCL-KĐCLGD ngày 31/12/2019 của Cục Quản lý chất lượng về việc thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL-KĐCLGD;"
+    },
+    {
+      "targetDocumentNumber": "768/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 1668/QLCL-KĐCLGD ngày 31/12/2019 của Cục Quản lý chất lượng về việc thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL-KĐCLGD;"
     }
   ],
   "mentions": [

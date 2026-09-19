@@ -70,6 +70,16 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "và Thông tư số 23/2011/TT-BGDĐT ngày 06 tháng 6 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tiêu chuẩn đánh giá chất lượng chương trình giáo dục sư phạm kỹ thuật công nghiệp trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của"
     }
   ],
   "mentions": [

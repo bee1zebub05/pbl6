@@ -47,6 +47,16 @@
       "relationType": "BASED_ON",
       "targetArticle": null,
       "context": "Căn cứ Nghị quyết số 66/NQ-CP ngày 26/3/2025 của Chính phủ về Chương trình cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh năm 2025 và 2026;"
+    },
+    {
+      "targetDocumentNumber": "24/2024/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ _[Luật Đấu thầu ngày 23 tháng 6 năm 2023, Nghị định số 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu];_"
+    },
+    {
+      "targetDocumentNumber": "03/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 03/2025/NĐ-CP ngày 01 tháng 01 năm 2025 của Chính phủ quy định việc sắp xếp lại, xử lý tài sản công là nhà, đất;"
     }
   ],
   "mentions": [

@@ -113,6 +113,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Cách lập số vào sổ gốc cấp văn bằng, chứng chỉ được thực hiện theo quy định tại Công văn số 401/ĐHĐN-ĐT ngày 08/02/2017 của Giám đốc Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "17/2016/TTLT-BGDĐT-BTTT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư liên tịch số 17/2016/TTLT-BGDĐT-BTTTT ngày 21/6/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo và Bộ trưởng Bộ Thông tin và Truyền thông quy định tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin;"
     }
   ],
   "mentions": [

@@ -47,6 +47,11 @@
       "relationType": "BASED_ON",
       "targetArticle": null,
       "context": "Căn cứ Nghị định số 113/2017/ND-CP ngày 09 tháng 10 năm 2017 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật hóa chất;"
+    },
+    {
+      "targetDocumentNumber": "113/2017/ND-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 113/2017/ND-CP ngày 09 tháng 10 năm 2017 của Chính"
     }
   ],
   "mentions": [],

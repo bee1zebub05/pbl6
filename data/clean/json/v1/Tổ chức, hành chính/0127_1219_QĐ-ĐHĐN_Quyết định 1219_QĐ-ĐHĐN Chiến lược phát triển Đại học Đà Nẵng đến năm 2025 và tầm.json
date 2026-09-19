@@ -85,6 +85,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Đặc biệt, theo Thông báo số 542/TB-VPCP ngày 22 tháng 11 năm 2017 về \"Kết luận của Thủ tướng Chính phủ Nguyễn Xuân Phúc tại cuộc họp Thường trực Chính phủ về cơ chế, chính sách đặc thù để phát triển Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh, Đại học Đà Nẵng thành các trung tâm đào tạo, nghiên cứu uy tín trong nước và khu vực\""
+    },
+    {
+      "targetDocumentNumber": "567/TTr",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Tờ trình số 567/TTr - ĐHĐN, ngày 05/02/2018 của Giám đốc ĐHĐN về việc đề nghị phê duyệt Chiến lược phát triển ĐHĐN đến năm 2025 và tầm nhìn đến 2035;"
     }
   ],
   "mentions": [

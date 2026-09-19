@@ -227,6 +227,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Thông tư số 27/2016/TT-BGDĐT ngày 30/12/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo \"Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành giáo dục\""
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
     }
   ],
   "mentions": [

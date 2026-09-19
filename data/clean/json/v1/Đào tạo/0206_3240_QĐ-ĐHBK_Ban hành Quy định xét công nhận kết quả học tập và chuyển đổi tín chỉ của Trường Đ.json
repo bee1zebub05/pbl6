@@ -100,6 +100,16 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Quyết định này thay thế Quyết định số 419/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về việc xét và công nhận chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ trong chương trình đào tạo bậc đại học”."
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08/10/2021;"
     }
   ],
   "mentions": [

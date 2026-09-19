@@ -48,6 +48,16 @@
       "relationType": "REPEALS",
       "targetArticle": null,
       "context": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 8 năm 2018 và thay thế Nghị định số 73/2012/NĐ-CP ngày 26 tháng 9 năm 2012 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục và Nghị định số 124/2014/NĐ-CP ngày 29 tháng 12 năm 2014 của Chính phủ sửa đổi khoản 6 Điều 31 Nghị định số 73/2012/NĐ-CP."
+    },
+    {
+      "targetDocumentNumber": "123/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 123/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ;"
+    },
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
     }
   ],
   "mentions": [

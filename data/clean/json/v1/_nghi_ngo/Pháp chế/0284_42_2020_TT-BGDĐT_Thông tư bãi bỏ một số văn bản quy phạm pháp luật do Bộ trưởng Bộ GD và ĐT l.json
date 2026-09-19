@@ -35,7 +35,18 @@
       "idOverride": null
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "34/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật;"
+    },
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    }
+  ],
   "mentions": [
     "Bộ Giáo dục và Đào tạo",
     "Công đoàn giáo dục Việt Nam",

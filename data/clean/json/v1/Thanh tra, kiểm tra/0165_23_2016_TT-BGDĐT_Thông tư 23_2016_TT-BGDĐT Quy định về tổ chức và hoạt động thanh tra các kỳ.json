@@ -64,6 +64,16 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "2. Thông tư này thay thế Quyết định số 41/2006/QĐ-BGDĐT ngày 16 tháng 10 năm 2006 của Bộ trưởng Bộ GD&ĐT ban hành kèm theo Quyết định này Quy định về tổ chức và hoạt động thanh tra các kỳ thi."
+    },
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính"
+    },
+    {
+      "targetDocumentNumber": "01/2014/TT-TTCP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 01/2014/TT-TTCP ngày 23/4/2014 của Thanh tra Chính"
     }
   ],
   "mentions": [

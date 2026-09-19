@@ -119,6 +119,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Quyết định số 2682/QĐ-ĐHĐN ngày 03/6/2015 của ĐHĐN về việc ban hành Quy định tiêu chuẩn năng lực và đạo đức trong các hoạt động khoa học công nghệ của Đại học Đà Nẵng (Quyết định số 2682/QĐ-ĐHĐN) (hoặc văn bản thay thế)."
+    },
+    {
+      "targetDocumentNumber": "155/ĐHĐN-TCCB",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 155/ĐHĐN-TCCB ngày 14 tháng 01 năm 2026 của Giám đốc Đại học Đà Nẵng về việc công tác cán bộ;"
     }
   ],
   "mentions": [

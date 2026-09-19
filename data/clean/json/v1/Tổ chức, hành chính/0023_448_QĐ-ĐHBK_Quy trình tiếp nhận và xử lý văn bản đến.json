@@ -59,6 +59,11 @@
       "relationType": "BASED_ON",
       "targetArticle": null,
       "context": "Căn cứ Thông tư số 07/2012/TT-BNV ngày 22 tháng 11 năm 2012 của Bộ trưởng Bộ Nội vụ về việc hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan;"
+    },
+    {
+      "targetDocumentNumber": "139/VTLTNN-TTTH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 139/VTLTNN-TTTH ngày 14/3/2009 của Cục Văn thư và Lưu trữ nhà nước về việc hướng dẫn quản lý văn bản đi, văn bản đến và lập hồ sơ trong môi trường mạng;"
     }
   ],
   "mentions": [

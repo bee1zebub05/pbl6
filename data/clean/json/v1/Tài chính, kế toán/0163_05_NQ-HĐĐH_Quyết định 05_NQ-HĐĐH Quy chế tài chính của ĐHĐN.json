@@ -77,6 +77,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Đối với các chương trình đào tạo có mức học phí cao hơn mức trần học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định của Nhà nước (theo Nghị định số 86/2015/NĐ-CP ngày 02/10/2015) thì mức học phí được tính để trích nộp là mức trần học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định…"
+    },
+    {
+      "targetDocumentNumber": "998/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 996/QĐ-BGDĐT và Quyết định số 998/QĐ-BGDĐT ngày 17/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Hội đồng ĐHĐN và Chủ tịch Hội đồng ĐHĐN, nhiệm kỳ 2021-2026;"
     }
   ],
   "mentions": [

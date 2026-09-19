@@ -41,6 +41,26 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Thông tư này thay thế Thông tư số 12/2016/TT-BGDĐT ngày 22 tháng 4 năm 2016 quy định ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng."
+    },
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "127/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 127/2018/NĐ-CP ngày 21 tháng 9 năm 2018 của Chính phủ quy định trách nhiệm quản lý nhà nước về giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "72/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;"
+    },
+    {
+      "targetDocumentNumber": "64/2007/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 04 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;"
     }
   ],
   "mentions": [

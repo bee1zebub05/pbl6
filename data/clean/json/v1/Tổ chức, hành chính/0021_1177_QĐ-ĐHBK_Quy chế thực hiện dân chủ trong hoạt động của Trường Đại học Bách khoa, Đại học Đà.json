@@ -70,6 +70,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Tổ chức đánh giá định kỳ hàng năm đối với viên chức, NLĐ thuộc thẩm quyền quản lý theo trình tự, thủ tục quy định tại Nghị định số 56/2015/NĐ-CP ngày 09/6/2015 của Chính phủ về đánh giá phân loại công chức, viên chức, NLĐ."
+    },
+    {
+      "targetDocumentNumber": "04/2000/QĐ-BGD",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 04/2000/QĐ-BGD&ĐT ngày 01/3/2000 của Bộ trưởng Bộ"
     }
   ],
   "mentions": [

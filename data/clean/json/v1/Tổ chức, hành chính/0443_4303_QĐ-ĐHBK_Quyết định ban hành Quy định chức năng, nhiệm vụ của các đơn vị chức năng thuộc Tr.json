@@ -64,6 +64,16 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Căn cứ Quyết định số 730/QĐ-ĐHBK ngày 05 tháng 6 năm 2018 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng trực thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "947/ĐA-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Đề án số 947/ĐA-ĐHBK ngày 06 tháng 3 năm 2025 của Hiệu trưởng Trường Đại học Bách khoa về việc tổ chức sắp xếp, tinh gọn bộ máy bên trong của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
     }
   ],
   "mentions": [

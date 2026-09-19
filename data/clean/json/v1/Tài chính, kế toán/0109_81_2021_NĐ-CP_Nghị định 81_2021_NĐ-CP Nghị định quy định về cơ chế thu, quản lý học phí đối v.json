@@ -77,6 +77,11 @@
       "relationType": "REFERENCES",
       "targetArticle": null,
       "context": "Đối với dịch vụ đào tạo giáo viên: Thực hiện theo quy định tại Nghị định số 116/2020/NĐ-CP ngày 25 tháng 9 năm 2020 của Chính phủ quy định về chính sách hỗ trợ tiền đóng học phí, chi phí sinh hoạt đối với sinh viên sư phạm;"
+    },
+    {
+      "targetDocumentNumber": "134/2020/QH14",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 134/2020/QH14 ngày 17 tháng 11 năm 2020 của Quốc hội về tiếp tục thực hiện các Nghị quyết của Quốc hội về giám sát chuyên đề, chất vấn trong nhiệm kỳ khóa XIV và một số Nghị quyết trong nhiệm kỳ khóa XIII;"
     }
   ],
   "mentions": [

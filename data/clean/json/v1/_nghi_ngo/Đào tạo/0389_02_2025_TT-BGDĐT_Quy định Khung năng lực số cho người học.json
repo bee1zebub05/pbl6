@@ -35,7 +35,13 @@
       "idOverride": null
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    }
+  ],
   "mentions": [
     "Vụ Giáo dục Đại học",
     "Chính phủ",

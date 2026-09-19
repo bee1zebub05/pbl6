@@ -125,6 +125,11 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "Quyết định số 2529/QĐ-ĐHBK ngày 03/11/2020 của Hiệu trưởng Trường Đại học Bách khoa về việc \"Điều chỉnh Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trình chất lượng cao tại Trường Đại học Bách khoa, Đại học Đà Nẵng\"."
+    },
+    {
+      "targetDocumentNumber": "788/ĐHĐN-ĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 788/ĐHĐN-ĐT ngày 24/02/2021 của Giám đốc Đại học Đà"
     }
   ],
   "mentions": [
