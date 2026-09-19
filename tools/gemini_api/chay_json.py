@@ -280,6 +280,11 @@ def lam_mot(tx: Path, model, be):
     thu_muc = (RA / "_nghi_ngo" if nghi else RA) / tx.parent.name
     thu_muc.mkdir(parents=True, exist_ok=True)
     dich = thu_muc / (tx.stem + ".json")
+    # Lan truoc co the da ghi sang nhanh kia (nghi ngo <-> sach). Khong xoa thi
+    # con lai hai ban, --va-lai va bo cham diem deu dem thanh hai file.
+    kia = (RA if nghi else RA / "_nghi_ngo") / tx.parent.name / (tx.stem + ".json")
+    if kia.exists():
+        kia.unlink()
     io.open(dich, "w", encoding="utf-8", newline="\n").write(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     return n_may, n_sau, nghi, canh_bao, use
