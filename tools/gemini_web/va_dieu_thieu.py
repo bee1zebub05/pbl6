@@ -98,7 +98,7 @@ def _cat_dieu(txt: str, gioi_han: int | None = None):
     return ra, tho
 
 
-_CHAM = re.compile(r"[.．…]{4,}")
+_CHO_TRONG = re.compile(r"[.．…]{3,}|_{3,}")
 
 
 def _tach_mach(txt: str):
@@ -156,16 +156,26 @@ def _tach_mach(txt: str):
 def _la_bieu_mau(cat) -> bool:
     """Mach nay la bieu mau phu luc chu khong phai van ban quy pham.
 
-    Bieu mau viet kieu "Điều 1. Phê duyệt liên kết ......(6)......" — cho trong
-    de dien, nen dac dau cham va rat ngan. Dua vao normativeContents thi do thi
-    co them node rac mang so hieu Dieu that.
+    Do bang MAT DO CHO TRONG (so cum "....."/"____" tren 1000 ky tu) chu
+    khong bang ti le ky tu cham. Do tren cac ca da biet thi hai nhom tach han:
+
+        ban kem THAT   0.00 - 2.92   (0164, 0439, 0169 58 Dieu, 0033, 0227)
+        bieu mau       3.38 - 9.25   (0133, 0485, 0380 mau hop dong, 0476)
+
+    Ti le ky tu cham khong tach duoc: mau hop dong 0380 dien cho trong kieu
+    "Tu ngay ..... thang ..... nam ....." — nhieu cho nhung moi cho ngan, ti
+    le chi 6.7%, lot thom vao nhom that. Dem SO CHO thi no len 3.38, dung ve
+    phia bieu mau. Nguong cu 3% ky tu cham loai nham ca 0169 (58 Dieu), 0033
+    (24 Dieu), 0269 (21 Dieu) — deu la van ban that.
+
+    Mach tu 10 Dieu tro len thi gan nhu chac chan la van ban that, noi rong
+    nguong: bieu mau it khi dai the.
     """
     than = "\n".join(v["than"] for v in cat.values())
-    if not than:
+    if len(than) < 1000:
         return True
-    cham = sum(len(x) for x in _CHAM.findall(than))
-    return len(than) < 1000 or cham > len(than) * 0.03
-
+    mat_do = 1000.0 * len(_CHO_TRONG.findall(than)) / len(than)
+    return mat_do >= (6.0 if len(cat) >= 10 else 3.2)
 
 # Tieu de ban ban hanh kem theo, dung MOT MINH tren dong va in HOA.
 TIEU_DE_ND = re.compile(
