@@ -144,7 +144,8 @@ def loc_key_song(keys, model):
     song = [k for k, e in kq if not e]
     for k, e in kq:
         if e:
-            noi("[api] bỏ 1 key bị từ chối hẳn: %s" % e[:70])
+            noi("[api] bỏ 1 key bị từ chối hẳn: %s"
+                % " ".join(e.split())[:90])
     return song
 
 
