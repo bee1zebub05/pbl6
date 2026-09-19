@@ -152,6 +152,15 @@ def loc_key_song(keys, model):
 # ============================================================
 # GOI API
 # ============================================================
+def _quota(than: str) -> str:
+    """Rut ten han muc tu than loi 429 cua Google. '' neu khong thay."""
+    m = re.search(r"quotaId\"?\s*:\s*\"?([A-Za-z]+)", than)
+    if m:
+        return m.group(1)
+    m = re.search(r"(GenerateRequests?Per[A-Za-z]+)", than)
+    return m.group(1) if m else " ".join(than.split())[:70]
+
+
 def goi_api(model, prompt, be, han_giay=300):
     """-> (text, usage). Tu doi key khi 429/500, chiu thua sau 6 lan."""
     loi_cuoi = ""
@@ -179,9 +188,23 @@ def goi_api(model, prompt, be, han_giay=300):
                 continue
             return txt, d.get("usageMetadata", {})
         except urllib.error.HTTPError as e:
-            loi_cuoi = "HTTP %s" % e.code
-            if e.code in (429, 500, 503):
-                be.phat(key, 90 if e.code == 429 else 20)
+            than = ""
+            try:
+                than = e.read().decode("utf-8", "replace")
+            except Exception:
+                pass
+            loi_cuoi = "HTTP %s%s" % (e.code, (" " + _quota(than)) if than else "")
+            if e.code == 429:
+                # Google noi ro dung han nao. Han PHUT thi nghi 90 giay la qua;
+                # han NGAY thi cho bao lau cung vo ich — bo key khoi be luon,
+                # khong thi 8 lan thu deu dot vao cung mot buc tuong.
+                if "PerDay" in than:
+                    con = be.bo(key)
+                    noi("[api] key hết hạn NGÀY — bỏ khỏi bể, còn %d key" % con)
+                else:
+                    be.phat(key, 90)
+            elif e.code in (500, 503):
+                be.phat(key, 20)
             elif e.code == 403:
                 # 403 = key bi tu choi han ("project has been denied access"),
                 # khong phai het han muc. Bo hen khoi be, giu lai chi to dinh mai.
@@ -204,7 +227,13 @@ def lam_mot(tx: Path, model, be):
     raw = CJ._boc_json(txt)
     if raw is None:
         raise RuntimeError("khong boc duoc JSON")
-    data = json.loads(raw)
+    try:
+        data = json.loads(raw)
+        va_nhay = 0
+    except json.JSONDecodeError:
+        data, va_nhay = CJ._cuu_json(raw)
+        if data is None:
+            raise
     if not isinstance(data, dict):
         raise RuntimeError("tang ngoai cung khong phai object")
     data["sourceFile"] = "%s/%s" % (tx.parent.name, tx.name)
@@ -219,6 +248,8 @@ def lam_mot(tx: Path, model, be):
         raise RuntimeError("sai schema: " + " | ".join(loi[:3]))
 
     canh_bao, nghi = CJ._soi_them(data, tx)
+    if va_nhay:
+        canh_bao = list(canh_bao) + ["va %d dau nhay thang khong escape" % va_nhay]
     thu_muc = (RA / "_nghi_ngo" if nghi else RA) / tx.parent.name
     thu_muc.mkdir(parents=True, exist_ok=True)
     dich = thu_muc / (tx.stem + ".json")

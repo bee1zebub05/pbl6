@@ -239,6 +239,45 @@ def _boc_json(text: str):
     return t[i:j + 1] if 0 <= i < j else None
 
 
+def _cuu_json(raw: str, toi_da: int = 300):
+    """Doc JSON co dau nhay thang khong escape ben trong chuoi.
+
+    Model hay chuan hoa “Dat” thanh "Dat" roi quen escape, the la chuoi dut
+    giua chung. Khong the quet mot luot roi doan dau la nhay that dau la nhay
+    noi dung — "..." theo sau bang dau phay thi nhap nhang y het nhau.
+
+    Nen de chinh json.loads chi cho: loi "Expecting ',' delimiter" tai vi tri p
+    nghia la parser vua dong chuoi som ngay truoc p. Escape dung dau nhay do
+    roi doc lai. Moi vong go duoc mot dau; van ban co bao nhieu dau nhay noi
+    dung thi bay nhieu vong, va no hoi tu vi moi vong tien them.
+
+    -> (data, so_dau_da_va) hoac (None, 0) neu khong cuu duoc.
+    """
+    import json as _json
+
+    cuu = raw
+    for lan in range(toi_da):
+        try:
+            return _json.loads(cuu), lan
+        except _json.JSONDecodeError as e:
+            # chi nhan loi do chuoi dong som; het JSON that thi chiu
+            if "delimiter" not in e.msg and "Expecting" not in e.msg:
+                return None, 0
+            j = cuu.rfind('"', 0, e.pos)
+            if j <= 0:
+                return None, 0
+            # dau nhay do da escape san thi khong phai thu pham
+            n = 0
+            k = j - 1
+            while k >= 0 and cuu[k] == "\\":
+                n += 1
+                k -= 1
+            if n % 2:
+                return None, 0
+            cuu = cuu[:j] + "\\" + cuu[j:]
+    return None, 0
+
+
 def _validate(data: dict) -> list[str]:
     """Cho qua chinh `core/validate.py` cua legal_knowledge_graph.
 
