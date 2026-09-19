@@ -97,10 +97,54 @@ def _ho_so_corpus():
     ra = {}
     for j in RA.rglob("*.json"):
         d = json.loads(io.open(j, encoding="utf-8").read())
-        ra[_khoa(d["document"].get("documentNumber"))] = (
-            j.name[:4], d["document"].get("title") or "", d["document"].get("issueDate"))
+        sh = d["document"].get("documentNumber") or ""
+        ra[_khoa(sh)] = (j.name[:4], d["document"].get("title") or "",
+                         d["document"].get("issueDate"))
+        _goc_so_hieu[_khoa(sh)] = sh
     return ra
 
+
+def _tu(s: str):
+    """Chuoi -> day tu da bo dau, de so khop theo TU chu khong theo chuoi con.
+
+    So chuoi con thi "giá" (Luật Giá) lot vao "giáo dục pháp luật" vi bo dau
+    xong deu la "gia" nam trong "giaoducphapluat" — tung tra nham 0138 sang
+    Luat Pho bien giao duc phap luat.
+    """
+    return [x for x in re.split(r"[^a-z0-9]+", _mo_cach(s)) if x]
+
+
+def _mo_cach(s: str) -> str:
+    s = unicodedata.normalize("NFD", (s or "").lower()).replace("đ", "d")
+    return re.sub(r"[\u0300-\u036f]", "", s)
+
+
+def _la_cung_van_ban(ten_can_cu: str, tieu_de: str) -> bool:
+    """Ten trong cau can cu co phai chinh la ten van ban dich khong?
+
+    Doi khop theo TU va phai la TIEN TO cua tieu de sau khi bo tu chi loai:
+        "giáo dục"  vs "Luật Giáo dục"                 -> dung
+        "giá"       vs "Luật Phổ biến, giáo dục..."    -> sai
+    """
+    a = _tu(ten_can_cu)
+    b = _tu(tieu_de)
+    bo = {"luat", "bo", "phap", "lenh", "nghi", "dinh", "thong", "tu",
+          "quyet", "chi", "thi"}
+    for _ in range(3):
+        if b and b[0] in bo:
+            b = b[1:]
+    # BANG NHAU tuyet doi chu khong phai tien to: "Luật Giáo dục" va
+    # "Luật Giáo dục đại học" la hai luat khac nhau.
+    return bool(a) and a == b
+
+def _so_hieu_cua(ma, ho_so):
+    for sh, (m, _t, _n) in ho_so.items():
+        if m == ma:
+            return _goc_so_hieu.get(sh, sh)
+    return None
+
+
+_goc_so_hieu = {}
 
 def soi(c, goc_txt, mo_txt, bang, ho_so):
     """-> (muc do, so hieu de nghi hoac None, ghi chu)."""
@@ -119,7 +163,7 @@ def soi(c, goc_txt, mo_txt, bang, ho_so):
     d = ho_so.get(_khoa(sh))
     if d and kh:
         ma, tieu, ngay = d
-        if _mo(kh[1]) and _mo(kh[1]) in _mo(tieu) and ngay == kh[2]:
+        if _la_cung_van_ban(kh[1], tieu) and ngay == kh[2]:
             return "DOI CHIEU", None, "khop tiêu đề + ngày của %s" % ma
 
     # tra bang hoc tu corpus
@@ -130,6 +174,17 @@ def soi(c, goc_txt, mo_txt, bang, ho_so):
             if _khoa(moi) != _khoa(sh):
                 return "TRA BANG", moi, "corpus viết đủ ở chỗ khác"
             return "TRA BANG", None, ""
+    # tra NGUOC: corpus co chua chinh van ban duoc vien dan khong?
+    if kh:
+        hit = [x for x in ho_so.items()
+               if x[1][2] == kh[2] and _la_cung_van_ban(kh[1], x[1][1])]
+        if len(hit) == 1:
+            ma_dich, tieu, _ = hit[0][1]
+            that = _so_hieu_cua(ma_dich, ho_so)
+            if that and _khoa(that) != _khoa(sh):
+                return "TRA NGUOC", that, "corpus có chính văn bản đó: %s" % ma_dich
+            if that:
+                return "TRA NGUOC", None, ""
     return "KHONG RO", None, (" ".join(ct.split())[:76] or "không có context")
 
 
@@ -167,7 +222,7 @@ def main() -> int:
     tong = sum(dem.values())
     print("=" * 66)
     print("  %s trích dẫn trên %d file" % (format(tong, ","), len(list(RA.rglob('*.json')))))
-    for m in ("NGUYEN VAN", "OCR", "DOI CHIEU", "TRA BANG", "KHONG RO"):
+    for m in ("NGUYEN VAN", "OCR", "DOI CHIEU", "TRA BANG", "TRA NGUOC", "KHONG RO"):
         print("    %-11s %5d   %5.2f%%" % (m, dem[m], 100.0 * dem[m] / max(tong, 1)))
     print("=" * 66)
 
