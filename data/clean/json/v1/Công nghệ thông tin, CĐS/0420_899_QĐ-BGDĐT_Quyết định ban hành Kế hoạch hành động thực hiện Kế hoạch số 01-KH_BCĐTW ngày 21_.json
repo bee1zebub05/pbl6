@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0420_899_QĐ-BGDĐT_Quyết định ban hành Kế hoạch hành động thực hiện Kế hoạch số 01-KH_BCĐTW ngày 21_.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "899/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch hành động thực hiện Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào \"Bình dân học vụ số\" của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/04/2025",
+    "effectiveDate": "04/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này Kế hoạch hành động thực hiện Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào \"Bình dân học vụ số\" của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Kim Sơn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "01-KH/BCĐTW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số về triển khai Phong trào \"Bình dân học vụ số\";"
+    }
+  ],
+  "mentions": [
+    "Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+    "Cục Khoa học, Công nghệ và Thông tin",
+    "Vụ Kế hoạch - Tài chính",
+    "Ban Tuyên giáo và Dân vận Trung ương",
+    "Văn phòng Trung ương Đảng",
+    "Bộ Công an",
+    "Bộ Khoa học và Công nghệ",
+    "Vụ GDPT",
+    "Cục GDNNGDTX",
+    "Viện KHGDVN",
+    "Vụ GDĐH",
+    "Vụ HSSV",
+    "Vụ TCCB",
+    "Ban Chỉ đạo của Chính phủ về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và Đề án 06",
+    "Văn phòng Chính phủ",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch hành động thực hiện Kế",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch hành động thực hiện Kế\nhoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào \"Bình dân học\nvụ số\" của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng\ntạo và chuyển đổi số (sau đây gọi tắt là Kế hoạch), gồm các nội dung sau:\n1. Mục đích\n- Quán triệt, thực hiện hiệu quả, tạo sự chuyển biến về nhận thức và hành động\ntrong công chức, viên chức các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo triển\nkhai Phong trào \"Bình dân học vụ số\" theo Kế hoạch số 01-KH/BCĐTW ngày\n21/03/2025 của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới\nsáng tạo và chuyển đổi số.\n- Cụ thể hóa và tổ chức thực hiện các nhiệm vụ, giải pháp được nêu tại Kế hoạch\nsố 01-KH/BCĐTW thuộc lĩnh vực giáo dục và đào tạo; phân công nhiệm vụ cụ thể\ngắn với công tác theo dõi, kiểm tra, giám sát, báo cáo định kỳ nhằm phát huy mạnh\nmẽ tinh thần chủ động, trách nhiệm của các đơn vị, cá nhân; là căn cứ để tổ chức\nkiểm tra, giám sát, sơ kết, tổng kết, đánh giá việc tổ chức thực hiện Kế hoạch số 01-\nKH/BCĐTW của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi\nmới sáng tạo và chuyển đổi số.\n2. Các nhiệm vụ cụ thể\n\nChi tiết các nhiệm vụ, đơn vị chủ trì, sản phẩm cần đạt và thời gian thực hiện\ntại Phụ lục kèm theo.\n3. Tổ chức thực hiện\n3.1. Thủ trưởng các đơn vị thuộc, trực thuộc Bộ\na) Tổ chức quán triệt, triển khai sâu rộng, hiệu quả, tạo sự lan tỏa toàn diện về\nnhận thức và hành động của Phong trào \"Bình dân học vụ số\" đến từng công chức,\nviên chức, người lao động trong đơn vị.\nb) Căn cứ nội dung, nhiệm vụ được phân công tại Kế hoạch này chủ động xây\ndựng kế hoạch chi tiết từng nhiệm vụ được giao chủ trì, trình Lãnh đạo Bộ phụ trách\nphê duyệt và tổ chức triển khai đảm bảo tiến độ, hiệu quả.\nc) Báo cáo kết quả thực hiện Kế hoạch gửi Cục Khoa học, Công nghệ và Thông\ntin tổng hợp báo cáo Bộ trưởng.\n3.2. Cục Khoa học, Công nghệ và Thông tin\na) Là đơn vị đầu mối tham mưu, theo dõi, đôn đốc các đơn vị liên quan, giúp Bộ\ntrưởng chỉ đạo triển khai các nội dung của Kế hoạch này đảm bảo tiến độ, chất lượng.\nb) Chủ trì, phối hợp với các đơn vị liên quan thực hiện các nhiệm vụ theo phân\ncông tại Phụ lục kèm theo Kế hoạch này.\nc) Tổng hợp, báo cáo, đề xuất Bộ trưởng xem xét, quyết định các giải pháp tháo\ngỡ khó khăn, vướng mắc phát sinh trong quá trình thực hiện Kế hoạch này.\nd) Tham mưu công tác tổ chức sơ kết, tổng kết đánh giá kết quả triển khai Kế\nhoạch.\n3.3. Vụ Kế hoạch - Tài chính chủ trì, phối hợp với các đơn vị liên quan phân bổ\nkinh phí thực hiện các nhiệm vụ theo quy định.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Cục trưởng Cục Khoa học, Công nghệ và Thông tin,",
+      "text": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Khoa học, Công nghệ và Thông tin,\nThủ trưởng các đơn vị có liên quan thuộc, trực thuộc Bộ Giáo dục và Đào tạo chịu\ntrách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

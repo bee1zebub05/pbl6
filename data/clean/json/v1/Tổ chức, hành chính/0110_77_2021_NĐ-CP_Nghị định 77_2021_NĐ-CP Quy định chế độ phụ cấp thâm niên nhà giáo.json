@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0110_77_2021_NĐ-CP_Nghị định 77_2021_NĐ-CP Quy định chế độ phụ cấp thâm niên nhà giáo.txt",
+  "mappedBy": "gemini-web",
+  "note": "8 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "77/2021/NĐ-CP",
+    "title": "Nghị định Quy định chế độ phụ cấp thâm niên nhà giáo",
+    "documentType": "Nghị định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/08/2021",
+    "effectiveDate": "01/08/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khác"
+    ],
+    "summary": "Nghị định này quy định chế độ phụ cấp thâm niên nhà giáo, bao gồm phạm vi điều chỉnh, đối tượng áp dụng, thời gian tính hưởng và thời gian không tính hưởng phụ cấp thâm niên, mức phụ cấp thâm niên, nguồn kinh phí thực hiện, hiệu lực thi hành, điều khoản chuyển tiếp và trách nhiệm thi hành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Minh Khái",
+      "academicTitle": null,
+      "position": [
+        "Phó Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "204/2004/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "đã được chuyển, xếp lương theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang"
+    },
+    {
+      "targetDocumentNumber": "54/2011/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Nghị định số 54/2011/NĐ-CP ngày 04 tháng 7 năm 2011 của Chính phủ về chế độ phụ cấp thâm niên đối với nhà giáo và các văn bản hướng dẫn Nghị định hết hiệu lực thi hành từ ngày 01 tháng 7 năm 2020."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Tài chính",
+    "Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nNghị định này quy định chế độ phụ cấp thâm niên nhà giáo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\nNghị định này áp dụng đối với nhà giáo đang giảng dạy, giáo dục trong các cơ sở giáo dục công lập và các cơ sở giáo dục mầm non, phổ thông, trung tâm làm nhiệm vụ đào tạo, bồi dưỡng thuộc cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội (sau đây gọi chung là cơ sở giáo dục công lập) đã được chuyển, xếp lương theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang, bao gồm:\n\n1. Nhà giáo gồm viên chức chuyên ngành giáo dục, đào tạo (mang mã số có các ký tự đầu là V.07) và viên chức chuyên ngành giáo dục nghề nghiệp (mang mã số có các ký tự đầu là V.09) thuộc danh sách trả lương được cơ quan có thẩm quyền phê duyệt, đang giảng dạy, giáo dục trong các cơ sở giáo dục công lập được Nhà nước cấp kinh phí hoạt động (bao gồm nguồn thu từ ngân sách nhà nước cấp và các nguồn thu sự nghiệp theo quy định của pháp luật).\n\n2. Nhà giáo thuộc danh sách trả lương được cơ quan có thẩm quyền phê duyệt, đang giảng dạy, hướng dẫn thực hành, thí nghiệm tại các tàu huấn luyện, xưởng trường, trạm, trại, trung tâm thực hành, phòng thí nghiệm, phòng bộ môn của cơ sở giáo dục phổ thông, cơ sở giáo dục thường xuyên, cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học công lập.\n\n3. Các đối tượng không thuộc quy định tại khoản 1 và khoản 2 Điều này mà giữ mã số có các ký tự đầu là V.07 và V.09 không thuộc đối tượng được hưởng phụ cấp thâm niên nhà giáo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Thời gian tính hưởng và thời gian không tính hưởng phụ cấp thâm niên",
+      "text": "Điều 3. Thời gian tính hưởng và thời gian không tính hưởng phụ cấp thâm niên\n\n1. Thời gian tính hưởng phụ cấp thâm niên\nThời gian tính hưởng phụ cấp thâm niên được xác định bằng tổng các thời gian sau:\n\na) Thời gian giảng dạy, giáo dục có đóng bảo hiểm xã hội bắt buộc trong các cơ sở giáo dục công lập.\n\nb) Thời gian giảng dạy, giáo dục có đóng bảo hiểm xã hội bắt buộc trong các cơ sở giáo dục ngoài công lập (đối với nhà giáo đang giảng dạy, giáo dục trong các cơ sở giáo dục công lập mà trước đây đã giảng dạy, giáo dục ở các cơ sở giáo dục ngoài công lập).\n\nc) Thời gian làm việc được tính hưởng phụ cấp thâm niên, gồm: thời gian làm việc được xếp lương theo một trong các ngạch hoặc chức danh của các chuyên ngành hải quan, tòa án, kiểm sát, kiểm toán, thanh tra, thi hành án dân sự, kiểm lâm, dự trữ quốc gia, kiểm tra đảng; thời gian làm việc được tính hưởng phụ cấp thâm niên trong quân đội, công an, cơ yếu và thời gian làm việc được tính hưởng thâm niên ở ngành, nghề khác (nếu có).\n\nd) Thời gian đi nghĩa vụ quân sự theo luật định mà trước khi đi nghĩa vụ quân sự đang được tính hưởng phụ cấp thâm niên nghề.\n\n2. Thời gian không tính hưởng phụ cấp thâm niên\na) Thời gian tập sự.\n\nb) Thời gian nghỉ việc riêng không hưởng lương liên tục từ 01 tháng trở lên.\n\nc) Thời gian nghỉ ốm đau, thai sản vượt quá thời hạn theo quy định của pháp luật về bảo hiểm xã hội.\n\nd) Thời gian đi làm chuyên gia, đi học, thực tập, công tác, khảo sát ở trong nước và ở nước ngoài vượt quá thời hạn do cơ quan có thẩm quyền quyết định.\n\nđ) Thời gian bị tạm đình chỉ công tác hoặc bị tạm giữ, tạm giam để phục vụ cho công tác điều tra, truy tố, xét xử.\n\ne) Thời gian không làm việc khác ngoài quy định tại các điểm a, b, c, d, đ khoản 2 Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Mức phụ cấp thâm niên",
+      "text": "Điều 4. Mức phụ cấp thâm niên\n\n1. Nhà giáo tham gia giảng dạy, giáo dục có đóng bảo hiểm xã hội bắt buộc đủ 5 năm (60 tháng) được tính hưởng phụ cấp thâm niên bằng 5% mức lương hiện hưởng cộng phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có). Từ năm thứ sáu trở đi, mỗi năm (đủ 12 tháng) được tính thêm 1%.\n\n2. Phụ cấp thâm niên được tính trả cùng kỳ lương hàng tháng và được dùng để tính đóng, hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.\n\n3. Cách tính mức tiền phụ cấp thâm niên hằng tháng:\n\nMức tiền phụ cấp thâm niên = (Hệ số lương theo chức danh nghề nghiệp viên chức cộng hệ số phụ cấp chức vụ lãnh đạo, phụ cấp thâm niên vượt khung (nếu có) hiện hưởng) x (Mức lương cơ sở do Chính phủ quy định từng thời kỳ) x (Mức (%) phụ cấp thâm niên được hưởng)",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Nguồn kinh phí thực hiện",
+      "text": "Điều 5. Nguồn kinh phí thực hiện\n\n1. Nguồn kinh phí thực hiện chế độ phụ cấp thâm niên đối với nhà giáo được sử dụng từ nguồn thu hợp pháp của đơn vị và nguồn kinh phí do ngân sách nhà nước bảo đảm, cụ thể:\n\na) Đối với cơ sở giáo dục công lập tự bảo đảm chi thường xuyên và chi đầu tư và cơ sở giáo dục công lập tự bảo đảm chi thường xuyên: Kinh phí thực hiện chế độ phụ cấp thâm niên được bảo đảm từ nguồn thu sự nghiệp của đơn vị.\n\nb) Đối với các cơ sở giáo dục công lập tự bảo đảm một phần chi thường xuyên: Kinh phí thực hiện chế độ phụ cấp thâm niên được bảo đảm từ nguồn thu sự nghiệp của đơn vị và nguồn ngân sách nhà nước cấp theo phân cấp quản lý ngân sách nhà nước hiện hành.\n\nc) Đối với các cơ sở giáo dục công lập do Nhà nước bảo đảm chi thường xuyên: Kinh phí thực hiện chế độ phụ cấp thâm niên do ngân sách nhà nước bảo đảm và giao trong dự toán ngân sách hàng năm của cơ sở giáo dục theo phân cấp quản lý ngân sách nhà nước hiện hành.\n\n2. Trong trường hợp Nhà nước thực hiện điều chỉnh mức lương cơ sở, các bộ, cơ quan trung ương và các tỉnh, thành phố trực thuộc trung ương có trách nhiệm tổ chức, hướng dẫn, xét duyệt và tổng hợp báo cáo nhu cầu, nguồn kinh phí thực hiện chế độ phụ cấp thâm niên nhà giáo vào nhu cầu thực hiện cải cách tiền lương theo các quy định hiện hành về việc xác định nhu cầu, nguồn kinh phí thực hiện điều chỉnh mức lương cơ sở hằng năm; gửi Bộ Tài chính xem xét, thẩm định theo quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 6. Hiệu lực thi hành\n\n1. Nghị định này có hiệu lực thi hành từ ngày ký ban hành.\n\n2. Chế độ phụ cấp thâm niên nhà giáo quy định tại Nghị định này được áp dụng từ ngày 01 tháng 7 năm 2020 cho đến khi thực hiện chính sách tiền lương mới theo quy định của Chính phủ.\n\n3. Nghị định số 54/2011/NĐ-CP ngày 04 tháng 7 năm 2011 của Chính phủ về chế độ phụ cấp thâm niên đối với nhà giáo và các văn bản hướng dẫn Nghị định hết hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Điều khoản chuyển tiếp",
+      "text": "Điều 7. Điều khoản chuyển tiếp\n\n1. Các địa phương, cơ sở giáo dục công lập đã thực hiện chi trả chế độ phụ cấp thâm niên nhà giáo từ ngày 01 tháng 7 năm 2020 đến nay, thì tiếp tục thực hiện theo Nghị định này.\n\n2. Nhà giáo đang giảng dạy trong các cơ sở giáo dục công lập vẫn giữ ngạch viên chức ngành giáo dục, đào tạo (có 2 chữ số đầu của mã số ngạch là 15) mà chưa được chuyển xếp sang chức danh nghề nghiệp viên chức chuyên ngành giáo dục, đào tạo (mã số V07), chuyên ngành giáo dục nghề nghiệp (mã số V09) thì vẫn được hưởng chế độ phụ cấp thâm niên nhà giáo theo quy định tại Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 8. Trách nhiệm thi hành\n\n1. Người đứng đầu cơ sở giáo dục công lập có trách nhiệm:\n\na) Giải quyết truy lĩnh và thực hiện chi trả tiền phụ cấp thâm niên nhà giáo cho các đối tượng hưởng kể từ ngày 01 tháng 7 năm 2020.\n\nb) Phối hợp với cơ quan bảo hiểm xã hội để điều chỉnh lại mức đóng và mức hưởng các chế độ (nếu có) đối với nhà giáo thuộc đối tượng quy định tại Nghị định này mà đã nghỉ hưu hoặc thôi hưởng phụ cấp thâm niên trong khoảng thời gian từ ngày 01 tháng 7 năm 2020 cho đến ngày Nghị định này có hiệu lực thi hành.\n\n2. Cơ quan có thẩm quyền quản lý nhà giáo có trách nhiệm kiểm tra việc thực hiện chế độ phụ cấp thâm niên tại các cơ sở giáo dục trực thuộc đảm bảo đúng quy định của Nghị định này.\n\n3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

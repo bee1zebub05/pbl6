@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0472_1280_QĐ-ĐHĐN_Quyết định ban hành Quy định số hóa dữ liệu văn bằng chứng chỉ của các đơn vị thuộ.txt",
+  "mappedBy": "gemini-web",
+  "note": "2 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1280/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định số hóa dữ liệu văn bằng, chứng chỉ của các đơn vị thuộc và trực thuộc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "02/04/2026",
+    "effectiveDate": "02/04/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Văn thư, lưu trữ"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy định số hóa dữ liệu văn bằng, chứng chỉ của các đơn vị thuộc và trực thuộc Đại học Đà Nẵng, đồng thời thay thế Quyết định số 882/QĐ-ĐHĐN ngày 05/3/2026.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/07/2021 của Hội đồng Đại học Đà Nẵng về ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/07/2021 của Hội đồng Đại học Đà Nẵng về ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2355/KH-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Kế hoạch số 2355/KH-BGDĐT ngày 22/12/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc số hóa dữ liệu văn bằng, chứng chỉ đã cấp;"
+    },
+    {
+      "targetDocumentNumber": "882/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 882/QĐ-ĐHĐN ngày 05/3/2026 của Giám đốc Đại học Đà Nẵng ban hành Quy định số hóa văn bằng, chứng chỉ của các đơn vị thuộc và trực thuộc Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo và Đảm bảo chất lượng giáo dục"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định số hóa dữ liệu văn bằng, chứng chỉ của các đơn vị thuộc và trực thuộc Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định số hóa dữ liệu văn bằng, chứng chỉ của các đơn vị thuộc và trực thuộc Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 882/QĐ-ĐHĐN ngày 05/3/2026 của Giám đốc Đại học Đà Nẵng ban hành Quy định số hóa văn bằng, chứng chỉ của các đơn vị thuộc và trực thu",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 882/QĐ-ĐHĐN ngày 05/3/2026 của Giám đốc Đại học Đà Nẵng ban hành Quy định số hóa văn bằng, chứng chỉ của các đơn vị thuộc và trực thuộc Đại học Đà Nẵng.\n\nChánh Văn phòng, Trưởng các ban chức năng có liên quan, Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

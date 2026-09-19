@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0261_4794_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "4794/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên nguồn đi học theo Quyết định số 89/QĐ-TTg ngày 18/01/2019 của Thủ tướng Chính phủ phê duyệt Đề án Nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản, toàn diện giáo dục và đào tạo giai đoạn 2019-2030 ban hành kèm theo Quyết định số 4274/QĐ-ĐHĐN ngày 15/12/2021 của Giám đốc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "10/11/2023",
+    "effectiveDate": "10/11/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên nguồn đi học theo Quyết định số 89/QĐ-TTg của Thủ tướng Chính phủ ban hành kèm theo Quyết định số 4274/QĐ-ĐHĐN của Giám đốc Đại học Đà Nẵng, bao gồm các nội dung về hồ sơ dự tuyển, quy trình tuyển chọn, thủ tục trước, khi đi học và chuyển ngành/cơ sở/hình thức đào tạo.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng (ĐHĐN);"
+    },
+    {
+      "targetDocumentNumber": "86/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2021/NĐ-CP ngày 25/9/2021 của Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật;"
+    },
+    {
+      "targetDocumentNumber": "101/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 101/2017/NĐ-CP ngày 01/9/2017 của Chính phủ về đào tạo, bồi dưỡng cán bộ, công chức, viên chức;"
+    },
+    {
+      "targetDocumentNumber": "143/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 143/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định về bồi hoàn học bổng và chi phí đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "89/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 89/QĐ-TTg ngày 18/01/2019 của Thủ tướng Chính phủ phê duyệt Đề án Nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới căn bản, toàn diện giáo dục và đào tạo giai đoạn 2019-2030 (Đề án 89);"
+    },
+    {
+      "targetDocumentNumber": "04/2015/TTLT-BGDĐT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư liên tịch số 04/2015/TTLT-BGDĐT-BTC ngày 10/3/2015 của Bộ trưởng Bộ Giáo dục và Đào tạo và Bộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Nghị định số 143/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định về bồi hoàn học bổng và chi phí đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "25/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 25/2021/TT-BGDĐT ngày 08/9/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn triển khai đào tạo trình độ tiến sĩ, trình độ thạc sĩ cho giảng viên các cơ sở giáo dục đại học theo Quyết định số 89/QĐ-TTg ngày 18/01/2019 của Thủ tướng Chính phủ phê duyệt Đề án 89;"
+    },
+    {
+      "targetDocumentNumber": "1835/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1835/QĐ-BGDĐT ngày 09/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành danh sách các cơ sở đào tạo tham gia đào tạo và các ngành đào tạo (đợt tháng 6 năm 2021) theo Đề án 89;"
+    },
+    {
+      "targetDocumentNumber": "2914/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2914/QĐ-BGDĐT ngày 17/9/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo phê duyệt danh sách bổ sung các cơ sở đào tạo tham gia đào tạo và các ngành đào tạo theo Đề án 89;"
+    },
+    {
+      "targetDocumentNumber": "30/2022/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 30/2022/TT-BTC ngày 03/6/2022 của Bộ trưởng Bộ Tài chính hướng dẫn cơ chế tài chính thực hiện Đề án 89;"
+    },
+    {
+      "targetDocumentNumber": "514/BGDĐT-GDĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn số 514/BGDĐT-GDĐH ngày 14/02/2023 của Bộ Giáo dục và Đào tạo về việc hướng dẫn quy trình, thủ tục cử và quản lý giảng viên theo Đề án 89;"
+    },
+    {
+      "targetDocumentNumber": "3319/BGDĐT-HTQT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn số 3319/BGDĐT-HTQT ngày 05/7/2023 của Bộ Giáo dục và Đào tạo hướng dẫn thủ tục quản lý, cấp phát kinh phí đối với người học nước ngoài, người học trong nước (thuộc các cơ sở giáo dục đại học ngoài công lập) theo Đề án 89;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN ban hành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN ban hành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "2973/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2973/QĐ-ĐHĐN ngày 12/7/2023 của Giám đốc ĐHĐN ban hành Quy định quản lý viên chức của ĐHĐN được cử đi đào tạo, bồi dưỡng và nghiên cứu;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Tài chính",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Hội đồng ĐHĐN",
+    "Cục Hợp tác Quốc tế",
+    "Phân hiệu ĐHĐN tại Kon Tum"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên nguồn đi học theo Quyết định số 89/QĐ-TTg ngày 18/01/2019 của Thủ tướng Chính phủ phê duyệt Đề án 89 ban hành kèm the",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy định tuyển chọn giảng viên cơ hữu, giảng viên nguồn đi học theo Quyết định số 89/QĐ-TTg ngày 18/01/2019 của Thủ tướng Chính phủ phê duyệt Đề án 89 ban hành kèm theo Quyết định số 4274/QĐ-ĐHĐN ngày 15/12/2021 của Giám đốc ĐHĐN (gọi tắt là Quy định tuyển chọn Đề án 89).\n\n1. Sửa đổi nội dung “Người dự tuyển nộp 01 bộ hồ sơ bao gồm:” tại Điều 2 thành: “Người dự tuyển nộp 02 bộ hồ sơ (01 bộ nộp về Ban Tổ chức cán bộ, ĐHĐN và 01 bộ lưu tại các trường đại học thành viên/đơn vị thuộc/trực thuộc ĐHĐN) gồm:”\n\n2. Bổ sung khoản 11 và 12 sau khoản 10 Điều 2 như sau:\n“11. Văn bản đơn vị có thẩm quyền tuyển dụng viên chức cam kết tiếp nhận giảng viên nguồn làm giảng viên cơ hữu sau khi tốt nghiệp chương trình đào tạo tiến sĩ thông qua hợp đồng đào tạo giảng viên nguồn (áp dụng đối với giảng viên nguồn).\n12. Minh chứng ngành đăng ký học đáp ứng yêu cầu quy định của Đề án 89:\n- Đối với ứng viên đăng ký dự tuyển tại cơ sở đào tạo ở nước ngoài: bản chụp màn hình cơ sở đào tạo có ngành thuộc nhóm 500 ngành hàng đầu (trong 05 năm gần nhất) tại 03 bảng xếp hạng theo nhóm ngành và lĩnh vực đào tạo sau đây:\n\n| TT | Bảng xếp hạng | Địa chỉ website |\n| 1 | THE Ranking | https://www.timeshighereducation.com/world-university-rankings/by-subject |\n| 2 | QS Ranking | https://www.topuniversities.com/subject-rankings/2021 |\n| 3 | US News | https://www.usnews.com/education/best-global-universities?int=top_nav_Global_Universities |\n\n- Đối với ứng viên đăng ký học trong nước: bản sao văn bản của Bộ Giáo dục và Đào tạo ban hành danh sách các cơ sở đào tạo tham gia đào tạo và các ngành đào tạo theo Đề án 89.\n\n3. Sửa đổi Điều 3 như sau:\n“Điều 3. Quy trình tổ chức tuyển chọn\n1. Xây dựng kế hoạch tuyển chọn và cử giảng viên cơ hữu, giảng viên nguồn đi học tiến sĩ, thạc sĩ trong phạm vi của Đề án 89 của năm kế tiếp như sau:\na) Các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN lập kế hoạch theo mẫu quy định của Bộ Giáo dục và Đào tạo (hiện hành là Công văn số 514/BGDĐT-GDĐH) gửi ĐHĐN trước ngày 01/4 hàng năm.\nb) ĐHĐN tổng hợp kế hoạch của các trường đại học thành viên, các đơn vị thuộc và trực thuộc gửi Bộ Giáo dục và Đào tạo trước ngày 15/4 hàng năm, đồng thời cập nhật vào hệ thống cơ sở dữ liệu về Đề án 89; xây dựng dự toán kinh phí hỗ trợ người học theo quy định của Bộ Tài chính gửi Bộ Giáo dục và Đào tạo.\n\n2. Theo số lượng do Bộ Giáo dục và Đào tạo thông báo ở từng nhóm ngành, trình độ đào tạo và hình thức đào tạo, ĐHĐN tổ chức tuyển chọn người học (gồm giảng viên cơ hữu và giảng viên nguồn) như sau:\na) Bước 1: ĐHĐN thông báo đến các trường đại học thành viên, các đơn vị thuộc và trực thuộc số lượng xét tuyển của từng nhóm ngành, trình độ đào tạo và hình thức đào tạo.\nb) Bước 2:\n(i) Các trường đại học thành viên, các đơn vị trực thuộc ĐHĐN, Phân hiệu ĐHĐN tại Kon Tum thu nhận hồ sơ ứng viên (thành phần hồ sơ thực hiện theo quy định tại Điều 2); thành lập Hội đồng xét tuyển chọn người học theo Đề án 89 cấp cơ sở; tổ chức xét tuyển chọn người học theo Đề án 89; trên cơ sở kết quả xét tuyển chọn của Hội đồng xét tuyển chọn người học theo Đề án 89, thực hiện tổng hợp Danh sách (theo Mẫu số 04) kèm theo văn bản, hồ sơ của ứng viên gửi về ĐHĐN (qua Ban Tổ chức Cán bộ).\n(ii) Ban Tổ chức Cán bộ thu nhận hồ sơ ứng viên của các đơn vị thuộc ĐHĐN (trừ Phân hiệu ĐHĐN tại Kon Tum) (thành phần hồ sơ thực hiện theo quy định tại Điều 2).\nc) Bước 3: Giám đốc ĐHĐN quyết định thành lập Hội đồng xét tuyển chọn người học theo Đề án 89 cấp ĐHĐN.\nd) Bước 4: Hội đồng xét tuyển chọn người học theo Đề án 89 cấp ĐHĐN tổ chức xét tuyển chọn người học đi học theo Đề án 89.\ne) Bước 5: Trên cơ sở kết quả xét tuyển chọn của Hội đồng xét tuyển chọn người học theo Đề án 89 cấp ĐHĐN, Giám đốc ĐHĐN ban hành Quyết định phê duyệt danh sách giảng viên cơ hữu, giảng viên nguồn tuyển chọn đi học theo Đề án 89, báo cáo kết quả xét chọn của ĐHĐN về Bộ Giáo dục và Đào tạo và cập nhật kết quả xét chọn vào Hệ thống cơ sở dữ liệu của Đề án 89 (hoàn thành trước ngày 15/3 hàng năm).\n\n4. Bổ sung Điều 3a sau Điều 3 như sau:\n“Điều 3a. Thủ tục trước khi đi học\n1. Khi ứng viên có tên trong Quyết định phê duyệt danh sách giảng viên cơ hữu, giảng viên nguồn tuyển chọn đi học theo Đề án 89 của ĐHĐN có giấy báo trúng tuyển/thư mời nhập học vào cơ sở đào tạo (vào ngành và cơ sở đào tạo đúng quy định), ứng viên lập 02 bộ hồ sơ (01 bộ nộp về Ban Tổ chức Cán bộ, ĐHĐN và 01 bộ lưu trữ tại các trường đại học thành viên/đơn vị thuộc/trực thuộc ĐHĐN) gồm có:\na) Hồ sơ xin đi đào tạo thực hiện theo quy định tại Điều 9 Quyết định 2973/QĐ-ĐHĐN (trong đó, đối với người đi học nước ngoài: thư mời nhập học (còn thời hạn) phải có thông tin về ngành đào tạo (đúng tên ngành trong Quyết định phê duyệt danh sách giảng viên cơ hữu, giảng viên nguồn tuyển chọn đi học theo Đề án 89 của ĐHĐN), bậc đào tạo, hình thức đào tạo, tổng thời gian đào tạo (thời gian bắt đầu khóa học chính thức và thời gian kết thúc), học phí và các loại phí bắt buộc liên quan tới khóa học); các tài liệu bằng tiếng nước ngoài phải được dịch sang tiếng Việt và công chứng tư pháp (bản có dấu đỏ).\nb) Bản cam kết tự túc khoản học phí vượt trội hoặc tự túc các khoản chi phí đối với khoảng thời gian vượt quá thời gian đào tạo theo quy định đối với các ứng viên đi học tại cơ sở đào tạo có mức học phí vượt quá 25.000 USD/năm hoặc có thời gian dài hơn thời gian quy định của Đề án 89 (Mẫu số 05).\nc) Đơn đề nghị cấp kinh phí của ứng viên (Mẫu số 06).\n\nĐối với các ứng viên đã đi học tại cơ sở đào tạo ở nước ngoài trước thời gian có Quyết định phê duyệt giảng viên cơ hữu, giảng viên nguồn tuyển chọn đi học theo Đề án 89, ứng viên cung cấp minh chứng do cơ sở đào tạo cấp về thời gian đã theo học và các khoản phí đề nghị được truy lĩnh (nếu có).\n\nĐHĐN nhập thông tin vào Hệ thống cơ sở dữ liệu của Bộ Giáo dục và Đào tạo, đồng thời nộp hồ sơ đề nghị phê duyệt danh sách giảng viên đủ điều kiện đi học theo Đề án về Bộ Giáo dục và Đào tạo.\n\n2. Đối với người học tại cơ sở đào tạo ở nước ngoài, sau khi Bộ Giáo dục và Đào tạo phê duyệt danh sách giảng viên trúng tuyển được nhận kinh phí hỗ trợ từ Đề án 89, người học lập 03 bộ hồ sơ (01 bộ nộp về Ban Tổ chức Cán bộ, ĐHĐN, 01 bộ lưu trữ tại các trường đại học thành viên/đơn vị thuộc/trực thuộc ĐHĐN và 01 bộ gửi Cục Hợp tác Quốc tế - Bộ Giáo dục và Đào tạo) để đề nghị Bộ Giáo dục và Đào tạo cấp thư chứng minh tài chính và quyết định cử đi học theo quy định tại Công văn số 3319/BGDĐT-HTQT, hồ sơ gồm có:\na) Đơn đề nghị cấp thư chứng minh tài chính/quyết định cử cá nhân đi học ở nước ngoài (Mẫu số 07).\nb) Bản cam kết tự thu xếp kinh phí nếu học phí và phí liên quan khác vượt quá mức học phí quy định tại Thông tư số 30/2022/TT-BTC (nếu có) (Mẫu số 08).\nc) Bản dịch công chứng tư pháp (bản có dấu đỏ) thư mời nhập học.\n\nĐồng thời người học cập nhật đầy đủ giấy tờ và thông tin cần thiết vào hệ thống trực tuyến (OMS) tại trang web https://oms89.vied.vn của Cục Hợp tác Quốc tế.”\n\n5. Bổ sung Điều 3b sau Điều 3a như sau:\n“Điều 3b. Thủ tục khi đi học\n1. Đối với các trường hợp đi học ở nước ngoài, người học thực hiện thủ tục đăng ký khi đến nước ngoài, các quy định về quản lý công dân Việt Nam ra nước ngoài học tập, thủ tục cấp kinh phí theo hướng dẫn của Bộ Giáo dục và Đào tạo (hiện hành là Công văn số 3319/BGDĐT-HTQT).\n2. Người học thực hiện thủ tục xin gia hạn thời gian học tập, tạm dừng học, báo cáo tốt nghiệp, bồi hoàn chi phí đào tạo theo quy định tại Quyết định số 2973/QĐ-ĐHĐN, các quy định hiện hành khác có liên quan của Nhà nước và ĐHĐN.\n3. Người học thực hiện thủ tục xin điều chỉnh thời gian học tập như sau:\nNgười học nộp 02 bộ hồ sơ (01 bộ nộp về Ban Tổ chức Cán bộ, ĐHĐN, 01 bộ lưu trữ tại các trường đại học thành viên/đơn vị thuộc/trực thuộc ĐHĐN), gồm có:\na) Đơn xin điều chỉnh thời gian học tập (Mẫu số 09)\nb) Thư mời nhập học hoặc văn bản cho phép điều chỉnh thời gian học tập của cơ sở đào tạo.\n\n6. Bổ sung Điều 3c sau Điều 3b như sau:\n“Điều 3c. Chuyển ngành đào tạo/cơ sở đào tạo/hình thức đào tạo\n1. Người học có nguyện vọng chuyển ngành đào tạo/cơ sở đào tạo phải đáp ứng theo quy định tại khoản 2 Điều 7 Thông tư số 25/2021/TT-BGDĐT và các quy định hiện hành khác có liên quan.\n2. Đối với ứng viên đang trong giai đoạn bảo lưu, việc chuyển cơ sở đào tạo/hình thức đào tạo thực hiện theo quy định tại khoản 2 Điều 13 Thông tư số 25/2021/TT-BGDĐT.\n3. Quy trình thực hiện việc chuyển ngành đào tạo/cơ sở đào tạo/hình thức đào tạo.\na) Bước 1: Ứng viên có nguyện vọng xin chuyển ngành đào tạo/cơ sở đào tạo/hình thức đào tạo thực hiện hồ sơ như sau:\n\n(i) Đơn xin chuyển ngành đào tạo/cơ sở đào tạo/hình thức đào tạo (theo Mẫu số 10).\n\n(ii) Văn bản chấp nhận chuyển ngành đào tạo của cơ sở đào tạo/Thư mời nhập học của cơ sở đào tạo mới chuyển đến (đối với người học ở nước ngoài: Bản dịch công chứng hợp lệ thư mời nhập học với đầy đủ thông tin: bậc đào tạo, chuyên ngành đào tạo, tổng thời gian đào tạo (thời gian bắt đầu, thời gian kết thúc), kinh phí đào tạo liên quan đến khóa học); Trường hợp ứng viên đã nhập học tại cơ sở đào tạo đã được ĐHĐN/Bộ Giáo dục và Đào tạo phê duyệt thì phải có văn bản cho thôi học hoặc chấp nhận chuyển cơ sở đào tạo của cơ sở đào tạo đã được ĐHĐN/Bộ Giáo dục và Đào tạo phê duyệt.\n\n(iii) Bản cam kết thực hiện trách nhiệm và nghĩa vụ giữa cá nhân, đại diện gia đình (gồm: bố/mẹ đẻ hoặc chồng/vợ hoặc người đại diện hợp pháp khác) và đơn vị cử cá nhân đi đào tạo trình độ tiến sĩ (hoặc thạc sĩ) theo Đề án 89 (theo Mẫu 03).\n\n(iv) Bản cam kết tự túc khoản học phí vượt trội hoặc tự túc các khoản chi phí đối với khoảng thời gian vượt quá thời gian đào tạo theo quy định đối với các ứng viên đi học tại cơ sở đào tạo có mức học phí vượt quá 25.000 USD/năm hoặc có thời gian dài hơn thời gian quy định của Đề án 89 (Mẫu số 05).\n\n(v) Minh chứng ngành đăng ký học đáp ứng yêu cầu quy định của Đề án 89 (theo quy định tại khoản 12, Điều 2).\n\n(vi) Định hướng nghiên cứu.\n\nb) Bước 2:\nCác trường đại học thành viên, các đơn vị trực thuộc ĐHĐN, Phân hiệu ĐHĐN tại Kon Tum thu nhận hồ sơ ứng viên của đơn vị; thành lập Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89 cấp cơ sở; tổ chức xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89; trên cơ sở kết quả xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo của Hội đồng, gửi văn bản kèm theo danh sách, biên bản họp và hồ sơ quy định ở điểm a khoản này về ĐHĐN (qua Ban Tổ chức Cán bộ).\n\nBan Tổ chức Cán bộ thu nhận hồ sơ ứng viên của các đơn vị thuộc ĐHĐN (trừ Phân hiệu ĐHĐN tại Kon Tum) quy định ở điểm a khoản này.\n\nc) Bước 3: Giám đốc ĐHĐN thành lập Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89 cấp ĐHĐN.\n\nd) Bước 4: Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89 cấp ĐHĐN tổ chức xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo.\n\nđ) Bước 5:\n(i) Trường hợp Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89 cấp ĐHĐN có ý kiến đồng ý cho ứng viên được chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo, Giám đốc ĐHĐN ban hành Quyết định điều chỉnh Quyết định phê duyệt danh sách giảng viên cơ hữu, giảng viên nguồn\n\ntuyển chọn đi học theo Đề án 89 đã ban hành trước đó và báo cáo Bộ Giáo dục và Đào tạo.\n\n(ii) Trường hợp Hội đồng xét chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo theo Đề án 89 cấp ĐHĐN có ý kiến không đồng ý cho ứng viên chuyển đổi ngành đào tạo/cơ sở đào tạo/hình thức đào tạo, Giám đốc ĐHĐN ban hành văn bản trả lời ứng viên và các đơn vị liên quan”.\n\n7. Sửa đổi khoản 2 Điều 5 như sau:\n“2. Ban Tổ chức Cán bộ có trách nhiệm tổng hợp kế hoạch tuyển chọn và cử giảng viên cơ hữu, giảng viên nguồn đi học tiến sĩ, thạc sĩ trong phạm vi Đề án 89 của các trường đại học thành viên, các đơn vị thuộc và trực thuộc trình Giám đốc ĐHĐN, gửi Bộ Giáo dục và Đào tạo trước ngày 15/4 hàng năm, đồng thời cập nhật vào hệ thống cơ sở dữ liệu về Đề án 89; trình Giám đốc ĐHĐN danh sách người học được tiếp nhận vào học chính thức theo mẫu tại Phụ lục III, Thông tư số 25/2021/TT-BGDĐT gửi Bộ Giáo dục và Đào tạo; thực hiện chế độ báo cáo theo mẫu tại Phụ lục IV, Thông tư số 25/2021/TT-BGDĐT gửi Bộ Giáo dục và Đào tạo.”\n\n8. Thay thế Mẫu số 01, Mẫu số 03 và Mẫu số 04 ban hành kèm theo Quy định tuyển chọn Đề án 89 lần lượt là Mẫu số 01, Mẫu số 03 và Mẫu số 04 kèm theo Quyết định này.\n\n9. Bỏ cụm từ “công chức” tại khoản 2, Điều 4.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc ĐHĐN và các cá nhân có liên quan căn cứ Quyết định t",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc ĐHĐN và các cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

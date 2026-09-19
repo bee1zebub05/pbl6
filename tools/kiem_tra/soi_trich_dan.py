@@ -37,7 +37,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 GOC = Path(__file__).resolve().parents[2]
 KHO_TXT = GOC / "data" / "clean" / "text_final"
-RA = GOC / "data" / "kg_json"
+RA = GOC / "data" / "clean" / "json" / "v1"
 
 LOAI = (r"(?:Bộ luật|Luật|Pháp lệnh|Nghị định|Thông tư liên tịch|Thông tư"
         r"|Nghị quyết|Quyết định|Chỉ thị)")

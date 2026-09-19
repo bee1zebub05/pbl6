@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0388_144_QĐ-ĐHĐN_Ban hành Quy định về công khai trong hoạt động của Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "8 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "144/QĐ-ĐHĐN",
+    "title": "Quyết định về việc ban hành Quy định về công khai trong hoạt động của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "15/01/2025",
+    "effectiveDate": "15/01/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành Quy định về công khai trong hoạt động của Đại học Đà Nẵng bao gồm các nội dung, nguyên tắc, cách thức và trách nhiệm tổ chức thực hiện công khai ở cấp Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "09/2024/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2024/TT-BGDĐT ngày 03 tháng 6 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về công khai trong hoạt động của các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Trường Y Dược",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh",
+    "Phân hiệu ĐHĐN tại Kon Tum",
+    "Trung tâm Đào tạo Thường xuyên",
+    "Văn phòng ĐHĐN",
+    "Ban Tổ chức Cán bộ",
+    "Ban Đào tạo và Đảm bảo chất lượng giáo dục",
+    "Ban Công tác Học sinh sinh viên",
+    "Ban Kế hoạch - Tài chính",
+    "Ban Khoa học và Hợp tác Quốc tế",
+    "Ban Quản lý Cơ sở vật chất và Đầu tư",
+    "Trung tâm Thông tin - Học liệu và Truyền thông",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về công khai trong hoạt động của Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này nhằm cụ thể hóa các quy định về công khai trong hoạt động của Đại học Đà Nẵng (ĐHĐN) theo Thông tư số 09/2024/TT-BGDĐT ngày 03 tháng 6 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về công khai trong hoạt động của các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân (sau đây gọi là Thông tư 09) gồm: nguyên tắc, nội dung, cách thức công khai và trách nhiệm tổ chức thực hiện.\n2. Quy định này áp dụng đối với các trường đại học thành viên, các đơn vị đào tạo thuộc, trực thuộc ĐHĐN (sau đây gọi chung là đơn vị) và cá nhân có liên quan.\n3. Việc thực hiện công khai các nội dung không nêu trong Quy định này được thực hiện theo Thông tư 09 và quy định của pháp luật có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc công khai của Đại học Đà Nẵng",
+          "text": "Điều 2. Nguyên tắc công khai của Đại học Đà Nẵng\nĐHĐN thực hiện công tác công khai theo hai cấp:\n1. Cấp ĐHĐN thực hiện công khai các hoạt động theo quy định tại Điều 3, 4, 5 của Quy định này.\n2. Các trường đại học thành viên, các đơn vị đào tạo thuộc, trực thuộc (bao gồm Trường Y Dược; Viện Nghiên cứu và Đào tạo Việt - Anh; Phân hiệu ĐHĐN tại Kon Tum; Trung tâm Đào tạo Thường xuyên) thực hiện công khai tại đơn vị theo quy định tại Thông tư 09.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nội dung công khai ở cấp ĐHĐN",
+          "text": "Điều 3. Nội dung công khai ở cấp ĐHĐN\n1. Các nội dung thông tin chung về cơ sở giáo dục: công khai thông tin chung của ĐHĐN theo quy định tại Điều 4 Thông tư 09.\n2. Các nội dung về thu, chi tài chính: công khai các hoạt động do ĐHĐN chủ trì thực hiện theo quy định tại Điều 5 Thông tư 09.\n3. Các nội dung về điều kiện bảo đảm chất lượng đào tạo, nghiên cứu: công khai thông tin, dữ liệu tổng hợp ở cấp ĐHĐN theo quy định tại Điều 12 Thông tư 09.\n4. Các nội dung về kế hoạch và kết quả hoạt động đào tạo, hoạt động khoa học và công nghệ: công khai thông tin, dữ liệu tổng hợp ở cấp ĐHĐN theo quy định tại Điều 13 Thông tư 09.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Cách thức công khai ở cấp ĐHĐN",
+          "text": "Điều 4. Cách thức công khai ở cấp ĐHĐN\nĐHĐN thực hiện công khai trên cổng thông tin điện tử của ĐHĐN, bao gồm:\n\na) Các hoạt động giáo dục (HĐGD) do ĐHĐN thực hiện được quy định tại Điều 3 của Quy định này tính đến tháng 6 hằng năm;\nb) Báo cáo thường niên (BCTN) để công khai cho các bên liên quan tổng quan về kết quả hoạt động của ĐHĐN tính đến ngày 31 tháng 12 hằng năm theo Thông tư 09;\nc) Đường dẫn (link) đến các trang thông tin điện tử chứa nội dung công khai của các trường đại học thành viên, đơn vị đào tạo thuộc, trực thuộc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Trách nhiệm tổ chức thực hiện công khai ở cấp ĐHĐN",
+          "text": "Điều 5. Trách nhiệm tổ chức thực hiện công khai ở cấp ĐHĐN\n1. Các trường đại học thành viên, đơn vị đào tạo thuộc, trực thuộc:\na) Cung cấp và cập nhật các thông tin công khai hằng năm theo đúng nội dung, đảm bảo thời gian, tính chính xác và cập nhật của thông tin công khai;\nb) Phối hợp báo cáo về công tác công khai theo từng lĩnh vực phụ trách khi có yêu cầu.\n2. Trách nhiệm của Văn phòng ĐHĐN:\na) Chủ trì hoặc phối hợp cung cấp dữ liệu công khai các hoạt động của ĐHĐN theo các nội dung được phân công trong Phụ lục kèm theo Quy định này;\nb) Tổng hợp Báo cáo các hoạt động giáo dục, Báo cáo thường niên để công khai cho các bên liên quan về kết quả hoạt động của ĐHĐN;\nc) Xây dựng, quản lý thông tin mục công khai trên cổng thông tin điện tử của ĐHĐN và thực hiện công khai thông tin;\nd) Báo cáo về công tác công khai khi có yêu cầu bằng văn bản của Bộ Giáo dục và Đào tạo hoặc của cơ quan quản lý nhà nước có thẩm quyền.\n3. Trách nhiệm của các Ban chức năng, Trung tâm Thông tin - Học liệu và Truyền thông:\na) Chủ trì hoặc phối hợp thực hiện tổng hợp dữ liệu từ các trường đại học thành viên, đơn vị đào tạo thuộc và trực thuộc theo các nội dung được phân công trong Phụ lục kèm theo Quy định này;\nb) Phối hợp Văn phòng ĐHĐN cung cấp và cập nhật các thông tin công khai hằng năm theo đúng nội dung, đảm bảo thời gian, tính chính xác và cập nhật của thông tin công khai;\nc) Phối hợp báo cáo về công tác công khai theo từng lĩnh vực phụ trách khi có yêu cầu./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về công khai trong hoạt động của Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về công khai trong hoạt động của Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hiệu trưởng các trường đại học thành viên, Trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Hiệu trưởng các trường đại học thành viên, Trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

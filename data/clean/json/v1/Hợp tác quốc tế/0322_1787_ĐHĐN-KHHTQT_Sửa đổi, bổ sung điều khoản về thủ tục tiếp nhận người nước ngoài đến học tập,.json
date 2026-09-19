@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Hợp tác quốc tế/0322_1787_ĐHĐN-KHHTQT_Sửa đổi, bổ sung điều khoản về thủ tục tiếp nhận người nước ngoài đến học tập,.txt",
+  "mappedBy": "gemini-web",
+  "note": "Văn bản dạng Công văn không chia thành các Điều chính thức; Trang 3 là Phiếu giải quyết văn bản đến kèm theo của đơn vị tiếp nhận nên không trích xuất vào nội dung văn bản chính.",
+  "document": {
+    "documentNumber": "1787/ĐHĐN-KHHTQT",
+    "title": "V/v sửa đổi, bổ sung điều khoản về thủ tục tiếp nhận NNN đến học tập, nghiên cứu và làm việc tại ĐHĐN",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/05/2024",
+    "effectiveDate": "13/05/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Hợp tác quốc tế"
+    ],
+    "summary": "Công văn sửa đổi, bổ sung khoản 1 và khoản 2 Điều 5 (Thủ tục tiếp nhận người nước ngoài) thuộc Quy định về công tác quản lý hoạt động hợp tác quốc tế ban hành kèm theo Quyết định 2268/ĐHĐN-HTQT ngày 01/6/2023 của Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2268/ĐHĐN-HTQT",
+      "relationType": "AMENDS",
+      "targetArticle": "Điều 5",
+      "context": "Căn cứ Quyết định 2268/ĐHĐN-HTQT ngày 01/6/2023 của ĐHĐN ban hành Quy định về công tác quản lý hoạt động hợp tác quốc tế (HTQT) tại ĐHĐN (gọi tắt là Quyết định 2268), ĐHĐN sửa đổi và bổ sung Điều 5."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Công an",
+    "Ban Khoa học và Hợp tác quốc tế"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

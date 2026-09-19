@@ -1,0 +1,196 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0041_1779_QĐ-ĐHBK_Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng.txt",
+  "mappedBy": "gemini-web",
+  "note": "13 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1779/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": "18/06/2019",
+    "effectiveDate": "18/06/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo"
+    ],
+    "summary": "Quyết định ban hành Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng của Trường Đại học Bách khoa - Đại học Đà Nẵng, bao gồm chương trình đào tạo, tổ chức đào tạo, đánh giá và công nhận tốt nghiệp.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "18/2017/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31 tháng 5 năm 2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "268/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ;"
+    },
+    {
+      "targetDocumentNumber": "419/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 419/QĐ-ĐHBK ngày 28 tháng 10 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định về việc xét và công nhận chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ trong chương trình đào tạo bậc đại học;"
+    },
+    {
+      "targetDocumentNumber": "29/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1274/QĐ-ĐHĐK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 1274/QĐ-ĐHĐK ngày 08 tháng 5 năm 2019 của Hiệu trưởng Trường Đại học Bách khoa về việc Sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4007/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quy chế tuyển sinh đào tạo liên thông của Đại học Đà Nẵng ban hành kèm theo Quyết định số 4007/QĐ-ĐHĐN ngày 29 tháng 11 năm 2017 của Giám đốc Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "566/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quy định này thay thế Quy định ban hành kèm theo Quyết định số 566/QĐ-ĐHBK ngày 17 tháng 5 năm 2013 của Hiệu trưởng Trường Đại học Bách khoa."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Phòng Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Đào tạo đại học hệ chính quy liên thông từ cao đẳng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về đào tạo đại học hệ chính quy theo hệ thống tín chỉ liên thông từ cao đẳng của Trường Đại học Bách khoa - Đại học Đà Nẵng (sau đây gọi tắt là Trường), gồm: chương trình đào tạo, tổ chức đào tạo, đánh giá kết quả học tập, công nhận tốt nghiệp.\n2. Quy định này áp dụng đối với sinh viên trúng tuyển theo Quy chế tuyển sinh đào tạo liên thông của Đại học Đà Nẵng ban hành kèm theo Quyết định số 4007/QĐ-ĐHĐN ngày 29 tháng 11 năm 2017 của Giám đốc Đại học Đà Nẵng (sau đây gọi tắt là sinh viên liên thông).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Chương trình đào tạo, khối lượng học tập yêu cầu của mỗi sinh viên",
+          "text": "Điều 2. Chương trình đào tạo, khối lượng học tập yêu cầu của mỗi sinh viên\n1. Chương trình đào tạo liên thông là chương trình đào tạo trình độ đại học hệ chính quy hiện hành của Trường.\n2. Khối lượng học tập yêu cầu đối với mỗi sinh viên liên thông là khối lượng kiến thức sinh viên liên thông phải tích lũy trong quá trình học tập tại Trường, sau khi trúng tuyển trong kỳ thi tuyển sinh liên thông, để được Trường công nhận tốt nghiệp và cấp bằng. Khối lượng học tập yêu cầu đối với mỗi sinh viên liên thông được xác định trên cơ sở so sánh, đối chiếu về chuẩn đầu ra, nội dung chương trình, khối lượng học tập, phương pháp đánh giá và kết quả học tập của sinh viên liên thông ở chương trình cao đẳng mà sinh viên đã tốt nghiệp với chương trình đào tạo liên thông của Trường.\n3. Việc xét và công nhận chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ trong chương trình đào tạo liên thông được thực hiện theo Quyết định số 419/QĐ-ĐHBK ngày 28 tháng 10 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa.\n4. Khối lượng học tập yêu cầu được công bố trong vòng 15 ngày, kể từ ngày Trường tổ chức nhập học cho sinh viên liên thông.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Thời gian tối đa sinh viên liên thông được phép học",
+          "text": "Điều 3. Thời gian tối đa sinh viên liên thông được phép học\n1. Số học kỳ N tối đa sinh viên liên thông được phép học tại Trường được xác định theo công thức sau đây (làm tròn đến phần nguyên):\nN = [Khối lượng học tập yêu cầu] / 16 + [Số học kỳ cho phép gia hạn]\nTrong đó, [Số học kỳ cho phép gia hạn] = 3.\n\n2. Số học kỳ tối đa sinh viên liên thông được phép học nêu trên không bao gồm học kỳ hè của năm học, học kỳ sinh viên phải ngừng học nhưng có Quyết định của Trường cho phép do bị ốm, tai nạn, thi hành nghĩa vụ quân sự hoặc công an.\n3. Sinh viên thuộc đối tượng được hưởng chính sách ưu tiên quy định tại Quy chế tuyển sinh đại học, cao đẳng hệ chính quy không bị hạn chế về thời gian tối đa để hoàn thành chương trình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nhập học và xếp lớp",
+          "text": "Điều 4. Nhập học và xếp lớp\n1. Khi nhập học, sinh viên liên thông phải nộp cho Trường đầy đủ những giấy tờ theo quy định tại Quy chế tuyển sinh đại học hệ chính quy hiện hành và được Hội đồng tuyển sinh thông báo chi tiết trong giấy báo nhập học.\n2. Sau khi nhập học, sinh viên liên thông được Trường cấp thẻ sinh viên, cung cấp thông tin về chương trình đào tạo, khối lượng học tập yêu cầu, nội dung và kế hoạch học tập toàn khóa học, quy chế đào tạo, nghĩa vụ và quyền lợi của người học.\n3. Sinh viên liên thông được xếp vào lớp sinh hoạt của các sinh viên chính quy cùng ngành đã nhập học trước đó 2 năm.\n4. Sau khi nhập học, sinh viên liên thông được Phòng Đào tạo đăng ký lớp học phần ở học kỳ đầu tiên. Nếu muốn điều chỉnh khối lượng học tập của học kỳ đầu tiên, sinh viên phải đề nghị với Phòng Đào tạo trong vòng 01 tuần sau khi Phòng Đào tạo đăng ký lớp học.\n5. Từ học kỳ thứ 2 trở đi, sinh viên liên thông dùng website “Hệ thống thông tin sinh viên” để tự đăng ký các lớp học phần cần học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Đánh giá kết quả học tập",
+          "text": "Điều 5. Đánh giá kết quả học tập\n1. Đánh giá kết quả học tập của sinh viên liên thông sau mỗi học kỳ được thực hiện theo Điều 5 và Điều 23 “Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ” ban hành kèm theo Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa (sau đây gọi tắt là Quy định đào tạo đại học hệ chính quy hiện hành của Trường).\n2. Đánh giá kết quả học tập đối với mỗi học phần sinh viên liên thông đăng ký học tại Trường trong mỗi học kỳ được thực hiện theo Điều 19 và Điều 21 Quy định đào tạo đại học hệ chính quy hiện hành của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Xếp hạng học lực",
+          "text": "Điều 6. Xếp hạng học lực\n1. Sau mỗi học kỳ, sinh viên liên thông được xếp hạng học lực như sau:\na) Hạng bình thường: Nếu điểm trung bình chung học kỳ đạt từ 2,00 trở lên và điểm trung bình chung tích lũy đạt từ 2,00 trở lên.\nb) Hạng yếu: Nếu điểm trung bình chung học kỳ dưới 2,00 hoặc điểm trung bình chung tích lũy dưới 2,00.\n2. Những học phần sinh viên học trong học kỳ hè được gộp vào học kỳ 2 liền trước để đánh giá kết quả học tập, xét học bổng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Cảnh báo kết quả học tập, buộc thôi học; chuyển trường",
+          "text": "Điều 7. Cảnh báo kết quả học tập, buộc thôi học; chuyển trường\n1. Cảnh báo kết quả học tập, buộc thôi học:\na) Cảnh báo kết quả học tập, buộc thôi học đối với sinh viên liên thông được thực hiện theo Điều 16 Quy định đào tạo đại học hệ chính quy hiện hành của Trường.\nb) Kể từ học kỳ 2 năm học 2018-2019, sinh viên liên thông còn bị buộc thôi học nếu lần thứ 2 không đạt đồ án tốt nghiệp. Tính đến ngày ban hành Quyết định này, các trường hợp đã làm đồ án tốt nghiệp lần thứ 2 nhưng chưa đạt thì cho phép làm đồ án tốt nghiệp thêm 01 lần.\n2. Sinh viên liên thông không được chuyển trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Thực tập tốt nghiệp, làm đồ án tốt nghiệp, đánh giá đồ án tốt nghiệp, công nhận tốt nghiệp",
+          "text": "Điều 8. Thực tập tốt nghiệp, làm đồ án tốt nghiệp, đánh giá đồ án tốt nghiệp, công nhận tốt nghiệp\n1. Thực tập tốt nghiệp, làm đồ án tốt nghiệp:\na) Thực tập tốt nghiệp, làm đồ án tốt nghiệp đối với sinh viên liên thông được thực hiện theo Điều 18 Quy định đào tạo đại học hệ chính quy hiện hành của Trường.\nb) Kể từ học kỳ 1 năm học 2019-2020, sinh viên liên thông được làm đồ án tốt nghiệp khi có đủ các điều kiện sau đây:\n- Điểm trung bình chung tích lũy từ 1,90 trở lên;\n- Khối lượng kiến thức của chương trình đào tạo còn chưa tích lũy, trừ đồ án tốt nghiệp, không vượt quá 4 tín chỉ và không thuộc các học phần yêu cầu phải học trước đối với đồ án tốt nghiệp (có danh mục theo từng chương trình đào tạo).\n2. Đánh giá đồ án tốt nghiệp:\na) Đánh giá đồ án tốt nghiệp đối với sinh viên liên thông được thực hiện theo Điều 25 Quy định đào tạo đại học hệ chính quy hiện hành của Trường.\nb) Mức điểm đạt đồ án tốt nghiệp là 5,5 (theo thang 10). Sinh viên đã có điểm đồ án tốt nghiệp nằm trong khoảng 4,0 đến 5,4 trước học kỳ 2 năm học 2018-2019 thì không phải làm lại đồ án tốt nghiệp.\n3. Xét công nhận tốt nghiệp đối với sinh viên liên thông được thực hiện theo Điều 26 và Điều 27 Quy định đào tạo đại học hệ chính quy hiện hành của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Các quy định khác về đào tạo",
+          "text": "Điều 9. Các quy định khác về đào tạo\nViệc nghỉ học tạm thời, cấp bằng tốt nghiệp, xử lý kỷ luật sinh viên vi phạm: thực hiện theo Quy định đào tạo đại học hệ chính quy hiện hành của Trường, Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành kèm theo Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa, Quyết định số 1274/QĐ-ĐHĐK ngày 08 tháng 5 năm 2019 về Sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 10. Hiệu lực thi hành\n1. Quy định này có hiệu lực kể từ ngày ký.\n\n2. Quy định này thay thế Quy định ban hành kèm theo Quyết định số 566/QĐ-ĐHBK ngày 17 tháng 5 năm 2013 của Hiệu trưởng Trường Đại học Bách khoa.\n3. Trong quá trình thực hiện, nếu có vướng mắc, bất cập hoặc có vấn đề mới nảy sinh cần bổ sung, sửa đổi, các đơn vị, cá nhân có liên quan phản ánh kịp thời với Phòng Đào tạo để tổng hợp ý kiến trình Hiệu trưởng xem xét và quyết định./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng của Trường Đại học Bách Khoa - Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng của Trường Đại học Bách Khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Đào tạo, Trưởng các đơn vị và các cán bộ viên chức có liên quan, sinh viên học chương trình đại học liên thông từ trình độ cao đẳng chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Trưởng phòng Đào tạo, Trưởng các đơn vị và các cán bộ viên chức có liên quan, sinh viên học chương trình đại học liên thông từ trình độ cao đẳng chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

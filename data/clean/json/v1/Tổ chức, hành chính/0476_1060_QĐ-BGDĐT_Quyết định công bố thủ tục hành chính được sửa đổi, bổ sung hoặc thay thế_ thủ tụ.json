@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0476_1060_QĐ-BGDĐT_Quyết định công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế_ thủ tụ.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1060/QĐ-BGDĐT",
+    "title": "Quyết định về việc công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế; thủ tục hành chính bị bãi bỏ lĩnh vực giáo dục đại học thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/05/2026",
+    "effectiveDate": "30/03/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo công bố các thủ tục hành chính được sửa đổi, bổ sung, thay thế và bị bãi bỏ trong lĩnh vực giáo dục đại học thuộc phạm vi quản lý. Quyết định có hiệu lực từ ngày 30/03/2026, riêng nội dung công bố thủ tục Đổi tên cơ sở giáo dục đại học có hiệu lực từ ngày 01/07/2026, đồng thời bãi bỏ một số quyết định và thủ tục hành chính trước đây.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quân",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "63/2010/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính, được sửa đổi, bổ sung bởi Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính..."
+    },
+    {
+      "targetDocumentNumber": "48/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính, được sửa đổi, bổ sung bởi Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính..."
+    },
+    {
+      "targetDocumentNumber": "150/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "...Nghị định số 150/2016/NĐ-CP ngày 11 tháng 11 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Chính phủ..."
+    },
+    {
+      "targetDocumentNumber": "92/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "...Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính..."
+    },
+    {
+      "targetDocumentNumber": "78/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "...Nghị định số 78/2025/NĐ-CP ngày 01 tháng 4 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật..."
+    },
+    {
+      "targetDocumentNumber": "118/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "...Nghị định số 118/2025/NĐ-CP ngày 09 tháng 6 năm 2025 của Chính phủ về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia..."
+    },
+    {
+      "targetDocumentNumber": "159/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ các nội dung liên quan đến các thủ tục... được công bố tại Quyết định số 159/QĐ-BGDĐT ngày 16 tháng 01 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo..."
+    },
+    {
+      "targetDocumentNumber": "2108/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "...và Quyết định 2108/QĐ-BGDĐT ngày 24 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính được chuẩn hóa thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo..."
+    },
+    {
+      "targetDocumentNumber": "3277/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "...thủ tục Công nhận đại học vùng, đại học quốc gia (mã số hồ sơ thủ tục hành chính: 3.000295) được công bố tại Quyết định số 3277/QĐ-BGDĐT ngày 31 tháng 10 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo..."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Văn phòng Chính phủ",
+    "Bộ Nội vụ",
+    "Bộ Tài chính",
+    "Ủy ban nhân dân tỉnh, thành phố",
+    "Thủ tướng Chính phủ",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố kèm theo Quyết định này thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế; thủ tục hành chính bị bãi bỏ lĩnh vực giáo dục đại học thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào t",
+      "text": "Điều 1. Công bố kèm theo Quyết định này thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế; thủ tục hành chính bị bãi bỏ lĩnh vực giáo dục đại học thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày 30 tháng 3 năm 2026.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 30 tháng 3 năm 2026.\nNội dung công bố thủ tục Đổi tên cơ sở giáo dục đại học tại Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2026.\n\nBãi bỏ các nội dung liên quan đến các thủ tục: Đổi tên cơ sở giáo dục đại học (mã hồ sơ thủ tục hành chính: 1.001975), Liên kết các trường đại học thành đại học (mã hồ sơ thủ tục hành chính: 1.008650), Chuyển trường đại học thành đại học (mã hồ sơ thủ tục hành chính: 1.008648), Chuyển đổi cơ sở giáo dục đại học tư thục sang cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận (mã số hồ sơ thủ tục hành chính: 1.001982) được công bố tại Quyết định số 159/QĐ-BGDĐT ngày 16 tháng 01 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính mới ban hành, thủ tục hành chính được thay thế, thủ tục hành chính bị bãi bỏ thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo và Quyết định 2108/QĐ-BGDĐT ngày 24 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính được chuẩn hóa thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo; thủ tục Công nhận đại học vùng, đại học quốc gia (mã số hồ sơ thủ tục hành chính: 3.000295) được công bố tại Quyết định số 3277/QĐ-BGDĐT ngày 31 tháng 10 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính mới ban hành; thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế; thủ tục hành chính bị bãi bỏ thuộc phạm vi chức năng quản lý của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Pháp chế, Vụ trưởng Vụ Giáo dục Đại học và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Pháp chế, Vụ trưởng Vụ Giáo dục Đại học và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

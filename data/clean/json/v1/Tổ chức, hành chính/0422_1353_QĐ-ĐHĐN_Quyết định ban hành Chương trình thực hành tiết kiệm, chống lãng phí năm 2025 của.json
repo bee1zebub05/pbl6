@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0422_1353_QĐ-ĐHĐN_Quyết định ban hành Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1353/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/04/2025",
+    "effectiveDate": "04/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Đại học Đà Nẵng ban hành Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 nhằm nâng cao hiệu quả sử dụng nguồn lực tài chính, tài sản, thời gian và nhân lực. Chương trình đề ra các mục tiêu, chỉ tiêu và giải pháp cụ thể trong quản lý kinh phí chi thường xuyên, bộ máy lao động, vốn đầu tư công và tài sản công.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Mạnh Toàn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "84/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của Chính phủ quy định chi tiết một số điều của Luật thực hành tiết kiệm, chống lãng phí;"
+    },
+    {
+      "targetDocumentNumber": "188/2014/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 188/2014/TT-BTC ngày 10/12/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của Chính phủ quy định chi tiết một số điều của Luật Thực hành tiết kiệm, chống lãng phí;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "749/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 749/QĐ-BGDĐT ngày 21/3/2025 của Bộ Giáo dục và Đào tạo về ban hành Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "749/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đẩy mạnh ứng dụng công nghệ thông tin trong dạy, học và quản lý giáo dục, thực hiện chuyển đổi số trong giáo dục và đào tạo theo “Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030” được phê duyệt tại Quyết định số 749/QĐ-TTg ngày 03/6/2020 của Thủ tướng Chính phủ."
+    },
+    {
+      "targetDocumentNumber": "376-NQ/BCSĐ",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tiếp tục thực hiện cải cách thủ tục hành chính theo Nghị quyết số 376-NQ/BCSĐ ngày 12/11/2021 của Ban cán sự Đảng Bộ GDĐT về tăng cường công tác cải cách hành chính của Bộ GDĐT giai đoạn 2021-2025 và Kế hoạch số 934/KH-ĐHĐN ngày 14/3/2025 của Giám đốc ĐHĐN về việc cải cách hành chính tại ĐHĐN năm 2025."
+    },
+    {
+      "targetDocumentNumber": "934/KH-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tiếp tục thực hiện cải cách thủ tục hành chính theo Nghị quyết số 376-NQ/BCSĐ ngày 12/11/2021 của Ban cán sự Đảng Bộ GDĐT về tăng cường công tác cải cách hành chính của Bộ GDĐT giai đoạn 2021-2025 và Kế hoạch số 934/KH-ĐHĐN ngày 14/3/2025 của Giám đốc ĐHĐN về việc cải cách hành chính tại ĐHĐN năm 2025."
+    },
+    {
+      "targetDocumentNumber": "22/2024/TT-BKHĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Trong năm 2025, thực hiện nghiêm túc việc lựa chọn nhà thầu qua mạng theo đúng quy định tại Thông tư số 22/2024/TT-BKHĐT ngày 17/11/2024 của Bộ Kế hoạch và Đầu tư về hướng dẫn việc cung cấp, đăng tải thông tin về lựa chọn nhà thầu và mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia."
+    },
+    {
+      "targetDocumentNumber": "03/2025/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tiếp tục đẩy nhanh tiến độ rà soát, sắp xếp lại tài sản công là nhà đất theo quy định tại Nghị định số 03/2025/NĐ-CP ngày 01/01/2025 của Chính phủ."
+    },
+    {
+      "targetDocumentNumber": "72/2023/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Rà soát, sửa đổi, bổ sung, ban hành mới các văn bản quy phạm nội bộ về quản lý và sử dụng tài sản công; các văn bản về định mức sử dụng xe ô tô phù hợp với thực tiễn, đảm bảo tiết kiệm, chống lãng phí và đúng quy định theo Nghị định số 72/2023/NĐ-CP ngày 26/9/2023 của Chính phủ quy định tiêu chuẩn, định mức sử dụng xe ô tô."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Chính trị",
+    "Quốc hội",
+    "Chính phủ",
+    "Bộ Tài chính",
+    "Ngân hàng thế giới",
+    "Bộ Kế hoạch và Đầu tư",
+    "Ban cán sự Đảng Bộ GDĐT",
+    "Trường Y Dược",
+    "Phân hiệu ĐHĐN tại Kon tum",
+    "Ban Thanh tra và Pháp chế",
+    "Ban Tổ chức Cán bộ",
+    "Ban Kế hoạch - Tài chính",
+    "Ban Khoa học và Hợp tác quốc tế",
+    "Ban Quản lý cơ sở vật chất và Đầu tư",
+    "Ban Quản lý dự án ODA",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của Đại học Đà Nẵng (ĐHĐN).",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chương trình thực hành tiết kiệm, chống lãng phí năm 2025 của Đại học Đà Nẵng (ĐHĐN).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hiệu trưởng các trường đại học thành viên, Chánh Văn phòng, Trưởng các ban chức năng, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết ",
+      "text": "Điều 3. Hiệu trưởng các trường đại học thành viên, Chánh Văn phòng, Trưởng các ban chức năng, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

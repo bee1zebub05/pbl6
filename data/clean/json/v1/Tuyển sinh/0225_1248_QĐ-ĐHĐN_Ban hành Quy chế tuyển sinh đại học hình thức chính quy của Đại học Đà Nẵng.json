@@ -1,0 +1,297 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0225_1248_QĐ-ĐHĐN_Ban hành Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "32 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1248/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/03/2023",
+    "effectiveDate": "28/03/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tuyển sinh"
+    ],
+    "summary": "Quyết định ban hành Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng, bao gồm các quy định chung, nhiệm vụ và quyền hạn của hội đồng tuyển sinh, tổ chức thi tuyển, xét tuyển đào tạo hình thức chính quy và các hình thức khác.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "03/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 03/2022/TT-BGDĐT ngày 18/01/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về việc xác định chỉ tiêu tuyển sinh đại học, thạc sĩ, tiến sĩ và chỉ tiêu tuyển sinh cao đẳng ngành Giáo dục Mầm non;"
+    },
+    {
+      "targetDocumentNumber": "08/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non;"
+    },
+    {
+      "targetDocumentNumber": "18/2017/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định cụ thể về tuyển sinh đại học hình thức chính quy,\nbao gồm: quy định chung; nhiệm vụ và quyền hạn của Hội đồng tuyển sinh\n(HĐTS); tổ chức thi tuyển; xét tuyển đào tạo hình thức chính quy; xét tuyển đào\ntạo các hình thức chính quy khác; thông báo trúng tuyển và nhập học; thanh tra,\nkiểm tra, xử lý sai phạm, báo cáo, lưu trữ và tổ chức thực hiện.\n2. Quy chế này áp dụng đối với các trường đại học thành viên và các đơn vị\nđào tạo thuộc, trực thuộc Đại học Đà Nẵng (ĐHĐN) (sau đây gọi là cơ sở đào\ntạo).\n3. Các quy định chung về tuyển sinh đại học chính quy ngoài quy chế này\nđược thực hiện theo Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo\ndục Mầm non hiện hành của Bộ trưởng Bộ Giáo dục và Đào tạo (GDĐT) (sau đây\ngọi là Quy chế tuyển sinh).\n4. Các quy định chung về tuyển sinh đào tạo liên thông chính quy được thực\nhiện theo Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với\ntrình độ đại học hiện hành của Thủ tướng Chính phủ (sau đây gọi là Quy định đào\ntạo liên thông).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đề án tuyển sinh",
+          "text": "Điều 2. Đề án tuyển sinh\n1. Các cơ sở đào tạo xây dựng và công khai đề án tuyển sinh theo các quy\nđịnh hiện hành của Bộ GDĐT và của ĐHĐN.\n2. Đề án tuyển sinh được công bố trên trang thông tin điện tử và qua các hình\nthức thích hợp khác của cơ sở đào tạo, trên trang thông tin điện tử của ĐHĐN và\ntheo quy định của Bộ GDĐT.\n3. Những nội dung điều chỉnh, bổ sung vào đề án tuyển sinh phải được công\nbố trước khi thực hiện theo thời gian quy định của Quy chế tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Xác định chỉ tiêu tuyển sinh",
+          "text": "Điều 3. Xác định chỉ tiêu tuyển sinh\n1. ĐHĐN thực hiện điều tiết đội ngũ giảng viên tham gia giảng dạy ở nhiều\ncơ sở đào tạo theo số lượng giờ giảng thực tế của năm học trước liền kề, điều tiết\ncơ sở vật chất dùng chung để các cơ sở đào tạo xác định chỉ tiêu tuyển sinh.\n2. Căn cứ trên năng lực đội ngũ, cơ sở vật chất, các điều kiện đảm bảo chất\nlượng và các quy định xác định chỉ tiêu tuyển sinh hiện hành, các cơ sở đào tạo\nxác định chỉ tiêu, đăng ký chỉ tiêu tuyển sinh hằng năm với ĐHĐN và với Bộ\nGDĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nguyên tắc, phương thức tuyển sinh, ngưỡng đầu vào",
+          "text": "Điều 4. Nguyên tắc, phương thức tuyển sinh, ngưỡng đầu vào\n1. Các cơ sở đào tạo chỉ tuyển sinh vào các ngành, chương trình đào tạo (sau\nđây gọi là ngành) đã có quyết định mở ngành và đáp ứng các điều kiện được phép\ntuyển sinh theo quy định hiện hành.\n2. Phương thức tuyển sinh gồm: xét tuyển, thi tuyển hoặc kết hợp giữa thi\ntuyển và xét tuyển.\n3. ĐHĐN chủ trì tổ chức tuyển sinh đối với các phương thức có nhiều cơ sở\nđào tạo cùng thực hiện tuyển sinh. Các trường đại học thành viên chủ trì tổ chức\ntuyển sinh đối với các phương thức tuyển sinh theo đặc thù của đơn vị. Các đơn\nvị đào tạo thuộc, trực thuộc chủ trì tổ chức tuyển sinh đối với các phương thức\ntuyển sinh do ĐHĐN giao.\n4. Các cơ sở đào tạo xác định và công bố ngưỡng đầu vào theo quy định của\nBộ GDĐT và của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tổ chức, nhiệm vụ và quyền hạn của HĐTS ĐHĐN",
+          "text": "Điều 5. Tổ chức, nhiệm vụ và quyền hạn của HĐTS ĐHĐN\n1. Giám đốc quyết . định thành lập HĐTS ĐHĐN để điều hành các công việc\nliên quan đến công tác tuyển sinh chung.\n2. Thành phần của HĐTS ĐHĐN gồm:\na) Chủ tịch: Giám đốc hoặc Phó Giám đốc;\nb) Phó Chủ tịch: Phó Giám đốc;\nc) Ủy viên thường trực: Trưởng ban hoặc Phó Trưởng ban Ban Đào tạo;\nd) Các ủy viên: Hiệu trưởng hoặc Phó Hiệu trưởng các trường đại học thành\nviên; Trưởng hoặc cấp phó của các đơn vị đào tạo thuộc, trực thuộc; Chánh Văn\nphòng hoặc Phó Chánh Văn phòng ĐHĐN, Trưởng ban hoặc Phó Trưởng ban một\nsố ban chức năng của ĐHĐN liên quan đến công tác tuyển sinh và một số cá nhân\n\nkhác được mời tham gia HĐTS.\nNhững người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của\nmình và của vợ hoặc chồng) đăng ký tuyển sinh vào các cơ sở đào tạo trong năm\ntuyển sinh không được tham gia HĐTS và ban chuyên môn giúp việc Hội đồng\ntrong năm đó.\n3. Nhiệm vụ và quyền hạn của HĐTS ĐHĐN:\na) Quyết định về việc điều tiết giảng viên, cơ sở vật chất dùng chung để các\ncơ sở đào tạo làm căn cứ xác định chỉ tiêu tuyển sinh hằng năm;\nb) Triển khai các phương thức tuyển sinh do ĐHĐN chủ trì thực hiện theo\nđề án tuyển sinh hoặc thông báo tuyển sinh đã công bố;\nc) Quyết định điểm trúng tuyển đối với các phương thức tuyển sinh do\nĐHĐN chủ trì thực hiện;\nd) Quy định về mức thu và sử dụng lệ phí tuyển sinh đối với các phương\nthức tuyển sinh do ĐHĐN chủ trì thực hiện;\nđ) Giải quyết thắc mắc và khiếu nại, tố cáo liên quan đến tuyển sinh;\ne) Xử lý các bất thường trong công tác tuyển sinh của ĐHĐN;\ng) Báo cáo kết quả tuyển sinh theo quy định của Bộ GDĐT.\n4. Nhiệm vụ và quyền hạn của Chủ tịch HĐTS ĐHĐN:\na) Tổ chức thực hiện và chịu trách nhiệm về công tác tuyển sinh của ĐHĐN;\nb) Báo cáo Bộ GDĐT về công tác tuyển sinh của ĐHĐN;\nc) Thành lập Ban Thư ký, tổ giúp việc cho Ban Thư ký và các ban chuyên\nmôn khác (nếu cần thiết) để giúp việc cho HĐTS ĐHĐN;\nd) Quy định thành phần, nhiệm vụ, quyền hạn của các ban chuyên môn khác\n(trừ Ban Thư ký) nếu thành lập.\n5. Phó Chủ tịch HĐTS ĐHĐN thực hiện các nhiệm vụ được Chủ tịch HĐTS\nphân công và thay mặt Chủ tịch HĐTS giải quyết công việc khi Chủ tịch HĐTS\nủy quyền:",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức, nhiệm vụ và quyền hạn của Ban Thư ký HĐTS ĐHĐN",
+          "text": "Điều 6. Tổ chức, nhiệm vụ và quyền hạn của Ban Thư ký HĐTS ĐHĐN\n1. Thành phần Ban Thư ký HĐTS ĐHĐN gồm có:\nTrưởng ban do Ủy viên thường trực HĐTS ĐHĐN kiêm nhiệm;\nb) Các ủy viên: Lãnh đạo Ban Đào tạo; lãnh đạo phụ trách bộ phận đào tạo\ncủa các cơ sở đào tạo, cán bộ công nghệ thông tin của ĐHĐN.\nCác tổ giúp việc cho Ban Thư ký: chuyên viên của Ban Đào tạo và các\nban chức năng có liên quan của ĐHĐN, chuyên viên của các đơn vị đào tạo thuộc,\n\ntrực thuộc ĐHĐN tham gia công tác tuyển sinh, chuyên viên công nghệ thông tin\ncủa ĐHĐN.\n2. Nhiệm vụ và quyền hạn của Ban Thư ký HĐTS ĐHĐN:\na) Triển khai xây dựng đề án tuyển sinh của các cơ sở đào tạo, công bố đề án\ntuyển sinh và các thông tin tuyển sinh trên trang thông tin điện tử của ĐHĐN;\nb) Triển khai việc thu và xử lý hồ sơ đối với các phương thức tuyển sinh do\nĐHĐN chủ trì;\nTriển khai xây dựng các phần mềm thu và xử lý hồ sơ tuyển sinh, xét\ntuyển; xử lý nguyện vọng đối với các phương thức tuyển sinh do ĐHĐN chủ trì;\nd) Dự kiến phương án điểm trúng tuyển trình HĐTS ĐHĐN quyết định đối\nvới các phương thức tuyển sinh do ĐHĐN chủ trì;\nThông báo kết quả xét tuyển, danh sách thí sinh trúng tuyển đối với các\nphương thức tuyển sinh do ĐHĐN chủ trì;\nTrình Chủ tịch HĐTS ký quyết định công nhận kết quả tuyển sinh, danh\nsách thí sinh trúng tuyển; giấy báo nhập học đối với tất cả các phương thức tuyển\nsinh;\ng) Triển khai công tác hậu kiểm tuyển sinh theo quy định của Quy chế tuyển\nsinh;\nh) Thực hiện các nhiệm vụ khác do Chủ tịch HĐTS ĐHĐN giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tổ chức, nhiệm vụ và quyền hạn của HĐTS cơ sở đào tạo",
+          "text": "Điều 7. Tổ chức, nhiệm vụ và quyền hạn của HĐTS cơ sở đào tạo\n1. Thẩm quyền thành lập HĐTS cơ sở đào tạo:\na) Hiệu trưởng trường đại học thành viên quyết định thành lập HĐTS của\ntrường để điều hành công tác tuyển sinh tại trường;\nb) Thủ trưởng các đơn vị đào tạo thuộc, trực thuộc tham mưu Giám đốc\nĐHĐN quyết định thành lập HĐTS của đơn vị để điều hành công tác tuyển sinh\ntại đơn vị.\n2. Thành phần của HĐTS cơ sở đào tạo:\na) HĐTS trường đại học thành viên gồm có:\nChủ tịch: Hiệu trưởng hoặc Phó Hiệu trưởng;\nPhó Chủ tịch: Phó Hiệu trưởng;\nỦy viên thường trực: Trưởng phòng hoặc Phó trưởng phòng Phòng Đào tạo\nhoặc phòng chức năng được giao nhiệm vụ tuyển sinh của trường;\nCác ủy viên: Trưởng phòng hoặc Phó trưởng phòng một số phòng chức\nnăng, Trưởng khoa hoặc Phó trưởng Khoa liên quan đến công tác tuyển sinh, cán\nbộ công nghệ thông tin của trường.\n\nb) HĐTS đơn vị đào tạo thuộc, trực thuộc ĐHĐN gồm có:\nChủ tịch: Trưởng đơn vị hoặc Phó trưởng đơn vị;\nPhó Chủ tịch: Phó trưởng đơn vị;\nỦy viên thường trực: lãnh đạo bộ phận đào tạo hoặc bộ phận chức năng\nđược giao nhiệm vụ tuyển sinh của đơn vị;\nCác ủy viên: lãnh đạo các bộ phận chức năng, khoa, bộ môn, tổ chuyên\nmôn liên quan đến công tác tuyển sinh, cán bộ công nghệ thông tin của đơn vị.\nc) Những người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của\nmình và của vợ hoặc chồng) đăng ký tuyển sinh vào cơ sở đào tạo trong năm tuyển\nsinh không được tham gia HĐTS và các tổ giúp việc HĐTS cơ sở đào tạo trong\nnăm tuyển sinh.\n3. Nhiệm vụ và quyền hạn của HĐTS cơ sở đào tạo:\na) Quyết định về chỉ tiêu tuyển sinh đăng ký hằng năm;\nb) Quyết định các phương thức tuyển sinh của cơ sở đào tạo, phân bổ chỉ tiêu\ncho từng ngành tuyển sinh theo quy định của Quy chế tuyển sinh;\nc) Tổ chức triển khai các phương thức tuyển sinh theo đặc thù của cơ sở đào\ntạo, các nhiệm vụ tuyển sinh do ĐHĐN giao;\nd) Quyết định ngưỡng đầu vào đối với tất cả các phương thức tuyển sinh của\ncơ sở đào tạo;\nđ) Quyết định điểm trúng tuyển đối với các phương thức tuyển sinh do cơ sở\nđào tạo chủ trì;\ne) Quy định về mức thu và sử dụng lệ phí tuyển sinh đối với các phương thức\ntuyển sinh do cơ sở đào tạo chủ trì;\ng) Giải quyết thắc mắc và khiếu nại, tố cáo liên quan đến các phương thức\ntuyển sinh do cơ sở đào tạo chủ trì;\nh) Quy định thời gian bảo lưu tối đa đối với các thí sinh trúng tuyển.\n4. Nhiệm vụ và quyền hạn của Chủ tịch HĐTS cơ sở đào tạo:\na) Tổ chức thực hiện và chịu trách nhiệm về công tác tuyển sinh của cơ sở\nđào tao;\nb) Báo cáo với ĐHĐN kết quả tuyển sinh của các phương thức tuyển sinh do\ncơ sở đào tạo chủ trì thực hiện; kết quả thực hiện các nhiệm vụ tuyển sinh do\nĐHĐN giao;\nBáo cáo với Bộ GDĐT và ĐHĐN về công tác tuyển sinh của cơ sở đào\ntạo theo quy định;\nThành lập Tổ Thư ký và các Tổ giúp việc cho HĐTS cơ sở đào tạo (nếu\ncó), Tổ trưởng Tổ giúp việc là thành viên Hội đồng;\n\nQuy định tổ chức, nhiệm vụ và quyền hạn của các tổ giúp việc HĐTS.\n5. Phó Chủ tịch HĐTS cơ sở đào tạo thực hiện các nhiệm vụ được Chủ tịch\nHĐTS phân công và thay mặt Chủ tịch HĐTS giải quyết công việc khi Chủ tịch\nHĐTS ủy quyền.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức kỳ thi chung",
+          "text": "Điều 8. Tổ chức kỳ thi chung\n1. ĐHĐN tổ chức kỳ thi chung để tuyển sinh đại học chính quy vào các cơ\nsở đào tạo khi đảm bảo đủ năng lực về đội ngũ, cơ sở vật chất và các điều kiện\nkhác theo quy định của Quy chế tuyển sinh. Việc tổ chức thi được thực hiện sau\nkhi đã ban hành quy chế thi và đề án tổ chức thi, được công bố trên trang thông\ntin điện tử của ĐHĐN đồng thời đã báo cáo Bộ GDĐT ít nhất 30 ngày trước khi\nthí sinh bắt đầu đăng ký dự thi.\n2. Quy chế thi phải được Hội đồng Khoa học và Đào tạo ĐHĐN thông qua\nvà được Giám đốc ĐHĐN ban hành, làm căn cứ để tổ chức thực hiện các công\nviệc trước, trong và sau kỳ thi. Quy chế thi phải tuân thủ các quy định của Quy\nchế tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tổ chức thi bổ trợ",
+          "text": "Điều 9. Tổ chức thi bổ trợ\n1. Cơ sở đào tạo tổ chức các kỳ thi bổ trợ (thi năng khiếu, thi năng lực chuyên\nmôn, phỏng vấn) để lấy kết quả làm căn cứ, tiêu chí phục vụ xét tuyển theo đặc\nthù của cơ sở đào tạo. Phạm vi đánh giá của kỳ thi bổ trợ được thực hiện theo quy\nđịnh của Quy chế tuyển sinh.\n2. Các trường đại học thành viên tổ chức kỳ thi bổ trợ xây dựng và ban hành\nquy chế thi, công bố trên trang thông tin điện tử của trường, đồng thời gửi về\nĐHĐN để báo cáo ít nhất 30 ngày trước khi thí sinh bắt đầu đăng ký dự thi. Các\nđơn vị thuộc, trực thuộc tổ chức kỳ thi bổ trợ xây dựng và trình Giám đốc ĐHĐN\nban hành quy chế thi, công bố trên trang thông tin điện tử của đơn vị ít nhất 30\nngày trước khi thí sinh bắt đầu đăng ký dự thi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tổ chức thi tuyển đào tạo liên thông",
+          "text": "Điều 10. Tổ chức thi tuyển đào tạo liên thông\n1. ĐHĐN tổ chức thi tuyển đào tạo liên thông từ trình độ trung cấp, cao đẳng\nlên đại học vào các đơn vị đào tạo thuộc, trực thuộc. Các trường đại học thành\nviên tổ chức thi tuyển đào tạo liên thông vào trường.\n2. Môn thi tuyển sinh đào tạo liên thông được thực hiện theo Quy định đào\ntạo liên thông.\n\n3. Đơn vị tổ chức thi liên thông xây dựng và ban hành quy chế thi, công bố\ntrên trang thông tin điện tử của cơ sở đào tạo ít nhất 30 ngày trước khi thí sinh bắt\nđầu đăng ký dự thi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Đăng ký xét tuyển",
+          "text": "Điều 11. Đăng ký xét tuyển\n1. ĐHĐN tổ chức thu nhận hồ sơ đăng ký xét tuyển đối với các phương thức\ntuyển sinh do ĐHĐN chủ trì thực hiện. Các cơ sở đào tạo tổ chức thu nhận và xử\nlý hồ sơ đăng ký xét tuyển đối với các phương thức tuyển sinh do ĐHĐN giao\nchủ trì thực hiện. Đối với phương thức tuyển sinh theo điểm thi THPT, thí sinh\nđăng ký xét tuyển theo hướng dẫn của Bộ GDĐT.\n2. Thí sinh đăng ký xét tuyển bằng 7 hình thức trực tuyến, trực tiếp hoặc kết\nhợp. Đối với hình thức đăng ký trực tuyến, thí sinh phải xác nhận và chịu trách\nnhiệm về thông tin và các minh chứng đã cung cấp trong quá trình đăng ký.\n3. Chỉ tiêu tuyển sinh theo từng ngành, đối tượng dự tuyển, cách thức đăng\nký, thời gian đăng ký và nguyên tắc xét tuyển của mỗi đợt tuyển sinh, mỗi phương\nthức tuyển sinh được quy định cụ thể trong thông báo tuyển sinh của đơn vị chủ\ntrì tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Xét tuyển thẳng",
+          "text": "Điều 12. Xét tuyển thẳng\nCác cơ sở đào tạo thông báo tuyển sinh phương thức xét tuyển thẳng theo\nQuy chế tuyển sinh, thu nhận và xử lý hồ sơ tuyển sinh, tổ chức xét tuyển và báo\ncáo kết quả với ĐHĐN trước khi công bố.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Xét tuyển theo điểm thi THPT",
+          "text": "Điều 13. Xét tuyển theo điểm thi THPT\n1. ĐHĐN chủ trì tổ chức xét tuyển theo điểm thi THPT và xử lý nguyện vọng\ngiữa các cơ sở đào tạo (nếu có), là đầu mối báo cáo kết quả xét tuyển của các cơ\nsở đào tạo lên hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT (sau đây gọi là hệ\nthống).\n2. Các cơ sở đào tạo tổ chức xét tuyển đối với các nguyện vọng đăng ký vào\ncơ sở đào tạo và báo cáo kết quả xét tuyển với ĐHĐN.\n3. Quy định về xét tuyển theo điểm thi THPT được thực hiện theo Quy chế\ntuyển sinh và các văn bản hướng dẫn thực hiện công tác tuyển sinh hằng năm của\nBộ GDĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Xét tuyển theo điểm học tập THPT",
+          "text": "Điều 14. Xét tuyển theo điểm học tập THPT\n1. ĐHĐN chủ trì tổ chức xét tuyển theo điểm học tập THPT và xử lý nguyện\n\nvọng giữa các cơ sở đào tạo (nếu có); kiểm tra các trường hợp bất thường trong\nhồ sơ đăng ký xét tuyển; kiểm tra xác suất hồ sơ tuyển sinh theo yêu cầu của\nHĐTS ĐHĐN.\n2. Các cơ sở đào tạo kiểm tra hồ sơ đăng ký xét tuyển của thí sinh, đối chiếu\ndữ liệu tuyển sinh với các minh chứng do thí sinh cung cấp hoặc dữ liệu tuyển\nsinh trên cổng thông tin tuyển sinh của Bộ GDĐT (nếu có).\n3. Nguyên tắc xét tuyển theo điểm học tập THPT như sau:\na) Đối với một ngành đào tạo, thí sinh được xét bình đẳng theo điểm xét\ntuyển; không phân biệt thứ tự ưu tiên của nguyện vọng đăng ký;\nb) Trường hợp nhiều thí sinh có cùng điểm xét tuyển ở cuối danh sách, cơ sở\nđào tạo sử dụng tiêu chí phụ quy định trong đề án tuyển sinh hoặc trong thông báo\ntuyển sinh để xét tuyển;\nc) Đối với một thí sinh, nếu đăng ký xét tuyển vào nhiều ngành thì việc xét\ntuyển được thực hiện theo thứ tự ưu tiên của các nguyện vọng; thí sinh chỉ trúng\ntuyển vào 01 nguyện vọng ưu tiên cao nhất có thể trong danh sách các nguyện\nvọng đã đăng ký.\n4. Căn cứ các quy định trong thông báo tuyển sinh, chỉ tiêu công bố và\nnguyện vọng đăng ký, cơ sở đào tạo tổ chức xét tuyển và báo cáo kết quả xét tuyển\nvới ĐHĐN để xử lý nguyện vọng giữa các cơ sở đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Xét tuyển theo các phương thức khác",
+          "text": "Điều 15. Xét tuyển theo các phương thức khác\n1. Đối với các phương thức tuyển sinh khác có nhiều cơ sở đào tạo cùng\ntuyển, ĐHĐN chủ trì tổ chức tuyển sinh và xử lý nguyện vọng trúng tuyển giữa\ncác cơ sở đào tạo.\n2. Đối với các phương thức tuyển sinh khác theo đặc thù của đơn vị, cơ sở\nđào tạo chủ trì tổ chức tuyển sinh và báo cáo kết quả xét tuyển với ĐHĐN trước\nkhi công bố.\n3. Việc xét tuyển đối với tất cả các phương thức tuyển sinh khác phải căn cứ\ntrên điểm xét tuyển quy đổi của thí sinh. Điểm xét tuyển quy đổi phải bao gồm\nđiểm ưu tiên khu vực, ưu tiên đối tượng (nếu có)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Xử lý nguyện vọng trên hệ thống",
+          "text": "Điều 16. Xử lý nguyện vọng trên hệ thống\n1. ĐHĐN làm đầu mối tải nguyện vọng đăng ký xét tuyển theo các phương\nthức tuyển sinh khác nhau từ hệ thống và gửi các cơ sở đào tạo để xét tuyển.\n2. Các cơ sở đào tạo tổ chức xét tuyển; xử lý nguyện vọng giữa các phương\nthức, kể cả nguyện vọng đủ điều kiện trúng tuyển ở các đợt xét tuyển sớm trên\n\nphần mềm xử lý nguyện vọng do ĐHĐN cung cấp và gửi danh sách thí sinh dự\nkiến trúng tuyển về ĐHĐN.\n3. ĐHĐN gửi danh sách thí sinh dự kiến trúng tuyển của các cơ sở đào tạo\nlên hệ thống để xử lý nguyện vọng toàn quốc, nhận kết quả xử lý nguyện vọng từ\nhệ thống và gửi kết quả xử lý nguyện vọng để các cơ sở đào tạo thực hiện xét\ntuyển cho chu kỳ tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Quy định chung về xét tuyển các hình thức đào tạo chính quy",
+          "text": "Điều 17. Quy định chung về xét tuyển các hình thức đào tạo chính quy\nkhác\n1. Đối với các hình thức đào tạo chính quy khác (đào tạo liên thông từ trình\nđộ trung cấp, cao đẳng lên đại học; đào tạo đại học đối với người đã có bằng tốt\nnghiệp đại học, đào tạo chương trình thứ hai), ĐHĐN chủ trì xét tuyển vào các\nđơn vị đào tạo thuộc, trực thuộc, các trường đại học thành viên chủ trì xét tuyển\nvào trường.\n2. Chỉ tiêu tuyển sinh các hình thức đào tạo chính quy khác trong tổng chỉ\ntiêu tuyển sinh đại học chính quy đã được các cơ sở đào tạo đăng ký (hoặc chỉ\ntiêu đã được Bộ GDĐT giao đối với các ngành đào tạo giáo viên). Chỉ tiêu tuyển\nsinh đào tạo liên thông phải phù hợp với Quy định đào tạo liên thông.\n3. Việc xét tuyển phải căn cứ trên điểm xét tuyển quy đổi của thí sinh. Điểm\nxét tuyển quy đổi bao gồm điểm ưu tiên khu vực, ưu tiên đối tượng quy định tại\nQuy chế tuyển sinh.\n4. Thông báo tuyển sinh của đơn vị chủ trì xét tuyển quy định cụ thể chỉ tiêu\ntuyển sinh theo từng ngành, đối tượng dự tuyển; cách thức và thời gian đăng ký,\nnguyên tắc xét tuyển và được công bố trên trang thông tin điện tử của các cơ sở\nđào tạo liên quan ít nhất 30 ngày trước khi thí sinh bắt đầu đăng ký xét tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Xét tuyển đào tạo liên thông từ trung cấp, cao đẳng lên đại học",
+          "text": "Điều 18. Xét tuyển đào tạo liên thông từ trung cấp, cao đẳng lên đại học\n1. Điểm xét tuyển đào tạo liên thông từ trung cấp, cao đẳng lên đại học căn\ncứ trên điểm thi THPT, điểm học tập THPT, điểm của các kỳ thi chung, kỳ thi bổ\ntrợ, kỳ thi tuyển đào tạo liên thông hoặc điểm học tập trình độ trung cấp, cao đẳng\ncủa thí sinh.\n2. Đối với các ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có\ncấp chứng chỉ hành nghề, thí sinh trúng tuyển đào tạo liên thông phải đảm bảo\nngưỡng đầu vào theo Quy chế tuyển sinh và Quy chế đào tạo liên thông.\n\n10",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Xét tuyển đào tạo đại học đối với người đã có bằng tốt nghiệp",
+          "text": "Điều 19. Xét tuyển đào tạo đại học đối với người đã có bằng tốt nghiệp\nđại học\n1. Điểm xét tuyển đào tạo đại học đối với người đã có bằng tốt nghiệp đại\nhọc căn cứ trên điểm học tập trình độ đại học của thí sinh và điểm của kỳ thi bổ\ntrợ (nếu có).\n2. Đối với các ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có\ncấp chứng chỉ hành nghề, thí sinh trúng tuyển phải đảm bảo ngưỡng đầu vào theo\nQuy chế tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Xét tuyển đào tạo chương trình thứ hai",
+          "text": "Điều 20. Xét tuyển đào tạo chương trình thứ hai\n1. Sinh viên thuộc các cơ sở đào tạo của ĐHĐN được đăng ký học chương\ntrình thứ hai tại cơ sở đào tạo đang học chương trình thứ nhất hoặc tại một cơ sở\nđào tạo khác thuộc ĐHĐN khi đáp ứng điều kiện đăng ký học chương trình thứ\nhai quy định tại Quy chế đào tạo trình độ đại học hiện hành và hướng dẫn thực\nhiện quy chế này của ĐHĐN.\n2. Đối với đăng ký học chương trình thứ hai các ngành đào tạo giáo viên\nhoặc ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề, sinh viên phải\nđảm bảo ngưỡng đầu vào như thí sinh đăng ký tuyển sinh chương trình thứ nhất\ntheo Quy chế tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Thông báo kết quả xét tuyển và nhập học",
+          "text": "Điều 21. Thông báo kết quả xét tuyển và nhập học\n1. ĐHĐN thông báo kết quả xét tuyển đối với các phương thức tuyển sinh\ndo ĐHĐN chủ trì. Các cơ sở đào tạo thông báo kết quả xét tuyển đối với các\nphương thức tuyển sinh do cơ sở đào tạo chủ trì. Thông báo kết quả xét tuyển bao\ngồm điểm trúng tuyển; thang điểm, các tiêu chí xét tuyển, kể cả tiêu chí phụ của\ntừng thí sinh.\n2. ĐHĐN ban hành quyết định công nhận danh sách thí sinh trúng tuyển đối\nvới tất cả các phương thức tuyển sinh, các đợt tuyển.\n3. ĐHĐN gửi giấy báo trúng tuyển cho tất cả thí sinh trúng tuyển. Các cơ sở\nđào tạo cung cấp thông tin về các thủ tục cần thiết và phương thức nhập học của\nthí sinh về ĐHĐN để làm giấy báo trúng tuyển cho thí sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Bảo lưu kết quả trúng tuyển",
+          "text": "Điều 22. Bảo lưu kết quả trúng tuyển\n1. Thí sinh đã có giấy báo nhập học được bảo lưu kết quả trúng tuyển khi\nđáp ứng các điều kiện được quy định trong Quy chế tuyển sinh.\n\n2. Thí sinh thuộc diện quy định tại khoản 1 Điều này phải gửi đơn xin bảo\nlưu kèm theo giấy tờ minh chứng đến cơ sở đào tạo trúng tuyển. Thời gian tối đa\nđược bảo lưu kết quả trúng tuyển do cơ sở đào tạo quy định và không trái với Quy\nchế tuyển sinh. Sau khi tiếp nhận đơn xin bảo lưu, cơ sở đào tạo cho ý kiến về các\ntrường hợp xin bảo lưu kết quả trúng tuyển và chuyển hồ sơ về ĐHĐN để giải\nquyết.\n3. ĐHĐN kiểm tra hồ sơ và ban hành quyết định bảo lưu kết quả trúng tuyển;\ntrong quyết . định ghi cụ thể thời gian bảo lưu tối đa đối với từng thí sinh.\n4. Trong thời gian bảo lưu kết quả trúng tuyển còn hiệu lực, thí sinh có nhu\ncầu trở lại học tập gửi đơn kèm theo giấy tờ minh chứng đến ĐHĐN để được xem\nxét tiếp nhận trở lại học tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Kiểm tra hồ sơ thí sinh trúng tuyển",
+          "text": "Điều 23. Kiểm tra hồ sơ thí sinh trúng tuyển\n1. Các cơ sở đào tạo chịu trách nhiệm kiểm tra thông tin và hồ sơ minh chứng\n(sau đây gọi là hậu kiểm) của tất cả thí sinh trúng tuyển nhập học bằng tất cả các\nphương thức tuyển sinh, các đợt tuyển khác nhau và báo cáo kết quả hậu kiểm về\nĐHĐN trong thời gian quy định.\n2. ĐHĐN tổ chức kiểm tra các trường hợp bất thường và xử lý các sai sót\ntrong tuyển sinh được phát hiện qua hậu kiểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Hoạt động thanh tra, kiểm tra công tác tuyển sinh",
+          "text": "Điều 24. Hoạt động thanh tra, kiểm tra công tác tuyển sinh\n1. ĐHĐN tổ chức thanh tra, kiểm tra công tác tổ chức các kỳ thi phục vụ\ntuyển sinh (sau đây gọi là thi tuyển), xét tuyển do ĐHĐN hoặc các cơ sở đào tạo\nchủ trì thực hiện.\n2. Hiệu trưởng các trường đại học thành viên tổ chức thanh tra, kiểm tra các\nkỳ thi tuyển, xét tuyển do trường chủ trì thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Xử lý vi phạm",
+          "text": "Điều 25. Xử lý vi phạm\n1. Cán bộ và thí sinh có hành vi vi phạm trong quá trình tổ chức thi tuyển,\nquá trình thu, xử lý hồ sơ tuyển sinh và xét tuyển bị xử lý theo quy định của Quy\nchế tuyển sinh.\n2. Thí sinh trúng tuyển đã nhập học có hành vi gian lận trong quá trình dự\nthi, đăng ký xét tuyển bị buộc thôi học và cấm dự tuyển vào các cơ sở đào tạo của\nĐHĐN trong những năm tiếp theo.\n\n12\n3. Quy chế tổ chức thi tuyển của cơ sở đào tạo chủ trì tổ chức thi quy định\nchi tiết việc xử lý cán bộ, thí sinh có hành vi vi phạm trong quá trình thi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Báo cáo, lưu trữ",
+          "text": "Điều 26. Báo cáo, lưu trữ\n1. Hội đồng tuyển sinh của các cơ sở đào tạo được giao nhiệm vụ chủ trì tổ\nchức thi tuyển, xét tuyển phải báo cáo kết quả tuyển sinh về ĐHĐN theo yêu cầu;\nbáo cáo các tình huống bất thường trong quá trình tổ chức tuyển sinh về ĐHĐN\nđể kịp thời xử lý.\n2. ĐHĐN hoặc cơ sở đào tạo được giao nhiệm vụ chủ trì tổ chức tuyển sinh\nthực hiện lưu trữ hồ sơ tổ chức thi, hồ sơ xét tuyển theo các quy định hiện hành\nvề lưu trữ hồ sơ tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Trách nhiệm của ĐHĐN",
+          "text": "Điều 27. Trách nhiệm của ĐHĐN\n1. Ban hành kế hoạch tuyển sinh đào tạo chính quy và các văn bản hướng\ndẫn về công tác tuyển sinh áp dụng đối với ĐHĐN và các cơ sở đào tạo; thành lập\nHĐTS ĐHĐN.\n2. Quyết định các kỳ thi tuyển, các phương thức tuyển sinh do ĐHĐN chủ\ntrì tổ chức thực hiện hoặc giao cho các cơ sở đào tạo chủ trì thực hiện.\n3. Triển khai các kỳ thi tuyển, các phương thức tuyển sinh do ĐHĐN chủ trì\ntổ chức thực hiện.\n4. Quyết định việc tuyển sinh không áp dụng một số điều, khoản theo Quy\nchế này trong điều kiện thiên tai, dịch bệnh và các trường hợp bất khả kháng khác\nnhưng không trái với quy định của pháp luật.\n5. Thực hiện việc thu chi đối với hoạt động tuyển sinh do ĐHĐN chủ trì thực\nhiện theo đúng quy định hiện hành.\n6. Giải quyết đơn thư phản ánh, khiếu nại, tố cáo và xử lý vi phạm liên quan\ntới công tác tuyển sinh của ĐHĐN và của cơ sở đào tạo theo quy định của Quy\nchế này và các quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 28",
+          "heading": "Trách nhiệm của các cơ sở đào tạo",
+          "text": "Điều 28. Trách nhiệm của các cơ sở đào tạo\n1. Các trường đại học thành viên ban hành quy chế tuyển sinh của trường, kế\nhoạch tuyển sinh và các văn bản hướng dẫn về công tác tuyển sinh áp dụng tại\ntrường; thành lập HĐTS của trường.\n\n13\n2. Các đơn vị đào tạo thuộc, trực thuộc xây dựng quy chế tuyển sinh của đơn\nvị trình Giám đốc ĐHĐN ban hành, tham mưu Giám đốc ĐHĐN thành lập HĐTS\ncủa đơn vị.\n3. Tổ chức các hoạt động tuyển sinh do ĐHĐN giao thực hiện và báo cáo kết\nquả tuyển sinh theo quy định.\n4. Thực hiện việc thu, chi đối với hoạt động tuyển sinh do cơ sở đào tạo chủ\ntrì thực hiện theo đúng quy định hiện hành.\n5. Giải quyết đơn thư phản ánh, khiếu nại, tố cáo và xử lý vi phạm liên quan\ntới công tác tuyển sinh tại cơ sở đào tạo và báo cáo ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 29",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 29. Tổ chức thực hiện\nHiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và\ntrực thuộc ĐHĐN chịu trách nhiệm tổ chức thực hiện Quy chế này. Trong quá\ntrình thực hiện, Quy chế này có thể được điều chỉnh, bổ sung, sửa đổi cho phù\nhợp với tình hình thực tế. Việc điều chỉnh do Giám đốc ĐHĐN xem xét, quyết\nđịnh./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế tuyển sinh đại học hình",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế tuyển sinh đại học hình\nthức chính quy của Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng; Trưởng các ban chức năng của Đại học Đà Nẵng;",
+      "text": "Điều 3. Chánh Văn phòng; Trưởng các ban chức năng của Đại học Đà Nẵng;\nHiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc\nchịu trách nhiệm thi hành Quyết định này./.\nKh CRu tich #81;",
+      "isImplementationClause": true
+    }
+  ]
+}

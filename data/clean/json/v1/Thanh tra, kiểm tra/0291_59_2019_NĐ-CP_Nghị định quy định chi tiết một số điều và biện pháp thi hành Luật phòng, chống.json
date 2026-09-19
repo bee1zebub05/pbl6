@@ -1,0 +1,664 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0291_59_2019_NĐ-CP_Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật phòng, chống.txt",
+  "mappedBy": "gemini-web",
+  "note": "89 Điều lấy toàn văn trực tiếp từ bản .txt gốc. 1 trích dẫn bị gỡ vì số hiệu không kiểm chứng được từ bản gốc (nguồn chỉ ghi tên và ngày, không có số hiệu): 35/2021/TT-BGDĐT. Câu căn cứ vẫn nằm nguyên trong bản .txt.",
+  "document": {
+    "documentNumber": "59/2019/NĐ-CP",
+    "title": "Nghị định Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng",
+    "documentType": "Nghị định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/07/2019",
+    "effectiveDate": "15/08/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Thanh tra, kiểm tra",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị định này quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng, bao gồm các quy định về trách nhiệm giải trình, đánh giá công tác phòng, chống tham nhũng, thực hiện quy tắc ứng xử, kiểm soát xung đột lợi ích, vị trí công tác và thời hạn định kỳ chuyển đổi, tạm đình chỉ công tác, áp dụng biện pháp phòng, chống tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước, cung cấp thông tin, chế độ thông tin, báo cáo và xử lý trách nhiệm người đứng đầu khi để xảy ra tham nhũng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Xuân Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "107/2006/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "a) Nghị định số 107/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ về việc quy định xử lý trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị khi để xảy ra tham nhũng trong cơ quan, tổ chức, đơn vị do mình quản lý, phụ trách;"
+    },
+    {
+      "targetDocumentNumber": "47/2007/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "b) Nghị định số 47/2007/NĐ-CP ngày 27 tháng 3 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống tham nhũng về vai trò, trách nhiệm của xã hội trong phòng, chống tham nhũng;"
+    },
+    {
+      "targetDocumentNumber": "102/2007/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "c) Nghị định số 102/2007/NĐ-CP ngày 14 tháng 6 năm 2007 của Chính phủ quy định thời hạn không kinh doanh trong lĩnh vực có trách nhiệm quản lý đối với những người là cán bộ, công chức, viên chức sau khi thôi giữ chức vụ;"
+    },
+    {
+      "targetDocumentNumber": "158/2007/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "d) Nghị định số 158/2007/NĐ-CP ngày 27 tháng 10 năm 2007 của Chính phủ về việc quy định danh mục các vị trí công tác và thời hạn định kỳ chuyển đổi vị trí công tác đối với cán bộ, công chức, viên chức;"
+    },
+    {
+      "targetDocumentNumber": "59/2013/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "đ) Nghị định số 59/2013/NĐ-CP ngày 17 tháng 6 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Phòng, chống tham nhũng;"
+    },
+    {
+      "targetDocumentNumber": "90/2013/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "e) Nghị định số 90/2013/NĐ-CP ngày 08 tháng 8 năm 2013 của Chính phủ quy định trách nhiệm giải trình của cơ quan nhà nước trong việc thực hiện nhiệm vụ, quyền hạn được giao;"
+    },
+    {
+      "targetDocumentNumber": "211/2013/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "g) Nghị định số 211/2013/NĐ-CP ngày 19 tháng 12 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 107/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ về việc quy định xử lý trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị khi để xảy ra tham nhũng trong cơ quan, tổ chức, đơn vị do mình quản lý, phụ trách;"
+    },
+    {
+      "targetDocumentNumber": "150/2013/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "h) Nghị định số 150/2013/NĐ-CP ngày 01 tháng 11 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 158/2007/NĐ-CP ngày 27 tháng 10 năm 2007 của Chính phủ quy định danh mục các vị trí công tác và thời hạn định kỳ chuyển đổi vị trí công tác đối với cán bộ, công chức, viên chức;"
+    },
+    {
+      "targetDocumentNumber": "64/2007/QĐ-TTg",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "i) Quyết định số 64/2007/QĐ-TTg ngày 10 tháng 5 năm 2007 của Thủ tướng Chính phủ ban hành Quy chế về việc tặng quà, nhận quà và nộp lại quà tặng của cơ quan, tổ chức, đơn vị có sử dụng ngân sách nhà nước và của cán bộ, công chức, viên chức."
+    }
+  ],
+  "mentions": [
+    "Thanh tra Chính phủ",
+    "Chính phủ",
+    "Bộ Công Thương",
+    "Bộ Giao thông vận tải",
+    "Bộ Kế hoạch và Đầu tư",
+    "Bộ Lao động - Thương binh và Xã hội",
+    "Bộ Nông nghiệp và Phát triển nông thôn",
+    "Bộ Tài chính",
+    "Bộ Tài nguyên và Môi trường",
+    "Bộ Thông tin và Truyền thông",
+    "Bộ Xây dựng",
+    "Bộ Tư pháp",
+    "Ngân hàng Nhà nước Việt Nam",
+    "Ủy ban Quản lý vốn nhà nước tại doanh nghiệp",
+    "Văn phòng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Văn hóa, Thể thao và Du lịch",
+    "Bộ Y tế",
+    "Bảo hiểm xã hội Việt Nam",
+    "Ủy ban Dân tộc",
+    "Bộ Công an",
+    "Bộ Quốc phòng",
+    "Bộ Ngoại giao",
+    "Kiểm toán nhà nước",
+    "Viện kiểm sát nhân dân",
+    "Tòa án nhân dân",
+    "Bộ Nội vụ",
+    "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+    "Phòng Thương mại và Công nghiệp Việt Nam"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nNghị định này quy định chi tiết:\n1. Các điều, khoản sau đây của Luật Phòng, chống tham nhũng:\na) Khoản 1 Điều 15 về trách nhiệm giải trình;\nb) Điều 17 về tiêu chí đánh giá công tác phòng, chống tham nhũng;\nc) Điều 22 về tặng quà và nhận quà tặng;\nd) Điều 23 về kiểm soát xung đột lợi ích;\nđ) Khoản 4 Điều 25 về vị trí công tác phải chuyển đổi và thời hạn định kỳ\nchuyển đổi vị trí công tác tại các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ,\nchính quyền địa phương;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\ne) Khoản 4 Điều 71 về trình tự, thủ tục, thời hạn tạm đình chỉ công tác, tạm\nthời chuyển sang vị trí công tác khác; việc hưởng lương, phụ cấp; quyền, lợi ích\nhợp pháp khác và việc bồi thường, khôi phục lại quyền, lợi ích hợp pháp của người\ncó chức vụ, quyền hạn sau khi cơ quan, tổ chức, đơn vị có thẩm quyền kết luận\nngười đó không có hành vi tham nhũng;\ng) Điều 80 về áp dụng các biện pháp phòng, chống tham nhũng trong doanh\nnghiệp, tổ chức khu vực ngoài nhà nước;\nh) Điều 81 về thanh tra việc thực hiện pháp luật về phòng, chống tham nhũng\nđối với doanh nghiệp, tổ chức khu vực ngoài nhà nước;\ni) Điều 94 về xử lý hành vi vi phạm khác về phòng, chống tham nhũng trong\ncơ quan, tổ chức, đơn vị.\n2. Các biện pháp tổ chức thi hành Luật Phòng, chống tham nhũng, bao gồm:\na) Thời hạn người có chức vụ, quyền hạn không được thành lập, giữ chức\ndanh, chức vụ quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm\nhữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã thuộc lĩnh vực mà trước\nđây mình có trách nhiệm quản lý theo quy định tại điểm d khoản 2 Điều 20 của\nLuật Phòng, chống tham nhũng;\nb) Cung cấp thông tin theo yêu cầu của cơ quan, tổ chức;\nc) Chế độ thông tin, báo cáo về phòng, chống tham nhũng;\nd) Xử lý trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị khi để xảy\nra tham nhũng trong cơ quan, tổ chức, đơn vị do mình quản lý, phụ trách.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Nghị định này áp dụng đối với cơ quan, tổ chức, đơn vị khu vực nhà nước,\nbao gồm: cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ\ntrang nhân dân, đơn vị sự nghiệp công lập, doanh nghiệp nhà nước và tổ chức, đơn\nvị khác do Nhà nước thành lập, đầu tư cơ sở vật chất, cấp phát toàn bộ hoặc một\nphần kinh phí hoạt động, do Nhà nước trực tiếp quản lý hoặc tham gia quản lý;\nngười có chức vụ, quyền hạn công tác tại cơ quan, tổ chức, đơn vị khu vực nhà nước\nvà cơ quan, tổ chức, cá nhân khác có liên quan trong phòng, chống tham nhũng.\n2. Doanh nghiệp, tổ chức khu vực ngoài nhà nước và người có chức vụ, quyền\nhạn trong doanh nghiệp, tổ chức này thực hiện các quy định tại Chương VII của\nNghị định này.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 5\nChương II\nTRÁCH NHIỆM GIẢI TRÌNH\nMục 1\nNỘI DUNG, ĐIỀU KIỆN TIẾP NHẬN YÊU CẦU GIẢI TRÌNH;\nTRƯỜNG HỢP TỪ CHỐI YÊU CẦU GIẢI TRÌNH; NỘI DUNG KHÔNG\nTHUỘC PHẠM VI GIẢI TRÌNH VÀ TRÁCH NHIỆM CỦA NGƯỜI ĐỨNG\nĐẦU TRONG VIỆC THỰC HIỆN TRÁCH NHIỆM GIẢI TRÌNH",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nội dung giải trình",
+      "text": "Điều 3. Nội dung giải trình\n1. Cơ sở pháp lý của việc ban hành quyết định, thực hiện hành vi.\n2. Thẩm quyền ban hành quyết định, thực hiện hành vi.\n3. Trình tự, thủ tục ban hành quyết định, thực hiện hành vi.\n4. Nội dung của quyết định, hành vi.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Điều kiện tiếp nhận yêu cầu giải trình",
+      "text": "Điều 4. Điều kiện tiếp nhận yêu cầu giải trình\n1. Cá nhân yêu cầu giải trình có năng lực hành vi dân sự đầy đủ hoặc có người\nđại diện theo quy định của pháp luật; cơ quan, tổ chức, đơn vị yêu cầu giải trình có\nngười đại diện hợp pháp của cơ quan, tổ chức, đơn vị mình.\n2. Quyết định, hành vi của cơ quan, tổ chức, đơn vị được yêu cầu giải trình tác\nđộng trực tiếp đến quyền, lợi ích hợp pháp của cơ quan, tổ chức, đơn vị, cá nhân có\nyêu cầu giải trình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Những trường hợp được từ chối yêu cầu giải trình",
+      "text": "Điều 5. Những trường hợp được từ chối yêu cầu giải trình\n1. Không đủ điều kiện tiếp nhận yêu cầu giải trình được quy định tại Điều 4\ncủa Nghị định này.\n2. Nội dung yêu cầu giải trình thuộc trường hợp quy định tại Điều 6 của\nNghị định này; nội dung đã được giải trình hoặc đã được cơ quan, tổ chức, đơn\nvị, cá nhân có thẩm quyền thụ lý giải quyết, trừ trường hợp người yêu cầu có lý\ndo chính đáng.\n3. Người yêu cầu giải trình đang trong tình trạng không làm chủ được hành vi\ndo dùng chất kích thích hoặc có hành vi gây rối trật tự, đe dọa, xúc phạm danh dự,\nnhân phẩm của người tiếp nhận yêu cầu giải trình.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n4. Người được ủy quyền, người đại diện không có giấy tờ hợp pháp theo quy\nđịnh của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Những nội dung không thuộc phạm vi giải trình",
+      "text": "Điều 6. Những nội dung không thuộc phạm vi giải trình\n1. Nội dung thuộc bí mật nhà nước, bí mật đời sống riêng tư, bí mật cá nhân, bí\nmật kinh doanh theo quy định của pháp luật.\n2. Nội dung chỉ đạo, điều hành, tổ chức thực hiện nhiệm vụ, công vụ trong nội\nbộ cơ quan, tổ chức, đơn vị mà chưa ban hành, chưa thực hiện hoặc nội dung chỉ\nđạo, điều hành của cơ quan cấp trên với cơ quan cấp dưới.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị trong",
+      "text": "Điều 7. Trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị trong\nviệc thực hiện trách nhiệm giải trình\n1. Quy định cụ thể việc thực hiện trách nhiệm giải trình trong nội quy, quy chế\nlàm việc của cơ quan, tổ chức, đơn vị.\n2. Phân công cá nhân hoặc bộ phận có trách nhiệm tiếp nhận yêu cầu giải trình.\n3. Tổ chức, chỉ đạo, đôn đốc, kiểm tra việc thực hiện trách nhiệm giải trình và\nxử lý vi phạm theo thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Quyền và nghĩa vụ của người yêu cầu giải trình",
+      "text": "Điều 8. Quyền và nghĩa vụ của người yêu cầu giải trình\n1. Người yêu cầu giải trình có các quyền sau đây:\na) Tự mình hoặc ủy quyền cho người khác có năng lực hành vi dân sự đầy đủ\nthực hiện yêu cầu giải trình;\nb) Rút một phần hoặc toàn bộ yêu cầu giải trình;\nc) Nhận văn bản giải trình của cơ quan, tổ chức, đơn vị, cá nhân có trách\nnhiệm giải trình;\nd) Khiếu nại, tố cáo theo quy định của pháp luật.\n2. Người yêu cầu giải trình có các nghĩa vụ sau đây:\na) Nêu rõ họ tên, địa chỉ hoặc xuất trình giấy tờ tùy thân, giấy ủy quyền;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nb) Thực hiện đúng trình tự, thủ tục yêu cầu giải trình quy định tại Mục 3\nChương II của Nghị định này và các quy định khác của pháp luật có liên quan;\nc) Trình bày rõ ràng, trung thực, có căn cứ về nội dung yêu cầu giải trình;\nd) Cung cấp thông tin, tài liệu có liên quan đến nội dung yêu cầu giải trình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Quyền và nghĩa vụ của người thực hiện trách nhiệm giải trình",
+      "text": "Điều 9. Quyền và nghĩa vụ của người thực hiện trách nhiệm giải trình\n1. Người thực hiện trách nhiệm giải trình có các quyền sau đây:\na) Yêu cầu người yêu cầu giải trình cung cấp thông tin, tài liệu liên quan đến\nnội dung yêu cầu giải trình;\nb) Hướng dẫn người yêu cầu giải trình thực hiện đúng trình tự, thủ tục quy\nđịnh tại Mục 3 Chương II của Nghị định này và các quy định khác của pháp luật có\nliên quan;\nc) Từ chối yêu cầu giải trình trong các trường hợp được quy định tại Điều 5\ncủa Nghị định này.\n2. Người thực hiện trách nhiệm giải trình có các nghĩa vụ sau đây:\na) Tiếp nhận yêu cầu giải trình thuộc thẩm quyền;\nb) Hướng dẫn người yêu cầu giải trình thực hiện đúng trình tự, thủ tục quy\nđịnh tại Mục 3 Chương II của Nghị định này và các quy định khác của pháp luật có\nliên quan;\nc) Giải quyết yêu cầu giải trình theo đúng trình tự, thủ tục và thời hạn quy định\ntại Nghị định này và các quy định khác của pháp luật có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Yêu cầu giải trình",
+      "text": "Điều 10. Yêu cầu giải trình\n1. Yêu cầu giải trình được thực hiện bằng văn bản hoặc trực tiếp tại cơ quan, tổ\nchức, đơn vị có trách nhiệm giải trình.\n2. Yêu cầu giải trình bằng văn bản:\na) Văn bản yêu cầu giải trình phải nêu rõ nội dung yêu cầu giải trình; ghi rõ\nhọ tên, địa chỉ, số điện thoại hoặc địa chỉ thư tín của người yêu cầu giải trình.\n\n8 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nb) Văn bản yêu cầu giải trình phải có chữ ký hoặc điểm chỉ xác nhận của người\nyêu cầu giải trình.\n3. Yêu cầu giải trình trực tiếp:\na) Người yêu cầu giải trình trình bày rõ ràng nội dung yêu cầu với người được\ngiao tiếp nhận yêu cầu giải trình.\nTrường hợp nhiều người cùng yêu cầu giải trình về một nội dung thì phải cử\nngười đại diện để trình bày. Việc cử người đại diện được thể hiện bằng văn bản có\nchữ ký hoặc điểm chỉ của những người yêu cầu giải trình;\nb) Người được giao tiếp nhận yêu cầu giải trình phải thể hiện trung thực nội\ndung yêu cầu giải trình bằng văn bản; ghi rõ họ tên, địa chỉ, số điện thoại hoặc địa\nchỉ thư tín của người yêu cầu giải trình;\nc) Người yêu cầu giải trình ký hoặc điểm chỉ xác nhận vào văn bản yêu cầu\ngiải trình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Tiếp nhận yêu cầu giải trình",
+      "text": "Điều 11. Tiếp nhận yêu cầu giải trình\n1. Cơ quan, tổ chức, đơn vị, cá nhân có trách nhiệm giải trình tiếp nhận yêu\ncầu giải trình khi đáp ứng các điều kiện tiếp nhận và không thuộc những trường\nhợp từ chối yêu cầu giải trình lần lượt quy định tại Điều 4 và Điều 5 của Nghị định\nnày. Trường hợp yêu cầu giải trình không thuộc trách nhiệm thì người tiếp nhận\nhướng dẫn người yêu cầu đến cơ quan có thẩm quyền theo quy định của pháp luật.\n2. Trường hợp văn bản yêu cầu giải trình không đáp ứng điều kiện quy định tại\nkhoản 2 Điều 10 của Nghị định này thì người tiếp nhận có trách nhiệm hướng dẫn\nngười yêu cầu giải trình bổ sung thông tin, tài liệu.\n3. Trường hợp nội dung yêu cầu giải trình đã được giải trình cho người khác\ntrước đó thì cung cấp bản sao văn bản giải trình cho người yêu cầu giải trình.\n4. Trong thời hạn 05 ngày làm việc, kể từ ngày tiếp nhận yêu cầu, người giải\ntrình phải thông báo bằng văn bản cho người yêu cầu giải trình về việc giải quyết\nhoặc không giải quyết và nêu rõ lý do.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Thực hiện việc giải trình",
+      "text": "Điều 12. Thực hiện việc giải trình\n1. Trong trường hợp yêu cầu giải trình trực tiếp, có nội dung đơn giản, thì việc\ngiải trình có thể thực hiện bằng hình thức trực tiếp. Việc giải trình trực tiếp phải\nđược lập thành biên bản có chữ ký hoặc điểm chỉ của các bên.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n2. Trong những trường hợp còn lại thì việc giải trình được thực hiện như sau:\na) Thu thập, xác minh thông tin có liên quan;\nb) Làm việc trực tiếp với người yêu cầu giải trình để làm rõ những nội dung có\nliên quan khi thấy cần thiết. Nội dung làm việc được lập thành biên bản có chữ ký\nhoặc điểm chỉ của các bên;\nc) Ban hành văn bản giải trình;\nd) Gửi văn bản giải trình đến người yêu cầu giải trình.\n3. Văn bản giải trình phải có các nội dung sau đây:\na) Họ tên, địa chỉ người yêu cầu giải trình;\nb) Nội dung yêu cầu giải trình;\nc) Kết quả làm việc trực tiếp với tổ chức, cá nhân (nếu có);\nd) Căn cứ pháp lý thực hiện việc giải trình;\nđ) Nội dung giải trình cụ thể.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Thời hạn thực hiện việc giải trình",
+      "text": "Điều 13. Thời hạn thực hiện việc giải trình\n1. Thời hạn thực hiện việc giải trình không quá 15 ngày, kể từ ngày ra thông\nbáo tiếp nhận yêu cầu giải trình; trường hợp có nội dung phức tạp thì có thể\ngia hạn 01 lần; thời gian gia hạn không quá 15 ngày và phải thông báo bằng\nvăn bản đến người yêu cầu giải trình.\n2. Thời gian tạm đình chỉ việc giải trình theo quy định tại khoản 1 Điều 14 của\nNghị định này không được tính vào thời hạn thực hiện việc giải trình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Tạm đình chỉ, đình chỉ việc giải trình",
+      "text": "Điều 14. Tạm đình chỉ, đình chỉ việc giải trình\n1. Trong quá trình thực hiện việc giải trình, người thực hiện trách nhiệm giải\ntrình quyết định tạm đình chỉ việc giải trình trong các trường hợp sau đây:\na) Người yêu cầu giải trình là cá nhân đã chết mà chưa xác định được người\nthừa kế quyền, nghĩa vụ; cơ quan, tổ chức bị chia tách, sáp nhập, giải thể mà chưa\ncó cá nhân, tổ chức kế thừa quyền, nghĩa vụ trong vụ việc yêu cầu giải trình;\nb) Người yêu cầu giải trình là cá nhân mất năng lực hành vi dân sự mà chưa\nxác định được người đại diện theo pháp luật;\n\n10 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nc) Cá nhân yêu cầu giải trình bị ốm đau hoặc vì lý do khách quan khác mà\nngười thực hiện trách nhiệm giải trình chưa thể thực hiện được việc giải trình.\n2. Người thực hiện trách nhiệm giải trình tiếp tục thực hiện việc giải trình khi\nlý do của việc tạm đình chỉ không còn.\n3. Người thực hiện trách nhiệm giải trình quyết định đình chỉ việc giải trình\ntrong các trường hợp sau:\na) Người yêu cầu giải trình là cá nhân đã chết mà không có người thừa kế\nquyền, nghĩa vụ; cơ quan, tổ chức bị chia tách, sáp nhập, giải thể mà không có cá\nnhân, tổ chức kế thừa quyền, nghĩa vụ trong vụ việc yêu cầu giải trình;\nb) Người yêu cầu giải trình là cá nhân mất năng lực hành vi dân sự mà không\ncó người đại diện theo pháp luật;\nc) Người yêu cầu giải trình rút toàn bộ yêu cầu giải trình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Nguyên tắc đánh giá công tác phòng, chống tham nhũng",
+      "text": "Điều 15. Nguyên tắc đánh giá công tác phòng, chống tham nhũng\n1. Việc đánh giá công tác phòng, chống tham nhũng phải đảm bảo tính chính\nxác, khách quan và tuân theo các quy định của pháp luật.\n2. Việc tổ chức đánh giá về công tác phòng, chống tham nhũng được thực hiện\ntheo quy định tại Điều 21 của Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Tiêu chí đánh giá về số lượng, tính chất và mức độ của vụ việc,",
+      "text": "Điều 16. Tiêu chí đánh giá về số lượng, tính chất và mức độ của vụ việc,\nvụ án tham nhũng\nTiêu chí đánh giá về số lượng, tính chất và mức độ của vụ việc, vụ án tham\nnhũng được xác định dựa trên kết luận của cơ quan nhà nước có thẩm quyền, bao\ngồm các tiêu chí thành phần sau:\n1. Số lượng người có hành vi tham nhũng;\n2. Vị trí, chức vụ của người có hành vi tham nhũng;\n3. Lĩnh vực để xảy ra hành vi tham nhũng;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n4. Mức độ nghiêm trọng của hành vi tham nhũng;\n5. Giá trị tiền, tài sản bị thiệt hại do hành vi tham nhũng gây ra;\n6. Số vụ việc, vụ án tham nhũng đã được cơ quan có thẩm quyền kết luận.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Tiêu chí đánh giá việc xây dựng và hoàn thiện chính sách, pháp",
+      "text": "Điều 17. Tiêu chí đánh giá việc xây dựng và hoàn thiện chính sách, pháp\nluật về phòng, chống tham nhũng\nTiêu chí đánh giá việc xây dựng và hoàn thiện chính sách, pháp luật về phòng,\nchống tham nhũng bao gồm các tiêu chí thành phần sau:\n1. Việc lãnh đạo, chỉ đạo, thực hiện công tác xây dựng và hoàn thiện chính\nsách, pháp luật về phòng, chống tham nhũng;\n2. Việc lãnh đạo, chỉ đạo, thực hiện công tác kiểm tra, rà soát, hệ thống hóa\nvăn bản quy phạm pháp luật về phòng, chống tham nhũng;\n3. Việc lãnh đạo, chỉ đạo, thực hiện công tác phổ biến, giáo dục pháp luật, kiểm\ntra và theo dõi thi hành văn bản quy phạm pháp luật về phòng, chống tham nhũng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Tiêu chí đánh giá việc thực hiện các biện pháp phòng ngừa",
+      "text": "Điều 18. Tiêu chí đánh giá việc thực hiện các biện pháp phòng ngừa\ntham nhũng\n1. Tiêu chí đánh giá việc thực hiện các biện pháp phòng ngừa tham nhũng\ntrong cơ quan, tổ chức, đơn vị khu vực nhà nước bao gồm các tiêu chí thành phần\nsau:\na) Kết quả thực hiện công khai, minh bạch;\nb) Kết quả kiểm soát xung đột lợi ích;\nc) Kết quả ban hành, thực hiện định mức, tiêu chuẩn, chế độ;\nd) Kết quả thực hiện quy tắc ứng xử;\nđ) Kết quả thực hiện chuyển đổi vị trí công tác;\ne) Kết quả thực hiện cải cách hành chính, ứng dụng khoa học công nghệ trong\nquản lý và thanh toán không dùng tiền mặt;\ng) Kết quả kiểm soát tài sản, thu nhập;\nh) Kết quả thực hiện quy định về trách nhiệm của người đứng đầu.\n\n12 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n2. Tiêu chí đánh giá việc thực hiện các biện pháp phòng ngừa tham nhũng\ntrong doanh nghiệp, tổ chức khu vực ngoài nhà nước bao gồm các tiêu chí thành\nphần sau:\na) Kết quả xây dựng và thực hiện quy tắc ứng xử, cơ chế kiểm soát nội bộ;\nb) Kết quả thực hiện các biện pháp công khai, minh bạch;\nc) Kiểm soát xung đột lợi ích;\nd) Chế độ trách nhiệm của người đứng đầu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Tiêu chí đánh giá việc phát hiện và xử lý tham nhũng",
+      "text": "Điều 19. Tiêu chí đánh giá việc phát hiện và xử lý tham nhũng\n1. Tiêu chí đánh giá việc phát hiện tham nhũng bao gồm các tiêu chí thành\nphần sau:\na) Kết quả phát hiện tham nhũng qua công tác giám sát, thanh tra, kiểm tra,\nkiểm toán;\nb) Kết quả phát hiện tham nhũng qua phản ánh, tố cáo, báo cáo về hành vi\ntham nhũng;\nc) Kết quả phát hiện tham nhũng qua hoạt động điều tra, truy tố, xét xử.\n2. Tiêu chí đánh giá việc xử lý tham nhũng bao gồm các tiêu chí thành phần sau:\na) Kết quả xử lý kỷ luật, xử phạt hành chính với tổ chức, cá nhân có vi phạm;\nb) Kết quả xử lý trách nhiệm người đứng đầu để xảy ra tham nhũng;\nc) Kết quả xử lý hình sự người có hành vi tham nhũng;\nd) Số lượng tiền, tài sản tham nhũng được kiến nghị thu hồi.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Tiêu chí đánh giá việc thu hồi tài sản tham nhũng",
+      "text": "Điều 20. Tiêu chí đánh giá việc thu hồi tài sản tham nhũng\nTiêu chí đánh giá việc thu hồi tài sản tham nhũng bao gồm các tiêu chí thành\nphần sau:\n1. Tổng số tiền, tài sản tham nhũng phải thu hồi và kết quả thu hồi;\n2. Kết quả thu hồi tài sản tham nhũng bằng biện pháp hành chính;\n3. Kết quả thu hồi tài sản tham nhũng bằng biện pháp tư pháp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Tổ chức đánh giá về công tác phòng, chống tham nhũng",
+      "text": "Điều 21. Tổ chức đánh giá về công tác phòng, chống tham nhũng\n1. Thanh tra Chính phủ có trách nhiệm xây dựng Tài liệu hướng dẫn đánh giá\ncông tác phòng, chống tham nhũng nhằm đảm bảo việc thực hiện thống nhất,\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 13\nkhách quan và đáp ứng yêu cầu của công tác phòng, chống tham nhũng trên phạm\nvi cả nước. Nội dung của tài liệu hướng dẫn bao gồm: nội dung, phạm vi, đối\ntượng, phương pháp đánh giá, trình tự, thủ tục tiến hành đánh giá.\n2. Hằng năm căn cứ vào Tài liệu hướng dẫn đánh giá công tác phòng, chống\ntham nhũng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân\ncấp tỉnh có trách nhiệm ban hành Kế hoạch đánh giá công tác phòng, chống tham\nnhũng của bộ, cơ quan ngang bộ và Ủy ban nhân dân cấp tỉnh.\nCơ quan, đơn vị được giao chủ trì thực hiện việc đánh giá công tác phòng,\nchống tham nhũng của bộ, cơ quan ngang bộ và Ủy ban nhân dân cấp tỉnh trên cơ\nsở tổng hợp các thông tin, tài liệu, hồ sơ, báo cáo của các cơ quan, tổ chức, đơn vị\ntrực thuộc thực hiện việc đánh giá về công tác phòng, chống tham nhũng.\n3. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân cấp\ntỉnh chịu trách nhiệm trước Thủ tướng Chính phủ về kết quả đánh giá của ngành,\ncấp mình và gửi kết quả đánh giá cho Thanh tra Chính phủ để tổng hợp.\n4. Kết quả đánh giá về công tác phòng, chống tham nhũng được sử dụng để\nxây dựng báo cáo về công tác phòng, chống tham nhũng theo quy định tại Điều 16\ncủa Luật Phòng, chống tham nhũng.\nChương IV\nTHỰC HIỆN QUY TẮC ỨNG XỬ CỦA NGƯỜI CÓ CHỨC VỤ,\nQUYỀN HẠN TRONG CƠ QUAN, TỔ CHỨC, ĐƠN VỊ\nMục 1\nTHỜI HẠN NGƯỜI CÓ CHỨC VỤ, QUYỀN HẠN KHÔNG ĐƯỢC\nTHÀNH LẬP, GIỮ CHỨC DANH, CHỨC VỤ QUẢN LÝ, ĐIỀU HÀNH\nDOANH NGHIỆP TƯ NHÂN, CÔNG TY TRÁCH NHIỆM HỮU HẠN,\nCÔNG TY CỔ PHẦN, CÔNG TY HỢP DANH, HỢP TÁC XÃ\nSAU KHI THÔI GIỮ CHỨC VỤ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Các lĩnh vực mà người có chức vụ, quyền hạn không được thành",
+      "text": "Điều 22. Các lĩnh vực mà người có chức vụ, quyền hạn không được thành\nlập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp tư nhân, công ty\ntrách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã sau khi\nthôi giữ chức vụ\n\n14 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n1. Nhóm 1 gồm các lĩnh vực thuộc phạm vi quản lý của các bộ, ngành:\na) Bộ Công Thương;\nb) Bộ Giao thông vận tải;\nc) Bộ Kế hoạch và Đầu tư;\nd) Bộ Lao động - Thương binh và Xã hội;\nđ) Bộ Nông nghiệp và Phát triển nông thôn;\ne) Bộ Tài chính;\ng) Bộ Tài nguyên và Môi trường;\nh) Bộ Thông tin và Truyền thông;\ni) Bộ Xây dựng;\nk) Bộ Tư pháp;\nl) Ngân hàng Nhà nước Việt Nam;\nm) Thanh tra Chính phủ;\nn) Ủy ban Quản lý vốn nhà nước tại doanh nghiệp;\no) Văn phòng Chính phủ.\n2. Nhóm 2 gồm các lĩnh vực thuộc phạm vi quản lý của các bộ, ngành:\na) Bộ Giáo dục và Đào tạo;\nb) Bộ Khoa học và Công nghệ;\nc) Bộ Văn hóa, Thể thao và Du lịch;\nd) Bộ Y tế;\nđ) Bảo hiểm xã hội Việt Nam;\ne) Ủy ban Dân tộc.\n3. Nhóm 3 gồm các lĩnh vực thuộc phạm vi quản lý của các bộ, ngành:\na) Bộ Công an;\nb) Bộ Quốc phòng;\nc) Bộ Ngoại giao.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 15\n4. Nhóm 4 gồm chương trình, dự án, đề án do người thôi giữ chức vụ khi đang\nlà cán bộ, công chức, viên chức trực tiếp nghiên cứu, xây dựng hoặc thẩm định,\nphê duyệt.\n5. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ quy định cụ thể danh mục các lĩnh\nvực tại các khoản 1, 2, 3 và 4 Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": "Thời hạn mà người có chức vụ, quyền hạn không được thành lập,",
+      "text": "Điều 23. Thời hạn mà người có chức vụ, quyền hạn không được thành lập,\ngiữ chức danh, chức vụ quản lý, điều hành doanh nghiệp tư nhân, công ty\ntrách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã sau khi\nthôi giữ chức vụ\n1. Thời hạn mà người có chức vụ, quyền hạn không được thành lập, giữ chức\ndanh, chức vụ quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu\nhạn, công ty cổ phần, công ty hợp danh, hợp tác xã sau khi thôi giữ chức vụ được quy\nđịnh như sau:\na) Từ 12 tháng đến 24 tháng đối với nhóm 1 gồm các lĩnh vực quy định tại\nkhoản 1 Điều 22 của Nghị định này;\nb) Từ 06 tháng đến 12 tháng đối với nhóm 2 gồm các lĩnh vực quy định tại\nkhoản 2 Điều 22 của Nghị định này;\nc) Đối với nhóm 3 gồm các lĩnh vực quy định tại khoản 3 Điều 22 của Nghị\nđịnh này, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Ngoại\ngiao ban hành thời hạn mà người có chức vụ, quyền hạn không được thành lập, giữ\nchức danh, chức vụ quản lý, điều hành doanh nghiệp tư nhân, công ty trách nhiệm\nhữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã sau khi thôi giữ chức vụ;\nd) Đối với nhóm 4 gồm các lĩnh vực quy định tại khoản 4 Điều 22 của Nghị\nđịnh này là thời hạn thực hiện xong chương trình, dự án, đề án.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ quy định cụ thể thời hạn không\nđược thành lập, giữ chức danh, chức vụ quản lý, điều hành doanh nghiệp tư\nnhân, công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác\nxã sau khi thôi giữ chức vụ trong từng lĩnh vực thuộc các nhóm quy định tại các\nđiểm a, b và d khoản 1 Điều này.\n\n16 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": "Quy định về việc tặng quà",
+      "text": "Điều 24. Quy định về việc tặng quà\n1. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn chỉ được sử dụng tài\nchính công, tài sản công để làm quà tặng vì mục đích từ thiện, đối ngoại và thực\nhiện chế độ, chính sách theo quy định của pháp luật.\n2. Việc tặng quà phải thực hiện đúng chế độ, định mức, tiêu chuẩn, đối tượng\ntheo quy định của pháp luật; cơ quan, đơn vị tặng quà phải hạch toán kế toán và thực\nhiện công khai trong cơ quan, đơn vị mình theo đúng quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 25",
+      "heading": "Quy định về việc nhận quà tặng",
+      "text": "Điều 25. Quy định về việc nhận quà tặng\nCơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được trực tiếp\nhoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, đơn vị, cá\nnhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý\ncủa mình. Trường hợp không từ chối được thì cơ quan, tổ chức, đơn vị phải tổ\nchức quản lý, xử lý quà tặng theo quy định tại Điều 27 của Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 26",
+      "heading": "Báo cáo, nộp lại quà tặng",
+      "text": "Điều 26. Báo cáo, nộp lại quà tặng\n1. Cơ quan, tổ chức, đơn vị khi nhận được quà tặng không đúng quy định thì\nphải từ chối; trường hợp không từ chối được thì phải giao lại quà tặng cho bộ phận\nchịu trách nhiệm quản lý quà tặng của cơ quan, đơn vị đó để xử lý theo quy định\ntại Điều 27 của Nghị định này.\n2. Người có chức vụ, quyền hạn khi nhận được quà tặng không đúng quy định\nthì phải từ chối; trường hợp không từ chối được thì phải báo cáo Thủ trưởng cơ\nquan, tổ chức, đơn vị mình hoặc Thủ trưởng cơ quan, tổ chức, đơn vị cấp trên trực\ntiếp và nộp lại quà tặng để xử lý theo quy định tại Điều 27 của Nghị định này trong\nthời hạn 05 ngày làm việc, kể từ ngày nhận được quà tặng.\nBáo cáo được thể hiện bằng văn bản và có đầy đủ các nội dung: Họ, tên, chức\nvụ, cơ quan, địa chỉ của người tặng quà; loại và giá trị của quà tặng; thời gian, địa\nđiểm và hoàn cảnh cụ thể khi nhận quà tặng; mối quan hệ với người tặng quà.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 17",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 27",
+      "heading": "Xử lý quà tặng",
+      "text": "Điều 27. Xử lý quà tặng\n1. Đối với quà tặng bằng tiền, giấy tờ có giá thì Thủ trưởng cơ quan, tổ chức,\nđơn vị tổ chức tiếp nhận, bảo quản và làm thủ tục nộp vào ngân sách nhà nước\ntheo quy định của pháp luật.\n2. Đối với quà tặng bằng hiện vật, Thủ trưởng cơ quan, tổ chức, đơn vị tiếp\nnhận, bảo quản và xử lý như sau:\na) Xác định giá trị của quà tặng trên cơ sở giá của quà tặng do cơ quan, đơn vị,\ncá nhân tặng quà cung cấp (nếu có) hoặc giá trị của quà tặng tương tự được bán\ntrên thị trường. Trong trường hợp không xác định được giá trị của quà tặng bằng\nhiện vật thì có thể đề nghị cơ quan có chức năng xác định giá;\nb) Quyết định bán quà tặng và tổ chức công khai bán quà tặng theo quy định\ncủa pháp luật;\nc) Nộp vào ngân sách nhà nước số tiền thu được sau khi trừ đi chi phí liên\nquan đến việc xử lý quà tặng trong thời hạn 30 ngày, kể từ ngày bán quà tặng.\n3. Đối với quà tặng là dịch vụ thăm quan, du lịch, y tế, giáo dục đào tạo, thực\ntập, bồi dưỡng trong nước hoặc ngoài nước, dịch vụ khác thì Thủ trưởng cơ quan,\ntổ chức, đơn vị phải thông báo đến cơ quan, tổ chức, đơn vị cung cấp dịch vụ về\nviệc không sử dụng dịch vụ đó.\n4. Đối với quà tặng là động vật, thực vật, thực phẩm tươi, sống và hiện vật\nkhác khó bảo quản thì Thủ trưởng cơ quan, tổ chức, đơn vị căn cứ tình hình cụ thể\nvà quy định của pháp luật về xử lý tang vật trong các vụ việc vi phạm hành chính\nđể quyết định xử lý theo thẩm quyền hoặc báo cáo cấp có thẩm quyền xem xét,\nquyết định xử lý.\n5. Trong thời hạn 05 ngày làm việc, kể từ ngày xử lý quà tặng, cơ quan, tổ\nchức, đơn vị xử lý quà tặng có trách nhiệm thông báo bằng văn bản cho cơ quan, tổ\nchức, đơn vị quản lý người tặng quà hoặc cấp trên trực tiếp của cơ quan, tổ chức,\nđơn vị đã tặng quà để xem xét, xử lý theo thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 28",
+      "heading": "Xử lý vi phạm quy định về tặng quà và nhận quà tặng",
+      "text": "Điều 28. Xử lý vi phạm quy định về tặng quà và nhận quà tặng\n1. Cơ quan, tổ chức, đơn vị sử dụng tài chính công, tài sản công tặng quà\nkhông đúng quy định thì phải bồi hoàn giá trị quà tặng cho Nhà nước. Cá nhân sử\n\n18 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\ndụng tài chính công, tài sản công tặng quà không đúng thẩm quyền, không đúng\nquy định thì phải bồi hoàn giá trị quà tặng và tùy theo tính chất, mức độ vi phạm\nmà bị xử lý theo quy định của pháp luật về xử phạt vi phạm hành chính trong lĩnh\nvực quản lý, sử dụng tài sản nhà nước.\n2. Người đứng đầu cơ quan, tổ chức, đơn vị vi phạm quy định về nhận quà\ntặng, xử lý quà tặng, người có chức vụ, quyền hạn vi phạm quy định về nhận quà\ntặng, báo cáo, nộp lại quà tặng thì tùy theo tính chất, mức độ vi phạm mà bị xử lý\ntheo quy định của pháp luật về xử lý kỷ luật đối với cán bộ, công chức, viên chức\nvà xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 29",
+      "heading": "Các trường hợp xung đột lợi ích",
+      "text": "Điều 29. Các trường hợp xung đột lợi ích\nNgười có chức vụ, quyền hạn được xác định là có xung đột lợi ích khi có\ndấu hiệu rõ ràng cho rằng người đó thuộc hoặc sẽ thuộc một trong các trường\nhợp sau đây:\n1. Nhận tiền, tài sản hoặc lợi ích khác của cơ quan, tổ chức, đơn vị, cá nhân liên\nquan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý của mình;\n2. Thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty trách\nnhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã, trừ trường hợp luật\ncó quy định khác;\n3. Tư vấn cho doanh nghiệp, tổ chức, cá nhân khác ở trong nước và nước ngoài\nvề công việc có liên quan đến bí mật nhà nước, bí mật công tác, công việc thuộc\nthẩm quyền giải quyết hoặc tham gia giải quyết;\n4. Sử dụng những thông tin có được nhờ chức vụ, quyền hạn của mình để vụ\nlợi hoặc để phục vụ lợi ích của tổ chức hoặc cá nhân khác;\n5. Bố trí vợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột của mình giữ chức vụ\nquản lý về tổ chức nhân sự, kế toán, làm thủ quỹ, thủ kho trong cơ quan, tổ chức,\nđơn vị hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp đồng cho cơ quan, tổ\nchức, đơn vị do mình là người đứng đầu hoặc cấp phó của người đứng đầu;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 19\n6. Góp vốn vào doanh nghiệp hoạt động trong phạm vi ngành, nghề do mình\ntrực tiếp thực hiện việc quản lý nhà nước hoặc để vợ hoặc chồng, bố, mẹ, con kinh\ndoanh trong phạm vi ngành, nghề do mình trực tiếp thực hiện việc quản lý nhà nước;\n7. Ký kết hợp đồng với doanh nghiệp thuộc sở hữu của vợ hoặc chồng, bố, mẹ,\ncon, anh, chị, em ruột hoặc để doanh nghiệp thuộc sở hữu của vợ hoặc chồng, bố,\nmẹ, con, anh, chị, em ruột tham dự các gói thầu của cơ quan, tổ chức, đơn vị mình\nkhi được giao thực hiện các giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp đồng\ncho cơ quan, tổ chức, đơn vị đó;\n8. Có vợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột là người có quyền, lợi ích\ntrực tiếp liên quan đến việc thực hiện nhiệm vụ, công vụ của mình;\n9. Can thiệp hoặc tác động không đúng đến hoạt động của cơ quan, tổ chức,\nđơn vị, cá nhân có thẩm quyền vì vụ lợi.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 30",
+      "heading": "Thông tin, báo cáo về xung đột lợi ích",
+      "text": "Điều 30. Thông tin, báo cáo về xung đột lợi ích\n1. Người có chức vụ, quyền hạn khi được phân công công việc hoặc trong quá\ntrình thực hiện nhiệm vụ, công vụ nếu biết hoặc buộc phải biết nhiệm vụ, công vụ\nđược giao có xung đột lợi ích thì phải báo cáo bằng văn bản với người trực tiếp\nquản lý, sử dụng để xem xét, xử lý theo quy định.\n2. Cơ quan, tổ chức, đơn vị, cá nhân khi phát hiện xung đột lợi ích của người\ncó chức vụ, quyền hạn thì phải thông tin, báo cáo bằng văn bản cho người trực tiếp\nquản lý, sử dụng người đó để xem xét, xử lý.\n3. Thông tin, báo cáo về xung đột lợi ích được thực hiện trong thời hạn 05 ngày\nlàm việc kể từ ngày biết được hoặc phát hiện được nhiệm vụ, công vụ được giao có\nxung đột lợi ích với người được giao nhiệm vụ, công vụ. Thông tin, báo cáo về\nxung đột lợi ích được thể hiện bằng văn bản và làm rõ các nội dung sau:\na) Tình huống có xung đột lợi ích;\nb) Thời điểm diễn ra và biết được hoặc phát hiện được xung đột lợi ích;\nc) Mức độ ảnh hưởng hoặc sẽ ảnh hưởng không đúng đến việc thực hiện nhiệm\nvụ, công vụ của người có chức vụ, quyền hạn;\nd) Đề nghị hoặc kiến nghị biện pháp kiểm soát xung đột lợi ích.\n\n20 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 31",
+      "heading": "Xử lý thông tin, báo cáo về xung đột lợi ích",
+      "text": "Điều 31. Xử lý thông tin, báo cáo về xung đột lợi ích\n1. Người đứng đầu cơ quan, tổ chức, đơn vị quản lý, sử dụng người có chức vụ,\nquyền hạn có thẩm quyền tiếp nhận, xử lý thông tin, báo cáo về xung đột lợi ích.\nTrong thời hạn 05 ngày làm việc, kể từ ngày nhận được thông tin, báo cáo thì người\nđứng đầu cơ quan, tổ chức, đơn vị quyết định hoặc đề nghị người có thẩm quyền quản\nlý người đó áp dụng một trong các biện pháp kiểm soát xung đột lợi ích quy định tại\ncác Điều 32, 33 và 34 của Nghị định này hoặc xử lý theo quy định của pháp luật.\n2. Trong thời hạn 05 ngày làm việc, kể từ ngày xử lý thông tin, báo cáo về\nxung đột lợi ích, cơ quan, tổ chức, đơn vị xử lý thông tin, báo cáo xung đột lợi ích\nphải thông báo bằng văn bản tới người có xung đột lợi ích và cơ quan, tổ chức, đơn\nvị, cá nhân có thông tin, báo cáo về xung đột lợi ích.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 32",
+      "heading": "Giám sát việc thực hiện nhiệm vụ, công vụ được giao của người",
+      "text": "Điều 32. Giám sát việc thực hiện nhiệm vụ, công vụ được giao của người\ncó xung đột lợi ích\n1. Việc quyết định giám sát thực hiện nhiệm vụ, công vụ của người có xung\nđột lợi ích được thực hiện khi có căn cứ cho rằng người đó không bảo đảm tính\nđúng đắn, khách quan, trung thực trong việc thực hiện nhiệm vụ, công vụ mà chưa\ncần thiết phải áp dụng biện pháp đình chỉ, tạm đình chỉ công tác hoặc tạm thời\nchuyển người có xung đột lợi ích sang vị trí công tác khác.\n2. Người trực tiếp quản lý, sử dụng người có xung đột lợi ích căn cứ vào\nphạm vi, quy mô, tính chất và nội dung của nhiệm vụ, công vụ, quyết định tự\ngiám sát hoặc giao cho công chức thuộc thẩm quyền quản lý của mình thực hiện\nviệc giám sát.\n3. Nội dung giám sát bao gồm:\na) Việc thực hiện nhiệm vụ, công vụ được giao có xung đột lợi ích bao gồm\ntiến độ và kết quả đã đạt được;\nb) Khó khăn, vướng mắc phát sinh trong việc thực hiện nhiệm vụ, công vụ;\nc) Các nội dung khác có liên quan đến việc thực hiện nhiệm vụ, công vụ của\nngười có xung đột lợi ích.\n4. Người được giao giám sát có trách nhiệm sau đây:\na) Yêu cầu người có xung đột lợi ích thực hiện chế độ thông tin, báo cáo, giải\ntrình và cung cấp thông tin, tài liệu có liên quan đến nội dung giám sát;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 21\nb) Làm việc trực tiếp với người có xung đột lợi ích khi xét thấy cần thiết nhằm\nphục vụ cho mục đích giám sát;\nc) Báo cáo trực tiếp hoặc bằng văn bản với người giao giám sát về khó khăn,\nvướng mắc hoặc hành vi vi phạm pháp luật của người có xung đột lợi ích để có các\nbiện pháp khắc phục, xử lý kịp thời;\nd) Báo cáo với người giao giám sát khi có căn cứ cho rằng việc giám sát không\nphù hợp với xung đột lợi ích hoặc khi xung đột lợi ích không còn.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 33",
+      "heading": "Tạm đình chỉ việc thực hiện nhiệm vụ, công vụ được giao của",
+      "text": "Điều 33. Tạm đình chỉ việc thực hiện nhiệm vụ, công vụ được giao của\nngười có xung đột lợi ích; tạm thời chuyển người có xung đột lợi ích sang vị\ntrí công tác khác\n1. Việc tạm đình chỉ thực hiện nhiệm vụ, công vụ của người có xung đột lợi\ních, việc tạm thời chuyển người có xung đột lợi ích sang vị trí công tác khác được\nthực hiện khi có căn cứ cho rằng nếu để người đó thực hiện nhiệm vụ, công vụ\nhoặc tiếp tục giữ vị trí công tác đó sẽ không đảm bảo tính khách quan, minh bạch\ntrong hoạt động của cơ quan, tổ chức, đơn vị.\n2. Việc tạm đình chỉ việc thực hiện nhiệm vụ, công vụ và tạm thời chuyển\nngười có xung đột lợi ích sang vị trí công tác khác được thực hiện theo quy định tại\nMục 3 Chương VI của Nghị định này và những quy định khác của pháp luật về cán\nbộ, công chức, viên chức và pháp luật về lao động.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 34",
+      "heading": "Đình chỉ việc thực hiện nhiệm vụ, công vụ được giao của người có",
+      "text": "Điều 34. Đình chỉ việc thực hiện nhiệm vụ, công vụ được giao của người có\nxung đột lợi ích\n1. Việc đình chỉ thực hiện nhiệm vụ, công vụ của người có xung đột lợi ích\nđược thực hiện khi có căn cứ rõ ràng về việc người đó có hành vi vi phạm pháp\nluật hoặc có tác động không đúng đắn, gây khó khăn, cản trở đến hoạt động của cơ\nquan nhà nước có thẩm quyền.\n2. Trong thời hạn 05 ngày, kể từ ngày có căn cứ được quy định tại khoản 1 Điều\nnày thì người đứng đầu cơ quan, tổ chức, đơn vị quyết định hoặc đề nghị người có\nthẩm quyền quản lý người có chức vụ, quyền hạn quyết định đình chỉ công tác,\nthực hiện nhiệm vụ, công vụ đối với người có chức vụ, quyền hạn.\n3. Quyết định đình chỉ việc thực hiện nhiệm vụ, công vụ phải ghi rõ họ và tên\ncủa người có chức vụ, quyền hạn; thời gian đình chỉ; lý do đình chỉ; quyền và nghĩa\nvụ của người có chức vụ, quyền hạn bị đình chỉ; hiệu lực thi hành.\n\n22 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n4. Quyết định đình chỉ việc thực hiện nhiệm vụ, công vụ phải được gửi cho\nngười bị đình chỉ và cơ quan, tổ chức, đơn vị, cá nhân có thông tin, báo cáo về\nxung đột lợi ích.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 35",
+      "heading": "Áp dụng pháp luật khác về kiểm soát xung đột lợi ích",
+      "text": "Điều 35. Áp dụng pháp luật khác về kiểm soát xung đột lợi ích\nTrong trường hợp pháp luật khác có quy định về kiểm soát xung đột lợi ích thì\nngoài việc áp dụng các quy định của Luật Phòng, chống tham nhũng và Nghị định\nnày thì còn áp dụng quy định của pháp luật đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 36",
+      "heading": "Quy định cụ thể danh mục vị trí công tác và thời hạn định kỳ",
+      "text": "Điều 36. Quy định cụ thể danh mục vị trí công tác và thời hạn định kỳ\nchuyển đổi\n1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính\nphủ quy định cụ thể danh mục và thời hạn định kỳ chuyển đổi vị trí công tác trong\ncơ quan, tổ chức, đơn vị thuộc bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và\nthuộc phạm vi quản lý theo ngành, lĩnh vực tại chính quyền địa phương.\n2. Danh mục vị trí công tác phải định kỳ chuyển đổi theo Phụ lục ban hành\nkèm theo Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 37",
+      "heading": "Phương thức thực hiện việc chuyển đổi vị trí công tác",
+      "text": "Điều 37. Phương thức thực hiện việc chuyển đổi vị trí công tác\n1. Chuyển đổi vị trí công tác cùng chuyên môn, nghiệp vụ từ bộ phận này\nsang bộ phận khác trong cơ quan, tổ chức, đơn vị; giữa các lĩnh vực, địa bàn\nđược phân công theo dõi, phụ trách, quản lý hoặc giữa các cơ quan, tổ chức,\nđơn vị trong phạm vi quản lý của các bộ, cơ quan ngang bộ, cơ quan thuộc\nChính phủ, chính quyền địa phương.\n2. Chuyển đổi vị trí công tác được thực hiện bằng văn bản điều động, bố trí,\nphân công nhiệm vụ đối với người có chức vụ, quyền hạn theo quy định của\npháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 38",
+      "heading": "Trường hợp chưa thực hiện việc chuyển đổi vị trí công tác",
+      "text": "Điều 38. Trường hợp chưa thực hiện việc chuyển đổi vị trí công tác\n1. Người đang trong thời gian bị xem xét, xử lý kỷ luật.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 23\n2. Người đang bị kiểm tra, xác minh, thanh tra, điều tra, truy tố, xét xử.\n3. Người đang điều trị bệnh hiểm nghèo được cơ quan y tế có thẩm quyền xác\nnhận; người đang đi học tập trung từ 12 tháng trở lên, người đang biệt phái.\n4. Phụ nữ đang trong thời gian mang thai hoặc nuôi con nhỏ dưới 36 tháng tuổi;\nnam giới đang nuôi con nhỏ dưới 36 tháng tuổi do vợ mất hoặc trong trường hợp\nkhách quan khác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 39",
+      "heading": "Chuyển đổi vị trí công tác trong trường hợp đặc biệt",
+      "text": "Điều 39. Chuyển đổi vị trí công tác trong trường hợp đặc biệt\n1. Đối với cơ quan, tổ chức, đơn vị chỉ có một vị trí trong danh mục định kỳ\nchuyển đổi mà vị trí này có yêu cầu chuyên môn, nghiệp vụ khác với các vị trí còn\nlại của cơ quan, tổ chức, đơn vị đó thì việc chuyển đổi do người đứng đầu cơ quan\ncấp trên trực tiếp lập kế hoạch chuyển đổi chung.\n2. Không thực hiện chuyển đổi vị trí công tác đối với người có thời gian công\ntác còn lại dưới 18 tháng cho đến khi đủ tuổi nghỉ hưu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 40",
+      "heading": "Nguyên tắc xác định thẩm quyền ra quyết định tạm đình chỉ công",
+      "text": "Điều 40. Nguyên tắc xác định thẩm quyền ra quyết định tạm đình chỉ công\ntác, tạm thời chuyển vị trí công tác khác\nNgười đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền bổ nhiệm, tuyển\ndụng, quản lý người có chức vụ, quyền hạn quyết định hoặc kiến nghị người có\nthẩm quyền quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nđối với người có chức vụ, quyền hạn do mình quản lý khi có căn cứ được quy định\ntại Điều 43 của Nghị định này.\n\n24 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nTrường hợp pháp luật khác hoặc điều lệ của tổ chức chính trị, tổ chức chính\ntrị - xã hội có quy định về thẩm quyền ra quyết định tạm đình chỉ công tác, tạm\nthời chuyển vị trí công tác khác thì áp dụng quy định của pháp luật đó hoặc theo\nđiều lệ của tổ chức đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 41",
+      "heading": "Thẩm quyền ra quyết định tạm đình chỉ công tác, tạm thời chuyển",
+      "text": "Điều 41. Thẩm quyền ra quyết định tạm đình chỉ công tác, tạm thời chuyển\nvị trí công tác khác trong cơ quan hành chính nhà nước\n1. Chủ tịch Ủy ban nhân dân cấp xã quyết định hoặc kiến nghị người có thẩm\nquyền quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đối\nvới người có chức vụ, quyền hạn do mình quản lý trực tiếp.\n2. Chủ tịch Ủy ban nhân dân cấp huyện quyết định tạm đình chỉ công tác đối\nvới Chủ tịch, Phó Chủ tịch Ủy ban nhân dân cấp xã; quyết định tạm đình chỉ công\ntác, tạm thời chuyển vị trí công tác khác đối với người đứng đầu, cấp phó của\nngười đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện và người\ncó chức vụ, quyền hạn do mình bổ nhiệm, quản lý trực tiếp.\n3. Người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh quyết\nđịnh tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đối với người\nđứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị trực thuộc cơ quan mình và\nngười có chức vụ, quyền hạn do mình bổ nhiệm, quản lý trực tiếp.\n4. Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định tạm đình chỉ công tác đối với\nChủ tịch, Phó Chủ tịch Ủy ban nhân dân cấp huyện; quyết định tạm đình chỉ công\ntác, tạm thời chuyển vị trí công tác khác đối với người đứng đầu, cấp phó của\nngười đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và người có\nchức vụ, quyền hạn do mình bổ nhiệm, quản lý trực tiếp.\n5. Tổng cục trưởng, Cục trưởng và cấp tương đương được phân cấp quản lý\nngười có chức vụ, quyền hạn quyết định hoặc kiến nghị người có thẩm quyền\nquyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đối với\nngười đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị thuộc Tổng cục, Cục\nvà cấp tương đương và người có chức vụ, quyền hạn do mình bổ nhiệm, quản lý\ntrực tiếp.\n6. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ quyết\nđịnh hoặc kiến nghị người có thẩm quyền quyết định tạm đình chỉ công tác, tạm\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 25\nthời chuyển vị trí công tác khác đối với người đứng đầu, cấp phó của người đứng\nđầu cơ quan, đơn vị thuộc bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và\nngười có chức vụ, quyền hạn do mình bổ nhiệm, quản lý trực tiếp.\n7. Thủ tướng Chính phủ quyết định tạm đình chỉ công tác đối với Chủ tịch,\nPhó Chủ tịch Ủy ban nhân dân cấp tỉnh; trình Quốc hội phê chuẩn đề nghị tạm\nđình chỉ công tác đối với Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang\nbộ, cơ quan thuộc Chính phủ; trong thời gian Quốc hội không họp, trình Chủ tịch\nnước quyết định tạm đình chỉ công tác đối với Phó Thủ tướng, Bộ trưởng, Thủ\ntrưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ; quyết định tạm đình chỉ công\ntác, tạm thời chuyển vị trí công tác khác đối với Thứ trưởng và các chức vụ tương\nđương, người có chức vụ, quyền hạn do Thủ tướng Chính phủ bổ nhiệm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 42",
+      "heading": "Thẩm quyền ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị",
+      "text": "Điều 42. Thẩm quyền ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị\ntrí công tác khác trong đơn vị sự nghiệp công lập, doanh nghiệp nhà nước\n1. Người đứng đầu cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập,\ndoanh nghiệp nhà nước quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí\ncông tác khác đối với người giữ chức vụ quản lý do mình bổ nhiệm.\n2. Người đứng đầu đơn vị sự nghiệp công lập, doanh nghiệp nhà nước quyết\nđịnh tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đối với viên chức\ndo mình tuyển dụng, bổ nhiệm, quản lý trực tiếp.\nMục 2\nCĂN CỨ TẠM ĐÌNH CHỈ CÔNG TÁC, TẠM THỜI CHUYỂN VỊ TRÍ\nCÔNG TÁC KHÁC; QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI RA\nQUYẾT ĐỊNH, NGƯỜI CÓ CHỨC VỤ, QUYỀN HẠN BỊ TẠM\nĐÌNH CHỈ, TẠM THỜI CHUYỂN VỊ TRÍ CÔNG TÁC KHÁC",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 43",
+      "heading": "Căn cứ ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị",
+      "text": "Điều 43. Căn cứ ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị\ntrí công tác khác\n1. Việc quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nđối với người có chức vụ, quyền hạn chỉ được thực hiện khi có căn cứ cho rằng\nngười đó có hành vi vi phạm pháp luật liên quan đến tham nhũng và có thể gây\nkhó khăn cho việc xem xét, xử lý nếu vẫn tiếp tục làm việc.\n\n26 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n2. Căn cứ cho rằng người có chức vụ, quyền hạn có hành vi vi phạm pháp luật\nliên quan đến tham nhũng khi thuộc một trong các trường hợp sau đây:\na) Có văn bản yêu cầu của Cơ quan thanh tra, Kiểm toán nhà nước, Cơ quan\nđiều tra, Viện kiểm sát nhân dân, Tòa án nhân dân;\nb) Qua xác minh, làm rõ nội dung theo đơn tố cáo phát hiện người có chức vụ,\nquyền hạn thực hiện hành vi có dấu hiệu tham nhũng;\nc) Qua công tác tự kiểm tra trong cơ quan, tổ chức, đơn vị phát hiện người có\nchức vụ, quyền hạn thực hiện hành vi có dấu hiệu tham nhũng;\nd) Qua công tác quản lý, chỉ đạo, điều hành phát hiện người có chức vụ, quyền\nhạn thực hiện hành vi vi phạm pháp luật liên quan đến việc thực hiện nhiệm vụ,\ncông vụ, quản lý, sử dụng tài chính công, tài sản công.\n3. Người có chức vụ, quyền hạn được coi là có thể gây khó khăn cho việc xem\nxét, xử lý của cơ quan nhà nước có thẩm quyền khi người đó có một trong các\nhành vi sau đây:\na) Từ chối cung cấp thông tin, tài liệu hoặc cung cấp thông tin, tài liệu không\nđầy đủ, sai sự thật;\nb) Cố ý trì hoãn, trốn tránh không thực hiện yêu cầu của người có thẩm quyền\ntrong quá trình xác minh, làm rõ hành vi tham nhũng;\nc) Tự ý tháo gỡ niêm phong tài liệu, tiêu hủy thông tin, tài liệu, chứng cứ; tẩu\ntán tài sản có liên quan đến hành vi vi phạm pháp luật;\nd) Lợi dụng chức vụ, quyền hạn, ảnh hưởng của mình, của người khác hoặc\ndùng hình thức khác để che giấu hành vi vi phạm pháp luật, gây khó khăn cho việc\nxác minh, làm rõ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 44",
+      "heading": "Quyền và nghĩa vụ của người ra quyết định tạm đình chỉ công",
+      "text": "Điều 44. Quyền và nghĩa vụ của người ra quyết định tạm đình chỉ công\ntác, tạm thời chuyển vị trí công tác khác\n1. Người ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác\nkhác đối với người có chức vụ, quyền hạn có quyền sau:\na) Yêu cầu Cơ quan thanh tra, Kiểm toán nhà nước, Cơ quan điều tra, Viện\nkiểm sát cung cấp thông tin, tài liệu để làm rõ căn cứ cho việc ra quyết định tạm\nđình chỉ công tác, tạm thời chuyển vị trí công tác khác;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 27\nb) Yêu cầu người có chức vụ, quyền hạn bị tạm đình chỉ công tác, tạm thời\nchuyển vị trí công tác khác phối hợp với cơ quan hoặc người có thẩm quyền để xác\nminh, làm rõ hành vi tham nhũng.\n2. Người ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác\nkhác đối với người có chức vụ, quyền hạn có nghĩa vụ sau:\na) Gửi quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nđến người có chức vụ, quyền hạn bị tạm đình chỉ công tác, tạm thời chuyển vị trí\ncông tác khác, cơ quan, tổ chức, đơn vị nơi người đó đang công tác và nơi tiếp\nnhận người tạm thời chuyển vị trí công tác đến làm việc;\nb) Hủy bỏ quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nđối với người có chức vụ, quyền hạn sau khi cơ quan có thẩm quyền kết luận người\nđó không có hành vi tham nhũng hoặc hết thời hạn tạm đình chỉ, tạm thời chuyển vị\ntrí công tác khác mà không xác định được người đó có hành vi tham nhũng;\nc) Thông báo công khai với toàn thể cán bộ, công chức, viên chức trong cơ\nquan, tổ chức, đơn vị mình về việc hủy bỏ quyết định tạm đình chỉ công tác, tạm\nthời chuyển vị trí công tác khác đối với người có chức vụ, quyền hạn;\nd) Khôi phục lại quyền, lợi ích hợp pháp của người có chức vụ, quyền hạn sau\nkhi cơ quan có thẩm quyền kết luận người đó không có hành vi tham nhũng hoặc\nhết thời hạn tạm đình chỉ, tạm thời chuyển vị trí công tác khác mà không xác định\nđược người đó có hành vi tham nhũng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 45",
+      "heading": "Quyền và nghĩa vụ của người có chức vụ, quyền hạn bị tạm đình chỉ",
+      "text": "Điều 45. Quyền và nghĩa vụ của người có chức vụ, quyền hạn bị tạm đình chỉ\ncông tác, tạm thời chuyển vị trí công tác khác\n1. Người có chức vụ, quyền hạn bị tạm đình chỉ công tác, tạm thời chuyển vị\ntrí công tác khác có quyền sau:\na) Nhận quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác;\nb) Nhận thông báo của cơ quan nhà nước có thẩm quyền kết luận về việc xác\nminh, làm rõ hành vi tham nhũng;\nc) Đề nghị người ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí\ncông tác khác xem xét lại quyết định khi có căn cứ cho rằng quyết định đó là trái\npháp luật, xâm phạm quyền, lợi ích hợp pháp của mình;\n\n28 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nd) Đề nghị người ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí\ncông tác khác hủy bỏ quyết định tạm đình chỉ, tạm thời chuyển vị trí công tác khác\nkhi hết thời hạn tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác mà cơ\nquan nhà nước có thẩm quyền không có kết luận về hành vi tham nhũng hoặc sau\nkhi cơ quan có thẩm quyền kết luận người đó không có hành vi tham nhũng;\nđ) Đề nghị người có thẩm quyền khôi phục lại quyền, lợi ích hợp pháp của mình.\n2. Người có chức vụ, quyền hạn bị tạm đình chỉ công tác, tạm thời chuyển vị\ntrí công tác khác có nghĩa vụ sau:\na) Chấp hành nghiêm chỉnh quyết định tạm đình chỉ công tác, quyết định tạm\nthời chuyển vị trí công tác khác của người có thẩm quyền;\nb) Cung cấp thông tin, tài liệu có liên quan và phối hợp với cơ quan có thẩm\nquyền trong quá trình xác minh, làm rõ hành vi tham nhũng;\nc) Chấp hành nội quy, quy chế làm việc của cơ quan, tổ chức, đơn vị tiếp nhận\ntrong thời gian tạm thời chuyển vị trí công tác khác.\nMục 3\nTRÌNH TỰ, THỦ TỤC, THỜI HẠN TẠM ĐÌNH CHỈ CÔNG TÁC,\nTẠM THỜI CHUYỂN VỊ TRÍ CÔNG TÁC KHÁC; HỦY BỎ\nVÀ CÔNG KHAI QUYẾT ĐỊNH HỦY BỎ VIỆC TẠM ĐÌNH CHỈ\nCÔNG TÁC, TẠM THỜI CHUYỂN VỊ TRÍ CÔNG TÁC KHÁC",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 46",
+      "heading": "Ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công",
+      "text": "Điều 46. Ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công\ntác khác\n1. Trong thời hạn 05 ngày làm việc, kể từ ngày có căn cứ được quy định tại\nĐiều 43 của Nghị định này thì người đứng đầu cơ quan, tổ chức, đơn vị quyết định\nhoặc đề nghị người có thẩm quyền quản lý người có chức vụ, quyền hạn quyết\nđịnh tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đối với người có\nchức vụ, quyền hạn.\n2. Việc lựa chọn áp dụng biện pháp tạm đình chỉ công tác hoặc tạm thời\nchuyển vị trí công tác đối với người có chức vụ, quyền hạn do người đứng đầu cơ\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 29\nquan, tổ chức, đơn vị hoặc người có thẩm quyền quản lý cán bộ, công chức, viên\nchức quyết định căn cứ vào tính chất, mức độ của từng vụ việc cụ thể và yêu cầu\nbố trí, sử dụng cán bộ, công chức, viên chức trong cơ quan, tổ chức, đơn vị đó.\n3. Quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nphải ghi rõ họ và tên của người có chức vụ, quyền hạn; thời gian tạm đình chỉ\ncông tác, tạm thời chuyển vị trí công tác khác; lý do tạm đình chỉ công tác, tạm\nthời chuyển vị trí công tác khác; quyền và nghĩa vụ của người có chức vụ,\nquyền hạn bị tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác; hiệu\nlực thi hành.\n4. Quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nđối với người có chức vụ, quyền hạn phải được gửi cho người bị tạm đình chỉ,\nngười bị tạm thời chuyển vị trí công tác khác; cơ quan, tổ chức, đơn vị nơi\nngười đó đang công tác và nơi tiếp nhận người tạm thời chuyển vị trí công tác\nđến làm việc.\n5. Trong trường hợp pháp luật khác có quy định về trình tự, thủ tục tạm\nđình chỉ công tác, tạm thời chuyển vị trí công tác khác thì áp dụng quy định\ncủa pháp luật đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 47",
+      "heading": "Thời hạn tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác",
+      "text": "Điều 47. Thời hạn tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nThời hạn tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác là 90 ngày,\nkể từ ngày ra quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 48",
+      "heading": "Hủy bỏ quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí",
+      "text": "Điều 48. Hủy bỏ quyết định tạm đình chỉ công tác, tạm thời chuyển vị trí\ncông tác khác\n1. Trong thời hạn 05 ngày làm việc, kể từ ngày cơ quan, tổ chức có thẩm\nquyền kết luận người có chức vụ, quyền hạn không có hành vi tham nhũng hoặc kể\ntừ ngày hết thời hạn tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác mà\nkhông có kết luận về hành vi tham nhũng thì người đã ra quyết định phải hủy bỏ\nquyết định tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đối với\nngười có chức vụ, quyền hạn.\n2. Quyết định hủy bỏ việc tạm đình chỉ công tác, tạm thời chuyển vị trí công\ntác khác được gửi cho người có chức vụ, quyền hạn bị tạm đình chỉ công tác, tạm\nthời chuyển vị trí công tác khác; cơ quan, tổ chức, đơn vị nơi người đó đang công\ntác và nơi tiếp nhận người tạm thời chuyển vị trí công tác đến làm việc.\n\n30 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 49",
+      "heading": "Công khai quyết định hủy bỏ việc tạm đình chỉ công tác, tạm thời",
+      "text": "Điều 49. Công khai quyết định hủy bỏ việc tạm đình chỉ công tác, tạm thời\nchuyển vị trí công tác khác\nTrong thời hạn 05 ngày làm việc, kể từ ngày ban hành quyết định hủy bỏ việc\ntạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác, người ra quyết định có\ntrách nhiệm công khai bằng một trong các hình thức sau đây:\n1. Công bố tại cuộc họp toàn thể của cơ quan, tổ chức, đơn vị nơi người bị tạm\nđình chỉ công tác, tạm thời chuyển vị trí công tác khác làm việc;\n2. Niêm yết tại trụ sở làm việc của cơ quan, tổ chức, đơn vị nơi người bị\ntạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác đó làm việc trong\nthời hạn 15 ngày liên tục, kể từ ngày niêm yết.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 50",
+      "heading": "Trình tự, thủ tục, thời hạn ra quyết định tạm đình chỉ công tác,",
+      "text": "Điều 50. Trình tự, thủ tục, thời hạn ra quyết định tạm đình chỉ công tác,\ntạm thời chuyển vị trí công tác khác đối với người có chức vụ, quyền hạn là\nthành viên của các tổ chức chính trị, tổ chức chính trị - xã hội\nTrình tự, thủ tục, thời hạn tạm đình chỉ công tác, tạm thời chuyển vị trí công\ntác khác đối với người có chức vụ, quyền hạn là thành viên của các tổ chức chính\ntrị, tổ chức chính trị - xã hội được thực hiện theo quy định của Luật Phòng, chống\ntham nhũng, Nghị định này và theo điều lệ, quy định của tổ chức đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 51",
+      "heading": "Chế độ, chính sách đối với người có chức vụ, quyền hạn trong",
+      "text": "Điều 51. Chế độ, chính sách đối với người có chức vụ, quyền hạn trong\nthời gian tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác\nNgười có chức vụ, quyền hạn trong thời gian tạm đình chỉ công tác, tạm thời\nchuyển vị trí công tác khác được giữ nguyên chế độ, chính sách và các quyền, lợi\ních hợp pháp khác như ở vị trí công tác trước khi tạm đình chỉ, tạm thời chuyển vị\ntrí công tác khác.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 31",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 52",
+      "heading": "Khôi phục lại quyền, lợi ích hợp pháp của người có chức vụ,",
+      "text": "Điều 52. Khôi phục lại quyền, lợi ích hợp pháp của người có chức vụ,\nquyền hạn sau khi cơ quan, tổ chức có thẩm quyền kết luận người đó không\ncó hành vi tham nhũng hoặc không có kết luận về hành vi tham nhũng\nNgười bị tạm đình chỉ công tác, tạm thời chuyển vị trí công tác khác được trở\nlại vị trí công tác ban đầu sau khi cơ quan, tổ chức có thẩm quyền kết luận người\nđó không có hành vi tham nhũng hoặc hết thời gian tạm đình chỉ, tạm thời chuyển\nvị trí công tác khác được xin lỗi, cải chính công khai và được bồi thường thiệt hại\ndo hành vi trái pháp luật trong việc ra quyết định tạm đình chỉ công tác, tạm thời\nchuyển vị trí công tác khác theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 53",
+      "heading": "Thực hiện công khai, minh bạch trong tổ chức và hoạt động của",
+      "text": "Điều 53. Thực hiện công khai, minh bạch trong tổ chức và hoạt động của\ndoanh nghiệp, tổ chức khu vực ngoài nhà nước\n1. Căn cứ vào quy định của Luật Phòng, chống tham nhũng, Nghị định này và\npháp luật khác có liên quan, công ty đại chúng, tổ chức tín dụng và tổ chức xã hội\ndo Thủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ tịch Ủy ban nhân dân\ncấp tỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy động các khoản đóng\ngóp của Nhân dân để hoạt động từ thiện, trên cơ sở phù hợp với đặc thù trong tổ\nchức, hoạt động của mình, có trách nhiệm quy định cụ thể hình thức công khai, nội\ndung, trách nhiệm thực hiện việc công khai, minh bạch trong doanh nghiệp, tổ\nchức mình.\n2. Nội dung công khai, minh bạch bao gồm:\na) Việc thực hiện chính sách, pháp luật có nội dung liên quan đến quyền, lợi\ních hợp pháp của người lao động, thành viên; chế độ lương, thưởng; thời giờ làm\n\n32 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nviệc, thời giờ nghỉ ngơi và các chế độ phúc lợi xã hội khác; quy tắc ứng xử, điều lệ\ndoanh nghiệp, tổ chức; công tác tổ chức, bố trí nhân sự và các nội dung khác phải\ncông khai, minh bạch theo quy định của pháp luật có liên quan;\nb) Ngoài các nội dung quy định tại điểm a khoản 2 Điều này, tổ chức xã hội do\nThủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ tịch Ủy ban nhân dân cấp\ntỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy động các khoản đóng góp\ncủa Nhân dân để hoạt động từ thiện còn phải công khai, minh bạch các nội dung\nsau: quy chế huy động, quản lý, sử dụng các khoản đóng góp để hoạt động từ\nthiện; quyền lợi và nghĩa vụ của người đóng góp, người được hưởng lợi; mục đích\nhuy động các khoản đóng góp để hoạt động từ thiện; đối tượng, hình thức và mức\nhuy động các khoản đóng góp; kết quả huy động, bao gồm: danh sách các đối\ntượng đóng góp, tài trợ, hình thức và mức đóng góp, tài trợ của từng đối tượng; kết\nquả quản lý, sử dụng các khoản huy động vào mục đích từ thiện.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 54",
+      "heading": "Thực hiện việc kiểm soát xung đột lợi ích trong doanh nghiệp,",
+      "text": "Điều 54. Thực hiện việc kiểm soát xung đột lợi ích trong doanh nghiệp,\ntổ chức khu vực ngoài nhà nước\nCăn cứ vào quy định của Luật Phòng, chống tham nhũng, Nghị định này và\npháp luật khác có liên quan, công ty đại chúng, tổ chức tín dụng và tổ chức xã hội\ndo Thủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ tịch Ủy ban nhân dân\ncấp tỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy động các khoản đóng\ngóp của Nhân dân để hoạt động từ thiện, trên cơ sở phù hợp với đặc thù trong tổ\nchức, hoạt động của mình, thực hiện việc kiểm soát xung đột lợi ích như sau:\n1. Quy định cụ thể các trường hợp xung đột lợi ích, trách nhiệm thông tin, báo\ncáo về các trường hợp xung đột lợi ích và công khai, phổ biến, tập huấn cho toàn\nthể người lao động, thành viên của doanh nghiệp, tổ chức;\n2. Quy định và thiết lập cơ chế tiếp nhận, xử lý thông tin, báo cáo về xung đột\nlợi ích trong doanh nghiệp, tổ chức, bao gồm việc giám sát và áp dụng các biện\npháp phù hợp khác theo thẩm quyền để kiểm soát xung đột lợi ích;\n3. Có biện pháp bảo vệ kịp thời quyền, lợi ích hợp pháp của người lao động đã\nthông tin, báo cáo về xung đột lợi ích trong doanh nghiệp, tổ chức khi bị thiệt hại\nhoặc đe dọa gây thiệt hại;\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 33\n4. Báo cáo cơ quan nhà nước có thẩm quyền theo quy định của pháp luật trong\ntrường hợp xung đột lợi ích dẫn đến các hành vi vi phạm pháp luật cần phải ngăn\nchặn, xử lý kịp thời.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 55",
+      "heading": "Trách nhiệm, xử lý trách nhiệm của người đứng đầu, cấp phó",
+      "text": "Điều 55. Trách nhiệm, xử lý trách nhiệm của người đứng đầu, cấp phó\ncủa người đứng đầu trong doanh nghiệp, tổ chức khu vực ngoài nhà nước khi\nđể xảy ra tham nhũng trong doanh nghiệp, tổ chức do mình quản lý\nCăn cứ vào quy định của Luật Phòng, chống tham nhũng, Nghị định này và\npháp luật khác có liên quan, công ty đại chúng, tổ chức tín dụng và tổ chức xã hội\ndo Thủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ tịch Ủy ban nhân dân\ncấp tỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy động các khoản đóng\ngóp của Nhân dân để hoạt động từ thiện, trên cơ sở phù hợp với đặc thù trong tổ\nchức, hoạt động của mình, quy định về chế độ trách nhiệm của người đứng đầu\nnhư sau:\n1. Quy định cụ thể trách nhiệm của người đứng đầu, cấp phó của người đứng\nđầu khi để xảy ra tham nhũng trong doanh nghiệp, tổ chức do mình quản lý;\n2. Quy định hình thức xử lý trách nhiệm; các trường hợp được xem xét loại\ntrừ, miễn, giảm hoặc bị tăng nặng trách nhiệm đối với người đứng đầu, cấp phó\ncủa người đứng đầu khi để xảy ra tham nhũng trong doanh nghiệp, tổ chức do\nmình quản lý;\n3. Quy định trình tự, thủ tục xử lý trách nhiệm của người đứng đầu, cấp phó\ncủa người đứng đầu khi để xảy ra tham nhũng trong doanh nghiệp, tổ chức do\nmình quản lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 56",
+      "heading": "Đối tượng thanh tra",
+      "text": "Điều 56. Đối tượng thanh tra\nĐối tượng thanh tra bao gồm các doanh nghiệp, tổ chức sau:\n1. Công ty đại chúng;\n\n34 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\n2. Tổ chức tín dụng;\n3. Tổ chức xã hội do Thủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ\ntịch Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy\nđộng các khoản đóng góp của Nhân dân để hoạt động từ thiện.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 57",
+      "heading": "Nội dung thanh tra",
+      "text": "Điều 57. Nội dung thanh tra\n1. Việc thực hiện công khai, minh bạch theo quy định tại Điều 53 của Nghị\nđịnh này.\n2. Việc kiểm soát xung đột lợi ích theo quy định tại Điều 54 của Nghị định này.\n3. Việc thực hiện trách nhiệm của người đứng đầu, cấp phó của người đứng\nđầu khi để xảy ra tham nhũng theo quy định tại Điều 55 của Nghị định này.\n4. Các nội dung khác về thực hiện quy định của pháp luật có liên quan đến\nphòng, chống tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 58",
+      "heading": "Căn cứ ra quyết định thanh tra",
+      "text": "Điều 58. Căn cứ ra quyết định thanh tra\nViệc ra quyết định thanh tra phải có một trong các căn cứ sau đây:\n1. Có dấu hiệu thực hiện không đúng quy định về các biện pháp phòng ngừa\ntham nhũng, bao gồm: không ban hành quy định; không thực hiện hoặc thực hiện\nkhông đúng, không đầy đủ các biện pháp theo quy định; có thực hiện nhưng không\nkiểm tra, giám sát việc thực hiện theo quy định;\n2. Yêu cầu của việc giải quyết phản ánh, tố cáo về hành vi vi phạm trong việc\nthực hiện các biện pháp phòng ngừa tham nhũng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 59",
+      "heading": "Thẩm quyền thanh tra",
+      "text": "Điều 59. Thẩm quyền thanh tra\n1. Thanh tra bộ quản lý lĩnh vực, ngành nghề kinh doanh chính của công ty đại\nchúng, tổ chức tín dụng có thẩm quyền thanh tra việc thực hiện pháp luật về\nphòng, chống tham nhũng đối với công ty đại chúng, tổ chức tín dụng đó, trừ các\ntrường hợp quy định tại điểm a khoản 3 và khoản 4 Điều này.\n2. Thanh tra Bộ Nội vụ thanh tra việc thực hiện pháp luật về phòng, chống\ntham nhũng đối với tổ chức xã hội do Bộ trưởng Bộ Nội vụ quyết định thành lập\nhoặc phê duyệt điều lệ có huy động các khoản đóng góp của Nhân dân để hoạt\nđộng từ thiện, trừ các trường hợp quy định tại khoản 4 Điều này.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 35\n3. Thanh tra tỉnh thanh tra việc thực hiện pháp luật về phòng, chống tham\nnhũng đối với doanh nghiệp, tổ chức sau đây:\na) Công ty đại chúng, tổ chức tín dụng có trụ sở chính đóng trên địa bàn tỉnh\nkhi có căn cứ quy định tại Điều 58 của Nghị định này mà Thanh tra bộ quản lý lĩnh\nvực, ngành nghề kinh doanh chính của công ty đại chúng, tổ chức tín dụng đó\nkhông tiến hành thanh tra. Quyết định thanh tra phải được gửi Thanh tra Chính phủ\nvà Thanh tra bộ có thẩm quyền.\nTrước khi ra quyết định thanh tra, Chánh Thanh tra tỉnh phải trao đổi với\nChánh Thanh tra bộ có thẩm quyền. Trường hợp không thống nhất được thì báo\ncáo Tổng Thanh tra Chính phủ để xem xét, quyết định.\nb) Tổ chức xã hội do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập\nhoặc phê duyệt điều lệ có huy động các khoản đóng góp của Nhân dân để hoạt\nđộng từ thiện.\n4. Thanh tra Chính phủ thanh tra việc thực hiện pháp luật về phòng, chống\ntham nhũng đối với tổ chức xã hội do Thủ tướng Chính phủ quyết định thành lập\nhoặc phê duyệt điều lệ có huy động các khoản đóng góp của Nhân dân để hoạt\nđộng từ thiện; doanh nghiệp, tổ chức khi được Thủ tướng Chính phủ giao hoặc khi\ncó căn cứ quy định tại Điều 58 của Nghị định này mà các Cơ quan thanh tra quy\nđịnh tại các khoản 1, 2 và 3 Điều này không tiến hành thanh tra.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 60",
+      "heading": "Nhiệm vụ, quyền hạn của người ra quyết định thanh tra, Trưởng",
+      "text": "Điều 60. Nhiệm vụ, quyền hạn của người ra quyết định thanh tra, Trưởng\nđoàn thanh tra, thành viên Đoàn thanh tra; trình tự, thủ tục tiến hành thanh tra\n1. Trong quá trình tiến hành hoạt động thanh tra, người ra quyết định thanh tra,\nTrưởng đoàn thanh tra, thành viên Đoàn thanh tra có nhiệm vụ, quyền hạn theo\nquy định của pháp luật về thanh tra.\n2. Trình tự, thủ tục, thời hạn tiến hành thanh tra việc thực hiện các quy định\ncủa pháp luật về phòng, chống tham nhũng được thực hiện theo quy định của pháp\nluật về thanh tra.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 61",
+      "heading": "Kết luận thanh tra",
+      "text": "Điều 61. Kết luận thanh tra\n1. Kết luận thanh tra phải có các nội dung sau:\na) Kết luận về các nội dung được thanh tra;\n\n36 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nb) Kết luận về trách nhiệm của người đứng đầu doanh nghiệp, tổ chức được\nthanh tra trong tổ chức, chỉ đạo việc thực hiện các quy định của pháp luật về\nphòng, chống tham nhũng theo các mức độ: thiếu trách nhiệm trong quản lý; yếu\nkém về năng lực quản lý;\nc) Yêu cầu doanh nghiệp, tổ chức được thanh tra thực hiện các biện pháp để\nkhắc phục những thiếu sót, khuyết điểm trong việc thực hiện các quy định của\npháp luật về phòng, chống tham nhũng;\nd) Xử lý hoặc kiến nghị người có thẩm quyền xử lý doanh nghiệp, tổ chức đối\nvới việc vi phạm các quy định của pháp luật về phòng, chống tham nhũng theo quy\nđịnh của pháp luật.\n2. Kết luận thanh tra phải được công khai theo quy định của pháp luật về thanh\ntra. Trường hợp kết luận doanh nghiệp, tổ chức có hành vi vi phạm quy định pháp\nluật về phòng, chống tham nhũng thì thực hiện như sau:\na) Danh sách doanh nghiệp có hành vi vi phạm phải được gửi về các Bộ, cơ\nquan quản lý lĩnh vực, ngành nghề kinh doanh chính của doanh nghiệp để tổng\nhợp, theo dõi, quản lý và công bố công khai trên Cổng thông tin điện tử;\nb) Danh sách tổ chức có hành vi vi phạm phải được gửi về Bộ Nội vụ hoặc Sở\nNội vụ theo phân cấp quản lý để tổng hợp, theo dõi, quản lý và công bố công khai\ntrên Cổng thông tin điện tử.\n3. Trong trường hợp hành vi vi phạm các quy định của pháp luật về phòng,\nchống tham nhũng có dấu hiệu tội phạm thì người ra quyết định thanh tra phải\nchuyển hồ sơ cho cơ quan điều tra, đồng thời thông báo bằng văn bản cho Viện\nkiểm sát cùng cấp theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 62",
+      "heading": "Quyền và nghĩa vụ của doanh nghiệp, tổ chức là đối tượng thanh tra",
+      "text": "Điều 62. Quyền và nghĩa vụ của doanh nghiệp, tổ chức là đối tượng thanh tra\nQuyền và nghĩa vụ của doanh nghiệp, tổ chức là đối tượng thanh tra được thực\nhiện theo quy định của pháp luật về thanh tra.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 63",
+      "heading": "Xử lý chồng chéo, trùng lắp trong thanh tra việc thực hiện các",
+      "text": "Điều 63. Xử lý chồng chéo, trùng lắp trong thanh tra việc thực hiện các\nquy định của Luật Phòng, chống tham nhũng đối với doanh nghiệp, tổ chức\n1. Khi phát hiện chồng chéo về phạm vi, đối tượng, nội dung, thời gian\nthanh tra giữa Thanh tra các bộ, giữa Thanh tra bộ với Thanh tra tỉnh thì các Cơ\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 37\nquan thanh tra có trách nhiệm phối hợp, trao đổi, thống nhất hướng xử lý, cụ thể\nnhư sau:\na) Cuộc thanh tra chồng chéo về phạm vi, đối tượng, nội dung, thời gian thanh\ntra giữa Thanh tra các bộ thì Thanh tra của bộ có chức năng quản lý nhà nước về\nngành, lĩnh vực hoạt động chính của đối tượng thanh tra tiến hành thanh tra;\nb) Cuộc thanh tra chồng chéo về phạm vi, đối tượng, nội dung, thời gian thanh\ntra giữa Thanh tra bộ với Thanh tra tỉnh thì Thanh tra bộ tiến hành thanh tra.\n2. Trường hợp các Cơ quan thanh tra không thống nhất được về việc xử lý\nchồng chéo hoặc doanh nghiệp, tổ chức có phản ánh, kiến nghị về việc chồng chéo\ntrong hoạt động thanh tra thì Tổng Thanh tra Chính phủ xem xét, quyết định.\nTrong thời gian 10 ngày, kể từ ngày nhận được văn bản đề nghị, kiến nghị,\nphản ánh, Tổng Thanh tra Chính phủ có ý kiến bằng văn bản về việc xử lý chồng\nchéo về phạm vi, đối tượng, nội dung, thời gian thanh tra.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 64",
+      "heading": "Quyền và nghĩa vụ của cơ quan, tổ chức yêu cầu cung cấp thông tin",
+      "text": "Điều 64. Quyền và nghĩa vụ của cơ quan, tổ chức yêu cầu cung cấp thông tin\n1. Cơ quan, tổ chức yêu cầu cung cấp thông tin có các quyền sau:\na) Yêu cầu cung cấp thông tin về hoạt động của cơ quan, tổ chức, đơn vị theo\nquy định tại khoản 1 Điều 14 của Luật Phòng, chống tham nhũng;\nb) Được nhận thông tin đã yêu cầu hoặc nhận văn bản trả lời về việc từ chối\nhoặc chưa cung cấp thông tin;\nc) Khiếu nại về việc không cung cấp thông tin hoặc không thực hiện nghĩa vụ\ncung cấp thông tin theo đúng quy định của pháp luật.\n2. Cơ quan, tổ chức yêu cầu cung cấp thông tin có các nghĩa vụ sau:\na) Yêu cầu cung cấp thông tin bằng văn bản có ghi rõ họ, tên, địa chỉ, lý do của\nviệc yêu cầu cung cấp thông tin;\n\n38 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nb) Thực hiện quyền yêu cầu cung cấp thông tin theo quy định tại Luật Phòng,\nchống tham nhũng và Nghị định này;\nc) Không được lợi dụng quyền yêu cầu cung cấp thông tin để gây rối hoặc để\nthực hiện các hành vi trái pháp luật gây thiệt hại cho cơ quan, tổ chức, cá nhân;\nd) Chấp hành quyết định giải quyết khiếu nại có hiệu lực pháp luật về việc\nthực hiện yêu cầu cung cấp thông tin.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 65",
+      "heading": "Quyền và nghĩa vụ của cơ quan, tổ chức, đơn vị được yêu cầu",
+      "text": "Điều 65. Quyền và nghĩa vụ của cơ quan, tổ chức, đơn vị được yêu cầu\ncung cấp thông tin\n1. Cơ quan, tổ chức, đơn vị được yêu cầu cung cấp thông tin có các quyền\nsau đây:\na) Được biết lý do của việc yêu cầu cung cấp thông tin;\nb) Từ chối cung cấp các thông tin thuộc bí mật nhà nước và những nội dung\nkhác theo quy định của Chính phủ, thông tin đã được công khai trên các phương\ntiện thông tin đại chúng, phát hành ấn phẩm hoặc niêm yết công khai, thông tin\nkhông liên quan đến hoạt động của cơ quan, tổ chức, đơn vị được yêu cầu;\nc) Yêu cầu người được cung cấp thông tin sử dụng thông tin đó hợp pháp và\nbảo đảm tính chính xác khi sử dụng thông tin đó.\n2. Cơ quan, tổ chức, đơn vị được yêu cầu cung cấp thông tin có các nghĩa vụ\nsau đây:\na) Cung cấp thông tin bằng văn bản cho cơ quan, tổ chức theo đúng trình tự, thủ\ntục, thời hạn được quy định tại Luật Phòng, chống tham nhũng và Nghị định này;\nb) Trả lời bằng văn bản và nêu rõ lý do cho cơ quan, tổ chức yêu cầu cung cấp\nthông tin biết trong trường hợp không cung cấp hoặc chưa cung cấp được;\nc) Hướng dẫn tiếp cận thông tin được yêu cầu trong trường hợp thông tin đó đã\nđược công khai trên các phương tiện thông tin đại chúng, được phát hành ấn phẩm\nhoặc niêm yết công khai;\nd) Chấp hành quyết định giải quyết khiếu nại có hiệu lực pháp luật về việc\nthực hiện yêu cầu cung cấp thông tin.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 39",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 66",
+      "heading": "Trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị trong",
+      "text": "Điều 66. Trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị trong\nviệc cung cấp thông tin theo yêu cầu của cơ quan, tổ chức\nNgười đứng đầu cơ quan, tổ chức, đơn vị có trách nhiệm tổ chức, chỉ đạo việc\ncung cấp thông tin; chịu trách nhiệm về việc vi phạm nghĩa vụ cung cấp thông tin\ncủa cơ quan, tổ chức, đơn vị mình theo quy định tại Luật Phòng, chống tham\nnhũng, Nghị định này và các quy định khác của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 67",
+      "heading": "Hình thức yêu cầu cung cấp thông tin của cơ quan, tổ chức",
+      "text": "Điều 67. Hình thức yêu cầu cung cấp thông tin của cơ quan, tổ chức\n1. Việc yêu cầu cung cấp thông tin được thực hiện bằng văn bản hoặc thông\nđiệp dữ liệu.\n2. Văn bản hoặc thông điệp dữ liệu yêu cầu cung cấp thông tin được chuyển\ntrực tiếp, gửi qua đường bưu điện hoặc qua giao dịch điện tử cho cơ quan, tổ chức,\nđơn vị, cá nhân được yêu cầu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 68",
+      "heading": "Thực hiện yêu cầu cung cấp thông tin",
+      "text": "Điều 68. Thực hiện yêu cầu cung cấp thông tin\nTrong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu cung cấp thông tin, cơ\nquan, tổ chức, đơn vị được yêu cầu cung cấp thông tin phải tiến hành một trong\ncác hoạt động sau:\n1. Thực hiện việc cung cấp thông tin khi nội dung thông tin được yêu cầu đáp\nứng các điều kiện sau:\na) Thuộc phạm vi công khai theo quy định của Luật Phòng, chống tham nhũng\nvà Nghị định này;\nb) Thuộc phạm vi hoạt động của cơ quan, tổ chức, đơn vị được yêu cầu;\nc) Chưa được công khai trên các phương tiện thông tin đại chúng, phát hành ấn\nphẩm hoặc niêm yết công khai.\n2. Trả lời bằng văn bản về việc không cung cấp thông tin cho cơ quan, tổ chức\nyêu cầu trong trường hợp nội dung thông tin được yêu cầu không đáp ứng các điều\nkiện được quy định tại khoản 1 Điều này và nêu rõ lý do.\n3. Nếu thông tin được yêu cầu đã được công khai trên các phương tiện thông\ntin đại chúng, phát hành ấn phẩm hoặc niêm yết công khai thì trong văn bản trả lời\nphải có hướng dẫn cách thức tiếp cận thông tin đó.\n\n40 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 69",
+      "heading": "Bảo đảm quyền yêu cầu cung cấp thông tin của cơ quan, tổ chức",
+      "text": "Điều 69. Bảo đảm quyền yêu cầu cung cấp thông tin của cơ quan, tổ chức\n1. Trong trường hợp cơ quan, tổ chức yêu cầu cung cấp thông tin có căn cứ\ncho rằng việc cung cấp thông tin là chưa đầy đủ hoặc trái pháp luật thì có quyền\nkhiếu nại.\n2. Việc khiếu nại và giải quyết khiếu nại về quyền yêu cầu cung cấp thông tin\nđược thực hiện theo quy định của pháp luật về khiếu nại.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 70",
+      "heading": "Báo cáo của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và",
+      "text": "Điều 70. Báo cáo của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và\nỦy ban nhân dân cấp tỉnh\n1. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh\ncó trách nhiệm báo cáo với Chính phủ về công tác phòng, chống tham nhũng tại\nbộ, ngành, địa phương mình và gửi cho Thanh tra Chính phủ để xây dựng báo cáo\nhằng năm về phòng, chống tham nhũng.\n2. Thanh tra Chính phủ có trách nhiệm giúp Chính phủ quy định về chế độ\nthông tin, báo cáo; hướng dẫn, kiểm tra, đôn đốc các bộ, ngành, địa phương trong\nthực hiện chế độ thông tin, báo cáo và xây dựng báo cáo hằng năm về phòng,\nchống tham nhũng trong phạm vi cả nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 71",
+      "heading": "Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ",
+      "text": "Điều 71. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh\n1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính\nphủ, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm quy định chi tiết về chế độ\nthông tin, báo cáo; chỉ đạo, đôn đốc, kiểm tra việc thực hiện chế độ thông tin, báo\ncáo về công tác phòng, chống tham nhũng trong phạm vi quản lý của bộ, ngành,\nđịa phương mình.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính\nphủ, Chủ tịch Ủy ban nhân dân cấp tỉnh phải chịu trách nhiệm về tính chính xác,\nkhách quan của báo cáo về công tác phòng, chống tham nhũng.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 41",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 72",
+      "heading": "Trao đổi thông tin giữa Thanh tra Chính phủ với Bộ Công an,",
+      "text": "Điều 72. Trao đổi thông tin giữa Thanh tra Chính phủ với Bộ Công an,\nViện kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao, Kiểm toán nhà nước\n1. Thanh tra Chính phủ phối hợp với Bộ Công an, Viện kiểm sát nhân dân tối\ncao, Tòa án nhân dân tối cao, Kiểm toán nhà nước trong việc trao đổi, cung cấp\nthông tin, tài liệu, kinh nghiệm về công tác phòng, chống tham nhũng trong hoạt\nđộng thanh tra, điều tra, kiểm sát, xét xử, kiểm toán.\n2. Việc trao đổi, cung cấp thông tin, tài liệu về công tác phòng, chống tham nhũng\ntheo quy định tại khoản 1 Điều này phải bảo đảm nhanh chóng, chính xác, kịp thời.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 73",
+      "heading": "Trao đổi thông tin giữa Thanh tra Chính phủ với các tổ chức",
+      "text": "Điều 73. Trao đổi thông tin giữa Thanh tra Chính phủ với các tổ chức\nkhác về công tác phòng, chống tham nhũng\n1. Thanh tra Chính phủ phối hợp với Ủy ban trung ương Mặt trận Tổ quốc\nViệt Nam và các tổ chức thành viên của Mặt trận, Phòng Thương mại và Công\nnghiệp Việt Nam, hiệp hội doanh nghiệp, hiệp hội ngành nghề, cơ quan báo chí\nthường xuyên trao đổi, cung cấp thông tin, tài liệu về phòng, chống tham nhũng\nthông qua hoạt động của các tổ chức đó.\n2. Việc trao đổi, cung cấp thông tin, tài liệu về phòng, chống tham nhũng theo\nquy định tại khoản 1 Điều này phải bảo đảm nhanh chóng, chính xác, kịp thời.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 74",
+      "heading": "Trao đổi thông tin về công tác phòng, chống tham nhũng ở",
+      "text": "Điều 74. Trao đổi thông tin về công tác phòng, chống tham nhũng ở\nđịa phương\nỦy ban nhân dân cấp tỉnh có trách nhiệm chủ trì, phối hợp với Viện kiểm sát\nnhân dân, Tòa án nhân dân cùng cấp, Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh,\nhiệp hội doanh nghiệp, hiệp hội ngành nghề, cơ quan báo chí ở địa phương trong\nviệc trao đổi, cung cấp thông tin, tài liệu về công tác phòng, chống tham nhũng ở\nđịa phương.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 75",
+      "heading": "Công khai báo cáo hằng năm về công tác phòng, chống tham nhũng",
+      "text": "Điều 75. Công khai báo cáo hằng năm về công tác phòng, chống tham nhũng\n1. Báo cáo hằng năm về công tác phòng, chống tham nhũng của Ủy ban nhân\ndân cấp tỉnh được Chủ tịch Ủy ban nhân dân cấp tỉnh công khai trên cổng thông tin\nđiện tử chậm nhất vào ngày làm việc cuối cùng của tháng 3 hằng năm.\n2. Báo cáo hằng năm về công tác phòng, chống tham nhũng của bộ, cơ quan\nngang bộ, cơ quan thuộc Chính phủ được Bộ trưởng, Thủ trưởng cơ quan ngang\n\n42 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nbộ, Thủ trưởng cơ quan thuộc Chính phủ công khai trên cổng thông tin điện tử\nchậm nhất vào ngày làm việc cuối cùng của tháng 3 hằng năm.\n3. Báo cáo hằng năm về công tác phòng, chống tham nhũng của Chính phủ\nđược Thủ tướng Chính phủ công khai trên cổng thông tin điện tử của Chính phủ\nchậm nhất vào ngày làm việc cuối cùng của tháng 4 hằng năm.\nChương X\nXỬ LÝ TRÁCH NHIỆM NGƯỜI ĐỨNG ĐẦU, CẤP PHÓ CỦA NGƯỜI\nĐỨNG ĐẦU CƠ QUAN, TỔ CHỨC, ĐƠN VỊ KHI ĐỂ XẢY RA THAM\nNHŨNG VÀ XỬ LÝ VI PHẠM ĐỐI VỚI HÀNH VI KHÁC VI\nPHẠM PHÁP LUẬT VỀ PHÒNG, CHỐNG THAM NHŨNG\nMục 1\nXỬ LÝ TRÁCH NHIỆM NGƯỜI ĐỨNG ĐẦU, CẤP PHÓ CỦA NGƯỜI\nĐỨNG ĐẦU CƠ QUAN, TỔ CHỨC, ĐƠN VỊ KHI ĐỂ XẢY RA\nTHAM NHŨNG TRONG CƠ QUAN, TỔ CHỨC, ĐƠN VỊ\nDO MÌNH QUẢN LÝ, PHỤ TRÁCH",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 76",
+      "heading": "Căn cứ xác định trách nhiệm",
+      "text": "Điều 76. Căn cứ xác định trách nhiệm\n1. Việc xác định trách nhiệm của người đứng đầu, cấp phó của người đứng đầu\ncơ quan, tổ chức, đơn vị căn cứ vào mức độ của vụ việc tham nhũng.\n2. Mức độ của vụ việc tham nhũng được xác định như sau:\na) Vụ việc tham nhũng ít nghiêm trọng là vụ việc mà người có hành vi tham\nnhũng chưa đến mức bị xử lý hình sự hoặc bị xử lý hình sự bằng hình thức phạt\ntiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm;\nb) Vụ việc tham nhũng nghiêm trọng là vụ việc mà người có hành vi tham\nnhũng bị xử lý bằng hình thức phạt tù từ trên 03 năm đến 07 năm;\nc) Vụ việc tham nhũng rất nghiêm trọng là vụ việc mà người có hành vi tham\nnhũng bị xử lý bằng hình thức phạt tù từ trên 07 năm đến 15 năm;\nd) Vụ việc tham nhũng đặc biệt nghiêm trọng là vụ việc mà người có hành vi\ntham nhũng bị xử lý bằng hình thức phạt tù từ trên 15 năm đến 20 năm, tù chung\nthân hoặc tử hình.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 43",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 77",
+      "heading": "Hình thức xử lý kỷ luật",
+      "text": "Điều 77. Hình thức xử lý kỷ luật\nNgười đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị, nếu để\nxảy ra vụ, việc tham nhũng trong cơ quan, tổ chức, đơn vị do mình quản lý, phụ\ntrách thì tùy theo tính chất, mức độ của vụ, việc sẽ xử lý kỷ luật như sau:\n1. Người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị là\ncán bộ, công chức, viên chức và người quản lý doanh nghiệp nhà nước thì bị xử lý\nkỷ luật bằng một trong những hình thức sau:\na) Khiển trách;\nb) Cảnh cáo;\nc) Cách chức.\n2. Người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị\nthuộc tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ\nchức xã hội thì bị xử lý kỷ luật theo quy định của pháp luật hiện hành và điều lệ\ncủa tổ chức đó.\n3. Người đứng đầu, cấp phó của người đứng đầu cơ quan, đơn vị là sĩ quan, hạ\nsĩ quan, quân nhân chuyên nghiệp trong quân đội nhân dân và công an nhân dân thì\nbị xử lý kỷ luật theo quy định của pháp luật hiện hành đối với sĩ quan, hạ sĩ quan,\nquân nhân chuyên nghiệp trong quân đội nhân dân và công an nhân dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 78",
+      "heading": "Áp dụng hình thức kỷ luật",
+      "text": "Điều 78. Áp dụng hình thức kỷ luật\n1. Hình thức khiển trách được áp dụng trong trường hợp người đứng đầu, cấp\nphó của người đứng đầu cơ quan, tổ chức, đơn vị để xảy ra vụ việc tham nhũng ít\nnghiêm trọng.\n2. Hình thức cảnh cáo được áp dụng trong trường hợp người đứng đầu, cấp\nphó của người đứng đầu cơ quan, tổ chức, đơn vị để xảy ra vụ việc tham nhũng\nnghiêm trọng hoặc nhiều vụ việc tham nhũng ít nghiêm trọng trong cơ quan, tổ\nchức, đơn vị do mình quản lý, phụ trách.\n3. Hình thức cách chức được áp dụng trong trường hợp người đứng đầu, cấp\nphó của người đứng đầu cơ quan, tổ chức, đơn vị để xảy ra vụ việc tham nhũng rất\nnghiêm trọng, đặc biệt nghiêm trọng hoặc nhiều vụ việc tham nhũng nghiêm trọng\ntrong cơ quan, tổ chức, đơn vị do mình quản lý, phụ trách.\n\n44 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 79",
+      "heading": "Trách nhiệm xem xét xử lý kỷ luật",
+      "text": "Điều 79. Trách nhiệm xem xét xử lý kỷ luật\nTrong thời hạn 30 ngày làm việc, kể từ ngày có kết luận, báo cáo chính thức\ncủa cơ quan hoặc người có thẩm quyền về vụ việc, vụ án tham nhũng hoặc từ ngày\nbản án về tham nhũng có hiệu lực pháp luật, người đứng đầu cơ quan, tổ chức, đơn\nvị cấp trên trực tiếp có trách nhiệm xem xét xử lý kỷ luật hoặc báo cáo để cấp có\nthẩm quyền xem xét xử lý kỷ luật đối với người đứng đầu, cấp phó của người đứng\nđầu cơ quan, tổ chức, đơn vị có trách nhiệm trực tiếp hoặc trách nhiệm liên đới để\nxảy ra tham nhũng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 80",
+      "heading": "Thẩm quyền, trình tự, thủ tục xử lý trách nhiệm người đứng đầu,",
+      "text": "Điều 80. Thẩm quyền, trình tự, thủ tục xử lý trách nhiệm người đứng đầu,\ncấp phó của người đứng đầu\nThẩm quyền, trình tự, thủ tục xử lý trách nhiệm người đứng đầu, cấp phó của\nngười đứng đầu cơ quan, tổ chức, đơn vị được thực hiện theo quy định của pháp\nluật về xử lý kỷ luật cán bộ, công chức, viên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 81",
+      "heading": "Xử lý vi phạm trong việc thực hiện công khai, minh bạch",
+      "text": "Điều 81. Xử lý vi phạm trong việc thực hiện công khai, minh bạch\n1. Người thực hiện công vụ, nhiệm vụ vi phạm quy định về công khai, minh\nbạch thì bị xử lý như sau:\na) Khiển trách đối với người vi phạm quy định về nội dung, hình thức, thời hạn\nthực hiện việc công khai, cung cấp thông tin, thực hiện trách nhiệm giải trình và vi\nphạm chế độ báo cáo về công tác phòng, chống tham nhũng;\nb) Cảnh cáo đối với người không thực hiện công khai, không tổ chức họp báo,\nkhông cung cấp thông tin, không thực hiện việc giải trình, không xây dựng, không\ncông khai báo cáo về công tác phòng, chống tham nhũng.\n2. Người đứng đầu cơ quan, tổ chức, đơn vị có vi phạm trong việc tổ chức, chỉ\nđạo, kiểm tra, đôn đốc thực hiện công khai, minh bạch thì sẽ bị xử lý kỷ luật bằng\nhình thức cảnh cáo.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 45",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 82",
+      "heading": "Xử lý vi phạm quy định về chế độ, định mức, tiêu chuẩn",
+      "text": "Điều 82. Xử lý vi phạm quy định về chế độ, định mức, tiêu chuẩn\n1. Người cho phép sử dụng trái quy định về định mức, tiêu chuẩn, chế độ mà\nchưa đến mức bị truy cứu trách nhiệm hình sự thì bị xử lý kỷ luật bằng hình thức\ncảnh cáo; phải hoàn trả phần giá trị đã cho phép sử dụng trái quy định và bồi\nthường khi có thiệt hại xảy ra.\n2. Người sử dụng trái quy định về định mức, tiêu chuẩn, chế độ mà chưa đến\nmức bị truy cứu trách nhiệm hình sự thì phải liên đới bồi thường phần giá trị đã sử\ndụng vượt quá quy định và bị xử lý như sau:\na) Trường hợp không biết việc sử dụng đó là trái quy định thì bị xử lý kỷ luật\nbằng hình thức khiển trách;\nb) Trường hợp biết hoặc buộc phải biết việc sử dụng đó là trái quy định thì bị\nxử lý kỷ luật bằng hình thức cảnh cáo.\n3. Người tự ý sử dụng trái quy định về định mức, tiêu chuẩn, chế độ mà\nchưa đến mức bị truy cứu trách nhiệm hình sự thì bị xử lý kỷ luật bằng hình\nthức cảnh cáo; phải hoàn trả phần giá trị đã sử dụng trái quy định và bồi thường\nnếu gây thiệt hại.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 83",
+      "heading": "Xử lý vi phạm quy tắc ứng xử của người có chức vụ, quyền hạn",
+      "text": "Điều 83. Xử lý vi phạm quy tắc ứng xử của người có chức vụ, quyền hạn\ntrong cơ quan, tổ chức, đơn vị\n1. Người có chức vụ, quyền hạn có hành vi vi phạm quy định tại khoản 2\nĐiều 20 của Luật Phòng, chống tham nhũng mà chưa đến mức bị truy cứu trách\nnhiệm hình sự thì bị xử lý như sau:\na) Khiển trách đối với người lần đầu có hành vi nhũng nhiễu trong giải quyết\ncông việc; sử dụng trái phép thông tin của cơ quan, tổ chức, đơn vị;\nb) Cảnh cáo đối với người có hành vi nhũng nhiễu, người sử dụng trái phép\nthông tin của cơ quan, tổ chức, đơn vị mà đã bị xử lý bằng hình thức khiển trách;\nngười tư vấn cho doanh nghiệp, tổ chức, cá nhân khác trong nước và nước ngoài\nvề công việc thuộc thẩm quyền giải quyết hoặc tham gia giải quyết;\nc) Cách chức hoặc buộc thôi việc đối với người tư vấn cho doanh nghiệp, tổ\nchức, cá nhân khác trong nước và nước ngoài về công việc có liên quan đến bí mật\nnhà nước, bí mật công tác;\n\n46 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nd) Cách chức hoặc buộc thôi việc đối với người thành lập, tham gia quản lý,\nđiều hành doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần,\ncông ty hợp danh, hợp tác xã, trừ trường hợp luật có quy định khác.\n2. Cảnh cáo đối với người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ\nchức, đơn vị lần đầu có hành vi bố trí vợ hoặc chồng, bố, mẹ, con, anh, chị, em\nruột của mình giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ quỹ, thủ\nkho trong cơ quan, tổ chức, đơn vị hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký\nkết hợp đồng cho cơ quan, tổ chức, đơn vị đó.\n3. Cách chức đối với người đứng đầu, cấp phó của người đứng đầu cơ quan, tổ\nchức, đơn vị có hành vi bố trí vợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột của\nmình giữ chức vụ quản lý về tổ chức nhân sự, kế toán, làm thủ quỹ, thủ kho trong\ncơ quan, tổ chức, đơn vị hoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp\nđồng cho cơ quan, tổ chức, đơn vị đó mà đã bị xử lý bằng hình thức cảnh cáo;\nngười đứng đầu, cấp phó của người đứng đầu cơ quan nhà nước góp vốn vào\ndoanh nghiệp hoạt động trong phạm vi ngành, nghề mà người đó trực tiếp thực\nhiện việc quản lý nhà nước hoặc để vợ hoặc chồng, bố, mẹ, con kinh doanh trong\nphạm vi ngành, nghề do người đó trực tiếp thực hiện việc quản lý nhà nước.\n4. Thành viên Hội đồng quản trị, thành viên Hội đồng thành viên, Chủ tịch\ncông ty, Tổng giám đốc, Phó Tổng giám đốc, Giám đốc, Phó Giám đốc, Kế toán\ntrưởng và người giữ chức danh, chức vụ quản lý khác trong doanh nghiệp nhà\nnước có hành vi ký kết hợp đồng với doanh nghiệp thuộc sở hữu của vợ hoặc\nchồng, bố, mẹ, con, anh, chị, em ruột; cho phép doanh nghiệp thuộc sở hữu của\nvợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột tham dự các gói thầu của doanh\nnghiệp mình; bố trí vợ hoặc chồng, bố, mẹ, con, anh, chị, em ruột giữ chức vụ\nquản lý về tổ chức nhân sự, kế toán, làm thủ quỹ, thủ kho trong doanh nghiệp\nhoặc giao dịch, mua bán hàng hóa, dịch vụ, ký kết hợp đồng cho doanh nghiệp\nmà chưa đến mức bị truy cứu trách nhiệm hình sự thì bị xử lý như sau:\na) Khiển trách đối với người có hành vi vi phạm lần đầu;\nb) Cảnh cáo đối với người đã bị xử lý kỷ luật bằng hình thức khiển trách về\nhành vi đó mà tiếp tục tái phạm.\n5. Ngoài việc xử lý kỷ luật theo quy định từ khoản 1 đến khoản 4 Điều này, cơ\nquan, tổ chức, đơn vị, cá nhân có liên quan còn phải áp dụng các biện pháp khắc\nphục hậu quả, bồi thường khi gây ra thiệt hại theo quy định của pháp luật.\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 47",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 84",
+      "heading": "Xử lý vi phạm quy định về xung đột lợi ích",
+      "text": "Điều 84. Xử lý vi phạm quy định về xung đột lợi ích\n1. Người thực hiện công vụ, nhiệm vụ nếu biết hoặc buộc phải biết về tình\nhuống xung đột lợi ích của mình mà không báo cáo thì bị xử lý như sau:\na) Khiển trách đối với người có hành vi vi phạm lần đầu;\nb) Cảnh cáo đối với người đã bị xử lý kỷ luật bằng hình thức khiển trách về\nhành vi đó mà tiếp tục tái phạm; người có hành vi vi phạm lần đầu nhưng gây hậu\nquả nghiêm trọng.\n2. Người có thẩm quyền nếu biết hoặc buộc phải biết có xung đột lợi ích mà\nkhông áp dụng các biện pháp kiểm soát xung đột lợi ích theo quy định của Luật\nPhòng, chống tham nhũng thì bị xử lý như sau:\na) Khiển trách đối với người có hành vi vi phạm lần đầu;\nb) Cảnh cáo đối với người đã bị xử lý kỷ luật bằng hình thức khiển trách về\nhành vi đó mà tiếp tục tái phạm; người có hành vi vi phạm lần đầu nhưng gây hậu\nquả nghiêm trọng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 85",
+      "heading": "Xử lý vi phạm quy định về báo cáo, xử lý báo cáo về hành vi",
+      "text": "Điều 85. Xử lý vi phạm quy định về báo cáo, xử lý báo cáo về hành vi\ntham nhũng\n1. Cán bộ, công chức, viên chức, người lao động khi phát hiện hành vi tham\nnhũng trong cơ quan, tổ chức, đơn vị nơi mình công tác mà không báo cáo với\nngười đứng đầu cơ quan, tổ chức, đơn vị đó thì bị xử lý như sau:\na) Khiển trách đối với người có hành vi vi phạm lần đầu;\nb) Cảnh cáo đối với người đã bị xử lý kỷ luật bằng hình thức khiển trách về\nhành vi đó mà tiếp tục tái phạm; người có hành vi vi phạm lần đầu nhưng để xảy ra\nvụ việc tham nhũng nghiêm trọng.\n2. Người đứng đầu cơ quan, tổ chức, đơn vị khi nhận được báo cáo về hành vi\ntham nhũng nhưng không xử lý thì bị xử lý như sau:\na) Khiển trách đối với người có hành vi vi phạm lần đầu;\nb) Cảnh cáo đối với người đã bị xử lý kỷ luật bằng hình thức khiển trách về\nhành vi đó mà tiếp tục tái phạm; người có hành vi vi phạm lần đầu nhưng để xảy ra\nvụ việc tham nhũng nghiêm trọng;\n\n48 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\nc) Cách chức đối với người đã bị xử lý kỷ luật bằng hình thức cảnh cáo về\nhành vi đó mà tiếp tục tái phạm; người có hành vi vi phạm lần đầu nhưng để xảy ra\nvụ việc tham nhũng rất nghiêm trọng, đặc biệt nghiêm trọng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 86",
+      "heading": "Thẩm quyền, trình tự, thủ tục xử lý kỷ luật đối với hành vi khác",
+      "text": "Điều 86. Thẩm quyền, trình tự, thủ tục xử lý kỷ luật đối với hành vi khác\nvi phạm quy định về phòng, chống tham nhũng\n1. Đối với cán bộ, công chức, viên chức thực hiện theo quy định của pháp luật\nvề xử lý kỷ luật cán bộ, công chức, viên chức.\n2. Đối với người làm việc trong cơ quan, tổ chức, đơn vị thuộc Quân đội nhân\ndân, Công an nhân dân thực hiện theo quy định về xử lý kỷ luật trong Quân đội\nnhân dân, Công an nhân dân.\n3. Đối với người làm việc trong doanh nghiệp nhà nước được thực hiện theo\nquy định về xử lý kỷ luật trong doanh nghiệp nhà nước.\n4. Đối với cán bộ, công chức, viên chức là đảng viên vi phạm thì ngoài việc bị\nxử lý kỷ luật theo quy định của pháp luật còn phải bị xem xét, xử lý kỷ luật theo\nĐiều lệ Đảng.\n5. Đối với người làm việc trong tổ chức chính trị - xã hội, tổ chức xã hội, tổ\nchức xã hội - nghề nghiệp, tổ chức, doanh nghiệp ngoài nhà nước khác thì thực\nhiện theo điều lệ, quy định của tổ chức đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 87",
+      "heading": "Xử phạt vi phạm hành chính đối với hành vi khác vi phạm pháp",
+      "text": "Điều 87. Xử phạt vi phạm hành chính đối với hành vi khác vi phạm pháp\nluật về phòng, chống tham nhũng trong doanh nghiệp, tổ chức, đơn vị khu\nvực nhà nước\nViệc xử phạt vi phạm hành chính đối với hành vi khác vi phạm pháp luật về\nphòng, chống tham nhũng trong doanh nghiệp nhà nước và các tổ chức, đơn vị\nkhác do Nhà nước thành lập, đầu tư cơ sở vật chất, cấp phát toàn bộ hoặc một phần\nkinh phí hoạt động, do Nhà nước trực tiếp quản lý hoặc tham gia quản lý nhằm\nphục vụ nhu cầu phát triển chung, thiết yếu của Nhà nước và xã hội được thực hiện\ntheo quy định về xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài\nsản nhà nước và pháp luật khác có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 88",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 88. Hiệu lực thi hành\n\nCÔNG BÁO/Số 549 + 550/Ngày 12-7-2019 49\n1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2019.\n2. Các văn bản quy phạm pháp luật sau hết hiệu lực kể từ ngày Nghị định này\ncó hiệu lực pháp luật:\na) Nghị định số 107/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ về\nviệc quy định xử lý trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị khi\nđể xảy ra tham nhũng trong cơ quan, tổ chức, đơn vị do mình quản lý, phụ trách;\nb) Nghị định số 47/2007/NĐ-CP ngày 27 tháng 3 năm 2007 của Chính phủ\nquy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống tham\nnhũng về vai trò, trách nhiệm của xã hội trong phòng, chống tham nhũng;\nc) Nghị định số 102/2007/NĐ-CP ngày 14 tháng 6 năm 2007 của Chính phủ\nquy định thời hạn không kinh doanh trong lĩnh vực có trách nhiệm quản lý đối với\nnhững người là cán bộ, công chức, viên chức sau khi thôi giữ chức vụ;\nd) Nghị định số 158/2007/NĐ-CP ngày 27 tháng 10 năm 2007 của Chính phủ\nvề việc quy định danh mục các vị trí công tác và thời hạn định kỳ chuyển đổi vị trí\ncông tác đối với cán bộ, công chức, viên chức;\nđ) Nghị định số 59/2013/NĐ-CP ngày 17 tháng 6 năm 2013 của Chính phủ\nquy định chi tiết một số điều của Luật Phòng, chống tham nhũng;\ne) Nghị định số 90/2013/NĐ-CP ngày 08 tháng 8 năm 2013 của Chính phủ quy\nđịnh trách nhiệm giải trình của cơ quan nhà nước trong việc thực hiện nhiệm vụ,\nquyền hạn được giao;\ng) Nghị định số 211/2013/NĐ-CP ngày 19 tháng 12 năm 2013 của Chính phủ\nsửa đổi, bổ sung một số điều của Nghị định số 107/2006/NĐ-CP ngày 22 tháng 9\nnăm 2006 của Chính phủ về việc quy định xử lý trách nhiệm của người đứng đầu\ncơ quan, tổ chức, đơn vị khi để xảy ra tham nhũng trong cơ quan, tổ chức, đơn vị\ndo mình quản lý, phụ trách;\nh) Nghị định số 150/2013/NĐ-CP ngày 01 tháng 11 năm 2013 của Chính phủ\nsửa đổi, bổ sung một số điều của Nghị định số 158/2007/NĐ-CP ngày 27 tháng 10\nnăm 2007 của Chính phủ quy định danh mục các vị trí công tác và thời hạn định kỳ\nchuyển đổi vị trí công tác đối với cán bộ, công chức, viên chức;\n\n50 CÔNG BÁO/Số 549 + 550/Ngày 12-7-2019\ni) Quyết định số 64/2007/QĐ-TTg ngày 10 tháng 5 năm 2007 của Thủ tướng\nChính phủ ban hành Quy chế về việc tặng quà, nhận quà và nộp lại quà tặng của cơ\nquan, tổ chức, đơn vị có sử dụng ngân sách nhà nước và của cán bộ, công chức,\nviên chức.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 89",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 89. Trách nhiệm thi hành\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính\nphủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, các cơ quan,\ntổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.\nTM. CHÍNH PHỦ",
+      "isImplementationClause": true
+    }
+  ]
+}

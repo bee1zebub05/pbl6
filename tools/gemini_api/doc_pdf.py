@@ -115,6 +115,67 @@ Chỗ nào mờ không đọc chắc được thì ghi [không đọc được],
 Nếu trang chỉ có một cột thì để cot_phai là chuỗi rỗng."""
 
 
+NHAC_MOT_COT = """Trang này in hai cột.
+
+Chỉ đọc CỘT %s của trang. Bỏ qua hoàn toàn cột kia.
+
+Trả về JSON đúng dạng: {"chu": "..."} — toàn bộ chữ của cột đó, chép đúng thứ
+tự dòng từ trên xuống. Chép nguyên văn, không tóm tắt.
+Chỗ nào mờ không đọc chắc được thì ghi [không đọc được], tuyệt đối không đoán."""
+
+
+def _goi(body, be, model, uoc, han=600):
+    """-> (text, finishReason). None neu that bai het luot."""
+    for lan in range(4):
+        key = be.lay(uoc)
+        if key is None:
+            time.sleep(8)
+            continue
+        req = urllib.request.Request(
+            API % model, data=json.dumps(body).encode("utf-8"),
+            headers={"Content-Type": "application/json", "x-goog-api-key": key})
+        try:
+            with urllib.request.urlopen(req, timeout=han) as r:
+                d = json.loads(r.read().decode("utf-8"))
+            cand = (d.get("candidates") or [{}])[0]
+            t = "".join(p.get("text", "")
+                        for p in (cand.get("content", {}).get("parts") or []))
+            if t:
+                return t, cand.get("finishReason")
+            if cand.get("finishReason") == "RECITATION":
+                return None, "RECITATION"
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                be.phat(key, 60)
+            elif e.code == 403:
+                be.bo(key)
+        except Exception:
+            pass
+        time.sleep(2 * (lan + 1))
+    return None, None
+
+
+def _doc_mot_cot(pdf: Path, trang: int, ben: str, be, model: str):
+    """Doc rieng mot cot. ben = "TRÁI" hoac "PHẢI"."""
+    data = _cat_trang(pdf, trang, trang)
+    body = {
+        "contents": [{"parts": [
+            {"inline_data": {"mime_type": "application/pdf",
+                             "data": base64.b64encode(data).decode()}},
+            {"text": NHAC_MOT_COT % ben},
+        ]}],
+        "generationConfig": {"temperature": 0, "maxOutputTokens": 32768,
+                             "responseMimeType": "application/json"},
+    }
+    t, _ = _goi(body, be, model, len(data) // 3 + 2000)
+    if not t:
+        return ""
+    try:
+        o = json.loads(t)
+    except json.JSONDecodeError:
+        o = CH.CJ._cuu_json(t)[0]
+    return (o.get("chu") or "").strip() if isinstance(o, dict) else ""
+
 def doc_hai_cot(pdf: Path, trang: int, be, model: str, han=600) -> str:
     """Doc mot trang hai cot. -> chu cot trai roi den chu cot phai."""
     data = _cat_trang(pdf, trang, trang)
@@ -161,6 +222,12 @@ def doc_hai_cot(pdf: Path, trang: int, be, model: str, han=600) -> str:
         except Exception as e:
             CH.noi("  trang %d: %s" % (trang, str(e)[:60]))
         time.sleep(2 * (lan + 1))
+    # Bi chan lien tuc thi hoi tung cot mot — output ngan hon, bo loc it bat hon.
+    CH.noi("  trang %d: thử đọc riêng từng cột" % trang)
+    trai = _doc_mot_cot(pdf, trang, "TRÁI", be, model)
+    phai = _doc_mot_cot(pdf, trang, "PHẢI", be, model)
+    if trai or phai:
+        return (trai + ("\n" + phai if phai else "")).strip()
     raise RuntimeError("đọc trang %d thất bại" % trang)
 
 def main() -> int:

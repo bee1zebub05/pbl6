@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0040_1345_QĐ-ĐHBK_Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trìn.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1345/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trình chất lượng cao tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": "13/05/2019",
+    "effectiveDate": "13/05/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Công tác sinh viên"
+    ],
+    "summary": "Quy định về chuẩn trình độ tiếng Anh sau mỗi năm học và chuẩn đầu ra tốt nghiệp (TOEIC tối thiểu 600 điểm hoặc tương đương) đối với sinh viên đại học chính quy chương trình chất lượng cao từ khóa 2019 trở về sau tại Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "05/2012/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 05/2012/TT-BGDĐT ngày 15/02/2012 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc sửa đổi, bổ sung một số điều của Quy chế đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 10/2009/TT-BGDĐT ngày 07/5/2009 của Bộ trưởng Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "10/2009/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 05/2012/TT-BGDĐT ngày 15/02/2012 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc sửa đổi, bổ sung một số điều của Quy chế đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 10/2009/TT-BGDĐT ngày 07/5/2009 của Bộ trưởng Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "01/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 01/2014/TT-BGDĐT ngày 24/01/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "23/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 23/2014/TT-BGDĐT ngày 18/7/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy định đào tạo chất lượng cao trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "420/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 420/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Quy định về khối lượng kiến thức tối thiểu, yêu cầu về năng lực mà người học đạt được sau khi tốt nghiệp đối với mỗi trình độ đào tạo của giáo dục đại học và quy trình xây dựng, thẩm định và ban hành chương trình đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "1736/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1736/QĐ-ĐHBK ngày 08/10/2018 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành chuẩn đầu ra chương trình đào tạo chất lượng cao trình độ đại học hệ chính quy Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Bộ trưởng Bộ Giáo dục và Đào tạo",
+    "Phòng Đào tạo",
+    "Trường Đại học Bách khoa",
+    "Công ty IIG Việt Nam",
+    "ETS",
+    "British Council",
+    "ESOL",
+    "IDP"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trình chất lượng cao tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\nVăn bản này quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trình chất lượng cao của Trường Đại học Bách khoa - Đại học Đà Nẵng (sau đây gọi tắt là Trường), gồm: yêu cầu về trình độ tiếng Anh sau mỗi năm học, yêu cầu về trình độ tiếng Anh đầu ra khi tốt nghiệp; kiểm tra phân loại trình độ tiếng Anh đầu vào, tổ chức giảng dạy tiếng Anh và công nhận tương đương các chứng chỉ ngoại ngữ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đối tượng áp dụng",
+          "text": "Điều 2. Đối tượng áp dụng\nQuy định này áp dụng đối với sinh viên thuộc các chương trình đào tạo (sau đây viết tắt là CTĐT) đại học chất lượng cao hệ chính quy từ khóa tuyển sinh năm 2019 trở về sau, sau đây gọi là sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Yêu cầu về trình độ tiếng Anh (sau đây viết tắt là TĐTA)",
+          "text": "Điều 3. Yêu cầu về trình độ tiếng Anh (sau đây viết tắt là TĐTA)\n1. Yêu cầu về TĐTA đầu ra\na) Đạt TĐTA đầu ra là một trong những điều kiện để sinh viên được xét công nhận tốt nghiệp. Sinh viên đạt TĐTA đầu ra là sinh viên có chứng nhận TOEIC quốc tế tối thiểu 600 điểm hoặc tương đương theo Phụ lục 1 và Phụ lục 2.\nb) Ngày cấp chứng nhận phải trong thời gian khóa học của sinh viên tại Trường (kể cả thời gian được phép gia hạn của khóa học theo quy định), hoặc trước không quá 24 tháng tính đến ngày nhập học.\nc) Tối đa trong vòng 24 tháng sau khi hết thời gian quy định được phép học, sinh viên đã hoàn thành các học phần trong CTĐT nhưng chưa đạt TĐTA đầu ra phải bổ sung chứng nhận ngoại ngữ theo yêu cầu để được công nhận tốt nghiệp.\n\n2. Yêu cầu về TĐTA cuối mỗi năm học\na) Cuối mỗi năm học, sinh viên phải đạt được kết quả thi Tiếng Anh TOEIC theo các mức như sau:\n\n| Cuối năm học thứ | Yêu cầu điểm thi Tiếng Anh TOEIC | Hình thức xử lý nếu không đạt yêu cầu |\n| 01 | 450 | - Nếu dưới 350: Sinh viên phải dừng học 01 năm để học Tiếng Anh;\n- Nếu đạt từ 350 đến dưới 450: Sinh viên bị “cảnh báo” về trình độ Tiếng Anh |\n| 02 | 500 | - Nếu dưới 450: Sinh viên phải dừng học 01 năm để học Tiếng Anh;\n- Nếu đạt từ 450 đến dưới 500: Sinh viên bị “cảnh báo” về trình độ Tiếng Anh |\n| 03 | 550 | - Nếu dưới 500: Sinh viên phải dừng học 01 năm để học Tiếng Anh;\n- Nếu đạt từ 500 đến dưới 550: Sinh viên bị “cảnh báo” về trình độ Tiếng Anh |\n| 04 | 600 | - Đây là mức TĐTA đầu ra;\n- Nếu đạt dưới 600: Sinh viên bị “cảnh báo” về trình độ Tiếng Anh |\n\nb) Sinh viên bị “cảnh báo” về TĐTA thì không được xét học bổng khuyến học đối với học kỳ 2 của năm không đạt mức TĐTA yêu cầu. Thời gian ngừng học để cải thiện TĐTA được tính vào thời gian đào tạo cho phép của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Kiểm tra TĐTA đầu vào, tổ chức dạy tiếng Anh và đánh giá TĐTA cuối mỗi năm học",
+          "text": "Điều 4. Kiểm tra TĐTA đầu vào, tổ chức dạy tiếng Anh và đánh giá TĐTA cuối mỗi năm học\n1. Sau khi nhập học, sinh viên phải dự kỳ thi kiểm tra TĐTA đầu vào do Trường tổ chức. Kết quả kiểm tra là cơ sở để xếp lớp học tiếng Anh theo trình độ của sinh viên.\n2. Tổ chức dạy tiếng Anh\na) Trong học kỳ 1 hoặc học kỳ 2 của năm học thứ nhất, Trường tổ chức khóa học Tiếng Anh cho sinh viên. Khóa học tiếng Anh là khóa học chính khóa. Học phí năm học thứ nhất bao gồm học phí của một khóa học tiếng Anh.\nb) Trường hợp sinh viên không chấp hành quy định của khóa học Tiếng Anh thì không được phép dự kỳ thi đánh giá TĐTA cuối khoá học và không được xét học bổng ở học kỳ tương ứng. Sinh viên phải tự túc đăng ký dự thi tại các cơ sở khảo thí hợp pháp và nộp chứng chỉ cho Nhà trường để xét đạt TĐTA cuối năm học thứ nhất.\n3. Kiểm tra đánh giá TĐTA\n\na) Cuối khóa học tiếng Anh, Trường tổ chức kỳ thi đánh giá TĐTA cho sinh viên tham gia khóa học và các sinh viên chương trình chất lượng cao các khóa trước để đánh giá TĐTA cuối mỗi năm học.\nb) Căn cứ kết quả kiểm tra, Nhà trường thực hiện cảnh báo hoặc buộc tạm dừng tiến độ học tập của sinh viên theo Khoản 2, Điều 3 Quy định này.\nc) Sinh viên không đạt TĐTA cuối năm học phải chủ động tăng cường học tiếng Anh để đạt trình độ theo mức yêu cầu và tự trang trải học phí học tiếng Anh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Hỗ trợ lệ phí thi Tiếng Anh TOEIC quốc tế",
+          "text": "Điều 5. Hỗ trợ lệ phí thi Tiếng Anh TOEIC quốc tế\nTrong thời gian thiết kế của khóa học CTĐT chất lượng cao, sinh viên thực hiện đúng nội quy khóa học tiếng Anh được Trường hỗ trợ 100% lệ phí 01 lần thi TOEIC quốc tế ở kỳ thi do Trường phối hợp với Công ty IIG Việt Nam tổ chức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nộp chứng nhận để xét đạt yêu cầu TĐTA đầu ra, TĐTA cuối năm học",
+          "text": "Điều 6. Nộp chứng nhận để xét đạt yêu cầu TĐTA đầu ra, TĐTA cuối năm học\n1. Sinh viên có chứng nhận năng lực tiếng Anh được cấp bởi các tổ chức khảo thí hợp pháp cần nộp bản sao và trình bản chính chứng nhận cho Trường trước khi họp xét ít nhất 21 ngày để Trường xác minh, nếu chứng nhận hợp lệ mới được xét.\n2. Sinh viên tham gia các kỳ thi TOEIC quốc tế do Trường phối hợp với Công ty IIG Việt Nam tổ chức không phải nộp chứng nhận cho Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Công nhận tương đương về trình độ ngoại ngữ",
+          "text": "Điều 7. Công nhận tương đương về trình độ ngoại ngữ\n1. Công nhận tương đương các chứng chỉ tiếng Anh quốc tế\na) Chứng chỉ tiếng Anh quốc tế là hợp lệ nếu được cấp hợp pháp bởi các đơn vị, tổ chức đại diện cho các tổ chức: ETS (Hoa Kỳ), British Council (Anh), ESOL (Anh) và IDP (Úc).\nb) Sinh viên có chứng nhận tiếng Anh quốc tế hợp lệ, đạt mức điểm quy định và ngày cấp chứng nhận thỏa mãn Điểm b Khoản 1 Điều 3 của Quy định này thì được Trường công nhận đạt TĐTA đầu ra, TĐTA cuối năm học. Hiệu lực của các chứng nhận trong việc xét đạt TĐTA đầu ra, TĐTA cuối năm học theo Phụ lục 1.\n\n2. Công nhận tương đương đối với sinh viên có trình độ ngoại ngữ khác\nSinh viên có chứng nhận quốc tế hợp lệ của một trong các ngoại ngữ: Pháp, Trung, Nhật với điểm đạt mức yêu cầu và ngày cấp chứng nhận thỏa mãn Điểm b Khoản 1 Điều 3 của Quy định này thì được Trường công nhận đạt yêu cầu về TĐTA đầu ra, TĐTA cuối năm học. Hiệu lực của các chứng nhận theo Phụ lục 2.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 8. Tổ chức thực hiện\n1. Đối với sinh viên ngành Công nghệ thông tin (ngoại ngữ Nhật), yêu cầu\n\nTĐTA đầu ra, TĐTA cuối năm học được thay bằng yêu cầu trình độ tiếng Nhật đầu ra và trình độ tiếng Nhật sau mỗi năm học, như trong Phụ lục 3.\n2. Sinh viên sử dụng chứng nhận kết quả thi ngoại ngữ giả mạo, văn bằng giả mạo sẽ bị xử lý theo Quy định liêm chính học thuật của Trường Đại học Bách khoa và các luật định hiện hành của các cơ quan Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 9. Hiệu lực thi hành\n1. Quy định này có hiệu lực kể từ ngày ký.\n2. Hàng năm, căn cứ thực tế nếu cần thiết Hiệu trưởng sẽ quyết định bổ sung, sửa đổi điều chỉnh Quy định này cho phù hợp.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trình chất lượng cao tại Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định về yêu cầu trình độ tiếng Anh của sinh viên đại học chính quy chương trình chất lượng cao tại Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng các phòng chức năng, Trưởng các Khoa và các sinh viên đại học chính quy chương trình chất lượng cao chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Trưởng các phòng chức năng, Trưởng các Khoa và các sinh viên đại học chính quy chương trình chất lượng cao chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

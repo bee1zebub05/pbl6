@@ -1,0 +1,244 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0181_3226_QĐ-ĐHĐN_Quyết định 3226_QĐ-ĐHĐN Quy định hoạt động nghiên cứu khoa học của sinh viên Đại h.txt",
+  "mappedBy": "gemini-web",
+  "note": "16 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3226/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy định hoạt động nghiên cứu khoa học của sinh viên Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "21/09/2020",
+    "effectiveDate": "21/09/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Công tác sinh viên"
+    ],
+    "summary": "Quyết định ban hành Quy định hoạt động nghiên cứu khoa học của sinh viên Đại học Đà Nẵng, bao gồm các quy định chung, xây dựng và thực hiện kế hoạch nghiên cứu, quản lý, trách nhiệm và quyền hạn của sinh viên, người hướng dẫn và các tổ chức liên quan.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "19/2012/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 19/2012/TT-BGDĐT ngày 01/6/2012 của Bộ Giáo dục và Đào tạo ban hành Quy định về hoạt động nghiên cứu khoa học của sinh viên trong các cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "18/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 18/2016/TT-BGDĐT ngày 22/6/2016 của Bộ Giáo dục và Đào tạo ban hành Quy chế xét tặng Giải thưởng Sinh viên nghiên cứu khoa học;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế Tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+    "Hội Sinh viên"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định hoạt động nghiên cứu khoa học của sinh viên Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi và đối tượng áp dụng\nVăn bản này quy định về hoạt động nghiên cứu khoa học (NCKH) dành cho\nsinh viên Đại học Đà Nẵng (ĐHĐN), bao gồm: Xây dựng và thực hiện kế hoạch hoạt\nđộng NCKH của sinh viên; quản lý hoạt động NCKH của sinh viên; trách nhiệm và\nquyền hạn của sinh viên tham gia NCKH, người hướng dẫn và các tổ chức liên quan.\n2. Quy định này áp dụng đối với các trường đại học thành viên, đơn vị thuộc và\nđơn vị trực thuộc ĐHĐN (sau đây gọi tắt là đơn vị).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục tiêu hoạt động NCKH của sinh viên",
+          "text": "Điều 2. Mục tiêu hoạt động NCKH của sinh viên\n1. Góp phần nâng cao chất lượng đào tạo nguồn nhân lực trình độ cao, phát\nhiện và bồi dưỡng nhân tài cho đất nước.\n2. Rèn luyện phương pháp NCKH, phương pháp làm việc nhóm, hình thành và\nnâng cao năng lực tự học cho sinh viên.\n3. Phát huy tính năng động, sáng tạo, nâng cao khả năng tư duy logic, khả năng\nNCKH độc lập, kỹ năng đọc, viết và trình bày báo cáo khoa học của sinh viên.\nXây dựng ĐHĐN nói chung và các đơn vị nói riêng trở thành những cơ sở\ngiáo dục có uy tín về tổ chức, triển khai các hoạt động NCKH và khởi nghiệp, đổi mới\nsáng tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Yêu cầu về hoạt động NCKH của sinh viên",
+          "text": "Điều 3. Yêu cầu về hoạt động NCKH của sinh viên\n1. Phù hợp với pháp luật và các quy định về hoạt động khoa học và công nghệ\n(KH&CN).\n2. Phù hợp với định hướng hoạt động KH&CN của đơn vị.\n3. Phù hợp với mục tiêu, nội dung, chương trình đào tạo của đơn vị.\n4. Phù hợp với khả năng và nguyện vọng của sinh viên.\n5. Kết quả nghiên cứu có giá trị khoa học và thực tiễn, có tính mới và sáng tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nội dung hoạt động NCKH của sinh viên",
+          "text": "Điều 4. Nội dung hoạt động NCKH của sinh viên\nThực hiện đề tài NCKH phù hợp với yêu cầu về hoạt động NCKH của sinh\nviên tại Điều 3. Các nội dung NCKH trong khuôn khổ các học phần tích lũy tín chỉ\ntrong chương trình đào tạo (tiểu luận, khóa luận, đồ án...) không bao gồm trong quy\nđịnh này.\n2. Tham gia các hội nghị, hội thảo khoa học, sinh hoạt học thuật, câu lạc bộ\nkhoa học sinh viên, các hội thi, triển lãm, giải thưởng KH&CN và khởi nghiệp, đổi\nmới sáng tạo ở trong, ngoài nước cũng như các hình thức hoạt động KH&CN và khởi\nnghiệp, đổi mới sáng tạo khác của sinh viên.\n3. Tham gia triển khai ứng dụng tiến bộ KH&CN vào thực tiễn trong các lĩnh\nvực kinh tế xã hội, giáo dục và đào tạo, an ninh, quốc phòng.\n4. Công bố các kết quả NCKH của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tài chính cho hoạt động NCKH của sinh viên",
+          "text": "Điều 5. Tài chính cho hoạt động NCKH của sinh viên\nTài chính cho hoạt động NCKH của sinh viên gồm các nguồn sau:\n1. Ngân sách Nhà nước.\n2. Trích từ nguồn thu hợp pháp của đơn vị cho hoạt động KH&CN theo quy\nđịnh pháp luật hiện hành.\n3. Tài trợ, viện trợ của các tổ chức, cá nhân trong và ngoài nước cho hoạt động\nNCKH và khởi nghiệp, đổi mới sáng tạo của sinh viên.\n4. Nguồn kinh phí hợp pháp khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Xây dựng kế hoạch hoạt động NCKH của sinh viên",
+          "text": "Điều 6. Xây dựng kế hoạch hoạt động NCKH của sinh viên\n1. Hằng năm, trên cơ sở định hướng phát triển KH&CN, nhiệm vụ KH&CN các\ncấp, nhu cầu thực tế của xã hội, của doanh nghiệp và các cơ sở sản xuất, các đơn vị\nchủ động xây dựng kế hoạch hoạt động NCKH của sinh viên.\n2. Kế hoạch hoạt động NCKH của sinh viên là một phần của kế hoạch hoạt\nđộng KH&CN của đơn vị, bao gồm các nội dung sau:\na) Xác định danh mục đề tài, giao đề tài, triển khai thực hiện đề tài và tổ chức\nđánh giá đề tài NCKH của sinh viên theo quy định.\nb) Tổ chức hội nghị NCKH và các hình thức hoạt động KH&CN khác của sinh\nviên.\nc) Tổ chức hoạt động thông tin KH&CN của sinh viên.\nTổ chức triển khai ứng dụng kết quả hoạt động NCKH của sinh viên vào\nthực tiễn trong các lĩnh vực kinh tế xã hội, giáo dục và đào tạo, an ninh, quốc phòng.\n\nTham gia Giải thưởng \"Sinh viên NCKH\" của ĐHĐN, của Bộ Giáo dục và\nĐào tạo cũng như các giải thưởng khoa học và khởi nghiệp, đổi mới sáng tạo khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Xác định danh mục đề tài, giao đề tài và triển khai thực hiện đề tài",
+          "text": "Điều 7. Xác định danh mục đề tài, giao đề tài và triển khai thực hiện đề tài\nNCKH của sinh viên\n1. Xác định danh mục đề tài NCKH của sinh viên\na) Đề xuất đề tài NCKH\nTrên cơ sở thông báo của đơn vị, sinh viên đề xuất đề tài NCKH (Mẫu 1a\nhoặc 1b Phụ lục 1) với khoa/bộ môn và phải có sự đồng ý của người hướng dẫn đối\nvới từng đề tài đăng ký.\nHội đồng khoa sơ tuyển, xác định danh mục đề tài NCKH của sinh viên, tổng\nhợp danh mục và đề xuất đề tài NCKH của sinh viên gửi bộ phận được phân công phụ\ntrách hoạt động sinh viên NCKH của đơn vị.\nThời gian hoàn thành việc xác định danh mục đề tài NCKH của sinh viên do\nthủ trưởng đơn vị quyết định nhưng không muộn hơn 30/9 hằng năm.\nb) Bộ phận được phân công phụ trách hoạt động sinh viên NCKH tập hợp danh\nmục đề tài NCKH của sinh viên toàn đơn vị tham mưu Thủ trưởng đơn vị ra quyết\nđịnh phê duyệt danh mục đề tài NCKH của sinh viên theo thẩm quyền quy định tại\nĐiều 16, 17.\n2. Giao đề tài\nSau khi có quyết định phê duyệt danh mục đề tài NCKH của sinh viên, khoa/bộ\nmôn và người hướng dẫn hỗ trợ sinh viên xây dựng đề cương nghiên cứu (Mẫu 2a\nhoặc 2b Phụ lục 1). Các đơn vị tổ chức xét duyệt đề cương đề tài NCKH của sinh\nviên, ra quyết định giao đề tài cho sinh viên, phân công người hướng dẫn phù hợp và\ntiến hành ký hợp đồng triển khai đề tài (nếu có). Mỗi đề tài NCKH của sinh viên do 01\n(một) người hướng dẫn. Số sinh viên tham gia thực hiện một đề tài không quá 05\n(năm) người, trong đó phải xác định 01 (một) sinh viên chịu trách nhiệm chính.\n3. Triển khai thực hiện đề tài\nSinh viên triển khai đề tài theo đề cương đã được duyệt và hợp đồng thực\nhiện đề tài (nếu có).\nb) Thời gian hoàn thành đề tài không quá 12 tháng tính từ thời điểm được phê\nduyệt nhưng phải đảm bảo trước khi kết thúc năm học.\nc) Kết quả thực hiện đề tài NCKH của sinh viên được trình bày trong báo cáo\ntổng kết đề tài (Phụ lục 2).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức đánh giá đề tài NCKH của sinh viên",
+          "text": "Điều 8. Tổ chức đánh giá đề tài NCKH của sinh viên\n1. Bộ phận được phân công phụ trách hoạt động sinh viên NCKH trình Thủ\ntrưởng đơn vị ra quyết định thành lập hội đồng đánh giá đề tài NCKH của sinh viên\ntheo thẩm quyền quy định tại Điều 16, 17.\n2. Nội dung đánh giá đề tài\nTổng quan tình hình nghiên cứu: Mức độ đầy đủ, hợp lý trong việc đánh giá\ntình hình nghiên cứu trong và ngoài nước, thành công và hạn chế của công trình\nnghiên cứu liên quan, mức độ cập nhật thông tin mới nhất về lĩnh vực nghiên cứu.\n\nb) Tính cấp thiết của đề tài: Tính khoa học, cụ thể, rõ ràng của việc luận giải về\ntính cấp thiết đối với vấn đề nghiên cứu của đề tài.\nMục tiêu của đề tài: Phải có tính khả thi, phải thể hiện đo lường, ước lượng\nđược, có tính logic với tên đề tài và nội dung nghiên cứu.\nPhương pháp nghiên cứu: Cách tiếp cận cụ thể của đề tài, độ tin cậy, tính\nhợp lý của các phương pháp nghiên cứu để thực hiện đề tài.\nd) Nội dung nghiên cứu và tiến độ thực hiện: Tính đầy đủ của những nội dung\ncông việc chính cần phải tiến hành, sự phù hợp của nội dung nghiên cứu với mục tiêu\ncủa đề tài, sự phù hợp của tiến độ thực hiện với nội dung nghiên cứu và thời gian thực\nhiện đề tài.\nKết quả: Tính rõ ràng, tính mới và sáng tạo của kết quả nghiên cứu dự kiến\nđạt được; đóng góp về mặt kinh tế xã hội, giáo dục và đào tạo, an ninh, quốc phòng.\nf) Sản phẩm: Sự phù hợp của sản phẩm với mục tiêu, nội dung nghiên cứu;\nHình thức trình bày báo cáo tổng kết đề tài.\nh) Điểm thưởng (có công bố khoa học từ kết quả nghiên cứu của đề tài).\n3. Xếp loại đánh giá đề tài\na) Hội đồng đánh giá đề tài NCKH của sinh viên cho điểm xếp loại đề tài theo 5\nmức: Xuất sắc, Tốt, Khá, Đạt và Không Đạt.\nb) Các thành viên hội đồng đánh giá độc lập bằng cách cho điểm theo từng nội\ndung của phiếu đánh giá. Căn cứ vào điểm trung bình cuối cùng (theo thang 100 điểm)\ncủa các thành viên hội đồng có mặt, đề tài được xếp loại theo thang điểm cụ thể như\nsau:\nXuất sắc: Từ 90 điểm trở lên;\nTốt: Từ 80 điểm đến dưới 90 điểm;\nKhá: Từ 70 điểm đến dưới 80 điểm;\nĐạt: Từ 50 điểm đến dưới 70 điểm;\nKhông Đạt: Dưới 50 điểm.\nPhiếu đánh giá theo Mẫu 3a hoặc 3b và Mẫu 4a hoặc 4b Phụ lục 1.\nc) Kết quả xếp loại được ghi trong biên bản họp hội đồng đánh giá đề tài\nNCKH của sinh viên (Mẫu 5a hoặc 5b Phụ lục 1).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Công nhận kết quả thực hiện đề tài NCKH của sinh viên",
+          "text": "Điều 9. Công nhận kết quả thực hiện đề tài NCKH của sinh viên\nĐối với các đề tài được hội đồng nghiệm thu đánh giá từ đạt trở lên, Thủ trưởng\nđơn vị cấp giấy chứng nhận đã hoàn thành nhiệm vụ thực hiện đề tài NCKH cho sinh\nviên theo thẩm quyền quy định tại Điều 16, 17. Mẫu giấy chứng nhận cụ thể do đơn vị\nquy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tổ chức hội nghị NCKH của sinh viên",
+          "text": "Điều 10. Tổ chức hội nghị NCKH của sinh viên\nTrong mỗi năm học, các đơn vị tổ chức hội nghị NCKH của sinh viên dưới\ncác hình thức phù hợp với tình hình thực tế tại đơn vị và đảm bảo các nội dung sau:\nTổng kết, đánh giá hoạt động NCKH của sinh viên;\n\nb) Báo cáo kết quả các đề tài NCKH tiêu biểu do sinh viên thực hiện.\nc) Biểu dương, khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong\nhoạt động KH&CN của sinh viên.\nXét thưởng, công bố kết quả và trao thưởng các đề tài đạt giải thưởng sinh\nviên NCKH cấp đơn vị.\nRút kinh nghiệm trong triển khai kế hoạch, chương trình KH&CN sinh viên,\nđề ra các giải pháp nâng cao chất lượng hiệu quả công tác tổ chức hoạt động NCKH\ncủa sinh viên cho năm học tiếp theo.\n2. Thời gian tổ chức hội nghị NCKH của sinh viên: Trước ngày 15/6 hằng năm.\nTrong những trường hợp đặc biệt, các đơn vị có thể tổ chức hội nghị NCKH của sinh\nviên sau ngày 15/6 nhưng phải trước thời điểm kết thúc năm học ít nhất 30 ngày.\n3. Các đơn vị tổ chức các hình thức hoạt động NCKH khác của sinh viên như:\nWorkshop, hội nghị, triển lãm, hội thảo khoa học, diễn đàn, sinh hoạt học thuật, hội thi\nsáng tạo khoa học công nghệ, câu lạc bộ khoa học sinh viên...",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Tham gia Giải thưởng \"Sinh viên NCKH ĐHĐN\" các Giải",
+          "text": "Điều 11. Tham gia Giải thưởng \"Sinh viên NCKH ĐHĐN\" các Giải\nthưởng khoa học và khởi nghiệp, đổi mới sáng tạo khác\nTham gia Giải thưởng \"Sinh viên NCKH ĐHĐN\"\na) Các đơn vị lựa chọn đề tài gửi tham gia xét tặng Giải thưởng \"Sinh viên\nNCKH ĐHĐN\" theo yêu cầu của Kế hoạch về việc tổ chức xét tặng Giải thưởng \"Sinh\nviên NCKH ĐHĐN\" của ĐHĐN trước ngày 15/7 hằng năm.\nb) Đề tài NCKH của sinh viên tham gia xét Giải thưởng \"Sinh viên NCKH\nĐHĐN\" được đánh giá và xét giải theo Thể lệ giải thưởng do ĐHĐN quy định.\n2. Tham gia các Giải thưởng khoa học và khởi nghiệp, đổi mới sáng tạo khác\n(sau đây gọi là các Giải thưởng khác)\na) ĐHĐN và các đơn vị lựa chọn đề tài gửi tham gia xét các Giải thưởng khác\ntheo tiêu chí phù hợp với giải thưởng.\nb) Hồ sơ và thời gian gửi hồ sơ tham gia xét Giải thưởng khác theo quy định\nriêng của từng giải thưởng.\nc) Việc đánh giá và xét giải thực hiện theo thể lệ của từng giải thưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Tổ chức triển khai ứng dụng kết quả NCKH vào thực tiễn",
+          "text": "Điều 12. Tổ chức triển khai ứng dụng kết quả NCKH vào thực tiễn\n1. Các đơn vị tạo điều kiện cho sinh viên triển khai ứng dụng kết quả nghiên\ncứu vào thực tiễn từ kết quả của các đề tài NCKH của sinh viên.\n2. Các nhà khoa học thuộc ĐHĐN là chủ nhiệm đề tài KH&CN các cấp tạo\nđiều kiện cho sinh viên tham gia thực hiện đề tài và triển khai ứng dụng tiến bộ\nKH&CN vào thực tiễn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Tổ chức hoạt động thông tin KH&CN và khởi nghiệp, đổi mới",
+          "text": "Điều 13. Tổ chức hoạt động thông tin KH&CN và khởi nghiệp, đổi mới\nsáng tạo của sinh viên\nCác đơn vị tổ chức thu thập, xử lý, lưu giữ, phổ biến thông tin KH&CN và khởi\nnghiệp, đổi mới sáng tạo của sinh viên, bao gồm:\n1. Xuất bản các tập san, thông báo khoa học, kỷ yếu đề tài NCKH của sinh\nviên.\n\n5. Quy định các hình thức biểu dương, khen thưởng đối với các tập thể, cá nhân\ncó thành tích xuất sắc trong hoạt động NCKH và khởi nghiệp, đổi mới sáng tạo của\nsinh viên.\n6. Quy định các hình thức xử lý đối với các tập thể, cá nhân vi phạm các quy\nđịnh về hoạt động NCKH của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": null,
+          "text": "5. Quy định các hình thức biểu dương, khen thưởng đối với các tập thể, cá nhân có thành tích xuất sắc trong hoạt động NCKH và khởi nghiệp, đổi mới sáng tạo của sinh viên.\n6. Quy định các hình thức xử lý đối với các tập thể, cá nhân vi phạm các quy định về hoạt động NCKH của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Trách nhiệm, quyền hạn của các đơn vị thuộc, trực thuộc",
+          "text": "Điều 17. Trách nhiệm, quyền hạn của các đơn vị thuộc, trực thuộc\n1. Các đơn vị trực thuộc thực hiện tương tự như các trường đại học thành viên\nĐHĐN.\n2. Các đơn vị thuộc ĐHĐN\na) Xây dựng các quy định, hướng dẫn cụ thể liên quan đến việc tổ chức, quản\nlý, đánh giá hoạt động sinh viên NCKH thuộc đơn vị mình quản lý, trình ĐHĐN thẩm\nđịnh và ban hành.\nb) Xây dựng kế hoạch, tổ chức và quản lý các hoạt động NCKH của sinh viên\ntại đơn vị; Thủ trưởng đơn vị chịu trách nhiệm trước ĐHĐN về quá trình tổ chức, triển\nkhai đánh giá.\nc) Phê duyệt danh mục đề tài, thành lập hội đồng đánh giá và cấp giấy chứng\nnhận đã hoàn thành nhiệm vụ thực hiện đề tài NCKH cho sinh viên theo ủy quyền của\nGiám đốc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Trách nhiệm của bộ phận được phân công phụ trách hoạt động",
+          "text": "Điều 18. Trách nhiệm của bộ phận được phân công phụ trách hoạt động\nNCKH của sinh viên các đơn vị\n1. Tham mưu giúp Thủ trưởng đơn vị quản lý, triển khai hoạt động NCKH của\nsinh viên.\n2. Chủ trì phối hợp với các phòng/ban, các khoa, Đoàn Thanh niên Cộng sản\nHồ Chí Minh, Hội Sinh viên và các tổ chức, đoàn thể khác để tổ chức triển khai hoạt\nđộng NCKH của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Chế độ báo cáo",
+          "text": "Điều 19. Chế độ báo cáo\nKết thúc năm học, các đơn vị báo cáo tình hình, kết quả hoạt động sinh viên\nNCKH, gửi về ĐHĐN (thông qua Ban Công tác Học sinh Sinh viên) trước ngày 31/7\nhằng năm và thực hiện các báo cáo đột xuất theo yêu cầu của cơ quan có thẩm quyền.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Trách nhiệm và quyền của sinh viên tham gia NCKH",
+          "text": "Điều 20. Trách nhiệm và quyền của sinh viên tham gia NCKH\n1. Trách nhiệm của sinh viên\nThực hiện đề tài NCKH đã đăng ký và được phê duyệt đúng tiến độ; Triển\nkhai ứng dụng tiến bộ KH&CN vào thực tiễn theo kế hoạch hoạt động KH&CN của\nđơn vị.\n\nb) Tham gia các hội nghị, hội thảo khoa học, các hoạt động KH&CN và khởi\nnghiệp, đổi mới sáng tạo khác theo yêu cầu của đơn vị.\nTrung thực trong NCKH, chấp hành nghiêm chỉnh các quy định hiện hành về\nhoạt động KH&CN.\nTham gia Giải thưởng theo đúng quy định của ĐHĐN, của Bộ Giáo dục và\nĐào tạo và các Bộ Ngành khác nếu được đơn vị xét chọn;\nChịu trách nhiệm về nội dung của đề tài.\n2. Quyền của sinh viên\nĐược tham gia thực hiện đề tài NCKH của sinh viên và được tạo điều kiện sử\ndụng các thiết bị sẵn có của đơn vị để tiến hành NCKH.\nb) Được cấp giấy chứng nhận đã hoàn thành nhiệm vụ thực hiện đề tài NCKH\nvà được phép quy đổi giờ hoạt động NCKH sang các hình thức đánh giá kết quả hoạt\nđộng ngoại khóa theo quy định hiện hành của đơn vị.\nc) Được khuyến khích công bố kết quả nghiên cứu trên các tạp chí uy tín thuộc\ndanh mục Web of Science và SCOPUS, các tạp chí uy tín trong nước, các kỷ yếu, tập\nsan, thông báo khoa học của đơn vị và các phương tiện thông tin truyền thông khác.\nĐược ưu tiên xét cấp học bổng; Xét các danh hiệu thi đua và hình thức khen\nthưởng nếu có thành tích NCKH xuất sắc; Tham gia các chương trình trao đổi sinh\nviên Quốc tế.\nĐược khen thưởng nếu thực hiện đề tài đạt Giải thưởng Sinh viên NCKH\ncấp ĐHĐN, cấp Bộ hoặc có thành tích NCKH và khởi nghiệp, đổi mới sáng tạo xuất\nsắc.\nĐược hưởng các quyền lợi khác đối với kết quả nghiên cứu của đề tài theo\nquy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Trách nhiệm và quyền của người hướng dẫn",
+          "text": "Điều 21. Trách nhiệm và quyền của người hướng dẫn\nNgười hướng dẫn có trách nhiệm hướng dẫn sinh viên hoàn thành đề tài\nNCKH và đồng chịu trách nhiệm về nội dung của đề tài.\n2. Quyền lợi của người hướng dẫn\nĐược hướng dẫn tối đa 02 (hai) đề tài NCKH của sinh viên trong cùng thời\ngian.\nb) Được tính giờ NCKH sau khi hoàn thành việc hướng dẫn sinh viên NCKH\ntheo quy định hiện hành; Được thanh toán các khoản thù lao, phụ cấp theo quy định\ncủa đơn vị.\nĐược ưu tiên xét các danh hiệu thi đua và hình thức biểu dương, khen\nthưởng nếu có thành tích hướng dẫn sinh viên thực hiện đề tài NCKH và khởi nghiệp,\nđổi mới sáng tạo được đánh giá xếp loại xuất sắc, đạt giải thưởng các cấp hoặc được\ntriển khai ứng dụng có hiệu quả cao vào thực tiễn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Khen thưởng",
+          "text": "Điều 22. Khen thưởng\nTrên cơ sở thành tích hoạt động sinh viên NCKH và tình hình thực tiễn của đơn\nvị, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực\nthuộc có hình thức động viên, khen thưởng kịp thời ở đơn vị mình, đồng thời có thể đề\nxuất Giám đốc ĐHĐN khen thưởng cho những thành tích nổi bật, đặc biệt xuất sắc của\ncác tập thể, cá nhân trong hoạt động sinh viên NCKH.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Xử lý vi phạm",
+          "text": "Điều 23. Xử lý vi phạm\n1. Các trường đại học thành viên\nHiệu trưởng quy định các hình thức xử lý đối với cán bộ, giảng viên, sinh viên\nvi phạm các quy định về hoạt động NCKH của sinh viên.\n2. Các đơn vị trực thuộc ĐHĐN\nThực hiện như các trường đại học thành viên.\n3. Các đơn vị thuộc ĐHĐN\nTùy theo tính chất và mức độ vi phạm các quy định về hoạt động NCKH của\nsinh viên, Thủ trưởng các đơn vị thuộc đề xuất Giám đốc ĐHĐN ra quyết định xử lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 24. Hiệu lực thi hành\nQuy định này gồm 06 Chương, 25 Điều, có hiệu lực thi hành kể từ ngày ký.\nTrong quá trình thực hiện, Quy định này có thể được sửa đổi, bổ sung cho phù\nhợp với hoạt động thực tiễn trong ĐHĐN hoặc theo sự sửa đổi và bổ sung của các văn\nbản quy phạm pháp luật có liên quan đến hoạt động sinh viên NCKH.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Trách nhiệm thi hành",
+          "text": "Điều 25. Trách nhiệm thi hành\nHiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực\nthuộc ĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quy định\nnày./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định hoạt động nghiên cứu",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định hoạt động nghiên cứu\nkhoa học của sinh viên Đại học Đà Nẵng;",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Ông (Bà) Chánh Văn phòng, Trưởng các Ban chức năng có liên",
+      "text": "Điều 3. Các Ông (Bà) Chánh Văn phòng, Trưởng các Ban chức năng có liên\nquan, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc, trực\nthuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

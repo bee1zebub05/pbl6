@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0028_175_QĐ-ĐHBK_Quy định tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Trường Đại học.txt",
+  "mappedBy": "gemini-web",
+  "note": "13 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "175/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "18/05/2016",
+    "effectiveDate": "18/05/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Thanh tra, kiểm tra",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo tại Trường Đại học Bách khoa - Đại học Đà Nẵng, quy định phạm vi điều chỉnh, đối tượng áp dụng, trình tự thủ tục, thẩm quyền và trách nhiệm giải quyết.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Kim Hùng",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "42/2013/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật tiếp công dân số 42/2013/QH13 ngày 25 tháng 11 năm 2013;"
+    },
+    {
+      "targetDocumentNumber": "02/2011/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật khiếu nại số 02/2011/QH13 ngày 11 tháng 11 năm 2011;"
+    },
+    {
+      "targetDocumentNumber": "03/2011/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật tố cáo số 03/2011/QH13 ngày 11 tháng 11 năm 2011;"
+    },
+    {
+      "targetDocumentNumber": "64/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiếp công dân;"
+    },
+    {
+      "targetDocumentNumber": "75/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2012/NĐ-CP ngày 03 tháng 10 năm 2012 của Chính phủ quy định chi tiết một số điều của Luật khiếu nại;"
+    },
+    {
+      "targetDocumentNumber": "76/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 76/2012/NĐ-CP ngày 03 tháng 10 năm 2012 của Chính phủ quy định chi tiết một số điều của Luật tố cáo;"
+    },
+    {
+      "targetDocumentNumber": "06/2014/TT-TTCP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 06/2014/TT-TTCP ngày 31 tháng 10 năm 2014 của Thanh tra Chính phủ quy định quy trình tiếp công dân;"
+    },
+    {
+      "targetDocumentNumber": "40/2013/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 40/2013/TT-BGDĐT ngày 18 tháng 12 năm 2013 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "7052/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 7052/QĐ-ĐHĐN ngày 31 tháng 12 năm 2015 của Giám đốc Đại học Đà Nẵng ban hành Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "177/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 177/QĐ-ĐHBK ngày 15 tháng 06 năm 2015 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành Quy định nhiệm vụ, quyền hạn của các Phòng chức năng thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "03/2013/TT-TTCP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nội dung, thời hạn lấy số liệu và thời hạn báo cáo theo quy định tại Thông tư số 03/2013/TT-TTCP ngày 10/6/2013 của Thanh tra Chính phủ về quy chế báo cáo Thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Thanh tra Chính phủ",
+    "Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": "CON_HIEU_LUC",
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\nVăn bản này quy định về tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh tại Phòng tiếp công dân của Trường Đại học Bách khoa - Đại học Đà Nẵng (gọi tắt là Trường) theo quy định tại Khoản 1 Điều 4 Luật tiếp công dân và Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiếp công dân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đối tượng áp dụng",
+          "text": "Điều 2. Đối tượng áp dụng\n1. Ban Giám hiệu, Trưởng các đơn vị thuộc Trường và Cán bộ thực hiện công tác tiếp công dân.\n2. Người khiếu nại, tố cáo, phản ánh các sự việc cần giải quyết trong phạm vi Trường.\n3. Cơ quan, tổ chức, cá nhân có liên quan đến công tác tiếp công dân của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Trình tự, thủ tục giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân",
+          "text": "Điều 3. Trình tự, thủ tục giải quyết khiếu nại, giải quyết tố cáo và tiếp công dân\n1. Trình tự, thủ tục giải quyết khiếu nại thực hiện theo quy định từ Điều 27 đến Điều 43 của Luật khiếu nại và các văn bản dưới luật liên quan. Đối với trường hợp giải quyết khiếu nại quyết định kỷ luật công chức, viên chức thực hiện theo quy định tại Điều 50 và từ Điều 52 đến Điều 56 của Luật khiếu nại và các văn bản dưới luật liên quan.\n2. Trình tự, thủ tục giải quyết tố cáo thực hiện theo quy định từ Điều 18 đến Điều 33 của Luật tố cáo và các văn bản dưới luật liên quan.\n3. Việc tiếp công dân thực hiện theo quy định từ Điều 59 đến Điều 62 của Luật khiếu nại; Điều 18, Điều 19 của Luật tiếp công dân và các văn bản dưới luật liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Trách nhiệm của Ban Giám hiệu, Trưởng các đơn vị và các cán bộ đảm nhận công tác tiếp công dân.",
+          "text": "Điều 4. Trách nhiệm của Ban Giám hiệu, Trưởng các đơn vị và các cán bộ đảm nhận công tác tiếp công dân.\n1. Phổ biến các quy định của Pháp luật về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo đến các đơn vị, cá nhân trực thuộc.\n2. Thực hiện việc tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo theo thẩm quyền; tổ chức xác minh, báo cáo kết quả xác minh và kiến nghị hình thức xử lý vụ việc khiếu nại, tố cáo khi được giao.\n3. Tổ chức thực hiện nghiêm chỉnh các quyết định giải quyết khiếu nại, giải quyết xử lý tố cáo đã có hiệu lực pháp luật trong phạm vi chức năng, nhiệm vụ của Trường.\n4. Cán bộ tiếp công dân thực hiện chế độ báo cáo, tổ chức quản lý, lưu trữ hồ sơ theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tiếp công dân của Trường",
+          "text": "Điều 5. Tiếp công dân của Trường\n1. Địa điểm tiếp công dân của Trường đặt tại trụ sở số 54 Nguyễn Lương Bằng, quận Liên Chiểu, thành phố Đà Nẵng.\n2. Hiệu trưởng có trách nhiệm tiếp công dân ít nhất một ngày hoặc hai buổi trong một tháng tại phòng làm việc. Lịch tiếp công dân được thông báo cụ thể ngày, giờ công khai trên lịch tuần dán ở bảng thông tin và đăng trên trang web của Trường.\n3. Trưởng các đơn vị thuộc Trường có trách nhiệm tiếp công dân và giải quyết các khiếu nại, các thắc mắc liên quan đến đơn vị mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Xử lý đơn",
+          "text": "Điều 6. Xử lý đơn\nKhi nhận được đơn của công dân, cán bộ trực tiếp tiếp công dân xem xét và xử lý như sau:\n1. Đơn có nội dung khiếu nại, tố cáo thuộc thẩm quyền của Trường thực hiện theo nội dung tại Chương III của Quy định này.\n2. Đơn tố cáo hành vi vi phạm pháp luật thì chuyển đến Thanh tra cùng cấp hoặc báo cáo lên cấp trên để thực hiện thủ tục giải quyết tố cáo.\n3. Đơn không có nội dung khiếu nại, tố cáo nhưng có liên quan đến chức năng, nhiệm vụ của đơn vị thì xem xét, giải quyết và trả lời công dân.\n4. Đơn có nội dung khiếu nại, tố cáo không thuộc thẩm quyền thì hướng dẫn công dân gửi đơn đến nơi có thẩm quyền giải quyết theo quy định.\n5. Không xem xét, giải quyết những đơn sau:\na) Đơn không ghi rõ ngày, tháng năm viết đơn; không ghi rõ họ tên, địa chỉ của người viết đơn; không có chữ ký hoặc điểm chỉ của người viết đơn;\nb) Đơn khiếu nại không liên quan trực tiếp đến quyền và lợi ích hợp pháp của người khiếu nại; hết thời hạn khiếu nại; khiếu nại đã có quyết định giải quyết lần hai; khiếu nại đã được tòa án thụ lý;\nc) Đơn tố cáo không ghi rõ họ tên, địa chỉ của người tố cáo; đơn đã được cơ quan có thẩm quyền thụ lý giải quyết mà không có nội dung mới hoặc nội dung tố cáo không có điều kiện để xác minh;\nd) Đơn gửi cho nhiều cơ quan, nhiều người, trong đó đã gửi đến đúng cơ quan hoặc người có thẩm quyền giải quyết.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Thẩm quyền và trách nhiệm giải quyết khiếu nại",
+          "text": "Điều 7. Thẩm quyền và trách nhiệm giải quyết khiếu nại\n1. Giải quyết khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính của công chức, viên chức, người lao động thuộc Trường trực tiếp quản lý.\n2. Giải quyết khiếu nại lần đầu đối với quyết định kỷ luật công chức, viên chức, người lao động do Trường ban hành.\n3. Hiệu trưởng có trách nhiệm thụ lý, giải quyết khiếu nại, thông tin và báo cáo cấp trên theo quy định hiện hành.\nPhòng Thanh tra - Pháp chế giúp Hiệu trưởng thụ lý, giải quyết khiếu nại, làm đầu mối theo dõi, tổng hợp và báo cáo theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Thẩm quyền và trách nhiệm giải quyết tố cáo",
+          "text": "Điều 8. Thẩm quyền và trách nhiệm giải quyết tố cáo\n1. Giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của công chức, viên chức và người lao động do Trường tuyển dụng, bổ nhiệm, quản lý trực tiếp hoặc hành vi vi phạm pháp luật về giáo dục trong phạm vi chức năng, nhiệm vụ của Trường.\n2. Hiệu trưởng có trách nhiệm giải quyết đối với tố cáo có nội dung thuộc chức năng, nhiệm vụ của Trường; tố cáo hành vi vi phạm pháp luật của công chức, viên chức và người lao động do Trường tuyển dụng, bổ nhiệm, quản lý trực tiếp trong việc thực hiện nhiệm vụ, công vụ.\nPhòng Thanh tra - Pháp chế giúp Hiệu trưởng thụ lý, giải quyết tố cáo, làm đầu mối theo dõi, tổng hợp và báo cáo theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Chế độ báo cáo, lưu trữ",
+          "text": "Điều 9. Chế độ báo cáo, lưu trữ\n1. Thực hiện chế độ báo cáo định kỳ, báo cáo chuyên đề và báo cáo đột xuất lên các cấp lãnh đạo theo quy định hiện hành.\n2. Nội dung, thời hạn lấy số liệu và thời hạn báo cáo theo quy định tại Thông tư số 03/2013/TT-TTCP ngày 10/6/2013 của Thanh tra Chính phủ về quy chế báo cáo Thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Khen thưởng và xử lý vi phạm",
+          "text": "Điều 10. Khen thưởng và xử lý vi phạm\n1. Các đơn vị, cá nhân thực hiện tốt quy định về giải quyết khiếu nại, giải quyết tố cáo được khen thưởng theo quy định của pháp luật.\n2. Cán bộ có trách nhiệm giải quyết khiếu nại, giải quyết tố cáo không làm tròn trách nhiệm hoặc cố tình giải quyết trái pháp luật bị xử lý nghiêm minh và phải bồi thường theo pháp luật nếu có gây thiệt hại./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Trường Đại học Bách khoa - Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Trường Đại học Bách khoa - Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết đ",
+      "text": "Điều 3. Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

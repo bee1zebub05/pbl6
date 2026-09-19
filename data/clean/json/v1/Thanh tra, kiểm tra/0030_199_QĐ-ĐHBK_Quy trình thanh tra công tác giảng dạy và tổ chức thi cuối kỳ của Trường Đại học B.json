@@ -1,0 +1,139 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0030_199_QĐ-ĐHBK_Quy trình thanh tra công tác giảng dạy và tổ chức thi cuối kỳ của Trường Đại học B.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "199/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy trình thanh tra công tác giảng dạy và tổ chức thi cuối kỳ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/05/2016",
+    "effectiveDate": "24/05/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thanh tra, kiểm tra",
+      "Đào tạo"
+    ],
+    "summary": "Quyết định ban hành quy trình thanh tra công tác giảng dạy tại lớp học và quy trình thanh tra, kiểm tra công tác tổ chức thi cuối kỳ (bao gồm kiểm tra sinh viên, cán bộ coi thi và công tác tổ chức thi tự luận, trắc nghiệm, đồ án môn học, vấn đáp) tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Kim Hùng",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "41/2005/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 41/2005/NĐ-CP ngày 25 tháng 3 năm 2005 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thanh tra;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "426/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 426/QĐ-ĐHBK ngày 09 tháng 11 năm 2015 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành Quy chế về tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "177/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 177/QĐ-ĐHBK ngày 15 tháng 06 năm 2015 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành Quy định nhiệm vụ, quyền hạn của các Phòng chức năng thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4190/BGDĐT-TTr",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ công văn số 4190/BGDĐT-TTr ngày 17 tháng 8 năm 2015 của Bộ Giáo dục và Đào tạo về việc Hướng dẫn thực hiện công tác thanh tra năm học 2015-2016;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Phòng Thanh tra - Pháp chế",
+    "Phòng Đào tạo",
+    "Phòng Tổ chức Hành chính",
+    "Phòng Khảo thí và Đảm bảo chất lượng giáo dục"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy trình thanh tra công tác giảng dạy và tổ chức thi cuối kỳ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Quy trình",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mục đích",
+          "text": "Điều 1. Ban hành kèm theo Quyết định này Quy trình thanh tra công tác giảng dạy tại Trường Đại học Bách khoa - Đại học Đà Nẵng.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "1. Phạm vi áp dụng\n- Tất cả các hoạt động giảng dạy lý thuyết, hướng dẫn thực hành và hướng dẫn thí nghiệm, đồ án môn học;\n- Công tác tổ chức thi cuối kỳ, chấm và bảo vệ đồ án môn học.\n2. Đối tượng áp dụng\n- Tất cả giảng viên tham gia giảng dạy và tổ chức thi tại Trường;\n- Tất cả sinh viên, học viên của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Quy trình thanh tra",
+          "text": "Điều 3. Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các giảng viên tham gia công tác giảng dạy của Trường Đại học Bách khoa, cán bộ tham gia công tác coi thi và sinh viên chịu trách nhiệm thi hành Quyết định này./.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tổ chức thực hiện",
+          "text": "1. Phòng Thanh tra - Pháp chế\n- Chịu trách nhiệm triển khai, phổ biến quy định này đến các đơn vị liên quan;\n- Định kỳ tổ chức lấy ý kiến phản hồi từ các Phòng, Khoa và sinh viên để bổ sung, sửa đổi và hoàn thiện quy trình.\n2. Phòng chức năng, Khoa và Bộ môn trực thuộc\nTrưởng các đơn vị liên quan chịu trách nhiệm quán triệt quy trình này đến từng giảng viên và sinh viên trong đơn vị mình; Tham gia, phối hợp chặt chẽ với phòng Thanh tra - Pháp chế trong quá trình triển khai công tác thanh tra giảng dạy./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy trình thanh tra công tác giảng dạy tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy trình thanh tra công tác giảng dạy tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các giảng viên tham gia công tác giảng dạy của Trường Đại học Bá",
+      "text": "Điều 3. Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các giảng viên tham gia công tác giảng dạy của Trường Đại học Bách khoa, cán bộ tham gia công tác coi thi và sinh viên chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

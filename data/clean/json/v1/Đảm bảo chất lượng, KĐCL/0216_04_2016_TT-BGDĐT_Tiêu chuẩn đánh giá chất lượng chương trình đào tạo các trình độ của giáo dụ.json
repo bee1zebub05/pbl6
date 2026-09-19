@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0216_04_2016_TT-BGDĐT_Tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dụ.txt",
+  "mappedBy": "gemini-web",
+  "note": "22 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "04/2016/TT-BGDĐT",
+    "title": "Thông tư Ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/03/2016",
+    "effectiveDate": "29/04/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khảo thí",
+      "Đảm bảo chất lượng, KĐCL",
+      "Đào tạo"
+    ],
+    "summary": "Ban hành kèm theo Thông tư này Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học, bao gồm các quy định chung, 11 tiêu chuẩn đánh giá chất lượng, và tổ chức thực hiện.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Bùi Văn Ga",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "36/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18 tháng 4 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;"
+    },
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "141/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "75/2006/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "31/2011/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "07/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 1",
+      "context": "Nghị định số 07/2013/NĐ-CP ngày 09 tháng 01 năm 2013 của Chính phủ sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Cục Khảo thí và Kiểm định chất lượng giáo dục",
+    "Chính phủ",
+    "Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về tiêu chuẩn đánh giá chất lượng chương trình đào\ntạo các trình độ đại học, thạc sĩ và tiến sĩ (sau đây gọi chung là các trình độ của\ngiáo dục đại học).\n2. Văn bản này áp dụng đối với các đại học, học viện, trường đại học, viện\nnghiên cứu khoa học được phép đào tạo trình độ tiến sĩ, cơ sở giáo dục đại học có\nvốn đầu tư nước ngoài (sau đây gọi chung là cơ sở giáo dục đại học) có thực hiện\nchương trình đào tạo các trình độ của giáo dục đại học hoạt động trên lãnh thổ Việt\nNam và các tổ chức, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong văn bản này, một số từ ngữ dưới đây được hiểu như sau:\n1. Chương trình đào tạo của một ngành học (Program) ở một trình độ cụ thể\nbao gồm mục tiêu, chuẩn kiến thức, kỹ năng, thái độ của người học cần đạt được\nsau khi tốt nghiệp; nội dung, phương pháp và hoạt động đào tạo; điều kiện cơ sở\nvật chất\n- kỹ thuật, cơ cấu tổ chức, chức năng, nhiệm vụ và các hoạt động học thuật\ncủa đơn vị được giao nhiệm vụ triển khai đào tạo ngành học đó.\n2. Chương trình dạy học (Curriculum) của một chương trình đào tạo ở một\ntrình độ cụ thể bao gồm: mục tiêu chung, mục tiêu cụ thể và chuẩn đầu ra đối với\nngành học và mỗi học phần, nội dung đào tạo, phương pháp đánh giá và thời lượng\nđối với ngành học và mỗi học phần.\n3. Chất lượng của chương trình đào tạo là sự đáp ứng mục tiêu chung, mục\ntiêu cụ thể và chuẩn đầu ra của chương trình đào tạo ở trình độ cụ thể, đáp ứng các\nyêu cầu theo quy định của Luật giáo dục đại học và của Khung trình độ Quốc gia,\nphù hợp với nhu cầu sử dụng nhân lực của địa phương, của ngành và xã hội.\n4. Tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo\ndục đại học là mức độ yêu cầu về những nội dung và điều kiện mà chương trình\nđào tạo phải đáp ứng để được công nhận đạt tiêu chuẩn chất lượng giáo dục.\n\n10\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016\n5. Tiêu chí đánh giá chất lượng chương trình đào tạo các trình độ của giáo\ndục đại học là mức độ yêu cầu và điều kiện cần đạt được ở một khía cạnh cụ thể\ncủa mỗi tiêu chuẩn.\n6. Đối sánh là hoạt động đối chiếu và so sánh một cơ sở giáo dục đại học hoặc\nmột chương trình đào tạo với bộ tiêu chuẩn đánh giá chất lượng giáo dục hoặc với\ncơ sở giáo dục đại học/chương trình đào tạo khác được lựa chọn.\n7. Đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại\nhọc là việc thu thập, xử lý thông tin, đưa ra những nhận định dựa trên các tiêu\nchuẩn đánh giá đối với toàn bộ các hoạt động liên quan đến chương trình đào tạo\ntrong cơ sở giáo dục đại học, bao gồm: Mục tiêu và chuẩn đầu ra của chương trình\nđào tạo; bản mô tả chương trình đào tạo; cấu trúc và nội dung chương trình dạy\nhọc; phương pháp tiếp cận trong dạy và học; đánh giá kết quả học tập của người\nhọc; đội ngũ giảng viên, nghiên cứu viên; đội ngũ nhân viên; người học và hoạt\nđộng hỗ trợ người học; cơ sở vật chất và trang thiết bị; nâng cao chất lượng và kết\nquả đầu ra.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Mục đích ban hành tiêu chuẩn đánh giá chất lượng chương trình",
+          "text": "Điều 3. Mục đích ban hành tiêu chuẩn đánh giá chất lượng chương trình\nđào tạo các trình độ của giáo dục đại học\n1. Cơ sở giáo dục đại học sử dụng tiêu chuẩn để tự đánh giá toàn bộ hoạt động\nliên quan đến chương trình đào tạo nhằm không ngừng nâng cao chất lượng đào\ntạo và giải trình với các cơ quan chức năng, xã hội về thực trạng chất lượng đào\ntạo của từng chương trình cụ thể.\n2. Các tổ chức kiểm định chất lượng giáo dục sử dụng tiêu chuẩn để đánh giá\nvà công nhận hoặc không công nhận đạt tiêu chuẩn chất lượng giáo dục đối với các\nchương trình đào tạo.\n3. Các tổ chức, cá nhân khác có cơ sở để nhận định, đánh giá và tham gia phản\nbiện xã hội đối với chương trình đào tạo của cơ sở giáo dục đại học mà họ quan tâm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thang đánh giá",
+          "text": "Điều 4. Thang đánh giá\n1. Việc đánh giá từng tiêu chí trong mỗi tiêu chuẩn sử dụng thang 7 mức, trong đó:\na) Mức 1: Hoàn toàn không đáp ứng yêu cầu của tiêu chí, phải có giải pháp\nkhắc phục ngay;\nb) Mức 2: Không đáp ứng yêu cầu của tiêu chí, cần có những giải pháp khắc phục;\nc) Mức 3: Chưa đáp ứng đầy đủ yêu cầu của tiêu chí nhưng chỉ cần có một số\ncải tiến nhỏ sẽ đáp ứng được yêu cầu;\nd) Mức 4: Đáp ứng yêu cầu của tiêu chí;\nđ) Mức 5: Đáp ứng tốt hơn yêu cầu của tiêu chí;\n\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016\n11\ne) Mức 6: Đáp ứng rất tốt yêu cầu của tiêu chí;\ng) Mức 7: Đáp ứng xuất sắc yêu cầu của tiêu chí.\n2. Các tiêu chí được đánh giá từ mức 1 đến mức 3 là chưa đạt yêu cầu, từ mức 4\nđến mức 7 là đạt yêu cầu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tiêu chuẩn 1: Mục tiêu và chuẩn đầu ra của chương trình đào tạo",
+          "text": "Điều 5. Tiêu chuẩn 1: Mục tiêu và chuẩn đầu ra của chương trình đào tạo\n1. Mục tiêu của chương trình đào tạo được xác định rõ ràng, phù hợp với sứ\nmạng và tầm nhìn của cơ sở giáo dục đại học, phù hợp với mục tiêu của giáo dục\nđại học quy định tại Luật giáo dục đại học.\n2. Chuẩn đầu ra của chương trình đào tạo được xác định rõ ràng, bao quát\nđược cả các yêu cầu chung và yêu cầu chuyên biệt mà người học cần đạt được sau\nkhi hoàn thành chương trình đào tạo.\n3. Chuẩn đầu ra của chương trình đào tạo phản ánh được yêu cầu của các bên\nliên quan, được định kỳ rà soát, điều chỉnh và được công bố công khai.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tiêu chuẩn 2: Bản mô tả chương trình đào tạo",
+          "text": "Điều 6. Tiêu chuẩn 2: Bản mô tả chương trình đào tạo\n1. Bản mô tả chương trình đào tạo đầy đủ thông tin và cập nhật.\n2. Đề cương các học phần đầy đủ thông tin và cập nhật.\n3. Bản mô tả chương trình đào tạo và đề cương các học phần được công bố\ncông khai và các bên liên quan dễ dàng tiếp cận.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiêu chuẩn 3: Cấu trúc và nội dung chương trình dạy học",
+          "text": "Điều 7. Tiêu chuẩn 3: Cấu trúc và nội dung chương trình dạy học\n1. Chương trình dạy học được thiết kế dựa trên chuẩn đầu ra.\n2. Đóng góp của mỗi học phần trong việc đạt được chuẩn đầu ra là rõ ràng.\n3. Chương trình dạy học có cấu trúc, trình tự logic; nội dung cập nhật và có\ntính tích hợp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiêu chuẩn 4: Phương pháp tiếp cận trong dạy và học",
+          "text": "Điều 8. Tiêu chuẩn 4: Phương pháp tiếp cận trong dạy và học\n1.\nTriết lý giáo dục hoặc mục tiêu giáo dục được tuyên bố rõ ràng và được phổ\nbiến tới các bên liên quan.\n2. Các hoạt động dạy và học được thiết kế phù hợp để đạt được chuẩn đầu ra.\n3. Các hoạt động dạy và học thúc đẩy việc rèn luyện các kỹ năng, nâng cao khả\nnăng học tập suốt đời của người học.\n\n12\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tiêu chuẩn 5: Đánh giá kết quả học tập của người học",
+          "text": "Điều 9. Tiêu chuẩn 5: Đánh giá kết quả học tập của người học\n1. Việc đánh giá kết quả học tập của người học được thiết kế phù hợp với mức\nđộ đạt được chuẩn đầu ra.\n2. Các quy định về đánh giá kết quả học tập của người học (bao gồm thời gian,\nphương pháp, tiêu chí, trọng số, cơ chế phản hồi và các nội dung liên quan) rõ ràng\nvà được thông báo công khai tới người học.\n3. Phương pháp đánh giá kết quả học tập đa dạng, đảm bảo độ giá trị, độ tin\ncậy và sự công bằng.\n4. Kết quả đánh giá được phản hồi kịp thời để người học cải thiện việc học tập.\n5. Người học tiếp cận dễ dàng với quy trình khiếu nại về kết quả học tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tiêu chuẩn 6: Đội ngũ giảng viên, nghiên cứu viên",
+          "text": "Điều 10. Tiêu chuẩn 6: Đội ngũ giảng viên, nghiên cứu viên\n1. Việc quy hoạch đội ngũ giảng viên, nghiên cứu viên (bao gồm việc thu hút,\ntiếp nhận, bổ nhiệm, bố trí, chấm dứt hợp đồng và cho nghỉ hưu) được thực hiện\nđáp ứng nhu cầu về đào tạo, nghiên cứu khoa học và các hoạt động phục vụ cộng đồng.\n2. Tỷ lệ giảng viên/người học và khối lượng công việc của đội ngũ giảng viên,\nnghiên cứu viên được đo lường, giám sát làm căn cứ cải tiến chất lượng hoạt động\nđào tạo, nghiên cứu khoa học và các hoạt động phục vụ cộng đồng.\n3. Các tiêu chí tuyển dụng và lựa chọn giảng viên, nghiên cứu viên (bao gồm\ncả đạo đức và năng lực học thuật) để bổ nhiệm, điều chuyển được xác định và phổ\nbiến công khai.\n4. Năng lực của đội ngũ giảng viên, nghiên cứu viên được xác định và được\nđánh giá.\n5. Nhu cầu về đào tạo và phát triển chuyên môn của đội ngũ giảng viên, nghiên\ncứu viên được xác định và có các hoạt động triển khai để đáp ứng nhu cầu đó.\n6. Việc quản trị theo kết quả công việc của giảng viên, nghiên cứu viên (gồm\ncả khen thưởng và công nhận) được triển khai để tạo động lực và hỗ trợ cho đào\ntạo, nghiên cứu khoa học và các hoạt động phục vụ cộng đồng.\n7. Các loại hình và số lượng các hoạt động nghiên cứu của giảng viên, nghiên\ncứu viên được xác lập, giám sát và đối sánh để cải tiến chất lượng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Tiêu chuẩn 7: Đội ngũ nhân viên",
+          "text": "Điều 11. Tiêu chuẩn 7: Đội ngũ nhân viên\n1. Việc quy hoạch đội ngũ nhân viên (làm việc tại thư viện, phòng thí nghiệm,\nhệ thống công nghệ thông tin và các dịch vụ hỗ trợ khác) được thực hiện đáp ứng\nnhu cầu về đào tạo, nghiên cứu khoa học và các hoạt động phục vụ cộng đồng\n2. Các tiêu chí tuyển dụng và lựa chọn nhân viên để bổ nhiệm, điều chuyển\nđược xác định và phổ biến công khai.\n\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016\n13\n3. Năng lực của đội ngũ nhân viên được xác định và được đánh giá.\n4. Nhu cầu về đào tạo và phát triển chuyên môn, nghiệp vụ của nhân viên được\nxác định và có các hoạt động triển khai để đáp ứng nhu cầu đó.\n5. Việc quản trị theo kết quả công việc của nhân viên (gồm cả khen thưởng và\ncông nhận) được triển khai để tạo động lực và hỗ trợ cho đào tạo, nghiên cứu khoa\nhọc và các hoạt động phục vụ cộng đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Tiêu chuẩn 8: Người học và hoạt động hỗ trợ người học",
+          "text": "Điều 12. Tiêu chuẩn 8: Người học và hoạt động hỗ trợ người học\n1. Chính sách tuyển sinh được xác định rõ ràng, được công bố công khai và\nđược cập nhật.\n2. Tiêu chí và phương pháp tuyển chọn người học được xác định rõ ràng và\nđược đánh giá.\n3. Có hệ thống giám sát phù hợp về sự tiến bộ trong học tập và rèn luyện, kết\nquả học tập, khối lượng học tập của người học.\n4. Có các hoạt động tư vấn học tập, hoạt động ngoại khóa, hoạt động thi đua và\ncác dịch vụ hỗ trợ khác để giúp cải thiện việc học tập và khả năng có việc làm của\nngười học.\n5. Môi trường tâm lý, xã hội và cảnh quan tạo thuận lợi cho hoạt động đào tạo,\nnghiên cứu và sự thoải mái cho cá nhân người học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Tiêu chuẩn 9: Cơ sở vật chất và trang thiết bị",
+          "text": "Điều 13. Tiêu chuẩn 9: Cơ sở vật chất và trang thiết bị\n1. Có hệ thống phòng làm việc, phòng học và các phòng chức năng với các\ntrang thiết bị phù hợp để hỗ trợ các hoạt động đào tạo và nghiên cứu.\n2. Thư viện và các nguồn học liệu phù hợp và được cập nhật để hỗ trợ các hoạt\nđộng đào tạo và nghiên cứu.\n3. Phòng thí nghiệm, thực hành và trang thiết bị phù hợp và được cập nhật để\nhỗ trợ các hoạt động đào tạo và nghiên cứu.\n4. Hệ thống công nghệ thông tin (bao gồm cả hạ tầng cho học tập trực tuyến)\nphù hợp và được cập nhật để hỗ trợ các hoạt động đào tạo và nghiên cứu.\n5. Các tiêu chuẩn về môi trường, sức khỏe, an toàn được xác định và triển khai\ncó lưu ý đến nhu cầu đặc thù của người khuyết tật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Tiêu chuẩn 10: Nâng cao chất lượng",
+          "text": "Điều 14. Tiêu chuẩn 10: Nâng cao chất lượng\n1. Thông tin phản hồi và nhu cầu của các bên liên quan được sử dụng làm căn\ncứ để thiết kế và phát triển chương trình dạy học.\n2. Việc thiết kế và phát triển chương trình dạy học được xác lập, được đánh giá\nvà cải tiến.\n\n14\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016\n3. Quá trình dạy và học, việc đánh giá kết quả học tập của người học được rà\nsoát và đánh giá thường xuyên để đảm bảo sự tương thích và phù hợp với chuẩn\nđầu ra.\n4. Các kết quả nghiên cứu khoa học được sử dụng để cải tiến việc dạy và học.\n5. Chất lượng các dịch vụ hỗ trợ và tiện ích (tại thư viện, phòng thí nghiệm, hệ\nthống công nghệ thông tin và các dịch vụ hỗ trợ khác) được đánh giá và cải tiến.\n6. Cơ chế phản hồi của các bên liên quan có tính hệ thống, được đánh giá và\ncải tiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Tiêu chuẩn 11: Kết quả đầu ra",
+          "text": "Điều 15. Tiêu chuẩn 11: Kết quả đầu ra\n1. Tỷ lệ thôi học, tốt nghiệp được xác lập, giám sát và đối sánh để cải tiến chất lượng.\n2. Thời gian tốt nghiệp trung bình được xác lập, giám sát và đối sánh để cải\ntiến chất lượng.\n3. Tỷ lệ có việc làm sau tốt nghiệp được xác lập, giám sát và đối sánh để cải\ntiến chất lượng.\n4. Loại hình và số lượng các hoạt động nghiên cứu của người học được xác\nlập, giám sát và đối sánh để cải tiến chất lượng.\n5. Mức độ hài lòng của các bên liên quan được xác lập, giám sát và đối sánh để\ncải tiến chất lượng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Cục Khảo thí và Kiểm định chất lượng giáo dục",
+          "text": "Điều 16. Cục Khảo thí và Kiểm định chất lượng giáo dục\nCục Khảo thí và Kiểm định chất lượng giáo dục hướng dẫn cụ thể về sử dụng\ntiêu chuẩn đánh giá, hướng dẫn tự đánh giá và đánh giá ngoài để các cơ sở giáo\ndục đại học, các tổ chức kiểm định chất lượng giáo dục thống nhất thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Cơ quan quản lý trực tiếp của cơ sở giáo dục đại học",
+          "text": "Điều 17. Cơ quan quản lý trực tiếp của cơ sở giáo dục đại học\nCơ quan quản lý trực tiếp của cơ sở giáo dục đại học định hướng cho cơ sở\ngiáo dục đại học lựa chọn phương án đánh giá cho từng chương trình đào tạo theo\nquy định tại khoản 2 Điều 18 của Quy định này; đôn đốc và tạo điều kiện thuận lợi\nđể cơ sở giáo dục đại học có các chương trình đào tạo phấn đấu đạt tiêu chuẩn chất\nlượng giáo dục cho từng giai đoạn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Cơ sở giáo dục đại học",
+          "text": "Điều 18. Cơ sở giáo dục đại học\n1. Cơ sở giáo dục đại học căn cứ vào tình hình cụ thể của mình để lập kế hoạch\nxây dựng chương trình đào tạo đạt tiêu chuẩn chất lượng giáo dục cho từng giai\nđoạn và có các biện pháp thực hiện tốt kế hoạch đề ra.\n\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016\n15\n2. Đối với từng chương trình đào tạo cụ thể, cơ sở giáo dục đại học có thể lựa\nchọn theo một hoặc một số phương án đánh giá sau:\na) Theo tiêu chuẩn của các tổ chức đánh giá và kiểm định chất lượng giáo dục\ncủa khu vực và quốc tế uy tín, có tên trong danh mục các tổ chức kiểm định chất\nlượng giáo dục của quốc tế được Việt Nam công nhận do Bộ Giáo dục và Đào tạo\ncông bố;\nb) Theo tiêu chuẩn đánh giá chất lượng các chương trình đào tạo cụ thể do Bộ\ntrưởng Bộ Giáo dục và Đào tạo ban hành;\nc) Theo tiêu chuẩn ban hành tại Thông tư này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Tổ chức kiểm định chất lượng giáo dục",
+          "text": "Điều 19. Tổ chức kiểm định chất lượng giáo dục\nTổ chức kiểm định chất lượng giáo dục căn cứ vào Quy định này để đánh giá\nvà công nhận chương trình đào tạo của cơ sở giáo dục đại học đạt tiêu chuẩn chất\nlượng giáo dục./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Thông tư này Quy định về tiêu chuẩn đánh giá",
+      "text": "Điều 1. Ban hành kèm theo Thông tư này Quy định về tiêu chuẩn đánh giá\nchất lượng chương trình đào tạo các trình độ của giáo dục đại học.\n\n8\nCÔNG BÁO/Số 253 + 254/Ngày 29-3-2016",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thông tư này có hiệu lực thi hành kể từ ngày 29 tháng 4 năm 2016.",
+      "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 29 tháng 4 năm 2016.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Cục trưởng Cục Khảo thí và Kiểm định chất lượng",
+      "text": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Khảo thí và Kiểm định chất lượng\ngiáo dục, Thủ trưởng đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Chủ tịch\nỦy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Thủ trưởng cơ quan quản\nlý cơ sở giáo dục đại học; Thủ trưởng cơ sở giáo dục đại học có thực hiện chương\ntrình đào tạo các trình độ của giáo dục đại học; Giám đốc tổ chức kiểm định chất\nlượng giáo dục chịu trách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0014_3758_QĐ-ĐHĐN_Ban hành Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3758/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy ban hành theo Thông tư số 16/2015/TT-BGDĐT tại các cơ sở giáo dục đại học thành viên, đơn vị trực thuộc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": "29/06/2016",
+    "effectiveDate": "29/06/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên"
+    ],
+    "summary": "Quyết định ban hành kèm theo Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của sinh viên đại học hệ chính quy theo Thông tư số 16/2015/TT-BGDĐT tại các cơ sở giáo dục đại học thành viên và đơn vị trực thuộc Đại học Đà Nẵng, áp dụng từ năm học 2016-2017.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Văn Dưỡng",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2012/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục Đại học số 08/2012/QH13 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII thông qua ngày 18 tháng 6 năm 2012;"
+    },
+    {
+      "targetDocumentNumber": "16/2015/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12 tháng 8 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Quốc hội"
+  ],
+  "normativeContents": [
+    {
+      "title": "Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy ban hành theo Thông tư số 16/2015/TT-BGDĐT tại các cơ sở giáo dục đại học thành viên, đơn vị trực thuộc Đại học Đà Nẵng",
+      "contentType": "Hướng dẫn",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\nVăn bản này hướng dẫn thực hiện Thông tư số 16/2015/TT-BGDĐT ban hành\nQuy chế đánh giá kết quả rèn luyện (ĐGKQRL) của người học được đào tạo trình độ\nđại học hệ chính quy (sau đây gọi tắt là sinh viên) tại các cơ sở giáo dục đại học thành\nviên, đơn vị trực thuộc (sau đây gọi tắt là nhà trường) của Đại học Đà Nẵng (ĐHĐN)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc đánh giá kết quả rèn luyện của sinh viên 5 )",
+          "text": "Điều 2. Nguyên tắc đánh giá kết quả rèn luyện của sinh viên 5 )\n1 Thực hiện nghiêm túc quy trình và các tiêu chí đánh giá theo Quy chế, đảm\nbảo khách quan, công khai; công bằng; chính xác; 4[ 1\n2. Đảm bảo yếu tố bình đẳng, dân chủ, tôn trọng quyền làm chủ của sinh viên; 4 N\n3. Phối hợp đồng bộ, chặt chẽ giữa các bộ phận; đơn vị có liên quan trong nhà\ntrường tham gia công tác ĐGKQRL của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nội dung đánh giá và thang điểm",
+          "text": "Điều 3. Nội dung đánh giá và thang điểm\n1. Xem xét, ĐGKQRL của sinh viên là đánh giá ý thức, thái độ của sinh viên\n\"< theo các mức điểm đạt được trên các mặt:\na) Ý thức tham gia học tập;\n1 b) Ý thức chấp hành nội quy, quy chế, quy định của nhà trường;\nc) Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể thao,\nphòng chống tội phạm và các tệ nạn xã hội;\nd) Ý thức công dân trong quan hệ cộng đồng;\nđ) Ý thức và kết quả tham gia công tác cán bộ lớp; các đoàn thể, tổ chức khác\ntrong nhà trường hoặc sinh viên đạt được thành tích đặc biệt trong học tập, rèn luyện.\n2. Điểm đánh giá theo thang điểm 100.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Đánh giá về ý thức tham gia học tập",
+          "text": "Điều 4. Đánh giá về ý thức tham gia học tập\n1. Các tiêu chí và khung điểm đánh giá:\na) Ý thức và thái độ trong học tập (04 điểm) :\nCó ý thức đi học chuyên cần, đúng giờ, nghiêm túc trong giờ học; đủ điều kiện\n\ndự thi tất cả các học phần: 04 điểm; 1 1\nKhông đủ điều kiện dự thi 01 học phần bị trừ 02 điểm. Không đủ điều kiện dự\nthi từ 02 học phần trở lên bị trừ hết số điểm còn lại của tiêu chí.\nb) Ý thức và thái độ tham gia các câu lạc bộ học thuật; các hoạt động học thuật,\nhoạt động ngoại khóa, hoạt động nghiên cứu khoa học (04 điểm):\nCó đăng ký, thực hiện; báo cáo đề tài nghiên cứu khoa học đúng tiến độ hoặc\ncó đăng ký, tham dự kỳ thi sinh viên giỏi các cấp: 02 điểm;\nCó ý thức tham gia các câu lạc bộ học thuật, các hoạt động học thuật; hoạt động\nngoại khóa: 02 điểm.\nc) Ý thức và thái độ trong kỳ thi, kiểm tra đánh giá các học phần (06 điểm):\nKhông vi phạm quy chế thi và kiểm tra: 06 điểm;\nVi phạm 01 lần bị trừ 02 điểm, từ lần vi phạm thứ hai trở đi bị trừ hết số điểm\ncòn lại của tiêu chí.\nd) Tinh thần vượt khó, phấn đấu vươn lên trong học tập (02 điểm):\nĐược tập thể lớp công nhận có tinh thần vượt khó, phấn đấu vươn lên trong học\ntập: 02 điểm.\ne) Kết quả học tập (04 điểm):\nĐTBCHK từ 3,2 đến 4,0: 04 điểm;\nĐTBCHK từ 2,0 đến 3,19: 02 điểm;\nĐTBCHK dưới 2,0: 0 điểm.\n2. Khung điểm đánh giá tối đa là 20 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Đánh giá về ý thức chấp hành nội quy, quy chế, quy định được thực",
+          "text": "Điều 5. Đánh giá về ý thức chấp hành nội quy, quy chế, quy định được thực\nhiện trong nhà trường\n1. Các tiêu chí và khung điểm đánh giá:\na) Ý thức chấp hành các văn bản chỉ đạo của ngành, của cấp trên và ĐHĐN\nđược thực hiện trong nhà trường (10 điểm):\nCó ý thức chấp hành các văn bản chỉ đạo của ngành, của cấp trên và ĐHĐN\nđược thực hiện trong nhà trường: 06 điểm;\nVi phạm 01 lần bị trừ 02 điểm; từ lần vi phạm thứ hai trở đi bị trừ hết số điểm\ncòn lại của tiêu chí;\nCó ý thức tham gia đầy đủ, đạt yêu cầu các cuộc vận động, sinh hoạt chính trị\ntheo chủ trương; phát động của cấp trên, ĐHĐN và nhà trường: 04 điểm;\nKhông tham gia 01 lần hoặc vi phạm quy định của các cuộc vận động bị trừ 02\nđiểm, từ lần vi phạm thứ hai trở đi bị trừ hết số điểm còn lại của tiêu chí.\nb) Ý thức chấp hành nội quy; quy chế và quy định của nhà trường (15 điểm):\nCó ý thức chấp hành nội quy, quy chế và quy định của nhà trường: 10 điểm;\nVi phạm 01 lần bị trừ 02 điểm; từ lần vi phạm thứ ba trở đi bị trừ hết số điểm\ncòn lại của tiêu chí;\nCó ý thức chấp hành quy định về đóng học phí: 05 điểm;\n\nKhông đóng học phí hoặc đóng học phí trễ hạn (không có phép) bị trừ 05 điểm:\n2 Khung điểm đánh giá từ 0 đến 25 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Đánh giá về ý thức tham gia các hoạt động rèn luyện về chính trị;",
+          "text": "Điều 6. Đánh giá về ý thức tham gia các hoạt động rèn luyện về chính trị;\nxã hội, văn hóa, văn nghệ, thể thao; phòng chống tội phạm và các tệ nạn xã hội\n1. Các tiêu chí và khung điểm đánh giá:\na) Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội; văn\nhóa, văn nghệ, thể thao (16 điểm):\nTham gia đầy đủ, đạt yêu cầu \"Tuần sinh hoạt công dân sinh viên\" (đánh giá\nchung cho cả hai học kỳ trong năm học): 10 điểm;\nVắng 01 lần (không có phép) bị trừ 02 điểm;\nTham gia nhưng kết quả không đạt thì phải học lại và bị trừ 04 điểm;\nKhông tham gia thì phải học lại và bị trừ 10 điểm;\nCó ý thức tham gia đầy đủ, nghiêm túc các hoạt động rèn luyện về chính trị; xã\nhội; văn hóa; văn nghệ, thể thao do nhà trường và ĐHĐN tổ chức, điều động: 06 điểm;\nVắng 01 lần (không có phép) bị trừ 02 điểm.\nb) Ý thức tham gia các hoạt động công ích, tình nguyện, công tác xã hội trong\nnhà trường (02 điểm):\nCó ý thức tham gia các hoạt động công ích, tình nguyện; công tác xã hội trong\nnhà trường: 02 điểm.\nc) Ý thức tham gia các hoạt động tuyên truyền; phòng chống tội phạm và các tệ\nnạn xã hội trong nhà trường (02 điểm): IG\nCó ý thức tham gia các hoạt động tuyên truyền; phòng chống tội phạm và các tệ Ăỉ\nnạn xã hội trong nhà trường: 02 điểm.\n2. Khung điểm đánh giá từ 0 đến 20 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Đánh giá về ý thức công dân trong quan hệ cộng đồng",
+          "text": "Điều 7. Đánh giá về ý thức công dân trong quan hệ cộng đồng\n1. Các tiêu chí và khung điểm đánh giá:\na) Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng; chính\nsách; pháp luật của Nhà nước (19 điểm):\nCó ý thức chấp hành, tham gia tuyên truyền các chủ trương của Đảng, chính\nsách; pháp luật của Nhà nước: 04 điểm;\nVi phạm 01 lần bị trừ 02 điểm, từ lần vi phạm thứ hai trở đi bị trừ hết số điểm\ncòn lại của tiêu chí;\nCó tham gia bảo hiểm y tế (bắt buộc) theo Luật Bảo hiểm y tế: 10 điểm;\nKhông tham gia bảo hiểm y tế (bắt buộc) bị trừ 10 điểm;\nCó ý thức chấp hành, tham gia tuyên truyền các quy định về bảo đảm an toàn\ngiao thông và \"văn hóa giao thông\"= 05 điểm;\nVi phạm 01 lần bị trừ 02 điểm; từ lần vi phạm thứ hai trở đi bị trừ hết số điểm\ncòn lại của tiêu chí.\n\nb) Có ý thức tham gia các hoạt động xã hội, có thành tích được ghi nhận, biểu\ndương, khen thưởng (04 điểm):\nCó ý thức tham gia các hoạt động xã hội; có thành tích được ghi nhận, biểu\ndương; khen thưởng: 04 điểm.\nc) Có tinh thần chia sẻ, giúp đỡ người gặp khó khăn; hoạn nạn (02 điểm):\nCó tinh thần, tham gia chia sẻ, giúp đỡ người gặp khó khăn; hoạn nạn: 02 điểm.\n2. Khung điểm đánh giá từ 0 đến 25 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Đánh giá về ý thức và kết quả khi tham gia công tác cán bộ lớp, các",
+          "text": "Điều 8. Đánh giá về ý thức và kết quả khi tham gia công tác cán bộ lớp, các\nđoàn thể, tổ chức trong CSGDĐHTV hoặc sinh viên đạt được thành tích trong\nhọc tập, rèn luyện\n1. Các tiêu chí và khung điểm đánh giá:\na) Có ý thức, tinh thần, thái độ, uy tín và đạt hiệu quả công việc khi sinh viên\nđược phân công nhiệm vụ quản lý lớp; các tổ chức Đảng; Đoàn Thanh niên, Hội Sinh\nviên và các tổ chức khác trong nhà trường (03 điểm):\nCó ý thức, uy tín và hoàn thành tốt nhiệm vụ quản lý lớp, các tổ chức Đảng,\nĐoàn Thanh niên; Hội Sinh viên và các tổ chức khác trong nhà trường: 03 điểm.\nb) Có kỹ năng tổ chức, quản lý lớp, các tổ chức Đảng; Đoàn Thanh niên, Hội\nSinh viên và các tổ chức khác trong nhà trường (02 điểm):\nCó kỹ năng tổ chức, quản lý lớp, các tổ chức Đảng, Đoàn Thanh niên; Hội Sinh\nviên và các tổ chức khác trong nhà trường: 02 điểm.\nc) Hỗ trợ và tham gia tích cực các hoạt động chung của tập thể lớp, khoa;\ntrường và ĐHĐN (03 điểm):\nHỗ trợ và tham gia tích cực các hoạt động chung của tập thể lớp; khoa; trường\nvà ĐHĐN: 03 điểm.\nd) Đạt được thành tích trong học tập, rèn luyện (02 điểm):\nĐạt thành tích trong học tập, rèn luyện (được tặng bằng khen, giấy khen; chứng\nnhận, thư khen của các cấp): 02 điểm.\n2 Khung điểm đánh giá từ 0 đến 10 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Phân loại kết quả rèn luyện",
+          "text": "Điều 9. Phân loại kết quả rèn luyện\n1 . Kết quả rèn luyện được xếp loại:Xuất sắc; Tốt; Khá;Trung bình;Yếu và Kém:\n2. Phân loại kết quả rèn luyện\na) Từ 90 đến 100 điểm: Xuất sắc;\nb) Từ 80 đến dưới 90 điểm: Tốt;\nc) Từ 65 đến dưới 80 điểm: Khá;\nd) Từ 50 đến dưới 65 điểm: Trung bình;\nđ) Từ 35 đến dưới 50 điểm: Yếu;\ne) Dưới 35 điểm: Kém",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Đánh giá kết quả rèn luyện đối với các đối tượng sinh viên",
+          "text": "Điều 10. Đánh giá kết quả rèn luyện đối với các đối tượng sinh viên\n1. Trong thời gian sinh viên bị kỷ luật mức khiển trách, kết quả rèn luyện không\nđược vượt quá loại khá.\n2. Trong thời gian sinh viên bị kỷ luật mức cảnh cáo, kết quả rèn luyện không\nđược vượt quá loại trung bình.\n3. Sinh viên bị kỷ luật mức đình chỉ học tập không được ĐGKQRL trong thời\ngian bị đình chỉ.\n4. Sinh viên bị kỷ luật mức buộc thôi học không được ĐGKQRL.\n5. Sinh viên hoàn thành chương trình học và tốt nghiệp chậm so với quy định\ncủa khóa học thì tiếp tục được ĐGKQRL trong thời gian đang hoàn thành bổ sung\nchương trình học và tốt nghiệp; tùy thuộc vào nguyên nhân để quy định mức\nĐGKQRL tại học kỳ bổ sung.\n6. Sinh viên khuyết tật, tàn tật, mồ côi cả cha lẫn mẹ hoặc cha hoặc mẹ, hoàn\ncảnh gia đình đặc biệt khó khăn có xác nhận của địa phương theo quy định, đối với\nnhững hoạt động rèn luyện không có khả năng tham gia hoặc đáp ứng yêu cầu chung\nthì được ưu tiên, động viên; khuyến khích; cộng điểm khi ĐGKQRL thông qua sự nỗ\nlực và tiến bộ của sinh viên tùy thuộc vào đối tượng và hoàn cảnh cụ thể.\n7 Sinh viên nghỉ học tạm thời được bảo lưu kết quả rèn luyện và sẽ được\nĐGKQRL khi tiếp tục trở lại học tập theo quy định.\n8. Sinh viên đồng thời học hai chương trình đào tạo sẽ được ĐGKQRL tại đơn\nvị quản lý chương trình thứ nhất và lấy ý kiến nhận xét của đơn vị quản lý chương\ntrình thứ hai làm căn cứ, cơ sở để đánh giá thêm. Trường hợp chương trình thứ nhất đã\nhoàn thành thì đơn vị quản lý chương trình thứ hai sẽ tiếp tục ĐGKQRL của sinh viên. 4\n9. Sinh viên chuyển trường được sự đồng ý của Hiệu trưởng thì được bảo lưu\nkết quả rèn luyện tại nhà trường cũ khi ĐGKQRL tại nhà trường mới và tiếp tục được 'C\nĐGKQRL ở các học kỳ tiếp theo. 'G",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Quy trình đánh giá kết quả rèn luyện 4",
+          "text": "Điều 11. Quy trình đánh giá kết quả rèn luyện 4\n1. Sinh viên căn cứ vào kết quả rèn luyện của bản thân; tự đánh giá theo khung\nđiểm của Hướng dẫn này\n2. Tổ chức họp lớp có giảng viên chủ nhiệm (hoặc cố vấn học tập) tham gia,\ntiến hành xem xét và thông qua điểm tự đánh giá của từng sinh viên trên cơ sở các\nminh chứng xác nhận kết quả, phải được quá nửa ý kiến đồng ý của tập thể lớp và phải\ncó biên bản kèm theo.\nGiảng viên chủ nhiệm (hoặc cố vấn học tập) xác nhận và chuyển kết quả lên\nHội đồng ĐGKQRL của sinh viên cấp khoa (sau đây gọi tắt là Hội đồng cấp khoa)\n3. Hội đồng cấp khoa họp xét, thống nhất; báo cáo Trưởng khoa thông qua và\ntrình kết quả lên Hội đồng ĐGKQRL của sinh viên cấp trường (sau đây gọi tắt là Hội\nđồng cấp trường)\n4 Hội đồng cấp trường họp xét; thống nhất trình Hiệu trưởng xem xét và ban\nhành Quyết định công nhận kết quả.\n5. Kết quả đánh giá, phân loại rèn luyện của sinh viên phải được công bố công\nkhai và thông báo cho sinh viên biết trước 20 ngày trước khi ban hành Quyết định\nchính thức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Hội đồng đánh giá kết quả rèn luyện",
+          "text": "Điều 12. Hội đồng đánh giá kết quả rèn luyện\n1. Nhà trường ban hành Quyết định thành lập Hội đồng ĐGKQRL của sinh viên\nvà chấm dứt hoạt động khi Hội đồng ban hành Quyết định chính thức công nhận kết\nquả của sinh viên.\n2. Hội đồng cấp trường\na) Thẩm quyền thành lập\nHội đồng cấp trường do Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng\nủy quyền ký Quyết định thành lập Hội đồng cấp trường.\nb) Thành phần Hội đồng cấp trường bao gồm:\nChủ tịch Hội đồng: Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng ủy\nquyền;\nThường trực Hội đồng: Trưởng phòng Phòng công tác sinh viên (hoặc trưởng\nbộ phận phụ trách công tác sinh viên);\nCác ủy viên: Đại diện lãnh đạo các khoa; phòng có liên quan, đại diện Đoàn\nThanh niên và Hội Sinh viên cấp trường.\nc) Nhiệm vụ của Hội đồng cấp trường:\nTư vấn giúp Hiệu trưởng xem xét, công nhận kết quả rèn luyện của từng sinh\nviên và chịu sự chỉ đạo trực tiếp của Hiệu trưởng;\nCăn cứ vào các quy định hiện hành, trên cơ sở đề nghị của Trưởng khoa; tiến\nhành xem xét kết quả rèn luyện của từng khoa, đề nghị Hiệu trưởng công nhận.\n3. Hội đồng cấp khoa\na) Thẩm quyền thành lập\nHội đồng cấp khoa do Trưởng khoa hoặc Phó Trưởng khoa được Trưởng khoa\nủy quyền ký Quyết định thành lập Hội đồng cấp khoa.\nb) Thành phần Hội đồng cấp khoa gồm:\nChủ tịch Hội đồng: Trưởng khoa hoặc Phó Trưởng khoa được Trưởng khoa ủy\nquyền;\nCác ủy viên: Phó Trưởng khoa phụ trách công tác sinh viên; giảng viên chủ\nnhiệm (hoặc cố vấn học tập); đại diện Liên chi Đoàn Thanh niên, Liên chi Hội Sinh\nviên cấp khoa và đại diện ban cán sự lớp.\nc) Nhiệm vụ của Hội đồng cấp khoa\nCó nhiệm vụ giúp Trưởng khoa xem xét; đánh giá chính xác, công bằng, công\nkhai và dân chủ kết quả rèn luyện của từng sinh viên khoa;\nCăn cứ vào các quy định hiện hành, trên cơ sở đề nghị của giảng viên chủ\nnhiệm (hoặc cố vấn học tập) của từng lớp, tiến hành xem xét kết quả rèn luyện của\ntừng lớp, đề nghị Trưởng khoa công nhận.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Thời gian đánh giá kết quả rèn luyện",
+          "text": "Điều 13. Thời gian đánh giá kết quả rèn luyện\nViệc ĐGKQRL của sinh viên được tiến hành định kỳ theo học kỳ, năm học\nvà toàn khóa học.\n2. Điểm rèn luyện của học kỳ là tổng điểm đạt được của 05 (năm) nội dung\nđánh giá.\n\n3. Điểm rèn luyện của năm học là trung bình cộng của điểm rèn luyện các học\nkỳ của năm học đó.\n4 Điểm rèn luyện toàn khóa học là trung bình cộng của điểm rèn luyện các học\nkỳ của khóa học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Sử dụng kết quả rèn luyện",
+          "text": "Điều 14. Sử dụng kết quả rèn luyện\n1 Kết quả đánh giá rèn luyện từng học kỳ, năm học của sinh viên được lưu\ntrong hồ sơ quản lý sinh viên của nhà trường; được sử dụng trong việc xét duyệt học\nbổng; xét khen thưởng, kỷ luật, xét thôi học, ngừng học; xét lưu trú ký túc xá, xét miễn\ngiảm phí, dịch vụ và sinh hoạt trong ký túc xá và các ưu tiên khác theo quy định của\nnhà trường.\n2. Kết quả đánh giá rèn luyện toàn khóa học của sinh viên được lưu trong hồ sơ\nquản lý sinh viên của nhà trường, làm căn cứ để xét thi tốt nghiệp, làm luận văn hoặc\nkhóa luận tốt nghiệp.\n3. Kết quả đánh giá rèn luyện toàn khóa học được ghi vào bảng điểm kết quả\nhọc tập và lưu trong hồ sơ của sinh viên khi tốt nghiệp ra trường.\n4. Sinh viên có kết quả rèn luyện xuất sắc được nhà trường xem xét biểu dương;\nkhen thưởng.\n5. Sinh viên bị xếp loại rèn luyện yếu; kém trong 02 (hai) học kỳ liên tiếp thì\nphải tạm ngừng học ít nhất 01 (một) học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn\nluyện yếu, kém 02 (hai) học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Quyền khiếu nại",
+          "text": "Điều 15. Quyền khiếu nại\nSinh viên có quyền khiếu nại lên khoa; các phòng chức năng hoặc Hiệu trưởng\nnếu thấy việc ĐGKQRL chưa chính xác. Khi nhận được đơn khiếu nại, nhà trường có\ntrách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 16. Tổ chức thực hiện\nKết thúc năm học, nhà trường kiểm tra; đánh giá, tổng kết và báo cáo công tác\nthực hiện Hướng dẫn này về ĐHĐN; góp ý, đề nghị ĐHĐN xem xét; sửa đổi, bổ sung\nkịp thời (nếu cần thiết) cho phù hợp với điều kiện thực tế, phạm vi của nhà trường;\nngành học và địa phương / .",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Hướng dẫn thực hiện Quy",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Hướng dẫn thực hiện Quy\nchế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ\nchính quy ban hành theo Thông tư số 16/2015/TT-BGDĐT tại các cơ sở giáo\ndục đại học thành viên, đơn vị trực thuộc Đại học Đà Nẵng\" .",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Hướng dẫn ở điều 1",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Hướng dẫn ở điều 1\nđược áp dụng bắt đầu từ năm học 2016-2017, các văn bản trước đây trái với\nhướng dẫn đều bị bãi bỏ. Trong quá trình thực hiện, Hướng dẫn có thể được điều\nchỉnh, bổ sung, sửa đổi để phù hợp với các quy định của Nhà nước, Bộ Giáo dục\nvà Đào tạo và của Đại học Đà Nẵng:",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban của Đại học Đà Nẵng; Hiệu",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban của Đại học Đà Nẵng; Hiệu\ntrưởng các cơ sở giáo dục đại học thành viên và Thủ trưởng các đơn vị trực\nthuộc Đại học Đà Nẵng căn cứ quyết định thi hành / .",
+      "isImplementationClause": false
+    }
+  ]
+}

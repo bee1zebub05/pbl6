@@ -46,7 +46,7 @@ import cau_json as CJ          # noqa: E402  — PROMPT, _boc_json, _validate, _
 import va_dieu_thieu as VD     # noqa: E402  — bo cat Dieu tu .txt
 
 KHO_TXT = GOC / "data" / "clean" / "text_final"
-RA = GOC / "data" / "kg_json"
+RA = GOC / "data" / "clean" / "json" / "v1"
 SCHEMA = GOC / "legal_knowledge_graph" / "schema" / "document.schema.json"
 ENV = GOC.parent / "project" / ".env"
 

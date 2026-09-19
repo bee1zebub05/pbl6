@@ -1,0 +1,247 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Học liệu, truyền thông/0077_2352_QĐ-ĐHBK_Ban hành Quy chế hoạt động truyền thông của Trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "24 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2352/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Quy chế hoạt động truyền thông của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/10/2021",
+    "effectiveDate": "12/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Học liệu, truyền thông",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này Quy chế hoạt động truyền thông của Trường Đại học Bách khoa - Đại học Đà Nẵng, quy định về phạm vi điều chỉnh, mục tiêu, nguyên tắc, các hành vi cấm, kế hoạch, hình thức và quy trình thực hiện hoạt động truyền thông.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/05/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng đại học ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng đại học ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1474/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1474/QĐ-ĐHBK ngày 21/5/2021 về việc ban hành Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông, Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1475/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1475/QĐ-ĐHBK ngày 21/5/2021 về việc ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Trung tâm Học liệu và Truyền thông",
+    "Phòng Kế hoạch - Tài chính",
+    "Phòng Tổ chức - Hành chính",
+    "Đoàn Thanh niên",
+    "Hội Sinh viên"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế hoạt động truyền thông của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": "CON_HIEU_LUC",
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định các hoạt động truyền thông tại Trường Đại học Bách khoa -\nĐại học Đà Nẵng (sau đây gọi tắt là Trường).\n2. Áp dụng đối với các đơn vị thuộc và trực thuộc Trường (sau đây gọi tắt là đơn vị);\ncá nhân bao gồm viên chức, người lao động, người học thuộc sự quản lý của Trường; cá\nnhân, tổ chức, doanh nghiệp bên ngoài Trường có liên quan trong hoạt động truyền thông\ntại Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục tiêu và nguyên tắc hoạt động truyền thông",
+          "text": "Điều 2. Mục tiêu và nguyên tắc hoạt động truyền thông\n1. Mục tiêu:\na) Nâng cao niềm tự hào của viên chức, người lao động, người học và niềm tin của\ncộng đồng đối với học hiệu của Trường; nhằm lan tỏa hình ảnh học hiệu Trường trên thị\ntrường giáo dục khu vực và quốc tế.\nb) Đa dạng hóa và nâng cao chất lượng hoạt động truyền thông; góp phần xây dựng\nuy tín học hiệu của Trường.\nc) Tăng cường tính chuyên nghiệp, hiệu quả trong các hoạt động truyền thông của\nTrường.\n2. Nguyên tắc hoạt động truyền thông\nHoạt động truyền thông phải có kế hoạch cụ thể theo định hướng của Trường và\nhướng đến đúng đối tượng, đúng thời điểm. Kế hoạch truyền thông phải được Hiệu trưởng\nphê duyệt trước khi thực hiện.\na) Thực hiện đúng chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà\nnước và quy định của Nhà trường.\nb) Đảm bảo quy định, trình tự, thủ tục, cơ chế phối hợp, trách nhiệm của các đơn vị,\ncá nhân trong tổ chức thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Hành vi cấm trong truyền thông",
+          "text": "Điều 3. Hành vi cấm trong truyền thông\nTiết lộ thông tin thuộc danh mục bí mật Nhà nước và bí mật khác theo quy định của\npháp luật.\nĐăng, phát thông tin có nội dung kích động chiến tranh nhằm chống lại độc lập, chủ\nquyền và toàn vẹn lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.\nGây ảnh hưởng xấu đến sự tôn nghiêm đối với Quốc kỳ, Quốc huy, Quốc ca, Đảng\nkỳ, anh hùng dân tộc, danh nhân văn hóa, lãnh tụ, lãnh đạo Đảng, Nhà nước; xúc phạm uy\ntín, danh dự, nhân phẩm của tổ chức, cá nhân; làm mất đoàn kết nội bộ.\nCó tính chất kỳ thị dân tộc, phân biệt chủng tộc, xúc phạm niềm tin tín ngưỡng, tôn\ngiáo; định kiến về giới tính, về người khuyết tật.\nTrái với truyền thống lịch sử, văn hóa, đạo đức, thuần phong mỹ tục Việt Nam; làm\nảnh hưởng đến mỹ quan, trật tự an toàn giao thông, an toàn xã hội và vệ sinh môi trường.\nTreo, đặt, dán, vẽ các sản phẩm quảng cáo, rao vặt trên các bề mặt trong khuôn viên\nTrường và ký túc xá của Trường khi chưa được phép; sử dụng hình ảnh, lời nói, chữ viết\ncủa cá nhân khi chưa được cá nhân đó đồng ý, trừ trường hợp được pháp luật cho phép.\nCung cấp các thông tin không đúng sự thật, gây thiệt hại cho tổ chức, cá nhân tiếp\nnhận thông tin hoặc tổ chức, cá nhân bị nêu trong thông tin.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Kế hoạch truyền thông thường xuyên",
+          "text": "Điều 4. Kế hoạch truyền thông thường xuyên\n1. Trung tâm phối hợp với các đơn vị trong Trường xây dựng kế hoạch truyền thông\ntổng thể năm sau vào tháng 12 hằng năm.\n2. Chậm nhất ngày 31/12, kế hoạch truyền thông của Trường và dự toán ngân sách\ncho năm sau gửi về Phòng Kế hoạch - Tài chính và trình Ban Giám hiệu xem xét để phê\nduyệt.\n3. Sau khi kế hoạch truyền thông và dự toán ngân sách hàng năm được phê duyệt,\nTrung tâm có trách nhiệm:\na) Phối hợp với các đơn vị liên quan xây dựng kế hoạch truyền thông chi tiết trình\nBan Giám hiệu xem xét, phê duyệt.\nb) Lập dự toán trình Ban Giám hiệu và Phòng Kế hoạch - Tài chính xem xét, phê\nduyệt.\nTriển khai thực hiện công tác thông tin, truyền thông theo kế hoạch chi tiết đã được\nphê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Kế hoạch truyền thông đột xuất",
+          "text": "Điều 5. Kế hoạch truyền thông đột xuất\nTùy theo tính chất của sự kiện đột xuất, đơn vị chủ trì phối hợp với các đơn vị liên\nquan xây dựng kế hoạch trình Ban Giám hiệu xem xét, quyết định; tổ chức thực hiện đảm\nbảo đúng yêu cầu, mục đích kịp thời, chất lượng và hiệu quả.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Truyền thông nội bộ",
+          "text": "Điều 6. Truyền thông nội bộ\nHoạt động truyền thông nội bộ thường xuyên được thực hiện đối với các nội dung:\n1. Các văn bản của Bộ Giáo dục và Đào tạo liên quan đến cán bộ viên chức, người\nlao động và người đang theo học tại Trường.\n2. Các văn bản, quy định, thông báo của Trường liên quan đến đào tạo; quy định liêm\nchính học thuật, các chế độ, chính sách, học bổng dành cho sinh viên; quảng bá và tuyên\ntruyền các thông tin liên quan đến vấn đề tuyển sinh đối với các cấp đào tạo của Trường.\n3. Các chế độ, chính sách đối với cán bộ viên chức, người lao động; các sự kiện của\nTrường để cán bộ viên chức, người lao động được biết.\n4. Tuyên truyền các tấm gương giảng viên, sinh viên điển hình, sáng tạo, đạt thành\ntích xuất sắc trong học tập, nghiên cứu và chuyển giao công nghệ cũng như các hoạt động\nxã hội khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Truyền thông quảng bá học hiệu của Trường",
+          "text": "Điều 7. Truyền thông quảng bá học hiệu của Trường\n1. Thực hiện truyền thông các sự kiện, các ngày Lễ trong năm theo quy định của\nĐảng, Nhà nước, của tổ chức chính trị - xã hội và của Trường.\na) Tối đa 07 ngày sau khi kế hoạch được phê duyệt, thành lập Ban Tổ chức sự kiện\ndưới sự chỉ đạo, điều hành của Trưởng ban, được ủy quyền sử dụng các nguồn lực của đơn\nvị mình và phối hợp với các thành viên khác để thực hiện nhiệm vụ được giao.\nb) Đơn vị chủ trì tổ chức sự kiện có trách nhiệm trong quá trình chuẩn bị và tổ chức\nthực hiện sự kiện.\n2. Thực hiện truyền thông quảng bá các sản phẩm chuyển giao công nghệ của giảng\nviên, sinh viên trong Trường với doanh nghiệp, địa phương; các nghiên cứu, các bài báo\nkhoa học của giảng viên, sinh viên ra ngoài cộng đồng; các tấm gương vượt khó; các hoạt\nđộng sinh hoạt của sinh viên trong Trường.\na) Các đơn vị liên quan, cá nhân có sản phẩm chuyển giao công nghệ, các nghiên cứu,\nbài báo khoa học, các tấm gương vượt khó gửi thông tin về Trung tâm.\nb) Trung tâm có trách nhiệm phối hợp với các đơn vị, cá nhân liên quan xây dựng và\ntrình kế hoạch chi tiết tổ chức thực hiện theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Phát ngôn và cung cấp thông tin cho báo chí",
+          "text": "Điều 8. Phát ngôn và cung cấp thông tin cho báo chí\nPhát ngôn và cung cấp thông tin cho báo chí được thực hiện theo quy định tại Quy\nchế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa - Đại học\nĐà Nẵng ban hành theo Quyết định số 1475/QĐ-ĐHBK ngày 21/5/2021.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Các loại hình hoạt động truyền thông",
+          "text": "Điều 9. Các loại hình hoạt động truyền thông\n1. Hoạt động trang trí hội trường, phát thanh, thiết bị điện tử, đặt pa-nô, treo băng\nrôn, dán áp-phích, đặt phông đứng, dựng gian hàng, bàn giới thiệu, phát tờ rơi trong\nTrường.\n2. Hoạt động tổ chức các sự kiện truyền thông có sử dụng địa điểm thuộc quyền quản\nlý của Trường.\n3. Hoạt động thực hiện sản xuất sản phẩm truyền thông (quay phim, chụp ảnh, phỏng\nvấn) trong Trường.\n4. Hoạt động phát hành, sử dụng ấn phẩm truyền thông số (ảnh, phim, thông tin trực\ntuyến) trong hệ thống các đơn vị thuộc Trường.\n5. Hoạt động cung cấp thông tin cho báo, đài liên quan đến các hoạt động, sản phẩm\ncông nghệ hay các thông tin khác của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Các hoạt động ưu tiên truyền thông",
+          "text": "Điều 10. Các hoạt động ưu tiên truyền thông\nCăn cứ theo kế hoạch hoạt động truyền thông được Ban Giám hiệu Trường phê duyệt,\nthứ tự ưu tiên của hoạt động được thực hiện như sau:\n1. Các hoạt động chính trị, tuyên truyền kỷ niệm các ngày Lễ lớn, các sự kiện chính\ntrị trong năm theo quy định của Đảng, Nhà nước, của tổ chức chính trị - xã hội và của\nTrường.\n2. Các hoạt động chung cấp Trường.\n3. Hoạt động của các đơn vị trong Trường.\n4. Hoạt động phối hợp khác với các đơn vị có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hình thức thể hiện hoạt động truyền thông",
+          "text": "Điều 11. Hình thức thể hiện hoạt động truyền thông\n1. Hình thức thể hiện phải đảm bảo tính thẩm mỹ, không vi phạm thuần phong mỹ\ntục và các quy định của pháp luật. Đối với các hình thức thể hiện có sử dụng biểu trưng\ncủa Trường phải tuân thủ theo quy định sử dụng biểu trưng.\n2. Băng-rôn:\na) Băng-rôn treo ngang đường phố phải đảm bảo các yêu cầu:\n\nMàu sắc, kiểu chữ phải rõ ràng, trang trọng.\nChiều ngang của băng-rôn khẩu hiệu tuỳ thuộc vào thực tế bề rộng của mặt đường\nđể bố trí phù hợp; chiều đứng tối thiểu là 0,6 mét.\nBăng-rôn khẩu hiệu treo ngang đường phố phải treo ngay thẳng không bị vật khác\nche khuất và không che khuất các biển báo giao thông, không gây trở ngại cho người và\ncác phương tiện tham gia giao thông; không làm mất mỹ quan đô thị, tầm cao khi treo so\nvới mặt đường tối thiểu là 4,5 mét; trụ, dây giăng băng-rôn khẩu hiệu và các vật dụng khác\nphải bảo đảm chắc chắn, gọn đẹp.\nBăng-rôn tuyên truyền về Đảng, Nhà nước và Chủ tịch Hồ Chí Minh phải có nền\nđỏ, chữ màu vàng (hoặc màu trắng), được treo trang trọng.\nBăng-rôn khẩu hiệu treo trong phòng, hội trường phải được treo nơi trang trọng, dễ\nđọc, dễ nhìn, không bị che khuất.\nb) Pa-nô, áp phích:\nThể hiện nội dung, hình thức theo đúng bản mẫu đã được Ban Giám hiệu và đơn vị\nphụ trách truyền thông phê duyệt; pa-nô phải đảm bảo chiều ngang tối thiểu 1m; chiều\nđứng tối thiểu 1m60.\nĐảm bảo an toàn, phù hợp với không gian, cảnh quan xung quanh.\n3. Thông tin, tuyên truyền trên các phương tiện khác thực hiện theo hợp đồng chương\ntrình, đề án, kế hoạch được duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quy trình thực hiện các hoạt động truyền thông",
+          "text": "Điều 12. Quy trình thực hiện các hoạt động truyền thông\n1. Quy trình thực hiện hoạt động truyền thông trong Trường đối với đơn vị chủ trì\nhoạt động\na) Lập kế hoạch và bản dự trù kinh phí cho sự kiện truyền thông.\nb) Trình Ban Giám hiệu và Phòng Kế hoạch - Tài chính xem xét, phê duyệt.\nc) Sau khi kế hoạch và bản dự trù kinh phí được phê duyệt, đơn vị chủ trì phối hợp\nvới các đơn vị liên quan để triển khai.\n2. Quy trình thực hiện các hoạt động truyền thông phối hợp\na) Hồ sơ gửi về đơn vị quản lý các hoạt động truyền thông ít nhất 05 ngày làm việc\ntrước khi diễn ra sự kiện.\nb) Sau khi được chấp thuận, các đơn vị, tổ chức, cá nhân đề nghị có trách nhiệm thực\nhiện nghiêm túc các nội dung đã được cho phép.\nc) Hồ sơ:\nVăn bản đề nghị của đơn vị, tổ chức, cá nhân.\nMẫu thiết kế chi tiết ấn phẩm truyền thông bản giấy hoặc bản điện tử.\n\n3. Quy trình đăng tin, bài lên trang thông tin điện tử, trang mạng xã hội của Trường\na) Tin, bài phải gửi về Trung tâm sau sự kiện tối đa 02 ngày. Nếu sau 02 ngày, Trung\ntâm có quyền từ chối việc đăng tin trang thông tin điện tử, trang mạng xã hội của Trường.\nb) Lãnh đạo Trung tâm phân công chuyên viên truyền thông biên tập lại tin, bài và\nphê duyệt nội dung đăng lên trang thông tin điện tử, trang mạng xã hội Trường.\nc) Trung tâm gửi tin, bài cho Tổ Công nghệ Thông tin để thực hiện đăng bài lên trang\nthông tin điện tử; chuyên viên truyền thông thực hiện đăng tin bài lên trang mạng xã hội\ncủa Trường.\n4. Quy trình sử dụng hình ảnh của Trường\na) Đơn vị, tổ chức, cá nhân có văn bản yêu cầu được phép sử dụng hình ảnh của\nTrường gửi về Trung tâm.\nb) Trung tâm kiểm tra hình ảnh của Trường được đơn vị, tổ chức, cá nhân đề xuất sử\ndụng và trình Ban Giám hiệu phê duyệt.\nc) Trung tâm cung cấp hình ảnh cho đơn vị, tổ chức, cá nhân yêu cầu.\nd) Đơn vị, tổ chức, cá nhân yêu cầu phải ghi rõ nguồn thông tin khi xuất bản bản tin,\nbài viết.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Kinh phí hoạt động",
+          "text": "Điều 13. Kinh phí hoạt động\n1. Được sử dụng kinh phí từ nguồn ngân sách của Trường hoặc huy động kinh phí từ\ncác tổ chức, cá nhân và các nguồn hợp pháp khác.\n2. Kinh phí tổ chức hoạt động truyền thông đột xuất được cân đối từ nguồn kinh phí\ncủa Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Trung tâm Học liệu và Truyền thông",
+          "text": "Điều 14. Trung tâm Học liệu và Truyền thông\n1. Xây dựng kế hoạch truyền thông tổng thể của Trường.\n2. Thực hiện trực tiếp các hoạt động truyền thông của Trường do Hiệu trưởng chỉ đạo\ntheo chức năng, nhiệm vụ của đơn vị.\n3. Hỗ trợ, hướng dẫn, phối hợp với các đơn vị, tổ chức, cá nhân thực hiện truyền\nthông nội bộ.\n4. Quản lý, trực tiếp thực hiện và chịu trách nhiệm về nội dung thông tin, tuyên truyền\ntrên trang thông tin điện tử và trang mạng xã hội của Trường.\n5. Quản lý thông tin trên các trang mạng xã hội của Trường.\n\n6. Báo cáo Ban Giám hiệu và các cấp theo quy định về kết quả hoạt động thông tin,\ntuyên truyền sau mỗi đợt triển khai và theo định kỳ.\n7. Đề xuất xử lý các trường hợp vi phạm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Phòng Tổ chức - Hành chính",
+          "text": "Điều 15. Phòng Tổ chức - Hành chính\n1. Phối hợp thực hiện các hoạt động truyền thông phù hợp với Quy chế tổ chức và\nhoạt động của Trường.\n2. Phối hợp với Trung tâm Học liệu và Truyền thông lập biên bản và báo cáo Ban\nGiám hiệu xử lý các trường hợp vi phạm hoạt động truyền thông có liên quan nếu có vi\nphạm.\n3. Phối hợp, hỗ trợ các hoạt động truyền thông khác theo quy định của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Các đơn vị, tổ chức đoàn thể trong Trường",
+          "text": "Điều 16. Các đơn vị, tổ chức đoàn thể trong Trường\n1. Hằng năm, lập kế hoạch và bản dự trù kinh phí thực hiện các hoạt động truyền\nthông trong phạm vi chức năng, nhiệm vụ của đơn vị.\n2. Sau khi xin ý kiến Ban Giám hiệu thực hiện truyền thông trong phạm vi Trường,\ngửi kế hoạch về cho Trung tâm để tổng hợp, theo dõi.\n3. Quản lý, trực tiếp thực hiện và chịu trách nhiệm về nội dung truyền thông trên\ntrang thông tin điện tử của đơn vị.\n4. Hỗ trợ Trung tâm giám sát các hoạt động truyền thông tại các vị trí được Trường\nphân công quản lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Đoàn Thanh niên, Hội Sinh viên",
+          "text": "Điều 17. Đoàn Thanh niên, Hội Sinh viên\nNgoài những quyền hạn và trách nhiệm chung quy định tại Điều 15 còn có các quyền\nhạn và trách nhiệm sau:\n1. Căn cứ vào phương hướng, nhiệm vụ, kế hoạch công tác năm, Đoàn thanh niên -\nHội sinh viên Trường xây dựng kế hoạch truyền thông riêng theo kênh của Đoàn - Hội và\nchịu trách nhiệm trước Nhà trường về các nội dung đăng tải, tuyên truyền.\n2. Quản lý, chỉ đạo hoạt động truyền thông của các Liên chi đoàn, Câu lạc bộ, Đội,\nNhóm.\n3. Tham gia, phối hợp cùng với hoạt động truyền thông chung của Nhà trường theo\nsự phân công, chỉ đạo trực tiếp của Ban Giám hiệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Đánh giá kết quả và Chế độ báo cáo",
+          "text": "Điều 18. Đánh giá kết quả và Chế độ báo cáo\n1. Trung tâm có trách nhiệm xây dựng và đề xuất bộ tiêu chí đánh giá tác động và\nhiệu quả của hoạt động truyền thông trình Ban Giám hiệu phê duyệt và áp dụng.\n2. Phối hợp với các bên liên quan để thực hiện đánh giá tác động và hiệu quả của các\nhoạt động truyền thông theo bộ tiêu chí đánh giá được phê duyệt.\n\n3. Các đơn vị có trách nhiệm báo cáo kết quả thực hiện hoạt động truyền thông định\nkỳ và đột xuất do đơn vị thực hiện về Trung tâm để tổng hợp báo cáo với Ban Giám hiệu,\nlàm cơ sở đánh giá hiệu quả công tác truyền thông của đơn vị và Trường.\n4. Báo cáo kết quả về Ban Giám hiệu và các cấp theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Xử lý vi phạm",
+          "text": "Điều 19. Xử lý vi phạm\nCác tổ chức, cá nhân vi phạm các quy định về hoạt động truyền thông, tùy theo tính\nchất, mức độ vi phạm sẽ bị xử lý kỷ luật, bị tháo dỡ và bồi hoàn chi phí tháo dỡ, xử lý vi\nphạm hành chính hoặc bị truy cứu trách nhiệm theo pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 20. Hiệu lực thi hành\nQuy chế này có hiệu lực kể từ ngày ký ban hành.\nCác quy định trước đây trái với quy định trong quy chế này bị bãi bỏ. Trong quá trình\nthực hiện, nếu có vấn đề gì phát sinh hoặc vướng mắc, khó khăn, các đơn vị phản ánh bằng\nvăn bản về Trường (thông qua Trung tâm Học liệu và Truyền thông) để trình Ban Giám\nhiệu xem xét, điều chỉnh, bổ sung cho phù hợp.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Trách nhiệm thi hành",
+          "text": "Điều 21. Trách nhiệm thi hành\nTrưởng các đơn vị thuộc và trực thuộc Trường chịu trách nhiệm phổ biến, triển khai\nQuy chế này đến toàn thể viên chức, người lao động và người học của đơn vị/.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy chế hoạt động truyền thông của",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy chế hoạt động truyền thông của\nTrường Đại học Bách khoa - Đại học Đà Nẵng\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Lãnh đạo Trung tâm Học liệu",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Lãnh đạo Trung tâm Học liệu\nvà Truyền thông, Trưởng các đơn vị thuộc và trực thuộc Trường, các tổ chức và cá nhân\ncó liên quan chịu trách nhiệm thi hành Quyết định này / . Ul~\nNơi nhân: Duc VẢ {GU TRƯỞNG\nNhư Điều 3 (để th); TRUỜNG\nĐại học Đà Nẵng (để b/c); B8CHR Cekcuccac\nHội đồng Trường (để b/c);\nBan Giám hiệu (để b/c);\nLưu: VT, TTHL&TT. PGS.TS ĐOÀN QUANG VINH\n\nĐẠI HỌC ĐÀ NẴNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC BÁCH KHOA Độc lập - Tự do - Hạnh phúc\nQUY CHẾ HOẠT ĐỘNG TRUYỀN THÔNG\nCỦA TRƯỜNG ĐẠI HỌC BÁCH KHOA, ĐẠI HỌC ĐÀ NẴNG\n(Ban hành kèm theo Quyết định số .2352 IQĐ-ĐHBK ngày42 thángA0 năm 2021\ncủa Hiệu trưởng Trường Đại học Bách khoa - ĐHĐN)",
+      "isImplementationClause": true
+    }
+  ]
+}

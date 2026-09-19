@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0029_176_QĐ-ĐHBK_Nội quy tiếp công dân của Trường Đại học Bách khoa, Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "176/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Nội quy tiếp công dân của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "18/05/2016",
+    "effectiveDate": "18/05/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành Quyết định kèm theo Nội quy tiếp công dân, quy định lịch tiếp công dân định kỳ và tại phòng tiếp công dân, cùng với các quy định cụ thể đối với công dân và cán bộ tiếp dân khi đến làm việc.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Kim Hùng",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "42/2013/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật tiếp công dân số 42/2013/QH13 ngày 25 tháng 11 năm 2013 của Quốc hội;"
+    },
+    {
+      "targetDocumentNumber": "64/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiếp công dân;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "40/2013/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 40/2013/TT-BGDĐT ngày 18 tháng 12 năm 2013 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "7052/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 7052/QĐ-ĐHĐN ngày 31 tháng 12 năm 2015 của Giám đốc Đại học Đà Nẵng ban hành Quy định về tiếp công dân, giải quyết khiếu nại, giải quyết tố cáo của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "7049/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 7049/QĐ-ĐHĐN ngày 31 tháng 12 năm 2015 của Giám đốc Đại học Đà Nẵng ban hành Nội quy tiếp công dân của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "177/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 177/QĐ-ĐHBK ngày 15 tháng 06 năm 2015 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành Quy định nhiệm vụ, quyền hạn của các Phòng chức năng thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Quốc hội",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Nội quy về tiếp công dân của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Nội quy",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "LỊCH TIẾP CÔNG DÂN",
+          "text": "Điều 1. Ban hành kèm theo Quyết định này “Nội quy tiếp công dân của Trường Đại học Bách khoa - Đại học Đà Nẵng”.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "ĐỐI VỚI CÔNG DÂN",
+          "text": "1. Xuất trình giấy tờ tùy thân, giấy ủy quyền (trong trường hợp được ủy quyền).\n2. Viết đơn trình bày rõ nội dung khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định. Chịu trách nhiệm về sự trung thực, chính xác của đơn thư trước pháp luật.\n3. Không được lợi dụng quyền khiếu nại, tố cáo để gây rối trật tự nơi tiếp công dân; vu cáo, xúc phạm uy tín, danh dự của cơ quan nhà nước, người thi hành nhiệm vụ.\n4. Không được mang theo các vật dễ cháy, nổ, chất độc hoặc hung khí vào nơi tiếp công dân.\n5. Không tự ý quay phim, chụp hình hoặc ghi âm khi chưa được sự đồng ý của cán bộ tiếp công dân.\n6. Rời khỏi phòng tiếp công dân khi đã hoàn tất các thủ tục khiếu nại, tố cáo hoặc khi đã hết giờ tiếp công dân theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "ĐỐI VỚI CÁN BỘ TIẾP DÂN",
+          "text": "Điều 3. Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Nội quy tiếp công dân của Trường Đại học Bách khoa - Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Nội quy tiếp công dân của Trường Đại học Bách khoa - Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết đ",
+      "text": "Điều 3. Trưởng phòng Tổ chức Hành chính, Trưởng phòng Thanh tra - Pháp chế; Trưởng các đơn vị thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

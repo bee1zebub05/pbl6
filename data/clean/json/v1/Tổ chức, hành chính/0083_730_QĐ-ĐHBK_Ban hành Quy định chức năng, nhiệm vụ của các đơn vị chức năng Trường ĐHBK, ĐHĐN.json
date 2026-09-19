@@ -1,0 +1,259 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0083_730_QĐ-ĐHBK_Ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng Trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "27 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "730/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành “Quy định Chức năng, nhiệm vụ của các đơn vị chức năng trực thuộc Trường Đại học Bách khoa”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/06/2018",
+    "effectiveDate": "05/06/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, bao gồm các phòng chức năng, Trung tâm Học liệu và Truyền thông, và Tổ Công nghệ thông tin.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "6539/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6539/QĐ-ĐHĐN ngày 06 tháng 11 năm 2014 của Giám đốc Đại học Đà Nẵng về việc thành lập các phòng chức năng thuộc Trường Đại học Bách khoa;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Đảng",
+    "Nhà nước",
+    "Phòng Tổ chức - Hành chính",
+    "Phòng Đào tạo",
+    "Phòng Khoa học Công nghệ và Hợp tác Quốc tế",
+    "Phòng Cơ sở vật chất",
+    "Phòng Công tác sinh viên",
+    "Phòng Khảo thí và Đảm bảo Chất lượng giáo dục",
+    "Phòng Thanh tra - Pháp chế",
+    "Phòng Kế hoạch - Tài chính",
+    "Trung tâm Học liệu và Truyền thông",
+    "Tổ Công nghệ thông tin",
+    "Công an Phường, Quận, Thành phố",
+    "Hội Cựu chiến binh",
+    "Công đoàn",
+    "Đoàn Thanh niên"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Chức năng, nhiệm vụ của các đơn vị chức năng trực thuộc Trường Đại học Bách khoa",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mục đích, đối tượng và phạm vi áp dụng",
+          "text": "Điều 1. Mục đích, đối tượng và phạm vi áp dụng\n1. Quy định này cụ thể hóa việc triển khai thực hiện Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên; Quyết định số 6539/QĐ-ĐHĐN ngày 06 tháng 11 năm 2014 về việc thành lập các phòng chức năng thuộc Trường Đại học Bách khoa.\n2. Quy định này áp dụng đối với các Phòng chức năng, Trung tâm Học liệu và Truyền thông, Tổ Công nghệ thông tin trực thuộc Trường Đại học Bách khoa (gọi chung là các đơn vị chức năng).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc",
+          "text": "Điều 2. Nguyên tắc\n1. Việc xác định chức năng và phân công nhiệm vụ của các đơn vị chức năng trong Trường tuân thủ theo các quy định hiện hành, nhằm đảm bảo tính thống nhất và phối hợp công tác giữa các đơn vị chức năng, đồng thời phát huy năng lực chuyên môn của từng bộ phận trong việc tham mưu, giúp Hiệu trưởng quản lý và sử dụng có hiệu quả các nguồn lực trong điều hành hoạt động của toàn Trường.\n2. Các đơn vị chức năng thực hiện nhiệm vụ và chịu trách nhiệm trước Hiệu trưởng, trước pháp luật về nhiệm vụ được phân công.\n\nChương II. CHỨC NĂNG, NHIỆM VỤ CỦA CÁC ĐƠN VỊ CHỨC NĂNG\n\nA. PHÒNG TỔ CHỨC - HÀNH CHÍNH",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Chức năng",
+          "text": "Điều 3. Chức năng\nPhòng Tổ chức - Hành chính có chức năng tham mưu, giúp việc cho Hiệu trưởng về điều phối chung các hoạt động của Trường trong các công tác: tổ chức\n\nnhân sự; tổng hợp báo cáo; văn thư - lưu trữ; lễ tân - khánh tiết; đảm bảo an ninh trật tự, chính trị nội bộ trong Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 4. Nhiệm vụ\n1. Xây dựng văn bản, kế hoạch, báo cáo; phối hợp, điều phối hoạt động\na. Chủ trì trong việc hoạch định, xây dựng chiến lược phát triển của Trường; xây dựng các văn bản về công tác tổ chức, công tác cán bộ và công tác hành chính;\nb. Tổng hợp, xây dựng: báo cáo định kỳ, đột xuất; lịch công tác tuần; nội dung giao ban và các văn bản hành chính thuộc các lĩnh vực được phân công;\nc. Truyền đạt các quyết định, chỉ thị, thông báo của Ban Giám hiệu đến các đơn vị và cá nhân thuộc Trường;\nd. Điều phối chung các hoạt động của Trường nhằm triển khai thực hiện chương trình, kế hoạch công tác.\n\n2. Công tác tổ chức, nhân sự\na. Tổ chức quản lý, lưu trữ hồ sơ cán bộ viên chức (CBVC), người lao động (NLĐ) theo quy định;\nb. Quản lý, hướng dẫn thực hiện chế độ chính sách của CBVC và NLĐ: tiền lương, tiền công, phụ cấp, bảo hiểm xã hội, thâm niên nhà giáo;\nc. Tham mưu cho Hiệu trưởng, đề xuất và xây dựng, hướng dẫn thực hiện công tác nhân sự: định biên, xây dựng đề án vị trí việc làm, quản lý nhân sự, quy hoạch đội ngũ, tổ chức tuyển dụng, sử dụng lao động, điều động, bổ nhiệm, miễn nhiệm, đào tạo cán bộ, kỷ luật;\nd. Tham mưu cho Hiệu trưởng thành lập các hội đồng: xét nâng bậc lương, xét kỷ luật, thi tuyển và các hội đồng khác theo chức năng, nhiệm vụ được giao;\ne. Quản lý, theo dõi CBVC đi học tập, công tác ở nước ngoài;\nf. Quản lý, tổ chức khám sức khỏe cho CBVC, NLĐ; thực hiện công tác chăm sóc sức khỏe ban đầu cho CBVC, NLĐ, sinh viên; phối hợp với cơ quan bảo hiểm y tế, bảo hiểm xã hội, Phòng Công tác sinh viên, Phòng Kế hoạch - Tài chính triển khai cấp phát thẻ bảo hiểm cho sinh viên.\n\n3. Công tác hành chính, văn thư, lưu trữ\na. Tiếp nhận, xử lý công văn, thông tin đi, đến (công văn giấy, điện tử, fax, điện thoại, ...);\n\nb. Thực hiện công tác hành chính, công tác văn thư, lưu trữ, quản lý và sử dụng con dấu của Trường. Soạn thảo, ban hành văn bản thuộc các lĩnh vực tổ chức, nhân sự, hành chính, văn thư, lưu trữ. Chỉ đạo nghiệp vụ hành chính, văn thư, lưu trữ đối với viên chức làm công tác văn thư, văn phòng của các đơn vị trực thuộc Trường;\nc. Kiểm tra thể thức, kỹ thuật trình bày, thủ tục ban hành văn bản theo quy định của Trường;\nd. Phối hợp với các đơn vị chức năng để giám sát, quản lý việc thực hiện các quy chế, quy định làm việc, chủ trương và chính sách của Trường;\ne. Quản lý sử dụng hội trường, phòng họp, phòng khách, phòng hội thảo, phòng truyền thống, nhà khách. Theo dõi, phối hợp quản lý, đảm bảo hoạt động của các khu giảng đường; các phòng học sau đại học về vệ sinh và an ninh trật tự. Đảm bảo vệ sinh môi trường, cảnh quan trong khu vực Trường (không bao gồm khu vực Ký túc xá).\n\n4. Công tác lễ tân, an ninh trật tự\na. Phối hợp với các đơn vị liên quan để đảm bảo các điều kiện cần thiết cho việc tổ chức các cuộc họp, hội nghị, hội thảo và các sự kiện của Trường;\nb. Thực hiện các công việc hiếu, hỷ theo quy định của Trường;\nc. Quản lý và điều động lái xe, ôtô phục vụ công tác của Trường;\nd. Triển khai các phong trào toàn dân bảo vệ an ninh tổ quốc. Làm việc với Công an Phường, Quận, Thành phố về các vấn đề an ninh trật tự, bảo vệ chính trị nội bộ;\ne. Chủ trì, phối hợp với các đơn vị liên quan lập phương án về nhân sự trong công tác phòng chống cháy nổ, phòng chống thiên tai;\nf. Đảm bảo an ninh trật tự trong khu vực Trường (không bao gồm khu vực Ký túc xá). Đề xuất việc xây dựng kế hoạch, tổ chức thực hiện công tác bảo vệ trật tự, phòng chống mất mát tài sản.\n\n5. Công tác khác\na. Cung cấp văn phòng phẩm, dụng cụ, vật tư văn phòng cho các đơn vị;\nb. Lập danh sách CBVC, NLĐ được trang bị phương tiện bảo hộ lao động cá nhân hàng năm theo quy định;\nc. Tổ chức tập huấn, bồi dưỡng nghiệp vụ cho CBVC và NLĐ trong phạm vi chức năng, nhiệm vụ được phân công;\nd. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\nB. PHÒNG ĐÀO TẠO",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Chức năng",
+          "text": "Điều 5. Chức năng\nPhòng Đào tạo có chức năng tham mưu, giúp việc cho Hiệu trưởng về các công tác: tuyển sinh; đào tạo; mở ngành, chương trình đào tạo (CTĐT); xét công nhận hoàn thành khóa học, xét tốt nghiệp và cấp bằng cho người học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 6. Nhiệm vụ\n1. Xây dựng các văn bản, quy phạm nội bộ, quy trình và hướng dẫn thực hiện công tác thuộc lĩnh vực đào tạo;\n\n2. Xây dựng các định mức về đào tạo, học phí, kinh phí đào tạo;\n\n3. Mở ngành, chương trình đào tạo\na. Hoạch định cơ cấu các ngành và các trình độ đào tạo của Trường;\nb. Phối hợp với các khoa trong việc thực hiện xây dựng đề án mở ngành mới, CTĐT mới theo quy định và phân cấp quản lý hiện hành. Liên hệ với Đại học Đà Nẵng (ĐHĐN) và Bộ Giáo dục và Đào tạo thẩm định đề án mở ngành mới, CTĐT mới;\nc. Quản lý các hồ sơ mở ngành, chương trình đào tạo.\n\n4. Xây dựng, cải tiến chương trình đào tạo\na. Tổ chức và quản lý công tác xây dựng, cải tiến chương trình đào tạo, lập kế hoạch công tác xây dựng, cải tiến CTĐT;\nb. Tổ chức thẩm định và quản lý hồ sơ các CTĐT;\nc. Đề xuất, chủ trì tổ chức thực hiện các giải pháp đổi mới phương pháp, hình thức giảng dạy và kiểm tra đánh giá người học nhằm nâng cao chất lượng đào tạo.\n\n5. Xây dựng và triển khai kế hoạch đào tạo\na. Chủ trì xây dựng kế hoạch đào tạo của Trường;\nb. Phối hợp với các đơn vị triển khai kế hoạch đào tạo đã được Hiệu trưởng phê duyệt;\nc. Quản lý thông tin kế hoạch đào tạo các khóa học, năm học.\n\n6. Tổ chức, quản lý hoạt động giảng dạy\na. Phối hợp với các khoa và các đơn vị có liên quan để tổ chức kiểm tra giảng dạy của giảng viên: công tác chuẩn bị giảng dạy; bài giảng, hướng dẫn thực hành/ thí nghiệm/ đồ án môn học; lịch trình giảng dạy; đánh giá kết quả học tập;\n\nb. Tính toán giờ giảng của giảng viên, đơn vị; phối hợp với các đơn vị lập hồ sơ thanh toán giờ giảng theo quy định;\n\nc. Quản lý công tác và hồ sơ thỉnh giảng: lý lịch khoa học của giảng viên; hợp đồng giảng dạy; sản phẩm đánh giá quá trình của sinh viên trong lớp học phần; các hồ sơ tính toán giờ giảng và đề nghị thanh toán giảng dạy theo quy định. Lập hồ sơ xác minh thông tin giảng dạy của giảng viên thỉnh giảng;\n\nd. Quản lý các báo cáo sơ kết, tổng kết công tác giảng dạy của cá nhân giảng viên và đơn vị;\n\ne. Phối hợp với các đơn vị trong công tác khảo sát ý kiến người học đối với hoạt động giảng dạy của giảng viên; khảo sát ý kiến giảng viên về hoạt động hỗ trợ cho công tác giảng dạy;\n\nf. Quản lý dữ liệu công tác tổ chức giảng dạy.\n\n7. Tổ chức, quản lý học tập\n\na. Tổ chức nhập học cho học viên sau đại học;\n\nb. Xếp lớp cho sinh viên, học viên trúng tuyển;\n\nc. Chủ trì công tác tập huấn, phổ biến quy chế, quy định đào tạo, chương trình khóa học đến người học; phối hợp tập huấn kỹ năng sử dụng hệ thống thông tin của Trường cho người học;\n\nd. Tổ chức cho người học đăng ký học;\n\ne. Xác định học phí mỗi sinh viên theo lớp học phần, học kỳ, khóa học. Phối hợp với phòng Kế hoạch - Tài chính và đối tác ngân hàng để thu học phí;\n\nf. Hướng dẫn và hỗ trợ thủ tục để chuẩn bị cho các đoàn sinh viên đi thực tập;\n\ng. Phối hợp với các đơn vị kiểm tra, theo dõi nề nếp học tập của người học;\n\nh. Tổ chức nhập điểm, quản lý, lưu trữ và công bố điểm;\n\ni. Chủ trì công tác xét học vụ; xét nhận đồ án tốt nghiệp, công nhận tốt nghiệp, buộc thôi học; xét ngừng học, chuyển trường, chuyển hệ, chuyển cấp đào tạo; xét học cùng lúc hai chương trình;\n\nj. Cấp chứng nhận kết quả học tập, chứng nhận tốt nghiệp;\n\nk. Tổ chức lễ trao bằng tốt nghiệp, phát bằng tốt nghiệp cho các trường hợp nhận đơn lẻ;\n\nl. Quản lý các dữ liệu: lớp học phần, đánh giá học tập và rèn luyện của người học, xét nhận đồ án tốt nghiệp, xét công nhận tốt nghiệp, ngừng học, thôi học.\n\n5\n\n8. Tuyển sinh\n\na. Xây dựng đề án, kế hoạch tuyển sinh của Trường;\n\nb. Tổ chức thực hiện các nhiệm vụ về công tác tuyển sinh theo quy định;\n\nc. Phối hợp với ĐHĐN thực hiện các thủ tục về liên kết đào tạo với các cơ sở liên kết.\n\n9. Quản lý công tác biên soạn, chọn lựa giáo trình, học liệu\n\na. Tổ chức và quản lý công tác biên soạn, chọn giáo trình;\n\nb. Tổng hợp thông tin và lập kế hoạch biên soạn giáo trình hằng năm;\n\nc. Phối hợp với các đơn vị trong việc xác định nhu cầu sử dụng giáo trình, học liệu để Trường mua, thuê.\n\n10. Quản lý cấp văn bằng chứng chỉ\n\na. Lập hồ sơ nhận và quản lý sử dụng phôi văn bằng, chứng chỉ từ ĐHĐN;\n\nb. In văn bằng, chứng chỉ và trình Hiệu trưởng ký;\n\nc. Quản lý thông tin cấp văn bằng, chứng chỉ; công khai thông tin cấp văn bằng, chứng chỉ; chứng nhận thông tin văn bằng, chứng chỉ Trường đã cấp.\n\n11. Quản lý tài khoản người dùng và dữ liệu số trong hệ thống quản lý đào tạo của Trường\n\n12. Các nhiệm vụ khác\n\na. Thực hiện công tác báo cáo và lưu trữ theo quy định;\n\nb. Biên soạn và phát hành, phối hợp phát hành những ấn phẩm phục vụ công tác đào tạo, tuyển sinh;\n\nc. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\nC. PHÒNG KHOA HỌC CÔNG NGHỆ VÀ HỢP TÁC QUỐC TẾ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Chức năng",
+          "text": "Điều 7. Chức năng\n\nPhòng Khoa học Công nghệ và Hợp tác Quốc tế có chức năng tham mưu, giúp việc cho Hiệu trưởng về các mục tiêu và chiến lược phát triển các hoạt động khoa học công nghệ (KHCN), hợp tác quốc tế (HTQT) của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 8. Nhiệm vụ\n\n1. Hoạch định chiến lược phát triển, xây dựng văn bản quản lý, hướng dẫn thực hiện các hoạt động KHCN và HTQT\n\n6\n\na. Nghiên\n\ncứu và đề xuất với Ban giám hiệu các mục tiêu và định hướng phát triển công tác nghiên cứu khoa học, ươm tạo, chuyển giao công nghệ, HTQT cũng như các dự án phát triển KHCN, các hợp tác nhà trường - doanh nghiệp;\n\nb. Chủ trì công tác xây dựng các đề án, quy định, văn bản quản lý liên quan đến các hoạt động KHCN và HTQT trình Hiệu trưởng ký ban hành theo thẩm quyền hoặc chuẩn bị để Hiệu trưởng trình cơ quan quản lý cấp trên.\n\n2. Quản lý thực hiện nhiệm vụ KHCN các cấp, công tác tổ chức, phát triển các hoạt động KHCN của Trường\n\na. Chủ trì và phối hợp với các đơn vị triển khai công tác đăng ký thực hiện các nhiệm vụ KHCN đến từng đơn vị, cá nhân trong Trường và thực hiện công tác tổng kết đánh giá định kỳ khi kết thúc năm học.\n\nb. Hướng dẫn, hỗ trợ các đơn vị, người học về thủ tục đăng ký, quản lý và nghiệm thu các loại đề tài KHCN các cấp, đề tài NCKH của người học theo quy định hiện hành;\n\nc. Tổ chức và lập hồ sơ các hội đồng đánh giá, tuyển chọn và nghiệm thu đề tài theo đúng quy định và sự phân cấp quản lý;\n\nd. Quản lý và xác định giờ NCKH của cán bộ, giảng viên của Trường.\n\ne. Quản lý, tổ chức và theo dõi các hoạt động sở hữu trí tuệ, khai thác sở hữu trí tuệ và tài sản trí tuệ đến từ hoạt động KHCN và các hoạt động khác của Trường;\n\nf. Chủ trì và phối hợp với các đơn vị có liên quan quản lý và tổ chức các hoạt động khởi nghiệp, đổi mới, sáng tạo;\n\ng. Hướng dẫn, hỗ trợ thủ tục thành lập và phát triển về số lượng và chất lượng các nhóm nghiên cứu giảng dạy;\n\nh. Quản lý, phối hợp tổ chức các hội nghị, hội thảo KHCN trong nước và quốc tế; các hoạt động hội thảo, báo cáo khoa học, seminar của các đơn vị trong Trường;\n\ni. Tổ chức tập huấn, hội thảo nhằm nâng cao năng lực NCKH, chuyển giao công nghệ, khởi nghiệp, sáng tạo cho các cán bộ viên chức và người học;\n\nj. Quản lý và phát triển các công bố khoa học trong và ngoài nước, chuyển giao công nghệ;\n\nk. Quản lý và theo dõi hoạt động của các Viện, Trung tâm nghiên cứu khoa học và chuyển giao công nghệ thuộc Trường;\n\n7\n\nl.\n\nTheo dõi và đánh giá hiệu quả hoạt động của các trang thiết bị tại các phòng thí nghiệm, trung tâm, xưởng phục vụ công tác nghiên cứu khoa học và chuyển giao công nghệ;\n\nm. Triển khai thực hiện khen thưởng các hoạt động KHCN hằng năm theo các quy định hiện hành.\n\n3. Quản lý công tác tổ chức thực hiện và phát triển các hoạt động HTQT\n\na. Quản lý, xây dựng phương án, kế hoạch HTQT của Trường;\n\nb. Hướng dẫn, thực hiện các thủ tục hỗ trợ các đơn vị, cá nhân triển khai các hoạt động HTQT, hồ sơ học bổng, đào tạo ở nước ngoài theo các quy định hiện hành;\n\nc. Hướng dẫn và thực hiện các thủ tục cần thiết để hỗ trợ các đơn vị tiếp nhận cán bộ, sinh viên người nước ngoài đến công tác và học tập ngắn hạn tại Trường.\n\nd. Chủ trì, phối hợp với các đơn vị của Trường xây dựng, triển khai thực hiện các đề án liên kết đào tạo, hợp tác nghiên cứu với các đối tác nước ngoài;\n\ne. Hỗ trợ dịch thuật các giấy tờ liên quan đến HTQT từ tiếng Việt ra tiếng nước ngoài và ngược lại cho cán bộ viên chức, sinh viên của Trường;\n\nf. Soạn thảo các văn bản hợp tác và kiểm tra tính đúng đắn, chính xác và phù hợp của các văn bản hợp tác của Trường ký kết với các đối tác trong và ngoài nước;\n\ng. Thực hiện các công việc liên quan đến báo cáo và quản lý khách quốc tế tại Trường;\n\nh. Chuẩn bị các loại quà tặng và các ấn phẩm giới thiệu Trường phục vụ công tác HTQT;\n\ni. Quản lý, lưu trữ các giấy tờ, tài liệu và công văn, văn bản HTQT.\n\n4. Công tác khác\n\na. Tiếp nhận, triển khai và lưu trữ các công văn, văn bản liên quan đến KHCN và HTQT;\n\nb. Lưu trữ hồ sơ nghiên cứu khoa học, đề tài, nhiệm vụ KHCN các cấp;\n\nc. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\n8\n\nD. PHÒNG CƠ SỞ VẬT CHẤT",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Chức năng",
+          "text": "Điều 9. Chức năng\n\nPhòng Cơ sở vật chất có chức năng tham mưu, giúp việc cho Hiệu trưởng về chiến lược phát triển, công tác quy hoạch, quản lý, mua sắm, sửa chữa, bảo dưỡng, khai thác và sử dụng cơ sở vật chất (CSVC) phục vụ các công tác của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 10. Nhiệm vụ\n\n1. Xây dựng chiến lược phát triển CSVC\n\na. Lập kế hoạch thực hiện các dự án đầu tư xây dựng CSVC của Trường theo quy hoạch được duyệt. Từng bước đầu tư thiết bị giảng dạy, học tập, nghiên cứu theo hướng đồng bộ, hiện đại và thiết thực nhằm đáp ứng sự phát triển của Trường trong các giai đoạn tiếp theo;\n\nb. Xây dựng kế hoạch đầu tư phát triển một số phòng thí nghiệm chuyên ngành mũi nhọn đạt chuẩn quốc gia; Quy hoạch lại các phòng thí nghiệm theo hướng tập trung trang thiết bị, đổi mới cơ chế quản lý nhằm phát huy hiệu quả cao nhất.\n\nc. Phối hợp các đơn vị tìm kiếm và huy động nguồn vốn đầu tư để xây dựng các dự án đầu tư mới, duy tu, bảo dưỡng và nâng cấp CSVC của Trường.\n\n2. Xây dựng các văn bản, quy định, quy trình và hướng dẫn; tổng hợp, báo cáo, tư vấn về công tác quản lý sử dụng CSVC của Trường\n\na. Chủ trì biên soạn và triển khai thực hiện các quy định, quy trình quản lý, sử dụng CSVC áp dụng trong phạm vi Trường;\n\nb. Phối hợp với các đơn vị làm thủ tục tiếp nhận trang thiết bị từ dự án, viện trợ, tài trợ, cho, tặng;\n\nc. Tổng hợp, thống kê, báo cáo và tư vấn về tình hình sử dụng CSVC;\n\nd. Xây dựng các hồ sơ, biểu mẫu thực hiện các công việc liên quan đến CSVC theo quy định;\n\ne. Lưu trữ và bảo quản các hồ sơ, bản vẽ thiết kế, bản vẽ hoàn công các công trình xây dựng; mua sắm, sửa chữa, bảo dưỡng và bảo trì CSVC theo quy định;\n\ng. Trực tiếp giao dịch với các cơ quan hữu quan tại địa phương, như: Điện lực, Cấp nước, Bưu chính - Viễn thông, Công trình đô thị, ... để giải quyết các vấn đề chuyên môn có liên quan đến CSVC của Trường;\n\n9\n\nh. Tham gia các Hội đồng về CSVC, các Tổ công tác có liên quan đến chức năng quản lý được giao.\n\n3. Quản lý dự án, cơ sở hạ tầng; sửa chữa và phát triển CSVC của Trường\na. Lập kế hoạch xây dựng các công trình mới, các phương án sửa chữa, nâng cấp, cải tạo cơ sở hạ tầng theo định hướng quy hoạch tổng thể của Trường;\nb. Thực hiện các thủ tục duyệt xét dự án, tham gia quản lý và thực hiện dự án; chuẩn bị hồ sơ để trình cấp có thẩm quyền quyết định và phê duyệt dự án;\nc. Triển khai thực hiện xây dựng mới, sửa chữa, bảo trì, bảo dưỡng, nâng cấp các công trình xây dựng. Tổ chức kiểm tra, nghiệm thu, bàn giao công trình, đưa vào khai thác sử dụng theo quy định hiện hành và các hợp đồng đã ký kết. Tổ chức thực hiện công tác giám sát của chủ đầu tư trong suốt quá trình thi công xây dựng công trình;\nd. Quản lý toàn bộ hạ tầng cơ sở của Trường, ngăn ngừa những hành vi xâm phạm đất đai, bảo vệ sự toàn vẹn địa giới thuộc Trường quản lý;\ne. Quy hoạch và thực hiện công tác đảm bảo cảnh quan môi trường trong Trường.\n\n4. Quản trị trang thiết bị\na. Phối hợp với các đơn vị liên quan thực hiện quy hoạch, xây dựng kế hoạch mua sắm và triển khai các dự án đầu tư trang thiết bị, máy móc;\nb. Tổ chức mua sắm, sửa chữa trang thiết bị, công cụ, dụng cụ, vật tư, hóa chất phục vụ cho công tác của Trường;\nc. Tổ chức quản lý, vận hành và bảo dưỡng toàn bộ hệ thống điện, nước, hệ thống cấp, thoát nước;\nd. Quản lý tài sản của Trường. Thực hiện công tác kiểm kê hằng năm và các thủ tục thanh lý tài sản theo quy định;\ne. Thực hiện điều chuyển tài sản giữa các đơn vị; Thực hiện kiểm tra, giám sát và quản lý tài sản đưa ra khỏi Trường;\nf. Hướng dẫn, kiểm tra về nghiệp vụ đối với công tác quản lý và khai thác trang thiết bị, vật tư, hóa chất, ...;\ng. Quản lý và theo dõi tình hình sử dụng điện, nước, điện thoại, Internet, truyền hình, ... của các đơn vị trong Trường và các hoạt động dịch vụ;\n\n10\n\nh. Quản lý và đảm bảo hoạt động của các trang thiết bị dạy học, CSVC trong các khu giảng đường, hội trường và các phòng học sau đại học.\n\n5. Triển khai công tác an toàn lao động, công tác phòng cháy chữa cháy (PCCC), phòng chống lụt, bão\na. Kiểm tra việc thực hiện và đề xuất các công tác về an toàn lao động trong các đơn vị; lập phương án PCCC cho toàn Trường. Phối hợp với Phòng Tổ chức - Hành chính xây dựng kế hoạch phòng chống lụt bão, thiên tai, PCCC;\nb. Lập kế hoạch mua sắm và cung cấp các thiết bị bảo hộ lao động cho các CBVC, NLĐ; trang thiết bị phòng chống cháy nổ; vật tư, dụng cụ phòng chống lụt bão, thiên tai cho các đơn vị theo quy định.\n\n6. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\nE. PHÒNG CÔNG TÁC SINH VIÊN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Chức năng",
+          "text": "Điều 11. Chức năng\nPhòng Công tác Sinh viên có chức năng tham mưu, giúp Hiệu trưởng thực hiện quản lý nhà nước về công tác sinh viên và giáo dục chính trị tư tưởng cho sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 12. Nhiệm vụ\n1. Xây dựng các văn bản quy phạm nội bộ, quy trình và hướng dẫn thực hiện các nội dung trong lĩnh vực công tác sinh viên\na. Xây dựng quy định về công tác sinh viên đại học hệ chính quy;\nb. Xây dựng sổ tay sinh viên đại học hệ chính quy;\nc. Xây dựng kế hoạch hoạt động trọng tâm hằng năm của Trường trong lĩnh vực công tác sinh viên.\n\n2. Tổ chức các hoạt động giáo dục tuyên truyền\na. Triển khai công tác giáo dục chính trị, tư tưởng cho sinh viên: giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ trương, đường lối của Đảng, hình thành bản lĩnh chính trị, yêu Tổ quốc Việt Nam xã hội chủ nghĩa.\nb. Triển khai công tác giáo dục đạo đức, lối sống cho sinh viên: tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức tốt đẹp của dân tộc Việt Nam, những chuẩn mực đạo đức của xã hội và đạo đức nghề nghiệp; định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với bản sắc văn hóa dân tộc Việt Nam; giáo dục ý thức trách nhiệm của cá nhân sinh viên đối với tập thể và cộng đồng;\n\n11\n\nc. Tổ chức tuần sinh hoạt công dân cho sinh viên vào đầu khóa, đầu năm và cuối khóa học;\nd. Tạo điều kiện thuận lợi để sinh viên tham gia tổ chức Đảng, các tổ chức đoàn thể hợp pháp trong Trường.\n\n3. Công tác hành chính đối với sinh viên\na. Tổ chức tiếp nhận thí sinh trúng tuyển, chỉ định Ban cán sự lớp (lớp trưởng, lớp phó) lâm thời;\nb. Thống kê, tổng hợp dữ liệu và quản lý, lưu trữ hồ sơ sinh viên;\nc. Chủ trì giải quyết thủ tục hành chính cho sinh viên tại bộ phận một cửa.\n\n4. Công tác tổ chức, quản lý hoạt động học tập và rèn luyện của sinh viên\na. Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện của sinh viên; phân loại, xếp loại sinh viên cuối mỗi học kỳ, năm học, khóa học theo Quy chế của Bộ Giáo dục và Đào tạo; tổ chức đánh giá, bình bầu và khen thưởng cho tập thể, cá nhân sinh viên đạt thành tích cao trong học tập và rèn luyện;\nb. Tổ chức cho sinh viên tham gia các kỳ thi sinh viên giỏi, Olympic, thi sáng tạo tài năng trẻ và các hoạt động khuyến khích học tập khác;\nc. Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về học tập và rèn luyện đối với sinh viên; tổng hợp, xử lý kỷ luật sinh viên vi phạm theo quy định;\nd. Quản lý, theo dõi sinh viên đi học tập, thực tập, trao đổi ngắn hạn ở nước ngoài; tổ chức các hoạt động hợp tác, giao lưu, trao đổi sinh viên với các tổ chức giáo dục, đào tạo nước ngoài theo các chương trình trao đổi sinh viên do Trường và cấp trên tổ chức;\ne. Triển khai công tác đối thoại với sinh viên; tiếp nhận các ý kiến của sinh viên, phản hồi và giải quyết các vấn đề có liên quan đến công tác sinh viên;\nf. Tổ chức thực hiện công tác cố vấn học tập/chủ nhiệm lớp; hướng dẫn sinh viên tiếp cận các nguồn lực (về học thuật, tài chính, kỹ thuật, ...) nhằm nâng cao kỹ năng, hiệu quả học tập;\ng. Tổ chức thực hiện công tác quản lý sinh viên nội trú, ngoại trú theo quy định của Bộ Giáo dục và Đào tạo, Đại học Đà Nẵng, Trường và địa phương.\n\n12\n\n5. Công tác thực hiện các chế độ, chính sách đối với sinh viên\na. Tổ chức thực hiện các chế độ, chính sách của Nhà nước quy định đối với sinh viên về miễn/giảm học phí, học bổng, trợ cấp xã hội, bảo hiểm y tế, tín dụng đào tạo và các chế độ khác có liên quan đến sinh viên;\nb. Tạo điều kiện giúp đỡ sinh viên khuyết tật, sinh viên diện chính sách, sinh viên có hoàn cảnh đặc biệt khó khăn;\nc. Phối hợp với các đơn vị triển khai các dịch vụ tư vấn hướng nghiệp, giới thiệu việc làm cho sinh viên;\nd. Phối hợp với các đơn vị khai thác, tiếp nhận và tổ chức trao học bổng tài trợ của các doanh nghiệp, các tổ chức hợp pháp trong và ngoài nước cho sinh viên theo đúng quy định.\n\n6. Công tác y tế, văn hóa, văn nghệ, thể thao\na. Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tổ chức tư vấn cho sinh viên thực hiện Luật bảo hiểm y tế; tư vấn, hỗ trợ sinh viên khi gặp các vấn đề về tâm lý - xã hội;\nb. Phối hợp với các đơn vị trong và ngoài Trường tổ chức tuyên truyền nâng cao kiến thức về dinh dưỡng, vệ sinh an toàn thực phẩm, sinh hoạt điều độ, không lạm dụng rượu, bia, sử dụng chất kích thích, gây nghiện; kiến thức và kỹ năng chăm sóc sức khỏe, phòng chống dịch, bệnh, tai nạn thương tích...\nc. Phối hợp với các đơn vị chức năng tổ chức các hoạt động văn hóa, văn nghệ, thể dục thể thao ngoài giờ lên lớp cho sinh viên.\n\n7. Công tác an ninh chính trị, trật tự, an toàn, phòng chống tội phạm và các tệ nạn xã hội\na. Phối hợp với các ngành, các cấp chính quyền địa phương trên địa bàn, khu vực để xây dựng kế hoạch đảm bảo an ninh chính trị, trật tự và an toàn cho sinh viên nội trú, ngoại trú;\nb. Phối hợp với các đơn vị chức năng ngăn chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng và Nhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp luật; giải quyết kịp thời các vụ việc có liên quan đến sinh viên.\n\n8. Công tác khác\na. Thực hiện công tác báo cáo theo quy định;\nb. Thực hiện các nhiệm vụ khác khi được Hiệu trưởng giao.\n\n13\n\nF. PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG GIÁO DỤC",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Chức năng",
+          "text": "Điều 13. Chức năng\nPhòng Khảo thí và Đảm bảo Chất lượng giáo dục có chức năng tham mưu, giúp việc cho Hiệu trưởng về công tác khảo thí, đảm bảo chất lượng giáo dục, kiểm định chất lượng giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 14. Nhiệm vụ\n1. Đảm bảo chất lượng và kiểm định chất lượng\na. Tham mưu cho Hiệu trưởng về chiến lược, mục tiêu và chính sách về hoạt động đảm bảo chất lượng, kiểm định chất lượng, phân tầng và xếp hạng;\nb. Chủ trì và phối hợp với các đơn vị triển khai công tác xây dựng các đề án, quy định, văn bản quản lý liên quan đến hoạt động đảm bảo chất lượng, tự đánh giá, đánh giá đồng cấp, kiểm định chất lượng, hệ thống thông tin đảm bảo chất lượng, hệ thống đánh giá năng lực theo các chỉ số cốt lõi (KPI);\nc. Hướng dẫn các đơn vị triển khai thực hiện các nhiệm vụ đảm bảo chất lượng, kiểm định chất lượng, hệ thống KPI theo quy định và theo kế hoạch của Trường;\nd. Xây dựng và triển khai các chương trình, dự án hợp tác trong nước và quốc tế trong lĩnh vực đảm bảo chất lượng, kiểm định chất lượng và xếp hạng đại học.\n\n2. Khảo thí\na. Tham mưu cho Hiệu trưởng về chiến lược, mục tiêu và chính sách hoạt động khảo thí của Trường;\nb. Chủ trì và phối hợp với các đơn vị triển khai công tác xây dựng các đề án, quy định, văn bản quản lý liên quan đến hoạt động xây dựng, lưu trữ và sử dụng hệ thống ngân hàng câu hỏi thi, đề thi; tổ chức thi chung, thi đánh giá trình độ tiếng Anh đầu vào và hằng năm; phối hợp tổ chức khảo sát năng lực tiếng Anh chuẩn đầu ra; tổ chức phúc khảo bài thi;\nc. Hướng dẫn các đơn vị triển khai thực hiện các nhiệm vụ khảo thí theo quy định và kế hoạch của Trường;\nd. Xây dựng và triển khai các chương trình, dự án hợp tác trong nước và quốc tế trong lĩnh vực khảo thí.\n\n14\n\n3. Bồi dưỡng nâng cao năng lực\na. Tham mưu cho Hiệu trưởng về chiến lược, mục tiêu và chính sách về hoạt động bồi dưỡng CBVC về đảm bảo chất lượng, kiểm định chất lượng, khảo thí và năng lực sư phạm giảng viên của Trường;\nb. Chủ trì và phối hợp với các đơn vị triển khai công tác xây dựng các đề án, quy định, văn bản quản lý liên quan đến công tác bồi dưỡng năng lực về: công tác khảo thí; xây dựng và phát triển chương trình đào tạo dựa trên chuẩn đầu ra; phương pháp giảng dạy và học tập, kỹ thuật kiểm tra và đánh giá; đảm bảo chất lượng, tự đánh giá, đánh giá đồng cấp, đánh giá ngoài nội bộ, kiểm định chất lượng; hệ thống thông tin đảm bảo chất lượng; hệ thống KPI;\nc. Hướng dẫn các đơn vị triển khai thực hiện các nhiệm vụ bồi dưỡng năng lực và tập huấn theo quy định và kế hoạch đã được ban hành.\n\n4. Các nhiệm vụ khác\na. Biên soạn và in những ấn phẩm phục vụ công tác khảo thí, đảm bảo chất lượng, kiểm định chất lượng và bồi dưỡng nâng cao năng lực CBVC;\nb. Phối hợp với các đơn vị trong Trường thực hiện nhiệm vụ liên quan tới phạm vi công tác của đơn vị và những nhiệm vụ khác theo phân công của Hiệu trưởng.\n\nG. PHÒNG THANH TRA - PHÁP CHẾ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Chức năng",
+          "text": "Điều 15. Chức năng\nPhòng Thanh tra - Pháp chế có chức năng tham mưu, giúp việc cho Hiệu trưởng về công tác thanh tra, kiểm tra; tiếp công dân, giải quyết khiếu nại, tố cáo; phòng chống tham nhũng trong phạm vi chức năng theo quy định của pháp luật; triển khai và quản lý các hoạt động pháp chế và thi đua, khen thưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 16. Nhiệm vụ\n1. Công tác Thanh tra\na. Tham mưu và giúp Hiệu trưởng xây dựng chương trình, kế hoạch công tác thanh tra năm học;\nb. Tổ chức các hoạt động thanh tra việc thực hiện chính sách và pháp luật về giáo dục đại học;\nc. Tổ chức thanh tra chuyên đề theo kế hoạch và chỉ đạo của Hiệu trưởng;\nd. Thanh tra việc thực hiện pháp luật liên quan đến công tác tổ chức, hoạt động của các đơn vị và cá nhân thuộc Trường;\n\ne. Giúp Hiệu trưởng thực hiện nhiệm vụ tiếp CBVC, NLĐ và sinh viên. Tham mưu cho Hiệu trưởng về công tác giải quyết khiếu nại, tố cáo có liên quan đến Trường theo quy định của pháp luật về khiếu nại, tố cáo;\nf. Chủ trì, phối hợp với các đơn vị thực hiện nhiệm vụ phòng, chống tham nhũng trong lĩnh vực giáo dục theo quy định của pháp luật về phòng, chống tham nhũng.\n\n2. Công tác Pháp chế\na. Tham mưu và giúp Hiệu trưởng xây dựng chương trình, kế hoạch công tác pháp chế năm học;\nb. Tổ chức tuyên truyền, phổ biến, giáo dục pháp luật; nội quy, quy chế của các cơ quan liên quan và của Trường cho CBVC, NLĐ và người học;\nc. Chủ trì, phối hợp với các đơn vị liên quan kiểm tra, giám sát việc thực hiện công tác tuyên truyền, giáo dục nâng cao ý thức pháp luật trong phạm vi Trường;\nd. Chủ trì, phối hợp với các đơn vị liên quan theo dõi, đôn đốc, kiểm tra việc thực hiện các văn bản quy phạm pháp luật của Nhà nước; văn bản quản lý, chỉ đạo, điều hành của Trường;\ne. Chủ trì, phối hợp với các bộ phận liên quan tư vấn về những vấn đề pháp lý; bảo vệ quyền và lợi ích hợp pháp của Trường, CBVC, NLĐ và người học;\nf. Tổ chức công tác kiểm tra, rà soát và hệ thống hoá văn bản thuộc các lĩnh vực hoạt động của Trường;\ng. Tổ chức thẩm định, tham gia ý kiến về mặt pháp lý đối với văn bản quy phạm nội bộ do các đơn vị của Trường soạn thảo trước khi trình Hiệu trưởng ký ban hành;\nh. Giúp Hiệu trưởng chuẩn bị ý kiến góp ý cho dự thảo văn bản quy phạm pháp luật do các cơ quan, đơn vị gửi lấy ý kiến;\ni. Kiến nghị các biện pháp phòng ngừa, khắc phục hậu quả và xử lý các vi phạm pháp luật, nội quy, quy chế trong hoạt động của Trường;\nj. Thực hiện chế độ báo cáo công tác pháp chế với các cấp quản lý theo quy định.\n\n3. Công tác Thi đua, Khen thưởng\na. Tham mưu và giúp Hiệu trưởng xây dựng chính sách, nội dung, quy định về thi đua, khen thưởng của Trường;\n\nb. Giúp Hiệu trưởng triển khai công tác thi đua, khen thưởng theo chuyên đề, đột xuất, hàng năm; Phát động, hướng dẫn, theo dõi, tổng kết phong trào thi đua trong toàn thể CBVC;\nc. Giúp Hiệu trưởng triển khai thực hiện các chủ trương, chính sách của Đảng, Nhà nước về công tác thi đua, khen thưởng;\nd. Thực hiện công tác xét đề nghị phong tặng các danh hiệu Nhà giáo Nhân dân, Nhà giáo Ưu tú, Kỷ niệm chương Vì sự nghiệp giáo dục, ...\n\n4. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\nH. PHÒNG KẾ HOẠCH - TÀI CHÍNH",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Chức năng",
+          "text": "Điều 17. Chức năng\nPhòng Kế hoạch Tài chính có chức năng tham mưu, giúp việc cho Hiệu trưởng về công tác kế hoạch, đầu tư, tài chính, kế toán, tài sản của Trường. Thực hiện quản lý tập trung và sử dụng hiệu quả các nguồn tài chính của Trường theo các chế độ quy định của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 18. Nhiệm vụ\n1. Xây dựng kế hoạch\na. Tham mưu cho Hiệu trưởng xây dựng kế hoạch tài chính của Trường hàng năm, trình Đại học Đà Nẵng phê duyệt;\nb. Phối hợp với các đơn vị liên quan xây dựng kế hoạch tài chính hàng năm, kế hoạch phân bổ chỉ tiêu ngân sách cho các chương trình mục tiêu của Trường, hoạt động của các đơn vị, trình Hiệu trưởng phê duyệt và hướng dẫn triển khai thực hiện;\nc. Tham mưu và đề xuất xây dựng, điều chỉnh, bổ sung quy chế chi tiêu nội bộ phù hợp với quy định hiện hành của Nhà nước;\nd. Tham mưu cho Hiệu trưởng xây dựng tờ trình, kế hoạch và triển khai thực hiện cơ chế tự chủ cho Trường.\n\n2. Quản lý tài chính\na. Tổ chức bộ máy kế toán và hệ thống sổ sách để thống nhất quản lý tài chính của Trường theo quy định;\nb. Thực hiện công tác hạch toán kế toán và báo cáo tài chính theo quy định;\nc. Phối hợp với các đơn vị có liên quan thực hiện đầy đủ, chính xác và kịp thời mọi chế độ chính sách đối với CBVC, NLĐ và người học.\n\n3. Thực hiện thu, chi và thanh quyết toán các nguồn kinh phí\na. Tổ chức hướng dẫn và thực hiện nghiệp vụ về công tác thu, chi và thanh quyết toán các nguồn kinh phí của Trường theo đúng quy định;\nb. Phối hợp với Phòng Cơ sở Vật chất và các đơn vị có liên quan trong công tác quản lý tài sản của Trường;\nc. Lưu trữ hồ sơ tài chính và chứng từ kế toán theo đúng quy định.\n\n4. Kiểm tra, giám sát hoạt động tài chính của các đơn vị thuộc Trường\na. Triển khai hướng dẫn các đơn vị thực hiện công tác tài chính và báo cáo theo đúng quy định;\nb. Thực hiện quản lý tập trung các nguồn thu của các đơn vị thuộc Trường;\nc. Kiểm tra đôn đốc các đơn vị liên kết trong việc thực hiện nghĩa vụ tài chính với Trường.\n\n5. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\nI. TRUNG TÂM HỌC LIỆU VÀ TRUYỀN THÔNG",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Chức năng",
+          "text": "Điều 19. Chức năng\nTrung tâm Học liệu và Truyền thông có chức năng tham mưu, giúp việc cho Hiệu trưởng về công tác tổ chức, khai thác, lưu trữ và cung cấp thông tin tư liệu trong các lĩnh vực khoa học, công nghệ, kinh tế, ...; quản lý các hoạt động truyền thông, quảng bá học hiệu phục vụ cho công tác của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 20. Nhiệm vụ\n1. Công tác học liệu\na. Xây dựng kế hoạch phát triển và bổ sung nguồn tài liệu phục vụ giảng dạy, nghiên cứu theo đề xuất của các đơn vị và kế hoạch hàng năm của Trường;\nb. Tổ chức, quản lý học liệu theo các chuẩn nghiệp vụ;\nc. Hướng dẫn tìm kiếm, giới thiệu nguồn tư liệu tham khảo cho người dùng tin phục vụ công tác nghiên cứu, giảng dạy và học tập;\nd. Tiếp nhận các nguồn tài liệu được tặng;\ne. Tổ chức cung cấp các sản phẩm và dịch vụ hỗ trợ khai thác, sử dụng thông tin, tài liệu.\n\n2. Công tác truyền thông\na. Xây dựng và tổ chức thực hiện kế hoạch truyền thông, quảng bá học hiệu Trường Đại học Bách khoa, Đại học Đà Nẵng;\nb. Xây dựng mối quan hệ với các cơ quan thông tin đại chúng để đưa tin, quảng bá hình ảnh của Trường;\nc. Phối hợp với các đơn vị trong Trường thực hiện các ấn phẩm truyền thông để quảng bá học hiệu của Trường; thực hiện các hoạt động truyền thông, quảng bá về nguồn học liệu, sản phẩm và dịch vụ thông tin tại Trung tâm;\nd. Tổ chức và quản lý mạng lưới cộng tác viên để thu thập tin tức, đưa tin về các hoạt động của Trường trên các phương tiện thông tin đại chúng.\n\nJ. TỔ CÔNG NGHỆ THÔNG TIN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Chức năng",
+          "text": "Điều 21. Chức năng\nTổ Công nghệ Thông tin có chức năng tham mưu, giúp việc cho Hiệu trưởng về phát triển hệ thống thông tin, các giải pháp ứng dụng công nghệ thông tin (CNTT) trong các hoạt động của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Nhiệm vụ",
+          "text": "Điều 22. Nhiệm vụ\n1. Xây dựng kế hoạch phát triển hệ thống thông tin, các giải pháp ứng dụng CNTT phục vụ các hoạt động của Trường.\n2. Thiết kế, xây dựng, phát triển và quản trị hạ tầng mạng, máy chủ, hệ thống các trang tin điện tử và các phần mềm phục vụ các hoạt động của Trường.\n3. Tổ chức tập huấn nâng cao kỹ năng cho CBVC và người học; hỗ trợ các đơn vị trong việc ứng dụng CNTT vào các hoạt động của Trường.\n4. Quản lý dữ liệu số và các tài khoản người dùng trong hệ thống thông tin của Trường, trừ dữ liệu số và tài khoản người dùng trong hệ thống quản lý đào tạo, hệ thống tài nguyên học liệu.\n5. Chủ trì, phối hợp với các đơn vị xây dựng các văn bản, quy định liên quan đến việc ứng dụng CNTT trong công tác của Trường.\n6. Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n\nChương III. TỔ CHỨC THỰC HIỆN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 23. Hiệu lực thi hành\n1. Quy định này có hiệu lực kể từ ngày ký Quyết định ban hành.\n\n2. Tất cả các quy định khác liên quan đến chức năng, nhiệm vụ của các đơn vị chức năng đã ban hành trái với quy định này đều được hủy bỏ.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 24. Tổ chức thực hiện\n\n1. Trưởng Phòng Tổ chức - Hành chính, Trưởng các Phòng chức năng, Trưởng các đơn vị thuộc Trường có trách nhiệm phổ biến và triển khai thực hiện Quy định này.\n\n2. Trong quá trình thực hiện, nếu có phát sinh các khó khăn, vướng mắc thì các đơn vị liên quan đề xuất, kiến nghị để Hiệu trưởng xem xét điều chỉnh, bổ sung cho phù hợp với thực tế và yêu cầu phát triển của Trường./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy định Chức năng, nhiệm vụ của các đơn vị chức năng trực thuộc Trường Đại học Bách khoa”;",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định Chức năng, nhiệm vụ của các đơn vị chức năng trực thuộc Trường Đại học Bách khoa”;",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký;",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký;",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng các Phòng, Khoa và trưởng các đơn vị trực thuộc căn cứ quyết định thi hành./.",
+      "text": "Điều 3. Trưởng các Phòng, Khoa và trưởng các đơn vị trực thuộc căn cứ quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

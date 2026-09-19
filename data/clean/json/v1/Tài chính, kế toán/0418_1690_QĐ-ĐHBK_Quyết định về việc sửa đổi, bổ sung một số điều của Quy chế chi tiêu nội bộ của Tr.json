@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0418_1690_QĐ-ĐHBK_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Tr.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1690/QĐ-ĐHBK",
+    "title": "Quyết định Về việc sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "09/04/2025",
+    "effectiveDate": "09/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "60/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 60/2021/NĐ-CP ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "5000/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Đảng ủy Trường",
+    "Hội đồng Trường",
+    "KBNN Liên Chiểu",
+    "Phòng Kế hoạch – Tài chính",
+    "Phòng Tổ chức – Hành chính",
+    "Phòng Khoa học Công nghệ và Hợp tác Quốc tế"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa.\nb. Sửa đổi, bổ sung điểm b khoản 3, Điều 11 như sau:\n“Điều 11. Chi thanh toán giờ giảng hệ đại học\n3. Phương pháp xác định đơn giá giờ chuẩn năm học\nb) Các hệ số thành phần bổ sung đơn giá giờ giảng chuẩn năm học được thể hiện ở Bảng 1.\n\nBảng 1. Các hệ số thành phần bổ sung đơn giá giờ giảng chuẩn năm học\nSTT | Tên hệ số | Ký hiệu\n1 | Hệ số chức danh | HCD\n2 | Hệ số giảng dạy chất lượng cao | HCLC\n3 | Hệ số giảng dạy chương trình tiên tiến | HCTTT\n4 | Hệ số giảng dạy ngoài giờ | HNG\n\n5 | Hệ số giảng dạy học kỳ hè | HHE\n6 | Hệ số giảng dạy các lớp ngoài thành phố Đà Nẵng | HXA\n7 | Hệ số đổi mới phương pháp giảng dạy | HĐM\n8 | Hệ số lớp đông | HLD”\n\n2. Sửa đổi, bổ sung điểm d, khoản 3, Điều 11 như sau:\n“Điều 11. Chi thanh toán giờ giảng hệ đại học\n3. Phương pháp xác định đơn giá giờ chuẩn năm học\nd) Các hệ số thành phần bổ sung khác được quy định theo Bảng 3\n\nBảng 3. Các hệ số thành phần bổ sung khác\nSTT | Ký hiệu hệ số | Hệ số | Ghi chú\n1 | HCLC | 0,2 | \n2 | HCTTT | 0,2 | \n3 | HĐM | 0,2 | Áp dụng đối với các lớp giảng dạy theo phương pháp đổi mới do Hiệu trưởng quyết định hàng năm.\n4 | HNG | 0,2 | Áp dụng đối với các lớp tăng cường (dạy ngoài giờ), lớp dạy vào buổi tối, lớp dạy vào ngày chủ nhật theo kế hoạch năm học do Nhà trường ban hành.\n5 | HHE | 0,5 | Áp dụng đối với các lớp giảng dạy trong thời gian nghỉ hè, không áp dụng thêm hệ số ngoài giờ (nếu có).\n6 | HXA | 0,2 | Áp dụng đối với các lớp giảng dạy ngoài thành phố Đà Nẵng theo kế hoạch của Nhà trường.\n7 | HLD | Chi tiết ở bên dưới | Áp dụng cho giờ giảng lý thuyết của các lớp giảng dạy theo phương pháp dạy và học trực tiếp có từ 91 sinh viên trở lên.\n\nHệ số lớp đông (H_LĐ) được xác định theo công thức sau:\nH_LĐ = 0,1 × n\nTrong đó: n là bậc hệ số lớp đông, được xác định dựa trên số lượng sinh viên S (S ≥ 91) theo quy tắc sau:\n- n = 1, nếu 91 ≤ S ≤ 100\n- n = 2, nếu 101 ≤ S ≤ 110\n- n = 3, nếu 111 ≤ S ≤ 120\n- n = 4, nếu 121 ≤ S ≤ 130\n- n = 5, nếu 131 ≤ S ≤ 140\n- n = 6, nếu 141 ≤ S ≤ 150\n-\n\nVà tiếp tục tăng tương ứng, cứ thêm mỗi khoảng 10 người học, bậc hệ số lớp đông sẽ tăng thêm 1.”\n\n3. Sửa đổi, bổ sung điểm a, khoản 4, Điều 11 như sau:\n“Điều 11. Chi thanh toán giờ giảng hệ đại học\n4. Thanh toán giờ giảng mức 1\na) Trường Đại học Bách khoa thanh toán giờ giảng trong định mức (mức 1) với đơn giá cụ thể cho các loại hình đào tạo được xác định như sau:\nĐMức 1 = ĐCNH × HSBS_Mức 1\nVới HSBS_Mức 1 = 0,8 × (1 + H_CLC/CTTT + H_ĐM + H_XA + H_LĐ) × (1 + H_NG)”\n\n4. Sửa đổi, bổ sung điểm a, khoản 5, Điều 11 như sau:\n“Điều 11. Chi thanh toán giờ giảng hệ đại học\n5. Thanh toán giờ giảng mức 2\na) Đơn giá thanh toán giờ giảng mức 2 (ĐMức 2) cho các lớp lý thuyết, PBL của chương trình truyền thống, chất lượng cao, chương trình tiên tiến được xác định bằng:\nĐMức 2 = ĐCNH × HSBS_Mức 2\nVới HSBS_Mức 2 = (1 + H_CĐ + H_CLC/CTTT + H_ĐM + H_LĐ) × (1 + H_NG/HE)”\n\n6. Sửa đổi, bổ sung khoản 1, Điều 15 như sau:\n“Điều 15. Chi thanh toán dịch vụ công cộng\n1. Thanh toán tiền nhiên liệu ô tô\nThanh toán tiền nhiên liệu theo định mức tiêu hao trên số km đi thực tế có xác nhận của Phòng Tổ chức - Hành chính và Ban Giám hiệu, căn cứ vào lộ trình ghi trên lệnh điều xe, có chữ ký xác nhận và ghi rõ họ tên của người đi công tác. Từng loại xe áp dụng định mức tiêu hao như sau:\n- Đối với xe 4 chỗ: 12 lít/100 km;\n- Đối với xe 7 chỗ: 17 lít/100 km;\n- Đối với xe 16 chỗ: 20 lít/100 km.”\n\n7. Sửa đổi, bổ sung điểm e khoản 2, Điều 19 như sau:\n“Điều 19. Tổ chức hội nghị, hội thảo\ne) Chi hỗ trợ cho công tác hội thảo:\n- Chi hỗ trợ công tác quản lý bài tham luận trong Hội thảo có phát hành Kỷ yếu (có ISBN và/hoặc ISSN): 15.000 đồng/bài.\n- Chi hỗ trợ phản biện bài tham luận trong Hội thảo có phát hành Kỷ yếu (có ISBN và/hoặc ISSN): 100.000 đồng/bài.”\n\n8. Sửa đổi, bổ sung khoản 3, điều 26 như sau:\n“Điều 26. Chi hoạt động Khoa học và Công nghệ\n3. Hỗ trợ tham dự hội nghị/hội thảo Khoa học quốc tế được tổ chức ở nước ngoài\na) Điều kiện để được hỗ trợ\n-\n\nBáo cáo được trình bày tại hội nghị/hội thảo có nội dung không thuộc đề tài do Trường Đại học Bách khoa làm chủ trì.\n- Mỗi bài báo chỉ được 01 VC-NLĐ tham gia.\n- Cán bộ, viên chức phải đạt được các điều kiện sau:\n+ Có học hàm, học vị từ Tiến sĩ trở lên;\n+ Có báo cáo được trình bày tại hội nghị/hội thảo (minh chứng gồm thư mời, chương trình hội nghị/hội thảo, báo cáo được đăng trong Kỷ yếu có chỉ số ISSN hoặc ISBN);\n+ Có Quyết định của Hiệu trưởng Trường Đại học Bách khoa về việc cử đi tham dự hội nghị/hội thảo.\n- Số lần được hỗ trợ trong một năm học: tối đa 01 lần (trừ vào số lần tham dự được quy định tại điểm a, khoản 2 Điều này).\nb) Chế độ hỗ trợ\n- Chi phí vé máy bay khứ hồi chặng trong nước (nếu có): thực hiện theo chế độ công tác phí trong nước hiện hành.\n- Thanh toán chế độ công tác phí: chi phí di chuyển ở nước ngoài khoán mức 1.000.000 đồng/lần tham dự; phụ cấp lưu trú trong những ngày dự hội nghị/hội thảo tối đa không quá 7 ngày khoán mức 500.000 đồng/ngày;\n- Lệ phí tham dự hội nghị/hội thảo theo chứng từ của Ban Tổ chức và không vượt quá 5.000.000 đồng (lấy theo tỷ giá Vietcombank tại ngày nộp lệ phí).\n- Trường hợp đặc biệt khác sẽ do Hiệu trưởng xem xét và quyết định mức hỗ trợ.\nGhi chú: Trường Đại học Bách khoa không thanh toán các chi phí đã được đối tác hỗ trợ.”\n\n9. Sửa đổi, bổ sung khoản 5, điều 26 như sau:\n“Điều 26. Chi hoạt động Khoa học và Công nghệ\n5. Hỗ trợ, khen thưởng Công bố khoa học trên tạp chí chuyên ngành có uy tín cho VC-NLĐ.\na) Điều kiện để được hỗ trợ, khen thưởng\n- Chi hỗ trợ, khen thưởng cho các tác giả của công bố khoa học là VC-NLĐ của Trường.\n- Công bố khoa học được đề nghị hỗ trợ, khen thưởng phải đáp ứng các điều kiện sau:\n+ Công bố khoa học phải ghi rõ tên và địa chỉ của Trường bằng tiếng Anh là: The University of Danang – University of Science and Technology, Danang, Vietnam.\n+ Địa chỉ email của VC-NLĐ trong công bố khoa học phải có tên miền (domain) của Trường, cụ thể là: ......@dut.udn.vn.\n\nCông bố khoa học đã được xuất bản chính thức [có Kỳ (Issue), Số (No.), Tập/Quyển (Volume)] không quá 12 tháng tính đến thời điểm đề nghị hỗ trợ, khen thưởng.\n+ Công bố khoa học không nằm trong các danh mục các nhà xuất bản/tạp chí predatory.\nb) Chế độ hỗ trợ, khen thưởng\n- Chỉ xem xét hỗ trợ, khen thưởng cho công bố khoa học thuộc các danh mục của WoS và Scopus, với kinh phí cụ thể như sau:\n+ Bài báo đăng tạp chí nhóm Q1 (Scimago), thuộc danh mục SCIE/SSCI/A&HCI (WoS) đối với lĩnh vực KH tự nhiên, KH công nghệ, KH nghệ thuật, Y – Dược hoặc tạp chí nhóm Q1 thuộc Scopus đối với các lĩnh vực KH xã hội – nhân văn: 35.000.000 đồng/bài;\n+ Bài báo đăng tạp chí nhóm Q2 (Scimago), thuộc danh mục SCIE/SSCI/A&HCI (WoS) đối với lĩnh vực KH tự nhiên, KH công nghệ, KH nghệ thuật, Y – Dược hoặc tạp chí nhóm Q2 thuộc Scopus đối với các lĩnh vực KH xã hội – nhân văn: 25.000.000 đồng/bài;\n+ Bài báo đăng tạp chí nhóm Q3 (Scimago), thuộc danh mục SCIE/SSCI/A&HCI (WoS) đối với lĩnh vực KH tự nhiên, KH công nghệ, KH nghệ thuật, Y – Dược hoặc tạp chí nhóm Q3 thuộc Scopus đối với các lĩnh vực KH xã hội – nhân văn: 20.000.000 đồng/bài;\n+ Bài báo đăng tạp chí thuộc danh mục SCIE/SSCI/A&HCI (WoS, ngoài các nhóm trên), Scopus và ESCI: 10.000.000 đồng/bài;\n- Bài báo có nhiều tác giả thì kinh phí hỗ trợ, khen thưởng sẽ được chia đều cho số lượng tác giả.\n- Trong trường hợp cá nhân là tác giả thứ nhất (1^st author) và tác giả liên hệ (corresponding author) thì 30% kinh phí hỗ trợ, khen thưởng sẽ được chi cho cá nhân trên, phần còn lại được chia đều cho tất cả tác giả (kể cả cá nhân trên).\n- Trong trường hợp cá nhân là tác giả thứ nhất (1^st author) hoặc tác giả liên hệ (corresponding author) thì 15% kinh phí hỗ trợ, khen thưởng sẽ được chi cho cá nhân trên, phần còn lại được chia đều cho tất cả tác giả (kể cả cá nhân trên).\n- Trong trường hợp bài báo có nhiều tác giả thứ nhất (1^st author) hoặc nhiều tác giả liên hệ (corresponding author) thì kinh phí hỗ trợ, khen thưởng sẽ được chia đều cho số lượng tác giả.\nTrong những trường hợp khác, Phòng Khoa học Công nghệ và Hợp tác Quốc tế sẽ tham mưu Ban Giám hiệu xem xét quyết định.\n- VC-NLĐ của Trường đứng nhiều tên đơn vị (không thuộc Trường Đại học Bách khoa) thì kinh phí hỗ trợ, khen thưởng được nhận sẽ là kinh phí được tính theo các công thức trên, sau đó được chia cho số đơn vị đứng tên.”\n\n6",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.\nĐối với quy định liên quan chi thanh toán giờ giảng hệ đại học được bổ sung, điều chỉnh ở Điều 1 áp dụng từ năm học 2024-2025.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị, cá nhân có liên quan của Trường Đại học Bách khoa căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị, cá nhân có liên quan của Trường Đại học Bách khoa căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0489_1841_QĐ-ĐHĐN_Quyết định ban hành Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài.txt",
+  "mappedBy": "gemini-web",
+  "note": "18 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài tại các đơn vị thuộc, trực thuộc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": null,
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Hợp tác quốc tế",
+      "Đào tạo"
+    ],
+    "summary": "Quyết định ban hành Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài tại các đơn vị thuộc, trực thuộc Đại học Đà Nẵng, đồng thời quy định về tuyển sinh, chuyển chương trình, công nhận tốt nghiệp, cấp văn bằng và quy trình phê duyệt đề án, gia hạn liên kết đào tạo.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "86/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2018/NĐ-CP ngày 06/6/2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "124/2024/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 124/2024/NĐ-CP ngày 05/10/2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 86/2018/NĐ-CP ngày 06/6/2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "07/2025/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 07/2025/TT-BGDĐT ngày 27/3/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về liên kết đào tạo giữa cơ sở giáo dục đại học Việt Nam và cơ sở giáo dục đại học nước ngoài trình độ đại học, thạc sĩ và tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "08/2025/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2025/TT-BGDĐT ngày 12/5/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1899/QĐ-ĐHĐN",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Điều 2. Bãi bỏ, sửa đổi một số điều của Quy định về công tác quản lý hoạt động hợp tác quốc tế tại Đại học Đà Nẵng ban hành kèm theo Quyết định số 1899/QĐ-ĐHĐN ngày 21/5/2025 của Giám đốc Đại học Đà Nẵng:"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo và Đảm bảo chất lượng giáo dục",
+    "Ban Khoa học và Hợp tác quốc tế"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài tại các đơn vị thuộc, trực thuộc Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về công tác tuyển sinh, cấp văn bằng, phê duyệt đề án, tổ chức và quản lý liên kết đào tạo (LKĐT) với nước ngoài tại các đơn vị thuộc và trực thuộc Đại học Đà Nẵng (ĐHĐN).\n2. Quy định này áp dụng đối với các đơn vị đào tạo thuộc và trực thuộc (bao gồm các trường, viện, khoa, phân hiệu và các đơn vị tương đương) được Giám đốc ĐHĐN giao nhiệm vụ hoặc cho phép triển khai thực hiện hoạt động LKĐT với nước ngoài (sau đây gọi tắt là cơ sở đào tạo - CSĐT).\n3. Các nội dung liên quan đến việc tổ chức và thực hiện LKĐT với nước ngoài không nêu trong Quy định này được thực hiện theo Nghị định số 86/2018/NĐ-CP ngày 06/6/2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục; Nghị định số 124/2024/NĐ-CP ngày 05/10/2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 86/2018/NĐ-CP ngày 06/6/2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục; Thông tư số 07/2025/TT-BGDĐT ngày 27/3/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về LKĐT giữa cơ sở giáo dục (CSGD) đại học (ĐH) Việt Nam và CSGD ĐH nước ngoài trình độ ĐH, thạc sĩ và tiến sĩ và quy định của pháp luật có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Công tác tuyển sinh",
+          "text": "Điều 2. Công tác tuyển sinh\n1. CSĐT chỉ được phép thông báo tuyển sinh và thực hiện tuyển sinh LKĐT với nước ngoài sau khi có quyết định phê duyệt cấp phép hoặc quyết định gia hạn (hoặc điều chỉnh) của ĐHĐN và được Giám đốc ĐHĐN phê duyệt chỉ tiêu tuyển sinh.\n2. Thông báo tuyển sinh phải được công khai trên trang thông tin điện tử của CSĐT và qua các hình thức khác phù hợp ít nhất 45 ngày tính đến ngày kết thúc nhận hồ sơ dự tuyển. Nội dung chủ yếu của thông báo tuyển sinh bao gồm những thông tin sau:\n\na) Đối tượng và điều kiện dự tuyển;\nb) Chỉ tiêu tuyển sinh theo chương trình đào tạo, hình thức đào tạo;\nc) Danh mục ngành phù hợp của từng chương trình đào tạo và quy định những trường hợp phải hoàn thành học bổ sung;\nd) Hồ sơ dự tuyển;\nđ) Kế hoạch và phương thức tuyển sinh;\ne) Mức học phí, mức thu dịch vụ tuyển sinh và khoản thu dịch vụ khác cho lộ trình từng năm học, cả khóa học;\ng) Những thông tin cần thiết khác.\n3. CSĐT phối hợp với CSGD ĐH nước ngoài xây dựng quy định chi tiết về kế hoạch tuyển sinh, thông báo tuyển sinh, phương thức tuyển sinh; tổ chức tuyển sinh và công nhận trúng tuyển; việc tổ chức các khóa đào tạo, bồi dưỡng ngoại ngữ để người học đạt trình độ ngoại ngữ đầu vào trước khi giảng dạy chính khóa và các quy định khác liên quan đến tuyển sinh.\n4. Tổ chức tuyển sinh\na) Đối với chương trình LKĐT do ĐHĐN cấp bằng: thực hiện theo quy định về tuyển sinh trình độ ĐH hình thức chính quy, trình độ thạc sĩ, trình độ tiến sĩ hiện hành của Bộ Giáo dục và Đào tạo, ĐHĐN và CSĐT.\nb) Đối với chương trình LKĐT do CSGD ĐH nước ngoài cấp bằng: thực hiện theo quy định của CSGD ĐH nước ngoài. CSĐT gửi hồ sơ xét tuyển về ĐHĐN (qua Ban Đào tạo và Đảm bảo chất lượng giáo dục - ĐT&ĐBCLGD) để rà soát và cho ý kiến trước khi chính thức chuyển cho đối tác nước ngoài.\nc) Đối với chương trình LKĐT đồng thời cấp bằng của ĐHĐN và CSGD ĐH nước ngoài: thực hiện trên cơ sở thỏa thuận giữa các bên liên kết, phù hợp với quy định tại điểm a và điểm b khoản này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Chuyển chương trình, chuyển cơ sở đào tạo",
+          "text": "Điều 3. Chuyển chương trình, chuyển cơ sở đào tạo\n1. Các CSĐT có trách nhiệm kiểm tra điều kiện chuyển chương trình/CSĐT; hướng dẫn hồ sơ, thủ tục cho người học có nhu cầu chuyển sang chương trình LKĐT với nước ngoài khác, CTĐT trong nước khác cùng trình độ, cùng ngành hoặc cùng lĩnh vực đào tạo.\n2. Căn cứ hồ sơ và điều kiện chuyển chương trình, chuyển CSĐT và thỏa thuận với CSGD ĐH nước ngoài, CSĐT thực hiện LKĐT rà soát, lập hồ sơ đề nghị Giám đốc ĐHĐN quyết định cho phép người học chuyển chương trình, chuyển CSĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Công nhận tốt nghiệp",
+          "text": "Điều 4. Công nhận tốt nghiệp\nCông tác tổ chức xét công nhận tốt nghiệp đối với chương trình LKĐT với nước ngoài được thực hiện như sau:\n1. Đối với chương trình LKĐT với nước ngoài do ĐHĐN cấp bằng: thực hiện theo quy định về đào tạo trình độ ĐH, trình độ thạc sĩ, trình độ tiến sĩ hiện hành của Bộ Giáo dục và Đào tạo, ĐHĐN và CSĐT.\n2. Đối với chương trình LKĐT với nước ngoài do CSGD ĐH nước ngoài cấp bằng: thực hiện theo quy định của CSGD ĐH nước ngoài. CSĐT gửi hồ sơ xét tốt nghiệp về ĐHĐN (qua Ban ĐT&ĐBCLGD) để rà soát và cho ý kiến trước khi chính thức chuyển cho đối tác nước ngoài.\n3. Đối với chương trình LKĐT với nước ngoài đồng thời cấp văn bằng của ĐHĐN và CSGD ĐH nước ngoài: thực hiện trên cơ sở thỏa thuận giữa các bên liên kết, phù hợp với quy định tại khoản 1 và khoản 2 Điều này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Cấp văn bằng",
+          "text": "Điều 5. Cấp văn bằng\nVăn bằng của người học theo LKĐT với nước ngoài được quy định như sau:\n1. Văn bằng do ĐHĐN cấp phải tuân thủ quy định về văn bằng, chứng chỉ hiện hành của Bộ Giáo dục và Đào tạo và ĐHĐN. ĐHĐN quy định cụ thể về mẫu văn bằng tốt nghiệp do ĐHĐN cấp.\n2. Văn bằng do CSGD nước ngoài cấp phải tuân thủ quy định của pháp luật nước sở tại và được cơ quan có thẩm quyền của Việt Nam công nhận. CSĐT phối hợp với CSGD ĐH nước ngoài trong việc lập sổ gốc cấp văn bằng.\n3. Trường hợp đồng thời cấp văn bằng của ĐHĐN và CSGD ĐH nước ngoài thì phải tuân thủ quy định của pháp luật Việt Nam, quy định của pháp luật nước sở tại và được cơ quan có thẩm quyền của Việt Nam công nhận. ĐHĐN quy định cụ thể về mẫu văn bằng tốt nghiệp do ĐHĐN cấp trên cơ sở thỏa thuận với CSGD ĐH nước ngoài.\n4. Để phục vụ công tác quản lý và xác minh văn bằng khi có yêu cầu, CSĐT lập sổ theo dõi cấp phát văn bằng LKĐT với nước ngoài theo mẫu tại Phụ lục I kèm theo Quy định này.\n5. Khi nhận văn bằng từ CSGD ĐH nước ngoài, CSĐT lập sổ theo dõi nhận văn bằng từ CSGD ĐH nước ngoài theo mẫu tại Phụ lục II kèm theo Quy định này.\n\n4\n6. Giám đốc ĐHĐN ủy quyền cho thủ trưởng CSĐT cấp cho người học tốt \nnghiệp chương trình LKĐT chứng nhận tốt nghiệp để sử dụng kèm theo văn bằng \ntốt nghiệp khi có yêu cầu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quy trình phê duyệt đề án LKĐT với nước ngoài",
+          "text": "Điều 6. Quy trình phê duyệt đề án LKĐT với nước ngoài\n1. Bước 1. Gửi tờ trình và đề án LKĐT với nước ngoài\nCSĐT lập tờ trình và đề án LKĐT với nước ngoài theo mẫu tại Phụ lục III \ncủa Quy định này gửi về ĐHĐN (qua Ban ĐT&ĐBCLGD).\n2. Bước 2. Tiếp nhận và kiểm tra đề án LKĐT với nước ngoài\na) Ban ĐT&ĐBCLGD là đơn vị chủ trì tiếp nhận và kiểm tra đề án LKĐT \nvới nước ngoài. Trong thời hạn 20 ngày làm việc kể từ ngày nhận được đề án, \nĐHĐN tổ chức thẩm định và ban hành quyết định phê duyệt đề án LKĐT với \nnước ngoài.\nb) Trường hợp đề án không đầy đủ, trong thời hạn 05 ngày làm việc kể từ\nngày nhận được đề án LKĐT với nước ngoài, ĐHĐN thông báo bằng văn bản gửi \nCSĐT.\n3. Bước 3. Thành lập Hội đồng thẩm định đề án LKĐT với nước ngoài\nSau khi tiếp nhận và kiểm tra đề án, Ban ĐT&ĐBCLGD tham mưu Giám \nđốc ĐHĐN thành lập Hội đồng thẩm định đề án LKĐT với nước ngoài\na) Thành phần Hội đồng thẩm định bao gồm: Chủ tịch, Ủy viên thường trực\nlà đại diện lãnh đạo Ban ĐT&ĐBCLGD, các ủy viên là đại diện lãnh đạo Ban \nKhoa học và Hợp tác quốc tế và các ban chức năng có liên quan của ĐHĐN, Thư \nký Hội đồng là chuyên viên Ban ĐT&ĐBCLGD.\nb) Nhiệm vụ của thành viên Hội đồng thẩm định do Chủ tịch Hội đồng phân \ncông, Hội đồng tự giải thể sau khi hoàn thành nhiệm vụ.\nc) Hội đồng thẩm định có trách nhiệm thẩm định đề án LKĐT với nước \nngoài, chịu trách nhiệm về tính chính xác của các kết quả thẩm định, tham mưu \ncho Giám đốc ĐHĐN trong việc phê duyệt đề án LKĐT với nước ngoài.\n4. Bước 4. Thẩm định đề án LKĐT với nước ngoài\na) Hội đồng thẩm định đánh giá mức độ đáp ứng của đề án LKĐT với nước \nngoài với quy định tại Nghị định số 86/2018/NĐ-CP, Nghị định số 124/2024/NĐ-CP và các quy định khác về LKĐT với nước ngoài.\nb) Hội đồng thẩm định kết luận rõ một trong các nội dung sau:\n- Thông qua đề án LKĐT với nước ngoài, không cần chỉnh sửa, bổ sung.\n- Thông qua đề án LKĐT với nước ngoài nhưng yêu cầu phải chỉnh sửa, bổ\nsung và nêu nội dung cụ thể cần phải chỉnh sửa, bổ sung.\n\n5\n- Không thông qua đề án LKĐT với nước ngoài và nêu lý do không thông \nqua.\nc) Đề nghị phê duyệt hoặc không phê duyệt đề án LKĐT với nước ngoài\n- Trường hợp Hội đồng thẩm định kết luận thông qua không cần chỉnh sửa, \nbổ sung: Hội đồng thẩm định gửi văn bản đề nghị Giám đốc ĐHĐN phê duyệt đề\nán LKĐT.\n- Trường hợp Hội đồng thẩm định có yêu cầu phải chỉnh sửa, bổ sung: \n+ CSĐT giải trình các ý kiến phản biện của Hội đồng thẩm định và tiến \nhành bổ sung, chỉnh sửa theo các ý kiến góp ý của các thành viên Hội đồng thẩm \nđịnh.\n+ Các thành viên Hội đồng thẩm định kiểm tra, xem xét và có ý kiến phản \nhồi các điều chỉnh, bổ sung của CSĐT về đề án LKĐT với nước ngoài trước khi \nHội đồng thẩm định có văn bản đề nghị Giám đốc ĐHĐN phê duyệt.\n- Trường hợp Hội đồng thẩm định kết luận không thông qua đề án LKĐT \nvới nước ngoài thì Hội đồng thẩm định đề nghị Giám đốc ĐHĐN thông báo bằng \nvăn bản gửi cho các bên liên kết.\n5. Bước 5. Ra quyết định phê duyệt đề án LKĐT với nước ngoài\nTrên cơ sở ý kiến của Hội đồng thẩm định và ý kiến tham mưu của Ban \nĐT&ĐBCLGD, Giám đốc ĐHĐN ban hành quyết định phê duyệt LKĐT với nước \nngoài, cho phép CSĐT thực hiện LKĐT với nước ngoài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quy trình gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài",
+          "text": "Điều 7. Quy trình gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài\n1. Bước 1. Gửi hồ sơ đề nghị gia hạn (hoặc điều chỉnh) LKĐT với nước \nngoài\nCSĐT lập tờ trình đề nghị gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài, \nbáo cáo về tình hình triển khai LKĐT với nước ngoài trong thời gian được cho \nphép theo mẫu tại Phụ lục IV và thỏa thuận hoặc hợp đồng hợp tác đang còn hiệu \nlực giữa các bên liên kết gửi về ĐHĐN (qua Ban ĐT&ĐBCLGD).\n2. Bước 2. Tiếp nhận và kiểm tra hồ sơ gia hạn (hoặc điều chỉnh) LKĐT \nvới nước ngoài\nBan ĐT&ĐBCLGD là đơn vị chủ trì tiếp nhận và kiểm tra hồ sơ do CSĐT \ngửi về ĐHĐN\na) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ, ĐHĐN tổ\nchức thẩm định và ban hành quyết định cho phép gia hạn (hoặc điều chỉnh) LKĐT \nvới nước ngoài.\n\n6\nb) Trường hợp hồ sơ không đầy đủ, trong thời hạn 05 ngày làm việc kể từ\nngày nhận được hồ sơ, ĐHĐN thông báo bằng văn bản để CSĐT bổ sung.\n3. Bước 3. Thành lập Hội đồng thẩm định gia hạn (hoặc điều chỉnh) LKĐT \nvới nước ngoài\nSau khi tiếp nhận và rà soát hồ sơ, Ban ĐT&ĐBCLGD tham mưu Giám \nđốc ĐHĐN thành lập Hội đồng thẩm định gia hạn (hoặc điều chỉnh) LKĐT với \nnước ngoài\na) Thành phần Hội đồng thẩm định bao gồm: Chủ tịch, Ủy viên thường trực \nlà đại diện lãnh đạo Ban ĐT&ĐBCLGD, các ủy viên là đại diện lãnh đạo Ban \nKhoa học và Hợp tác quốc tế và các ban chức năng có liên quan của ĐHĐN, Thư \nký Hội đồng là chuyên viên Ban ĐT&ĐBCLGD.\nb) Nhiệm vụ của thành viên Hội đồng do Chủ tịch Hội đồng phân công, Hội \nđồng tự giải thể sau khi hoàn thành nhiệm vụ.\nc) Hội đồng thẩm định có trách nhiệm thẩm định điều kiện và hồ sơ gia hạn \n(hoặc điều chỉnh) LKĐT với nước ngoài, chịu trách nhiệm về tính chính xác của \ncác kết quả thẩm định, tham mưu cho Giám đốc ĐHĐN trong việc gia hạn (hoặc \nđiều chỉnh) LKĐT với nước ngoài.\n4. Bước 4. Thẩm định gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài\na) Hội đồng thẩm định đánh giá mức độ đáp ứng của điều kiện gia hạn, thời \ngian gia hạn và hồ sơ gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài với quy \nđịnh tại Nghị định số 86/2018/NĐ-CP, Nghị định số 124/2024/NĐ-CP và các quy \nđịnh khác về LKĐT với nước ngoài.\nb) Hội đồng thẩm định kết luận rõ một trong các nội dung sau:\n- Thông qua gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài, không cần \nchỉnh sửa, bổ sung.\n- Thông qua gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài nhưng yêu \ncầu phải chỉnh sửa, bổ sung và nêu nội dung cụ thể cần phải chỉnh sửa, bổ sung.\n- Không thông qua gia hạn (hoặc điều chỉnh) LKĐT với nước ngoài và nêu \nlý do không thông qua.\nc) Đề nghị phê duyệt hoặc không phê duyệt gia hạn (hoặc điều chỉnh) \nLKĐT với nước ngoài\n- Trường hợp Hội đồng thẩm định kết luận thông qua không cần chỉnh sửa \nbổ sung: Hội đồng thẩm định gửi văn bản đề nghị Giám đốc ĐHĐN cho phép gia \nhạn (hoặc điều chỉnh) LKĐT.\n- Trường hợp Hội đồng thẩm định có yêu cầu phải chỉnh sửa, bổ sung:\n\n7\n+ CSĐT giải trình các ý kiến phản biện của Hội đồng thẩm định và tiến \nhành bổ sung, chỉnh sửa theo các ý kiến góp ý của các thành viên Hội đồng thẩm \nđịnh.\n+ Các thành viên Hội đồng thẩm định kiểm tra, xem xét và có ý kiến phản \nhồi các điều chỉnh, bổ sung của CSĐT về LKĐT với nước ngoài trước khi Hội \nđồng thẩm định có văn bản đề nghị Giám đốc ĐHĐN phê duyệt.\n- Trường hợp Hội đồng thẩm định kết luận không thông qua gia hạn (hoặc \nđiều chỉnh) LKĐT với nước ngoài thì Hội đồng thẩm định đề nghị Giám đốc \nĐHĐN thông báo bằng văn bản gửi cho các bên liên kết.\n5. Bước 5. Ra quyết định phê duyệt gia hạn (hoặc điều chỉnh) LKĐT với \nnước ngoài\nTrên cơ sở ý kiến của Hội đồng thẩm định và ý kiến tham mưu của Ban \nĐT&ĐBCLGD, Giám đốc ĐHĐN ban hành quyết định gia hạn (hoặc điều chỉnh) \nLKĐT với nước ngoài, cho phép CSĐT gia hạn (hoặc điều chỉnh) LKĐT với nước \nngoài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quản lý chương trình LKĐT với nước ngoài",
+          "text": "Điều 8. Quản lý chương trình LKĐT với nước ngoài\n1. Việc quản lý chương trình LKĐT với nước ngoài được thực hiện theo \nnguyên tắc phối hợp chặt chẽ giữa CSĐT và CSGD ĐH nước ngoài, trong đó \nCSĐT là đơn vị đầu mối, thực hiện LKĐT với nước ngoài và báo cáo ĐHĐN.\n2. Trường hợp chương trình LKĐT với nước ngoài do ĐHĐN cấp bằng: \ncông tác quản lý đào tạo tuân thủ theo Quy chế đào tạo trình độ ĐH, thạc sĩ và \ntiến sĩ của Bộ Giáo dục và Đào tạo và CSĐT.\n3. Trường hợp chương trình LKĐT với nước ngoài do CSGD ĐH nước \nngoài cấp bằng: công tác quản lý đào tạo tuân thủ theo quy định của đối tác nước \nngoài.\n4. Trường hợp chương trình LKĐT với nước ngoài đồng thời cấp văn bằng \ncủa ĐHĐN và văn bằng của CSGD ĐH nước ngoài: công tác quản lý đào tạo thực \nhiện trên cơ sở thỏa thuận giữa các bên liên kết, phù hợp với quy định tại khoản \n2 và khoản 3 Điều này.\n5. ĐHĐN giao các CSĐT chủ động xây dựng các quy trình nội bộ cần thiết \nkhác có liên quan đến LKĐT với nước ngoài trước khi tổ chức thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hoạt động thanh tra, kiểm tra công tác LKĐT với nước ngoài",
+          "text": "Điều 9. Hoạt động thanh tra, kiểm tra công tác LKĐT với nước ngoài\n1. ĐHĐN tổ chức kiểm tra, giám sát việc thực hiện LKĐT với nước ngoài.\n\n8\n2. CSĐT có trách nhiệm tự tổ chức kiểm tra, giám sát nội bộ việc thực hiện \nLKĐT với nước ngoài của CSĐT theo các quy định hiện hành; chịu sự kiểm tra, \nthanh tra của ĐHĐN và các cơ quan có thẩm quyền theo các quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Báo cáo và lưu trữ",
+          "text": "Điều 10. Báo cáo và lưu trữ\n1. Chế độ báo cáo\na) Sau mỗi đợt tuyển sinh và trước khi nhập học, CSĐT báo cáo về ĐHĐN \n(qua Ban ĐT&ĐBCLGD) các nội dung về: kế hoạch tuyển sinh, thông báo tuyển \nsinh, phương thức tuyển sinh, tổ chức tuyển sinh và công nhận trúng tuyển; việc \ntổ chức các khóa đào tạo, bồi dưỡng ngoại ngữ để người học đạt trình độ ngoại \nngữ đầu vào trước khi giảng dạy chính khóa; báo cáo kết quả tuyển sinh LKĐT \nvới nước ngoài theo mẫu tại Phụ lục V kèm theo Quy định này.\nb) Trong vòng 07 ngày sau khi kết thúc họp Hội đồng xét tốt nghiệp, CSĐT \nbáo cáo kết quả xét tốt nghiệp về ĐHĐN (qua Ban ĐT&ĐBCLGD) để phục vụ\ncông tác quản lý theo mẫu báo cáo kết quả xét tốt nghiệp LKĐT với nước ngoài \ntại Phụ lục VI kèm theo Quy định này.\nc) Các CSĐT thực hiện báo cáo ĐHĐN (qua Ban ĐT&ĐBCLGD) hằng \nnăm theo quy định, cụ thể như sau:\n- Nội dung yêu cầu báo cáo: tình hình chung về việc thực hiện các nội dung \nliên kết, quyền và nghĩa vụ của các bên tham gia liên kết; số lượng người dạy \ntrong đó nêu rõ số lượng người dạy có quốc tịch nước ngoài, việc thực hiện các \nquy định về quản lý người nước ngoài; những khó khăn, vướng mắc; kiến nghị, \nđề xuất (nếu có).\n- Kỳ báo cáo: báo cáo định kỳ hằng năm.\n- Thời gian chốt số liệu báo cáo: tính từ ngày 01 tháng 10 năm trước kỳ báo \ncáo đến ngày 30 tháng 9 của năm báo cáo.\n- Nội dung báo cáo: thực hiện theo mẫu báo cáo về việc thực hiện LKĐT \nvới nước ngoài tại Phụ lục VII kèm theo Quy định này.\n- Bảng tổng hợp dữ liệu báo cáo: thực hiện theo Phụ lục VIII kèm theo Quy \nđịnh này.\n- Các CSĐT nộp báo cáo về ĐHĐN trước ngày 15 tháng 10 hằng năm. Ban \nĐT&ĐBCLGD tổng hợp báo cáo, trình Giám đốc ĐHĐN ký và gửi Bộ Giáo dục \nvà Đào tạo trước ngày 31 tháng 10 hằng năm.\nd) CSĐT thực hiện các báo cáo đột xuất theo nội dung yêu cầu cụ thể của \nBộ Giáo dục và Đào tạo và các cấp có thẩm quyền.\n2. Chế độ lưu trữ\n\n9\na) Hồ sơ cho phép LKĐT với CSGD nước ngoài, hồ sơ gia hạn (hoặc điều \nchỉnh) chương trình LKĐT với nước ngoài, hồ sơ xác định chỉ tiêu tuyển sinh \nhằng năm; quyết định trúng tuyển, danh sách trúng tuyển, điểm chuẩn tuyển sinh; \nbảng điểm tổng hợp kết quả học tập; quyết định công nhận tốt nghiệp và cấp bằng; \ndanh sách tốt nghiệp; hồ sơ xét công nhận tốt nghiệp và cấp bằng đào tạo trình độ\nĐH, thạc sĩ, tiến sĩ là các tài liệu có thời hạn lưu trữ vĩnh viễn tại CSĐT.\nb) Hồ sơ đăng ký dự tuyển, bài thi và các tài liệu liên quan đến tuyển sinh; \nđồ án, khóa luận tốt nghiệp; bài thi, các tài liệu khác liên quan đến thi, xét tốt \nnghiệp là tài liệu lưu trữ được bảo quản có thời hạn theo quy định hiện hành.\nc) Hồ sơ lưu trữ phục vụ công tác thanh, kiểm tra của các cơ quan có thẩm \nquyền cấp trên; phục vụ yêu cầu xác minh văn bằng; xác nhận quá trình học tập \ncác chương trình LKĐT với nước ngoài theo yêu cầu của tổ chức, cá nhân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Trách nhiệm của ĐHĐN",
+          "text": "Điều 11. Trách nhiệm của ĐHĐN\n1. ĐHĐN tổ chức giám sát, kiểm tra nội bộ việc LKĐT với nước ngoài của \ncác CSĐT theo thẩm quyền.\n2. ĐHĐN tổng hợp thông tin về hoạt động LKĐT với nước ngoài của các \nCSĐT, báo cáo định kỳ hoặc đột xuất theo yêu cầu của Bộ Giáo dục và Đào tạo\nvà của cơ quan có thẩm quyền theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Trách nhiệm của CSĐT",
+          "text": "Điều 12. Trách nhiệm của CSĐT\n1. CSĐT tổ chức truyền thông, phổ biến quy định về LKĐT với nước ngoài\ncủa ĐHĐN cho người học, cho các CSGD ĐH nước ngoài, các cá nhân và tổ chức \ncó liên quan.\n2. CSĐT triển khai kế hoạch giám sát, kiểm tra nội bộ việc thực hiện LKĐT \nvới nước ngoài của CSĐT theo quy định hiện hành; chịu sự giám sát, thanh tra, \nkiểm tra của ĐHĐN và các cơ quan có thẩm quyền theo quy định hiện hành.\n3. CSĐT thực hiện chế độ báo cáo theo quy định và theo yêu cầu của các \ncấp có thẩm quyền.\n4. CSĐT hỗ trợ việc công nhận văn bằng cho người học khi có yêu cầu, \ntriển khai các biện pháp bảo đảm quyền lợi của người học và của các bên liên \nquan.\n5. CSĐT thực hiện rà soát các điều kiện thực hiện LKĐT với nước ngoài, \ncung cấp các thông tin về chương trình LKĐT với nước ngoài theo yêu cầu của \nBộ Giáo dục và Đào tạo (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Điều khoản chuyển tiếp",
+          "text": "Điều 13. Điều khoản chuyển tiếp\n\n10\n1. Các chương trình liên kết đào tạo với nước ngoài đã được phê duyệt và \nđang triển khai trước ngày Quy định này có hiệu lực được tiếp tục thực hiện theo \nđúng các quyết định phê duyệt và các thỏa thuận đã ký kết.\n2. Đối với các hồ sơ, thủ tục đang trong quá trình xem xét, phê duyệt tại \nthời điểm Quy định này có hiệu lực, thì áp dụng theo Quy định này.\n3. Trong vòng 06 (sáu) tháng kể từ ngày Quy định này có hiệu lực, các \nCSĐT có trách nhiệm rà soát, xây dựng các quy trình, thủ tục nội bộ về LKĐT\nvới nước ngoài để phù hợp với Quy định này và báo cáo ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 14. Tổ chức thực hiện\nThủ trưởng các CSĐT chịu trách nhiệm tổ chức thực hiện Quy định này. \nTrong quá trình thực hiện, Quy định này có thể được điều chỉnh, bổ sung, sửa đổi \ncho phù hợp với tình hình thực tế. Việc điều chỉnh do Giám đốc ĐHĐN xem xét, \nquyết định./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài tại các đơn vị thuộc, trực thuộc Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về tổ chức và quản lý liên kết đào tạo với nước ngoài tại các đơn vị thuộc, trực thuộc Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Bãi bỏ, sửa đổi một số điều của Quy định về công tác quản lý hoạt động hợp tác quốc tế tại Đại học Đà Nẵng ban hành kèm theo Quyết định số 1899/QĐ-ĐHĐN ngày 21/5/2025 của Giám đốc Đại học Đà Nẵng:",
+      "text": "Điều 2. Bãi bỏ, sửa đổi một số điều của Quy định về công tác quản lý hoạt động hợp tác quốc tế tại Đại học Đà Nẵng ban hành kèm theo Quyết định số 1899/QĐ-ĐHĐN ngày 21/5/2025 của Giám đốc Đại học Đà Nẵng:\n\n1. Bãi bỏ khoản 3 Điều 23.\n2. Sửa đổi Điều 24 như sau:\n“Điều 24. Chế độ báo cáo\nCác trường đại học thành viên thực hiện chế độ báo cáo theo quy định tại Nghị định số 124/2024/NĐ-CP, đồng thời gửi báo cáo cho Đại học Đà Nẵng (qua Ban Đào tạo và Đảm bảo chất lượng giáo dục) để phục vụ công tác quản lý hoặc báo cáo đột xuất theo yêu cầu của cơ quan có thẩm quyền.”",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng có liên quan, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 4. Chánh Văn phòng, Trưởng các ban chức năng có liên quan, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

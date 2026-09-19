@@ -1,0 +1,249 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0060_487_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Hội đồng Trường Đại học Bách khoa, Đại học Đà Nẵn.txt",
+  "mappedBy": "gemini-web",
+  "note": "Ngày ban hành và ngày có hiệu lực trong văn bản gốc bị để trống phần ngày (ngày tháng 12 năm 2015). 22 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "487/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy chế hoạt động của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": null,
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy chế hoạt động của Hội đồng trường Trường Đại học Bách khoa, quy định về nhiệm vụ, quyền hạn, cơ cấu tổ chức, phương thức hoạt động và mối quan hệ công tác của Hội đồng trường.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Chủ tịch Hội đồng trường"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "08/2012/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật giáo dục đại học số 08/2012/QH13 của Quốc hội khóa XIII, kỳ họp thứ 3 thông qua ngày 18 tháng 6 năm 2012;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng và các Trường trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "70/2014/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ về việc ban hành Điều lệ trường đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "4235/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4235/QĐ-ĐHĐN ngày 18 tháng 08 năm 2015 của Giám đốc Đại học Đà Nẵng về việc “Thành lập Hội đồng trường Trường Đại học Bách khoa nhiệm kỳ 2014-2019”;"
+    },
+    {
+      "targetDocumentNumber": "01/NQ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị Quyết số 01/NQ-ĐHBK ngày 16 tháng 10 năm 2015 của Hội đồng trường;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Quốc hội",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng trường",
+    "Phòng Tổ chức - Hành chính",
+    "Phòng Thanh tra - Pháp chế",
+    "Phòng Đào tạo",
+    "Phòng Khoa học Công nghệ và Hợp tác Quốc tế",
+    "Phòng Công tác sinh viên",
+    "Phòng Kế hoạch - Tài chính",
+    "Phòng Khảo thí và Đảm bảo chất lượng Giáo dục",
+    "Phòng Cơ sở vật chất",
+    "Ban Giám hiệu",
+    "Đảng ủy trường",
+    "Công đoàn trường",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh trường",
+    "Ban Tổ chức Cán bộ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Tòa án",
+    "Nhà trường"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế hoạt động của Hội đồng trường Trường Đại học Bách khoa",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\nQuy chế này quy định cách thức làm việc của Hội đồng trường với\nTrường Đại học Bách khoa, với các cơ sở giáo dục thành viên thuộc Đại học Đà\nNẵng và mối quan hệ công tác giữa Hội đồng trường với Đảng ủy, Ban Giám\nhiệu và đơn vị chức năng, các tổ chức đoàn thể của nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nhiệm vụ và quyền hạn của Hội đồng trường",
+          "text": "Điều 2. Nhiệm vụ và quyền hạn của Hội đồng trường\nHội đồng trường thực hiện nhiệm vụ, quyền hạn theo quy định tại khoản 2\nĐiều 16 của Luật Giáo dục đại học và một số quy định cụ thể sau đây:\na. Quyết nghị chiến lược, quy hoạch, kế hoạch phát triển và quy chế về tổ\nchức và hoạt động của nhà trường;\nb. Định kỳ hằng năm báo cáo, giải trình với Đại học Đà Nẵng, Bộ Giáo\ndục và Đào tạo về các điều kiện đảm bảo chất lượng đào tạo, tài chính của\ntrường cũng như kết quả hoạt động khác của nhà trường;\nc. Quyết nghị phương hướng hoạt động đào tạo, khoa học và công nghệ,\nhợp tác quốc tế, bảo đảm chất lượng giáo dục;\nd. Quyết nghị về cơ cấu tổ chức và phương hướng đầu tư phát triển của\nnhà trường; Thông qua các quy định về: Số lượng, cơ cấu lao động, vị trí việc\nlàm, việc tuyển dụng, quản lý, sử dụng, phát triển đội ngũ viên chức, nhân viên\nhợp đồng của nhà trường; Giới thiệu nhân sự Hiệu trưởng, Phó Hiệu trưởng để\nthực hiện quy trình bổ nhiệm theo quy định; thực hiện đánh giá hàng năm việc\nhoàn thành nhiệm vụ của Hiệu trưởng, các Phó Hiệu trưởng; kiến nghị Đại học\nĐà Nẵng miễn nhiệm Hiệu trưởng, Phó Hiệu trưởng; tổ chức lấy phiếu thăm dò\ntín nhiệm Hiệu trưởng, Phó Hiệu trưởng giữa nhiệm kỳ hoặc đột xuất trong\ntrường hợp cần thiết;\ne. Quyết nghị về việc thành lập, sáp nhập, chia, tách, giải thể các tổ chức\ncủa cơ sở giáo dục đại học.\nf. Giám sát việc thực hiện các nghị quyết của Hội đồng trường, việc thực\nhiện quy chế dân chủ trong các hoạt động của nhà trường. Kiến nghị với Đại học\n\nĐà Nẵng thông qua phương án bổ sung, miễn nhiệm hoặc thay thế các thành\nviên của Hội đồng trường;\ng. Yêu cầu Hiệu trưởng giải trình về những vấn đề chưa được thực hiện\nđúng, chưa được thực hiện đầy đủ theo nghị quyết của Hội đồng trường, nếu có.\nNếu Hội đồng trường không đồng ý với giải trình của Hiệu trưởng thì báo cáo\nGiám đốc Đại học Đà Nẵng để được xem xét giải quyết.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Cơ cấu tổ chức Hội đồng trường",
+          "text": "Điều 3. Cơ cấu tổ chức Hội đồng trường\nHội đồng trường có tổng số thành viên là số lẻ, tối thiểu là 15 thành viên,\ntrong đó có 01 Chủ tịch và 01 Thư ký Hội đồng trường. Thành phần Hội đồng\ntrường gồm:\na. Hiệu trưởng, các Phó Hiệu trưởng, Bí thư Đảng ủy trường, Chủ tịch\nCông đoàn trường, Bí thư Đoàn Thanh niên Cộng sản Hồ Chí Minh trường;\nb. Đại diện giảng viên, nghiên cứu viên của một số khoa, viện;\nc. Đại diện ĐHĐN - cơ quan trực tiếp quản lý trường;\nd. Một số thành viên bên ngoài, không phải là giảng viên, cán bộ quản lý\ncơ hữu của trường. Số lượng thành viên thuộc thành phần này chiếm không dưới\n20% tổng số thành viên của Hội đồng trường;\ne. Số lượng, cơ cấu thành viên, quy trình, thủ tục lựa chọn các thành viên,\nbầu Chủ tịch, Thư ký Hội đồng trường phải được thực hiện theo quy định hiện\nhành và đề nghị của Hiệu trưởng trường Đại học Bách khoa.\nf. Thành phần và cơ cấu thành viên Hội đồng trường có thể xem xét bổ\nsung hàng năm, kể cả những trường hợp đặc biệt trên cơ sở đề nghị của Đảng\nủy, Hiệu trưởng nhà trường và được Giám đốc Đại học Đà Nẵng phê duyệt.\nNhiệm kỳ của Hội đồng trường là 05 năm và theo nhiệm kỳ của Hiệu\ntrưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Chủ tịch và Thư ký Hội đồng trường",
+          "text": "Điều 4. Chủ tịch và Thư ký Hội đồng trường\na. Chủ tịch Hội đồng trường do Hội đồng trường bầu trong số các thành\nviên của Hội đồng trường theo nguyên tắc bỏ phiếu kín và phải được trên 50%\ntổng số thành viên theo danh sách của Hội đồng trường đồng ý. Chủ tịch Hội\nđồng trường không kiêm nhiệm chức vụ Hiệu trưởng hoặc Phó Hiệu trưởng của\nnhà trường và có nhiệm vụ, quyền hạn cụ thể sau đây:\n- Triệu tập các cuộc họp của Hội đồng trường;\n- Quyết định về chương trình nghị sự, chủ tọa các cuộc họp và tổ chức bỏ\nphiếu tại cuộc họp;\n- Điều hành Hội đồng trường thực hiện các nhiệm vụ theo quy định.\nb. Thư ký Hội đồng trường do Chủ tịch Hội đồng trường giới thiệu trong\nsố các thành viên của Hội đồng trường và bổ nhiệm khi được Hội đồng trường\nthông qua với trên 50% tổng số thành viên theo danh sách của Hội đồng trường\nđồng ý. Thư ký Hội đồng trường không kiêm nhiệm chức vụ Hiệu trưởng hoặc\n2\n\nPhó Hiệu trưởng, trực tiếp giúp Chủ tịch Hội đồng trường thực hiện một số\nnhiệm vụ và quyền hạn cụ thể sau đây:\n- Tổng hợp thông tin về hoạt động của trường, báo cáo Chủ tịch Hội đồng\ntrường; chuẩn bị chương trình nghị sự, nội dung, tài liệu, gửi giấy mời họp và\nlàm thư ký các cuộc họp của Hội đồng trường; xây dựng, hoàn chỉnh, lưu trữ các\nvăn bản của Hội đồng trường;\n- Chuẩn bị các báo cáo, giải trình với Đại học Đà Nẵng và các cơ quan\nquản lý nhà nước, các cơ quan liên quan theo nhiệm vụ, chức năng của Hội đồng\ntrường;\n- Các nhiệm vụ khác do Chủ tịch Hội đồng trường giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Hoạt động của Hội đồng trường",
+          "text": "Điều 5. Hoạt động của Hội đồng trường\na. Hội đồng trường làm việc theo nguyên tắc tập thể, quyết định theo đa\nsố.\nb. Các thành viên của Hội đồng trường có trách nhiệm thực hiện các\nnhiệm vụ do Hội đồng trường phân công và các nhiệm vụ khác quy định tại quy\nchế tổ chức và hoạt động của nhà trường.\nc. Hội đồng trường họp thường kỳ ít nhất 6 tháng một lần và họp bất\nthường khi có đề nghị bằng văn bản của trên 30% tổng số thành viên Hội đồng\ntrường hoặc có đề nghị của Hiệu trưởng hoặc Chủ tịch Hội đồng trường.\nCuộc họp của Hội đồng trường được coi là hợp lệ khi có ít nhất 2/3 số\nthành viên Hội đồng tham dự. Quyết nghị của Hội đồng trường chỉ có giá trị khi\ncó trên 50% tổng số thành viên theo danh sách của Hội đồng trường đồng ý. Các\ncuộc họp phải ghi biên bản và gửi đến Giám đốc Đại học Đà Nẵng chậm nhất sau\n15 ngày làm việc kể từ ngày tổ chức cuộc họp;\nd. Hội đồng trường được sử dụng con dấu và bộ máy tổ chức của nhà\ntrường để triển khai các công việc của Hội đồng trường;\ne. Chủ tịch Hội đồng trường được hưởng hệ số phụ cấp chức vụ tương\nđương Hiệu trưởng; Thư ký Hội đồng trường được hưởng hệ số phụ cấp chức vụ\ntương đương Trưởng phòng; phụ cấp cho các thành viên khác trong Hội đồng\ntrường được quy định trong quy chế tổ chức và hoạt động và quy chế tài chính\nnội bộ của nhà trường.\nf. Kinh phí hoạt động của Hội đồng trường, phụ cấp chức vụ của Chủ\ntịch, Thư ký và phụ cấp cho các thành viên (nếu có) được tính trong kinh phí\nhoạt động của nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Ủy quyền điều hành Hội đồng trường",
+          "text": "Điều 6. Ủy quyền điều hành Hội đồng trường\nKhi Chủ tịch Hội đồng trường không thể làm việc trong khoảng thời gian\nmà quy chế tổ chức và hoạt động của nhà trường đã quy định thì phải có trách\nnhiệm ủy quyền bằng văn bản cho một trong số các thành viên còn lại của Hội\nđồng trường đảm nhận thay trách nhiệm của Chủ tịch Hội đồng trường. Văn bản\n3\n\nủy quyền phải được gửi đến Giám đốc Đại học Đà Nẵng và thông báo công khai.\nThời gian ủy quyền không quá 06 tháng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Thành lập Hội đồng trường, bổ nhiệm Chủ tịch Hội đồng trường",
+          "text": "Điều 7. Thành lập Hội đồng trường, bổ nhiệm Chủ tịch Hội đồng trường\na. Việc thành lập Hội đồng trường nhiệm kỳ đầu tiên được thực hiện như\nsau:\n- Bước 1: Hiệu trưởng chủ trì cuộc họp gồm các thành phần: Bí thư Đảng\nủy trường, các Phó Hiệu trưởng, Chủ tịch Công đoàn trường, Bí thư Đoàn Thanh\nniên Cộng sản Hồ Chí Minh trường để xác định tổng số thành viên Hội đồng\ntrường và số lượng thành viên của từng thành phần tham gia Hội đồng trường\n(bao gồm cả việc dự kiến danh sách các thành viên bên ngoài không phải giảng\nviên cơ hữu hoặc cán bộ quản lý cơ hữu của trường);\n- Bước 2: Báo cáo phương án tổ chức Hội đồng trường và kế hoạch thực\nhiện với Giám đốc Đại học Đà Nẵng; đề nghị Đại học Đà Nẵng cử đại diện tham\ngia Hội đồng trường;\n- Bước 3: Sau khi có ý kiến phê duyệt thực hiện của Giám đốc Đại học Đà\nNẵng, tổ chức bầu các thành viên đại diện cho các thành phần theo quy định;\nlàm các thủ tục xác định danh sách các thành viên bên ngoài không phải giảng\nviên cơ hữu hoặc cán bộ quản lý cơ hữu của trường;\n- Bước 4: Báo cáo danh sách thành viên hội đồng trường với Giám đốc\nĐại học Đà Nẵng và đề nghị Giám đốc Đại học Đà Nẵng ra Quyết định thành\nlập Hội đồng trường;\n- Bước 5: Sau khi có Quyết định thành lập Hội đồng trường, Hiệu trưởng\ntổ chức họp các thành viên trong danh sách để bầu Chủ tịch và Thư ký Hội đồng\ntrường. Trên cơ sở quyết nghị tại cuộc họp này, Hiệu trưởng có văn bản đề nghị\nGiám đốc Đại học Đà Nẵng ra Quyết định bổ nhiệm Chủ tịch Hội đồng trường;\nChủ tịch Hội đồng trường bổ nhiệm Thư ký Hội đồng trường.\nb. Việc thành lập Hội đồng trường nhiệm kỳ kế tiếp được thực hiện như\nsau: Chủ tịch Hội đồng trường đương nhiệm tổ chức thực hiện các bước như quy\nđịnh nêu tại Điểm a Mục này để thành lập Hội đồng trường và thực hiện các thủ\ntục bổ nhiệm Chủ tịch Hội đồng trường nhiệm kỳ kế tiếp theo đúng quy định của\nĐiều lệ trường đại học và quy chế tổ chức và hoạt động của nhà trường.\nc. Hồ sơ đề nghị thành lập Hội đồng trường gồm:\n- Tờ trình đề nghị thành lập Hội đồng trường, trong đó nêu rõ quy trình\nxác định các thành viên Hội đồng trường và kết quả thực hiện;\n- Danh sách (dự kiến) và sơ yếu lý lịch (mẫu Phụ lục kèm theo) của các\nthành viên Hội đồng trường;\n- Biên bản họp, biên bản kiểm phiếu, phiếu bầu các thành viên đại diện\ncho giảng viên và nghiên cứu viên đại diện cho các khoa, viện thuộc trường;\n- Văn bản của Đại học Đà Nẵng phê duyệt phương án tổ chức và cử thành\nviên tham gia Hội đồng trường;\n\n- Văn bản đồng ý tham gia Hội đồng trường của các thành viên không phải\nlà giảng viên cơ hữu, cán bộ quản lý cơ hữu của trường;\nd. Hồ sơ đề nghị bổ nhiệm Chủ tịch Hội đồng trường gồm:\n- Tờ trình đề nghị bổ nhiệm Chủ tịch Hội đồng trường và quyết nghị của\ncuộc họp bầu Chủ tịch Hội đồng trường;\n- Biên bản họp, biên bản kiểm phiếu, phiếu bầu Chủ tịch Hội đồng trường.\nHồ sơ được chuyển trực tiếp về Đại học Đà Nẵng. Số lượng hồ sơ là 02 bộ\n(01 bộ lưu tại Ban Tổ chức Cán bộ, 01 bộ lưu tại Hội đồng Đại học Đà Nẵng).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Miễn nhiệm Chủ tịch và thành viên Hội đồng trường",
+          "text": "Điều 8. Miễn nhiệm Chủ tịch và thành viên Hội đồng trường\na. Thành viên của Hội đồng trường bị miễn nhiệm nếu thuộc một trong\ncác trường hợp sau đây: Có đề nghị bằng văn bản của cá nhân xin thôi tham gia\nHội đồng trường; bị hạn chế năng lực hành vi dân sự; sức khỏe không đủ khả\nnăng đảm nhận công việc được giao, đã phải nghỉ làm việc để điều trị quá 06\ntháng mà khả năng lao động chưa hồi phục; đang chấp hành bản án của tòa án;\ncó trên 50% tổng số thành viên của Hội đồng trường kiến nghị bằng văn bản đề\nnghị miễn nhiệm; mắc các vi phạm khác đã quy định tại quy chế tổ chức và hoạt\nđộng của nhà trường;\nb. Hội đồng trường có trách nhiệm xem xét, quyết nghị việc miễn nhiệm\nChủ tịch và thành viên Hội đồng trường và gửi hồ sơ đề nghị Giám đốc Đại học\nĐà Nẵng quyết định. Hồ sơ gồm có: Tờ trình nêu rõ lý do miễn nhiệm và các\nvăn bản, minh chứng liên quan;\nc. Trong thời hạn 10 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị của\nnhà trường, Giám đốc Đại học Đà Nẵng ra quyết định miễn nhiệm (Trường hợp\nkhông đồng ý, phải trả lời bằng văn bản và nêu rõ lý do).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thủ tục thay thế Chủ tịch và thành viên Hội đồng trường",
+          "text": "Điều 9. Thủ tục thay thế Chủ tịch và thành viên Hội đồng trường\na. Trong trường hợp Chủ tịch Hội đồng trường tự nguyện xin thôi làm\nChủ tịch Hội đồng trường hoặc không thể tiếp tục làm việc, hoặc thuộc trường\nhợp bị miễn nhiệm theo quy định nêu tại mục a, Điều 8 của Hướng dẫn này thì\nHiệu trưởng tổ chức họp Hội đồng trường để bầu Chủ tịch Hội đồng trường mới;\ngửi hồ sơ đề nghị bổ nhiệm thay thế Chủ tịch Hội đồng trường đến Ban Tổ chức\nCán bộ để trình Giám đốc Đại học Đà Nẵng quyết định. Hồ sơ gồm: Tờ trình\nnêu rõ lý do bầu thay thế Chủ tịch Hội đồng trường; văn bản liên quan đến Chủ\ntịch Hội đồng trường đương nhiệm; biên bản họp Hội đồng trường; biên bản\nkiểm phiếu và phiếu bầu Chủ tịch Hội đồng trường mới;\nb. Trường hợp Hội đồng trường bị khuyết thành viên do có thành viên bị\nmiễn nhiệm hoặc nghỉ hưu, thuyên chuyển sang công tác khác không còn phù\nhợp với vị trí làm thành viên thì Chủ tịch Hội đồng trường căn cứ vào thành\nphần của các thành viên bị khuyết để lựa chọn thành viên thay thế theo quy trình\nquy định nêu tại Điểm a Mục 7 của Hướng dẫn này. Hồ sơ đề nghị bổ sung, thay\n5\n\nthế thành viên Hội đồng trường gửi về Đại học Đà Nẵng (qua Ban Tổ chức Cán\nbộ), gồm: Tờ trình nêu rõ lý do các trường hợp bổ sung thay thế; biên bản họp\nhội đồng trường; biên bản kiểm phiếu và phiếu bầu; các hồ sơ minh chứng liên\nquan (nếu có);\nc. Trong thời hạn 10 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị của\nnhà trường, Giám đốc Đại học Đà Nẵng ra quyết định thành lập Hội đồng\ntrường, bổ nhiệm Chủ tịch Hội đồng trường hoặc bổ sung thay thế thành viên\nHội đồng trường. Trường hợp không đồng\ný do hồ sơ còn thiếu hoặc không bảo\nđảm quy định thì có trách nhiệm trả lời trường bằng văn bản và nêu rõ lý do.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Nguyên tắc chung",
+          "text": "Điều 10. Nguyên tắc chung\na. Hội đồng trường hoạt động theo phương thức thảo luận, thông qua\nquyết nghị tập thể tại cuộc họp Hội đồng trường và trong phạm vi chức năng,\nnhiệm vụ đã được quy định tại quy chế này. Hội đồng trường làm việc theo\nnguyên tắc tập thể, quyết định theo đa số.\nb. Chủ tịch Hội đồng trường không thể chủ trì cuộc họp Hội đồng trường\nthì uỷ quyền cho một trong số các thành viên Hội đồng trường để điều hành\ncuộc họp của Hội đồng trường. Văn bản ủy quyền phải được gửi đến Đại học Đà\nNẵng và thông báo công khai trước các thành viên Hội đồng trường. Người\nđược uỷ quyền có trách nhiệm báo cáo lại với Chủ tịch Hội đồng trường những\nnội dung đã được thông qua tại cuộc họp Hội đồng trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Chế độ họp của Hội đồng trường",
+          "text": "Điều 11. Chế độ họp của Hội đồng trường\na. Trước mỗi kỳ họp Chủ tịch và Thư ký Hội đồng trường chuẩn bị nội\ndung để báo cáo tại phiên họp gần nhất cho các thành viên Hội đồng trường.\nb. Cuộc họp triển khai các nhiệm vụ của Hội đồng theo chức năng, nhiệm\nvụ được quy định ở Điều 2.\nc. Thư ký Hội đồng trường có trách nhiệm cung cấp các tài liệu liên quan\nđến nội dung cuộc họp định kỳ và đột xuất của Hội đồng trường ít nhất 10 ngày\nlàm việc trước ngày tổ chức cuộc họp để Đảng ủy, Hiệu trưởng xem xét trước\nkhi trình cho toàn thể các thành viên Hội đồng nghiên cứu, chuẩn bị ý kiến thảo\nluận và quyết nghị (trừ trường hợp đặc biệt).\nd. Nội dung các cuộc họp Hội đồng trường phải được ghi vào sổ biên bản\nvà được thông qua tại cuộc họp của Hội đồng trường, Hiệu trưởng chậm nhất\nsau 15 ngày làm việc kể từ ngày tổ chức cuộc họp. Chủ trì và thư ký phải chịu\ntrách nhiệm về tính trung thực và chính xác của nội dung biên bản cuộc họp Hội\nđồng trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quyết nghị của Hội đồng trường",
+          "text": "Điều 12. Quyết nghị của Hội đồng trường\na. Quyết nghị của Hội đồng trường về những vấn đề Hội đồng trường đã\nthảo luận phải được thông qua sau mỗi cuộc họp và có giá trị thực hiện khi được\ntrên 50% tổng số thành viên theo danh sách của Hội đồng trường đồng ý.\nb. Việc thông qua quyết nghị của Hội đồng trường tiến hành tại cuộc họp\ntheo 01 trong 02 hình thức biểu quyết: giơ tay hoặc bỏ phiếu kín (do Chủ trì\ncuộc họp Hội đồng trường quyết định).\nc. Đối với các thành viên Hội đồng trường không dự họp, nếu thấy cần\nthiết, Chủ tịch Hội đồng trường có thể xin ý kiến biểu quyết thông qua lấy ý kiến\ntrước bằng văn bản hoặc gọi điện trực tiếp (Thư ký cuộc họp ghi rõ trong biên\nbản họp Hội đồng trường). Phiếu biểu quyết bằng văn bản gửi đến Hội đồng\ntrường phải được dán kín, chỉ được mở trước các thành viên Hội đồng khi kiểm\nphiếu.\nd. Quyết nghị của Hội đồng trường được gửi đến Đảng ủy trường, Hiệu\ntrưởng và các thành viên Hội đồng trường, các tổ chức và cá nhân liên quan\ntrong thời hạn 15 ngày, kể từ ngày được Hội đồng trường thông qua. Những\nthành viên có ý kiến khác với quyết nghị của Hội đồng trường có quyền bảo lưu\ný kiến nhưng không được làm trái với nội dung quyết nghị Hội đồng trường đã\nthông qua.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Chế độ thông tin của Hội đồng trường",
+          "text": "Điều 13. Chế độ thông tin của Hội đồng trường\na. Hội đồng trường được nhận các văn bản liên quan của Bộ Giáo dục và\nĐào tạo, Đại học Đà Nẵng, và Trường liên quan đến nhiệm vụ và quyền hạn của\nHội đồng trường.\nb. Hội đồng trường có quyền yêu cầu Ban Giám hiệu, các đơn vị thuộc và\ntrực thuộc Trường cung cấp các thông tin và tài liệu cần thiết, liên quan để thực\nhiện các nhiệm vụ và quyền hạn của Hội đồng trường.\nc. Ban Giám hiệu, các đơn vị thuộc và trực thuộc Trường có trách nhiệm\ncung cấp đầy đủ, kịp thời, chính xác các thông tin và tài liệu cần thiết, liên quan\ntheo yêu cầu của Hội đồng trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Quản lý văn bản, tài liệu của Hội đồng trường",
+          "text": "Điều 14. Quản lý văn bản, tài liệu của Hội đồng trường\na. Văn bản, tài liệu của các đơn vị, tổ chức hoặc cá nhân trong và ngoài\nTrường gửi đến Hội đồng trường được bộ phận Văn thư của Trường vào sổ theo\ndõi và chuyển đến Thư ký Hội đồng trường để tổng hợp báo cáo Chủ tịch Hội\nđồng trường xem xét, giải quyết.\nb. Văn bản, tài liệu của Hội đồng trường có nội dung quan trọng gửi các\nđơn vị, tổ chức hoặc cá nhân liên quan do Thư ký soạn thảo theo quyết nghị của\nHội đồng trường hoặc ý kiến của Chủ tịch Hội đồng trường, trình Chủ tịch Hội\nđồng trường ký thay mặt cho Hội đồng trường.\n\nc. Mọi văn bản, tài liệu liên quan đến hoạt động của Hội đồng trường đều\nphải được đăng ký, quản lý và lưu trữ theo đúng quy định của Nhà nước và của\nTrường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Cơ sở vật chất và kinh phí hoạt động của Hội đồng trường",
+          "text": "Điều 15. Cơ sở vật chất và kinh phí hoạt động của Hội đồng trường\na. Hội đồng trường được bố trí các phương tiện làm việc theo quy định\nchung của Nhà nước và của Trường để thực hiện nhiệm vụ được giao.\nb. Kinh phí và trang thiết bị đảm bảo cho hoạt động của Hội đồng trường\ntrong kinh phí hoạt động của Trường.\nc. Chủ tịch Hội đồng trường, Thư ký Hội đồng trường và các thành viên\nHội đồng trường được hưởng phụ cấp trách nhiệm theo Quy chế chi tiêu nội bộ\ncủa Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Quan hệ giữa Hội đồng trường và Đảng ủy trường",
+          "text": "Điều 16. Quan hệ giữa Hội đồng trường và Đảng ủy trường\nTrên cơ sở nghị quyết của Đảng ủy, Hội đồng trường thảo luận và quyết\nnghị về các mục tiêu, phương hướng và kế hoạch phát triển; quy chế tổ chức và\nhoạt động; các vấn đề về tổ chức, nhân sự, tài chính và tài sản, đồng thời thực\nhiện giám sát các hoạt động của Trường trong phạm vi chức năng, nhiệm vụ của\nHội đồng trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Quan hệ giữa Hội đồng trường và Ban Giám hiệu",
+          "text": "Điều 17. Quan hệ giữa Hội đồng trường và Ban Giám hiệu\na. Quan hệ giữa Hiệu trưởng và Chủ tịch Hội đồng trường là quan hệ phối\nhợp công tác, được thực hiện theo các quy định của Pháp luật và Quy chế này.\nb. Hiệu trưởng tổ chức thực hiện nghị quyết của Hội đồng trường; trao đổi\nvới Chủ tịch Hội đồng trường và thống nhất cách giải quyết theo quy định của\npháp luật và Quy chế này. Trường hợp không thống nhất được cách giải quyết\nthì Hiệu trưởng báo cáo với Giám đốc Đại học Đà Nẵng xem xét, quyết định.\nc. Hiệu trưởng báo cáo Hội đồng trường phê duyệt chủ trương; chiến lược\nvà kế hoạch phát triển đào tạo và nghiên cứu khoa học của Trường; thông qua\nquy định về số lượng, cơ cấu lao động, vị trí việc làm, tuyển dụng, quản lý, sử\ndụng, phát triển đội ngũ giảng viên, nghiên cứu viên, cán bộ quản lý, người lao\nđộng.\nd. Hội đồng trường có trách nhiệm quyết nghị các nội dung thuộc chức\nnăng, nhiệm vụ theo thẩm quyền và giám sát việc triển khai thực hiện các quyết\nnghị của Hội đồng trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Quan hệ giữa Hội đồng trường với các đơn vị, tổ chức đoàn thể",
+          "text": "Điều 18. Quan hệ giữa Hội đồng trường với các đơn vị, tổ chức đoàn thể\ncủa Trường\nHội đồng trường thông qua Ban Giám hiệu và Lãnh đạo các đơn vị, tổ\nchức đoàn thể của Trường với tư cách là thành viên Hội đồng trường chỉ đạo và\n\nkiểm tra, đôn đốc các đơn vị, tổ chức đoàn thể của nhà trường thực hiện những\nquyết nghị đã được Hội đồng trường thông qua.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 19. Điều khoản thi hành\nChủ tịch Hội đồng trường, các thành viên Hội đồng trường và Hiệu\ntrưởng, Trưởng các đơn vị, các tổ chức đoàn thể và các viên chức thuộc Trường\ncó trách nhiệm thực hiện Quy chế này.\nTrong quá trình thực hiện, nếu có vướng mắc, bất hợp lý, Chủ tịch Hội\nđồng trường, Hiệu trưởng Nhà Trường xem xét, sửa đổi, bổ sung cho phù hợp./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy chế hoạt động của Hội đồng",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy chế hoạt động của Hội đồng\ntrường Trường đại học Bách khoa”;",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Trong quá trình thực hiện Quy",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Trong quá trình thực hiện Quy\nchế kèm theo Quyết định này sẽ được điều chỉnh, bổ sung, sửa đổi để phù hợp với tình\nhình thực tế.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Tổ chức",
+      "text": "Điều 3. Trưởng phòng Tổ chức\n- Hành chính, Trưởng Phòng Thanh tra\n- Pháp chế,\nTrưởng phòng Đào tạo, Trưởng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng\nPhòng Công tác sinh viên, Trưởng Phòng Kế hoạch - Tài chính, Trưởng Phòng Khảo thí\nvà Đảm bảo chất lượng Giáo dục, Trưởng Phòng Cơ sở vật chất, Trưởng các Khoa và các\nbộ phận liên quan chịu trách nhiệm thi hành quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

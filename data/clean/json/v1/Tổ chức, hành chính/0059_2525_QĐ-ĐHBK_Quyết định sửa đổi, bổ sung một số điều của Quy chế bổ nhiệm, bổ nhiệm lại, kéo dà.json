@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0059_2525_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dà.txt",
+  "mappedBy": "gemini-web",
+  "note": "2 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2525/QĐ-ĐHBK",
+    "title": "Quyết định Về việc sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo, quản lý của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/10/2021",
+    "effectiveDate": "08/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo quản lý; giám đốc các trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 1199/QĐ-ĐHBK.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 07 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 09 năm 2021;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 09 năm 2021;"
+    },
+    {
+      "targetDocumentNumber": "4343/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4343/QĐ-ĐHĐN ngày 01 tháng 12 năm 2020 của Đại học Đà Nẵng về việc ban hành Quy chế công nhận, bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo quản lý của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12 tháng 01 năm 2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08 tháng 10 năm 2021;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08 tháng 10 năm 2021;"
+    },
+    {
+      "targetDocumentNumber": "1199/QĐ-ĐHBK",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo quản lý của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 1199/QĐ-ĐHBK ngày 28 tháng 4 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Phòng Tổ chức - Hành chính",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Trung tâm Học liệu và Truyền thông",
+    "Trung tâm Hỗ trợ Sinh viên và Quan hệ Doanh nghiệp",
+    "Tổ Công nghệ Thông tin",
+    "Viện DPIST",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh Trường",
+    "Hội Cựu chiến binh Trường",
+    "Công đoàn Trường",
+    "Phòng Khảo thí và Đảm bảo Chất lượng Giáo dục",
+    "Phòng Đào tạo",
+    "Phòng Khoa học Công nghệ và Hợp tác Quốc tế"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo quản lý của Trường Đại học Bách khoa, Đại họ",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo quản lý của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 1199/QĐ-ĐHBK ngày 28 tháng 4 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa.\n\n1. Sửa đổi, hiệu chỉnh tên gọi của Quyết định số 1199/QĐ-ĐHBK ngày 28 tháng 4 năm 2021 như sau: “Quyết định ban hành quy chế bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo quản lý; giám đốc các trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo của Trường Đại học Bách khoa, Đại học Đà Nẵng”.\n\n2. Điều 1 được sửa đổi, bổ sung như sau:\n“Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nQuy chế này quy định nguyên tắc, thẩm quyền, điều kiện, tiêu chuẩn, thời gian giữ chức vụ, quy trình, thủ tục bổ nhiệm, bổ nhiệm lại, kéo dài thời gian giữ chức vụ, thôi giữ chức vụ, miễn nhiệm viên chức giữ chức vụ lãnh đạo, quản lý (sau đây gọi tắt là viên chức lãnh đạo, quản lý); giám đốc các trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo của Trường Đại học Bách khoa (Trường ĐHBK).\n2. Đối tượng áp dụng\na) Phó Hiệu trưởng, Kế toán trưởng;\nb) Trưởng, phó các đơn vị thuộc, trực thuộc Trường;\nc) Trưởng các Bộ môn thuộc Khoa;\nd) Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường Đại học Bách khoa”.\n\n3. Khoản 5, khoản 6 Điều 2 được sửa đổi bổ sung như sau:\n“Điều 2. Giải thích từ ngữ\n5. Tập thể lãnh đạo mở rộng của đơn vị thuộc và trực thuộc Trường ĐHBK gồm: Chi ủy (nơi không có Chi ủy thì toàn thể Chi bộ); Trưởng, Phó các đơn vị; Trưởng các đơn vị cấu thành (nếu có); giáo sư, phó giáo sư, tiến sĩ, tiến sĩ khoa học, giảng viên chính, chuyên viên chính và tương đương trở lên (kể cả các giáo sư, phó giáo sư, tiến sĩ, tiến sĩ khoa học, giảng viên chính, chuyên viên chính và tương đương trở lên đang công tác tại cơ quan Đại học Đà Nẵng (ĐHĐN) và Trường ĐHBK có sinh hoạt chuyên môn tại đơn vị nhưng không bao gồm viên chức đang đi học tập dài hạn tại nước ngoài).\n6. Cán bộ chủ chốt của Trường ĐHBK: Đảng ủy; Ban Giám hiệu; các thành viên Hội đồng trường là viên chức và người lao động của Trường; Ban Chấp hành Công đoàn Trường; Bí thư Đoàn Thanh niên Cộng sản Hồ Chí Minh Trường là viên chức, Chủ tịch Hội Cựu chiến binh Trường; Trưởng, phó các đơn vị; Bí thư Chi bộ; Chủ tịch Công đoàn bộ phận thuộc Trường; Trưởng bộ môn các khoa của Trường; giáo sư, phó giáo sư, tiến sĩ khoa học, tiến sĩ, giảng viên cao cấp, chuyên viên cao cấp và tương đương (kể cả giáo sư, phó giáo sư, tiến sĩ khoa học, tiến sĩ, giảng viên cao cấp, chuyên viên cao cấp và tương đương đang công tác tại cơ quan ĐHĐN có sinh hoạt chuyên môn tại Trường nhưng không bao gồm viên chức đang đi học tập dài hạn tại nước ngoài)”.\n\n4. Khoản 1, khoản 2, khoản 4 Điều 5 được sửa đổi bổ sung như sau:\n“Điều 5. Thời hạn giữ chức vụ lãnh đạo, quản lý\n1. Nhiệm kỳ hoặc thời hạn bổ nhiệm của Phó Hiệu trưởng trong phạm vi nhiệm kỳ của Hội đồng Trường và có thể được bổ nhiệm lại nhưng không giữ chức vụ Phó Hiệu trưởng quá 10 năm liên tiếp tại Trường.\n2. Nhiệm kỳ hoặc thời hạn bổ nhiệm của Kế toán trưởng trong phạm vi nhiệm kỳ của Hội đồng Trường và có thể được bổ nhiệm lại nhưng không giữ chức vụ Kế toán trưởng quá 10 năm liên tiếp tại Trường. Thời gian giao phụ trách kế toán tối đa là 12 tháng.\n4. Nhiệm kỳ giữ chức vụ lãnh đạo, quản lý cho mỗi lần bổ nhiệm, bổ nhiệm lại đối với Trưởng phòng; Phó Trưởng phòng; Giám đốc, Phó Giám đốc: Trung tâm Học liệu và Truyền thông, Trung tâm Hỗ trợ Sinh viên và Quan hệ Doanh nghiệp; Tổ trưởng Tổ Công nghệ Thông tin; Trưởng Bộ môn; Giám đốc: Viện DPIST, trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo là 05 năm tính từ thời điểm ghi trong quyết định và có thể được bổ nhiệm lại”.\n\n5. Khoản 5 Điều 6 được sửa đổi bổ sung như sau:\n“Điều 6. Hình thức lấy phiếu giới thiệu, phiếu lấy ý kiến\n5. Tỷ lệ phiếu giới thiệu, phiếu lấy ý kiến được tính trên tổng số người được triệu tập”.\n\n6. Sửa đổi bổ sung tên tiêu đề Chương II như sau:\n“Chương II – Tiêu chuẩn, điều kiện bổ nhiệm, bổ nhiệm lại, miễn nhiệm viên chức lãnh đạo, quản lý; giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK”.\n\n7. Khoản 1 Điều 10 được sửa đổi bổ sung như sau:\n“Điều 10. Thẩm quyền bổ nhiệm, miễn nhiệm\n1. Hội đồng Trường\na) Hiệu trưởng do Hội đồng trường quyết định theo quy trình nhân sự hiện hành. Hội đồng ĐHĐN công nhận, miễn nhiệm, bãi nhiệm Hiệu trưởng bằng Nghị quyết và giao Giám đốc ĐHĐN ban hành Quyết định công nhận, miễn nhiệm, bãi nhiệm. Nhiệm kỳ của Hiệu trưởng trong phạm vi nhiệm kỳ của Hội đồng trường, có thể được bổ nhiệm lại nhưng không giữ chức vụ Hiệu trưởng quá 10 năm liên tiếp tại Trường.\nb) Phó Hiệu trưởng và Kế toán trưởng do Hội đồng trường quyết định bổ nhiệm, bổ nhiệm lại, bãi nhiệm, miễn nhiệm trên cơ sở đề xuất của Hiệu trưởng sau khi có ý kiến thống nhất của ĐHĐN theo quy trình nhân sự hiện hành. Nhiệm kỳ của Phó Hiệu trưởng trong phạm vi nhiệm kỳ của Hội đồng trường, có thể được bổ nhiệm lại nhưng không giữ chức vụ Phó Hiệu trưởng quá 10 năm liên tiếp tại Trường”.\n\n8. Mục c khoản 2 Điều 10 được sửa đổi bổ sung như sau:\n“Điều 10. Thẩm quyền bổ nhiệm, miễn nhiệm\n2. Hiệu trưởng quyết định bổ nhiệm, miễn nhiệm:\nc) Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK”.\n\n9. Bổ sung khoản 4 Điều 10 như sau:\n“Điều 10. Thẩm quyền bổ nhiệm, miễn nhiệm\n4. Đối với vị trí Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK thực hiện quy trình bổ nhiệm theo quy định tại Quy chế này. Vị trí Giám đốc Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo sẽ không được quy định là viên chức lãnh đạo, quản lý và không được tính hệ số phụ cấp chức vụ lãnh đạo, quản lý. Phụ cấp và các chế độ khác của Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK sẽ do trung tâm quy định trong quy chế tổ chức và hoạt động của từng trung tâm. Các tiêu chuẩn về bổ nhiệm, tuổi bổ nhiệm, điều kiện bổ nhiệm, đánh giá viên chức được thực hiện như đối với viên chức lãnh đạo, quản lý”.\n\n10. Sửa đổi bổ sung tên tiêu đề Chương III như sau:\n“Chương III – Quy trình bổ nhiệm viên chức lãnh đạo, quản lý; giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK”.\n\n11. Sửa đổi bổ sung tên tiêu đề Điều 13 như sau:\n“Điều 13. Bổ nhiệm Trưởng, Phó các đơn vị thuộc Trường ĐHBK; Giám đốc Viện DPIST; Giám đốc, Phó Giám đốc: Trung tâm Hỗ trợ Sinh viên và Quan hệ Doanh nghiệp”\n\n12. Sửa đổi điểm a Bước 2 Điều 17 như sau:\n“Điều 17. Bổ nhiệm lại\nBước 2. Đề xuất chủ trương bổ nhiệm lại\na) Đơn vị quản lý trực tiếp cán bộ lãnh đạo, quản lý báo cáo kết quả đánh giá và đề xuất với Ban Giám hiệu (qua Phòng Tổ chức - Hành chính) về chủ trương bổ nhiệm lại.\nRiêng đối với chức vụ Trưởng Bộ môn, Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK không thực hiện quy trình bổ nhiệm lại như bước 3 và bước 4 của điều này. Quy trình bổ nhiệm lại Trưởng Bộ môn và Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và dịch vụ đào tạo trực thuộc Trường ĐHBK sẽ thực hiện như quy trình bổ nhiệm quy định tại Điều 14 và Điều 16 của Quyết định 1199/QĐ-ĐHBK ngày 28 tháng 04 năm 2021 với nguồn nhân sự gồm nguồn nhân sự trong quy hoạch và Trưởng Bộ môn hoặc Giám đốc đương nhiệm”.\n\n13. Sửa đổi mục 6, mục 7 và bổ sung mục 8 Phụ lục 01 như sau:\n\n| STT | Chức vụ | Tiêu chuẩn | Ghi chú |\n| 6 | Trưởng các Phòng chức năng, Giám đốc các Trung tâm thuộc; Giám đốc Trung tâm HTSV&QHDN, Giám đốc Viện DPIST | a2, b3, c2 | - Ngoài tiêu chuẩn a2, b3: \n + Trưởng phòng Khảo thí và Đảm bảo Chất lượng Giáo dục phải có chứng chỉ hoàn thành chương trình đào tạo, bồi dưỡng kiểm định viên theo quy định của Bộ Giáo dục và Đào tạo và đạt c1; \n + Trưởng phòng phụ trách công tác tổ chức cán bộ, công tác đào tạo, khoa học công nghệ phải có kinh nghiệm giảng dạy ít nhất 5 năm; \n + Trưởng phòng phụ trách công tác đào tạo, khoa học công nghệ phải đạt c1. |\n| 7 | Phó Trưởng các Phòng chức năng, Phó Giám đốc các Trung tâm thuộc; Phó Giám đốc Trung tâm HTSV&QHDN, Phó Giám đốc Viện DPIST, Tổ trưởng Tổ Công nghệ Thông tin | b4, c3 | Ngoài tiêu chuẩn b4, Phó Trưởng phòng Đào tạo phụ trách công tác đào tạo sau đại học, Phó trưởng phòng Khoa học Công nghệ và Hợp tác Quốc tế được giao phụ trách khoa học công nghệ phải đạt c1. |\n| 8 | Giám đốc các Trung tâm nghiên cứu, chuyển giao công nghệ và đào tạo trực thuộc Trường Đại học Bách khoa | b3, c3 | |\n\n14. Bổ sung Phụ lục 03 như sau:\n\nPHỤ LỤC 3. BẢNG QUY ĐỊNH VỀ HỆ SỐ PHỤ CẤP CHỨC VỤ\n\n| STT | Chức vụ | Hệ số |\n| 1 | Hiệu trưởng, Chủ tịch Hội đồng Trường | 1.0 |\n| 2 | Phó Hiệu trưởng, Phó Chủ tịch Hội đồng Trường | 0.8 |\n| 3 | - Trưởng khoa; Trưởng phòng; \n - Giám đốc Trung tâm HTSV&QHDN; Giám đốc Trung tâm Học liệu và Truyền thông, Viện DPIST. \n - Thư ký hội đồng Trường | 0.5 |\n| 4 | - Phó Trưởng khoa, Phó Trưởng phòng; \n - Phó Giám đốc: Trung tâm HTSV&QHDN, Trung tâm Học liệu và Truyền thông; \n - Tổ trưởng Tổ CNTT, Trưởng bộ môn. | 0.4 |",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 2. Hiệu lực thi hành\na. Quyết định này có hiệu lực kể từ ngày ký.\nb. Trong quá trình thực hiện, Quy chế này sẽ được điều chỉnh, bổ sung, sửa đổi để phù hợp với tình hình và yêu cầu thực tế.\nc. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị thuộc, trực thuộc Trường, các tổ chức và các cá nhân có liên quan căn cứ quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

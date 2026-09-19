@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0084_334_QĐ-ĐHBK_Ban hành mẫu logo của Trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "Phần kèm theo là 'Mẫu logo và thuyết minh logo' không chia thành các Điều nên normativeContents để mảng rỗng. 3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "334/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành mẫu logo của trường Đại học Bách khoa, ĐHĐN",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "30/03/2018",
+    "effectiveDate": "30/03/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Học liệu, truyền thông",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành mẫu logo chính thức của Trường Đại học Bách khoa, Đại học Đà Nẵng kèm theo bản thuyết minh ý nghĩa và quy chuẩn chế bản in ấn.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP, ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Bộ trưởng Bộ Giáo dục và Đào tạo",
+    "Phòng Tổ chức - Hành chính"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành mẫu logo của trường Đại học Bách khoa, Đại học Đà Nẵng (kèm theo mẫu logo và bản thuyết minh);",
+      "text": "Điều 1. Ban hành mẫu logo của trường Đại học Bách khoa, Đại học Đà Nẵng (kèm theo mẫu logo và bản thuyết minh);",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Mẫu logo là biểu tượng của trường Đại học Bách khoa, Đại học Đà Nẵng được sử dụng trên các ấn phẩm, vật phẩm có liên quan đến Nhà trường;",
+      "text": "Điều 2. Mẫu logo là biểu tượng của trường Đại học Bách khoa, Đại học Đà Nẵng được sử dụng trên các ấn phẩm, vật phẩm có liên quan đến Nhà trường;",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký;",
+      "text": "Điều 3. Quyết định này có hiệu lực kể từ ngày ký;\n\nTrưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc và cán bộ, viên chức thuộc trường căn cứ quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

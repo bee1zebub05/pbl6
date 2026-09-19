@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0301_01_2021_TT-TTCP_Thông tư quy định quy tắc ứng xử của cán bộ, công chức, viên chức trong ngành.txt",
+  "mappedBy": "gemini-web",
+  "note": "14 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "01/2021/TT-TTCP",
+    "title": "Thông tư quy định quy tắc ứng xử của cán bộ, công chức, viên chức trong ngành Thanh tra và cán bộ, công chức làm công tác tiếp công dân",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "11/03/2021",
+    "effectiveDate": "01/05/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Thanh tra, kiểm tra"
+    ],
+    "summary": "Thông tư này quy định quy tắc ứng xử chung, trang phục, tác phong làm việc, giao tiếp, ứng xử của người giữ chức vụ lãnh đạo, quản lý, ứng xử với đồng nghiệp, tổ chức và cá nhân; đồng thời quy định quy tắc ứng xử trong thực hiện nhiệm vụ thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng trong ngành Thanh tra.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Thanh tra Chính phủ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Minh Khái",
+      "academicTitle": null,
+      "position": [
+        "Tổng Thanh tra"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "50/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ;"
+    }
+  ],
+  "mentions": [
+    "Thanh tra Chính phủ",
+    "Mặt trận Tổ quốc Việt Nam"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\n\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\n9\nThông tư này quy định quy tắc ứng xử chung, ứng xử trong thực hiện nhiệm vụ\nthanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng trong ngành Thanh\ntra và trong thực hiện nhiệm vụ tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\nThông tư này áp dụng đối với cán bộ, công chức, viên chức trong các cơ quan\nthanh tra nhà nước và cán bộ, công chức làm công tác tiếp công dân tại Trụ sở tiếp\ncông dân, địa điểm tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Tinh thần và thái độ làm việc",
+      "text": "Điều 3. Tinh thần và thái độ làm việc\n1. Tôn trọng và tận tụy phục vụ Nhân dân; tuân thủ và gương mẫu thực hiện\nđúng chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước; luôn có\ný thức tổ chức kỷ luật, tinh thần trách nhiệm trong việc thực hiện nhiệm vụ, công vụ;\nnghiêm chính chấp hành nội quy, quy chế làm việc của cơ quan, đơn vị.\n2. Luôn có ý thức rèn luyện, tu dưỡng đạo đức; có lối sống lành mạnh, chống\nquan liêu, tham nhũng, lãng phí, chủ nghĩa cá nhân, cơ hội, cục bộ, bè phái và các\nhiện tượng tiêu cực khác.\n3. Không nhân danh cơ quan, tổ chức, không sử dụng tài sản, trang thiết bị,\nphương tiện công để làm việc riêng; tích cực xây dựng không gian xanh, sạch, đẹp\nvà môi trường công sở văn minh, thân thiện.\n4. Thực hiện đúng chức trách, nhiệm vụ của cán bộ, công chức, viên chức, bao\ngồm những việc phải làm và những việc không được làm theo quy định của Bộ luật\nLao động, Luật Cán bộ, công chức, Luật Viên chức, Luật Thanh tra, Luật Khiếu nại,\nLuật Tố cáo, Luật Tiếp công dân, Luật Thực hành tiết kiệm, chống lãng phí, Luật\nPhòng, chống tham nhũng và các văn bản pháp luật khác có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Trang phục, tác phong làm việc",
+      "text": "Điều 4. Trang phục, tác phong làm việc\n1. Khi làm việc tại công sở và trong thời gian thực thi nhiệm vụ, công vụ phải\năn mặc gọn gàng, lịch sự, đi giày hoặc dép có quai hậu; sử dụng trang phục ngành,\n\n10\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\nđeo thẻ, biển tên, cầu vai, cấp hàm đúng quy định; có tư thế, tác phong nghiêm túc,\nlịch sự.\n2. Chấp hành nghiêm quy định về thời gian làm việc, thời gian họp; không làm\nviệc riêng hay rời cơ quan, đơn vị, vị trí công tác mà không có lý do chính đáng;\nsắp xếp nơi làm việc gọn gàng, sạch sẽ.\n3. Không hút thuốc lá trong khuôn viên trụ sở cơ quan; gương mẫu chấp hành\ncác quy định của pháp luật về phòng, chống tác hại của thuốc lá.\n4. Không uống rượu, bia trong cơ quan; không uống rượu, bia trước và trong\ngiờ làm việc, giờ nghỉ trưa các ngày làm việc; chấp hành nghiêm các quy định\npháp luật về phòng, chống tác hại của rượu, bia.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Giao tiếp qua điện thoại, thư điện tử và trên mạng xã hội",
+      "text": "Điều 5. Giao tiếp qua điện thoại, thư điện tử và trên mạng xã hội\n1. Khi giao tiếp qua điện thoại và các phương thức giao tiếp trực tuyến khác,\ncán bộ, công chức, viên chức phải xưng tên, chức danh, chức vụ, cơ quan, đơn vị\nnơi công tác; trao đổi ngắn gọn, cụ thể với âm lượng vừa đủ nghe, thái độ hòa nhã.\n2. Sử dụng hộp thư điện tử công vụ theo đúng quy định; bảo đảm an toàn, an\nninh thông tin; không sử dụng mạng xã hội trong giờ làm việc; không sử dụng thư\nđiện tử, mạng xã hội để tuyên truyền, đăng tải thông tin không đúng sự thật, ảnh\nhưởng đến uy tín, hình ảnh của cơ quan, đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Ứng xử của cán bộ, công chức, viên chức giữ chức vụ lãnh đạo,",
+      "text": "Điều 6. Ứng xử của cán bộ, công chức, viên chức giữ chức vụ lãnh đạo,\nquản lý\n1. Thực hiện đúng nhiệm vụ, quyền hạn trong lãnh đạo, quản lý; giữ gìn đoàn\nkết nội bộ; phát huy trách nhiệm nêu gương và xây dựng môi trường làm việc\nchuyên nghiệp, thân thiện trong cơ quan, đơn vị.\n2. Thực hiện dân chủ, khách quan, công bằng trong hoạt động của cơ quan,\nđơn vị; tôn trọng, lắng nghe và kịp thời nắm bắt tâm tư, nguyện vọng của công\nchức, viên chức cấp dưới; công tâm, khách quan trong quản lý, sử dụng, đánh giá\ncông chức, viên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Ứng xử giữa công chức, viên chức với cấp trên và với đồng nghiệp",
+      "text": "Điều 7. Ứng xử giữa công chức, viên chức với cấp trên và với đồng nghiệp\n1. Có thái độ tôn trọng, nghiêm chỉnh chấp hành sự chỉ đạo, điều hành và\nphân công công việc của cấp trên; đóng góp ý kiến với cấp trên với tinh thần\nT Tek\n\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\n11\nxây dựng, nhằm khắc phục kịp thời những tồn tại, hạn chế và đổi mới công tác chỉ\nđạo, điều hành; không được lợi dụng việc góp ý, phê bình làm ảnh hưởng đến uy\ntín, danh dự của cấp trên.\n2. Chủ động, tích cực phối hợp, hỗ trợ đồng nghiệp trong thực hiện nhiệm vụ;\nchân thành, thân thiện trong quan hệ với đồng nghiệp; không được lợi dụng việc\ngóp ý, phê bình làm ảnh hưởng đến uy tín, danh dự của đồng nghiệp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Ứng xử với cơ quan, tổ chức, cá nhân có quan hệ công tác và cơ",
+      "text": "Điều 8. Ứng xử với cơ quan, tổ chức, cá nhân có quan hệ công tác và cơ\nquan thông tin, báo chí\n1. Ứng xử có văn hóa, tôn trọng danh dự, uy tín của cơ quan, tổ chức, cá nhân\ncó quan hệ công tác; chân thành, có tinh thần hợp tác, phối hợp và hỗ trợ lẫn nhau\nhoàn thành nhiệm vụ. Trong trường hợp cơ quan, tổ chức hoặc cá nhân có quan hệ\ncông tác có phát ngôn, thái độ, hành vi không phù hợp thì phải bình tĩnh, chủ động,\nlinh hoạt xử lý phù hợp với chức trách, nhiệm vụ được giao.\n2. Phát ngôn, cung cấp thông tin, tài liệu về thanh tra, tiếp công dân, giải quyết\nkhiếu nại, tố cáo và phòng, chống tham nhũng cho cơ quan thông tin, báo chí và\ncác cơ quan, tổ chức có liên quan khi có kết luận chính thức của cấp có thẩm\nquyền và được lãnh đạo giao theo quy định của pháp luật.\n3. Cán bộ, công chức, viên chức có thể trả lời phỏng vấn, khảo sát dựa trên\nkinh nghiệm công tác chuyên môn nhưng không được làm lộ bí mật nhà nước, bí\nmật công tác hoặc ảnh hưởng đến việc thực hiện các nhiệm vụ công tác của cơ\nquan, đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Ứng xử với tổ chức, cá nhân nước ngoài",
+      "text": "Điều 9. Ứng xử với tổ chức, cá nhân nước ngoài\n1. Thực hiện theo đúng quy định của pháp luật và của cơ quan khi tiếp xúc,\nlàm việc với cơ quan, tổ chức, cá nhân nước ngoài và thực hiện đúng chính sách\nđối ngoại, hợp tác quốc tế.\n2. Không được lợi dụng các hoạt động đối ngoại và hợp tác quốc tế vì lợi ích\ncá nhân.\n\n12\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Ứng xử trong thực hiện nhiệm vụ thanh tra",
+      "text": "Điều 10. Ứng xử trong thực hiện nhiệm vụ thanh tra\n1. Cán bộ, công chức, viên chức trong các cơ quan thanh tra nhà nước phải làm\nnhững việc sau đây:\na) Nêu cao ý thức trách nhiệm phòng, chống tham nhũng và thực hành tiết\nkiệm, chống lãng phí trong hoạt động thanh tra. Thực hiện đúng nguyên tắc, nội\ndung, thẩm quyền, trình tự, thủ tục thanh tra được quy định trong Luật Thanh tra,\nLuật Phòng, chống tham nhũng và các văn bản pháp luật khác có liên quan;\nb) Có thái độ thận trọng, khách quan, toàn diện khi xem xét, đánh giá sự việc;\nlắng nghe, tôn trọng các ý kiến giải trình hợp lý của đối tượng thanh tra, hướng dẫn\ncho đối tượng thanh tra hiểu và thực hiện đúng quy định pháp luật;\n¢) Báo cáo với Người ra quyết định thanh tra hoặc Trưởng đoàn thanh tra khi\ncán bộ, công chức, viên chức thanh tra có mối quan hệ với đối tượng thanh tra có\nthể ảnh hưởng không đúng đắn đến việc thực hiện nhiệm vụ, công vụ; báo cáo kịp\nthời với Trưởng đoàn thanh tra khi phát hiện xung đột lợi ích trong quá trình thực\nhiện nhiệm vụ thanh tra;\nd) Tránh các quan hệ xã hội có thể dẫn đến việc phải nhân nhượng trong hoạt\nđộng thanh tra;\nđ) Kịp thời cung cấp thông tin, báo cáo với Người ra quyết định thanh tra hoặc\nTrưởng đoàn thanh tra khi phát hiện các hành vi tham nhũng, tiêu cực.\n2. Cán bộ, công chức, viên chức trong các cơ quan thanh tra nhà nước không\nđược làm những việc sau đây:\na) Lợi dụng danh nghĩa cán bộ, công chức, viên chức thanh tra để thực hiện\nhành vi trái pháp luật; lạm quyền, nhũng nhiễu, gây khó khăn, phiền hà cho đối\ntượng thanh tra; sử dụng phương tiện, tài sản của đối tượng thanh tra vì lợi ích\ncá nhân;\nT Tek\n\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\n13\nb) Tư vấn, môi giới cho các tổ chức, cá nhân ở trong nước và nước ngoài về\ncác công việc có liên quan đến những công việc thuộc thẩm quyền giải quyết của\nmình và các công việc khác mà việc tư vấn, môi giới đó có khả năng gây phương\nhại đến lợi ích quốc gia, đến cơ quan, đơn vị;\n¢) Nhận quà tặng của đối tượng thanh tra dưới mọi hình thức; trường hợp\nkhông từ chối được phải báo cáo Người ra quyết định thanh tra hoặc Trưởng đoàn\nthanh tra để quản lý, xử lý quà tặng theo quy định của pháp luật;\nd) Kết luận, kiến nghị, quyết định xử lý trái pháp luật; báo cáo sai sự thật; bao che\ncho người có hành vi vi phạm pháp luật; truy ép, gợi ý cho đối tượng thanh tra trả lời,\ntrình bày sự việc theo ý muốn chủ quan của mình;\nđ) Cản trở, can thiệp trái pháp luật vào hoạt động thanh tra, hoạt động giám sát\nĐoàn thanh tra; tiết lộ thông tin, tài liệu về nội dung thanh tra khi Kết luận thanh\ntra chưa được công khai và chưa được lãnh đạo giao theo quy định của pháp luật;\ne) Trả thù, đe dọa, trù dập người tố cáo các hành vi vi phạm của mình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Ứng xử trong thực hiện nhiệm vụ tiếp công dân",
+      "text": "Điều 11. Ứng xử trong thực hiện nhiệm vụ tiếp công dân\n1. Cán bộ, công chức làm công tác tiếp công dân phải làm những việc sau đây:\na) Việc tiếp công dân phải bảo đảm công khai, khách quan, dân chủ, kịp thời;\nthủ tục đơn giản, thuận tiện; giữ bí mật và bảo đảm an toàn cho người tố cáo theo\nquy định của pháp luật;\nb) Tôn trọng, lắng nghe, tận tình giải thích cặn kẽ những thắc mắc liên quan\nđến nội dung khiếu nại, tố cáo, kiến nghị, phản ánh; hướng dẫn, tạo điều kiện\nthuận lợi cho công dân thực hiện việc khiếu nại, tố cáo, kiến nghị, phản ánh theo\nquy định của pháp luật;\n¢) Có thái độ đúng mực, lắng nghe, tiếp nhận đơn khiếu nại, tố cáo, kiến nghị,\nphản ánh hoặc ghi chép đầy đủ, chính xác nội dung mà người đến khiếu nại, tố\ncáo, kiến nghị, phản ánh trình bày;\nd) Giải thích, hướng dẫn cho người đến khiếu nại, tố cáo, kiến nghị, phản ánh\nchấp hành chủ trương, chính sách, pháp luật, kết luận, quyết định giải quyết đã có\nhiệu lực pháp luật của cơ quan có thẩm quyền; hướng dẫn người khiếu nại, tố cáo,\nkiến nghị, phản ánh đến đúng cơ quan hoặc người có thẩm quyền giải quyết,\nT Tek\n\n14\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\nđ) Yêu cầu người vi phạm nội quy nơi tiếp công dân chấm dứt hành vi vi\nphạm; trong trường hợp cần thiết, lập biên bản về việc vi phạm và yêu cầu cơ quan\nchức năng xử lý theo quy định của pháp luật.\n2. Cán bộ, công chức làm công tác tiếp công dân không được làm những việc\nsau đây:\na) Gây phiền hà, sách nhiễu hoặc cản trở người đến khiếu nại, tố cáo, kiến\nnghị, phản ánh;\nb) Thiếu trách nhiệm trong việc tiếp công dân; làm mất hoặc làm sai lệch thông\ntin, tài liệu do người khiếu nại, tố cáo, kiến nghị, phản ánh cung cấp;\nc) Phân biệt đối xử trong khi tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Ứng xử trong thực hiện nhiệm vụ giải quyết khiếu nại, tố cáo",
+      "text": "Điều 12. Ứng xử trong thực hiện nhiệm vụ giải quyết khiếu nại, tố cáo\n1. Cán bộ, công chức, viên chức trong các cơ quan thanh tra nhà nước phải làm\nnhững việc sau đây:\na) Quán triệt quan điểm, chủ trương của Đảng, pháp luật của Nhà nước, thực\nhiện nhiệm vụ tiếp công dân, giải quyết khiếu nại, tố cáo theo thẩm quyền, đúng\ntrình tự, thủ tục được quy định trong Luật Khiếu nại, Luật Tố cáo và các văn bản\npháp luật khác có liên quan;\nb) Hướng dẫn, giúp người khiếu nại, tố cáo hiểu và thực hiện đúng quy định của\npháp luật; tham mưu giải quyết thấu đáo theo quy định của pháp luật;\n¢) Hướng dẫn, công khai quy trình thực hiện nhiệm vụ chuyên môn, quy trình\nthủ tục hành chính đã được cấp có thẩm quyền phê duyệt, bảo đảm các đề nghị của\ntổ chức và cá nhân được giải quyết đúng pháp luật;\nd) Khi xác minh, kết luận, kiến nghị phải thận trọng, khách quan;\nđ) Trường hợp hồ sơ giải quyết khiếu nại, tố cáo có sai sót, chậm, muộn phải\nnghiêm túc thực hiện việc xin lỗi theo quy định;\ne) Nếu phát hiện hành vi vi phạm pháp luật có thể gây thiệt hại đến lợi ích\ncủa Nhà nước, quyền và lợi ích hợp pháp của người dân thì báo cáo với cơ\nquan, tổ chức, cá nhân có thẩm quyền để áp dụng biện pháp ngăn chặn kịp thời.\n\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\n15\n2. Cán bộ, công chức, viên chức trong các cơ quan thanh tra nhà nước không\nđược làm những việc sau đây:\na) Có thái độ hách dịch, dọa nạt, gây căng thẳng, khó khăn, phiền hà, sách\nnhiễu, vòi vĩnh,\ntrì hoãn, kéo dài thời gian xử lý công việc của tổ chức và\nngười dân;\nb) Từ chối giải quyết các yêu cầu của tổ chức và cá nhân thuộc chức trách,\nnhiệm vụ được giao mà không có lý do chính đáng;\n¢) Thờ ơ, vô cảm, thiếu trách nhiệm trước những khó khăn, bức xúc của tổ\nchức và người dân; lợi dụng nhiệm vụ, vị trí công tác để nhũng nhiễu, gây phiền\nhà, trục lợi;\nd) Làm mất, hư hỏng, sai lệch hồ sơ, tài liệu, kết quả giải quyết vụ việc khiếu\nnại, tố cáo; truy ép hoặc gợi ý cho người khiếu nại, người tố cáo trình bày sự việc\ntheo ý muốn chủ quan của mình;\nđ) Cản trở, can thiệp trái pháp luật vào việc giải quyết khiếu nại, tố cáo; tiết\nlộ họ tên, địa chỉ, bút tích hoặc các thông tin về người tố cáo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Ứng xử trong thực hiện nhiệm vụ phòng, chống tham nhũng",
+      "text": "Điều 13. Ứng xử trong thực hiện nhiệm vụ phòng, chống tham nhũng\n1. Cán bộ, công chức, viên chức trong các cơ quan thanh tra nhà nước phải làm\nnhững việc sau đây:\na) Khi tham gia Đoàn thanh tra về phòng, chống tham nhũng thì phải thực hiện\ntheo quy định tại khoản 1 Điều 10 của Thông tư này;\nb) Tuân thủ các nguyên tắc, thẩm quyền, trình tự, thủ tục xác minh tài sản, thu\nnhập và phòng, chống tham nhũng theo quy định của pháp luật;\n¢) Cung cấp thông tin, báo cáo trung thực về công tác phòng, chống tham\nnhũng cho cơ quan, tổ chức theo quy định của pháp luật;\nd) Tạo điều kiện để Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên\ncủa Mặt trận, doanh nghiệp, hiệp hội doanh nghiệp, hiệp hội ngành nghề, cơ quan\nbáo chí, nhà báo, công dân, Ban thanh tra nhân dân, Ban giám sát đầu tư của cộng\nđồng.... tham gia phòng, chống tham nhũng theo quy định của pháp luật.\n\n16\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\n2. Cán bộ, công chức, viên chức trong các cơ quan thanh tra nhà nước không\nđược làm những việc sau đây:\na) Khi tham gia Đoàn thanh tra phòng, chống tham nhũng thì không được\nlàm những việc theo quy định tại khoản 2 Điều 10 của Thông tư này;\nb) Có hành vi làm sai lệch hồ sơ, thông tin, tài liệu, báo cáo sai sự thật về\nphòng, chống tham nhũng;\nc) Lợi dụng việc phòng, chống tham nhũng để gây rối, làm mất đoàn kết nội\nbộ, xúc phạm nhân phẩm, danh dự của cá nhân, uy tín của cơ quan, tổ chức;\nd) Lợi dụng việc xác minh tài sản, thu nhập để gây khó khăn, phiền hà, cản trở\nhoạt động bình thường của người được xác minh; tiết lộ thông tin về tài sản, thu\nnhập của người được xác minh trái pháp luật;\nđ) Bao che cho hành vi tham nhũng: cản trở, can thiệp trái pháp luật vào quá\ntrình giải quyết các vụ việc tham nhũng;\ne) Tiết lộ thông tin về người phản ánh, báo cáo, tố cáo, tố giác, cung cấp\nthông tin về hành vi tham nhũng;\ng) Cản trở, can thiệp trái pháp luật vào quá trình giải quyết các vụ việc\ntham nhũng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 14. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2021.\nQuyết định số 1860/QĐ-TTCP ngày 09 tháng 6 năm 2007 của Tổng Thanh tra\nChính phủ về việc ban hành Quy tắc ứng xử của cán bộ thanh tra hết hiệu lực thi\nhành kể từ ngày Thông tư này có hiệu lực pháp luật.\n2. Cán bộ, công chức, viên chức khi thi hành nhiệm vụ, công vụ, ngoài việc\nthực hiện đúng, đầy đủ các quy định của Thông tư này còn phải thực hiện các quy\nđịnh về đạo đức công vụ, văn hóa công sở, các quy định về quyền và nghĩa vụ của\n\nCÔNG BÁO/Số 463 + 464/Ngày 22-3-2021\n17\ncán bộ, công chức, viên chức và những việc cán bộ, công chức, viên chức không\nđược làm theo các quy định khác của pháp luật có liên quan.\n3. Trong quá trình thực hiện, nếu phát sinh những khó khăn, vướng mắc hoặc\ncó vấn đề mới phát sinh, đề nghị các cơ quan, tổ chức, đơn vị phản ánh kịp thời về\nThanh tra Chính phủ để nghiên cứu, sửa đổi, bổ sung cho phù hợp./.\nTỔNG THANH TRA\nLê Minh Khái\nT Tek",
+      "isImplementationClause": true
+    }
+  ]
+}

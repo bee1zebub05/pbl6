@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0033_1562_QĐ-ĐHBK_Quy định mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách k.txt",
+  "mappedBy": "gemini-web",
+  "note": "27 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1562/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Quy định mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "02/06/2021",
+    "effectiveDate": "02/06/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành Quy định về việc mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách khoa, Đại học Đà Nẵng, bao gồm tiêu chuẩn, hạn mức giờ giảng, quy trình quản lý, hợp đồng, trách nhiệm và quyền hạn của các bên liên quan.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "02/VBHN-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 02/VBHN-BGDĐT ngày 24/12/2013 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy định về chế độ thỉnh giảng trong các cơ sở giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "2823/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2823/QĐ-ĐHĐN ngày 11/6/2015 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định về việc mời thỉnh giảng và quản lý công tác thỉnh giảng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị Quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng Trường Đại học Bách khoa về việc Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Trường Đại học Bách khoa",
+    "Phòng Đào tạo",
+    "Phòng Tổ chức Hành chính",
+    "Phòng Kế hoạch-Tài chính",
+    "Khoa",
+    "Bộ môn"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Về việc mời thỉnh giảng và quản lý công tác thỉnh giảng của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về việc mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường), bao gồm: thỉnh giảng, báo cáo viên và các hoạt động thỉnh giảng, báo cáo; tiêu chuẩn của giảng viên thỉnh giảng, của báo cáo viên; hạn mức tiết dạy, giờ giảng dạy đối với giảng viên thỉnh giảng (sau đây gọi là giờ thỉnh giảng); trách nhiệm và quyền của giảng viên thỉnh giảng, của báo cáo viên, của viên chức của Trường được mời đi thỉnh giảng, của cơ quan, tổ chức nơi giảng viên thỉnh giảng, báo cáo viên công tác; quy trình quản lý hoạt động thỉnh giảng, báo cáo; hợp đồng thỉnh giảng, hợp đồng báo cáo.\n2. Văn bản này không áp dụng đối với người Việt Nam định cư ở nước ngoài và người nước ngoài đến giảng dạy tại Trường.\n3. Văn bản này không áp dụng đối với báo cáo viên, tuyên truyền viên của Đảng và báo cáo viên pháp luật.\n4. Các trường hợp viên chức của Trường đi thỉnh giảng ở nước ngoài thực hiện theo quy định riêng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giảng viên thỉnh giảng và báo cáo viên",
+          "text": "Điều 2. Giảng viên thỉnh giảng và báo cáo viên\n1. Giảng viên thỉnh giảng được quy định tại Điều 71 Luật Giáo dục. Giảng viên thỉnh giảng thực hiện các nhiệm vụ và được hưởng các quyền theo hợp đồng thỉnh giảng được ký giữa Trường với giảng viên thỉnh giảng.\n2. Báo cáo viên là các chuyên gia, nhà khoa học, doanh nhân, nghệ nhân, người lao động ở trong và ngoài nước được Trường mời báo cáo chuyên đề, kinh nghiệm thực tiễn nhằm góp phần nâng cao chất lượng giáo dục, đào tạo, nghiên cứu khoa học, gắn giáo dục và đào tạo với thực tiễn.\nCác nội dung, hoạt động liên quan đến báo cáo viên thực hiện theo quy định tại Chương IVa Thông tư 02/VBHN-BGDĐT ngày 24/12/2013 của Bộ Giáo dục và Đào tạo quy định về chế độ thỉnh giảng trong các cơ sở giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Thỉnh giảng và hoạt động thỉnh giảng",
+          "text": "Điều 3. Thỉnh giảng và hoạt động thỉnh giảng\n1. Thỉnh giảng là việc giảng viên hoặc người có đủ tiêu chuẩn của giảng viên đang công tác ở một cơ sở đào tạo (hoặc cơ quan, tổ chức) hoặc hoạt động độc lập hoặc đã nghỉ hưu được mời đến Trường Đại học Bách khoa để thực hiện hoạt động quy định tại khoản 2 Điều này.\n2. Các hoạt động thỉnh giảng bao gồm:\na) Giảng dạy các học phần được quy định trong chương trình đào tạo của Trường;\nb) Giảng dạy các chuyên đề;\nc) Hướng dẫn, tham gia hội đồng chấm đồ án, khoá luận tốt nghiệp; hướng dẫn, tham gia hội đồng đánh giá luận văn thạc sĩ, luận án tiến sĩ;\nd) Hướng dẫn thí nghiệm, thực hành, thực tập của các chương trình đào tạo;\nđ) Tham gia xây dựng và phát triển chương trình đào tạo, biên soạn giáo trình, tài liệu giảng dạy, sách tham khảo.\nCác hoạt động quy định tại các điểm a, b, c, d khoản 2 Điều này được tính, quy đổi thành giờ thỉnh giảng.\n3. Hoạt động phân công giảng dạy hoặc mời giảng dạy hoặc mời tham gia các hoạt động chuyên môn khác giữa các cơ sở giáo dục đại học thành viên, đơn vị trực thuộc Đại học Đà Nẵng không phải là hoạt động thỉnh giảng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Mục đích hoạt động thỉnh giảng",
+          "text": "Điều 4. Mục đích hoạt động thỉnh giảng\n1. Nâng cao chất lượng giáo dục, đào tạo thông qua việc thu hút nhà giáo, nhà khoa học, chuyên gia, doanh nhân, nghệ nhân có trình độ cao, có tài năng, kinh nghiệm.\n2. Góp phần tạo điều kiện để các giảng viên cơ hữu của Trường có thời gian thực hiện nhiệm vụ nghiên cứu khoa học, chuyển giao và nhận chuyển giao công nghệ, kinh nghiệm, thâm nhập thực tế, học tập và bồi dưỡng nâng cao trình độ.\n3. Tạo điều kiện gắn kết đào tạo với nghiên cứu khoa học và thực tiễn; gắn kết Trường với các cơ sở giáo dục khác; gắn kết Trường với các viện nghiên cứu, doanh nghiệp, cơ quan và tổ chức khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguyên tắc thực hiện hoạt động thỉnh giảng",
+          "text": "Điều 5. Nguyên tắc thực hiện hoạt động thỉnh giảng\n1. Tuân thủ những nguyên tắc cơ bản về quan hệ dân sự đã được quy định tại Chương II Bộ luật Dân sự, nguyên tắc giao kết hợp đồng dân sự đã được quy định tại Điều 389 Bộ luật Dân sự, những quy định của pháp luật về lao động, những quy định về thỉnh giảng của Luật Giáo dục.\n2. Tuân thủ các quy định của pháp luật về quyền tự chủ, tự chịu trách nhiệm về thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính của Trường.\n3. Trong trường hợp hoạt động thỉnh giảng, hoạt động báo cáo có sử dụng thời gian làm việc của cán bộ, công chức, viên chức thì phải được sự đồng ý của người đứng đầu cơ quan, tổ chức nơi cán bộ, công chức, viên chức làm việc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Các trường hợp được mời thỉnh giảng",
+          "text": "Điều 6. Các trường hợp được mời thỉnh giảng\n1. Hoạt động thỉnh giảng có thể được thực hiện ở tất cả các học phần thuộc các chương trình đào tạo để bổ sung, cập nhật thông tin, kiến thức lý luận và thực tiễn, kỹ năng thực hành, nghiên cứu cho người học, nhằm nâng cao chất lượng đào tạo.\n2. Đối với các hoạt động nêu tại các điểm a, b, c, d khoản 2 Điều 3 Quy định này, hoạt động thỉnh giảng được thực hiện tại Trường trong các trường hợp sau:\na) Đội ngũ giảng viên cơ hữu của Bộ môn có tổng số giờ dạy quy chuẩn theo kế hoạch vượt quá 02 lần tổng số giờ chuẩn định mức giảng dạy của Bộ môn trong một năm học theo quy định của Bộ Giáo dục và Đào tạo, Đại học Đà Nẵng và của Trường;\nb) Đội ngũ giảng viên, cán bộ hướng dẫn thực hành, thí nghiệm cơ hữu của Bộ môn, Khoa không đáp ứng được yêu cầu giảng dạy, nghiên cứu khoa học, hướng dẫn thực hành theo quy định của Bộ Giáo dục và Đào tạo, Đại học Đà Nẵng và của Trường;\nc) Số lượng giảng viên cơ hữu của Trường và của các trường thành viên thuộc Đại học Đà Nẵng không đủ yêu cầu theo quy mô đào tạo đối với khối kiến thức giáo dục đại cương;\nd) Thực hiện quy định về thành phần Hội đồng hướng dẫn, Hội đồng bảo vệ tốt nghiệp theo hình thức Capstone Project;\nđ) Thực hiện quy định về thành phần Hội đồng chấm luận văn thạc sĩ, luận án tiến sĩ theo quy định đào tạo trình độ thạc sĩ, tiến sĩ;\ne) Triển khai giảng dạy môn học mới;\nf) Bồi dưỡng kiến thức về thực tế lao động, sản xuất, rèn luyện kỹ năng, năng lực hoạt động thực tiễn cho người học theo ngành nghề đào tạo.\n3. Giảng viên quốc tịch Việt Nam ở nước ngoài hoặc giảng viên nước ngoài giảng dạy chương trình tiên tiến, chương trình chất lượng cao, chương trình liên kết với nước ngoài (nếu có), thực hiện theo quy định riêng. Trường hợp cần thiết, Hiệu trưởng quyết định mời thỉnh giảng trên cơ sở đề nghị của Khoa, Bộ môn và Phòng Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiêu chuẩn của giảng viên thỉnh giảng",
+          "text": "Điều 7. Tiêu chuẩn của giảng viên thỉnh giảng\n1. Đối với việc giảng dạy các học phần, các chuyên đề được quy định trong chương trình đào tạo, giảng viên thỉnh giảng phải đảm bảo các tiêu chuẩn sau đây:\na) Có phẩm chất, tư tưởng, đạo đức tốt;\nb) Đáp ứng chuẩn nghề nghiệp theo vị trí việc làm;\nc) Có kỹ năng cập nhật, nâng cao năng lực chuyên môn, nghiệp vụ;\nd) Bảo đảm sức khoẻ theo yêu cầu nghề nghiệp;\ne) Trình độ tối thiểu của giảng viên thỉnh giảng giảng dạy trình độ đại học là thạc sĩ; giảng dạy trình độ thạc sĩ, tiến sĩ là tiến sĩ. Trường ưu tiên mời giảng viên thỉnh giảng có trình độ tiến sĩ.\n2. Đối với việc giảng dạy các chuyên đề không có trong chương trình đào tạo như tại điểm b khoản 2 Điều 3 Quy định này, giảng viên thỉnh giảng phải có trình độ học vấn và kinh nghiệm chuyên môn phù hợp.\n3. Đối với hoạt động nêu tại điểm c khoản 2 Điều 3 Quy định này, giảng viên thỉnh giảng phải đảm bảo các tiêu chuẩn quy định tại Điều 67 Luật Giáo dục và quy chế đào tạo trình độ đại học, thạc sĩ, tiến sĩ hiện hành.\n4. Đối với hoạt động nêu tại điểm d khoản 2 Điều 3 Quy định này, giảng viên thỉnh giảng phải đáp ứng các yêu cầu thí nghiệm, thực hành, thực tập của các học phần trong chương trình đào tạo; đạt tiêu chuẩn quy định đối với nhân viên làm công tác thí nghiệm hoặc có kinh nghiệm thực tế đáp ứng yêu cầu công việc (đã hoặc đang làm công tác thí nghiệm hoặc tham gia hướng dẫn thí nghiệm, thực hành, thực tập).\n5. Đối với hoạt động nêu tại điểm đ khoản 2 Điều 3 Quy định này, theo ngành, chuyên ngành thỉnh giảng, giảng viên thỉnh giảng phải đảm bảo ít nhất một trong các yêu cầu sau:\na) Có công trình khoa học được công bố trên tạp chí khoa học hoặc trong tuyển tập hội thảo khoa học trong, ngoài nước;\nb) Có sách chuyên khảo đã được xuất bản;\nc) Có đề tài nghiên cứu khoa học được nghiệm thu đạt yêu cầu từ cấp khoa và tương đương trở lên;\nd) Có hợp đồng giao công nghệ đã được nghiệm thu, thanh lý.\n\n5\n\n6. Đối với các ngành trình độ đại học triển khai đào tạo theo cơ chế ưu tiên thuộc lĩnh vực Máy tính và Công nghệ thông tin, giảng viên thỉnh giảng có thể là các chuyên gia có bằng tốt nghiệp từ trình độ thạc sĩ trở lên cùng ngành với ngành tham gia đào tạo hoặc tốt nghiệp đại học cùng ngành với ngành tham gia đào tạo đồng thời có từ 05 năm kinh nghiệm hoạt động nghề nghiệp về lĩnh vực Công nghệ thông tin của doanh nghiệp, hiệp hội nghề nghiệp trở lên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Hạn mức giờ thỉnh giảng",
+          "text": "Điều 8. Hạn mức giờ thỉnh giảng\n\nTổng số giờ thỉnh giảng trong một năm học của một giảng viên thỉnh giảng không vượt quá tổng định mức giờ giảng dạy và giờ dạy thêm theo quy định của pháp luật đối với giảng viên trong biên chế, giảng viên cơ hữu thực hiện cùng nhiệm vụ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quy trình quản lý hoạt động thỉnh giảng",
+          "text": "Điều 9. Quy trình quản lý hoạt động thỉnh giảng\n\n1. Việc quản lý hoạt động thỉnh giảng tại Trường thực hiện theo các bước sau:\n\na) Bước 1: Lập kế hoạch\nMột tháng trước khi bắt đầu học kỳ mới, Bộ môn, Khoa căn cứ kế hoạch khối lượng giảng dạy thực tế của đơn vị; trên cơ sở các nguyên tắc thực hiện hoạt động thỉnh giảng quy định tại Điều 5 Quy định này và các quy định đào tạo của Trường, xác định nhu cầu thực tế về hoạt động thỉnh giảng, lập kế hoạch mời thỉnh giảng (Mẫu M1) và đề xuất danh sách giảng viên thỉnh giảng (Mẫu M2) gửi về Phòng Đào tạo để kiểm tra, đối chiếu các điều kiện cần thiết trước khi trình Hiệu trưởng phê duyệt.\n\nTrường hợp giảng viên cơ hữu đi học tập, công tác nước ngoài dài ngày hoặc những tình huống đặc biệt, đột xuất khác, Hiệu trưởng quyết định bổ sung trên cơ sở đề nghị của Khoa, Bộ môn và Phòng Đào tạo.\n\nb) Bước 2: Ký hợp đồng thỉnh giảng (Mẫu M3)\nCăn cứ phê duyệt của Hiệu trưởng, Phòng Đào tạo tiến hành thủ tục ký hợp đồng thỉnh giảng. Tùy theo thực tế, việc ký hợp đồng thỉnh giảng có thể thực hiện cho mỗi học kỳ, cho cả năm, hoặc cho một công việc cụ thể. Hình thức hợp đồng, hồ sơ làm căn cứ ký kết hợp đồng thực hiện theo quy định tại Điều 10 Quy định này.\n\nc) Bước 3: Phân công thỉnh giảng\n\n6\n\nSau khi hợp đồng được ký, các Khoa, Bộ môn tiến hành phân công, giao việc cho giảng viên thỉnh giảng và tạo điều kiện, theo dõi, quản lý quá trình, kết quả thực hiện hợp đồng thỉnh giảng.\n\nd) Bước 4: Kết thúc thỉnh giảng\nKhi kết thúc hoạt động thỉnh giảng, căn cứ kết quả thực hiện hoạt động thỉnh giảng của giảng viên thỉnh giảng, Khoa tiến hành đánh giá kết quả thỉnh giảng (mẫu M4) gửi về Phòng Đào tạo. Phòng Đào tạo tiến hành thủ tục thanh lý hợp đồng, lập báo cáo kết quả hoạt động thỉnh giảng trình Hiệu trưởng ký và gửi về đơn vị nơi giảng viên thỉnh giảng công tác.\n\n2. Hồ sơ thỉnh giảng được quản lý, lưu trữ theo quy định về công tác văn thư, lưu trữ của Nhà nước, Đại học Đà Nẵng và của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Hợp đồng thỉnh giảng",
+          "text": "Điều 10. Hợp đồng thỉnh giảng\n\n1. Hợp đồng thỉnh giảng\na) Hợp đồng thỉnh giảng là hợp đồng vụ, việc. Việc giao kết, thực hiện, sửa đổi, chấm dứt hợp đồng thỉnh giảng thực hiện theo các quy định tại Mục 7 Chương XV Bộ luật Dân sự. Không thực hiện hợp đồng lao động đối với hoạt động thỉnh giảng của cán bộ, công chức, viên chức.\n\nb) Trong trường hợp giảng viên là cán bộ, công chức, viên chức, hợp đồng thỉnh giảng phải có điều khoản giảng viên thỉnh giảng cam kết bảo đảm hoàn thành nhiệm vụ ở nơi mình công tác.\n\n2. Hồ sơ làm căn cứ ký kết hợp đồng thỉnh giảng\nHợp đồng thỉnh giảng được ký kết khi có đầy đủ hồ sơ, bao gồm:\n- Phiếu đăng ký tham gia thỉnh giảng (Mẫu M5, có xác nhận của đơn vị nơi giảng viên thỉnh giảng công tác). Trường hợp giảng viên thỉnh giảng là nhà khoa học, chuyên gia, doanh nhân, nghệ nhân thì không cần xác nhận đơn vị công tác;\n- Lý lịch khoa học của giảng viên thỉnh giảng (Mẫu M6);\n- Bản sao văn bằng, chứng chỉ học vấn chuyên môn (đối với giảng viên ký hợp đồng thỉnh giảng lần đầu);\n- Bản sao Giấy chứng nhận về nghiệp vụ sư phạm (áp dụng đối với giảng viên thỉnh giảng giảng dạy các học phần, các chuyên đề thuộc chương trình đào tạo. Giảng viên thỉnh giảng các ngành đào tạo ưu tiên thực hiện theo quy định tại khoản 6 Điều 7 Quy định này);\n- Giấy chứng nhận sức khỏe (đối với giảng viên thỉnh giảng đã đủ tuổi nghỉ hưu theo quy định hiện hành);\n- Kế hoạch mời thỉnh giảng của Khoa, Bộ môn đã được phê duyệt (Mẫu M7).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Trách nhiệm của Phòng Đào tạo",
+          "text": "Điều 11. Trách nhiệm của Phòng Đào tạo\n\n7\n\n1. Tham mưu trực tiếp cho Hiệu trưởng trong công tác phê duyệt kế hoạch mời thỉnh giảng; xác định, lựa chọn cá nhân đáp ứng tiêu chuẩn giảng viên thỉnh giảng nêu tại Điều 7, trình Hiệu trưởng ký kết hợp đồng thỉnh giảng. Công khai danh sách giảng viên thỉnh giảng.\n\n2. Theo dõi, thực hiện quy trình quản lý hoạt động thỉnh giảng như quy định tại Điều 9 Quy định này.\n\n3. Hỗ trợ, tạo điều kiện để giảng viên thỉnh giảng sử dụng thiết bị, phương tiện làm việc của Trường để thực hiện hợp đồng thỉnh giảng.\n\n4. Thực hiện các quy định về quản lý, kiểm tra, đánh giá chất lượng hoạt động thỉnh giảng.\n\n5. Nhận xét, xác nhận kết quả thực hiện hợp đồng thỉnh giảng, báo cáo Hiệu trưởng. Thông báo kết quả thực hiện hợp đồng thỉnh giảng đến cơ quan, tổ chức nơi giảng viên thỉnh giảng công tác.\n\n6. Thống kê báo cáo tình hình, kết quả thực hiện các hợp đồng thỉnh giảng. Quản lý, lưu giữ hồ sơ báo cáo, hồ sơ thỉnh giảng theo khoản 2 Điều 9 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Trách nhiệm của Phòng Tổ chức-Hành chính",
+          "text": "Điều 12. Trách nhiệm của Phòng Tổ chức-Hành chính\n\n1. Tham mưu trực tiếp cho Hiệu trưởng trong công tác quản lý hoạt động thỉnh giảng của viên chức của Trường tại các đơn vị ngoài Đại học Đà Nẵng.\n\n2. Theo dõi, thực hiện quy trình quản lý hoạt động thỉnh giảng của viên chức của Trường tại các đơn vị ngoài như quy định tại Điều 21.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Trách nhiệm của Phòng Kế hoạch-Tài chính",
+          "text": "Điều 13. Trách nhiệm của Phòng Kế hoạch-Tài chính\n\n1. Phối hợp phòng Đào tạo, Khoa, Bộ môn mời thỉnh giảng giải quyết chế độ, quyền lợi của giảng viên thỉnh giảng theo quy định.\n\n2. Thu thuế thu nhập cá nhân theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Trách nhiệm và quyền của Khoa, Bộ môn",
+          "text": "Điều 14. Trách nhiệm và quyền của Khoa, Bộ môn\n\n1. Xây dựng kế hoạch mời thỉnh giảng của đơn vị; lập danh sách giảng viên thỉnh giảng gửi về Phòng Đào tạo để báo cáo Hiệu trưởng và thông báo công khai trong đơn vị.\n\n2. Lựa chọn giảng viên, nhà khoa học đáp ứng tiêu chuẩn; xúc tiến thực hiện các thủ tục liên quan để Trường xem xét, quyết định mời thỉnh giảng.\n\n3. Phân công, hướng dẫn nhiệm vụ và thông báo chế độ thỉnh giảng cho giảng viên thỉnh giảng.\n\n4. Tạo điều kiện cho giảng viên thỉnh giảng thực hiện nhiệm vụ ở đơn vị.\n\n5. Tạo điều kiện giải quyết chế độ, quyền lợi của giảng viên thỉnh giảng theo quy định.\n\n8\n\n6. Theo dõi việc thực hiện nhiệm vụ thỉnh giảng của giảng viên thỉnh giảng tại đơn vị; giám sát thực hiện hạn mức giờ giảng theo quy định.\n\n7. Quản lý danh sách các giảng viên thỉnh giảng tại đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Trách nhiệm của giảng viên thỉnh giảng",
+          "text": "Điều 15. Trách nhiệm của giảng viên thỉnh giảng\n\n1. Thực hiện nhiệm vụ của giảng viên theo quy định của pháp luật về giáo dục.\n\n2. Thực hiện các quy định của pháp luật có liên quan đến hợp đồng thỉnh giảng.\n\n3. Thực hiện các nội dung đã cam kết trong hợp đồng thỉnh giảng.\n\n4. Giảng viên thỉnh giảng là cán bộ, công chức, viên chức phải bảo đảm hoàn thành nhiệm vụ tại cơ quan, tổ chức nơi mình công tác; đưa kế hoạch thỉnh giảng vào chương trình công tác; phải báo cáo người đứng đầu cơ quan, tổ chức nơi mình công tác trước khi giao kết và sau khi chấm dứt hợp đồng thỉnh giảng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Quyền của giảng viên thỉnh giảng",
+          "text": "Điều 16. Quyền của giảng viên thỉnh giảng\n\n1. Được hưởng tiền công, tiền lương, quyền lợi theo thỏa thuận trong hợp đồng thỉnh giảng, hợp đồng báo cáo và theo quy định của pháp luật.\n\n2. Giảng viên thỉnh giảng được tham gia sinh hoạt chuyên môn, nghiệp vụ, bồi dưỡng nghiệp vụ sư phạm, được tạo điều kiện nghiên cứu khoa học tại Trường, được xét tặng các danh hiệu, được xét công nhận đạt tiêu chuẩn và bổ nhiệm các chức danh Giáo sư, Phó giáo sư theo quy định của pháp luật.\n\n3. Được cung cấp, hỗ trợ tài liệu, thiết bị, phương tiện làm việc cần thiết; được đánh giá, xếp loại, khen thưởng nếu có thành tích trong hoạt động giáo dục, đào tạo theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Trách nhiệm và quyền của viên chức của Trường được mời đi thỉnh giảng",
+          "text": "Điều 17. Trách nhiệm và quyền của viên chức của Trường được mời đi thỉnh giảng\n\n1. Viên chức được mời đi thỉnh giảng phải có ý kiến chấp thuận bằng văn bản của Hiệu trưởng. Đối với công tác thỉnh giảng ở nước ngoài, viên chức cần tuân thủ theo quy định về quản lý cán bộ, viên chức đi công tác nước ngoài hiện hành.\n\n2. Viên chức đi thỉnh giảng có trách nhiệm và quyền quy định tại Điều 15 và 16 Quy định này và các quy định khác (nếu có) của cơ sở đào tạo nơi viên chức đến thỉnh giảng.\n\n9\n\n3. Việc quản lý viên chức của Trường đi thỉnh giảng tại các đơn vị bên ngoài được thực hiện như sau:\n- Trước hai tuần, viên chức có nhu cầu thỉnh giảng tại các đơn vị bên ngoài làm đơn xin thỉnh giảng (Mẫu M8) và trình Ban Giám hiệu phê duyệt.\n- Một tuần sau khi kết thúc hoạt động thỉnh giảng, viên chức thỉnh giảng có trách nhiệm báo cáo kết quả thỉnh giảng tại đơn vị ngoài (mẫu M9) và cung cấp minh chứng đánh giá hoạt động thỉnh giảng tại đơn vị ngoài cho Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Tiêu chuẩn báo cáo viên",
+          "text": "Điều 18. Tiêu chuẩn báo cáo viên\n\n1. Có năng lực, am hiểu sâu về lĩnh vực, chuyên ngành được báo cáo.\n\n2. Có lập trường chính trị vững vàng, phẩm chất đạo đức tốt, chấp hành tốt chủ trương, chính sách và pháp luật của Đảng và Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Trách nhiệm và quyền của báo cáo viên",
+          "text": "Điều 19. Trách nhiệm và quyền của báo cáo viên\n\n1. Trách nhiệm của báo cáo viên được thực hiện theo quy định như trách nhiệm của giảng viên thỉnh giảng quy định tại Điều 15 Quy định này.\n\n2. Quyền của báo cáo viên:\na) Được cung cấp thông tin, tài liệu cần thiết phục vụ cho hoạt động chuyên môn theo thoả thuận.\nb) Được hưởng thù lao theo quy định hoặc theo thoả thuận.\nc) Được hưởng các quyền lợi khác trong trường hợp pháp luật có quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Hợp đồng báo cáo; trách nhiệm và quyền của các đơn vị trong Trường",
+          "text": "Điều 20. Hợp đồng báo cáo; trách nhiệm và quyền của các đơn vị trong Trường\n\n1. Hợp đồng báo cáo của báo cáo viên được thực hiện theo quy định như hợp đồng thỉnh giảng của giảng viên thỉnh giảng quy định tại khoản 1, khoản 2 Điều 9 Quy định này.\n\n2. Trách nhiệm và quyền của các đơn vị trong Trường đối với báo cáo viên thực hiện theo quy định như trách nhiệm đối với giảng viên thỉnh giảng quy định tại Điều 15, Điều 16, Điều 17 Quy định này.\n\nTrang 10",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Trách nhiệm và quyền của Trường đối với viên chức của Trường được mời đi thỉnh giảng",
+          "text": "Điều 21. Trách nhiệm và quyền của Trường đối với viên chức của Trường được mời đi thỉnh giảng\n1. Tạo điều kiện cho viên chức của đơn vị đáp ứng tiêu chuẩn quy định tại Điều 7 Quy định này và các quy định khác có liên quan của đơn vị được đi thỉnh giảng.\n2. Yêu cầu cán bộ, công chức, viên chức, người lao động đưa kế hoạch thỉnh giảng vào chương trình công tác của cá nhân.\n3. Quản lý, giám sát việc thực hiện nghĩa vụ của viên chức cơ hữu; quản lý thực hiện hạn mức giờ thỉnh giảng, định mức giờ chuẩn của viên chức theo quy định tại Điều 8 Quy định này và các Quy định liên quan khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Trách nhiệm và quyền của Khoa, Bộ môn có viên chức được mời đi thỉnh giảng",
+          "text": "Điều 22. Trách nhiệm và quyền của Khoa, Bộ môn có viên chức được mời đi thỉnh giảng\n1. Được quyền không đồng ý cho viên chức thuộc quyền quản lý đi thỉnh giảng, khi những viên chức này không đáp ứng tiêu chuẩn, quy định về hoạt động thỉnh giảng và những quy định có liên quan của đơn vị.\n2. Thống kê, báo cáo Hiệu trưởng (thông qua Phòng Đào tạo) danh sách viên chức của đơn vị đi thỉnh giảng trong năm học.\n3. Được quyền yêu cầu viên chức của mình báo cáo về kết quả thực hiện thỉnh giảng.\n4. Quản lý, giám sát việc thực hiện nghĩa vụ công tác tại đơn vị của viên chức, theo dõi việc tham gia thỉnh giảng, báo cáo Hiệu trưởng vào cuối năm học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 23. Hiệu lực thi hành\nQuy định này có hiệu lực kể từ ngày ký.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 24. Tổ chức thực hiện\n1. Trưởng các đơn vị, các cá nhân liên quan có trách nhiệm thi hành Quy định này.\n\nTrang 11\n\n2. Trong quá trình thực hiện, nếu có vướng mắc, bất cập hoặc có vấn đề mới nảy sinh cần bổ sung, sửa đổi, các đơn vị, cá nhân có liên quan phản ánh kịp thời về Phòng Đào tạo để tổng hợp ý kiến trình Hiệu trưởng xem xét và quyết định./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy định về việc mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định về việc mời thỉnh giảng và quản lý công tác thỉnh giảng tại Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức Hành chính, Trưởng phòng Phòng Đào tạo, Trưởng các đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức Hành chính, Trưởng phòng Phòng Đào tạo, Trưởng các đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

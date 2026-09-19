@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0162_1676_QĐ-ĐHĐN_Quyết định 1676_QĐ-ĐHĐN Quy chế chi tiêu nội bộ của ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "35 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1676/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy chế chi tiêu nội bộ của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "29/04/2021",
+    "effectiveDate": "29/04/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy chế chi tiêu nội bộ của Đại học Đà Nẵng, áp dụng cho các nguồn kinh phí được tự chủ, tự chịu trách nhiệm tại Đại học Đà Nẵng và các đơn vị thuộc Đại học Đà Nẵng nhằm thống nhất các chế độ, tiêu chuẩn, định mức chi tiêu.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "43/2006/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 43/2006/NĐ-CP ngày 25/4/2006 của Chính phủ quy định quyền tự chủ, tự chịu trách nhiệm về thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính đối với đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tài chính của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1675/TB-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông báo số 1675/TB-ĐHĐN ngày 29/4/2021 của Đại học Đà Nẵng về Kết luận của Giám đốc Đại học Đà Nẵng tại cuộc họp giao ban Cơ quan ĐHĐN tháng 4/2021;"
+    },
+    {
+      "targetDocumentNumber": "71/2006/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 71/2006/TT-BTC ngày 09/8/2006 của Bộ Tài chính về việc Hướng dẫn thực hiện Nghị định số 43/2006/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "99/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 99/2014/NĐ-CP ngày 25/10/2014 của Chính phủ quy định việc đầu tư phát triển tiềm lực và khuyến khích hoạt động khoa học và công nghệ trong các cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "86/2015/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 86/2015/NĐ-CP ngày 02/10/2015 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021"
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ về việc Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "40/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 40/2017/TT-BTC ngày 28/4/2017 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị;"
+    },
+    {
+      "targetDocumentNumber": "102/2012/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 102/2012/TT-BTC ngày 21/6/2012 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí cho cán bộ, công chức Nhà nước đi công tác ngắn hạn ở nước ngoài do NSNN đảm bảo kinh phí;"
+    },
+    {
+      "targetDocumentNumber": "71/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 71/2018/TT-BTC ngày 10/8/2018 của Bộ trưởng Bộ Tài chính quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước;"
+    },
+    {
+      "targetDocumentNumber": "45/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 45/2018/TT-BTC ngày 07/5/2018 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan, tổ chức, đơn vị và tài sản cố định do Nhà nước giao cho doanh nghiệp quản lý không tính thành phần vốn nhà nước tại doanh nghiệp;"
+    },
+    {
+      "targetDocumentNumber": "36/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho đào tạo, bồi dưỡng cán bộ, công chức, viên chức;"
+    },
+    {
+      "targetDocumentNumber": "58/2016/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 58/2016/TT-BTC ngày 29/3/2016 của Bộ trưởng Bộ Tài chính quy định chi tiết việc sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp."
+    },
+    {
+      "targetDocumentNumber": "1219/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Chiến lược phát triển của ĐHĐN được ban hành kèm theo Quyết định số 1219/QĐ-ĐHĐN ngày 17/4/2018 của Chủ tịch Hội đồng ĐHĐN"
+    },
+    {
+      "targetDocumentNumber": "58/2014/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Luật Bảo hiểm xã hội số 58/2014/QH13 ngày 20/11/2014;"
+    },
+    {
+      "targetDocumentNumber": "191/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định 191/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định chi tiết về tài chính công đoàn."
+    },
+    {
+      "targetDocumentNumber": "55/2015/TTLT-BTC-BKHCN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư liên tịch số 55/2015/TTLT-BTC-BKHCN ngày 22/4/2015 của Bộ Tài chính và Bộ Khoa học Công nghệ hướng dẫn định mức xây dựng, phân bổ dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước"
+    },
+    {
+      "targetDocumentNumber": "27/2015/TTLT-BKHCN-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư liên tịch số 27/2015/TTLT-BKHCN-BTC ngày 30/12/2015 quy định khoán chi thực hiện nhiệm vụ khoa học và công nghệ sử dụng NSNN"
+    },
+    {
+      "targetDocumentNumber": "5830/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 5830/QĐ-BGDĐT ngày 27/11/2015 quy định một số định mức xây dựng, phân bổ dự toán và quyết toán kinh phí áp dụng đối với nhiệm vụ khoa học và công nghệ cấp Bộ;"
+    },
+    {
+      "targetDocumentNumber": "14/QĐ-QKHCN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 14/QĐ-QKHCN ngày 14/5/2020 của Hội đồng quản lý Quỹ Phát triển Khoa học và Công nghệ ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức."
+    },
+    {
+      "targetDocumentNumber": "01/2011/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 01/2011/TT-BTC ngày 06/01/2011 của Bộ Tài chính quy định việc hỗ trợ kinh phí từ ngân sách nhà nước cho hội có hoạt động gắn với nhiệm vụ của Nhà nước"
+    },
+    {
+      "targetDocumentNumber": "71/2015/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 71/2015/TT-BTC ngày 11/05/2015 của Bộ Tài chính quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí hỗ trợ hoạt động của Hội Cựu chiến binh trong các cơ quan nhà nước"
+    },
+    {
+      "targetDocumentNumber": "191/2009/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 191/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính hướng dẫn quản lý và sử dụng kinh phí hoạt động bình đẳng giới và hoạt động vì sự tiến bộ của phụ nữ"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Tài chính",
+    "Bộ Khoa học Công nghệ",
+    "Bộ Lao động, Thương binh và Xã hội",
+    "Chính phủ",
+    "Kho bạc Nhà nước Đà Nẵng",
+    "Đảng ủy ĐHĐN",
+    "Công đoàn ĐHĐN",
+    "Đoàn TN ĐHĐN",
+    "Phân hiệu ĐHĐN tại Kon Tum"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế Chi tiêu nội bộ của Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mục tiêu của Quy chế chi tiêu nội bộ",
+          "text": "Điều 1. Mục tiêu của Quy chế chi tiêu nội bộ\nĐại học Đà Nẵng (ĐHĐN) ban hành và định kỳ điều chỉnh Quy chế chi tiêu nội bộ trên cơ sở các quy định chung của Nhà nước, áp dụng trong điều kiện đặc thù tại đại học vùng nhằm xác định những nguồn tài chính được tự chủ, tự chịu trách nhiệm; thống nhất các chế độ, tiêu chuẩn, định mức chi tiêu tại ĐHĐN và các đơn vị thuộc ĐHĐN, bảo đảm hoàn thành nhiệm vụ chính trị được giao, đồng thời sử dụng kinh phí một cách có hiệu quả, công khai, minh bạch, ổn định thu nhập và cải thiện đời sống của cán bộ viên chức (CBVC), thu hút người tài, phát triển nguồn nhân lực, nâng cao chất lượng đào tạo và nghiên cứu khoa học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc xây dựng Quy chế chi tiêu nội bộ của ĐHĐN",
+          "text": "Điều 2. Nguyên tắc xây dựng Quy chế chi tiêu nội bộ của ĐHĐN\n1. ĐHĐN là đơn vị sự nghiệp công lập có thu, đảm bảo một phần kinh phí hoạt động chi thường xuyên, hoạt động theo quy chế tổ chức và hoạt động ban hành kèm theo Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo (Bộ GD&ĐT), Quy chế tổ chức và hoạt động của ĐHĐN ban hành kèm theo Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng ĐHĐN, thực hiện quyền tự chủ và trách nhiệm giải trình theo quy định tại Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và được tự chủ tài chính theo quy định tại Nghị định số 43/2006/NĐ-CP ngày 25/04/2006 của Chính phủ quy định quyền tự chủ, tự chịu trách nhiệm về thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính đối với các đơn vị sự nghiệp công lập.\n2. ĐHĐN sử dụng phần kinh phí thường xuyên do ngân sách Nhà nước (NSNN) cấp, các khoản thu sự nghiệp, các khoản thu dịch vụ phù hợp với quy định của pháp luật và kinh phí điều tiết từ các đơn vị theo Quy chế tài chính để thực hiện nhiệm vụ chung của toàn ĐHĐN.\n3. Tất cả các nguồn tài chính phải chịu sự quản lý và được phản ánh trên sổ sách kế toán của ĐHĐN. Trong trường hợp phát sinh thêm loại hình thu sự nghiệp hoặc các nội dung chi mới thì tùy theo tình hình thực tế mà Giám đốc ĐHĐN sẽ quyết định phương thức phân phối, điều chỉnh nội dung thu, chi sau khi tham khảo ý kiến của Công đoàn ĐHĐN, các đơn vị có liên quan và thông báo công khai trong toàn ĐHĐN. Những nội dung mới phát sinh sẽ được thể hiện trong Quy chế chi tiêu nội bộ bằng quyết định điều chỉnh, bổ sung hoặc ban hành Quy chế chi tiêu nội bộ mới để thay thế.\n\n2\n\n4. Quy chế chi tiêu nội bộ của ĐHĐN được thảo luận rộng rãi, dân chủ và công khai. Đây là cơ sở pháp lý để ĐHĐN điều hành việc sử dụng và quyết toán kinh phí với Bộ GD&ĐT và là căn cứ để Kho bạc Nhà nước thực hiện việc kiểm soát chi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 3. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nQuy chế này áp dụng đối với tất cả các nguồn kinh phí, trừ các nguồn kinh phí sau đây:\na) Kinh phí cho các Chương trình mục tiêu quốc gia.\nb) Kinh phí NSNN cấp cho hoạt động không thường xuyên.\nc) Kinh phí đầu tư xây dựng cơ bản, vốn đối ứng cho các dự án và vốn viện trợ do NSNN cấp.\nd) Nguồn viện trợ của các tổ chức, cá nhân trong và ngoài nước có quy định riêng về quản lý tài chính của nhà tài trợ.\n2. Đối tượng áp dụng\nQuy chế này áp dụng tại ĐHĐN và các đơn vị thuộc ĐHĐN.\nCác trường đại học thành viên, đơn vị trực thuộc và Phân hiệu ĐHĐN tại Kon Tum thực hiện theo Quy chế chi tiêu nội bộ của đơn vị mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Căn cứ xây dựng Quy chế",
+          "text": "Điều 4. Căn cứ xây dựng Quy chế\n1. Quy chế được xây dựng và điều chỉnh theo đúng các quy định hiện hành của Nhà nước, các quy định hiện hành của ĐHĐN, chiến lược và kế hoạch phát triển của ĐHĐN.\n2. Các quy định hiện hành của Nhà nước có liên quan:\na) Nghị định số 43/2006/NĐ-CP ngày 25/4/2006 của Chính phủ quy định quyền tự chủ, tự chịu trách nhiệm về thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính đối với đơn vị sự nghiệp công lập; Thông tư số 71/2006/TT-BTC ngày 09/8/2006 của Bộ Tài chính về việc Hướng dẫn thực hiện Nghị định số 43/2006/NĐ-CP;\nb) Nghị định số 99/2014/NĐ-CP ngày 25/10/2014 của Chính phủ quy định việc đầu tư phát triển tiềm lực và khuyến khích hoạt động khoa học và công nghệ trong các cơ sở giáo dục đại học;\nc) Nghị định số 86/2015/NĐ-CP ngày 02/10/2015 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập từ năm học 2015 - 2016 đến năm học 2020 - 2021 và Thông tư liên tịch số 09/2016/TTLT-BGDĐT-BTC-BLĐTBXH ngày 30/3/2016 của Bộ trưởng Bộ GD&ĐT, Bộ Tài chính và Bộ Lao động, Thương binh và Xã hội hướng dẫn thực hiện Nghị định số 86/2015/NĐ-CP;\n\n3\n\nd) Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ về việc Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;\nđ) Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ GD&ĐT về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;\ne) Thông tư số 40/2017/TT-BTC ngày 28/4/2017 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị;\nf) Thông tư số 102/2012/TT-BTC ngày 21/6/2012 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí cho cán bộ, công chức Nhà nước đi công tác ngắn hạn ở nước ngoài do NSNN đảm bảo kinh phí;\ng) Thông tư số 71/2018/TT-BTC ngày 10/8/2018 của Bộ trưởng Bộ Tài chính quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước;\nh) Thông tư số 45/2018/TT-BTC ngày 07/5/2018 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan, tổ chức, đơn vị và tài sản cố định do Nhà nước giao cho doanh nghiệp quản lý không tính thành phần vốn nhà nước tại doanh nghiệp;\ni) Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho đào tạo, bồi dưỡng cán bộ, công chức, viên chức;\nj) Thông tư số 58/2016/TT-BTC ngày 29/3/2016 của Bộ trưởng Bộ Tài chính quy định chi tiết việc sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp.\n3. Các quy định hiện hành của ĐHĐN: Quy chế tổ chức và hoạt động của ĐHĐN ban hành kèm theo Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng ĐHĐN, Quy chế tài chính của ĐHĐN ban hành kèm theo Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng ĐHĐN.\n4. Chiến lược phát triển của ĐHĐN được ban hành kèm theo Quyết định số 1219/QĐ-ĐHĐN ngày 17/4/2018 của Chủ tịch Hội đồng ĐHĐN và các quy định được xây dựng nhằm thực hiện chiến lược phát triển hiện hành của ĐHĐN và các trường đại học thành viên, đơn vị trực thuộc ĐHĐN.\n5. Tình hình tài chính và điều kiện thực tế về các hoạt động của ĐHĐN và các trường đại học thành viên, đơn vị trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguồn kinh phí",
+          "text": "Điều 5. Nguồn kinh phí\nNguồn kinh phí được tự chủ, tự chịu trách nhiệm trong Quy chế này gồm:\n\n4\n\n1. Kinh phí NSNN cấp cho các hoạt động thường xuyên.\n2. Các nguồn thu sự nghiệp:\na) Học phí giáo dục đại học và giáo dục nghề nghiệp;\nb) Nguồn thu từ điều tiết của các đơn vị theo Quy chế tài chính của ĐHĐN;\nc) Kinh phí tuyển sinh, xét tuyển dự tuyển;\nd) Các khoản thu từ các chương trình hợp tác liên kết đào tạo với nước ngoài;\nđ) Nguồn thu từ các hoạt động nghiên cứu khoa học và chuyển giao công nghệ ngoài nguồn kinh phí do NSNN cấp;\ne) Các khoản thu sự nghiệp khác.\n3. Các khoản thu hợp pháp khác được để lại sử dụng theo quy định của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nguyên tắc sử dụng nguồn kinh phí và trích lập các Quỹ",
+          "text": "Điều 6. Nguyên tắc sử dụng nguồn kinh phí và trích lập các Quỹ\n1. Giám đốc ĐHĐN sử dụng nguồn kinh phí được NSNN cấp, các khoản điều tiết từ các đơn vị theo Quy chế tài chính của ĐHĐN và các khoản thu sự nghiệp được để lại tại ĐHĐN để chi thường xuyên đảm bảo toàn bộ các hoạt động chung của ĐHĐN và của Cơ quan ĐHĐN.\n2. Hàng năm, sau khi trang trải các khoản chi phí, nộp thuế và các khoản nộp khác theo quy định, phần chênh lệch thu lớn hơn chi hoạt động thường xuyên, được trích lập các quỹ như sau:\na) Trích tối thiểu 25% để lập Quỹ phát triển hoạt động sự nghiệp của toàn ĐHĐN;\nb) Quỹ bổ sung thu nhập cho CBVC thuộc Cơ quan ĐHĐN tối đa không quá 02 lần quỹ tiền lương theo hệ số chức danh nghề nghiệp hoặc theo đề án vị trí việc làm, chức vụ trong năm do Nhà nước quy định; và hỗ trợ chi trả thu nhập tăng thêm cho CBVC toàn ĐHĐN với mức trích tối đa không quá 01 lần quỹ tiền lương theo hệ số chức danh nghề nghiệp hoặc theo đề án vị trí việc làm, chức vụ trong năm do Nhà nước quy định;\nc) Trích lập Quỹ khen thưởng, Quỹ phúc lợi, Quỹ dự phòng ổn định thu nhập của toàn ĐHĐN. Đối với Quỹ khen thưởng và Quỹ phúc lợi: Mức trích tối đa không quá 01 tháng tiền lương, tiền công và thu nhập tăng thêm bình quân của toàn ĐHĐN thực hiện trong năm;\nd) Trích lập Quỹ khen thưởng, Quỹ phúc lợi, Quỹ dự phòng ổn định thu nhập của Cơ quan ĐHĐN. Đối với Quỹ khen thưởng và Quỹ phúc lợi: Mức trích tối đa không quá 02 tháng tiền lương, tiền công và thu nhập tăng thêm bình quân của Cơ quan ĐHĐN thực hiện trong năm.\n\n5\n\nCHƯƠNG 2. QUY ĐỊNH CỤ THỂ\nMỤC 1. CHI THANH TOÁN CÁ NHÂN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiền lương theo chức danh nghề nghiệp",
+          "text": "Điều 7. Tiền lương theo chức danh nghề nghiệp\nĐHĐN bảo đảm chi trả tiền lương cơ bản và các chế độ phụ cấp do Nhà nước quy định. Nguồn kinh phí để chi trả gồm NSNN cấp hàng năm và các khoản thu để lại theo chế độ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiền công",
+          "text": "Điều 8. Tiền công\nĐể giải quyết các công việc phát sinh, ĐHĐN có thể ký hợp đồng lao động xác định thời hạn đối với công việc có tính chất không thường xuyên. Định mức tiền công cụ thể do Giám đốc ĐHĐN quyết định tùy thuộc vào mức độ phức tạp, tính chất, yêu cầu công việc và kỹ năng chuyên môn nghiệp vụ trong thực hiện nhiệm vụ của người lao động (Mức tiền công không được thấp hơn mức lương tối thiểu vùng theo quy định hiện hành tại thời điểm ký kết hợp đồng).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Chi thanh toán làm việc ngoài giờ",
+          "text": "Điều 9. Chi thanh toán làm việc ngoài giờ\n1. Trong trường hợp CBVC phải làm việc ngoài giờ, thủ trưởng các đơn vị thuộc ĐHĐN phải lập kế hoạch trình Giám đốc hoặc Phó Giám đốc phụ trách đơn vị phê duyệt và chịu trách nhiệm kiểm tra xác nhận. Chế độ thanh toán được thực hiện theo quy định hiện hành của Nhà nước.\n2. Trong trường hợp viên chức phải làm việc ngoài giờ để phục vụ cho hoạt động tuyển sinh, hội nghị, hội thảo, hội họp, tiếp các đoàn khách ..., thực hiện thanh toán theo dự toán kinh phí của từng hoạt động.\n3. Thanh toán tiền bồi dưỡng làm việc ngoài giờ, ban đêm, ngày nghỉ cho CBVC gồm: Lái xe, thành viên tổ quản trị mạng với mức khoán 300.000 đồng/người/tháng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Các khoản trích đóng góp theo lương",
+          "text": "Điều 10. Các khoản trích đóng góp theo lương\nCác khoản trích nộp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và kinh phí công đoàn được thực hiện theo quy định của Nhà nước (hiện hành là Luật Bảo hiểm xã hội số 58/2014/QH13 ngày 20/11/2014; Nghị định 191/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định chi tiết về tài chính công đoàn).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Chi trả công tác quản lý và phục vụ",
+          "text": "Điều 11. Chi trả công tác quản lý và phục vụ\n1. Giám đốc ĐHĐN quyết định mức trích để lập nguồn chi trả cho công tác quản lý và phục vụ của CBVC Cơ quan ĐHĐN. Tổng mức trích không quá 2% nguồn thu học phí của toàn ĐHĐN, trong đó trích tối đa 40% của nguồn này chi trả cho công tác quản lý và phục vụ trực tiếp (Phụ lục 1); phần còn lại chi trả cho hoạt động nghiệp vụ, chỉ đạo quản lý học phí và chi trả theo hệ số quản lý (Phụ lục 2) cho CBVC Cơ quan ĐHĐN. Định mức chi cho một hệ số quản lý của CBVC Cơ quan ĐHĐN; chi cho hoạt động nghiệp vụ, chỉ đạo quản lý học phí và chi cho công tác quản lý, phục vụ trực tiếp do Giám đốc ĐHĐN quyết định.\n\n6\n\n2. Trích 5,5% nguồn thu học phí của khoa thuộc ĐHĐN để chi trả công tác quản lý và phục vụ tại khoa.\n3. Trích tối đa 2,5% nguồn thu học phí của các khoa thuộc ĐHĐN để chi trả công tác quản lý điều hành, phối hợp hỗ trợ của Ban Giám đốc và các ban chức năng có liên quan trực tiếp. Đối tượng chi và mức chi do Giám đốc quyết định.\n4. CBVC không tuân thủ phân công của thủ trưởng đơn vị; đi học ngoài ĐHĐN liên tục từ 30 ngày trở lên; nghỉ việc riêng liên tục từ 30 ngày trở lên; nghỉ ốm hoặc nghỉ thai sản thì không được nhận các chế độ được quy định tại Điều này.\n\nMỤC 2. CHI NGHIỆP VỤ CHUYÊN MÔN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Thanh toán dịch vụ công cộng",
+          "text": "Điều 12. Thanh toán dịch vụ công cộng\nChi thanh toán chi phí điện, nước và các dịch vụ khác cho các hoạt động quản lý, đào tạo, nghiên cứu khoa học thuộc nhiệm vụ được giao thường xuyên. Thu hồi lại các chi phí sử dụng cho các hoạt động sản xuất, dịch vụ,... có sử dụng điện, nước nhưng chưa thanh toán trực tiếp được với các nhà cung cấp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Vật tư văn phòng",
+          "text": "Điều 13. Vật tư văn phòng\n1. Chi phí vật tư văn phòng là các khoản chi mua vật liệu, dụng cụ, chi phí in ấn, photocopy các tài liệu dùng chung để phục vụ trực tiếp cho nghiệp vụ hành chính quản lý hoạt động tại các đơn vị. Chi phí này không bao gồm các vật liệu, công cụ, chi phí phục vụ trực tiếp cho giảng dạy, học tập, khảo thí, thí nghiệm, thực hành,...\n2. Định mức khoán kinh phí vật tư văn phòng hàng năm cho Văn phòng ĐHĐN và các Ban chức năng do Giám đốc quyết định từ đầu năm trên cơ sở đề nghị của các bộ phận, định mức đã sử dụng năm qua và trong cân đối chung với tổng mức kinh phí dự toán của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Thông tin, tuyên truyền, liên lạc",
+          "text": "Điều 14. Thông tin, tuyên truyền, liên lạc\nChi phí thông tin, tuyên truyền, liên lạc bao gồm các khoản chi về cước phí điện thoại, fax trong nước, quốc tế ở nơi làm việc, cước phí bưu chính, internet, chi phí quảng cáo, phim ảnh, ấn phẩm và trang thông tin truyền thông, quà tặng truyền thông, sách, báo, tạp chí cho công tác lãnh đạo hoặc quản lý và công tác nghiệp vụ chuyên môn để thực hiện các nhiệm vụ của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Tổ chức hội nghị, hội thảo",
+          "text": "Điều 15. Tổ chức hội nghị, hội thảo\n1. Ban tổ chức hội nghị, hội thảo phải lập kế hoạch và dự trù kinh phí trình Giám đốc ĐHĐN phê duyệt trước khi thực hiện.\n2. Định mức chi tiêu cho tổ chức hội nghị, hội thảo trong nước được xác định trong Quy chế này dựa trên cơ sở các quy định của Nhà nước (hiện hành là Thông tư số 40/2017/TT-BTC) và căn cứ vào tình hình cân đối thu, chi thực tế của ĐHĐN, cụ thể như sau:\n\n7\n\na) Chi thù lao cho giảng viên, chi bồi dưỡng báo cáo viên; người có báo cáo tham luận trình bày tại hội nghị: Được chi theo định mức quy định tại Thông tư số 36/2018/TT-BTC. Cụ thể một số định mức như sau:\n- Giảng viên, báo cáo viên là giáo sư; chuyên gia cao cấp; tiến sĩ khoa học: Mức tối đa không quá 1.200.000 đồng/buổi;\n- Giảng viên, báo cáo viên là phó giáo sư; tiến sĩ; giảng viên chính: Mức tối đa không quá 900.000 đồng/buổi;\n- Giảng viên, báo cáo viên khác (ngoài 2 đối tượng nêu trên): Mức tối đa không quá 600.000 đồng/buổi;\n- Đối với giảng viên, báo cáo viên nước ngoài: Giám đốc quyết định trên cơ sở thỏa thuận tùy theo chất lượng giảng viên, báo cáo viên và bảo đảm phù hợp với khả năng nguồn kinh phí phục vụ hội nghị, hội thảo.\nb) Các khoản chi công tác phí cho giảng viên, báo cáo viên do cơ quan, đơn vị chủ trì tổ chức hội nghị chi theo quy định đối với cán bộ, công chức, viên chức và người lao động của đơn vị tổ chức và ghi rõ trong giấy mời giảng viên, báo cáo viên.\nc) Chi giải khát giữa giờ: Tối đa 20.000 đồng/1 buổi (nửa ngày)/đại biểu.\nd) Chi hỗ trợ tiền ăn, chi bù thêm phần chênh lệch giữa mức chi thực tế do tổ chức ăn tập trung với mức đã thu tiền ăn từ tiền phụ cấp lưu trú, chi hỗ trợ tiền thuê phòng nghỉ, chi hỗ trợ phương tiện đi lại cho đại biểu là khách mời không trong danh sách trả lương của cơ quan nhà nước, đơn vị sự nghiệp công lập và doanh nghiệp: Theo quy định tại Thông tư số 40/2017/TT-BTC.\nđ) Chi khác: Chi trang trí hội trường, chi phục vụ, chi bồi dưỡng ban tổ chức và các khoản chi liên quan trực tiếp đến công tác tổ chức.\n3. Chi tổ chức hội nghị, hội thảo quốc tế thực hiện theo quy định của Nhà nước (hiện hành là Thông tư số 71/2018/TT-BTC).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Công tác phí trong nước",
+          "text": "Điều 16. Công tác phí trong nước\n1. Nội dung chi, hình thức thanh toán và định mức công tác phí trong nước được xây dựng dựa trên cơ sở quy định của Nhà nước (hiện hành là Thông tư số 40/2017/TT-BTC) và căn cứ vào tình hình cân đối thu, chi thực tế của ĐHĐN.\n2. Quy định nội dung chi công tác phí trong nước, cụ thể như sau:\na) Thanh toán chi phí đi lại\n- Người đi công tác được thanh toán các khoản chi phí di chuyển (lượt đi và lượt về) từ nhà hoặc cơ quan đến sân bay, ga tàu, bến xe; vé máy bay, vé tàu, xe vận tải công cộng đến địa phương nơi đến công tác và theo chiều ngược lại; chi phí đi lại từ chỗ nghỉ đến chỗ làm việc, từ sân bay, ga tàu, bến xe về nơi nghỉ (lượt đi và lượt về) tại địa phương nơi đến công tác;\n- Mức thanh toán bao gồm cước, phí di chuyển cho bản thân và phương tiện của người đi công tác, cước tài liệu, thiết bị, dụng cụ, đạo cụ (nếu có) phục\n\n8\n\nvụ trực tiếp cho chuyến đi công tác mà người đi công tác đã chi trả; cước hành lý của người đi công tác bằng phương tiện máy bay trong trường hợp giá vé không bao gồm cước hành lý mang theo;\n- Chi phí di chuyển (lượt đi và lượt về) từ nhà hoặc cơ quan đến sân bay, ga tàu, bến xe và chi phí đi lại từ chỗ nghỉ đến chỗ làm việc, từ sân bay, ga tàu, bến xe về nơi nghỉ (lượt đi và lượt về) tại địa phương nơi đến công tác được thanh toán tối đa theo các mức cụ thể như sau: Người đi công tác là Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Chủ tịch Công đoàn Cơ quan ĐHĐN, CBVC có hệ số phụ cấp chức vụ từ 0,5 trở lên đi công tác một mình hoặc đi theo đoàn đến Hà Nội thanh toán 1.000.000 đồng/đoàn/đợt công tác, các CBVC khác được thanh toán 800.000 đồng/đoàn/đợt công tác; Thành phố Hồ Chí Minh thanh toán 800.000 đồng/đoàn/đợt công tác, các CBVC khác được thanh toán mức 600.000 đồng/đoàn/đợt công tác. Người đi công tác đến các địa phương khác được thanh toán mức tối đa bằng 80% mức đi công tác Thành phố Hồ Chí Minh. Trong trường hợp đặc biệt cần đi lại nhiều trên địa bàn công tác, Giám đốc ĐHĐN xem xét quyết định mức thanh toán;\n- Chi phí di chuyển từ sân bay, bến tàu, bến xe đến địa phương nơi công tác được thanh toán theo hóa đơn thực tế. Loại hình phương tiện di chuyển được quy định như sau: Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Chủ tịch Công đoàn Cơ quan ĐHĐN, CBVC có hệ số phụ cấp chức vụ từ 0,5 trở lên và các giáo sư, phó giáo sư, tiến sĩ khoa học, giảng viên cao cấp được thanh toán phương tiện hàng không hạng ghế thường. Các trường hợp khác, căn cứ tính chất công việc của chuyến công tác, Giám đốc ĐHĐN xem xét duyệt cho người đi công tác di chuyển bằng phương tiện máy bay, tàu hỏa, xe ô tô, phương tiện công cộng hoặc các phương tiện khác bảo đảm nguyên tắc tiết kiệm, hiệu quả. Người đi công tác được thanh toán tiền phương tiện đi lại theo chứng từ thực tế tương ứng với loại phương tiện quy định. Riêng chứng từ thanh toán vé máy bay, phải kèm theo thẻ lên máy bay;\n- Trường hợp cơ quan, đơn vị nơi cử người đi công tác và cơ quan, đơn vị nơi đến công tác đã bố trí phương tiện vận chuyển thì người đi công tác không được thanh toán các khoản chi phí này;\n- Trường hợp CBVC tự túc phương tiện đi công tác và nơi công tác cách trụ sở cơ quan từ 15 km trở lên thì được thanh toán theo mức khoán tự túc phương tiện bằng 1.200 đồng/km tính theo khoảng cách địa giới hành chính.\nb) Phụ cấp lưu trú: Mức phụ cấp lưu trú để trả cho người đi công tác là 200.000 đồng/ngày, được tính từ ngày bắt đầu đi công tác đến khi kết thúc đợt công tác trở về đơn vị (bao gồm thời gian đi trên đường, thời gian lưu trú tại nơi đến công tác).\nc) Tiền thuê phòng nghỉ tại nơi đến công tác\n\n9\n\n-\n\nNgười đi công tác được thanh toán tiền thuê phòng nghỉ tại nơi đến công tác theo hóa đơn thực tế hoặc theo hình thức khoán với các định mức như sau:\n\n| Nơi ở/ Đối tượng thanh toán | Theo hình thức khoán chi | Theo hóa đơn thực tế (đã bao gồm thuế, phí) |\n| 1. Đi công tác tại các quận, thành phố thuộc thành phố trực thuộc trung ương và thành phố là đô thị loại I thuộc tỉnh | | |\n| a. Đối với CBVC là Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Chủ tịch Công đoàn Cơ quan ĐHĐN, CBVC có hệ số chức vụ từ 0,5 trở lên | 450.000 đ/ngày/người | Tối đa 1.000.000 đ/ngày/phòng |\n| b. Trường hợp còn lại | 360.000 đ/ngày/người | Tối đa 800.000 đ/ngày/phòng |\n| 2. Đi công tác tại huyện, thị xã thuộc thành phố trực thuộc trung ương, tại thị xã, thành phố còn lại thuộc tỉnh | | |\n| a. Đối với CBVC là Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Chủ tịch Công đoàn Cơ quan ĐHĐN, CBVC có hệ số chức vụ từ 0,5 trở lên | 350.000 đ/ngày/người | Tối đa 700.000 đ/ngày/phòng |\n| b. Trường hợp còn lại | 280.000 đ/ngày/người | Tối đa 560.000 đ/ngày/phòng |\n| 3. Đi công tác tại các vùng còn lại | | |\n| a. Đối với CBVC là Ủy viên Ban Thường vụ Đảng ủy ĐHĐN, Bí thư Đảng ủy Cơ quan ĐHĐN, Chủ tịch Công đoàn ĐHĐN và Công đoàn Cơ quan ĐHĐN, CBVC có hệ số chức vụ từ 0,5 trở lên | 300.000 đ/ngày/người | Tối đa 600.000 đ/ngày/phòng |\n| b. Trường hợp còn lại | 240.000 đ/ngày/người | Tối đa 480.000 đ/ngày/phòng |\n\n- Tiền thuê phòng nghỉ theo hóa đơn thực tế ở bảng trên là mức tối đa theo tiêu chuẩn 02 người/phòng. Trường hợp đi công tác một mình hoặc theo đoàn có lẻ người khác giới thì được thuê phòng riêng theo mức giá thuê phòng thực tế nhưng tối đa không được vượt mức thuê phòng của những người đi cùng đoàn (theo tiêu chuẩn 02 người/phòng);\n\n10\n\n- Trường hợp người đi công tác do phải hoàn thành công việc đến cuối ngày, hoặc do chỉ đăng ký được phương tiện đi lại (vé máy bay, tàu hỏa, ô tô) từ 18h đến 24h cùng ngày, thì được thanh toán tiền nghỉ của nửa ngày nghỉ thêm (bao gồm cả hình thức thanh toán khoán và thanh toán theo hóa đơn thực tế) tối đa bằng 50% mức thanh toán khoán tiền thuê phòng nghỉ tương ứng của từng đối tượng; không thanh toán khoản tiền khoán thuê phòng nghỉ trong thời gian đi qua đêm trên tàu hỏa, thuyền, tàu thủy, máy bay, ô tô và các phương tiện đi lại khác;\n\n- Trường hợp người đi công tác được cơ quan, đơn vị nơi đến công tác bố trí phòng nghỉ không phải trả tiền, thì người đi công tác không được thanh toán tiền thuê phòng nghỉ;\n\nd) Thanh toán khoán tiền công tác phí theo tháng: Chế độ này được áp dụng cho các đối tượng sau để hỗ trợ tiền gửi xe, xăng xe: Nhân viên kế toán, thủ quỹ của ĐHĐN có liên hệ hàng ngày với Kho bạc Nhà nước, ngân hàng, bảo hiểm, thuế; chuyên viên, văn thư đi liên hệ hàng ngày với các đơn vị bên ngoài. Mức hỗ trợ tối đa là 300.000 đồng/người/tháng. Thành phần cụ thể và mức hỗ trợ do Giám đốc ĐHĐN quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Chi phí thuê mướn",
+          "text": "Điều 17. Chi phí thuê mướn\nChi phí thuê mướn bao gồm nhiều khoản chi liên quan đến việc thuê mướn để phục vụ hoạt động hoặc thực hiện nhiệm vụ đào tạo. Giám đốc ĐHĐN quyết định khi xét duyệt dự toán chi và ký kết hợp đồng cụ thể trước khi thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Chi đoàn ra",
+          "text": "Điều 18. Chi đoàn ra\nCác khoản chi cho đoàn ra được thực hiện theo quy định của Nhà nước (hiện hành là Thông tư số 102/2012/TT-BTC) và tùy theo điều kiện cụ thể mà Giám đốc ĐHĐN xem xét quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Chi đoàn vào",
+          "text": "Điều 19. Chi đoàn vào\nCác khoản chi cho đoàn vào được thực hiện theo quy định của Nhà nước (hiện hành là Thông tư số 71/2018/TT-BTC). Giám đốc ĐHĐN quyết định cụ thể khi xét duyệt dự toán chi hàng năm hoặc dự toán chi khi phát sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Sửa chữa thường xuyên tài sản cố định phục vụ công tác chuyên môn và duy tu, bảo dưỡng các công trình cơ sở hạ tầng",
+          "text": "Điều 20. Sửa chữa thường xuyên tài sản cố định phục vụ công tác chuyên môn và duy tu, bảo dưỡng các công trình cơ sở hạ tầng\n1. Các khoản chi sửa chữa thường xuyên TSCĐ và duy tu, bảo dưỡng bao gồm mua nguyên liệu, nhiên liệu, mua thiết bị phụ tùng thay thế, thuê nhân công và thuê phương tiện, máy móc, thiết bị phục vụ cho việc tự sửa chữa hoặc các khoản thanh toán cho các hợp đồng thuê ngoài để sửa chữa, duy tu, bảo dưỡng tài sản.\n\n2. Hàng năm, các đơn vị thuộc ĐHĐN tập hợp nhu cầu và lập kế hoạch sửa chữa, duy tu, bảo dưỡng các công trình cơ sở hạ tầng trình Giám đốc ĐHĐN phê duyệt. Kinh phí sửa chữa, duy tu, bảo dưỡng các công trình này lấy từ nguồn kinh phí của ĐHĐN.\n\n11",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Chi hoạt động khoa học công nghệ",
+          "text": "Điều 21. Chi hoạt động khoa học công nghệ\n1. Chi thực hiện các đề tài nghiên cứu khoa học và công nghệ các cấp, thực hiện theo các quy định hiện hành của Nhà nước, cụ thể như sau:\na) Chi thực hiện đề tài nghiên cứu khoa học cấp Nhà nước được áp dụng không vượt quá các định mức liên quan theo quy định của Nhà nước (hiện hành là Thông tư liên tịch số 55/2015/TTLT-BTC-BKHCN ngày 22/4/2015 của Bộ Tài chính và Bộ Khoa học Công nghệ hướng dẫn định mức xây dựng, phân bổ dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước và Thông tư liên tịch số 27/2015/TTLT-BKHCN-BTC ngày 30/12/2015 quy định khoán chi thực hiện nhiệm vụ khoa học và công nghệ sử dụng NSNN);\n\nb) Chi thực hiện đề tài nghiên cứu khoa học và công nghệ cấp Bộ có sử dụng NSNN được thực hiện theo Quyết định số 5830/QĐ-BGDĐT ngày 27/11/2015 quy định một số định mức xây dựng, phân bổ dự toán và quyết toán kinh phí áp dụng đối với nhiệm vụ khoa học và công nghệ cấp Bộ;\n\nc) Chi thực hiện đề tài nghiên cứu khoa học và công nghệ cấp ĐHĐN (kể cả các đề tài được ĐHĐN tài trợ tương đương đề tài cấp Bộ): Giao cho Quỹ Phát triển Khoa học và Công nghệ quản lý và thực hiện theo các quy định tại Quyết định số 14/QĐ-QKHCN ngày 14/5/2020 của Hội đồng quản lý Quỹ Phát triển Khoa học và Công nghệ ĐHĐN;\n\nd) Chi thực hiện đề tài nghiên cứu khoa học và công nghệ cấp cơ sở: Mức chi tối đa bằng 75% định mức chi thực hiện đề tài nghiên cứu khoa học và công nghệ cấp ĐHĐN;\n\nđ) Chi quản lý phí đề tài KHCN các cấp: Chi cho các bộ phận tham gia quản lý trực tiếp (tối đa 80%) còn lại bổ sung nguồn chi của Cơ quan ĐHĐN.\n\n2. Chi cho các cuộc họp Hội đồng Khoa học và Đào tạo và các hội đồng tư vấn có tính chất tương tự cấp ĐHĐN:\na) Chủ trì: 300.000 đồng/buổi;\nb) Thành viên: 200.000 đồng/buổi.\n\n3. Chi cho các cuộc họp Hội đồng Chức danh Giáo sư cơ sở:\na) Chủ trì: 600.000 đồng/buổi;\nb) Thành viên: 400.000 đồng/buổi;\nc) Thành viên Tổ giúp việc: 200.000 đồng/buổi;\nd) Thẩm định hồ sơ ứng viên giáo sư: 1.000.000 đồng/hồ sơ;\nđ) Thẩm định hồ sơ ứng viên phó giáo sư: 750.000 đồng/hồ sơ.\n\n4. Chi cho các cuộc họp các hội đồng chuyên môn khác: Do Giám đốc ĐHĐN quyết định.\n\n5. Xuất bản tạp chí Khoa học & Công nghệ định kỳ của ĐHĐN\n\n12\n\nDự toán thu và chi kinh phí cho việc duy trì hoạt động và xuất bản Tạp chí Khoa học & Công nghệ ĐHĐN phải được Ban biên tập Tạp chí lập vào đầu mỗi năm và trình Giám đốc ĐHĐN phê duyệt. Trong đó:\na) Tổng biên tập: 800.000 đồng/số báo;\nb) Phó Tổng biên tập: 600.000 đồng/số báo;\nc) Trưởng Ban biên tập, Trưởng Ban Trị sự và Thư ký: 500.000 đồng/số báo;\nd) Thành viên Ban Biên tập: 100.000 đồng/người/tháng;\nđ) Phản biện: 300.000 đồng/bài báo tiếng Việt; 450.000 đồng/bài báo tiếng Anh;\ne) Chi biên tập nội dung (kiểm tra, chỉnh sửa nội dung và lỗi chính tả,...): 30.000 đồng/trang;\nf) Biên tập tiếng nước ngoài:\n- Tiêu đề và tóm tắt đối với bài báo tiếng Việt: 50.000 đồng/bài;\n- Toàn bộ bài đối với bài báo tiếng Anh: 100.000 đồng/trang.\ng) Biên tập hình thức (Format, chỉnh sửa hình ảnh): 20.000 đồng/trang đối với số xuất bản dùng file word, 50.000đ/trang đối với số xuất bản dùng file Latex;\nh) Chi nộp lệ phí xin cấp mã số DOI: Theo quy định hiện hành của đơn vị cấp mã (Crossref).\n\n6. Hỗ trợ CBVC tham dự hội thảo, hội nghị khoa học\na) Đối với hội nghị, hội thảo được tổ chức trong nước\n- Cán bộ được cử đi tham dự có báo cáo khoa học thì được thanh toán như đi công tác và lệ phí tham gia hội thảo, hội nghị. Cơ sở để được thanh toán là báo cáo toàn văn được hội nghị chấp nhận chính thức, lịch trình báo cáo tại hội thảo, hội nghị và các chứng từ liên quan đến việc đi lại, lưu trú;\n- Các trường hợp khác kinh phí do cá nhân tự túc;\n- Nguồn kinh phí để thanh toán hỗ trợ CBVC tham dự hội thảo, hội nghị khoa học trong nước được lấy từ nguồn kinh phí phục vụ phát triển tiềm lực khoa học công nghệ.\n\nb) Đối với hội nghị, hội thảo được tổ chức ở nước ngoài\n- Cán bộ được cử đi tham dự có báo cáo khoa học được trình bày chính thức trong hội thảo thì được thanh toán phí tham dự hội thảo nhưng không quá 5.000.000 đồng/hội thảo và 70% tiền vé máy bay đối với chặng bay quốc tế cho người trực tiếp tham gia báo cáo, các chi phí khác cá nhân tự trang trải. Nguồn kinh phí được lấy từ nguồn kinh phí phục vụ phát triển tiềm lực khoa học công nghệ;\n\n13\n\n- Điều kiện để được thanh toán: Quyết định cử đi tham dự hội nghị, hội thảo của Giám đốc ĐHĐN; thư mời của BTC Hội thảo thể hiện cá nhân được mời là báo cáo đặt hàng (keynote speaker); là hội nghị, hội thảo chuyên ngành đúng với lĩnh vực nghiên cứu của CBVC; các minh chứng để chứng nhận đã tham gia báo cáo trực tiếp tại hội nghị, hội thảo và các chứng từ thanh toán có liên quan; chỉ được xem xét thanh toán tối đa 1 lần/năm;\n\n- Đối với CBVC được cử đi tham dự hội nghị, hội thảo ở nước ngoài bằng nguồn ngân sách dự án: chế độ hỗ trợ, thanh toán theo quy định của từng dự án hoặc theo chế độ đi công tác ở nước ngoài.\n\n7. Chi hoạt động tư vấn chính sách cho Nhà nước và các địa phương: Mức chi cụ thể như sau:\na) Cấp Sở/Ban ngành: 700.000 đồng/lần góp ý/chuyên gia;\nb) Cấp Tỉnh/Bộ: 1.000.000 đồng/lần góp ý/chuyên gia;\nc) Cấp quốc gia: 2.000.000 đồng/lần góp ý/chuyên gia.\nHồ sơ thanh toán: Văn bản giao nhiệm vụ của Giám đốc ĐHĐN và văn bản góp ý của chuyên gia.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Chi hoạt động hợp tác quốc tế",
+          "text": "Điều 22. Chi hoạt động hợp tác quốc tế\n1. Chi hoạt động hợp tác quốc tế\na) Chi hoạt động hợp tác quốc tế (chi quà tặng, các ấn phẩm truyền thông quốc tế, các khoản chi phí liên quan đến xin cấp và gia hạn thị thực hoặc giấy phép lao động...) do Giám đốc ĐHĐN quyết định trên cơ sở kế hoạch và dự toán đã được phê duyệt;\nb) Các khoản chi khác theo kế hoạch được phê duyệt của Giám đốc ĐHĐN.\n\n2. Chi hỗ trợ cho tình nguyện viên, chuyên gia người nước ngoài\nChi hỗ trợ cho tình nguyện viên, chuyên gia người nước ngoài trên cơ sở kế hoạch và dự toán đã được phê duyệt của Giám đốc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Chi phí tuyển sinh",
+          "text": "Điều 23. Chi phí tuyển sinh\nThực hiện theo quy định hiện hành của Nhà nước cho từng đợt tuyển sinh. Trước mỗi kỳ tuyển sinh Ban Đào tạo phối hợp với Ban KHTC lập dự trù kinh phí phù hợp với điều kiện cụ thể của Hội đồng Tuyển sinh tham mưu Giám đốc ĐHĐN phê duyệt thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Chi trợ cấp thôi việc",
+          "text": "Điều 24. Chi trợ cấp thôi việc\nThực hiện theo quy định của Nhà nước (hiện hành là Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Chi khác",
+          "text": "Điều 25. Chi khác\n1. Chi kỷ niệm các ngày lễ: Giám đốc ĐHĐN phê duyệt dự toán chi hàng năm theo tinh thần tổ chức lễ nghi long trọng nhưng tiết kiệm nhất.\n\n14\n\n2. Chi hoạt động văn hóa và thể thao\na) Chi cho các hoạt động văn hóa và thể thao gồm các khoản chi có liên quan trực tiếp đến các hình thức sinh hoạt văn hóa (chủ yếu là văn nghệ và thể thao) diễn ra định kỳ trong năm hoặc tham dự hội thi các giải do ngành, khu vực, địa phương tổ chức. Các nội dung chi chủ yếu là chi thuê mướn dàn dựng hay huấn luyện ngắn ngày, thuê địa điểm tổ chức (nếu có), thuê mướn phương tiện, mua các vật dụng cần thiết, bồi dưỡng tập luyện, thi đấu, biểu diễn, chi bồi dưỡng trọng tài, giám khảo, chi khen thưởng đạt thành tích cao, chi bồi dưỡng ban tổ chức hội thi, hội diễn tại trường, chi phí nước uống tập luyện, thi đấu, biểu diễn...\n\nb) Các hoạt động văn hóa và thể thao chung toàn ĐHĐN hoặc do cấp ĐHĐN chủ trì: Giám đốc ĐHĐN quyết định các nội dung chi và mức chi cụ thể trên cơ sở dự toán cho từng hoạt động.\n\n3. Chi bảo hiểm tài sản và phương tiện: Giám đốc quyết định danh mục tài sản và phương tiện phải mua bảo hiểm và hàng năm có thể xét duyệt điều chỉnh, bổ sung danh mục nếu thấy cần thiết.\n\n4. Chi tiếp khách: Khách gồm các cá nhân hoặc tổ chức trong nước, ngoài nước đến quan hệ công tác hoặc làm việc với ĐHĐN và các khoa thuộc ĐHĐN. Nội dung và mức chi được thực hiện có chọn lựa phù hợp với các nội dung và định mức chi theo quy định của Nhà nước (hiện hành là Thông tư số 71/2018/TT-BTC).\n\n5. Chi hoạt động Đảng và các tổ chức đoàn thể\na) Chi hoạt động này bao gồm các khoản chi hoạt động của tổ chức Đảng, Hội Cựu Chiến binh, Đoàn Thanh niên CS HCM, Hội Sinh viên, Ban vì sự tiến bộ phụ nữ và chi hỗ trợ kinh phí cho từng hoạt động của Công đoàn, Hội Cựu Giáo chức, Lực lượng tự vệ của ĐHĐN và Cơ quan ĐHĐN;\n\nb) Thực hiện chi theo quy định của Nhà nước (hiện hành là Thông tư số 01/2011/TT-BTC ngày 06/01/2011 của Bộ Tài chính quy định việc hỗ trợ kinh phí từ ngân sách nhà nước cho hội có hoạt động gắn với nhiệm vụ của Nhà nước; việc quản lý, sử dụng tài sản, tài chính của hội; quản lý việc tiếp nhận, sử dụng các nguồn tài trợ của cá nhân, tổ chức nước ngoài cho hội; Hướng dẫn số 21-HD/VPTW ngày 04/3/2013 hướng dẫn một số điểm quy định cụ thể ban hành kèm theo Quyết định số 99/QĐ/TW ngày 30/5/2012 của Ban Bí thư Trung ương Đảng về chế độ chi hoạt động công tác Đảng của tổ chức cơ sở Đảng, Đảng bộ cấp trên trực tiếp cơ sở ở trong nước; Thông tư số 71/2015/TT-BTC ngày 11/05/2015 của Bộ Tài chính quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí hỗ trợ hoạt động của Hội Cựu chiến binh trong các cơ quan nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp, doanh nghiệp và tổ chức khác, Thông tư số 191/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính hướng dẫn quản lý và sử dụng kinh phí hoạt động bình đẳng giới và hoạt động vì sự tiến bộ của phụ nữ);\n\n15\nc) Hàng năm các cấp ủy Đảng và các tổ chức đoàn thể phải xây dựng dự trù kinh phí cụ thể làm cơ sở để Giám đốc ĐHĐN phê duyệt thực hiện.\n6. Các khoản chi khác: Ngoài những khoản chi đã quy định, Giám đốc ĐHĐN quyết định các mức chi cho những công việc đột xuất từ nguồn kinh phí dự phòng hàng năm.\n\nMỤC 3. SỬ DỤNG CÁC QUỸ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Sử dụng Quỹ phát triển hoạt động sự nghiệp",
+          "text": "Điều 26. Sử dụng Quỹ phát triển hoạt động sự nghiệp\n1. Quỹ phát triển hoạt động sự nghiệp dùng để đầu tư, phát triển hoạt động sự nghiệp đào tạo và tiềm lực khoa học công nghệ. Các nội dung chi gồm: bổ sung vốn đầu tư xây dựng cơ sở vật chất, mua sắm trang thiết bị, phương tiện làm việc, chi áp dụng tiến bộ khoa học kỹ thuật và công nghệ; đào tạo, bồi dưỡng nâng cao năng lực cán bộ, viên chức đơn vị; chi hoạt động xây dựng đề án, xây dựng quy chế của ĐHĐN; góp vốn liên doanh, liên kết với các tổ chức, cá nhân trong và ngoài nước để tổ chức hoạt động dịch vụ phù hợp với chức năng, nhiệm vụ được giao và khả năng của đơn vị và theo quy định của pháp luật; đối ứng các dự án đầu tư và khoa học công nghệ. Việc sử dụng Quỹ do Giám đốc ĐHĐN quyết định và chỉ đạo tổ chức thực hiện đúng theo quy định, thủ tục của Nhà nước và của ĐHĐN.\n2. Đầu tư xây dựng cơ sở vật chất, mua sắm trang thiết bị, phương tiện làm việc, chi áp dụng tiến bộ khoa học kỹ thuật và công nghệ: Giám đốc ĐHĐN quyết định việc sử dụng quỹ phát triển hoạt động sự nghiệp của ĐHĐN để đầu tư xây dựng cơ sở vật chất, mua sắm trang thiết bị, phương tiện làm việc, chi áp dụng tiến bộ khoa học kỹ thuật và công nghệ cho ĐHĐN và các đơn vị.\n3. Đào tạo, bồi dưỡng nâng cao năng lực cán bộ, viên chức: Chi hỗ trợ đào tạo là các khoản chi hỗ trợ một phần chi phí trong thời gian học tập cho CBVC khi được Giám đốc ĐHĐN cử đi học tập, bồi dưỡng nâng cao trình độ chuyên môn đáp ứng yêu cầu công tác. Tất cả các trường hợp xin đi học theo nhu cầu cá nhân không được hưởng chế độ hỗ trợ này. Nội dung và định mức chi tiền hỗ trợ như sau:\na) Đối với CBVC là giảng viên được cử đi học tiến sĩ\n- Trường hợp đi học ở nước ngoài từ 30 ngày trở lên cho mỗi lần đi: Được hưởng 40% lương cơ bản theo chức danh nghề nghiệp nhưng phải trích lại để đóng các khoản bảo hiểm mà cá nhân phải nộp theo quy định. Phần kinh phí phải đóng bảo hiểm còn lại được đơn vị chi trả.\n- Trường hợp đào tạo trong nước:\n+ Được hưởng nguyên lương và phụ cấp;\n+ Được hưởng các quyền lợi theo quy định của Quy chế này;\n+ Được hỗ trợ 50% học phí phải đóng (theo hoá đơn thu và giấy triệu tập) nhưng không quá 50% mức trần học phí chương trình đào tạo đại trà theo quy định của Nhà nước (hiện hành là Nghị định số 86/2015/NĐ-CP). Mức hỗ trợ này\n\n16\nchỉ áp dụng đối với viên chức có Quyết định cử đi học tiến sĩ của Giám đốc ĐHĐN;\n+ Được thanh toán tiền giảng vượt giờ chuẩn;\n+ Được hỗ trợ kinh phí để làm luận án: 5.000.000 đồng.\nNgoài ra, đối với những trường hợp được cử đi đào tạo trong nước (tại các cơ sở ngoài thành phố Đà Nẵng), còn được hỗ trợ thêm các khoản sau:\n+ Đi thi tuyển: Được thanh toán 01 lần tiền tàu, xe đi và về (chỉ áp dụng cho CBVC đi dự thi tuyển lần đầu) và hỗ trợ tiền lưu trú dưới 01 tháng với mức 100.000 đồng/ngày;\n+ Trong quá trình học tập: Được thanh toán tiền tàu xe theo giấy triệu tập (không quá hai lần trong một năm) và hỗ trợ tiền ăn, ở mỗi ngày 100.000 đồng (mỗi đợt không quá 03 tháng).\nb) Đối với CBVC đi học các lớp bồi dưỡng chuyên môn, nghiệp vụ, cao cấp, trung cấp lý luận chính trị\n- Bồi dưỡng trong nước: Việc bồi dưỡng chuyên môn, nghiệp vụ, lý luận chính trị phải có kế hoạch trước và được các cấp có thẩm quyền phê duyệt. Người có văn bản cho phép đi bồi dưỡng chuyên môn nghiệp vụ, lý luận chính trị được hưởng các chế độ sau:\n+ Được hỗ trợ 50% kinh phí đào tạo, bồi dưỡng và tiền mua tài liệu (theo hoá đơn thu và giấy triệu tập);\n+ Thanh toán tiền tàu xe cho 01 lần đi về và hỗ trợ thêm tiền ăn 100.000 đồng/ngày (chỉ áp dụng trong trường hợp học tập bồi dưỡng ngoài thành phố Đà Nẵng);\n- Bồi dưỡng tại nước ngoài: Việc cử CBVC đi đào tạo bồi dưỡng hoặc đi công tác tại nước ngoài có thể được thực hiện bằng nhiều nguồn kinh phí khác nhau. Chế độ thanh toán học phí và công tác phí tùy thuộc vào từng nguồn kinh phí cụ thể. Trong một số trường hợp, Giám đốc ĐHĐN có thể quyết định mức hỗ trợ học phí và công tác phí từ Quỹ phát triển hoạt động sự nghiệp.\n- CBVC đi đào tạo bồi dưỡng hoặc đi công tác tại nước ngoài dưới 30 ngày được hưởng nguyên lương; Từ 30 ngày trở lên được hưởng 40% lương nhưng phải trích lại để đóng các khoản bảo hiểm mà cá nhân phải nộp theo quy định. Phần kinh phí phải đóng bảo hiểm còn lại được đơn vị chi trả (Không áp dụng đối với đối tượng ký hợp đồng theo Điều 8 của Quy chế này).\n- Các trường hợp CBVC đi tham quan, học tập, thực tập ở nước ngoài theo nhu cầu cá nhân từ 30 ngày trở lên thì không được hưởng lương nhưng phải nộp phần bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cá nhân phải chi trả theo quy định. Trong thời gian cho phép theo quyết định, phần kinh phí phải đóng BHXH, bảo hiểm y tế và bảo hiểm thất nghiệp còn lại được đơn vị chi trả. Mọi chi phí để làm thủ tục đi nước ngoài cá nhân tự trang trải.\n\n17\nc) Bồi dưỡng chuyên đề, tập huấn do Bộ GD&ĐT triệu tập\n- Thanh toán tiền công tác phí như đi công tác;\n- Được xét cấp kinh phí theo công văn triệu tập;\n- Được thanh toán tiền mua tài liệu theo công văn triệu tập và hoá đơn.\nd) Các trường hợp khác: Do Giám đốc ĐHĐN quyết định.\n4. Chi cho hoạt động xây dựng đề án, xây dựng quy chế của ĐHĐN, xây dựng dự án quốc tế cho ĐHĐN: Thủ tục thanh toán là Dự toán kinh phí được Giám đốc ĐHĐN phê duyệt, các chứng từ thanh toán có liên quan.\n5. Các khoản chi khác: Do Giám đốc ĐHĐN quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Sử dụng quỹ bổ sung thu nhập của Cơ quan",
+          "text": "Điều 27. Sử dụng quỹ bổ sung thu nhập của Cơ quan\n1. Quỹ bổ sung thu nhập được dùng để chi trả thu nhập tăng thêm, hỗ trợ tiền điện thoại để phục vụ cho công việc của một số chức danh (Phụ lục 3), hỗ trợ tiền ăn trưa của CBVC Cơ quan ĐHĐN, hỗ trợ phụ cấp thâm niên cho cán bộ phục vụ của Cơ quan ĐHĐN với mức 50% so với phụ cấp thâm niên đối với Nhà giáo, chi bồi dưỡng hiện vật và chế độ phụ cấp độc hại cho CBVC thực hiện nhiệm vụ chuyên môn tại Cơ quan ĐHĐN.\n2. Giám đốc quyết định mức chi của các nội dung trên theo nguyên tắc công bằng: người nào có hiệu suất công tác cao, đóng góp nhiều cho việc tăng thu, tiết kiệm chi được trả nhiều hơn.\n3. CBVC không tuân thủ phân công của thủ trưởng đơn vị; đi học ngoài ĐHĐN liên tục từ 30 ngày trở lên; nghỉ việc riêng liên tục từ 30 ngày trở lên; nghỉ ốm hoặc nghỉ thai sản thì không được nhận các chế độ liên quan đến thu nhập tăng thêm trong Điều này.\n4. Một số trường hợp phát sinh khác do Giám đốc ĐHĐN quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 28",
+          "heading": "Sử dụng Quỹ phúc lợi",
+          "text": "Điều 28. Sử dụng Quỹ phúc lợi\nQuỹ phúc lợi dùng để xây dựng, sửa chữa các công trình phúc lợi; chi cho các hoạt động phúc lợi tập thể của người lao động trong đơn vị; trợ cấp khó khăn đột xuất cho người lao động, kể cả trường hợp nghỉ hưu, nghỉ mất sức; chi thêm cho người lao động thực hiện tinh giản biên chế và một số khoản chi hỗ trợ khác.\n1. Chi từ quỹ phúc lợi ĐHĐN\na) Chi phúc lợi nhân các ngày lễ, tết: Đối tượng là CBVC ký kết hợp đồng không xác định thời hạn, hợp đồng xác định thời hạn (trong Đề án Vị trí việc làm đã được Giám đốc ĐHĐN phê duyệt) của ĐHĐN đang hưởng lương 100% và trong thời gian nghỉ chế độ thai sản, ốm đau. Giám đốc ĐHĐN ra quyết định chi 5 đợt phúc lợi trong năm cho CBVC toàn ĐHĐN trong các dịp sau:\n- Tết Nguyên đán;\n- Ngày lễ 30/4 và Quốc tế Lao động 1/5;\n\n18\n- Kết thúc năm học;\n- Lễ Quốc Khánh 2/9;\n- Ngày Nhà giáo Việt Nam 20-11.\nb) Chi hỗ trợ cho CBVC nghỉ hưu theo chế độ: Khi CBVC về nghỉ hưu sẽ được nhận một tháng lương đóng bảo hiểm hiện hưởng và phần quà là 1.000.000 đồng/người;\nc) Chi phúc lợi cho các đơn vị và cá nhân có đóng góp vào sự phát triển chung của ĐHĐN;\nd) Vợ (chồng), con của CBVC đang công tác tại ĐHĐN đang theo học đại học tại các trường thuộc ĐHĐN được hỗ trợ 50% học phí. Vợ (chồng), con của CBVC đã nghỉ hưu, mất sức trước đây đã công tác và được giải quyết chế độ tại ĐHĐN đang theo học đại học, cao đẳng tại các trường thuộc ĐHĐN được hỗ trợ 25% học phí. Mức học phí được hỗ trợ là mức học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định của Nhà nước (không bao gồm học phí của các chương trình chất lượng cao, chương trình tiên tiến, chương trình liên kết với nước ngoài...);\nđ) Trong một số trường hợp CBVC bị bệnh nan y cần phải chữa trị lâu dài, tốn kém thì Giám đốc ĐHĐN xem xét quyết định với mức hỗ trợ 5.000.000 đồng/trường hợp từ Quỹ phúc lợi của ĐHĐN;\ne) Chi hỗ trợ cho các thành viên của Hội đồng ĐHĐN, ủy viên Ban Chấp hành Đảng bộ ĐHĐN để thực hiện nghiệp vụ chuyên môn và chi phí đi lại với mức tối đa 1.000.000 đồng/người/tháng;\nf) Chi hỗ trợ khác\n- CBVC đương chức của ĐHĐN qua đời thì ngoài chế độ tử tuất do Nhà nước quy định, ĐHĐN chi hỗ trợ 5.000.000 đồng từ Quỹ phúc lợi của ĐHĐN;\n- Trong trường hợp CBVC do Giám đốc ĐHĐN bổ nhiệm hoặc người thân của họ (cha mẹ đẻ, vợ/chồng, con và cha mẹ vợ/chồng) qua đời thì ĐHĐN sẽ tổ chức thăm viếng với mức 1.500.000 đồng/trường hợp, chi từ Quỹ phúc lợi của ĐHĐN.\n2. Chi từ quỹ phúc lợi Cơ quan ĐHĐN\na) Chi phúc lợi nhân các ngày lễ, tết: Đối tượng là CBVC ký kết hợp đồng không xác định thời hạn, hợp đồng xác định thời hạn (trong Đề án Vị trí việc làm đã được Giám đốc ĐHĐN phê duyệt) của Cơ quan ĐHĐN đang hưởng lương 100% và trong thời gian nghỉ chế độ thai sản, ốm đau. Giám đốc ĐHĐN ra quyết định chi 7 đợt phúc lợi trong năm cho CBVC Cơ quan ĐHĐN trong các dịp sau:\n- Tết Dương lịch;\n- Tết Nguyên đán;\n- Giỗ Tổ Hùng Vương 10/3 Âm lịch;\n\n19\n- Ngày lễ 30/4 và Quốc tế Lao động 1/5;\n- Kết thúc năm học;\n- Lễ Quốc Khánh 2/9;\n- Ngày Nhà giáo Việt Nam 20-11.\nb) Trong một số trường hợp CBVC của Cơ quan bị bệnh nan y cần phải chữa trị lâu dài, tốn kém thì Giám đốc ĐHĐN xem xét quyết định với mức hỗ trợ 3.000.000 đồng/trường hợp từ Quỹ phúc lợi của Cơ quan ĐHĐN;\nc) CBVC đương chức của Cơ quan ĐHĐN qua đời thì ngoài các chế độ khác, Cơ quan ĐHĐN chi hỗ trợ với mức 3.000.000 đồng;\nd) Trong trường hợp CBVC Cơ quan ĐHĐN hoặc người thân của họ (cha mẹ đẻ, vợ/chồng, con và cha mẹ vợ/chồng) qua đời thì Cơ quan ĐHĐN sẽ tổ chức thăm viếng với mức 1.000.000 đồng/trường hợp;\nđ) Trường hợp đi nghỉ phép do cha mẹ đẻ, vợ (chồng), con và cha mẹ vợ (chồng) của CBVC qua đời thì được thanh toán tiền đi lại với mức thanh toán như đi công tác được quy định tại Điều 16 của Quy chế này.\ne) Chi hỗ trợ cho ủy viên Ban Chấp hành Đảng bộ Cơ quan ĐHĐN để thực hiện nghiệp vụ chuyên môn với mức tối đa 500.000 đồng/người/tháng.\n3. Một số trường hợp khác do Giám đốc ĐHĐN quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 29",
+          "heading": "Sử dụng Quỹ Khen thưởng",
+          "text": "Điều 29. Sử dụng Quỹ Khen thưởng\n1. Quỹ khen thưởng dùng để khen thưởng thường xuyên và đột xuất cho cá nhân, tập thể CBVC và sinh viên, học viên khi có thành tích đặc biệt trong năm.\n2. Giám đốc ĐHĐN quyết định mức kinh phí trích lập cụ thể hằng năm trên cơ sở tồn quỹ năm trước, dự tính năm kế hoạch và giới hạn tối đa mức trích lập quỹ theo quy định ở Điều 6 của Quy chế này. Nội dung chi cụ thể như sau:\na) Các danh hiệu Nhà nước và một số hình thức khen thưởng phổ biến: Mức khen thưởng được quy định ở Phụ lục 4.\nb) Những trường hợp chưa được quy định ở Phụ lục 4 thì mức khen thưởng sẽ do Hội đồng thi đua khen thưởng ĐHĐN và Cơ quan ĐHĐN đề xuất, Giám đốc ĐHĐN quyết định dựa trên khả năng tài chính của ĐHĐN.\nc) Các cá nhân có nhiều đóng góp cho việc tìm kiếm dự án cho ĐHĐN sẽ được Giám đốc xét khen thưởng bằng 1% giá trị dự án đem lại nhưng không vượt mức 20.000.000 đồng/dự án.\nd) Riêng trường hợp CBVC được phong chức danh giáo sư, phó giáo sư và bảo vệ thành công luận án tiến sĩ được tặng thưởng với các mức như sau:\n- Chi từ Quỹ khen thưởng của ĐHĐN\n+ Được phong chức danh giáo sư: 5.000.000 đồng;\n+ Được phong chức danh phó giáo sư: 3.000.000 đồng;\n\n20\n+ Bảo vệ thành công luận án và đã nhận bằng tiến sĩ hoặc tiến sĩ mới được tuyển dụng: 1.000.000 đồng.\n- Chi từ Quỹ khen thưởng của Cơ quan ĐHĐN: Mức chi bằng 50% so với mức chi từ Quỹ khen thưởng của ĐHĐN.\n3. Nguồn kinh phí để khen thưởng được xác định theo quy chế thi đua khen thưởng của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 30",
+          "heading": "Sử dụng Quỹ dự phòng ổn định thu nhập",
+          "text": "Điều 30. Sử dụng Quỹ dự phòng ổn định thu nhập\n1. Bổ sung nguồn thực hiện lộ trình tăng lương theo quy định của Chính phủ.\n2. Chi điều tiết để đảm bảo ổn định thu nhập của CBVC qua các năm.\n3. Giám đốc ĐHĐN quyết định việc sử dụng Quỹ dự phòng ổn định thu nhập.\n\nCHƯƠNG 3. TỔ CHỨC THỰC HIỆN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 31",
+          "heading": "Phụ lục bổ sung",
+          "text": "Điều 31. Phụ lục bổ sung\nQuy chế chi tiêu nội bộ này điều chỉnh những hoạt động thu, chi chung của ĐHĐN, các khoa thuộc ĐHĐN căn cứ vào điều kiện đặc thù của đơn vị mình xây dựng Phụ lục quy chế chi tiêu nội bộ, nhưng không được trái với những quy định chung của Nhà nước và của Quy chế này. Các bản Phụ lục quy chế chi tiêu nội bộ được xem là một bộ phận của Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 32",
+          "heading": "Thời gian áp dụng",
+          "text": "Điều 32. Thời gian áp dụng\nQuy chế chi tiêu nội bộ này có hiệu lực thi hành từ ngày 29/4/2021. Bãi bỏ các quy định trước đây trái với bản Quy chế này.\nTrong quá trình thực hiện sẽ có sự tổng kết, đánh giá làm cơ sở cho việc sửa đổi, điều chỉnh, bổ sung cho phù hợp với tình hình thực tế. Một số trường hợp chưa được quy định trong bản Quy chế này sẽ do Giám đốc ĐHĐN xem xét quyết định./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế chi tiêu nội bộ của Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế chi tiêu nội bộ của Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và viên chức của Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và viên chức của Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

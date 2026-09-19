@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0351_599_QĐ-BGDĐT_Quyết định số 599_QĐ-BGDĐT Kế hoạch phổ biến, giáo dục pháp luật của ngành giáo d.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "599/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch phổ biến, giáo dục pháp luật của ngành giáo dục năm 2023",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/02/2023",
+    "effectiveDate": "28/02/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định kèm theo Kế hoạch phổ biến, giáo dục pháp luật của ngành giáo dục năm 2023 nhằm nâng cao ý thức chấp hành pháp luật, đổi mới hình thức phổ biến, giáo dục pháp luật trong nhà trường và các cơ quan, đơn vị thuộc ngành giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Văn Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "1521/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1521/QĐ-TTg ngày 06 tháng 10 năm 2020 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Kết luận số 80-KL/TW ngày 20 tháng 6 năm 2020 của Ban Bí thư về tiếp tục thực hiện Chỉ thị số 32-CT/TW của Ban Bí thư về tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân;"
+    },
+    {
+      "targetDocumentNumber": "21/2021/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 21/2021/QĐ-TTg ngày 21/6/2021 của Thủ tướng Chính phủ quy định về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp PBGDPL."
+    },
+    {
+      "targetDocumentNumber": "1112/CT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "quán triệt thực hiện Chỉ thị số 1112/CT-BGDĐT ngày 19/8/2022 của BGDĐT về thực hiện nhiệm vụ trọng tâm năm học 2022 - 2023;"
+    },
+    {
+      "targetDocumentNumber": "5107/BGDĐT-PC",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "công văn số 5107/BGDĐT-PC ngày 06/10/2022 của Bộ hướng dẫn nhiệm vụ năm học 2022 - 2023 về công tác pháp chế."
+    },
+    {
+      "targetDocumentNumber": "407/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tổ chức thực hiện Quyết định số 407/QĐ-TTg ngày 30/3/2022 của Thủ tướng Chính phủ phê duyệt Đề án \"Tổ chức truyền thông chính sách có tác động lớn đến xã hội trong quá trình xây dựng văn bản quy phạm pháp luật giai đoạn 2022-2027\""
+    },
+    {
+      "targetDocumentNumber": "14/2014/TTLT-BTC-BTP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư liên tịch số 14/2014/TTLT-BTC-BTP ngày 27/01/2014 của Bộ Tài chính và Bộ Tư pháp quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác phổ biến, giáo dục pháp luật và chuẩn tiếp cận pháp luật."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Ban Bí thư",
+    "Vụ Pháp chế",
+    "Bộ Tư pháp",
+    "Hội đồng phối hợp PBGDPLTW",
+    "Công đoàn GDVN",
+    "Cổng thông tin điện tử BGDĐT",
+    "Quốc hội",
+    "Bộ Tài chính",
+    "Công đoàn Giáo dục Việt Nam",
+    "Hội đồng phối hợp phổ biến, giáo dục pháp luật Trung ương"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch phổ biến, giáo dục",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch phổ biến, giáo dục\npháp luật của ngành giáo dục năm 2023.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Pháp chế, Thủ trưởng các đơn vị",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Pháp chế, Thủ trưởng các đơn vị\nthuộc Bộ Giáo dục và Đào tạo, giám đốc các sở giáo dục và đào tạo, giám đốc các\nđại học, học viện; hiệu trưởng trường đại học, trường cao đẳng sư phạm, thủ\ntrưởng các cơ quan, tổ chức liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0140_821_QĐ-BGDĐT_Quyết định 821_QĐ-BGDĐT Quyết định Ban hành Quy định về quản lý việc in, cấp phôi.txt",
+  "mappedBy": "gemini-web",
+  "note": "16 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "821/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Quy định về quản lý việc in, cấp phôi bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông và phôi chứng chỉ của hệ thống giáo dục quốc dân tại cơ quan Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/03/2020",
+    "effectiveDate": "24/03/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khảo thí",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định về quản lý việc in, bảo quản, hủy và cấp phôi bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông cùng phôi chứng chỉ của hệ thống giáo dục quốc dân tại cơ quan Bộ Giáo dục và Đào tạo. Văn bản quy định chi tiết trách nhiệm của Cục Quản lý chất lượng, các đơn vị liên quan và quy trình tiếp nhận, xử lý hồ sơ cấp phôi.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Độ",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "21/2019/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 21/2019/TT-BGDĐT ngày 29 tháng 11 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt nghiệp cao đẳng sư phạm, văn bằng giáo dục đại học và chứng chỉ của hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "2077/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2077/QĐ-BGDĐT ngày 19 tháng 6 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị giúp Bộ trưởng thực hiện chức năng quản lý nhà nước thuộc Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "88/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 88/QĐ-BGDĐT ngày 09 tháng 01 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc sửa đổi, bổ sung một số điều của Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị giúp Bộ trưởng thực hiện chức năng quản lý nhà nước thuộc Bộ Giáo dục và Đào tạo ban hành kèm theo Quyết định số 2077/QĐ-BGDĐT ngày 19 tháng 6 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "5225/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này thay thế Quyết định số 5225/QĐ-BGDĐT ngày 06 tháng 11 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định cung cấp phôi bằng tốt nghiệp trung học cơ sở, trung học phổ thông, phôi chứng chỉ giáo dục thường xuyên và phôi chứng chỉ giáo dục Quốc phòng - An ninh"
+    },
+    {
+      "targetDocumentNumber": "5599/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "và Quyết định số 5599/QĐ-BGDĐT ngày 02 tháng 12 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định về quy trình cấp phát phôi văn bằng, chứng chỉ tại Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "mentions": [
+    "Cục Quản lý chất lượng",
+    "Trung tâm Công nhận văn bằng",
+    "Phòng Quản lý văn bằng chứng chỉ",
+    "Thanh tra Bộ",
+    "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) chi nhánh Hà Thành – Hà Nội"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về quản lý việc in, cấp phôi bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông và phôi chứng chỉ của hệ thống giáo dục quốc dân tại cơ quan Bộ Giáo dục và Đào tạo",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\nVăn bản này quy định về quản lý việc in, cấp phôi bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông và phôi chứng chỉ của hệ thống giáo dục quốc dân (sau đây viết tắt là phôi VBCC) tại cơ quan Bộ Giáo dục và Đào tạo gồm: in, quản lý, bảo quản, hủy phôi VBCC; quy trình cấp phôi VBCC và trách nhiệm của các đơn vị, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đối tượng áp dụng",
+          "text": "Điều 2. Đối tượng áp dụng\nQuy định này áp dụng đối với:\n1. Cục Quản lý chất lượng.\n2. Các sở giáo dục và đào tạo; các cơ sở giáo dục có nhu cầu nhận phôi VBCC (sau đây gọi chung là đơn vị nhận phôi VBCC).\n3. Các đơn vị, tổ chức, cá nhân có liên quan thuộc Bộ Giáo dục và Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "In phôi văn bằng chứng chỉ",
+          "text": "Điều 3. In phôi văn bằng chứng chỉ\nCục Quản lý chất lượng chủ trì, phối hợp với các đơn vị có liên quan thực hiện in phôi VBCC đảm bảo chặt chẽ, an toàn, bảo mật và phải lập hồ sơ quản lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Quản lý phôi văn bằng chứng chỉ",
+          "text": "Điều 4. Quản lý phôi văn bằng chứng chỉ\n1. Việc quản lý phôi VBCC phải đảm bảo chặt chẽ, không để xảy ra thất thoát.\n2. Phôi VBCC phải có các dấu hiệu bảo mật (tem bảo hiểm, mã vạch, dấu hiệu khác). Cục trưởng Cục Quản lý chất lượng chịu trách nhiệm lựa chọn dấu hiệu bảo mật trên phôi VBCC đảm bảo tính mỹ thuật, tính bảo mật và khó làm giả. Các dấu hiệu bảo mật nhận dạng phôi VBCC do Cục trưởng Cục Quản lý\n\nchất lượng và Trưởng phòng Quản lý văn bằng chứng chỉ được ủy nhiệm nắm giữ để phục vụ việc bảo mật, in ấn, nhận dạng và chống làm giả phôi VBCC.\n3. Phôi VBCC được đánh số hiệu (seri) trước khi cấp cho các đơn vị nhận phôi VBCC. Mỗi phôi VBCC có một số hiệu riêng. Cục trưởng Cục Quản lý chất lượng quy định số hiệu phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Bảo quản phôi văn bằng chứng chỉ",
+          "text": "Điều 5. Bảo quản phôi văn bằng chứng chỉ\n1. Cơ sở vật chất và trang thiết bị để bảo quản phôi VBCC\na) Kho bảo quản phôi VBCC là nơi cất và lưu giữ phôi VBCC. Kho bảo quản phôi VBCC phải bảo đảm trang thiết bị phòng chống cháy nổ, đủ diện tích và đáp ứng được các yêu cầu về môi trường và an ninh.\nb) Trang thiết bị bảo quản phôi VBCC gồm: Tủ, két, giá, kệ, bàn ghế, máy điều hòa, máy hút ẩm, máy hút bụi, quạt thông gió, thuốc chống ẩm mốc và diệt các sinh vật gây hại.\n2. Cục Quản lý chất lượng có trách nhiệm định kỳ kiểm tra việc bảo quản phôi VBCC\na) Hằng tháng: Kiểm tra vệ sinh và an ninh khu vực bảo quản phôi VBCC.\nb) Hằng quý: Kiểm tra chất lượng phôi, tình trạng bảo quản phôi VBCC.\nc) Hằng năm: Phun thuốc diệt sinh vật gây hại và bảo dưỡng các thiết bị được trang bị bảo quản phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Hủy phôi văn bằng chứng chỉ",
+          "text": "Điều 6. Hủy phôi văn bằng chứng chỉ\nPhôi VBCC bị hư hỏng, do ban hành mẫu mới hoặc vì các lý do khác không còn sử dụng được thì phải hủy. Cục trưởng Cục Quản lý chất lượng ra quyết định thành lập Hội đồng hủy phôi VBCC. Việc hủy phôi VBCC phải được lập biên bản trong đó ghi rõ thành phần Hội đồng hủy phôi VBCC, tình trạng phôi VBCC trước khi hủy, số lượng từng loại phôi VBCC hủy, ngày hủy, nơi hủy, hình thức hủy và kết quả hủy. Biên bản hủy phôi VBCC phải có đầy đủ chữ ký của các thành viên Hội đồng hủy phôi VBCC và được lưu trữ trong hồ sơ quản lý phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Cấp phôi văn bằng, chứng chỉ",
+          "text": "Điều 7. Cấp phôi văn bằng, chứng chỉ\n1. Đơn vị nhận phôi bằng tốt nghiệp trung học cơ sở, phôi bằng tốt nghiệp trung học phổ thông, phôi bản sao bằng tốt nghiệp trung học cơ sở, phôi bản sao bằng tốt nghiệp trung học phổ thông gửi về Cục Quản lý chất lượng:\na) Văn bản đề nghị cấp phôi bằng của sở giáo dục và đào tạo nêu rõ nội dung:\n-\n\nSố lượng học sinh tốt nghiệp và minh chứng kèm theo; số lượng phôi bằng đề nghị cấp; số lượng phôi bằng đã được cấp đợt trước, số lượng phôi bằng đã sử dụng để cấp cho người học; số lượng phôi bằng phải hủy do ghi sai nội dung; số lượng phôi bằng bị hư hỏng, bị mất trong quá trình bảo quản, lưu trữ (có kèm biên bản hủy phôi); số lượng phôi bằng chưa sử dụng.\n- Họ tên, địa chỉ, số điện thoại và địa chỉ thư điện tử của người nhận phôi văn bằng.\n- Hình thức nhận phôi văn bằng (trực tiếp hoặc qua bưu điện).\nb) Nếu nhận trực tiếp, người nhận phôi VBCC phải có giấy giới thiệu của sở giáo dục và đào tạo.\n2. Đơn vị nhận phôi chứng chỉ gửi về Cục Quản lý chất lượng:\na) Văn bản đề nghị cấp phôi chứng chỉ của sở giáo dục và đào tạo hoặc cơ sở giáo dục (đối với phôi chứng chỉ Giáo dục quốc phòng và an ninh) nêu rõ nội dung:\n- Tình hình thực hiện đào tạo: Đơn vị đào tạo, thời gian, địa điểm thực hiện, đối tượng tham gia; minh chứng được phép tổ chức dạy, học và cấp chứng chỉ (đối với chứng chỉ Giáo dục quốc phòng và an ninh).\n- Số lượng phôi chứng chỉ đề nghị cấp; số lượng học viên/thí sinh theo học hoặc dự thi, số lượng học viên/thí sinh được cấp chứng chỉ; số lượng phôi chứng chỉ đã được cấp đợt trước, số lượng phôi chứng chỉ đã sử dụng để cấp cho học viên/thí sinh; số lượng phôi chứng chỉ phải hủy do ghi sai nội dung; số lượng phôi chứng chỉ bị hư hỏng, bị mất trong quá trình bảo quản, lưu trữ (có kèm biên bản hủy phôi); số lượng phôi chứng chỉ chưa sử dụng.\n- Họ tên, địa chỉ, số điện thoại và địa chỉ thư điện tử của người nhận phôi chứng chỉ.\n- Hình thức nhận phôi chứng chỉ (trực tiếp hoặc qua bưu điện).\nb) Giấy phép hoạt động, đề án thành lập, báo cáo điều kiện đào tạo, bồi dưỡng (đối với trường hợp đề nghị cấp phôi chứng chỉ lần đầu).\nc) Nếu nhận trực tiếp, người nhận phôi VBCC phải có Giấy giới thiệu của đơn vị nhận phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiếp nhận và xử lý hồ sơ",
+          "text": "Điều 8. Tiếp nhận và xử lý hồ sơ\n1. Hồ sơ nhận trực tiếp\na) Trường hợp hồ sơ đầy đủ theo quy định tại Điều 7, ngay trong ngày nhận được hồ sơ, Phòng Quản lý văn bằng chứng chỉ lập phiếu cấp phôi VBCC (Phụ lục I) trình Cục trưởng duyệt và chuyển Trung tâm Công nhận văn bằng thực hiện cấp phôi VBCC. Người được giao nhiệm vụ trực tiếp nhận phôi VBCC phải xuất trình Chứng minh nhân dân hoặc Thẻ căn cước công dân khi nhận phôi VBCC.\n\nb) Trường hợp hồ sơ chưa đầy đủ, Phòng Quản lý văn bằng chứng chỉ hướng dẫn đơn vị nhận phôi VBCC hoàn thiện hồ sơ đề nghị cấp phôi VBCC.\n2. Hồ sơ nhận qua bưu điện\na) Trường hợp hồ sơ đầy đủ, Phòng Quản lý văn bằng chứng chỉ làm Phiếu xác nhận số lượng văn bằng chứng chỉ (Phụ lục II) gửi Trung tâm Công nhận văn bằng báo số lượng phôi VBCC được duyệt. Trung tâm Công nhận văn bằng thông báo cho đơn vị nhận phôi VBCC chi phí và thông tin chuyển khoản. Sau khi Trung tâm Công nhận văn bằng xác nhận đã nhận đủ kinh phí mua phôi VBCC, Phòng Quản lý văn bằng chứng chỉ làm Phiếu cấp phôi văn bằng chứng chỉ (Phụ lục I). Trung tâm Công nhận văn bằng căn cứ số lượng được duyệt thực hiện chuyển phôi VBCC và Phiếu xuất kho bằng hình thức chuyển phát nhanh bảo đảm đến địa chỉ đơn vị nhận phôi VBCC đã đăng ký trong hồ sơ. Trung tâm Công nhận văn bằng có trách nhiệm thực hiện các thủ tục về tài chính theo yêu cầu của đơn vị nhận phôi VBCC đúng quy định của pháp luật.\nb) Trường hợp hồ sơ chưa đầy đủ, Phòng Quản lý văn bằng chứng chỉ hướng dẫn đơn vị nhận phôi VBCC hoàn thiện hồ sơ đề nghị cấp phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Địa chỉ nộp hồ sơ và địa điểm nhận phôi văn bằng chứng chỉ",
+          "text": "Điều 9. Địa chỉ nộp hồ sơ và địa điểm nhận phôi văn bằng chứng chỉ\n1. Địa chỉ nộp hồ sơ đề nghị cấp phôi VBCC: Phòng Quản lý văn bằng chứng chỉ - Cục Quản lý chất lượng, Bộ Giáo dục và Đào tạo, 35 Đại Cồ Việt, Quận Hai Bà Trưng, Hà Nội.\nTrước khi nộp hồ sơ (trực tiếp hoặc qua bưu điện), đơn vị nhận phôi VBCC có thể gửi trước công văn đề nghị cấp phôi VBCC theo địa chỉ email: capphoivbcc@moet.gov.vn; Điện thoại liên hệ: 024.386.85971.\n2. Địa điểm nhận phôi VBCC:\na) Nhận phôi VBCC trực tiếp tại Trung tâm công nhận văn bằng – Cục Quản lý chất lượng; địa chỉ: Tầng 1 toà nhà 8C, ngõ 30 Tạ Quang Bửu, Quận Hai Bà Trưng, Hà Nội; Điện thoại: 0243.868.3359; Email: vbcc.cnvb@moet.edu.vn.\nb) Nhận phôi VBCC theo địa chỉ đăng ký: Phôi VBCC được Trung tâm Công nhận văn bằng gửi đến địa chỉ của đơn vị nhận phôi VBCC bằng hình thức chuyển phát nhanh bảo đảm.\nKhuyến khích đơn vị nhận phôi VBCC lựa chọn hình thức nhận phôi VBCC qua bưu điện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Chi phí cấp phôi văn bằng chứng chỉ",
+          "text": "Điều 10. Chi phí cấp phôi văn bằng chứng chỉ\n1. Thanh toán bằng tiền mặt: Thanh toán trực tiếp tại Trung tâm Công nhận văn bằng - Cục Quản lý chất lượng.\n2. Thanh toán bằng hình thức chuyển khoản: Đơn vị nhận phôi VBCC chuyển tiền theo thông tin sau:\n\na) Tên đơn vị thụ hưởng: Trung tâm công nhận văn bằng.\nb) Tài khoản số: 1221 000 193 4049.\nc) Ngân hàng: Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) chi nhánh Hà Thành – Hà Nội.\nKhi chuyển tiền qua tài khoản, đơn vị nhận phôi VBCC ghi rõ tên đơn vị trả tiền và nội dung: “Thanh toán tiền phôi VBCC” (ghi rõ loại phôi nào).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Trách nhiệm của Cục Quản lý chất lượng",
+          "text": "Điều 11. Trách nhiệm của Cục Quản lý chất lượng\n1. Cục trưởng Cục Quản lý chất lượng quyết định số lượng phôi VBCC in hằng năm.\n2. Quản lý chặt chẽ số lượng phôi đã in, đảm bảo quá trình in bảo mật, an toàn.\n3. Thực hiện việc cấp phôi VBCC.\n4. Bố trí cán bộ đủ năng lực, phẩm chất để đảm nhiệm việc quản lý, cấp phôi VBCC theo đúng quy định.\n5. Thực hiện các quy định về kiểm tra định kỳ và bảo quản phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Trách nhiệm của các đơn vị, cá nhân có liên quan thuộc Bộ Giáo dục và Đào tạo",
+          "text": "Điều 12. Trách nhiệm của các đơn vị, cá nhân có liên quan thuộc Bộ Giáo dục và Đào tạo\n1. Các Vụ, Cục có liên quan thuộc Bộ có trách nhiệm: Phối hợp với Cục Quản lý chất lượng trong việc quản lý, cấp phôi VBCC.\n2. Thanh tra Bộ thực hiện thanh tra, kiểm tra định kỳ hoặc đột xuất việc in, bảo mật, đánh số hiệu, bảo quản, cấp phôi và kinh phí cấp phôi VBCC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 13. Tổ chức thực hiện\nTrong quá trình thực hiện, nếu có khó khăn, vướng mắc, các đơn vị thuộc Bộ và các đơn vị nhận phôi VBCC phản ánh kịp thời về Cục Quản lý chất lượng - Bộ Giáo dục và Đào tạo để tổng hợp báo cáo Bộ trưởng xem xét, giải quyết./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về quản lý việc in, cấp phôi bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông và phôi chứng chỉ của hệ thống giáo dục quốc dân tại cơ quan",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về quản lý việc in, cấp phôi bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông và phôi chứng chỉ của hệ thống giáo dục quốc dân tại cơ quan Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.\n\nQuyết định này thay thế Quyết định số 5225/QĐ-BGDĐT ngày 06 tháng 11 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định cung cấp phôi bằng tốt nghiệp trung học cơ sở, trung học phổ thông, phôi chứng chỉ giáo dục thường xuyên và phôi chứng chỉ giáo dục Quốc phòng - An ninh tại\n\ncơ quan Bộ Giáo dục và Đào tạo và Quyết định số 5599/QĐ-BGDĐT ngày 02 tháng 12 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định về quy trình cấp phát phôi văn bằng, chứng chỉ tại Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Cục trưởng Cục Quản lý chất lượng, thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo; giám đốc sở giáo dục và đào tạo; thủ trưởng các cơ sở giáo dục có liên quan chịu trách nhiệm thi",
+      "text": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Quản lý chất lượng, thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo; giám đốc sở giáo dục và đào tạo; thủ trưởng các cơ sở giáo dục có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

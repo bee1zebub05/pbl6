@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0238_4754_QĐ-ĐHĐN_Quy định về công tác kiểm tra của Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "25 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4754/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về công tác kiểm tra của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "07/12/2022",
+    "effectiveDate": "07/12/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Thanh tra, kiểm tra"
+    ],
+    "summary": "Quyết định ban hành Quy định về công tác kiểm tra của Đại học Đà Nẵng, bao gồm các nội dung về phạm vi điều chỉnh, đối tượng áp dụng, mục đích, nguyên tắc, hình thức, thời hạn, trách nhiệm triển khai và quy trình kiểm tra.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Thanh tra và Pháp chế"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về công tác kiểm tra của Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nVăn bản này quy định về công tác kiểm tra của Đại học Đà Nẵng (ĐHĐN)\nbao gồm: mục đích hoạt động kiểm tra; nguyên tắc kiểm tra; trách nhiệm triển\nkhai công tác kiểm tra; tổ chức Đoàn kiểm tra; xây dựng, điều chỉnh kế hoạch\nkiểm tra hằng năm và kiểm tra đột xuất; quy trình kiểm tra.\n2. Đối tượng áp dụng\na) Các trường đại học thành viên; các đơn vị thuộc và trực thuộc ĐHĐN\n(sau đây gọi là đơn vị); Tổ kiểm tra, Đoàn kiểm tra (sau đây gọi là Đoàn kiểm\ntra) được Giám đốc ĐHĐN, Thủ trưởng đơn vị quyết định thành lập.\nb) Các đơn vị, cá nhân là đối tượng kiểm tra và các đơn vị; tổ chức, cá nhân\ncó liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích hoạt động kiểm tra",
+          "text": "Điều 2. Mục đích hoạt động kiểm tra\n1. Kịp thời nắm bắt thông tin về tình hình triển khai thực hiện văn bản quy\nphạm pháp luật, văn bản quy phạm nội bộ của ĐHĐN, của đơn vị; các kết luận\nthanh tra, thông báo kết quả kiểm tra của các Đoàn thanh tra, kiểm tra của cơ\nquan có thẩm quyền, của ĐHĐN, của đơn vị và việc thực hiện chức năng, nhiệm\nVụ được giao đối với các đối tượng nêu tại khoản 2 Điều 1 Quy định này.\n2. Giúp đối tượng kiểm tra thực hiện đúng quy định của pháp luật, của\nĐHĐN và của đơn vị.\n3 Phòng ngừa vi phạm; kiến nghị biện pháp xử lý khi có dấu hiệu vi phạm;\nphát hiện những hạn chế, thiếu sót trong cơ chế quản lý để điều chỉnh hoạt động\nquản lý cho phù hợp, đúng quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguyên tắc kiểm tra",
+          "text": "Điều 3. Nguyên tắc kiểm tra\n1 Công tác kiểm tra phải đảm bảo nguyên tắc chính xác, khách quan; công\nkhai, dân chủ, kịp thời; không chồng chéo về nội dung, đối tượng, thời gian kiểm\ntra; không làm cản trở hoạt động bình thường của đơn vị, cá nhân là đối tượng\nkiểm tra.\n\n2. Hoạt động kiểm tra được thực hiện trên cơ sở quyết định kiểm tra của\nGiám đốc ĐHĐN, Thủ trưởng đơn vị; theo đúng quy trình kiểm tra quy định tại\nChương IV Quy định này (trừ hoạt động kiểm tra đột xuất).\nViệc kiểm tra đột xuất được thực hiện theo quy định tại Điều 13 Quy định\nnày.\n3 Không bố trí kiểm tra quá 3 lần/năm và 2 lần/tháng đối với một đối tượng\nkiểm tra (trừ trường hợp kiểm tra đột xuất) .",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Địa điểm, thời gian làm việc của Đoàn kiểm tra",
+          "text": "Điều 4. Địa điểm, thời gian làm việc của Đoàn kiểm tra\n1 Trong quá trình kiểm tra, Đoàn kiểm tra làm việc với đối tượng kiểm tra,\nđơn vị; tổ chức, cá nhân có liên quan tại trụ sở của cá nhân, đơn vị là đối tượng\nkiểm tra hoặc nơi tiến hành kiểm tra, xác minh.\n2. Đoàn kiểm tra làm việc với đối tượng kiểm tra, đơn vị; tổ chức, cá nhân có\nliên quan trong giờ hành chính. Trường hợp cần thiết phải làm việc ngoài giờ hành\nchính thì Trưởng đoàn kiểm tra quyết định và phải chịu trách nhiệm về quyết định\nđó.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nội dung kiểm tra",
+          "text": "Điều 5. Nội dung kiểm tra\n1. Kiểm tra việc triển khai thực hiện văn bản quy phạm pháp luật, văn bản\ncủa ĐHĐN và của đơn vị đối với các hoạt động thuộc phạm vi quản lý của Giám\nđốc ĐHĐN, Thủ trưởng đơn vị.\n2. Kiểm tra việc triển khai thực hiện chức năng, nhiệm vụ được giao của\nđối tượng kiểm tra.\n3. Kiểm tra việc triển khai thực hiện các kết luận, chỉ đạo của Giám đốc ĐHĐN,\nThủ trưởng đơn vị và của cơ quan có thẩm quyền.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Hình thức, thời hạn kiểm tra",
+          "text": "Điều 6. Hình thức, thời hạn kiểm tra\n1. Hình thức kiểm tra\na) Kiểm tra theo kế hoạch hằng năm đã được Giám đốc ĐHĐN, Thủ trưởng\nđơn vị phê duyệt.\nb) Kiểm tra đột xuất được tiến hành khi phát hiện đơn vị, cá nhân có dấu\nhiệu vi phạm pháp luật hoặc theo yêu cầu của Bộ Giáo dục và Đào tạo (GDĐT),\nGiám đốc ĐHĐN, Thủ trưởng đơn vị.\n2. Thời hạn kiểm tra\nThời hạn kiểm tra là thời gian Đoàn kiểm tra làm việc trực tiếp với đối\ntượng kiểm tra. Thời hạn kiểm tra không quá 5 ngày làm việc. Trường hợp đặc\nbiệt do Giám đốc ĐHĐN, Thủ trưởng đơn vị quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Trách nhiệm triển khai công tác kiểm tra",
+          "text": "Điều 7. Trách nhiệm triển khai công tác kiểm tra\n1. Giám đốc ĐHĐN, Thủ trưởng đơn vị là người ra quyết định kiểm tra, có\ntrách nhiệm tổ chức, chỉ đạo Đoàn kiểm tra, bảo đảm nguyên tắc của hoạt động\n\nkiểm tra, bảo đảm cuộc kiểm tra được thực hiện đúng quy định của pháp luật,\nđúng mục đích, yêu cầu; giải quyết kịp thời các phản ánh, kiến nghị của Đoàn\nkiểm tra; các khiếu nại, tố cáo, kiến nghị, phản ánh liên quan đến hoạt động của\nĐoàn kiểm tra.\n2. Ban Thanh tra và Pháp chế\na) Xây dựng, tham mưu Giám đốc ĐHĐN ban hành văn bản đề nghị Văn\nphòng và các ban chức năng của ĐHĐN (sau đây gọi chung là các ban chức năng)\nđề xuất kế hoạch kiểm tra hằng năm.\nb) Chủ trì xây dựng kế hoạch công tác kiểm tra hằng năm, trình Giám đốc\nĐHĐN phê duyệt; theo dõi, đôn đốc việc thực hiện kế hoạch của các ban chức\nnăng;\nTham mưu Giám đốc ĐHĐN ban hành quyết định kiểm tra (Mẫu số\nO2-KT) và tổ chức các cuộc kiểm tra được phân công chủ trì.\nd) Tham gia các Đoàn kiểm tra khác khi có yêu cầu.\nđ) Lập và lưu trữ hồ sơ các cuộc kiểm tra được giao chủ trì theo quy định tại\nĐiều 18 Quy định này .\ne) Làm đầu mối quản lý về hoạt động kiểm tra của ĐHĐN.\n3. Các ban chức năng của ĐHĐN\na) Căn cứ vào chức năng, nhiệm vụ đề xuất kế hoạch kiểm tra hằng năm của\nban (Mẫu số 0l-KT) và gửi về Ban Thanh tra và Pháp chế để tổng hợp và xây\ndựng kế hoạch công tác kiểm tra hằng năm của ĐHĐN.\nb) Tham mưu Giám đốc ĐHĐN ban hành quyết định kiểm tra (Mẫu số\n02-KT) và tổ chức các cuộc kiểm tra được phân công chủ trì.\nTham gia các Đoàn kiểm tra khác khi có yêu cầu.\nd) Lập và lưu trữ hồ sơ các cuộc kiểm tra được giao chủ trì theo quy định tại\nĐiều 18 Quy định này .\n4. Tổ chức thanh tra nội bộ (Phòng/Tổ Thanh tra) hoặc viên chức làm công\ntác thanh tra tại đơn vị có trách nhiệm tham mưu Thủ trưởng đơn vị tổ chức thực\nhiện công tác kiểm tra tại đơn vị; theo dõi, tổng ! hợp, báo cáo công tác kiểm tra của\nđơn vị gửi về ĐHĐN (qua Ban Thanh Tra và Pháp chế) theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Thành phần và quan hệ công tác của Đoàn kiểm tra",
+          "text": "Điều 8. Thành phần và quan hệ công tác của Đoàn kiểm tra\n1. Thành phần Đoàn kiểm tra gồm có: Trưởng đoàn, Phó Trưởng đoàn (nếu\ncần thiết) và các thành viên đoàn.\n2. Quan hệ công tác trong Đoàn kiểm tra\nTrưởng đoàn kiểm tra có trách nhiệm chỉ đạo, điều hành hoạt động của\nĐoàn kiểm tra.\n\nb) Phó Trưởng đoàn kiểm tra (nếu có) có trách nhiệm giúp Trưởng đoàn\nkiểm tra thực hiện nhiệm vụ được giao, phụ trách một số hoạt động của Đoàn\nkiểm tra khi được Trưởng đoàn kiểm tra giao.\nc) Thành viên đoàn kiểm tra thực hiện nhiệm vụ theo sự phân công của\nTrưởng đoàn kiểm tra, chấp hành sự chỉ đạo, điều hành của Trưởng đoàn kiểm tra\nvề việc thực hiện nhiệm vụ được giao. Trong trường hợp có vấn đề phát sinh vượt\nquá thẩm quyền thì thành viên đoàn kiểm tra báo cáo kip thời với Trưởng đoàn\nkiểm tra và đề xuất biện pháp xử lý.\nCác thành viên đoàn kiểm tra có trách nhiệm phối hợp, hỗ trợ, tạo điều kiện\ngiúp đỡ nhau để hoàn thành nhiệm vụ được giao.\n3. Quan hệ công tác của Đoàn kiểm tra với người ra quyết - định kiểm tra\nTrưởng đoàn, thành viên đoàn kiểm tra phải tuân thủ sự chỉ đạo, kiểm tra,\ngiám sát; thực hiện chế độ thông tin, báo cáo theo yêu cầu của người ra quyết - định\nkiểm tra.\nb) Người ra quyết . định kiểm tra theo dõi, đôn đốc, chỉ đạo hoạt động; xử lý\nkịp thời các kiến nghị của Trưởng đoàn, thành viên đoàn kiểm tra.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Đề xuất người tham gia Đoàn kiểm tra",
+          "text": "Điều 9. Đề xuất người tham gia Đoàn kiểm tra\n1. Thủ trưởng ban chức năng/đơn vị được giao chủ trì cuộc kiểm tra có trách\nnhiệm lựa chọn người có trình độ chuyên môn, nghiệp vụ phù hợp với yêu cầu của\ncuộc kiểm tra để giới thiệu nhân sự tham gia Đoàn kiểm tra; trình người ra quyết\nđịnh kiểm tra xem xét, quyết định.\n2 Không bố trí cá nhân hoặc thành viên đoàn kiểm tra đối với những = người\ncó bố đẻ, mẹ đẻ; bố vợ hoặc bố chồng, mẹ vợ hoặc mẹ chồng; vợ hoặc chồng, con\nruột, con rể hoặc con dâu, anh, chị, em ruột là đối tượng kiểm tra hoặc là viên chức\ncủa đơn vị là đối tượng kiểm tra.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Việc thay đổi thành viên đoàn kiểm tra",
+          "text": "Điều 10. Việc thay đổi thành viên đoàn kiểm tra\n1. Việc thay đổi thành viên đoàn kiểm tra được thực hiện trong trường hợp\nkhông đáp ứng được yêu cầu của cuộc kiểm tra hoặc vi phạm pháp luật hoặc vì Ỉý\ndo khách quan mà không thể thực hiện nhiệm vụ được giao. Việc thay đổi, bổ\nsung được thực hiện khi cần bảo đảm tiến độ, chất lượng cuộc kiểm tra hoặc để\nđáp ứng yêu cầu, nhiệm vụ khác phát sinh trong quá trình kiểm tra.\n2. Việc thay đổi thành viên đoàn kiểm tra phải bằng văn bản của người ra\nquyết định kiểm tra.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Xây dựng kế hoạch công tác kiểm tra hằng năm",
+          "text": "Điều 11. Xây dựng kế hoạch công tác kiểm tra hằng năm\n1. Căn cứ hướng dẫn về công tác thanh tra, kiểm tra của Bộ GDĐT, đề xuất\n\ncủa các ban chức năng và tình hình thực tế, Ban Thanh tra và Pháp chế xây dựng\nkế hoạch công tác kiểm tra hằng năm của ĐHĐN và trình Giám đốc ĐHĐN phê\nduyệt.\n2. Tổ chức thanh tra nội bộ (Phòng/Tổ Thanh tra) hoặc viên chức làm công\ntác thanh tra tại đơn vị có trách nhiệm tổ chức xây dựng kế hoạch công tác kiểm\ntra hằng năm tại đơn vị và trình Thủ trưởng đơn vị phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Điều chỉnh kế hoạch kiểm tra hằng năm",
+          "text": "Điều 12. Điều chỉnh kế hoạch kiểm tra hằng năm\n1 Kế hoạch kiểm tra hằng năm có thể được điều chỉnh sau 6 tháng thực hiện\n(nếu cần thiết) hoặc trong trường hợp phải bổ sung ngay để hoàn thành nhiệm vụ\nđược giao theo chỉ đạo của Bộ GDĐT, của Giám đốc ĐHĐN, của Thủ trưởng đơn\nvị.\n2. Việc điều chỉnh, bổ sung kế hoạch kiểm tra hàng - năm tiến hành như sau:\na) Tại ĐHĐN\nCăn cứ vào kế hoạch thanh tra, kiểm tra đã được Giám đốc ĐHĐN phê\nduyệt hằng năm và tình hình thực tế, các ban chức năng đề xuất nội dung, đối\ntượng kiểm tra cần điều chỉnh, bổ sung (ghi rõ lý do điều chỉnh, bổ sung), gửi về\nBan Thanh tra và Pháp chế.\nBan Thanh tra và Pháp chế tổng hợp, rà soát kế hoạch kiểm tra cần điều\nchỉnh, bổ sung theo nguyên tẳc quy định tại Điều 3 Quy định này; trao đổi, thống\nnhất với các ban chức năng về nội dung, đối tượng, thời gian kiểm tra cẩn điều\nchỉnh, bổ sung.\nBan Thanh tra và Pháp chế trình Giám đốc ĐHĐN phê duyệt văn bản điều\nchỉnh, bổ sung; gửi các đơn vị; cá nhân có liên quan để thực hiện.\nb) Tai các đơn vị\nTổ chức thanh tra nội bộ (Phòng/Tổ Thanh tra) hoặc viên chức làm công tác\nthanh tra tại đơn vị tổ chức xây dựng văn bản điều chỉnh, bổ sung kế hoạch kiểm tra\nhàng- năm của đơn vị phù hợp với quy định và điều kiện thực tế tại đơn vị; tham mưu\nThủ trưởng đơn vị phê duyệt ban hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Kiểm tra đột xuất",
+          "text": "Điều 13. Kiểm tra đột xuất\n1. Căn cứ kiểm tra đột xuất\na) Theo yêu cầu của Bộ GDĐT, Giám đốc ĐHĐN, Thủ trưởng đơn vị.\nb) Khi phát hiện có dấu hiệu vi phạm pháp luật từ thông tin phản ánh, kiến\nnghị của viên chức, người lao động, người học, báo chí và các phương tiện\nthông tin truyền thông khác.\nc) Theo yêu cầu của việc giải quyết khiếu nại, giải quyết tố cáo, phòng,\nchống tham nhũng, giải quyết những vấn đề nóng liên quan đến trách nhiệm\nquản lý của ĐHĐN, của đơn vị.\n2. Quy trình kiểm tra đột xuất được thực hiện như sau:\n\na Ban hành quyết định kiểm tra\nSau khi có căn cứ để kiểm tra đột xuất theo quy định tại khoản 1 Điều này,\nThủ trưởng ban chức năng/đơn vị chủ trì kiểm tra đề xuất nội dung, đối tượng,\nthời gian kiểm tra đột xuất trình người ra quyết định kiểm tra phê duyệt vàký ban\nhành quyết - định kiểm tra trong phạm vi thẩm quyền được giao (Mẫu số 02-KT).\nb) Xây dựng và phê duyệt kế hoạch tiến hành kiểm tra\nTrưởng đoàn kiểm tra chủ trì xây dựng kế hoạch tiến hành kiểm tra (Mẫu số\n03-KT) trình người ra quyết định kiểm tra phê duyệt. Tuỳ theo tính chất, mức\nđộ, nội dung của cuộc kiểm tra, Đoàn kiểm tra lựa chọn phương pháp tiến hành\nkiểm tra, xác minh phù hợp.\nc) Tổ chức kiểm tra\nViệc tiến hành kiểm tra đột xuất thực hiện theo kế hoạch tiến hành kiểm\ntra đã được phê duyệt; các hoạt động phục vụ việc kiểm tra do Đoàn kiểm tra chủ\nđộng triển khai thực hiện.\nTrong trường hợp tiến hành việc kiểm tra trực tiếp tại đơn vị là đối tượng\nkiểm tra thì khi kết thúc việc kiểm tra trực tiếp, Đoàn kiểm tra phải lập biên bản\nkiểm tra (Mẫu số 04-KT) .\nd) Xây dựng báo cáo kết quả kiểm tra và dự thảo thông báo kết quả kiểm\ntra thực hiện theo quy định tại Điều 16 Quy định này.\nđ) Ký ban hành, gửi thông báo kết quả kiểm tra; luu hồ sơ kiểm tra; theo\ndõi và xử lý sau kiểm tra thực hiện theo quy định tại Điều 17, Điều 18 và Điều\n19 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Chuẩn bị kiểm tra",
+          "text": "Điều 14. Chuẩn bị kiểm tra\n1. Thu thập thông tin, tài liệu, nắm tình hình để ban hành quyết định kiểm tra\na) Trước khi ban hành quyết định kiểm tra, trong trường = hợp cần thiết, người\nra quyết định kiểm tra chỉ đạo ban chức năng/đơn vị chủ trì kiểm tra tiến hành thu\nthập thông tin, tài liệu, nắm tình hình để phục vụ cho việc ban hành quyết định\nkiểm tra.\nb) Phương pháp thu thập thông tin, tài liệu, nắm tình hình: Nghiên cứu, tổng\nhợp thông tin từ báo cáo; các phương tiện thông tin đại chúng; đơn phản ánh, kiến\nnghị, khiếu nại, tố cáo liên quan đến nội dung dự kiến kiểm tra; khi cần thiết, làm\nviệc trực tiếp với đơn vị; tổ chức, cá nhân có liên quan.\n2. Ra quyết , định kiểm tra (Mẫu số 02-KT)\nCăn cứ kế hoạch kiểm tra hằng năm đã được phê duyệt, Giám đốc ĐHĐN,\nThủ trưởng đơn vị ký ban hành quyết định kiểm tra trong phạm vi thẩm quyền\nđược giao.\n\n3. Xây dựng và phê duyệt kế hoạch tiến hành kiểm tra\na) Trưởng đoàn kiểm tra chủ trì xây dựng kế hoạch tiến hành kiểm tra (Mẫu\nsố 03-KT), trình người ra quyết định kiểm tra phê duyệt.\nb) Nội dung kế hoạch tiến hành kiểm tra gồm có:\nMục đích, yêu cầu của cuộc kiểm tra.\nPhạm vi, nội dung, đối tượng, thời gian, địa điểm tiến hành kiểm tra.\nPhương pháp tiến hành kiểm tra, xác minh.\nTiến độ, thời hạn tiến hành kiểm tra.\nKinh phí thực hiện kiểm tra (nếu có).\nChế độ thông tin, báo cáo.\n4. Họp chuẩn bị triển khai kiểm tra (đối với Đoàn kiểm tra)\na) Trưởng đoàn kiểm tra tổ chức họp Đoàn kiểm tra để quán triệt kế hoạch\ntiến hành kiểm tra đã được phê duyệt; bàn các biện pháp cụ thể để tổ chức thực\nhiện kế hoạch; phân công nhiệm vụ cụ thể cho từng thành viên đoàn kiểm tra;\nnêu nguyên tẳc phối hợp và việc chấp hành các quy trình, quy chế của Đoàn\nkiểm tra; dự kiến lịch kiểm tra trực tiếp tại đơn vị là đối tượng kiểm tra và các tổ\nchức, đơn vị, cá nhân có liên quan.\nb) Tập hợp các văn bản quy phạm pháp luật, văn bản quy phạm nội bộ của\nĐHĐN và của đơn vị là đối tượng kiểm tra liên quan đến nội dung kiểm tra\nđược áp dụng trong thời kỳ, phạm vi kiểm tra.\nChuẩn bị phương tiện, thiết bị, kinh phí và những điều kiện vật chất cần\nthiết khác phục vụ cho hoạt động của Đoàn kiểm tra.\n5. Xây dựng đề cương yêu cầu đối tượng kiểm tra báo cáo\na) Trưởng đoàn kiểm tra có trách nhiệm chủ trì cùng các thành viên đoàn\nkiểm tra xây dựng đề cương yêu cầu đối tượng kiểm tra báo cáo.\nb) Trưởng đoàn kiểm tra gửi văn bản cho đối tượng kiểm tra kèm theo đề\ncương yêu cầu báo cáo ít nhất 3 ngày làm việc trước khi tiến hành kiểm tra.\nTrong văn bản gửi đối tượng kiểm tra, dự kiến lịch kiểm tra trực tiếp tại\nđơn vị là đối tượng kiểm tra và các đơn vị; tổ chức, cá nhân có liên quan; yêu\ncầu đối tượng kiểm tra báo cáo việc thực hiện các quy định của pháp luật theo\nnội dung trong đề cương; yêu cầu về thành phần làm việc với Đoàn kiểm tra;\nyêu cầu đối tượng kiểm tra chuẩn bị thông tin, tài liệu, minh chứng.\n6. Gửi quyết định kiểm tra cho đối tượng kiểm tra\nTrưởng đoàn kiểm tra có trách nhiệm thông báo bằng văn bản hoặc gửi\nquyết định kiểm tra trước 03 ngày làm việc trước khi Đoàn kiểm tra đến kiểm\ntra tại đơn vị là đối tượng kiểm tra và thông báo chính thức thời gian Đoàn kiểm\ntra chính thức làm việc tại đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Tiến hành kiểm tra",
+          "text": "Điều 15. Tiến hành kiểm tra\n1. Kiểm tra trực tiếp tại đơn vị là đối tượng kiểm tra\nĐoàn kiểm tra được giao nhiệm vụ kiểm tra tiến hành việc kiểm tra trực\ntiếp tại đơn vị là đối tượng kiểm tra theo lịch kiểm tra trực tiếp đã thống nhất\ngiữa Đoàn kiểm tra và đối tượng kiểm tra. Cụ thể như sau:\na) Thu nhận báo cáo của đối tượng kiểm tra, nghe đối tượng kiểm tra báo\ncáo; nghiên cứu, phân tích, đối chiếu, so sánh, đánh giá văn bản báo cáo của đối\ntượng kiểm tra và các thông tin, hồ sơ, tài liệu đã thu thập được; yêu cầu đối\ntượng kiểm tra giải trình về những vấn đề liên quan đến nội dung kiểm tra.\nb) Trong quá trình kiểm tra trực tiếp, nếu thấy cần thiết, Đoàn kiểm tra tiến\nhành làm việc với các bộ phận, viên chức hoặc người có liên quan để xác minh\nnội dung đã kiểm tra và chịu trách nhiệm về tính chính xác, khách quan của\nnhững thông tin, tài liệu đã xác minh.\nc) Sau khi kết thúc việc kiểm tra, xác minh tại đơn vị là đối tượng kiểm tra\nvà các đơn vị, tổ chức, cá nhân có liên quan, Đoàn kiểm tra lập biên bản và\nthông báo sơ bộ kết quả, đánh giá khái quát việc thực hiện các quy định của\npháp luật về nội dung kiểm tra.\n2. Kết thúc việc kiểm tra trực tiếp tại nơi được kiểm tra\na) Chuẩn bị kết thúc việc kiểm tra trực tiếp tại nơi được kiểm tra, Trưởng\nđoàn kiểm tra thống nhất, chốt các nội dung công việc cần thực hiện cho đến\nngày kết thúc kiểm tra trực tiếp tại nơi được kiểm tra.\nb) Trưởng đoàn kiểm tra thông báo về thời gian kết thúc kiểm tra trực tiếp\ntại nơi được kiểm tra với Thủ trưởng đơn vị là đối tượng kiểm tra.\nc) Yêu cầu đối tượng kiểm tra đáp ứng đầy đủ, kịp thời các đề nghị của\nĐoàn kiểm tra về thông tin, tài liệu liên quan trong quá trình xây dựng báo cáo\nkết quả kiểm tra.\nd) Lập Biên bản kiểm tra (Mẫu số 04-KT).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Kết thúc kiểm tra",
+          "text": "Điều 16. Kết thúc kiểm tra\n1 . Xây dựng báo cáo kết quả kiểm tra\na) Sau khi kết thúc thời gian kiểm tra trực tiếp tại nơi được kiểm tra, Đoàn\nkiểm tra tổng hợp số liệu, phân tích các tài liệu đã thu thập và đánh giá, nhận\nđịnh về nội dung kiểm tra.\nb) Từng thành viên đoàn kiểm tra báo cáo bằng văn bản với Trưởng đoàn\nkiểm tra về nội dung kiểm tra theo nhiệm vụ đã được phân công.\nTrưởng đoàn kiểm tra tổ chức xây dựng dự thảo báo cáo kết quả kiểm tra.\nDự thảo báo cáo kết quả kiểm tra được gửi lấy ý kiến các thành viên trong Đoàn\nkiểm tra. kiến của các thành viên đoàn kiểm tra phải thực hiện bằng văn bản.\nNếu có ý kiến khác nhau về các nội dung trong dự thảo báo cáo kết quả kiểm tra\nthì Trưởng đoàn kiểm tra xem xét, quyết định, chịu trách nhiệm trước pháp luật\n\nvà người ra quyết - định kiểm tra về quyết định của mình.\nTrưởng đoàn kiểm tra ký báo cáo kết quả kiểm tra và gửi người ra quyết\nđịnh kiểm tra. Thời gian xây dựng báo cáo kết quả kiểm tra trình người ra quyết\nđịnh kiểm tra chậm nhất là 07 ngày làm việc kể từ ngày kết thúc cuộc kiểm tra.\ne) Nội dung báo cáo kết quả kiểm tra (Mẫu số 05-KT) gồm:\nKhái quát chung đặc điểm, tình hình tổ chức, hoạt động có liên quan đến\nnội dung kiểm tra của đơn vị; cá nhân là đối tượng kiểm tra.\nKết quả kiểm tra, xác minh các nội dung theo quyết định kiểm tra.\nKết luận về những nội dung đã tiến hành kiểm tra.\nCác biện pháp xử lý theo thẩm quyền đã được áp dụng trong quá trình\ntiến hành kiểm tra (nếu có).\nNhững ý kiến còn khác nhau giữa các thành viên đoàn kiểm tra (nếu có).\nKiến nghị các biện pháp xử lý.\n2. Xây dựng dự thảo thông báo kết quả kiểm tra\na) Căn cứ vào báo cáo kiểm tra, người ra quyết định kiểm tra chỉ đạo\nTrưởng đoàn kiểm tra chủ trì xây dựng dự thảo thông báo kết quả kiểm tra.\nb) Trong trường hợp cần thiết, người ra quyết định kiểm tra lấy ý kiến của\ncơ quan, đơn vị chuyên môn hoặc gửi dự thảo thông báo kết quả kiểm tra cho\nđối tượng kiểm tra giải trình bổ sung kiến tham gia của cơ quan, đơn vị\nchuyên môn và ý kiến giải trình của đối tượng kiểm tra đối với dự thảo thông\nbáo kết quả kiểm tra phải bằng văn bản và có tài liệu, minh chứng kèm theo.\nNgười ra quyết định kiểm tra chỉ đạo Trưởng đoàn kiểm tra nghiên cứu và\nđề xuất hướng xử lý nội dung giải trình của đối tượng kiểm tra và ý kiến của cơ\nquan, đơn vị chuyên môn.\nc) Nội dung của thông báo kết quả kiểm tra (Mẫu số 06-KT) gồm:\nKhái quát chung đặc điểm, tình hình tổ chức, hoạt động có liên quan đến\nnội dung kiểm tra của đơn vị, cá nhân là đối tượng kiểm tra.\nKết quả kiểm tra, xác minh từng nội dung.\nKết luận về những nội dung đã tiến hành kiểm tra.\nCác biện pháp xử lý theo thẩm quyền đã áp dụng (nếu có).\nKiến nghị các biện pháp xử lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Ký ban hành, gửi thông báo kết quả kiểm tra",
+          "text": "Điều 17.Ký ban hành, gửi thông báo kết quả kiểm tra\n1.Ký ban hành thông báo kết quả kiểm tra\na) Trưởng đoàn kiểm tra hoàn thiện dự thảo thông báo kết quả kiểm tra,\ntrình người ra quyết định kiểm tra ký ban hành.\n\n10\nb) Người ra quyết định kiểm tra ban hành thông báo kết quả kiểm tra trong\nthời gian chậm nhất 05 ngày làm việc kể từ ngày nhận được dự thảo thông báo\nkết quả kiểm tra.\n2. Gửi thông báo kết quả kiểm tra\nSau khi người ra quyết định kiểm tra ban hành thông báo kết quả kiểm tra,\nTrưởng đoàn kiểm tra gửi thông báo kết quả kiểm tra cho đối tượng kiểm tra,\nBan Thanh tra và Pháp chế hoặc tổ chức thanh tra nội bộ (Phòng/Tổ Thanh tra)\nhoặc viên chức làm công tác thanh tra tại đơn vị để tổng hợp, theo dõi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Lưu hồ sơ kiểm tra",
+          "text": "Điều 18. Lưu hồ sơ kiểm tra\n1. Tại ĐHĐN\nChậm nhất 07 ngày làm việc sau khi ban hành thông báo kết quả kiểm tra,\nTrưởng đoàn kiểm tra có trách nhiệm bàn giao hồ sơ cuộc kiểm tra cho văn thư\ncủa ban chức năng được giao chủ trì cuộc kiểm tra để lưu trữ theo quy định.\nViệc bàn giao hồ sơ, tài liệu phải được lập thành biên bản (Mẫu số 07-KT). Biên\nbản giao nhận hồ sơ được lưu vào hồ sơ kiểm tra.\n2. Tại các đơn vị\nTổ chức thanh tra nội bộ (Phòng/Tổ Thanh tra) hoặc viên chức làm công tác\nthanh tra tại đơn vị tham mưu Thủ trưởng đơn vị tổ chức thực hiện việc lưu trữ hồ\nsơ các cuộc kiểm tra do đơn vị tổ chức theo quy định.\n3. Hồ sơ kiểm tra gồm:\na) Quyết định kiểm tra; kế hoạch kiểm tra; biên bản kiểm tra; báo cáo, giải\ntrình của đối tượng kiểm tra; báo cáo của thành viên đoàn kiểm tra; báo cáo kết\nquả kiểm tra của Đoàn kiểm tra.\nb) Thông báo kết quả kiểm tra.\nc) Văn bản về việc xử lý, kiến nghị việc xử lý (nếu có).\nd) Tài liệu khác có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Theo dõi và xử lý sau kiểm tra",
+          "text": "Điều 19. Theo dõi và xử lý sau kiểm tra\n1. Căn cứ thông báo kết quả kiểm tra, đối tượng kiểm tra và các đơn vị; tổ\nchức, cá nhân có liên quan báo cáo Giám đốc ĐHĐN, Thủ trưởng đơn vị việc\nkhắc phục những tồn tại, hạn chế (nếu có).\n2. Các ban chức năng/đơn vị được giao chủ trì cuộc kiểm tra có trách nhiệm\ntổng hợp báo cáo việc thực hiện thông báo kết quả kiểm tra; theo dõi, đôn đốc và\nkiểm tra (nếu cần thiết).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Chế độ báo cáo",
+          "text": "Điều 20. Chế độ báo cáo\n1. Trách nhiệm báo cáo\n\nSau khi ban hành thông báo kết quả kiểm tra:\na Tại ĐHĐN\nTrưởng đoàn kiểm tra có trách nhiệm gửi báo cáo về Ban Thanh tra và Pháp\nchế để tổng hợp, theo dõi tình hình công tác kiểm tra.\nb) Tại các đơn vị\nTổ chức thanh tra nội bộ (Phòng/Tổ Thanh tra) hoặc viên chức làm công tác\nthanh tra tại đơn vị có trách nhiệm gửi báo cáo về ĐHĐN (qua Ban Thanh tra và\nPháp chế) để tổng hợp, theo dõi tình hình công tác kiểm tra.\n2 Hồ sơ báo cáo gồm: quyết định kiểm tra, kế hoạch tiến hành kiểm tra,\nthông báo kết quả kiểm tra.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Kinh phí hoạt động kiểm tra",
+          "text": "Điều 21. Kinh phí hoạt động kiểm tra\nCác đơn vị chủ trì tổ chức kiểm tra phối hợp với Ban Kế hoạch Tài\nchính/Phòng Kế hoạch Tài chính để xây dựng dự toán, bố trí kinh phí kiểm tra,\nthực hiện thanh quyết toán kinh phí theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 22. Tổ chức thực hiện\n1. Hiệu trưởng các trường đại học thành viên; Thủ trưởng các đơn vị thuộc\nvà trực thuộc ĐHĐN chịu trách nhiệm tổ chức thực hiện theo Quy định này.\nTrong , quá trình thực hiện, nếu có vướng mắc hoặc vấn đề mới phát sinh cần sửa\nđổi, bổ sung, các đơn vị; cá nhân liên quan báo cáo về ĐHĐN (qua Ban Thanh tra\nvà Pháp chế) để tổng hợp ý kiến trình Giám đốc ĐHĐN xem xét, quyết định sửa\nđổi, bổ sung cho phù hợp.\n2. Ban Thanh tra và Pháp chế có trách nhiệm hướng dẫn, đôn đốc, kiểm tra,\ngiám sát các trường đại học thành viên; các đơn vị thuộc và trực thuộc ĐHĐN\nthực hiện Quy định này và là đầu mối tổng hợp, xây dựng báo cáo định kỳ, đột\nxuất về công tác kiểm tra theo quy định./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về công tác kiểm tra",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về công tác kiểm tra\ncủa Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng, Hiệu trưởng các",
+      "text": "Điều 3.Chánh Văn phòng, Trưởng các ban chức năng, Hiệu trưởng các\ntrường đại học thành viên; Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà\nNẵng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định\nnày./.",
+      "isImplementationClause": true
+    }
+  ]
+}

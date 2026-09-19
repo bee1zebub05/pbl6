@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0494_3107_QĐ-ĐHĐN_Quy chế văn bằng, chứng chỉ của Đại học Đà Nẵng New.txt",
+  "mappedBy": "gemini-web",
+  "note": "15 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3107/QĐ-ĐHĐN",
+    "title": "Quy chế Văn bằng, chứng chỉ của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "10/08/2026",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Pháp chế"
+    ],
+    "summary": "Quy chế quy định về quản lý văn bằng, chứng chỉ của Đại học Đà Nẵng, bao gồm: số hiệu, số vào sổ gốc, sổ cấp bản sao, mẫu văn bằng, chứng chỉ, phụ lục văn bằng, quản lý phôi, thủ tục cấp và cấp lại phôi, thẩm quyền cấp, công bố công khai, lưu trữ, chế độ báo cáo và xử lý vi phạm.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2026/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Những nội dung không quy định cụ thể trong Quy chế này thực hiện theo Thông tư số 10/2026/TT-BGDĐT ngày 26/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân (Thông tư số 10/2026/TT-BGDĐT) và quy định của pháp luật liên quan."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Trường Đại học Bách khoa",
+    "Trường Đại học Kinh tế",
+    "Trường Đại học Sư pham",
+    "Trường Đại học Ngoại ngữ",
+    "Trường Đại học Sư phạm Ky thuật",
+    "Trường Đại học Công nghệ thông tin và Truyền thông Viét - Han",
+    "Trường Y Dược",
+    "Phan hiệu ĐHĐN tại Kon Tum",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh",
+    "Khoa Công nghệ",
+    "Thủ tướng Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế Văn bằng, chứng chỉ của Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về quản lý văn bằng, chứng chỉ (VBCC) của Đại học Đà\nNẵng, gồm: số hiệu, số vào sổ gốc, số vào sổ cấp bản sao; mẫu văn bằng, chứng chỉ, bản\nsao, giấy chứng nhận tốt nghiệp tạm thời; phụ lục văn bằng; quản lý phôi văn bằng, chứng\nchỉ; thủ tục cấp, cấp lại phôi văn bằng, chứng chỉ; thẩm quyền cấp văn bằng, chứng chỉ; sổ\ngốc, phụ lục sổ gốc và sổ cấp bản sao; công bố, công khai thông tin và lưu trữ; chế độ báo\ncáo, kiểm tra và xử lý vi phạm; tổ chức thực hiện.\n2. Quy chế này áp dụng đối với các trường đại học thành viên, các đơn vị thuộc và\ntrực thuộc của ĐHĐN (gọi chung là các đơn vị) và tổ chức, cá nhân có liên quan đến công\ntác văn bằng, chứng chỉ.\n3. Những nội dung không quy định cụ thể trong Quy chế này thực hiện theo Thông\ntư số 10/2026/TT-BGDĐT ngày 26/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo ban\nhành Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân (Thông tư số\n10/2026/TT-BGDĐT) và quy định của pháp luật liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Văn bằng, chứng chỉ",
+          "text": "Điều 2. Văn bằng, chứng chỉ\n1. Văn bằng bao gồm:\na) Bằng cao đẳng, bằng cử nhân, bằng thạc sĩ, bằng tiến sĩ;\nb) Văn bằng chương trình đào tạo chuyên sâu bao gồm: bằng kỹ sư, bằng kiến trúc\nsư, bằng bác sĩ, bằng dược sĩ và một số văn bằng khác.\n2. Chứng chỉ bao gồm:\na) Chứng chỉ Giáo dục quốc phòng và an ninh;\nb) Chứng chỉ ứng dụng công nghệ thông tin;\nc) Chứng chỉ ngoại ngữ theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam;\nd) Các loại chứng chỉ đào tạo, bồi dưỡng khác.\n3. Văn bằng, chứng chỉ được cấp dưới hình thức văn bản giấy và văn bản số. Văn\nbằng, chứng chỉ số có giá trị pháp lý như văn bằng, chứng chỉ giấy.\n\n2\n4. Phôi văn bằng, chứng chỉ là mẫu giấy có tem chống làm giả, được in sẵn các họa\ntiết, hoa văn bảo mật, nội dung chính và số hiệu, chưa có thông tin của người được cấp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Số hiệu, số vào sổ gốc",
+          "text": "Điều 3. Số hiệu, số vào sổ gốc\n1. Số hiệu văn bằng, chứng chỉ có 4 thông tin, phân cách nhau bằng dấu chấm (.)\ntheo thứ tự sau:\na) Thông tin 1 xác định loại văn bằng, chứng chỉ; thể hiện trình độ đào tạo;\nb) Thông tin 2 gồm 7 chữ số là số tự nhiên liên tục từ nhỏ đến lớn từ khi thực hiện\nviệc in phôi văn bằng, chứng chỉ, số tự nhiên được in màu đỏ;\nc) Thông tin 3 xác định đơn vị cấp văn bằng, chứng chỉ;\nd) Thông tin 4 là hai chữ số cuối của năm cấp văn bằng, chứng chỉ.\n2. Số vào sổ gốc cấp văn bằng, chứng chỉ có 4 thông tin, phân cách nhau bằng dấu\nchấm (.) theo thứ tự sau:\na) Thông tin 1 xác định đơn vị cấp văn bằng, chứng chỉ;\nb) Thông tin 2 xác định loại văn bằng, chứng chỉ; thể hiện trình độ đào tạo;\nc) Thông tin 3 là số tự nhiên liên tục từ nhỏ đến lớn theo từng năm từ ngày 01/01\nđến hết ngày 31/12; thể hiện số thứ tự văn bằng, chứng chỉ cấp trong năm;\nd) Thông tin 4 là hai chữ số cuối của năm cấp văn bằng, chứng chỉ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Quy ước ký hiệu đơn vị và loại văn bằng, chứng chỉ",
+          "text": "Điều 4. Quy ước ký hiệu đơn vị và loại văn bằng, chứng chỉ\n1. Ký hiệu đơn vị cấp VBCC: ký hiệu được dùng theo mã tuyển sinh hàng năm đã\nđược thống nhất trên toàn quốc, như trong Bảng 1.\nBảng 1. Quy ước ký hiệu đơn vị dùng trên văn bằng, chứng chỉ\nTT\nĐơn vi cấp văn bằng/chứng chi\nKý hiệu\n1 | Đại học Đà Nẵng\nDND\n2 | Trường Đại học Bách khoa\nDDK\n3 | Trường Đại học Kinh tế\nDDQ\n4 | Trường Đại học Sư pham\nDDS\n5 | Trường Đại học Ngoại ngữ\nDDE\n6 | Trường Đại học Sư phạm Ky thuật\nDSK\n7 | Trường Đại học Công nghệ thông tin và Truyền thông Viét - Han | VKU\n8 | Trường Y Dược\nDDY\n9 | Phan hiệu ĐHĐN tại Kon Tum\nDDP\n\nTT\nĐơn vi cấp văn bằng/chứng chi\nKý hiệu\n10 | Viện Nghiên cứu và Đào tạo Việt - Anh\nDDV\n11 | Khoa Công nghệ\nDDC\n2. Ký hiệu loại VBCC: ký hiệu được quy ước như trong Bảng 2.\nBang 2. Quy ước ký hiệu loại văn bằng, chứng chỉ\nTT\nLoại văn bằng, chứng chỉ\nKý hiệu\nGhi chú\n1 | Tienst\n8\nKhung trình độ quốc\n2 | Thac si\n7\ngia Viét Nam được\n-\nban hành kèm theo\nCử nhân và văn băng chương trình đào\nQuyết\nđịnh\nsố\n3 | tạo chuyên sâu bao gom: kỹ sư, kiên trúc\n6\n1982/QP-TTg\n cua\nsư, bác sĩ, dược sĩ\nThủ tướng Chính phủ\n4 | Cao đẳng\n5\nngày 18/10/2016\n5\nChứng chỉ ứng dụng công nghệ thông tin\nI\ncơ bản\nInformation\n6\nChứng chỉ ứng dụng công nghệ thông tin\nD\nnâng cao\n7 | Chứng chỉ ngoại ngữ\nF\ng | Chứng chi bồi dưỡng cán bộ ra đề thi\nFI\nngoại ngữ\no | Chứngchi bồi dưỡng cán bộ chấm thi nói\n„\nvà viét ngoại ngữ\nChứng chỉ bồi dưỡng nghiệp vụ sư phạm\n10\ncho người có băng cử nhân chuyên\nF3\nngành phù hợp có nguyện vọng trở thành\ngido vién cap tiéu hoc\nForeign\nChứng chi bồi dudng nghiệp vụ sw pham\n1 cho người có băng cử nhân chuyên\nF4\nngành phù hợp có nguyện vọng trở thành\ngido viên cap trung học cơ sở\nChứng chỉ bồi dưỡng nghiệp vụ sư phạm\n15\ncho người có băng cử nhân chuyên\ns\nnganh phù hop có nguyện vọng trở thành\ngido viên cap trung học phô thông\n13\nChứng chi Giáo dục quoc phòng va an\nDS\nDefense — Security\nninh\n\nTT\nLoại văn bằng, chứng chỉ\nKý hiệu\nGhi chú\n14\nChứng chỉ bồi dưỡng giáo viên trung học\nEI\ncơ sở dạy môn Khoa học tự nhiên\n-\nEducation\nChứng chỉ boi dưỡng giáo viên trung học\ncơ sở dạy môn Lịch sử và Địa lý\nChứng chỉ Phương pháp dạy - học lâm\n16 | sàng cho người giảng dạy thực hành\nMI\ntrong đào tạo khôi ngành sức khoẻ\nMedicine\n17\nChứng chi dao tạo kỹ thuật chuyén môn\nM2\nkham bénh, chita bénh\n18 | Chứng chi tiếng Việt\nv\nVietnamese",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Số vào sổ cấp bản sao",
+          "text": "Điều 5. Số vào sổ cấp bản sao\n1. Số vào sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc có 5 thông tin, phân cách\nnhau bằng dấu (.) theo thứ tự sau:\na) Thông tin 1 xác định đơn vị cấp bản sao văn bằng, chứng chỉ;\nb) Thông tin 2 xác định loại văn bằng, chứng chỉ;\nc) Thông tin 3 là số tự nhiên liên tục từ nhỏ đến lớn theo từng năm từ ngày 01/01\nđến hết ngày 31/12; thể hiện số bản sao văn bằng, chứng chỉ cấp trong năm;\nd) Thông tin 4 là hai chữ số cuối của năm cấp bản sao văn bằng, chứng chỉ;\nđ) Thông tin 5 là chữ \"BS\" (ký hiệu bản sao) và có thể thêm số lượng nhân bản hoặc\nký hiệu do các đơn vị quy định để phù hợp với quản lý của đơn vị mình.\n2. Mỗi số vào sổ cấp bản sao văn bằng, chứng chỉ được ghi duy nhất trên một bản\nsao văn bằng, chứng chỉ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Mẫu văn bằng, chứng chỉ, bản sao, giấy chứng nhận tốt nghiệp tạm",
+          "text": "Điều 6. Mẫu văn bằng, chứng chỉ, bản sao, giấy chứng nhận tốt nghiệp tạm\nthời\n1. Đại học Đà Nẵng thiết kế mẫu văn bằng, mẫu chứng chỉ và tiến hành thủ tục thẩm\nđịnh theo quy định.\n2. Đại học Đà Nẵng công bố công khai mẫu văn bằng, mẫu chứng chỉ trên trang\nthông tin điện tử của ĐHĐN.\n3. Mẫu và nội dung ghi trên bản sao văn bằng, chứng chỉ được quy định tại Phụ lục\nI và II kèm theo Quy chế này.\n4. Các mẫu văn bằng, chứng chỉ; mẫu bản sao văn bằng, chứng chỉ từ sổ gốc được\nlưu trong hồ sơ quản lý văn bằng, chứng chỉ của đơn vị.\n5. Mẫu giấy chứng nhận tốt nghiệp tạm thời cho người đủ điều kiện cấp văn bằng\ndo thủ trưởng đơn vị tổ chức đào tạo quy định.\n\n5\n6. Khi đơn vị được phép cấp loại chứng chỉ mới thì báo cáo ĐHĐN đề nghị thiết kế\nmẫu chứng chỉ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Phụ lục văn bằng",
+          "text": "Điều 7. Phụ lục văn bằng\n1. Các trường đại học thành viên tự thiết kế và in mẫu phụ lục văn bằng bảo đảm\nphù hợp với đặc thù đào tạo của đơn vị, tuân thủ đầy đủ nội dung theo quy định tại Phụ lục\nI của Thông tư số 10/2026/TT-BGDĐT và được bổ sung các nội dung khác ghi trên phụ\nlục văn bằng phù hợp với quy định của pháp luật.\n2. Các đơn vị thuộc và trực thuộc sử dụng thống nhất mẫu phụ lục văn bằng tại Phụ\nlục II kèm theo Quy chế này; tự tổ chức in và quản lý việc sử dụng theo quy định. Trường\nhợp đơn vị có nhu cầu bổ sung thông tin, Thủ trưởng đơn vị gửi văn bản cùng biểu mẫu đề\nnghị Giám đốc ĐHĐN xét duyệt.\n3. Phụ lục văn bằng được cấp kèm theo văn bằng nhằm cung cấp thông tin chi tiết\nvề quá trình đào tạo, kết quả học tập và các nội dung liên quan của người được cấp văn\nbằng.\n4. Phụ lục văn bằng được cấp lần đầu cùng với văn bằng. Việc cấp lại phụ lục văn\nbằng do thủ trưởng đơn vị tổ chức đào tạo quy định.\n5. Việc quản lý, lưu trữ, cấp phát và sử dụng phụ lục văn bằng thực hiện như đối\nvới văn bằng; bảo đảm an toàn, tránh thất lạc, hư hỏng hoặc sử dụng sai mục đích.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quản lý phôi văn bằng, chứng chỉ",
+          "text": "Điều 8. Quản lý phôi văn bằng, chứng chỉ\n1. Văn phòng Đại học Đà Nẵng có trách nhiệm:\na) Tổ chức in, lập hồ sơ quản lý việc in phôi văn bằng, chứng chỉ.\nb) Quản lý việc cấp, cấp lại phôi văn bằng, chứng chỉ.\nc) Hướng dẫn các đơn vị thủ tục thu hồi, nộp lại văn bằng, chứng chỉ có lỗi.\nd) Lập hồ sơ quản lý việc cấp lại, chỉnh sửa, thu hồi, hủy bỏ văn bằng, chứng chỉ.\n2. Ban Đào tạo và Đảm bảo chất lượng giáo dục có trách nhiệm:\na) Hướng dẫn thủ tục cấp phát phôi văn bằng, chứng chỉ cho các đơn vị.\nb) Kiểm tra hồ sơ, đối chiếu các điều kiện để được cấp phôi văn bằng, chứng chỉ\ncho đơn vị, lập tờ trình và tham mưu Giám đốc ĐHĐN duyệt cấp phôi văn bằng, chứng\nchỉ.\n3. Ban Kế hoạch - Tài chính có trách nhiệm theo dõi nhập, xuất kho phôi; thanh\ntoán kinh phí in ấn; phối hợp với Văn phòng ĐHĐN kiểm tra số lượng phôi đã in và cấp.\n4. Các đơn vị\na) Làm thủ tục đề nghị cấp phôi văn bằng, chứng chỉ theo quy định tại Điều 9 của\nQuy chế này.\nb) Quản lý, tổ chức thực hiện việc cấp, cấp lại, cấp bản sao từ sổ gốc VBCC; nộp\n\n6\nlại các văn bằng, chứng chỉ đã cấp có lỗi phải thu hồi, hủy bỏ; việc lập và lưu trữ hồ sơ\nquản lý văn bằng, chứng chỉ.\n5. Phôi văn bằng, chứng chỉ phải được bảo quản an toàn; không để mất, hư hỏng,\nthất lạc hoặc sử dụng sai mục đích. Phôi văn bằng, chứng chỉ bị hỏng, in sai hoặc không\ncòn giá trị sử dụng phải được thu hồi, lập biên bản và tổ chức thành lập hội đồng hủy bỏ\ntheo quy định; việc hủy bỏ phôi phải bảo đảm kiểm soát chặt chẽ, có sự giám sát và lưu hồ\nsơ đầy đủ.\n6. Đối với phôi văn bằng, chứng chỉ bị hư hỏng được thu hồi từ các cơ sở đào tạo\nvà các phôi văn bằng, chứng chỉ chưa sử dụng do thay đổi mẫu phôi, Giám đốc Đại học\nĐà Nẵng ra quyết định thành lập hội đồng xử lý. Hội đồng xử lý họp, xem xét và lập biên\nbản hủy bỏ. Nội dung biên bản hủy bỏ ghi rõ số lượng, số hiệu, lý do hủy bỏ, tình trạng\nphôi văn bằng, chứng chỉ trước khi bị hủy bỏ và cách thức hủy bỏ. Biên bản hủy bỏ phải\nđược lưu trữ vào hồ sơ để theo dõi, quản lý.\n7. Trường hợp phôi văn bằng, chứng chỉ bị mất, đơn vị đang quản lý phôi văn bằng,\nchứng chỉ đó có trách nhiệm lập biên bản và thông báo ngay cho Đại học Đà Nẵng, công\nan tỉnh, thành phố nơi đặt trụ sở chính để kịp thời xử lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thủ tục cấp phôi văn bằng, chứng chỉ",
+          "text": "Điều 9. Thủ tục cấp phôi văn bằng, chứng chỉ\n1. Vào tháng 4 và tháng 10 hằng năm, các đơn vị dự kiến số lượng phôi văn bằng,\nchứng chỉ cần sử dụng và gửi công văn theo mẫu tại Phụ lục IV kèm theo Quy chế này về\nVăn phòng Đại học Đà Nẵng để tổng hợp kế hoạch in phôi. Trường hợp cấp phôi đột xuất\nngoài kế hoạch hoặc số lượng phôi cấp vượt số lượng dự kiến, các đơn vị đào tạo gửi công\nvăn về Đại học Đà Nẵng để xem xét, in ấn cấp cho người học theo quy định.\n2. Khi có nhu cầu, các đơn vị gửi hồ sơ đề nghị cấp phôi văn bằng, chứng chỉ về\nBan Đào tạo và Đảm bảo chất lượng giáo dục, hồ sơ bao gồm:\na) Công văn đề nghị cấp phôi văn bằng, chứng chỉ theo mẫu tại Phụ lục V kèm theo\nQuy chế này;\nb) Quyết định công nhận tốt nghiệp hoặc quyết định cấp chứng chỉ kèm theo danh\nsách người học được cấp văn bằng, chứng chỉ theo mẫu do các đơn vị ban hành, bảo đảm\nnội dung phù hợp với thực tiễn quản lý;\nc) Biên bản họp xét và công nhận tốt nghiệp hoặc xét đủ điều kiện cấp chứng chỉ;\nd) Biên bản xác nhận đạt chuẩn đầu ra (đối với trường hợp cấp phôi văn bằng);\nđ) Quyết định và danh sách trúng tuyển (đối với trường hợp được ủy quyền tuyển\nsinh);\ne) Các hồ sơ khác theo yêu cầu (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Thủ tục cấp lại phôi văn bằng, chứng chỉ",
+          "text": "Điều 10. Thủ tục cấp lại phôi văn bằng, chứng chỉ\n1. Đơn vị lập hồ sơ đề nghị cấp lại phôi văn bằng, chứng chỉ gồm:\n\n7\na) Công văn đề nghị cấp lại phôi văn bằng, chứng chỉ theo mẫu tại Phụ lục VI kèm\ntheo Quy chế này;\nb) Biên bản thu hồi, đề nghị hủy bỏ văn bằng, chứng chỉ đã cấp có lỗi theo mẫu tại\nPhụ lục VII kèm theo Quy chế này;\nc) Văn bằng, chứng chỉ bị thu hồi, đề nghị hủy bỏ.\n2. Hồ sơ nộp về Văn phòng ĐHĐN để kiểm tra, cấp lại phôi văn bằng, chứng chỉ\nthay thế cho phôi văn bằng, chứng chỉ bị thu hồi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Thẩm quyền cấp văn bằng, chứng chỉ",
+          "text": "Điều 11. Thẩm quyền cấp văn bằng, chứng chỉ\n1. Hiệu trưởng các trường đại học thành viên cấp văn bằng, chứng chỉ thuộc phạm\nvi quản lý và chịu trách nhiệm trước pháp luật về tính hợp pháp của việc cấp văn bằng,\nchứng chỉ.\n2. Giám đốc Đại học Đà Nẵng cấp văn bằng, chứng chỉ tại các đơn vị thuộc, trực\nthuộc.\n3. Đối với các đơn vị thuộc, trực thuộc được phép cấp chứng chỉ, thủ trưởng đơn vị\nthực hiện cấp chứng chỉ theo quy định, chịu trách nhiệm trước Giám đốc Đại học Đà Nẵng\nvà pháp luật về tính hợp pháp, chính xác của việc cấp chứng chỉ.\n4. Đối với chương trình đào tạo, bồi dưỡng không quy định cấp chứng chỉ, thủ\ntrưởng các đơn vị quyết định việc xác nhận hoàn thành chương trình đào tạo, bồi dưỡng\ncho người học.\n5. Việc cấp văn bằng, chứng chỉ đối với chương trình đào tạo sau đại học thuộc lĩnh\nvực sức khỏe, Hiệu trưởng Trường Y Dược thực hiện theo hướng dẫn của Bộ Y tế, chịu\ntrách nhiệm trước Giám đốc Đại học Đà Nẵng và pháp luật về tính hợp pháp, chính xác\ncủa việc cấp văn bằng, chứng chỉ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Sổ gốc, phụ lục sổ gốc và sổ cấp bản sao",
+          "text": "Điều 12. Sổ gốc, phụ lục sổ gốc và sổ cấp bản sao\n1. Các đơn vị có trách nhiệm lập sổ gốc, phụ lục sổ gốc cấp văn bằng, chứng chỉ\ntheo quy định tại Phụ lục VIII và IX của Quy chế này.\n2. Việc ghi nhận, cập nhật thông tin vào sổ gốc và phụ lục sổ gốc phải được kiểm\ntra, rà soát trước khi lưu trữ chính thức.\n3. Các đơn vị có trách nhiệm lập sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc. Sổ\ncấp bản sao bảo đảm đầy đủ các thông tin tối thiểu và không trái với quy định chung của\nĐHĐN theo Phụ lục X của Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Công bố, công khai thông tin và lưu trữ",
+          "text": "Điều 13. Công bố, công khai thông tin và lưu trữ\n\n8\n1. Các đơn vị thực hiện công bố, công khai thông tin về văn bằng, chứng chỉ trên\ncổng thông tin điện tử của đơn vị để phục vụ tra cứu, xác minh theo quy định.\n2. Hồ sơ cấp văn bằng, chứng chỉ, sổ gốc, sổ cấp bản sao và các tài liệu liên quan\nphải được lưu trữ đầy đủ, khoa học, bảo đảm an toàn, thuận tiện tra cứu; được bảo quản an\ntoàn, có phương án phòng ngừa mất mát, hư hỏng.\n3. Việc lưu trữ hồ sơ điện tử phải bảo đảm có hệ thống sao lưu dự phòng, phòng\nngừa rủi ro mất dữ liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Chế độ báo cáo, kiểm tra và xử lý vi phạm",
+          "text": "Điều 14. Chế độ báo cáo, kiểm tra và xử lý vi phạm\n1. Các đơn vị có trách nhiệm báo cáo định kỳ và đột xuất về công tác quản lý văn\nbằng, chứng chỉ theo yêu cầu.\n2. Đại học Đà Nẵng tổ chức kiểm tra hoặc thành lập đoàn kiểm tra các đơn vị việc\nthực hiện quản lý, cấp phát văn bằng, chứng chỉ tại các đơn vị.\n3. Tổ chức, cá nhân chịu trách nhiệm với các cơ quan quản lý nhà nước có thẩm\nquyền khi vi phạm các quy định về quản lý, cấp phát văn bằng, chứng chỉ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 15. Tổ chức thực hiện\n1. Các đơn vị có trách nhiệm tổ chức triển khai thực hiện Quy chế này; bảo đảm\nviệc cấp, quản lý văn bằng, chứng chỉ đúng quy định.\n2. Trong quá trình thực hiện, nếu phát sinh khó khăn, vướng mắc, các đơn vị kịp\nthời phản ánh về Ban Đào tạo và Đảm bảo chất lượng giáo dục để tổng hợp, báo cáo Giám\nđốc Đại học Đà Nẵng xem xét, quyết định./.\n\n9",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": []
+}

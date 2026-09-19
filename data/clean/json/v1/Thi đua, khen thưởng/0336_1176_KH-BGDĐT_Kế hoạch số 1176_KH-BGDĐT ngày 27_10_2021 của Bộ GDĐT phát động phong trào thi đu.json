@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0336_1176_KH-BGDĐT_Kế hoạch số 1176_KH-BGDĐT ngày 27_10_2021 của Bộ GDĐT phát động phong trào thi đu.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "1176/KH-BGDĐT",
+    "title": "Kế hoạch Triển khai Phong trào thi đua đặc biệt “Toàn ngành Giáo dục đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19, thực hiện thắng lợi nhiệm vụ năm học”",
+    "documentType": "Kế hoạch",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/10/2021",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Thi đua, khen thưởng",
+      "Đào tạo"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Kế hoạch triển khai Phong trào thi đua đặc biệt nhằm phát huy sức mạnh toàn ngành Giáo dục phòng, chống và chiến thắng đại dịch COVID-19, hoàn thành thắng lợi nhiệm vụ năm học, đồng thời đưa ra các nội dung, tiêu chí thi đua và hướng dẫn công tác khen thưởng cụ thể cho các cơ sở giáo dục, cán bộ, giáo viên và học sinh.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "19/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Chỉ thị số 19/CT-TTg ngày 16 tháng 7 năm 2021 của Thủ tướng Chính phủ về việc phát động thi đua thực hiện thắng lợi nhiệm vụ phát triển kinh tế - xã hội hằng năm và kế hoạch 05 năm (2021 - 2025) theo Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng;"
+    },
+    {
+      "targetDocumentNumber": "24/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Chỉ thị số 24/CT-TTg ngày 03 tháng 9 năm 2021 của Thủ tướng Chính phủ về việc đẩy mạnh triển khai các nhiệm vụ, giải pháp tổ chức dạy học an toàn, bảo đảm chương trình và mục tiêu chất lượng giáo dục, đào tạo ứng phó với đại dịch COVID-19;"
+    },
+    {
+      "targetDocumentNumber": "1497/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 1497/QĐ-TTg ngày 10 tháng 9 năm 2021 của Thủ tướng Chính phủ về việc ban hành Kế hoạch triển khai Phong trào thi đua đặc biệt “Cả nước đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19”;"
+    },
+    {
+      "targetDocumentNumber": "128/NQ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 128/NQ-CP ngày 11 tháng 10 năm 2021 của Chính phủ về ban hành quy định tạm thời “Thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19”;"
+    },
+    {
+      "targetDocumentNumber": "2611/HD-BTĐKT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Hướng dẫn số 2611/HD-BTĐKT ngày 06 tháng 10 năm 2021 của Ban Thi đua - Khen thưởng Trung ương về việc khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong Phong trào thi đua đặc biệt “Cả nước đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19”"
+    },
+    {
+      "targetDocumentNumber": "50/NQ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "qua đó góp phần thực hiện thắng lợi Nghị quyết số 50/NQ-CP ngày 20 tháng 5 năm 2021 của Chính phủ về chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng,"
+    },
+    {
+      "targetDocumentNumber": "2559/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 2559/QĐ-BGDĐT ngày 06 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành chương trình hành động triển khai chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng"
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 55",
+      "context": "- Việc đề nghị khen thưởng thực hiện theo trình tự, thủ tục đơn giản (quy định tại Điều 55 Nghị định số 91/2017/NĐ-CP ngày 31 tháng 7 năm 2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng."
+    }
+  ],
+  "mentions": [
+    "Ban Thi đua - Khen thưởng Trung ương",
+    "Bộ Y tế",
+    "Báo Giáo dục và Thời đại",
+    "Ủy ban nhân dân cấp tỉnh",
+    "Công đoàn Giáo dục Việt Nam",
+    "Hội Khuyến học Việt Nam"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

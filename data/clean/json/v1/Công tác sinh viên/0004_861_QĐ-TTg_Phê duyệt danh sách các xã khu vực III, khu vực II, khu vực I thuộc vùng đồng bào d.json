@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0004_861_QĐ-TTg_Phê duyệt danh sách các xã khu vực III, khu vực II, khu vực I thuộc vùng đồng bào d.txt",
+  "mappedBy": "gemini-web",
+  "note": "5 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "861/QĐ-TTg",
+    "title": "Quyết định Phê duyệt danh sách các xã khu vực III, khu vực II, khu vực I thuộc vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/06/2021",
+    "effectiveDate": "04/06/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khác"
+    ],
+    "summary": "Phê duyệt danh sách 3.434 xã thuộc vùng đồng bào dân tộc thiểu số và miền núi trên địa bàn 51 tỉnh, thành phố trực thuộc Trung ương giai đoạn 2021 - 2025, gồm 1.673 xã khu vực I, 210 xã khu vực II và 1.551 xã khu vực III.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trương Hòa Bình",
+      "academicTitle": null,
+      "position": [
+        "Phó Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "33/2020/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 33/2020/QĐ-TTg ngày 12 tháng 11 năm 2020 của Thủ tướng Chính phủ về Tiêu chí phân định vùng đồng bào dân tộc thiểu số và miền núi theo trình độ phát triển giai đoạn 2021-2025;"
+    },
+    {
+      "targetDocumentNumber": "582/QĐ-TTg",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các Quyết định số 582/QĐ-TTg ngày 28 tháng 4 năm 2017, Quyết định số 103/QĐ-TTg ngày 22 tháng 01 năm 2019 của Thủ tướng Chính phủ về phê duyệt danh sách thôn đặc biệt khó khăn, xã khu vực III, khu vực II, khu vực I thuộc vùng dân tộc thiểu số và miền núi giai đoạn 2016 - 2020"
+    },
+    {
+      "targetDocumentNumber": "103/QĐ-TTg",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các Quyết định số 582/QĐ-TTg ngày 28 tháng 4 năm 2017, Quyết định số 103/QĐ-TTg ngày 22 tháng 01 năm 2019 của Thủ tướng Chính phủ về phê duyệt danh sách thôn đặc biệt khó khăn, xã khu vực III, khu vực II, khu vực I thuộc vùng dân tộc thiểu số và miền núi giai đoạn 2016 - 2020"
+    },
+    {
+      "targetDocumentNumber": "72/QĐ-TTg",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "và Quyết định số 72/QĐ-TTg ngày 16 tháng 01 năm 2021 của Thủ tướng Chính phủ về việc các xã, thôn trên địa bàn vùng dân tộc thiểu số và miền núi được tiếp tục thụ hưởng các chính sách an sinh xã hội đã ban hành."
+    }
+  ],
+  "mentions": [
+    "Ủy ban Dân tộc",
+    "Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+    "Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phê duyệt danh sách 3.434 xã thuộc vùng đồng bào dân tộc thiểu",
+      "text": "Điều 1. Phê duyệt danh sách 3.434 xã thuộc vùng đồng bào dân tộc thiểu\nsố và miền núi trên địa bàn 51 tỉnh, thành phố trực thuộc Trung ương, bao\ngồm: 1.673 xã khu vực I, 210 xã khu vực II và 1.551 xã khu vực III (danh\nsách kèm theo).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Căn cứ đề nghị của Ủy ban nhân dân tỉnh, thành phố trực thuộc",
+      "text": "Điều 2. Căn cứ đề nghị của Ủy ban nhân dân tỉnh, thành phố trực thuộc\nTrung ương, Ủy ban Dân tộc tổng hợp, thẩm định, báo cáo Thủ tướng Chính phủ\nxem xét điều chỉnh, bổ sung danh sách các xã thuộc vùng đồng bào dân tộc\nthiểu số và miền núi do hoàn thành xây dựng nông thôn mới, chia tách, sáp\nnhập địa giới, thành lập mới hoặc hiệu chỉnh tên gọi của đơn vị hành chính theo\nquy định hiện hành.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các xã khu vực III, khu vực II đã được phê duyệt tại Quyết định",
+      "text": "Điều 3. Các xã khu vực III, khu vực II đã được phê duyệt tại Quyết định\nnày nếu được công nhận đạt chuẩn nông thôn mới sẽ được xác định là xã khu\nvực I và thôi hưởng các chính sách áp dụng đối với xã khu vực III, khu vực II\nkể từ ngày Quyết định của cấp có thẩm quyền công nhận xã đạt chuẩn nông\nthôn mới có hiệu lực.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các",
+      "text": "Điều 4. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các\nQuyết định số 582/QĐ-TTg ngày 28 tháng 4 năm 2017, Quyết định số 103/QĐ-TTg\nngày 22 tháng 01 năm 2019 của Thủ tướng Chính phủ về phê duyệt danh\nsách thôn đặc biệt khó khăn, xã khu vực III, khu vực II, khu vực I thuộc vùng\ndân tộc thiểu số và miền núi giai đoạn 2016 - 2020 và Quyết định số 72/QĐ-\nTTg ngày 16 tháng 01 năm 2021 của Thủ tướng Chính phủ về việc các xã, thôn\ntrên địa bàn vùng dân tộc thiểu số và miền núi được tiếp tục thụ hưởng các\nchính sách an sinh xã hội đã ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan",
+      "text": "Điều 5. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan\nthuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc\nTrung ương chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

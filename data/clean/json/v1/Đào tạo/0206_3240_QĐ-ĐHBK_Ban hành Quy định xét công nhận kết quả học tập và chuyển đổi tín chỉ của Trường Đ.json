@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0206_3240_QĐ-ĐHBK_Ban hành Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đ.txt",
+  "mappedBy": "gemini-web",
+  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3240/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "19/08/2022",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo"
+    ],
+    "summary": "Quyết định ban hành Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đại học Bách khoa, Đại học Đà Nẵng, áp dụng từ năm học 2022-2023 và thay thế Quyết định số 419/QĐ-ĐHBK.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "18/2017/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "3056/BGDĐT-GDĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn số 3056/BGDĐT-GDĐH ngày 19/7/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo về hướng dẫn thực hiện chương trình, giáo trình các môn Lý luận chính trị;"
+    },
+    {
+      "targetDocumentNumber": "4890/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4890/QĐ-BGDĐT ngày 23/12/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo phê duyệt chương trình, giáo trình sử dụng chung các môn Lý luận chính trị đối với đào tạo trình độ đại học các ngành không chuyên về lý luận chính trị;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "18/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "23/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08/10/2021;"
+    },
+    {
+      "targetDocumentNumber": "419/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này thay thế Quyết định số 419/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về việc xét và công nhận chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ trong chương trình đào tạo bậc đại học”."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Phòng Đào tạo",
+    "Khoa Giáo dục Thể chất - Đại học Đà Nẵng",
+    "Phòng Tổ chức-Hành chính"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về việc xét công nhận kết quả học tập và chuyển đổi tín chỉ (sau đây gọi tắt là công nhận tín chỉ) đối với một số học phần trong chương trình đào tạo đại học, chuyên sâu đặc thù, thạc sĩ, tiến sĩ của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường).\n2. Quy định này áp dụng đối với sinh viên, học viên cao học, nghiên cứu sinh (sau đây gọi chung là người học) của Trường đã tham gia và hoàn thành các học phần, khóa đào tạo, thực tập, nghiên cứu tại Trường, tại các cơ sở giáo dục đại học khác, tại các viện nghiên cứu, doanh nghiệp hoặc có chứng chỉ, chứng nhận ngoại ngữ quốc gia, quốc tế, hoặc có văn bằng cao cấp lý luận chính trị, cử nhân chính trị, trung cấp lý luận chính trị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Học phần được công nhận tín chỉ",
+          "text": "Điều 2. Học phần được công nhận tín chỉ\n1. Các loại học phần được công nhận tín chỉ bao gồm các học phần giáo dục thể chất, giáo dục quốc phòng - an ninh, các học phần thuộc chương trình đào tạo. Không chuyển đổi kết quả học phần khóa luận/đồ án tốt nghiệp trình độ đại học/chuyên sâu đặc thù, luận văn/đề án tốt nghiệp trình độ thạc sĩ, luận án tiến sĩ.\n2. Khối lượng của 01 tín chỉ được tính theo quy định hiện hành của Trường.\n3. Tiêu chuẩn xét công nhận tín chỉ đối với các học phần trong chương trình đào tạo đại học/chuyên sâu đặc thù, số tín chỉ tối đa được công nhận thực hiện theo quy định đào tạo trình độ đại học hiện hành của Trường.\n4. Tiêu chuẩn xét công nhận tín chỉ đối với các học phần trong chương trình đào tạo thạc sĩ, số tín chỉ tối đa được công nhận thực hiện theo quy định đào tạo trình độ thạc sĩ hiện hành của Trường.\n5. Tiêu chuẩn xét công nhận tín chỉ đối với các học phần trong chương trình đào tạo tiến sĩ, số tín chỉ tối đa được công nhận thực hiện theo quy định đào tạo trình độ tiến sĩ hiện hành của Trường.\n6. Các học phần được công nhận sẽ được tính tín chỉ tích lũy và ghi điểm cho học phần tương ứng trong bảng điểm của người học để tính điểm trung bình chung tích lũy (chi tiết trong Phụ lục I). Trường hợp học phần có kết quả “Đạt”, không có điểm, thì học phần đó được công nhận tín chỉ và lấy điểm M (điểm miễn) và không sử dụng để tính điểm trung bình chung tích lũy.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Công nhận tín chỉ đối với các học phần thuộc chương trình giáo dục thể chất, giáo dục quốc phòng - an ninh",
+          "text": "Điều 3. Công nhận tín chỉ đối với các học phần thuộc chương trình giáo dục thể chất, giáo dục quốc phòng - an ninh\n1. Khoa Giáo dục Thể chất - Đại học Đà Nẵng tổ chức xét miễn và công nhận kết quả các học phần thuộc chương trình giáo dục thể chất.\n2. Cơ sở liên kết đào tạo với Trường để đào tạo kiến thức giáo dục quốc phòng - an ninh tổ chức xét miễn và công nhận kết quả học phần, cấp chứng chỉ cho các sinh viên hoàn thành chương trình giáo dục quốc phòng - an ninh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tổ chức thực hiện công nhận tín chỉ đối với các học phần thuộc chương trình đào tạo",
+          "text": "Điều 4. Tổ chức thực hiện công nhận tín chỉ đối với các học phần thuộc chương trình đào tạo\n1. Việc thực hiện xét công nhận tín chỉ được thực hiện vào đầu khóa học hoặc đầu học kỳ khi người học có đơn đề nghị xét công nhận tín chỉ (theo các biểu mẫu Phụ lục II, Phụ lục III). Thời gian người học nộp đơn muộn nhất là 02 tuần trước khi học kỳ mới bắt đầu theo biểu đồ Kế hoạch đào tạo của năm học.\n2. Hiệu trưởng ban hành Quyết định thành lập Hội đồng xét công nhận kết quả học tập và chuyển đổi tín chỉ.\na) Thành phần Hội đồng gồm đại diện Ban Giám hiệu; Trưởng phòng hoặc Phó Trưởng phòng Phòng Đào tạo; Trưởng khoa hoặc Phó Trưởng khoa phụ trách đào tạo, Trưởng Bộ môn quản lý ngành/chuyên ngành đào tạo thuộc Khoa có người học đề nghị xét công nhận kết quả học tập.\nb) Giúp việc cho Hội đồng là Tổ thư ký, gồm chuyên viên Phòng Đào tạo và giáo vụ Khoa có liên quan. Trường hợp cần thiết, có thể bổ sung thêm thành viên Tổ thư ký là giảng viên có kinh nghiệm về ngành/chuyên ngành đào tạo.\nc) Tổ thư ký chịu trách nhiệm kiểm tra và đề xuất công nhận giá trị chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ cho từng người học. Tổ thư ký tập hợp bản sao các văn bằng, chứng chỉ của người học đề nghị sử dụng để xét miễn học phần; lập Biên bản xét miễn và công nhận điểm học phần (Phụ lục IV); trình Hội đồng xét công nhận tín chỉ cho người học (Phụ lục V).\n3. Căn cứ Kết luận của Biên bản họp Hội đồng, Phòng Đào tạo trình Hiệu trưởng phê duyệt danh sách học phần được xét công nhận tín chỉ cho từng người học.\n4. Đối với các học phần ngoại ngữ cơ bản và các học phần Lý luận chính trị, Hiệu trưởng giao nhiệm vụ cho Phòng Đào tạo tổ chức xét công nhận tín chỉ đảm bảo nguyên tắc xét miễn quy định tại khoản 2 và khoản 3 Điều 5 của Quy định này và trình Hiệu trưởng phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguyên tắc và hướng dẫn xét miễn và công nhận điểm học phần đối với các học phần thuộc chương trình đào tạo",
+          "text": "Điều 5. Nguyên tắc và hướng dẫn xét miễn và công nhận điểm học phần đối với các học phần thuộc chương trình đào tạo\n1. Nếu có 1 học phần được xét miễn hoặc nhiều học phần được xét miễn từ 2 học phần trở lên đã học thì điểm của học phần được xét miễn là trung bình có trọng số của điểm các học phần đã học (trọng số là số tín chỉ hoặc số đơn vị học trình của các học phần đã học). Nếu có 2 học phần được xét miễn từ 1 học phần đã học thì điểm của các học phần được miễn là điểm của học phần đã học.\n2. Việc xét miễn và công nhận tín chỉ các học phần ngoại ngữ cơ bản được thực hiện theo quy định ngoại ngữ hiện hành của Trường.\n3. Sinh viên được xét miễn các học phần Lý luận chính trị thuộc chương trình đào tạo đại học/chuyên sâu đặc thù (Triết học Mác-Lênin, Kinh tế chính trị Mác-Lênin, Chủ nghĩa xã hội khoa học, Tư tưởng Hồ Chí Minh, Đường lối cách mạng Đảng Cộng sản Việt Nam) khi có một trong các văn bằng sau: cao cấp lý luận chính trị, cử nhân chính trị, trung cấp lý luận chính trị. Đối với các trường hợp này, ghi điểm “M” cho học phần được xét miễn và không lấy điểm để tính điểm trung bình chung tích lũy.\n4. Trừ các học phần có điểm M và các học phần điều kiện (học phần bổ sung kiến thức và các học phần theo quy định của chương trình đào tạo), kết quả điểm xét miễn và công nhận tín chỉ học phần được sử dụng để tính điểm trung bình chung tích lũy.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Trách nhiệm của các đơn vị trong Trường",
+          "text": "Điều 6. Trách nhiệm của các đơn vị trong Trường\n1. Phòng Đào tạo có trách nhiệm tổ chức, triển khai và phối hợp thực hiện Quy định; hướng dẫn, giải đáp thắc mắc, tiếp nhận đề nghị của người học và các đơn vị liên quan; soạn thảo các biểu mẫu liên quan; nhập thông tin kết quả xét vào hệ thống quản lý của Trường, lưu trữ và quản lý hồ sơ họp Hội đồng xét công nhận tín chỉ.\n2. Các đơn vị quản lý học phần có trong chương trình đào tạo có trách nhiệm tư vấn về việc xét miễn và công nhận điểm học phần nếu nhận được yêu cầu. Các đơn vị của Trường được phép cấp chứng chỉ và chứng nhận có trách nhiệm kiểm tra thông tin về chứng chỉ có liên quan nếu nhận được yêu cầu.\n3. Các đơn vị liên quan có trách nhiệm phối hợp với Phòng Đào tạo trong việc triển khai thực hiện Quy định.\n4. Những trường hợp không nằm trong phạm vi áp dụng của Quy định sẽ được Phòng Đào tạo phối hợp với các đơn vị liên quan nghiên cứu, đề xuất phương án giải quyết, trình Hiệu trưởng xem xét, quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Điều khoản thực hiện",
+          "text": "Điều 7. Điều khoản thực hiện\n1. Quy định này có hiệu lực áp dụng kể từ năm học 2022-2023 và thay thế các văn bản quy định trước đây.\n2. Trong quá trình thực hiện Quy định này, nếu có vướng mắc, các đơn vị, cá nhân có liên quan phản ảnh bằng văn bản về Phòng Đào tạo để tổng hợp, báo cáo Hiệu trưởng xem xét, quyết định sửa đổi, bổ sung phù hợp với quy định hiện hành.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực và áp dụng kể từ năm học 2022-2023. Quyết định này thay thế Quyết định số 419/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về ",
+      "text": "Điều 2. Quyết định này có hiệu lực và áp dụng kể từ năm học 2022-2023. Quyết định này thay thế Quyết định số 419/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về việc xét và công nhận chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ trong chương trình đào tạo bậc đại học”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức-Hành chính, Phó Trưởng phòng phụ trách Phòng Đào tạo, Trưởng các đơn vị có liên quan, các sinh viên, học viên cao học và nghiên cứu sinh của Trường chịu trách nhiệm thi hành",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức-Hành chính, Phó Trưởng phòng phụ trách Phòng Đào tạo, Trưởng các đơn vị có liên quan, các sinh viên, học viên cao học và nghiên cứu sinh của Trường chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

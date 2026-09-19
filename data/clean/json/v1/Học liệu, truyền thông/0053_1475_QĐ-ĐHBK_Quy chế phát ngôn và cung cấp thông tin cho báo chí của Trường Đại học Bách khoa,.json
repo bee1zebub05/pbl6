@@ -1,0 +1,201 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Học liệu, truyền thông/0053_1475_QĐ-ĐHBK_Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa,.txt",
+  "mappedBy": "gemini-web",
+  "note": "17 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1475/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "21/05/2021",
+    "effectiveDate": "21/05/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Học liệu, truyền thông"
+    ],
+    "summary": "Ban hành kèm theo Quyết định là Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/05/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "22/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 22/QĐ-BGDĐT ngày 08/01/2019 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí;"
+    },
+    {
+      "targetDocumentNumber": "4653/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4653/QĐ-ĐHĐN ngày 23/12/2020 của Đại học Đà Nẵng ban hành Quy định phát ngôn và cung cấp thông tin cho báo chí của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường",
+    "Trung tâm Học liệu và Truyền thông",
+    "Phòng Tổ chức Hành chính",
+    "Phòng Thanh tra - Pháp chế",
+    "Tòa án"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế Phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\n1. Quy chế này quy định về việc phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường) theo các quy định của pháp luật về báo chí hiện hành và quy định của Trường.\n2. Các nội dung phát ngôn và cung cấp thông tin về chuyên môn học thuật, các bài viết của cá nhân không nhân danh Trường không thuộc phạm vi điều chỉnh của Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đối tượng áp dụng",
+          "text": "Điều 2. Đối tượng áp dụng\nQuy chế này được áp dụng đối với các đơn vị thuộc và trực thuộc Trường (sau đây gọi chung là đơn vị), viên chức, người lao động của Trường và các tổ chức, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Người phát ngôn và cung cấp thông tin cho báo chí",
+          "text": "Điều 3. Người phát ngôn và cung cấp thông tin cho báo chí\n1. Người phát ngôn và cung cấp thông tin cho báo chí của Trường gồm:\na) Hiệu trưởng: là người chính thức thực hiện phát ngôn và cung cấp thông tin cho báo chí của Trường, chịu trách nhiệm trước pháp luật về nội dung phát ngôn và cung cấp thông tin cho báo chí.\nb) Các Phó Hiệu trưởng, đối với vấn đề thuộc lĩnh vực chuyên môn phụ trách, được Hiệu trưởng ủy quyền giao nhiệm vụ phát ngôn và cung cấp thông tin cho báo chí thường xuyên (sau đây gọi là người phát ngôn).\nc) Trong trường hợp cần thiết, Hiệu trưởng ủy quyền cho Trưởng các đơn vị hoặc người có trách nhiệm thuộc Trường (sau đây gọi là người được ủy quyền phát ngôn) phát ngôn hoặc phối hợp cùng người phát ngôn để phát ngôn và cung cấp thông tin cho báo chí về những vấn đề cụ thể được giao.\nd) Người có thẩm quyền phát ngôn quy định tại điểm b và c khoản 1 Điều này nếu đi vắng mà không thể thực hiện phát ngôn và cung cấp thông tin cho báo chí thì phải báo cáo để Hiệu trưởng chỉ đạo xử lý.\n\n2. Người phát ngôn, người được ủy quyền phát ngôn được quy định tại điểm b và c của Khoản 1 Điều này không được ủy quyền tiếp cho người khác.\n3. Lãnh đạo và cá nhân các đơn vị thuộc và trực thuộc Trường được cung cấp thông tin cho báo chí theo quy định pháp luật nhưng không được nhân danh Trường để phát ngôn và cung cấp thông tin cho báo chí; không được tiết lộ bí mật điều tra, bí mật công vụ, thông tin sai sự thật; trung thực khi cung cấp thông tin cho báo chí và chịu trách nhiệm trước pháp luật về nội dung thông tin đã cung cấp. Sau khi trả lời phỏng vấn của báo chí, Lãnh đạo các đơn vị thuộc và trực thuộc Trường phải báo cáo Hiệu trưởng bằng văn bản về các thông tin đã cung cấp và các vấn đề khác có liên quan. Nội dung trả lời phải được chuyển cho đơn vị chức năng có liên quan của Trường để tổng hợp.\n4. Hoạt động của người phát ngôn, người được ủy quyền phát ngôn phải tuân theo các quy định của Đảng và Nhà nước trong lĩnh vực công tác tư tưởng, thông tin báo chí và theo quy định tại Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Quy định đối với nhà báo, phóng viên thực hiện tác nghiệp tại Trường",
+          "text": "Điều 4. Quy định đối với nhà báo, phóng viên thực hiện tác nghiệp tại Trường\nNhững hành vi nghiêm cấm và bắt buộc đối với nhà báo, phóng viên khi đến thực hiện tác nghiệp tại Trường:\n1. Không tuân theo quy định của Luật Báo chí và các văn bản pháp luật có liên quan.\n2. Không tuân theo các quy định về phát ngôn và cung cấp thông tin cho báo chí của Trường.\n3. Không xuất trình Thẻ nhà báo hoặc giấy giới thiệu (đối với người không có thẻ nhà báo).\n4. Thẻ nhà báo, giấy giới thiệu phải đang trong thời gian còn hạn sử dụng, được cấp bởi cơ quan có thẩm quyền theo quy định của pháp luật. Giấy giới thiệu phải ghi rõ đơn vị đến làm việc, nội dung cụ thể cần trao đổi, phạm vi giới hạn của công việc và thời gian làm việc cụ thể.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nội dung và hình thức phát ngôn và cung cấp thông tin cho báo chí",
+          "text": "Điều 5. Nội dung và hình thức phát ngôn và cung cấp thông tin cho báo chí\n1. Nội dung phát ngôn và cung cấp thông tin cho báo chí:\na) Tình hình triển khai thực hiện các chủ trương, đường lối của Đảng và chính sách, pháp luật của Nhà nước; các văn bản chỉ đạo của Bộ Giáo dục và Đào tạo, Đại học Đà Nẵng và các văn bản quản lý, chỉ đạo, điều hành của Trường; Chương trình, kế hoạch, chiến lược phát triển, nội dung hội thảo, hội nghị của Trường cần tuyên truyền rộng rãi đến các cấp, các ngành và xã hội.\nb) Tình hình và kết quả thực hiện chức năng, nhiệm vụ của Trường.\n\nc) Các vấn đề khác mà Hiệu trưởng xét thấy cần phát ngôn và cung cấp thông tin cho báo chí. Nội dung cung cấp cho báo chí phải đảm bảo tính chính xác, trung thực và phải trình Hiệu trưởng duyệt trước khi công bố.\n\n2. Hình thức cung cấp thông tin cho báo chí:\na) Tổ chức họp báo (hoặc mời nhà báo, phóng viên đến đưa tin sự kiện, hoạt động theo kế hoạch của Trường).\nb) Đăng tải nội dung phát ngôn và cung cấp thông tin trên Cổng thông tin điện tử của Trường.\nc) Phát ngôn trực tiếp hoặc trả lời phỏng vấn của nhà báo, phóng viên.\nd) Gửi thông cáo báo chí, nội dung trả lời cho cơ quan báo chí, nhà báo, phóng viên bằng văn bản hoặc qua thư điện tử.\nđ) Cung cấp thông tin qua trao đổi trực tiếp hoặc tại các cuộc giao ban báo chí do các cấp lãnh đạo, địa phương tổ chức khi được yêu cầu.\ne) Ban hành văn bản đề nghị cơ quan báo chí đăng, phát phản hồi, cải chính, xin lỗi nội dung thông tin trên báo chí đã đăng không chính xác như thông tin đã được cung cấp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Phát ngôn và cung cấp thông tin định kỳ",
+          "text": "Điều 6. Phát ngôn và cung cấp thông tin định kỳ\nĐịnh kỳ hàng năm Hiệu trưởng Trường chủ trì tổ chức các hình thức cung cấp thông tin cho báo chí về các nội dung liên quan đến các mảng công tác trọng tâm của Trường. Trường hợp tổ chức họp báo sẽ thực hiện theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Phát ngôn và cung cấp thông tin trong trường hợp đột xuất",
+          "text": "Điều 7. Phát ngôn và cung cấp thông tin trong trường hợp đột xuất\nNgười phát ngôn hoặc người được ủy quyền phát ngôn của Trường có trách nhiệm phát ngôn và cung cấp thông tin kịp thời, chính xác cho báo chí trong các trường hợp đột xuất, bất thường sau đây:\n1. Khi cần thiết phải thông tin trên báo chí về các nội dung quan trọng, có tác động lớn trong xã hội hoặc có ảnh hưởng đến Trường Đại học Bách khoa, Đại học Đà Nẵng nhằm kịp thời cung cấp thông tin chính thống và định hướng dư luận.\n2. Trường hợp xảy ra vụ việc cần có ngay thông tin ban đầu của Trường thì người phát ngôn hoặc người được ủy quyền phát ngôn có trách nhiệm chủ động phát ngôn và cung cấp thông tin cho báo chí trong thời gian chậm nhất là 01 (một) ngày, kể từ khi vụ việc xảy ra.\n3. Khi cơ quan báo chí hoặc cơ quan chỉ đạo, quản lý nhà nước về báo chí có yêu cầu phát ngôn hoặc cung cấp thông tin về các sự kiện, vấn đề của Trường, lĩnh vực thuộc phạm vi quản lý của Trường đã được nêu trên báo chí hoặc các sự kiện, vấn đề nêu tại Khoản 1 Điều này.\n\n4. Khi có căn cứ cho rằng báo chí đăng tải thông tin chưa chính xác, sai sự thật về Trường thì người phát ngôn hoặc người được ủy quyền phát ngôn chỉ đạo đơn vị chức năng có liên quan gửi văn bản yêu cầu đến cơ quan báo chí đó phải đăng, phát ý kiến phản hồi, cải chính theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Phát ngôn và cung cấp thông tin cho báo chí tại các hội nghị, hội thảo, cuộc họp, tập huấn",
+          "text": "Điều 8. Phát ngôn và cung cấp thông tin cho báo chí tại các hội nghị, hội thảo, cuộc họp, tập huấn\n1. Việc phát ngôn và cung cấp thông tin cho báo chí tại các hội nghị, hội thảo, cuộc họp, tập huấn do Trường tổ chức phải tuân thủ theo quy định của pháp luật. Các thông tin cung cấp cho báo chí dưới hình thức văn bản, tài liệu, báo cáo hoạt động cần phải được sự phê duyệt của lãnh đạo Trường, bảo đảm rõ ràng, đầy đủ, chính xác.\n2. Người chủ trì hội nghị, hội thảo, cuộc họp, tập huấn của Trường chịu trách nhiệm trước Hiệu trưởng về các nội dung thông tin được cung cấp trong hội nghị, hội thảo, cuộc họp, tập huấn đó. Trước khi hội nghị, hội thảo, cuộc họp, tập huấn bắt đầu, người chủ trì thông báo về phạm vi và mức độ giới hạn thông tin cung cấp cho báo chí theo một trong các mức độ sau:\na) Thông tin được sử dụng, phổ biến rộng rãi.\nb) Thông tin chỉ để tham khảo.\nc) Thông tin lưu hành nội bộ.\nd) Thông tin chỉ được phổ biến rộng rãi sau một thời gian nhất định (thời gian cụ thể do người chủ trì hội nghị, hội thảo, cuộc họp, tập huấn quyết định).\n3. Trường hợp các cá nhân thuộc Trường không phải là những người được quy định tại Khoản 1 Điều 3 Quy chế này khi tham gia hội nghị, hội thảo, cuộc họp, tập huấn do Trường hoặc đơn vị bên ngoài Trường tổ chức muốn phát ngôn và cung cấp thông tin cho báo chí thì không được nhân danh Trường, đồng thời phải chịu trách nhiệm trước pháp luật, trước Hiệu trưởng về nội dung phát ngôn và cung cấp thông tin cho báo chí.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quyền và trách nhiệm của Hiệu trưởng trong việc phát ngôn và cung cấp thông tin cho báo chí",
+          "text": "Điều 9. Quyền và trách nhiệm của Hiệu trưởng trong việc phát ngôn và cung cấp thông tin cho báo chí\n1. Hiệu trưởng là người phát ngôn có thể trực tiếp phát ngôn hoặc giao nhiệm vụ, ủy quyền cho người có trách nhiệm thuộc Trường phát ngôn và cung cấp thông tin cho báo chí theo quy định tại điểm b và điểm c Khoản 1 Điều 3 Quy chế này.\n2. Hiệu trưởng chịu trách nhiệm về việc phát ngôn và cung cấp thông tin cho báo chí của Trường kể cả trong trường hợp ủy quyền cho người khác phát ngôn và cung cấp thông tin cho báo chí.\n3. Hiệu trưởng chỉ đạo tổ chức việc chuẩn bị các thông tin và chế độ phát ngôn của Trường.\n\n5\n\n4. Hiệu trưởng xem xét hỗ trợ kinh phí cho người phát ngôn, người được ủy quyền phát ngôn của Trường để thực hiện việc phát ngôn và cung cấp thông tin cho báo chí.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Quyền và trách nhiệm của người phát ngôn, người được ủy quyền phát ngôn",
+          "text": "Điều 10. Quyền và trách nhiệm của người phát ngôn, người được ủy quyền phát ngôn\n\n1. Người phát ngôn, người được ủy quyền phát ngôn của Trường được nhân danh đại diện Trường phát ngôn và cung cấp thông tin cho báo chí.\n\n2. Người phát ngôn, người được ủy quyền phát ngôn của Trường có quyền yêu cầu các đơn vị và cá nhân có liên quan của Trường và của đơn vị cung cấp thông tin, tập hợp thông tin để phát ngôn và cung cấp thông tin cho báo chí theo quy định tại Điều 5, Điều 6, Điều 7 Quy chế này; để trả lời các phản ánh, kiến nghị, phê bình, khiếu nại, tố cáo của tổ chức, công dân do cơ quan báo chí chuyển đến hoặc đăng phát trên báo chí theo quy định của pháp luật.\n\n3. Người phát ngôn, người được ủy quyền phát ngôn có quyền yêu cầu cơ quan báo chí để được xem lại nội dung phát ngôn trước khi đăng, phát trên báo chí theo quy định của pháp luật.\n\n4. Trong trường hợp các cơ quan báo chí đăng, phát không chính xác nội dung thông tin mà người phát ngôn, người được ủy quyền phát ngôn đã phát ngôn thì có quyền nêu ý kiến phản hồi bằng văn bản đến cơ quan báo chí, cơ quan chủ quản báo chí, cơ quan quản lý nhà nước về báo chí hoặc khởi kiện tại Tòa án theo quy định của pháp luật.\n\n5. Trong trường hợp đặc biệt, người phát ngôn, người được ủy quyền phát ngôn có thể báo cáo Hiệu trưởng và đề nghị thành lập Hội đồng tư vấn để xử lý thông tin.\n\n6. Người phát ngôn, người được ủy quyền phát ngôn có trách nhiệm từ chối, không phát ngôn và không cung cấp thông tin cho báo chí trong các trường hợp sau:\n\na) Những vấn đề thuộc bí mật Nhà nước, những vấn đề bí mật thuộc nguyên tắc và quy định của Đảng; những vấn đề không thuộc quyền hạn phát ngôn.\n\nb) Những vụ án đang điều tra hoặc chưa xét xử, trừ trường hợp các cơ quan hành chính nhà nước, cơ quan điều tra có thẩm quyền theo quy định của pháp luật yêu cầu cần thông tin trên báo chí những vấn đề có lợi cho hoạt động điều tra và công tác đấu tranh phòng, chống tội phạm.\n\nc) Những vấn đề thuộc hoạt động của Trường đang trong quá trình thực hiện chưa được thống nhất.\n\nd) Các vụ việc đang trong quá trình thanh tra; nghiên cứu giải quyết khiếu nại, tố cáo; những vấn đề tranh chấp, mâu thuẫn giữa các cơ quan, đơn vị nhà nước đang trong quá trình giải quyết, chưa có kết luận chính thức của người có thẩm quyền theo quy định không được cung cấp thông tin cho báo chí.\n\n6\n\nđ)\n\nNhững văn bản chính sách, đề án đang trong quá trình soạn thảo mà theo quy định của pháp luật chưa được cấp có thẩm quyền cho phép phổ biến.\n\ne) Các nội dung, tài liệu mang tính bảo mật theo quy định của Trường hoặc nội dung, tài liệu khác được phép từ chối phát ngôn và không cung cấp thông tin theo quy định của pháp luật.\n\nf) Trường hợp người phát ngôn, người được ủy quyền phát ngôn thấy chưa có đủ thông tin để trả lời ngay thì được quyền không phát ngôn và không cung cấp thông tin tại thời điểm yêu cầu.\n\n7. Người phát ngôn, người được ủy quyền phát ngôn có trách nhiệm phát ngôn và cung cấp thông tin cho báo chí theo quy định tại Điều 5, Điều 6, Điều 7 Quy chế này và chịu trách nhiệm trước pháp luật, trước Hiệu trưởng về nội dung phát ngôn thông tin cho báo chí.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Trách nhiệm của các đơn vị, cá nhân trong việc phát ngôn và cung cấp thông tin cho báo chí",
+          "text": "Điều 11. Trách nhiệm của các đơn vị, cá nhân trong việc phát ngôn và cung cấp thông tin cho báo chí\n\n1. Trách nhiệm của Trung tâm Học liệu và Truyền thông:\n\na) Là đơn vị đầu mối liên hệ, sắp xếp lịch làm việc giữa các cơ quan thông tấn báo chí với người phát ngôn, người được ủy quyền phát ngôn tại Trường.\n\nb) Tổng hợp các thông tin phát ngôn từ các đơn vị thuộc và trực thuộc Trường báo cáo theo dõi thông tin trên các phương tiện thông tin đại chúng và dư luận xã hội liên quan tới các lĩnh vực, hoạt động thuộc chức năng quản lý của Trường; báo cáo Hiệu trưởng xem xét, xử lý.\n\nc) Phối hợp với các đơn vị có liên quan tổ chức các hình thức phát ngôn và cung cấp thông tin cho báo chí.\n\nd) Phối hợp với đơn vị liên quan chuẩn bị, tham mưu nội dung cần phát ngôn, cung cấp thông tin cho báo chí khi được Hiệu trưởng hoặc người được ủy quyền phân công, giao nhiệm vụ.\n\nđ) Phối hợp với các cơ quan báo, đài để đăng tải thông tin cần cung cấp hoặc cải chính đảm bảo tính chính xác, kịp thời.\n\n2. Trách nhiệm của Phòng Tổ chức Hành chính:\n\nTham mưu, phối hợp với các đơn vị liên quan trong việc xem xét, đánh giá và đề nghị kỷ luật đối với đơn vị, cá nhân vi phạm Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng.\n\n3. Trách nhiệm của Phòng Thanh tra - Pháp chế:\n\na) Tham mưu, phối hợp với các đơn vị liên quan trong việc xem xét, đánh giá, đề nghị khen thưởng đối với việc thực hiện tốt, đảm bảo quy định trong việc phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng.\n\n7\n\nb) Phối hợp với các đơn vị liên quan (khi có đề nghị) rà soát nội dung phát ngôn, thông tin cung cấp cho báo chí, đảm bảo thực hiện đúng các quy định của pháp luật hiện hành để tham mưu cho người phát ngôn hoặc người được ủy quyền phát ngôn, cung cấp thông tin, trả lời báo chí.\n\n4. Trách nhiệm của đơn vị khác thuộc và trực thuộc Nhà trường:\n\na) Phối hợp với Trung tâm Học liệu và Truyền thông chuẩn bị các nội dung cung cấp thông tin cho báo chí khi tổ chức các sự kiện cấp Trường.\n\nb) Các đơn vị có trách nhiệm cung cấp thông tin thuộc phạm vi, lĩnh vực quản lý để người phát ngôn, người được ủy quyền phát ngôn của Trường thực hiện việc phát ngôn và cung cấp thông tin cho báo chí.\n\nc) Các đơn vị khi nhận được yêu cầu của người phát ngôn, người được ủy quyền phát ngôn của Trường về việc cung cấp thông tin để thực hiện việc phát ngôn và cung cấp thông tin cho báo chí có trách nhiệm thực hiện đúng yêu cầu về nội dung và thời hạn cung cấp thông tin.\n\nd) Trưởng các đơn vị chịu trách nhiệm trước Hiệu trưởng về tính chính xác, trung thực của các thông tin do đơn vị mình cung cấp cho người phát ngôn, người được ủy quyền phát ngôn của Trường.\n\nđ) Các đơn vị tùy theo chức năng, nhiệm vụ được giao phối hợp với người phát ngôn, người được ủy quyền phát ngôn cung cấp thông tin cho cơ quan báo chí theo quy định.\n\n5. Trách nhiệm của viên chức, người lao động của Trường trong việc phát ngôn và cung cấp thông tin cho báo chí:\n\na) Phản ánh tình hình, cung cấp thông tin thuộc phạm vi, lĩnh vực được phân công theo dõi, phụ trách để những người được quy định tại Khoản 1 Điều 3 Quy chế này thực hiện phát ngôn, trả lời phỏng vấn và cung cấp thông tin cho báo chí.\n\nb) Không được nhân danh Trường để phát ngôn và cung cấp thông tin cho báo chí khi không được ủy quyền theo quy định tại Khoản 1 Điều 3 Quy chế này.\n\nc) Không được thông tin về các vấn đề đang nghiên cứu, đang thảo luận hoặc đang xem xét giải quyết và chưa được cấp có thẩm quyền cho phép cung cấp thông tin.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Xử lý vi phạm",
+          "text": "Điều 12. Xử lý vi phạm\n\nCác đơn vị thuộc và trực thuộc Trường; viên chức, người lao động của Trường và các tổ chức, cá nhân có liên quan không thực hiện hoặc thực hiện không đúng, không đảm bảo các quy định trong Quy chế này thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định của Trường và của pháp luật.\n\n8",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Trách nhiệm phối hợp",
+          "text": "Điều 13. Trách nhiệm phối hợp\n\nNgười phát ngôn, người được ủy quyền phát ngôn của Trường phối hợp với Trưởng các đơn vị trong Trường thực hiện nhiệm vụ phát ngôn và cung cấp thông tin cho báo chí theo đúng nội dung quy định tại Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Trách nhiệm thi hành",
+          "text": "Điều 14. Trách nhiệm thi hành\n\n1. Trưởng các đơn vị có trách nhiệm phổ biến, quán triệt Quy chế này đến viên chức, người lao động thuộc đơn vị mình và tổ chức thực hiện nghiêm túc Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường.\n\n2. Viên chức, người lao động và các đơn vị thuộc và trực thuộc Trường có trách nhiệm chấp hành nghiêm các quy định về phát ngôn và cung cấp thông tin cho báo chí của Trường.\n\n3. Trong quá trình thực hiện, nếu có vấn đề phát sinh hoặc vướng mắc, các đơn vị, cá nhân kịp thời phản ánh về Trường qua Trung tâm Học liệu và Truyền thông, để tổng hợp trình Hiệu trưởng xem xét, quyết định sửa đổi, bổ sung cho phù hợp./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế phát ngôn và cung cấp thông tin cho báo chí của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Lãnh đạo Trung tâm Học liệu và Truyền thông, Trưởng các đơn vị thuộc và trực thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định n",
+      "text": "Điều 3. Lãnh đạo Trung tâm Học liệu và Truyền thông, Trưởng các đơn vị thuộc và trực thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

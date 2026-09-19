@@ -1,0 +1,304 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0082_2347_QĐ-ĐHBK_Ban hành Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện t.txt",
+  "mappedBy": "gemini-web",
+  "note": "28 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2347/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành \"Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện tử của Trường Đại học Bách khoa, Đại học Đà Nẵng\"",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": "14/11/2018",
+    "effectiveDate": "14/11/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS"
+    ],
+    "summary": "Ban hành kèm theo Quy định về tổ chức hoạt động trang thông tin điện tử và sử dụng thư điện tử của Trường Đại học Bách khoa, Đại học Đà Nẵng, quy định về quản trị hệ thống thư điện tử, quy trình và nội dung cung cấp thông tin lên trang thông tin điện tử của Trường.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "70/2014/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Điều lệ trường đại học ban hành kèm theo Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "15/2018/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 15/2018/TT-BGDĐT ngày 27 tháng 7 năm 2018 về việc Quy định về tổ chức hoạt động, sử dụng thư điện tử và trang thông tin điện tử của các cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "36/2017/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tin công khai của Trường và thời hạn đăng tin lên trang thông tin điện tử thực hiện theo quy định tại Thông tư số 36/2017/TT-BGDĐT ngày 28 tháng 12 năm 2017 ban hành quy chế thực hiện công khai đối với cơ sở giáo dục và đào tạo thuộc hệ thống giáo dục quốc dân"
+    },
+    {
+      "targetDocumentNumber": "15/2014/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 34",
+      "context": "Các thông tin quy định tại khoản 9 Điều 34 Quy chế đào tạo trình độ thạc sĩ ban hành kèm theo Thông tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 của Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "08/2017/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tin về tuyển sinh đào tạo trình độ tiến sĩ và thời hạn đăng tin lên trang thông tin điện tử thực hiện theo quy định tại Thông tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 của Bộ Giáo dục và Đào tạo ban hành quy chế tuyển sinh và đào tạo trình độ tiến sĩ"
+    },
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Giấy chứng nhận kiểm định chất lượng giáo dục được công bố chậm nhất 10 ngày làm việc sau khi được cấp theo quy định tại Thông tư số 12/2017/TT-BGDĐT ngày 19 tháng 5 năm 2017 ban hành quy định về kiểm định chất lượng giáo dục đại học."
+    }
+  ],
+  "mentions": [
+    "Quốc hội",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Tổ Công nghệ thông tin",
+    "Phòng Tổ chức Hành chính",
+    "Phòng Tổ chức - Hành chính",
+    "Cục Công nghệ thông tin Bộ Giáo dục và Đào tạo",
+    "Tổ Quản trị mạng của Đại học Đà Nẵng",
+    "Ban Giám Hiệu",
+    "Ban Biên tập",
+    "Phòng Công tác sinh viên",
+    "Phòng Cơ sở vật chất",
+    "Phòng Đào tạo",
+    "Phòng Kế hoạch Tài chính",
+    "Phòng Khoa học công nghệ & Hợp tác quốc tế",
+    "Phòng Khảo thí và Đảm bảo chất lượng giáo dục",
+    "Phòng Thanh tra Pháp chế",
+    "Trung tâm Học liệu và Truyền thông",
+    "Các Trung tâm nghiên cứu khoa học, Viện",
+    "Các Khoa, bộ môn trực thuộc",
+    "Văn phòng Đảng ủy",
+    "Văn phòng Công đoàn",
+    "Đoàn thanh niên, Hội sinh viên",
+    "Trung tâm Hỗ trợ sinh viên và Quan hệ doanh nghiệp",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+    "Hội Đồng đánh giá luận án",
+    "Hội đồng thẩm định"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện tử của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng\nthư điện tử của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là\nTrường).\n2. Văn bản này áp dụng đối với các đơn vị và cá nhân của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong văn bản này các từ ngữ dưới đây được hiểu như sau:\n1. Nhóm thư điện tử là tập hợp các địa chỉ thư điện tử được lập để chia sẻ thông\ntin nội bộ giữa các địa chỉ thư điện tử tham gia nhóm. Khi một thành viên trong nhóm\ngửi đến địa chỉ chung của nhóm thì các thành viên trong nhóm đều nhận được.\n2. RSS (Really Simple Syndication) là một chuẩn định dạng nhằm mục đích chia\nsẻ nội dung trên mạng máy tính.\n3. Chuẩn Dublin Core về dữ liệu đặc tả là một tập bao gồm 15 yếu tố dữ liệu đặc\ntả cơ bản được sử dụng để mô tả tài nguyên. Trong đó, dữ liệu đặc tả là những thông\ntin mô tả các đặc tính của dữ liệu như nội dung, định dạng, chất lượng, điều kiện và\ncác đặc tính khác nhằm tạo thuận lợi cho quá trình tìm kiếm, truy cập, quản lý và lưu\ntrữ dữ liệu.\n4. Trang thông tin điện tử của Trường là nơi cung cấp, trao đổi thông tin của\nTrường trên mạng Internet, có địa chỉ Internet là http://dut.udn.vn",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Tên hộp thư điện tử, phương thức thiết lập hệ thống thư điện tử",
+          "text": "Điều 3. Tên hộp thư điện tử, phương thức thiết lập hệ thống thư điện tử\n1. Trường sử dụng dịch vụ thư điện tử được cung cấp bởi các nhà cung cấp dịch\nvụ, với tên miền riêng do Trường đăng ký với nhà cung cấp dịch vụ.\n\n2. Hệ thống thư điện tử của Trường cấp cho cán bộ, viên chức có cấu trúc: Tên-\nhộp-thư-CB@dut.udn.vn. Trong đó Tên-hộp-thư-CB được thành lập theo quy tắc chữ\nđầu của họ ghép với chữ đầu của họ lót, ghép với tên của cán bộ, viên chức. Trường\nhợp có sự trùng Tên-hộp-thư-CB với cán bộ, viên chức đã có thì thêm chỉ số sau Tên-\nhộp-thư-CB của cán bộ, viên chức mới. Tên miền của hệ thống thư điện tử dùng cho\ncán bộ, viên chức của Trường là dut.udn.vn.\n3. Hệ thống thư điện tử của Trường dùng cho người học có cấu trúc: Tên-hộp-\nthư-SV@sv.dut.edu.vn. Trong đó, Tên-hộp-thư-SV là số thẻ sinh viên, học viên. Tên\nmiền của hệ thống thư điện tử dùng cho người học của Trường là sv.dut.edu.vn.\n4. Mỗi đơn vị của Trường có tài khoản thư điện tử trong hệ thống thư điện tử của\nTrường, với tên miền dut.udn.vn. Số lượng tài khoản thư điện tử của mỗi đơn vị tùy\ntheo đối tượng và phân loại nhóm nhiệm vụ của đơn vị.\n5. Sau khi có quyết định chấm dứt hợp đồng lao động hoặc chuyển công tác hoặc\nnghỉ chế độ hưu trí tại Trường, cá nhân có tên trong quyết định không được sử dụng\ntài khoản thư điện tử và các tiện ích khác kèm theo dịch vụ thư điện tử mà Trường đã\ncấp và dữ liệu trong tài khoản cá nhân sẽ mặc định bị hủy bỏ. Trước khi chấm dứt\ncông tác tại Trường, cán bộ, viên chức có trách nhiệm tự di chuyển dữ liệu trong tài\nkhoản thư điện tử và các tiện ích khác được nhà cung cấp dịch vụ cung cấp kèm theo\ntài khoản thư điện tử này sang các phương tiện lưu trữ khác của cá nhân.\n6. Sau khi có quyết định thôi học hoặc tốt nghiệp, người học không được sử dụng\ntài khoản thư điện tử và các tiện ích khác kèm theo dịch vụ thư điện tử mà Trường đã\ncấp. Dữ liệu trong tài khoản thư điện tử và các tiện ích khác kèm theo dịch vụ thư điện\ntử của người học đã thôi học hoặc tốt nghiệp sẽ bị hủy. Trước khi thôi học hoặc tốt\nnghiệp, người học có trách nhiệm tự di chuyển dữ liệu trong tài khoản thư điện tử và\ncác tiện ích khác được nhà cung cấp dịch vụ cung cấp kèm theo tài khoản thư điện tử\nnày sang các phương tiện lưu trữ khác của cá nhân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Quản trị, vận hành hệ thống thư điện tử",
+          "text": "Điều 4. Quản trị, vận hành hệ thống thư điện tử\n1. Tổ Công nghệ thông tin quản lý, quản trị, vận hành hệ thống thư điện tử của\nTrường:\na) Phối hợp với Tổ Quản trị mạng của Đại học Đà Nẵng trong việc quản lý tên\nmiền thư điện tử.\nb) Phối hợp với nhà cung cấp dịch vụ thư điện tử trong việc giải quyết các vấn đề\nkỹ thuật thuộc quyền của nhà cung cấp dịch vụ.\nc) Quản lý tài khoản người dùng: Tạo tài khoản người dùng; quản lý cấp và thay\nđổi quyền cho người dùng sử dụng các tiện ích tích hợp theo hệ thống thư điện tử; xóa\ntài khoản người dùng.\nd) Hỗ trợ kỹ thuật cho người dùng hệ thống thư điện tử của Trường: hướng dẫn\nsử dụng, khởi tạo lại mật khẩu, thông báo đến người dùng hệ thống thư điện tử với\nmục đích lưu ý người dùng phòng tránh những nguy cơ về bảo mật, an toàn thông tin.\n\n2. Trưởng đơn vị và người được phân công phụ trách tài khoản thư điện tử của\nđơn vị chịu trách nhiệm xử lý thông tin đi, đến và bảo quản tài khoản thư điện tử của\nđơn vị. Trường hợp Trưởng đơn vị phân công cán bộ viên chức của đơn vị phụ trách\ntài khoản thư điện tử của đơn vị thì trong thư gửi đi phải ghi rõ họ tên người gửi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Sử dụng thư điện tử trong công tác",
+          "text": "Điều 5. Sử dụng thư điện tử trong công tác\n1. Phòng Tổ chức Hành chính liên hệ với Cục Công nghệ thông tin Bộ Giáo\ndục và Đào tạo để đăng ký, cập nhật kịp thời địa chỉ thư điện tử của lãnh đạo Trường\nvà bộ phận văn thư vào nhóm thư điện tử dùng chung của Bộ Giáo dục và Đào tạo:\na) Nhóm thư điện tử của thủ trưởng các cơ sở giáo dục đại học:\nHieutruong.Daihoc@moet.gov.vn.\nb) Nhóm thư điện tử của văn thư các cơ sở giáo dục đại học:\nVanthu.Daihoc@moet.gov.vn.\n2. Sử dụng thư điện tử trong công tác hành chính, điều hành\na) Các thành viên của Trường phải dùng hộp thư điện tử theo tên miền nêu ở\nĐiều 3 của Quy định này khi liên hệ công tác với các cơ quan tổ chức và cá nhân.\nb) Cán bộ, viên chức được giao quản lý các hộp thư điện tử của mỗi đơn vị có\ntrách nhiệm kiểm tra, xử lý thông tin hàng ngày.\nc) Không được gửi các loại văn bản mật qua hệ thống thư điện tử.\nd) Trường hợp cần thiết, người nhận thư cần có trách nhiệm xác thực lại nguồn\ngốc nội dung thư với người gửi qua các hình thức liên lạc khác.\nđ) Bản scan văn bản đã ký và đóng dấu được chuyển qua hệ thống thư điện tử của\nTrường có giá trị pháp lý tương đương với văn bản giấy trong việc triển khai thực hiện\ncông tác đến các đơn vị, cá nhân của Trường.\ne) Gửi nhận thông tin qua hệ thống thư điện tử của Trường:\n- Thông báo về việc tải văn bản có giá trị pháp lý và độ tin cậy cao được đăng\ntrên trang thông tin điện tử của Trường và trên trang thông tin điện tử của Bộ Giáo dục\nvà Đào tạo;\n- Lịch công tác của Trường đến các đơn vị trực thuộc (bên cạnh hình thức công\nbố trên trang thông tin điện tử);\n- Các tài liệu trao đổi phục vụ công việc, tài liệu phục vụ các cuộc họp;\n- Những văn bản gửi đến những cơ quan để biết, để báo cáo;\n- Các loại văn bản: thư mời, công văn, báo cáo các cấp; các thông tin chỉ đạo,\nđiều hành của lãnh đạo và các văn bản khác.\n3. Sử dụng thư điện tử để thực hiện chức năng, nhiệm vụ của các đơn vị, cá nhân:\na) Các đơn vị gửi thư thông báo, tư liệu phục vụ cho các công tác thuộc nhiệm vụ\ncủa đơn vị đến các cá nhân, đơn vị của Trường; cá nhân, tổ chức ngoài Trường.\n\nb) Cán bộ, viên chức của Trường và người học trao đổi với nhau về thông tin học\nthuật, lĩnh vực công tác của mình.\nc) Người học phải sử dụng thư điện tử được Trường cấp khi cần liên hệ với các\ncá nhân, đơn vị của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Công tác an ninh, an toàn thông tin khi sử dụng thư điện tử",
+          "text": "Điều 6. Công tác an ninh, an toàn thông tin khi sử dụng thư điện tử\n1. Cán bộ, viên chức và sinh viên, học viên của Trường phải đảm bảo nguyên tắc\nan ninh, an toàn thông tin khi sử dụng thư điện tử:\na) Tuân thủ các quy định về an ninh, an toàn, bảo mật thông tin, quy định về các\nhành vi bị nghiêm cấm theo quy định của pháp luật.\nb) Không được gửi thư rác.\nc) Không được cố tình phát tán thư, chuyển tiếp thư có nội dung văn hóa đồi\ntrụy, chống phá Nhà nước, kích động bạo lực và chiến tranh; gây chia rẽ đoàn kết giữa\ncác dân tộc, giữa các tôn giáo và các đơn thư gây chia rẽ nội bộ.\n2. Khi phát hiện có hiện tượng gây rối, làm mất an ninh, an toàn thông tin trên\nmạng, cần thông báo ngay cho người có trách nhiệm biết để xử lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Nguyên tắc cung cấp thông tin lên trang thông tin điện tử",
+          "text": "Điều 7. Nguyên tắc cung cấp thông tin lên trang thông tin điện tử\n1. Thông tin cung cấp trên trang thông tin điện tử phải chân thực, đúng với quan\nđiểm, chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước.\n2. Việc cung cấp thông tin trên trang thông tin điện tử phải tuân thủ các quy định\ncủa pháp luật về an toàn, an ninh mạng, bảo vệ bí mật Nhà nước, báo chí, sở hữu trí\ntuệ và quản lý thông tin trên Internet.\n3. Việc đăng tải, trích dẫn, sử dụng lại thông tin trên trang thông tin điện tử phải\nghi rõ thông tin về tác giả, nguồn của thông tin.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Căn cứ quy định chung về thông tin trên trang thông tin điện tử",
+          "text": "Điều 8. Căn cứ quy định chung về thông tin trên trang thông tin điện tử\n1. Khoản 2, Điều 28 Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006 của\nQuốc hội khóa XI.\n2. Nội dung yêu cầu công khai đối với cơ sở giáo dục của hệ thống giáo dục quốc\ndân theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quản lý, vận hành, sử dụng trang thông tin điện tử",
+          "text": "Điều 9. Quản lý, vận hành, sử dụng trang thông tin điện tử\n1. Hiệu trưởng Trường quyết định thành lập Ban Biên tập trang thông tin điện tử\ngồm Trưởng ban, các biên tập viên và quản trị hệ thống.\n2. Nhiệm vụ của Ban Biên tập trang thông tin điện tử\n\na) Xây dựng và vận hành trang thông tin điện tử, bao gồm các cấu phần: hạ tầng\nkết nối mạng, thiết bị, nhân lực, đào tạo, nội dung, sao lưu, chống xâm phạm trái phép,\nchống virus; gỡ bỏ thông tin không phù hợp khi được phát hiện;\nb) Xây dựng quy trình cung cấp thông tin, dữ liệu của các đơn vị trực thuộc lên\ntrang thông tin điện tử. Chỉ đạo, đôn đốc các đơn vị cung cấp thông tin và dữ liệu; rà\nsoát, kiểm tra, cập nhật bổ sung thông tin;\nc) Biên tập, xử lý thông tin của các chuyên mục và chuyên đề;\nd) Tổng hợp ý kiến đóng góp của người truy cập, báo cáo và đề xuất biện pháp\nxử lý kịp thời với lãnh đạo Trường; tổ chức trao đổi, thảo luận trên diễn đàn của trang\nthông tin điện tử;\nđ) Gửi tin, bài ở trang thông tin điện tử về Đại học Đà Nẵng (ĐHĐN) và Bộ Giáo\ndục và Đào tạo (BGD&ĐT) theo quy định. Cập nhật và tuyên truyền các trang thông\ntin chuyên đề hữu ích cho Trường và tin tức từ trang thông tin điện tử của ĐHĐN,\nBGD&ĐT.\n3. Biên tập viên chịu trách nhiệm quản lý nội dung các chuyên mục thông tin của\ntrang thông tin điện tử.\n4. Quản trị hệ thống có nhiệm vụ thiết kế, xây dựng và quản trị trang thông tin\nđiện tử bao gồm đăng ký và quản lý tên miền; quản lý máy chủ chứa trang thông tin\nđiện tử; tạo tài khoản người dùng và tạo mật khẩu; phân quyền người dùng; triển khai\nbiện pháp an toàn, an ninh cho trang thông tin điện tử; sao lưu dữ liệu và mã trang\nthông tin điện tử; ghi nhật ký các vấn đề phát sinh trong quá trình vận hành trang\nthông tin điện tử.\n5. Hoạt động trên trang thông tin điện tử phải tuân thủ các quy định của pháp luật\nvề quản lý thông tin trên mạng Internet và các quy định pháp luật có liên quan hiện\nhành.\n6. Khi đăng lại tin từ nguồn khác lên trang thông tin điện tử phải ghi rõ nguồn\nthông tin trích dẫn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Quy trình cung cấp thông tin lên trang thông tin điện tử và trách",
+          "text": "Điều 10. Quy trình cung cấp thông tin lên trang thông tin điện tử và trách\nnhiệm phối hợp tổ chức, cung cấp và cập nhật thông tin, dữ liệu của các đơn vị\ntrên trang thông tin điện tử\n1. Thông tin được cung cấp lên trang thông tin điện tử theo quy trình như sau:\na) Bước 1: Các đơn vị, cá nhân của Trường biên soạn dữ liệu, thông tin theo\nphương thức trực tiếp (dùng chính chức năng của trang thông tin điện tử để biên soạn\nbản tin) hoặc gián tiếp (biên soạn thông tin, dữ liệu bằng công cụ biên soạn khác như\ncác chương trình biên soạn văn bản, xử lý hình ảnh, clip, bảng tính, database...).\nThông tin được biên soạn trực tiếp sẽ ở trạng thái \"Chờ duyệt\". Cá nhân, đơn vị biên\nsoạn thông tin theo phương thức gián tiếp cần chuyển thông tin cho Ban Biên tập trang\nthông tin điện tử.\n\nb) Bước 2:\n- Đối với thông tin đã được biên soạn theo phương thức trực tiếp và đang ở trạng\nthái \"Chờ duyệt\": Theo phân công của Trưởng Ban Biên tập trang thông tin điện tử,\nthành viên của Ban duyệt tin và quyết định về việc đăng tin, ẩn tin hoặc xóa tin;\n- Đối với thông tin đã được biên soạn theo phương thức gián tiếp, quản trị hệ\nthống và thành viên của Ban Biên tập (theo phân công của Trưởng ban) thực hiện biên\nsoạn và quyết định việc đăng tin.\n2. Trách nhiệm phối hợp tổ chức, cung cấp và cập nhật thông tin, dữ liệu của các\nđơn vị\na) Các đơn vị của Trường có trách nhiệm phối hợp, cung cấp đầy đủ, chính xác\nvà kịp thời cho trang thông tin điện tử các nội dung thông tin, dữ liệu thuộc lĩnh vực\ndo đơn vị quản lý quy định tại Phụ lục của Quy định này.\nb) Các lãnh đạo đơn vị chịu trách nhiệm trước Hiệu trưởng về thông tin, dữ liệu\nmà đơn vị cung cấp.\nc) Khi phát hiện nội dung thông tin có vấn đề, quản trị hệ thống hoặc thành viên\nphụ trách của Ban Biên tập có trách nhiệm làm ẩn thông tin ngay để chờ xử lý. Trước\nkhi xử lý, quản trị hệ thống cần ghi nội dung vấn đề đã phát hiện vào nhật ký quản lý\ntrang thông tin điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Thời hạn cung cấp và cập nhật thông tin, dữ liệu trên trang thông",
+          "text": "Điều 11. Thời hạn cung cấp và cập nhật thông tin, dữ liệu trên trang thông\ntin điện tử\nNội dung thông tin, dữ liệu trên trang thông tin điện tử phải được cung cấp và\ncập nhật kịp thời:\n1. Đối với các văn bản: Đưa lên trang thông tin điện tử trong vòng 01 ngày làm\nviệc, sau khi văn bản được ký và đóng dấu.\n2. Đối với bản tin về các sự kiện: Đưa lên trang thông tin điện tử trong vòng 01\nngày làm việc và không quá 02 ngày, kể từ khi kết thúc sự kiện.\n3. Đối với thông tin chung: Đưa lên trang thông tin điện tử theo kế hoạch cập\nnhật thông tin hàng năm hoặc khi có sự thay đổi.\n4. Đối với thông tin theo quy định của cơ quan quản lý các cấp có thẩm quyền:\nĐưa lên trang thông tin điện tử theo quy định của cơ quan quản lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Áp dụng công nghệ và các tiêu chuẩn cho trang thông tin điện tử",
+          "text": "Điều 12. Áp dụng công nghệ và các tiêu chuẩn cho trang thông tin điện tử\n1. Thống nhất sử dụng phông chữ Việt theo bộ mã Unicode, tiêu chuẩn Việt Nam\nTCVN 6909:2001.\n2. Các tiêu chuẩn khác: có công cụ tìm kiếm toàn văn, đăng ký đọc tin tự động\nRSS, dán thẻ đánh dấu (tag) hoặc từ khóa trên trang thông tin điện tử để phục vụ công\ntác tìm kiếm, chuẩn Dublin Core về dữ liệu đặc tả.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Mức độ cho phép tiếp cận thông tin trong trang thông tin điện tử",
+          "text": "Điều 13. Mức độ cho phép tiếp cận thông tin trong trang thông tin điện tử\nThông tin trong trang thông tin điện tử của Trường có 2 mức độ cho phép tiếp\ncận bao gồm:\n1. Thông tin quảng bá: là thông tin tiếp cận được mà người truy cập trang thông\ntin điện tử không cần có tài khoản sử dụng trong trang thông tin điện tử của Trường.\n2. Thông tin theo đối tượng người dùng: là thông tin chỉ tiếp cận được khi truy\ncập trang thông tin điện tử với tài khoản sử dụng trong trang thông tin điện tử. Lĩnh\nvực thông tin được tiếp cận phụ thuộc vào việc phân quyền người sử dụng trong trang\nthông tin điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Thông tin chung về tổ chức, hành chính",
+          "text": "Điều 14. Thông tin chung về tổ chức, hành chính\n1. Thông tin giới thiệu gồm: Sứ mạng, tầm nhìn, chiến lược phát triển; sơ đồ, cơ\ncấu tổ chức, chức năng, nhiệm vụ, quyền hạn của Trường và các đơn vị trực thuộc;\ntóm lược quá trình hình thành và phát triển của Trường; họ và tên, chức vụ, điện thoại,\nđịa chỉ thư điện tử và nhiệm vụ đảm nhiệm của lãnh đạo Trường.\n2. Thông tin giao dịch gồm: Địa chỉ, điện thoại, số fax, địa chỉ thư điện tử chính\nthức của Trường để giao dịch và tiếp nhận các thông tin.\n3. Hệ thống các quy định, văn bản quản lý điều hành liên quan đến hoạt động của\nTrường.\n4. Thông tin về thủ tục hành chính gồm:\na) Danh mục các dịch vụ trực tuyến được tổ chức thực hiện trên trang thông tin\nđiện tử của Trường.\nb) Danh mục các thủ tục hành chính thuộc thẩm quyền giải quyết của Trường\nkèm theo quy trình, hồ sơ, thủ tục, thông tin giao dịch của người xử lý trực tiếp, thời\nhạn giải quyết, phí và lệ phí (nếu có).\n5. Thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ,\nchính sách, quy hoạch của Trường.\n6. Mục lấy ý kiến góp ý của tổ chức, cá nhân gồm: Danh sách các vấn đề cần xin\ný kiến; nội dung vấn đề xin ý kiến; địa chỉ, thư điện tử tiếp nhận ý kiến và thời hạn tiếp\nnhận ý kiến.\n7. Mỗi đơn vị của Trường có một trang thông tin riêng nằm trong hệ thống trang\nthông tin điện tử hoặc liên kết với trang thông tin điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Thông tin công khai đối với cơ sở giáo dục đại học theo quy định",
+          "text": "Điều 15. Thông tin công khai đối với cơ sở giáo dục đại học theo quy định\nThông tin công khai của Trường và thời hạn đăng tin lên trang thông tin điện tử\nthực hiện theo quy định tại Thông tư số 36/2017/TT-BGDĐT ngày 28 tháng 12 năm\n\n2017 ban hành quy chế thực hiện công khai đối với cơ sở giáo dục và đào tạo thuộc hệ\nthống giáo dục quốc dân, bao gồm:\n1. Nhóm thông tin công khai cam kết chất lượng giáo dục và chất lượng giáo dục\nthực tế.\n2. Nhóm thông tin công khai điều kiện đảm bảo chất lượng giáo dục.\n3. Nhóm thông tin công khai thu chi tài chính.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Thông tin về tuyển sinh",
+          "text": "Điều 16. Thông tin về tuyển sinh\n1. Thông tin về tuyển sinh đại học và thời hạn đăng tin lên trang thông tin điện tử\nthực hiện theo quy định tại Quy chế tuyển sinh đại học, bao gồm:\na) Đề án tuyển sinh, thông tin tuyển sinh.\nb) Thông tin liên quan đến điều kiện, hồ sơ, thủ tục, thời gian và địa điểm đăng\nký dự thi, sơ tuyển, xét tuyển.\nc) Thông tin cần thiết để thí sinh đăng ký xét tuyển.\nd) Kết quả trúng tuyển, điểm trúng tuyển, danh sách thí sinh trúng tuyển.\n2. Thông tin về tuyển sinh đào tạo trình độ thạc sĩ và thời hạn đăng tin lên trang\nthông tin điện tử thực hiện theo quy định tại Thông tư số 15/2014/TT-BGDĐT ngày\n15 tháng 5 năm 2014 của Bộ Giáo dục và Đào tạo ban hành quy chế đào tạo trình độ\nthạc sĩ, bao gồm:\na) Thông tin về phương thức tuyển sinh, số lần tuyển sinh, thời điểm tuyển sinh\ntrong năm và địa điểm tuyển sinh.\nb) Thông tin về việc học bổ sung, quy định về học bổ sung kiến thức.\nc) Thông tin thông báo tuyển sinh.\nd) Danh sách thí sinh đủ điều kiện dự thi.\nđ) Danh sách thí sinh trúng tuyển.\ne) Các thông tin quy định tại khoản 9 Điều 34 Quy chế đào tạo trình độ thạc sĩ\nban hành kèm theo Thông tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 của\nBộ Giáo dục và Đào tạo.\n3. Thông tin về tuyển sinh đào tạo trình độ tiến sĩ và thời hạn đăng tin lên trang\nthông tin điện tử thực hiện theo quy định tại Thông tư số 08/2017/TT-BGDĐT ngày\n04 tháng 4 năm 2017 của Bộ Giáo dục và Đào tạo ban hành quy chế tuyển sinh và đào\ntạo trình độ tiến sĩ:\na) Thông tin liên quan đến tuyển sinh đào tạo trình độ tiến sĩ, thông báo tuyển\nsinh.\nb) Thông báo tuyển sinh nêu rõ điều kiện dự tuyển, ngành đào tạo, danh sách\nngười hướng dẫn, chỉ tiêu tuyển sinh, hồ sơ, thời gian nhận hồ sơ, kế hoạch và phương\nthức tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Thông tin về đào tạo, khảo thí, học phí",
+          "text": "Điều 17. Thông tin về đào tạo, khảo thí, học phí\n1. Danh mục các ngành đào tạo thuộc các trình độ đại học, sau đại học của\nTrường.\n2. Chương trình đào tạo các ngành đào tạo, các trình độ: mục tiêu đào tạo, chuẩn\nđầu ra chương trình đào tạo, kế hoạch đào tạo toàn khóa, vị trí làm việc sau khi tốt\nnghiệp.\n3. Các học phần của chương trình đào tạo từng ngành, khóa học: vai trò của học\nphần trong chương trình đào tạo, nội dung và lịch trình giảng dạy, tài liệu tham khảo,\nphương pháp đánh giá chất lượng học tập của người học, giảng viên phụ trách.\n4. Các quy chế, quy định về đào tạo và khảo thí.\n5. Các hướng dẫn, quy trình, biểu mẫu về đào tạo, khảo thí.\n6. Thông tin về tổ chức đào tạo: kế hoạch đào tạo năm học; thông tin thông báo\nvề báo giảng, phân công giảng dạy; tổ chức lớp học; thời khóa biểu lớp học phần; đăng\nký học, học phí, lịch thi.\n7. Kết quả học tập của người học theo khóa học, học kỳ, học phần được cung cấp\ncho người học trong trang cá nhân ở Website.\n8. Danh sách sinh viên: đang học theo lớp sinh viên; ngừng học; bị cảnh báo kết\nquả học tập; bị buộc thôi học; tốt nghiệp.\n9. Tra cứu thông tin về đồ án tốt nghiệp đại học, luận văn thạc sỹ, luận án tiến sỹ\ntheo quy định hiện hành.\na) Đồ án tốt nghiệp đại học: tên đề tài đồ án, sinh viên thực hiện (thêm mã số\nsinh viên, tên lớp, ngành), tóm tắt đồ án.\nb) Luận văn thạc sỹ: tên đề tài luận văn, học viên thực hiện (thêm mã số học\nviên, tên lớp, ngành), tóm tắt luận văn.\nc) Luận án tiến sỹ:\n- Thời gian, địa điểm tổ chức đánh giá luận án, tóm tắt và toàn văn luận án,\nnhững điểm mới của luận án bằng tiếng Việt và tiếng Anh hoặc tiếng nước ngoài khác.\n- Toàn văn luận án và tóm tắt luận án hoàn chỉnh cuối cùng có chữ ký của nghiên\ncứu sinh, chữ ký của người hướng dẫn và xác nhận của thủ trưởng cơ sở giáo dục đại\nhọc sau khi đã bổ sung, sửa chữa theo yêu cầu của Hội đồng đánh giá luận án cấp\ntrường, viện và Hội đồng thẩm định (nếu có).\n10. Kết quả các kỳ thi đánh giá trình độ ngoại ngữ, ứng dụng công nghệ thông tin\ndo Trường tổ chức; các kỳ thi sinh viên giỏi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Thông tin về công tác sinh viên",
+          "text": "Điều 18. Thông tin về công tác sinh viên\n1. Các quy chế, quy định về đánh giá rèn luyện của người học.\n2. Các hướng dẫn, quy trình, biểu mẫu về học bổng, trợ cấp, thực hiện chính\nsách, công tác sinh viên.\n\n3. Các thông báo thực hiện và kết quả về đánh giá rèn luyện, học bổng, giải quyết\nchính sách đối với người học theo quy định.\n4. Các thông báo về công tác sinh viên; tuyển dụng sinh viên tốt nghiệp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Thông tin về kiểm định chất lượng giáo dục và cấp văn bằng, chứng",
+          "text": "Điều 19. Thông tin về kiểm định chất lượng giáo dục và cấp văn bằng, chứng\nchỉ\nCông khai trên trang thông tin điện tử các thông tin kiểm định chất lượng giáo\ndục và cấp văn bằng chứng chỉ, gồm:\n1. Giấy chứng nhận kiểm định chất lượng giáo dục được công bố chậm nhất 10\nngày làm việc sau khi được cấp theo quy định tại Thông tư số 12/2017/TT-BGDĐT\nngày 19 tháng 5 năm 2017 ban hành quy định về kiểm định chất lượng giáo dục đại\nhọc.\n2. Thông tin về kết quả đánh giá ngoài, nghị quyết và kiến nghị của hội đồng\nkiểm định chất lượng giáo dục, kết quả công nhận đạt hay không đạt tiêu chuẩn chất\nlượng giáo dục.\n3. Thông tin cấp văn bằng, chứng chỉ theo quy định về quản lý văn bằng giáo dục\nđại học và chứng chỉ của hệ thống giáo dục quốc dân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Thông tin về công tác nghiên cứu khoa học và chuyển giao công",
+          "text": "Điều 20. Thông tin về công tác nghiên cứu khoa học và chuyển giao công\nnghệ, sản xuất thử và tư vấn\n1. Danh mục các tổ chức khoa học công nghệ hoặc trang tin riêng của các tổ chức\nkhoa học công nghệ của Trường.\n2. Tên các dự án hoặc tên nhiệm vụ khoa học công nghệ trong 5 năm gần nhất,\nngười chủ trì và các thành viên tham gia, đối tác trong nước và quốc tế, thời gian và\nkinh phí thực hiện; tóm tắt sản phẩm của dự án hoặc nhiệm vụ nghiên cứu; ứng dụng\nthực tiễn.\n3. Hội nghị, hội thảo khoa học của Trường: tên chủ đề hội nghị, hội thảo khoa\nhọc, mục đích của hội thảo; kết quả mong đợi đạt được sau hội thảo, thời gian và địa\nđiểm tổ chức, số lượng đại biểu tham dự và toàn văn kỷ yếu, bài trình chiếu của hội\nthảo.\n4. Các công trình nghiên cứu khoa học (bao gồm cả việc đăng lại toàn văn các\nbài báo đã được đăng tại các kỷ yếu của các hội thảo, các tạp chí khoa học và công\nnghệ trong và ngoài nước).\n5. Thông tin về hoạt động nghiên cứu khoa học của người học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Niên giám thống kê về giáo dục",
+          "text": "Điều 21. Niên giám thống kê về giáo dục\nCông khai trên trang thông tin điện tử các thông tin về niên giám, thống kê giáo\ndục, gồm:\n1. Niên giám thống kê của Trường ít nhất 5 năm gần nhất.\n2. Niên giám thống kê gồm các thông tin cơ bản: Năm học; số lượng giảng viên,\nviên chức, giáo sư, phó giáo sư, tiến sĩ, thạc sĩ; số lượng sinh viên, học viên theo các\n\nloại hình và trình độ đào tạo; số lượng sinh viên, học viên tuyển sinh đầu vào; số lượng\nsinh viên, học viên tốt nghiệp ra trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Thông tin khác",
+          "text": "Điều 22. Thông tin khác\nTùy theo từng giai đoạn phát triển, Trường đầu tư phát triển để các thông tin\nkhác được liên kết hoặc tích hợp với trang thông tin điện tử, gồm:\n1. Hệ thống thư viện số (giáo trình, bài giảng, học liệu số).\n2. Hệ thống học tập trực tuyến (e-Learning), phòng họp ảo.\n3. Thông tin về các tổ chức Đảng, Đoàn Thanh niên Cộng sản Hồ Chí Minh, hội\nsinh viên và các đoàn thể khác.\n4. Thông cáo báo chí, trả lời phỏng vấn và phát ngôn chính thức của Trường về\ncác vấn đề có liên quan.\n5. Giải đáp yêu cầu của người học về các vấn đề có liên quan đến Trường.\n6. Thông tin học bổng, tín dụng vay vốn và các dịch vụ hỗ trợ khác cho sinh\nviên.\n7. Thông tin tư vấn hỗ trợ việc làm, tư vấn hướng nghiệp.\n8. Các thông tin khác cần công khai theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Trang tin điện tử bằng tiếng Anh",
+          "text": "Điều 23. Trang tin điện tử bằng tiếng Anh\n1. Trang thông tin điện tử bằng tiếng Anh của Trường có địa chỉ Internet là\nhttp://dut.udn.vn/en\n2. Tùy theo yêu cầu và điều kiện thực tế, Trường đầu tư xây dựng trang thông tin\nđiện tử của Trường bằng tiếng Anh có nội dung tương xứng với nội dung của trang tin\nđiện tử tiếng Việt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Kinh phí thực hiện trang thông tin điện tử và thư điện tử",
+          "text": "Điều 24. Kinh phí thực hiện trang thông tin điện tử và thư điện tử\n1. Kinh phí thực hiện trang thông tin điện tử và thư điện tử của Trường được cân\nđối trong dự toán chi hàng năm và được thực hiện theo các quy định hiện hành của\nNhà nước.\n2. Kinh phí thực hiện được chi cho:\na) Đầu tư và nâng cấp cơ sở hạ tầng, trang thiết bị; xây dựng và nâng cấp các cấu\nphần của trang thông tin điện tử; thuê hoặc mua dịch vụ và công cụ hỗ trợ phát triển\nchức năng của trang thông tin điện tử; quản lý nội dung trang thông tin điện tử; thuê\nhoặc mua dịch vụ và công cụ hỗ trợ công tác bảo mật và an toàn thông tin trang thông\ntin điện tử.\n\nb) Thuê, mua thiết bị kết nối Internet đảm bảo truy cập thường xuyên cho quản\ntrị hệ thống và biên tập viên chính để theo dõi, quản lý, cập nhật thông tin trang thông\ntin điện tử.\nc) Công tác quản trị, nhuận bút, thù lao cộng tác viên, biên tập viên và quản trị hệ\nthống, quản lý trang thông tin điện tử theo Phụ lục quy chế chi tiêu nội bộ của\nTrường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 25. Hiệu lực thi hành\n1. Quy định này có hiệu lực kể từ ngày ký.\n2. Trong quá trình thực hiện, nếu có vướng mắc, bất cập hoặc có vấn đề mới nảy\nsinh cần bổ sung, sửa đổi, các đơn vị, cá nhân có liên quan phản ánh kịp thời qua Tổ\nCông nghệ Thông tin để tổng hợp ý kiến trình Hiệu trưởng xem xét và quyết định./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về tổ chức hoạt động",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về tổ chức hoạt động\ntrang thông tin điện tử, sử dụng thư điện tử của Trường Đại học Bách khoa, Đại học\nĐà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Tổ trưởng Tổ Công nghệ",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Tổ trưởng Tổ Công nghệ\nthông tin, Trưởng các đơn vị, cán bộ viên chức và sinh viên, học viên của Trường\nĐại học Bách khoa chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

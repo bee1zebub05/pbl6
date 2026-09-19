@@ -14,8 +14,8 @@ Chi khac ba cho:
     python tools/gemini_web/cau_json.py --chi 0322      # test mot file
     python tools/gemini_web/cau_json.py                 # chay het
 
-Ra: data/kg_json/<linh vuc>/<ma>.json — ban nao qua duoc schema nhung con cho
-dang ngo thi vao data/kg_json/_nghi_ngo/.
+Ra: data/clean/json/v1/<linh vuc>/<ma>.json — ban nao qua duoc schema nhung con cho
+dang ngo thi vao data/clean/json/v1/_nghi_ngo/.
 """
 from __future__ import annotations
 
@@ -36,7 +36,7 @@ import va_dieu_thieu as VD                                  # noqa: E402
 
 GOC = Path(__file__).resolve().parents[2]
 KHO_TXT = GOC / "data" / "clean" / "text_final"
-RA_MAC_DINH = GOC / "data" / "kg_json"
+RA_MAC_DINH = GOC / "data" / "clean" / "json" / "v1"
 TRANG_THAI = Path(__file__).resolve().parent / "trang_thai_json.json"
 
 # ============================================================
@@ -143,7 +143,7 @@ class KhoJson(Kho):
 
     PROMPT = PROMPT
     CHE_DO = "xuất JSON → document.schema.json"
-    RA_MO_TA = "data/kg_json/"
+    RA_MO_TA = "data/clean/json/v1/"
 
     # Loc theo co file, dat tu main(). JSON phai chua toan van tung Dieu nen file
     # cang to cang de bi Gemini cat giua chung — day la bien rui ro duy nhat chua

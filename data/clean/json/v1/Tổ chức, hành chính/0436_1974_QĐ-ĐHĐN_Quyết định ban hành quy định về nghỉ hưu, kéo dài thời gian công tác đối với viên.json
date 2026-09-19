@@ -1,0 +1,248 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0436_1974_QĐ-ĐHĐN_Quyết định ban hành quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên.txt",
+  "mappedBy": "gemini-web",
+  "note": "20 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1974/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/05/2025",
+    "effectiveDate": "27/05/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của Đại học Đà Nẵng, quy định chi tiết về thẩm quyền, thời điểm, trình tự thủ tục nghỉ hưu cũng như các điều kiện, nguyên tắc và quy trình kéo dài thời gian công tác cho viên chức.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng (ĐHĐN);"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ Quy định về tuyển dụng, sử dụng và quản lý viên chức; Nghị định số 85/2023/NĐ-CP ngày 07/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 về tuyển dụng, sử dụng và quản lý viên chức;"
+    },
+    {
+      "targetDocumentNumber": "85/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ Quy định về tuyển dụng, sử dụng và quản lý viên chức; Nghị định số 85/2023/NĐ-CP ngày 07/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 về tuyển dụng, sử dụng và quản lý viên chức;"
+    },
+    {
+      "targetDocumentNumber": "135/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định 135/2020/NĐ-CP ngày 18/11/2020 của Chính phủ Quy định về tuổi nghỉ hưu;"
+    },
+    {
+      "targetDocumentNumber": "50/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 50/2022/NĐ-CP ngày 02/8/2022 của Chính phủ quy định về nghỉ hưu ở tuổi cao hơn đối với viên chức trong đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "1559/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1559/QĐ-BGDĐT ngày 04/6/2024 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc xét thăng hạng chức danh nghề nghiệp, bổ nhiệm chức danh nghề nghiệp, xếp lương, nâng bậc lương; nghỉ hưu, kéo dài thời gian công tác đối với viên chức của đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN ban hành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN ban hành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "191/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 191/QĐ-ĐHĐN ngày 11/01/2016 của Giám đốc ĐHĐN về việc ban hành Quy định thực hiện kéo dài thời gian công tác và chế độ nghỉ hưu."
+    },
+    {
+      "targetDocumentNumber": "141/2013/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 9",
+      "context": "Viên chức giữ chức danh giảng viên của các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN được cấp có thẩm quyền quyết định việc kéo dài thời gian làm việc theo quy định tại Điều 9 Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục đại học từ trước ngày Nghị định số 50/2022/NĐ-CP ngày 02/8/2022 của Chín…"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Bộ Y tế",
+    "Bảo hiểm xã hội",
+    "Đảng ủy ĐHĐN",
+    "Thường trực Hội đồng ĐHĐN",
+    "Công đoàn ĐHĐN",
+    "Đoàn Thanh niên ĐHĐN",
+    "Hội đồng giám định y khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\n1. Quy định này quy định về nghỉ hưu đối với viên chức, người lao động (VC, NLĐ) của Đại học Đà Nẵng khi đến tuổi nghỉ hưu theo quy định.\n2. Quy định này quy định về kéo dài thời gian công tác (hoặc nghỉ hưu ở tuổi cao hơn) đối với viên chức của Đại học Đà Nẵng (ĐHĐN) để làm công tác chuyên môn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đối tượng áp dụng",
+          "text": "Điều 2. Đối tượng áp dụng\n1. Nghỉ hưu được áp dụng đối với VC, NLĐ của ĐHĐN đáp ứng đầy đủ các điều kiện để hưởng lương hưu theo quy định hiện hành của pháp luật.\n2. Kéo dài thời gian công tác được áp dụng đối với viên chức của ĐHĐN có học hàm Giáo sư, Phó Giáo sư hoặc Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Thẩm quyền quyết định nghỉ hưu đối với VC, NLĐ",
+          "text": "Điều 3. Thẩm quyền quyết định nghỉ hưu đối với VC, NLĐ\n1. Giám đốc ĐHĐN:\na) Trình Bộ trưởng Bộ Giáo dục và Đào tạo quyết định nghỉ hưu đối với Chủ tịch Hội đồng ĐHĐN và Giám đốc ĐHĐN.\nb) Quyết định nghỉ hưu đối với Hiệu trưởng, Chủ tịch Hội đồng trường, Giáo sư, Phó Giáo sư, Tiến sĩ/Tiến sĩ khoa học, Giảng viên cao cấp (hạng I) trong toàn ĐHĐN (trừ điểm a khoản này).\nc) Quyết định nghỉ hưu đối với VC, NLĐ của các đơn vị thuộc, trực thuộc ĐHĐN.\n\n2. Hiệu trưởng các trường đại học thành viên:\na) Trình Giám đốc ĐHĐN quyết định nghỉ hưu đối với Hiệu trưởng, Chủ tịch Hội đồng trường, Giáo sư, Phó Giáo sư, Tiến sĩ/Tiến sĩ khoa học, Giảng viên cao cấp (hạng I) của Trường.\nb) Quyết định nghỉ hưu đối với VC, NLĐ của Trường (trừ điểm a khoản này).\n\n3. Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN trình Giám đốc ĐHĐN quyết định nghỉ hưu đối với VC, NLĐ của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thời điểm nghỉ hưu và thời điểm hưởng chế độ hưu trí",
+          "text": "Điều 4. Thời điểm nghỉ hưu và thời điểm hưởng chế độ hưu trí\n1. Thời điểm nghỉ hưu là kết thúc ngày cuối cùng của tháng đủ tuổi nghỉ hưu theo quy định.\n2. Thời điểm hưởng chế độ hưu trí là bắt đầu ngày đầu tiên của tháng liền kề sau thời điểm nghỉ hưu.\n3. Trường hợp hồ sơ của VC, NLĐ không xác định được ngày, tháng sinh mà chỉ có năm sinh thì lấy ngày 01 tháng 01 của năm sinh để làm căn cứ xác định thời điểm nghỉ hưu và thời điểm hưởng chế độ hưu trí.\n4. Thời điểm nghỉ hưu được tính lùi lại khi có một trong các trường hợp sau:\na) Không quá 01 tháng đối với một trong các trường hợp: thời điểm nghỉ hưu trùng với ngày nghỉ Tết Nguyên đán; VC, NLĐ có vợ hoặc chồng, bố, mẹ (vợ hoặc chồng), con từ trần, bị Tòa án tuyên bố mất tích; bản thân và gia đình VC, NLĐ bị thiệt hại do thiên tai, địch họa, hỏa hoạn;\nb) Không quá 03 tháng đối với trường hợp bị bệnh nặng hoặc bị tai nạn có giấy xác nhận của bệnh viện;\nc) Không quá 06 tháng đối với trường hợp đang điều trị bệnh thuộc danh mục bệnh cần chữa trị dài ngày do Bộ Y tế ban hành, có giấy xác nhận của bệnh viện.\n5. VC, NLĐ được lùi thời điểm nghỉ hưu thuộc nhiều trường hợp quy định tại khoản 4 Điều này thì chỉ được thực hiện đối với một trường hợp có thời gian lùi thời điểm nghỉ hưu nhiều nhất.\n6. Giám đốc ĐHĐN/Hiệu trưởng các trường đại học thành viên theo thẩm quyền quyết định việc lùi thời điểm nghỉ hưu theo quy định tại khoản 4 Điều này.\n7. Trường hợp VC, NLĐ không có nguyện vọng lùi thời điểm nghỉ hưu theo quy định tại khoản 4 Điều này thì Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN trình Giám đốc ĐHĐN xem xét, quyết định hoặc trực tiếp giải quyết chế độ hưu trí cho VC, NLĐ theo thẩm quyền và quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tuổi nghỉ hưu trong điều kiện lao động bình thường",
+          "text": "Điều 5. Tuổi nghỉ hưu trong điều kiện lao động bình thường\nTuổi nghỉ hưu của VC, NLĐ trong điều kiện lao động bình thường được quy định cụ thể như sau:\n1. Kể từ ngày 01 tháng 01 năm 2021, tuổi nghỉ hưu của VC, NLĐ trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với nam và đủ 55 tuổi 04 tháng đối với nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với nam cho đến khi đủ 62 tuổi vào năm 2028 và cứ mỗi năm tăng thêm 04 tháng đối với nữ cho đến khi đủ 60 tuổi vào năm 2035.\n2. Lộ trình điều chỉnh tuổi nghỉ hưu của VC, NLĐ quy định tại khoản 1 Điều này được thực hiện theo Phụ lục I.A ban hành kèm theo Quy định này.\n3. Việc đối chiếu tháng, năm sinh của VC, NLĐ tương ứng với tuổi nghỉ hưu quy định tại khoản 2 Điều này được thực hiện theo Phụ lục II ban hành kèm theo Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường",
+          "text": "Điều 6. Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường\nNghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường của VC, NLĐ được quy định cụ thể như sau:\n1. VC, NLĐ thuộc các trường hợp dưới đây có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với tuổi nghỉ hưu quy định tại Điều 5 Quy định này tại thời điểm nghỉ hưu, trừ trường hợp pháp luật có quy định khác:\na) VC, NLĐ có từ đủ 15 năm trở lên làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do cấp có thẩm quyền ban hành;\nb) VC, NLĐ có từ đủ 15 năm trở lên làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021. Danh mục vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn do cấp có thẩm quyền ban hành;\nc) VC, NLĐ bị suy giảm khả năng lao động từ 61% trở lên;\nd) VC, NLĐ có tổng thời gian làm nghề, công việc quy định tại điểm a và thời gian làm việc ở vùng quy định tại điểm b khoản này từ đủ 15 năm trở lên.\n2. Tuổi nghỉ hưu thấp nhất của VC, NLĐ quy định tại khoản 1 Điều này được thực hiện theo Phụ lục I.B ban hành kèm theo Quy định này.\n3. Việc đối chiếu tháng, năm sinh của VC, NLĐ tương ứng với tuổi nghỉ hưu quy định tại khoản này theo Phụ lục III ban hành kèm theo Quy định này.\n4. Quy trình, thủ tục nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường:\n- Bước 1. VC, NLĐ gửi hồ sơ đề nghị nghỉ hưu ở tuổi thấp hơn cho bộ phận phụ trách tổ chức cán bộ của đơn vị. Hồ sơ gồm: Đơn đề nghị nghỉ hưởng lương hưu, Biên bản giám định mức suy giảm khả năng lao động của Hội đồng giám định y khoa theo quy định, Sổ bảo hiểm xã hội và các giấy tờ có liên quan.\n- Bước 2. Bộ phận phụ trách tổ chức cán bộ của đơn vị tiếp nhận, thẩm định hồ sơ theo quy định và trình Giám đốc ĐHĐN/Hiệu trưởng trường đại học thành viên quyết định nghỉ việc hưởng chế độ hưu trí hoặc quyết định chấm dứt hợp đồng lao động hưởng chế độ hưu trí theo thẩm quyền.\n- Bước 3. Bộ phận phụ trách tổ chức cán bộ của đơn vị chủ trì, phối hợp với đơn vị có liên quan thực hiện giải quyết chế độ, chính sách cho VC, NLĐ theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường",
+          "text": "Điều 7. Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường\nNghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường (kéo dài thời gian công tác) đối với Giáo sư, Phó Giáo sư, Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I) được quy định tại Chương III Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quy trình, thủ tục nghỉ hưu",
+          "text": "Điều 8. Quy trình, thủ tục nghỉ hưu\n1. Bước 1. Trước 06 tháng tính đến thời điểm đủ tuổi nghỉ hưu theo quy định, bộ phận phụ trách tổ chức cán bộ của đơn vị tham mưu, báo cáo Giám đốc ĐHĐN/Hiệu trưởng/Thủ trưởng đơn vị quyết định theo thẩm quyền hoặc trình Giám đốc ĐHĐN xem xét, trình Bộ Giáo dục và Đào tạo thông báo theo thẩm quyền về thời điểm đủ tuổi nghỉ hưu đối với VC, NLĐ của đơn vị. Văn bản thông báo được gửi đến VC, NLĐ sắp nghỉ hưu và đơn vị đang công tác để biết, sắp xếp bàn giao công việc và lập kế hoạch chuẩn bị nhân sự thay thế.\n2. Bước 2. Sau khi có thông báo nghỉ hưu, bộ phận phụ trách tổ chức cán bộ của đơn vị tham mưu, báo cáo Giám đốc ĐHĐN/Hiệu trưởng/Thủ trưởng đơn vị quyết định theo thẩm quyền hoặc trình Giám đốc ĐHĐN xem xét, trình Bộ Giáo dục và Đào tạo ban hành quyết định theo thẩm quyền về việc nâng bậc lương, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nhà giáo (nếu VC, NLĐ đủ điều kiện, tiêu chuẩn theo quy định) cho VC, NLĐ để nghỉ hưu.\n3. Bước 3. Trước 04 tháng tính đến ngày VC, NLĐ đủ tuổi nghỉ hưu, bộ phận phụ trách tổ chức cán bộ của đơn vị gửi Đơn đề nghị theo mẫu quy định của Bảo hiểm xã hội (như Phụ lục V ban hành kèm theo Quy định này) để VC, NLĐ thực hiện khai báo thông tin và hoàn thiện hồ sơ hưu trí theo quy định.\n4. Bước 4. Trước 03 tháng tính đến thời điểm nghỉ hưu theo quy định, bộ phận phụ trách tổ chức cán bộ của đơn vị tham mưu, báo cáo Hiệu trưởng/Thủ trưởng đơn vị quyết định theo thẩm quyền hoặc trình Giám đốc ĐHĐN xem xét, ban hành quyết định nghỉ hưu theo thẩm quyền đối với VC, NLĐ.\n5. Bước 5. Căn cứ quyết định nghỉ hưu, bộ phận phụ trách tổ chức cán bộ của đơn vị phối hợp với Bảo hiểm xã hội và đơn vị có liên quan hoàn thiện các thủ tục giải quyết chế độ hưu trí cho VC, NLĐ theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Nguyên tắc thực hiện kéo dài thời gian công tác",
+          "text": "Điều 9. Nguyên tắc thực hiện kéo dài thời gian công tác\n1. Bảo đảm khách quan, công bằng, công khai và đúng quy định.\n2. Việc kéo dài thời gian công tác đối với viên chức của ĐHĐN có học hàm Giáo sư, Phó Giáo sư hoặc Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I) không quá 05 năm (60 tháng), tính từ thời điểm viên chức đủ tuổi nghỉ hưu theo quy định tại Nghị định số 135/2020/NĐ-CP ngày 18/11/2020 của Chính phủ Quy định về tuổi nghỉ hưu.\n\nCăn cứ nhu cầu giảng dạy, nghiên cứu khoa học, định hướng phát triển của đơn vị, năng lực công tác, tình hình sức khỏe của viên chức và yêu cầu của vị trí việc... (văn bản kết thúc tại đây)\n\nTrang 5\n\nlàm, Hiệu trưởng trường đại học thành viên/Thủ trưởng đơn vị thuộc, trực thuộc ĐHĐN (có chức năng đào tạo) trình Giám đốc ĐHĐN xem xét, quyết định kéo dài thời gian công tác đối với Giáo sư, Phó Giáo sư hoặc Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I). Tổng thời gian kéo dài thời gian công tác tối đa 05 năm (60 tháng), được chia thành 02 giai đoạn và do đơn vị đề xuất đối với từng trường hợp cụ thể.\n\nCăn cứ báo cáo kết quả thực hiện nhiệm vụ giảng dạy, nghiên cứu khoa học trong thời gian kéo dài (giai đoạn 1) của Giáo sư, Phó Giáo sư hoặc Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I), Hội đồng được thành lập theo quy định tại khoản 1 Điều 12 Quy định này tiến hành rà soát, đánh giá mức độ hoàn thành nhiệm vụ chuyên môn đảm bảo chế độ làm việc theo quy định hiện hành của ĐHĐN và của đơn vị (nếu có) để làm cơ sở tiếp tục trình cấp có thẩm quyền xem xét, quyết định kéo dài thời gian công tác cho giai đoạn tiếp theo.\n\n3. Trong thời gian thực hiện kéo dài thời gian công tác, Giáo sư, Phó Giáo sư, Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I) chỉ làm nhiệm vụ chuyên môn, không giữ chức vụ lãnh đạo, quản lý (trừ trường hợp được phép theo quy định pháp luật) và không được bảo lưu hệ số phụ cấp chức vụ lãnh đạo, quản lý.\n\n4. Trong thời gian thực hiện kéo dài thời gian công tác, nếu Giáo sư, Phó Giáo sư, Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I) có nguyện vọng nghỉ làm việc (bằng văn bản) thì đơn vị thực hiện thủ tục giải quyết chế độ hưu trí theo quy định hiện hành của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Điều kiện được kéo dài thời gian công tác đối với viên chức",
+          "text": "Điều 10. Điều kiện được kéo dài thời gian công tác đối với viên chức\n\n1. Trường đại học thành viên hoặc đơn vị thuộc, trực thuộc ĐHĐN (có chức năng đào tạo) có nhu cầu.\n2. Viên chức có đủ sức khỏe.\n3. Viên chức không đang trong thời gian bị xem xét xử lý kỷ luật, bị điều tra, truy tố, xét xử hoặc thi hành kỷ luật về đảng, chính quyền và có đề nghị được kéo dài thời gian công tác bằng văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Thẩm quyền quyết định kéo dài thời gian công tác",
+          "text": "Điều 11. Thẩm quyền quyết định kéo dài thời gian công tác\n\n1. Giám đốc ĐHĐN quyết định kéo dài thời gian công tác đối với Giáo sư, Phó Giáo sư, Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I) của ĐHĐN.\n2. Các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN trình Giám đốc ĐHĐN xem xét, quyết định kéo dài thời gian công tác đối với Giáo sư, Phó Giáo sư; Tiến sĩ/Tiến sĩ khoa học là giảng viên cao cấp (hạng I) của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Trình tự, thủ tục xem xét quyết định kéo dài thời gian công tác",
+          "text": "Điều 12. Trình tự, thủ tục xem xét quyết định kéo dài thời gian công tác\n\n1. Trình tự, thủ tục\na) Bước 1. Vào quý I hàng năm (năm 2025 thực hiện trong quý II), căn cứ định hướng phát triển, tình hình nhân lực và yêu cầu theo vị trí việc làm của đơn vị, Hiệu trưởng các trường đại học thành viên/Thủ trưởng đơn vị thuộc, trực thuộc ĐHĐN (có chức năng đào tạo) quyết định thành lập Hội đồng để xác định nhu cầu, số lượng và vị trí việc làm dự kiến kéo dài thời gian công tác đối với viên chức (kể cả các vị trí\n\nTrang 6\n\ncó nhu cầu kéo dài giai đoạn tiếp theo). Thành phần Hội đồng, đối với các trường đại học thành viên gồm: Hiệu trưởng, các Phó Hiệu trưởng, đại diện lãnh đạo: đơn vị phụ trách tổ chức cán bộ và đơn vị nơi viên chức dự kiến được bố trí sinh hoạt chuyên môn; đối với các đơn vị thuộc, trực thuộc ĐHĐN gồm: Trưởng và các Phó Trưởng đơn vị, đại diện lãnh đạo: đơn vị phụ trách tổ chức cán bộ và đơn vị chuyên môn (nơi viên chức dự kiến được bố trí sinh hoạt chuyên môn).\n\nTrên cơ sở nội dung thống nhất của Hội đồng, Hiệu trưởng/Thủ trưởng đơn vị thuộc, trực thuộc ĐHĐN (có chức năng đào tạo) thông báo (bằng văn bản) chủ trương về nhu cầu, số lượng vị trí việc làm dự kiến kéo dài thời gian công tác cho các đơn vị, viên chức được biết; báo cáo Giám đốc ĐHĐN (qua Ban Tổ chức Cán bộ) để theo dõi.\n\nb) Bước 2. Sau khi có Thông báo đến thời điểm đủ tuổi nghỉ hưu theo quy định, bộ phận phụ trách tổ chức cán bộ của đơn vị tham mưu, trình Hiệu trưởng/Thủ trưởng đơn vị thuộc, trực thuộc ĐHĐN (có chức năng đào tạo) có văn bản (như Phụ lục IV ban hành kèm theo Quy định này) gửi đến viên chức để biết, thực hiện.\n\nTrước thời điểm đủ tuổi nghỉ hưu ít nhất 06 tháng, viên chức có đề nghị kéo dài thời gian công tác bằng văn bản, gửi hồ sơ đến Hiệu trưởng/Thủ trưởng đơn vị thuộc, trực thuộc ĐHĐN (qua bộ phận tổ chức cán bộ của đơn vị) để xem xét.\n\nHồ sơ gồm: văn bản có ý kiến đề nghị kéo dài thời gian công tác của viên chức, Giấy khám sức khỏe được cấp có thẩm quyền cấp trong thời hạn 30 ngày, tính đến ngày nộp hồ sơ đề nghị.\n\nc) Bước 3. Sau khi nhận được đầy đủ hồ sơ của viên chức, trước thời điểm đủ tuổi nghỉ hưu ít nhất 03 tháng, bộ phận phụ trách tổ chức cán bộ của đơn vị đánh giá, rà soát các điều kiện của viên chức có nguyện vọng được kéo dài thời gian công tác và chủ trương, nhu cầu của đơn vị để tham mưu, báo cáo Hiệu trưởng/Thủ trưởng đơn vị thuộc, trực thuộc ĐHĐN (có chức năng đào tạo) về kết quả đánh giá, rà soát, thời gian được kéo dài đối với từng trường hợp viên chức và trình Giám đốc ĐHĐN quyết định kéo dài thời gian công tác đối với viên chức.\n\nHồ sơ trình Giám đốc ĐHĐN, gồm: Tờ trình đề nghị của đơn vị, văn bản có ý kiến đề nghị kéo dài thời gian công tác của viên chức, Giấy khám sức khỏe được cấp có thẩm quyền cấp trong thời hạn 30 ngày, tính đến ngày nộp hồ sơ đề nghị.\n\nd) Bước 4. Ban Tổ chức Cán bộ thẩm định, trình Giám đốc ĐHĐN xem xét, quyết định kéo dài thời gian công tác đối với viên chức và gửi các đơn vị, cá nhân có liên quan trước thời điểm đủ tuổi nghỉ hưu ít nhất 03 tháng.\n\n2. Trường hợp đơn vị, viên chức có nhu cầu tiếp tục thực hiện kéo dài thời gian công tác cho giai đoạn tiếp theo thì trình tự, thủ tục được thực hiện như quy định tại khoản 1 Điều này.\n\nHồ sơ trình cấp có thẩm quyền xem xét, gồm: Văn bản có ý kiến đề nghị kéo dài thời gian công tác của viên chức, báo cáo kết quả thực hiện nhiệm vụ chuyên môn trong thời gian kéo dài, Giấy khám sức khỏe được cấp có thẩm quyền cấp trong thời hạn 30 ngày, tính đến ngày nộp hồ sơ.\n\nTrang 7",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Chế độ, chính sách đối với viên chức kéo dài thời gian công tác",
+          "text": "Điều 13. Chế độ, chính sách đối với viên chức kéo dài thời gian công tác\n\n1. Được xác định là viên chức nằm trong tổng số lượng người làm việc của đơn vị được cấp có thẩm quyền giao.\n2. Được hưởng chế độ lương theo hạng chức danh nghề nghiệp hiện giữ và chế độ, chính sách khác theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Trách nhiệm của đơn vị trực tiếp quản lý, sử dụng và giảng viên",
+          "text": "Điều 14. Trách nhiệm của đơn vị trực tiếp quản lý, sử dụng và giảng viên\n\n1. Các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN (có chức năng đào tạo) trực tiếp quản lý, sử dụng viên chức kéo dài thời gian công tác; có trách nhiệm đảm bảo các điều kiện làm việc, phân công nhiệm vụ, thực hiện đúng chế độ, chính sách đối với viên chức được kéo dài thời gian công tác theo đúng quy định hiện hành nhằm phát huy năng lực chuyên môn, sở trường, đóng góp có hiệu quả cho công tác đào tạo và nghiên cứu khoa học.\n2. Viên chức được kéo dài thời gian công tác có trách nhiệm thực hiện đầy đủ nhiệm vụ chuyên môn theo đúng quy định về chế độ làm việc đối với giảng viên và phân công của đơn vị.\n3. Trường hợp viên chức hết thời gian kéo dài và hoặc có nguyện vọng nghỉ hưu, các trường đại học thành viên, các đơn vị đào tạo thuộc và trực thuộc ĐHĐN (có chức năng đào tạo) thực hiện quy trình, thủ tục nghỉ hưu theo quy định tại Điều 8 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 15. Hiệu lực thi hành\n\n1. Quy định này có hiệu lực thi hành từ ngày ký.\n2. Trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Quy định này được sửa đổi, bổ sung hoặc thay thế thì áp dụng theo văn bản mới do cấp có thẩm quyền ban hành và có hiệu lực.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Điều khoản chuyển tiếp",
+          "text": "Điều 16. Điều khoản chuyển tiếp\n\nViên chức giữ chức danh giảng viên của các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN được cấp có thẩm quyền quyết định việc kéo dài thời gian làm việc theo quy định tại Điều 9 Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục đại học từ trước ngày Nghị định số 50/2022/NĐ-CP ngày 02/8/2022 của Chính phủ Quy định về nghỉ hưu ở tuổi cao hơn đối với viên chức trong đơn vị sự nghiệp công lập có hiệu lực thi hành thì tiếp tục thực hiện theo quy định tại Nghị định số 141/2013/NĐ-CP.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Trách nhiệm thực hiện",
+          "text": "Điều 17. Trách nhiệm thực hiện\n\nCác trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN, VC, NLĐ thực hiện nghiêm túc Quy định này. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, đề nghị các đơn vị, cá nhân phản ánh về ĐHĐN (qua Ban Tổ chức Cán bộ) để kịp thời giải quyết theo quy định./.\n\nTrang 8\n\nPhụ lục I.A\nLỘ TRÌNH ĐIỀU CHỈNH TUỔI NGHỈ HƯU CỦA VC, NLĐ\n(Kèm theo Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của ĐHĐN ban hành kèm theo Quyết định số 1974/QĐ-ĐHĐN ngày 27 tháng 5 năm 2025 của Giám đốc ĐHĐN)\n\n| Nam - Năm nghỉ hưu | Nam - Tuổi nghỉ hưu | Nữ - Năm nghỉ hưu | Nữ - Tuổi nghỉ hưu |\n| 2021 | 60 tuổi 3 tháng | 2021 | 55 tuổi 4 tháng |\n| 2022 | 60 tuổi 6 tháng | 2022 | 55 tuổi 8 tháng |\n| 2023 | 60 tuổi 9 tháng | 2023 | 56 tuổi |\n| 2024 | 61 tuổi | 2024 | 56 tuổi 4 tháng |\n| 2025 | 61 tuổi 3 tháng | 2025 | 56 tuổi 8 tháng |\n| 2026 | 61 tuổi 6 tháng | 2026 | 57 tuổi |\n| 2027 | 61 tuổi 9 tháng | 2027 | 57 tuổi 4 tháng |\n| Từ năm 2028 trở đi | 62 tuổi | 2028 | 57 tuổi 8 tháng |\n| | | 2029 | 58 tuổi |\n| | | 2030 | 58 tuổi 4 tháng |\n| | | 2031 | 58 tuổi 8 tháng |\n| | | 2032 | 59 tuổi |\n| | | 2033 | 59 tuổi 4 tháng |\n| | | 2034 | 59 tuổi 8 tháng |\n| | | Từ năm 2035 trở đi | 60 tuổi |\n\nTrang 9\n\nPhụ lục I.B\nTUỔI NGHỈ HƯU THẤP NHẤT CỦA VC, NLĐ\n(Kèm theo Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của ĐHĐN ban hành kèm theo Quyết định số 1974/QĐ-ĐHĐN ngày 27 tháng 5 năm 2025 của Giám đốc ĐHĐN)\n\n| Nam - Năm nghỉ hưu | Nam - Tuổi nghỉ hưu thấp nhất | Nữ - Năm nghỉ hưu | Nữ - Tuổi nghỉ hưu thấp nhất |\n| 2021 | 55 tuổi 3 tháng | 2021 | 50 tuổi 4 tháng |\n| 2022 | 55 tuổi 6 tháng | 2022 | 50 tuổi 8 tháng |\n| 2023 | 55 tuổi 9 tháng | 2023 | 51 tuổi |\n| 2024 | 56 tuổi | 2024 | 51 tuổi 4 tháng |\n| 2025 | 56 tuổi 3 tháng | 2025 | 51 tuổi 8 tháng |\n| 2026 | 56 tuổi 6 tháng | 2026 | 52 tuổi |\n| 2027 | 56 tuổi 9 tháng | 2027 | 52 tuổi 4 tháng |\n| Từ năm 2028 trở đi | 57 tuổi | 2028 | 52 tuổi 8 tháng |\n| | | 2029 | 53 tuổi |\n| | | 2030 | 53 tuổi 4 tháng |\n| | | 2031 | 53 tuổi 8 tháng |\n| | | 2032 | 54 tuổi |\n| | | 2033 | 54 tuổi 4 tháng |\n| | | 2034 | 54 tuổi 8 tháng |\n| | | Từ năm 2035 trở đi | 55 tuổi |",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của ĐHĐN.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về nghỉ hưu, kéo dài thời gian công tác đối với viên chức, người lao động của ĐHĐN.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 191/QĐ-ĐHĐN ngày 11/01/2016 của Giám đốc ĐHĐN về việc ban hành Quy định thực hiện kéo dài thời gian công tác và chế độ nghỉ hưu.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 191/QĐ-ĐHĐN ngày 11/01/2016 của Giám đốc ĐHĐN về việc ban hành Quy định thực hiện kéo dài thời gian công tác và chế độ nghỉ hưu.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

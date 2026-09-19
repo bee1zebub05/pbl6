@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0152_07_2020_TT-BGDĐT_Thông tư 07_2020_TT-BGDĐT Thông tư 07_2020_TT-BGDĐT sửa đổi Thông tư 06_2018.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "07/2020/TT-BGDĐT",
+    "title": "Thông tư Sửa đổi, bổ sung một số điều của Thông tư số 06/2018/TT-BGDĐT ngày 28 tháng 02 năm 2018 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về việc xác định chỉ tiêu tuyển sinh trình độ trung cấp, cao đẳng các ngành đào tạo giáo viên; trình độ đại học, thạc sĩ, tiến sĩ, được sửa đổi, bổ sung tại Thông tư 01/2019/TT-BGDĐT ngày 28 tháng 02 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/03/2020",
+    "effectiveDate": "25/05/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tuyển sinh",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Thông tư này sửa đổi, bổ sung một số điều của Thông tư số 06/2018/TT-BGDĐT về việc xác định chỉ tiêu tuyển sinh trình độ trung cấp, cao đẳng các ngành đào tạo giáo viên; trình độ đại học, thạc sĩ, tiến sĩ, trong đó quy định chi tiết về phạm vi điều chỉnh, đối tượng áp dụng, cơ chế đào tạo ưu tiên đối với nhóm ngành Du lịch, Khách sạn, nhà hàng và Công nghệ thông tin.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Văn Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "141/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "103/NQ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 103/NQ-CP ngày 06 tháng 10 năm 2017 của Chính phủ ban hành Chương trình hoạt động thực hiện Nghị quyết số 08-NQ/TW ngày 16 tháng 01 năm 2017 của Bộ Chính trị khoá XII về phát triển du lịch trở thành ngành kinh tế mũi nhọn;"
+    },
+    {
+      "targetDocumentNumber": "26/NQ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 26/NQ-CP ngày 15 tháng 4 năm 2015 của Chính phủ ban hành Chương trình hành động thực hiện Nghị quyết số 36-NQ/TW ngày 01/7/2014 của Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam về đẩy mạnh ứng dụng, phát triển công nghệ thông tin (CNTT) đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Quốc hội",
+    "Bộ Chính trị",
+    "Đảng Cộng sản Việt Nam",
+    "Kiểm toán Nhà nước",
+    "Bộ Tư pháp"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Thông tư số 06/2018/TT-",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số 06/2018/TT-\nBGDĐT ngày 28 tháng 02 năm 2018 của Bộ trưởng Bộ Giáo dục và Đào tạo\nquy định về việc xác định chỉ tiêu tuyển sinh trình độ trung cấp, cao đẳng\ncác ngành đào tạo giáo viên; trình độ đại học, thạc sĩ, tiến sĩ; được sửa đổi,\nbổ sung tại Thông tư 01/2019/TT-BGDĐT ngày 28 tháng 02 năm 2019 của\nBộ trưởng Bộ Giáo dục và Đào tạo.\n1. Điều 1 được sửa đổi, bổ sung như sau:\n\"Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định về việc xác định chỉ tiêu tuyển sinh trình độ cao\nđẳng ngành Giáo dục Mầm non; trình độ đại học, thạc sĩ, tiến sĩ.\n2. Thông tư này áp dụng đối với các đại học, học viện, trường đại học; các\nviện nghiên cứu khoa học được phép đào tạo trình độ tiến sĩ; các trường cao\nđẳng được phép đào tạo ngành Giáo dục Mầm non (sau đây gọi chung là các cơ\nsở giáo dục); các tổ chức và cá nhân có liên quan.\"\n2. Bổ sung khoản 3 và 4 Điều 3 như sau:\n\"3. Những ngành đào tạo thuộc nhóm ngành Du lịch và nhóm ngành\nKhách sạn, nhà hàng được áp dụng cơ chế đào tạo ưu tiên trình độ đại học gồm:\nDu lịch (mã ngành 7810101); Quản trị dịch vụ du lịch và lữ hành (mã ngành\n7810103); Quản trị khách sạn (mã ngành 7810201); Quản trị nhà hàng và dịch\nvụ ăn uống (mã ngành 7810202) và các mã ngành đào tạo trong nhóm ngành Du\nlịch và nhóm ngành Khách sạn, nhà hàng chưa có trong Danh mục giáo dục đào\ntạo cấp IV trình độ đại học hiện hành để đáp ứng nhu cầu về nhân lực du lịch.\n4. Nhóm ngành đào tạo trong lĩnh vực Máy tính và Công nghệ thông tin\nđược áp dụng cơ chế đào tạo ưu tiên trình độ đại học gồm: Khoa học máy tính\n(mã ngành 7480101); Mạng máy tính và truyền thông dữ liệu (mã ngành\n7480102); Kỹ thuật phần mềm (mã ngành 7480103); Kỹ thuật máy tính (mã\nngành 7480106); Hệ thống thông tin (mã ngành 7480104); Hệ thống thông tin\nquản lý (mã ngành 7340405); Công nghệ kỹ thuật máy tính (mã ngành\n7480108); Công nghệ thông tin (mã ngành 7480201); An toàn thông tin (mã\nngành 7480202); và các mã ngành đào tạo trong lĩnh vực Máy tính và Công\nnghệ thông tin chưa có trong Danh mục giáo dục đào tạo cấp IV trình độ đại học\nhiện hành để đáp ứng nhu cầu về nhân lực công nghệ thông tin.\"\n3. Điều 4 sửa đổi, bổ sung như sau:\n\"Điều 4. Giảng viên cơ hữu, giảng viên thỉnh giảng\n1. Giảng viên cơ hữu trong xác định chỉ tiêu tuyển sinh được quy định\nnhư sau:\n\na) Giảng viên cơ hữu của cơ sở giáo dục công lập là viên chức được tuyển\ndụng, sử dụng và quản lý theo quy định của pháp luật về viên chức hoặc người\nlao động của các cơ sở giáo dục đại học đáp ứng quy định tại khoản 2 Điều 32\ncủa Luật Giáo dục Đại học (ban hành năm 2012, được sửa đổi bổ sung năm\n2018, sau đây gọi là Luật Giáo dục đại học), được tuyển dụng, sử dụng và quản\nlý theo quy định tại điểm a khoản 2 Điều 13 của Nghị định số 99/2019/NĐ-CP\nngày 30 tháng 12 năm 2019 quy định chi tiết và hướng dẫn thi hành một số điều\ncủa Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học.\nb) Giảng viên cơ hữu của cơ sở giáo dục tư thục là người lao động ký hợp\nđồng lao động có thời hạn 3 năm trở lên hoặc hợp đồng không xác định thời hạn\ntheo Bộ luật lao động, không là công chức hoặc viên chức nhà nước; do cơ sở\ngiáo dục trả lương và chi trả các khoản khác thuộc chế độ, chính sách đối với\nngười lao động theo các quy định hiện hành.\nc) Các giảng viên được xác định cơ hữu khi không đang làm việc theo hợp\nđồng lao động có thời hạn từ 3 tháng trở lên với đơn vị sử dụng lao động khác.\n2. Giảng viên thỉnh giảng trong xác định chỉ tiêu tuyển sinh phải có trình độ\ntừ thạc sĩ hoặc tương đương trở lên trừ các ngành đào tạo ưu tiên, có ký hợp đồng\nthỉnh giảng theo quy định về chế độ giảng viên thỉnh giảng trong các cơ sở giáo dục\nvà các quy định hiện hành liên quan khác, được cơ sở giáo dục trả lương, thù lao\ntheo hợp đồng thỉnh giảng; trừ đối với giảng viên thỉnh giảng tham gia giảng dạy\ncác ngành đào tạo đáp ứng nhu cầu về nhân lực Du lịch/ Công nghệ thông tin.\n3. Giảng viên cơ hữu, thỉnh giảng quy đổi trong xác định chỉ tiêu tuyển\nsinh là giảng viên có chức danh hoặc trình độ khác nhau của cơ sở giáo dục\nđược quy đổi theo hệ số như sau:\nHệ số giảng viên | Hệ số giảng viên thỉnh\ncơ hữu\ngiảng\nTrm‘:;ng\nCác\nChức danh/ Trình độ\nC\n|cao 0508 ngành trừ | Các ngành\ngiáo |\nngành | 5\nnganh|\ndao tạo ưu\ndục dai | giáo viên\nđào tạo\ntiền\nhọc\nmam\nưu tién\nnon\n- Giang viên có trình độ đại hoc\n03\n1,0\n0,0\n0,2\n- Giảng viên có trình độ thạc sĩ\n1,0\n1,5\n0,2\n0,5\n- Giảng vién có trình độ tién sĩ\n2,0\n2,0\n0,4\n1,0\n- .Qlang vién có chức danh phó\n3.0\n30\n0.6\n15\ngiáo su\n- Giảng viên có chức danh giáo sư | 5,0\n5,0\n1,0\n2,5\n\n4\na) Đối với khối ngành nghệ thuật, giảng viên là nghệ sĩ nhân dân có bằng\nđại học cùng ngành với ngành tham gia đào tạo được tính chỉ tiêu như giảng viên\ncó trình độ tién si; giảng viên là nghệ sĩ ưu tú có bằng đại học cùng ngành với\nngành tham gia đào tạo được tính chỉ tiêu như giảng viên có trình độ thạc sĩ.\nb) Đối với khối ngành sức khỏe, giảng viên có bằng chuyên khoa cấp II\ncác chuyên ngành thuộc ngành tham gia đào tạo được tính chỉ tiêu như giảng\nviên có trình độ tiễn sĩ; giảng viên có bằng bác sĩ nội trú, b?mg chuyên khoa cấp\nI các chuyên ngành thuộc ngành tham gia đào tạo được tính chỉ tiêu như giảng\nviên có trình độ thạc sĩ.\n4. Cơ sở giáo dục triển khai áp dụng cơ chế đào tạo wu tiên các ngành\ntrình độ đại học thuộc nhóm ngành Du lịch và nhóm ngành Khách sạn, nhà hàng\nđược ký hợp đồng giảng viên thinh giảng đối với các chuyên gia, cán bộ kỹ\nthuật, cán bộ quản lý (sau đây gọi tắt là chuyên gia) d& tham gia đào tạo nguồn\nnhân lực trong lĩnh vực Du lịch. Các chuyên gia phải có bằng tốt nghiệp từ trình\nđộ thạc sỹ trở lên cùng ngành hoặc ngành gần với ngành tham gia đào tạo hoặc\ntốt nghiệp đại học cùng ngành hoặc ngành gần với ngành tham gia đào tạo đồng\nthời có từ 3 năm kinh nghiệm hoạt động nghề nghiệp về lĩnh vực Du lịch trong\ndoanh nghiệp, hiệp hội nghề nghiệp trở lên.\n5. Cơ sở giáo dục triển khai áp dụng cơ chế đào tạo ưu tiên các ngành trình\nđộ đại học lĩnh vực Máy tính và Công nghệ thông tin được ký hợp đồng giảng\nviên thinh giảng với các chuyên gia để tham gia đào tạo nguồn nhân lực trong\nlĩnh vực Máy tính và Công nghệ thông tin. Các chuyên gia phải có bằng tốt\nnghiệp từ trình độ thạc sỹ trở lên cùng ngành với ngành tham gia đào tạo hoặc tốt\nnghiệp đại học cùng ngành với ngành tham gia đào tạo đồng thời có từ 5 năm\nkinh nghiệm hoạt động nghề nghiệp về lĩnh vực Công nghệ thông tin của doanh\nnghiệp, hiệp hội nghề nghiệp trở lên.”\n4. Khoản 3 Điều 5 được sửa đối, bd sung như sau:\na) Piém c khoản 3 Điều 5 được sửa đổi, bd sung như sau:\n“c) Các khối ngành khác: tính tối đa bằng 5% tổng số giảng viên cơ hữu\nquy đổi, trừ các ngành quy định tại điểm d, khoản 3, Điều 5.”\nb) Bỗ sung điểm d vào khoản 3 Điều 5 như sau:\n“d) Đối với các ngành đào tạo ưu tiên thuộc nhóm ngành Du lịch và nhóm\nngành Khách sạn, nhà hàng/ Máy tính và Công nghệ Thông tin: tính tối đa bằng\n40% tổng giảng viên cơ hữu quy đổi\n”\n\n5\n5. Điểm a khoản 1 Điều 6 được sửa đồi, bỏ sung như sau:\n“a) Sinh viên chính quy trong xác định chi tiêu tuyển sinh gồm: sinh viên\nđại học theo hình thức chính quy, sinh viên cao đẳng ngành Giáo dục Mam non\ntheo hình thức chính quy, sinh viên liên thông theo hình thức chính quy (bao gồm\nliên thông từ trình độ trung aẾp, trình độ cao déng lên trình độ đại học; liên thông\ntừ trinh độ trung cấp các ngành đào tạo giáo viên lên trình độ cao đẳng ngành Giáo\ndục Mầm non; đào tạo trình độ cao déng nganh Giáo duc Mầm non đối với\nngười đã có bằng tốt nghiệp trình độ cao đẳng các ngành đào tao giáo viên; đào\ntạo trình độ đại học đối với người đã có bằng tốt nghiệp trình độ đại học trở lên),\nkhông bao gồm sinh viên cử tuyén chính quy”\n6. Điều 7 sửa đồi, bố sung như sau:\n“Điều 7. Xác định chỉ tiêu tuyén sinh đại học hệ chính quy\n1. Cơ sở giáo dục xác định chỉ tiêu tuyến sinh đại học chính quy theo quy\nđịnh của Thông tư này, công bố công khai và chịu trách nhiệm giải trình về chỉ\ntiêu tuyển sinh đã xác định, các tiêu chí xác định chỉ tiêu, chất lượng đào tạo và\ncam kết chuẩn đầu ra đáp ứng nhu cầu xã hội.\n2. Chi tiêu tuyển sinh đại học chính quy hàng năm được xác định không\nvượt quá tổng quy mô đào tạo chính quy xác định trên cơ sở năng lực của từng\nkhối ngành, đáp ứng đồng thời các tiêu chí quy định tại Điều 6 của Thông tư này\ntrừ đi tống quy mô sinh viên chinh quy đang đào tạo tại cơ sở giáo dục và cộng\nthêm số sinh viên dự kiến sẽ tốt nghiệp trong năm tuyển sinh,\n3. Đối với các ngành đào tạo mới được mở ngành trong năm tuyén sinh,\nchỉ tiêu được xác định cho ngành đó nằm trong năng lực đào tạo của khối ngành\ntương ứng và không vượt quá 30% năng lực đào tạo của ngành theo quy định.\n4. Đối với ngành đào tạo có chương trình đã được công nhận đạt chuẩn\nkiểm định chất lượng theo quy dinh hiện hành; tỷ lệ việc làm của sinh viên tốt\nnghiệp chương trình đào tạo này của năm trước liền kề đạt từ 90% trở lên; trong\n5 năm trước liền kề năm tuyén sinh, cơ sở đào tạo không vi phạm quy định về\nđối tượng, điều kiện, chỉ tiêu tuyén sinh; có nghị quyết thông qua chủ trương xác\nđịnh chỉ tiêu tuyển sinh của hội đồng trường, hội đồng đại học (sau đây gọi là\nhội đồng trường) thì được tự chủ xác định chỉ tiêu tuyển sinh theo cam kết về\nchất lượng của chương trình đào tạo và nhu cầu xã hội đối với ngành đó, phù\nhợp với quy định tại khoản 2 Điều này, phải công bố công khai trong đề án\ntuyén sinh và chịu trách nhiệm giải trình trước xã hội và cơ quan có thẩm quyền.\nf/\n\n6\n5. Đối với cơ sở giáo dục đại học đáp ứng điều kiện thực hiện quyền tự\nchủ theo quy định tại khoản 2, Điều 32 của Luật Giáo dục đại học về điều kiện\nthực hiện quyén tự chủ của cơ sở giáo dục dai học; ty lệ việc làm của sinh vién\ntốt nghiệp năm trước liền kề đạt từ 90% trở lên; trong 5 năm trước liền kề năm\ntuyển sinh, không vi phạm quy định về đối tượng, điều kiện, chỉ tiêu myến sinh;\ncó nghị quyết thông qua chủ trương xác định chỉ tiêu tuyển sinh của hội đồng\ntrường thì được tự chủ xác định chi tiéu tuyển sinh theo cam két về chất lượng\ncủa chương trình đào tạo và nhu cầu xã hội, phù hợp với quy định tại khoản 2\nĐiều này, trong đó ngành đào tạo chưa có chương trình được công nhận đạt\nchuẩn kiểm định chất lượng theo quy định hiện hành chỉ được tăng chỉ tiêu\nkhông quá 10% so với năm trước liền kề và ngành đào tạo có chương trình đã\nđược công nhận đạt chuẩn kiểm định chất lượng theo quy định hiện hành được\nxác định chỉ tiêu theo quy định tại khoản 4 Điều này; phải công bố công khai\ntrong đề án tuyển sinh và chịu trách nhiém giải trinh trước xã hội và cơ quan có\nthẩm quyền.\nNếu không dam bảo quy định nêu trên thì cơ sở giáo dục đại học không\nđược tăng chỉ tiêu so với năm trước liền kề, trừ trường hợp quy định tại khoản 3\nvà khoản 4 Điều này và các ngành đào tạo ưu tiên thuộc nhóm ngành Du lịch và\nnhóm ngành Khách sạn, nhà hàng/ Máy tính và Công nghệ Thông tin.\n6. Chỉ tiêu tuyén sinh đào tạo lién thông đại học chính quy nằm trong tổng\nchỉ tiêu tuyển sinh đại học chính quy, trong đó chi tiéu đào tạo liên thông từ\ntrình độ trung cép, trình độ cao déng lên trình độ đại học được xác định theo quy\nđịnh hiện hành về đào tạo liên thông giữa trình độ trung cấp, trình độ cao đẳng\nvới trình độ đại hoc.”\n7. Điều 8 sửa đổi, bd sung như sau:\n“Điều 8. Xác định chi tiêu tuyển sinh trình độ cao đẳng ngành Giáo\ndục Mầm non; trình độ đại học các ngành đào tao giáo viên hinh thức đào\ntạo chính quy và vừa làm vừa học\n1. Các căn cứ xác định chỉ tiêu tuyển sinh hình thức đào tạo chính quy:\na) Nhu cầu tuyén dụng giáo viên theo trình độ, ngành đào tạo của địa phương.\nb) Điều kiện đảm bảo chất lượng và năng lực các ngành đào tạo giáo viên\ncủa cơ sở giáo dục theo quy định tại Điều 6 của Thông tư này.\nc) Xác định chỉ tiêu tuyến sinh trình độ đại học, trình độ cao clẳng các\nngành đào tạo giáo viên hình thức đào tạo chính quy theo quy định tại Khoản 2,\n3, 6 Điều 7 của Thông tư này.\n\n7\n2. Căn cứ xác định chỉ tiêu myển sinh hình thức đào tạo vừa làm vừa học:\nChỉ tiêu tuyển sinh hình thức đào tạo vừa làm vừa học của mỗi trình độ\nđào tạo được xác định không vượt quá 30% chỉ tiêu tuyển sinh hình thức đào tạo\nchính quy của trình độ tương ứng.\n3. Các cơ sở giáo dục có ngành đào tạo giáo viên tự xác định và đăng ký\nchỉ tiêu tuyển sinh hàng năm với Bộ Giáo dục và Đào tạo. Căn cứ nhu cầu sử\ndụng giáo viên của các địa phương và năng lực đào tạo của cơ sở đào tạo giáo\nviên, Bộ Giáo dục và Đào tạo thông báo chỉ tiêu tuyển sinh theo ngành và trình\nđộ đào tạo cho cơ sở giáo dục có ngành đào tạo giáo viên.\n4. Bộ trưởng Bộ Giáo dục và Đào tạo xem xét, quyét định giao chi tiêu\nđào tạo đối với một số trường hợp đặc biệt.”\n8. Khoản 1, Điều 9 sửa đổi, bd sung như sau:\n“1. Xác định chi tiêu tuyển sinh đại học hình thức vừa làm vừa học được\nquy định như sau.\na) Tống chỉ tiêu tuyén sinh đại học vừa làm vừa học bao gf”)m dao tao dai\nhọc vừa làm vừa học, đào tạo đại học lién thông vừa làm vừa học (bao gém liên\nthông từ trình độ trung cấp, trình độ cao ẳmg lên trình độ đại học; đào tạo trình\nđộ đại học đối với người đã có bằng tốt nghiệp trình độ đại học trở lên) và được\nxác định không quá 30% tổng chỉ tiêu tuyển sinh chính quy của cơ sở giáo dục;\nb) Chỉ tiêu tuyển sinh đào tạo liên thông đại học vừa làm vừa học nằm\ntrong téng chỉ tiéu tuyén sinh đại học vira làm vừa hoc, trong đó chỉ tiêu liên\nthông từ trình độ trung cép, trình độ cao đắng lên trình độ đại học được xác định\ntheo quy định hiện hành về liên thông giữa trình độ trung cấp, trình độ cao déng\nvới trình độ đại hoc.”\n9. Bồ sung Khoản 4 và 5 Điều 12 như sau:\n\"4. Các cơ sở giáo dục triển khai đào tạo các ngành thuộc lĩnh vực Du lịch/\nCông nghệ thông tin áp dụng theo cơ ché đào tạo ưu tiên trình độ đại học chỉ được\nthực hiện từ khóa tuyển sinh thứ hai k& từ khi mở ngành đào tạo, đồng thời phải\nxây dựng và đăng tải công bố công khai thông tin triển khai áp dụng cơ chế ưu\ntiên đào tạo trong Đề án tuyển sinh của cơ sở giáo dục và các minh chứng đảm\nbảo chất lượng trên trang thông tin điện tử của trường và trên Cổng thông tin\ntuyén sinh của Bộ GDĐT theo đúng quy định của Quy ché tuyển sinh hiện hành.\n5. Thủ trưởng cơ sở giáo dục, Chủ tịch Hội đồng tuyén sinh của cơ sở\ngiáo dục chịu trách nhiệm giải trình trước Bộ Giáo dục và Đào tạo và xã hội về\n\nviệc xác định và thực hiện chi tiêu tuyén sinh của cơ sở giáo dục theo đúng quy\nđịnh hiện hành.”\n10. Điều 13 được sửa đồi, bd sung như sau:\n“Điều 13. Thanh tra, kiém tra và xử phạt vi phạm\n1. Bộ Giáo dục và Đào tạo tổ chức thanh tra, kiểm tra việc xác định chỉ\ntiêu và thực hiện chỉ tiêu tuyển sinh của các cơ sở giáo dục theo quy định của\nPháp luật.\n2. Cơ sở giáo dục vi phạm quy định về việc xác định chỉ tiêu tuyển sinh\nvà thực hiện tuyén sinh sẽ bị xử lý theo quy định của pháp luật.\nChủ tịch Hội df?mg trường, Thủ trưởng cơ sở giáo dục và Chủ tịch Hội\nđồng tuyén sinh có xay ra sai phạm về xác định và thực hiện chi tiêu tuyển sinh\nvà cá nhân thực hiện hành vi vi phạm quy định về xác định chỉ tiêu tuyén sinh và\nthực hiện tuyén sinh sẽ bị xử lý theo quy dinh của pháp luật.”",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2.\n1. Thay đối cụm từ “trình độ trung cép, cao đẳng các ngành đào tạo giáo\nviên” thành từ “trình độ cao Ổ.ng ngành Giáo dục Mầm non” tại các Điều 6.\n2. Thay thé Phụ lục 01 các mẫu báo cáo bằng Phụ lục 01 Các mẫu báo cáo\nkèm theo Thông tư này.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2020.",
+      "text": "Điều 3. Thông tư này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2020.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng",
+      "text": "Điều 4. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng\ncác đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Chủ tịch Uy ban nhân\ndân tinh, thành phố trực thuộc Trung ương; Giám đốc sở giáo dục và đào tạo;\nGiám đốc sở giáo dục - khoa học và công nghé; Giám đốc đại học, học viện;\nHiệu trưởng trường đại học; Hiệu trưởng trường cao đẳng tuyển sinh ngành\ngiáo viên mầm non chịu trách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

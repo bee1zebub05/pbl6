@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0310_624_BGDĐT-TTr_Công văn về việc tăng cường công tác thanh tra, kiểm tra nội bộ trong cơ sở GDĐH.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "624/BGDĐT-TTr",
+    "title": "Công văn về việc tăng cường công tác thanh tra, kiểm tra nội bộ trong cơ sở GDĐH",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/02/2022",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thanh tra, kiểm tra",
+      "Đào tạo"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo yêu cầu các cơ sở giáo dục đại học tăng cường công tác thanh tra, kiểm tra nội bộ, chú trọng khắc phục những hạn chế, thiếu sót, sai phạm trong hoạt động tự chủ, tổ chức, tuyển sinh, tài chính, tài sản, đầu tư xây dựng cơ bản và nghiên cứu khoa học.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "34/2018/QH14",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Luật số 34/2018/QH14 ngày 19/11/2018 của Quốc hội sửa đổi, bổ sung một số điều của Luật Giáo dục đại học, Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học, thời gian qua các đại học, học viện, trường đại học đã tổ chức thực hiện cơ bản nghiêm túc."
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Luật số 34/2018/QH14 ngày 19/11/2018 của Quốc hội sửa đổi, bổ sung một số điều của Luật Giáo dục đại học, Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học, thời gian qua các đại học, học viện, trường đại học đã tổ chức thực hiện cơ bản nghiêm túc."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ GDĐT",
+    "Thanh tra Bộ GDĐT"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

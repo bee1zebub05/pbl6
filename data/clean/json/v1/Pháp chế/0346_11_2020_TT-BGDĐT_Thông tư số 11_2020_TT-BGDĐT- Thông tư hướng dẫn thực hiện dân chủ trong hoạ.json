@@ -1,0 +1,192 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0346_11_2020_TT-BGDĐT_Thông tư số 11_2020_TT-BGDĐT- Thông tư hướng dẫn thực hiện dân chủ trong hoạ.txt",
+  "mappedBy": "gemini-web",
+  "note": "22 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "11/2020/TT-BGDĐT",
+    "title": "Thông tư Hướng dẫn thực hiện dân chủ trong hoạt động của cơ sở giáo dục công lập",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "19/05/2020",
+    "effectiveDate": "01/07/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Đào tạo"
+    ],
+    "summary": "Thông tư này hướng dẫn thực hiện dân chủ trong hoạt động của cơ sở giáo dục công lập, bao gồm các quy định về trách nhiệm của hiệu trưởng, nhà giáo, cán bộ quản lý, người lao động, hội đồng trường, cũng như các nội dung công khai, tham gia ý kiến, giám sát và kiểm tra.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thường",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "04/2015/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 5",
+      "context": "Căn cứ Nghị định số 04/2015/NĐ-CP ngày 09 tháng 01 năm 2015 của Chính phủ về thực hiện dân chủ trong hoạt động của cơ quan hành chính nhà nước và đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "04/2000/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020 và thay thế Quyết định số 04/2000/QĐ-BGDĐT ngày 01 tháng 3 năm 2000 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế thực hiện dân chủ trong hoạt động của nhà trường."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Công đoàn"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nThông tư này hướng dẫn thực hiện dân chủ trong hoạt động của cơ sở giáo dục công lập, bao gồm: dân chủ trong cơ sở giáo dục; dân chủ trong quan hệ và giải quyết công việc với công dân, cơ quan, đơn vị, tổ chức có liên quan.\n2. Đối tượng áp dụng\nThông tư này áp dụng đối với hiệu trưởng hoặc giám đốc (sau đây gọi chung là hiệu trưởng), nhà giáo, cán bộ quản lý, người lao động và người học trong các cơ sở giáo dục công lập, bao gồm: cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, trường chuyên biệt, cơ sở giáo dục thường xuyên; trường\n\ntrung cấp sư phạm, trường cao đẳng sư phạm và cơ sở giáo dục đại học; các tổ chức, cá nhân có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Mục đích thực hiện dân chủ trong hoạt động của cơ sở giáo dục",
+      "text": "Điều 2. Mục đích thực hiện dân chủ trong hoạt động của cơ sở giáo dục\n1. Phát huy quyền làm chủ của nhà giáo, cán bộ quản lý, người lao động, người học và nâng cao trách nhiệm của hiệu trưởng.\n2. Tăng cường nề nếp, kỷ cương, kỷ luật trong hoạt động của cơ sở giáo dục, góp phần xây dựng môi trường giáo dục thân thiện, lành mạnh, nâng cao chất lượng giáo dục, đào tạo; phòng chống các hành vi tiêu cực, tham nhũng, lãng phí, quan liêu, cửa quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Yêu cầu thực hiện dân chủ trong hoạt động của cơ sở giáo dục",
+      "text": "Điều 3. Yêu cầu thực hiện dân chủ trong hoạt động của cơ sở giáo dục\n1. Thực hiện dân chủ trong hoạt động của cơ sở giáo dục phải gắn liền với việc bảo đảm sự lãnh đạo của tổ chức Đảng; chấp hành nguyên tắc tập trung dân chủ; phát huy vai trò của hội đồng trường, hội đồng đại học (sau đây gọi chung là hội đồng trường), của hiệu trưởng và các tổ chức đoàn thể trong cơ sở giáo dục.\n2. Dân chủ trong khuôn khổ Hiến pháp và pháp luật; kiên quyết xử lý những hành vi lợi dụng dân chủ vi phạm pháp luật, xâm phạm quyền, lợi ích hợp pháp, chính đáng của nhà giáo, cán bộ quản lý, người lao động và người học, cản trở việc thực hiện nhiệm vụ của cơ sở giáo dục.\n\nChương II\nDÂN CHỦ TRONG CƠ SỞ GIÁO DỤC\n\nMục 1\nTRÁCH NHIỆM CỦA HIỆU TRƯỞNG, NHÀ GIÁO, CÁN BỘ QUẢN LÝ, NGƯỜI LAO ĐỘNG, HỘI ĐỒNG TRƯỜNG VÀ CÁC ĐƠN VỊ, TỔ CHỨC TRONG CƠ SỞ GIÁO DỤC",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Trách nhiệm của Hiệu trưởng",
+      "text": "Điều 4. Trách nhiệm của Hiệu trưởng\n1. Thực hiện nhiệm vụ và quyền hạn của hiệu trưởng theo quy định của Luật Giáo dục, Luật Giáo dục đại học, Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và các quy định của pháp luật có liên quan.\n2. Thực hiện dân chủ, công khai trong quản lý, điều hành hoạt động của cơ sở giáo dục; trong quản lý, sử dụng, đào tạo, bồi dưỡng, thực hiện chế độ, chính sách đối với nhà giáo, cán bộ quản lý, người lao động và người học theo quy định của pháp luật và Thông tư này.\n3. Tổ chức các cuộc họp giao ban định kỳ để đánh giá kết quả thực hiện các nhiệm vụ được giao và đề ra nhiệm vụ, giải pháp chủ yếu phải thực hiện trong thời gian tới của cơ sở giáo dục.\n4. Lắng nghe ý kiến phản ánh, phê bình của nhà giáo, cán bộ quản lý giáo dục, người lao động và người học. Khi nhà giáo, cán bộ quản lý, người\n\nlao động, người học đăng ký được gặp và có nội dung, lý do cụ thể phải bố trí thời gian thích hợp để gặp và trao đổi.\n5. Chỉ đạo việc cung cấp đầy đủ, kịp thời những thông tin, tài liệu, cách thức tổ chức thực hiện, trách nhiệm thực hiện và trách nhiệm giải trình những nội dung công việc trong cơ sở giáo dục.\n6. Chỉ đạo, xem xét, xử lý kịp thời các khiếu nại, tố cáo, kiến nghị của nhà giáo, cán bộ quản lý, người lao động, người học và kiến nghị của Ban Thanh tra nhân dân của cơ sở giáo dục; kịp thời báo cáo cơ quan có thẩm quyền những vấn đề không thuộc thẩm quyền.\n7. Chỉ đạo, xem xét, xử lý kịp thời người có hành vi cản trở việc thực hiện dân chủ trong hoạt động của cơ sở giáo dục và người có hành vi trả thù, trù dập nhà giáo, cán bộ quản lý, người lao động và người học khiếu nại, tố cáo, kiến nghị theo quy định của pháp luật.\n8. Gương mẫu, đi đầu trong việc đấu tranh phòng chống những biểu hiện cửa quyền, sách nhiễu, thành kiến, trù dập, giấu giếm, bưng bít, làm sai lệch sự thật, làm trái nguyên tắc và những biểu hiện không dân chủ khác trong cơ sở giáo dục.\n9. Phối hợp với Công đoàn tổ chức hội nghị nhà giáo, cán bộ quản lý giáo dục, người lao động của cơ sở giáo dục mỗi năm một lần vào đầu năm học theo quy định tại Điều 5 Nghị định số 04/2015/NĐ-CP ngày 09 tháng 01 năm 2015 của Chính phủ về thực hiện dân chủ trong hoạt động của cơ quan hành chính nhà nước và đơn vị sự nghiệp công lập và các quy định khác có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Trách nhiệm của nhà giáo, cán bộ quản lý và người lao động",
+      "text": "Điều 5. Trách nhiệm của nhà giáo, cán bộ quản lý và người lao động\n1. Nghiêm chỉnh chấp hành nội quy, quy chế của cơ sở giáo dục; thực hành tiết kiệm, chống lãng phí; thực hiện các quy định về nghĩa vụ, đạo đức nhà giáo, quy tắc ứng xử, nguyên tắc trong hoạt động nghề nghiệp.\n2. Đóng góp ý kiến trong hoạt động của cơ sở giáo dục; ý kiến đối với hiệu trưởng để xây dựng cơ sở giáo dục trong sạch, vững mạnh.\n3. Báo cáo người có thẩm quyền khi phát hiện hành vi vi phạm pháp luật trong hoạt động của cơ sở giáo dục.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Trách nhiệm của hội đồng trường",
+      "text": "Điều 6. Trách nhiệm của hội đồng trường\nHội đồng trường của các cơ sở giáo dục có trách nhiệm ban hành và giám sát việc thực hiện quy chế dân chủ trong hoạt động của nhà trường.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Trách nhiệm của trưởng các đơn vị trực thuộc và thuộc cơ sở giáo dục",
+      "text": "Điều 7. Trách nhiệm của trưởng các đơn vị trực thuộc và thuộc cơ sở giáo dục\n1. Tham mưu, đề xuất những biện pháp giúp hiệu trưởng thực hiện quy chế dân chủ của cơ sở giáo dục.\n\n2. Chấp hành và tổ chức thực hiện dân chủ trong đơn vị.\n3. Thực hiện nghiêm lề lối làm việc trong đơn vị, giữa các đơn vị với nhau; thực hiện đầy đủ chức năng, nhiệm vụ của đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Trách nhiệm của người đứng đầu đoàn thể, tổ chức và Ban Thanh tra nhân dân trong cơ sở giáo dục",
+      "text": "Điều 8. Trách nhiệm của người đứng đầu đoàn thể, tổ chức và Ban Thanh tra nhân dân trong cơ sở giáo dục\n1. Người đứng đầu đoàn thể, tổ chức trong cơ sở giáo dục có trách nhiệm:\na) Phối hợp với hiệu trưởng trong việc tổ chức, thực hiện quy chế dân chủ trong hoạt động của cơ sở giáo dục;\nb) Nâng cao chất lượng sinh hoạt của các đoàn thể, các tổ chức, dân chủ bàn bạc các chủ trương, biện pháp thực hiện các nhiệm vụ của cơ sở giáo dục.\n2. Ban Thanh tra nhân dân có trách nhiệm giám sát, kiểm tra việc thực hiện quy chế dân chủ, lắng nghe ý kiến của quần chúng, phát hiện những vi phạm quy chế dân chủ trong cơ sở giáo dục, đề nghị hiệu trưởng giải quyết. Trong trường hợp hiệu trưởng không giải quyết hoặc giải quyết không đúng quy định thì báo cáo cấp có thẩm quyền bổ nhiệm hoặc công nhận hiệu trưởng xem xét, quyết định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Những việc hiệu trưởng phải công khai",
+      "text": "Điều 9. Những việc hiệu trưởng phải công khai\n1. Những việc phải công khai để nhà giáo, cán bộ quản lý và người lao động biết:\na) Chủ trương, chính sách của Đảng và pháp luật của Nhà nước liên quan đến hoạt động của cơ sở giáo dục;\nb) Các nội quy, quy chế của cơ sở giáo dục;\nc) Kế hoạch năm học, học kỳ, tháng, tuần; kế hoạch, đề án, dự án, chiến lược định hướng phát triển của cơ sở giáo dục;\nd) Kinh phí hoạt động hằng năm, bao gồm các nguồn kinh phí do ngân sách nhà nước cấp và các nguồn tài chính khác; quyết toán kinh phí hằng năm; tài sản, trang thiết bị; kết quả kiểm toán của cơ sở giáo dục;\nđ) Kế hoạch tuyển dụng, đào tạo, bồi dưỡng; quyết định bổ nhiệm, biệt phái, từ chức, miễn nhiệm, thay đổi chức danh nghề nghiệp, thay đổi vị trí việc làm, đi công tác nước ngoài, giải quyết chế độ, nâng bậc lương, thăng hạng, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với nhà giáo, cán bộ quản lý và người lao động; việc đánh giá, xếp loại, hợp đồng làm việc, chấm dứt hợp đồng làm việc;\n\ne) Các vụ việc tiêu cực, tham nhũng trong cơ sở giáo dục đã được kết luận; bản kê khai tài sản, thu nhập của người có nghĩa vụ phải kê khai theo quy định của pháp luật;\ng) Kết quả thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo trong cơ sở giáo dục;\nh) Kết quả tiếp thu ý kiến của nhà giáo, cán bộ quản lý và người lao động về những vấn đề thuộc thẩm quyền quyết định của hiệu trưởng đưa ra lấy ý kiến nhà giáo, cán bộ quản lý và người lao động quy định tại Điều 11 của Thông tư này;\ni) Văn bản chỉ đạo, điều hành của cơ quan quản lý cấp trên liên quan đến công việc của cơ sở giáo dục.\n2. Những việc phải công khai để người học, cơ quan quản lý nhà nước có thẩm quyền và xã hội tham gia giám sát, đánh giá cơ sở giáo dục theo quy định của pháp luật:\na) Những việc được Bộ trưởng Bộ Giáo dục và Đào tạo quy định tại Quy chế thực hiện công khai đối với cơ sở giáo dục và đào tạo thuộc hệ thống giáo dục quốc dân;\nb) Tất cả các quy định của cơ sở giáo dục liên quan đến việc học tập của người học theo quy định của pháp luật;\nc) Kết quả kiểm định chất lượng giáo dục.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Hình thức, thời điểm và thời gian công khai",
+      "text": "Điều 10. Hình thức, thời điểm và thời gian công khai\n1. Hình thức công khai\nCăn cứ đặc điểm, tính chất hoạt động và nội dung phải công khai, các cơ sở giáo dục áp dụng một, một số hoặc tất cả các hình thức công khai sau đây:\na) Niêm yết tại cơ sở giáo dục;\nb) Thông báo tại hội nghị nhà giáo, cán bộ quản lý, người lao động của cơ sở giáo dục; thông báo tại đối thoại của cơ sở giáo dục;\nc) Thông báo bằng văn bản gửi toàn thể nhà giáo, cán bộ quản lý và người lao động;\nd) Thông báo cho trưởng các đơn vị trực thuộc và thuộc cơ sở giáo dục và yêu cầu đơn vị thông báo đến nhà giáo, cán bộ quản lý và người lao động làm việc trong các đơn vị đó;\nđ) Thông báo bằng văn bản đến cấp ủy, Ban Chấp hành Công đoàn cơ sở giáo dục;\ne) Đăng tải trên trang thông tin điện tử của cơ sở giáo dục;\n\n6\ng) Các quy định liên quan đến việc học tập của người học phải được cơ \nsở giáo dục công khai theo các hình thức phù hợp với nội dung, phương thức, \nđối tượng, quy mô giáo dục, đào tạo.\n2. Thời điểm và thời gian công khai\na) Đối với các những việc phải công khai cho nhà giáo, cán bộ quản lý \nvà người lao động được biết: chậm nhất 03 ngày làm việc. Trường hợp đặc \nbiệt không quá 05 ngày kể từ ngày văn bản có nội dung về các việc phải công \nkhai được ban hành hoặc kể từ ngày nhận được văn bản của cơ quan, đơn vị \ncấp trên, trừ những tài liệu mật theo quy định của pháp luật và trường hợp sử \ndụng hình thức thông báo tại hội nghị nhà giáo, cán bộ quản lý và người lao \nđộng. Đối với văn bản niêm yết tại trụ sở của cơ sở giáo dục thì phải thực hiện \nniêm yết ít nhất 30 ngày liên tục kể từ ngày niêm yết;\nb) Các quy định liên quan đến việc học tập của người học phải được cơ \nsở giáo dục công khai vào tháng 6 hằng năm, đảm bảo đầy đủ, chính xác và \nkịp thời trước khi khai giảng năm học mới hoặc khi có thay đổi nội dung liên \nquan.\n3. Hình thức, thời điểm và thời gian công khai những nội dung khác thuộc \nthẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo được quy định tại Quy chế \nthực hiện công khai đối với cơ sở giáo dục và đào tạo thuộc hệ thống giáo dục \nquốc dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Những việc nhà giáo, cán bộ quản lý, người lao động và",
+      "text": "Điều 11. Những việc nhà giáo, cán bộ quản lý, người lao động và\nngười học tham gia ý kiến trước khi hiệu trưởng quyết định\n1. Những việc nhà giáo, cán bộ quản lý, người lao động tham gia ý kiến:\na) Chủ trương, giải pháp thực hiện nghị quyết của Đảng, pháp luật của \nNhà nước liên quan đến kế hoạch, đề án, dự án, chiến lược, định hướng phát \ntriển của cơ sở giáo dục;\nb) Kế hoạch năm học, học kỳ, tháng của cơ sở giáo dục;\nc) Tổ chức phong trào thi đua của cơ sở giáo dục;\nd) Báo cáo sơ kết, tổng kết của cơ sở giáo dục;\nđ) Các biện pháp cải tiến tổ chức, hoạt động và lề lối làm việc; phòng, \nchống tham nhũng, thực hành tiết kiệm, chống lãng phí, chống quan liêu, \nphiền hà, sách nhiễu nhân dân;\ne) Kế hoạch tuyển dụng, đào tạo, bồi dưỡng nhà giáo, cán bộ quản lý và \nngười lao động; \n\n7\ng)\n\nThực hiện các chế độ, chính sách liên quan đến quyền và lợi ích của \nnhà giáo, cán bộ quản lý, người lao động;\nh) Các nội quy, quy chế của cơ sở giáo dục.\n2. Những việc người học tham gia ý kiến:\na) Kế hoạch giáo dục và đào tạo hằng năm của cơ sở giáo dục;\nb) Những thông tin có liên quan đến học tập, rèn luyện, sinh hoạt và các \nkhoản đóng góp theo quy định;\nc) Chế độ chính sách của Nhà nước;\nd) Nội quy, quy định của cơ sở giáo dục có liên quan đến người học;\nđ) Tổ chức phong trào thi đua và các hoạt động khác trong cơ sở giáo \ndục có liên quan đến người học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Hình thức tham gia ý kiến",
+      "text": "Điều 12. Hình thức tham gia ý kiến\nCăn cứ đặc điểm, tính chất và nội dung hoạt động, các cơ sở giáo dục áp \ndụng những hình thức sau:\n1. Tham gia ý kiến trực tiếp hoặc thông qua người đại diện với hiệu \ntrưởng.\n2. Thông qua hội nghị nhà giáo, cán bộ quản lý và người lao động của \ncơ sở giáo dục; thông qua đối thoại tại cơ sở giáo dục.\n3. Phát phiếu hỏi ý kiến trực tiếp, gửi dự thảo văn bản để nhà giáo, cán \nbộ quản lý giáo dục, người lao động và người học tham gia ý kiến.\n4. Thông qua hộp thư điện tử của đơn vị để nhà giáo, cán bộ quản lý,\nngười lao động và người học tham gia ý kiến.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Những việc nhà giáo, cán bộ quản lý, người lao động tham",
+      "text": "Điều 13. Những việc nhà giáo, cán bộ quản lý, người lao động tham\ngia giám sát, kiểm tra\n1. Thực hiện chủ trương của Đảng, chính sách, pháp luật của Nhà nước, \nkế hoạch công tác hằng năm của cơ sở giáo dục.\n2. Công tác tài chính, quản lý và sử dụng tài sản; xây dựng cơ sở vật \nchất của cơ sở giáo dục; việc thu chi các khoản đóng góp của người học, các \nkhoản tài trợ cho cơ sở giáo dục.\n3. Thực hiện các nội quy, quy chế của cơ sở giáo dục.\n4. Thực hiện các chế độ, chính sách của Nhà nước về quyền và lợi ích của \nnhà giáo, cán bộ quản lý, người lao động, người học trong cơ sở giáo dục.\n5. Giải quyết khiếu nại, tố cáo trong cơ sở giáo dục. \n\n8",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Hình thức giám sát, kiểm tra",
+      "text": "Điều 14. Hình thức giám sát, kiểm tra\nCơ sở giáo dục tổ chức để nhà giáo, cán bộ quản lý và người lao động \ngiám sát, kiểm tra thông qua các hình thức sau:\n1. Thông qua hoạt động của Ban Thanh tra nhân dân của cơ sở giáo dục.\n2. Thông qua kiểm điểm công tác, tự phê bình và phê bình trong các \ncuộc họp định kỳ của cơ sở giáo dục.\n3. Thông qua hội nghị nhà giáo, cán bộ quản lý và người lao động.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Trách nhiệm của hiệu trưởng",
+      "text": "Điều 15. Trách nhiệm của hiệu trưởng\n1. Tổ chức, chỉ đạo và kiểm tra việc niêm yết công khai tại cơ sở giáo \ndục và đăng tải trên trang thông tin điện tử của cơ sở giáo dục để công dân, cơ \nquan, đơn vị, tổ chức (sau đây gọi chung là công dân, tổ chức) biết các nội \ndung sau:\na) Bộ phận chịu trách nhiệm giải quyết công việc có liên quan;\nb) Thủ tục hành chính giải quyết công việc;\nc) Mẫu đơn từ, hồ sơ cho từng loại công việc;\nd) Phí, lệ phí theo quy định;\nđ) Thời gian giải quyết từng loại công việc.\n2. Chỉ đạo và kiểm tra nhà giáo, cán bộ quản lý và người lao động trong \nviệc giải quyết công việc của công dân, tổ chức; kịp thời có biện pháp xử lý \nthích hợp theo quy định của pháp luật đối với những nhà giáo, cán bộ quản lý, \nngười lao động không hoàn thành nhiệm vụ, thiếu tinh thần trách nhiệm, sách \nnhiễu, gây phiền hà, tham nhũng trong việc giải quyết công việc của công dân, \ntổ chức.\n3. Chỉ đạo việc bố trí nơi tiếp công dân, thực hiện việc tiếp công dân và \nbố trí hòm thư góp ý (trực tiếp hoặc qua hòm thư điện tử); chỉ đạo người phụ \ntrách công tác hành chính của cơ sở giáo dục cùng đại diện Ban Thanh tra \nnhân dân nghiên cứu các ý kiến góp ý, báo cáo hiệu trưởng xem xét, giải \nquyết.\n4. Cử người có trách nhiệm gặp và giải quyết công việc có liên quan \nkhi công dân, tổ chức có yêu cầu theo quy định của pháp luật; những kiến \nnghị, phản ánh, phê bình của công dân, tổ chức phải được nghiên cứu và xử lý \nkịp thời.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Trách nhiệm của nhà giáo, cán bộ quản lý và người lao động",
+      "text": "Điều 16. Trách nhiệm của nhà giáo, cán bộ quản lý và người lao động \n\n9\n\n1. Tiếp nhận thông tin; giải quyết các công việc của công dân, tổ chức \ncó liên quan tại trụ sở của cơ sở giáo dục; bảo vệ bí mật nhà nước, bí mật công \ntác và bí mật về người cung cấp thông tin theo quy định của pháp luật.\n2. Khi công dân, tổ chức yêu cầu, có trách nhiệm giải quyết các yêu cầu \nđó theo thẩm quyền và quy định. Những việc không thuộc thẩm quyền giải \nquyết, phải thông báo để công dân, tổ chức biết và hướng dẫn công dân, tổ \nchức đến nơi có thẩm quyền giải quyết. Không được quan liêu, hách dịch, cửa \nquyền, tham nhũng, gây khó khăn, phiền hà, sách nhiễu trong khi giải quyết \ncông việc của công dân, tổ chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Đối thoại tại cơ sở giáo dục",
+      "text": "Điều 17. Đối thoại tại cơ sở giáo dục\n1. Đối thoại tại cơ sở giáo dục được thực hiện thông qua việc trao đổi \ntrực tiếp giữa nhà giáo, cán bộ quản lý, người lao động, người học với hiệu \ntrưởng hoặc giữa đại diện tập thể lao động, đại diện người học với hiệu trưởng. \nĐối thoại tại cơ sở giáo dục được thực hiện định kỳ ít nhất mỗi năm học một \nlần hoặc khi một bên có yêu cầu.\n2. Nội dung đối thoại, số lượng, thành phần tham gia đối thoại, thời \ngian, thời điểm đối thoại, quy trình tổ chức đối thoại thực hiện theo quy chế \ndân chủ của cơ sở giáo dục.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Quan hệ giữa hiệu trưởng với cơ quan quản lý cấp trên",
+      "text": "Điều 18. Quan hệ giữa hiệu trưởng với cơ quan quản lý cấp trên\n1. Phục tùng sự chỉ đạo của cơ quan quản lý cấp trên, thực hiện chế độ \nbáo cáo định kỳ đúng quy định, kịp thời, nghiêm túc.\n2. Kịp thời phản ánh những vướng mắc, khó khăn và kiến nghị những \nbiện pháp khắc phục để cơ quan quản lý cấp xem xét giải quyết.\n3. Phản ánh những vấn đề chưa rõ trong chỉ đạo của cấp trên, góp ý, phê \nbình cơ quan quản lý cấp trên bằng văn bản hoặc thông qua đại diện. Trong khi \ný kiến lên cấp trên chưa được giải quyết, cơ sở giáo dục vẫn phải nghiêm túc \nchấp hành và thực hiện chỉ đạo của cấp trên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Quan hệ giữa hiệu trưởng với đơn vị trực thuộc và thuộc cơ",
+      "text": "Điều 19. Quan hệ giữa hiệu trưởng với đơn vị trực thuộc và thuộc cơ \nsở giáo dục\nTiếp nhận, xem xét và kịp thời giải quyết các kiến nghị, các vấn đề phát \nsinh liên quan đến việc thực hiện dân chủ; định kỳ làm việc với người đứng \nđầu các đơn vị. Khi người đứng đầu đơn vị đăng ký làm việc với các nội dung, \ncông việc cụ thể thì phải trả lời về kế hoạch làm việc hoặc lý do từ chối.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Quan hệ giữa hiệu trưởng với chính quyền địa phương",
+      "text": "Điều 20. Quan hệ giữa hiệu trưởng với chính quyền địa phương\nHiệu trưởng có trách nhiệm đảm bảo mối quan hệ chặt chẽ với chính \nquyền địa phương để phối hợp giải quyết những công việc có liên quan đến \ncông tác giáo dục trong nhà trường và quyền lợi của người học.\n\n10",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 21. Tổ chức thực hiện\n1. Trước ngày 15 tháng 11 hằng năm, cơ sở giáo dục gửi báo cáo tình \nhình thực hiện dân chủ tại đơn vị của năm học trước liền kề về cơ quan quản \nlý cấp trên để theo dõi và tổng hợp báo cáo.\n2. Xây dựng và thực hiện quy chế dân chủ trong hoạt động của cơ sở \ngiáo dục:\na) Căn cứ quy định tại Thông tư này và các quy định của pháp luật có \nliên quan, cơ sở giáo dục rà soát, sửa đổi, bổ sung hoặc xây dựng mới quy chế \ndân chủ;\nb) Hiệu trưởng, nhà giáo, cán bộ quản lý, người lao động, người học, các \nđơn vị, tổ chức có liên quan tổ chức thực hiện quy chế dân chủ trong hoạt động \ncủa cơ sở giáo dục;\nc) Cơ sở giáo dục, cá nhân, đơn vị và tổ chức thực hiện tốt quy chế dân \nchủ sẽ được khen thưởng; vi phạm quy chế dân chủ sẽ bị xử lý theo các quy \nđịnh của pháp luật;\nd) Cơ sở giáo dục dân lập, tư thục vận dụng quy định tại Thông tư này \nđể áp dụng cho phù hợp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Hiệu lực và trách nhiệm thi hành",
+      "text": "Điều 22. Hiệu lực và trách nhiệm thi hành\n1. Thông tư có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020 và thay \nthế Quyết định số 04/2000/QĐ-BGDĐT ngày 01 tháng 3 năm 2000 của Bộ \ntrưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế thực hiện dân chủ \ntrong hoạt động của nhà trường.\n2. Chánh Văn phòng Bộ, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các \nđơn vị thuộc Bộ Giáo dục và Đào tạo, giám đốc các sở giáo dục và đào tạo, \nhiệu trưởng cơ sở giáo dục chịu trách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

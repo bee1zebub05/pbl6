@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0173_2390_QĐ-ĐHĐN_Quyết định 2390_QĐ-ĐHĐN Quy chế nâng bậc lương trước thời hạn do lập thành tích xu.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2390/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức và người lao động của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/07/2021",
+    "effectiveDate": "01/07/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức và người lao động của Đại học Đà Nẵng, quy định rõ nguyên tắc, thẩm quyền, tiêu chuẩn, tỷ lệ, thời gian, quy trình và hồ sơ thủ tục thực hiện.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "204/2004/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang;"
+    },
+    {
+      "targetDocumentNumber": "17/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 17/2013/NĐ-CP ngày 19/02/2013 và Nghị định số 117/2016/NĐ-CP ngày 21/7/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 204/2004/NĐ-CP ngày 14/12/2004;"
+    },
+    {
+      "targetDocumentNumber": "117/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 17/2013/NĐ-CP ngày 19/02/2013 và Nghị định số 117/2016/NĐ-CP ngày 21/7/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 204/2004/NĐ-CP ngày 14/12/2004;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2013/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2013/TT-BNV ngày 31/7/2013 của Bộ trưởng Bộ Nội vụ hướng dẫn thực hiện chế độ nâng bậc lương thường xuyên và nâng bậc lương trước thời hạn đối với cán bộ, công chức, viên chức và người lao động;"
+    },
+    {
+      "targetDocumentNumber": "2907/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2907/QĐ-ĐHĐN ngày 27/8/2018 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế nâng bậc lương trước thời hạn cho công chức, viên chức và người lao động của Đại học Đà Nẵng do lập thành tích xuất sắc trong thực hiện nhiệm vụ."
+    },
+    {
+      "targetDocumentNumber": "68/2000/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Viên chức và người lao động của Đại học Đà Nẵng (ĐHĐN) đã ký hợp đồng theo Nghị định 68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp công lập"
+    }
+  ],
+  "mentions": [
+    "Đảng ủy Đại học Đà Nẵng",
+    "Công đoàn Đại học Đà Nẵng",
+    "Ban Tổ chức Cán bộ",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Nội vụ",
+    "Tổng Liên đoàn Lao động Việt Nam",
+    "Trung ương Đoàn",
+    "Công đoàn Giáo dục Việt Nam"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức và người lao động của Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về chế độ nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ gồm: Nguyên tắc áp dụng; tiêu chuẩn, điều kiện; tỷ lệ; thẩm quyền; thời gian, cấp độ thành tích; chế độ ưu tiên; quy trình, hồ sơ thủ tục xét nâng bậc lương trước thời hạn.\n2. Đối tượng áp dụng\nViên chức và người lao động của Đại học Đà Nẵng (ĐHĐN) đã ký hợp đồng theo Nghị định 68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp công lập (sau đây gọi là người lao động), đã được xếp lương theo thang bảng lương do Nhà nước quy định, đã lập thành tích xuất sắc trong thực hiện nhiệm vụ và được cấp có thẩm quyền công nhận thành tích bằng văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc áp dụng",
+          "text": "Điều 2. Nguyên tắc áp dụng\n1. Bảo đảm tính chính xác, công bằng, dân chủ, công khai, kịp thời, đúng quy trình và thẩm quyền theo quy định.\n2. Việc nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ phải căn cứ vào thành tích đạt được theo quá trình và được bình xét theo năm học. Thành tích đã được tính để xét nâng bậc lương trước thời hạn lần này thì không được tính để nâng bậc lương trước thời hạn lần sau.\n3. Không thực hiện hai lần liên tiếp nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ.\n4. Trong một năm, chỉ thực hiện xét nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ 01 (một) lần vào đợt xét nâng bậc lương cuối năm.\n5. Trường hợp viên chức và người lao động vừa thuộc đối tượng được xét nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ,\n\nvừa có thông báo nghỉ hưu, thì được chọn một trong hai chế độ để đề nghị nâng bậc lương trước thời hạn.\n6. Chỉ sử dụng các danh hiệu thi đua, hình thức khen thưởng được bình chọn theo năm học (hoặc theo năm đối với Bằng khen của Trung ương Đoàn, Tổng Liên đoàn Lao động Việt Nam) trong việc xét nâng bậc lương trước thời hạn. Các hình thức khen thưởng khác (đột xuất, đợt, giai đoạn, chuyên đề hoặc theo năm) được sử dụng để xét thứ tự ưu tiên theo quy định tại Điều 7 của Quy chế này.\n7. Chỉ sử dụng 01 danh hiệu thi đua hoặc hình thức khen thưởng cao nhất, không thực hiện cộng dồn cấp độ thành tích trong việc xét nâng lương trước thời hạn.\n8. Được tập thể đơn vị công tác bình chọn, đề xuất.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Thẩm quyền quyết định nâng bậc lương trước thời hạn",
+          "text": "Điều 3. Thẩm quyền quyết định nâng bậc lương trước thời hạn\nTrên cơ sở ý kiến của Hội đồng xét nâng bậc lương của ĐHĐN:\n1. Giám đốc ĐHĐN đề nghị Bộ trưởng Bộ Giáo dục và Đào tạo quyết định nâng bậc lương trước thời hạn cho giảng viên cao cấp, chuyên viên cao cấp và tương đương trong toàn ĐHĐN.\n2. Giám đốc ĐHĐN quyết định nâng bậc lương trước thời hạn cho: Giảng viên chính, chuyên viên chính và tương đương trong toàn ĐHĐN; viên chức và người lao động của các đơn vị thuộc, trực thuộc ĐHĐN.\n3. Hiệu trưởng các trường đại học thành viên quyết định nâng bậc lương trước thời hạn cho giảng viên, chuyên viên và các chức danh nghề nghiệp còn lại của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tiêu chuẩn, điều kiện",
+          "text": "Điều 4. Tiêu chuẩn, điều kiện\nĐể được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ, viên chức và người lao động phải đáp ứng đầy đủ các tiêu chuẩn, điều kiện sau:\n1. Tiêu chuẩn\na) Tiêu chuẩn 1: Trong thời gian giữ bậc lương phải được cấp có thẩm quyền đánh giá, xếp loại chất lượng đạt mức hoàn thành nhiệm vụ trở lên và trong năm đề nghị xét nâng bậc lương trước thời hạn phải được đánh giá, xếp loại đạt mức hoàn thành tốt nhiệm vụ trở lên.\nb) Tiêu chuẩn 2: Không bị xử lý kỷ luật của Đảng, chính quyền hoặc các tổ chức đoàn thể trong thời gian giữ bậc lương từ hình thức khiển trách trở lên.\n2. Điều kiện\na) Viên chức và người lao động đạt đủ 02 tiêu chuẩn quy định tại khoản 1 Điều này và lập thành tích xuất sắc trong thực hiện nhiệm vụ đã được cấp có thẩm quyền quyết định công nhận bằng văn bản, nếu chưa xếp bậc lương cuối cùng\n\ntrong chức danh nghề nghiệp thì được xem xét, đề nghị nâng bậc lương trước thời hạn.\nb) Tính đến ngày 31 tháng 12 của năm xét nâng bậc lương trước thời hạn còn thiếu từ 12 tháng trở xuống để được nâng bậc lương thường xuyên thì được xét nâng bậc lương trước thời hạn tối đa là 12 tháng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tỷ lệ tối đa nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ",
+          "text": "Điều 5. Tỷ lệ tối đa nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ\n1. Tỷ lệ tối đa viên chức và người lao động (trừ đã có thông báo nghỉ hưu) được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ trong một năm không vượt quá 10% tổng số viên chức, người lao động tính trong danh sách trả lương vào tháng 12 của năm xét nâng bậc lương trước thời hạn của trường đại học thành viên hoặc Khối Cơ quan ĐHĐN.\n2. Cách tính tỷ lệ được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ được thực hiện theo đúng quy định tại Điều 3 Thông tư số 08/2013/TT-BNV ngày 31/7/2013 của Bộ Nội vụ “Hướng dẫn thực hiện chế độ nâng bậc lương thường xuyên và nâng bậc lương trước thời hạn đối với cán bộ, công chức, viên chức và người lao động”.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Thời gian, cấp độ thành tích được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ",
+          "text": "Điều 6. Thời gian, cấp độ thành tích được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ\n1. Xác định thời điểm có thành tích để xét nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ:\na) Thành tích để xét nâng bậc lương trước thời hạn được tính trong khoảng thời gian 06 năm kể từ thời điểm ban hành Quyết định công nhận thành tích đối với trường hợp hưởng lương chuyên viên (cao đẳng) và tương đương trở lên hoặc hưởng lương theo chức danh nghề nghiệp hạng III trở lên và 04 năm đối với các trường hợp hưởng lương cán sự và tương đương, lương nhân viên thừa hành phục vụ hoặc hưởng lương theo chức danh nghề nghiệp hạng IV trở xuống, tính đến ngày 31 tháng 12 của năm xét nâng bậc lương trước thời hạn.\nb) Trường hợp đã được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ thì tất cả các thành tích đạt được trước ngày có Quyết định nâng bậc lương trước thời hạn không được tính để xét nâng bậc lương trước thời hạn lần sau.\n2. Xét nâng bậc lương trước thời hạn 12 (mười hai) tháng cho viên chức và người lao động khi đạt một trong các danh hiệu thi đua hoặc hình thức khen thưởng sau:\na) Huân chương các hạng.\nb) Anh hùng Lao động; Giải thưởng Hồ Chí Minh, Giải thưởng Nhà nước; Nhà giáo Nhân dân; Nhà giáo Ưu tú.\nc) Bằng khen của Thủ tướng Chính phủ.\nd) Chiến sĩ thi đua toàn quốc.\nđ) Chiến sĩ thi đua cấp Bộ.\n\n3. Xét nâng bậc lương trước thời hạn 09 (chín) tháng đối với viên chức và người lao động khi đạt một trong các danh hiệu thi đua hoặc hình thức khen thưởng sau:\na) Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo khen thưởng theo năm học.\nb) Bằng khen toàn diện hoặc Bằng Lao động sáng tạo của Tổng Liên đoàn Lao động Việt Nam.\n4. Xét nâng bậc lương trước thời hạn 06 (sáu) tháng cho viên chức và người lao động khi đạt một trong các danh hiệu thi đua hoặc hình thức khen thưởng sau:\na) Bằng khen do Trung ương Đoàn xét, tặng theo năm học hoặc Bằng khen tặng kèm theo Giải thưởng “Gương mặt trẻ Việt Nam tiêu biểu”.\nb) Bằng khen toàn diện của Công đoàn Giáo dục Việt Nam.\nc) Giấy khen của Giám đốc ĐHĐN được khen thưởng theo năm học.\nd) Chiến sĩ thi đua cơ sở.\n5. Xét nâng bậc lương trước thời hạn 03 (ba) tháng đối với viên chức và người lao động có Giấy khen của Hiệu trưởng các trường đại học thành viên khen thưởng theo năm học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Thứ tự ưu tiên trong nâng bậc lương trước thời hạn",
+          "text": "Điều 7. Thứ tự ưu tiên trong nâng bậc lương trước thời hạn\n1. Trong đợt xét nâng bậc lương trước thời hạn, nếu có số người đủ tiêu chuẩn nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ nhiều hơn tỷ lệ theo quy định thì xét theo thứ tự ưu tiên như sau:\na) Người có hệ số lương thấp (được so sánh trong danh sách đề nghị nâng bậc lương trước thời hạn tại năm xét).\nb) Người có danh hiệu thi đua hoặc hình thức khen thưởng cao hơn.\nc) Người có nhiều thành tích hơn.\n2. Trường hợp có từ 02 người trở lên đạt thành tích ngang nhau nhưng không đủ chỉ tiêu để nâng bậc lương trước thời hạn cho tất cả thì xét theo thứ tự ưu tiên như sau:\na) Người chưa được nâng bậc lương trước thời hạn lần nào.\nb) Người có danh hiệu thi đua hoặc hình thức khen thưởng còn thời hạn bảo lưu ít hơn.\nc) Viên chức, người lao động là nữ.\nd) Người có tuổi cao hơn, nếu không nâng lương trước thời hạn đợt này thì không còn điều kiện để được nâng lương trước thời hạn lần sau.\nđ) Người có thời gian công tác tại ĐHĐN nhiều hơn.\ne) Người có các thành tích nổi bật được khen thưởng đột xuất, theo đợt, theo giai đoạn, theo chuyên đề hoặc theo năm.\n\n5",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quy trình, hồ sơ, thủ tục",
+          "text": "Điều 8. Quy trình, hồ sơ, thủ tục\n\n1. Tháng 12 hằng năm, các trường đại học thành viên, các đơn vị thuộc, trực thuộc ĐHĐN phối hợp với Ban Tổ chức Cán bộ ĐHĐN xác định chỉ tiêu tối đa nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong năm xét nâng bậc lương, bảo đảm không vượt quá tỷ lệ 10% tổng số viên chức và người lao động trong danh sách trả lương của cơ quan, đơn vị và trình Giám đốc ĐHĐN xem xét, quyết định.\n\n2. Các trường đại học thành viên, Cơ quan ĐHĐN thành lập Hội đồng xét nâng bậc lương cấp cơ sở để tổ chức xét điều kiện tiêu chuẩn và thông qua danh sách đề nghị nâng bậc lương trước thời hạn, trình Hội đồng xét nâng bậc lương cấp ĐHĐN xem xét, phê duyệt theo quy định (cuộc họp Hội đồng được ghi thành biên bản có xác nhận của Chủ tịch Hội đồng, đại diện Đảng ủy, Công đoàn và Thư ký).\n\n3. Hội đồng xét nâng bậc lương ĐHĐN có sự tham gia của đại diện Đảng ủy ĐHĐN và Công đoàn ĐHĐN do Giám đốc ĐHĐN quyết định thành lập, tổ chức họp để xét điều kiện, tiêu chuẩn và thông qua danh sách nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ (cuộc họp Hội đồng được ghi thành biên bản có xác nhận của Chủ tịch Hội đồng, đại diện Đảng ủy, Công đoàn và Thư ký).\n\n4. Sau khi có ý kiến của Hội đồng xét nâng bậc lương cấp ĐHĐN, các đơn vị thông báo niêm yết công khai danh sách viên chức và người lao động được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thời hạn 10 ngày làm việc; tiếp thu các ý kiến, tổng hợp và giải trình các ý kiến về danh sách nâng bậc lương trước thời hạn của đơn vị (nếu có). Sau thời hạn niêm yết, Giám đốc ĐHĐN và Hiệu trưởng các trường đại học thành viên ban hành quyết định nâng bậc lương trước thời hạn theo thẩm quyền.\n\n5. Hồ sơ đề nghị nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với giảng viên cao cấp và tương đương: 04 bộ/1 người; đối với chức danh nghề nghiệp còn lại: 01 bộ/1 người, gồm:\n\na) Văn bản đề nghị của đơn vị.\nb) Biên bản họp Hội đồng xét nâng bậc lương, trong đó có ý kiến của cấp ủy Đảng, Ban Chấp hành Công đoàn cùng cấp.\nc) Danh sách viên chức và người lao động đề nghị nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ.\nd) Bản sao y bản chính quyết định công nhận (tặng thưởng) thành tích xuất sắc của cấp có thẩm quyền.\nđ) Bản sao y bản chính quyết định nâng bậc lương gần nhất hoặc quyết định bổ nhiệm hạng chức danh nghề nghiệp (đối với trường hợp mới bổ nhiệm chức danh nghề nghiệp).\n\n6\n\ne)\n\nBản tóm tắt diễn biến quá trình 03 mốc thời điểm nâng bậc lương gần nhất của giảng viên cao cấp (nếu có).\n\nGhi chú: Đối với văn phòng, các ban chức năng chỉ thực hiện từ điểm b đến điểm e khoản 5 Điều này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hiệu lực thi hành và tổ chức thực hiện",
+          "text": "Điều 9. Hiệu lực thi hành và tổ chức thực hiện\n\n1. Quy chế này có hiệu lực kể từ ngày ký. Bãi bỏ Quyết định số 2907/QĐ-ĐHĐN ngày 27/8/2018 của Giám đốc ĐHĐN ban hành Quy chế nâng bậc lương trước thời hạn cho công chức, viên chức và người lao động của ĐHĐN do lập thành tích xuất sắc trong thực hiện nhiệm vụ.\n\n2. Ban Tổ chức Cán bộ ĐHĐN:\na) Thẩm định hồ sơ các đối tượng quy định tại khoản 1 và khoản 2 Điều 3 của Quy chế này trình cấp có thẩm quyền xem xét quyết định.\nb) Tổ chức thanh tra, kiểm tra việc nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ của các trường đại học thành viên.\nc) Hàng năm tổng hợp danh sách viên chức và người lao động được nâng bậc lương trước thời hạn do lập thành tích xuất sắc báo cáo Bộ Giáo dục và Đào tạo theo quy định.\n\n3. Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN:\na) Tổ chức thực hiện các quy định của pháp luật và của ĐHĐN về việc nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ.\nb) Hàng năm tổng hợp danh sách những viên chức và người lao động được nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ của đơn vị báo cáo ĐHĐN để tổng hợp, báo cáo Bộ Giáo dục và Đào tạo theo quy định.\n\n4. Trong quá trình thực hiện Quy chế này, nếu có vướng mắc, phát sinh, cần điều chỉnh cho phù hợp với điều kiện thực tế và quy định hiện hành, các trường đại học thành viên, đơn vị thuộc, trực thuộc ĐHĐN và cá nhân phản ánh về ĐHĐN (qua Ban Tổ chức Cán bộ) để báo cáo Giám đốc ĐHĐN xem xét, quyết định./.\n\n[Đã ký và đóng dấu]",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức và người lao động của Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức và người lao động của Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2907/QĐ-ĐHĐN ngày 27/8/2018 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế nâng bậc lương trước thời hạn cho công chức, viên c",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2907/QĐ-ĐHĐN ngày 27/8/2018 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế nâng bậc lương trước thời hạn cho công chức, viên chức và người lao động của Đại học Đà Nẵng do lập thành tích xuất sắc trong thực hiện nhiệm vụ.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc, trực thuộc căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc, trực thuộc căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

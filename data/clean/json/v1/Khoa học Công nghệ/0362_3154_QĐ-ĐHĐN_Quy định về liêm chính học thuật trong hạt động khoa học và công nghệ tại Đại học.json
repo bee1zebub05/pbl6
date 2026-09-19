@@ -1,0 +1,209 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0362_3154_QĐ-ĐHĐN_Quy định về liêm chính học thuật trong hạt động khoa học và công nghệ tại Đại học.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3154/QĐ-ĐHĐN",
+    "title": "Quyết định về liêm chính học thuật trong hoạt động khoa học và công nghệ tại Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/08/2024",
+    "effectiveDate": "08/08/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Pháp chế"
+    ],
+    "summary": "Quyết định ban hành Quy định về liêm chính học thuật trong hoạt động khoa học và công nghệ tại Đại học Đà Nẵng, bao gồm các quy tắc liêm chính, tổ chức và hoạt động của Hội đồng Liêm chính khoa học các cấp, cũng như việc giải quyết các kiến nghị, tố giác vi phạm.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "109/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 109/2022/NĐ-CP ngày 30/12/2022 của Chính phủ về việc ban hành quy định về hoạt động khoa học và công nghệ trong cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4766/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Phân hiệu ĐHĐN tại Kon Tum",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh",
+    "Trường Y - Dược"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về liêm chính học thuật trong hoạt động khoa học và công nghệ tại Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh, đối tượng áp dụng và mục tiêu của quy định",
+          "text": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng và mục tiêu của quy định\n1. Văn bản này quy định về liêm chính học thuật trong hoạt động khoa học và công nghệ tại Đại học Đà Nẵng (sau đây gọi là liêm chính khoa học) bao gồm: các quy tắc liêm chính khoa học trong đề xuất, tuyển chọn, thực hiện các nhiệm vụ khoa học và công nghệ (KH&CN), phản biện và đánh giá khoa học, báo cáo và công bố khoa học, khen thưởng, tài chính khoa học; Hội đồng Liêm chính khoa học; giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học.\n2. Quy định này áp dụng đối với các công bố khoa học của viên chức, người lao động, người học tại Đại học Đà Nẵng (ĐHĐN), các nhiệm vụ KH&CN cấp ĐHĐN và cấp cơ sở. Đối với các nhiệm vụ KH&CN cấp bộ, cấp tỉnh, cấp quốc gia và nhiệm vụ KH&CN khác không thuộc thẩm quyền quản lý của ĐHĐN, các vi phạm sẽ được ĐHĐN báo cáo, trao đổi bằng văn bản đến các cấp quản lý nhiệm vụ.\n3. Quy định này áp dụng đối với viên chức, người lao động, người học tham gia hoạt động KH&CN tại ĐHĐN.\n4. Quy định này được ban hành nhằm xây dựng một môi trường hoạt động KH&CN liêm chính, lành mạnh, thực chất tại ĐHĐN; nâng cao uy tín học thuật của ĐHĐN trong cộng đồng khoa học và xã hội.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. Liêm chính khoa học là cách hành xử trung thực, minh bạch, công bằng và có trách nhiệm trong hoạt động KH&CN.\n2. Hành vi vi phạm liêm chính khoa học bao gồm (nhưng không giới hạn): đạo văn, bịa đặt và gian lận.\n3. Đạo văn là việc sử dụng các ý tưởng, đoạn văn, câu văn, số liệu hoặc tài sản trí tuệ của người khác hoặc của chính mình đã công bố trước đó mà không trích dẫn nguồn.\n4. Bịa đặt là hành vi cố tình trình bày sai lệch hoặc tạo dựng bất kỳ thông tin, dữ liệu hay trích dẫn nào không có thật trong hoạt động KH&CN.\n5. Gian lận là hành vi sử dụng các hình thức gian dối, ngụy tạo, đánh lừa, và/hoặc thể hiện, trình bày, khai báo không đúng sự thật về hoạt động KH&CN của bản thân hoặc người khác. Gian lận bao gồm:\n- Sử dụng các công cụ trí tuệ nhân tạo ngoài mục đích cải thiện ngôn ngữ và độ dễ hiểu của bản thảo nghiên cứu;\n- Tiếp cận, sử dụng và khai thác thông tin, kết quả nghiên cứu của người khác khi chưa có sự cho phép của người đó và không có trích dẫn nguồn;\n- Giả mạo hồ sơ khoa học, sử dụng hồ sơ khoa học không hợp pháp;\n- Mua, bán, trao đổi các kết quả nghiên cứu khoa học trái với các quy định của pháp luật Việt Nam về hoạt động chuyển giao công nghệ;\n- Các hành vi khác theo kết luận của Hội đồng Liêm chính khoa học.\n6. Nhiệm vụ KH&CN bao gồm đề tài, dự án, các nhiệm vụ KH&CN được thực hiện bằng ngân sách nhà nước hoặc nguồn ngân sách khác.\n7. Báo cáo khoa học bao gồm báo cáo định kỳ, báo cáo tổng kết nhiệm vụ KH&CN và báo cáo khác về kết quả KH&CN thực hiện theo các quy định quản lý.\n8. Công bố khoa học gồm bài báo khoa học được công bố trên các tạp chí trong nước và quốc tế; bài tham luận, báo cáo khoa học trong các kỷ yếu hội thảo khoa học trong nước và quốc tế có phản biện; sách/chương sách chuyên khảo, sách tham khảo, sách giáo trình; các sản phẩm khác có quyền tác giả, phát minh, sáng chế và giải pháp hữu ích theo quy định của Luật Sở hữu trí tuệ.\n9. Mức độ trùng lặp là mức độ giống nhau về nội dung giữa các sản phẩm khoa học của các tác giả khác nhau hoặc của cùng một tác giả. Mức độ giống nhau được xác định qua nội dung các câu văn, đoạn văn giống nhau về nội dung giữa các sản phẩm được đối sánh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Quan điểm về thực hành liêm chính khoa học",
+          "text": "Điều 3. Quan điểm về thực hành liêm chính khoa học\n1. Liêm chính khoa học liên quan đến phẩm chất, đạo đức của nhà giáo, nhà khoa học; đòi hỏi trước hết sự nhận thức và tự giác tuân thủ của mỗi cá nhân.\n2. Phòng ngừa vi phạm liêm chính khoa học quan trọng hơn xử lý vi phạm, do đó thường xuyên nâng cao nhận thức về liêm chính khoa học là nhiệm vụ chủ yếu.\n3. Khi đã có hành vi vi phạm các quy tắc liêm chính khoa học quy định tại Chương II cần thiết phải có biện pháp xử lý đúng mức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Liêm chính trong đề xuất và tham gia tuyển chọn đề xuất nhiệm vụ khoa học và công nghệ",
+          "text": "Điều 4. Liêm chính trong đề xuất và tham gia tuyển chọn đề xuất nhiệm vụ khoa học và công nghệ\n1. Không sao chép, lấy lại đề xuất của người khác làm đề xuất của mình khi chưa được cho phép. Việc cho phép/đồng ý phải kèm theo văn bản đồng ý cho phép sử dụng, sao chép đề xuất của tác giả.\n2. Không tự ý đưa tên người khác vào trong danh sách thành viên nghiên cứu, hồ sơ đề tài, nhiệm vụ KH&CN khi chưa được phép của người đó.\n3. Không sử dụng quyền lực, mối quan hệ hay vật chất để tác động vào việc tuyển chọn, dẫn đến sự cạnh tranh không lành mạnh.\n4. Đảm bảo bảo mật thông tin khi đề xuất và tham gia tuyển chọn đề xuất nhiệm vụ KH&CN theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Liêm chính trong quá trình thực hiện nhiệm vụ khoa học và công nghệ",
+          "text": "Điều 5. Liêm chính trong quá trình thực hiện nhiệm vụ khoa học và công nghệ\n1. Thực hiện đầy đủ nội dung, phương pháp nghiên cứu theo đề cương đã được phê duyệt và tuân thủ đúng các quy định quản lý.\n2. Không đạo văn, gian lận, bịa đặt, ngụy tạo đối tượng, khách thể nghiên cứu, dữ liệu nghiên cứu.\n3. Minh bạch trong thực hiện nghiên cứu, giải trình thỏa đáng lý do với các bên liên quan những vấn đề không thể công khai.\n4. Tôn trọng sự đóng góp vào nghiên cứu của khách thể, cá nhân và tổ chức có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Liêm chính trong báo cáo khoa học và công bố khoa học",
+          "text": "Điều 6. Liêm chính trong báo cáo khoa học và công bố khoa học\n1. Không được đạo văn, gian lận, bịa đặt thông tin, dữ liệu trong báo cáo và công bố khoa học.\n2. Ghi nhận đầy đủ, đúng mức sự đóng góp của tất cả thành viên đối với sản phẩm thực hiện và thể hiện trong sản phẩm theo thông lệ.\n3. Tuân thủ đúng việc tuyên bố quyền tác giả theo quy định khi công bố.\n4. Không mua, bán, trao đổi kết quả nghiên cứu trái với các quy định của pháp luật Việt Nam về hoạt động chuyển giao công nghệ.\n5. Tìm hiểu kỹ về tạp chí, nhà xuất bản trước khi gửi bản thảo, tránh gửi công bố trên các ấn phẩm mạo danh (hijacked), săn mồi (predatory) đã được cộng đồng khoa học cảnh báo thông qua các tiêu chí khoa học hoặc thông qua các danh sách cảnh báo đã được công bố bởi các quốc gia, tổ chức uy tín.\n\n6. Ghi nhận đầy đủ trong báo cáo, công bố khoa học sự tài trợ, hỗ trợ của các tổ chức, cá nhân theo quy định.\n7. Tự xác định, công khai và chịu trách nhiệm về các xung đột lợi ích có thể ảnh hưởng đến độ tin cậy của các kết quả công bố.\n8. Tuân thủ các quy định của pháp luật về sở hữu trí tuệ.\n9. Viên chức, người lao động đương nhiệm của ĐHĐN không được đứng tên nhiệm sở khác ngoài ĐHĐN trên công bố khoa học, trừ trường hợp là tên của cơ sở mà viên chức, người lao động đang được cử đi đào tạo, nghiên cứu theo quyết định của ĐHĐN/trường đại học thành viên hoặc có văn bản đồng ý của Giám đốc ĐHĐN/thủ trưởng trường đại học thành viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Liêm chính trong phản biện, đánh giá khoa học",
+          "text": "Điều 7. Liêm chính trong phản biện, đánh giá khoa học\n1. Không nhận nhiệm vụ phản biện, đánh giá khoa học khi thấy không phù hợp về chuyên môn hoặc có xung đột lợi ích.\n2. Công tâm, khách quan, không thiên vị hay trù dập trong phản biện, đánh giá; không để quan hệ cá nhân, lợi ích nhóm, lợi ích vật chất chi phối khi phản biện, đánh giá.\n3. Cầu thị tiếp nhận ý kiến phản biện, đánh giá của người khác, không có tư tưởng gây hiềm khích đối với những người không ủng hộ mình về mặt khoa học.\n4. Bảo mật thông tin cá nhân của người tham gia phản biện, đánh giá theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Liêm chính trong khen thưởng, tài chính khoa học",
+          "text": "Điều 8. Liêm chính trong khen thưởng, tài chính khoa học\n1. Không tự lấy công trình, công bố của tập thể tác giả để đăng ký dự thi, xét khen thưởng khi chưa có sự đồng ý của các tác giả khác.\n2. Minh bạch, rõ ràng về tài chính trong nghiên cứu, trong khen thưởng.\n3. Không giả mạo chữ ký người khác trong hồ sơ thanh quyết toán tài chính các nhiệm vụ KH&CN.\n4. Không sử dụng quyền lực, mối quan hệ hay vật chất để tác động nhằm có lợi cho mình hay người khác không đúng với quy định quản lý và thông lệ khoa học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hội đồng Liêm chính khoa học cấp ĐHĐN",
+          "text": "Điều 9. Hội đồng Liêm chính khoa học cấp ĐHĐN\n1. Hội đồng Liêm chính khoa học cấp ĐHĐN (sau đây gọi là Hội đồng cấp ĐHĐN) do Giám đốc ĐHĐN thành lập và kiện toàn, theo đề nghị của Trưởng ban Ban Khoa học và Hợp tác quốc tế (KHHTQT) và Trưởng ban Ban Tổ chức - Cán bộ, có nhiệm kỳ theo nhiệm kỳ Giám đốc ĐHĐN.\n2. Hội đồng cấp ĐHĐN có từ 09 đến 15 thành viên, gồm 01 Chủ tịch là đại diện Ban Giám đốc ĐHĐN, 01 Phó Chủ tịch là Trưởng ban Ban KHHTQT, 01 Thư ký là chuyên viên Ban KHHTQT và các ủy viên. Thường trực Hội đồng cấp ĐHĐN bao gồm Chủ tịch, Phó Chủ tịch và Thư ký Hội đồng.\n3. Hội đồng Liêm chính khoa học cấp ĐHĐN có chức năng tư vấn cho Giám đốc ĐHĐN trong thẩm định, đánh giá mức độ vi phạm về liêm chính khoa học đối với các nhiệm vụ KH&CN, báo cáo khoa học, công bố khoa học do ĐHĐN trực tiếp quản lý hoặc khi có đề xuất từ Thường trực Hội đồng cấp ĐHĐN hoặc khi có kiến nghị về kết quả thẩm định của Hội đồng Liêm chính khoa học cấp cơ sở.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Hội đồng Liêm chính khoa học cấp cơ sở",
+          "text": "Điều 10. Hội đồng Liêm chính khoa học cấp cơ sở\n1. Hội đồng Liêm chính khoa học cấp cơ sở (sau đây gọi là Hội đồng cấp cơ sở) do Giám đốc ĐHĐN (thủ trưởng Cơ quan ĐHĐN), thủ trưởng các trường đại học thành viên, Phân hiệu ĐHĐN tại Kon Tum, Viện Nghiên cứu và Đào tạo Việt - Anh và Trường Y - Dược (sau đây gọi là các đơn vị) thành lập và kiện toàn, có nhiệm kỳ theo nhiệm kỳ của thủ trưởng đơn vị theo quy định.\n2. Hội đồng cấp cơ sở có từ 07 đến 15 thành viên, gồm 01 Chủ tịch, 01 Phó Chủ tịch, 01 Thư ký và các ủy viên. Thường trực Hội đồng cấp cơ sở bao gồm Chủ tịch, Phó Chủ tịch và Thư ký Hội đồng.\n3. Hội đồng cấp cơ sở có chức năng tư vấn cho thủ trưởng đơn vị trong việc thẩm định, đánh giá mức độ vi phạm về liêm chính khoa học đối với các nhiệm vụ KH&CN, báo cáo khoa học, công bố khoa học do đơn vị trực tiếp quản lý hoặc khi có đề xuất từ Thường trực Hội đồng cấp cơ sở.\n4. Đối với Cơ quan ĐHĐN, Hội đồng cấp cơ sở có chức năng tư vấn cho Giám đốc ĐHĐN trong việc thẩm định, đánh giá mức độ vi phạm về liêm chính khoa học đối với các nhiệm vụ KH&CN, báo cáo khoa học, công bố khoa học của viên chức, người lao động thuộc khối Cơ quan ĐHĐN (trừ Phân hiệu ĐHĐN tại Kon Tum, Viện Nghiên cứu và Đào tạo Việt - Anh và Trường Y - Dược).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Nguyên tắc làm việc của Hội đồng Liêm chính khoa học cấp cơ sở và cấp ĐHĐN",
+          "text": "Điều 11. Nguyên tắc làm việc của Hội đồng Liêm chính khoa học cấp cơ sở và cấp ĐHĐN\n1. Chủ tịch Hội đồng triệu tập phiên họp toàn thể Hội đồng Liêm chính khoa học. Hội đồng chỉ tiến hành họp khi có mặt ít nhất 2/3 thành viên, trong đó có Chủ tịch (hoặc Phó chủ tịch được Chủ tịch ủy quyền) và Thư ký Hội đồng.\n2. Hội đồng Liêm chính khoa học làm việc theo nguyên tắc thảo luận và đồng thuận với ít nhất 3/4 thành viên có mặt đồng ý bằng hình thức bỏ phiếu kín. Bầu tổ kiểm phiếu trong số các thành viên của Hội đồng (không phải là Chủ tịch, Phó Chủ tịch Hội đồng).\n3. Sau buổi họp, Chủ tịch Hội đồng Liêm chính khoa học ban hành thông báo kết luận phiên họp bằng văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Phát hiện, tố giác vi phạm",
+          "text": "Điều 12. Phát hiện, tố giác vi phạm\n1. Hành vi vi phạm liêm chính khoa học có thể được phát hiện thông qua:\na) Các hội đồng nghiệm thu.\nb) Nghiệp vụ quản lý khoa học.\nc) Thanh tra, kiểm tra.\nd) Khiếu nại, kiến nghị, tố giác.\n2. Bất kỳ ai ở trong hoặc ngoài ĐHĐN đều có quyền tố giác hành vi vi phạm liêm chính khoa học của viên chức, người lao động, người học thuộc các trường đại học thành viên, các đơn vị thuộc, trực thuộc ĐHĐN. Người tố giác được bảo đảm bí mật danh tính.\n3. Đối với công bố khoa học, nếu vi phạm liêm chính khoa học bị phát hiện và xử lý bởi cơ quan, tổ chức có thẩm quyền thì ĐHĐN và các đơn vị sử dụng kết quả này làm cơ sở để xem xét, xác định, xử lý các vấn đề liên quan đến vi phạm liêm chính khoa học theo quy định hiện hành của pháp luật, ĐHĐN và đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Thẩm quyền giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học",
+          "text": "Điều 13. Thẩm quyền giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học\n1. Thủ trưởng đơn vị có trách nhiệm xem xét, giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học đối với các nhiệm vụ KH&CN, báo cáo khoa học, công bố khoa học do đơn vị trực tiếp quản lý.\n2. Giám đốc ĐHĐN sẽ xem xét, giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học đối với viên chức, người lao động thuộc khối Cơ quan ĐHĐN (trừ Phân hiệu ĐHĐN tại Kon Tum, Viện Nghiên cứu và Đào tạo Việt - Anh và Trường Y - Dược) và các khiếu nại, kiến nghị về kết quả giải quyết vi phạm về liêm chính khoa học của các trường đại học thành viên, Phân hiệu ĐHĐN tại Kon Tum, Viện Nghiên cứu và Đào tạo Việt - Anh và Trường Y - Dược.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Trình tự giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học",
+          "text": "Điều 14. Trình tự giải quyết các kiến nghị, tố giác về vi phạm liêm chính khoa học\n1. Khi tiếp nhận thông tin chính thức về hành vi vi phạm liêm chính khoa học thông qua các hình thức quy định tại Khoản 1 và Khoản 3 Điều 12, Thư ký Hội đồng Liêm chính khoa học thu thập hồ sơ, kiểm tra, đánh giá sơ bộ về hồ sơ vi phạm báo cáo Thường trực Hội đồng Liêm chính khoa học; Thường trực Hội đồng Liêm chính khoa học làm việc với người vi phạm và lập Biên bản làm việc.\n2. Đối với các hành vi vi phạm đã rõ ràng, đủ yếu tố cấu thành, người vi phạm đã thừa nhận (ký vào Biên bản), Thường trực Hội đồng Liêm chính khoa học đề xuất Giám đốc ĐHĐN hay thủ trưởng đơn vị xử lý theo quy định của pháp luật và các quy chế, quy định của ĐHĐN và đơn vị.\n3. Đối với các hành vi chưa đủ yếu tố cấu thành, chưa rõ ràng hoặc người vi phạm không thừa nhận, Hội đồng Liêm chính khoa học sẽ tổ chức thẩm định và họp để đưa ra kết luận. Trên cơ sở kết luận của Hội đồng, Giám đốc ĐHĐN hay thủ trưởng đơn vị xử lý theo quy định của pháp luật và các quy chế, quy định của ĐHĐN và đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Xử lý mức độ trùng lặp trong báo cáo, công bố khoa học",
+          "text": "Điều 15. Xử lý mức độ trùng lặp trong báo cáo, công bố khoa học\n1. Mức độ trùng lặp nếu được xác định trên 25% nội dung của toàn bộ báo cáo, công bố khoa học, không bao gồm Danh mục tài liệu tham khảo, sẽ được xem là có dấu hiệu đạo văn, là cơ sở để Hội đồng liêm chính khoa học cấp cơ sở và cấp ĐHĐN xem xét, xác định về vi phạm liêm chính khoa học theo quy định.\n2. Đối với báo cáo tổng kết nhiệm vụ KH&CN, bộ phận phụ trách quản lý nhiệm vụ KH&CN của đơn vị chủ trì có trách nhiệm kiểm tra mức độ trùng lặp. Nếu mức độ trùng lặp được xác định từ 25% trở lên sẽ cần giải trình và chỉnh sửa theo yêu cầu của bộ phận phụ trách, nếu không sẽ bị trả hồ sơ và không được nghiệm thu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 16. Tổ chức thực hiện\n1. Các trường đại học thành viên, Phân hiệu ĐHĐN tại Kon Tum, Viện Nghiên cứu và Đào tạo Việt - Anh, Trường Y - Dược và các đơn vị trực thuộc ĐHĐN có liên quan đến hoạt động KH&CN trong Quy định này có thể ban hành quy định riêng theo tình hình thực tế của đơn vị, tuy nhiên không trái với quy định này và các quy định liên quan của pháp luật hiện hành.\n2. Các trường đại học thành viên, đơn vị thuộc và đơn vị trực thuộc ĐHĐN có trách nhiệm tuyên truyền, phổ biến, quán triệt việc thực hiện liêm chính khoa học tới viên chức, người lao động và người học của đơn vị mình.\n3. Trong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc hoặc chưa phù hợp, các đơn vị, cá nhân phản ánh về Ban KHHTQT để tổng hợp trình Giám đốc ĐHĐN xem xét sửa đổi, bổ sung./.\n\n(Trang 5 - Phiếu giải quyết văn bản đến)\n\nĐẠI HỌC ĐÀ NẴNG\nTRƯỜNG ĐẠI HỌC BÁCH KHOA",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về liêm chính học thuật trong hoạt động khoa học và công nghệ tại Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về liêm chính học thuật trong hoạt động khoa học và công nghệ tại Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và các tập thể/cá nhân có liên quan căn cứ Quyết định thi hành.",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và các tập thể/cá nhân có liên quan căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0180_3982_ĐHĐN-ĐBCLGD_Quyết định 3982_ĐHĐN-ĐBCLGD Chiến lược đảm bảo chất lượng giáo dục Đại học Đà.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3982/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/11/2020",
+    "effectiveDate": "12/11/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Quyết định ban hành Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035 nhằm định hướng cho công tác đảm bảo và kiểm định chất lượng giáo dục của Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ GD&ĐT về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-ĐHĐN ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Cục Quản lý chất lượng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đảm bảo Chất lượng Giáo dục Đại học Đà Nẵng",
+    "Commission des Titres d'Ingénieur – CTI",
+    "Mạng lưới các trường Đại học khu vực Đông Nam Á",
+    "Hội đồng cao cấp về kiểm định nghiên cứu và giáo dục đại học quốc gia của Cộng hòa Pháp",
+    "Mạng lưới chất lượng Châu Á - Thái Bình Dương",
+    "Mạng lưới quốc tế các tổ chức đảm bảo chất lượng trong giáo dục đại học",
+    "Mạng lưới ĐBCL khu vực Đông Nam Á",
+    "Tổ chức giáo dục Quacquarelli Symonds",
+    "Ban ĐBCLGD"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

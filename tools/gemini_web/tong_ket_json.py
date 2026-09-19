@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Tong ket toan bo `data/kg_json` — dem duoc gi, mat gi, va vi sao.
+"""Tong ket toan bo `data/clean/json/v1` — dem duoc gi, mat gi, va vi sao.
 
     python tools/gemini_web/tong_ket_json.py
 
@@ -26,7 +26,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 GOC = Path(__file__).resolve().parents[2]
-RA = GOC / "data" / "kg_json"
+RA = GOC / "data" / "clean" / "json" / "v1"
 KHO_TXT = GOC / "data" / "clean" / "text_final"
 
 BANG = re.compile(r"^\s*\|.*\|\s*$", re.M)

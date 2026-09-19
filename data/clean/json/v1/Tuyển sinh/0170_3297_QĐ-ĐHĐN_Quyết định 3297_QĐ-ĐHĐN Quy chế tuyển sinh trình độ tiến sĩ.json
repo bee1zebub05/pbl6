@@ -1,0 +1,176 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0170_3297_QĐ-ĐHĐN_Quyết định 3297_QĐ-ĐHĐN Quy chế tuyển sinh trình độ tiến sĩ.txt",
+  "mappedBy": "gemini-web",
+  "note": "13 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3297/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy chế tuyển sinh trình độ tiến sĩ",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "29/09/2021",
+    "effectiveDate": "29/09/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tuyển sinh"
+    ],
+    "summary": "Ban hành kèm theo quyết định này Quy chế tuyển sinh trình độ tiến sĩ của Đại học Đà Nẵng, quy định về phạm vi điều chỉnh, đối tượng áp dụng, điều kiện, hồ sơ dự tuyển, thông báo tuyển sinh, tổ chức tuyển sinh và công nhận nghiên cứu sinh.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "18/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "2700/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này thay thế Quyết định số 2700/QĐ-ĐHĐN ngày 22/8/2017."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế tuyển sinh trình độ tiến sĩ",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định các nội dung liên quan đến việc tuyển sinh trình độ tiến sĩ của Đại học Đà Nẵng (ĐHĐN).\n2. Quy chế này áp dụng cho các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN (sau đây gọi là các cơ sở đào tạo) có đào tạo trình độ tiến sĩ và các tập thể, cá nhân có liên quan đến công tác tuyển sinh trình độ tiến sĩ tại ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Quy định chung về tuyển sinh",
+          "text": "Điều 2. Quy định chung về tuyển sinh\n1. Phương thức tuyển sinh: xét tuyển\n2. Hình thức tuyển sinh:\n- Trực tiếp hoặc trực tuyến;\n- Hình thức tuyển sinh trực tuyến được tổ chức khi đáp ứng những điều kiện đảm bảo chất lượng như đối với tuyển sinh trực tiếp.\n3. Việc tuyển sinh trình độ tiến sĩ của ĐHĐN được tổ chức một hoặc nhiều lần trong năm và do Giám đốc ĐHĐN quyết định theo tình hình thực tế.\n4. Thủ trưởng cơ sở đào tạo căn cứ vào quy định của Quy chế hiện hành và các quy định liên quan chịu trách nhiệm xây dựng Đề án tuyển sinh theo mẫu tại Phụ lục I, đảm bảo cung cấp đầy đủ thông tin về phương thức tuyển sinh, thời gian tổ chức tuyển sinh, các điều kiện đảm bảo chất lượng, yêu cầu về trình độ chuyên môn phù hợp và những thông tin cần thiết khác bảo đảm đánh giá minh bạch, công bằng, khách quan và trung thực về kiến thức, năng lực của người dự tuyển. Đề án tuyển sinh được gửi về ĐHĐN chậm nhất 2 tuần trước khi ĐHĐN ban hành Thông báo tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Điều kiện dự tuyển",
+          "text": "Điều 3. Điều kiện dự tuyển\n1. Yêu cầu chung đối với người dự tuyển:\na) Đã tốt nghiệp thạc sĩ hoặc tốt nghiệp đại học hạng giỏi trở lên ngành phù hợp, hoặc tốt nghiệp trình độ tương đương bậc 7 theo Khung trình độ quốc gia Việt Nam ở một số ngành đào tạo chuyên sâu đặc thù phù hợp với ngành đào tạo tiến sĩ;\nb) Đáp ứng yêu cầu đầu vào theo chuẩn chương trình đào tạo do Bộ Giáo dục và Đào tạo ban hành và của chương trình đào tạo tiến sĩ đăng ký dự tuyển;\nc) Có kinh nghiệm nghiên cứu thể hiện qua luận văn thạc sĩ của chương trình đào tạo định hướng nghiên cứu; hoặc bài báo, báo cáo khoa học đã công bố; hoặc có thời gian công tác từ 02 năm (24 tháng) trở lên là giảng viên, nghiên cứu viên của các cơ sở đào tạo, tổ chức khoa học và công nghệ;\nd) Có dự thảo đề cương nghiên cứu và dự kiến kế hoạch học tập, nghiên cứu toàn khóa.\n\n2. Người dự tuyển là công dân Việt Nam phải đạt yêu cầu về năng lực ngoại ngữ được minh chứng bằng một trong những văn bằng, chứng chỉ sau:\na) Bằng tốt nghiệp trình độ đại học trở lên do một cơ sở đào tạo nước ngoài, phân hiệu của cơ sở đào tạo nước ngoài ở Việt Nam hoặc cơ sở đào tạo của Việt Nam cấp cho người học toàn thời gian bằng tiếng nước ngoài;\nb) Bằng tốt nghiệp trình độ đại học ngành ngôn ngữ tiếng nước ngoài do các cơ sở đào tạo của Việt Nam cấp;\nc) Có một trong các chứng chỉ ngoại ngữ quy định tại Phụ lục III của Quy chế này hoặc các chứng chỉ ngoại ngữ khác tương đương trình độ bậc 4 (theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam) do Bộ Giáo dục Đào tạo công bố còn hiệu lực tính đến ngày đăng ký dự tuyển;\nd) Người dự tuyển đào tạo trình độ tiến sĩ ngành ngôn ngữ nước ngoài phải có chứng chỉ tiếng nước ngoài khác với ngôn ngữ đăng ký dự tuyển ở trình độ tương đương (quy định tại Phụ lục III) theo quy định tại điểm c khoản này; hoặc đáp ứng quy định tại điểm a khoản này khi ngôn ngữ sử dụng trong thời gian học tập không phải là ngôn ngữ đăng ký dự tuyển; hoặc đáp ứng quy định tại điểm b khoản này khi có bằng tốt nghiệp đại học ngành ngôn ngữ nước ngoài không phải là ngôn ngữ đăng ký dự tuyển.\n\n3. Người dự tuyển là công dân nước ngoài nếu đăng ký theo học chương trình đào tạo trình độ tiến sĩ bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài và phải đáp ứng yêu cầu về ngoại ngữ thứ hai do cơ sở đào tạo quy định trong Đề án tuyển sinh, trừ trường hợp là người bản ngữ của ngôn ngữ được sử dụng trong chương trình đào tạo trình độ tiến sĩ.\n\n4. Đạt đủ điều kiện về kinh nghiệm quản lý và thâm niên công tác theo yêu cầu cụ thể của từng ngành dự tuyển quy định tại Đề án tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Hồ sơ dự tuyển",
+          "text": "Điều 4. Hồ sơ dự tuyển\n1. Hồ sơ dự tuyển bao gồm:\na) Đơn xin dự tuyển;\nb) Lý lịch khoa học;\nc) Bản sao văn bằng, chứng chỉ có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu (trong trường hợp nộp hồ sơ trực tiếp);\nd) Minh chứng kinh nghiệm nghiên cứu khoa học quy định tại điểm c khoản 1 Điều 3 của Quy chế này và thâm niên công tác (nếu có);\nđ) Đề cương nghiên cứu (theo mẫu quy định) và dự kiến kế hoạch học tập, nghiên cứu toàn khóa (Phụ lục II);\ne) Thư giới thiệu đánh giá phẩm chất nghề nghiệp, năng lực chuyên môn và khả năng thực hiện nghiên cứu của người dự tuyển của ít nhất 01 nhà khoa học có chức danh giáo sư, phó giáo sư hoặc có học vị tiến sĩ khoa học, tiến sĩ đã tham gia hoạt động chuyên môn với người dự tuyển và am hiểu lĩnh vực mà người dự tuyển dự định nghiên cứu;\ng) Công văn cử đi dự tuyển của cơ quan quản lý trực tiếp theo quy định hiện hành về việc đào tạo và bồi dưỡng công chức, viên chức (nếu người dự tuyển là công chức, viên chức);\nh) Các tài liệu liên quan khác theo yêu cầu của cơ sở đào tạo.\n2. Số lượng hồ sơ: theo yêu cầu cụ thể của cơ sở đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Thông báo tuyển sinh",
+          "text": "Điều 5. Thông báo tuyển sinh\n1. Thông báo tuyển sinh được công bố công khai trên trang thông tin điện tử của ĐHĐN và phương tiện thông tin đại chúng khác trước khi tổ chức tuyển sinh ít nhất 30 ngày làm việc, trong đó nêu rõ:\na) Đối tượng và điều kiện dự tuyển;\nb) Ngành tuyển sinh và yêu cầu chuyên môn phù hợp; danh mục ngành phù hợp được xét tuyển đối với từng ngành đào tạo trình độ tiến sĩ, danh sách người hướng dẫn đáp ứng quy định tại Đề án tuyển sinh;\nc) Chỉ tiêu tuyển sinh theo từng ngành đào tạo;\nd) Hồ sơ dự tuyển theo quy định tại Điều 4 của Quy chế này và thời gian nhận hồ sơ, lệ phí dự tuyển;\nđ) Kế hoạch và phương thức tuyển sinh, thời gian công bố kết quả trúng tuyển và thời gian nhập học;\ne) Học phí, các chính sách miễn giảm học phí và hỗ trợ kinh phí cho nghiên cứu sinh (NCS) trong quá trình học tập (nếu có);\ng) Các yêu cầu và thông tin cần thiết khác.\n2. Đại học Đà Nẵng chịu trách nhiệm ban hành thông báo tuyển sinh trên cơ sở Đề án tuyển sinh của các cơ sở đào tạo, đảm bảo tuân thủ các quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức tuyển sinh và công nhận NCS",
+          "text": "Điều 6. Tổ chức tuyển sinh và công nhận NCS\n1. Đại học Đà Nẵng tổ chức tuyển sinh theo quy định hiện hành, quyết định thành lập Hội đồng xét tuyển NCS, công nhận thí sinh trúng tuyển NCS và thông báo nhập học.\n2. Tổ chức tuyển sinh:\na) Ban Đào tạo:\n- Nhận và xử lý hồ sơ của thí sinh dự tuyển; lập danh sách trích ngang các thí sinh đủ điều kiện dự tuyển cùng hồ sơ hợp lệ của thí sinh gửi tới các cơ sở đào tạo;\n- Phối hợp với các cơ sở đào tạo đề xuất Giám đốc ĐHĐN quyết định thành lập các Hội đồng xét tuyển NCS (sau đây gọi chung là Hội đồng).\n- Phối hợp với các Hội đồng lên kế hoạch tổ chức các buổi trình bày đề cương nghiên cứu của thí sinh dự tuyển;\n- Tiếp nhận kết quả đánh giá xét tuyển của các Hội đồng, tổng hợp trình Giám đốc ĐHĐN xem xét;\n- Gửi Giấy báo kết quả xét tuyển cho tất cả các thí sinh dự tuyển.\n\nb) Hội đồng xét tuyển NCS\n- Hội đồng xét tuyển NCS có ít nhất 5 người có học vị tiến sĩ, am hiểu lĩnh vực và vấn đề dự định nghiên cứu của thí sinh. Thành phần hội đồng gồm có Chủ tịch, Thư ký và các Ủy viên, là thành viên của bộ môn chuyên ngành; cán bộ khoa học, giảng viên trong hoặc ngoài ĐHĐN; có thể mời người dự kiến hướng dẫn;\n- Người dự kiến hướng dẫn do thí sinh đề xuất hoặc bộ môn đề cử trong trường hợp thí sinh không đề nghị trong hồ sơ dự tuyển. Người dự kiến hướng dẫn phải đảm bảo các tiêu chuẩn quy định tại Điều 5 quy chế tuyển sinh và đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ Trưởng Bộ GDĐT;\n- Hội đồng có trách nhiệm tổ chức xem xét đánh giá hồ sơ dự tuyển, đề cương nghiên cứu và việc trình bày, trao đổi xung quanh dự định nghiên cứu của thí sinh, gửi kết quả về Ban Đào tạo tổng hợp báo cáo Giám đốc ĐHĐN;\n- Các Hội đồng phải tổ chức phiên họp đánh giá chính thức theo kế hoạch tuyển sinh. Phiên họp đánh giá của Hội đồng chỉ được tiến hành khi có mặt Chủ tịch, Thư ký và số lượng Ủy viên tham gia ít nhất là 2/3 trong danh sách hội đồng theo quyết định của Giám đốc ĐHĐN. Trong trường hợp không thể họp trực tiếp do thiên tai, dịch bệnh hoặc do các trường hợp bất khả kháng khác, Hội đồng có thể tổ chức họp theo hình thức trực tuyến. Việc tổ chức họp trực tuyến chỉ thực hiện khi đáp ứng các điều kiện đảm bảo chất lượng như họp trực tiếp.\n\n3. Quy trình xét tuyển NCS\nTrình tự xét tuyển NCS được thực hiện như sau:\na) Hội đồng tổ chức đánh giá thí sinh dự tuyển trình độ tiến sĩ trên cơ sở hồ sơ dự tuyển và việc trình bày đề cương nghiên cứu của thí sinh theo thang điểm 100.\n- Điểm đánh giá hồ sơ dự tuyển tối đa 50; điểm đánh giá việc trình bày và vấn đáp của thí sinh tối đa 40; điểm cho chất lượng của công trình khoa học là 10;\n- Thí sinh được xếp loại đạt nếu điểm mỗi phần đạt từ 50% điểm tối đa trở lên và điểm trung bình của tất cả các thành viên hội đồng từ 50 điểm trở lên. Quy định cụ thể về thang điểm và trình tự đánh giá trong xét tuyển NCS (Phụ lục IV).\nb) Căn cứ các Phiếu đánh giá của từng thành viên hội đồng, Thư ký tổng hợp kết quả đánh giá và lập Biên bản họp hội đồng. Biên bản nêu rõ kết luận của Hội đồng cho từng thí sinh gồm các nội dung: tổng điểm đánh giá của các thành viên hội đồng, điểm trung bình của hội đồng, tên đề tài, đề xuất người hướng dẫn.\n\n5\n\n- Sau khi kết thúc phiên bảo vệ, Thư ký hội đồng chuyển toàn bộ Phiếu đánh giá và Biên bản họp hội đồng về Ban Đào tạo;\n\n- Ban Đào tạo có trách nhiệm kiểm tra, rà soát lại hồ sơ dự tuyển và kết quả đánh giá của Hội đồng đối với mỗi thí sinh;\n\n- Căn cứ chỉ tiêu tuyển sinh đã được phê duyệt và kết quả đánh giá của các Hội đồng, Ban Đào tạo xác định danh sách thí sinh trúng tuyển theo thứ tự điểm từ cao xuống thấp cho đến khi hết chỉ tiêu, trình Giám đốc ĐHĐN ký quyết định công nhận trúng tuyển NCS.\n\n4. Căn cứ danh sách thí sinh trúng tuyển đã được Giám đốc ĐHĐN phê duyệt, Ban Đào tạo gửi giấy gọi nhập học đến các thí sinh trúng tuyển.\n\n5. Công nhận NCS\n\n- Hiệu trưởng các trường đại học thành viên căn cứ Quyết định trúng tuyển NCS và tình hình nhập học cụ thể của đơn vị để ra quyết định công nhận NCS;\n\n- Giám đốc ĐHĐN căn cứ Quyết định trúng tuyển NCS và báo cáo tình hình nhập học của khoa, viện, phân hiệu ra quyết định công nhận NCS;\n\n- Quyết định công nhận NCS phải có đầy đủ thông tin bao gồm: tên NCS, ngành đào tạo, tên đề tài luận án dự kiến, người hướng dẫn hoặc đồng hướng dẫn, đơn vị chuyên môn quản lý NCS, thời gian đào tạo kèm theo kế hoạch học tập, nghiên cứu toàn khóa của NCS.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Đánh giá thẩm định hồ sơ xét tuyển NCS",
+          "text": "Điều 7. Đánh giá thẩm định hồ sơ xét tuyển NCS\n\n1. Trong trường hợp cần thiết, Giám đốc ĐHĐN quyết định thành lập Hội đồng đánh giá thẩm định để đánh giá lại toàn bộ hồ sơ của tất cả thí sinh hoặc một số thí sinh của đợt xét tuyển.\n\n2. Người tham gia các Hội đồng đợt đầu không tham gia trong Hội đồng đánh giá thẩm định.\n\n3. Giám đốc ĐHĐN quyết định việc tổ chức đối thoại hay không đối thoại giữa những người đánh giá đợt đầu và đánh giá thẩm định. Hội đồng đánh giá thẩm định có thẩm quyền quyết định cuối cùng về điểm chính thức của hồ sơ xét tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quy định về lưu trữ",
+          "text": "Điều 8. Quy định về lưu trữ\n\nSau mỗi đợt tuyển sinh, ĐHĐN tổ chức lưu trữ và bảo quản hồ sơ phục vụ công tác quản lý, thẩm định, giám sát, thanh tra và kiểm tra cụ thể như sau:\n\n- Tài liệu liên quan đến công tác tuyển sinh phải được bảo quản an toàn trong kho lưu trữ. Giám đốc ĐHĐN chỉ đạo thực hiện việc bảo quản tài liệu lưu trữ theo quy định văn thư lưu trữ của ĐHĐN;\n\n- Quyết định trúng tuyển, Biên bản và các Phiếu đánh giá của Hội đồng là tài liệu lưu trữ được bảo quản vĩnh viễn tại ĐHĐN;\n\n- Hồ sơ đăng ký dự tuyển và các tài liệu khác liên quan đến tuyển sinh phải được bảo quản tối thiểu 5 năm, kể từ khi người học tốt nghiệp;\n\n6\n\nViệc tiêu hủy tài liệu hết thời gian lưu trữ được thực hiện theo quy định hiện hành của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thanh tra, kiểm tra, giám sát, giải quyết khiếu nại, tố cáo và xử lý vi phạm trong tuyển sinh trình độ tiến sĩ",
+          "text": "Điều 9. Thanh tra, kiểm tra, giám sát, giải quyết khiếu nại, tố cáo và xử lý vi phạm trong tuyển sinh trình độ tiến sĩ\n\n1. Đại học Đà Nẵng thực hiện thanh tra, kiểm tra, giám sát nội bộ đối với công tác tuyển sinh trình độ tiến sĩ theo các quy định hiện hành.\n\nKết luận thanh tra, thông báo kết quả kiểm tra và các kiến nghị (nếu có) sẽ được lập thành văn bản, gửi đến các bên liên quan 01 bản và được xử lý, lưu trữ tại ĐHĐN theo quy định.\n\n2. Cơ quan, tổ chức, cá nhân có quyền khiếu nại, tố cáo về hành vi vi phạm quy chế của cơ sở đào tạo, của giảng viên, cán bộ quản lý và thí sinh dự tuyển. Việc khiếu nại, tố cáo; giải quyết khiếu nại, tố cáo được thực hiện theo quy định hiện hành của pháp luật khiếu nại, tố cáo.\n\n3. Người tham gia công tác tuyển sinh, thí sinh dự tuyển trong kỳ tuyển sinh có hành vi vi phạm quy chế sẽ bị xử phạt cụ thể như sau:\n\n- Cán bộ, viên chức của ĐHĐN có hành vi vi phạm quy chế tuyển sinh sẽ bị xử lý kỷ luật theo quy định của Luật Viên chức, Luật Giáo dục đại học và các quy định khác của pháp luật có liên quan;\n\n- Hội đồng xét tuyển NCS quyết định hình thức kỷ luật khiển trách, cảnh cáo (thể hiện bằng biên bản của Hội đồng). NCS bị kỷ luật khiển trách bị trừ 25% trên số điểm trung bình của Hội đồng; NCS bị kỷ luật cảnh cáo bị trừ 50% trên số điểm trung bình của Hội đồng;\n\n- Giám đốc ĐHĐN căn cứ đề nghị của HĐ xét tuyển NCS, HĐ đánh giá thẩm định hoặc kết luận của cơ quan, đơn vị có thẩm quyền xem xét quyết định hủy bỏ kết quả trúng tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 10. Tổ chức thực hiện\n\n1. Đại học Đà Nẵng ban hành quy chế và các văn bản hướng dẫn về công tác tuyển sinh trình độ tiến sĩ; thống nhất quản lý và chỉ đạo các ban chức năng, các cơ sở đào tạo trong tuyển sinh.\n\n2. Các cơ sở đào tạo, các Ban chức năng và các đơn vị liên quan căn cứ Quy chế này để phối hợp tổ chức tuyển sinh trình độ tiến sĩ.\n\n3. Những quy định khác liên quan đến tuyển sinh trình độ tiến sĩ được thực hiện theo Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo.\n\n4. Quy chế này áp dụng đối với các khóa tuyển sinh trình độ tiến sĩ tính từ thời điểm Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo có hiệu lực thi hành.\n\n7\n\n5. Trong quá trình thực hiện, nếu có vướng mắc, bất cập hoặc có vấn đề mới nảy sinh cần bổ sung, sửa đổi, các đơn vị, cá nhân có liên quan phản ánh kịp thời qua Ban Đào tạo để tổng hợp ý kiến trình Giám đốc ĐHĐN xem xét và quyết định.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế tuyển sinh trình độ tiến sĩ của Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế tuyển sinh trình độ tiến sĩ của Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Quyết định này thay thế Quyết định số 2700/QĐ-ĐHĐN ngày 22/8/2017.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Quyết định này thay thế Quyết định số 2700/QĐ-ĐHĐN ngày 22/8/2017.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban hữu quan của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc và trực thuộc căn cứ Quyết định thi hành.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban hữu quan của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc và trực thuộc căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

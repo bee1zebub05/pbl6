@@ -10,8 +10,7 @@ __pycache__/
 venv/
 
 # Trang thai chay cua cau gemini_web
-tools/gemini_web/trang_thai_*.json
-data/kg_json/
+tools/gemini_web/trang_thai_*.json*
 
 # Trang thai chay che do JSON
 tools/gemini_web/trang_thai_json.json

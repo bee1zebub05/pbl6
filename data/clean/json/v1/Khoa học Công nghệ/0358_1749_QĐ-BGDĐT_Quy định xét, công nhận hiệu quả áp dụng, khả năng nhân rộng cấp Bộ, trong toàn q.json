@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0358_1749_QĐ-BGDĐT_Quy định xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn q.txt",
+  "mappedBy": "gemini-web",
+  "note": "23 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1749/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành quy định xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ của Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/06/2024",
+    "effectiveDate": "28/06/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Khoa học Công nghệ"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành quyết định kèm theo quy định về điều kiện, tiêu chuẩn, hồ sơ, trình tự và hoạt động của Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ hoặc trong toàn quốc của sáng kiến, đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Kim Chi",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "15/6/2022",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Thi đua, khen thưởng ngày 15 tháng 6 năm 2022;"
+    },
+    {
+      "targetDocumentNumber": "98/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "13/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 13/2012/NĐ-CP ngày 02 tháng 3 năm 2012 của Chính phủ ban hành Điều lệ sáng kiến;"
+    },
+    {
+      "targetDocumentNumber": "18/2013/TT-BKHCN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 18/2013/TT-BKHCN ngày 01 tháng 8 năm 2013 của Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn thi hành một số quy định của Nghị định số 13/2012/NĐ-CP của Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "01/2024/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 01/2024/TT-BNV ngày 24 tháng 02 năm 2024 của Bộ trưởng Bộ Nội vụ quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "1338/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1338/QĐ-BGDĐT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế hoạt động của Hội đồng xét, công nhận sáng kiến có hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "mentions": [
+    "Đại học Quốc gia Hà Nội",
+    "Đại học Quốc gia Thành phố Hồ Chí Minh",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ của Bộ Giáo dục và Đào tạo",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\nQuy định về điều kiện, tiêu chuẩn, nhiệm vụ và nguyên tắc làm việc của Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ (sau đây viết tắt là đề tài khoa học) của Bộ Giáo dục và Đào tạo; trình tự xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến và xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học của Bộ Giáo dục và Đào tạo để làm căn cứ xét tặng danh hiệu thi đua, hình thức khen thưởng thuộc thẩm quyền của Bộ Giáo dục và Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đối tượng áp dụng",
+          "text": "Điều 2. Đối tượng áp dụng\n1. Các thành viên của Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; Hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học của Bộ Giáo dục và Đào tạo (sau đây viết tắt là Hội đồng).\n2. Công chức, viên chức và người lao động các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh có sáng kiến cơ sở đã được cấp có thẩm quyền công nhận theo quy định của pháp luật về sáng kiến hoặc có đề tài khoa học theo quy định của pháp luật về khoa học và công nghệ.\n\nChương II\nĐIỀU KIỆN, TIÊU CHUẨN XÉT, CÔNG NHẬN HIỆU QUẢ ÁP DỤNG, KHẢ NĂNG NHÂN RỘNG CẤP BỘ, TRONG TOÀN QUỐC CỦA SÁNG KIẾN; ĐIỀU KIỆN, TIÊU CHUẨN XÉT, CÔNG NHẬN HIỆU QUẢ ÁP DỤNG, PHẠM VI ẢNH HƯỞNG CẤP BỘ, TRONG TOÀN QUỐC CỦA ĐỀ TÀI KHOA HỌC",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Điều kiện để được xét hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến",
+          "text": "Điều 3. Điều kiện để được xét hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến\n1. Sáng kiến trước khi đề nghị xét hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc phải được cơ sở công nhận theo quy định tại Nghị định số 13/2012/NĐ-CP ngày 02 tháng 3 năm 2012 của Chính phủ quy định về Điều lệ sáng kiến và Thông tư số 18/2013/TT-BKHCN ngày 01 tháng 8 năm 2013 của Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn thi hành một số quy định của Điều lệ sáng kiến. Người đứng đầu đơn vị, hiệu trưởng, giám đốc hoặc trưởng nhóm sáng kiến xác nhận đồng tác giả sáng kiến; đồng thời trong bản mô tả cần có thuyết minh nội dung đóng góp của từng đồng tác giả trong quá trình tạo ra sáng kiến.\n2. Sáng kiến đã được Hội đồng xét sáng kiến cơ sở công nhận không quá 03 năm kể từ khi có quyết định và chưa được Hội đồng xét hiệu quả áp dụng, khả năng nhân rộng cấp tỉnh, Bộ công nhận sáng kiến có hiệu quả áp dụng, khả năng nhân rộng cấp tỉnh, Bộ, trong toàn quốc.\n3. Ngôn ngữ thể hiện trong bản mô tả sáng kiến đề nghị công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc\na) Sử dụng ngôn ngữ tiếng Việt, chính xác, phổ thông. Khi sử dụng thuật ngữ chuyên môn thì thuật ngữ đó phải được giải thích trong bản mô tả sáng kiến.\nb) Chỉ được sử dụng từ ngữ nước ngoài khi không có từ ngữ tiếng Việt tương ứng để thay thế; trường hợp có sử dụng từ ngữ nước ngoài thì từ ngữ này phải được dịch sang tiếng Việt.\nc) Sử dụng ngôn ngữ viết, diễn đạt ngắn gọn, rõ ràng, rõ nghĩa, đơn giản, dễ hiểu; chỉ được sử dụng từ ngữ viết tắt trong trường hợp cần thiết và phải giải thích nội dung của từ ngữ đó tại lần xuất hiện đầu tiên trong bản mô tả sáng kiến; nếu sử dụng nhiều từ viết tắt, cần phải có phụ lục giải thích toàn bộ các từ viết tắt trong bản mô tả sáng kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tiêu chuẩn xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ của sáng kiến",
+          "text": "Điều 4. Tiêu chuẩn xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ của sáng kiến\nSáng kiến được xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ đạt các tiêu chuẩn sau đây:\n1. Có tính mới, được thể hiện chi tiết tại bản tóm tắt nội dung sáng kiến và báo cáo mô tả sáng kiến tại mẫu số 01 và mẫu số 02 kèm theo Quy định này.\n2. Đã được áp dụng tại 02 địa chỉ ngoài đơn vị trở lên; trường hợp đặc biệt do Hội đồng xem xét, quyết định.\n3. Có từ 2/3 số thành viên Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ đề nghị xếp loại “Đạt”.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tiêu chuẩn xét, công nhận hiệu quả áp dụng, khả năng nhân rộng trong toàn quốc của sáng kiến",
+          "text": "Điều 5. Tiêu chuẩn xét, công nhận hiệu quả áp dụng, khả năng nhân rộng trong toàn quốc của sáng kiến\nSáng kiến được xét, công nhận hiệu quả áp dụng, khả năng nhân rộng trong toàn quốc đạt các tiêu chuẩn sau đây:\n1. Có tính mới, được thể hiện chi tiết tại bản tóm tắt nội dung sáng kiến và báo cáo mô tả sáng kiến tại mẫu số 01 và mẫu số 02 kèm theo Quy định này.\n2. Đã thực áp dụng tại 02 sở, ban, ngành của 02 tỉnh/thành phố trực thuộc Trung ương trở lên hoặc tại 03 cơ sở giáo dục đại học trở lên; trường hợp đặc biệt do Hội đồng xem xét, quyết định.\n3. Có từ 2/3 số thành viên Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ đề nghị xếp loại “Đạt”.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Điều kiện để được xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ hoặc trong toàn quốc của đề tài khoa học",
+          "text": "Điều 6. Điều kiện để được xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ hoặc trong toàn quốc của đề tài khoa học\n1. Điều kiện để được xét hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ của đề tài khoa học\na) Là đề tài khoa học cấp cơ sở trở lên.\nb) Được hội đồng đánh giá, nghiệm thu của cấp có thẩm quyền theo quy định đánh giá từ mức “Đạt” trở lên.\nc) Năm nghiệm thu của đề tài khoa học nằm trong thời gian xét tặng danh hiệu thi đua, khen thưởng.\n2. Điều kiện để được xét hiệu quả áp dụng, phạm vi ảnh hưởng trong toàn quốc của đề tài khoa học\na) Là đề tài khoa học cấp bộ hoặc cấp tỉnh/thành phố trực thuộc Trung ương hoặc đề tài khoa học đại học quốc gia hoặc đề tài khoa học cấp quốc gia.\nb) Được hội đồng đánh giá, nghiệm thu của cấp có thẩm quyền đánh giá từ mức “Đạt” trở lên.\nc) Năm nghiệm thu của đề tài nghiên cứu khoa học nằm trong thời gian xét tặng danh hiệu thi đua, hình thức khen thưởng.\n3. Đối tượng được đề nghị xét đề tài khoa học có hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ hoặc trong toàn quốc bao gồm:\na) Chủ nhiệm đề tài khoa học.\nb) Người trực tiếp tham gia nghiên cứu đề tài khoa học là thư ký khoa học, người được phân công viết ít nhất 01 nội dung của đề tài khoa học.\n\n4",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiêu chuẩn xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ của đề tài khoa học",
+          "text": "Điều 7. Tiêu chuẩn xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ của đề tài khoa học\nĐề tài khoa học được xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ đạt các tiêu chuẩn sau đây:\n1. Có xác nhận về tính mới trong biên bản họp hội đồng đánh giá, nghiệm thu của cấp có thẩm quyền.\n2. Có minh chứng xác nhận về khả năng áp dụng trong thực tiễn.\n3. Có minh chứng xác nhận ứng dụng kết quả nghiên cứu tại 02 địa chỉ trong lĩnh vực nghiên cứu của đề tài khoa học trở lên.\n4. Có từ 2/3 số thành viên hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ đề nghị xếp loại “Đạt”.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiêu chuẩn xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng trong toàn quốc của đề tài khoa học",
+          "text": "Điều 8. Tiêu chuẩn xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng trong toàn quốc của đề tài khoa học\nĐề tài khoa học được xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng trong toàn quốc đạt các tiêu chuẩn sau đây:\n1. Có xác nhận về tính mới trong biên bản họp hội đồng đánh giá, nghiệm thu của cấp có thẩm quyền.\n2. Có minh chứng xác nhận về khả năng áp dụng trong thực tiễn.\n3. Có minh chứng xác nhận ứng dụng kết quả nghiên cứu tại 02 sở, ban, ngành của 02 tỉnh/thành phố trực thuộc Trung ương trong lĩnh vực nghiên cứu của đề tài khoa học trở lên hoặc tại 02 cơ sở giáo dục đại học trong lĩnh vực nghiên cứu của đề tài khoa học trở lên.\n4. Có từ 2/3 số thành viên hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng trong toàn quốc đề nghị xếp loại “Đạt”.\n\nChương III\nHOẠT ĐỘNG CỦA HỘI ĐỒNG XÉT, CÔNG NHẬN HIỆU QUẢ ÁP DỤNG, KHẢ NĂNG NHÂN RỘNG CẤP BỘ, TRONG TOÀN QUỐC CỦA SÁNG KIẾN; XÉT, CÔNG NHẬN HIỆU QUẢ ÁP DỤNG, PHẠM VI ẢNH HƯỞNG CẤP BỘ, TRONG TOÀN QUỐC CỦA ĐỀ TÀI KHOA HỌC",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thành lập Hội đồng",
+          "text": "Điều 9. Thành lập Hội đồng\n1. Hội đồng xét, công nhận sáng kiến có hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học được thành lập theo từng lĩnh vực do Bộ trưởng Bộ Giáo dục và Đào tạo quyết định thành lập.\n2. Số lượng thành viên Hội đồng xét, công nhận sáng kiến có hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc; xét, công nhận hiệu quả áp\n\ndụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học là số lẻ và tối thiểu 07 người.\n\n5\n3. Thành phần Hội đồng xét, công nhận sáng kiến có hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc gồm:\na) Chủ tịch Hội đồng là Thứ trưởng Bộ Giáo dục và Đào tạo chỉ đạo công việc thường xuyên của công tác thi đua, khen thưởng.\nb) Phó Chủ tịch Hội đồng là lãnh đạo Vụ Tổ chức cán bộ phụ trách công tác thi đua, khen thưởng.\nc) Các ủy viên Hội đồng: lãnh đạo Vụ Khoa học, Công nghệ và Môi trường, lãnh đạo Vụ Giáo dục Đại học và các chuyên gia, nhà quản lý là những người có trình độ chuyên môn về lĩnh vực có liên quan đến nội dung sáng kiến (do Bộ Giáo dục và Đào tạo mời) và thư ký hội đồng.\n4. Thành phần Hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học gồm:\na) Chủ tịch Hội đồng là lãnh đạo Vụ Khoa học, Công nghệ và Môi trường.\nb) Các ủy viên Hội đồng: nhà khoa học, chuyên gia, nhà quản lý có trình độ chuyên môn về lĩnh vực có liên quan đến nội dung đề tài khoa học và thư ký Hội đồng.\n5. Đơn vị thường trực Hội đồng\na) Đơn vị thường trực Hội đồng xét, công nhận sáng kiến có hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc là Vụ Tổ chức cán bộ. Tổ thư ký giúp việc cho Hội đồng là công chức của Vụ Tổ chức cán bộ.\nb) Đơn vị thường trực Hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học là Vụ Khoa học, Công nghệ và Môi trường. Tổ thư ký giúp việc cho Hội đồng là công chức của Vụ Khoa học, Công nghệ và Môi trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Nguyên tắc làm việc của Hội đồng",
+          "text": "Điều 10. Nguyên tắc làm việc của Hội đồng\n1. Hội đồng làm việc theo chế độ tập thể, quyết định theo đa số, bảo đảm tính dân chủ, quyết định các vấn đề bằng hình thức bỏ phiếu. Các cuộc họp của Hội đồng được coi là hợp lệ khi có ít nhất 2/3 số thành viên Hội đồng có mặt. Các thành viên Hội đồng vì lý do không tham dự cuộc họp thì gửi phiếu đánh giá cho đơn vị thường trực Hội đồng sau cuộc họp Hội đồng 02 ngày làm việc. Nếu quá thời gian quy định mà thành viên Hội đồng không gửi phiếu đánh giá về đơn vị thường trực Hội đồng thì được xem như thống nhất với đa số ý kiến tại cuộc họp, trường hợp biểu quyết ngang nhau thì theo ý kiến mà Chủ tịch Hội đồng đã biểu quyết.\n2. Trường hợp không thể tiến hành họp Hội đồng, Chủ tịch Hội đồng quyết định việc gửi phiếu đánh giá cho các thành viên Hội đồng. Đơn vị thường trực Hội đồng xin ý kiến các thành viên Hội đồng bằng văn bản. Trong thời gian 05 ngày làm việc, các thành viên Hội đồng cho ý kiến trực tiếp vào phiếu đánh giá\n\n6\n\nvà gửi lại đơn vị thường trực Hội đồng để tổng hợp thành biên bản, báo cáo Chủ tịch Hội đồng. Nếu quá thời gian quy định mà thành viên Hội đồng không có ý kiến gửi về đơn vị thường trực Hội đồng thì xem như thống nhất theo kết quả thẩm định của đơn vị thường trực Hội đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Nhiệm vụ của Hội đồng và đơn vị thường trực Hội đồng",
+          "text": "Điều 11. Nhiệm vụ của Hội đồng và đơn vị thường trực Hội đồng\n1. Hội đồng có nhiệm vụ tổ chức đánh giá, xét duyệt bảo đảm khách quan, trung thực các sáng kiến đề nghị công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc; hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học cho cá nhân các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh.\n2. Nhiệm vụ của đơn vị thường trực Hội đồng\na) Tiếp nhận, phân loại, rà soát, thẩm định và tổng hợp danh sách sáng kiến, đề tài khoa học của các cá nhân do các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh đề nghị (Mẫu số 01 về sáng kiến, mẫu số 04 về đề tài khoa học kèm theo Quy định này).\nb) Đề xuất lãnh đạo Bộ thành lập Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến theo lĩnh vực; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học.\nc) Đề xuất thời gian họp, chuẩn bị nội dung, phiếu đánh giá, gửi tài liệu đến các thành viên Hội đồng trước 03 ngày làm việc.\nd) Bảo đảm các điều kiện làm việc của Hội đồng; tổ chức triển khai thực hiện các kết luận tại phiên họp Hội đồng.\nđ) Cử công chức làm thư ký giúp việc cho Hội đồng.\ne) Tiếp nhận các kiến nghị, đề xuất của các đơn vị, cá nhân có liên quan và báo cáo Hội đồng xem xét, quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Nhiệm vụ của các thành viên Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến",
+          "text": "Điều 12. Nhiệm vụ của các thành viên Hội đồng xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến\n1. Chủ tịch Hội đồng\na) Chỉ đạo toàn diện các hoạt động của Hội đồng, phân công nhiệm vụ cho các thành viên Hội đồng.\nb) Quyết định triệu tập các cuộc họp của Hội đồng; chủ trì, kết luận các phiên họp Hội đồng.\n2. Phó Chủ tịch Hội đồng\na) Chỉ đạo thẩm định, tổng hợp danh sách sáng kiến đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc; giúp Chủ tịch Hội đồng xem xét các báo cáo, tài liệu đưa ra thảo luận tại Hội đồng.\n\n7\n\nb) Chỉ đạo chuẩn bị nội dung các phiên họp Hội đồng, trình bày nội dung tại các phiên họp Hội đồng.\nc) Chỉ đạo hoàn thiện: Biên bản phiên họp Hội đồng; dự thảo quyết định trình lãnh đạo Bộ công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của các sáng kiến theo kết luận của Hội đồng.\nd) Thay mặt Chủ tịch Hội đồng ký các văn bản liên quan khi được Chủ tịch Hội đồng uỷ quyền.\nđ) Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng phân công.\n3. Ủy viên, thư ký Hội đồng\na) Chủ trì chuẩn bị nội dung, báo cáo, tài liệu của phiên họp Hội đồng.\nb) Chủ trì, tham mưu trình lãnh đạo Bộ ban hành quyết định thành lập Hội đồng theo lĩnh vực, nhóm lĩnh vực.\nc) Chuẩn bị các điều kiện cần thiết để tổ chức các phiên họp Hội đồng.\nd) Tổng hợp báo cáo, hoàn thiện biên bản phiên họp Hội đồng; dự thảo quyết định trình lãnh đạo Bộ công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của các sáng kiến theo kết luận của Hội đồng.\nđ) Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng phân công.\n4. Các uỷ viên Hội đồng\na) Tham dự đầy đủ phiên họp Hội đồng; trường hợp vì lý do khách quan không thể tham dự phiên họp Hội đồng cần xin phép Chủ tịch Hội đồng.\nb) Tham gia ý kiến nhận xét, đánh giá về hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến tại các phiên họp Hội đồng hoặc gửi ý kiến nhận xét, đánh giá về hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến cho đơn vị thường trực Hội đồng khi không thể tham dự phiên họp Hội đồng.\nc) Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng phân công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Nhiệm vụ của các thành viên Hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học",
+          "text": "Điều 13. Nhiệm vụ của các thành viên Hội đồng xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học\n1. Chủ tịch Hội đồng\na) Chỉ đạo toàn diện các hoạt động của Hội đồng, phân công nhiệm vụ cho các thành viên Hội đồng.\nb) Quyết định triệu tập các cuộc họp của Hội đồng; chủ trì, kết luận các phiên họp Hội đồng.\nc) Chỉ đạo thẩm định, tổng hợp danh sách đề tài khoa học đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ hoặc trong toàn quốc; giúp Chủ tịch Hội đồng xem xét các báo cáo, tài liệu đưa ra thảo luận tại Hội đồng.\n\n8\nd)\n\nChỉ đạo chuẩn bị nội dung các phiên họp Hội đồng, trình bày nội dung tại các phiên họp Hội đồng.\nđ) Chỉ đạo hoàn thiện: Biên bản phiên họp Hội đồng; dự thảo quyết định trình lãnh đạo Bộ công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ và trong toàn quốc của đề tài khoa học theo kết luận của Hội đồng.\ne) Thực hiện các nhiệm vụ khác.\n2. Ủy viên, thư ký Hội đồng\na) Chủ trì chuẩn bị nội dung, báo cáo, tài liệu của phiên họp Hội đồng.\nb) Chuẩn bị các điều kiện cần thiết để tổ chức các phiên họp Hội đồng.\nc) Tổng hợp báo cáo, hoàn thiện biên bản phiên họp Hội đồng; dự thảo quyết định trình lãnh đạo Bộ công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học theo kết luận của Hội đồng.\nd) Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng phân công.\n3. Các uỷ viên Hội đồng\na) Tham dự đầy đủ phiên họp Hội đồng; trường hợp vì lý do khách quan không thể tham dự phiên họp Hội đồng cần xin phép Chủ tịch Hội đồng.\nb) Tham gia ý kiến nhận xét, đánh giá về hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học tại các phiên họp Hội đồng hoặc gửi ý kiến nhận xét, đánh giá về hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học cho đơn vị thường trực Hội đồng khi không thể tham dự phiên họp Hội đồng.\nc) Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng phân công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến",
+          "text": "Điều 14. Hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến\n1. Tờ trình của đơn vị.\n2. Danh sách và tóm tắt nội dung sáng kiến (Mẫu số 01 kèm theo Quy định này).\n3. Bản mô tả sáng kiến (Mẫu số 02 kèm theo Quy định này).\n4. Quyết định công nhận sáng kiến cơ sở.\n5. Văn bản đã được ban hành trên cơ sở sử dụng sáng kiến; văn bản chứng nhận hoặc xác nhận của các đơn vị đã áp dụng sáng kiến về nội dung, kết quả áp dụng, hiệu quả mang lại của sáng kiến và tài liệu, minh chứng có liên quan (nếu có).\n6. Xác nhận về hiệu quả áp dụng, khả năng nhân rộng của sáng kiến đối với trường hợp đề nghị xét tặng danh hiệu Chiến sĩ thi đua cấp Bộ, Chiến sĩ thi đua toàn quốc hoặc đề nghị các hình thức khen thưởng cấp Nhà nước theo quy định của Luật Thi đua, khen thưởng (Mẫu số 05 kèm theo Quy định này).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học",
+          "text": "Điều 15. Hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học\n1. Tờ trình của đơn vị.\n2. Danh mục đề tài khoa học (Mẫu số 04 kèm theo Quy định này).\n3. Quyết định thành lập hội đồng đánh giá, nghiệm thu của cấp có thẩm quyền.\n4. Biên bản họp hội đồng đánh giá, nghiệm thu của cấp có thẩm quyền.\n5. Các tài liệu liên quan để minh chứng theo quy định tại Điều 6, Điều 7 và Điều 8 của Quy định này.\n6. Xác nhận về hiệu quả áp dụng, phạm vi ảnh hưởng của đề tài khoa học đối với trường hợp đề nghị xét tặng danh hiệu Chiến sĩ thi đua cấp Bộ, Chiến sĩ thi đua toàn quốc hoặc đề nghị các hình thức khen thưởng cấp Nhà nước theo quy định của Luật Thi đua, khen thưởng (Mẫu số 05 kèm theo Quy định này).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Trình tự xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học",
+          "text": "Điều 16. Trình tự xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học\n1. Trình tự xét\na) Đơn vị thường trực Hội đồng tiếp nhận hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học.\nb) Đơn vị thường trực Hội đồng phân loại, rà soát, thẩm định sơ bộ hình thức, nội dung sáng kiến, đề tài khoa học, tổng hợp danh sách sáng kiến, đề tài khoa học theo lĩnh vực.\nc) Họp Hội đồng đánh giá hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học để các thành viên Hội đồng xem xét và có ý kiến. Sáng kiến, đề tài khoa học được mỗi thành viên Hội đồng xem xét, đánh giá hiệu quả áp dụng, khả năng nhân rộng/phạm vi ảnh hưởng và chấm “Đạt” hay “Không đạt”. Trường hợp chấm “Không đạt” phải ghi rõ lý do.\nd) Đơn vị thường trực Hội đồng tổng hợp ý kiến của các thành viên Hội đồng và hoàn thiện biên bản trình Chủ tịch Hội đồng quyết định.\n2. Quyết định công nhận\na) Khi có từ 2/3 tổng số ý kiến của các thành viên Hội đồng chấm “Đạt” thì sáng kiến, đề tài khoa học được công nhận hiệu quả áp dụng, khả năng nhân rộng/phạm vi ảnh hưởng cấp Bộ hoặc trong toàn quốc.\n\nb) Đơn vị thường trực Hội đồng căn cứ kết quả đánh giá hiệu quả áp dụng, khả năng nhân rộng/phạm vi ảnh hưởng cấp Bộ, trong toàn quốc, hoàn thiện hồ sơ trình lãnh đạo Bộ quyết định công nhận.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Hủy bỏ việc công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ hoặc trong toàn quốc của sáng kiến, hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học",
+          "text": "Điều 17. Hủy bỏ việc công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ hoặc trong toàn quốc của sáng kiến, hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học\n1. Bộ Giáo dục và Đào tạo quyết định hủy bỏ kết quả công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ hoặc trong toàn quốc của sáng kiến đối với các cá nhân bị phát hiện không đáp ứng đầy đủ các điều kiện quy định tại Điều 3, Điều 4, Điều 5 của Quy định này hoặc việc áp dụng, chuyển giao sáng kiến xâm phạm quyền sở hữu trí tuệ theo quy định của pháp luật.\nb) Bộ Giáo dục và Đào tạo quyết định hủy bỏ kết quả công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học đối với các cá nhân bị phát hiện không đáp ứng đầy đủ các điều kiện quy định tại Điều 6, Điều 7, Điều 8 của Quy định này hoặc việc áp dụng, chuyển giao đề tài khoa học xâm phạm quyền sở hữu trí tuệ theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Thời gian nhận hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn qu",
+          "text": "Điều 18. Thời gian nhận hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học\n1. Thời gian nhận hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học đợt 1 gửi về Bộ Giáo dục và Đào tạo trước ngày 31 tháng 8 hàng năm, đợt 2 gửi về Bộ Giáo dục và Đào tạo trước ngày 20 tháng 11 hàng năm.\n2. Hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của sáng kiến gửi về Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo; hồ sơ đề nghị xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học gửi về Vụ Khoa học, Công nghệ và Môi trường, Bộ Giáo dục và Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Kinh phí hoạt động Hội đồng",
+          "text": "Điều 19. Kinh phí hoạt động Hội đồng\n1. Kinh phí hoạt động của Hội đồng được thực hiện theo quy định hiện hành của Nhà nước.\n2. Các thành viên Hội đồng làm việc theo chế độ kiêm nhiệm, được hưởng chế độ bồi dưỡng khi tham dự phiên họp, thẩm định hồ sơ, tài liệu theo quy định của pháp luật hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 20. Tổ chức thực hiện\n1. Vụ Tổ chức cán bộ chủ trì, phối hợp với Vụ Khoa học, Công nghệ và Môi trường theo dõi, hướng dẫn các đơn vị triển khai thực hiện; thủ trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quy định này.\n2. Căn cứ quyết định công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến, lãnh đạo Vụ Tổ chức cán bộ phụ trách công tác thi đua, khen thưởng Bộ Giáo dục và Đào tạo thừa lệnh Bộ trưởng xác nhận về hiệu quả áp dụng, khả năng nhân rộng của sáng kiến theo Mẫu số 11 của Phụ lục I kèm theo Nghị định 98/2023/NĐ-CP để làm căn cứ xét tặng danh hiệu thi đua, hình thức khen thưởng theo quy định của pháp luật.\nCăn cứ quyết định công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học, lãnh đạo Vụ Khoa học, Công nghệ và Môi trường xác nhận về hiệu quả áp dụng, phạm vi ảnh hưởng của đề tài khoa học theo Mẫu số 11 của Phụ lục I kèm theo Nghị định 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng để làm căn cứ xét tặng danh hiệu thi đua, hình thức khen thưởng theo quy định của pháp luật.\n3. Trong quá trình thực hiện phát hiện những khó khăn, vướng mắc hoặc phát sinh những vấn đề mới, các đơn vị phản ánh về Vụ Tổ chức cán bộ để tham mưu Bộ trưởng kịp thời điều chỉnh, bổ sung cho phù hợp.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này quy định xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong to",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này quy định xét, công nhận hiệu quả áp dụng, khả năng nhân rộng cấp Bộ, trong toàn quốc của sáng kiến; xét, công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1338/QĐ-BGDĐT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giáo dục",
+      "text": "Điều 2. Quyết định có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1338/QĐ-BGDĐT ngày 12 tháng 5 năm 2023 của Bộ trưởng Bộ Giáo dục\n\nvà Đào tạo về việc ban hành Quy chế hoạt động của Hội đồng xét, công nhận sáng kiến có hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, trong toàn quốc của Bộ Giáo dục và Đào tạo.\n\nCác văn bản liên quan đến hướng dẫn xét, công nhận sáng kiến; phạm vi ảnh hưởng của sáng kiến, đề tài nghiên cứu khoa học làm cơ sở xét danh hiệu thi đua, khen thưởng hằng năm; xác nhận hiệu quả áp dụng, khả năng nhân rộng, phạm vi ảnh hưởng của sáng kiến, đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

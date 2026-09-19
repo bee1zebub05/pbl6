@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Văn thư, lưu trữ/0079_2465_QĐ-ĐHBK_Ban hành Quy trình ban hành văn bản hành chính tại Trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2465/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/10/2021",
+    "effectiveDate": "01/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Văn thư, lưu trữ"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa, Đại học Đà Nẵng, gồm các bước từ xây dựng dự thảo, kiểm tra thể thức, hiệu chỉnh đến trình ký và ban hành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "30/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 30/2020/NĐ-CP ngày 05/3/2020 của Chính phủ về công tác Văn thư;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4801/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4801/QĐ-ĐHĐN ngày 30/12/2020 của Đại học Đà Nẵng ban hành Quy chế công tác văn thư, lưu trữ của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "447/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 447/QĐ-ĐHBK ngày 24/4/2018 của Trường Đại học Bách khoa về việc ban hành “Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa”."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 447/QĐ-ĐHBK ngày 24/4/2018 của Trường Đại học Bách khoa về việc ban hành “Quy trình ban hành văn bản hành chính tại Trường Đại họ",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế cho Quyết định số 447/QĐ-ĐHBK ngày 24/4/2018 của Trường Đại học Bách khoa về việc ban hành “Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, trưởng các đơn vị thuộc, trực thuộc Trường và các cá nhân có liên quan căn cứ Quyết định thi hành.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, trưởng các đơn vị thuộc, trực thuộc Trường và các cá nhân có liên quan căn cứ Quyết định thi hành.",
+      "isImplementationClause": true
+    }
+  ]
+}

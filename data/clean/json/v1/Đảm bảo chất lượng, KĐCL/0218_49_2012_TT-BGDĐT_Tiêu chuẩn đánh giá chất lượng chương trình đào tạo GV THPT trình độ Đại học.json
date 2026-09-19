@@ -1,0 +1,173 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0218_49_2012_TT-BGDĐT_Tiêu chuẩn đánh giá chất lượng chương trình đào tạo GV THPT trình độ Đại học.txt",
+  "mappedBy": "gemini-web",
+  "note": "15 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "49/2012/TT-BGDĐT",
+    "title": "Thông tư Ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học",
+    "documentType": "Thông tư",
+    "status": null,
+    "issueDate": "12/12/2012",
+    "effectiveDate": "01/02/2013",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Thông tư ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học[cite: 1], bao gồm các quy định chung, hệ thống 7 tiêu chuẩn đánh giá và điều khoản tổ chức thực hiện[cite: 1].",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Bùi Văn Ga",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "36/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18 tháng 4 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các bộ, cơ quan ngang bộ;"
+    },
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "75/2006/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "31/2011/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "03/2008/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư này thay thế Quyết định số 03/2008/QĐ-BGDĐT ngày 04 tháng 02 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học."
+    }
+  ],
+  "mentions": [],
+  "normativeContents": [
+    {
+      "title": "Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học.\n2. Văn bản này áp dụng đối với các đại học, học viện, trường đại học (sau đây gọi chung là trường) có thực hiện chương trình đào tạo giáo viên trung học phổ thông trình độ đại học và các tổ chức, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong văn bản này, một số từ ngữ dưới đây được hiểu như sau:\n1. Chương trình đào tạo giáo viên trung học phổ thông trình độ đại học là một tổ hợp bao gồm mục tiêu, chuẩn đầu ra; danh mục, thời lượng, nội dung môn học; phương thức tổ chức đào tạo, đánh giá và các nguồn lực đảm bảo để triển khai đào tạo một ngành học.\n2. Chất lượng của chương trình đào tạo giáo viên trung học phổ thông trình độ đại học là sự đáp ứng mục tiêu của chương trình đào tạo giáo viên trung học phổ thông trình độ đại học, đáp ứng các yêu cầu theo quy định của Luật Giáo dục, phù hợp với nhu cầu sử dụng giáo viên trung học phổ thông của địa phương và xã hội.\n3. Tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học là mức độ yêu cầu và điều kiện mà chương trình cần đáp ứng để được công nhận đạt tiêu chuẩn chất lượng giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Mục đích ban hành tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học",
+          "text": "Điều 3. Mục đích ban hành tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học\nTiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học là công cụ để nhà trường tự đánh giá nhằm không ngừng nâng cao chất lượng đào tạo và giải trình với các cơ quan chức năng, xã hội về thực trạng chất lượng đào tạo; để cơ quan chức năng đánh giá và công nhận chương trình đạt tiêu chuẩn chất lượng giáo dục; để người học có cơ sở lựa chọn ngành học và nhà tuyển dụng lao động tuyển chọn nhân lực.\n\n35\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tiêu chuẩn 1: Mục tiêu, chuẩn đầu ra, cơ cấu tổ chức, quản lý đào tạo và công tác đánh giá hoạt động đào tạo",
+          "text": "Điều 4. Tiêu chuẩn 1: Mục tiêu, chuẩn đầu ra, cơ cấu tổ chức, quản lý đào tạo và công tác đánh giá hoạt động đào tạo\n1. Mục tiêu của chương trình đào tạo giáo viên trung học phổ thông trình độ đại học (sau đây gọi là chương trình) đáp ứng các quy định hiện hành và được định kỳ rà soát, bổ sung.\na) Mục tiêu của chương trình đáp ứng mục tiêu giáo dục đại học theo quy định.\nb) Mục tiêu của chương trình đáp ứng mục tiêu đào tạo khối ngành sư phạm theo quy định.\nc) Mục tiêu của chương trình được định kỳ rà soát và điều chỉnh theo hướng cải tiến, nâng cao chất lượng.\n2. Chuẩn đầu ra của chương trình đáp ứng yêu cầu đào tạo giáo viên trung học phổ thông\na) Nội dung chuẩn đầu ra thể hiện đầy đủ yêu cầu cần đạt được về phẩm chất đạo đức, kiến thức chuyên môn, kỹ năng sư phạm theo yêu cầu của chuẩn nghề nghiệp giáo viên trung học phổ thông.\nb) Nội dung chuẩn đầu ra phù hợp với yêu cầu đổi mới của giáo dục trung học phổ thông ở Việt Nam và hội nhập khu vực, quốc tế.\nc) Nội dung chuẩn đầu ra chuyển tải được mục tiêu, sứ mạng của nhà trường và thực tiễn địa phương.\n3. Tổ chức và quản lý đào tạo giáo viên trung học phổ thông có hiệu quả\na) Có cơ cấu tổ chức hợp lý trong việc thực hiện chương trình.\nb) Thực hiện đào tạo và quản lý đào tạo có chất lượng và hiệu quả.\nc) Định kỳ tổng kết đánh giá và cải tiến cơ cấu tổ chức và quản lý trong việc thực hiện chương trình.\n4. Đội ngũ cán bộ quản lý đào tạo giáo viên trung học phổ thông đáp ứng yêu cầu.\na) Đội ngũ cán bộ quản lý đáp ứng các tiêu chuẩn theo Điều lệ trường đại học và Quy chế tổ chức và hoạt động của trường đại học tư thục đối với các trường đại học tư thục;\nb) Đội ngũ cán bộ quản lý được phân định trách nhiệm và quyền hạn rõ ràng;\nc) Định kỳ tổng kết đánh giá để nâng cao hiệu quả quản lý của đội ngũ cán bộ quản lý.\n\n36\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\n\n5. Các hoạt động đào tạo giáo viên trung học phổ thông được định kỳ đánh giá để cải tiến nâng cao chất lượng\na) Định kỳ triển khai đánh giá các hoạt động đào tạo.\nb) Có biện pháp giám sát thực hiện đánh giá định kỳ các hoạt động đào tạo.\nc) Có biện pháp cải tiến để nâng cao chất lượng các hoạt động đào tạo theo kết quả đánh giá.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tiêu chuẩn 2: Chương trình và các hoạt động đào tạo",
+          "text": "Điều 5. Tiêu chuẩn 2: Chương trình và các hoạt động đào tạo\n1. Việc xây dựng chương trình đào tạo phải đảm bảo tính hợp pháp và hợp lý\na) Chương trình đào tạo được xây dựng theo các quy định hiện hành.\nb) Chương trình đào tạo được xây dựng phải phù hợp với mục tiêu giáo dục trung học phổ thông.\nc) Chương trình đào tạo được xây dựng phải đáp ứng nhu cầu sử dụng giáo viên của địa phương và xã hội.\n2. Chương trình đào tạo được xây dựng với sự tham gia của các đối tượng liên quan và có cấu trúc hợp lý\na) Chương trình đào tạo được xây dựng với sự tham gia của các giảng viên, cán bộ nghiên cứu, cán bộ quản lý, nhà tuyển dụng và người tốt nghiệp.\nb) Chương trình đào tạo được xây dựng đảm bảo tính hệ thống.\nc) Chương trình đào tạo được xây dựng đảm bảo cân đối giữa lý thuyết, thực hành và tự học, tự nghiên cứu.\n3. Có kế hoạch đào tạo và đề cương chi tiết đáp ứng yêu cầu\na) Có và thực hiện đầy đủ kế hoạch đào tạo cho các hệ đào tạo khác nhau.\nb) Có và thực hiện đầy đủ đề cương chi tiết cho các học phần, môn học.\nc) Kế hoạch đào tạo, đề cương chi tiết được định kỳ rà soát, đánh giá, điều chỉnh theo hướng liên tục cải tiến chất lượng.\n4. Thực hiện đổi mới phương pháp dạy học có hiệu quả\na) Thực hiện đổi mới phương pháp dạy học theo hướng phát huy năng lực tự học, tự nghiên cứu và phát triển năng lực hợp tác của người học.\nb) Giảng viên sử dụng các phương pháp giảng dạy khác nhau và ứng dụng công nghệ thông tin trong giảng dạy.\nc) Hàng năm, tổ chức tổng kết, đánh giá và phổ biến kinh nghiệm đổi mới phương pháp dạy học.\n5. Thực hiện việc kiểm tra đánh giá người học có hiệu quả\na) Việc kiểm tra, đánh giá người học được tổ chức một cách nghiêm túc, đúng quy chế, đảm bảo chính xác, công bằng và khách quan.\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\n37\n\nb) Thực hiện đổi mới kiểm tra đánh giá, sử dụng các hình thức kiểm tra, đánh giá đa dạng tạo động lực cho dạy và học.\n\nc) Hàng năm, tổ chức tổng kết, đánh giá rút kinh nghiệm và phổ biến kinh nghiệm đổi mới phương pháp kiểm tra đánh giá và định kỳ cải tiến trên cơ sở thu thập ý kiến phản hồi từ người học.\n\n6. Hoạt động thực tập sư phạm được tổ chức có hiệu quả\n\na) Hoạt động thực hành, thực tập sư phạm được tổ chức tạo điều kiện cho người học vận dụng lý thuyết vào thực tiễn và phát triển kỹ năng sư phạm.\n\nb) Thường xuyên lấy ý kiến phản hồi từ cơ sở thực tập và người học, giảng viên về hoạt động thực hành, thực tập sư phạm.\n\nc) Hoạt động thực hành, thực tập sư phạm được cải tiến hàng năm trên cơ sở tổng kết các ý kiến phản hồi.\n\n7. Kết hợp các hoạt động dạy và học với nghiên cứu khoa học trong đào tạo giáo viên trung học phổ thông\n\na) Nhà trường hoặc khoa có các biện pháp hữu hiệu kết hợp giữa dạy, học và nghiên cứu khoa học.\n\nb) Nhà trường hoặc khoa có các đề tài trong đó có nhiều người học tham gia nghiên cứu khoa học.\n\nc) Nhà trường hoặc khoa có các kết quả nghiên cứu khoa học giáo dục được ứng dụng trong giảng dạy và học tập.\n\n8. Đảm bảo an toàn, chính xác và khoa học trong lưu trữ kết quả học tập và rèn luyện của người học, đảm bảo thuận lợi cho việc phổ biến, quản lý, truy cập và tổng hợp báo cáo\n\na) Có sự phân cấp, phân công trách nhiệm trong việc quản lý kết quả học tập và rèn luyện của người học.\n\nb) Kết quả học tập được lưu trữ bằng nhiều hình thức đa dạng, có phần mềm chuyên dụng để lưu trữ kết quả học tập, đảm bảo an toàn và bảo mật.\n\nc) Việc lưu trữ kết quả học tập thuận lợi cho việc quản lý, tổng hợp báo cáo và người học truy cập kết quả học tập của bản thân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tiêu chuẩn 3: Đội ngũ giảng viên và nhân viên tham gia chương trình",
+          "text": "Điều 6. Tiêu chuẩn 3: Đội ngũ giảng viên và nhân viên tham gia chương trình\n\n1. Đội ngũ giảng viên đáp ứng yêu cầu về số lượng và cơ cấu chuyên môn\n\na) Có đủ số lượng giảng viên để thực hiện nhiệm vụ đào tạo theo quy định.\n\nb) Đội ngũ giảng viên có chuyên môn phù hợp với yêu cầu đào tạo.\n\nc) Cơ cấu giảng viên phù hợp với cơ cấu chuyên môn và quy mô đào tạo.\n\n38\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\n\n2. Đội ngũ giảng viên có trình độ chuyên môn, nghiệp vụ đáp ứng yêu cầu\n\na) Đội ngũ giảng viên đạt trình độ chuẩn theo quy định.\n\nb) Đội ngũ giảng viên có năng lực chuyên môn và kỹ năng sư phạm đáp ứng được yêu cầu đào tạo của chương trình.\n\nc) Năng lực chuyên môn của đội ngũ giảng viên đáp ứng được yêu cầu nghiên cứu khoa học của chương trình.\n\n3. Đội ngũ giảng viên có phẩm chất đạo đức và có sức khỏe\n\na) Đội ngũ giảng viên đạt tiêu chuẩn về phẩm chất chính trị tư tưởng; được tham gia các lớp bồi dưỡng, học tập chính trị.\n\nb) Đội ngũ giảng viên đạt tiêu chuẩn về đạo đức nhà giáo.\n\nc) Đội ngũ giảng viên đạt tiêu chuẩn về sức khỏe để đảm nhiệm các công việc được giao.\n\n4. Giảng viên thực hiện tốt các nhiệm vụ được giao\n\na) Giảng viên thực hiện đầy đủ và có chất lượng chương trình đào tạo.\n\nb) Giảng viên tích cực tham gia xây dựng kế hoạch đào tạo, biên soạn giáo trình, tài liệu giảng dạy của khoa, bộ môn.\n\nc) Hàng năm, giảng viên tham gia nghiên cứu khoa học theo quy định.\n\n5. Giảng viên được phân công giảng dạy hợp lý và được tạo điều kiện nâng cao trình độ\n\na) Giảng viên được phân công giảng dạy đúng theo năng lực chuyên môn được đào tạo.\n\nb) Giảng viên được tạo điều kiện nâng cao trình độ chuyên môn, nghiệp vụ.\n\nc) Giảng viên được tạo điều kiện nâng cao trình độ chính trị, ngoại ngữ và tin học.\n\n6. Giảng viên được đảm bảo các quyền và lợi ích theo quy định của pháp luật\n\na) Các chủ trương, chính sách về quyền và lợi ích liên quan đến hoạt động nghề nghiệp của giảng viên được phổ biến đầy đủ, kịp thời.\n\nb) Có những biện pháp cụ thể để đảm bảo quyền và lợi ích liên quan đến hoạt động nghề nghiệp của giảng viên.\n\nc) Việc xử lý các đơn thư khiếu nại về quyền và lợi ích của giảng viên được thực hiện đúng theo quy định.\n\n7. Giảng viên được định kỳ đánh giá năng lực và được tạo điều kiện để hoàn thành nhiệm vụ\n\na) Định kỳ tổ chức đánh giá về chất lượng giảng dạy của giảng viên trên cơ sở đánh giá của đồng nghiệp và của sinh viên.\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\n39\n\nb) Có các biện pháp hỗ trợ, tạo điều kiện để giảng viên hoàn thành nhiệm vụ giảng dạy.\n\nc) Giảng viên được hỗ trợ và tạo điều kiện trong việc hướng dẫn nghiên cứu khoa học và thực tập sư phạm.\n\n8. Có đội ngũ nhân viên đáp ứng yêu cầu đào tạo của chương trình\n\na) Đội ngũ nhân viên đủ về số lượng, đáp ứng yêu cầu về phẩm chất đạo đức, trình độ chuyên môn, nghiệp vụ.\n\nb) Đội ngũ nhân viên được định kỳ bồi dưỡng chuyên môn, nghiệp vụ.\n\nc) Đội ngũ nhân viên thực hiện có hiệu quả nhiệm vụ được giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiêu chuẩn 4: Người học và công tác hỗ trợ người học",
+          "text": "Điều 7. Tiêu chuẩn 4: Người học và công tác hỗ trợ người học\n\n1. Người học được tuyển chọn công bằng và khách quan\n\na) Quy trình, hoạt động tuyển chọn người học đảm bảo công bằng và khách quan.\n\nb) Công khai, minh bạch quy trình tuyển chọn người học của nhà trường.\n\nc) Việc xử lý các đơn thư khiếu nại, đơn đề nghị phúc khảo trong công tác tuyển sinh của nhà trường liên quan đến chương trình được thực hiện theo quy định.\n\n2. Người học được phổ biến đầy đủ các quy định cần thiết\n\na) Tổ chức phổ biến, giới thiệu, quán triệt các quy định về tổ chức đào tạo, kiểm tra, thi và công nhận tốt nghiệp của Bộ Giáo dục và Đào tạo và của nhà trường cho người học, cung cấp cho người học tài liệu về cẩm nang đào tạo ngay từ khi mới nhập học.\n\nb) Định kỳ rà soát, cập nhật các tài liệu phổ biến về tổ chức đào tạo, kiểm tra, thi và công nhận tốt nghiệp.\n\nc) Định kỳ rà soát, cập nhật các tài liệu phổ biến về tổ chức đào tạo, kiểm tra, thi và công nhận tốt nghiệp.\n\n3. Người học được tạo điều kiện học tập và tham gia nghiên cứu khoa học\n\na) Có những chính sách và biện pháp tạo điều kiện cho người học trong học tập.\n\nb) Có những chính sách và biện pháp tạo điều kiện cho người học trong nghiên cứu khoa học, tỷ lệ người học tham gia nghiên cứu khoa học tăng hàng năm.\n\nc) Có kinh phí sử dụng để hỗ trợ cho người học trong học tập và nghiên cứu khoa học hàng năm.\n\n4. Người học được tạo điều kiện rèn luyện tư tưởng chính trị, đạo đức, lối sống và tham gia tổ chức Đảng, Đoàn thanh niên cộng sản Hồ Chí Minh và các đoàn thể khác theo quy định của pháp luật\n\n40\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\n\na) Quan tâm đến việc rèn luyện chính trị, đạo đức của người học, tạo điều kiện cho người học được tham gia tổ chức Đảng.\n\nb) Tạo điều kiện cho người học tham gia công tác Đoàn, Hội và các hoạt động xã hội khác theo quy định của pháp luật.\n\nc) Người học được tạo điều kiện rèn luyện lối sống lành mạnh và các kỹ năng sống.\n\n5. Người học được đảm bảo các chế độ và được cung cấp các dịch vụ hỗ trợ\n\na) Người học được cung cấp thông tin và đảm bảo chế độ chính sách xã hội theo quy định.\n\nb) Người học được cung cấp các dịch vụ hỗ trợ ăn, ở và giải trí.\n\nc) Người học được tạo điều kiện bồi dưỡng sức khỏe, phát triển thể chất và được đảm bảo về dịch vụ y tế học đường.\n\n6. Người học thực hiện tốt nhiệm vụ học tập và rèn luyện\n\na) Người học tự giác, tích cực thực hiện nhiệm vụ học tập và đạt kết quả tốt.\n\nb) Người học chủ động, tích cực rèn luyện tư tưởng chính trị và đạt kết quả tốt.\n\nc) Người học chủ động, tích cực rèn luyện đạo đức, lối sống và đạt kết quả tốt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiêu chuẩn 5: Cơ sở vật chất phục vụ chương trình",
+          "text": "Điều 8. Tiêu chuẩn 5: Cơ sở vật chất phục vụ chương trình\n\n1. Hệ thống thư viện của khoa, trường đáp ứng yêu cầu\n\na) Có thư viện điện tử, đáp ứng yêu cầu truy cập thông tin của cán bộ, giảng viên, người học.\n\nb) Có đủ đầu giáo trình, sách tham khảo chính, tạp chí, tài liệu chuyên ngành và nghiệp vụ sư phạm đáp ứng yêu cầu của chương trình và được bổ sung, cập nhật thường xuyên.\n\nc) Công tác thư viện phục vụ có hiệu quả các hoạt động đào tạo của chương trình.\n\n2. Hệ thống thiết bị giáo dục đáp ứng yêu cầu\n\na) Có đủ các thiết bị giáo dục đáp ứng yêu cầu giảng dạy, học tập, thực hành, thí nghiệm.\n\nb) Có đủ các thiết bị giáo dục đáp ứng yêu cầu nghiên cứu khoa học.\n\nc) Có đủ các thiết bị giáo dục đáp ứng yêu cầu về quản lý điều hành.\n\n3. Hệ thống phòng chức năng, phòng học, phòng thí nghiệm, phòng thực hành đáp ứng yêu cầu\n\na) Có đủ số lượng phòng chức năng, phòng học, phòng thí nghiệm, phòng thực hành.\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\n41\n\nb) Các phòng chức năng, phòng học, phòng thí nghiệm, phòng thực hành đảm bảo đủ diện tích và đúng quy cách.\n\nc) Các phòng chức năng, phòng học, phòng thí nghiệm, phòng thực hành được sử dụng có hiệu quả.\n\n4. Cơ sở vật chất phục vụ giáo dục thể chất đáp ứng yêu cầu\n\na) Có đủ điều kiện về cơ sở vật chất đáp ứng yêu cầu giáo dục thể chất.\n\nb) Có đủ điều kiện về cơ sở vật chất để tổ chức các hoạt động thể dục thể thao để nâng cao sức khỏe và phát triển thể chất cho người học.\n\nc) Có biện pháp cải tiến sử dụng hiệu quả các điều kiện cơ sở vật chất.\n\n5. Có các biện pháp cải tiến nâng cao chất lượng cơ sở vật chất phục vụ chương trình\n\na) Định kỳ đánh giá chất lượng và hiệu quả sử dụng các phòng học, phòng chức năng và có các biện pháp cải tiến nâng cao hiệu quả sử dụng.\n\nb) Định kỳ đánh giá chất lượng và hiệu quả sử dụng các phòng thí nghiệm, phòng thực hành và có các biện pháp cải tiến nâng cao hiệu quả sử dụng.\n\nc) Định kỳ đánh giá chất lượng và hiệu quả sử dụng các cơ sở vật chất khác và có các biện pháp cải tiến nâng cao hiệu quả sử dụng.\n\n6. Đảm bảo môi trường sư phạm phục vụ chương trình đào tạo\n\na) Có biện pháp đảm bảo môi trường sư phạm xanh, sạch, đẹp.\n\nb) Có biện pháp đảm bảo môi trường không bạo lực, không có tệ nạn xã hội.\n\nc) Có biện pháp đảm bảo an toàn cho người học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tiêu chuẩn 6: Công tác tài chính phục vụ chương trình đào tạo",
+          "text": "Điều 9. Tiêu chuẩn 6: Công tác tài chính phục vụ chương trình đào tạo\n\n1. Có kế hoạch tài chính và quản lý tài chính đảm bảo cho hoạt động đào tạo giáo viên trung học phổ thông\n\na) Có dự trù kinh phí hàng năm cho chương trình đào tạo một cách rõ ràng, chi tiết.\n\nb) Có sự tham gia của các đơn vị thực hiện chương trình trong việc xây dựng kế hoạch và phân bổ tài chính cho hoạt động của chương trình.\n\nc) Đảm bảo kinh phí được phân bổ đúng quy định, phục vụ hiệu quả các hoạt động của chương trình, đáp ứng yêu cầu rèn luyện nghiệp vụ sư phạm và kiến tập, thực tập sư phạm của người học.\n\n2. Thực hiện chế độ kiểm tra, giám sát, đánh giá và báo cáo về tài chính theo quy định\n\na) Có hệ thống văn bản, biểu mẫu quản lý các hoạt động tài chính.\n\n42 CÔNG BÁO/Số 801 + 802/Ngày 31-12-2012\nb) Hàng năm, có báo cáo quyết toán và đánh giá hiệu quả sử dụng các nguồn tài chính phục vụ hoạt động của chương trình một cách rõ ràng và minh bạch.\nc) Kết quả kiểm toán hàng năm cho thấy không có những vi phạm về tài chính.\n3. Có các nguồn tài chính hợp pháp phục vụ chương trình.\na) Có nguồn tài chính hợp pháp hỗ trợ các hoạt động đào tạo của chương trình.\nb) Có nguồn tài chính hợp pháp hỗ trợ công tác nghiên cứu khoa học của chương trình.\nc) Có chiến lược để tăng kinh phí của các nguồn thu hợp pháp để đáp ứng các hoạt động đào tạo và nghiên cứu khoa học.\n4. Thực hiện công khai tài chính và có cơ chế để cán bộ, giảng viên tham gia kiểm tra và giám sát tài chính\na) Có quy chế chi tiêu nội bộ minh bạch và hợp lý được xây dựng trên cơ sở lấy ý kiến rộng rãi của mọi thành viên trong khoa, trường.\nb) Có cơ chế để cán bộ, giảng viên tham gia kiểm tra và giám sát tài chính.\nc) Công khai tài chính hàng năm cho cán bộ, giảng viên tham gia đóng góp ý kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tiêu chuẩn 7: Công tác đánh giá sinh viên tốt nghiệp và hoạt động tư vấn việc làm",
+          "text": "Điều 10. Tiêu chuẩn 7: Công tác đánh giá sinh viên tốt nghiệp và hoạt động tư vấn việc làm\n1. Thực hiện tốt việc đánh giá sinh viên tốt nghiệp\na) Xây dựng các bộ tiêu chuẩn đánh giá sinh viên tốt nghiệp về phẩm chất, tư tưởng chính trị, đạo đức nghề nghiệp và năng lực.\nb) Sử dụng bộ tiêu chuẩn đánh giá sinh viên tốt nghiệp theo đúng quy trình và phương pháp khoa học.\nc) Việc đánh giá đảm bảo công bằng, khách quan cho kết quả chính xác.\n2. Thực hiện đánh giá tình hình việc làm của sinh viên tốt nghiệp\na) Có bộ phận chuyên trách về công tác cựu sinh viên.\nb) Xây dựng cơ sở dữ liệu về cựu sinh viên và thường xuyên cập nhật thông tin.\nc) Định kỳ thực hiện điều tra về tình hình việc làm của sinh viên tốt nghiệp.\n3. Triển khai các hoạt động tư vấn nghề nghiệp và việc làm cho sinh viên tốt nghiệp.\na) Hàng năm, tổ chức các hoạt động tư vấn nghề nghiệp và việc làm cho người học sắp tốt nghiệp.\nb) Người học được huấn luyện, tư vấn về các kỹ năng tìm việc làm.\nc) Có mối liên hệ thường xuyên với các nhà tuyển dụng và cựu sinh viên để tư vấn, giới thiệu việc làm cho người học.\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012 43",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Trách nhiệm của trường thực hiện chương trình đào tạo giáo viên trung học phổ thông trình độ đại học",
+          "text": "Điều 11. Trách nhiệm của trường thực hiện chương trình đào tạo giáo viên trung học phổ thông trình độ đại học\nCác trường có thực hiện chương trình đào tạo giáo viên trung học phổ thông trình độ đại học phải căn cứ vào tình hình cụ thể của trường để lập kế hoạch xây dựng chương trình đạt tiêu chuẩn chất lượng giáo dục cho từng giai đoạn và có các biện pháp thực hiện tốt kế hoạch đề ra.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Trách nhiệm của các tổ chức kiểm định chất lượng giáo dục",
+          "text": "Điều 12. Trách nhiệm của các tổ chức kiểm định chất lượng giáo dục\nCác tổ chức kiểm định chất lượng giáo dục căn cứ vào các tiêu chuẩn này để đánh giá, xem xét và công nhận chương trình giáo dục đạt tiêu chuẩn chất lượng giáo dục cho từng giai đoạn./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Thông tư này Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học.",
+      "text": "Điều 1. Ban hành kèm theo Thông tư này Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2013. Thông tư này thay thế Quyết định số 03/2008/QĐ-BGDĐT ngày 04 tháng 02 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định",
+      "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 02 năm 2013. Thông tư này thay thế Quyết định số 03/2008/QĐ-BGDĐT ngày 04 tháng 02 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học.\n\n33\n\nCÔNG BÁO/Số 801 + 802/Ngày 31-12-2012",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Cục trưởng Cục Khảo thí và Kiểm định chất lượng giáo dục, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ươ",
+      "text": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Khảo thí và Kiểm định chất lượng giáo dục, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Thủ trưởng các cơ quan quản lý các đại học, học viện, trường đại học; Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học có thực hiện chương trình đào tạo giáo viên trung học phổ thông trình độ đại học; Giám đốc các tổ chức kiểm định chất lượng giáo dục chịu trách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

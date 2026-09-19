@@ -1,0 +1,192 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0487_182_2026_NĐ-CP_Nghị định quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quả.txt",
+  "mappedBy": "gemini-web",
+  "note": "11 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "182/2026/NĐ-CP",
+    "title": "Nghị định Quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập",
+    "documentType": "Nghị định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "22/05/2026",
+    "effectiveDate": "07/07/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị định này quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong các cơ sở giáo dục công lập, bao gồm các mức phụ cấp, cách tính, thời gian không được tính hưởng, phương thức nguồn kinh phí chi trả và nguyên tắc thực hiện.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Thị Thanh Trà",
+      "academicTitle": null,
+      "position": [
+        "Phó Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "63/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "43/2019/QH14",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục số 43/2019/QH14 được sửa đổi, bổ sung bởi Luật số 123/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "123/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục số 43/2019/QH14 được sửa đổi, bổ sung bởi Luật số 123/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "73/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Nhà giáo số 73/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "124/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục nghề nghiệp số 124/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "125/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục đại học số 125/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "45/2019/QH14",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Bộ luật Lao động số 45/2019/QH14;"
+    },
+    {
+      "targetDocumentNumber": "248/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 248/2025/QH15 của Quốc hội về một số cơ chế, chính sách đặc thù, vượt trội để thực hiện đột phá phát triển giáo dục và đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "204/2004/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 6",
+      "context": "Nhà giáo, cán bộ quản lý cơ sở giáo dục công tác trong trường giáo dưỡng hưởng phụ cấp phục vụ quốc phòng, an ninh và phụ cấp thâm niên theo quy định tại điểm a và điểm đ khoản 8 Điều 6 Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ..."
+    },
+    {
+      "targetDocumentNumber": "244/2005/QĐ-TTg",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ Quyết định số 244/2005/QĐ-TTg ngày 06 tháng 10 năm 2005 của Thủ tướng Chính phủ về chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo đang trực tiếp giảng dạy trong các cơ sở giáo dục công lập."
+    },
+    {
+      "targetDocumentNumber": "61/2006/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": "Điều 5",
+      "context": "Bãi bỏ quy định tại Điều 5 Nghị định số 61/2006/NĐ-CP ngày 20 tháng 6 năm 2006 của Chính phủ về chính sách đối với nhà giáo, cán bộ quản lý giáo dục công tác ở trường chuyên biệt, ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn."
+    },
+    {
+      "targetDocumentNumber": "113/2015/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ quy định về phụ cấp đặc thù đối với nhà giáo dạy tích hợp, nhà giáo là nghệ nhân, người có trình độ kỹ năng nghề cao dạy thực hành và phụ cấp ưu đãi đối với nhà giáo dạy người khuyết tật quy định tại Điều 4, Điều 5, Điều 6, Điều 7, Điều 8 và Điều 9 Nghị định số 113/2015/NĐ-CP..."
+    }
+  ],
+  "mentions": [
+    "Bộ Quốc phòng",
+    "Bộ Công an",
+    "Bộ Giáo dục và Đào tạo",
+    "Trường Hữu nghị 80",
+    "Trường Hữu nghị T78",
+    "Trường Phổ thông Vùng cao Việt Bắc",
+    "Học viện Chính trị Quốc gia Hồ Chí Minh",
+    "Ban Tổ chức Trung ương",
+    "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\n1. Nghị định này quy định chế độ phụ cấp ưu đãi theo nghề đối với nhà\ngiáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong\ncác cơ sở giáo dục công lập.\n2. Nghị định này không áp dụng đối với cơ sở giáo dục thuộc Bộ Quốc\nphòng và Bộ Công an.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Nhà giáo, cán bộ quản lý cơ sở giáo dục, nhân sự hỗ trợ giáo dục công\ntác trong các cơ sở giáo dục công lập thuộc hệ thống giáo dục quốc dân, bao\ngồm cả người đang trong thời gian tập sự, thử việc hoặc hợp đồng áp dụng tiền\nlương theo bảng lương của viên chức.\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n38\n\n2. Cơ quan quản lý nhà nước về giáo dục, cơ quan quản lý giáo dục, cơ sở\ngiáo dục thuộc hệ thống giáo dục quốc dân.\n3. Tổ chức, cá nhân có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Mức phụ cấp ưu đãi theo nghề",
+      "text": "Điều 3. Mức phụ cấp ưu đãi theo nghề\n1. Mức phụ cấp ưu đãi 20% được áp dụng đối với nhân sự hỗ trợ giáo dục\ncông tác trong cơ sở giáo dục mầm non, phổ thông, giáo dục thường xuyên,\ntrường trung học nghề, trường chuyên biệt, Trường Hữu nghị 80, Trường Hữu\nnghị T78, Trường Phổ thông Vùng cao Việt Bắc, trung tâm hỗ trợ phát triển\ngiáo dục hòa nhập.\n2. Mức phụ cấp ưu đãi 25% được áp dụng đối với các trường hợp sau:\na) Nhà giáo giảng dạy trong cơ sở giáo dục đại học và các trường đào tạo,\nbồi dưỡng của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tổ chức chính trị\n- xã hội ở trung ương;\nb) Người trực tiếp hướng dẫn thực hành tại xưởng trường, trạm, trại, phòng\nthí nghiệm của cơ sở giáo dục đại học hoặc hướng dẫn thực hành chương trình\ngiáo dục đại học trên tàu huấn luyện.\n3. Mức phụ cấp ưu đãi 30% được áp dụng đối với các trường hợp sau:\na) Nhà giáo giảng dạy trong trung tâm chính trị của xã, phường, đặc khu\ntrực thuộc tỉnh, thành phố trực thuộc trung ương;\nb) Nhà giáo giảng dạy lý thuyết hoặc thực hành trong trường cao đẳng,\ntrường trung cấp;\nc) Người trực tiếp hướng dẫn thực hành tại xưởng trường, trạm, trại, phòng\nthí nghiệm của trường cao đẳng, trường trung cấp hoặc hướng dẫn thực hành\nchương trình giáo dục nghề nghiệp trên tàu huấn luyện;\nd) Nhà giáo giảng dạy trong trung tâm giáo dục nghề nghiệp.\n4. Mức phụ cấp ưu đãi 35% được áp dụng đối với nhà giáo giảng dạy trong\ntrung tâm giáo dục nghề nghiệp đóng trên địa bàn các xã khu vực I, khu vực II\nvùng đồng bào dân tộc thiểu số và miền núi; xã đảo, hải đảo, xã biên giới theo\nquy định.\n5. Mức phụ cấp ưu đãi 40% được áp dụng đối với các trường hợp sau:\na) Nhà giáo giảng dạy môn giáo dục chính trị trong trường trung cấp;\nb) Nhà giáo giảng dạy trong trường trung học cơ sở, trường trung học phổ\nthông, trường trung học nghề;\nc) Nhà giáo giảng dạy trong trung tâm giáo dục thường xuyên, trung tâm\ngiáo dục nghề nghiệp - giáo dục thường xuyên;\nd) Nhà giáo giảng dạy trong trường cán bộ quản lý giáo dục và đào tạo,\ntrường sư phạm, khoa sư phạm thuộc cơ sở giáo dục đại học, trường cao đẳng;\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n39\n\nđ) Nhà giáo giảng dạy tích hợp lý thuyết với thực hành trong trường cao\nđẳng, trường trung cấp;\ne) Nhà giáo là Nghệ sĩ ưu tú, Thầy thuốc ưu tú, Nghệ nhân ưu tú trở lên hoặc\nngười có chứng chỉ kỹ năng nghề quốc gia bậc 4 trở lên hoặc thợ bậc 5/6, 6/7 trở\nlên hoặc tương đương, trực tiếp giảng dạy thực hành trong trường cao đẳng, trường\ntrung cấp.\n6. Mức phụ cấp ưu đãi 45% được áp dụng đối với các trường hợp sau:\na) Nhà giáo giảng dạy trong các cơ sở giáo dục mầm non, trường tiểu học;\nb) Nhà giáo giảng dạy trong trường trung học cơ sở, trường trung học phổ\nthông, trung tâm giáo dục thường xuyên, trung tâm giáo dục nghề nghiệp - giáo\ndục thường xuyên, trường trung học nghề đóng trên địa bàn các xã khu vực I,\nkhu vực II vùng đồng bào dân tộc thiểu số và miền núi; xã đảo, hải đảo, xã biên\ngiới theo quy định;\nc) Nhà giáo giảng dạy môn giáo dục chính trị trong trường cao đẳng, các\nmôn lý luận chính trị trong cơ sở giáo dục đại học, trường đào tạo, bồi dưỡng\ncủa bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tổ chức chính trị - xã hội\nở trung ương.\n7. Mức phụ cấp ưu đãi 60% được áp dụng đối với các trường hợp sau:\na) Nhà giáo, cán bộ quản lý cơ sở giáo dục đang công tác trong trường\nnăng khiếu thể dục thể thao, trường năng khiếu nghệ thuật, trường phổ thông\ndân tộc bán trú;\nb) Nhà giáo giảng dạy trong các cơ sở giáo dục mầm non, trường tiểu học\nđóng trên địa bàn xã khu vực I, khu vực II vùng đồng bào dân tộc thiểu số và\nmiền núi; xã đảo, hải đảo, xã biên giới theo quy định.\n8. Mức phụ cấp ưu đãi 70% được áp dụng đối với nhà giáo, cán bộ quản\nlý cơ sở giáo dục công tác ở vùng có điều kiện kinh tế - xã hội đặc biệt khó\nkhăn (trừ trường hợp quy định tại điểm c khoản 9 Điều này).\n9. Mức phụ cấp ưu đãi 80% được áp dụng đối với các trường hợp sau:\na) Nhà giáo, cán bộ quản lý cơ sở giáo dục đang công tác trong trường phổ\nthông dân tộc nội trú, trường phổ thông nội trú, trường trung học phổ thông\nchuyên, trường dự bị đại học, Trường Hữu nghị 80, Trường Hữu nghị T78,\nTrường Phổ thông Vùng cao Việt Bắc;\nb) Nhà giáo, cán bộ quản lý cơ sở giáo dục đang công tác trong trường,\nlớp dành cho người khuyết tật (trừ trường hợp quy định tại Điều 4 Nghị định\nnày), trung tâm hỗ trợ phát triển giáo dục hòa nhập;\nc) Nhà giáo giảng dạy trong các cơ sở giáo dục mầm non, phổ thông,\ntrường trung học nghề, trường chuyên biệt đóng trên địa bàn có điều kiện kinh\ntế - xã hội đặc biệt khó khăn theo quy định của Chính phủ.\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n40\n\n10. Nhà giáo giảng dạy trong Học viện Chính trị Quốc gia Hồ Chí Minh\nvà trường chính trị tỉnh, thành phố trực thuộc trung ương hưởng mức phụ cấp\nưu đãi theo nghề như hiện hành theo quyết định của Thủ tướng Chính phủ và\nhướng dẫn của Ban Tổ chức Trung ương cho đến khi có quy định mới.\n11. Nhà giáo, cán bộ quản lý cơ sở giáo dục công tác trong trường giáo\ndưỡng hưởng phụ cấp phục vụ quốc phòng, an ninh và phụ cấp thâm niên theo\nquy định tại điểm a và điểm đ khoản 8 Điều 6 Nghị định số 204/2004/NĐ-CP\nngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ,\ncông chức, viên chức và lực lượng vũ trang (Nghị định số 204/2004/NĐ-CP).\nTrường hợp mức phụ cấp được hưởng này thấp hơn mức 70% thì được hưởng\nthêm tỉ lệ phần trăm (%) chênh lệch để đạt được mức phụ cấp ưu đãi bằng 70%\nmức lương hiện hưởng và phụ cấp chức vụ lãnh đạo, phụ cấp thâm niên vượt\nkhung (nếu có).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Quy định phụ cấp ưu đãi theo nghề đối với nhà giáo giảng dạy",
+      "text": "Điều 4. Quy định phụ cấp ưu đãi theo nghề đối với nhà giáo giảng dạy\nngười khuyết tật trong các cơ sở giáo dục nghề nghiệp, trung tâm giáo dục\nnghề nghiệp công lập\n1. Nhà giáo chuyên trách giảng dạy người khuyết tật trong cơ sở giáo dục\nnghề nghiệp, trung tâm giáo dục nghề nghiệp công lập dành riêng cho người\nkhuyết tật, lớp học dành riêng cho người khuyết tật có từ 70% học viên trở lên\nlà người khuyết tật được hưởng phụ cấp ưu đãi theo nghề mức 70%.\n2. Nhà giáo không chuyên trách giảng dạy người khuyết tật trong lớp học\ndành riêng cho người khuyết tật có từ 70% học viên trở lên là người khuyết tật\ntrong cơ sở giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp công lập\nhưởng phụ cấp ưu đãi theo nghề mức 40% theo số giờ giảng dạy người khuyết\ntật thực tế.\n3. Nhà giáo chuyên trách giảng dạy người khuyết tật trong lớp học hòa\nnhập thuộc cơ sở giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp công\nlập có từ 5% đến dưới 70% học viên là người khuyết tật được hưởng các mức\nphụ cấp ưu đãi theo nghề như sau:\na) Mức 35% áp dụng đối với lớp hòa nhập có từ 5% đến dưới 10% học\nviên là người khuyết tật;\nb) Mức 40% áp dụng đối với lớp hòa nhập có từ 10% đến dưới 20% học\nviên là người khuyết tật;\nc) Mức 45% áp dụng đối với lớp hòa nhập có từ 20% đến dưới 30% học\nviên là người khuyết tật;\nd) Mức 50% áp dụng đối với lớp hòa nhập có từ 30% đến dưới 40% học\nviên là người khuyết tật;\nđ) Mức 55% áp dụng đối với lớp hòa nhập có từ 40% đến dưới 50% học\nviên là người khuyết tật;\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n41\n\ne) Mức 60% áp dụng đối với lớp hòa nhập có từ 50% đến dưới 60% học\nviên là người khuyết tật;\ng) Mức 65% áp dụng đối với lớp hòa nhập có từ 60% đến dưới 70% học\nviên là người khuyết tật.\n4. Nhà giáo không chuyên trách giảng dạy người khuyết tật trong lớp học\nhòa nhập thuộc cơ sở giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp công\nlập có từ 5% đến dưới 70% học viên là người khuyết tật được hưởng các mức phụ\ncấp ưu đãi theo nghề theo số giờ giảng dạy người khuyết tật thực tế như sau:\na) Mức 5% áp dụng đối với lớp hòa nhập có từ 5% đến dưới 10% học viên\nlà người khuyết tật;\nb) Mức 10% áp dụng đối với lớp hòa nhập có từ 10% đến dưới 20% học\nviên là người khuyết tật;\nc) Mức 15% áp dụng đối với lớp hòa nhập có từ 20% đến dưới 30% học\nviên là người khuyết tật;\nd) Mức 20% áp dụng đối với lớp hòa nhập có từ 30% đến dưới 40% học\nviên là người khuyết tật;\nđ) Mức 25% áp dụng đối với lớp hòa nhập có từ 40% đến dưới 50% học\nviên là người khuyết tật;\ne) Mức 30% áp dụng đối với lớp hòa nhập có từ 50% đến dưới 60% học\nviên là người khuyết tật;\ng) Mức 35% áp dụng đối với lớp hòa nhập có từ 60% đến dưới 70% học\nviên là người khuyết tật.\n5. Nhà giáo không chuyên trách giảng dạy cho người khuyết tật hưởng\nphụ cấp ưu đãi theo quy định tại khoản 2 và khoản 4 Điều này đồng thời được\nhưởng phụ cấp ưu đãi theo quy định tại Điều 3 Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Cách tính phụ cấp ưu đãi theo nghề",
+      "text": "Điều 5. Cách tính phụ cấp ưu đãi theo nghề\nMức tiền phụ cấp ưu đãi theo nghề hằng tháng đối với nhà giáo, cán bộ\nquản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục được tính như sau:\n\nMức tiền phụ cấp ưu đãi theo nghề hằng tháng = (Hệ số lương hiện hưởng + Phụ cấp\nchức vụ lãnh đạo + phụ cấp thâm niên vượt khung (nếu có) + hệ số chênh lệch bảo lưu\n(nếu có)) × Mức lương × Mức phụ cấp ưu đãi theo nghề\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n42\n\nĐối với trường hợp trong tháng có thời gian không được tính hưởng phụ\ncấp ưu đãi theo nghề (theo quy định tại Điều 6 Nghị định này) thì mức tiền phụ\ncấp ưu đãi theo nghề đối với thời gian còn lại của tháng được tính như sau:\n\nMức tiền phụ cấp ưu đãi theo nghề = [Mức tiền phụ cấp ưu đãi theo nghề hằng tháng\n÷ 22 ngày (số ngày làm việc tiêu chuẩn trong 01 tháng)] × (22 ngày - số ngày không\nđược tính hưởng phụ cấp ưu đãi theo nghề trong tháng)",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Thời gian không được tính hưởng phụ cấp ưu đãi theo nghề",
+      "text": "Điều 6. Thời gian không được tính hưởng phụ cấp ưu đãi theo nghề\nNhà giáo, cán bộ quản lý cơ sở giáo dục, nhân sự hỗ trợ giáo dục thuộc\nđối tượng áp dụng của Nghị định này không được tính hưởng phụ cấp ưu đãi\ntheo nghề trong các khoảng thời gian sau:\n1. Thời gian đi công tác, làm việc hoặc học tập ở nước ngoài theo chế độ\nchỉ hưởng 40% tiền lương quy định tại khoản 4 Điều 8 Nghị định số\n204/2004/NĐ-CP.\n2. Thời gian bị đình chỉ công tác, thời gian bị tạm giữ, tạm giam.\n3. Thời gian nghỉ thai sản đối với nhà giáo nữ và thời gian nghỉ việc hưởng\ntrợ cấp bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.\n4. Thời gian nghỉ không hưởng lương liên tục từ 01 tháng trở lên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Phương thức, nguồn kinh phí chi trả",
+      "text": "Điều 7. Phương thức, nguồn kinh phí chi trả\n1. Phụ cấp ưu đãi theo nghề được trả cùng kỳ lương hằng tháng (kể cả thời\ngian nghỉ hè) và không dùng để tính đóng, hưởng chế độ bảo hiểm xã hội.\n2. Nguồn kinh phí chi trả chế độ phụ cấp ưu đãi theo nghề đối với nhà\ngiáo, cán bộ quản lý cơ sở giáo dục và nhân sự hỗ trợ giáo dục công tác trong\ncác cơ sở giáo dục công lập được sử dụng từ nguồn ngân sách nhà nước theo phân\ncấp và nguồn thu sự nghiệp của đơn vị theo quy định hiện hành của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Nguyên tắc thực hiện chế độ phụ cấp ưu đãi theo nghề",
+      "text": "Điều 8. Nguyên tắc thực hiện chế độ phụ cấp ưu đãi theo nghề\n1. Viên chức được điều động từ cơ sở giáo dục công lập này đến cơ sở\ngiáo dục công lập khác hoặc đến cơ quan quản lý giáo dục được hưởng phụ cấp\nưu đãi theo nghề và các chế độ phụ cấp khác (nếu có) áp dụng với vị trí việc\nlàm đảm nhiệm tại nơi đến.\nTrường hợp mức phụ cấp ưu đãi theo nghề tại nơi đi cao hơn nơi đến thì\nđược bảo lưu mức phụ cấp ưu đãi theo nghề của nơi đi trong thời gian tối đa 12\ntháng; trường hợp thời gian điều động dưới 12 tháng thì được bảo lưu mức phụ\ncấp ưu đãi theo nghề trong thời gian điều động.\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n43\n\n2. Nhà giáo, cán bộ quản lý cơ sở giáo dục, nhân sự hỗ trợ giáo dục nếu\nđồng thời thuộc đối tượng được hưởng phụ cấp ưu đãi theo nghề theo quy định\ntại các văn bản quy phạm pháp luật khác nhau thì chỉ được hưởng một mức phụ\ncấp ưu đãi theo nghề cao nhất.\n3. Nhà giáo, cán bộ quản lý cơ sở giáo dục, nhân sự hỗ trợ giáo dục nếu\nđồng thời thuộc đối tượng hưởng nhiều mức phụ cấp ưu đãi theo nghề quy định\ntại Nghị định này thì chỉ được hưởng một mức phụ cấp ưu đãi theo nghề cao nhất.\n4. Đối với cơ sở giáo dục có nhiều cấp học hoặc trình độ đào tạo, nhà giáo\nđược hưởng phụ cấp ưu đãi theo nghề theo mức của cấp học hoặc trình độ đào\ntạo có số tiết dạy hoặc số giờ chuẩn giảng dạy nhiều nhất trong tháng, bao gồm\ncả số tiết, giờ được quy đổi, giảm hoặc tính đủ theo quy định; trường hợp số\ntiết dạy hoặc giờ chuẩn giảng dạy bằng nhau thì được hưởng mức cao nhất.\nHiệu trưởng, phó hiệu trưởng, giám đốc, phó giám đốc được hưởng mức phụ\ncấp ưu đãi theo nghề cao nhất.\n5. Nhà giáo được phân công giảng dạy liên trường được hưởng mức phụ\ncấp ưu đãi theo nghề áp dụng tại cơ sở giáo dục nơi quản lý nhà giáo.\n6. Đối với cơ sở giáo dục có nhiều điểm trường hoặc phân hiệu: hiệu\ntrưởng, giám đốc được hưởng mức phụ cấp ưu đãi theo nghề cao nhất trong các\nđiểm trường hoặc phân hiệu; phó hiệu trưởng, phó giám đốc được hưởng mức\nphụ cấp ưu đãi theo nghề cao nhất trong các điểm trường hoặc phân hiệu thuộc\nphạm vi được phân công phụ trách hoặc điều hành; nhà giáo được phân công\ngiảng dạy tại nhiều điểm trường hoặc phân hiệu được hưởng mức phụ cấp ưu\nđãi theo nghề của điểm trường hoặc phân hiệu có số tiết dạy hoặc số giờ chuẩn\ngiảng dạy nhiều nhất trong tháng, bao gồm cả số tiết, giờ được quy đổi, giảm\nhoặc tính đủ theo quy định (nếu số tiết dạy hoặc giờ chuẩn giảng dạy bằng nhau\nthì được hưởng mức cao nhất).\n7. Nhà giáo không thuộc trường sư phạm hoặc khoa sư phạm nhưng được\nphân công giảng dạy tại trường sư phạm hoặc khoa sư phạm, nếu có số giờ giảng\ndạy đạt từ 50% định mức trở lên thì được hưởng mức phụ cấp ưu đãi theo nghề\náp dụng đối với nhà giáo giảng dạy tại trường sư phạm hoặc khoa sư phạm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Điều khoản áp dụng",
+      "text": "Điều 9. Điều khoản áp dụng\n1. Cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp được tự chủ quyết định\nviệc chi trả chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ\nsở giáo dục, nhân sự hỗ trợ giáo dục thuộc thẩm quyền quản lý. Trong đó, mức\nphụ cấp ưu đãi theo nghề đối với nhà giáo, cán bộ quản lý cơ sở giáo dục, nhân\nsự hỗ trợ giáo dục (nếu có) không thấp hơn quy định tại Nghị định này từ nguồn\nthu hợp pháp ngoài ngân sách nhà nước cấp được để lại và nguồn kinh phí hợp\npháp khác theo quy định của pháp luật, phù hợp với quy chế chi tiêu nội bộ và\nkết quả hoạt động của đơn vị.\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n44\n\n2. Viên chức đã được bổ nhiệm chức danh trợ giảng trước ngày 01 tháng\n01 năm 2026 được bảo lưu mức phụ cấp ưu đãi theo nghề hiện hưởng trong thời\ngian 12 tháng, kể từ ngày 01 tháng 01 năm 2026.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 10. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành kể từ ngày 07 tháng 7 năm 2026.\nCác mức phụ cấp ưu đãi theo nghề quy định tại Nghị định này được thực hiện\nkể từ ngày 01 tháng 01 năm 2026.\n2. Bộ Giáo dục và Đào tạo có trách nhiệm rà soát, đề xuất Chính phủ điều\nchỉnh mức phụ cấp ưu đãi theo nghề phù hợp với tình hình kinh tế - xã hội và\nkhả năng cân đối của ngân sách nhà nước.\n3. Việc thực hiện chế độ phụ cấp ưu đãi theo nghề quy định tại Nghị định\nnày chịu sự kiểm tra, thanh tra, kiểm toán của các cơ quan nhà nước theo quy\nđịnh của pháp luật. Bộ Giáo dục và Đào tạo phối hợp với các bộ, ngành, địa\nphương có liên quan chỉ đạo kiểm tra, giám sát việc thực hiện các nội dung quy\nđịnh tại Nghị định này theo quy định của pháp luật.\n4. Trường hợp nhà giáo nữ đang nghỉ thai sản và được chi trả phụ cấp ưu\nđãi theo nghề theo quyết định của cấp có thẩm quyền trước ngày Nghị định này\ncó hiệu lực thi hành thì tiếp tục được chi trả theo quyết định.\n5. Bãi bỏ Quyết định số 244/2005/QĐ-TTg ngày 06 tháng 10 năm 2005\ncủa Thủ tướng Chính phủ về chế độ phụ cấp ưu đãi theo nghề đối với nhà giáo\nđang trực tiếp giảng dạy trong các cơ sở giáo dục công lập.\n6. Bãi bỏ quy định tại Điều 5 Nghị định số 61/2006/NĐ-CP ngày 20 tháng 6\nnăm 2006 của Chính phủ về chính sách đối với nhà giáo, cán bộ quản lý giáo\ndục công tác ở trường chuyên biệt, ở vùng có điều kiện kinh tế - xã hội đặc biệt\nkhó khăn.\n7. Bãi bỏ quy định về phụ cấp đặc thù đối với nhà giáo dạy tích hợp, nhà\ngiáo là nghệ nhân, người có trình độ kỹ năng nghề cao dạy thực hành và phụ\ncấp ưu đãi đối với nhà giáo dạy người khuyết tật quy định tại Điều 4, Điều 5,\nĐiều 6, Điều 7, Điều 8 và Điều 9 Nghị định số 113/2015/NĐ-CP ngày 09 tháng\n11 năm 2015 của Chính phủ quy định phụ cấp đặc thù, phụ cấp ưu đãi, phụ cấp\ntrách nhiệm công việc và phụ cấp nặng nhọc, độc hại, nguy hiểm đối với nhà\ngiáo trong các cơ sở giáo dục nghề nghiệp công lập.\n8. Trường hợp các văn bản dẫn chiếu tại Nghị định này được sửa đổi, bổ\nsung hoặc thay thế thì thực hiện theo các văn bản mới.\n\nCÔNG BÁO/Số 312/Ngày 07-06-2026\n45",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 11. Trách nhiệm thi hành\nCác Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân\ntỉnh, thành phố trực thuộc trung ương và các cơ sở giáo dục chịu trách nhiệm\nthi hành Nghị định này./.\n\nTM. CHÍNH PHỦ",
+      "isImplementationClause": false
+    }
+  ]
+}

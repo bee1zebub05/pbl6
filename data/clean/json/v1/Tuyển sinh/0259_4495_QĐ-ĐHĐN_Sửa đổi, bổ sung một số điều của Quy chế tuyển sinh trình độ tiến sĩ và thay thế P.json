@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0259_4495_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế P.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "4495/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "19/10/2023",
+    "effectiveDate": "19/10/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN và thay thế Phụ lục IV, bao gồm quy định về năng lực ngoại ngữ của người dự tuyển, đánh giá hồ sơ, kiểm tra hồ sơ trúng tuyển sau khi nhập học và trách nhiệm của các đơn vị liên quan.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "3297/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ\nvà thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN\nngày 29/9/2021 của Giám đốc Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "30/2018/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 30/2018/TT-BGDĐT ngày 24/12/2018 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý người nước ngoài học tập tại Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "18/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo",
+    "Trường Đại học Ngoại ngữ",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng\n\n1. Sửa đổi điểm d khoản 2 Điều 3 như sau:\n“d) Người dự tuyển đào tạo trình độ tiến sĩ ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài phải đáp ứng\n\nyêu cầu về năng lực ngoại ngữ khác được quy định trong Đề án tuyển sinh của cơ sở đào tạo.”\n\n2. Sửa đổi khoản 3 Điều 3 như sau:\n“3. Người dự tuyển là công dân nước ngoài nếu đăng ký theo học chương trình đào tạo trình độ tiến sĩ bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài hoặc đã tốt nghiệp đại học, thạc sĩ hoặc tiến sĩ mà chương trình đào tạo được giảng dạy bằng tiếng Việt; phải đáp ứng yêu cầu về ngoại ngữ thứ hai do cơ sở đào tạo quy định trong Đề án tuyển sinh, trừ trường hợp là người bản ngữ của ngôn ngữ được sử dụng trong chương trình đào tạo trình độ tiến sĩ.”\n\n3. Sửa đổi điểm a khoản 3 Điều 6 như sau:\n“a) Hội đồng xét tuyển NCS tổ chức đánh giá thí sinh dự tuyển trình độ tiến sĩ trên cơ sở hồ sơ dự tuyển và việc trình bày đề cương nghiên cứu của thí sinh theo thang điểm 100.\n- Điểm đánh giá hồ sơ dự tuyển tối đa 50; điểm đánh giá việc trình bày và vấn đáp của thí sinh tối đa 40; điểm đánh giá chất lượng bài báo hoặc báo cáo khoa học là 10;\n- Thí sinh được xếp loại đạt nếu điểm đánh giá hồ sơ dự tuyển và điểm đánh giá trình bày vấn đáp đạt từ 50% điểm tối đa trở lên và điểm trung bình của tất cả các thành viên hội đồng từ 50 điểm trở lên. Quy định cụ thể về thang điểm và trình tự đánh giá trong xét tuyển NCS thực hiện theo Phụ lục IV.”\n\n4. Bổ sung khoản 6 Điều 6 như sau:\n“6. Kiểm tra hồ sơ thí sinh trúng tuyển sau khi nhập học\n- Các cơ sở đào tạo chịu trách nhiệm kiểm tra thông tin và hồ sơ minh chứng (sau đây gọi là hậu kiểm) của tất cả các thí sinh trúng tuyển đã tham gia nhập học các đợt tuyển sinh khác nhau trong năm tuyển sinh và báo cáo kết quả hậu kiểm về ĐHĐN trong thời gian 30 ngày sau khi nhập học.\n- ĐHĐN tổ chức kiểm tra các trường hợp bất thường và xử lý các sai sót trong tuyển sinh được phát hiện sau khi hậu kiểm.”\n\n5. Sửa đổi khoản 2 Điều 10 như sau:\n“2. Các cơ sở đào tạo, các ban chức năng và các đơn vị liên quan căn cứ quy chế này để phối hợp tổ chức tuyển sinh trình độ tiến sĩ.\nTrường Đại học Ngoại ngữ quy định về yêu cầu năng lực ngoại ngữ khác đối với ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài trong Đề án tuyển sinh dựa trên đặc điểm của từng ngành đảm bảo phù hợp với quy định tại Thông tư số 18/2021/TT-BGDĐT; tổ chức đánh giá trình độ ngoại ngữ khác và gửi kết quả về Đại học Đà Nẵng để xét tuyển.”",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thay thế",
+      "text": "Điều 2. Thay thế\n\nPhụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN được thay thế tại Phụ lục kèm theo Quyết định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 3. Điều khoản thi hành\n1. Quyết định này có hiệu lực kể từ ngày ký.\n2. Chánh Văn phòng, Trưởng các ban hữu quan của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị đào tạo thuộc và trực thuộc căn cứ Quyết định thi hành.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0392_322_QĐ-BGDĐT_Kế hoạch theo dõi tình hình thi hành pháp luật và theo dõi thi hành pháp luật về.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "322/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch theo dõi tình hình thi hành pháp luật và theo dõi thi hành pháp luật về xử lý vi phạm hành chính năm 2025 của Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/01/2025",
+    "effectiveDate": "24/01/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định phê duyệt Kế hoạch theo dõi tình hình thi hành pháp luật và theo dõi thi hành pháp luật về xử lý vi phạm hành chính năm 2025 nhằm đánh giá thực trạng, nâng cao hiệu quả thi hành pháp luật trong lĩnh vực giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Văn Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "59/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ về theo dõi tình hình thi hành pháp luật; Nghị định số 32/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "32/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ về theo dõi tình hình thi hành pháp luật; Nghị định số 32/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "118/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 118/2021/NĐ-CP ngày 23 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính;"
+    },
+    {
+      "targetDocumentNumber": "19/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghị định số 19/2020/NĐ-CP ngày 12/02/2020 về kiểm tra, xử lý kỷ luật trong thi hành pháp luật về xử lý vi phạm hành chính (sau đây gọi là Nghị định số 19/2020/NĐ-CP);"
+    },
+    {
+      "targetDocumentNumber": "04/2021/TT-BTP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 04/2021/TT-BTP ngày 21 tháng 6 năm 2021 của Bộ Tư pháp hướng dẫn thi hành Nghị định số 59/2012/NĐ-CP ngày 23 tháng 7 năm 2012 của Chính phủ về theo dõi tình hình thi hành pháp luật và Nghị định số 32/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 59/2012/NĐ-CP (sau đây gọi là Thông tư số 04/2021/TT-BTP);"
+    },
+    {
+      "targetDocumentNumber": "04/2021/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghị định số 04/2021/NĐ-CP ngày 22/01/2021 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giáo dục (sau đây gọi chung là Nghị định số 04/2021/NĐ-CP);"
+    },
+    {
+      "targetDocumentNumber": "4154/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thời gian thực hiện: Trong năm 2025 (theo Quyết định số 4154/QĐ-BGDĐT ngày 25/12/2024)."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Bộ Tư pháp"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch theo dõi tình hình thi hành pháp luật và theo dõi thi hành pháp luật về xử lý vi phạm hành chính năm 2025 của Bộ Giáo dục và Đào tạo.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch theo dõi tình hình thi hành pháp luật và theo dõi thi hành pháp luật về xử lý vi phạm hành chính năm 2025 của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch tài chính, Vụ trưởng Vụ Pháp chế, Chánh Thanh tra, Thủ trưởng các đơn vị liên quan thuộc Bộ Giáo dục và Đào tạo; Giám đốc các sở giáo dục và đào tạo; Thủ trưởng ",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch tài chính, Vụ trưởng Vụ Pháp chế, Chánh Thanh tra, Thủ trưởng các đơn vị liên quan thuộc Bộ Giáo dục và Đào tạo; Giám đốc các sở giáo dục và đào tạo; Thủ trưởng các cơ sở giáo dục đại học, trường cao đẳng sư phạm chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0163_05_NQ-HĐĐH_Quyết định 05_NQ-HĐĐH Quy chế tài chính của ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "14 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "05/NQ-HĐĐH",
+    "title": "Nghị quyết Về việc ban hành Quy chế tài chính của Đại học Đà Nẵng",
+    "documentType": "Nghị quyết",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "22/04/2021",
+    "effectiveDate": "22/04/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị quyết ban hành kèm theo Quy chế tài chính của Đại học Đà Nẵng, quy định về quản lý tài chính, sử dụng vốn đầu tư công và tài sản công của Đại học Đà Nẵng và các đơn vị dự toán trực thuộc.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Hội đồng Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phan Minh Đức",
+      "academicTitle": null,
+      "position": [
+        "Chủ tịch"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng (ĐHĐN);"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng ĐHĐN về việc ban hành Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "996/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 996/QĐ-BGDĐT và Quyết định số 998/QĐ-BGDĐT ngày 17/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Hội đồng ĐHĐN và Chủ tịch Hội đồng ĐHĐN, nhiệm kỳ 2021-2026;"
+    },
+    {
+      "targetDocumentNumber": "04/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 04/NQ-HĐĐH ngày 22/4/2021 của Hội đồng ĐHĐN về việc thống nhất nội dung và đồng ý ban hành Quy chế tài chính của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "86/2015/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đối với các chương trình đào tạo có mức học phí cao hơn mức trần học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định của Nhà nước (theo Nghị định số 86/2015/NĐ-CP ngày 02/10/2015) thì mức học phí được tính để trích nộp là mức trần học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định…"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Kho bạc Nhà nước Đà Nẵng",
+    "Đảng ủy ĐHĐN",
+    "Công đoàn ĐHĐN",
+    "Đoàn TN ĐHĐN",
+    "Bộ Tài chính",
+    "Bộ Kế hoạch và Đầu tư"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế tài chính Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": "CON_HIEU_LUC",
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Đối tượng áp dụng và phạm vi điều chỉnh",
+          "text": "Điều 1. Đối tượng áp dụng và phạm vi điều chỉnh\n1. Quy chế này quy định về quản lý tài chính, sử dụng vốn đầu tư công và tài sản công của Đại học Đà Nẵng (ĐHĐN) và các trường đại học thành viên, đơn vị trực thuộc và thuộc ĐHĐN được giao trực tiếp sử dụng ngân sách nhà nước (NSNN) (sau đây được gọi là các đơn vị dự toán trực thuộc ĐHĐN).\n2. Quy chế này quy định quản lý các nguồn thu và nhiệm vụ chi thuộc phạm vi chức năng, nhiệm vụ và thẩm quyền của ĐHĐN do Nhà nước quy định và các đơn vị dự toán trực thuộc ĐHĐN, bao gồm: lập dự toán NSNN và kế hoạch tài chính, chấp hành dự toán NSNN, quyết toán NSNN và công tác hạch toán kế toán.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc quản lý tài chính",
+          "text": "Điều 2. Nguyên tắc quản lý tài chính\n1. Đảm bảo nguyên tắc về quan hệ quản lý giữa các cấp ngân sách theo các quy định hiện hành của pháp luật.\n2. Đảm bảo quản lý toàn diện, thống nhất, tập trung, dân chủ, hiệu quả, tiết kiệm, công khai, minh bạch và công bằng.\n3. Hoạt động thu chi được thực hiện trong phạm vi chức năng, nhiệm vụ được giao và dựa trên chế độ thu theo quy định của pháp luật hiện hành. Hoạt động chi phải được thực hiện theo dự toán được cấp có thẩm quyền giao và phê duyệt, đảm bảo đúng chế độ, tiêu chuẩn, định mức chi do cơ quan có thẩm quyền quy định.\n4. Đảm bảo khai thác triệt để lợi thế tổng hợp của một đại học vùng, đồng thời phát huy vai trò và tính tự chủ của các đơn vị được phân cấp trong quản lý tài chính theo bối cảnh hoạt động của từng đơn vị nhằm thực hiện có hiệu quả nhiệm vụ chung của ĐHĐN và hỗ trợ các trường đại học thành viên, đơn vị thuộc và trực thuộc ĐHĐN thực hiện tốt nhiệm vụ của đơn vị.\n5. Phân cấp quản lý phải đảm bảo gắn quyền hạn với trách nhiệm của từng đơn vị và từng cá nhân thuộc các cấp quản lý, đi đôi với việc tăng cường công tác thanh tra, kiểm tra, giám sát và xử lý vi phạm của đơn vị quản lý cấp trên đối với trách nhiệm của người đứng đầu đơn vị dự toán theo mức độ phân cấp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Hệ thống tổ chức quản lý tài chính",
+          "text": "Điều 3. Hệ thống tổ chức quản lý tài chính\n1. ĐHĐN là đơn vị dự toán trực thuộc Bộ Giáo dục và Đào tạo (GD&ĐT) và chịu trách nhiệm trước Bộ GD&ĐT về việc quản lý toàn bộ các nguồn tài chính của ĐHĐN. Các trường đại học thành viên, đơn vị thuộc và trực thuộc được giao trực tiếp sử dụng NSNN là các đơn vị dự toán trực thuộc, gồm các đơn vị dự toán độc lập trực thuộc và các đơn vị dự toán phụ thuộc trực thuộc.\n2. Các đơn vị dự toán độc lập trực thuộc ĐHĐN là các trường đại học thành viên, đơn vị thuộc và trực thuộc ĐHĐN được phân cấp là đơn vị dự toán, được phép hạch toán độc lập. Hoạt động tài chính của các đơn vị này tuân thủ các quy định của Quy chế này và Quy chế chi tiêu nội bộ của đơn vị mình.\n3. Các đơn vị dự toán phụ thuộc trực thuộc ĐHĐN là các đơn vị thuộc ĐHĐN được phân cấp trực tiếp sử dụng ngân sách và không được phép hạch toán độc lập, chỉ hạch toán chung với ĐHĐN theo nguyên tắc hạch toán báo sổ. Hoạt động tài chính của các đơn vị này tuân thủ các quy định của Quy chế này và Quy chế chi tiêu nội bộ của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tự chủ về tài chính",
+          "text": "Điều 4. Tự chủ về tài chính\n1. Các đơn vị dự toán độc lập trực thuộc ĐHĐN có nghĩa vụ căn cứ các quy định hiện hành của nhà nước về cơ chế tự chủ của đơn vị sự nghiệp công lập đề xuất phương án mức độ tự chủ tài chính của đơn vị mình trình ĐHĐN thẩm định, tổng hợp và đề xuất Bộ GD&ĐT xem xét phê duyệt.\n2. Mức độ tự chủ tài chính của ĐHĐN và của các đơn vị dự toán độc lập trực thuộc ĐHĐN được đề xuất dựa trên chiến lược phát triển của ĐHĐN, của đơn vị và pháp luật hiện hành.\n3. Tùy theo mức độ tự chủ tài chính được phê duyệt, các đơn vị dự toán độc lập trực thuộc ĐHĐN được phân cấp quản lý tài chính theo pháp luật hiện hành về cơ chế tự chủ của các đơn vị sự nghiệp công lập và theo Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Phân cấp quản lý các nguồn tài chính",
+          "text": "Điều 5. Phân cấp quản lý các nguồn tài chính\n1. ĐHĐN tổ chức thu các khoản thu từ các hoạt động do ĐHĐN và các đơn vị dự toán phụ thuộc trực thuộc ĐHĐN trực tiếp thực hiện (sau đây gọi là nguồn thu trực tiếp); quản lý sử dụng phần kinh phí thường xuyên do NSNN cấp, nguồn thu trực tiếp, các nguồn tài trợ, viện trợ, quà biếu, tặng, cho của cựu sinh viên, tổ chức, cá nhân trong nước và nước ngoài cho ĐHĐN và các đơn vị dự toán phụ thuộc trực thuộc ĐHĐN và kinh phí điều tiết từ các đơn vị dự toán trực thuộc ĐHĐN để phục vụ hoạt động của ĐHĐN.\n2. Các đơn vị dự toán độc lập trực thuộc ĐHĐN được tự chủ và tự chịu trách nhiệm đối với việc tổ chức thu các khoản thu từ các hoạt động do đơn vị thực hiện theo chức năng, nhiệm vụ được giao; quản lý sử dụng phần kinh phí được phân bổ từ NSNN và ĐHĐN, phần kinh phí thu tại đơn vị được để lại sau khi điều tiết về ĐHĐN, các nguồn tài trợ, viện trợ, quà biếu, tặng, cho của cựu sinh viên, tổ chức, cá nhân trong nước và nước ngoài cho đơn vị và nguồn điều tiết từ các đơn vị dự toán trực thuộc đơn vị mình để thực hiện nhiệm vụ của đơn vị theo đúng các quy định của Nhà nước và của ĐHĐN.\n3. Các đơn vị dự toán trực thuộc ĐHĐN có nghĩa vụ trích nộp điều tiết vào nguồn ngân sách của ĐHĐN để bổ sung nguồn phục vụ hoạt động của ĐHĐN, thực hiện điều tiết thu nhập giữa các đơn vị trong toàn ĐHĐN và phục vụ hoạt động của Quỹ Phát triển Khoa học và Công nghệ ĐHĐN. Mức trích nộp điều tiết và nguyên tắc sử dụng được quy định cụ thể như sau:\na) Đối với nguồn thu từ học phí giáo dục đại học, học phí giáo dục nghề nghiệp và nguồn NSNN hỗ trợ có tính chất như học phí tại các đơn vị (trừ các trung tâm trực thuộc):\n- Điều tiết 06% về ĐHĐN để thực hiện những nhiệm vụ của ĐHĐN, riêng đơn vị tự bảo đảm chi thường xuyên và chi đầu tư với tỷ lệ điều tiết là 05%;\n- Điều tiết 03% về ĐHĐN để chi phúc lợi chung của ĐHĐN;\n- Điều tiết 01% để bổ sung nguồn kinh phí hoạt động của Quỹ Phát triển Khoa học và Công nghệ ĐHĐN.\n- Đối với các chương trình đào tạo có mức học phí cao hơn mức trần học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định của Nhà nước (theo Nghị định số 86/2015/NĐ-CP ngày 02/10/2015) thì mức học phí được tính để trích nộp là mức trần học phí chương trình đào tạo áp dụng cho đơn vị chưa tự bảo đảm chi thường xuyên và chi đầu tư theo quy định của Nhà nước.\nb) Đối với nguồn thu tại các trung tâm trực thuộc ĐHĐN: điều tiết về ĐHĐN theo quy định tại Quy chế chi tiêu nội bộ của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quy định về dự toán ngân sách và kế hoạch tài chính",
+          "text": "Điều 6. Quy định về dự toán ngân sách và kế hoạch tài chính\n1. Nhiệm vụ và quyền hạn của ĐHĐN\na) Lập dự toán ngân sách hàng năm, trung hạn của ĐHĐN trong đó thể hiện rõ phần kinh phí của các trường đại học thành viên trình Bộ GD&ĐT phê duyệt.\nb) Phê duyệt kế hoạch tài chính hàng năm của các đơn vị dự toán trực thuộc ĐHĐN.\nc) Đề xuất phương án phân bổ, giao dự toán NSNN cấp chi thường xuyên và chi thực hiện nhiệm vụ không thường xuyên cho các trường đại học thành viên, đơn vị thuộc và trực thuộc trình Bộ GD&ĐT. Cụ thể:\n- Đối với dự toán NSNN cấp chi thường xuyên phục vụ sự nghiệp đào tạo:\n+ Phân bổ 20% cho ĐHĐN để thực hiện những nhiệm vụ của ĐHĐN;\n+ Phân bổ 80% cho các trường đại học thành viên, đơn vị thuộc và trực thuộc là các cơ sở giáo dục đại học thành viên, Phân hiệu ĐHĐN tại Kon Tum và các viện, khoa thuộc và trực thuộc ĐHĐN. Tiêu chí phân bổ dựa trên các nguyên tắc do Bộ Tài chính và Bộ GD&ĐT quy định, năng lực tài chính và nhu cầu hoạt động của từng đơn vị trong kỳ dự toán.\n- Đối với dự toán NSNN cấp thực hiện chính sách nhà nước, nhiệm vụ được nhà nước giao mang tính đặc thù và nhiệm vụ không thường xuyên: phân bổ theo nội dung đặc thù và nhiệm vụ không thường xuyên được giao.\n\n2. Nhiệm vụ và quyền hạn của các đơn vị dự toán trực thuộc ĐHĐN\na) Đầu kỳ dự toán, lập dự toán ngân sách hàng năm và trung hạn của đơn vị gửi ĐHĐN tổng hợp trình Bộ GD&ĐT phê duyệt.\nb) Tiếp nhận dự toán ngân sách hàng năm từ Bộ GD&ĐT và ĐHĐN và tổ chức thực hiện dự toán theo quy định hiện hành.\nc) Đầu kỳ kế hoạch, các đơn vị dự toán trực thuộc xây dựng kế hoạch tài chính trình Giám đốc ĐHĐN phê duyệt và triển khai thực hiện. Định kỳ vào ngày 15 tháng cuối các quý, báo cáo tiến độ thực hiện kế hoạch tài chính năm và trong trường hợp cần thiết đề xuất điều chỉnh kế hoạch tài chính trình Giám đốc ĐHĐN phê duyệt.\nd) Trực tiếp quản lý việc lập, phê duyệt, giao và phân bổ dự toán ngân sách cho các đơn vị dự toán trực thuộc của đơn vị.\n\n3. Yêu cầu đối với dự toán ngân sách hàng năm và trung hạn\na) Tuân thủ các chỉ thị hiện hành của Thủ tướng Chính phủ về việc xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán NSNN; yêu cầu và hướng dẫn của Bộ Tài chính, Bộ Kế hoạch và Đầu tư, Bộ GD&ĐT và của đơn vị dự toán cấp trên trực tiếp trong việc lập dự toán ngân sách.\nb) Phản ánh đầy đủ các khoản thu, chi NSNN đảm bảo chi cho hoạt động thường xuyên theo chức năng của đơn vị và thực hiện những nhiệm vụ trọng tâm của thời kỳ dự toán theo đúng chiến lược, quy hoạch phát triển ngành, chiến lược trung, dài hạn và nhiệm vụ trọng tâm của kỳ dự toán của đơn vị dự toán cấp trên và của đơn vị.\nc) Tuân thủ các chế độ và định mức thu và phân bổ; tuân thủ các chế độ, tiêu chuẩn, định mức chi, quy định, quy trình, quy phạm, quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật và đơn giá hiện hành do cấp có thẩm quyền quy định và các quy định pháp luật có liên quan. Triệt để thực hành tiết kiệm, chống lãng phí.\nd) Đảm bảo tính khả thi trên cơ sở đánh giá đúng tình hình thực hiện nhiệm vụ và dự toán NSNN kỳ trước đã được phê duyệt và dự báo một cách hợp lý điều kiện triển khai thực hiện kế hoạch dự toán trong kỳ dự toán.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quy định về chấp hành dự toán NSNN",
+          "text": "Điều 7. Quy định về chấp hành dự toán NSNN\n1. Nhiệm vụ và quyền hạn của ĐHĐN\na) Thực hiện chế độ tự chủ, tự chịu trách nhiệm trong chấp hành dự toán được duyệt trong toàn ĐHĐN theo quy định hiện hành.\n\nTrang 5\n\nb) Quyết định mức thu các hoạt động do ĐHĐN và các đơn vị dự toán phụ thuộc trực thuộc ĐHĐN trực tiếp thực hiện theo các quy định hiện hành của pháp luật; thẩm định và phê duyệt các mức thu học phí giáo dục đại học, học phí giáo dục nghề nghiệp tại các đơn vị dự toán độc lập tự bảo đảm một phần chi thường xuyên.\n\nc) Kiểm soát kịp thời các khoản thu tại các đơn vị dự toán độc lập đảm bảo theo đúng quy định hiện hành của Nhà nước và của ĐHĐN.\n\nd) Ban hành quy chế tài chính của ĐHĐN; ban hành Quy chế chi tiêu nội bộ của ĐHĐN; thẩm định quy chế chi tiêu nội bộ của các đơn vị dự toán độc lập trực thuộc ĐHĐN và phụ lục quy chế chi tiêu nội bộ của các đơn vị dự toán phụ thuộc trực thuộc ĐHĐN theo phân cấp quản lý tài chính.\n\n2. Nhiệm vụ và quyền hạn của các đơn vị dự toán trực thuộc ĐHĐN\na) Tự chủ, tự chịu trách nhiệm trong chấp hành dự toán theo quy định hiện hành trong phạm vi dự toán đã được phê duyệt.\n\nb) Các đơn vị dự toán độc lập trực thuộc ĐHĐN tự bảo đảm một phần chi thường xuyên đề xuất các khoản thu học phí giáo dục đại học, học phí giáo dục nghề nghiệp tại đơn vị theo quy định hiện hành của pháp luật và của ĐHĐN trình ĐHĐN phê duyệt và tổ chức ban hành; quyết định và công bố các khoản thu khác theo các quy định hiện hành của pháp luật và của ĐHĐN. Các đơn vị dự toán độc lập trực thuộc ĐHĐN tự bảo đảm chi thường xuyên và chi đầu tư, tự bảo đảm chi thường xuyên quyết định và công bố các khoản thu thuộc thẩm quyền được phân cấp trên cơ sở quy định hiện hành của pháp luật, của ĐHĐN, của Quy chế chi tiêu nội bộ của đơn vị và báo cáo ĐHĐN.\n\nc) Các đơn vị dự toán độc lập trực thuộc ĐHĐN ban hành Quy chế chi tiêu nội bộ của đơn vị sau khi được ĐHĐN thẩm định; các đơn vị dự toán phụ thuộc trực thuộc ĐHĐN xây dựng phụ lục quy chế chi tiêu nội bộ của đơn vị trình Giám đốc ĐHĐN quyết định ban hành. Phụ lục quy chế chi tiêu nội bộ của các đơn vị dự toán phụ thuộc trực thuộc là một bộ phận của quy chế chi tiêu nội bộ của ĐHĐN. Quy chế chi tiêu nội bộ, phụ lục quy chế chi tiêu nội bộ của đơn vị phải được xây dựng dựa trên kết quả thảo luận rộng rãi, dân chủ, công khai, minh bạch trong nội bộ đơn vị.\n\n3. Yêu cầu đối với nội dung quy chế, phụ lục quy chế chi tiêu nội bộ\na) Nội dung quy chế, phụ lục quy chế chi tiêu nội bộ của các đơn vị phải tuân thủ theo các quy định hiện hành tại các nghị định, quyết định về cơ chế tự chủ của đơn vị sự nghiệp công lập của Chính phủ; các thông tư, quyết định hướng dẫn của các bộ, ngành có liên quan và các quy định hiện hành khác của Nhà nước và của ĐHĐN.\n\nb) Hệ số quản lý áp dụng thống nhất trong toàn ĐHĐN và được quy định tại Phụ lục của Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quy định về quản lý sử dụng vốn đầu tư công và tài sản công",
+          "text": "Điều 8. Quy định về quản lý sử dụng vốn đầu tư công và tài sản công\n1. Nhiệm vụ và quyền hạn của ĐHĐN\n\nTrang 6\n\na) Quyết định theo thẩm quyền đối với các nội dung mua sắm, thuê tài sản công, thu hồi tài sản công, điều chuyển tài sản công, bán tài sản công, thanh lý tài sản công theo quy định hiện hành về phân cấp quản lý, sử dụng tài sản công của ĐHĐN và các đơn vị sự nghiệp trực thuộc. Các nội dung liên quan đến lĩnh vực tài sản công ngoài thẩm quyền của ĐHĐN (trong đó có đề án sử dụng tài sản công vào mục đích kinh doanh, cho thuê, liên doanh, liên kết), ĐHĐN có trách nhiệm là đầu mối tổng hợp báo cáo Bộ GD&ĐT xem xét, quyết định theo các quy định của Luật Quản lý, sử dụng tài sản công.\n\nb) Quyết định phê duyệt kế hoạch hàng năm và chủ trương đầu tư việc mua sắm tài sản, hàng hóa, dịch vụ nhằm duy trì hoạt động thường xuyên của Cơ quan ĐHĐN, các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN theo quy định của pháp luật về việc sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp.\n\nc) Là chủ đầu tư đối với các dự án đầu tư và xây dựng để xây mới, cải tạo, nâng cấp, sửa chữa, đầu tư chiều sâu, mua sắm trang thiết bị, dây chuyền công nghệ theo quy hoạch, kế hoạch và chiến lược phát triển của ĐHĐN.\n\nd) Quyết định chủ trương đầu tư, quyết định đầu tư các chương trình, dự án sử dụng vốn từ nguồn thu hợp pháp dành để đầu tư của ĐHĐN, các trường đại học thành viên và đơn vị trực thuộc ĐHĐN theo quy định của pháp luật về đầu tư công.\n\n2. Nhiệm vụ và quyền hạn của các đơn vị dự toán trực thuộc ĐHĐN\na) Quyết định theo thẩm quyền đối với các nội dung: Mua sắm, thuê tài sản công, thu hồi tài sản công, điều chuyển tài sản công, bán tài sản công, thanh lý tài sản công, tiêu hủy tài sản công, xử lý tài sản công theo quy định và phân cấp quản lý, sử dụng tài sản công; có trách nhiệm lập đề án sử dụng tài sản công vào mục đích kinh doanh và cho thuê trình ĐHĐN để tổng hợp gửi Bộ GD&ĐT phê duyệt theo thẩm quyền; có trách nhiệm ban hành và tổ chức thực hiện Quy chế quản lý, sử dụng tài sản công thuộc phạm vi quản lý của cơ quan, tổ chức, đơn vị.\n\nb) Là chủ đầu tư đối với các dự án đầu tư và xây dựng để xây mới, cải tạo, nâng cấp, sửa chữa, đầu tư chiều sâu, mua sắm trang thiết bị, dây chuyền công nghệ cho chính đơn vị sử dụng ngoài quy hoạch, kế hoạch và chiến lược phát triển của ĐHĐN.\n\nc) Xây dựng, quản lý và điều hành cơ sở vật chất kỹ thuật của đơn vị được giao quản lý. Thực hiện xã hội hóa hoạt động xây dựng và phát triển cơ sở vật chất kỹ thuật phù hợp với chức năng, nhiệm vụ của đơn vị và theo quy định của pháp luật.\n\nd) Thực hiện các nhiệm vụ khác về tài sản, tài chính theo quy định của pháp luật và phân cấp của ĐHĐN.\n\nTrang 7\n\nđ) Đối với các trường đại học thành viên tự bảo đảm chi thường xuyên và chi đầu tư thực hiện theo các quy định hiện hành của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quy định về kế toán, quyết toán ngân sách nhà nước và công tác báo cáo",
+          "text": "Điều 9. Quy định về kế toán, quyết toán ngân sách nhà nước và công tác báo cáo\n1. ĐHĐN và các đơn vị dự toán trực thuộc ĐHĐN thực hiện chế độ kế toán theo các quy định hiện hành.\n\n2. ĐHĐN chịu trách nhiệm quyết toán ngân sách trước Bộ GD&ĐT. Các đơn vị dự toán trực thuộc ĐHĐN chịu trách nhiệm quyết toán trước ĐHĐN.\n\n3. Các đơn vị dự toán cấp trên chịu trách nhiệm thanh tra, kiểm tra, kiểm soát hoạt động tài chính của các đơn vị dự toán trực thuộc đơn vị mình, đảm bảo tất cả các nguồn tài chính phải được phản ánh trên sổ sách kế toán và được quản lý theo đúng các quy định hiện hành.\n\n4. ĐHĐN và các đơn vị dự toán trực thuộc ĐHĐN thực hiện công khai tài chính theo các quy định pháp luật hiện hành và quy định của Bộ GD&ĐT.\n\n5. ĐHĐN và các đơn vị dự toán trực thuộc ĐHĐN có nghĩa vụ thực hiện báo cáo tài chính cho đơn vị quản lý trực tiếp và các cơ quan quản lý nhà nước có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Trách nhiệm thi hành",
+          "text": "Điều 10. Trách nhiệm thi hành\n1. Giám đốc ĐHĐN chịu trách nhiệm hướng dẫn, triển khai, giám sát thực hiện Quy chế này trong phạm vi toàn ĐHĐN và đề xuất điều chỉnh, sửa đổi Quy chế theo nhiệm vụ và quyền hạn của Giám đốc được quy định tại Quy chế tổ chức và hoạt động của ĐHĐN.\n\n2. Chủ tịch Hội đồng trường và Hiệu trưởng các trường đại học thành viên và thủ trưởng các đơn vị dự toán trực thuộc các cấp chịu trách nhiệm hướng dẫn, triển khai và giám sát thực hiện Quy chế này trong phạm vi đơn vị mình theo nhiệm vụ và quyền hạn được quy định tại Quy chế tổ chức và hoạt động của ĐHĐN và Quy chế tổ chức và hoạt động của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 11. Hiệu lực thi hành\nQuy chế này có hiệu lực thi hành kể từ ngày ký. Những quy định trước đây của ĐHĐN trái với quy định tại Quy chế này đều bị bãi bỏ.\n\nTM. HỘI ĐỒNG",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Nghị quyết này Quy chế tài chính của Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Nghị quyết này Quy chế tài chính của Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nghị quyết này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Nghị quyết này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Giám đốc Đại học Đà Nẵng, các thành viên Hội đồng Đại học Đà Nẵng, Chủ tịch Hội đồng trường, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng căn cứ N",
+      "text": "Điều 3. Giám đốc Đại học Đà Nẵng, các thành viên Hội đồng Đại học Đà Nẵng, Chủ tịch Hội đồng trường, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng căn cứ Nghị quyết thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0431_1351_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số nội dung của Phụ lục Quy chế chi tiêu n.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1351/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc sửa đổi, bổ sung một số nội dung của Phụ lục Quy chế chi tiêu nội bộ của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/04/2025",
+    "effectiveDate": "10/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định sửa đổi, bổ sung một số nội dung của Phụ lục Quy chế chi tiêu nội bộ của Đại học Đà Nẵng ban hành kèm theo Quyết định số 36/QĐ-ĐHĐN ngày 06/01/2025, bao gồm thay thế Phần I và cập nhật tên gọi, chức danh một số đơn vị.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "60/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 60/2021/NĐ-CP ngày 21/6/2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "56/2022/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 56/2022/TT-BTC ngày 16/9/2022 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập; xử lý tài sản, tài chính khi tổ chức lại, giải thể đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "36/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 36/QĐ-ĐHĐN ngày 06/01/2025 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế chi tiêu nội bộ của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "508/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 508/QĐ-ĐHĐN ngày 21/02/2025 của Giám đốc Đại học Đà Nẵng về việc thành lập Văn phòng Đảng - Đoàn thể Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "510/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 510/QĐ-ĐHĐN ngày 21/02/2025 của Giám đốc Đại học Đà Nẵng về việc thành lập Trung tâm Công nghệ thông tin và Học liệu số, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "511/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 511/QĐ-ĐHĐN ngày 21/02/2025 của Giám đốc Đại học Đà Nẵng về việc thành lập Ban Công tác sinh viên, Quan hệ doanh nghiệp và Truyền thông, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "513/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 513/QĐ-ĐHĐN ngày 21/02/2025 của Giám đốc Đại học Đà Nẵng về việc giải thể Trung tâm Thông tin - Học liệu và Truyền thông, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Tài chính",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Văn phòng Đảng - Đoàn thể Đại học Đà Nẵng",
+    "Trung tâm Công nghệ thông tin và Học liệu số, Đại học Đà Nẵng",
+    "Ban Công tác sinh viên, Quan hệ doanh nghiệp và Truyền thông, Đại học Đà Nẵng",
+    "Trung tâm Thông tin - Học liệu và Truyền thông, Đại học Đà Nẵng",
+    "Kho bạc Nhà nước Đà Nẵng",
+    "Đảng ủy ĐHĐN",
+    "Hội đồng ĐHĐN"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Thay thế Phần I Phụ lục Quy chế chi tiêu nội bộ của Đại học Đà Nẵng ban hành kèm theo Quyết định số 36/QĐ-ĐHĐN ngày 06/01/2025 của Giám đốc Đại học Đà Nẵng (ĐHĐN) bằng Phụ lục đính kèm Quyết định này.",
+      "text": "Điều 1. Thay thế Phần I Phụ lục Quy chế chi tiêu nội bộ của Đại học Đà Nẵng ban hành kèm theo Quyết định số 36/QĐ-ĐHĐN ngày 06/01/2025 của Giám đốc Đại học Đà Nẵng (ĐHĐN) bằng Phụ lục đính kèm Quyết định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Sửa đổi, bổ sung một số nội dung của các phần II, III và IV Phụ lục Quy chế chi tiêu nội bộ của Đại học Đà Nẵng ban hành kèm theo Quyết định số 36/QĐ-ĐHĐN như sau:",
+      "text": "Điều 2. Sửa đổi, bổ sung một số nội dung của các phần II, III và IV Phụ lục Quy chế chi tiêu nội bộ của Đại học Đà Nẵng ban hành kèm theo Quyết định số 36/QĐ-ĐHĐN như sau:\n\n1. Thay thế cụm từ “Chánh Văn phòng Đảng ủy ĐHĐN” thành “Chánh Văn phòng Đảng - Đoàn thể ĐHĐN”, “Phó Chánh Văn phòng Đảng ủy ĐHĐN” thành “Phó Chánh Văn phòng Đảng - Đoàn thể ĐHĐN”, “Giám đốc Trung tâm Thông tin - Học liệu và Truyền thông ĐHĐN” thành “Giám đốc Trung tâm Công nghệ thông tin và Học liệu số, ĐHĐN”, “Phó Giám đốc Trung tâm Thông tin - Học liệu và Truyền thông ĐHĐN” thành “Phó Giám đốc Trung tâm Công nghệ thông tin và Học liệu số, ĐHĐN”, “Ban Công tác học sinh - sinh viên” thành “Ban Công tác sinh viên, Quan hệ doanh nghiệp và Truyền thông”.\n\n2. Hủy bỏ các cụm từ “Chánh Văn phòng Công đoàn ĐHĐN”, “Tổ trưởng Tổ Quản trị mạng”.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các nội dung sửa đổi, bổ sung tại Điều 1 và Điều 2 được áp dụng kể từ ngày 10/4/2025.",
+      "text": "Điều 3. Các nội dung sửa đổi, bổ sung tại Điều 1 và Điều 2 được áp dụng kể từ ngày 10/4/2025.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và viên chức, người lao động của ĐHĐN căn cứ Quyết định thi hành./.",
+      "text": "Điều 4. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và viên chức, người lao động của ĐHĐN căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

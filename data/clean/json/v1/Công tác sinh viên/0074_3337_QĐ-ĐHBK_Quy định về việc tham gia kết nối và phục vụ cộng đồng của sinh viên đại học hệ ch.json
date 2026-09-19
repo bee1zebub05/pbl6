@@ -1,0 +1,225 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0074_3337_QĐ-ĐHBK_Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ ch.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3337/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ chính quy Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/12/2021",
+    "effectiveDate": "14/12/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ chính quy Trường Đại học Bách khoa, Đại học Đà Nẵng, quy định rõ phạm vi, mục đích, quyền lợi, trách nhiệm, nội dung, tổ chức thực hiện và đánh giá hoạt động cộng đồng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số Điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2900/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2900/QĐ-ĐHĐN ngày 27/8/2020 của Đại học Đà Nẵng về việc ban hành Quy định về việc tham gia hoạt động cộng đồng của sinh viên Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1001/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16/4/2021 của Trường Đại học Bách khoa về việc ban hành Quy chế Công tác sinh viên của Trường Đại học Bách khoa đối với chương trình đào tạo đại học hệ chính quy;"
+    },
+    {
+      "targetDocumentNumber": "2231/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 7",
+      "context": "Hình thức khen thưởng được quy định tại khoản 5 Điều 7 Quyết định số 2231/QĐ-ĐHBK ngày 10 tháng 9 năm 2021 ban hành “Quy định về xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng”."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+    "Hội Sinh viên",
+    "Phòng Công tác Sinh viên",
+    "Phòng Tổ chức - Hành chính",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Trung tâm Học liệu và Truyền thông"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ chính quy Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về tham gia hoạt động kết nối và phục vụ cộng đồng\n(gọi chung là hoạt động cộng đồng và viết tắt là HĐCĐ) của sinh viên đại học hệ chính\nquy tại Trường Đại học Bách khoa, Đại học Đà Nẵng (viết tắt là Trường ĐHBK).\n2. Quy định này áp dụng đối với các khóa sinh viên tuyển sinh đại học hệ chính\nquy từ năm học 2020 - 2021 trở đi (sau đây gọi chung là sinh viên).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. HĐCĐ là các hoạt động phục vụ gắn kết với học tập được thực hiện vì lợi ích\ncủa cộng đồng qua trải nghiệm học tập, kết nối và phục vụ, thông qua các hoạt động\nkhác nhau sinh viên gắn kết với cộng đồng làm việc; HĐCĐ có thể do các đơn vị trong\nhoặc ngoài Nhà trường tổ chức mà sinh viên được tham gia.\n2. Chuẩn HĐCĐ là số điểm HĐCĐ tối thiểu mà mỗi sinh viên phải tích lũy được\ntrong khóa học. Chuẩn HĐCĐ là một trong các tiêu chí để đánh giá quá trình rèn\nluyện, bồi dưỡng của sinh viên; là cơ sở để xét học bổng tài trợ, xét thi đua, khen\nthưởng theo quy định của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Mục đích của hoạt động kết nối và phục vụ cộng đồng",
+          "text": "Điều 3. Mục đích của hoạt động kết nối và phục vụ cộng đồng\n1. Xác định được trách nhiệm và quyền lợi của sinh viên trong việc tham gia\nHĐCĐ.\n2. Tăng cường sự hiểu biết của sinh viên về cộng đồng, địa phương mình đang\nsinh sống, học tập và làm việc.\n3. Tạo cơ hội học tập cho sinh viên bên ngoài lớp học, giúp sinh viên áp dụng\nđược những kiến thức đã được học vào thực tiễn.\n4. Trang bị kiến thức, kỹ năng và kinh nghiệm để sinh viên có thể thực hiện\nHĐCĐ, góp phần xây dựng cộng đồng, xã hội ngày càng tốt đẹp hơn.\n5. Khẳng định vai trò, trách nhiệm của Nhà trường trong việc đáp ứng yêu cầu\ncủa xã hội, vì lợi ích chung của cộng đồng.\n\n2\n\n6. Nâng cao nhận thức của sinh viên trong việc xây dựng hình ảnh của Trường\nĐHBK; góp phần xây dựng Trường ĐHBK trở thành cơ sở giáo dục đào tạo có uy tín\nvề tổ chức, triển khai HĐCĐ tại Việt Nam cũng như trên thế giới.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Yêu cầu và nguyên tắc thực hiện kết nối và phục vụ cộng đồng",
+          "text": "Điều 4. Yêu cầu và nguyên tắc thực hiện kết nối và phục vụ cộng đồng\n1. Việc tổ chức và quản lý HĐCĐ phải thực hiện đúng theo đường lối, chủ\ntrương của Đảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ Giáo dục\nvà Đào tạo (Bộ GD&ĐT), của Đại học Đà Nẵng (ĐHĐN), Trường ĐHBK, các tổ chức\nđoàn thể sinh viên (Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên) và của\ncủa các đơn vị về tổ chức hoặc tham gia HĐCĐ đối với người học.\n2. Thông báo kế hoạch dự kiến bao gồm nội dung, thời gian và địa điểm các hoạt\nđộng liên quan đến HĐCĐ cho sinh viên vào đầu mỗi năm học.\n3. Các đơn vị, cá nhân liên quan trong hệ thống quản lý sinh viên của Nhà trường\nphải tạo điều kiện cho sinh viên tham gia đầy đủ HĐCĐ đã đăng ký theo quy định.\n4. Đôn đốc, giám sát, theo dõi, kiểm tra và đánh giá điểm HĐCĐ cho sinh viên\ntheo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Quyền lợi của sinh viên",
+          "text": "Điều 5. Quyền lợi của sinh viên\n1. Được chủ động lập kế hoạch đăng ký và tham gia HĐCĐ do Nhà trường và\ncác đơn vị ngoài Trường tổ chức để đảm bảo tích lũy đủ số điểm HĐCĐ theo quy định\nvà không ảnh hưởng đến kế hoạch học tập của bản thân.\n2. Được tạo mọi điều kiện thuận lợi để đăng ký, tham gia và hoàn thành HĐCĐ.\n3. Được chủ động đề xuất và tham gia tổ chức HĐCĐ (trong hoặc ngoài trường)\ntrên cơ sở có sự đồng ý của đơn vị có thẩm quyền.\n4. Được khiếu nại nếu thấy việc đánh giá kết quả HĐCĐ chưa chính xác.\n5. Được tuyên dương, khen thưởng khi lập thành tích xuất sắc hoặc hoàn thành\nxuất sắc nhiệm vụ trong HĐCĐ.\n6. Được cộng điểm rèn luyện, được ưu tiên trong bình chọn, xét thi đua, khen\nthưởng, xét cấp các học bổng ngoài ngân sách và các quyền lợi ưu tiên khác theo quy\nđịnh của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Trách nhiệm của sinh viên",
+          "text": "Điều 6. Trách nhiệm của sinh viên\n1. Chủ động lựa chọn, đăng ký, tham gia HĐCĐ cả trong và ngoài Trường tổ\nchức phù hợp với năng lực, sở thích và kế hoạch học tập của bản thân để đạt chuẩn\nHĐCĐ theo quy định.\n2. Cung cấp đầy đủ và chính xác các minh chứng liên quan đến quá trình và kết\nquả tham gia HĐCĐ đã đăng ký, chịu trách nhiệm trước Nhà trường về tính chính xác\ncủa các minh chứng đó.\n3. Tích lũy đủ số điểm HĐCĐ tối thiểu theo quy định của khóa học.\n\n3",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Nội dung kết nối và phục vụ cộng đồng",
+          "text": "Điều 7. Nội dung kết nối và phục vụ cộng đồng\nNội dung HĐCĐ bao gồm các hoạt động trong các lĩnh vực dưới đây:\n1. Lĩnh vực đào tạo và đảm bảo chất lượng giáo dục đào tạo\na) Tham gia các hoạt động về đổi mới phương pháp giảng dạy nhằm nâng cao\nchất lượng đào tạo trong đó có định hướng dạy học vì lợi ích cộng đồng bằng cách tích\nhợp, lồng ghép triết lý giáo dục “Học tập phục vụ cộng đồng”; “Học theo dự án” trong\ncác chương trình đào tạo;\nb) Tham gia các hoạt động mang tính học thuật hoặc trang bị kiến thức, phát triển\nkỹ năng, hoạt động ngoại khóa đem lại lợi ích chung cho xã hội, cho tập thể đồng thời\ncó lợi ích cho bản thân sinh viên (các hội thảo, hội nghị, khóa tập huấn...) do Nhà\ntrường hoặc các tổ chức, đơn vị bên ngoài phối hợp tổ chức;\nc) Tham gia hỗ trợ tập huấn, hướng dẫn cho các cơ sở của cộng đồng (trường phổ\nthông, tổ chức, đoàn hội, địa phương...) gắn với chuyên môn được đào tạo;\nd) Tham gia khảo sát đánh giá học phần, chương trình đào tạo; chất lượng đào\ntạo và tình hình việc làm của người học sau khi tốt nghiệp của Nhà trường;\n2. Lĩnh vực nghiên cứu khoa học và chuyển giao công nghệ\na) Đề xuất ý tưởng, thực hiện xây dựng và phát triển các đề tài khoa học vừa\nphục vụ lợi ích cộng đồng, vừa nâng cao được năng lực nghiên cứu khoa học của sinh\nviên;\nb) Tham gia tạo lập, phát triển các dịch vụ chuyển giao công nghệ từ kết quả\nnghiên cứu các đề tài mà sinh viên tham gia thực hiện, đáp ứng nhu cầu của xã hội và\nphù hợp khả năng thực tế của Nhà trường;\nc) Tham gia các hội thảo, hội nghị khoa học các cấp nhằm chia sẻ kết quả nghiên\ncứu, trao đổi học thuật, công bố sản phẩm nghiên cứu khoa học của sinh viên; qua đó\ntìm kiếm, đề xuất các đề tài, sản phẩm nghiên cứu phù hợp với nhu cầu phát triển kinh\ntế, đổi mới sáng tạo về kỹ thuật của cộng đồng và của địa phương;\nd) Phối hợp, tham gia thực hiện các đề tài, dự án, dự án khoa học công nghệ phục\nvụ lợi ích cộng đồng, phát triển kinh tế - xã hội địa phương.\n3. Lĩnh vực tư vấn\na) Tham gia các hoạt động tư vấn, truyền thông, cung cấp thông tin về ngành đào\ntạo, chương trình đào tạo và tư vấn tuyển sinh cho học sinh, phụ huynh học sinh theo\nkế hoạch của Nhà trường;\nb) Tham gia tư vấn, giới thiệu, cung cấp thông tin cho các khóa sinh viên mới\nnhập học về các hoạt động liên quan sinh viên: học tập, rèn luyện, công tác sinh viên,\nHĐCĐ, NCKH, hoạt động đoàn thể sinh viên.\n4. Lĩnh vực công tác xã hội, tình nguyện, nhân đạo, từ thiện\na) Các hoạt động tình nguyện có tính truyền thống\n- Các hoạt động tình nguyện vì cộng đồng như: chiến dịch tình nguyện, chương\ntrình mùa hè xanh, tiếp sức mùa thi, tiếp sức đến trường;\n\n- Hiến máu nhân đạo, hoạt động nhân đạo, từ thiện;\n- Hoạt động bảo vệ môi trường, góp phần xây dựng, cải tạo cảnh quan Nhà trường;\n- Các hoạt động hỗ trợ công tác khắc phục hậu quả do thiên tai, dịch bệnh... trong khuôn viên của Nhà trường, ký túc xá, nơi cư trú...;\nb) Các hoạt động công tác xã hội\n- Chăm sóc các đối tượng chính sách, người già neo đơn, trẻ em có hoàn cảnh đặc biệt khó khăn, bệnh nhân nghèo, các đối tượng yếu thế khác trong xã hội và các hoạt động khác có tính chất tương tự;\n- Tham gia các hoạt động cứu trợ thiên tai, dịch bệnh, vận động quyên góp hoặc đóng góp giúp đỡ người dân tại các vùng xảy ra thiên tai, dịch bệnh hoặc địa phương khó khăn.\n5. Các lĩnh vực hoạt động khác do Nhà trường quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức kết nối và phục vụ cộng đồng",
+          "text": "Điều 8. Tổ chức kết nối và phục vụ cộng đồng\n1. Lập kế hoạch tổ chức\na) Quy định chung\n- Kế hoạch tổ chức HĐCĐ được các đơn vị chủ trì xây dựng và công bố cho sinh viên vào đầu năm học, điều chỉnh bổ sung vào đầu mỗi học kỳ. Các hoạt động phát sinh trong năm học cần được thông báo rộng rãi đến sinh viên trước khi tổ chức thông qua các kênh thông tin khác nhau (email, fanpage, website, zalo...);\n- Kế hoạch cần nêu rõ mục đích, ý nghĩa, nội dung của hoạt động; thời gian và địa điểm tổ chức; đơn vị tổ chức; quy mô và đối tượng tham gia;\n- Việc xây dựng kế hoạch tổ chức HĐCĐ cần gắn với các yêu cầu về kiểm định chất lượng cơ sở giáo dục theo các quy định hiện hành.\nb) Đối với các HĐCĐ cấp ĐHĐN trở lên tổ chức\n- Thực hiện theo quy định của đơn vị chủ trì;\n- Các đơn vị liên quan thuộc Trường ĐHBK có trách nhiệm triển khai theo hướng dẫn của đơn vị chủ trì, xây dựng kế hoạch tổ chức cho sinh viên tham gia đảm bảo cả về số lượng, chất lượng của hoạt động;\n- Thông báo, truyền thông rộng rãi để sinh viên đăng ký tham gia;\n- Đôn đốc, khuyến khích và tạo điều kiện thuận lợi nhất để đông đảo sinh viên được tham gia;\n- Thực hiện đánh giá kết quả tham gia của sinh viên;\nc) Đối với các HĐCĐ do Trường ĐHBK tổ chức\n- Các HĐCĐ do các đơn vị thuộc Trường ĐHBK, các tổ chức đoàn thể sinh viên cấp Trường ĐHBK chủ trì tổ chức hoặc phối hợp tổ chức;\n- Việc triển khai hoạt động tùy đặc thù của từng đơn vị để xây dựng kế hoạch, phân cấp quản lý và phân công trách nhiệm cụ thể cho các tập thể, cá nhân thuộc đơn vị quản lý;\n\n-\n\nCác kế hoạch phải được thông báo rộng rãi đến toàn thể sinh viên hoặc các đối tượng sinh viên có liên quan trước khi tổ chức;\n- Tùy tính chất, quy mô của hoạt động, khuyến khích đơn vị chủ trì tổ chức cấp giấy chứng nhận hoặc các hình thức khen thưởng, đánh giá, nhận xét cho sinh viên tham gia hoạt động;\n- Các khoa và tổ chức đoàn thể sinh viên cấp khoa có thể triển khai kế hoạch hoạt động đến sinh viên của các khoa khác thuộc Trường ĐHBK, tuy nhiên trước khi triển khai cần có thông tin và nội dung phối hợp cụ thể để đảm bảo quản lý được sinh viên tham gia và tính hiệu quả của chương trình, hoạt động đó;\n- Các tập thể sinh viên hoặc cá nhân sinh viên từ từng đơn vị có thể chủ động lập kế hoạch, đề xuất để tổ chức HĐCĐ nhưng phải báo cáo với cấp quản lý (tương ứng với tính chất, quy mô của hoạt động) bằng văn bản để đơn vị quản lý sinh viên xem xét phê duyệt và có hình thức công nhận kết quả đánh giá HĐCĐ cho sinh viên sau khi tổ chức.\nd) Đối với các HĐCĐ do các đơn vị bên ngoài Trường ĐHBK tổ chức\n- Nếu là hoạt động phối hợp với Nhà trường thì hoạt động thuộc lĩnh vực quản lý phụ trách của đơn vị nào thì đơn vị đó có trách nhiệm xây dựng kế hoạch triển khai, quản lý, đánh giá kết quả tham gia HĐCĐ của sinh viên và chuyển kết quả cho phòng Công tác Sinh viên (Phòng CTSV) để tổng hợp sau khi kết thúc hoạt động chậm nhất là 7 ngày làm việc;\n- Nếu là hoạt động do đơn vị ngoài độc lập tổ chức thì kế hoạch do đơn vị chủ trì xây dựng và triển khai. Sinh viên tham gia có trách nhiệm tìm hiểu kế hoạch tổ chức và chủ động liên hệ đơn vị tổ chức để được cấp các giấy chứng nhận tham gia hoạt động, làm minh chứng xác nhận và nộp cho Phòng CTSV để đánh giá kết quả tham gia HĐCĐ.\n2. Tổ chức cho sinh viên đăng ký tham gia HĐCĐ\na) Trong từng trường hợp cụ thể, đơn vị chủ trì tổ chức thông báo kế hoạch tổ chức hoạt động để sinh viên đăng ký trực tiếp hoặc phân cấp xuống các đơn vị quản lý trực tiếp sinh viên cùng phối hợp trong việc đăng ký của sinh viên;\nb) Sinh viên đăng ký và tham gia các hoạt động theo thông báo hướng dẫn, kế hoạch tổ chức do các đơn vị chủ trì triển khai ban hành;\nc) Việc đăng ký các hoạt động được thực hiện theo 2 hình thức tùy theo các hoạt động cụ thể, bao gồm:\n- Đăng ký trực tiếp theo thông báo hướng dẫn của đơn vị chủ trì tổ chức;\n- Đăng ký trực tuyến trên hệ thống sinh viên tương tự như đăng ký học phần (đối với các hoạt động đã được hoạch định và đăng ký danh mục);\nd) Các hoạt động có số lượng sinh viên đăng ký tham gia vượt quá quy mô tổ chức, ưu tiên cho sinh viên đăng ký trước và sinh viên năm cuối chưa đạt chuẩn HĐCĐ toàn khóa.\n3. Các đơn vị triển khai tổ chức thực hiện HĐCĐ theo kế hoạch, chức năng, nhiệm vụ được giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quy định về chuẩn HĐCĐ và cách tính điểm quy đổi HĐCĐ",
+          "text": "Điều 9. Quy định về chuẩn HĐCĐ và cách tính điểm quy đổi HĐCĐ\n1. Sinh viên phải tích lũy số điểm HĐCĐ tối thiểu trong toàn khóa học tại Trường ĐHBK cụ thể như sau:\n- Đối với hệ đào tạo 5 năm: 75 điểm;\n- Đối với hệ đào tạo 4 năm: 60 điểm;\n2. Đối với sinh viên học vượt tiến độ thì số điểm tích lũy HĐCĐ tối thiểu được Nhà trường xét riêng tùy vào thời gian mà sinh viên đó hoàn thành khóa học nhưng phải đảm bảo mỗi năm đã học số điểm tích lũy HĐCĐ đạt tối thiểu là 15 điểm.\n3. Trong trường hợp vì lý do sức khỏe dẫn đến sinh viên gặp khó khăn hoặc không thể tham gia HĐCĐ, sinh viên phải có đơn kèm theo xác nhận về tình trạng sức khỏe của cơ sở y tế có thẩm quyền để Nhà trường xem xét việc miễn, giảm chuẩn HĐCĐ theo quy định. Mức miễn giảm sẽ được Nhà trường xem xét quyết định và thông báo kết quả xem xét cho sinh viên có đơn đề nghị.\n4. Cách tính điểm quy đổi các nhóm HĐCĐ được nêu trong Phụ lục kèm theo Quy định này, theo nguyên tắc sau:\na) Mỗi hoạt động tham gia trong năm học thì chỉ được tính điểm một lần cho năm học đó;\nb) Điểm tích lũy HĐCĐ toàn khóa học là tổng điểm của tất cả các năm học cho đến khi tốt nghiệp;\nc) Danh mục điểm HĐCĐ quy đổi được ban hành trong Phụ lục kèm theo. Danh mục này có thể thay đổi tùy theo tình hình thực tế và các kế hoạch hoạt động của Nhà trường nhằm đảm bảo về quyền lợi và nhiệm vụ của sinh viên trong khóa học;\nd) Các hoạt động phát sinh trong năm học (chưa cập nhật trong danh mục HĐCĐ dự kiến) sẽ được Nhà trường thông báo mức điểm kèm theo trong kế hoạch tổ chức cụ thể.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Đánh giá kết quả tham gia kết nối và phục vụ cộng đồng",
+          "text": "Điều 10. Đánh giá kết quả tham gia kết nối và phục vụ cộng đồng\n1. Việc cấp chứng nhận và đánh giá kết quả tham gia HĐCĐ của sinh viên trong từng hoạt động cụ thể như sau:\na) Đối với các hoạt động do các đơn vị, tổ chức đoàn thể sinh viên thuộc Nhà trường tổ chức: Đơn vị chủ trì có trách nhiệm xác nhận và đánh giá kết quả tham gia HĐCĐ trên hệ thống đánh giá HĐCĐ của sinh viên; thực hiện cấp các chứng nhận hoặc văn bản xác nhận tham gia của sinh viên chậm nhất 14 ngày làm việc kể từ ngày kết thúc hoạt động cho sinh viên để sử dụng làm minh chứng tham gia HĐCĐ;\nb) Đối với các hoạt động ngoài Trường ĐHBK tổ chức thì việc cấp chứng nhận và đánh giá kết quả tham gia hoạt động của sinh viên là do đơn vị chủ trì quy định; sinh viên tham gia chủ động đề nghị đơn vị chủ trì tổ chức cấp chứng nhận tham gia hoặc văn bản xác nhận tham gia của sinh viên hợp lệ để làm minh chứng tham gia HĐCĐ và tải lên hệ thống đánh giá HĐCĐ trong quá trình tự đánh giá; việc rà soát kiểm tra và xác nhận đánh giá do khoa quản lý sinh viên thực hiện;\nc) Đối với các hoạt động bên ngoài phối hợp tổ chức với các đơn vị thuộc Trường ĐHBK thì việc đánh giá kết quả tham gia HĐCĐ của sinh viên là do đơn vị đó\n\nthực hiện trên hệ thống đánh giá HĐCĐ của sinh viên được phân cấp đánh giá theo Phụ lục của Quy định này. Đơn vị đánh giá có trách nhiệm gửi bản sao minh chứng xác nhận kết quả tham gia của sinh viên do đơn vị chủ trì tổ chức bên ngoài cấp về Phòng CTSV để lưu trữ.\n2. Tổ chức đánh giá và lưu kết quả tham gia HĐCĐ của sinh viên cụ thể như sau:\na) Thời gian đánh giá kết quả tham gia HĐCĐ thực hiện vào cuối học kỳ theo thông báo của Phòng CTSV;\nb) Việc phân công đánh giá kết quả tham gia HĐCĐ của sinh viên do đơn vị đánh giá phân công cho cá nhân thuộc đơn vị quản lý và gửi danh sách về Phòng CTSV trước thời gian đánh giá chậm nhất là 07 ngày làm việc;\nc) Đơn vị quản lý trực tiếp có trách nhiệm quản lý, theo dõi, phân cấp và phân công cho các tổ chức thuộc đơn vị quản lý và các cá nhân liên quan được phân công phụ trách và chủ trì các HĐCĐ; việc phân công được thực hiện khi đăng ký các HĐCĐ dự kiến của đơn vị theo thông báo của Nhà trường vào đầu mỗi năm học hoặc khi ban hành kế hoạch tổ chức HĐCĐ của đơn vị và thông báo cho Nhà trường thông qua Phòng CTSV để cập nhật;\nd) Sau khi hoàn thành việc đánh giá kết quả tham gia HĐCĐ của sinh viên, Phòng CTSV sẽ tổng hợp thống kê điểm HĐCĐ của học kỳ và tổng điểm tích lũy HĐCĐ của sinh viên trên hệ thống sinh viên; sinh viên theo dõi để có kế hoạch tham gia trong thời gian khóa học tiếp theo cho phù hợp nhằm đảm bảo việc tích lũy điểm HĐCĐ đạt yêu cầu và đúng tiến độ của khóa học.\n3. Cuối mỗi năm học, Nhà trường tổ chức tổng kết hoặc lồng ghép tổng kết để rút kinh nghiệm, nhằm đề ra các giải pháp nâng cao chất lượng, hiệu quả công tác tổ chức HĐCĐ của sinh viên trong Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hình thức khen thưởng",
+          "text": "Điều 11. Hình thức khen thưởng\n1. Kết quả tham gia HĐCĐ của sinh viên được sử dụng để làm cơ sở đánh giá, xét cấp học bổng ngoài ngân sách, xét thi đua khen thưởng năm học hoặc làm tiêu chí ưu tiên trong các hoạt động khác dành cho sinh viên.\n2. Hình thức khen thưởng được quy định tại khoản 5 Điều 7 Quyết định số 2231/QĐ-ĐHBK ngày 10 tháng 9 năm 2021 ban hành “Quy định về xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Xử lý các vi phạm của sinh viên khi tham gia kết nối và phục vụ cộng đồng",
+          "text": "Điều 12. Xử lý các vi phạm của sinh viên khi tham gia kết nối và phục vụ cộng đồng\n1. Trường hợp sinh viên đăng ký tham gia HĐCĐ nhưng không tham gia mà không có lý do chính đáng hoặc trong quá trình tham gia hoạt động nhưng có hành vi vi phạm đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ GD&ĐT, của ĐHĐN, của Nhà trường và các quy định của từng hoạt động thì tùy vào mức độ vi phạm sẽ có hình thức xử lý theo quy định.\n\n2. Đơn vị chủ trì tổ chức hoạt động có trách nhiệm gửi thông báo tình hình vi phạm của sinh viên về Phòng CTSV để có hình thức xử lý theo quy định. Tùy vào mức độ vi phạm, Hội đồng xét kỷ luật sinh viên của Nhà trường sẽ xem xét và quyết định theo quy định.\n3. Sinh viên vi phạm khi tham gia HĐCĐ thì không tính điểm HĐCĐ đối với hoạt động đó đồng thời bị trừ điểm HĐCĐ tích lũy học kỳ đó với số điểm bằng số điểm của hoạt động mà sinh viên đăng ký tham gia vi phạm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Khiếu nại và giải quyết khiếu nại",
+          "text": "Điều 13. Khiếu nại và giải quyết khiếu nại\n1. Sau khi công bố kết quả đánh giá tham gia HĐCĐ, trong vòng 07 ngày làm việc, nếu có thắc mắc, sinh viên có quyền khiếu nại bằng cách gửi đơn thông qua Phòng CTSV để chuyển tiếp đến đơn vị liên quan chịu trách nhiệm đánh giá kết quả điểm HĐCĐ cho sinh viên xem xét, giải quyết.\n2. Việc giải quyết khiếu nại được thực hiện theo thẩm quyền, cụ thể như sau:\na) Đối với các HĐCĐ do các đơn vị thuộc Trường ĐHBK tổ chức, đơn vị chủ trì có trách nhiệm tiếp nhận đơn và xử lý, kiểm tra, trả lời kết quả xử lý cho sinh viên trong vòng 07 ngày làm việc. Đơn vị chủ trì tổ chức chịu trách nhiệm nếu để xảy ra các sai sót trong quá trình đánh giá kết quả HĐCĐ của sinh viên;\nb) Đối với các HĐCĐ do các đơn vị bên ngoài Trường ĐHBK chủ trì tổ chức, thì thực hiện theo quy định cụ thể của đơn vị đó về việc giải quyết khiếu nại của sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Phân công thực hiện",
+          "text": "Điều 14. Phân công thực hiện\n1. Phòng Công tác Sinh viên\na) Chủ trì phối hợp với các đơn vị trong và ngoài Trường ĐHBK lập kế hoạch và triển khai thực hiện các HĐCĐ cho sinh viên theo năm học;\nb) Tham mưu xây dựng kế hoạch triển khai công tác quản lý, tổ chức và tham gia HĐCĐ của sinh viên trong Nhà trường;\nc) Vào đầu mỗi học kỳ, triển khai xây dựng và cập nhật danh mục HĐCĐ do các đơn vị thuộc Trường ĐHBK liên quan chủ trì tổ chức, thông báo cho sinh viên để đăng ký tham gia. Đối với các hoạt động không thường xuyên, cập nhật theo kế hoạch thời gian ban hành;\nd) Thông tin đầy đủ, công khai trên các kênh thông tin của Nhà trường và tạo điều kiện cho sinh viên tham gia HĐCĐ có hiệu quả;\nđ) Tổng hợp, quản lý điểm tích lũy HĐCĐ toàn khóa học của sinh viên; xác nhận kết quả tích lũy điểm HĐCĐ của sinh viên khi sinh viên có yêu cầu theo quy định;\ne) Tổng hợp kết quả điểm HĐCĐ toàn khóa của sinh viên, cấp giấy chứng nhận hoàn thành chương trình HĐCĐ toàn khóa học cho sinh viên theo ủy quyền của Hiệu trưởng;\n\n9\n\ng) Tham mưu, đề xuất với Hội đồng Thi đua Khen thưởng sinh viên của Nhà trường các hình thức khen thưởng, nhằm động viên sinh viên có thành tích hoặc đóng góp xuất sắc trong HĐCĐ;\nh) Tham mưu xử lý các trường hợp khiếu nại thuộc thẩm quyền của phòng (nếu có).\n\n2. Các đơn vị liên quan (phòng, trung tâm, khoa) thuộc Trường ĐHBK\na) Xây dựng kế hoạch, tổ chức và quản lý HĐCĐ cho sinh viên liên quan lĩnh vực quản lý của đơn vị; Trưởng đơn vị chủ trì tổ chức HĐCĐ chịu trách nhiệm trước Nhà trường về nội dung, kế hoạch tổ chức, triển khai đánh giá kết quả tham gia các hoạt động do đơn vị mình chủ trì tổ chức cho sinh viên;\nb) Phối hợp với Phòng CTSV triển khai công tác tổ chức, quản lý và đánh giá kết quả HĐCĐ cho sinh viên theo Quy định này;\nc) Vào đầu mỗi học kỳ chủ động xây dựng kế hoạch HĐCĐ và cập nhật vào danh mục HĐCĐ trong hệ thống quản lý để sinh viên đăng ký. Đối với các hoạt động không thường xuyên, cập nhật theo kế hoạch thời gian ban hành;\nd) Thông tin đầy đủ, công khai trên các kênh truyền thông về kế hoạch tổ chức HĐCĐ; tạo điều kiện cho sinh viên tham gia HĐCĐ ở các cấp tổ chức cao hơn;\nđ) Thông báo, phổ biến, hướng dẫn cho sinh viên về các quy định, kế hoạch tổ chức HĐCĐ thường niên trong năm học;\ne) Quản lý, giám sát, theo dõi việc đăng ký và tham gia HĐCĐ của sinh viên do đơn vị chủ trì tổ chức;\ng) Thực hiện việc đánh giá kết quả tham gia HĐCĐ của sinh viên đối với các hoạt động do đơn vị triển khai tổ chức và thực hiện chế độ báo cáo cho Nhà trường thông qua Phòng CTSV theo quy định;\nh) Phối hợp với Phòng CTSV để đề xuất khen thưởng đối với sinh viên có thành tích và đóng góp xuất sắc trong HĐCĐ do các đơn vị chủ trì tổ chức;\ni) Xử lý các trường hợp khiếu nại thuộc thẩm quyền của đơn vị (nếu có).\n\n3. Đoàn Thanh niên, Hội Sinh viên và tổ chức đoàn thể sinh viên khác cấp Trường ĐHBK\na) Chủ động lập kế hoạch, tổ chức thực hiện các HĐCĐ theo từng năm học; chỉ đạo tổ chức đoàn thể trực thuộc theo hệ thống phân cấp quản lý nhằm đẩy mạnh và đa dạng hóa các hình thức HĐCĐ trong sinh viên;\nb) Phối hợp với Phòng CTSV triển khai công tác tổ chức, quản lý và đánh giá kết quả HĐCĐ cho sinh viên theo Quy định này;\nc) Vào đầu mỗi học kỳ, chủ động xây dựng kế hoạch HĐCĐ và cập nhật vào danh mục HĐCĐ trong hệ thống quản lý để sinh viên đăng ký. Đối với các hoạt động không thường xuyên, cập nhật theo kế hoạch thời gian ban hành;\nd) Thông tin đầy đủ, công khai trên các kênh truyền thông về kế hoạch tổ chức HĐCĐ; tạo điều kiện cho sinh viên tham gia HĐCĐ ở các cấp tổ chức cao hơn;\nđ) Thông báo, phổ biến, hướng dẫn cho sinh viên về các quy định, kế hoạch tổ chức HĐCĐ thường niên trong năm học;\n\n10\n\ne) Quản lý, giám sát, theo dõi việc đăng ký và tham gia HĐCĐ của sinh viên do đơn vị chủ trì tổ chức;\ng) Thực hiện việc đánh giá kết quả tham gia HĐCĐ của sinh viên đối với các hoạt động do đơn vị triển khai tổ chức và thực hiện chế độ báo cáo cho Nhà trường thông qua Phòng CTSV theo quy định.\n\n4. Trung tâm Học liệu và Truyền thông\na) Phối hợp với Phòng CTSV, các đơn vị có liên quan khác trong việc truyền thông, giới thiệu về HĐCĐ có quy mô tại Trường ĐHBK; giới thiệu các gương sinh viên có thành tích tiêu biểu trong HĐCĐ của Nhà trường;\nb) Xây dựng chuyên trang để truyền thông HĐCĐ trong sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Chế độ báo cáo",
+          "text": "Điều 15. Chế độ báo cáo\nKết thúc năm học, các đơn vị liên quan có trách nhiệm tổng kết, báo cáo kết quả thực hiện tổ chức, quản lý và đánh giá kết quả tham gia HĐCĐ của sinh viên cho Nhà trường thông qua Phòng CTSV. Thời hạn báo cáo: trước ngày 15/7 hằng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 16. Hiệu lực thi hành\n1. Quy định này có hiệu lực thi hành kể từ ngày ký.\n2. Đối với sinh viên các khóa đào tạo và hệ đào tạo khác, khuyến khích tham gia HĐCĐ để làm cơ sở đánh giá kết quả rèn luyện, xét thi đua khen thưởng, ưu tiên xét cấp học bổng tài trợ, hỗ trợ học tập... theo quy định.\n3. Trong quá trình thực hiện, Quy định này có thể được điều chỉnh, bổ sung, sửa đổi cho phù hợp với tình hình thực tế và văn bản hiện hành. Việc điều chỉnh do Hiệu trưởng xem xét, quyết định./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy định về việc tham gia kết nối",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định về việc tham gia kết nối\nvà phục vụ cộng đồng của sinh viên đại học hệ chính quy Trường Đại học Bách khoa,\nĐại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Công tác Sinh viên, Trưởng phòng Phòng Tổ chức",
+      "text": "Điều 3. Trưởng phòng Phòng Công tác Sinh viên, Trưởng phòng Phòng Tổ chức\n- Hành chính, Trưởng các đơn vị, các tổ chức và cá nhân liên quan căn cứ Quyết định\nthi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

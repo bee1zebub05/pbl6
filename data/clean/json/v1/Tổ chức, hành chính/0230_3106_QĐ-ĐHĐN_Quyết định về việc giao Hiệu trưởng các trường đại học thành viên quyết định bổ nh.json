@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0230_3106_QĐ-ĐHĐN_Quyết định về việc giao Hiệu trưởng các trường đại học thành viên quyết định bổ nh.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3106/QĐ-ĐHĐN",
+    "title": "Quyết định về việc giao Hiệu trưởng các trường đại học thành viên quyết định bổ nhiệm chức danh nghề nghiệp viên chức",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/07/2023",
+    "effectiveDate": "01/08/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Giám đốc Đại học Đà Nẵng quyết định giao Hiệu trưởng các trường đại học thành viên quyết định bổ nhiệm chức danh nghề nghiệp giảng viên (hạng III), chuyên viên và tương đương trở xuống đối với các trường hợp được tuyển dụng, tiếp nhận hoặc hoàn thành thời gian tập sự.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ về việc tuyển dụng, sử dụng và quản lý viên chức;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "551/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 551/QĐ-ĐHĐN ngày 28/01/2022 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Tổ chức Cán bộ",
+    "Đảng uỷ ĐHĐN"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Giao Hiệu trưởng các trường đại học thành viên quyết định bổ nhiệm chức danh nghề nghiệp giảng viên (hạng III), chuyên viên và tương đương trở xuống đối với những trường hợp được đơn vị tuyển dụng hoặ",
+      "text": "Điều 1. Giao Hiệu trưởng các trường đại học thành viên quyết định bổ nhiệm chức danh nghề nghiệp giảng viên (hạng III), chuyên viên và tương đương trở xuống đối với những trường hợp được đơn vị tuyển dụng hoặc tiếp nhận, gồm:\n- Người tập sự sau khi hết thời gian tập sự;\n- Người không thực hiện chế độ tập sự;\n- Người đã làm việc ngoài Đại học Đà Nẵng được tiếp nhận về làm việc tại các trường đại học thành viên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu trưởng các trường đại học thành viên chịu trách nhiệm toàn diện trong việc thực hiện nhiệm vụ được giao đúng theo quy định của pháp luật; kịp thời xin ý kiến Giám đốc Đại học Đà Nẵng đối với nhữn",
+      "text": "Điều 2. Hiệu trưởng các trường đại học thành viên chịu trách nhiệm toàn diện trong việc thực hiện nhiệm vụ được giao đúng theo quy định của pháp luật; kịp thời xin ý kiến Giám đốc Đại học Đà Nẵng đối với những công việc phức tạp, vượt thẩm quyền; định kỳ hàng năm báo cáo Giám đốc Đại học Đà Nẵng (qua Ban Tổ chức Cán bộ) về kết quả thực hiện.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực kể từ ngày 01 tháng 8 năm 2023.",
+      "text": "Điều 3. Quyết định này có hiệu lực kể từ ngày 01 tháng 8 năm 2023.\n\nChánh Văn phòng, Trưởng các ban chức năng có liên quan của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

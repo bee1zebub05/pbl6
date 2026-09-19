@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0165_23_2016_TT-BGDĐT_Thông tư 23_2016_TT-BGDĐT Quy định về tổ chức và hoạt động thanh tra các kỳ.txt",
+  "mappedBy": "gemini-web",
+  "note": "26 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "23/2016/TT-BGDĐT",
+    "title": "Thông tư Quy định về tổ chức và hoạt động thanh tra các kỳ thi",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/10/2016",
+    "effectiveDate": "28/11/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thanh tra, kiểm tra"
+    ],
+    "summary": "Thông tư này quy định về tổ chức và hoạt động thanh tra các kỳ thi, bao gồm phạm vi điều chỉnh, đối tượng áp dụng, nguyên tắc, mục đích, hình thức, thời hạn thanh tra, nội dung thanh tra các kỳ thi (chuẩn bị thi, coi thi, chấm thi, xét tuyển, xét tốt nghiệp, luận văn, luận án), cũng như tổ chức, trách nhiệm và kinh phí hoạt động thanh tra.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Mạnh Hùng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "07/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 07/2012/NĐ-CP ngày 09 tháng 02 năm 2012 của Chính phủ quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành và hoạt động thanh tra chuyên ngành;"
+    },
+    {
+      "targetDocumentNumber": "42/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 42/2013/NĐ-CP ngày 09 tháng 5 năm 2013 của Chính phủ về tổ chức và hoạt động của thanh tra giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "56/2010/QH12",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "1. Nhiệm vụ, quyền hạn của người ra quyết định thanh tra các kỳ thi thực hiện theo quy định tại Điều 55, Luật thanh tra số 56/2010/QH12."
+    },
+    {
+      "targetDocumentNumber": "05/2014/TT-TTCP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "1. Quy trình thanh tra các kỳ thi thực hiện theo quy định tại Chương III, Thông tư số 05/2014/TT-TTCP ngày 16/10/2014 của Thanh tra Chính phủ quy định về tổ chức, hoạt động, quan hệ công tác của Đoàn thanh tra và trình tự, thủ tục tiến hành một cuộc thanh tra."
+    },
+    {
+      "targetDocumentNumber": "41/2006/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "2. Thông tư này thay thế Quyết định số 41/2006/QĐ-BGDĐT ngày 16 tháng 10 năm 2006 của Bộ trưởng Bộ GD&ĐT ban hành kèm theo Quyết định này Quy định về tổ chức và hoạt động thanh tra các kỳ thi."
+    }
+  ],
+  "mentions": [
+    "Thanh tra Bộ Giáo dục và Đào tạo",
+    "Thanh tra Sở GD&ĐT",
+    "Chính phủ",
+    "Thanh tra Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định về tổ chức và hoạt động thanh tra các kỳ thi bao gồm:\nThi tuyển sinh vào trung học phổ thông; thi tốt nghiệp trung học phổ\nthông; thi tuyển sinh để đào tạo trình độ đại học, thạc sĩ; thi/kiểm tra (gọi chung\nlà thi) hết học phần, học kỳ, hết năm học; thi cấp chứng chỉ ngoại ngữ, tin học;\nthi học sinh giỏi;\nb) Xét tuyển vào trung học cơ sở, trung học phổ thông; xét tuyển để đào tạo\ntrình độ đại học, thạc sĩ, tiến sĩ; xét tốt nghiệp trung học cơ sở, trung học phổ\nthông, đại học, thạc sĩ, tiến sĩ;\n\nCÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016 17\nViệc tổ chức thực hiện và đánh giá đồ án, khóa luận tốt nghiệp; luận văn,\nluận án (gọi chung là luận văn, luận án) trong các đại học, học viện, trường đại học,\nviện nghiên cứu khoa học (gọi chung là cơ sở giáo dục đại học).\n2. Thông tư này áp dụng đối với Thanh tra Bộ Giáo dục và Đào tạo (GD&ĐT);\nThanh tra Sở GD&ĐT; cơ sở giáo dục đại học, cơ sở giáo dục khác thực hiện các\nchương trình giáo dục thuộc quyền quản lý nhà nước của Bộ GD&ĐT; các tổ chức và\ncá nhân có liên quan đến các kỳ thi theo quy định.\nCơ quan quản lý giáo dục, cơ sở giáo dục đại học, đoàn thanh tra, cán bộ thanh\ntra độc lập áp dụng Thông tư này và quy định liên quan để tiến hành thanh tra đối\nvới các kỳ thi chưa nêu cụ thể tại Khoản 1 Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nguyên tắc hoạt động thanh tra các kỳ thi",
+      "text": "Điều 2. Nguyên tắc hoạt động thanh tra các kỳ thi\n1. Tuân theo quy định pháp luật; bảo đảm chính xác, khách quan, trung thực, 1\ncông khai, dân chủ, kịp thời.\n2. Không trùng lặp về phạm vi, đối tượng, nội dung, thời gian thanh tra giữa\ncác cơ quan thực hiện chức năng thanh tra; không làm cản trở hoạt động bình\nthường của cơ quan, tổ chức, cá nhân là đối tượng thanh tra.\n3. Kết hợp giữa phát hiện, ngăn chặn, xử lý kịp thời các hành vi vi phạm quy\nchế với việc hướng dẫn thực hiện quy chế. 1\n4. Phối hợp chặt chẽ giữa hoạt động thanh tra với hoạt động kiểm tra; phối hợp 9 6\ngiữa thanh tra nhà nước với thanh tra nội bộ của cơ sở giáo dục đại học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Mục đích hoạt động thanh tra các kỳ thi 1",
+      "text": "Điều 3. Mục đích hoạt động thanh tra các kỳ thi 1\n1. Đánh giá việc thực hiện các quy định về thi, xét tuyển, xét công nhận tốt\nnghiệp, tổ chức thực hiện và đánh giá luận văn, luận án của đơn vị, tổ chức, cá\nnhân tham gia. P\n2. Phòng ngừa, phát hiện và kiến nghị xử lý những trường hợp vi phạm quy\nchế; giúp cơ quan quản lý giáo dục, cơ sở giáo dục làm tốt công tác thi, xét tuyển, 6\nxét công nhận tốt nghiệp, tổ chức thực hiện và đánh giá luận văn, luận án. 5 7\n3. Kịp thời kiến nghị cơ quan quản lý giáo dục các cấp có biện pháp để đảm\nbảo các kỳ thi diễn ra an toàn, nghiêm túc, đúng quy chế.\n4. Giải quyết hoặc kiến nghị giải quyết các khiếu nại, tố cáo về thi, xét tuyển,\nxét công nhận tốt nghiệp, tổ chức thực hiện và đánh giá luận văn, luận án.\n5. Phát hiện sơ hở trong cơ chế quản lý, chính sách, pháp luật về thi, xét tuyển,\nxét công nhận tốt nghiệp, tổ chức thực hiện và đánh giá luận văn, luận án để kiến\nnghị với cơ quan nhà nước có thẩm quyền biện pháp khắc phục.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Hình thức thanh tra các kỳ thi",
+      "text": "Điều 4. Hình thức thanh tra các kỳ thi\n1. Thanh tra các kỳ thi được tiến hành theo kế hoạch hoặc đột xuất.\n2. Thanh tra theo kế hoạch được tiến hành theo kế hoạch hàng năm do Bộ\ntrưởng Bộ GD&ĐT, Giám đốc Sở GD&ĐT, giám đốc đại học quốc gia, đại học\n\n18 CÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016\nvùng, hiệu trưởng/viện trưởng/giám đốc cơ sở giáo dục đại học (gọi chung là hiệu\ntrưởng) phê duyệt.\n3. Thanh tra đột xuất được tiến hành khi phát hiện cơ quan, tổ chức, cá nhân có\ndấu hiệu vi phạm pháp luật về thi, xét tuyển, xét tốt nghiệp, tổ chức thực hiện và\nđánh giá luận văn, luận án; theo yêu cầu của việc giải quyết khiếu nại, giải quyết tố\ncáo, phòng, chống tham nhũng hoặc do Bộ trưởng Bộ GD&ĐT, Giám đốc Sở\nGD&ĐT, Hiệu trưởng giao.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Thời hạn thanh tra",
+      "text": "Điều 5. Thời hạn thanh tra\n1. Hoạt động thanh tra các kỳ thi được thực hiện trước, trong quá trình tổ chức\nhoặc sau khi kết thúc kỳ thi.\n2. Cuộc thanh tra do Thanh tra Bộ GD&ĐT quyết định tiến hành thực hiện theo\nquy định tại Điểm a, Khoản 1, Điều 16, Nghị định số 07/2012/NĐ-CP ngày 09/02/2012 1\ncủa Chính phủ quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên\nngành và hoạt động thanh tra chuyên ngành. Cuộc thanh tra do Thanh tra Sở GD&ĐT 1\nquyết định tiến hành thực hiện theo quy định tại Điểm b, Khoản 1, Điều 16, Nghị định\nsố 07/2012/NĐ-CP.\n3. Cuộc thanh tra do Hiệu trưởng quyết định tiến hành không quá 30 ngày; 1\ntrường hợp phức tạp có thể kéo dài hơn, nhưng không quá 45 ngày.\n4. Thời hạn của cuộc thanh tra được tính từ ngày công bố quyết định thanh tra 9 6\nđến ngày kết thúc việc thanh tra tại nơi được thanh tra. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Thanh tra công tác chuẩn bị thi 5",
+      "text": "Điều 6. Thanh tra công tác chuẩn bị thi 5\n1. Việc quán triệt, ban hành văn bản chỉ đạo thực hiện nhiệm vụ của Giám đốc\nSở GD&ĐT, Giám đốc đại học, học viện, người đứng đầu cơ sở giáo dục, Chủ tịch\nhội đồng thi theo thẩm quyền; cụ thể:\na) Thẩm quyền ban hành văn bản, loại văn bản ban hành;\nb) Phạm vi điều chỉnh và nội dung văn bản;\nc) Việc tuyên truyền, phổ biến nội dung quy định, quy chế thi.\n2. Việc thành lập các ban thuộc Hội đồng thi và tổ chức tập huấn cho thành\nphần tham gia các ban; việc thông báo kế hoạch thi, lịch thi và thời gian biểu:\na) Thẩm quyền ban hành quyết định thành lập các ban; số lượng, tên gọi các\nban theo quy định;\n\nCÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016 19\nb) Thành phần, số lượng, tiêu chuẩn và điều kiện của trưởng ban, thành viên\ncác ban thuộc Hội đồng thi;\nc) Việc huy động và tổ chức tập huấn cho các đối tượng tham gia công tác thi;\nd) Việc công khai các thông tin tại Hội đồng thi, điểm thi, phòng thi.\n3. Việc tiếp nhận hồ sơ và thực hiện các quy định đối với thí sinh:\na) Thời gian, địa điểm và hình thức phát, nhận hồ sơ;\nb) Việc hướng dẫn thí sinh hoàn thiện hồ sơ, giấy tờ hợp lệ, hợp pháp xác\nnhận về kết quả học tập, diện ưu tiên, diện miễn thi, điểm khuyến khích, điểm\nbảo lưu, thí sinh tự do, thời gian kinh nghiệm công tác và các điều kiện khác đối\nvới thí sinh.\n4. Việc chuẩn bị cơ sở vật chất và đề thi phục vụ kỳ thi: 1\na) Số lượng các điểm thi, phòng thi, điều kiện về ánh sáng, khoảng cách giữa\ncác thí sinh;\nb) Việc ngăn cách khu vực thi, phòng thi với khu vực khác; việc niêm phong\ncác phòng không sử dụng trong khu vực thi, vô hiệu hóa các phương tiện thông tin\nliên lạc không sử dụng, tín hiệu internet trong khu vực thi;\nc) Việc chuẩn bị kinh phí, văn phòng phẩm phục vụ kỳ thi; 1\nd) Phương án phối hợp với các đơn vị có liên quan tổ chức kỳ thi, phương án 9\nxử lý sự cố bất thường; 1\nđ) Việc thực hiện quy định về ra đề thi, in, sao, bảo mật, giao, nhận, vận\nchuyển, bảo vệ đề thi.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Thanh tra công tác coi thi P",
+      "text": "Điều 7. Thanh tra công tác coi thi P\n1. Việc thực hiện trách nhiệm của Chủ tịch Hội đồng thi, Trưởng ban coi thi,\nTrưởng điểm thi và Trưởng ban thư ký, việc phối hợp chỉ đạo công tác coi thi giữa ẵ\ncác ban:\na) Việc chỉ đạo, phân công nhiệm vụ, phối hợp giữa các lực lượng; kế hoạch 5\nkiểm tra, giám sát của Trưởng ban coi thi, Trưởng điểm thi và các ban có liên quan;\nb) Việc thực hiện quy định về sử dụng phương tiện thông tin liên lạc, báo cáo\nnhanh của điểm thi, Hội đồng thi;\nc) Việc bố trí cán bộ coi thi, cán bộ giám sát và cán bộ có liên quan trong từng\nbuổi thi;\nd) Việc thực hiện quy định về thu đề thi thừa;\nViệc xử lý vi phạm đối với cán bộ coi thi, cán bộ có liên quan và thí sinh\ncủa Chủ tịch Hội đồng thi, Trưởng điểm thi, Trưởng ban coi thi;\ne) Việc kiểm tra của Chủ tịch Hội đồng thi, Trưởng điểm thi, Trưởng ban coi thi,\ncác ban có liên quan và Hội đồng thi;\n\n20 CÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016\ng) Việc thực hiện kiến nghị của thanh tra sau mỗi buổi thi; thực hiện chỉ đạo\ncủa cấp trên và xử lý tình huống bất thường xảy ra của Chủ tịch Hội đồng thi,\nTrưởng điểm thi, Trưởng ban coi thi.\n2. Việc thực hiện nhiệm vụ của cán bộ coi thi, thư ký, những người có liên\nquan và thí sinh:\na) Quy trình thực hiện nhiệm vụ của cán bộ coi thi: Đánh số báo danh, gọi tên\nvà kiểm tra nhận dạng thí sinh vào phòng thi; ký giấy thi, ký giấy nháp, quy trình\nmở đề thi, kiểm tra đối chiếu mã đề của thí sinh, niêm phong và bàn giao đề thi\nthừa, thu bài thi và xử lý thí sinh vi phạm quy chế;\nb) Việc thực hiện nhiệm vụ của thư ký điểm thi, cán bộ giám sát và lực lượng\ncó liên quan khác: Giao nhận, bảo quản bài thi, đề thi, khu vực bảo quản đề thi, bài\nthi, việc thực hiện quy định về giờ giấc và hiệu lệnh của điểm thi; việc đảm bảo kỷ 1\nluật trong khu vực thi;\nc) Việc thực hiện quy định về trách nhiệm của thí sinh trong khu vực thi,\ntrong phòng thi, việc mang và sử dụng thiết bị quay, chụp, ghi âm vào phòng thi\ncủa thí sinh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Thanh tra công tác chấm thi 1",
+      "text": "Điều 8. Thanh tra công tác chấm thi 1\n1. Thanh tra công tác chuẩn bị chấm thi:\na) Thành phần Ban chấm thi, số lượng cán bộ chấm thi của từng môn chấm; 9 6\nthư ký, làm phách, chấm phúc khảo, chấm kiểm tra; 1\nb) Việc chuẩn bị cơ sở vật chất và các điều kiện phục vụ cho công tác chấm\nthi, khu vực chấm thi, số lượng phòng chấm cho từng môn chấm, khu vực làm\nphách, khu vực bảo quản bài thi; phương án phân công nhiệm vụ cho các thành\nviên tham gia chấm thi;\nc) Việc tổ chức tập huấn quy chế, hướng dẫn chấm thi và các văn bản khác liên ẵ\nquan cho các thành viên Ban chấm thi, Ban thư ký, Ban làm phách và các bộ phận\ncó liên quan; 5\nd) Việc thực hiện quy trình về làm phách, bảo mật đầu phách, quản lý bài thi\n(phương án giao, nhận, lưu giữ bài thi giữa thư ký chấm, trưởng môn chấm, cán bộ\nchấm 1, cán bộ chấm 2).\n2. Thanh tra trong khi chấm thi:\na) Việc thực hiện chức trách, nhiệm vụ của Trưởng ban chấm thi, thư ký chấm\nthi, trưởng môn chấm, cán bộ chấm thi, cán bộ chấm kiểm tra và cán bộ có liên\nquan: Phân công nhiệm vụ trong Ban chấm thi, thư ký, việc phối hợp thực hiện\nnhiệm vụ giữa thư ký với cán bộ chấm thi với trưởng môn chấm; phối hợp giữa\ncác lực lượng phục vụ, bảo vệ trong quá trình chấm thi; phương án xử lý các tình\nhuống bất thường; việc thảo luận, thống nhất hướng dẫn chấm, đáp án, biểu điểm;\nsố lượng bài chấm chung của từng môn chấm;\n\nCÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016\nb) Việc thực hiện quy trình giao, nhận bài thi; quy trình chấm 2 vòng độc lập;\nviệc bố trí cán bộ tại các phòng chấm thi; ghi thông tin vào phiếu chấm; thống nhất\nđiểm bài thi, xử lý kết quả chấm thi, xử lý kết quả chấm kiểm tra; việc thực hiện\nquy trình chấm bài thi trắc nghiệm.\n3. Việc thực hiện quy trình nhập điểm.\n4. Việc tổ chức chấm phúc khảo:\na) Việc thành lập, bảo mật danh sách lãnh đạo và thành viên Ban chấm phúc\nkhảo theo quy định;\nb) Việc rút bài, rút phách, đánh lại phách, việc tổ chức chấm phúc khảo theo\nquy định.\n5. Việc phát hiện bài thi có dấu hiệu bất thường để xử lý như: Trường hợp thi\nhộ, tráo bài và hành vi tiêu cực khác chưa phát hiện khi coi thi. 1\n6. Việc thực hiện chỉ đạo của lãnh đạo hội đồng; kiến nghị của thanh tra.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Thanh tra việc chỉ đạo, đôn đốc, tổ chức thực hiện của Hội đồng thi",
+      "text": "Điều 9. Thanh tra việc chỉ đạo, đôn đốc, tổ chức thực hiện của Hội đồng thi\n1. Kế hoạch, kết quả kiểm tra của Chủ tịch Hội đồng thi.\n2. Hệ thống các biểu mẫu, biên bản sử dụng trong quá trình chuẩn bị thi, coi\nthi, chấm thi. 1\n3. Kết quả xử lý kiến nghị của thanh tra thi, chỉ đạo của cấp trên. 9\n4. Việc giải quyết khiếu nại, giải quyết tố cáo của Chủ tịch Hội đồng thi. 6\n5. Việc lưu trữ, công bố, công khai kết quả thi. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Thanh tra công tác chuẩn bị xét tuyển ẵ",
+      "text": "Điều 10. Thanh tra công tác chuẩn bị xét tuyển ẵ\n1. Việc xây dựng và công bố đề án tuyển sinh: 5\na) Đối tượng, điều kiện xét tuyển;\nb) Phương thức xét tuyển;\nc) Điều kiện đảm bảo chất lượng đầu vào;\nd) Quy trình xét tuyển; lệ phí; cơ sở vật chất phục vụ xét tuyển.\n2. Các điều kiện đảm bảo cho công tác xét tuyển:\na) Việc thành lập Hội đồng tuyển sinh và các ban có liên quan: Thành phần, số\nlượng, tiêu chuẩn cán bộ tham gia;\nb) Các văn bản cho phép mở ngành đào tạo của cơ quan quản lý nhà nước có\nthẩm quyền;\nc) Việc ban hành các văn bản hướng dẫn xét tuyển theo thẩm quyền;\n\n22 CÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016\nd) Các tiêu chí xác định chỉ tiêu: Đội ngũ giảng viên cơ hữu; quy mô sinh viên,\ndiện tích sàn xây dựng trực tiếp phục vụ đào tạo, các điều kiện có liên quan khác;\nđ) Việc chuẩn bị cơ sở vật chất và kinh phí phục vụ công tác xét tuyển.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Thanh tra công tác xét tuyển",
+      "text": "Điều 11. Thanh tra công tác xét tuyển\n1. Việc thực hiện quy định về xét tuyển:\na) Thông báo xét tuyển: Nội dung, thời gian và hình thức thông báo;\nb) Việc tiếp nhận, rà soát hồ sơ, cập nhật, công bố thông tin xét tuyển trên các\nphương tiện thông tin đại chúng;\nc) Việc phát, nhận hồ sơ xét tuyển: Thời gian phát, nhận hồ sơ, hình thức thu\nnhận, địa điểm thu nhận hồ sơ các loại giấy tờ hợp lệ, hợp pháp xác nhận về kết\nquả học tập, diện ưu tiên, khuyến khích, bảo lưu, thời gian công tác; 1\nd) Lệ phí xét tuyển.\n2. Việc xác định điểm trúng tuyển:\na) Quy trình xác định điểm trúng tuyển; việc thực hiện quy định nhân hệ số\ntrong xét tuyển; đối tượng ưu tiên, cử tuyển trong tuyển sinh;\nb) Việc công khai kết quả xét tuyển; danh sách thí sinh trúng tuyển;\nc) Việc in, gửi giấy báo trúng tuyển, triệu tập thí sinh trúng tuyển. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Thanh tra việc nhập học và kiểm tra hồ sơ thí sinh trúng tuyển 9",
+      "text": "Điều 12. Thanh tra việc nhập học và kiểm tra hồ sơ thí sinh trúng tuyển 9\n1. Các loại giấy tờ quy định bắt buộc và giấy tờ ưu tiên trong sơ nhập học của 6\nthí sinh. 1\n2. Việc xử lý thí sinh nhập học muộn.\n3. Việc thực hiện kiểm tra hồ sơ của thí sinh trúng tuyển.\n4. Việc kiểm tra, giám sát, thực hiện chỉ đạo của cấp trên; kiến nghị của thanh P\ntra trong công tác tuyển sinh; việc giải quyết khiếu nại, tố cáo của hiệu trưởng.\n5. Việc lưu trữ hồ sơ tuyển sinh. ẵ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Thanh tra việc xét, công nhận tốt nghiệp 1",
+      "text": "Điều 13. Thanh tra việc xét, công nhận tốt nghiệp 1\n1. Việc thành lập Hội đồng xét tốt nghiệp:\na) Thẩm quyền thành lập Hội đồng xét tốt nghiệp;\nb) Thành phần, tiêu chuẩn của thành viên Hội đồng xét tốt nghiệp.\n2. Đối tượng được xét miễn thi các môn và quy trình xét miễn thi.\n3. Đối tượng và điều kiện thí sinh được xét đặc cách tốt nghiệp.\n4. Việc bảo lưu điểm thi, điểm ưu tiên, điểm khuyến khích.\n5. Quy trình thực hiện xét tốt nghiệp; quy định cấp giấy chứng nhận tốt nghiệp\ntạm thời và cấp bằng tốt nghiệp.\n6. Việc giải quyết khiếu nại, giải quyết tố cáo trong quá trình xét tốt nghiệp.\n7. Việc thực hiện chế độ thông tin, báo cáo và lưu trữ.\n\nCÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016 23",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Thanh tra điều kiện tổ chức thực hiện luận văn, luận án",
+      "text": "Điều 14. Thanh tra điều kiện tổ chức thực hiện luận văn, luận án\n1. Việc ban hành quy định của đơn vị về việc tổ chức thực hiện luận văn, luận án.\n2. Điều kiện tổ chức thực hiện luận văn, luận án:\na) Việc hoàn thành chương trình học tập theo quy định;\nb) Việc thực hiện quy định về điểm điều kiện, chuyên cần;\nc) Điều kiện, tiêu chuẩn người hướng dẫn luận văn, luận án; thời gian tổ chức\nthực hiện luận văn, luận án.\n3. Quy trình lựa chọn đề tài, phân công cán bộ hướng dẫn. 1\n4. Xem xét, đối chiếu với quy định về trình độ chuyên môn, chuyên ngành của\nngười hướng dẫn luận văn, luận án và chuyên ngành của luận văn, luận án đang\nhoặc dự kiến tham gia hướng dẫn.\n5. Việc xây dựng kế hoạch nghiên cứu, tổ chức thực hiện luận văn, luận án của\nngười học và người hướng dẫn; trách nhiệm chỉ đạo, hướng dẫn và tổ chức thực 1\nhiện của khoa, đơn vị chuyên môn.\n6. Những thay đổi trong quá trình tổ chức thực hiện luận văn, luận án. 9 6",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Thanh tra việc tổ chức đánh giá luận văn, luận án 1",
+      "text": "Điều 15. Thanh tra việc tổ chức đánh giá luận văn, luận án 1\n1. Điều kiện để được thành lập hội đồng chấm luận văn, luận án.\n2. Thẩm quyền của người ra quyết định thành lập hội đồng chấm luận văn,\nluận án; thành phần, số lượng, trình độ chuyên môn, chuyên ngành của người tham P\ngia hội đồng chấm luận văn, luận án.\n3. Hình thức, địa điểm họp hội đồng chấm luận văn, luận án. ẵ\n4. Trình tự, thời gian tổ chức chấm luận văn, luận án.\n5. Việc lên điểm, báo cáo, lưu trữ và giải quyết khiếu nại, giải quyết tố cáo 5\ntrong quá trình tổ chức thực hiện và đánh giá luận văn, luận án.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Xây dựng và ban hành kế hoạch thanh tra hàng năm",
+      "text": "Điều 16. Xây dựng và ban hành kế hoạch thanh tra hàng năm\n1. Chánh Thanh tra Bộ GD&ĐT chủ trì đề xuất các cuộc thanh tra thi trong kế\nhoạch thanh tra hàng năm của Bộ.\n2. Chánh Thanh tra Sở GD&ĐT chủ trì đề xuất các cuộc thanh tra thi trong kế\nhoạch thanh tra hàng năm của Sở.\n\n24 CÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016\n3. Trưởng ban/phòng thanh tra hoặc cán bộ thanh tra chuyên trách trong cơ sở\ngiáo dục đại học chủ trì đề xuất các cuộc thanh tra thi trong kế hoạch thanh tra\nhàng năm của đơn vị.\n4. Kế hoạch thanh tra phải thể hiện: Nội dung thanh tra, đối tượng thanh tra,\nthời gian thanh tra và thông tin cần thiết khác theo Mẫu số 01-TTr ban hành kèm\ntheo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Trách nhiệm của các cấp quản lý, tổ chức thanh tra và thẩm",
+      "text": "Điều 17. Trách nhiệm của các cấp quản lý, tổ chức thanh tra và thẩm\nquyền tổ chức thanh tra các kỳ thi\n1. Trách nhiệm của các cấp quản lý:\na) Bộ trưởng Bộ GD&ĐT phê duyệt kế hoạch thanh tra hàng năm và chỉ đạo\nhoạt động thanh tra các kỳ thi theo quy định của pháp luật;\nb) Giám đốc sở GD&ĐT phê duyệt kế hoạch thanh tra hàng năm và chỉ đạo 1\nhoạt động thanh tra các kỳ thi thuộc quyền quản lý trên địa bàn đã được phân cấp\ntheo quy định của pháp luật;\nc) Hiệu trưởng có trách nhiệm phê duyệt kế hoạch thanh tra hàng năm và chỉ\nđạo và tổ chức thực hiện công tác thanh tra các kỳ thi của đơn vị theo quy định của\npháp luật; 1\nd) Thủ trưởng cơ quan quản lý nhà nước các cấp, thủ trưởng cơ sở giáo dục có\ntrách nhiệm xử lý sau thanh tra, thực hiện kết luận thanh tra theo quy định của 9 6\npháp luật. 1\n2. Tổ chức thanh tra các kỳ thi:\na) Thanh tra Bộ GD&ĐT, Thanh tra Sở GD&ĐT tổ chức thanh tra theo đoàn\nthanh tra hoặc cử cán bộ thanh tra độc lập theo quy định của pháp luật; P\nb) Đại học quốc gia, đại học vùng, cơ sở giáo dục đại học tổ chức thanh tra nội\nbộ theo đoàn thanh tra. ẵ\n3. Thẩm quyền tổ chức thanh tra các kỳ thi:\na) Chánh Thanh tra Bộ GD&ĐT quyết định thanh tra và thành lập đoàn thanh 1\ntra các kỳ thi theo quy định; trường hợp cần thiết, Bộ trưởng Bộ GD&ĐT ra quyết\nđịnh thanh tra và thành lập đoàn thanh tra;\nb) Chánh Thanh tra Sở GD&ĐT quyết định thanh tra và thành lập đoàn thanh\ntra thi, xét tuyển, xét tốt nghiệp, quy trình tổ chức thực hiện và đánh giá luận văn,\nluận án trên địa bàn quản lý đã được phân cấp theo quy định; trường hợp cần thiết,\nGiám đốc Sở GD&ĐT ra quyết định thanh tra và thành lập đoàn thanh tra;\nc) Hiệu trưởng quyết định thanh tra và thành lập đoàn thanh tra các kỳ thi trong cơ\nsở mình quản lý;\nd) Người ra quyết định thanh tra lựa chọn nội dung thanh tra theo quy định tại\nThông tư này, tình hình thực tiễn và các quy định có liên quan để quyết định nội\ndung cụ thể cho từng cuộc thanh tra.\n\nCÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016 25",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Nhiệm vụ, quyền hạn của người ra quyết định thanh tra, trưởng",
+      "text": "Điều 18. Nhiệm vụ, quyền hạn của người ra quyết định thanh tra, trưởng\nđoàn thanh tra, thành viên đoàn thanh tra, người được giao thực hiện nhiệm\nvụ thanh tra các kỳ thi\n1. Nhiệm vụ, quyền hạn của người ra quyết định thanh tra các kỳ thi thực hiện\ntheo quy định tại Điều 55, Luật thanh tra số 56/2010/QH12.\n2. Nhiệm vụ, quyền hạn của trưởng đoàn thanh tra, thành viên đoàn thanh tra,\nngười được giao thực hiện nhiệm vụ thanh tra độc lập thanh tra các kỳ thi thực\nhiện theo quy định tại Điều 53, Điều 54 Luật Thanh tra số 56/2010/QH12.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Trách nhiệm của thành viên đoàn thanh tra, người được giao thực",
+      "text": "Điều 19. Trách nhiệm của thành viên đoàn thanh tra, người được giao thực\nhiện nhiệm vụ thanh tra các kỳ thi\n1. Thành viên đoàn thanh tra các kỳ thi có trách nhiệm thực hiện đúng nội\ndung, đối tượng, thời hạn đã ghi trong quyết định thanh tra, thực hiện nhiệm vụ 1\ntheo sự phân công của Trưởng đoàn thanh tra, lập đầy đủ hồ sơ thanh tra theo\nquy định.\n2. Thanh tra viên, người được giao thực hiện nhiệm vụ thanh tra các kỳ thi thi\ncó trách nhiệm thực hiện đúng nội dung, đối tượng, thời hạn đã ghi trong quyết\nđịnh thanh tra, lập đầy đủ hồ sơ thanh tra theo quy định. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Lực lượng tham gia đoàn thanh tra các kỳ thi 9",
+      "text": "Điều 20. Lực lượng tham gia đoàn thanh tra các kỳ thi 9\nlượng tham gia đoàn thanh tra của Bộ GD&ĐT là thanh tra viên, công 6\n1 Lực 1\nchức thuộc cơ quan Thanh tra Bộ GD&ĐT; trường hợp cần thiết, Bộ trưởng,\nChánh thanh tra Bộ trưng tập cộng tác viên thanh tra là công chức từ các đơn vị\nthuộc Bộ, công chức thanh tra các sở GD&ĐT, công chức, viên chức cơ sở giáo\ndục đại học.\n2. Lực lượng tham gia đoàn thanh tra của sở GD&ĐT là thanh tra viên, công\nchức thuộc cơ quan thanh tra sở; trường hợp cần thiết, Giám đốc Sở, Chánh thanh ẵ\ntra Sở trưng tập cộng tác viên thanh tra là công chức thuộc sở GD&ĐT, cộng tác 5\nviên thanh tra giáo dục của Sở.\n3. Lực lượng tham gia đoàn thanh tra của cơ sở giáo dục đại học là cán bộ\nthuộc ban/phòng thanh tra nội bộ, cán bộ thanh tra chuyên trách hoặc cán bộ, công\nchức, viên chức, cán bộ quản lý, giảng viên cơ hữu của trường.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Quyền và nghĩa vụ của đối tượng thanh tra; nghĩa vụ của cơ quan",
+      "text": "Điều 21. Quyền và nghĩa vụ của đối tượng thanh tra; nghĩa vụ của cơ quan\nquản lý giáo dục các cấp, cơ sở giáo dục và các đơn vị, cá nhân có liên quan\n1. Đối tượng thanh tra có quyền và nghĩa vụ theo quy định tại Điều 57 và Điều 58\ncủa Luật thanh tra số 56/2010/QH12.\n2. Cơ quan quản lý giáo dục các cấp, cơ sở giáo dục và các đơn vị, cá nhân có\nliên quan có nghĩa vụ tạo điều kiện cho Đoàn thanh tra và cán bộ thanh tra làm\nviệc, đáp ứng yêu cầu của thanh tra các kỳ thi theo quy định.\n\n26 CÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Quy trình thanh tra",
+      "text": "Điều 22. Quy trình thanh tra\n1. Quy trình thanh tra các kỳ thi thực hiện theo quy định tại Chương III, Thông\ntư số 05/2014/TT-TTCP ngày 16/10/2014 của Thanh tra Chính phủ quy định về tổ\nchức, hoạt động, quan hệ công tác của Đoàn thanh tra và trình tự, thủ tục tiến hành\nmột cuộc thanh tra.\n2. Mẫu biên bản ghi nhớ, kiến nghị xử lý trong quá trình thanh tra theo",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": "Kinh phí hoạt động thanh tra các kỳ thi",
+      "text": "Điều 23. Kinh phí hoạt động thanh tra các kỳ thi\n1. Bộ GD&ĐT đảm bảo kinh phí hoạt động cho các đoàn thanh tra, cán bộ 1\nthanh tra độc lập do Bộ trưởng Bộ GD&ĐT, Chánh Thanh tra Bộ GD&ĐT quyết\nđịnh thành lập.\n2. Sở GD&ĐT đảm bảo kinh phí hoạt động cho các đoàn thanh tra, cán bộ\nthanh tra độc lập do Giám đốc sở GD&ĐT, Chánh Thanh tra Sở GD&ĐT quyết\nđịnh thành lập.\n3. Hiệu trưởng đảm bảo kinh phí hoạt động cho các đoàn thanh tra do Hiệu 1\ntrưởng quyết định thành lập. 9\n4. Kinh phí trưng tập cộng tác viên thanh tra thực hiện theo quy định về cộng 6\ntác viên thanh tra giáo dục do Bộ trưởng Bộ GD&ĐT ban hành. 1\nChương IV P\nTỔ CHỨC THỰC HIỆN\nẵ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": "Xử lý vi phạm 5",
+      "text": "Điều 24. Xử lý vi phạm 5\n1. Cơ quan, tổ chức, cá nhân là đối tượng thanh tra; cơ quan, tổ chức, cá nhân\ncó liên quan có một trong các hành vi sau đây thì tùy theo tính chất, mức độ vi\nphạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm\nhình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật:\na) Không cung cấp thông tin, tài liệu hoặc cung cấp thông tin, tài liệu không\nchính xác, thiếu trung thực, chiếm đoạt, thủ tiêu tài liệu, vật chứng liên quan đến\nnội dung thanh tra;\nb) Chống đối, cản trở, mua chuộc, trả thù, trù dập người làm nhiệm vụ thanh\ntra, người cung cấp thông tin, tài liệu cho hoạt động thanh tra; gây khó khăn cho\nhoạt động thanh tra;\nc) Vu cáo, vu khống đối với người làm nhiệm vụ thanh tra;\n\nCÔNG BÁO/Số 1159 + 1160/Ngày 06-11-2016 27\nĐưa hối lộ;\nđ) Không thực hiện, thực hiện không đầy đủ, không kịp thời nghĩa vụ, trách\nnhiệm của mình được ghi trong kết luận thanh tra, quyết định xử lý về thanh tra;\ne) Các hành vi vi phạm pháp luật khác.\n2. Người ra quyết định thanh tra, Trưởng đoàn thanh tra, Thanh tra viên, công\nchức được giao thực hiện nhiệm vụ chuyên ngành, cộng tác viên thanh tra, thành\nviên khác của Đoàn thanh tra có một trong các hành vi sau đây thì tùy theo tính\nchất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự, nếu\ngây thiệt hại thì phải bồi thường theo quy định của pháp luật:\na) Lợi dụng chức vụ, quyền hạn thanh tra để thực hiện hành vi trái pháp luật;\nsách nhiễu, gây khó khăn, phiền hà cho đối tượng thanh tra;\nb) Thanh tra vượt quá thẩm quyền, phạm vi, nội dung trong quyết định 1\nthanh tra;\nc) Cố ý kết luận sai sự thật, quyết định, xử lý trái pháp luật, bao che cho người\ncó hành vi vi phạm pháp luật;\nd) Tiết lộ thông tin, tài liệu về nội dung thanh tra trong quá trình thanh tra;\nCố ý không phát hiện hoặc phát hiện hành vi vi phạm pháp luật đến mức 1\nphải xử lý vi phạm hành chính, xử lý kỷ luật, truy cứu trách nhiệm hình sự mà 9\nkhông xử lý, xử lý không đầy đủ, không kiến nghị việc xử lý; 6\ne) Làm sai lệch, giả mạo, sửa chữa, tiêu hủy, chiếm đoạt hồ sơ thanh tra; 1\ng) Nhận hối lộ, môi giới hối lộ;\nh) Các hành vi vi phạm pháp luật khác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 25",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 25. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 11 năm 2016.\n2. Thông tư này thay thế Quyết định số 41/2006/QĐ-BGDĐT ngày 16 tháng 10 ẵ\nnăm 2006 của Bộ trưởng Bộ GD&ĐT ban hành kèm theo Quyết định này Quy 5\nđịnh về tổ chức và hoạt động thanh tra các kỳ thi.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 26",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 26. Trách nhiệm thi hành\nChánh Văn phòng, Chánh Thanh tra, Thủ trưởng các đơn vị thuộc Bộ GD&ĐT;\nBộ trưởng, thủ trưởng cơ quan ngang Bộ; Chủ tịch Ủy ban nhân dân tỉnh, thành\nphố trực thuộc Trung ương; Giám đốc Sở GD&ĐT; Giám đốc đại học, học viện;\nViện trưởng viện nghiên cứu khoa học được phép đào tạo trình độ tiến sĩ; Hiệu\ntrưởng trường đại học và thủ trưởng cơ quan, đơn vị có liên quan chịu trách nhiệm\nthi hành Thông tư này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

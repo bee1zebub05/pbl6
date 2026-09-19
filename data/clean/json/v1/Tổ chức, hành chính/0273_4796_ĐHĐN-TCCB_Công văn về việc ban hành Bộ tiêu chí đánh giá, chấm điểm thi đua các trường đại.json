@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0273_4796_ĐHĐN-TCCB_Công văn về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "4796/ĐHĐN-TCCB",
+    "title": "Công văn về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại học thành viên năm học 2023-2024",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/11/2023",
+    "effectiveDate": "12/11/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Đại học Đà Nẵng ban hành bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại học thành viên năm học 2023-2024 nhằm làm cơ sở đánh giá, xếp loại chất lượng tập thể và bình xét danh hiệu thi đua, khen thưởng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "3277/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Ngoài các tiêu chí theo quy định tại Quyết định số 3277/QĐ-BGDĐT ngày 12/10/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo, điểm tổng (P) được làm cơ sở trong việc đánh giá xếp loại chất lượng cho tập thể các trường đại học thành viên."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Ban Tổ chức Cán bộ",
+    "Văn phòng ĐHĐN",
+    "Trung tâm Thông tin - Học liệu và Truyền thông",
+    "Hội đồng Thi đua - Khen thưởng ĐHĐN"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

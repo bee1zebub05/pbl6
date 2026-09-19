@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0105_Hiếnpháp2013_Hiến pháp 2013.txt",
+  "mappedBy": "gemini-web",
+  "note": "118 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "Hiến pháp 2013",
+    "title": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "documentType": "Hiến pháp",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/11/2013",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam quy định chế độ chính trị, quyền và nghĩa vụ cơ bản của công dân, kinh tế, xã hội, văn hóa, giáo dục, khoa học, công nghệ và môi trường, bảo vệ Tổ quốc, cũng như tổ chức bộ máy nhà nước gồm Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, chính quyền địa phương, Hội đồng bầu cử quốc gia và Kiểm toán nhà nước.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Quốc hội",
+    "orgType": "quoc_hoi",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Sinh Hùng",
+      "academicTitle": null,
+      "position": [
+        "Chủ tịch Quốc hội"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [],
+  "mentions": [
+    "Đảng Cộng sản Việt Nam",
+    "Chủ tịch Hồ Chí Minh",
+    "Mặt trận Tổ quốc Việt Nam",
+    "Công đoàn Việt Nam",
+    "Hội nông dân Việt Nam",
+    "Đoàn thanh niên cộng sản Hồ Chí Minh",
+    "Hội liên hiệp phụ nữ Việt Nam",
+    "Hội cựu chiến binh Việt Nam",
+    "Quân đội nhân dân Việt Nam",
+    "Công an nhân dân Việt Nam"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1\nNước Cộng hòa xã hội chủ nghĩa _Việt Nam là một nước độc lập, có chủ\nquyền, thống nhất và toàn vẹn lãnh thổ, bao gồm đất liền, hải đảo, vùng biển\nvà vùng trời .",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2\nNhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp\nquyền xã hội chủ nghĩa của Nhân dân; do Nhân dân, vì Nhân dân.\n\n1\n2. Nước Cộng hòa xã hội chủ nghĩa Việt Nam do Nhân dân làm chủ; tất\ncả quyền lực nhà nước thuộc về Nhân dân mà nền tảng là liên minh giữa giai :\ncấp công nhân với giai cấp nông dân và đội ngũ trí thức.\n3. Quyền lực nhà nước là thống nhất, có sự phân công; phối hợp; kiểm\nsoát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành\npháp; tư pháp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "1",
+      "text": "Điều 3 1\nNhà nước bảo đảm và phát huy quyền làm chủ của Nhân dân; công nhận,\ntôn trọng, bảo vệ và bảo đảm quyền con người, quyền công dân; thực hiện mục\ntiêu dân giàu, nước mạnh, dân chủ; công bằng, văn minh, mọi người có cuộc\nsống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện. [",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": null,
+      "text": "Điều 4\nĐảng Cộng sản Việt Nam Đội tiên phong của giai cấp công nhân, đồng\nthời là đội tiên phong của nhân dân lao động và của dân tộc Việt Nam; đại biểu 6\ntrung thành lợi ích của giai cấp công_ nhân;, nhân dân lao động và của cả dân tộc,\nlấy chủ nghĩa Mác Lê nin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng\nlực lượng lãnh đạo Nhà nước và xã hội. E\nĐảng Cộng sản Việt Nam gắn bó mật thiết với Nhân dân, phục vụ Nhân\ndân, chịu sự giám sát của Nhân dân, chịu trách nhiệm trước Nhân dân về những\nquyết định của mình.\nCác tổ chức của Đảng và đảng viên Đảng Cộng sản Việt Nam hoạt\nđộng3 trong khuôn khổ Hiến pháp và pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": null,
+      "text": "Điều 5\n1. Nước Cộng hòa xã hội chủ nghĩa Việt7 Nam là quốc gia thống nhất của\ncác dân tộc cùng sinh sống trên đất nước Việt7 Nam\n2. Các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát\ntriển; nghiêm cấm mọi hành vi kỳ thị, chia rẽ dân tộc\nNgôn ngữ quốc gia là tiếng Việt. Các dân tộc có quyền dùng tiếng nói,\nchữ viết, giữ gìn bản sắc dân tộc, phát huy phong tục, tập quán, truyền thống\nvà văn hóa tốt đẹp của mình.\n4. Nhà nước thực hiện chính sách phát triển toàn diện và tạo điều kiện để\ncác dân tộc thiểu số phát huy nội lực, cùng phát triển với đất nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": null,
+      "text": "Điều 6\nNhân dân thực hiện quyền lực nhà nước bằng dân chủ trực tiếps bằng dân\nchủ đại diện thông qua Quốc hội, Hội đồng nhân dân và thông qua các cơ quan\nkhác của Nhà nước.\n\n1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": null,
+      "text": "Điều 7\n1. Việc bầu cử đại biểu Quốc hội và đại biểu Hội đồng~ nhân dân được tiến\nhành theo nguyên tắc phổ thông, bình đẳng trực tiếp và bỏ phiếu kín\n2. Đại biểu Quốc hội, đại biểu Hội đồng nhân dân bị cử tri hoặc Quốc hội,\nHội đồng nhân dân bãi nhiệm khi không còn xứng đáng với sự tín nhiệm của\nNhân dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "1",
+      "text": "Điều 8 1\n1. Nhà nước được tổ chức và hoạt động theo Hiến pháp và pháp luật, quản\nlý xã hội bằng Hiến pháp và pháp luật, thực hiện nguyên tắc tập trung dân chủ.\n2. Các cơ quan nhà nước, cán bộ, công chức, viên chức phải tôn trọng\nNhân dân, tận tụy phục vụ Nhân dân, liên hệ chặt chẽ với Nhân dân; lắng nghe [\ný kiến và chịu sự giám sát của Nhân dân; kiên quyết đấu tranh chống tham\nnhũng, lãng phí và mọi biểu hiện quan liêu, hách dịch, cửa quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": null,
+      "text": "Điều 9\n1. Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự\nnguyện của tổ chức chính trị, các tổ chức chính trị xã hội, tổ chức xã hội và\ncác cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, 2\nngười Việt Nam định cư ở nước ngoài.\nMặt trận Tổ quốc Việt Nam là cơ sở chính trị của chính quyền nhân dân;\nđại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân; tập hợps\nphát huy sức mạnh đại đoàn kết toàn dân tộc, thực hiện dân chủ, tăng cường\n'đồng thuận xã hội; giám sát, phản biện xã hội; tham gia xây dựng Đảng Nhà\nnước, hoạt động đối ngoại nhân dân góp phần xây dựng và bảo vệ Tổ quốc.\nCông đoàn Việt Nam, Hội nông dân Việt Nam; Đoàn thanh niên cộng\nsản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, Hội cựu chiến binh Việt\nNam là các tổ chức chính trị xã hội được thành lập trên cơ sở tự nguyện, đại\ndiện và bảo vệ quyền; lợi ích hợp pháp; chính đáng của thành viên, hội viên tổ\nchức mình; cùng các tổ chức thành viên khác của Mặt trận phối hợp và thống\nnhất hành động trong Mặt trận Tổ quốc Việt Nam\n3. Mặt trận Tổ quốc Việt Nam; các tổ chức thành viên của Mặt trận và các\ntổ chức xã hội khác hoạt động trong khuôn khổ Hiến pháp và pháp luật. Nhà\nnước tạo điều kiện để Mặt trận Tổ quốc Việt Nam; các tổ chức thành viên của\nMặt trận và các tổ chức xã hội khác hoạt động:",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": null,
+      "text": "Điều 10\nCông đoàn Việt Nam là tổ chức chính trị xã hội của giai cấp công nhân\nvà của người lao động được thành lập trên cơ sở tự nguyện; đại diện cho người\nlao động, chăm lo và bảo vệ quyền; lợi ích hợp pháp, chính đáng của người lao\nđộng; tham gia quản lý nhà nước, quản lý kinh tế xã hội; tham gia kiểm tra,\nthanh tra, giám sát hoạt động của cơ quan nhà nước, tổ chức, đơn vị, doanh\nnghiệp về những vấn đề liên quan đến quyền, nghĩa vụ của người lao động;\n\n1\ntuyên truyền; vận động người lao động học tập, nâng cao trình độ, kỹ năng\nnghề_ nghiệp; chấp hành pháp luật; xây dựng và bảo vệ Tổ quốc.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": null,
+      "text": "Điều 11\n1. Tổ quốc Việt Nam là thiêng liêng, bất khả xâm phạm\n2. Mọi hành vi chống lại độc lập, chủ quyền, thống nhất và toàn vẹn lãnh\nthổ, chống lại sự nghiệp xây dựng và bảo vệ Tổ quốc đều bị nghiêm trị",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": null,
+      "text": "Điều 12 ;\nNước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện nhất quán đường lối %\nđối ngoại độc lập; tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; đa phương 4\nhóa, đa dạng hóa quan hệ, chủ động và tích cực hội nhập, hợp tác quốc tế trên\ncơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào [\ncông việc nội bộ của nhau; bình đẳng; cùng có lợi; tuân thủ Hiến chương Liên\nhợp quốc và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là\nthành viên; là bạn, đối tác tin cậy và thành viên có trách nhiệm trong cộng\nđồng quốc tế vì lợi ích quốc gia, dân tộc, góp phần vào sự nghiệp hòa bình, độc\nlập dân tộc, dân chủ và tiến bộ xã hội trên thế giới.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "E",
+      "text": "Điều 13 E\nQuốc kỳ nước Cộng hòa xã hội chủ nghĩa Việt Nam hình chữ nhật,\nchiều rộng bằng hai phần ba chiều dài, nền đỏ, ở giữa có ngôi sao vàng năm\ncánh.\nQuốc huy nước Cộng hòa xã hội chủ nghĩa Việt Nam hình tròn; nền đỏ\nở giữa có ngôi sao vàng năm cánh, xung quanh có bông lúa, ở dưới có nửa\nbánh xe răng và dòng chữ Cộng hòa xã hội chủ nghĩa Việt Nam.\nQuốc ca nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhạc và lời của\nbài Tiến quân ca.\nQuốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam là ngày Tuyên\nngôn độc lập 2 tháng 9 năm 1945\n5. Thủ đô nước Cộng hòa xã hội chủ nghĩa Việt Nam là Hà Nội.\nQUYỀN CON NGƯỜI CHƯƠNG II\nQUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": null,
+      "text": "Điều 14\n1. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người,\nquyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận;\ntôn trọng, bảo vệ, bảo đảm theo Hiến pháp và pháp luật .\nQuyền con người, quyền công dân chỉ có thể bị hạn chế theo quy định\ncủa luật trong trường hợp cần thiết vì lý do quốc phòng, an ninh quốc gia, trật\ntự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng\n\n1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": null,
+      "text": "Điều 15\n1. Quyền công dân không tách rời nghĩa vụ công dân. 1\n2 Mọi người có nghĩa vụ tôn trọng 'quyền của người khác.\nCông dân có trách nhiệm thực hiện nghĩa vụ đối với Nhà nước và xã hội.\n4. Việc thực hiện quyền con người, quyền công dân không được xâm 1\nphạm lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của người khác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": null,
+      "text": "Điều 16\n1. Mọi người đều bình đẳng trước pháp luật:.\nKhông ai bị phân biệt đối xử trong đời sống chính trị, dân sự, kinh tế, P\nvăn hóa, xã hội",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": null,
+      "text": "Điều 17\nCông dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là người có quốc ẵ\ntịch Việt Nam.\nCông dân Việt Nam không thể bị trục xuất, giao nộp cho nhà nước 6\nkhác\nCông dân Việt Nam ở nước ngoài được Nhà nước Cộng hòa xã hội chủ\nnghĩa Việt Nam bảo hộ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": null,
+      "text": "Điều 18\n1. Người Việt Nam định cư ở nước ngoài là bộ phận không tách rời của\ncộng đồng dân tộc Việt Nam_\n2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam khuyến khích và tạo\nđiều kiện để người Việt Nam định cư ở nước ngoài giữ gìn và phát huy bản sắc\nvăn hóa dân tộc Việt Nam; giữ quan hệ gắn bó với gia đình và quê hương, góp\nphần xây dựng quê hương; đất nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": null,
+      "text": "Điều 19\nMọi người có quyền sống. Tính mạng con người được pháp luật bảo hộ.\nKhông ai bị tước đoạt tính mạng trái luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": null,
+      "text": "Điều 20\nMọi người có quyền bất khả xâm phạm về thân thể, được pháp luật bảo\nhộ về sức khoẻ, danh dự và nhân phẩm; không bị tra tấn, bạo lực truy bức,\nnhục hình hay bất kỳ hình thức đối xử nào khác xâm phạm thân thể, sức khỏe,\nxúc phạm danh dự, nhân phẩm:\n\n1\nKhông ai bị bắt nếu không có ' quyết định của Toà án nhân dân, quyết\nđịnh hoặc phê chuẩn của Viện kiểm sát nhân dân; trừ trường hợp phạm tội quả :\ntang. Việc bắt, giam, giữ người do luật định.\nMọi người có quyền hiến mô, bộ phận cơ thể người và hiến xác theo\nquy định của luật. Việc thử nghiệm y học, dược học, khoa học hay bất kỳ hình\nthức thử nghiệm nào khác trên cơ thể người phải có sự đồng7 ý của người được\nthử nghiệm. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": null,
+      "text": "Điều 21\n1. Mọi người có quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá\nnhân và bí mật gia đình; có quyền bảo vệ danh dự; uy tín của mình.\nThông tin về đời sống riêng tư, bí mật cá nhân, bí mật gia đình được pháp [\nluật bảo đảm an toàn.\n2. Mọi người có quyền bí mật thư tín, điện thoại, điện tín và các hình thức\ntrao đổi thông tin riêng tư khác. 6\nKhông ai được bóc mở, kiểm soát, thu giữ trái luật thư tín, điện thoại;\nđiện tín và các hình thức trao đổi thông tin riêng tư của người khác, 5",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": null,
+      "text": "Điều 22\nCông dân có quyền có nơi ở hợp pháp.\n2. Mọi người có quyền bất khả xâm phạm về chỗ ở. Không ai được tự ý\nvào chỗ ở của người khác nếu không được 'người đó đồng ý .\n3. Việc khám xét chỗ ở do luật định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": null,
+      "text": "Điều 23\nCông dân có quyền tự do đi lại và cư trú ở trong nước, có quyền ra nước\nngoài và từ nước ngoài về nước. Việc thực hiện các quyền này do pháp luật\nquy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": null,
+      "text": "Điều 24\n1. Mọi người có quyền tự do tín ngưỡng; tôn giáo, theo hoặc không theo\nmột tôn giáo nào. Các tôn giáo bình đẳng trước pháp luật.\n2. Nhà nước tôn trọng và bảo hộ quyền tự do tín ngưỡng, tôn giáo.\nKhông ai được xâm phạm tự do tín ngưỡng, tôn giáo hoặc lợi dụng tín\nngưỡng, tôn giáo để vi phạm pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 25",
+      "heading": null,
+      "text": "Điều 25\nCông dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội\nhọp, lập hội, biểu tình. Việc thực hiện các quyền này do pháp luật quy định.\n\n1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 26",
+      "heading": null,
+      "text": "Điều 26\n1. Công dân nam, nữ bình đẳng~ về mọi mặt. Nhà nước có chính sách bảo\nđảm quyền và cơ hội bình đẳng giới.\n2. Nhà nước, xã hội và gia đình tạo điều kiện để phụ nữ phát triển toàn\ndiện, phát huy vai trò của mình trong xã hội.\nNghiêm cấm phân biệt đối xử về giới. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 27",
+      "heading": null,
+      "text": "Điều 27\nCông dân đủ mười tám tuổi trở lên có quyền bầu cử và đủ hai mươi mốt\ntuổi trở lên có quyền ứng cử vào Quốc hội, Hội đồng nhân dân. Việc thực hiện\ncác quyền này do luật định. [",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 28",
+      "heading": null,
+      "text": "Điều 28\nCông dân có quyền tham gia quản lý nhà nước và xã hội, tham gia thảo 6\nluận và kiến nghị với cơ quan nhà nước về các vấn đề của cơ sở, địa phương và\ncả nước.\n2. Nhà nước tạo điều kiện để công dân tham gia quản lý nhà nước và xã hội; 6\ncông khai, minh bạch trong việc tiếp nhận; phản hồi ý kiến, kiến nghị của công\ndân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 29",
+      "heading": null,
+      "text": "Điều 29\nCông dân đủ mười tám tuổi trở lên có quyền biểu quyết khi Nhà nước tổ\nchức trưng cầu ý dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 30",
+      "heading": null,
+      "text": "Điều 30\n1. Mọi người có quyền khiếu nại, tố cáo với cơ quan; tổ chức, cá nhân có\nthẩm quyền về những việc làm trái pháp luật của cơ quan, tổ chức, cá nhân.\n2. Cơ quan, tổ chức, cá nhân có thẩm quyền phải tiếp nhận, giải quyết\nkhiếu nại, tố cáo. Người bị thiệt hại có quyền được bồi thường về vật chất, tinh\nthần và phục hồi danh dự theo quy định của pháp luật.\n3. Nghiêm cấm việc trả thù người khiếu nại, tố cáo hoặc lợi dụng quyền\nkhiếu nại, tố cáo để vu khống, vu cáo làm hại người khác_",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 31",
+      "heading": null,
+      "text": "Điều 31\nNgười bị buộc tội được coi là không có tội cho đến khi được chứng\nminh theo trình tự luật định và có bản án kết tội của Tòa án đã có hiệu lực pháp\nluật.\nNgười bị buộc tội phải được Tòa án xét xử kịp thời trong thời hạn luật\nđịnh, công bằng, công khai. Trường hợp xét xử kín theo quy định của luật thì\nviệc tuyên án phải được công khai.\n\n1\nKhông ai bị kết án hai lần vì một tội phạm.\nNgười bị bắt, tạm giữ, tạm giam, khởi tố, điều tra, truy tố, xét xử có\nquyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa\nNgười bị bắt; tạm giữ, tạm giam; khởi tố, điều tra, truy tố, xét xử, thi\nhành án trái pháp luật có quyền được bồi thường thiệt hại về vật chất, tinh thần\nvà phục hồi danh dự. Người vi phạm pháp luật trong việc bắt, giam, giữ, khởi 1\ntố, điều tra, truy tố, xét xử thi hành án gây thiệt hại cho người khác phải bị xử\nlý theo pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 32",
+      "heading": null,
+      "text": "Điều 32\n1. Mọi người có quyền sở hữu về thu nhập hợp pháp, của cải để dành, nhà\nở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc P\ntrong các tổ chức kinh tế khác.\n2. Quyền sở hữu tư nhân và 'quyền thừa kế được pháp luật bảo hộ.\nTrường hợp thật cần thiết vì lý do quốc phòng; an ninh hoặc vì lợi ích 6\nquốc gia, tình trạng khẩn cấp, phòng; chống thiên tai, Nhà nước trưng mua\nhoặc trưng dụng có bồi thường tài sản của tổ chức, cá nhân theo 'giá thị trường: 5",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 33",
+      "heading": null,
+      "text": "Điều 33\nMọi người có quyền tự do kinh doanh trong những ngành nghề mà pháp\nluật không cẩm_",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 34",
+      "heading": null,
+      "text": "Điều 34\nCông dân có quyền được bảo đảm an sinh xã hội.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 35",
+      "heading": null,
+      "text": "Điều 35\nCông dân có quyền làm việc, lựa chọn nghề nghiệp, việc làm và nơi\nlàm việc.\n2. Người làm công ăn lương được bảo đảm các điều kiện làm việc công\nbằng an toàn; được hưởng lương, chế độ nghỉ ngơi\nNghiêm cấm phân biệt đối xử, cưỡng bức lao động, sử dụng nhân công\ndưới độ tuổi lao động tối thiểu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 36",
+      "heading": null,
+      "text": "Điều 36\nNam, nữ có quyền kết hôn, ly hôn. Hôn nhân theo nguyên tắc tự\nnguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng tôn trọng lẫn nhau,\n2. Nhà nước bảo hộ hôn nhân và gia đình, bảo hộ quyền lợi của người mẹ\nvà trẻ em.\n\n1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 37",
+      "heading": null,
+      "text": "Điều 37\n1. Trẻ em được Nhà nước, gia đình và xã hội bảo vệ chăm sóc và giáo dục;\nđược tham gia vào các vấn đề về trẻ em Nghiêm cấm xâm hại, hành hạ, ngược\nđãi, bỏ mặc, lạm dụng, bóc lột sức lao động và những hành vi khác vi phạm\nquyền trẻ em\n2. Thanh niên được Nhà nước, gia đình và xã hội tạo điều kiện học tập;\nlao động; giải trí, phát triển thể lực, trí tuệ, bồi dưỡng đạo đức, truyền thống ;\ndân tộc, ý thức công dân; đi đầu trong công cuộc lao động sáng tạo và bảo vệ\nTổ quốc.\n3. Người cao tuổi được Nhà nước, gia đình và xã hội tôn trọng, chăm sóc\nvà phát huy vai trò trong sự nghiệp xây dựng và bảo vệ Tổ quốc,",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 38",
+      "heading": null,
+      "text": "Điều 38\n1. Mọi người có quyền được bảo vệ, chăm sóc sức khỏe, bình đẳng trong\nviệc sử dụng các dịch vụ y tế và có nghĩa vụ thực hiện các quy định về phòng 1\nbệnh, khám bệnh, chữa bệnh.\nNghiêm cấm các hành vi đe dọa cuộc sống, sức khỏe của người khác và\ncộng đồng",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 39",
+      "heading": null,
+      "text": "Điều 39\nCông dân có quyền và nghĩa vụ học tập",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 40",
+      "heading": null,
+      "text": "Điều 40\nMọi người có quyền nghiên cứu khoa học và công nghệ, sáng tạo văn học,\nnghệ thuật và thụ hưởng lợi ích từ các hoạt động đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 41",
+      "heading": null,
+      "text": "Điều 41\nMọi người có quyền hưởng thụ và tiếp cận các giá trị văn hoá, tham gia\nvào đời sống7 văn hóa, sử dụng các cơ sở văn hóa",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 42",
+      "heading": null,
+      "text": "Điều 42\nCông dân có quyền xác định dân tộc của mình, sử dụng ngôn ngữ mẹ đẻ, lựa\nchọn ngôn ngữ giao tiếp",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 43",
+      "heading": null,
+      "text": "Điều 43\nMọi người có quyền được sống trong môi trường trong lành và có nghĩa\nvụ bảo vệ môi trường",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 44",
+      "heading": null,
+      "text": "Điều 44\nCông dân có nghĩa vụ trung thành với Tổ quốc.\nPhản bội Tổ quốc là tội nặng nhất.\n\n1\n10",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 45",
+      "heading": null,
+      "text": "Điều 45\n1.Bảo vệ Tổ- quốc là nghĩa vụ thiêng liêng và quyền cao quý của công dân.\nCông dân phải thực hiện nghĩa vụ quân sự và tham gia xây dựng nền\nquốc phòng toàn dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 46",
+      "heading": null,
+      "text": "Điều 46\nCông dân có nghĩa vụ tuân theo Hiến pháp và pháp luật; tham gia bảo vệ ;\nan ninh quốc gia, trật tự, an toàn xã hội và chấp hành những quy tắc sinh hoạt\ncông cộng. 4",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 47",
+      "heading": null,
+      "text": "Điều 47\nMọi người có nghĩa vụ nộp thuế theo luật định. [",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 48",
+      "heading": null,
+      "text": "Điều 48\nNgười nước ngoài cư trú ở Việt Nam phải tuân theo Hiến pháp và pháp 1\nluật Việt Nam; được bảo hộ tính mạng, tài sản và các quyền; lợi ích chính đáng\ntheo pháp luật Việt Nam",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 49",
+      "heading": null,
+      "text": "Điều 49\nNgười nước ngoài đấu tranh vì tự do và độc lập dân tộc, vì chủ nghĩa xã H\nhội, dân chủ và hòa bình hoặc vì sự nghiệp khoa học mà bị bức hại thì được\nNhà nước Cộng hòa xã hội chủ nghĩa Việt Nam xem xét cho cư trú.\nKINH TẾ, XÃ HỘI, VĂN HÓA, GIÁO DỤC, CHƯƠNG III\nKHOA HỌC, CÔNG NGHỆ VÀ MÔI TRƯỜNG",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 50",
+      "heading": null,
+      "text": "Điều 50\nNước Cộng hòa xã hội chủ nghĩa Việt Nam xây dựng nền kinh tế độc lập;\ntự chủ, phát huy nội lực, hội nhập, hợp tác quốc tế, gắn kết chặt chẽ với phát\ntriển văn hóa, thực hiện tiến bộ và công bằng xã hội, bảo vệ môi trường7 thực\nhiện công nghiệp hóa, hiện đại hóa đất nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 51",
+      "heading": null,
+      "text": "Điều 51\n1. Nền kinh tế Việt Nam là nền kinh tế thị trường định hướng xã hội chủ\nnghĩa với nhiều hình thức sở hữu, nhiều thành phần kinh tế; kinh tế nhà nước\ngiữ vai trò chủ đạo.\n2; Các thành phần kinh tế đều là bộ phận cấu thành quan trọng của nền\nkinh tế quốc dân. Các chủ thể thuộc các thành phần kinh tế bình đẳng hợp tác\nvà cạnh tranh theo pháp luật.\n\n1\n3. Nhà nước khuyến khích, tạo điều kiện để doanh nhân; doanh nghiệp và\ncá nhân; tổ chức khác đầu tư, sản xuất, kinh doanh; phát triển bền vững các\nngành kinh tế, góp phần xây dựng đất nước. Tài sản hợp pháp của cá nhân, tổ\nchức đầu tư, sản xuất, kinh doanh được pháp luật bảo hộ và không bị quốc hữu\nhóa.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 52",
+      "heading": null,
+      "text": "Điều 52\nNhà nước xây dựng và hoàn thiện thể chế kinh tế, điều tiết nền kinh tế 1\ntrên cơ sở tôn trọng các quy luật thị trường; thực hiện phân công phân cấp,\nphân quyền trong quản lý nhà nước; thúc đẩy liên kết kinh tế vùng bảo đảm\ntính thống nhất của nền kinh tế quốc dân.\nĐiều 53 [\nĐất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển;\nvùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản\nlý là tài sản công thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và 1\nthống nhất quản lý",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 53",
+      "heading": null,
+      "text": "Đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển; vùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 54",
+      "heading": null,
+      "text": "Điều 54\n1. Đất đai là tài nguyên đặc biệt của quốc gia, nguồn lực quan trọng phát\ntriển đất nước , được quản lý theo pháp luật\n2. Tổ chức, cá nhân được Nhà nước giao đất, cho thuê đất, công nhận\nquyền sử dụng đất. Người sử dụng đất được chuyển quyền sử dụng đất thực\nhiện các quyền và nghĩa vụ theo quy định của luật. Quyền sử dụng đất được\npháp luật bảo hộ\n3. Nhà nước thu hồi đất do tổ chức, cá nhân đang sử dụng trong trường\nhợp thật cần thiết do luật định vì mục đích quốc phòng, an ninh; phát triển kinh\ntế xã hội vì lợi ích quốc gia, công cộng Việc thu hồi đất phải công khai, minh\nbạch và được bồi thường theo quy định của pháp luật.\n4. Nhà nước trưng dụng đất trong trường hợp thật cần thiết do luật định để\nthực hiện nhiệm vụ quốc phòng, an ninh hoặc trong tình trạng chiến tranh, tình\ntrạng khẩn cấp, phòng; chống thiên tai.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 55",
+      "heading": null,
+      "text": "Điều 55\n1. Ngân sách nhà nước, dự trữ quốc gia, quỹ tài chính nhà nước và các\nnguồn tài chính công khác do Nhà nước thống nhất quản lý và phải được sử\ndụng hiệu quả, công bằng công khai, minh bạch, đúng pháp luật.\n2. Ngân sách nhà nước gồm ngân sách trung ương và ngân sách địa\nphương, trong đó ngân sách trung ương giữ vai trò chủ đạo, bảo đảm nhiệm vụ\nchi của quốc gia. Các khoản thu, chi ngân sách nhà nước phải được dự toán và\ndo luật định.\n\n1\n12\n3. Đơn vị tiền tệ quốc gia là Đồng Việt Nam. Nhà nước bảo đảm ổn định\ngiá trị đồng tiền quốc _ gia. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 56",
+      "heading": null,
+      "text": "Điều 56\nCơ quan, tổ chức, cá nhân phải thực hành tiết kiệm; chống lãng phí, phòng,\nchống tham nhũng trong hoạt động7 kinh tế - xã hội và quản lý nhà nước",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 57",
+      "heading": "1",
+      "text": "Điều 57 1\n1.Nhà nước khuyến khích, tạo điều kiện để tổ chức, cá nhân tạo việc làm\ncho người lao động\n2. Nhà nước bảo vệ quyền; lợi ích hợp pháp của 'người lao động người sử\ndụng lao động và tạo điều kiện xây dựng quan hệ lao động tiến bộ, hài hòa và [\nổn định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 58",
+      "heading": null,
+      "text": "Điều 58\n1. Nhà nước, xã hội đầu tư phát triển sự nghiệp bảo vệ; chăm sóc sức 6\nkhỏe của Nhân dân, thực hiện bảo hiểm y tế toàn dân, có chính sách ưu tiên\nchăm sóc sức khoẻ cho đồng bào dân tộc thiểu số, đồng bào ở miền núi, hải 6\nđảo và vùng có điều kiện kinh tế xã hội đặc biệt khó khăn\n2. Nhà nước, xã hội và gia đình có trách nhiệm bảo vệ, chăm sóc sức khỏe\nngười mẹ, trẻ em, thực hiện kế hoạch hóa gia đình",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 59",
+      "heading": null,
+      "text": "Điều 59\n1.Nhà nước, xã hội tôn vinh; khen thưởng, thực hiện chính sách ưu đãi đối\nvới người có công - với nước.\n2. Nhà nước tạo bình đẳng về cơ hội để công dân thụ hưởng phúc lợi xã\nhội, phát triển hệ thống an sinh xã hội, có chính sách trợ giúp người cao tuổi,\nngười khuyết tật, người nghèo và người có hoàn cảnh khó khăn khác.\n3. Nhà nước có chính sách phát- triển nhà ở, tạo điều kiện để mọi người có\nchỗ ở.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 60",
+      "heading": null,
+      "text": "Điều 60\n1; Nhà nước, xã hội chăm lo xây dựng và phát triển nền văn hóa Việt Nam\ntiên tiến, đậm đà bản sắc dân tộc, tiếp thu tinh hoa văn hóa nhân loại.\n2. Nhà nước, xã hội phát triển văn học, nghệ thuật nhằm đáp ứng nhu cầu\ntinh thần đa dạng và lành mạnh của Nhân dân; phát triển các phương tiện\nthông tin đại chúng nhằm đáp ứng nhu cầu thông tin của Nhân dân, phục vụ sự\nnghiệp xây dựng và bảo vệ Tổ quốc.\n3. Nhà nước, xã hội tạo môi trường xây dựng gia đình Việt Nam ấm no,\ntiến bộ, hạnh phúc; xây dựng con người Việt Nam có sức khỏe, văn hóa, giàu\nlòng yêu nước, có tinh thần đoàn kết, ý thức làm chủ, trách nhiệm công dân,\n\n1\n13",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 61",
+      "heading": null,
+      "text": "Điều 61\n1. Phát triển giáo dục là quốc sách hàng đầu nhằm nâng cao dân trí, phát 1\ntriển nguồn nhân lực, bồi dưỡng nhân tài .\n2. Nhà nước ưu tiên đầu tư và thu hút các nguồn đầu tư khác cho giáo\ndục; chăm lo giáo dục mầm non; bảo đảm giáo dục tiểu học là bắt buộc, Nhà\nnước không thu học phí; từng bước phổ cập giáo dục trung học; phát triển giáo 1\ndục đại học, giáo dục nghề nghiệp; thực hiện chính sách học bổng học phí hợp\nlý\nNhà nước ưu tiên phát triển giáo dục ở miền núi, hải đảo, vùng đồng\nbào dân tộc thiểu số và vùng có điều kiện kinh tế xã hội đặc biệt khó khăn; ưu\ntiên sử dụng; phát triển nhân tài; tạo điều kiện để người khuyết tật và người [\nnghèo được học văn hoá và học nghề.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 62",
+      "heading": null,
+      "text": "Điều 62\n1. Phát triển khoa học và công nghệ là quốc sách hàng đầu, giữ vai trò 1\nthen chốt trong sự nghiệp phát triển kinh tế xã hội của đất nước.\nNhà nước ưu tiên đầu tư và khuyến khích tổ chức;, cá nhân đầu tư\nnghiên cứu, phát triển, chuyển giao, ứng dụng có hiệu quả thành tựu khoa học\nvà công nghệ; bảo đảm quyền nghiên cứu khoa học và công nghệ ; bảo hộ\nquyền sở hữu trí tuệ.\n3. Nhà nước tạo điều kiện để mọi người tham gia và được thụ hưởng lợi\ních từ các hoạt động khoa học và công nghệ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 63",
+      "heading": null,
+      "text": "Điều 63\n1. Nhà nước có chính sách bảo vệ môi trường; quản lý, sử dụng hiệu quả,\nbền vững các nguồn tài nguyên thiên nhiên; bảo tồn thiên nhiên; đa dạng sinh\nhọc; chủ động phòng, chống thiên tai, ứng phó với biến đổi khí hậu.\n2. Nhà nước khuyến khích mọi hoạt động bảo vệ môi trường; phát triển,\nsử dụng năng lượng mới, năng lượng tái tạo.\nTổ chức, cá nhân gây ô nhiễm môi trường, làm suy kiệt tài nguyên\nthiên nhiên và suy giảm đa dạng sinh học phải bị xử lý nghiêm và có trách\nnhiệm khắc phục, bồi thường thiệt hại\nBẢO VỆ TỔ QUỐC CHƯƠNG IV",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 64",
+      "heading": null,
+      "text": "Điều 64\nBảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là sự nghiệp của toàn dân.\nNhà nước củng cố và tăng cường nền quốc phòng toàn dân và an ninh\nnhân dân mà nòng cốt là lực lượng vũ trang nhân dân; phát huy sức mạnh tổng\n\n1\n14\nhợp của đất nước để bảo vệ vững chắc Tổ quốc, góp phần bảo vệ hòa bình ở\nkhu vực và trên thế giới.\nCơ quan, tổ chức, công dân phải thực hiện đầy đủ nhiệm vụ quốc phòng\nvà an ninh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 65",
+      "heading": null,
+      "text": "Điều 65\nLực lượng vũ trang nhân dân tuyệt đối trung thành với Tổ quốc, Nhân 1\ndân, với Đảng và Nhà nước; có nhiệm vụ bảo vệ độc lập, chủ quyền; thống\nnhất, toàn vẹn lãnh thổ của Tổ quốc, an ninh quốc gia và trật tự, an toàn xã hội;\nbảo vệ Nhân dân, Đảng; Nhà nước và chế độ xã hội chủ nghĩa; cùng toàn dân\nxây dựng đất nước và thực hiện nghĩa vụ quốc tế\nĐiều 66 [\nNhà nước xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ,\ntừng bước hiện đại, có lực lượng thường trực hợp lý, lực lượng dự bị động] viên 1\nhùng hậu, lực lượng dân quân tự vệ vững mạnh và rộng khắp; làm nòng cốt\ntrong thực hiện nhiệm vụ quốc phòng:",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 66",
+      "heading": null,
+      "text": "Nhà nước xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, có lực lượng thường trực hợp lý, lực lượng dự bị động] viên 1 hùng hậu, lực lượng dân quân tự vệ vững mạnh và rộng khắp; làm nòng cốt trong thực hiện nhiệm vụ quốc phòng:",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 67",
+      "heading": null,
+      "text": "Điều 67\nNhà nước xây dựng Công an nhân dân cách mạng; chính quy, tinh nhuệ\ntừng bước hiện đại, làm nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh\nquốc gia và bảo đảm trật tự; an toàn xã hội, đấu tranh phòng, chống tội phạm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 68",
+      "heading": null,
+      "text": "Điều 68\nNhà nước phát huy tinh thần yêu nước và chủ nghĩa anh hùng cách mạng\ncủa Nhân dân, giáo dục quốc phòng và an ninh cho toàn dân; xây dựng công\nnghiệp, quốc phòng, an ninh; bảo đảm trang bị cho lực lượng vũ trang nhân\ndân, kết hợp quốc phòng; an ninh với kinh tế, kinh tế với quốc phòng, an ninh;\nthực hiện chính sách hậu phương quân đội; bảo đảm đời sống vật chất, tinh\nthần của cán bộ, chiến sỹ, công nhân; viên chức phù hợp với tính chất hoạt\nđộng của Quân đội nhân dân, Công an nhân dân; xây dựng lực lượng vũ trang\nnhân dân hùng mạnh, không ngừng tăng cường khả năng bảo vệ Tổ quốc.\nQUỐC HỘI CHƯƠNG V",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 69",
+      "heading": null,
+      "text": "Điều 69\nQuốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực\nnhà nước cao nhất của nước Cộng hoà xã hội chủ nghĩa Việt Nam\nQuốc hội thực hiện quyền lập hiến; quyền lập pháp, quyết định các vấn đề\nquan trọng của đất nước và giám sát tối cao đối với hoạt động của Nhà nước.\n\n1\n15",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 70",
+      "heading": null,
+      "text": "Điều 70\nQuốc hội có những nhiệm vụ và quyền\nhạn sau đây:\n1. Làm Hiến pháp và sửa đổi Hiến pháp; làm luật và sửa đổi luật;\n2. Thực hiện quyền giám sát tối cao việc tuân theo Hiến pháp, luật và nghị\nquyết của Quốc hội; xét báo cáo công tác của Chủ tịch nước, Uỷ ban thường\nvụ Quốc hội, Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối 1\ncao, Hội đồng bầu cử quốc gia Kiểm toán nhà nước và cơ quan khác do Quốc\nhội thành lập;\n3; Quyết định mục tiêu, chỉ tiêu; chính sách, nhiệm vụ cơ bản phát triển\nkinh tế xã hội của đất nước; P\nQuyết định chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định,\nsửa đổi hoặc bãi bỏ các thứ thuế; quyết định phân chia các khoản thu và nhiệm\nvụ chi giữa ngân sách trung ương và ngân sách địa phương; quyết định mức 6\ngiới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ; quyết định dự toán ngân\nsách nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân 2\nsách nhà nước; 5\n5. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;\n6. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính\nphủ, Toà án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia,\nKiểm toán nhà nước, chính quyền địa phương và cơ quan khác do Quốc hội\nthành lập;\nBầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Phó Chủ tịch nước; Chủ\ntịch Quốc hội; Phó Chủ tịch Quốc hội; Ủy viên Uỷ ban thường vụ Quốc hội;\nChủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Thủ tướng Chính\nphủ, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân dồng7 Tông 7\ntối cao, Chủ tịch Hội bầu cử quốc gia, Kiểm toán nhà nước , người\nđứng đầu cơ quan khác do Quốc hội thành lập; phê chuẩn đề nghị bổ nhiệm\nmiễn nhiệm, cách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên\nkhác của Chính phủ, Thẩm phán Tòa án nhân dân tối cao; phê chuẩn danh sách\nthành viên Hội đồng quốc phòng và an ninh, Hội đồng bầu cử quốc gia.\nSau khi được bầu, Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính\nphủ, Chánh án Tòa án nhân dân tối cao phải tuyên thệ trung thành với Tổ quốc,\nNhân dân và Hiến pháp;\n8. Bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc\nphê chuẩn;\nQuyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ của Chính phủ;\nthành lập, giải thể, nhập; chia điều chỉnh địa giới hành chính tỉnh, thành phố\ntrực thuộc trung ương; đơn vị hành chính kinh tế đặc biệt; thành lập, bãi bỏ\ncơ quan khác theo quy định của Hiến pháp và luật;\n\n1\n16\n10. Bãi bỏ văn bản của Chủ tịch nước; Uỷ ban thường vụ Quốc hội, Chính\nphủ; Thủ tướng Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối\ncao trái với Hiến pháp, luật, nghị quyết của Quốc hội;\n11. Quyết định đại xá;\n12. Quy định hàm, cấp trong lực lượng vũ trang nhân dân, hàm; cấp ngoại\ngiao và những hàm cấp nhà nước khác; quy định huân chương huy chương và 1\ndanh hiệu vinh dự nhà nước;\n13. Quyết định vấn đề chiến tranh và hoà bình; quy định về tình trạng khẩn\ncấp; các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia;\n14. Quyết định chính sách cơ bản về đối ngoại; phê chuẩn; quyết định gia\nnhập hoặc chấm dứt hiệu lực của điều ước quốc tế liên quan đến chiến tranh; [\nhòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa\nViệt Nam tại các tổ chức quốc tế và khu vực quan trọng, điều ước quốc tế về\nquyền con người, quyền và nghĩa vụ cơ bản của công dân và điều ước quốc tế 1\nkhác trái với luật nghị quyết của Quốc hội;\n15. Quyết định trưng cầu ý dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 71",
+      "heading": null,
+      "text": "Điều 71\n1. Nhiệm kỳ của mỗi khoá Quốc hội là năm năm\n2. Sáu mươi ngày trước khi Quốc hội hết nhiệm kỳ, Quốc hội khoá mới\nphải được bầu xong\nTrong trường hợp đặc biệt nếu được ít nhất hai phần ba tổng số đại biểu\nQuốc hội biểu quyết tán thành thì Quốc hội quyết định rút ngắn hoặc kéo dài\nnhiệm kỳ của mình theo đề nghị của Ủy ban thường vụ Quốc hội. Việc kéo dài\nnhiệm kỳ của một khóa Quốc hội không được quá mười hai tháng trừ trường\nhợp có chiến tranh_",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 72",
+      "heading": null,
+      "text": "Điều 72\nChủ tịch Quốc hội chủ tọa các phiên họp của Quốc hội; ký chứng thực\nHiến pháp, luật, nghị quyết của Quốc hội; lãnh đạo công tác của Uỷ ban thường\nvụ Quốc hội; tổ chức thực hiện quan hệ đối ngoại của Quốc hội; giữ quan hệ với\ncác đại biểu Quốc hội.\nCác Phó Chủ tịch Quốc hội giúp Chủ tịch Quốc hội làm nhiệm vụ theo sự\nphân công của Chủ tịch Quốc hội.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 73",
+      "heading": null,
+      "text": "Điều 73\n1.Ủy ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội.\n2. Ủy ban thường vụ Quốc hội gồm Chủ tịch Quốc hội, các Phó Chủ tịch\nQuốc hội và các Ủy viên.\n\n1\n3. Số thành viên Ủy ban thường vụ Quốc hội do Quốc hội quyết định\nThành viên Ủy ban thường vụ Quốc hội không thể đồng thời là thành viên :\nChính phủ.\n4. Ủy ban thường vụ Quốc hội của mỗi khoá Quốc hội thực hiện nhiệm\nvụ; quyền hạn của mình cho đến khi Quốc hội khoá mới bầu ra Ủy ban thường\nvụ Quốc hội",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 74",
+      "heading": "1",
+      "text": "Điều 74 1\nUỷ ban thường vụ Quốc hội có những nhiệm vụ và quyền hạn sau đây:\nTổ chức việc chuẩn bị; triệu tập và chủ trì kỳ họp Quốc hội;\nRa pháp lệnh về những vấn đề được Quốc hội giao; giải thích Hiến [\npháp, luật, pháp lệnh;\n3. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp\nlệnh, nghị quyết của Uỷ ban thường vụ Quốc hội; giám sát hoạt động của 6\nChính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao; Kiểm\ntoán nhà nước và cơ quan khác do Quốc hội thành lập;\n4. Đình chỉ việc thi hành văn bản của Chính phủ, Thủ tướng 6\nChính phủ,\nToà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến pháp,\nluật; nghị quyết của Quốc hội và trình Quốc hội quyết định việc bãi bỏ văn bản\nđó tại kỳ họp gần nhất; bãi bỏ văn bản của Chính phủ, Thủ tướng Chính phủ,\nToà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với pháp lệnh,\nnghị quyết của Uỷ ban thường vụ Quốc hội;\n5. Chỉ đạo, điều hòa, phối hợp hoạt động của Hội đồng dân tộc và các Ủy\nban của Quốc hội; hướng dẫn và bảo đảm điều kiện hoạt động của đại biểu\nQuốc hội;\n6. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Chủ tịch\nQuốc hội, Phó Chủ tịch Quốc hội, Ủy viên Uỷ ban thường vụ Quốc hội, Chủ\ntịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội, Chủ tịch Hội đồng\nbầu cử quốc gia, Tổng Kiểm toán nhà nước;\n7. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân; bãi bỏ nghị\nquyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với\nHiến pháp, luật và văn bản của cơ quan nhà nước cấp trên; giải tán Hội đồng\nnhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng\nnhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của Nhân dân;\n8. Quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị\nhành chính dưới tỉnh; thành phố trực thuộc trung ương;\n9. Quyết định việc tuyên bố tình trạng chiến tranh trong trường hợp Quốc\nhội không thể họp được và báo cáo Quốc hội quyết định tại kỳ họp gần nhất;\n\n1\n10. Quyết định tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình\ntrạng khẩn cấp trong cả nước hoặc ở từng địa phương; 1\n11. Thực hiện quan hệ đối ngoại của Quốc hội;\n12. Phê chuẩn đề nghị bổ nhiệm, miễn nhiệm đại sứ đặc mệnh toàn quyền\ncủa Cộng hòa xã hội chủ nghĩa Việt Nam;\n13. Tổ chức trưng cầu ý dân theo quyết định của Quốc hội. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 75",
+      "heading": null,
+      "text": "Điều 75\n1. Hội đồng dân tộc gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên. Chủ\ntịch Hội đồng dân tộc do Quốc hội bầu; các Phó Chủ tịch và các Ủy viên Hội\nđồng dân tộc do Ủy ban thường vụ Quốc hội phê chuẩn [\n2. Hội đồng dân tộc nghiên cứu và kiến nghị với Quốc hội về công tác\ndân hộcễ hoch thực hiện quyền giám sát việc thi hành chính sách dân tộc , chương dồng 7\ntrình; phát triển kinh tế xã hội miền núi và vùng bào dân tộc 1\nthiểu số.\n3. Chủ tịch Hội đồng dân tộc được mời tham dự phiên họp của Chính phủ\nbàn về việc thực hiện chính sách dân tộc Khi ban hành quy định thực hiện\nchính sách dân tộc, Chính phủ phải lấy ý kiến của Hội đồng dân tộc\n4. Hội đồng dân tộc có những nhiệm vụ; quyền hạn khác như Ủy ban của\nQuốc hội quy định tại khoản 2 Điều 76.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 76",
+      "heading": null,
+      "text": "Điều 76\nỦy ban của Quốc hội gồm Chủ nhiệm; các Phó Chủ nhiệm và các Ủy\nviên: Chủ nhiệm Ủy ban do Quốc hội bầu; các Phó Chủ nhiệm và các Ủy viên\nỦy ban do Ủy ban thường7 vụ Quốc hội phê chuẩn.\n2. Ủy ban của Quốc hội thẩm tra dự án luật, kiến nghị về luật, dự án khác\nvà báo cáo được Quốc hội hoặc Ủy ban thường vụ Quốc hội giao; thực hiện\nquyền giám sát trong phạm vi nhiệm vụ; quyền hạn do luật định; kiến nghị\nnhững vấn đề thuộc phạm vi hoạt động của Ủy ban.\n3. Việc thành lập, giải thể Ủy ban của Quốc hội do Quốc hội quyết định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 77",
+      "heading": null,
+      "text": "Điều 77\n1. Hội đồng dân tộc, các Ủy ban của Quốc hội có quyền yêu cầu thành\nviên Chính phủ, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát\nnhân dân tối cao, Tổng7 Kiểm toán nhà nước và cá nhân hữu quan báo cáo; giải\ntrình hoặc cung cấp tài liệu về những vấn đề cần thiết. Người được yêu cầu có\ntrách nhiệm đáp ứng yêu cầu đó.\n2. Các cơ quan nhà nước có trách nhiệm nghiên cứu và trả lời những kiến\nnghị của Hội đồng dân tộc và các Uỷ ban của Quốc hội .\n\n1\n19",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 78",
+      "heading": null,
+      "text": "Điều 78\nKhi cần thiết; Quốc hội thành lập Ủy ban lâm thời để nghiên cứu , thẩm tra ;\nmột dự án hoặc điều tra về một vấn đề nhất định",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 79",
+      "heading": null,
+      "text": "Điều 79\n1.Đại biểu Quốc hội là người đại diện cho ý chí, nguyện vọng của Nhân\ndân ở đơn vị bầu cử ra mình và của Nhân dân cả nước. 1\n2. Đại biểu Quốc hội liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử\ntri; thu thập và phản ánh trung thực ý kiến; nguyện vọng của cử tri với Quốc\nhội, các cơ quan, tổ chức hữu quan; thực hiện chế độ tiếp xúc và báo cáo với\ncử tri về hoạt động của đại biểu và của Quốc hội; trả lời yêu cầu và kiến nghị\ncủa cử tri; theo dõi, đôn đốc việc giải quyết khiếu nại, tố cáo và hướng dẫn; [\ngiúp đỡ việc thực hiện quyền khiếu nại, tố cáo.\n3. Đại biểu Quốc hội phổ biến và vận động Nhân dân thực hiện Hiến pháp\nvà pháp luật. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 80",
+      "heading": null,
+      "text": "Điều 80\n1. Đại biểu Quốc hội có quyền chất vấn Chủ tịch nước, Chủ tịch Quốc\nhội, Thủ tướng Chính phủ, Bộ trưởng và các thành viên khác của Chính phủ,\nChánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối\ncao, Tổng Kiểm toán nhà nước.\n2 Người bị chất vấn phải trả lời trước Quốc hội tại kỳ họp hoặc tại phiên\nhọp Ủy ban thường vụ Quốc hội trong thời gian giữa hai kỳ họp Quốc hội;\ntrong trường hợp cần thiết, Quốc hội, Ủy ban thường vụ Quốc hội cho trả lời\nbằng văn bản\n3. Đại biểu Quốc hội có quyền yêu cầu cơ quan; tổ chức, cá nhân cung\ncấp thông tin; tài liệu liên quan đến nhiệm vụ của cơ quan, tổ chức, cá nhân đó\nNgười đứng đầu cơ quan, tổ chức hoặc cá nhân có trách nhiệm trả lời những\nvấn đề mà đại biểu Quốc hội yêu cầu trong thời hạn luật định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 81",
+      "heading": null,
+      "text": "Điều 81\nKhông được bắt; giam, giữ, khởi tố đại biểu Quốc hội nếu không có sự\nđồng ý của Quốc hội hoặc trong thời gian Quốc hội không họp, không có sự\nđồng ý của Uỷ ban thường vụ Quốc hội; trong trường hợp đại biểu Quốc hội\nphạm tội quả tang mà bị tạm giữ thì cơ quan tạm giữ phải lập tức báo cáo để\nQuốc hội hoặc Uỷ ban thường vụ Quốc hội xem xét, quyết , định_",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 82",
+      "heading": null,
+      "text": "Điều 82\nĐại biểu Quốc hội có trách nhiệm thực hiện đầy đủ nhiệm vụ đại biểu, có\nquyền tham gia làm thành viên của Hội đồng dân tộc hoặc Ủy ban của Quốc hội.\n\n1\n20\nỦy ban thường vụ Quốc hội, Thủ tướng Chính phủ, Phó Thủ tướng\nChính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ và các cơ quan khác của\nNhà nước có trách nhiệm tạo điều kiện để đại biểu Quốc hội làm nhiệm vụ đại\nbiểu\n3. Nhà nước bảo đảm kinh phí hoạt động của đại biểu Quốc hội.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 83",
+      "heading": "1",
+      "text": "Điều 83 1\nQuốc hội họp công khai. Trong trường hợp cần thiết, theo đề nghị của\nChủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc của ít\nnhất một phần ba tổng số đại biểu Quốc hội, Quốc hội quyết định họp kín.\nQuốc hội họp mỗi năm hai kỳ. Trường hợp Chủ tịch nước , Ủy ban\nthường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số [\nđại biểu Quốc hội yêu cầu thì Quốc hội họp bất thường- Uỷ ban thường vụ\nQuốc hội triệu tập kỳ họp Quốc hội.\nKỳ họp thứ nhất của Quốc hội khoá mới được triệu tập chậm nhất là 1\nsáu mươi ngày, kể từ ngày bầu cử đại biểu Quốc hội, do Chủ tịch Quốc hội\nkhoá trước khai mạc và chủ tọa cho đến khi Quốc hội khóa mới bầu ra Chủ\ntịch Quốc hội",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 84",
+      "heading": null,
+      "text": "Điều 84\nChủ tịch nước, Uỷ ban thường vụ Quốc hội, Hội đồng dân tộc, Uỷ ban\ncủa Quốc hội, Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối\ncao, Kiểm toán nhà cuóco Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và\ncơ quan trung ương của chức thành viên của Mặt trận có quyền trình dự án\nluật trước Quốc hội, trình dự án pháp lệnh trước Ủy ban thường7 vụ Quốc hội.\n2. Đại biểu Quốc hội có quyền trình kiến nghị về luật, pháp lệnh và dự án\nluật; dự án pháp lệnh trước Quốc hội, Ủy ban thường vụ Quốc hội.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 85",
+      "heading": null,
+      "text": "Điều 85\nLuật, nghị quyết của Quốc hội phải được quá nửa tổng số đại biểu\nQuốc hội biểu quyết tán thành; trường hợp làm Hiến pháp, sửa đổi Hiến pháp;\nquyết định rút ngắn hoặc kéo dài nhiệm kỳ của Quốc hội, bãi nhiệm đại biểu\nQuốc hội phải được ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết\ntán thành.\nPháp lệnh, nghị quyết . của Ủy ban thường vụ Quốc hội phải được quá nửa\ntổng số thành viên Ủy ban thường vụ Quốc hội biểu quyết tán thành.\n2. Luật, pháp lệnh phải được công bố chậm nhất là mười lăm ngày, kể từ\nngày được thông qua, trừ trường hợp Chủ tịch nước đề nghị xem xét lại pháp\nlệnh.\n\n1\n21",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 86",
+      "heading": null,
+      "text": "Điều 86\nChủ tịch nước là người đứng đầu Nhà nước, thay mặt nước Cộng hoà xã\nhội chủ nghĩa Việt Nam về đối nội và đối ngoại",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 87",
+      "heading": "1",
+      "text": "Điều 87 1\nChủ tịch nước do Quốc hội bầu trong số đại biểu Quốc hội.\nChủ tịch nước chịu trách nhiệm và báo cáo công tác trước Quốc hội.\nNhiệm kỳ của Chủ tịch nước theo nhiệm kỳ của Quốc hội. Khi Quốc hội [\nhết nhiệm kỳ, Chủ tịch nước tiếp tục làm nhiệm vụ cho đến khi Quốc hội khoá\nmới bầu ra Chủ tịch nước .",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 88",
+      "heading": "1",
+      "text": "Điều 88 1\nChủ tịch nước có những nhiệm vụ và quyền hạn sau đây:\nCông bố Hiến pháp, luật, pháp lệnh; đề nghị Uỷ ban thường vụ Quốc\nhội xem xét lại pháp lệnh trong thời hạn mười ngày, kể từ '380 pháp lệnh được\nthông qua, nếu pháp lệnh đó vẫn được Uỷ ban thường 7 vụ hội biểu quyết\ntán thành mà Chủ tịch nước vẫn không nhất trí thì Chủ tịch nước trình Quốc\nhội quyết định tại kỳ họp gần nhất;\n2. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Phó Chủ tịch nước, Thủ\ntướng Chính phủ; căn cứ vào nghị quyết của Quốc hội, bổ nhiệm, miễn nhiệm;\ncách chức Phó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính\nphủ;\n3. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Chánh án Toà án nhân\ndân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao; căn cứ vào nghị quyết\ncủa Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Thẩm phán Tòa án nhân dân\ntối cao; bổ nhiệm, miễn nhiệm, cách chức Phó Chánh án Tòa án nhân dân tối\ncao, Thẩm phán các Tòa án khác, Phó Viện trưởng, Kiểm sát viên Viện kiểm\nsát nhân dân tối cao; quyết định đặc xá; căn cứ vào nghị quyết của Quốc hội,\ncông bố quyết định đại xá;\nQuyết định tặng thưởng huân chương; huy chương; các giải thưởng nhà\nnước, danh hiệu vinh dự nhà nước; quyết định cho nhập quốc tịch, thôi quốc\ntịch, trở lại quốc tịch hoặc tước quốc tịch Việt Nam;\nThống lĩnh lực lượng vũ trang nhân dân, giữ chức Chủ tịch Hội đồng\nquốc phòng và an ninh; quyết định phong, thăng giáng, tước quân hàm cấp\ntướng, chuẩn đô đốc, phó đô đốc, đô đốc hải quân; bổ nhiệm, miễn nhiệm\ncách chức Tổng tham mưu trưởng, Chủ nhiệm Tổng cục chính trị Quân đội\nnhân dân Việt Nam; căn cứ vào nghị quyết của Quốc hội hoặc của Uỷ ban\n\n1\n22\nthường vụ Quốc hội; công bố, bãi bỏ quyết định tuyên bố tình trạng chiến\ntranh; căn cứ vào nghị quyết của Uỷ ban thường vụ Quốc hội, lệnh tổng :\nđộng viên hoặc động viên cục bộ, công bố, bãi bỏ tình trạng khẩn cấp; trong\ntrường hợp Uỷ ban thường vụ Quốc hội không thể họp được, công bố, bãi bỏ\ntình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;\nTiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài; căn cứ vào nghị\nquyết của Ủy ban thường_ vụ Quốc hội, bổ nhiệm; miễn nhiệm; quyết định cử, 1\ntriệu hồi đại sứ đặc mệnh toàn quyền của Cộng hòa xã hội chủ nghĩa Việt\nNam; phong hàm, cấp đại sứ; quyết định đàm phán, ký điều ước quốc tế nhân\ndanh Nhà nước; trình Quốc hội phê chuẩn, quyết định gia nhập hoặc chấm dứt\nhiệu lực điều ước quốc tế quy định tại khoản 14 Điều 70; quyết định phê\nchuẩn; gia nhập hoặc chấm dứt hiệu lực điều ước quốc tế khác nhân danh Nhà [\nnước .",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 89",
+      "heading": null,
+      "text": "Điều 89\n1. Hội đồng quốc phòng và an ninh gồm Chủ tịch, Phó Chủ tịch và các Ủy 6\nviên. Danh sách thành viên Hội đồng quốc phòng và an ninh do Chủ tịch nước\ntrình Quốc hội phê chuẩn. 4\nHội đồng quốc phòng và an ninh làm việc theo chế độ tập thể và quyết\nđịnh theo đa số\n2. Hội đồng quốc phòng và an ninh trình Quốc hội quyết định tình trạng\nchiến tranh, trường hợp Quốc hội không thể họp được thì trình Ủy ban tớcag\nvụ Quốc hội quyết định; động viên mọi lực lượng và khả năng của đất nước\nbảo vệ Tổ quốc; thực hiện những nhiệm vụ, quyền hạn đặc biệt do Quốc hội\ngiao trong trường hợp có chiến tranh; quyết định việc lực lượng vũ trang nhân\ndân tham gia hoạt động góp 'phần bảo vệ hòa bình ở khu vực và trên thế giới.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 90",
+      "heading": null,
+      "text": "Điều 90\nChủ tịch nước có quyền tham dự phiên họp của Uỷ ban thường vụ Quốc\nhội, phiên họp của Chính phủ\nChủ tịch nước có quyền yêu cầu Chính phủ họp bàn về vấn đề mà Chủ quyền\ntịch nước xét thấy cần thiết để thực hiện nhiệm vụ, hạn của Chủ tịch\nnước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 91",
+      "heading": null,
+      "text": "Điều 91\nChủ tịch nước ban hành lệnh, quyết định để thực hiện nhiệm vụ; quyền\nhạn của mình",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 92",
+      "heading": null,
+      "text": "Điều 92\nPhó Chủ tịch nước do Quốc hội bầu trong số đại biểu Quốc hội.\nPhó Chủ tịch nước giúp Chủ tịch nước thực hiện nhiệm vụ và có thể được\nChủ tịch nước uỷ nhiệm thay Chủ tịch nước thực hiện một số nhiệm vụ.\n\n1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 93",
+      "heading": null,
+      "text": "Điều 93\nKhi Chủ tịch nước không làm việc được trong thời gian dài thì Phó Chủ\ntịch nước giữ quyền Chủ tịch nước\nTrong trường hợp khuyết Chủ tịch nước thì Phó Chủ tịch nước giữ quyền\nChủ tịch nước cho đến khi Quốc hội bầu ra Chủ tịch nước mới.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 94",
+      "heading": null,
+      "text": "Điều 94\nChính phủ là cơ quan hành chính nhà nước cao nhất của nước Cộng hoà\nxã hội chủ nghĩa Việt Nam, thực hiện quyền hành pháp, là cơ quan chấp hành [\ncủa Quốc hội.\nChính phủ chịu trách nhiệm trước Quốc hội và báo cáo công tác trước\nQuốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước. ẵ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 95",
+      "heading": null,
+      "text": "Điều 95\n1. Chính phủ gồm Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ, 6\ncác Bộ trưởng và Thủ trưởng cơ quan ngang bộ\nCơ cấu, số lượng thành viên Chính phủ do Quốc hội quyết định.\nChính phủ làm việc theo chế độ tập thể, quyết định theo đa số\n2. Thủ tướng Chính phủ là người đứng đầu Chính phủ, chịu trách nhiệm\ntrước Quốc hội về hoạt động của Chính phủ và những nhiệm vụ được giao; báo\ncáo công tác của Chính phủ, Thủ tướng Chính phủ trước Quốc hội, Ủy ban\nthường vụ Quốc hội, Chủ tịch nước.\nPhó Thủ tướng Chính phủ giúp Thủ tướng Chính phủ làm nhiệm vụ\ntheo sự phân công của Thủ tướng Chính phủ và chịu trách nhiệm trước Thủ\ntướng Chính phủ về nhiệm vụ được phân công Khi Thủ tướng Chính phủ vắng\nmặt, một Phó Thủ tướng Chính phủ được Thủ tướng Chính phủ ủy nhiệm thay\nmặt Thủ tướng Chính phủ lãnh đạo công tác của Chính phủ.\nBộ trưởng, Thủ trưởng cơ quan ngang bộ chịu trách nhiệm cá nhân\ntrước Thủ tướng Chính phủ; Chính phủ và Quốc hội về ngành, lĩnh vực được\nphân công phụ trách, cùng các thành viên khác của Chính phủ chịu trách\nnhiệm tập thể về hoạt động của Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 96",
+      "heading": null,
+      "text": "Điều 96\nChính phủ có những nhiệm vụ và quyền hạn sau đây:\n1. Tổ chức thi hành Hiến pháp, luật; nghị quyết của Quốc hội, pháp lệnh,\nnghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch\nnước;\n\n1\n24\n2. Đề xuất, xây dựng chính sách trình Quốc hội, Ủy ban thường vụ Quốc\nhội quyết định hoặc quyết định theo thẩm quyền để thực hiện nhiệm vụ; quyền 5\nhạn quy định tại Điều này; trình dự án luật; dự án ngân sách nhà nước và các\ndự án khác trước Quốc hội; trình dự án pháp lệnh trước Ủy ban thường vụ\nQuốc hội;\nThống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa\nhọc, công nghệ, môi trường, thông tin; truyền thông, đối ngoại; quốc phòng, an 1\nninh quốc gia, trật tự, an toàn xã hội; thi hành lệnh tổng động viên hoặc động\nviên cục bộ, lệnh ban bố tình trạng khẩn cấp và các biện pháp cần thiết khác để\nbảo vệ Tổ quốc, bảo đảm tính mạng; tài sản của Nhân dân; 4\nTrình Quốc hội quyết định thành lập, bãi bỏ bộ, cơ quan ngang bộ;\nthành lậps giải thể, nhập, chia, điều chỉnh địa giới hành chính tỉnh, thành phố P\ntrực thuộc trung ương, đơn vị hành chính 7 kinh tế đặc biệt; trình Ủy ban\nthường vụ Quốc hội quyết định thành giải thể, nhập, chia, điều chỉnh địa\ngiới đơn vị hành chính dưới tỉnh, thành trực thuộc trung ương; 5\nThống nhất quản lý nền hành chính quốc gia; thực hiện quản lý về cán\nbộ, công chức, viên chức và công vụ trong các cơ quan nhà nước; tổ chức công 2\ntác thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, phòng, chống quan liêu,\ntham nhũng trong bộ máy nhà nước; lãnh đạo công tác của các bộ, cơ quan\nngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp; hướng dẫn,\nkiểm tra Hội đồng nhân dân trong việc thực hiện văn bản của cơ quan nhà\nnước cấp trên; tạo điều kiện để Hội đồng nhân dân thực hiện nhiệm vụ; quyền\nhạn do luật định;\n6. Bảo vệ quyền và lợi ích của Nhà nước và xã hội, quyền con người;\nquyền công dân; bảo đảm trật tự, an toàn xã hội;\nTổ chức đàm phán, ký điều ước quốc tế nhân danh Nhà nước theo ủy\nquyền của Chủ tịch nước; quyết định việc ký, gia nhập, phê duyệt hoặc chấm\ndứt hiệu lực điều ước quốc tế nhân danh Chính phủ, trừ điều ước quốc tế trình\nQuốc hội phê chuẩn quy định tại khoản 14 Điều 70; bảo vệ lợi ích của Nhà\nnước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài;\n8. Phối hợp với Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ\nquan trung ương của tổ chức chính trị xã hội trong việc thực hiện nhiệm vụ;\nquyền hạn của mình.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 97",
+      "heading": null,
+      "text": "Điều 97\nNhiệm kỳ của Chính phủ theo nhiệm kỳ của Quốc hội. Khi Quốc hội hết\nnhiệm kỳ, Chính phủ tiếp tục làm nhiệm vụ cho đến khi Quốc hội khoá mới\nthành lập Chính phủ",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 98",
+      "heading": null,
+      "text": "Điều 98\nThủ tướng Chính phủ do Quốc hội bầu trong số đại biểu Quốc hội.\n\n1\n25\nThủ tướng Chính phủ có những nhiệm vụ và 'quyền hạn sau đây:\n1. Lãnh đạo công tác của Chính phủ; lãnh đạo việc xây dựng chính sách\nvà tổ chức thi hành pháp luật;\n2. Lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính\nnhà nước từ trung ương đến địa phương, bảo đảm tính thống nhất và thông\nsuốt của nền hành chính quốc gia; 1\n3. Trình Quốc hội phê chuẩn đề nghị bổ nhiệm, miễn nhiệm, cách chức\nPhó Thủ tướng Chính phủ, Bộ trưởng và thành viên khác của Chính phủ; bổ\nnhiệm; miễn nhiệm, cách chức Thứ trưởng, chức vụ tương đương thuộc bộ, cơ\nquan ngang bộ; phê chuẩn việc bầu, miễn nhiệm và quyết định điều động; cách\nchức Chủ tịch, Phó Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung [\nương;\n4. Đình chỉ việc thi hành hoặc bãi bỏ văn bản của Bộ trưởng, Thủ trưởng\ncơ quan ngang bộ, Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố 1\ntrực thuộc trung ương trái với Hiến pháp, luật và văn bản của cơ quan nhà\nnước cấp trên; đình chỉ việc thi hành nghị quyết của Hội đồng nhân dân tỉnh,\nthành phố trực thuộc trung ương trái với Hiến pháp; luật và văn bản của cơ\nquan nhà nước cấp trên, đồng7 thời đề nghị Ủy ban thường vụ Quốc hội bãi bỏ;\n5. Quyết định và chỉ đạo việc đàm phán; chỉ đạo việc ký, gia nhập điều\nước quốc tế thuộc nhiệm vụ; quyền hạn của Chính phủ; tổ chức thực hiện điều\nước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên;\n6. Thực hiện chế độ báo cáo trước Nhân dân thông qua các phương tiện\nthông tin đại chúng về những vấn đề quan trọng thuộc thẩm quyền giải quyết\ncủa Chính phủ và Thủ tướng Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 99",
+      "heading": null,
+      "text": "Điều 99\n1.Bộ trưởng, Thủ trưởng cơ quan ngang bộ là thành viên Chính phủ và là\nngười đứng đầu bộ, cơ quan ngang bộ, lãnh đạo công tác của bộ, cơ quan\nngang bộ; chịu trách nhiệm quản lý nhà nước về ngành, lĩnh vực được phân\ncông; tổ chức thi hành và theo dõi việc thi hành pháp luật liên quan đến ngành\nlĩnh vực trong phạm vi toàn quốc.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ báo cáo công tác trước Chính\nphủ, Thủ tướng Chính phủ; thực hiện chế độ báo cáo trước Nhân dân về những\nvấn đề quan trọng thuộc trách nhiệm quản lý",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 100",
+      "heading": null,
+      "text": "Điều 100\nChính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang\nbộ ban hành văn bản pháp luật để thực hiện nhiệm vụ, quyền hạn của mình,\nkiểm tra việc thi hành các văn bản đó và xử lý các văn bản trái pháp luật theo\nquy định của luật.\n\n1\n26",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 101",
+      "heading": null,
+      "text": "Điều 101\nChủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và người đứng\nđầu cơ quan trung ương của tổ chức chính trị xã hội được mời tham dự phiên\nhọp của Chính phủ khi bàn các vấn đề có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 102",
+      "heading": null,
+      "text": "Điều 102\n1. Tòa án nhân dân là cơ quan xét xử của nước Cộng hoà xã hội chủ nghĩa\nViệt Nam, thực hiện quyền tư pháp.\n2. Tòa án nhân dân gồm Tòa án nhân dân tối cao và các Tòa án khác do P\nluật định.\n3. Tòa án nhân dân có nhiệm vụ bảo vệ công lý, bảo vệ quyền con người,\nquyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, 1\nquyền và lợi ích hợp pháp của tổ chức, cá nhân",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 103",
+      "heading": null,
+      "text": "Điều 103\n1. Việc xét xử sơ thẩm của Tòa án nhân dân có Hội thẩm tham gia, trừ\ntrường hợp xét xử theo thủ tục rút gọn.\n2. Thẩm phán, Hội thẩm xét xử độc lập và chỉ tuân theo pháp luật; nghiêm\ncấm cơ quan; tổ chức, cá nhân can thiệp vào việc xét xử của Thẩm phán, Hội\nthẩm\n3. Tòa án nhân dân xét xử công khai_ Trong trường hợp đặc biệt cần giữ\nbí mật nhà nước, thuần phong, mỹ tục của dân tộc, bảo vệ người chưa thành\nniên hoặc giữ bí mật đời tư theo yêu cầu chính đáng của đương sự, Tòa án\nnhân dân có thể xét xử kín\n4. Tòa án nhân dân xét xử tập thể và quyết định theo đa số, trừ 'trường hợp\nxét xử theo thủ tục rút gọn.\n5. Nguyên tắc tranh tụng trong xét xử được bảo đảm\n6. Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm.\nQuyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của\nđương sự được bảo đảm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 104",
+      "heading": null,
+      "text": "Điều 104\n1. Tòa án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hoà\nxã hội chủ nghĩa Việt Nam\n2. Tòa án nhân dân tối cao giám đốc việc xét xử của các Tòa án khác;, trừ\ntrường hợp do luật định.\n\n1\n3. Tòa án nhân dân tối cao thực hiện việc tổng kết thực tiễn xét xử, bảo\nđảm áp dụng thống nhất pháp luật trong xét xử. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 105",
+      "heading": null,
+      "text": "Điều 105\n1. Nhiệm kỳ của Chánh án Toà án nhân dân tối cao theo nhiệm kỳ của\nQuốc hội Việc bổ nhiệm; miễn nhiệm, cách chức và nhiệm kỳ của Chánh án\nTòa án khác do luật định. 1\n2. Chánh án Toà án nhân dân tối cao chịu trách nhiệm và báo cáo công] tác\ntrước Quốc hội; trong thời gian Quốc hội không họp, chịu trách nhiệm và báo\ncáo công tác trước Ủy ban thường vụ Quốc hội, Chủ tịch nước. Chế độ báo cáo\ncông tác của Chánh án các Tòa án khác do luật định.\nViệc bổ nhiệm; phê chuẩn, miễn nhiệm, cách chức, nhiệm kỳ của Thẩm P\nphán và việc bầu, nhiệm kỳ của Hội thẩm do luật định",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 106",
+      "heading": "6",
+      "text": "Điều 106 6\nBản án, quyết - định của Toà án nhân dân có hiệu lực pháp luật phải được\ncơ quan; tổ chức, cá nhân tôn trọng; cơ quan, tổ chức, cá nhân hữu quan chấp hành. phải 7\nnghiêm chỉnh 5",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 107",
+      "heading": null,
+      "text": "Điều 107\n1. Viện kiểm sát nhân dân thực hành quyền công - tố, kiểm sát hoạt - động tư\npháp.\nViện kiểm sát nhân dân gồm Viện kiểm sát nhân dân tối cao và các\nViện kiểm sát khác do luật định.\n3. Viện kiểm sát nhân dân có nhiệm vụ bảo vệ pháp luật bảo vệ quyền\ncon người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của\nNhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân; góp phần bảo đảm\npháp luật được chấp hành nghiêm chỉnh và thống nhất.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 108",
+      "heading": null,
+      "text": "Điều 108\n1. Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao theo nhiệm\nkỳ của Quốc hội. Việc bổ nhiệm, miễn nhiệm, cách chức, nhiệm kỳ của Viện\ntrưởng các Viện kiểm sát khác và của Kiểm sát viên do luật định.\n2. Viện trưởng Viện kiểm sát nhân dân tối cao chịu trách nhiệm và báo\ncáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu trách\nnhiệm và báo cáo công tác trước Ủy ban thường vụ Quốc hội, Chủ tịch nước.\nChế độ báo cáo công - tác của Viện trưởng các Viện kiểm sát khác do luật định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 109",
+      "heading": null,
+      "text": "Điều 109\n1. Viện kiểm sát nhân dân do Viện trưởng lãnh đạo. Viện trưởng Viện\nkiểm sát nhân dân cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát\n\n1\n28\nnhân dân cấp trên. Viện trưởng các Viện kiểm sát cấp dưới chịu sự lãnh đạo\nthống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao\n2. Khi thực hành quyền công] tố và kiểm sát hoạt động tư pháp, Kiểm sát\nviên tuân theo pháp luật và chịu sự chỉ đạo của Viện trưởng Viện kiểm sát\nnhân dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 110",
+      "heading": null,
+      "text": "Điều 110\n1. Các đơn vị hành chính của nước Cộng hòa xã hội chủ nghĩa Việt Nam\nđược phân định như sau:\nNước chia thành tỉnh, thành phố trực thuộc trung ương; [\nTỉnh chia thành huyện, thị xã và thành phố thuộc tỉnh; thành phố trực\nthuộc trung ương chia thành quận; huyện; thị xã và đơn vị hành chính tương 6\nđương;\nHuyện chia thành xã, thị trấn; thị xã và thành phố thuộc tỉnh chia thành\nphường và xã; quận chia thành phường. 1\nĐơn vị hành chính kinh tế đặc biệt do Quốc hội thành lập.\n2. Việc thành lập; giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành\nchính phải lấy ý kiến Nhân dân địa phương và theo trình tự, thủ tục do luật\nđịnh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 111",
+      "heading": null,
+      "text": "Điều 111\n1. Chính quyền địa phương được tổ chức ở các đơn vị hành chính của\nnước Cộng hòa xã hội chủ nghĩa Việt Nam.\nCấp chính quyền địa phương gồm có Hội đồng nhân dân và Ủy ban\nnhân dân được tổ chức phù hợp với đặc điểm nông thôn, đô thị, hải đảo, đơn vị\nhành chính kinh tế đặc biệt do luật định",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 112",
+      "heading": null,
+      "text": "Điều 112\n1. Chính quyền địa phương tổ chức và bảo đảm việc thi hành Hiến pháp\nvà pháp luật tại địa phương; quyết định các vấn đề của địa phương do luật định;\nchịu sự kiểm tra, giám sát của cơ quan nhà nước cấp trên.\n2. Nhiệm vụ, quyền hạn của chính quyền địa phương được xác định trên\ncơ sở phân định thẩm quyền giữa các cơ quan nhà nước ở trung ương và địa\nphương và của mỗi cấp chính quyền địa phương:\nTrong trường hợp cần thiết, chính quyền địa phương được giao thực\nhiện một số nhiệm vụ của cơ quan nhà nước cấp trên với các điều kiện bảo đảm\nthực hiện nhiệm vụ đó\n\n1\n29",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 113",
+      "heading": null,
+      "text": "Điều 113\n1. Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, đại\ndiện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa\nphương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà\nnước cấp trên.\n2. Hội đồng nhân dân quyết định các vấn đề của địa phương do luật\nđịnh; giám sát việc tuân theo Hiến pháp và pháp luật ở địa phương và việc thực 1\nhiện nghị quyết của Hội đồng7 nhân dân",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 114",
+      "heading": null,
+      "text": "Điều 114\nUỷ ban nhân dân ở cấp chính quyền địa phương do Hội đồng nhân dân\ncùng cấp bầu là cơ quan chấp hành của Hội đồng nhân dân; cơ quan hành chính [\nnhà nước ở địa phương; chịu trách nhiệm trước Hội đồng nhân dân và cơ quan\nhành chính nhà nước cấp trên.\n2. Uỷ ban nhân dân tổ chức việc thi hành Hiến pháp và pháp luật ở địa 6\nphương; tổ chức thực hiện nghị quyết của Hội đồng nhân dân và thực hiện các\nnhiệm vụ do cơ quan nhà nước cấp trên giao.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 115",
+      "heading": "6",
+      "text": "Điều 115 6\n1. Đại biểu Hội đồng nhân dân là người đại diện cho ý chí, nguyện vọng\ncủa Nhân dân địa phương; liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử\ntri, thực hiện chế độ tiếp xúc, báo cáo với cử tri về hoạt động của mình và của\nHội đồng nhân dân, trả lời những yêu cầu, kiến nghị của cử tri; xem xét, đôn\nđốc việc giải quyết khiếu nại, tố cáo. Đại biểu Hội đồng nhân dân có nhiệm vụ\nvận động Nhân dân thực hiện Hiến pháp và pháp luật, chính sách của Nhà\nnước, nghị quyết của Hội đồng nhân dân, động viên Nhân dân tham gia quản\nlý nhà nước.\n2. Đại biểu Hội đồng nhân dân có quyền chất vấn Chủ tịch Ủy ban nhân\ndân, các thành viên khác của Uỷ ban nhân dân, Chánh án Toà án nhân dân,\nViện trưởng Viện kiểm sát nhân dân và Thủ trưởng cơ quan thuộc Uỷ ban\nnhân dân. Người bị chất vấn phải trả lời trước Hội đồng nhân dân. Đại biểu\nHội đồng nhân dân có quyền kiến nghị với các cơ quan nhà nước, tổ chức, đơn\nvị ở địa phương. Người đứng đầu cơ quan; tổ chức, đơn vị này có trách nhiệm\ntiếp đại biểu, xem xét, giải quyết kiến nghị của đại biểu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 116",
+      "heading": null,
+      "text": "Điều 116\n1. Hội đồng nhân dân, Uỷ ban nhân dân thực hiện chế độ thông báo tình\nhình của địa phương cho Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân\ndân, lắng nghe ý kiến, kiến nghị của các tổ chức này về xây dựng chính quyền\nvà phát triển kinh tế xã hội ở địa phương; phối hợp với Mặt trận Tổ quốc Việt\nNam và các đoàn thể nhân dân động viên Nhân dân cùng Nhà nước thực hiện\ncác nhiệm vụ kinh tế xã hội, quốc phòng; an ninh ở địa phương\n\n1\n30\n2. Chủ tịch Uỷ ban Mặt trận Tổ quốc Việt Nam và người đứng đầu tổ\nchức chính trị xã hội ở địa phương được mời tham dự các kỳ họp Hội đồng ;\nnhân dân và được mời tham dự hội nghị Uỷ ban nhân dân cùng cấp khi bàn các\nvấn đề có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 117",
+      "heading": null,
+      "text": "Điều 117\n1. Hội đồng bầu cử quốc gia là cơ quan do Quốc hội thành lập; có nhiệm\nvụ tổ chức bầu cử đại biểu Quốc hội; chỉ đạo và hướng dẫn công tác bầu cử đại\nbiểu Hội đồng nhân dân các cấp. [\n2. Hội đồng bầu cử quốc gia gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên.\n3. Tổ chức, nhiệm vụ; quyền hạn n%8ct râac do Hội đồng thể của Hội đồng7 bầu cử quốc gia và\nsố lượng thành viên Hội đồng bầu cử 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 118",
+      "heading": null,
+      "text": "Điều 118\n1. Kiểm toán nhà nước là cơ quan do Quốc hội thành lập, hoạt động độc\nlập và chỉ tuân theo pháp luật thực hiện kiểm toán việc quản lý; sử dụng tài\nchính, tài sản công.\nTổng Kiểm toán nhà nước là người đứng đầu Kiểm toán nhà nước, do\nQuốc hội bầu. Nhiệm kỳ của Tổng Kiểm toán nhà nước do luật định.\nTổng Kiểm toán nhà nước chịu trách nhiệm và báo cáo kết quả kiểm toán,\nbáo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, chịu\ntrách nhiệm và báo cáo trước Ủy ban thường vụ Quốc hội.\n3. Tổ chức, nhiệm vụ; quyền hạn cụ thể cùa Kiểm toán nhà nước do luật\nđịnh .\nHIỆU LỰC CỦA HIẾN PHÁP CHƯƠNG XI\nVÀ VIỆC SỬA ĐỔI HIẾN PHÁP",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 119",
+      "heading": null,
+      "text": "Điều 119\nHiến pháp là luật cơ bản của nước Cộng hoà xã hội chủ nghĩa Việt\nNam, có hiệu lực pháp lý cao nhất.\nMọi văn bản pháp luật khác phải phù hợp với Hiến pháp\nMọi hành vi vi phạm Hiến pháp đều bị xử lý\nQuốc hội, các cơ quan của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án\nnhân dân, Viện kiểm sát nhân dân, các cơ quan khác của Nhà nước và toàn thể\nNhân dân có trách nhiệm bảo vệ Hiến pháp.\nCơ chế bảo vệ Hiến pháp do luật định\n\n1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 120",
+      "heading": null,
+      "text": "Điều 120\n1. Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ hoặc ít nhất\nmột phần ba tổng số đại biểu Quốc hội có quyền đề nghị làm Hiến pháp, sửa\nđổi Hiến pháp. Quốc hội quyết định việc làm Hiến pháp, sửa đổi Hiến pháp khi\ncó ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành.\nQuốc hội thành lập Ủy ban dự thảo Hiến pháp. Thành phần; số lượng 1\nthành viên; nhiệm vụ và quyền hạn của Ủy ban dự thảo Hiến pháp do Quốc hội\nquyết định theo đề nghị của Uỷ ban thường vụ Quốc hội.\nỦy ban dự thảo Hiến pháp soạn thảo; tổ chức lấy ý kiến Nhân dân và\ntrình Quốc hội dự thảo Hiến pháp.\nHiến pháp được thông qua khi có ít nhất hai phần ba tổng số đại biểu [\nQuốc hội biểu quyết tán thành: Việc trưng cầu ý dân về Hiến pháp do Quốc hội\nquyết , định.\n5. Thời hạn công bố, thời điềm có hiệu lực của Hiến pháp do Quốc hội 1\nquyết , định.\nHiến pháp này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt\nNam khóa XIII, kỳ họp thứ 6 thông qua ngày 28 tháng 11 năm 2013.",
+      "isImplementationClause": false
+    }
+  ]
+}

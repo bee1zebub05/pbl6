@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0046_1121_QĐ-ĐHBK_Điều chỉnh Phụ lục “Tiêu chí đánh giá hoạt động khoa học công nghệ hàng năm của Tr.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1121/QĐ-ĐHBK",
+    "title": "Quyết định Về việc điều chỉnh Phụ lục \"Tiêu chí đánh giá hoạt động Khoa học và Công nghệ hàng năm” của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": "15/06/2020",
+    "effectiveDate": "15/06/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Thi đua, khen thưởng"
+    ],
+    "summary": "Quyết định điều chỉnh, bổ sung Phụ lục Quy định khen thưởng Khoa học và Công nghệ hàng năm ban hành ngày 03/10/2014 của Trường Đại học Bách khoa, quy định chi tiết khung tiêu chí và thang điểm đánh giá hoạt động KH&CN dành cho cá nhân và tập thể để xét thi đua trong năm học.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN, ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng ban hành về việc quy định quyền hạn, nhiệm vụ của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 08/2014/NĐ-CP ngày 27 tháng 01 năm 2014 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học và Công nghệ;"
+    },
+    {
+      "targetDocumentNumber": "199/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quy chế chi tiêu nội bộ của Đại học Đà Nẵng ban hành kèm theo Quyết định số 199/QĐ-ĐHĐN ký ngày 10 tháng 01 năm 2012 của Giám đốc Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "213b/QĐ-ĐHBK-KH,SĐH&HTQT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 213b/QĐ-ĐHBK-KH,SĐH&HTQT ngày 03 tháng 10 năm 2014 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy định khen thưởng Khoa học và công nghệ hàng năm của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Phòng Khoa học Công nghệ và Hợp tác Quốc tế",
+    "Phòng Tổ chức - Hành chính",
+    "Phòng Kế hoạch - Tài chính",
+    "Hội đồng Giáo sư nhà nước",
+    "Sở Ngoại vụ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Điều chỉnh phụ lục Quy định khen thưởng Khoa học và Công nghệ hàng năm của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành ngày 03 tháng 10 năm 2014. Nội dung điều chỉnh, bổ sung được ban hành kèm ",
+      "text": "Điều 1. Điều chỉnh phụ lục Quy định khen thưởng Khoa học và Công nghệ hàng năm của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành ngày 03 tháng 10 năm 2014. Nội dung điều chỉnh, bổ sung được ban hành kèm theo quyết định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Các điều chỉnh, bổ sung này được áp dụng kể từ ngày ký và thay thế cho những quy định trước.",
+      "text": "Điều 2. Các điều chỉnh, bổ sung này được áp dụng kể từ ngày ký và thay thế cho những quy định trước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Ông (Bà) Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng phòng Phòng Kế hoạch - Tài chính, các đơn vị và cán bộ viên chức thuộc Trường Đại",
+      "text": "Điều 3. Các Ông (Bà) Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng phòng Phòng Kế hoạch - Tài chính, các đơn vị và cán bộ viên chức thuộc Trường Đại học Bách khoa căn cứ quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0360_2060_QĐ-BGDĐT_Công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2060/QĐ-BGDĐT",
+    "title": "Công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/08/2024",
+    "effectiveDate": "05/08/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24/10/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "61/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;"
+    },
+    {
+      "targetDocumentNumber": "107/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;"
+    },
+    {
+      "targetDocumentNumber": "45/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử;"
+    },
+    {
+      "targetDocumentNumber": "42/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 42/2022/NĐ-CP ngày 24/06/2022 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;"
+    },
+    {
+      "targetDocumentNumber": "01/2023/TT-VPCP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 01/2023/TT-VPCP ngày 05/4/2023 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ quy định một số nội dung và biện pháp thi hành trong số hóa hồ sơ, kết quả giải quyết thủ tục hành chính và thực hiện thủ tục hành chính trên môi trường điện tử;"
+    },
+    {
+      "targetDocumentNumber": "27/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Chỉ thị số 27/CT-TTg ngày 27/10/2023 của Thủ tướng Chính phủ về tiếp tục đẩy mạnh các giải pháp cải cách và nâng cao hiệu quả giải quyết thủ tục hành chính, cung cấp dịch vụ công phục vụ người dân, doanh nghiệp;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Văn phòng Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố kèm theo Quyết định này Danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương.",
+      "text": "Điều 1. Công bố kèm theo Quyết định này Danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực từ ngày ký.\n\nCăn cứ điều kiện thực tế, các địa phương tổ chức triển khai thực hiện dịch vụ công trực tuyến toàn trình bảo đảm quy định của pháp luật đối với các thủ tục hành chính đủ điều kiện được công bố tại Điều 1 Quyết định này.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ và các cơ quan có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ và các cơ quan có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

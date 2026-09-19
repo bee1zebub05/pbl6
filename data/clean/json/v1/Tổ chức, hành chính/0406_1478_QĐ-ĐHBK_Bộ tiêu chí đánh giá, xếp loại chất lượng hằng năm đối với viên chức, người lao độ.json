@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0406_1478_QĐ-ĐHBK_Bộ tiêu chí đánh giá, xếp loại chất lượng hằng năm đối với viên chức, người lao độ.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1478/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Bộ tiêu chí đánh giá, xếp loại chất lượng hằng năm đối với viên chức, người lao động của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "19/04/2024",
+    "effectiveDate": "19/04/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Bộ tiêu chí đánh giá, xếp loại chất lượng hằng năm đối với viên chức, người lao động của Trường Đại học Bách khoa, Đại học Đà Nẵng. Quyết định này thay thế Quyết định số 1873/QĐ-ĐHBK ngày 19/05/2023 và được áp dụng từ năm học 2023-2024.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "90/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 90/2020/NĐ-CP ngày 13 tháng 8 năm 2020 của Chính phủ về đánh giá, xếp loại chất lượng cán bộ, công chức, viên chức và được sửa đổi, bổ sung một số điều tại Nghị định số 48/2023/NĐ-CP ngày 17 tháng 7 năm 2023;"
+    },
+    {
+      "targetDocumentNumber": "48/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 90/2020/NĐ-CP ngày 13 tháng 8 năm 2020 của Chính phủ về đánh giá, xếp loại chất lượng cán bộ, công chức, viên chức và được sửa đổi, bổ sung một số điều tại Nghị định số 48/2023/NĐ-CP ngày 17 tháng 7 năm 2023;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "3277/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3277/QĐ-BGDĐT ngày 12 tháng 10 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế Đánh giá, xếp loại chất lượng hằng năm đối với đơn vị và công chức, viên chức, người lao động của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "3092/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08 tháng 8 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1873/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này thay thế cho Quyết định số 1873/QĐ-ĐHBK ngày 19 tháng 5 năm 2023 và có hiệu lực kể từ ngày ký, được áp dụng từ năm học 2023-2024."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Phòng Tổ chức - Hành chính",
+    "Phòng Thanh tra – Pháp chế",
+    "Phòng Đào tạo"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Bộ tiêu chí đánh giá, xếp loại chất lượng hằng năm đối với viên chức, người lao động của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Bộ tiêu chí đánh giá, xếp loại chất lượng hằng năm đối với viên chức, người lao động của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này thay thế cho Quyết định số 1873/QĐ-ĐHBK ngày 19 tháng 5 năm 2023 và có hiệu lực kể từ ngày ký, được áp dụng từ năm học 2023-2024.",
+      "text": "Điều 2. Quyết định này thay thế cho Quyết định số 1873/QĐ-ĐHBK ngày 19 tháng 5 năm 2023 và có hiệu lực kể từ ngày ký, được áp dụng từ năm học 2023-2024.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị, cá nhân có liên quan của Trường chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị, cá nhân có liên quan của Trường chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

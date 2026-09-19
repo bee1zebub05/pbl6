@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0466_10_2026_NQ-CP_Nghị quyết về việc tiếp tục áp dụng văn bản quy định chi tiết, quy định biện ph.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "10/2026/NQ-CP",
+    "title": "Nghị quyết về việc tiếp tục áp dụng văn bản quy định chi tiết, quy định biện pháp cụ thể để tổ chức, hướng dẫn thi hành một số luật đã được sửa đổi, bổ sung hoặc thay thế",
+    "documentType": "Nghị quyết",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "10/03/2026",
+    "effectiveDate": "10/03/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị quyết quy định về việc tiếp tục áp dụng các nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ quy định chi tiết và hướng dẫn thi hành một số luật đã được sửa đổi, bổ sung hoặc thay thế từ ngày 01/01/2026 và ngày 01/3/2026 cho đến khi có văn bản thay thế hoặc bãi bỏ, đồng thời ban hành danh mục các văn bản tiếp tục được áp dụng toàn bộ hoặc một phần.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hồ Quốc Dũng",
+      "academicTitle": null,
+      "position": [
+        "Phó Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "63/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "64/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "87/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;"
+    }
+  ],
+  "mentions": [],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\n1. Nghị quyết này quy định về việc tiếp tục áp dụng các nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ quy định chi tiết, quy định biện pháp cụ thể để tổ chức, hướng dẫn thi hành một số luật đã được sửa đổi, bổ sung hoặc thay thế từ ngày 01 tháng 01 năm 2026 và từ ngày 01 tháng 3 năm 2026 cho đến khi có văn bản của cơ quan nhà nước có thẩm quyền thay thế hoặc bãi bỏ.\n2. Ban hành kèm theo Nghị quyết này Danh mục nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ được tiếp tục áp dụng toàn bộ hoặc một phần.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nguyên tắc áp dụng pháp luật",
+      "text": "Điều 2. Nguyên tắc áp dụng pháp luật\n1. Việc áp dụng các nghị định, quyết định tại Điều 1 của Nghị quyết này phải bảo đảm phù hợp với quy định của luật sửa đổi, bổ sung hoặc thay thế đã có hiệu lực nhằm triển khai thi hành hiệu quả các luật này, bảo đảm hoạt động quản lý nhà nước không bị gián đoạn, bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân trong khoảng thời gian chưa có văn bản quy định chi tiết, quy định cụ thể biện pháp thi hành để tổ chức, hướng dẫn thi hành luật sửa đổi, bổ sung hoặc thay thế.\n\n2. Các quyết định, hành vi áp dụng pháp luật đã được cơ quan, người có thẩm quyền thực hiện trên cơ sở áp dụng các văn bản nêu tại Điều 1 của Nghị quyết này có giá trị pháp lý và có hiệu lực thi hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm tổ chức thực hiện",
+      "text": "Điều 3. Trách nhiệm tổ chức thực hiện\nBộ Tài chính, Bộ Giáo dục và Đào tạo có trách nhiệm chủ trì, phối hợp với các bộ, cơ quan có liên quan:\n1. Hướng dẫn tổ chức triển khai thi hành Nghị quyết này.\n2. Xây dựng, trình Chính phủ, Thủ tướng Chính phủ ban hành văn bản quy phạm pháp luật để sửa đổi, bổ sung, thay thế hoặc bãi bỏ các văn bản trong Danh mục ban hành kèm theo Nghị quyết này trước ngày 01 tháng 4 năm 2026.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 4. Hiệu lực thi hành\n1. Nghị quyết này có hiệu lực thi hành kể từ ngày 10 tháng 3 năm 2026.\n2. Trong quá trình thực hiện, trường hợp có khó khăn, vướng mắc các cơ quan, đơn vị báo cáo Bộ Tài chính, Bộ Giáo dục và Đào tạo để chủ trì, phối hợp với các bộ, ngành có liên quan hướng dẫn, xử lý hoặc trình cấp có thẩm quyền xem xét, chỉ đạo.",
+      "isImplementationClause": true
+    }
+  ]
+}

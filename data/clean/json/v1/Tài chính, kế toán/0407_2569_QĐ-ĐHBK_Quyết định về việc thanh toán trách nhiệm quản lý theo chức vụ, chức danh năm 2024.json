@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0407_2569_QĐ-ĐHBK_Quyết định về việc thanh toán trách nhiệm quản lý theo chức vụ, chức danh năm 2024.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2569/QĐ-ĐHBK",
+    "title": "Quyết định về việc thanh toán trách nhiệm quản lý theo chức vụ, chức danh năm 2024",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "26/06/2024",
+    "effectiveDate": "26/06/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành đơn giá tạm tính để thanh toán tiền trách nhiệm quản lý theo chức vụ, chức danh (theo Phụ lục III Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa) cho năm 2024 với mức 500.000 đồng/hệ số. Cuối năm tài chính, Hiệu trưởng sẽ xem xét quyết định thanh toán bổ sung tùy theo tình hình tài chính thực tế của Trường.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "5000/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế chi tiêu nội bộ;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Phòng Kế hoạch - Tài chính",
+    "Phòng Tổ chức - Hành chính"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành đơn giá tạm tính để thanh toán tiền trách nhiệm quản lý theo chức vụ, chức danh (theo Phụ lục III Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa) cho năm 2024 mức 500.000 đồng/hệ số.",
+      "text": "Điều 1. Ban hành đơn giá tạm tính để thanh toán tiền trách nhiệm quản lý theo chức vụ, chức danh (theo Phụ lục III Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa) cho năm 2024 mức 500.000 đồng/hệ số.\n\nCuối năm tài chính, căn cứ vào tình hình tài chính thực tế của Trường, Hiệu trưởng xem xét quyết định thanh toán bổ sung (nếu có).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Phòng Tổ chức - Hành chính, Phòng Kế hoạch - Tài chính lập danh sách để thanh toán theo quy định.",
+      "text": "Điều 2. Phòng Tổ chức - Hành chính, Phòng Kế hoạch - Tài chính lập danh sách để thanh toán theo quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng các đơn vị thuộc Trường Đại học Bách khoa căn cứ quyết định thi hành./.",
+      "text": "Điều 3. Quyết định có hiệu lực kể từ ngày ký. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng các đơn vị thuộc Trường Đại học Bách khoa căn cứ quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

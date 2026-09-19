@@ -1,0 +1,208 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0010_16_2015_TT-BGDĐT_Ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "16/2015/TT-BGDĐT",
+    "title": "Thông tư Ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/08/2015",
+    "effectiveDate": "28/09/2015",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Đào tạo"
+    ],
+    "summary": "Thông tư này ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy, bao gồm các quy định về nội dung, tiêu chí, thang điểm, phân loại, quy trình và tổ chức thực hiện đánh giá kết quả rèn luyện.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Nghĩa",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "75/2006/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP..."
+    },
+    {
+      "targetDocumentNumber": "31/2011/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP..."
+    },
+    {
+      "targetDocumentNumber": "07/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 1",
+      "context": "Nghị định số 07/2013/NĐ-CP ngày 09 tháng 01 năm 2013 của Chính phủ sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP..."
+    },
+    {
+      "targetDocumentNumber": "141/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "60/2007/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 9 năm 2015 và thay thế những quy định đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy tại Quyết định số 60/2007/QĐ-BGDĐT ngày 16 tháng 10 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo..."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Đoàn thanh niên",
+    "Hội sinh viên"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định việc đánh giá kết quả rèn luyện của người học được\nđào tạo trình độ đại học hệ chính quy (sau đây gọi chung là người học), bao gồm:\nĐánh giá kết quả rèn luyện và khung điểm; phân loại và quy trình đánh giá; tổ\nchức đánh giá và sử dụng kết quả; tổ chức thực hiện.\n2. Quy chế này áp dụng đối với người học được đào tạo trình độ đại học hệ chính\nquy tại các đại học, học viện, các trường đại học (sau đây gọi chung là cơ sở giáo dục).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc đánh giá kết quả rèn luyện của người học",
+          "text": "Điều 2. Nguyên tắc đánh giá kết quả rèn luyện của người học\n1. Thực hiện nghiêm túc quy trình và các tiêu chí đánh giá được quy định tại\nquy chế này; đảm bảo khách quan, công khai, công bằng, chính xác.\n2. Đảm bảo yếu tố bình đẳng, dân chủ, tôn trọng quyền làm chủ của người\nđược đánh giá.\n3. Phối hợp đồng bộ, chặt chẽ các bộ phận, các đơn vị có liên quan trong nhà\ntrường tham gia công tác đánh giá kết quả rèn luyện của người học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nội dung đánh giá và thang điểm",
+          "text": "Điều 3. Nội dung đánh giá và thang điểm\n1. Xem xét, đánh giá kết quả rèn luyện của người học là đánh giá ý thức, thái\nđộ của người học theo các mức điểm đạt được trên các mặt:\na) Ý thức tham gia học tập;\nb) Ý thức chấp hành nội quy, quy chế, quy định trong nhà trường;\nc) Ý thức tham gia các hoạt động chính trị, xã hội, văn hoá, văn nghệ, thể thao,\nphòng chống tội phạm và các tệ nạn xã hội;\nd) Ý thức công dân trong quan hệ cộng đồng;\nđ) Ý thức và kết quả tham gia công tác cán bộ lớp, các đoàn thể, tổ chức khác\ntrong cơ sở giáo dục đại học hoặc người học đạt được thành tích đặc biệt trong học\ntập, rèn luyện.\n2. Điểm rèn luyện được đánh giá bằng thang điểm 100.\n\n64\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Đánh giá về ý thức tham gia học tập",
+          "text": "Điều 4. Đánh giá về ý thức tham gia học tập\n1. Các tiêu chí để xác định điểm đánh giá:\na) Ý thức và thái độ trong học tập;\nb) Ý thức và thái độ tham gia các câu lạc bộ học thuật, các hoạt động học\nthuật, hoạt động ngoại khóa, hoạt động nghiên cứu khoa học;\nc) Ý thức và thái độ tham gia các kỳ thi, cuộc thi;\nd) Tinh thần vượt khó, phấn đấu vươn lên trong học tập;\nđ) Kết quả học tập.\n2. Khung điểm đánh giá từ 0 đến 20 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Đánh giá về ý thức chấp hành nội quy, quy chế, quy định trong",
+          "text": "Điều 5. Đánh giá về ý thức chấp hành nội quy, quy chế, quy định trong\nnhà trường\n1. Các tiêu chí để xác định điểm đánh giá:\na) Ý thức chấp hành các văn bản chỉ đạo của ngành, của cơ quan chỉ đạo cấp\ntrên được thực hiện trong cơ sở giáo dục đại học;\nb) Ý thức chấp hành các nội quy, quy chế và các quy định khác được áp dụng\ntrong cơ sở giáo dục đại học.\n2. Khung điểm đánh giá từ 0 đến 25 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Đánh giá về ý thức tham gia các hoạt động chính trị, xã hội, văn",
+          "text": "Điều 6. Đánh giá về ý thức tham gia các hoạt động chính trị, xã hội, văn\nhóa, văn nghệ, thể thao, phòng chống tội phạm và các tệ nạn xã hội\n1. Các tiêu chí để xác định điểm đánh giá:\na) Ý thức và kết quả tham gia các hoạt động rèn luyện về chính trị, xã hội,\nvăn hóa, văn nghệ, thể thao;\nb) Ý thức tham gia các hoạt động công ích, tình nguyện, công tác xã hội;\nc) Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội.\n2. Khung điểm đánh giá từ 0 đến 20 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Đánh giá về ý thức công dân trong quan hệ cộng đồng",
+          "text": "Điều 7. Đánh giá về ý thức công dân trong quan hệ cộng đồng\n1. Các tiêu chí để xác định điểm đánh giá:\na) Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính\nsách, pháp luật của Nhà nước trong cộng đồng;\nb) Ý thức tham gia các hoạt động xã hội có thành tích được ghi nhận, biểu\ndương, khen thưởng;\nc) Có tinh thần chia sẻ, giúp đỡ người thân, người có khó khăn, hoạn nạn.\n2. Khung điểm đánh giá từ 0 đến 25 điểm.\n\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015\n65",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Đánh giá về ý thức và kết quả khi tham gia công tác cán bộ lớp,",
+          "text": "Điều 8. Đánh giá về ý thức và kết quả khi tham gia công tác cán bộ lớp,\ncác đoàn thể, tổ chức trong cơ sở giáo dục đại học hoặc người học đạt được\nthành tích đặc biệt trong học tập, rèn luyện\n1. Các tiêu chí để xác định điểm đánh giá:\na) Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của người học được\nphân công nhiệm vụ quản lý lớp, các tổ chức Đảng, Đoàn thanh niên, Hội sinh viên\nvà các tổ chức khác trong cơ sở giáo dục đại học;\nb) Kỹ năng tổ chức, quản lý lớp, quản lý các tổ chức Đảng, Đoàn thanh niên,\nHội sinh viên và các tổ chức khác trong cơ sở giáo dục đại học;\nc) Hỗ trợ và tham gia tích cực vào các hoạt động chung của lớp, tập thể, khoa\nvà cơ sở giáo dục đại học;\nd) Người học đạt được các thành tích đặc biệt trong học tập, rèn luyện.\n2. Khung điểm đánh giá từ 0 đến 10 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Phân loại kết quả rèn luyện",
+          "text": "Điều 9. Phân loại kết quả rèn luyện\n1. Kết quả rèn luyện được phân thành các loại: xuất sắc, tốt, khá, trung bình,\nyếu và kém.\n2. Phân loại kết quả rèn luyện:\na) Từ 90 đến 100 điểm: loại xuất sắc;\nb) Từ 80 đến dưới 90 điểm: loại tốt;\nc) Từ 65 đến dưới 80 điểm: loại khá;\nd) Từ 50 đến dưới 65 điểm: loại trung bình;\ne) Từ 35 đến dưới 50 điểm: loại yếu;\ng) Dưới 35 điểm: loại kém.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Phân loại để đánh giá",
+          "text": "Điều 10. Phân loại để đánh giá\n1. Trong thời gian người học bị kỷ luật mức khiển trách, khi đánh giá kết quả\nrèn luyện không được vượt quá loại khá.\n2. Trong thời gian người học bị kỷ luật mức cảnh cáo, khi đánh giá kết quả rèn\nluyện không được vượt quá loại trung bình.\n3. Người học bị kỷ luật mức đình chỉ học tập không được đánh giá rèn luyện\ntrong thời gian bị đình chỉ.\n4. Người học bị kỷ luật mức buộc thôi học không được đánh giá kết quả rèn luyện.\n\n66\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015\n\n5. Người học hoàn thành chương trình học và tốt nghiệp chậm so với quy định\ncủa khóa học thì tiếp tục được đánh giá kết quả rèn luyện trong thời gian đang\nhoàn thành bổ sung chương trình học và tốt nghiệp, tùy thuộc vào nguyên nhân để\nquy định mức đánh giá rèn luyện tại kỳ bổ sung.\n6. Người học khuyết tật, tàn tật, mồ côi cả cha lẫn mẹ hoặc cha hoặc mẹ, hoàn\ncảnh gia đình đặc biệt khó khăn có xác nhận của địa phương theo quy định đối với\nnhững hoạt động rèn luyện không có khả năng tham gia hoặc đáp ứng yêu cầu\nchung thì được ưu tiên, động viên, khuyến khích, cộng điểm khi đánh giá kết quả\nrèn luyện qua sự nỗ lực và tiến bộ của người học tùy thuộc vào đối tượng và hoàn\ncảnh cụ thể.\n7. Người học nghỉ học tạm thời được bảo lưu kết quả rèn luyện sẽ được đánh\ngiá kết quả rèn luyện khi tiếp tục trở lại học tập theo quy định.\n8. Người học đồng thời học hai chương trình đào tạo sẽ được đánh giá kết quả\nrèn luyện tại đơn vị quản lý chương trình thứ nhất và lấy ý kiến nhận xét của đơn\nvị quản lý chương trình thứ hai làm căn cứ, cơ sở để đánh giá thêm. Trường hợp\nchương trình thứ nhất đã hoàn thành thì đơn vị quản lý chương trình thứ hai sẽ tiếp\ntục được đánh giá kết quả rèn luyện của người học.\n9. Người học chuyển trường được sự đồng ý của Hiệu trưởng hai cơ sở giáo\ndục đại học thì được bảo lưu kết quả rèn luyện của cơ sở giáo dục đại học cũ khi\nhọc tại cơ sở giáo dục đại học mới và tiếp tục được đánh giá kết quả rèn luyện ở\ncác học kỳ tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Quy trình đánh giá kết quả rèn luyện",
+          "text": "Điều 11. Quy trình đánh giá kết quả rèn luyện\n1. Người học căn cứ vào kết quả rèn luyện của bản thân, tự đánh giá theo mức\nđiểm chi tiết do cơ sở giáo dục đại học quy định.\n2. Tổ chức họp lớp có giáo viên chủ nhiệm/cố vấn học tập tham gia, tiến hành\nxem xét và thông qua mức điểm tự đánh giá của từng người học trên cơ sở các\nminh chứng xác nhận kết quả và phải được quá nửa ý kiến đồng ý của tập thể đơn\nvị lớp và phải có biên bản kèm theo.\nGiáo viên chủ nhiệm/cố vấn học tập xác nhận kết quả họp lớp và chuyển kết\nquả lên Hội đồng đánh giá kết quả rèn luyện của người học cấp khoa (sau đây gọi\ntắt là Hội đồng cấp khoa).\n3. Hội đồng đánh giá cấp khoa họp xét, thống nhất, báo cáo Trưởng khoa\nthông qua và trình kết quả lên Hội đồng đánh giá kết quả rèn luyện của người học\ncấp trường (sau đây gọi tắt là Hội đồng cấp trường).\n4. Hội đồng cấp trường họp xét, thống nhất trình Hiệu trưởng xem xét và quyết\nđịnh công nhận kết quả.\n5. Kết quả đánh giá, phân loại rèn luyện của người học phải được công bố\ncông khai và thông báo cho người học biết trước 20 ngày trước khi ban hành quyết\nđịnh chính thức.\n\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015\n67",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Hội đồng đánh giá kết quả rèn luyện",
+          "text": "Điều 12. Hội đồng đánh giá kết quả rèn luyện\n1. Cơ sở giáo dục đại học ban hành Quyết định thành lập Hội đồng đánh giá\nkết quả rèn luyện của người học và chấm dứt hoạt động khi Hội đồng ban hành\nQuyết định công nhận kết quả của người học chính thức.\n2. Hội đồng cấp trường\na) Thẩm quyền thành lập\nHội đồng cấp trường do Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng\nủy quyền ký Quyết định thành lập Hội đồng cấp trường;\nb) Thành phần Hội đồng cấp trường bao gồm:\n- Chủ tịch Hội đồng: Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng\nủy quyền;\n- Thường trực Hội đồng: Trưởng phòng phụ trách về công tác người học;\n- Các ủy viên: Đại diện Lãnh đạo các khoa, phòng (ban) có liên quan, đại diện\nĐoàn thanh niên và Hội sinh viên cấp trường.\nc) Nhiệm vụ của Hội đồng cấp trường:\n- Tư vấn giúp Hiệu trưởng xem xét, công nhận kết quả rèn luyện của từng học\nsinh, sinh viên và chịu sự chỉ đạo trực tiếp của Hiệu trưởng;\n- Căn cứ vào các quy định hiện hành, trên cơ sở đề nghị của các Trưởng khoa,\ntiến hành xem xét, đánh giá kết quả rèn luyện của từng khoa, đề nghị Hiệu trưởng\ncông nhận.\n3. Hội đồng cấp khoa\na) Thẩm quyền thành lập\nHội đồng cấp khoa do Trưởng khoa hoặc Phó trưởng khoa được Trưởng khoa\nủy quyền ký Quyết định thành lập Hội đồng cấp khoa;\nb) Thành phần Hội đồng cấp khoa gồm:\n- Chủ tịch Hội đồng: Trưởng khoa hoặc Phó trưởng khoa được Trưởng khoa\nủy quyền;\n- Các ủy viên: Trợ lý theo dõi công tác quản lý người học; giáo viên chủ\nnhiệm/cố vấn học tập; đại diện Liên chi đoàn thanh niên; Chi hội hoặc Liên chi\nHội sinh viên, Ban cán sự lớp.\nc) Nhiệm vụ của Hội đồng cấp khoa:\n- Có nhiệm vụ giúp Trưởng khoa xem xét, đánh giá chính xác, công bằng,\ncông khai và dân chủ kết quả rèn luyện của từng người học trong khoa;\n\n68\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Thời gian đánh giá",
+          "text": "Điều 13. Thời gian đánh giá\n1. Việc đánh giá kết quả rèn luyện của người học được tiến hành định kỳ theo\nhọc kỳ, năm học và toàn khóa học.\n2. Điểm rèn luyện của học kỳ là tổng điểm đạt được của 5 nội dung đánh giá\nchi tiết của trường.\n3. Điểm rèn luyện của năm học là trung bình cộng của điểm rèn luyện các học\nkỳ của năm học đó.\n4. Điểm rèn luyện toàn khóa học là trung bình cộng của điểm rèn luyện các\nhọc kỳ của khóa học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Sử dụng kết quả",
+          "text": "Điều 14. Sử dụng kết quả\n1. Kết quả đánh giá rèn luyện từng học kỳ, năm học của người học được lưu\ntrong hồ sơ quản lý người học của trường, được sử dụng trong việc xét duyệt học\nbổng, xét khen thưởng - kỷ luật, xét thôi học, ngừng học, xét lưu trú ký túc xá, xét\ngiải quyết việc làm thêm, xét miễn giảm chi phí, dịch vụ và sinh hoạt trong ký túc\nxá và các ưu tiên khác tùy theo quy định của cơ sở giáo dục đại học.\n2. Kết quả đánh giá rèn luyện toàn khóa học của người học được lưu trong hồ\nsơ quản lý người học của cơ sở giáo dục đại học, làm căn cứ để xét thi tốt nghiệp,\nlàm luận văn hoặc khóa luận tốt nghiệp.\n3. Kết quả đánh giá rèn luyện toàn khóa học được ghi chung vào bảng điểm\nkết quả học tập và lưu trong hồ sơ của người học khi tốt nghiệp ra trường.\n4. Người học có kết quả rèn luyện xuất sắc được cơ sở giáo dục đại học xem\nxét biểu dương, khen thưởng.\n5. Người học bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải\ntạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn luyện\nyếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Quyền khiếu nại",
+          "text": "Điều 15. Quyền khiếu nại\nNgười học có quyền khiếu nại lên các phòng, ban chức năng hoặc Hiệu trưởng\nnếu thấy việc đánh giá kết quả rèn luyện chưa chính xác. Khi nhận được đơn khiếu\nnại, cơ sở giáo dục đại học có trách nhiệm giải quyết, trả lời theo quy định của\npháp luật về khiếu nại.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 16. Tổ chức thực hiện\n1. Hiệu trưởng các cơ sở giáo dục đại học ban hành văn bản hướng dẫn chi tiết\nviệc thực hiện Quy chế này; Hàng năm, kiểm tra, đánh giá và sửa đổi bổ sung kịp thời\ncho phù hợp với điều kiện, phạm vi của nhà trường, ngành học và địa phương.\n\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015\n69\n\n2. Văn bản hướng dẫn thực hiện của các cơ sở giáo dục đại học phải quy định\nrõ trách nhiệm, quyền hạn, chức năng của hội đồng đánh giá, trách nhiệm của các\nphòng, ban, khoa, lớp, giáo viên chủ nhiệm/cố vấn học tập và trách nhiệm của\nngười học trong nhà trường; thể hiện rõ, chi tiết các nội dung, tiêu chí, thang điểm\nvà hình thức đánh giá, đối tượng đánh giá phù hợp theo từng năm, phù hợp với đặc\nthù và điều kiện thực tiễn nhà trường, phù hợp với các nội dung đánh giá theo\nkhung điểm quy định của Quy chế này.\n3. Kết thúc năm học, cơ sở giáo dục đại học đánh giá, tổng kết và báo cáo\ncông tác thực hiện Quy chế này về Bộ Giáo dục và Đào tạo và cơ quan quản lý\ntrực tiếp./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Thông tư này Quy chế đánh giá kết quả rèn luyện",
+      "text": "Điều 1. Ban hành kèm theo Thông tư này Quy chế đánh giá kết quả rèn luyện\ncủa người học được đào tạo trình độ đại học hệ chính quy.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 9 năm 2015 và",
+      "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 9 năm 2015 và\nthay thế những quy định đánh giá kết quả rèn luyện của người học được đào tạo\ntrình độ đại học hệ chính quy tại Quyết định số 60/2007/QĐ-BGDĐT ngày 16\n\n62\nCÔNG BÁO/Số 957 + 958/Ngày 30-8-2015\n\ntháng 10 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh\ngiá kết quả rèn luyện của học sinh, sinh viên các cơ sở giáo dục đại học và trường\ntrung cấp chuyên nghiệp hệ chính quy.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên, Thủ",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên, Thủ\ntrưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Giám đốc các đại học,\nhọc viện, Hiệu trưởng các trường đại học chịu trách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

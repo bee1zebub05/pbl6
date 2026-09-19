@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0141_01_2017_QĐ-TTg_Quyết định 01_2017_QĐ-TTg Danh mục giáo dục, đào tạo của hệ thống giáo dục quố.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "01/2017/QĐ-TTg",
+    "title": "Quyết định Ban hành Danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "17/01/2017",
+    "effectiveDate": "05/03/2017",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Thủ tướng Chính phủ ban hành Quyết định phê duyệt Danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân bao gồm cấp I, cấp II và cấp III, đồng thời phân công nhiệm vụ cho các Bộ liên quan trong việc theo dõi, cập nhật và hướng dẫn thực hiện.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Xuân Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "38/2009/QĐ-TTg",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực thi hành kể từ ngày 05 tháng 3 năm 2017; thay thế Quyết định số 38/2009/QĐ-TTg ngày 09 tháng 3 năm 2009 của Thủ tướng Chính phủ về việc ban hành Bảng danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân."
+    }
+  ],
+  "mentions": [
+    "Bộ Kế hoạch và Đầu tư",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Lao động - Thương binh và Xã hội"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân cấp I, cấp II và cấp III:",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân cấp I, cấp II và cấp III:\n- Cấp I: Trình độ giáo dục, đào tạo;\n- Cấp II: Lĩnh vực giáo dục, đào tạo;\n- Cấp III: Nhóm chương trình, nhóm ngành, nhóm nghề giáo dục, đào tạo.\nPhụ lục chi tiết kèm theo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Phân công nhiệm vụ:",
+      "text": "Điều 2. Phân công nhiệm vụ:\n1. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội theo dõi, cập nhật và hướng dẫn Danh mục giáo dục, đào tạo cấp I, cấp II và cấp III.\n2. Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội theo chức năng, nhiệm vụ chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư ban hành, cập nhật và hướng dẫn Danh mục giáo dục, đào tạo cấp IV phù hợp với yêu cầu quản lý giáo dục, đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày 05 tháng 3 năm 2017; thay thế Quyết định số 38/2009/QĐ-TTg ngày 09 tháng 3 năm 2009 của Thủ tướng Chính phủ về việc ban hành Bảng danh mục giáo dục, đào ",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày 05 tháng 3 năm 2017; thay thế Quyết định số 38/2009/QĐ-TTg ngày 09 tháng 3 năm 2009 của Thủ tướng Chính phủ về việc ban hành Bảng danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 4. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

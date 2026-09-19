@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Học liệu, truyền thông/0157_4653_QĐ-ĐHĐN_Quyết định 4653_QĐ-ĐHĐN Quy định phát ngôn và cung cấp thông tin cho báo chí của Đ.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4653/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định phát ngôn và cung cấp thông tin cho báo chí của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "23/12/2020",
+    "effectiveDate": "23/12/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Học liệu, truyền thông",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định phát ngôn và cung cấp thông tin cho báo chí của Đại học Đà Nẵng, quy định về người phát ngôn, hình thức, chế độ phát ngôn định kỳ và đột xuất, quyền và trách nhiệm của người phát ngôn cũng như các đơn vị liên quan.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "5878/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này thay thế Quyết định số 5878/QĐ-ĐHĐN ngày 27/9/2013 của Giám đốc Đại học Đà Nẵng ban hành quy chế phát ngôn và cung cấp thông tin cho báo chí của Đại học Đà Nẵng:"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "UBND TP Đà Nẵng",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định phát ngôn và cung cấp thông tin cho báo chí của Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy định này quy định về chế độ phát ngôn và cung cấp thông tin cho\nbáo chí của Đại học Đà Nẵng (ĐHĐN) theo các quy định của pháp luật về báo chí\nhiện hành.\n2. Quy định này được áp dụng đối với các trường đại học thành viên; đơn\nvị thuộc và trực thuộc và các cá nhân có liên quan đến việc cung cấp thông tin cho\nbáo chí. #IHỌ(",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Người phát ngôn và cung cấp thông tin cho báo chí NĂNI",
+          "text": "Điều 2. Người phát ngôn và cung cấp thông tin cho báo chí NĂNI\n1 Người phát ngôn và cung cấp thông tin chính thức cho báo chí của\nĐHĐN gồm:\na) Giám đốc;\nb) Giám đốc ủy quyền cho các cá nhân (sau đây được gọi là Người được ủy\nquyền phát ngôn):\nPhó Giám đốc phát ngôn theo lĩnh vực được phân công tham mưu; quản\nlý; trường hợp cần thiết trao đổi, xin ý kiến Giám đốc thống nhất nội dung phát\nngôn hoặc cung cấp thông tin cho báo chí.\nChánh Văn phòng, Trưởng các ban chức năng thuộc ĐHĐN phát ngôn\ntheo mảng công tác được phân công tham mưu, quản lý và có trách nhiệm:\n+ Tham mưu cho Ban Giám đốc về các nội dung cần cung cấp thông tin\ncho báo chí và chịu trách nhiệm về nội dung cung cấp;\nBáo cáo, trao đổi, xin ý kiến Giám đốc hoặc Phó Giám đốc phụ trách\nmảng công tác được ủy quyền thống nhất nội dung trước khi phát ngôn hoặc cung\ncấp thông tin cho báo chí.\n2. Người được ủy quyền phát ngôn quy định tại điểm b, Khoản 1, Điều này\nkhông được ủy quyền tiếp cho người khác.\n3. Hiệu trưởng các trường đại học thành viên, Giám đốc Phân hiệu ĐHĐN\ntại Kon Tum, Viện trưởng Viện Nghiên cứu và Đào tạo Việt Anh, thủ trưởng\ncác đơn vị trực thuộc có trách nhiệm phát ngôn và cung cấp thông tin chính thức\ncho báo chí đối với các nội dung liên quan đến hoạt động của đơn vị hoặc ủy\nquyền bằng văn bản cho các cá nhân thực hiện việc phát ngôn và cung cấp thông\ntin cho báo chí theo quy định của pháp luật và của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Hình thức phát ngôn và cung cấp thông tin cho báo chí",
+          "text": "Điều 3. Hình thức phát ngôn và cung cấp thông tin cho báo chí\n1. Tổ chức họp báo, gặp mặt báo chí hoặc trao đổi thông tin với báo chí.\n2. Đăng tải nội dung phát ngôn và cung cấp thông tin trên trang thông tin\nđiện tử của ĐHĐN hoặc của các đơn vị trừ những nội dung được đăng tải trên\nchuyên mục được phân cấp cho các đơn vị\n3. Phát ngôn trực tiếp hoặc trả lời phỏng vấn của các báo; đài.\n4. Gửi thông cáo báo chí, nội dung trả lời cho cơ quan báo chí, nhà báo;\nphóng viên bằng văn bản hoặc qua thư điện tử.\n5. Cung cấp thông tin qua trao đổi trực tiếp hoặc tại các cuộc họp.\n6. Ban hành văn bản đề nghị cơ quan báo chí đăng; phát phản hồi, cải chính,\nxin lỗi nội dung thông tin trên báo chí mà báo chí đã đăng không chính xác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Phát ngôn và cung cấp thông tin định kỳ",
+          "text": "Điều 4. Phát ngôn và cung cấp thông tin định kỳ\n1. Định kỳ hàng năm Giám đốc ĐHĐN chủ trì tổ chức cung cấp thông tin\ncho báo chí về các nội dung liên quan đến các mảng công tác trọng tâm của ĐHĐN\nbằng một trong các hình thức quy định tại Điều 3 Quy chế này. Trường hợp tổ\nchức họp báo sẽ thực hiện theo quy định hiện hành.\n2. Trung tâm Thông tin Học liệu và Truyền thông ĐHĐN phối hợp với các\nđơn vị có liên quan chuẩn bị nội dung cung cấp thông tin cho báo chí. Nội dung\ncung cấp thông tin cho báo chí phải trình lãnh đạo ĐHĐN duyệt trước khi công bố.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Phát ngôn và cung cấp thông tin trong trường hợp đột xuất,",
+          "text": "Điều 5. Phát ngôn và cung cấp thông tin trong trường hợp đột xuất,\nbất thường\n1 Người phát ngôn hoặc Người được ủy quyền phát ngôn có trách nhiệm\nphát ngôn và cung cấp thông tin chính xác; kịp thời cho báo chí trong các trường\nhợp đột xuất; bất thường sau đây:\na) Khi cần thiết phải thông tin trên báo chí về các nội dung quan trọng; có\ntác động lớn trong xã hội hoặc có ảnh hưởng đến ĐHĐN cũng như các trường đại\nhọc thành viên, đơn vị thuộc và trực thuộc nhằm kịp thời cung cấp thông tin chính\nthống và định hướng dư luận xã hội.\nb) Khi cơ quan báo chí có văn bản hoặc phản ánh trên báo chí đề nghị\nĐHĐN hoặc các trường đại học thành viên; đơn vị thuộc và trực thuộc phát ngôn\nhoặc cung cấp thông tin; trả lời báo chí về các nội dung thuộc phạm vi quản lý\ncủa đơn vị mình.\nc) Khi có căn cứ, cơ sở về việc báo chí đăng tải, phát thông tin không đúng\nsự thật về ĐHĐN hoặc các trường đại học thành viên; đơn vị thuộc và trực thuộc\ncũng như các vấn đề liên quan thuộc phạm vi quản lý, Người phát ngôn hoặc\nNgười được ủy quyền phát ngôn có thể yêu cầu cơ quan báo chí đăng tải thông\ntin phản hồi, cải chính theo quy định của Luật Báo chí.\n\n2. Việc tổ chức phát ngôn và cung cấp thông tin cho báo chí trong trường\nhợp đột xuất; bất thường được thực hiện thông qua một hoặc một số hình thức sau:\na) Thông tin trên trang thông tin điện tử của ĐHĐN.\nb) Tổ chức họp báo.\nc) Thông tin bằng văn bản hoặc trả lời phỏng vấn cho cơ quan báo chí.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quyền và trách nhiệm của Người phát ngôn, Người được uỷ",
+          "text": "Điều 6. Quyền và trách nhiệm của Người phát ngôn, Người được uỷ\nquyền phát ngôn\n1 Người phát ngôn; Người được ủy quyền phát ngôn được đại diện cho\nĐHĐN thực hiện phát ngôn và cung cấp thông tin cho báo chí.\n2. Người phát ngôn; Người được ủy quyền phát ngôn có quyền yêu cầu các\nđơn vị, cá nhân có liên quan thuộc ĐHĐN cung cấp thông tin; tập hợp thông tin\nđể phát ngôn; cung cấp thông tin cho báo chí theo quy định.\n3 Người phát ngôn; Người được ủy quyền phát ngôn có trách nhiệm từ\nchối, không phát ngôn và cung cấp thông tin cho báo chí trong các trường hợp cụ\nthể quy định tại Khoản 2 Điều 38 Luật báo chí ngày 05/4/2016.\n4. Người phát ngôn; Người được ủy quyền phát ngôn chịu trách nhiệm trước\nGiám đốc ĐHĐN, trước pháp luật về nội dung phát ngôn và cung cấp thông tin\ncho báo chí.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Trách nhiệm của các đơn vị trong việc phát ngôn và cung cấp",
+          "text": "Điều 7. Trách nhiệm của các đơn vị trong việc phát ngôn và cung cấp\nthông tin cho báo chí\n1. Trách nhiệm của Trung tâm Thông tin Học liệu và Truyền thông ĐHĐN\na) Là đơn vị đầu mối đôn đốc, tham mưu, tư vấn cho các trường đại học\nthành viên, đơn vị thuộc và trực thuộc thực hiện Kế hoạch truyền thông\nb) Theo dõi, tổng hợp thông tin trên các phương tiện thông tin đại chúng và\ndư luận xã hội liên quan tới các lĩnh vực, hoạt động thuộc chức năng quản lý của\nĐHĐN và báo cáo Giám đốc ĐHĐN xem xét, xử lý .\nc) Phối hợp với Văn phòng và các đơn vị có liên quan tổ chức các hình thức\nphát ngôn; cung cấp thông tin cho báo chí.\nd) Phối hợp với Văn phòng, các ban chức năng liên quan chuẩn bị, tham\nmưu nội dung cần phát ngôn; cung cấp thông tin cho báo chí khi được Giám đốc\nĐHĐN hoặc Người được ủy quyền phân công; giao nhiệm vụ.\nPhối hợp với các cơ quan báo; đài để đăng tải thông tin cần cung cấp\nhoặc cải chính đảm bảo tính chính xác, kịp thời.\n2. Trách nhiệm của Ban Tổ chức Cán bộ ĐHĐN\nTham mưu, phối hợp với các đơn vị liên quan trong việc xem xét; đánh giá,\nđề nghị khen thưởng đối với việc thực hiện tốt hoặc xem xét kỷ luật đối với việc\nvi phạm Quy định phát ngôn và cung cấp thông tin cho báo chí của ĐHĐN.\n3. Trách nhiệm của Ban Thanh tra Pháp chế ĐHĐN\nPhối hợp với các đơn vị liên quan rà soát nội dung phát ngôn; thông tin\ncung cấp cho báo chí, đảm bảo thực hiện đúng các quy định của pháp luật hiện\n\nhành để tham mưu cho Người phát ngôn hoặc Người được ủy quyền phát ngôn;\nvề nội dung phát ngôn; thông tin cung cấp cho báo chí\n4. Trách nhiệm của Văn phòng ĐHĐN\na) Phối hợp với Trung tâm Thông tin Học liệu và Truyền thông ĐHĐN\ntrong việc:\nChuẩn bị các nội dung cung cấp thông tin cho báo chí khi tổ chức các sự\nkiện cấp ĐHĐN;\nXử lý những thông tin báo chí viết về ĐHĐN: yêu cầu cơ quan báo chí\ncải chính về việc đăng tải thông tin sai sự thật về ĐHĐN theo quy định của pháp\nluật về báo chí; đồng thời phối hợp với các trường đại học thành viên, các đơn vị\nthuộc và trực thuộc ĐHĐN chỉ đạo, định hướng nội dung thông tin cho báo chí;\nĐăng tải thông tin trên trang thông tin điện tử của ĐHĐN theo quy định\nhiện hành.\n5. Trách nhiệm của các ban chức năng khác thuộc ĐHĐN\nCác ban chức năng tùy theo chức năng, nhiệm vụ được giao có trách nhiệm\nphối hợp với các đơn vị liên quan tham mưu; chuẩn bị nội dung phát ngôn; thông\ntin cung cấp cho báo chí, để Người phát ngôn; Người được ủy quyền phát ngôn\nthực hiện cung cấp thông tin cho cơ quan báo chí theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Chế độ báo cáo",
+          "text": "Điều 8. Chế độ báo cáo\nĐịnh kỳ hàng năm, các trường ĐHTV, các đơn vị thuộc và trực thuộc\nĐHĐN gửi báo cáo kết quả thực hiện quy định về việc phát ngôn và cung cấp\nthông tin cho báo chí về ĐHĐN (qua Trung tâm Thông tin học liệu và Truyền\nthông ĐHĐN) trước ngày 30 tháng 12 để theo dõi, tổng hợp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 9. Tổ chức thực hiện\nHiệu trưởng các trường ĐHTV, thủ trưởng các đơn vị thuộc và trực thuộc\ncó trách nhiệm tổ chức thực hiện và phổ biến Quy chế này đến toàn thể cán bộ\nviên chức, người lao động của đơn vị.\n2. Trong quá trình thực hiện, nếu có vấn đề phát sinh hoặc vướng mắc, Hiệu\ntrưởng các trường ĐHTV, thủ trưởng các đơn vị thuộc và trực thuộc có trách\nnhiệm phản ánh về ĐHĐN (qua Văn phòng ĐHĐN) để kịp thời báo cáo Giám đốc\nĐHĐN xem xét, điều chỉnh phù hợp./\nGIÁM ĐỐC ĐHĐN\nĐẠI HỌC\nĐÀ NẴNG\nPGS.TS. Nguyễn Ngọc Vũ",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định phát ngôn và cung",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định phát ngôn và cung\ncấp thông tin cho báo chí của Đại học Đà Nẵng:",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.\nQuyết định này thay thế Quyết định số 5878/QĐ-ĐHĐN ngày 27/9/2013\ncủa Giám đốc Đại học Đà Nẵng ban hành quy chế phát ngôn và cung cấp thông\ntin cho báo chí của Đại học Đà Nẵng:",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng; Hiệu trưởng các trường đại học thành viên; Thủ",
+      "text": "Điều 3. Chánh Văn phòng; Hiệu trưởng các trường đại học thành viên; Thủ\ntrưởng các đơn vị thuộc và trực thuộc và các cá nhân có liên quan chịu trách nhiệm\nthi hành Quyết định này.",
+      "isImplementationClause": false
+    }
+  ]
+}

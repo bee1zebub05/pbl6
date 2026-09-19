@@ -1,0 +1,221 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0168_NQ08_NQ-HĐĐH_Quyết định NQ08_NQ-HĐĐH Quy chế hoạt động của Hội đồng Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "18 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "08/NQ-HĐĐH",
+    "title": "Nghị quyết Ban hành Quy chế hoạt động của Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026",
+    "documentType": "Nghị quyết",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/01/2022",
+    "effectiveDate": "28/01/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị quyết ban hành Quy chế hoạt động của Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026, quy định về trách nhiệm, quyền hạn, tổ chức và hoạt động của Hội đồng Đại học Đà Nẵng cũng như mối quan hệ công tác với các đơn vị liên quan.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phan Minh Đức",
+      "academicTitle": null,
+      "position": [
+        "Chủ tịch"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "996/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 996/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026 và Quyết định số 998/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Chủ tịch Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026;"
+    },
+    {
+      "targetDocumentNumber": "998/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 996/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026 và Quyết định số 998/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Chủ tịch Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026;"
+    },
+    {
+      "targetDocumentNumber": "13-QC/ĐU",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quy chế làm việc của Ban Chấp hành Đảng bộ Đại học Đà Nẵng khóa VI, nhiệm kỳ 2020-2025 (Quy chế số 13-QC/ĐU ngày 11 tháng 9 năm 2020);"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2270/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thành viên Hội đồng ĐHĐN là đại diện Bộ Giáo dục và Đào tạo thực hiện nhiệm vụ và quyền hạn theo Quyết định số 2270/QĐ-BGDĐT ngày 07/8/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về quy định hoạt động của công chức đại diện Bộ Giáo dục và Đào tạo tham gia hội đồng trường tại cơ sở giáo dục đại học công lập trực thuộc Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đảng ủy ĐHĐN",
+    "Ban Giám đốc ĐHĐN",
+    "Công đoàn",
+    "Hội CCB",
+    "Đoàn TN",
+    "Hội SV ĐHĐN",
+    "Hội đồng trường các trường ĐHTV",
+    "Khoa Giáo dục Thể chất",
+    "Viện Nghiên cứu và Đào tạo Việt Anh",
+    "Khoa Y Dược",
+    "Phân hiệu ĐHĐN tại Kon Tum"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế hoạt động của Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh",
+          "text": "Điều 1. Phạm vi điều chỉnh\nQuy chế này quy định về trách nhiệm, quyền hạn, tổ chức và hoạt động của\nHội đồng Đại học Đà Nẵng (ĐHĐN); mối quan hệ công tác giữa Hội đồng ĐHĐN\nvới Đảng ủy ĐHĐN, Giám đốc ĐHĐN, Hội đồng trường các trường đại học thành\nviên ĐHĐN và các tổ chức đoàn thể, đơn vị trong ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Trách nhiệm và quyền hạn của Hội đồng Đại học Đà Nẵng",
+          "text": "Điều 2. Trách nhiệm và quyền hạn của Hội đồng Đại học Đà Nẵng\n1. Hội đồng ĐHĐN có trách nhiệm và quyền hạn theo quy định của Luật\nGiáo dục đại học năm 2012; Luật sửa đổi, bổ sung một số điều của Luật Giáo dục\nđại học năm 2018; Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ\nquy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một\nsố điều của Luật Giáo dục đại học; Thông tư số 10/2020/TT-BGDĐT ngày\n14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ\nchức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;\nNghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN về việc ban\nhành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH\nngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của\nQuy chế tổ chức và hoạt động của ĐHĐN. Cụ thể như sau:\na) Quyết định về cơ cấu tổ chức, đơn vị thành viên của ĐHĐN; tiêu chuẩn\nChủ tịch Hội đồng ĐHĐN, Phó Chủ tịch Hội đồng ĐHĐN, thành viên Hội đồng\nĐHĐN; tiêu chuẩn Giám đốc ĐHĐN, Phó Giám đốc ĐHĐN; quyết định và trình\ncơ quan có thẩm quyền ra quyết định công nhận, bãi nhiệm, miễn nhiệm Giám\nđốc ĐHĐN; bổ nhiệm, bãi nhiệm, miễn nhiệm Phó Giám đốc ĐHĐN trên cơ sở\nđề xuất của Giám đốc ĐHĐN; quyết định công nhận, miễn nhiệm, bãi nhiệm Chủ\ntịch Hội đồng trường, Hiệu trưởng các trường đại học thành viên; tổ chức đánh\ngiá hiệu quả hoạt động hằng năm của Chủ tịch Hội đồng ĐHĐN, Giám đốc\nĐHĐN, Chủ tịch Hội đồng trường các trường đại học thành viên; bỏ phiếu tín\nnhiệm đối với Chủ tịch Hội đồng ĐHĐN, Giám đốc ĐHĐN vào giữa nhiệm kỳ\nhoặc đột xuất.\n\n2\nb) Ban hành quy chế tổ chức và hoạt động, quy chế tài chính, quy chế dân\nchủ trong hoạt động của ĐHĐN và các quy định khác theo quy định của pháp luật.\nc) Quyết định về chiến lược, kế hoạch phát triển, kế hoạch hằng năm của\nĐHĐN, việc kết nạp thành viên mới, tổ chức lại ĐHĐN theo quy định của pháp\nluật.\nd) Quyết định về phương hướng đào tạo, hoạt động khoa học và công nghệ,\nhợp tác quốc tế, đảm bảo chất lượng giáo dục của ĐHĐN.\nđ) Quyết định chính sách đầu tư, xây dựng cơ sở vật chất, nguồn lực dùng\nchung trong ĐHĐN; chính sách huy động các nguồn vốn đầu tư xây dựng phát\ntriển ĐHĐN; quyết định chủ trương đầu tư, sử dụng tài sản có giá trị lớn thuộc\nthẩm quyền của ĐHĐN theo các quy định hiện hành; quy định chính sách tiền\nlương, thưởng và các quyền lợi khác của các chức danh quản lý các đơn vị thuộc,\ntrực thuộc ĐHĐN theo kết quả, hiệu quả công việc; quy định chính sách học phí,\nhỗ trợ người học; phê duyệt kế hoạch tài chính, thông qua báo cáo tài chính hằng\nnăm, thông qua quyết toán kinh phí đối với các nguồn thu hợp pháp của ĐHĐN.\ne) Giám sát việc thực hiện các Nghị quyết của Hội đồng ĐHĐN; việc thực\nhiện Quy chế dân chủ trong hoạt động của ĐHĐN và trách nhiệm giải trình của\nGiám đốc ĐHĐN, việc quản lý, sử dụng tài chính, tài sản của ĐHĐN. Báo cáo\nhằng năm về kết quả giám sát và kết quả hoạt động của Hội đồng ĐHĐN.\ng) Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật, cơ quan quản lý có\nthẩm quyền và các bên liên quan về các quyết định của Hội đồng ĐHĐN; thực\nhiện công khai minh bạch thông tin, chế độ báo cáo; chịu sự thanh tra, kiểm tra\ncủa cơ quan có thẩm quyền; thực hiện trách nhiệm giải trình trong phạm vi trách\nnhiệm và quyền hạn của Hội đồng ĐHĐN; chịu sự giám sát của xã hội và các tổ\nchức, cá nhân trong ĐHĐN.\nh) Thực hiện trách nhiệm và quyền hạn khác theo quy định của pháp luật\ncó liên quan.\n2. Các thành viên Hội đồng ĐHĐN\na) Có trách nhiệm thực hiện các chủ trương, đường lối của Đảng, chính\nsách pháp luật của Nhà nước; thực hiện nhiệm vụ do Chủ tịch Hội đồng ĐHĐN\nphân công và các nhiệm vụ khác theo quy định của pháp luật và Quy chế tổ chức\nvà hoạt động của ĐHĐN; chịu trách nhiệm trước pháp luật và Hội đồng ĐHĐN\nvề công tác được phân công.\nb) Có trách nhiệm đề xuất ý tưởng, tham gia xây dựng các chủ trương, chiến\nlược, chính sách phát triển ĐHĐN, xây dựng các quy định, quy chế, chương trình\ncông tác, kế hoạch hoạt động, các nghị quyết và các văn bản khác thuộc thẩm\nquyền ban hành của Hội đồng ĐHĐN.\n\n3\nc) Có trách nhiệm tham gia đầy đủ các phiên họp Hội đồng ĐHĐN, thảo\nluận và biểu quyết các nội dung họp.\nd) Có trách nhiệm thực hiện các Nghị quyết, Kế hoạch công tác của Hội\nđồng ĐHĐN; thực hiện công tác báo cáo với Hội đồng về nhiệm vụ được phân\ncông.\nđ) Giám sát việc thực hiện các Nghị quyết, Kế hoạch công tác của Hội đồng\nĐHĐN.\ne) Được cấp văn phòng phẩm, hỗ trợ cước thông tin liên lạc phục vụ hoạt\nđộng của Hội đồng ĐHĐN; chi phí đi lại, lưu trú (đối với thành viên ở ngoài thành\nphố Đà Nẵng) và các khoản phụ cấp khác theo Quy chế chi tiêu nội bộ của ĐHĐN.\ng) Được cung cấp thông tin liên quan đến ĐHĐN, Hội đồng ĐHĐN.\nh) Thành viên Hội đồng ĐHĐN là đại diện Bộ Giáo dục và Đào tạo thực\nhiện nhiệm vụ và quyền hạn theo Quyết định số 2270/QĐ-BGDĐT ngày\n07/8/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về quy định hoạt động của công\nchức đại diện Bộ Giáo dục và Đào tạo tham gia hội đồng trường tại cơ sở giáo\ndục đại học công lập trực thuộc Bộ Giáo dục và Đào tạo.\n3. Thường trực Hội đồng ĐHĐN\na) Thường trực Hội đồng ĐHĐN gồm Chủ tịch Hội đồng ĐHĐN, Giám\nđốc ĐHĐN, các Phó Chủ tịch Hội đồng ĐHĐN (nếu có) và Thư ký Hội đồng\nĐHĐN.\nb) Trách nhiệm và quyền hạn của Thường trực Hội đồng ĐHĐN:\nCó trách nhiệm giải quyết công việc của Hội đồng ĐHĐN giữa hai kỳ\nhọp, giúp Hội đồng ĐHĐN chuẩn bị, tổ chức và đảm bảo duy trì các hoạt động\nthường xuyên hoặc đột xuất của Hội đồng;\nCó trách nhiệm xây dựng các báo cáo, dự thảo nghị quyết, kế hoạch,\nchương trình công tác, chương trình giám sát trình Hội đồng ĐHĐN quyết định;\nxây dựng kế hoạch và chương trình họp Hội đồng ĐHĐN, chuẩn bị hồ sơ tài liệu\nvà đảm bảo điều kiện cơ sở vật chất cho việc tổ chức các cuộc họp của Hội đồng\nĐHĐN.\nc) Hội đồng ĐHĐN ủy quyền cho Thường trực Hội đồng ĐHĐN và Ban\nGiám đốc ĐHĐN thông qua kế hoạch đầu tư mua sắm, sửa chữa; đề án sử dụng\ntài sản công vào mục đích kinh doanh, liên doanh, liên kết và cho thuê; đề án,\ndanh mục vị trí việc làm; Quy chế tổ chức và hoạt động hoặc Quy định chức năng,\nnhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị thuộc, trực thuộc ĐHĐN;\nquyết định chủ trương mở ngành đào tạo cho các đơn vị: Khoa Giáo dục Thể chất,\nViện Nghiên cứu và Đào tạo Việt Anh, Khoa Y Dược, Phân hiệu ĐHĐN tại Kon\n\n4\nTum và các đơn vị thuộc và trực thuộc ĐHĐN khác có chức năng đào tạo trình\nđộ đại học (nếu có).\nCó trách nhiệm thực hiện các nhiệm vụ khác giữa hai kỳ họp của Hội đồng\nĐHĐN được Hội đồng ĐHĐN thống nhất ủy quyền theo Nghị quyết phiên họp;\nThường trực Hội đồng ĐHĐN có trách nhiệm báo cáo công việc thực\nhiện được ủy quyền nêu trên cho Hội đồng ĐHĐN ở phiên họp gần nhất của Hội\nđồng.\nd) Thường trực Hội đồng ĐHĐN được đảm bảo các điều kiện làm việc\ncần thiết theo chế độ quy định để thực hiện nhiệm vụ.\n4. Chủ tịch Hội đồng ĐHĐN\na) Chỉ đạo, điều hành mọi hoạt động của Hội đồng ĐHĐN theo quy định\ncủa Quy chế tổ chức và hoạt động của ĐHĐN và theo quy định của pháp luật.\nb) Tổ chức thực hiện trách nhiệm, quyền hạn của Hội đồng ĐHĐN được\nquy định tại Điều 2 của Quy chế này.\nc) Tổ chức xây dựng quy chế hoạt động của Hội đồng ĐHĐN; chỉ đạo, tổ\nchức xây dựng chương trình, kế hoạch hoạt động của Hội đồng ĐHĐN hằng năm.\nd) Chỉ đạo tổ chức, triệu tập và chủ trì các phiên họp của Hội đồng ĐHĐN,\nThường trực Hội đồng ĐHĐN.\nđ) Chỉ đạo xây dựng kế hoạch và triển khai giám sát việc thực hiện các\nNghị quyết của Hội đồng ĐHĐN.\ne) Thay mặt Hội đồng ĐHĐN ký các văn bản thuộc thẩm quyền ban hành\ncủa Hội đồng ĐHĐN.\ng) Khi cần thiết, ủy quyền cho Phó Chủ tịch Hội đồng ĐHĐN hoặc thành\nviên khác của Hội đồng ĐHĐN theo Quy chế tổ chức và hoạt động của ĐHĐN.\nh) Chỉ đạo công tác thông tin trong Hội đồng ĐHĐN; là người đại diện và\nphát ngôn chính thức liên quan đến các hoạt động của Hội đồng ĐHĐN.\ni) Có quyền tham dự các cuộc họp giao ban của ĐHĐN; tham gia Hội đồng\nKhoa học và Đào tạo ĐHĐN; một số Hội đồng tư vấn có liên quan trách nhiệm\ncủa Hội đồng ĐHĐN; tham dự các hoạt động đối nội, đối ngoại của ĐHĐN để\nđảm bảo thực hiện chức năng giám sát của Hội đồng ĐHĐN.\nk) Chịu trách nhiệm trước pháp luật và Hội đồng ĐHĐN về việc thực hiện\nnhiệm vụ của mình.\n5. Phó Chủ tịch Hội đồng ĐHĐN (nếu có)\nPhó Chủ tịch Hội đồng ĐHĐN có trách nhiệm và quyền hạn theo quy định\ntại Quy chế tổ chức và hoạt động của ĐHĐN, cụ thể như sau:\n\n5\na) Thực hiện các nhiệm vụ của thành viên Hội đồng ĐHĐN; thực hiện các\nnhiệm vụ của Hội đồng ĐHĐN theo phân công hoặc ủy quyền của Chủ tịch Hội\nđồng ĐHĐN.\nb) Thay mặt Chủ tịch Hội đồng ĐHĐN giải quyết các công việc của Hội\nđồng ĐHĐN hoặc chủ trì các phiên họp của Hội đồng ĐHĐN hoặc ký các văn\nbản thuộc thẩm quyền ban hành của Hội đồng ĐHĐN khi được Chủ tịch Hội đồng\nĐHĐN giao nhiệm vụ, ủy quyền.\nc) Chịu trách nhiệm trước pháp luật, Chủ tịch Hội đồng ĐHĐN và Hội đồng\nĐHĐN về các công việc và lĩnh vực được phân công.\n6. Thư ký Hội đồng ĐHĐN\nThư ký Hội đồng ĐHĐN có trách nhiệm và quyền hạn theo quy định tại\nQuy chế tổ chức và hoạt động của ĐHĐN, cụ thể như sau:\na) Tổng hợp thông tin về các hoạt động của Hội đồng ĐHĐN để báo cáo\nkịp thời với Chủ tịch và Phó Chủ tịch Hội đồng ĐHĐN.\nb) Là đầu mối thông tin giữa Hội đồng ĐHĐN và các tổ chức, cá nhân bên\ntrong và bên ngoài Hội đồng ĐHĐN.\nc) Chuẩn bị chương trình, nội dung, tài liệu cho các phiên họp; làm thư ký\ncác cuộc họp của Hội đồng ĐHĐN và Thường trực Hội đồng ĐHĐN.\nd) Xây dựng, hoàn chỉnh, lưu trữ các văn bản của Hội đồng ĐHĐN.\nđ) Chuẩn bị các báo cáo, giải trình với các cơ quan có liên quan về trách\nnhiệm, quyền hạn của Hội đồng ĐHĐN.\ne) Thông tin về hoạt động của Hội đồng ĐHĐN, mời họp, gửi tài liệu và\nthực hiện các nhiệm vụ khác do Chủ tịch Hội đồng ĐHĐN giao.\ng) Thực hiện nhiệm vụ của thành viên Hội đồng ĐHĐN; thực hiện các\nnhiệm vụ khác do Chủ tịch Hội đồng ĐHĐN, Phó Chủ tịch Hội đồng ĐHĐN giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguyên tắc làm việc",
+          "text": "Điều 3. Nguyên tắc làm việc\n1. Hội đồng ĐHĐN làm việc theo nguyên tắc tập thể, quyết định theo đa số\n(có trên 50% tổng số thành viên Hội đồng biểu quyết nhất trí). Trường hợp số\nphiếu biểu quyết ngang nhau thì quyết định cuối cùng theo ý kiến của Chủ tịch\nHội đồng ĐHĐN. Đối với các quyết định về vay vốn, thay đổi mô hình tổ chức\ncủa ĐHĐN thì quyết định của Hội đồng ĐHĐN chỉ được thông qua khi có ít nhất\n2/3 tổng số thành viên Hội đồng ĐHĐN biểu quyết tán thành. Hình thức biểu\nquyết cho từng nội dung cụ thể do Chủ tịch Hội đồng ĐHĐN quyết định.\n\n6\n2. Tài liệu của Giám đốc ĐHĐN trình gửi đến Hội đồng ĐHĐN đề nghị\ngiải quyết công việc thuộc trách nhiệm, quyền hạn của Hội đồng ĐHĐN cần có\nbản in và bản mềm, gồm: văn bản, tờ trình của Giám đốc ĐHĐN; các minh chứng\nliên quan đến tờ trình; báo cáo giải trình việc thẩm định, tiếp thu các góp ý đối\nvới dự thảo văn bản (nếu có); bản tổng hợp, giải trình, tiếp thu các góp ý; bản sao\ncác ý kiến góp ý và các tài liệu khác có liên quan (nếu có).\n3. Thông báo, chương trình và tài liệu của phiên họp định kỳ phải được gửi\nđến các thành viên Hội đồng ĐHĐN ít nhất 07 ngày làm việc trước ngày họp.\n4. Mỗi phiên họp của Hội đồng ĐHĐN chỉ được tổ chức khi có trên 50%\ntổng số thành viên của Hội đồng ĐHĐN dự họp, trong đó có thành viên bên ngoài\nĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Chế độ làm việc",
+          "text": "Điều 4. Chế độ làm việc\n1. Hội đồng ĐHĐN họp định kỳ hàng quý và họp đột xuất theo đề nghị của\nChủ tịch Hội đồng ĐHĐN hoặc của Giám đốc ĐHĐN hoặc của ít nhất 1/3 (một\nphần ba) tổng số thành viên Hội đồng ĐHĐN.\n2. Thường trực Hội đồng ĐHĐN họp định kỳ hàng tháng hoặc họp đột xuất\nkhi cần thiết theo đề nghị của Chủ tịch Hội đồng ĐHĐN.\n3. Hội đồng ĐHĐN, Thường trực Hội đồng ĐHĐN có thể họp theo hình\nthức trực tiếp, trực tuyến, trực tiếp kết hợp với trực tuyến hoặc xin ý kiến bằng\nvăn bản. Các quyết nghị của Hội đồng ĐHĐN tại những cuộc họp theo các hình\nthức này có giá trị như nhau.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tổ chức và hoạt động của Hội đồng Đại học Đà Nẵng",
+          "text": "Điều 5. Tổ chức và hoạt động của Hội đồng Đại học Đà Nẵng\n1. Phân ban Hội đồng ĐHĐN\na) Các thành viên Hội đồng ĐHĐN được bố trí thành các ban, mỗi ban gồm\nmột số thành viên trong đó có Trưởng ban, trên cơ sở đề xuất của Chủ tịch Hội\nđồng ĐHĐN và được sự đồng ý của trên 50% tổng số thành viên Hội đồng ĐHĐN.\nb) Các ban của Hội đồng ĐHĐN gồm: Ban Tổ chức Nhân sự, Ban Đào\ntạo Khoa học công nghệ, Ban Tài chính Tài sản, Ban Kiểm soát. Các ban có\ntrách nhiệm như sau:\nBan Tổ chức Nhân sự có trách nhiệm thẩm định các hồ sơ, xây dựng dự\nthảo kế hoạch hoạt động của Hội đồng ĐHĐN về công tác tổ chức, nhân sự, chiến\nlược hoàn thiện tổ chức bộ máy, phát triển nguồn nhân lực của ĐHĐN; phối hợp\nvới Ban Kiểm soát trong việc triển khai kế hoạch giám sát của Hội đồng ĐHĐN\nhằng năm.\nBan Đào tạo Khoa học công nghệ có trách nhiệm thẩm định các hồ sơ,\nxây dựng kế hoạch hoạt động của Hội đồng ĐHĐN liên quan đến công tác đào\ntạo, khoa học công nghệ, hợp tác trong nước và quốc tế và đảm bảo chất lượng\n\n7\ngiáo dục của ĐHĐN; phối hợp với Ban Kiểm soát trong việc triển khai kế hoạch\ngiám sát của Hội đồng ĐHĐN hằng năm.\nBan Tài chính Tài sản có trách nhiệm thẩm định các hồ sơ, xây dựng kế\nhoạch hoạt động của Hội đồng ĐHĐN liên quan đến công tác quản trị tài chính\nvà tài sản; phối hợp với Ban Kiểm soát trong việc triển khai kế hoạch giám sát\ncủa Hội đồng ĐHĐN hằng năm.\nBan Kiểm soát chịu trách nhiệm lập kế hoạch giám sát của Hội đồng\nĐHĐN hằng năm; chủ trì triển khai thực hiện kế hoạch giám sát của Hội đồng\nĐHĐN.\nc) Các Trưởng Ban của Hội đồng ĐHĐN tổ chức hoạt động của Ban theo\nlĩnh vực được phân công, chương trình công tác của Hội đồng ĐHĐN và phân\ncông của Chủ tịch Hội đồng ĐHĐN; sử dụng đội ngũ viên chức của các ban chức\nnăng ĐHĐN để giúp việc chuyên môn cho các ban của Hội đồng ĐHĐN.\nd) Khi cần thiết, tùy theo yêu cầu tình hình thực tế hoạt động của Hội đồng\nĐHĐN, các ban của Hội đồng ĐHĐN và thành viên mỗi ban có thể được điều\nchỉnh nhằm đảm bảo hoạt động của Hội đồng ĐHĐN có hiệu quả tối đa.\n2. Chủ tịch Hội đồng ĐHĐN chỉ đạo các Trưởng ban xây dựng chương\ntrình công tác hằng năm của Hội đồng ĐHĐN; phân công nhiệm vụ cho các ban\nhoặc các thành viên Hội đồng ĐHĐN chuẩn bị cho các phiên họp có nội dung\nthuộc phạm vi trách nhiệm giải quyết của Hội đồng ĐHĐN.\nThành viên Hội đồng ĐHĐN đề xuất (nếu có) các nội dung liên quan đến\ntrách nhiệm và quyền hạn của Hội đồng ĐHĐN với Chủ tịch Hội đồng ĐHĐN,\nPhó Chủ tịch Hội đồng ĐHĐN, Thư ký Hội đồng ĐHĐN hoặc Trưởng ban.\n3. Tổ chức triển khai chương trình công tác, triển khai thực hiện các Nghị\nquyết của Hội đồng ĐHĐN và triển khai hoạt động giám sát của Hội đồng ĐHĐN\na) Trên cơ sở kế hoạch, chương trình công tác đã được Hội đồng ĐHĐN\nthông qua và các quyết nghị của Hội đồng ĐHĐN, các ban và các thành viên Hội\nđồng ĐHĐN, Giám đốc ĐHĐN và các đơn vị, cá nhân có liên quan chủ động triển\nkhai thực hiện theo lĩnh vực công tác được phân công.\nb) Giám đốc ĐHĐN có trách nhiệm chỉ đạo triển khai thực hiện các quyết\nnghị của Hội đồng ĐHĐN.\nc) Hội đồng ĐHĐN tổ chức hoạt động giám sát việc thực hiện các Nghị\nquyết của Hội đồng ĐHĐN và thực hiện Quy chế dân chủ trong các hoạt động\ncủa ĐHĐN thông qua các cơ chế: báo cáo của Giám đốc ĐHĐN; thảo luận và\nchất vấn tại các phiên họp; hoạt động của các tổ công tác được Hội đồng quyết\nđịnh thành lập để giám sát theo chuyên đề đối với những vấn đề cần thiết. Tổ công\n\n8\ntác hoặc các thành viên Hội đồng ĐHĐN được giao nhiệm vụ giám sát phải báo\ncáo Hội đồng ĐHĐN về kết quả thực hiện trách nhiệm giám sát.\n4. Các phiên họp định kỳ của Hội đồng ĐHĐN:\na) Chuẩn bị tài liệu họp:\nĐối với các nội dung họp do Giám đốc ĐHĐN trình Hội đồng ĐHĐN giải\nquyết, tài liệu họp thực hiện theo quy định tại khoản 2 Điều 3 của Quy chế này.\nBản mềm tài liệu cần được gửi đến hộp thư điện tử của Hội đồng ĐHĐN\n(hoidong_dhdn@ac.udn.vn) ít nhất 10 ngày làm việc trước ngày họp Hội đồng.\nĐối với các nội dung khác theo kế hoạch hoạt động của Hội đồng ĐHĐN\nhoặc đột xuất, Thường trực Hội đồng ĐHĐN tổ chức chuẩn bị nội dung và phân\ncông người trình bày báo cáo.\nThư ký Hội đồng ĐHĐN tổng hợp, kiểm tra hồ sơ tài liệu, báo cáo Chủ\ntịch Hội đồng ĐHĐN.\nChủ tịch Hội đồng ĐHĐN trao đổi ý kiến với các Trưởng ban của Hội\nđồng ĐHĐN có liên quan nội dung và hồ sơ tài liệu trình, để các ban thẩm định\nhồ sơ và báo cáo trước Hội đồng khi cần thiết.\nThường trực Hội đồng ĐHĐN hội ý với Thường trực Đảng ủy ĐHĐN,\nnếu cần thiết.\nb) Gửi thông báo, chương trình và tài liệu họp:\nThư ký Hội đồng ĐHĐN gửi thông báo, chương trình và tài liệu phiên họp\nHội đồng theo quy định tại khoản 3 Điều 3 của Quy chế này để các thành viên\nHội đồng ĐHĐN nghiên cứu, chuẩn bị ý kiến thảo luận và biểu quyết.\nc) Phiên họp Hội đồng ĐHĐN:\nNgười chủ trì phiên họp là Chủ tịch Hội đồng ĐHĐN hoặc thành viên Hội\nđồng ĐHĐN được Chủ tịch Hội đồng ĐHĐN ủy quyền bằng văn bản. Người chủ\ntrì điều hành phiên họp theo chương trình họp đã gửi đến các thành viên Hội đồng\nhoặc có thể điều chỉnh cho phù hợp với tình hình thực tế phiên họp.\nTrường hợp cần thiết, người chủ trì phiên họp Hội đồng ĐHĐN có thể\nmời thêm người ngoài Hội đồng ĐHĐN (là viên chức, người lao động của ĐHĐN\nhoặc các chuyên gia, nhân sự khác) dự họp ở những nội dung có liên quan. Những\nngười được mời thêm không được quyền biểu quyết.\nCác ý kiến góp ý, phản biện của các ban của Hội đồng ĐHĐN, của các\nthành viên Hội đồng ĐHĐN đối với các nội dung họp có thể nêu trực tiếp tại phiên\nhọp hoặc gửi đến Thư ký Hội đồng ĐHĐN trước khi họp. Đối với những vấn đề\nchưa thể giải trình đầy đủ trực tiếp ngay tại phiên họp, Giám đốc ĐHĐN chỉ đạo,\ntổ chức các đơn vị liên quan xây dựng văn bản giải trình gửi cho Thường trực Hội\nđồng ĐHĐN để gửi đến các thành viên Hội đồng ĐHĐN sau phiên họp.\n\n9\nNội dung trao đổi, thảo luận, các ý kiến bảo lưu, các ý kiến góp ý bổ sung\nghi trong phiếu biểu quyết và kết luận trong mỗi phiên họp của Hội đồng ĐHĐN\nphải được ghi thành biên bản. Chủ trì phiên họp và Thư ký Hội đồng ĐHĐN chịu\ntrách nhiệm về tính trung thực, chính xác của nội dung biên bản họp.\nHội đồng ĐHĐN sử dụng hình thức biểu quyết bằng phiếu kín hoặc phần\nmềm biểu quyết trực tuyến hoặc biểu quyết bằng hình thức giơ tay tại cuộc họp\nhoặc lấy ý kiến bằng văn bản. Chủ tịch Hội đồng ĐHĐN quyết định hình thức\nbiểu quyết đối với từng nội dung họp. Trường hợp thành viên Hội đồng ĐHĐN\ncho ý kiến qua thư điện tử thì phải chụp hoặc quét bản gốc và gửi đính kèm, đồng\nthời văn bản gốc đó phải chuyển cho Thư ký Hội đồng ĐHĐN qua bưu điện hoặc\ntrực tiếp trong lần họp gần nhất để lưu trữ. Trường hợp cần thiết, Hội đồng ĐHĐN\ncó thể hội ý nhanh qua điện thoại với thành viên vắng mặt để có ý kiến biểu quyết;\nkết quả, ý kiến hội ý phải được ghi vào biên bản họp.\nTại phiên họp, chủ trì phiên họp công bố kết quả biểu quyết các nội dung\nphiên họp và kết luận đối với các nội dung được thông qua. Trong thời gian không\nquá 10 ngày làm việc sau phiên họp, Chủ tịch Hội đồng ĐHĐN thay mặt Hội đồng\nĐHĐN ký ban hành Nghị quyết của phiên họp.\nĐối với các nội dung được thông qua tại phiên họp nhưng cần bổ sung hồ\nsơ cho hoàn chỉnh, đơn vị có liên quan có trách nhiệm hoàn chỉnh hồ sơ và gửi về\nThư ký Hội đồng ĐHĐN không quá 07 ngày làm việc kể từ ngày họp.\nd) Khi cần thiết, Thường trực Hội đồng ĐHĐN có thể điều chỉnh rút ngắn\nthời gian nêu ở khoản 3 Điều 3 và điểm a khoản 4 Điều này nhưng cần đảm bảo\ngửi hồ sơ họp đến các thành viên Hội đồng ĐHĐN ít nhất 03 ngày làm việc trước\nngày họp.\n5. Phiên họp đột xuất:\na) Trường hợp họp đột xuất thì trong thời gian 15 ngày làm việc kể từ khi\nnhận được văn bản đề nghị, Hội đồng ĐHĐN phải tiến hành phiên họp.\nb) Người chủ trì phiên họp là Chủ tịch Hội đồng ĐHĐN hoặc thành viên\nHội đồng ĐHĐN được Chủ tịch Hội đồng ĐHĐN ủy quyền bằng văn bản. Trong\ntrường hợp đặc biệt không thể có văn bản ủy quyền của Chủ tịch Hội đồng ĐHĐN,\nHội đồng ĐHĐN thống nhất bầu một trong số các thành viên Hội đồng ĐHĐN\nchủ trì điều hành phiên họp.\nc) Tùy theo tình hình thực tế và nội dung họp, Thường trực Hội đồng\nĐHĐN quyết định điều chỉnh thời gian chuẩn bị hồ sơ, thời gian gửi hồ sơ họp\nđến các thành viên Hội đồng ĐHĐN nhưng cần đảm bảo gửi hồ sơ họp đến các\nthành viên Hội đồng ĐHĐN ít nhất 03 ngày làm việc trước ngày họp.\n\n10",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nghị quyết của Hội đồng Đại học Đà Nẵng",
+          "text": "Điều 6. Nghị quyết của Hội đồng Đại học Đà Nẵng\n1. Quyết định của Hội đồng ĐHĐN được thể hiện bằng hình thức nghị\nquyết. Hội đồng ĐHĐN quyết nghị về những vấn đề được Hội đồng ĐHĐN thảo\nluận trong phạm vi trách nhiệm, quyền hạn của mình theo nguyên tắc quy định tại\nkhoản 1 Điều 3 của Quy chế này.\n2. Nghị quyết của Hội đồng ĐHĐN có thể được ban hành chung cho các\nvấn đề hoặc riêng cho từng vấn đề đã được Hội đồng biểu quyết tán thành.\n3. Nghị quyết của Hội đồng ĐHĐN được gửi đến các thành viên của Hội\nđồng, các đơn vị, cá nhân có liên quan trong ĐHĐN và Bộ Giáo dục và Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quản lý văn bản, tài liệu của Hội đồng",
+          "text": "Điều 7. Quản lý văn bản, tài liệu của Hội đồng\n1. Văn bản, tài liệu đến:\na) Thư ký Hội đồng ĐHĐN tiếp nhận:\nTờ trình và hồ sơ trình của Giám đốc ĐHĐN liên quan đến trách nhiệm\ngiải quyết của Hội đồng ĐHĐN.\nCác văn bản, hồ sơ của các cá nhân, tổ chức có liên quan đến Hội đồng\nĐHĐN.\nb) Chủ tịch Hội đồng ĐHĐN tiếp nhận các hồ sơ có ghi chức danh hoặc tên\ncủa Chủ tịch Hội đồng ĐHĐN tại vị trí người nhận trên bưu phẩm.\n2. Văn bản, tài liệu của Hội đồng ĐHĐN gửi đến các tổ chức, cá nhân: do\nThư ký Hội đồng ĐHĐN dự thảo, trình Chủ tịch Hội đồng ĐHĐN ký hoặc Phó\nChủ tịch Hội đồng ĐHĐN ký theo phân công hoặc ủy quyền, thay mặt cho Hội\nđồng ĐHĐN.\n3. Tất cả văn bản, tài liệu liên quan đến hoạt động của Hội đồng ĐHĐN\nđều phải được đăng ký, quản lý và lưu trữ theo quy định của Nhà nước và của\nĐHĐN. Các văn bản, tài liệu của Hội đồng ĐHĐN không nằm trong danh mục\ntài liệu lưu trữ theo quy định của Nhà nước được lưu trữ với thời hạn 10 năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Chế độ thông tin và phát ngôn của Hội đồng Đại học Đà Nẵng",
+          "text": "Điều 8. Chế độ thông tin và phát ngôn của Hội đồng Đại học Đà Nẵng\n1. Hội đồng ĐHĐN được nhận các văn bản của Bộ Giáo dục và Đào tạo,\nĐHĐN và các tổ chức, đơn vị có liên quan đến nhiệm vụ, quyền hạn của Hội đồng\nĐHĐN.\n2. Lãnh đạo, thủ trưởng các đơn vị ĐHĐN có trách nhiệm cung cấp đầy đủ,\nkịp thời, chính xác các thông tin và tài liệu cần thiết, liên quan đến chức năng,\nnhiệm vụ và hoạt động của Hội đồng ĐHĐN khi có yêu cầu.\n3. Chủ tịch Hội đồng ĐHĐN, Phó Chủ tịch Hội đồng ĐHĐN (hoặc thành\nviên khác được Chủ tịch Hội đồng ĐHĐN giao nhiệm vụ) có trách nhiệm thay\n\n11\nmặt Hội đồng ĐHĐN để phát ngôn, trả lời phỏng vấn, cung cấp thông tin cho cơ\nquan truyền thông, báo chí theo quy định của pháp luật.\n4. Thành viên Hội đồng ĐHĐN có quyền bảo lưu ý kiến của mình nhưng\nkhông phát ngôn trái với các quyết nghị đã được Hội đồng ĐHĐN ban hành; chịu\ntrách nhiệm trước pháp luật và Hội đồng ĐHĐN về phát ngôn của mình.\n5. Thành viên Hội đồng ĐHĐN thực hiện bảo mật thông tin và bảo quản tài\nliệu theo quy định của pháp luật và ý kiến chỉ đạo của Chủ tịch Hội đồng ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Ngân sách hoạt động và cơ sở vật chất đảm bảo hoạt động của",
+          "text": "Điều 9. Ngân sách hoạt động và cơ sở vật chất đảm bảo hoạt động của\nHội đồng ĐHĐN\n1. Hội đồng ĐHĐN được bố trí phòng làm việc và các phương tiện, trang\nthiết bị theo các quy định hiện hành của Nhà nước và ĐHĐN.\n2. Ngân sách hoạt động, phụ cấp của Chủ tịch, Phó Chủ tịch và các thành\nviên Hội đồng ĐHĐN thực hiện theo các quy định hiện hành có liên quan của Nhà\nnước, theo Quy chế tài chính của ĐHĐN và Quy chế chi tiêu nội bộ của ĐHĐN.\n3. Hằng năm, Hội đồng ĐHĐN lập dự trù kế hoạch tài chính theo kế hoạch\ntài chính chung của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Quan hệ giữa Hội đồng ĐHĐN và Đảng ủy ĐHĐN",
+          "text": "Điều 10. Quan hệ giữa Hội đồng ĐHĐN và Đảng ủy ĐHĐN\n1. Trên cơ sở các Nghị quyết của Đảng ủy ĐHĐN, Hội đồng ĐHĐN thảo\nluận, quyết định và thực hiện giám sát các hoạt động của ĐHĐN thuộc phạm vi\ntrách nhiệm, quyền hạn của Hội đồng ĐHĐN.\n2. Hội đồng ĐHĐN đề xuất để xin ý kiến của Đảng ủy ĐHĐN về các vấn\nđề thuộc phạm vi trách nhiệm, quyền hạn của Hội đồng ĐHĐN. Trường hợp Hội\nđồng ĐHĐN có ý kiến khác với Nghị quyết của Đảng ủy ĐHĐN, Hội đồng ĐHĐN\nbáo cáo Bộ Giáo dục và Đào tạo xem xét quyết định.\n3. Hội đồng ĐHĐN thực hiện chế độ báo cáo định kỳ với Đảng ủy ĐHĐN\nnhư sau:\na) Hàng quý, báo cáo về tình hình triển khai các Nghị quyết của Đảng ủy\nĐHĐN;\nb) Chậm nhất 07 ngày làm việc trước phiên họp Hội đồng ĐHĐN, báo cáo\nvề các nội dung dự kiến họp Hội đồng ĐHĐN.\n\n12",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Quan hệ giữa Hội đồng ĐHĐN và Giám đốc ĐHĐN",
+          "text": "Điều 11. Quan hệ giữa Hội đồng ĐHĐN và Giám đốc ĐHĐN\nQuan hệ giữa Hội đồng ĐHĐN và Giám đốc ĐHĐN được thực hiện theo\nquy định hiện hành của pháp luật và Quy chế tổ chức và hoạt động của ĐHĐN,\nthể hiện thông qua việc thực hiện nhiệm vụ và quyền hạn của mỗi bên, trong đó:\n1. Hội đồng ĐHĐN chỉ đạo bằng các Nghị quyết của Hội đồng ĐHĐN. Hội\nđồng ĐHĐN giám sát việc triển khai, tổ chức thực hiện các Nghị quyết Hội đồng\nĐHĐN của Giám đốc ĐHĐN; việc thực hiện Quy chế dân chủ trong hoạt động\ncủa ĐHĐN và trách nhiệm giải trình của Giám đốc ĐHĐN; tổ chức đánh giá kết\nquả hoạt động hằng năm của Giám đốc ĐHĐN.\n2. Giám đốc ĐHĐN có trách nhiệm:\na) Trình Hội đồng ĐHĐN xem xét quyết định các vấn đề thuộc thẩm quyền\nquyết định của Hội đồng ĐHĐN, các vấn đề liên quan đến hoạt động của Hội\nđồng ĐHĐN.\nb) Tổ chức thực hiện các Nghị quyết của Hội đồng ĐHĐN và có trách\nnhiệm báo cáo bằng văn bản cho Hội đồng ĐHĐN về kết quả thực hiện các Nghị\nquyết của Hội đồng ĐHĐN, kết quả thực hiện nhiệm vụ hằng năm của Giám đốc\nĐHĐN.\nc) Chỉ đạo các đơn vị cung cấp thông tin khi có yêu cầu của Hội đồng\nĐHĐN theo kế hoạch hoặc đột xuất.\nd) Đảm bảo đầy đủ các điều kiện về cơ sở vật chất, kinh phí để Hội đồng\nĐHĐN hoạt động.\n3. Trong trường hợp có những nội dung Nghị quyết của Hội đồng ĐHĐN\nkhông phù hợp với thực tế và ảnh hưởng đến hoạt động của ĐHĐN, Giám đốc\nĐHĐN xin ý kiến Hội đồng ĐHĐN để quyết định phương án giải quyết phù hợp\nvới các quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quan hệ giữa Hội đồng ĐHĐN và Hội đồng trường các trường",
+          "text": "Điều 12. Quan hệ giữa Hội đồng ĐHĐN và Hội đồng trường các trường\nđại học thành viên\n1. Chủ tịch Hội đồng ĐHĐN và Giám đốc ĐHĐN thống nhất đề xuất đại\ndiện của ĐHĐN tham gia Hội đồng trường các trường đại học thành viên và báo\ncáo Tập thể lãnh đạo ĐHĐN cho ý kiến trước khi Giám đốc ĐHĐN ban hành văn\nbản cử đại diện của ĐHĐN tham gia Hội đồng trường.\n2. Căn cứ Nghị quyết của Hội đồng ĐHĐN, Hội đồng trường các trường\nđại học thành viên có trách nhiệm triển khai thực hiện các nội dung có liên quan\nđến hoạt động của Hội đồng trường.\n3. Hội đồng trường các trường đại học thành viên thực hiện chế độ báo cáo\nvới Hội đồng ĐHĐN:\n\n13\na) Gửi các Nghị quyết của Hội đồng trường cho Hội đồng ĐHĐN, trong\nvòng 07 ngày làm việc sau khi ban hành Nghị quyết.\nb) Định kỳ 06 tháng, báo cáo Hội đồng ĐHĐN về kết quả thực hiện các\nNghị quyết của Hội đồng trường.\n4. Hội đồng trường các trường đại học thành viên có trách nhiệm cung cấp\nđầy đủ, chính xác và kịp thời các thông tin và tài liệu cần thiết theo yêu cầu của\nHội đồng ĐHĐN có liên quan đến hoạt động của Hội đồng ĐHĐN, của Hội đồng\ntrường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Quan hệ giữa Hội đồng ĐHĐN và các tổ chức đoàn thể, đơn",
+          "text": "Điều 13. Quan hệ giữa Hội đồng ĐHĐN và các tổ chức đoàn thể, đơn\nvị của ĐHĐN\n1. Hội đồng ĐHĐN, thông qua Giám đốc ĐHĐN, lãnh đạo các tổ chức đoàn\nthể và lãnh đạo các đơn vị, chỉ đạo, đôn đốc các đơn vị, tổ chức đoàn thể của\nĐHĐN thực hiện các Nghị quyết của Hội đồng ĐHĐN.\n2. Các tổ chức đoàn thể, các đơn vị của ĐHĐN có trách nhiệm cung cấp\nthông tin cho Hội đồng ĐHĐN và phối hợp với Hội đồng ĐHĐN khi có yêu cầu\nđể đảm bảo các hoạt động của Hội đồng ĐHĐN quy định tại Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Hiệu lực và trách nhiệm thi hành",
+          "text": "Điều 14. Hiệu lực và trách nhiệm thi hành\n1. Quy chế này có hiệu lực thi hành kể từ ngày ký.\n2. Các thành viên Hội đồng ĐHĐN, các đơn vị, tổ chức, cá nhân có liên\nquan có trách nhiệm thực hiện Quy chế này.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Điều chỉnh, bổ sung Quy chế",
+          "text": "Điều 15. Điều chỉnh, bổ sung Quy chế\nTrong quá trình thực hiện, Quy chế này có thể được điều chỉnh, bổ sung để\nphù hợp với quy định hiện hành của pháp luật có liên quan, đáp ứng yêu cầu thực\ntiễn công tác của ĐHĐN sau khi được Hội đồng ĐHĐN thông qua./.\nTM. HỘI ĐỒNG",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Nghị quyết này Quy chế hoạt động của Hội đồng Đại",
+      "text": "Điều 1. Ban hành kèm theo Nghị quyết này Quy chế hoạt động của Hội đồng Đại\nhọc Đà Nẵng nhiệm kỳ 2021-2026.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nghị quyết này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Nghị quyết này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hội đồng Đại học Đà Nẵng, các đơn vị, tổ chức và cá nhân có liên quan",
+      "text": "Điều 3. Hội đồng Đại học Đà Nẵng, các đơn vị, tổ chức và cá nhân có liên quan\nchịu trách nhiệm thi hành Nghị quyết này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

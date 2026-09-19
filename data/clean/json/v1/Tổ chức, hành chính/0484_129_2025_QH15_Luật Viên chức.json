@@ -1,0 +1,325 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0484_129_2025_QH15_Luật Viên chức.txt",
+  "mappedBy": "gemini-web",
+  "note": "43 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "129/2025/QH15",
+    "title": "Luật Viên chức",
+    "documentType": "Luật",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "10/12/2025",
+    "effectiveDate": "01/07/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Luật Viên chức quy định về viên chức, nghĩa vụ, quyền của viên chức; tuyển dụng, sử dụng, quản lý viên chức; khen thưởng và xử lý kỷ luật đối với viên chức làm việc tại đơn vị sự nghiệp công lập.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Quốc hội",
+    "orgType": "quoc_hoi",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trần Thanh Mẫn",
+      "academicTitle": null,
+      "position": [
+        "Chủ tịch Quốc hội"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "203/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "58/2010/QH12",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Luật Viên chức số 58/2010/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 52/2019/QH14 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+      "targetDocumentNumber": "52/2019/QH14",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Luật Viên chức số 58/2010/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 52/2019/QH14 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    }
+  ],
+  "mentions": [
+    "Đảng Cộng sản Việt Nam",
+    "Chính phủ",
+    "Bộ, cơ quan ngang Bộ",
+    "Ủy ban nhân dân cấp tỉnh",
+    "Tòa án"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Viên chức",
+      "text": "Điều 1. Viên chức\nViên chức là công dân Việt Nam; được tuyển dụng theo vị trí việc làm; làm\nviệc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng làm việc, hưởng lương\ntừ quỹ tiền lương của đơn vị sự nghiệp công lập và từ các nguồn thu hợp pháp\nkhác theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nguyên tắc trong hoạt động nghề nghiệp của viên chức",
+      "text": "Điều 2. Nguyên tắc trong hoạt động nghề nghiệp của viên chức\n1. Hoạt động nghề nghiệp của viên chức phải gắn với lĩnh vực hoạt động\ncủa đơn vị sự nghiệp công lập.\n2. Tuân thủ Hiến pháp, pháp luật; chịu trách nhiệm trước pháp luật trong\nquá trình thực hiện hoạt động nghề nghiệp.\n3. Thực hiện đúng quy trình chuyên môn, nghiệp vụ; tuân thủ đạo đức nghề\nnghiệp và quy tắc ứng xử; chịu sự kiểm tra, giám sát của cơ quan có thẩm quyền\nvà của Nhân dân.\n4. Phục vụ Nhân dân với thái độ tôn trọng, tận tụy, văn minh, lịch sự; không\ngây phiền hà, khó khăn; bảo đảm công bằng, bình đẳng về quyền tiếp cận dịch vụ\ncông của Nhân dân.\n5. Bảo đảm chất lượng, hiệu quả và tiến độ công việc được giao; không\nngừng học tập, rèn luyện để nâng cao trình độ chuyên môn, nghiệp vụ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nguyên tắc quản lý viên chức",
+      "text": "Điều 3. Nguyên tắc quản lý viên chức\n1. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam; sự quản lý của Nhà nước.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 96\n2. Thực hiện tuyển dụng, sử dụng, quản lý viên chức theo vị trí việc làm và\ncăn cứ vào hợp đồng làm việc.\n3. Thực hiện phân cấp, phân quyền, bảo đảm quyền tự chủ toàn diện của\nđơn vị sự nghiệp công lập gắn với trách nhiệm của người đứng đầu; xây dựng và\ncông khai cơ chế giải trình, giám sát của cơ quan, người có thẩm quyền trong công\ntác quản lý đội ngũ viên chức.\n4. Thực hiện bình đẳng giới trong tuyển dụng, sử dụng, quản lý và phát\ntriển đội ngũ viên chức.\n5. Đẩy mạnh ứng dụng khoa học, công nghệ, chuyển đổi số trong quản lý\nviên chức; khuyến khích, bảo vệ viên chức đổi mới sáng tạo; dám nghĩ, dám làm,\ndám đột phá, dám chịu trách nhiệm vì lợi ích chung.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Giải thích từ ngữ",
+      "text": "Điều 4. Giải thích từ ngữ\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:\n1. Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc\nnhiệm vụ có yêu cầu về năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị\nsự nghiệp công lập.\n2. Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời\nhạn; chịu trách nhiệm điều hành, tổ chức thực hiện một hoặc một số công việc\ntrong đơn vị sự nghiệp công lập.\n3. Đạo đức nghề nghiệp là các chuẩn mực về nhận thức và hành vi phù hợp\nvới đặc thù của từng lĩnh vực hoạt động nghề nghiệp do cơ quan có thẩm quyền\nquy định.\n4. Quy tắc ứng xử là các chuẩn mực xử sự của viên chức trong thực hiện\nnhiệm vụ, do cơ quan có thẩm quyền ban hành, phù hợp với đặc thù công việc\ntrong từng lĩnh vực hoạt động.\n5. Vị trí việc làm là công việc gắn với chức vụ, chức danh viên chức trên cơ\nsở chức năng, nhiệm vụ của đơn vị sự nghiệp công lập.\n6. Điều động là việc cơ quan quản lý viên chức hoặc cơ quan được giao\nthẩm quyền quản lý viên chức quyết định chuyển viên chức từ đơn vị sự nghiệp\ncông lập này sang đơn vị sự nghiệp công lập khác trong phạm vi quản lý. Việc\nđiều động viên chức chỉ thực hiện trong các trường hợp theo quy định của Đảng\nhoặc theo quy định của pháp luật về hoạt động nghề nghiệp.\n7. Bổ nhiệm là việc cấp có thẩm quyền quyết định giao viên chức giữ một\nchức vụ quản lý.\n8. Biệt phái là việc cơ quan quản lý viên chức hoặc cơ quan được giao thẩm\nquyền quản lý viên chức cử viên chức thuộc quyền quản lý đến làm việc tại cơ\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 97\nquan, tổ chức, đơn vị sự nghiệp khác (cơ quan, tổ chức, đơn vị nhận biệt phái)\ntheo yêu cầu nhiệm vụ.\n9. Từ chức là việc viên chức quản lý tự nguyện xin thôi giữ chức vụ khi\nchưa hết thời hạn bổ nhiệm.\n10. Miễn nhiệm là việc cấp có thẩm quyền quyết định cho viên chức quản\nlý thôi giữ chức vụ quản lý khi chưa hết thời hạn bổ nhiệm.\n11. Tạm đình chỉ công tác là việc cấp có thẩm quyền quyết định việc viên\nchức dừng thực hiện chức trách, nhiệm vụ được giao trong thời hạn nhất định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Chính sách phát triển đơn vị sự nghiệp công lập",
+      "text": "Điều 5. Chính sách phát triển đơn vị sự nghiệp công lập\n1. Đơn vị sự nghiệp công lập là tổ chức do cơ quan có thẩm quyền thành\nlập theo quy định của pháp luật, có tư cách pháp nhân; hoạt động không vì mục\ntiêu lợi nhuận; cung cấp dịch vụ công phục vụ xã hội; hỗ trợ thực hiện nhiệm vụ\nquản lý nhà nước.\n2. Nhà nước có trách nhiệm bảo đảm cung cấp dịch vụ công cơ bản, thiết\nyếu cho xã hội; tập trung nguồn lực đầu tư cho miền núi, biên giới, vùng sâu,\nvùng xa, vùng dân tộc thiểu số, vùng hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt\nkhó khăn.\n3. Nhà nước có chính sách thúc đẩy xã hội hóa việc cung cấp dịch vụ công;\nkhuyến khích các thành phần kinh tế tham gia đầu tư, phát triển, cung cấp dịch vụ\ncông theo quy định của pháp luật.\n4. Căn cứ vào tính chất nhiệm vụ cung cấp dịch vụ công, Chính phủ quy\nđịnh tiêu chí phân loại đơn vị sự nghiệp công lập đối với từng lĩnh vực sự nghiệp\nvà chế độ quản lý đối với đơn vị sự nghiệp công lập trên nguyên tắc bảo đảm tinh\ngọn, hiệu lực, hiệu quả.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Chính sách xây dựng và phát triển đội ngũ viên chức",
+      "text": "Điều 6. Chính sách xây dựng và phát triển đội ngũ viên chức\n1. Nhà nước có chính sách xây dựng, phát triển đội ngũ viên chức có đạo\nđức nghề nghiệp; có trình độ và năng lực chuyên môn phù hợp với từng ngành,\nlĩnh vực.\n2. Viên chức phải được bồi dưỡng thường xuyên, định kỳ để nâng cao trình\nđộ chuyên môn, nghiệp vụ đáp ứng yêu cầu thực hiện nhiệm vụ.\n3. Nhà nước có chính sách liên thông nguồn nhân lực giữa khu vực công\nvà khu vực tư.\n4. Nhà nước có chính sách về tiền lương và thu nhập đối với đội ngũ viên\nchức bảo đảm công bằng, cạnh tranh, gắn với vị trí việc làm và hiệu quả công việc.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 98",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Nghĩa vụ chung của viên chức",
+      "text": "Điều 7. Nghĩa vụ chung của viên chức\n1. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hoà xã hội\nchủ nghĩa Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia, dân tộc.\n2. Có đạo đức trong sáng, mẫu mực.\n3. Chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của\nNhà nước.\n4. Bảo vệ bí mật nhà nước; giữ gìn và bảo vệ tài sản công; sử dụng hiệu\nquả, tiết kiệm tài sản được giao.\n5. Tu dưỡng, rèn luyện đạo đức nghề nghiệp, thực hiện quy tắc ứng xử của\nviên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Nghĩa vụ của viên chức trong hoạt động nghề nghiệp",
+      "text": "Điều 8. Nghĩa vụ của viên chức trong hoạt động nghề nghiệp\n1. Thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm\nvụ, quyền hạn được giao; chủ động nâng cao năng lực, trình độ chuyên môn,\nnghiệp vụ để đáp ứng yêu cầu của công việc; ứng dụng khoa học, công nghệ,\nchuyển đổi số trong thực hiện nhiệm vụ.\n2. Có ý thức tổ chức kỷ luật; nghiêm chỉnh chấp hành nội quy, quy chế của\n단 vị; báo cáo người có thẩm quyền khi phát hiện hành vi vi phạm pháp luật\ntrong đơn vị.\n3. Chủ động, sáng tạo, phối hợp chặt chẽ với đồng nghiệp trong thực hiện\nnhiệm vụ, hoạt động nghề nghiệp; giữ gìn đoàn kết trong đơn vị.\n4. Khi phục vụ Nhân dân, viên chức phải tuân thủ các quy định sau:\na) Có thái độ lịch sự, tôn trọng Nhân dân;\nb) Có tinh thần hợp tác, tác phong khiêm tốn;\nc) Không hách dịch, cửa quyền, gây khó khăn, phiền hà đối với Nhân dân;\nchấp hành các quy định về đạo đức nghề nghiệp.\n5. Viên chức chỉ được ký kết hợp đồng làm việc với 01 đơn vị sự nghiệp\ncông lập và chịu sự quản lý của đơn vị sự nghiệp công lập đó.\n6. Thực hiện các nghĩa vụ khác theo quy định của pháp luật về ngành, lĩnh\nvực và quy định của cấp có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Nghĩa vụ của viên chức quản lý",
+      "text": "Điều 9. Nghĩa vụ của viên chức quản lý\nViên chức quản lý thực hiện các nghĩa vụ quy định tại Điều 7 và Điều 8 của\nLuật này và các nghĩa vụ sau đây:\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 99\n1. Lãnh đạo, chỉ đạo tổ chức thực hiện nhiệm vụ được giao và chịu trách\nnhiệm về kết quả hoạt động của đơn vị;\n2. Kiểm tra, đôn đốc, hướng dẫn việc thực hiện nhiệm vụ của viên chức;\n3. Chịu trách nhiệm về việc để xảy ra quan liêu, tham nhũng, tiêu cực, lãng\nphí trong đơn vị thuộc phạm vi quản lý;\n4. Xử lý kịp thời, nghiêm minh viên chức thuộc thẩm quyền quản lý có\nhành vi vi phạm quy định của pháp luật, nội quy, quy chế của đơn vị;\n5. Thường xuyên rà soát, chuẩn hóa quy trình nội bộ để cắt giảm tối đa thủ\ntục hành chính (nếu có); lãnh đạo, chỉ đạo, chịu trách nhiệm về việc giải quyết thủ\ntục hành chính của đơn vị thuộc phạm vi quản lý;\n6. Giải quyết kịp thời theo thẩm quyền hoặc kiến nghị cơ quan, người có\nthẩm quyền giải quyết khiếu nại, tố cáo và kiến nghị của cá nhân, tổ chức theo\nquy định của pháp luật;\n7. Xây dựng và phát triển nguồn nhân lực; quản lý, sử dụng có hiệu quả cơ\nsở vật chất, tài chính trong đơn vị được giao quản lý;\n8. Thực hiện các nghĩa vụ khác theo quy định của pháp luật về hoạt động\nnghề nghiệp và quy định của cấp có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Những việc viên chức không được làm",
+      "text": "Điều 10. Những việc viên chức không được làm\n1. Trốn tránh, thoái thác, đùn đẩy trong việc thực hiện chức trách, nhiệm\nvụ được giao; gây bè phái, mất đoàn kết; tự ý nghỉ việc, bỏ việc; tham gia đình\ncông; đăng tải, phát tán, phát ngôn thông tin sai lệch làm ảnh hưởng đến hình ảnh,\nuy tín của đất nước, địa phương, đơn vị nơi công tác.\n2. Lợi dụng hoạt động nghề nghiệp để tuyên truyền chống lại chủ trương,\nđường lối, chính sách của Đảng, pháp luật của Nhà nước hoặc gây phương hại\nđến thuần phong, mỹ tục, đời sống văn hóa, tinh thần của Nhân dân và xã hội.\n3. Có hành vi tham ô, tham nhũng, lãng phí, tiêu cực, trục lợi, nhũng nhiễu\nvà các hành vi khác vi phạm pháp luật trong quá trình thực hiện nhiệm vụ.\n4. Sử dụng tài sản công, tài sản của Nhân dân trái pháp luật.\n5. Có hành vi phân biệt đối xử dân tộc, giới tính, độ tuổi, khuyết tật, tôn\ngiáo, tín ngưỡng, thành phần xã hội dưới mọi hình thức trong thực hiện nhiệm vụ.\n6. Xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực\nhiện hoạt động nghề nghiệp.\n7. Những việc không được làm theo quy định của pháp luật về phòng,\nchống tham nhũng; pháp luật về tiết kiệm, chống lãng phí; pháp luật về doanh nghiệp;\npháp luật về bảo vệ bí mật nhà nước; những việc không được làm khác theo quy\nđịnh của pháp luật, của cấp có thẩm quyền.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 100",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Quyền của viên chức về hoạt động nghề nghiệp",
+      "text": "Điều 11. Quyền của viên chức về hoạt động nghề nghiệp\n1. Được pháp luật bảo vệ trong hoạt động nghề nghiệp; được đối xử bình\nđẳng trong hoạt động và phát triển nghề nghiệp.\n2. Được đào tạo, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ.\n3. Được bảo đảm trang bị, thiết bị và các điều kiện làm việc.\n4. Được cung cấp thông tin liên quan đến công việc hoặc nhiệm vụ được giao.\n5. Được quyết định vấn đề mang tính chuyên môn gắn với công việc hoặc\nnhiệm vụ được giao.\n6. Được từ chối thực hiện công việc hoặc nhiệm vụ nếu cho rằng công việc\nhoặc nhiệm vụ đó trái với quy định của pháp luật.\n7. Được đơn phương chấm dứt hợp đồng làm việc theo quy định của pháp luật.\n8. Được xem xét loại trừ, miễn, giảm trách nhiệm theo quy định của pháp\nluật và quy định của cấp có thẩm quyền.\n9. Được thực hiện các quyền khác về hoạt động nghề nghiệp theo quy định\ncủa pháp luật về hoạt động nghề nghiệp và quy định của cấp có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Quyền của viên chức về tiền lương, tiền thưởng và các chế độ",
+      "text": "Điều 12. Quyền của viên chức về tiền lương, tiền thưởng và các chế độ\nliên quan đến tiền lương\n1. Được hưởng tiền lương, tiền thưởng và các khoản thu nhập khác trên cơ\nsở kết quả, hiệu quả công việc theo vị trí việc làm đảm nhiệm.\n2. Được hưởng tiền làm thêm giờ, tiền lương làm việc vào ban đêm, công\ntác phí và các chế độ khác theo quy định của pháp luật, quy chế chi tiêu nội bộ\ncủa đơn vị.\n3. Viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa,\nvùng dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn hoặc\ntrong các nghề, công việc nặng nhọc, độc hại, nguy hiểm, lĩnh vực sự nghiệp đặc\nthù được hưởng chính sách ưu đãi theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Quyền của viên chức về thực hiện hoạt động nghề nghiệp và",
+      "text": "Điều 13. Quyền của viên chức về thực hiện hoạt động nghề nghiệp và\nhoạt động kinh doanh\n1. Được ký hợp đồng lao động hoặc hợp đồng dịch vụ với cơ quan, tổ chức,\nđơn vị khác nếu pháp luật về ngành, lĩnh vực không cấm, bảo đảm không xung\nđột lợi ích theo quy định của pháp luật về phòng, chống tham nhũng, không trái\nvới thỏa thuận tại hợp đồng làm việc và không vi phạm đạo đức nghề nghiệp.\nTrường hợp chưa có thỏa thuận trong hợp đồng làm việc thì phải được sự\nđồng ý bằng văn bản của người đứng đầu đơn vị sự nghiệp công lập; đối với người\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 101\nđứng đầu đơn vị sự nghiệp công lập thì phải được sự đồng ý bằng văn bản của\ncấp trên quản lý trực tiếp.\n2. Được hành nghề với tư cách cá nhân nếu pháp luật về ngành, lĩnh vực\nnot cấm, bảo đảm không xung đột lợi ích theo quy định của pháp luật về phòng,\nchống tham nhũng và không vi phạm đạo đức nghề nghiệp.\n3. Được góp vốn, tham gia quản lý, điều hành doanh nghiệp, hợp tác xã,\nbệnh viện, cơ sở giáo dục, tổ chức nghiên cứu khoa học ngoài công lập; trừ trường\nhợp pháp luật về phòng, chống tham nhũng, pháp luật về doanh nghiệp hoặc pháp\nluật về ngành, lĩnh vực có quy định khác.\n4. Được thực hiện các quyền khác trong hoạt động kinh doanh nếu không\ntrái với quy định của pháp luật về hoạt động nghề nghiệp và quy định của cấp có\nthẩm quyền.\n5. Viên chức làm việc tại đơn vị sự nghiệp công lập trong lĩnh vực khoa học\nvà công nghệ, cơ sở giáo dục đại học công lập được thực hiện các quyền quy định\ntại Điều này, các quyền khác theo quy định của pháp luật về khoa học, công nghệ\nvà đổi mới sáng tạo, pháp luật về doanh nghiệp và pháp luật khác có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Quyền của viên chức về nghỉ ngơi và các quyền khác",
+      "text": "Điều 14. Quyền của viên chức về nghỉ ngơi và các quyền khác\n1. Được nghỉ hằng năm, nghỉ lễ, tết, nghỉ việc riêng, nghỉ không hưởng\nlương theo quy định của pháp luật về lao động.\nTrường hợp do yêu cầu công việc, viên chức không sử dụng hoặc sử dụng\nkhông hết số ngày nghỉ hằng năm thì được thanh toán một khoản tiền cho những\nngày không nghỉ theo quy chế chi tiêu nội bộ của đơn vị và phù hợp với khả năng\ntài chính của đơn vị.\n2. Được học tập, nghiên cứu khoa học ở trong và ngoài nước, tham gia các\nhoạt động kinh tế - xã hội, trừ các hoạt động quy định tại khoản 7 Điều 10 của\nLuật này; trường hợp bị thương hoặc hy sinh trong khi thực hiện nhiệm vụ thì\nđược xem xét hưởng chế độ, chính sách như thương binh hoặc được xem xét để\ncông nhận là liệt sĩ theo quy định của pháp luật.\n3. Được hưởng các quyền khác theo quy định của pháp luật và quy định\ncủa cấp có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Căn cứ tuyển dụng viên chức",
+      "text": "Điều 15. Căn cứ tuyển dụng viên chức\nViệc tuyển dụng viên chức phải căn cứ vào nhu cầu thực tế của đơn vị sự\nnghiệp công lập; vị trí việc làm; quỹ tiền lương và nguồn thu hợp pháp khác của\nđơn vị sự nghiệp công lập.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 102",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Nguyên tắc tuyển dụng viên chức",
+      "text": "Điều 16. Nguyên tắc tuyển dụng viên chức\n1. Bảo đảm công khai, minh bạch, khách quan, cạnh tranh, bình đẳng và\nđúng pháp luật.\n2. Bảo đảm tuyển dụng đúng nhu cầu sử dụng thực tế.\n3. Người được tuyển dụng phải đáp ứng ngay yêu cầu của vị trí việc làm dự tuyển.\n4. Thực hiện ưu tiên trong tuyển dụng đối với người có công với cách mạng,\nthân nhân của người có công với cách mạng; người dân tộc thiểu số, sĩ quan, quân\nnhân chuyên nghiệp phục viên và các đối tượng chính sách khác theo quy định\ncủa pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Phương thức tuyển dụng viên chức",
+      "text": "Điều 17. Phương thức tuyển dụng viên chức\n1. Việc tuyển dụng viên chức được thực hiện thông qua các phương thức\nsau đây:\na) Thi tuyển;\nb) Xét tuyển đối với từng nhóm đối tượng theo quy định của Chính phủ.\n2. Ngoài phương thức tuyển dụng theo quy định tại khoản 1 Điều này, các\nđối tượng sau đây nếu đáp ứng ngay yêu cầu của vị trí việc làm thì thực hiện tiếp\nnhận vào làm viên chức:\na) Chuyên gia, nhà khoa học, người có tài năng, năng khiếu đặc biệt, người\ncó kinh nghiệm phù hợp;\nb) Người đang ký hợp đồng làm công việc tại đơn vị sự nghiệp công lập;\nc) Các đối tượng khác theo quy định của pháp luật về ngành, lĩnh vực.\n3. Đối với người đang là cán bộ, công chức, viên chức, người hưởng lương\ntrong Quân đội nhân dân, Công an nhân dân, tổ chức cơ yếu nếu đáp ứng đủ tiêu\nchuẩn, điều kiện của vị trí việc làm và được cơ quan, đơn vị có thẩm quyền đồng\ný bằng văn bản chuyển sang làm viên chức tại đơn vị sự nghiệp công lập thì không\nphải thực hiện quy định tuyển dụng tại khoản 1 và khoản 2 Điều này.\n4. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Thẩm quyền tuyển dụng viên chức",
+      "text": "Điều 18. Thẩm quyền tuyển dụng viên chức\n1. Cơ quan quản lý đơn vị sự nghiệp công lập thực hiện việc tuyển dụng\nviên chức theo phân cấp, ủy quyền của Bộ, ngành, Ủy ban nhân dân cấp tỉnh; trừ\ntrường hợp quy định tại khoản 2 Điều này.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 103\n2. Căn cứ vào quy mô tổ chức, lĩnh vực hoạt động và năng lực đáp ứng yêu\ncầu tuyển dụng, Chính phủ quy định thẩm quyền tuyển dụng viên chức đối với\nđơn vị sự nghiệp công lập.\n3. Trường hợp đơn vị sự nghiệp công lập quy định tại khoản 2 Điều này có\nnhu cầu tuyển dụng nhưng không tự mình thực hiện việc tuyển dụng thì đề xuất\ncơ quan có thẩm quyền quy định tại khoản 1 Điều này thực hiện.\n4. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Điều kiện đăng ký dự tuyển viên chức",
+      "text": "Điều 19. Điều kiện đăng ký dự tuyển viên chức\n1. Người có đủ các điều kiện sau đây được đăng ký dự tuyển viên chức:\na) Có 01 quốc tịch Việt Nam theo quy định của Luật Quốc tịch;\nb) Đang cư trú tại Việt Nam;\nc) Đủ 18 tuổi trở lên, trừ trường hợp theo quy định của pháp luật về ngành,\nlĩnh vực đối với các ngành, nghề đặc thù;\nd) Có đơn đăng ký dự tuyển;\nđ) Có phẩm chất chính trị, đạo đức tốt; có lý lịch rõ ràng;\ne) Đủ sức khỏe để thực hiện nhiệm vụ;\ng) Đáp ứng các điều kiện theo yêu cầu của vị trí việc làm dự tuyển;\nh) Đáp ứng các tiêu chuẩn, điều kiện khác theo quy định của pháp luật về\nhoạt động nghề nghiệp.\n2. Người đăng ký dự tuyển vào vị trí việc làm viên chức quản lý, ngoài đáp\nứng điều kiện theo quy định tại khoản 1 Điều này, còn phải đáp ứng tiêu chuẩn,\nđiều kiện bổ nhiệm theo quy định, trừ trường hợp thực hiện theo quyết định của\ncấp có thẩm quyền.\n3. Những người sau đây không được đăng ký dự tuyển viên chức:\na) Mất hoặc bị hạn chế năng lực hành vi dân sự; người có khó khăn trong\nnhận thức, làm chủ hành vi;\nb) Đang bị truy cứu trách nhiệm hình sự; đang chấp hành hoặc đã chấp hành\nxong bản án, quyết định về hình sự của Tòa án mà chưa được xóa án tích; đang\nchấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo\ndục bắt buộc;\nc) Thuộc một trong các trường hợp không được đăng ký dự tuyển viên chức\ntheo quy định của pháp luật về hoạt động nghề nghiệp.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 104",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Hợp đồng làm việc đối với viên chức",
+      "text": "Điều 20. Hợp đồng làm việc đối với viên chức\n1. Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc\nngười được tuyển dụng vào làm viên chức với người đứng đầu đơn vị sự nghiệp\ncông lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc, quyền,\nnghĩa vụ và các nội dung khác có liên quan.\n2. Căn cứ vào kết quả tuyển dụng, người đứng đầu đơn vị sự nghiệp công\nlập ký hợp đồng làm việc và bố trí người trúng tuyển vào vị trí việc làm.\n3. Hợp đồng làm việc đối với viên chức bao gồm hợp đồng xác định thời\nhạn và hợp đồng không xác định thời hạn.\n4. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Hợp đồng lao động và hợp đồng dịch vụ",
+      "text": "Điều 21. Hợp đồng lao động và hợp đồng dịch vụ\n1. Căn cứ tính chất, yêu cầu nhiệm vụ, nguồn tài chính và nhu cầu về nguồn\nnhân lực của đơn vị sự nghiệp công lập, người đứng đầu đơn vị sự nghiệp công\nlập quyết định theo thẩm quyền hoặc báo cáo cơ quan có thẩm quyền trước khi ký\nkết hợp đồng lao động hoặc hợp đồng dịch vụ để thực hiện các nhiệm vụ sau đây:\na) Ký hợp đồng đối với chuyên gia, nhà khoa học, luật gia, luật sư giỏi, doanh\nnhân tiêu biểu, xuất sắc hoặc người có trình độ chuyên môn cao trong các ngành,\nlĩnh vực chiến lược, trọng điểm để thực hiện công việc của vị trí việc làm quản lý,\nđiều hành, phát triển đơn vị sự nghiệp công lập hoặc thực hiện công việc của vị\ntrí việc làm chuyên môn, nghiệp vụ;\nb) Ký hợp đồng để thực hiện công việc của vị trí việc làm hỗ trợ.\n2. Đối với một số lĩnh vực hoạt động văn hóa, nghệ thuật, thể dục, thể thao\nvà các lĩnh vực đặc thù khác yêu cầu tuổi nghề dưới 18 tuổi, việc ký kết hợp đồng\nđược thực hiện theo quy định của Bộ luật Lao động.\n3. Không ký kết hợp đồng thực hiện các công việc liên quan đến an ninh\nquốc gia, bí mật nhà nước và các nội dung khác theo quy định của pháp luật.\n4. Đơn vị sự nghiệp công lập được quyền sử dụng nguồn tài chính hợp pháp\ntheo quy định của pháp luật để ký kết hợp đồng theo quy định tại Điều này; đối\nvới đơn vị sự nghiệp công lập cung cấp dịch vụ công cơ bản, thiết yếu chưa tự\nchủ về tài chính thì nguồn tài chính thực hiện ký kết hợp đồng quy định tại Điều\nnày do ngân sách nhà nước chi trả.\n5. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Chấm dứt hợp đồng",
+      "text": "Điều 22. Chấm dứt hợp đồng\n1. Việc chấm dứt hợp đồng làm việc, hợp đồng lao động, hợp đồng dịch\nvụ, quyền, nghĩa vụ của các bên có liên quan thực hiện theo quy định của Luật\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 105\nnày, pháp luật về lao động, pháp luật về dân sự và quy định khác của pháp luật\ncó liên quan.\n2. Viên chức, người ký hợp đồng lao động, hợp đồng dịch vụ với đơn vị sự\nnghiệp công lập có quyền đơn phương chấm dứt hợp đồng. Các quy định có liên\nquan đến việc đơn phương chấm dứt hợp đồng thực hiện theo quy định của pháp\nluật về lao động, pháp luật về dân sự và quy định khác của pháp luật có liên quan.\n3. Đơn vị sự nghiệp công lập chỉ được đơn phương chấm dứt hợp đồng\nlàm việc, hợp đồng lao động, hợp đồng dịch vụ với viên chức, người ký kết hợp\nđồng lao động, hợp đồng dịch vụ trong các trường hợp tương ứng theo quy định\ncủa pháp luật về lao động, pháp luật về dân sự và quy định khác của pháp luật\ncó liên quan.\n4. Ngoài các trường hợp chấm dứt hợp đồng làm việc theo quy định tại\nkhoản 1 Điều này, hợp đồng làm việc chấm dứt trong các trường hợp sau:\na) Viên chức bị xử lý kỷ luật bằng hình thức buộc thôi việc;\nb) Viên chức bị xếp loại chất lượng ở mức không hoàn thành nhiệm vụ vì\nlý do chuyên môn, nghiệp vụ hoặc không đáp ứng yêu cầu của vị trí việc làm;\nc) Các trường hợp khác theo quy định của pháp luật về ngành, lĩnh vực\nhoặc theo thỏa thuận.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": "Vị trí việc làm viên chức",
+      "text": "Điều 23. Vị trí việc làm viên chức\n1. Căn cứ xác định vị trí việc làm viên chức:\na) Chức năng, nhiệm vụ và cơ cấu tổ chức của đơn vị sự nghiệp công lập;\nb) Mức độ phức tạp, tính chất, đặc điểm, quy mô hoạt động của đơn vị sự nghiệp\ncông lập; phạm vi, đối tượng phục vụ; quy trình quản lý chuyên môn, nghiệp vụ;\nc) Chuyên môn, nghiệp vụ của ngành, lĩnh vực hoạt động nghề nghiệp và\nchuyên môn, nghiệp vụ của ngành, lĩnh vực khác theo quy định;\nd) Mức độ hiện đại hóa phương tiện, trang bị, thiết bị, điều kiện làm việc\nvà ứng dụng khoa học, công nghệ, chuyển đổi số.\n2. Vị trí việc làm của viên chức bao gồm các nội dung chính sau:\na) Tên gọi vị trí việc làm;\nb) Bản mô tả công việc và khung năng lực của vị trí việc làm.\n3. Phân loại vị trí việc làm:\na) Vị trí việc làm quản lý;\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 106\nb) Vị trí việc làm chuyên môn, nghiệp vụ;\nc) Vị trí việc làm hỗ trợ.\n4. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": "Thay đổi vị trí việc làm",
+      "text": "Điều 24. Thay đổi vị trí việc làm\n1. Viên chức được chuyển sang vị trí việc làm mới nếu đáp ứng đủ tiêu\nchuẩn, điều kiện của vị trí việc làm đó và đơn vị còn nhu cầu về vị trí việc làm.\n2. Việc thay đổi vị trí việc làm do cấp có thẩm quyền quyết định, bảo đảm\ncông khai, minh bạch, khách quan và đúng pháp luật.\n3. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 25",
+      "heading": "Thực hiện đánh giá viên chức",
+      "text": "Điều 25. Thực hiện đánh giá viên chức\n1. Nguyên tắc thực hiện đánh giá:\na) Việc đánh giá phải bảo đảm dân chủ, công khai, công bằng, minh bạch,\nkhách quan, xuyên suốt, liên tục, đa chiều;\nb) Nội dung đánh giá phải được định lượng trên cơ sở các tiêu chí gắn với\nkết quả thực hiện nhiệm vụ theo từng vị trí việc làm;\nc) Ứng dụng khoa học, công nghệ, chuyển đổi số trong theo dõi, đánh giá,\nxếp loại chất lượng viên chức;\nd) Gắn kết quả đánh giá với việc thực hiện chế độ tiền lương, tiền thưởng\nvà chế độ, chính sách khác theo quy định của pháp luật và quy chế chi tiêu nội bộ\ncủa đơn vị.\n2. Thẩm quyền đánh giá:\na) Người đứng đầu đơn vị sự nghiệp công lập hoặc người đứng đầu đơn vị\ntrực thuộc thực hiện đánh giá viên chức thuộc phạm vi quản lý theo quy chế đánh\ngiá của đơn vị sự nghiệp công lập;\nb) Việc đánh giá người đứng đầu đơn vị sự nghiệp công lập do người đứng\nđầu cơ quan, tổ chức cấp trên quản lý trực tiếp thực hiện.\n3. Nội dung đánh giá:\na) Phẩm chất chính trị, phẩm chất đạo đức, đạo đức nghề nghiệp; ý thức kỷ\nluật, kỷ cương trong thực hiện nhiệm vụ; việc chấp hành quy định của pháp luật\nvề viên chức và quy định của cơ quan, tổ chức, đơn vị;\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 107\nb) Năng lực chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm; khả\nnăng đáp ứng yêu cầu thực hiện nhiệm vụ được giao thường xuyên, đột xuất; tinh\nthần trách nhiệm trong thực hiện nhiệm vụ; thái độ phục vụ người dân, doanh\nnghiệp đối với các vị trí việc làm tiếp xúc trực tiếp với người dân, doanh nghiệp;\nkhả năng phối hợp với đồng nghiệp;\nc) Năng lực đổi mới, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm\nvì lợi ích chung trong thực hiện nhiệm vụ;\nd) Kết quả thực hiện nhiệm vụ thông qua số lượng, chất lượng và tiến độ\ncủa sản phẩm theo vị trí việc làm;\nđ) Nội dung khác theo yêu cầu của vị trí việc làm.\nNgoài các nội dung nêu trên, viên chức quản lý còn được đánh giá theo kết\nquả hoạt động của đơn vị hoặc lĩnh vực được giao lãnh đạo, quản lý, phụ trách; khả\nnăng tổ chức triển khai thực hiện nhiệm vụ; năng lực tập hợp, đoàn kết viên chức,\nngười lao động thuộc thẩm quyền quản lý.\n4. Xây dựng quy chế đánh giá:\na) Chính phủ hướng dẫn việc xây dựng khung tiêu chí đánh giá đối với viên\nchức tại các đơn vị sự nghiệp công lập trong các ngành, lĩnh vực;\nb) Căn cứ vào quy định tại Điều này và khung tiêu chí đánh giá do Chính\nphủ ban hành, đơn vị sự nghiệp công lập xây dựng quy chế đánh giá áp dụng đối\nvới viên chức thuộc phạm vi quản lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 26",
+      "heading": "Xếp loại chất lượng và sử dụng kết quả đánh giá, xếp loại chất lượng",
+      "text": "Điều 26. Xếp loại chất lượng và sử dụng kết quả đánh giá, xếp loại chất lượng\n1. Căn cứ vào kết quả theo dõi, đánh giá, quy chế đánh giá của đơn vị, viên\nchức được xếp loại chất lượng hằng năm theo các mức sau:\na) Hoàn thành xuất sắc nhiệm vụ;\nb) Hoàn thành tốt nhiệm vụ;\nc) Hoàn thành nhiệm vụ;\nd) Không hoàn thành nhiệm vụ.\nKết quả xếp loại chất lượng phải được thông báo đến cá nhân viên chức, công\nkhai trong đơn vị và lưu vào hồ sơ viên chức.\nTrường hợp đơn vị sự nghiệp công lập có quy định riêng về đánh giá, xếp\nloại chất lượng thì phải quy định mức độ tương ứng với các mức xếp loại chất\nlượng theo quy định tại khoản này.\n2. Căn cứ vào kết quả đánh giá, xếp loại chất lượng định kỳ hoặc hằng năm,\ncấp có thẩm quyền quyết định:\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 108\na) Thực hiện đào tạo, bồi dưỡng, quy hoạch, điều động, bổ nhiệm, bổ nhiệm lại;\nb) Thực hiện chế độ tiền lương, chế độ, chính sách khác theo quy định của\npháp luật và quy định của cấp có thẩm quyền; thực hiện khen thưởng, chế độ thu\nnhập tăng thêm, tiền thưởng theo quy định;\nc) Xem xét, bố trí vào vị trí việc làm phù hợp trình độ thấp hơn hoặc cho\nthôi việc đối với trường hợp không hoàn thành nhiệm vụ hoặc không đáp ứng yêu\ncầu nhiệm vụ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 27",
+      "heading": "Kiến nghị về kết quả xếp loại chất lượng",
+      "text": "Điều 27. Kiến nghị về kết quả xếp loại chất lượng\n1. Khi có cơ sở cho rằng kết quả xếp loại chất lượng không đúng quy định\ncủa pháp luật hoặc quy chế đánh giá của đơn vị, viên chức có quyền kiến nghị về\nkết quả xếp loại chất lượng đối với mình bằng văn bản đến cấp có thẩm quyền\nxếp loại chất lượng hoặc cấp trên trực tiếp của cấp có thẩm quyền. Văn bản kiến\nnghị phải nêu rõ căn cứ kiến nghị, nội dung kiến nghị và đề xuất.\n2. Thời hạn kiến nghị là 05 ngày kể từ ngày công khai kết quả xếp loại\nchất lượng.\n3. Cấp có thẩm quyền có trách nhiệm giải quyết kiến nghị bằng hình thức\n1 đối thoại hoặc bằng văn bản trong thời hạn 10 làm việc kể từ ngày nhận được\nkiến nghị.\n4. Trình tự, thủ tục giải quyết kiến nghị về kết quả xếp loại chất lượng thực\nhiện theo quy định tại Điều này và theo quy chế của đơn vị. Không xem xét lại\nkết quả giải quyết kiến nghị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 28",
+      "heading": "Trách nhiệm đào tạo, bồi dưỡng viên chức",
+      "text": "Điều 28. Trách nhiệm đào tạo, bồi dưỡng viên chức\n1. Việc đào tạo, bồi dưỡng được thực hiện đối với viên chức nhằm bổ sung,\ncập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp hoặc hoàn thiện theo\nyêu cầu của vị trí việc làm.\n2. Đơn vị sự nghiệp công lập có trách nhiệm xây dựng và tổ chức thực hiện\nkế hoạch đào tạo, bồi dưỡng viên chức theo yêu cầu phát triển nguồn nhân lực và\ntạo điều kiện để viên chức được tham gia đào tạo, bồi dưỡng.\n3. Đối với các chương trình đào tạo, bồi dưỡng theo yêu cầu của cơ quan\ncó thẩm quyền thì kinh phí đào tạo, bồi dưỡng được lấy từ nguồn tài chính của cơ\nquan, đơn vị sự nghiệp công lập hoặc từ các nguồn khác theo quy định của pháp luật.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 109",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 29",
+      "heading": "Trách nhiệm và quyền lợi của viên chức trong đào tạo, bồi dưỡng",
+      "text": "Điều 29. Trách nhiệm và quyền lợi của viên chức trong đào tạo, bồi dưỡng\n1. Viên chức tham gia đào tạo, bồi dưỡng phải chấp hành quy chế đào tạo,\nbồi dưỡng và chịu sự quản lý của cơ sở đào tạo, bồi dưỡng.\n2. Viên chức được cử tham gia đào tạo, bồi dưỡng được hưởng tiền lương và\nchế độ theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập; thời\ngian đào tạo, bồi dưỡng được tính là thời gian công tác liên tục.\n3. Viên chức được đào tạo nếu tự ý bỏ việc, đơn phương chấm dứt hợp đồng\nthì phải đền bù chi phí đào tạo theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 30",
+      "heading": "Bổ nhiệm, biệt phái, từ chức, miễn nhiệm, cho thôi giữ chức vụ",
+      "text": "Điều 30. Bổ nhiệm, biệt phái, từ chức, miễn nhiệm, cho thôi giữ chức vụ\n1. Viên chức được bổ nhiệm giữ chức vụ quản lý bằng quyết định bổ nhiệm\ncủa cấp có thẩm quyền. Trường hợp được bổ nhiệm chức vụ quản lý mới thì đương\nnhiên thôi giữ chức vụ quản lý đang đảm nhiệm, trừ trường hợp kiêm nhiệm.\n2. Thời hạn bổ nhiệm viên chức giữ chức vụ quản lý là 05 năm, trừ trường\nhợp pháp luật về hoạt động nghề nghiệp có quy định khác. Thời hạn bổ nhiệm\ndưới 05 năm áp dụng đối với một số chức danh đặc thù theo quy định của pháp\nluật có liên quan hoặc quy định của cấp có thẩm quyền.\nKhi hết thời hạn bổ nhiệm, cấp có thẩm quyền phải xem xét bổ nhiệm lại\nhoặc không bổ nhiệm lại, trừ trường hợp chưa được xem xét, bổ nhiệm lại theo\nquy định của pháp luật và quy định của cấp có thẩm quyền.\n3. Việc biệt phái, từ chức, miễn nhiệm, cho thôi giữ chức vụ và các nội\ndung khác có liên quan đối với viên chức quản lý được thực hiện theo quy định\ncủa cấp có thẩm quyền và của Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 31",
+      "heading": "Điều động viên chức",
+      "text": "Điều 31. Điều động viên chức\nCơ quan có thẩm quyền quản lý viên chức hoặc cơ quan được giao thẩm\nquyền quản lý viên chức quyết định điều động viên chức từ đơn vị sự nghiệp này\nsang đơn vị sự nghiệp khác trong phạm vi quản lý theo quy định của Đảng hoặc\ntheo quy định của pháp luật về hoạt động nghề nghiệp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 32",
+      "heading": "Thôi việc, nghỉ hưu đối với viên chức",
+      "text": "Điều 32. Thôi việc, nghỉ hưu đối với viên chức\n1. Viên chức được thôi việc nếu thuộc một trong các trường hợp chấm dứt\nhợp đồng làm việc, đơn phương chấm dứt hợp đồng làm việc theo quy định của\npháp luật về lao động hoặc thuộc một trong các trường hợp quy định tại khoản 4\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 110\nĐiều 22 của Luật này. Chế độ trợ cấp thôi việc, trợ cấp mất việc làm, trợ cấp thất\nnghiệp được thực hiện theo quy định của pháp luật.\n2. Viên chức được nghỉ hưu theo quy định của pháp luật về lao động và\npháp luật về bảo hiểm xã hội; việc nghỉ hưu ở tuổi thấp hơn hoặc ở tuổi cao hơn\nđược thực hiện theo quy định của pháp luật về hoạt động nghề nghiệp hoặc quy\nđịnh của cấp có thẩm quyền.\n3. Chính phủ quy định thẩm quyền, trình tự, thủ tục thôi việc, nghỉ hưu; các\ntrường hợp chưa được chấm dứt hợp đồng làm việc và quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 33",
+      "heading": "Khen thưởng viên chức",
+      "text": "Điều 33. Khen thưởng viên chức\n1. Viên chức có thành tích trong công tác, hoạt động nghề nghiệp thì được\nkhen thưởng theo quy định của pháp luật về thi đua, khen thưởng.\n2. Viên chức được khen thưởng do có thành tích xuất sắc hoặc công trạng\nđược nâng lương trước thời hạn; được hưởng tiền thưởng từ quỹ tiền thưởng của\nđơn vị sự nghiệp công lập hoặc từ nguồn khác, được ưu tiên khi xem xét bổ nhiệm\nchức vụ cao hơn theo quy định của pháp luật và theo quy chế chi tiêu nội bộ của\nđơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 34",
+      "heading": "Loại trừ, miễn, giảm trách nhiệm đối với viên chức",
+      "text": "Điều 34. Loại trừ, miễn, giảm trách nhiệm đối với viên chức\n1. Viên chức được xem xét loại trừ, miễn, giảm trách nhiệm trong các\ntrường hợp sau đây:\na) Đã thực hiện theo đúng quy định về thẩm quyền, trình tự, thủ tục; không vụ\nlợi trong quá trình thực hiện nhiệm vụ nhưng vẫn gây ra thiệt hại vì lý do khách quan;\nb) Thực hiện đề xuất về đổi mới, sáng tạo được cơ quan, tổ chức, đơn vị có\nthẩm quyền cho phép và được cấp có thẩm quyền xác định đã thực hiện đúng chủ\ntrương, có động cơ trong sáng, vì lợi ích chung;\nc) Do bất khả kháng theo quy định của pháp luật;\nd) Các trường hợp khác theo quy định của pháp luật và quy định của cấp\ncó thẩm quyền.\n2. Việc loại trừ, miễn, giảm trách nhiệm đối với viên chức được thực hiện\ntheo quy định của pháp luật có liên quan và quy định của cấp có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 35",
+      "heading": "Xử lý kỷ luật đối với viên chức",
+      "text": "Điều 35. Xử lý kỷ luật đối với viên chức\n1. Viên chức vi phạm các quy định của Luật này và các quy định khác của\npháp luật có liên quan thì tùy theo tính chất, mức độ vi phạm phải chịu một trong\ncác hình thức kỷ luật sau:\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 111\na) Khiển trách;\nb) Cảnh cáo;\nc) Cách chức, áp dụng đối với viên chức quản lý;\nd) Buộc thôi việc.\n2. Viên chức bị kỷ luật bằng một trong các hình thức quy định tại khoản 1\nĐiều này còn bị hạn chế thực hiện hoạt động nghề nghiệp theo quy định của pháp\nluật có liên quan.\n3. Viên chức bị Tòa án kết án phạt tù mà không được hưởng án treo hoặc\nbị kết án về tội phạm tham nhũng thì đương nhiên bị buộc thôi việc kể từ ngày bản\nán, quyết định có hiệu lực pháp luật; viên chức quản lý phạm tội bị Tòa án kết án và\nbản án, quyết định đã có hiệu lực pháp luật thì đương nhiên thôi giữ chức vụ được\nbổ nhiệm.\n4. Chính phủ quy định chi tiết Điều này và các nội dung khác có liên quan\nđến xử lý kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 36",
+      "heading": "Thời hiệu, thời hạn xử lý kỷ luật",
+      "text": "Điều 36. Thời hiệu, thời hạn xử lý kỷ luật\n1. Thời hiệu xử lý kỷ luật là thời hạn mà khi hết thời hạn đó thì viên chức\ncó hành vi vi phạm không bị xử lý kỷ luật. Thời hiệu xử lý kỷ luật được tính từ\nthời điểm có hành vi vi phạm.\nTrừ trường hợp quy định tại khoản 2 Điều này, thời hiệu xử lý kỷ luật được\nquy định như sau:\na) 05 năm đối với hành vi vi phạm đến mức phải kỷ luật bằng hình thức\nkhiển trách;\nb) 10 năm đối với hành vi vi phạm không thuộc trường hợp quy định tại\nđiểm a khoản này.\n2. Các hành vi vi phạm không áp dụng thời hiệu xử lý kỷ luật bao gồm:\na) Viên chức là đảng viên có hành vi vi phạm đến mức phải kỷ luật bằng\nhình thức khai trừ;\nb) Có hành vi vi phạm quy định về công tác bảo vệ chính trị nội bộ;\nc) Có hành vi xâm hại đến lợi ích quốc gia trong lĩnh vực quốc phòng, an\nninh, đối ngoại;\nd) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận, xác nhận giả hoặc không\nhợp pháp.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 112\n3. Thời hạn xử lý kỷ luật đối với viên chức là khoảng thời gian từ khi phát\nhiện hành vi vi phạm của viên chức đến khi có quyết định xử lý kỷ luật của cấp\ncó thẩm quyền.\nThời hạn xử lý kỷ luật không quá 90 ngày; trường hợp vụ việc có tình tiết\nphức tạp cần có thời gian thanh tra, kiểm tra để xác minh làm rõ thêm thì thời hạn\nxử lý kỷ luật có thể kéo dài nhưng không quá 150 ngày.\n4. Trường hợp viên chức đã bị khởi tố, truy tố hoặc đã có quyết định đưa ra\nxét xử theo thủ tục tố tụng hình sự nhưng sau đó có quyết định đình chỉ điều tra\nhoặc đình chỉ vụ án mà hành vi vi phạm có dấu hiệu vi phạm kỷ luật thì bị xem\nxét xử lý kỷ luật. Thời gian điều tra, truy tố, xét xử theo thủ tục tố tụng hình sự\nkhông được tính vào thời hiệu xử lý kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 37",
+      "heading": "Các quy định khác liên quan đến việc kỷ luật viên chức",
+      "text": "Điều 37. Các quy định khác liên quan đến việc kỷ luật viên chức\n1. Căn cứ vào mức độ vi phạm và hình thức xử lý kỷ luật, viên chức bị xử\nlý kỷ luật còn bị áp dụng quy định tương ứng về việc bổ nhiệm vào chức vụ cao\nhơn; quy định về chế độ tuyển dụng, thôi việc, tiền lương, tiền thưởng và các quy\nđịnh khác có liên quan.\n2. Viên chức đang trong thời hạn xử lý kỷ luật, đang bị điều tra, truy tố, xét\nxử thì không được ứng cử, đề cử, bổ nhiệm, điều động, biệt phái, đào tạo, bồi dưỡng\ntheo quy định của pháp luật và quy định của cấp có thẩm quyền.\n3. Viên chức bị kỷ luật cách chức do tham nhũng thì không được bổ nhiệm\nvào vị trí viên chức quản lý.\n4. Trường hợp viên chức bị cấm hành nghề hoặc bị hạn chế hoạt động nghề\nnghiệp trong một thời hạn nhất định theo quyết định của cơ quan có thẩm quyền\nthì đơn vị sự nghiệp công lập bố trí viên chức vào vị trí việc làm khác không liên\nquan đến hoạt động nghề nghiệp bị cấm hoặc bị hạn chế. Trường hợp không có vị\ntrí việc làm phù hợp thì chấm dứt hợp đồng làm việc theo quy định của pháp luật.\n5. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 38",
+      "heading": "Tạm đình chỉ công tác đối với viên chức",
+      "text": "Điều 38. Tạm đình chỉ công tác đối với viên chức\n1. Người đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền quyết định tạm\nđình chỉ công tác đối với viên chức trong trường hợp phát hiện viên chức có dấu\nhiệu vi phạm trong thực hiện nhiệm vụ, hoạt động nghề nghiệp hoặc theo đề nghị\ncủa cơ quan, tổ chức, đơn vị có thẩm quyền.\n2. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 39",
+      "heading": "Nội dung, trách nhiệm quản lý nhà nước về viên chức",
+      "text": "Điều 39. Nội dung, trách nhiệm quản lý nhà nước về viên chức\n1. Nội dung quản lý nhà nước về viên chức bao gồm:\na) Ban hành văn bản quy phạm pháp luật về viên chức;\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 113\nb) Ban hành quy hoạch, kế hoạch xây dựng, phát triển đơn vị sự nghiệp\ntheo ngành, lĩnh vực và phát triển đội ngũ viên chức;\nc) Ban hành danh mục, bản mô tả công việc và khung năng lực của vị trí\nviệc làm; ban hành quy tắc ứng xử của viên chức thuộc ngành, lĩnh vực quản lý\n(nếu có);\nd) Quản lý công tác thống kê về viên chức; hướng dẫn việc lập, quản lý hồ\nsơ viên chức; xây dựng hệ thống cơ sở dữ liệu quốc gia về viên chức;\nđ) Thanh tra, kiểm tra việc quản lý nhà nước về viên chức.\n2. Trách nhiệm quản lý nhà nước về viên chức:\na) Chính phủ thống nhất quản lý nhà nước về viên chức và phân công, phân\ncấp cho các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thực hiện quản lý\nnhà nước về viên chức;\nb) Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà\nnước về viên chức theo quy định của Luật này và theo phân công, phân cấp của\nChính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 40",
+      "heading": "Nội dung, thẩm quyền quản lý viên chức",
+      "text": "Điều 40. Nội dung, thẩm quyền quản lý viên chức\n1. Nội dung quản lý viên chức bao gồm:\na) Xây dựng vị trí việc làm; quản lý số lượng người làm việc;\nb) Tuyển dụng, ký hợp đồng làm việc, bố trí, phân công nhiệm vụ, thay đổi\nvị trí việc làm;\nc) Quy hoạch, bổ nhiệm, bổ nhiệm lại, điều động, biệt phái, tạm đình chỉ\ncông tác, cho thôi giữ chức vụ, từ chức, miễn nhiệm;\nd) Theo dõi, đánh giá, xếp loại chất lượng, khen thưởng, kỷ luật;\nđ) Thực hiện đào tạo, bồi dưỡng, chế độ tiền lương và các chế độ, chính\nsách khác đối với viên chức;\ne) Giải quyết chế độ thôi việc, nghỉ hưu;\ng) Lập, quản lý hồ sơ viên chức; thực hiện chế độ báo cáo về quản lý\nviên chức;\nh) Giải quyết khiếu nại, tố cáo, kiến nghị;\ni) Các nội dung khác trong quản lý viên chức theo quy định của pháp luật.\n2. Thẩm quyền quản lý viên chức:\na) Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp\ntỉnh thực hiện quản lý viên chức theo thẩm quyền quy định tại Luật này và các\nthẩm quyền khác theo phân công, phân cấp của Chính phủ;\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 114\nb) Đơn vị sự nghiệp công lập thực hiện quản lý viên chức theo thẩm quyền\nquy định tại Luật này và các thẩm quyền khác theo phân cấp, ủy quyền của cơ\nquan có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 41",
+      "heading": "Hồ sơ và quản lý hồ sơ viên chức",
+      "text": "Điều 41. Hồ sơ và quản lý hồ sơ viên chức\n1. Hồ sơ viên chức bao gồm hồ sơ giấy và hồ sơ điện tử, được quản lý trên\nhệ thống thông tin về viên chức và được cập nhật vào cơ sở dữ liệu quốc gia về\nviên chức. Hồ sơ viên chức phải có đầy đủ tài liệu theo quy định, bảo đảm chính\nxác diễn biến, quá trình công tác của viên chức.\n2. Viên chức có trách nhiệm bổ sung thông tin cá nhân theo quy định khi\ncó thay đổi; cơ quan, tổ chức, đơn vị có thẩm quyền phê duyệt, cập nhật vào hồ\nsơ viên chức và đồng bộ với cơ sở dữ liệu quốc gia về viên chức.\n3. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 42",
+      "heading": "Áp dụng Luật Viên chức đối với viên chức đã nghỉ việc, nghỉ hưu",
+      "text": "Điều 42. Áp dụng Luật Viên chức đối với viên chức đã nghỉ việc, nghỉ hưu\nViệc xử lý đối với hành vi vi phạm trong thời gian công tác của viên chức\nđã nghỉ việc, nghỉ hưu được quy định như sau:\n1. Mọi hành vi vi phạm trong thời gian công tác của viên chức đã nghỉ việc,\nnghỉ hưu đều bị xử lý theo quy định của pháp luật;\n2. Căn cứ vào tính chất, mức độ nghiêm trọng, người có hành vi vi phạm\ncó thể bị xử lý hình sự, hành chính hoặc xử lý kỷ luật;\n3. Viên chức sau khi nghỉ việc, nghỉ hưu mới phát hiện có hành vi vi phạm\ntrong thời gian công tác thì tuỳ theo tính chất, mức độ vi phạm phải chịu một trong\nnhững hình thức kỷ luật khiển trách, cảnh cáo, xóa tư cách chức vụ đã đảm nhiệm\ngắn với hệ quả pháp lý tương ứng với hình thức kỷ luật;\n4. Chính phủ quy định chi tiết Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 43",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 43. Điều khoản thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.\n2. Luật Viên chức số 58/2010/QH12 đã được sửa đổi, bổ sung một số điều\ntheo Luật số 52/2019/QH14 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n3. Chậm nhất đến ngày 01 tháng 7 năm 2027, các Bộ, ngành, cơ quan trung\nương, địa phương, đơn vị sự nghiệp công lập phải hoàn thành việc bố trí vào vị trí\nviệc làm và xếp lương tương ứng đối với viên chức được tuyển dụng trước ngày Luật\nnày có hiệu lực thi hành thuộc phạm vi quản lý theo quy định của Luật này.\n\nCÔNG BÁO/Số 41/Ngày 22-01-2026 115\n4. Kể từ ngày Luật này có hiệu lực thi hành, người đang tập sự theo\nquy định của Luật Viên chức số 58/2010/QH12 đã được sửa đổi, bổ sung một số\nđiều theo Luật số 52/2019/QH14 được xếp lương tương ứng với vị trí việc làm\ntuyển dụng.\n5. Viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2003 có các\nquyền, nghĩa vụ và được quản lý như viên chức làm việc theo hợp đồng làm việc\nkhông xác định thời hạn theo quy định của pháp luật về viên chức.\nViên chức được tuyển dụng từ ngày 01 tháng 7 năm 2003 đến trước ngày\nLuật này có hiệu lực thi hành tiếp tục thực hiện hợp đồng làm việc đã ký kết\nvới đơn vị sự nghiệp công lập, có các quyền, nghĩa vụ và được quản lý theo quy\nđịnh của Luật này và quy định của pháp luật có liên quan.\nLuật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV,\nKỳ họp thứ 10 thông qua ngày 10 tháng 12 năm 2025./.",
+      "isImplementationClause": true
+    }
+  ]
+}

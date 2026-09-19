@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0455_191_QĐ-ĐHĐN_Quyết định ban hành Kế hoạch thực hiện Nghị quyết số 57-NQ_TW ngày 22_12_2024 của.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "191/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Kế hoạch thực hiện Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia; Nghị quyết số 59-NQ/TW ngày 24/01/2025 của Bộ Chính trị về hội nhập quốc tế trong tình hình mới và Nghị quyết số 71-NQ/TW ngày 22/8/2025 của Bộ Chính trị về đột phá giáo dục và đào tạo.",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "16/01/2026",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Khoa học Công nghệ",
+      "Đào tạo"
+    ],
+    "summary": "Đại học Đà Nẵng ban hành Quyết định kèm theo Kế hoạch thực hiện các nghị quyết của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia, hội nhập quốc tế trong tình hình mới và đột phá giáo dục và đào tạo.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "57-NQ/TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia;"
+    },
+    {
+      "targetDocumentNumber": "59-NQ/TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 59-NQ/TW ngày 24/01/2025 của Bộ Chính trị về hội nhập quốc tế trong tình hình mới;"
+    },
+    {
+      "targetDocumentNumber": "71-NQ/TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 71-NQ/TW ngày 22/8/2025 của Bộ Chính trị về đột phá giáo dục và đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "512-NQ/ĐU",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 512-NQ/ĐU ngày 13/01/2026 của Đảng ủy Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Bộ Chính trị",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Đảng ủy Đại học Đà Nẵng",
+    "Ban Tổ chức Cán bộ",
+    "Thành ủy Đà Nẵng",
+    "Đảng ủy UBND Tp. Đà Nẵng",
+    "Đảng ủy ĐHĐN",
+    "Ban Chỉ đạo Trung ương",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch thực hiện Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia; Nghị ",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch thực hiện Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia; Nghị quyết số 59-NQ/TW ngày 24/01/2025 của Bộ Chính trị về hội nhập quốc tế trong tình hình mới và Nghị quyết số 71-NQ/TW ngày 22/8/2025 của Bộ Chính trị về đột phá giáo dục và đào tạo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Căn cứ Kế hoạch này, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng có trách nhiệm chủ trì xây dựng các nhiệm vụ cụ thể đảm bảo theo đúng tiến độ qu",
+      "text": "Điều 2. Căn cứ Kế hoạch này, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng có trách nhiệm chủ trì xây dựng các nhiệm vụ cụ thể đảm bảo theo đúng tiến độ quy định; hằng năm, báo cáo Giám đốc Đại học Đà Nẵng về kết quả thực hiện kế hoạch và kiến nghị điều chỉnh, bổ sung các chỉ tiêu, nhiệm vụ cho phù hợp với tình hình thực tiễn của đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên và Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Cơ sở vật chất, xây dựng/0065_2673_QĐ-ĐHBK_Quy chế quản lý, sử dụng tài sản công Trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "41 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2673/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định quản lý, sử dụng tài sản công của Trường Đại học Bách khoa Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/10/2021",
+    "effectiveDate": "20/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Cơ sở vật chất, xây dựng"
+    ],
+    "summary": "Quyết định ban hành Quy định quản lý, sử dụng tài sản công của Trường Đại học Bách khoa Đại học Đà Nẵng, áp dụng đối với các đơn vị, cá nhân thuộc trường nhằm đảm bảo hiệu quả, tiết kiệm, chống thất thoát, lãng phí tài sản công.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "151/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26/12/2017 của Thủ tướng Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản lý, sử dụng tài sản công;"
+    },
+    {
+      "targetDocumentNumber": "04/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 04/2019/NĐ-CP, ngày 11/01/2019 về việc tiêu chuẩn định mức sử dụng xe ô tô;"
+    },
+    {
+      "targetDocumentNumber": "63/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 63/2019/NĐ-CP, ngày 11/07/2019 về việc quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản công; thực hành tiết kiệm; chống lãng phí; dự trữ quốc gia; kho bạc nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "45/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 45/2018/TT-BTC Thông tư hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan, tổ chức, đơn vị và tài sản cố định do nhà nước giao cho doanh nghiệp quản lý không tính thành phần vốn nhà nước tại doanh nghiệp;"
+    },
+    {
+      "targetDocumentNumber": "16/2019/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 16/2019/TT-BGDĐT ngày 04/10/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng thuộc lĩnh vực giáo dục và đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "03/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 03/2020/TT-BGDĐT, ngày 10/02/2020 về chi tiết hướng dẫn về tiêu chuẩn, định mức sử dụng diện tích công trình sự nghiệp thuộc lĩnh vực giáo dục và đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết 05/NQ-HĐT ngày 12/01/2021 về Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "200/2014/TT-BTC",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 26",
+      "context": "Công cụ, dụng cụ (TSCC) là những tư liệu lao động không có đủ các tiêu chuẩn về giá trị và thời gian sử dụng quy định để trở thành TSCĐ thì được xếp vào nhóm TSCC (theo Điều 26 Thông tư 200/2014/TT-BTC, ngày 22/12/2014)."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Tài chính",
+    "Bộ trưởng Bộ Giáo dục và Đào tạo",
+    "Hội đồng Nhà trường",
+    "Hội đồng Đại học",
+    "Phòng Cơ sở Vật chất",
+    "Phòng Tổ chức - Hành chính",
+    "Phòng Kế hoạch - Tài chính",
+    "Trung tâm Học liệu và Truyền thông",
+    "Ban Giám hiệu",
+    "Tổ Công nghệ thông tin",
+    "Tổ bảo vệ",
+    "Ban chấp hành Công đoàn",
+    "Hội đồng kiểm kê Nhà trường",
+    "Hội đồng thanh lý tài sản",
+    "Hội đồng xử lý trách nhiệm vật chất",
+    "Hội đồng xử lý vi phạm"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Quản lý, sử dụng tài sản công của Trường Đại học Bách khoa Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nVăn bản này quy định về việc quản lý, sử dụng tài sản công của Trường Đại học\nBách khoa Đại học Đà Nẵng (gọi tắt là Nhà trường) bao gồm: Tất cả tài sản có\nnguồn gốc hình thành từ ngân sách nhà nước và các nguồn kinh phí hợp pháp khác, tài\nsản được giao, tài sản được tặng, tài sản được viện trợ, tài trợ; các tài sản khác theo\nquy định của pháp luật được xác lập sở hữu nhà nước do Nhà trường trực tiếp quản lý,\nkhai thác và sử dụng.\n2. Đối tượng áp dụng\na) Các đơn vị thuộc và trực thuộc Nhà trường (sau đây gọi tắt là đơn vị) được\ngiao quản lý và sử dụng tài sản công.\nb) Viên chức, người lao động của các đơn vị (sau đây gọi tắt là cá nhân) được\ngiao quản lý và sử dụng tài sản công.\nc) Các tổ chức, cá nhân khác có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích",
+          "text": "Điều 2. Mục đích\n1. Đảm bảo tính thống nhất về quản lý tài sản của Nhà trường, tuân thủ các quy\nđịnh của pháp luật.\n2. Tăng cường khai thác và sử dụng tài sản đảm bảo hiệu quả, tiết kiệm; chống\nlãng phí, thất thoát.\n3. Phát huy quyền làm chủ của tập thể, dân chủ, công khai trong việc quản lý và\nsử dụng tài sản công.\n4. Đảm bảo công tác tự kiểm tra, giám sát theo đúng quy định.\n5. Nâng cao trách nhiệm của từng đơn vị, tổ chức, cá nhân trong công tác quản\nlý, sử dụng tài sản công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguyên tắc và yêu cầu trong việc quản lý và sử dụng tài sản công",
+          "text": "Điều 3. Nguyên tắc và yêu cầu trong việc quản lý và sử dụng tài sản công\n\n2\n1. Mọi tài sản do Nhà trường thống nhất giao quyền quản lý, quyền sử dụng cho\ncác đơn vị, tổ chức hoặc cá nhân theo quy định của Nhà trường và pháp luật.\n2. Công tác quản lý, khai thác và sử dụng tài sản được thực hiện thống nhất; có\nphân công, phân cấp rõ ràng; nâng cao trách nhiệm của từng đơn vị và thực hiện phối\nhợp giữa các đơn vị thuộc, trực thuộc Nhà trường; cá nhân được giao trực tiếp sử dụng\ntài sản; có hệ thống sổ sách theo dõi chặt chẽ; định kỳ phải tổ chức kiểm kê, đánh giá\nlại tài sản theo quy định của pháp luật.\n3. Tài sản của Nhà trường được đầu tư, trang bị và sử dụng đúng mục đích, tiêu\nchuẩn, định mức, chế độ, bảo đảm công bằng hiệu quả, tiết kiệm.\n4. Tài sản của Nhà trường được hạch toán đầy đủ về hiện vật và giá trị theo quy\nđịnh của pháp luật; việc xác định giá trị tài sản trong quan hệ mua, bán, thuê, cho thuê,\nliên doanh, liên kết, thanh lý tài sản hoặc trong các giao dịch khác được thực hiện theo\ncơ chế thị trường; trừ các trường hợp pháp luật có quy định khác.\n5. Tài sản được bảo dưỡng, bảo trì, nâng cấp sửa chữa, bảo vệ theo đúng chế độ\nquy định.\n6. Việc quản lý, sử dụng tài sản được thực hiện công khai, minh bạch, bảo đảm\nthực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng; mọi hành vi vi phạm\nquy định của pháp luật, của Nhà trường về quản lý và sử dụng tài sản phải được xử lý\nkịp thời, nghiêm minh theo quy định của Nhà trường và của pháp luật.\n7. Quản lý, sử dụng tài sản của Nhà trường vào mục đích phục vụ đào tạo và\nnghiên cứu khoa học phải bảo đảm các yêu cầu sau đây:\na) Không ảnh hưởng đến việc thực hiện chức năng, nhiệm vụ được giao;\nb) Sử dụng tài sản đúng mục đích đầu tư xây dựng mua sắm;\nc) Phát huy công suất và hiệu quả sử dụng tài sản công;\nd) Thực hiện theo cơ chế thị trường và tuân thủ các quy định của pháp luật.\n8. Việc sử dụng tài sản công vào mục đích sản xuất, kinh doanh dịch vụ, cho\nthuê, liên doanh, liên kết phải được phê duyệt của Bộ Giáo dục và Đào tạo hoặc cấp có\nthẩm quyền theo quy định của pháp luật.\nTiền thu được từ hoạt động sản xuất, kinh doanh, dịch vụ, liên doanh, liên kết\nphải được hạch toán đầy đủ theo quy định của pháp luật về kế toán, thống kê và quản\nlý, sử dụng theo cơ chế tài chính áp dụng đối với đơn vị sự nghiệp. Tiền thu được từ\ncho thuê tài sản, đơn vị phải hạch toán riêng; sau khi trừ chi phí hợp lý liên quan, nộp\nthuế và thực hiện nghĩa vụ tài chính khác đối với Nhà nước, Nhà trường được sử dụng\nđể phát triển hoạt động sự nghiệp.\n9. Hồ sơ tài sản Nhà trường phải được bảo quản và lưu trữ theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Phân loại tài sản",
+          "text": "Điều 4. Phân loại tài sản\nTài sản của Nhà trường bao gồm tài sản cố định hữu hình và tài sản cố định vô\nhình và các tài sản khác.\n\n1. Tài sản cố định hữu hình\na) Tiêu chuẩn nhận biết tài sản cố định hữu hình\nTài sản cố định (TSCĐ) hữu hình là những tài sản có hình thái vật chất, có kết\ncấu độc lập hoặc là một hệ thống gồm nhiều bộ phận riêng lẻ liên kết với nhau để cùng\nthực hiện một hay một số chức năng nhất định, thỏa mãn đồng thời cả 02 tiêu chuẩn\ndưới đây:\nCó thời gian sử dụng từ 01 (một) năm trở lên;\nCó nguyên giá từ 10.000.000 đồng (mười triệu đồng) trở lên.\nb) Danh mục tài sản cố định hữu hình\nLoại 1: Nhà, công trình xây dựng gồm: Nhà làm việc, nhà kho, hội trường, nhà\ncâu lạc bộ, nhà tập luyện và thi đấu thể thao, phòng truyền thống, nhà xưởng, phòng\nhọc, giảng đường, ký túc xá, phòng y tế, nhà khách, nhà ở, các công trình xây dựng\nkhác.\nLoại 2: Vật kiến trúc gồm: Kho chứa, bể chứa, bãi đỗ, sân phơi, sân chơi, sân thể\nthao, bể bơi, giếng khoan, giếng đào, tường rào và vật kiến trúc khác.\nLoại 3: Xe ô tô gồm: Xe ô tô phục vụ công tác các chức danh, xe ô tô phục vụ\ncông tác chung, xe ô tô chuyên dùng và xe ô tô khác.\nLoại 4: Phương tiện vận tải khác (ngoài xe ô tô), gồm: Phương tiện vận tải đường\nbộ và phương tiện vận tải khác.\nLoại 5: Máy móc, thiết bị gồm: Máy móc, thiết bị văn phòng phổ biến; máy móc,\nthiết bị phục vụ hoạt động chung của Nhà trường; máy móc, thiết bị chuyên dùng và\nmáy móc, thiết bị khác.\nMáy móc, thiết bị văn phòng phổ biến: Máy vi tính, máy in, máy photocopy,\nmáy chiếu, máy huỷ tài liệu, máy đun nước, thiết bị lọc nước, máy hút ẩm, máy hút\nbụi, máy điều hoà không khí, tủ lạnh, máy giặt, thiết bị nghe nhìn, thiết bị lưu trữ\nthông tin dữ liệu, thiết bị phòng cháy chữa cháy, bàn ghế, tủ, két sắt...\nMáy móc thiết bị phục vụ hoạt động chung của Nhà trường: Máy tính, phương\ntiện kết nối mạng máy tính, các thiết bị nghe nhìn, hệ thống bàn, ghế, tủ/giá, kệ được\nlắp đặt trong các phòng học, hội trường, phòng sinh hoạt chuyên môn, giảng đường,\nphòng y tế...\nMáy móc thiết bị dùng cho công tác chuyên môn: Máy công cụ, máy móc thiết\nbị đo lường phân tích, máy móc thiết bị thí nghiệm, máy móc thiết bị trong các phòng\nthí nghiệm, phòng thực hành, xưởng/trại/trạm thực tập, thực hành, thực nghiệm;\nMáy móc thiết bị tại Trung tâm Học liệu và Truyền thông và các trung tâm\nnghiên cứu khoa học, chuyển giao công nghệ của Nhà trường;\nMáy móc thiết bị phục vụ cho công tác thi và tuyển sinh, đánh giá, kiểm định\nchất lượng;\n\nHệ thống điều hòa, hút ẩm, bảo ôn, phòng cháy chữa cháy, xử lý nước, chất thải\ntrong các phòng thí nghiệm, phòng thực hành, phòng nghiên cứu khoa học;\nMáy móc thiết bị khác, dây chuyền công nghệ phục vụ cho đào tạo, nghiên cứu\nkhoa học, chuyển giao công nghệ và các nhiệm vụ đặc thù của Nhà trường;\nLoại 6: Cây lâu năm, cây cảnh và các cây trồng khác.\nLoại 7: Tài sản cố định hữu hình khác.\n2. Tài sản cố định vô hình\na) Tiêu chuẩn nhận biết tài sản cố định vô hình\nTài sản cố định vô hình là những tài sản không có hình thái vật chất mà cơ quan,\ntổ chức, đơn vị, doanh nghiệp đã đầu tư chi phí tạo lập tài sản hoặc được hình thành\nqua quá trình hoạt động, thỏa mãn đồng thời cả 02 tiêu chuẩn dưới đây:\nCó thời gian sử dụng từ 01 (một) năm trở lên;\nCó nguyên giá từ 10.000.000 đồng (mười triệu đồng) trở lên.\nb) Danh mục tài sản cố định vô hình\nLoại 1: Quyền sử dụng đất.\nLoại 2: Quyền tác giả và quyền liên quan đến quyền tác giả.\nLoại 3: Quyền sở hữu công nghiệp.\nLoại 4: Quyền đối với giống cây trồng.\nLoại 5: Phần mềm ứng dụng.\nLoại 6: Thương hiệu của Nhà trường (bao gồm các yếu tố năng lực, chất lượng,\nuy tín, yếu tố lịch sử, bề dày truyền thống của Nhà trường và các yếu tố khác có khả\nnăng tạo ra các quyền, lợi ích kinh tế cho Nhà trường).\nLoại 7: Tài sản cố định vô hình khác.\n3. Tài sản khác\na) Công cụ dụng cụ\nCông cụ, dụng cụ (TSCC) là những tư liệu lao động không có đủ các tiêu chuẩn\nvề giá trị và thời gian sử dụng quy định để trở thành TSCĐ thì được xếp vào nhóm\nTSCC (theo Điều 26 Thông tư 200/2014/TT-BTC, ngày 22/12/2014).\nb) Nguyên liệu, vật liệu, hóa chất\nTài sản nguyên liệu, vật liệu, hóa chất (NVLHC) trong phạm vi hoạt động của\nNhà trường được hiểu là những đồ dùng, nguyên vật liệu, hóa chất, mẫu vật, văn\nphòng phẩm, xăng, dầu, nhớt... phục vụ cho công tác thực hành, thực tập, thí nghiệm\nkhi đưa vào sử dụng coi như vật tư tiêu hao (theo Điều 25 Thông tư 200/2014/TT-\nBTC, ngày 22/12/2014).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nhiệm vụ, quyền hạn, chức năng của các đơn vị, tổ chức và cá nhân trong",
+          "text": "Điều 5. Nhiệm vụ, quyền hạn, chức năng của các đơn vị, tổ chức và cá nhân trong\nviệc quản lý, khai thác và sử dụng tài sản\n1. Ban Giám hiệu:\n\na) Hiệu trưởng là người quyết định và chịu trách nhiệm về việc quản lý và sử\ndụng tài sản của Nhà trường trước pháp luật.\nb) Hiệu trưởng thực hiện thống nhất quản lý, khai thác và sử dụng tài sản của\nNhà trường; quyết định các dự án về đầu tư, mua sắm tài sản và xây dựng cơ bản;\nquyết định sử dụng tài sản, cơ sở vật chất của Nhà trường để liên doanh, liên kết thực\nhiện các hoạt động đào tạo, nghiên cứu khoa học, chuyển giao công nghệ, các dịch vụ\nphù hợp chuyên môn; quyết định cho thuê tài sản theo thẩm quyền đã được các cơ\nquan cấp trên phân cấp theo quy định của pháp luật hiện hành.\n2. Phòng Cơ sở Vật chất\na) Phòng Cơ sở Vật chất (Phòng CSVC) là đơn vị được Nhà trường giao nhiệm\nvụ làm đầu mối thống nhất việc quản lý, sử dụng tài sản của Nhà trường. Phòng CSVC\ncó trách nhiệm quản lý và sử dụng tài sản Nhà trường theo các quy định của pháp luật,\nchịu trách nhiệm quản lý chung về mặt hiện vật; lưu trữ hồ sơ, sổ sách của tài sản; thực\nhiện quản lý hồ sơ lý lịch từng loại tài sản; chi tiết cụ thể chủng loại, xuất xứ, khối\nlượng, số lượng, chất lượng, tình trạng v.v. của tài sản toàn Nhà trường.\nb) Lập kế hoạch và triển khai tổ chức đầu tư mua sắm tài sản và xây dựng cơ bản.\nc) Lập kế hoạch xây dựng, mua sắm, sửa chữa, cải tạo, thanh lý, điều chuyển tài\nsản của các đơn vị theo nhu cầu thực tế của đơn vị và đảm bảo theo quy định của pháp\nluật hiện hành.\nd) Xây dựng chế độ quản lý, tiêu chuẩn, định mức sử dụng tài sản của Nhà\ntrường và thực hiện quản lý nhà nước về sử dụng tài sản như chế độ, tiêu chuẩn, định\nmức theo quy định của các cấp có thẩm quyền.\ne) Phối hợp với các đơn vị xây dựng chế độ, tiêu chuẩn, định mức chi và quản lý\nchi nhằm quản lý, khai thác và sử dụng có hiệu quả cao trong đào tạo, nghiên cứu khoa\nhọc và chuyển giao công nghệ.\ng) Tổ chức bảo dưỡng, sửa chữa, điều chuyển, thu hồi và xử lý tài sản theo quy\nđịnh.\nh) Tham mưu thành lập hội đồng thanh lý và tổ chức xử lý các tài sản công trong\ntrường hợp bị mất, hư hỏng.\ni) Lập hệ thống sổ sách, biểu mẫu theo dõi, quản lý tài sản công theo quy định\ncủa Nhà nước, của Nhà trường và hướng dẫn các đơn vị thực hiện.\nk) Phối hợp với các đơn vị thực hiện các nhiệm vụ: Kiểm tra thường xuyên hoặc\nkiểm tra định kỳ về tình hình quản lý và sử dụng tài sản công của các đơn vị; thống kê\nvà báo cáo kịp thời về tình hình hiện trạng tài sản công theo định kỳ hoặc theo yêu cầu\nbáo cáo đột xuất.\nl) Thực hiện đúng chế độ hạch toán, khấu hao, đăng ký và báo cáo về thực trạng\ntài sản của Nhà trường định kỳ theo quy định hiện hành.\n\nm) Thực hiện các nhiệm vụ khác liên quan về tài sản công do Hiệu trưởng phân\ncông.\n3. Phòng Kế hoạch - Tài chính\na) Phòng Kế hoạch - Tài chính (Phòng KHTC) quản lý chung về mặt giá trị tài\nsản; có trách nhiệm lưu trữ hồ sơ, sổ sách, chứng từ gốc của tài sản; thực hiện quản lý\ntrên sổ kế toán tài sản theo từng chỉ tiêu cụ thể, gồm: nguyên giá tài sản, tính hao mòn\nhoặc trích khấu hao và giá trị còn lại.\nb) Thực hiện công tác báo cáo về tài sản theo chế độ kế toán và theo yêu cầu của\ncác cấp có thẩm quyền.\n4. Phòng Tổ chức - Hành chính\na) Phòng Tổ chức - Hành chính (Phòng TCHC) có trách nhiệm hướng dẫn, theo\ndõi, đôn đốc, kiểm tra viên chức và khách đến cơ quan trong việc thực hiện nội quy cơ\nquan, quy định về các quy định về quản lý sử dụng tài sản, an toàn phòng chống cháy,\nnổ.\nb) Phòng TCHC trực tiếp bảo vệ hiện trường; bảo vệ tài sản của Nhà trường;\nkiểm soát người ra vào, kịp thời tham gia hoạt động PCCC đảm bảo an toàn tính mạng\nvà tài sản Nhà trường.\n5. Các đơn vị, cá nhân được giao quản lý và sử dụng tài sản\na) Trưởng các đơn vị chịu trách nhiệm trước Nhà trường về công tác quản lý,\nkhai thác và sử dụng tài sản được giao; sử dụng đúng mục đích, đúng tiêu chuẩn, định\nmức và đúng yêu cầu kỹ thuật.\nb) Lãnh đạo các đơn vị phải phân công cho từng cá nhân trực tiếp phụ trách và sử\ndụng từng loại tài sản và chịu trách nhiệm về mặt kỹ thuật của tài sản sau khi tiếp nhận\nbàn giao tài sản mới được cấp.\nc) Căn cứ vào nhu cầu nội bộ, lãnh đạo đơn vị sử dụng có quyền điều chuyển tài\nsản trong nội bộ đơn vị để khai thác hiệu quả. Khi điều chuyển, đơn vị phải làm các\nthủ tục giao nhận nội bộ và điều chỉnh trong biên bản kiểm kê tài sản; báo cáo về\nPhòng CSVC thay đổi danh mục tài sản, vị trí sử dụng tài sản trong biên bản kiểm kê\nhàng năm.\nd) Trong trường hợp tài sản công bị mất hoặc hư hỏng cá nhân được giao quản\nlý, sử dụng tài sản cần báo cáo ngay cho lãnh đạo đơn vị và lãnh đạo đơn vị phải gửi\nbáo cáo đến Phòng CSVC bằng văn bản để xác định nguyên nhân và trình Hiệu trưởng\nxem xét, chỉ đạo cách xử lý.\ne) Lập kế hoạch xây dựng, mua sắm, sửa chữa, cải tạo, thanh lý, điều chuyển tài\nsản của đơn vị theo nhu cầu thực tế của đơn vị và đảm bảo quy định của Nhà trường.\ng) Theo dõi, kiểm tra việc quản lý, khai thác và sử dụng tài sản tại các đơn vị\nthuộc đơn vị mình quản lý.\n\nh) Lập kế hoạch bảo trì, bảo dưỡng tài sản theo từng chủng loại thiết bị, tài sản\nđược giao quản lý và sử dụng.\ni) Nếu tài sản công hư hỏng dư thừa không sử dụng phải chủ động đề xuất sửa\nchữa, thanh lý hoặc điều chuyển đến đơn vị khác có nhu cầu.\nk) Chịu trách nhiệm bảo quản tài sản được giao.\nl) Không được sử dụng tài sản công của đơn vị phục vụ cho mục đích cá nhân\nhoặc cho thuê sản xuất kinh doanh, dịch vụ.\nm) Trong trường hợp mang tài sản công đi sửa chữa, bảo trì bảo dưỡng phải có\nxác nhận của Phòng CSVC.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quy trình thực hiện",
+          "text": "Điều 6. Quy trình thực hiện\nViệc mua sắm tài sản, bảo dưỡng bảo trì tài sản, sửa chữa tài sản, điều động tài\nsản, thanh lý, tiếp nhận tài sản ở các đơn vị thực hiện theo đúng quy định tại các quy\ntrình của Nhà trường ban hành.\nChương II\nQUẢN LÝ, SỬ DỤNG TÀI SẢN CÔNG\nMục 1.\nQUẢN LÝ, SỬ DỤNG TÀI SẢN HỮU HÌNH LÀ TRỤ SỞ LÀM VIỆC",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Đối tượng sử dụng diện tích làm việc",
+          "text": "Điều 7. Đối tượng sử dụng diện tích làm việc\n1. Các đơn vị thuộc và trực thuộc Nhà trường.\n2. Các tổ chức Đảng, Đoàn thể trong Trường.\n3. Các tập thể khác được Nhà trường thành lập và công nhận.\n4. Các Giáo sư, Phó Giáo sư không tham gia công tác quản lý (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiêu chuẩn, định mức sử dụng diện tích làm việc",
+          "text": "Điều 8. Tiêu chuẩn, định mức sử dụng diện tích làm việc\n1. Thực hiện theo Thông tư số 03/2020/TT-BGDĐT, ngày 10/02/2020 về việc\nquy định chi tiết hướng dẫn về tiêu chuẩn, định mức sử dụng diện tích công trình sự\nnghiệp thuộc lĩnh vực giáo dục và đào tạo.\n2. Dựa vào căn cứ trên, Phòng CSVC tham mưu cho Hiệu trưởng quy định tiêu\nchuẩn, định mức sử dụng diện tích làm việc tại các đơn vị theo điều kiện thực tế của\nNhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Bố trí, sắp xếp nơi làm việc",
+          "text": "Điều 9. Bố trí, sắp xếp nơi làm việc\n1. Hiệu trưởng phê duyệt diện tích trụ sở làm việc cho các đơn vị thuộc và trực\nthuộc căn cứ vào đề xuất của các đơn vị và điều kiện thực tế của Nhà trường.\n2. Phòng CSVC tổ chức bố trí sắp xếp nơi làm việc cho các đơn vị thuộc và trực\nthuộc theo phê duyệt của Hiệu trưởng.\n3. Trưởng các đơn vị căn cứ diện tích làm việc được giao, tiêu chuẩn, định mức\ncủa từng chức danh, nghiệp vụ chuyên môn theo quy định, thực hiện bố trí sắp xếp chỗ\nlàm việc cho cá nhân thuộc đơn vị mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Yêu cầu về sử dụng trụ sở làm việc",
+          "text": "Điều 10. Yêu cầu về sử dụng trụ sở làm việc\n1. Yêu cầu chung\na) Trụ sở làm việc phải được sử dụng đúng công năng thiết kế, đúng mục đích.\nKhông sử dụng diện tích làm việc, các công trình phụ trợ vào mục đích sản xuất kinh\ndoanh, cho thuê, cho mượn hoặc bố trí cho viên chức làm chỗ ở tạm thời hoặc lâu dài.\nb) Bên ngoài cổng trụ sở làm việc phải gắn biển tên và địa chỉ của cơ quan. Nội\nquy cơ quan được niêm yết công khai để viên chức, người lao động, người học của\nNhà trường và khách đến liên hệ công tác biết và chấp hành.\nc) Trụ sở làm việc có sơ đồ thể hiện các khối nhà, các phòng làm việc, bộ phận\ncông cộng, kỹ thuật, phục vụ, vị trí làm việc của các đơn vị và được đặt ở vị trí thuận\nlợi phục vụ cho công tác điều hành và phục vụ khách đến liên hệ công tác.\nd) Tại các vị trí giao nhau giữa cầu thang và hành lang của mỗi tầng nhà phải có\nbiển tên vị trí của các đơn vị làm việc tại tầng; bên ngoài phòng làm việc có bảng tên\nghi tên đơn vị, bộ phận, chức danh viên chức trong phòng.\ne) Các bộ phận kỹ thuật và phục vụ có bảng tên để thuận lợi cho việc quản lý, sử\ndụng; các tủ kỹ thuật có hướng dẫn sử dụng; đối với các thiết bị nguy hiểm phải có\nbiển cảnh báo và biện pháp ngăn ngừa những người không có trách nhiệm sử dụng.\n2. Yêu cầu về phần sử dụng chung\na) Phần sử dụng chung trong trụ sở làm việc là phần được dùng cho các tổ chức,\nđơn vị cùng sử dụng; bao gồm các phòng họp, hội trường, hành lang, cầu thang, các\nkhu vệ sinh chung, nhà để xe, sân vườn, bồn hoa cây cảnh, các hệ thống cấp điện, cấp\nnước sạch, thoát nước, thông tin liên lạc.\nb) Các tổ chức, đơn vị có quyền bình đẳng trong việc sử dụng phần sử dụng\nchung và có nghĩa vụ chấp hành các quy định về quản lý sử dụng phần sử dụng chung.\nc) Không gây cản trở làm ảnh hưởng đến an toàn, thuận tiện trong đi lại và sơ tán\nngười khẩn cấp khi có sự cố tại hành lang, cầu thang; không để các đồ dùng và trang\nthiết bị làm việc dùng riêng của các tổ chức, đơn vị, cá nhân tại các khu vực hành lang,\ncầu thang.\nd) Giữ gìn các khu vệ sinh sạch sẽ, khô ráo và thoáng khí.\ne) Nhà để xe được dùng để xe máy, xe đạp cho viên chức, người lao động, người\nhọc và khách đến liên hệ công tác; không để xe bị rò rỉ xăng trong khu vực nhà để xe,\nkhông để xe qua đêm; trường hợp gửi xe qua đêm vì lý do đi công tác phải báo cho Tổ\nbảo vệ.\nf) Sân trường chỉ được sử dụng để phục vụ cho các hoạt động chung; khi sử dụng\nsân trường để cho thuê, kinh doanh và làm dịch vụ dưới mọi hình thức phải báo cho\nPhòng CSVC để trình Hiệu trưởng phê duyệt theo thẩm quyền.\n\ng) Cấm đấu nối hệ thống cấp điện, cấp nước, điện thoại, mạng internet ra ngoài\nkhuôn viên Nhà trường; không để đồ đạc làm cản trở việc vận hành các thiết bị,\nphương tiện chữa cháy tại các tầng và trong phòng làm việc.\n3. Yêu cầu về phần sử dụng riêng tại các đơn vị, tổ chức\na) Phần sử dụng riêng bố trí cho các đơn vị, tổ chức là phần diện tích và các thiết\nbị kỹ thuật kèm theo; bao gồm: phòng làm việc, phòng máy, phòng thí nghiệm, nhà\nkho, đèn chiếu sáng, điện thoại cố định, máy điều hòa nhiệt độ, được giao cho từng\nđơn vị, tổ chức trực tiếp quản lý và sử dụng.\nb) Các phòng làm việc cần được bố trí hợp lý, thuận lợi cho các thành viên trong\nphòng làm việc độc lập tương đối và có khả năng tương tác; đảm bảo các điều kiện về\nchiếu sáng, lưu thông không khí, đường truyền tín hiệu điện thoại, internet theo đúng\nquy định của nhà nước và của Nhà trường.\nc) Không được sử dụng các thiết bị để đun, nấu trong phòng làm việc ngoại trừ\nbình điện nấu nước sôi; không đưa các chất độc hại, chất dễ gây cháy nổ, ô nhiễm môi\ntrường vào phòng làm việc.\nd) Phương tiện thông tin liên lạc chỉ được sử dụng vào mục đích công vụ; không\nđược sử dụng điện thoại cố định của Nhà trường trang bị cho đơn vị để gọi di động\nđường dài, liên tỉnh và quốc tế vì mục đích cá nhân hoặc các hoạt động không thuộc\nchức năng, nhiệm vụ của đơn vị, tổ chức.\ne) Hết giờ làm việc phải tắt các thiết bị điện và khóa cửa khi ra về; khi nghỉ làm\nviệc từ 05 ngày trở lên phải có biện pháp bảo vệ an toàn tài sản hoặc niêm phong\nphòng làm việc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Bảo dưỡng sửa chữa trụ sở làm việc",
+          "text": "Điều 11. Bảo dưỡng sửa chữa trụ sở làm việc\n1. Phòng CSVC thực hiện việc cải tạo, sửa chữa và bảo trì, bảo dưỡng định kỳ trụ\nsở làm việc theo văn bản phê duyệt của cấp trên và đảm bảo chế độ, tiêu chuẩn kỹ\nthuật quy định.\n2. Các đơn vị, tổ chức và cá nhân có trách nhiệm thông báo kịp thời các hư hỏng\nvới Phòng CSVC để kiểm tra, đề xuất và báo cáo Ban Giám hiệu phương án cải tạo,\nsửa chữa, bảo trì, bảo dưỡng; không được phép tự ý gọi người, đơn vị/cá nhân bên\nngoài vào bảo dưỡng, sửa chữa thực hiện công việc này.\n3. Các đơn vị, tổ chức và cá nhân có trách nhiệm tạo điều kiện thuận lợi để người\ncó trách nhiệm thực hiện việc bảo dưỡng, sửa chữa đối với phần sử dụng riêng tại đơn\nvị.\n4. Không làm sai lệch thiết kế hiện trạng trong quá trình bảo dưỡng, sửa chữa trụ\nsở làm việc; trường hợp cần thiết phải thay đổi thiết kế thì tổ chức, cá nhân thực hiện\nbảo dưỡng sửa chữa phải đề xuất phương án và chỉ tiến hành bảo dưỡng sửa chữa sau\nkhi được người có thẩm quyền chấp thuận bằng văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Thu hồi diện tích làm việc",
+          "text": "Điều 12. Thu hồi diện tích làm việc\n\n10\n1. Diện tích làm việc đã giao cho các đơn vị được thu hồi trong các trường hợp\nsau:\na) Vượt quá tiêu chuẩn định mức theo quy định hiện hành hoặc sử dụng sai mục\nđích.\nb) Đơn vị được bố trí diện tích làm việc mới.\nc) Đơn vị, tổ chức không còn nhu cầu sử dụng hoặc việc sử dụng, khai thác\nkhông hiệu quả diện tích làm việc đã được giao.\nd) Đơn vị, tổ chức giải thể hoặc bố trí sắp xếp lại giảm nhu cầu sử dụng do thay\nđổi bộ máy, thay đổi chức năng, nhiệm vụ.\n2. Phòng CSVC tham mưu, trình Hiệu trưởng phê duyệt phương án thu hồi và tổ\nchức thu hồi diện tích làm việc của các đơn vị, tổ chức, cá nhân quy định tại khoản 1\nĐiều này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Trang bị, mua sắm tài sản hữu hình là thiết bị, máy móc",
+          "text": "Điều 13. Trang bị, mua sắm tài sản hữu hình là thiết bị, máy móc\n1. Việc trang bị, mua sắm thiết bị phải đúng đối tượng, phục vụ hiệu quả cho\ncông việc, đáp ứng yêu cầu phát triển Nhà trường.\n2. Căn cứ vào các quy định của Nhà nước, tình hình thực tế của Nhà trường, Lãnh\nđạo các đơn vị thuộc, trực thuộc làm đề nghị trang bị hoặc mua sắm thiết bị, máy móc\nđể bảo đảm điều kiện làm việc cho cá nhân trong đơn vị.\n3. Phòng CSVC căn cứ yêu cầu trang bị, mua sắm của các đơn vị, tiêu chuẩn\nđịnh mức thiết bị và phương tiện làm việc, dự toán kinh phí được giao, tham mưu cho\nHiệu trưởng xem xét phê duyệt và thực hiện trang bị hoặc mua sắm thiết bị, máy móc\nlàm việc cho các đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Tiếp nhận tài sản hữu hình là thiết bị, máy móc",
+          "text": "Điều 14. Tiếp nhận tài sản hữu hình là thiết bị, máy móc\n1. Các trường hợp tiếp nhận thiết bị, máy móc:\na) Thiết bị, máy móc được trang bị, mua sắm mới.\nb) Thiết bị, máy móc được điều chuyển, sắp xếp lại;\nc) Thiết bị, máy móc do các tổ chức và cá nhân tài trợ, cho, tặng.\n2. Phòng CSVC là đơn vị được ủy quyền thực hiện tiếp nhận các thiết bị, máy\nmóc được điều chuyển đến. Căn cứ thực tế nhu cầu trang bị tại các đơn vị, Phòng\nCSVC đề xuất phương án phân bổ trình Hiệu trưởng phê duyệt.\n3. Các đơn vị được tài trợ hoặc cho, tặng các thiết bị, máy móc có nhiệm vụ chủ\ntrì tiếp nhận và có trách nhiệm kê khai, thông báo cho Nhà trường (thông qua Phòng\nCSVC) để thực hiện việc quản lý, sử dụng thiết bị, máy móc theo quy định của pháp\nluật và quy định của Nhà trường.\n\n11\n4. Việc bàn giao thiết bị, máy móc trong quá trình tiếp nhận phải được thể hiện\nbằng biên bản và có xác nhận của các bên liên quan trong quá trình tiếp nhận.\n5. Không tiếp nhận các thiết bị, máy móc đã có thời gian sử dụng quá 2/3 thời\ngian khấu hao theo quy định; các thiết bị, máy móc đã hư hỏng hoặc không phù hợp,\nkhông tương thích với các thiết bị, máy móc sẵn có tại trường; các thiết bị, máy móc\ntrường không có nhu cầu.\n6. Các thiết bị, máy móc được tiếp nhận phải được vào sổ theo dõi sử dụng tại\nđơn vị sử dụng và sổ quản lý tài sản để thực hiện việc kê tăng tài sản của đơn vị và của\nNhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Quản lý, sử dụng tài sản hữu hình là thiết bị, máy móc",
+          "text": "Điều 15. Quản lý, sử dụng tài sản hữu hình là thiết bị, máy móc\n1. Quy định chung\na) Thiết bị, máy móc phải được sử dụng đúng tiêu chuẩn, định mức và đúng mục\nđích.\nb) Không tự ý đổi, cho, biếu tặng thiết bị, máy móc làm việc của Nhà trường\ntrang bị cho đơn vị, tổ chức (gọi chung là thiết bị của đơn vị); Không được điều\nchuyển thiết bị, máy móc làm việc giữa các đơn vị, cá nhân khi chưa được phép của\nNhà trường.\nc) Khi cần thiết mang thiết bị, máy móc của đơn vị ra ngoài Nhà trường, các cá\nnhân phải báo cáo bằng văn bản và có xác nhận của Phòng CSVC.\nd) Khi mang trang thiết bị, máy móc làm việc thuộc sở hữu cá nhân (ngoại trừ\nmáy tính xách tay và các thiết bị điện tử cầm tay) vào trường phải đăng ký với Phòng\nCSVC hoặc đơn vị, tổ chức nơi viên chức đang làm việc theo mẫu quy định của Nhà\ntrường. Giấy đăng ký được cá nhân lưu giữ và xuất trình với bộ phận bảo vệ khi mang\ncác trang thiết bị sở hữu cá nhân đó ra ngoài Nhà trường.\n2. Quản lý, sử dụng thiết bị, máy móc làm việc tại các đơn vị\na) Thiết bị, máy móc làm việc tại các đơn vị bao gồm thiết bị, máy móc làm việc\nđược giao cho từng viên chức của đơn vị sử dụng (bàn làm việc, máy tính...) và thiết\nbị, máy móc làm việc sử dụng chung trong đơn vị (máy photocopy, máy điện thoại\ndùng chung, máy fax...).\nb) Trưởng các đơn vị có trách nhiệm:\nBố trí, điều chuyển thiết bị, máy móc làm việc trong nội bộ đơn vị;\nPhân công người quản lý sử dụng, theo dõi các thiết bị, máy móc dùng chung;\nlập sổ sách, lưu giữ các hồ sơ biên bản giao nhận thiết bị, máy móc và theo dõi toàn bộ\nthiết bị, máy móc làm việc của đơn vị;\nThông báo và đề nghị Phòng CSVC điều chuyển các thiết bị, máy móc làm việc\nkhông còn nhu cầu sử dụng hoặc thanh lý các thiết bị, máy móc không còn sử dụng\nđược;\n\n12\nChỉ đạo công tác bàn giao tài sản công và hồ sơ quản lý, sử dụng tài sản công\nthuộc phạm vi đơn vị mình quản lý khi có sự thay đổi tổ chức hoặc thay đổi Trưởng\nđơn vị.\nc) Viên chức có trách nhiệm:\nBảo quản, giữ gìn và sử dụng thiết bị, máy móc của đơn vị lâu bền, tiết kiệm,\nhiệu quả;\nThông báo kịp thời về tình trạng hư hỏng của thiết bị, máy móc được giao và đề\nnghị Phòng CSVC tổ chức sửa chữa;\nBáo cáo lãnh đạo đơn vị khi xảy ra mất mát hoặc các biến động, thay đổi liên\nquan đến thiết bị, máy móc được giao; bảo quản phiếu kiểm kê tài sản dán trên thiết bị,\nmáy móc trong quá trình sử dụng và bàn giao bằng biên bản các thiết bị, máy móc\nđược giao khi chuyển công tác, nghỉ hưu.\nd) Phòng CSVC có trách nhiệm hướng dẫn, theo dõi và đôn đốc các đơn vị, tổ\nchức và cá nhân thực hiện các quy định về quản lý, sử dụng thiết bị, máy móc của quy\nđịnh này.\n3. Bảo dưỡng, bảo trì, sửa chữa thiết bị, máy móc\na) Các tổ chức, đơn vị và cá nhân được giao quản lý và sử dụng thiết bị, máy móc\ncó trách nhiệm lập kế hoạch, định kỳ báo cáo về tình hình sử dụng thiết bị, máy móc.\nKhi phát hiện thiết bị, máy móc hư hỏng, thiết bị, máy móc sửa chữa có trách\nnhiệm báo Phòng CSVC và không tự sửa chữa, thay thế linh kiện, phụ tùng hoặc thuê\nmượn người ngoài sửa chữa, thay thế linh kiện, phụ tùng của các thiết bị, máy móc\nđược giao.\nb) Các tổ chức, đơn vị và cá nhân thực hiện việc bảo trì, bảo dưỡng định kỳ trang\nthiết bị, máy móc theo chế độ, tiêu chuẩn kỹ thuật quy định. Tài sản, thiết bị, máy móc\nphải được bảo dưỡng bảo trì định kỳ theo đúng chế độ và tiêu chuẩn kỹ thuật do Nhà\nnước quy định hoặc theo khuyến cáo của nhà sản xuất.\n4. Thu hồi thiết bị, máy móc\na) Các trường hợp thu hồi thiết bị, máy móc làm việc từ các đơn vị:\nSử dụng không đúng mục đích, không đúng đối tượng.\nĐể không đúng nơi quy định.\nb) Trình tự, thủ tục và thẩm quyền thu hồi thiết bị, máy móc làm việc được thực\nhiện theo các bước sau:\nPhòng CSVC khi phát hiện các thiết bị, máy móc thuộc các trường hợp quy\nđịnh tại khoản 1 Điều này trong thời hạn 03 ngày phải lập danh mục và báo cáo Hiệu\ntrưởng và thông báo bằng văn bản đến Lãnh đạo đơn vị danh mục các thiết bị, máy\nmóc thu hồi; lý do; thời gian dự kiến sẽ thu hồi. Sau khi có ý kiến phản hồi của đơn vị\ntrực tiếp quản lý, sử dụng, Hiệu trưởng sẽ quyết định thu hồi tài sản.\n\n13\nPhòng CSVC tổ chức thu hồi theo quyết định của Hiệu trưởng; bảo quản và đề\nxuất sử dụng hiệu quả thiết bị, máy móc thu hồi; đơn vị có thiết bị, máy móc thu hồi\nphải thực hiện chuyển giao đầy đủ thiết bị, máy móc về Phòng CSVC theo thời hạn\ntrong quyết định thu hồi.\n5. Điều chuyển thiết bị, máy móc\na) Các trường hợp điều chuyển thiết bị, máy móc:\nĐiều chuyển giữa các đơn vị từ nơi thừa sang nơi thiếu theo tiêu chuẩn định\nmức;\nĐiều chuyển để mang lại hiệu quả sử dụng cao hơn;\nĐiều chuyển cho đơn vị khác khi không còn nhu cầu sử dụng.\nb) Trình tự, thủ tục và thẩm quyền điều chuyển thiết bị, máy móc được thực hiện\ntheo các bước sau:\nLập yêu cầu điều chuyển;\nKhi có thiết bị cần điều chuyển, đơn vị có thiết bị, máy móc hoặc Phòng CSVC\nlập hồ sơ đề nghị điều chuyển gửi Hiệu trưởng xem xét, quyết định.\nc) Hồ sơ đề nghị điều chuyển thiết bị, máy móc bao gồm: Danh mục thiết bị đề\nnghị điều chuyển; tờ trình đề nghị điều chuyển của đơn vị có thiết bị, máy móc; tờ\ntrình đề nghị được tiếp nhận của đơn vị nhận thiết bị, máy móc.\nd) Trong thời hạn 10 ngày làm việc, kể từ khi có quyết định điều chuyển, Phòng\nCSVC chủ trì phối hợp với đơn vị có thiết bị, máy móc điều chuyển và đơn vị được\nnhận thiết bị, máy móc tổ chức bàn giao tiếp nhận thiết bị, máy móc, lập biên bản ghi\nnhận việc bàn giao tiếp nhận và thực hiện việc tăng giảm tài sản trong sổ tài sản theo\nquy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Quản lý sử dụng tài sản hữu hình là xe ô tô",
+          "text": "Điều 16. Quản lý sử dụng tài sản hữu hình là xe ô tô\n1. Phòng Tổ chức - Hành chính có trách nhiệm:\na) Đảm bảo xe luôn sẵn sàng phục vụ công việc của Nhà trường khi có lệnh điều\nxe;\nb) Lập sổ sách theo dõi và cập nhật hoạt động của từng đầu xe theo định kỳ hàng\nquý và phải có báo cáo bằng văn bản với Hiệu trưởng thông qua Phòng CSVC về tình\nhình hoạt động của xe;\nc) Ký duyệt phiếu đăng ký sử dụng xe ô tô;\nd) Tham mưu, đề xuất với Hiệu trưởng các vấn đề liên quan đến việc quản lý và\nsử dụng xe ô tô.\n2. Trách nhiệm của lái xe được giao trực tiếp quản lý xe:\na) Quản lý, bảo quản và sử dụng xe ô tô được giao đúng quy trình kỹ thuật; tuyệt\nđối không để người khác điều khiển xe; không được tự ý mang xe ra khỏi cơ quan khi\nchưa có ý kiến của cấp quản lý.\nb) Không được sử dụng xe vào các mục đích cá nhân.\n\n14\nc) Phải thường xuyên kiểm tra kỹ thuật xe trước khi đi công tác, đặc biệt là đi\ncông tác xa (kiểm tra tình trạng pháp lý, dầu mỡ, xăng, điện, phanh, xăm lốp dự\nphòng...); chỉ thực hiện lệnh điều xe của Ban Giám hiệu và của người phụ trách điều\nxe.\nd) Vệ sinh ô tô sạch sẽ, bảo dưỡng hoặc đề xuất bảo dưỡng ô tô theo đúng chế độ\nquy định; thực hiện đưa, đón cán bộ đi công tác theo địa điểm và thời gian được ghi\ntrong lệnh điều xe.\ne) Chịu trách nhiệm về tình trạng kỹ thuật của máy móc xe được giao; khi bị hư\nhỏng hoặc có dấu hiệu hư hỏng phải báo ngay cho Phòng CSVC để đề xuất Ban Giám\nhiệu cho phép sửa chữa hoặc thay thế.\ng) Lập sổ nhật ký công tác theo dõi lịch trình và tình trạng sử dụng xe; hàng\ntháng phối hợp với các đơn vị, cá nhân có liên quan thực hiện chốt công tơ mét của xe\nđể làm căn cứ đối chiếu thanh, quyết toán tiền xăng và các chi phí khác.\n3. Trách nhiệm của cá nhân, đơn vị sử dụng xe:\na) Trong thời gian đi công tác, đơn vị hoặc cá nhân sử dụng xe ô tô của Nhà\ntrường có trách nhiệm sử dụng xe đúng mục đích, lộ trình, thời gian đã được phê\nduyệt.\nb) Đại diện đơn vị hoặc cá nhân sử dụng xe sau hành trình phải ký vào sổ nhật ký\ncông tác của xe (hoặc lệnh điều xe), xác nhận số kilomet (Km) thực đi và tình trạng xe\ntrong quá trình sử dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Quản lý tài sản hữu hình là thiết bị công nghệ thông tin",
+          "text": "Điều 17. Quản lý tài sản hữu hình là thiết bị công nghệ thông tin\n1. Phòng Cơ sở Vật chất có trách nhiệm:\na) Quản lý về mặt hiện vật các thiết bị công nghệ thông tin (CNTT) và truyền\nthông: hồ sơ lý lịch; chủng loại, xuất xứ, khối lượng, số lượng, chất lượng, tình trạng\ncủa thiết bị.\nb) Tham mưu cho Hiệu trưởng về việc mua sắm đầu tư, sửa chữa trang thiết bị\nCNTT và truyền thông theo đề nghị của Tổ Công nghệ thông tin và các đơn vị.\nc) Quản lý chung về mặt giá trị tài sản; lưu trữ hồ sơ, chứng từ gốc.\n2. Tổ Công nghệ thông tin\na) Trực tiếp quản lý, bảo quản các thiết bị của hệ thống CNTT như: Máy chủ,\nthiết bị mạng, bản quyền phần mềm hệ thống, phần mềm ứng dụng dùng chung và\nthiết bị phục vụ cho công việc bảo trì, triển khai CNTT và các phòng thực hành máy\ntính.\nb) Phụ trách về mặt kỹ thuật các thiết bị CNTT và truyền thông trong toàn Nhà\ntrường.\n3. Các đơn vị, cá nhân được giao quản lý, sử dụng:\n\n15\na) Các thiết bị CNTT và truyền thông được trao cho người sử dụng để phục vụ\ncông việc của cơ quan và phải có bàn giao trách nhiệm sử dụng và bảo quản cho cá\nnhân người sử dụng.\nb) Sử dụng có hiệu quả các thiết bị tin học thuộc phạm vi quản lý để phục vụ\ncông việc do cấp trên giao.\nc) Có trách nhiệm thông báo các sự cố máy tính và các thiết bị tin học cho người\nquản lý.\nd) Không được tự ý tháo lắp, thay đổi cấu hình kỹ thuật của máy nếu không được\nsự đồng ý của người quản lý.\ne) Khi không sử dụng đến máy tính nữa hoặc khi ra về thì phải tắt máy tính, bộ\nlưu điện và các thiết bị ngoại vi khác.\ng) Máy tính khi bàn giao đã được cài đặt đầy đủ các phần mềm phục vụ công\nviệc; người sử dụng được sử dụng các phần mềm cài đặt trên máy tính và chịu trách\nnhiệm về dữ liệu trên máy tính của mình; trường hợp muốn cài đặt và sử dụng các\nphần mềm khác thì phải báo cho người quản lý biết để đưa ra cách xử lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Quản lý và sử dụng tài sản hữu hình là công cụ, dụng cụ",
+          "text": "Điều 18. Quản lý và sử dụng tài sản hữu hình là công cụ, dụng cụ\n1. Quản lý tài sản công cụ tương tự như quản lý tài sản cố định; quá trình sử dụng\nvẫn được theo dõi chặt chẽ từ lúc nhận về cho đến khi báo hỏng.\n2. Mỗi đơn vị thuộc, trực thuộc Nhà trường đều sử dụng sổ theo dõi tài sản công\ncụ theo mẫu thống nhất chung do Phòng CSVC ban hành; số liệu trong sổ theo dõi tài\nsản công cụ của đơn vị sử dụng và số liệu trong sổ sách của bộ phận quản lý tài sản\nNhà trường phải thống nhất với nhau.\n3. Kiểm kê tài sản công cụ tiến hành cùng thời gian với kiểm kê tài sản hàng\nnăm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Quản lý và sử dụng tài sản hữu hình là nguyên, nhiên vật liệu và hóa chất",
+          "text": "Điều 19. Quản lý và sử dụng tài sản hữu hình là nguyên, nhiên vật liệu và hóa chất\n1. Nguyên, nhiên vật liệu và hóa chất tuy không phải là tài sản cố định nhưng\nđơn vị phải theo dõi, quản lý chặt chẽ từ lúc được cấp về sử dụng cho đến khi hoàn\nthành công việc; phải có sổ sách nhập xuất rõ ràng cho từng công việc do Phòng\nCSVC cung cấp; sử dụng không hết thì có biện pháp bảo quản tốt để tiếp tục sử dụng\ncho lần sau.\n2. Đối với các nguyên, nhiên vật liệu và hóa chất đã có định mức kinh tế kỹ thuật\n(mẫu vật cho thực tập), tiêu chuẩn (văn phòng phẩm, đồ bảo hộ lao động), định mức\nnhiên liệu (xăng, dầu, nhớt) thì đơn vị phải thực hiện việc đề nghị mua sắm theo đúng\nđịnh mức, tiêu chuẩn.\nMục 3.\nQUẢN LÝ, SỬ DỤNG TÀI SẢN CỐ ĐỊNH VÔ HÌNH",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Quản lý và sử dụng tài sản cố định vô hình",
+          "text": "Điều 20. Quản lý và sử dụng tài sản cố định vô hình\n1. Xác định nguyên giá tài sản cố định vô hình\n\n16\na) Việc xác định nguyên giá các loại tài sản cố định vô hình được quy định tại\nĐiều 8 Thông tư 45/2018/TT-BTC ngày 07/5/2018 của Bộ Tài chính.\nb) Nguyên giá của các loại tài sản cố định vô hình quy định tại điểm b khoản 1\nĐiều 4 Thông tư 45/2018/TT-BTC (trừ quyền sử dụng đất) là toàn bộ các chi phí mà\nNhà trường đã chi ra để có được tài sản cố định vô hình đó (trong trường hợp các chi\nphí này chưa tính vào vốn đầu tư dự án, chưa tính vào chi phí sản xuất kinh doanh\nhoặc chưa được cơ quan, người có thẩm quyền cho phép trừ vào nghĩa vụ tài chính\nphải nộp theo quy định của pháp luật).\n2. Sử dụng nguyên giá tài sản cố định vô hình\na) Nguyên giá tài sản cố định vô hình xác định theo quy định tại Điều 8 Thông tư\n45/2018/TT-BTC ngày 07/5/2018 của Bộ Tài chính được sử dụng để ghi sổ kế toán, kê\nkhai để đăng nhập thông tin vào Cơ sở dữ liệu quốc gia về tài sản công.\nb) Không sử dụng tài sản cố định vô hình nêu trên trong các trường hợp:\nTổ chức bán tài sản, chuyển nhượng;\nDùng tài sản để góp vốn liên doanh, liên kết, thanh toán cho nhà đầu tư khi thực\nhiện dự án đầu tư xây dựng công trình theo hình thức hợp đồng xây dựng - chuyển\ngiao;\nSử dụng tài sản để tham gia dự án đầu tư theo hình thức đối tác công tư.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Báo cáo, kê khai tài sản công",
+          "text": "Điều 21. Báo cáo, kê khai tài sản công\n1. Phòng CSVC phối hợp với Phòng KHTC thực hiện báo cáo kê khai tài sản\ncông trong các trường hợp sau đây:\na) Có thay đổi về tài sản công do đầu tư xây dựng, mua sắm mới, tiếp nhận từ\nđơn vị khác về sử dụng, thanh lý, điều chuyển, bị thu hồi, tiêu hủy hoặc bán theo quyết\nđịnh của cơ quan nhà nước có thẩm quyền; thay đổi mục đích sử dụng tài sản theo\nquyết định của cơ quan nhà nước có thẩm quyền;\nb) Cơ quan được giao quản lý, sử dụng tài sản thay đổi tên gọi, chia tách, sáp\nnhập theo quyết định của cơ quan nhà nước có thẩm quyền.\n2. Thời hạn báo cáo kê khai tài sản công:\na) Trước ngày 31 tháng 12 hàng năm đối với các trường hợp quy định tại điểm a\nkhoản 1 Điều này;\nb) Không quá 30 ngày, kể từ ngày có sự thay đổi đối với các trường hợp quy định\ntại điểm b khoản 1 Điều này; đối với tài sản đưa vào sử dụng do hoàn thành đầu tư xây\ndựng, cải tạo, nâng cấp, sửa chữa lớn thì thời gian thay đổi tính từ ngày ký biên bản\nnghiệm thu đưa vào sử dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Công khai tài sản công",
+          "text": "Điều 22. Công khai tài sản công\n\n17\n1. Tài sản công phải được công khai việc quản lý, sử dụng gồm: trụ sở làm việc,\ntài sản khác gắn liền với đất, phương tiện vận tải và các tài sản cố định khác.\n2. Phòng CSVC thực hiện công khai việc mua sắm, đầu tư xây dựng, quản lý, sử\ndụng tài sản công thông qua các hình thức sau đây:\na) Công bố trong các kỳ họp định kỳ của Nhà trường;\nb) Thông báo bằng văn bản đến các cơ quan, tổ chức, đơn vị, cá nhân có liên\nquan;\nc) Thông báo trên trang thông tin điện tử của Phòng CSVC;\nd) Cung cấp thông tin theo yêu cầu của cơ quan, tổ chức và cá nhân có thẩm\nquyền.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Hồ sơ báo cáo kê khai lần đầu và báo cáo kê khai bổ sung",
+          "text": "Điều 23. Hồ sơ báo cáo kê khai lần đầu và báo cáo kê khai bổ sung\n1. Đối tượng ghi sổ kế toán tài sản (theo Điều 6 Thông tư số 45/2018/TT-BTC)\na) Tài sản sử dụng độc lập được xác định là một đối tượng ghi sổ kế toán tài sản\ncố định.\nb) Một hệ thống gồm nhiều bộ phận tài sản riêng lẻ liên kết với nhau để cùng\nthực hiện một hay một số chức năng nhất định, mà nếu thiếu bất kỳ một bộ phận nào\ntrong đó thì cả hệ thống không thể hoạt động được thì được xác định là một đối tượng\nghi sổ kế toán tài sản cố định.\nc) Một hệ thống gồm nhiều bộ phận tài sản riêng lẻ, liên kết với nhau, trong đó\nmỗi bộ phận cấu thành có thời gian sử dụng khác nhau và có chức năng hoạt động độc\nlập, đồng thời có sự đòi hỏi phải quản lý riêng từng bộ phận tài sản thì mỗi bộ phận tài\nsản đó được xác định là một đối tượng ghi sổ kế toán tài sản cố định.\nd) Vườn cây thuộc khuôn viên đất độc lập, có giá trị từ 10.000.000 đồng (mười\ntriệu đồng) trở lên (không tính giá trị quyền sử dụng đất); hoặc từng cây lâu năm có\ngiá trị từ 10.000.000 đồng (mười triệu đồng) trở lên được xác định là một đối tượng\nghi sổ kế toán tài sản cố định.\n2. Mẫu báo cáo kê khai tài sản công: theo quy định tại điểm khoản Điều 127\nNghị định số 151/2017/NĐ-CP được quy định như sau:\na) Báo cáo kê khai lần đầu và báo cáo kê khai bổ sung tài sản công tại Nhà\ntrường:\nNhững tài sản được đầu tư xây dựng mới, mua sắm hoặc tiếp nhận về sử dụng\ntại cơ quan, tổ chức, đơn vị;\nThay đổi thông tin về đơn vị sử dụng tài sản;\nThay đổi thông tin về trụ sở làm việc;\nThay đổi thông tin về xe ô tô;\nThay đổi thông tin về tài sản cố định khác;\nXóa thông tin về tài sản trong cơ sở dữ liệu về tài sản công.\n\n18\nb) Báo cáo kê khai lần đầu và báo cáo kê khai bổ sung tài sản công do Nhà nước\ngiao cho Nhà trường quản lý không tính thành phần vốn nhà nước tại Nhà trường được\nthực hiện tương ứng với từng loại tài sản giao cho Nhà trường quản lý: tài sản kết cấu\nhạ tầng; tài sản phục vụ hoạt động của các dự án sử dụng vốn nhà nước; đất đai; tài\nnguyên.\nc) Báo cáo kê khai lần đầu và báo cáo kê khai bổ sung tài sản phục vụ hoạt động\ncủa dự án sử dụng vốn nhà nước:\nNhững tài sản được đầu tư xây dựng mới, mua sắm hoặc tiếp nhận về sử dụng\nphục vụ hoạt động của dự án;\nThay đổi thông tin về đơn vị sử dụng tài sản;\nThay đổi thông tin về trụ sở làm việc;\nThay đổi thông tin về xe ô tô;\nThay đổi thông tin về tài sản cố định khác;\nXóa thông tin về tài sản trong cơ sở dữ liệu về tài sản công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Hồ sơ liên quan đến việc hình thành, biến động tài sản công",
+          "text": "Điều 24. Hồ sơ liên quan đến việc hình thành, biến động tài sản công\n1. Hồ sơ lưu trữ tài sản:\nQuyết định phê duyệt mua sắm của cấp có thẩm quyền;\nHợp đồng kinh tế, thanh lý hợp đồng, hóa đơn tài chính, biên bản giao nhận tài\nsản;\nCác văn bản liên quan đến thu hồi, điều chuyển, thanh lý, tiêu hủy tài sản;\nHồ sơ, tài liệu khác có liên quan.\n2. Trách nhiệm lưu trữ:\nPhòng CSVC và Phòng KHTC có trách nhiệm quản lý và lưu trữ hồ sơ tài sản\ntheo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Báo cáo tình hình quản lý, sử dụng tài sản công",
+          "text": "Điều 25. Báo cáo tình hình quản lý, sử dụng tài sản công\nHàng năm, đơn vị được giao quản lý, sử dụng tài sản thực hiện báo cáo tình hình\nquản lý, sử dụng tài sản công của năm trước đối với các tài sản được giao quản lý và\nsử dụng và báo cáo đột xuất theo yêu cầu của Nhà trường. Báo cáo được thực hiện\ntheo mẫu quy định và gửi về Phòng CSVC trước thời điểm kiểm kê tài sản hàng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Kiểm kê tài sản",
+          "text": "Điều 26. Kiểm kê tài sản\n1. Phòng CSVC chủ trì kết hợp với Phòng KHTC và các đơn vị thuộc, trực thuộc\nNhà trường tiến hành kiểm kê tài sản; chốt số liệu vào thời điểm 0 giờ ngày 01 tháng\n01 hàng năm.\n2. Trong quá trình kiểm kê phải ghi chép đầy đủ, kịp thời vào các sổ theo dõi tài\nsản, xác định rõ nguyên nhân hư hỏng mất mát; đề xuất biện pháp xử lý tài sản, báo\ncáo với Hội đồng kiểm kê Nhà trường theo đúng quy định. Phòng CSVC có trách\nnhiệm tổ chức đối chiếu sổ sách tài sản của đơn vị với sổ sách tài sản do Nhà trường\n\n19\nquản lý, đề xuất các hình thức xử lý tài sản đối với những tài sản không cần dùng hoặc\như hỏng.\n3. Trường hợp khi kiểm kê phát hiện thừa, thiếu tài sản phải ghi rõ trong Biên\nbản kiểm kê tài sản, xác định rõ nguyên nhân, trách nhiệm và đề xuất biện pháp xử lý\ntheo chế độ quản lý, sử dụng tài sản cố định tại Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Thanh lý tài sản",
+          "text": "Điều 27. Thanh lý tài sản\n1. Các trường hợp thanh lý tài sản công:\na) Tài sản công hết hạn sử dụng theo chế độ mà phải thanh lý;\nb) Tài sản công chưa hết hạn sử dụng nhưng bị hư hỏng mà không thể sửa chữa\nđược hoặc việc sửa chữa không hiệu quả (dự toán chi phí sửa chữa lớn hơn 30%\nnguyên giá tài sản (theo Điều 29 Nghị định 151/2017/NĐ-CP).\n2. Trình tự, thủ tục và thẩm quyền thanh lý tài sản công được thực hiện theo các\nbước sau:\na) Các đơn vị trực thuộc có tài sản công thuộc các trường hợp quy định tại khoản\n1 Điều này lập danh mục tài sản công đề nghị thanh lý gửi Phòng CSVC.\nb) Phòng CSVC xem xét đối chiếu đưa vào danh mục tài sản công đề nghị thanh\nlý (được lập sau các đợt kiểm kê tài sản hàng năm theo quy định của pháp luật) trình\nHiệu trưởng ra quyết định thanh lý tài sản công. Nội dung của quyết định thanh lý tài\nsản công gồm:\nĐơn vị có tài sản công cần thanh lý;\nDanh mục tài sản công cần thanh lý (chủng loại, số lượng, nguyên giá, giá trị\ncòn lại theo sổ kế toán, lý do thanh lý);\nPhương thức thanh lý (bán hoặc tiêu hủy);\nQuản lý, sử dụng tiền thu được từ thanh lý tài sản (nếu có);\nTrách nhiệm tổ chức thực hiện.\nc) Trong thời hạn 02 ngày kể từ ngày có quyết định thanh lý tài sản, Phòng\nCSVC trình Hiệu trưởng ra quyết định thành lập Hội đồng thanh lý tài sản gồm các\nthành phần sau:\nChủ tịch Hội đồng là Hiệu trưởng hoặc Phó Hiệu trưởng;\nỦy viên thường trực: Lãnh đạo Phòng CSVC;\nCác thành viên của Hội đồng gồm: Lãnh đạo Phòng KHTC, đại diện đơn vị có\nthiết bị thanh lý, đại diện Ban chấp hành Công đoàn, kế toán theo dõi tài sản, đại diện\nmột số đơn vị khác (có liên quan).\nd) Hội đồng thanh lý tài sản tổ chức thanh lý tài sản theo quy định của nhà nước.\ne) Hồ sơ đề nghị thanh lý tài sản:\nVăn bản đề nghị thanh lý tài sản công của Nhà trường;\nBản kê danh mục tài sản đề nghị thanh lý (chủng loại, số lượng, tình trạng,\nnguyên giá, giá trị còn lại theo sổ kế toán, lý do thanh lý);\n\n20\nQuyết định thành lập Hội đồng thanh lý tài sản;\nCác tài liệu khác có liên quan đến đề nghị thanh lý tài sản (nếu có).\nĐối với các loại tài sản mà pháp luật quy định khi thanh lý cần có ý kiến xác\nnhận chất lượng tài sản của cơ quan chuyên môn thì phải gửi kèm ý kiến bằng văn bản\ncủa các cơ quan này.\n3. Việc thanh lý tài sản phải được công khai đến toàn thể viên chức, người lao\nđộng thuộc đơn vị để theo dõi, giám sát.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 28",
+          "heading": "Tiêu hủy tài sản",
+          "text": "Điều 28. Tiêu hủy tài sản\n1. Khi có tài sản công thuộc các trường hợp phải tiêu hủy, Nhà trường lập 01 bộ\nhồ sơ đề nghị tiêu hủy tài sản công gửi cơ quan quản lý cấp trên (nếu có) để xem xét,\nđề nghị cơ quan, người có thẩm quyền quy định xem xét, quyết định.\n2. Hồ sơ đề nghị tiêu hủy tài sản công gồm:\na) Văn bản đề nghị tiêu hủy tài sản công (trong đó nêu rõ hình thức tiêu hủy,\ntrách nhiệm tổ chức tiêu hủy tài sản, dự kiến kinh phí tiêu hủy);\nb) Danh mục tài sản đề nghị tiêu hủy (chủng loại, số lượng, tình trạng, nguyên\ngiá, giá trị còn lại theo sổ kế toán, lý do tiêu hủy);\nc) Các hồ sơ khác có liên quan đến đề nghị tiêu hủy tài sản (nếu có).\n3. Trong thời hạn 30 ngày làm việc, kể từ ngày có quyết định tiêu hủy của cơ\nquan, người có thẩm quyền, Phòng CSVC có trách nhiệm tham mưu cho Hiệu trưởng\ntổ chức thực hiện việc tiêu hủy theo quy định của pháp luật.\n4. Trong thời hạn 30 ngày làm việc, kể từ ngày hoàn thành việc tiêu hủy tài sản,\nkế toán tài sản phối hợp với Phòng KHTC hạch toán giảm tài sản, báo cáo kê khai biến\nđộng tài sản công theo quy định.\n5. Kinh phí tiêu hủy tài sản công do Nhà trường chi trả theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 29",
+          "heading": "Xử lý tài sản công trong trường hợp bị mất, bị hủy hoại",
+          "text": "Điều 29. Xử lý tài sản công trong trường hợp bị mất, bị hủy hoại\n1. Thực hiện theo Điều 34, Điều 35 Nghị định số 151/2017/NĐ-CP.\n2. Khi phát hiện tài sản công bị mất, bị hủy hoại, đơn vị được giao quản lý, sử\ndụng tài sản có trách nhiệm xác định nguyên nhân, trách nhiệm để xảy ra việc tài sản\ncông bị mất, bị hủy hoại, lập 01 bộ hồ sơ đề nghị xử lý gửi Phòng CSVC để báo cáo\nNhà trường xem xét, quyết định.\n3. Hồ sơ đề nghị xử lý tài sản công trong trường hợp bị mất, bị hủy hoại gồm:\na) Biên bản ghi nhận hiện trường do đơn vị được giao quản lý và sử dụng\nlập có xác nhận của Phòng TCHC: 01 bản chính;\nb) Danh mục tài sản bị mất, bị hủy hoại (chủng loại, số lượng, lý do bị mất, bị\nhủy hoại): 01 bản chính;\nc) Các hồ sơ, tài liệu chứng minh việc tài sản bị mất, bị hủy hoại (nếu có): 01 bản\nsao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 30",
+          "heading": "Quản lý, sử dụng số tiền thu được từ việc xử lý tài sản công",
+          "text": "Điều 30. Quản lý, sử dụng số tiền thu được từ việc xử lý tài sản công\n\n21\nThực hiện theo Điều 36 Nghị định số 151/2017/NĐ-CP.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 31",
+          "heading": "Các hành vi nghiêm cấm trong việc quản lý, sử dụng tài sản công",
+          "text": "Điều 31. Các hành vi nghiêm cấm trong việc quản lý, sử dụng tài sản công\n1. Lợi dụng, lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản công dưới mọi hình\nthức.\n2. Cố ý làm trái các quy định của Nhà nước, của Nhà trường về quản lý, sử dụng\ntài sản công.\n3. Sử dụng tài sản công không đúng mục đích, tiêu chuẩn, định mức, chế độ; sử\ndụng tài sản công lãng phí hoặc không sử dụng tài sản được giao gây lãng phí; sử dụng\ntài sản công để kinh doanh trái pháp luật.\n4. Huỷ hoại hoặc cố ý làm hư hỏng tài sản công; chiếm giữ, sử dụng trái phép tài\nsản công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 32",
+          "heading": "Xử lý vi phạm về quản lý, sử dụng tài sản công",
+          "text": "Điều 32. Xử lý vi phạm về quản lý, sử dụng tài sản công\nCác viên chức, người lao động vi phạm quản lý sử dụng tài sản Nhà trường theo\nquy định này và các văn bản khác có liên quan thì tuỳ theo mức độ vi phạm mà bị xử lý\nkỷ luật và bồi thường thiệt hại cho Nhà trường.\n1. Hình thức xử lý vi phạm về quản lý, sử dụng tài sản công:\na) Nhắc nhở;\nb) Thông báo trong toàn trường;\nc) Đề nghị hạ bậc khi xét danh hiệu thi đua;\nd) Đề nghị xử lý kỷ luật.\n2. Hình thức nhắc nhở được áp dụng đối với các tổ chức, đơn vị và cá nhân có\nhành vi vi phạm lần đầu các quy định về quản lý, sử dụng tài sản công.\n3. Trường hợp các tổ chức, đơn vị và cá nhân đã được nhắc nhở nhưng vẫn\ntiếp tục có hành vi vi phạm quy định về quản lý, sử dụng tài sản công thì bị xử lý bằng\nhình thức thông báo công khai trong toàn trường.\n4. Các tổ chức, đơn vị để viên chức đơn vị mình tái diễn cùng một hành vi vi\nphạm từ 03 lần trở lên trong một năm hoặc tùy theo mức độ vi phạm, thì bị đề nghị hạ\nmột cấp khi xét danh hiệu thi đua tập thể trong năm.\n5. Các cá nhân vi phạm các quy định của quy chế này từ 03 lần trở lên trong một\nnăm hoặc tùy theo mức độ vi phạm, thì bị đề nghị xử lý kỷ luật.\n6. Người vi phạm các quy định của quy chế này để xảy ra thiệt hại tài sản công,\nngoài việc bị xử lý theo các hình thức tại khoản 1 Điều này còn phải bị xử lý trách\nnhiệm vật chất theo quy định hiện hành (Nghị định số 63/2019/NĐ-CP, ngày\n11/07/2019).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 33",
+          "heading": "Xử lý trách nhiệm vật chất đối với viên chức, người lao động vi phạm",
+          "text": "Điều 33. Xử lý trách nhiệm vật chất đối với viên chức, người lao động vi phạm\n\n22\n1. Hình thức xử lý trách nhiệm vật chất:\na) Bồi thường.\nb) Bồi thường và đền bù chi phí khắc phục hậu quả do vi phạm gây ra.\n2. Viên chức, người lao động gây ra thiệt hại tài sản công, dù cố ý hay không cố\ný, có trách nhiệm bồi thường thiệt hại theo quyết định của người có thẩm quyền.\n3. Viên chức, người lao động vi phạm các quy định này để xảy ra thiệt hại tài sản\ncông hoặc gây thiệt hại công sức lao động của người khác, ngoài việc phải bồi thường\ngiá trị tài sản bị thiệt hại còn phải đền bù chi phí khắc phục hậu quả do việc vi phạm\ngây ra.\n4. Mức bồi thường và đền bù chi phí khắc phục hậu quả được tính trên cơ sở giá\ntrị thiệt hại của tài sản và chi phí để khắc phục hậu quả do hành vi vi phạm gây ra.\n5. Phòng CSVC và Phòng KHTC có trách nhiệm xác định giá trị thiệt hại của tài\nsản làm cơ sở áp dụng trong việc xử lý trách nhiệm vật chất đối với viên chức gây ra\nthiệt hại tài sản công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 34",
+          "heading": "Thẩm quyền xử lý vi phạm về quản lý, sử dụng tài sản",
+          "text": "Điều 34. Thẩm quyền xử lý vi phạm về quản lý, sử dụng tài sản\n1. Hiệu trưởng quyết định hình thức xử lý vi phạm quy định về quản lý, sử dụng\ntài sản công và hình thức xử lý trách nhiệm vật chất đối với tổ chức, đơn vị hoặc cá\nnhân trong đơn vị.\n2. Việc xử lý vi phạm quy định về quản lý, sử dụng tài sản công và hình thức xử\nlý trách nhiệm vật chất đối với đối tượng vi phạm do Hội đồng xử lý trách nhiệm vật\nchất thực hiện theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 35",
+          "heading": "Trình tự và thủ tục xử lý vi phạm quy định về quản lý, sử dụng tài sản",
+          "text": "Điều 35. Trình tự và thủ tục xử lý vi phạm quy định về quản lý, sử dụng tài sản\n1. Thông báo vi phạm.\n2. Lập biên bản vi phạm.\n3. Trưởng đơn vị yêu cầu viên chức, người lao động vi phạm quy định về quản\nlý, sử dụng tài sản công hoặc người gây ra thiệt hại tài sản công trong thời hạn 02 ngày\nlàm việc phải có văn bản giải trình về vụ việc và đề xuất hướng giải quyết.\n4. Hiệu trưởng thành lập Hội đồng xử lý vi phạm.\n5. Hội đồng xử lý vi phạm xem xét, có văn bản kiến nghị hình thức xử lý vi\nphạm.\n6. Quyết định xử lý vi phạm.\n7. Thực hiện quyết định xử lý vi phạm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 36",
+          "heading": "Trình tự, thủ tục xử lý trách nhiệm vật chất đối với viên chức, người lao",
+          "text": "Điều 36. Trình tự, thủ tục xử lý trách nhiệm vật chất đối với viên chức, người lao\nđộng vi phạm\n1. Đơn vị có viên chức, người lao động gây ra thiệt hại tài sản công lập hồ sơ xử\nlý trách nhiệm vật chất.\n2. Hiệu trưởng thành lập Hội đồng xử lý trách nhiệm vật chất.\n\n23\n3. Hội đồng xử lý trách nhiệm vật chất xem xét, có văn bản kiến nghị mức bồi\nthường và phương thức bồi thường gửi đến người có thẩm quyền.\n4. Quyết định bồi thường thiệt hại.\n5. Thực hiện quyết định bồi thường thiệt hại.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 37",
+          "heading": "Khen thưởng",
+          "text": "Điều 37. Khen thưởng\n1. Người có công phát hiện các hành vi xâm phạm, làm lãng phí tài sản của Nhà\ntrường được khen thưởng theo chế độ hiện hành của Nhà trường.\n2. Các cá nhân, đơn vị có nhiều phương pháp sáng kiến, cải tiến kỹ thuật nhằm\ntiết kiệm chống lãng phí đem lại lợi ích chung được khen thưởng theo chế độ hiện\nhành của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 38",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 38. Điều khoản thi hành\n1. Quy định này có hiệu lực kể từ ngày ký ban hành.\n2. Trong quá trình thực hiện nếu phát hiện những vấn đề phát sinh hoặc vướng\nmắc, các đơn vị phản ánh về Phòng Cơ sở vật chất đề xuất Hiệu trưởng điều chỉnh cho\nhợp lý.\n3. Những vấn đề khác có liên quan đến quản lý và sử dụng tài sản nhà nước\nnhưng không có trong quy định này thì thực hiện theo quy định hiện hành của Nhà\nnước và cơ quan có thẩm quyền. /: A4\nDuc HIỆU TRƯỞNG\nVÀ g Leuu\nTRUỜNG\nBÁCHHOĂ DAIH94UU\nH?c Đr\nPGS. TS. ĐOÀN QUANG VINH",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy định quản lý, sử dụng tài sản",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy định quản lý, sử dụng tài sản\ncông của Trường Đại học Bách khoa Đại học Đà Nẵng\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quy định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quy định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Cơ sở Vật chất, Trưởng phòng Tổ chức - Hành",
+      "text": "Điều 3. Trưởng phòng Phòng Cơ sở Vật chất, Trưởng phòng Tổ chức - Hành\nchính và Trưởng các đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành\nquyết định này. YA",
+      "isImplementationClause": true
+    }
+  ]
+}

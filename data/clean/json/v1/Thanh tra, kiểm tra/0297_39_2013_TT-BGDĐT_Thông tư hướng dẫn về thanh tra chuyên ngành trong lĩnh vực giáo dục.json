@@ -1,0 +1,201 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0297_39_2013_TT-BGDĐT_Thông tư hướng dẫn về thanh tra chuyên ngành trong lĩnh vực giáo dục.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "39/2013/TT-BGDĐT",
+    "title": "Thông tư Hướng dẫn về thanh tra chuyên ngành trong lĩnh vực giáo dục",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/12/2013",
+    "effectiveDate": "18/01/2014",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thanh tra, kiểm tra",
+      "Khác"
+    ],
+    "summary": "Thông tư hướng dẫn về nội dung thanh tra, hoạt động thanh tra và trách nhiệm của cơ quan, tổ chức, cá nhân liên quan đến hoạt động thanh tra chuyên ngành trong lĩnh vực giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Vinh Hiển",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "115/2010/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 115/2010/NĐ-CP ngày 24 tháng 12 năm 2010 của Chính phủ quy định trách nhiệm quản lý nhà nước về giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "73/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 73/2012/NĐ-CP ngày 26 tháng 9 năm 2012 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "07/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 07/2012/NĐ-CP ngày 09 tháng 02 năm 2012 của Chính phủ quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành và hoạt động thanh tra chuyên ngành;"
+    },
+    {
+      "targetDocumentNumber": "42/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 42/2013/NĐ-CP ngày 09 tháng 5 năm 2013 của Chính phủ quy định tổ chức và hoạt động của Thanh tra giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "43/2006/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ Thông tư số 43/2006/TT-BGDĐT ngày 20 tháng 10 năm 2006 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc Hướng dẫn thanh tra toàn diện nhà trường, cơ sở giáo dục khác và thanh tra hoạt động sư phạm nhà giáo."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Thanh tra Bộ",
+    "Thanh tra sở",
+    "Chính phủ",
+    "Ủy ban nhân dân cấp tỉnh",
+    "Ủy ban nhân dân cấp huyện"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này hướng dẫn về nội dung thanh tra, hoạt động thanh tra và trách\nnhiệm của cơ quan, tổ chức, cá nhân liên quan đến hoạt động thanh tra chuyên\nngành trong lĩnh vực giáo dục (sau đây gọi là thanh tra chuyên ngành).\n\n26\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\n2. Thông tư này áp dụng đối với các sở giáo dục và đào tạo, phòng giáo dục\nvà đào tạo; Thanh tra Bộ Giáo dục và Đào tạo, Thanh tra sở giáo dục và đào tạo;\nChánh thanh tra Bộ Giáo dục và Đào tạo, Chánh thanh tra sở giáo dục và đào tạo;\ntrưởng đoàn thanh tra chuyên ngành, thành viên đoàn thanh tra chuyên ngành;\nthanh tra viên được giao thực hiện nhiệm vụ thanh tra chuyên ngành; các cơ sở\ngiáo dục thuộc phạm vi quản lý nhà nước của Bộ Giáo dục và Đào tạo; các tổ chức\nvà cá nhân có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nguyên tắc hoạt động thanh tra chuyên ngành",
+      "text": "Điều 2. Nguyên tắc hoạt động thanh tra chuyên ngành\n1. Tuân thủ quy định của pháp luật, bảo đảm chính xác, khách quan, trung thực,\ncông khai, dân chủ, kịp thời.\n2. Không trùng lặp về phạm vi, đối tượng, nội dung, thời gian thanh tra giữa\ncác cơ quan thực hiện chức năng thanh tra; không làm cản trở hoạt động bình\nthường của cơ quan, tổ chức và cá nhân là đối tượng thanh tra.\n3. Tiến hành thường xuyên, gắn với việc thực hiện nhiệm vụ về chuyên môn,\nnghiệp vụ, trách nhiệm quản lý nhà nước về giáo dục.\n4. Kết hợp giữa hoạt động thanh tra nhà nước, thanh tra nội bộ, kiểm tra, kiểm\nđịnh chất lượng giáo dục, đánh giá nhà giáo và hoạt động thanh tra nhân dân theo\nquy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Thanh tra chuyên ngành đối với sở giáo dục và đào tạo",
+      "text": "Điều 3. Thanh tra chuyên ngành đối với sở giáo dục và đào tạo\n1. Tham mưu ban hành văn bản quy phạm pháp luật, quy hoạch, kế hoạch,\nchương trình, dự án, chính sách phát triển giáo dục trên địa bàn tỉnh, thành phố\ntrực thuộc Trung ương.\n2. Tham mưu cho Chủ tịch Ủy ban nhân dân cấp tỉnh thành lập, cho phép\nthành lập, sáp nhập, chia, tách, giải thể cơ sở giáo dục.\n3. Ban hành các văn bản chỉ đạo theo thẩm quyền; tuyên truyền, phổ biến giáo\ndục pháp luật về giáo dục.\n4. Chỉ đạo việc quản lý, sử dụng sách giáo khoa, tài liệu giáo dục, thiết bị giáo dục.\n5. Chỉ đạo việc thực hiện quy chế chuyên môn, quy chế thi cử, thực hiện nội\ndung, phương pháp giáo dục; quản lý, cấp phát văn bằng, chứng chỉ; thực hiện phổ\ncập giáo dục, chống mù chữ và xây dựng xã hội học tập trên địa bàn; hoạt động\nliên kết đào tạo, mở ngành đào tạo, cho phép hoạt động giáo dục, đình chỉ hoạt\nđộng giáo dục theo thẩm quyền.\n\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\n27\n6. Chỉ đạo và thực hiện quy chế tuyển sinh, quản lý, giáo dục người học và\nthực hiện chế độ, chính sách đối với người học\n7. Chỉ đạo và thực hiện các quy định về nhà giáo và cán bộ quản lý giáo dục\nđối với giáo dục mầm non, phổ thông trên địa bàn tỉnh và đối với cơ sở giáo dục\nđại học, trung cấp chuyên nghiệp theo phân cấp.\n8. Chỉ đạo công tác bảo đảm chất lượng giáo dục, kiểm định chất lượng giáo\ndục, xã hội hóa giáo dục.\n9. Chỉ đạo việc thực hiện quy định về thu, quản lý, sử dụng học phí và các\nnguồn lực tài chính khác.\n10. Quản lý các hoạt động du học tự túc trên địa bàn.\n11. Chỉ đạo và thực hiện công tác thanh tra, kiểm tra, giải quyết khiếu nại, giải\nquyết tố cáo, phòng chống tham nhũng, báo cáo, thống kê, công khai về giáo dục\nđối với các phòng giáo dục và đào tạo và các đơn vị trực thuộc.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Thanh tra chuyên ngành đối với phòng giáo dục và đào tạo",
+      "text": "Điều 4. Thanh tra chuyên ngành đối với phòng giáo dục và đào tạo\n1. Tham mưu ban hành văn bản quy phạm pháp luật, quy hoạch, kế hoạch,\nchương trình, chính sách phát triển giáo dục trên địa bàn huyện, quận, thị xã, thành\nphố thuộc tỉnh.\n2. Tham mưu cho Chủ tịch Ủy ban nhân dân cấp huyện thành lập, cho phép\nthành lập, sáp nhập, chia, tách, giải thể cơ sở giáo dục.\n3. Ban hành các văn bản chỉ đạo theo thẩm quyền; tuyên truyền, phổ biến giáo\ndục pháp luật về giáo dục.\n4. Chỉ đạo việc quản lý, sử dụng sách giáo khoa, tài liệu giáo dục, thiết bị giáo dục.\n5. Chỉ đạo việc thực hiện quy chế chuyên môn, quy chế thi cử, thực hiện nội\ndung, phương pháp giáo dục; quản lý, cấp phát văn bằng, chứng chỉ; thực hiện\nphổ cập giáo dục, chống mù chữ và xây dựng xã hội học tập trên địa bàn; cho\nphép hoạt động giáo dục, đình chỉ hoạt động giáo dục đối với cơ sở giáo dục\ntheo thẩm quyền.\n6. Thực hiện quy chế tuyển sinh, quản lý, giáo dục người học và thực hiện chế\nđộ, chính sách đối với người học.\n7. Chỉ đạo và thực hiện các quy định về nhà giáo và cán bộ quản lý giáo dục\nđối với giáo dục mầm non, giáo dục tiểu học và trung học cơ sở trên địa bàn.\n8. Chỉ đạo công tác bảo đảm chất lượng giáo dục, xã hội hóa giáo dục.\n9. Chỉ đạo việc thực hiện quy định về thu, quản lý, sử dụng học phí và các\nnguồn lực tài chính khác.\n10. Chỉ đạo và thực hiện công tác kiểm tra, giải quyết khiếu nại, giải quyết tố\ncáo, phòng chống tham nhũng, báo cáo, thống kê, công khai về giáo dục đối với\ncác cơ sở giáo dục thuộc thẩm quyền quản lý của Ủy ban nhân dân cấp huyện.\n\n28\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Thanh tra chuyên ngành đối với cơ sở giáo dục đại học và trường",
+      "text": "Điều 5. Thanh tra chuyên ngành đối với cơ sở giáo dục đại học và trường\ntrung cấp chuyên nghiệp\n1. Tổ chức và hoạt động của cơ sở giáo dục đại học và trường trung cấp\nchuyên nghiệp bao gồm: ban hành văn bản quản lý nội bộ và phổ biến, giáo dục\npháp luật; xây dựng bộ máy tổ chức; thực hiện các quy định về công khai trong\nlĩnh vực giáo dục; công tác thanh tra nội bộ và việc thực hiện các quy định về tổ\nchức và hoạt động theo Điều lệ, Quy chế tổ chức và hoạt động của nhà trường.\n2. Thực hiện quy chế đào tạo, liên kết đào tạo; quy định về mở ngành đào tạo;\nxây dựng chương trình, biên soạn giáo trình, bài giảng, tài liệu phục vụ đào tạo;\nquy chế thi cử; việc in, quản lý và cấp phát văn bằng, chứng chỉ.\n3. Thực hiện quy chế tuyển sinh, quản lý, giáo dục người học và các chế độ,\nchính sách đối với người học.\n4. Công tác quy hoạch, tuyển dụng, sử dụng, bổ nhiệm, đào tạo, bồi dưỡng,\nđánh giá và thực hiện chế độ, chính sách đối với nhà giáo, cán bộ quản lý giáo dục\nvà người lao động khác.\n5. Các điều kiện bảo đảm chất lượng giáo dục; kiểm định chất lượng giáo dục.\n6. Thực hiện quy định về thu, quản lý, sử dụng học phí, các nguồn lực tài\nchính khác.\n7. Tổ chức hoạt động khoa học và công nghệ; ứng dụng, phát triển và chuyển\ngiao công nghệ; thực hiện dịch vụ khoa học; tổ chức hoạt động hợp tác quốc tế về\ngiáo dục.\n8. Thực hiện các quy định khác của pháp luật về giáo dục đại học, trung cấp\nchuyên nghiệp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Thanh tra chuyên ngành đối với cơ sở giáo dục mầm non, giáo dục",
+      "text": "Điều 6. Thanh tra chuyên ngành đối với cơ sở giáo dục mầm non, giáo dục\nphổ thông và giáo dục thường xuyên\n1. Tổ chức và hoạt động của cơ sở giáo dục mầm non, giáo dục phổ thông,\ngiáo dục thường xuyên bao gồm: ban hành văn bản quản lý nội bộ và phổ biến,\ngiáo dục pháp luật; xây dựng bộ máy tổ chức; thực hiện các quy định về công khai\ntrong lĩnh vực giáo dục; công tác kiểm tra nội bộ và việc thực hiện các quy định về\ntổ chức và hoạt động theo Điều lệ, Quy chế tổ chức và hoạt động của nhà trường.\n2. Thực hiện quy chế chuyên môn, thực hiện nội dung, phương pháp giáo dục;\nviệc quản lý, sử dụng sách giáo khoa, tài liệu giáo dục, thiết bị dạy học và đồ chơi\ntrẻ em.\n3. Thực hiện quy chế tuyển sinh, quản lý, giáo dục người học và các chế độ,\nchính sách đối với người học.\n\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\n29\n4. Công tác quy hoạch, tuyển dụng, sử dụng, bổ nhiệm, đào tạo, bồi dưỡng,\nđánh giá và thực hiện chế độ, chính sách đối với nhà giáo, cán bộ quản lý giáo dục\nvà người lao động khác.\n5. Công tác xã hội hóa giáo dục, quản lý dạy thêm, học thêm.\n6. Các điều kiện bảo đảm chất lượng giáo dục; chấp hành quy định về kiểm\nđịnh chất lượng giáo dục.\n7. Thực hiện quy định về thu, quản lý, sử dụng học phí, các nguồn lực tài\nchính khác.\n8. Thực hiện các quy định khác của pháp luật về giáo dục mầm non, phổ\nthông, giáo dục thường xuyên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Thanh tra chuyên ngành đối với hoạt động hợp tác đầu tư có yếu",
+      "text": "Điều 7. Thanh tra chuyên ngành đối với hoạt động hợp tác đầu tư có yếu\ntố nước ngoài trong lĩnh vực giáo dục\n1. Đối với liên kết đào tạo\na) Việc cấp giấy phép hoạt động liên kết;\nb) Việc thực hiện quy định về hình thức, đối tượng, phạm vi, thời hạn liên kết\nđào tạo; tuyển sinh, thực hiện chương trình giáo dục, cấp văn bằng, chứng chỉ; tiêu\nchuẩn giáo viên; việc thực hiện quy định về điều kiện liên kết đào tạo, kiểm định\nchất lượng giáo dục; việc thực hiện quy định về thủ tục, thẩm quyền phê duyệt, gia\nhạn, chấm dứt hoạt động liên kết đào tạo.\n2. Đối với cơ sở giáo dục có vốn đầu tư nước ngoài\na) Thực hiện quy định về thủ tục thành lập cơ sở giáo dục, cho phép hoạt động\ngiáo dục; thực hiện quy định về việc mở phân hiệu cơ sở giáo dục;\nb) Việc thực hiện các quy định về cơ sở vật chất, đội ngũ nhà giáo và các điều\nkiện đảm bảo chất lượng giáo dục khác, tuyển sinh, thực hiện chương trình giáo\ndục; kiểm định chất lượng giáo dục, cấp phát văn bằng, chứng chỉ.\n3. Đối với văn phòng đại diện\na) Thực hiện quy định về thủ tục thành lập văn phòng đại diện, cho phép hoạt\nđộng giáo dục;\nb) Thực hiện các quy định về chức năng, nhiệm vụ, thời hạn hoạt động; việc\nthực hiện quy định về điều kiện, thủ tục, thẩm quyền phê duyệt, gia hạn và chấm\ndứt hoạt động; việc thực hiện quyền và nghĩa vụ của văn phòng đại diện giáo dục\nnước ngoài.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Thanh tra chuyên ngành đối với các tổ chức, cá nhân khác tham",
+      "text": "Điều 8. Thanh tra chuyên ngành đối với các tổ chức, cá nhân khác tham\ngia hoạt động giáo dục\n1. Thẩm quyền thành lập tổ chức, cho phép hoạt động giáo dục đối với tổ chức,\ncá nhân tham gia hoạt động giáo dục; nội dung quyết định thành lập, cho phép hoạt\n\n30\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\nđộng giáo dục; đối tác liên kết với tổ chức, cá nhân tham gia hoạt động giáo dục\n(nếu có).\n2. Thực hiện quy định về cơ sở vật chất, đội ngũ nhà giáo và các điều kiện đảm\nbảo chất lượng giáo dục khác.\n3. Việc tuyển sinh, thực hiện chương trình giáo dục, cấp phát văn bằng, chứng chỉ.\n4. Việc thông tin, công khai hoạt động giáo dục và báo cáo về hoạt động giáo\ndục với cơ quan có thẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Thẩm quyền, đối tượng thanh tra",
+      "text": "Điều 9. Thẩm quyền, đối tượng thanh tra\n1. Thanh tra Bộ: Thanh tra chuyên ngành đối với các sở giáo dục và đào tạo;\ncác đại học; học viện, trường đại học, viện, trường cao đẳng, trường trung cấp\nchuyên nghiệp, cơ sở giáo dục khác; cơ quan, tổ chức, cá nhân Việt Nam hoặc\nnước ngoài tham gia hoạt động giáo dục tại Việt Nam.\n2. Thanh tra sở: Thanh tra chuyên ngành đối với phòng giáo dục và đào tạo, cơ\nsở giáo dục mầm non, giáo dục phổ thông, giáo dục thường xuyên, trường chuyên\nbiệt; trường đại học, học viện, viện, trường cao đẳng, trường trung cấp chuyên\nnghiệp (không bao gồm các cơ sở giáo dục đại học, trường trung cấp chuyên\nnghiệp công lập của các Bộ, cơ quan ngang bộ đóng trên địa bàn) theo phân cấp\nquản lý nhà nước về giáo dục; cơ quan, tổ chức, cá nhân Việt Nam hoặc nước\nngoài tham gia hoạt động giáo dục tại địa phương.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Thẩm quyền ra quyết định thanh tra, thành lập đoàn thanh tra",
+      "text": "Điều 10. Thẩm quyền ra quyết định thanh tra, thành lập đoàn thanh tra\nvà phân công thanh tra viên tiến hành thanh tra độc lập\n1. Chánh Thanh tra Bộ, Chánh thanh tra sở ra quyết định thanh tra và thành lập\nđoàn thanh tra theo kế hoạch và thanh tra chuyên ngành đột xuất.\n2. Trong trường hợp cần thiết, Bộ trưởng Bộ Giáo dục và Đào tạo, Giám đốc\nsở giáo dục và đào tạo ra quyết định thanh tra và thành lập đoàn thanh tra.\n3. Chánh Thanh tra Bộ, Chánh Thanh tra sở giáo dục và đào tạo ra quyết định\nphân công thanh tra viên thuộc phạm vi quản lý tiến hành thanh tra chuyên ngành\nđộc lập.\n4. Nội dung quyết định thanh tra theo quy định tại Khoản\n1, Điều 52 Luật\nThanh tra. Nội dung quyết định phân công thanh tra viên tiến hành thanh tra độc\nlập theo quy định tại Điều 29 Nghị định số 07/2012/NĐ-CP.\nCăn cứ vào tình hình và yêu cầu quản lý cụ thể, người ra quyết định thanh tra\nlựa chọn một số nội dung nêu tại Chương II Thông tư này để quyết định thanh tra\n\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\n31\nđối với một đối tượng hoặc lựa chọn một nội dung để thanh tra chuyên đề đối với\nmột số đối tượng khác nhau.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Tổ chức, nhiệm vụ, quyền hạn của đoàn thanh tra",
+      "text": "Điều 11. Tổ chức, nhiệm vụ, quyền hạn của đoàn thanh tra\n1. Đoàn thanh tra chuyên ngành có trưởng đoàn thanh tra và các thành viên;\nthành viên đoàn thanh tra gồm có: thanh tra viên, công chức cơ quan thanh tra và\ncộng tác viên thanh tra; trường hợp cần thiết có phó trưởng đoàn thanh tra.\n3. Đoàn thanh tra chuyên ngành được thành lập để tiến hành cuộc thanh tra theo\nphạm vi, đối tượng, nội dung, nhiệm vụ, thời hạn ghi trong quyết định thanh tra.\n4. Trưởng đoàn thanh tra thực hiện nhiệm vụ, quyền hạn theo quy định tại\nĐiều 53 của Luật Thanh tra và chịu trách nhiệm trước pháp luật, trước người ra\nquyết định thanh tra về việc thực hiện nhiệm vụ thanh tra.\nTrưởng đoàn thanh tra được sử dụng dấu của cơ quan chủ trì tiến hành thanh\ntra để ban hành văn bản của đoàn thanh tra.\n5. Thành viên đoàn thanh tra, thanh tra viên có nhiệm vụ, quyền hạn theo quy\nđịnh tại Điều 54 của Luật Thanh tra.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Hoạt động thanh tra của thanh tra viên tiến hành thanh tra độc lập",
+      "text": "Điều 12. Hoạt động thanh tra của thanh tra viên tiến hành thanh tra độc lập\nThời hạn thanh tra chuyên ngành độc lập theo quy định tại Điều 30; Nhiệm vụ,\nquyền hạn của Thanh tra viên tiến hành thanh tra độc lập theo quy định tại Điều 31;\nBáo cáo kết quả thực hiện nhiệm vụ thanh tra chuyên ngành độc lập theo quy định\ntại Điều 32 Nghị định số 07/2012/NĐ-CP.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Trình tự và thủ tục tiến hành cuộc thanh tra",
+      "text": "Điều 13. Trình tự và thủ tục tiến hành cuộc thanh tra\nViệc xây dựng và phê duyệt kế hoạch tiến hành thanh tra của Đoàn thanh tra;\nphổ biến kế hoạch thanh tra; xây dựng đề cương yêu cầu đối tượng thanh tra báo\ncáo; thông báo việc công bố quyết định thanh tra chuyên ngành; công bố quyết\nđịnh thanh tra; thu thập thông tin, tài liệu, đánh giá việc chấp hành chính sách,\npháp luật; báo cáo tiến độ thực hiện nhiệm vụ thanh tra; báo cáo kết quả thanh tra;\nxây dựng kết luận thanh tra; kết luận thanh tra; công khai kết luận thanh tra thực\nhiện theo quy định từ Điều 18 đến Điều 28 Nghị định số 07/2012/NĐ-CP.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Trách nhiệm của Thanh tra Bộ Giáo dục và Đào tạo",
+      "text": "Điều 14. Trách nhiệm của Thanh tra Bộ Giáo dục và Đào tạo\n1. Xây dựng kế hoạch thanh tra, dự trù kinh phí hoạt động thanh tra hàng năm\ntrình Bộ trưởng phê duyệt.\n2. Đề nghị Bộ trưởng công nhận cộng tác viên thanh tra thuộc Bộ; hướng dẫn\nnhiệm vụ, nghiệp vụ thanh tra chuyên ngành; trưng tập cộng tác viên thanh tra.\n\n32\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\n3. Tổ chức thanh tra, xử lý hoặc kiến nghị xử lý sai phạm của các tổ chức và cá\nnhân theo thẩm quyền; xử lý sau thanh tra.\n4. Thực hiện chế độ báo cáo về công tác thanh tra theo quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Trách nhiệm của thanh tra sở giáo dục và đào tạo",
+      "text": "Điều 15. Trách nhiệm của thanh tra sở giáo dục và đào tạo\n1. Xây dựng kế hoạch thanh tra, dự trù kinh phí hoạt động thanh tra hàng năm\ntrình Giám đốc sở phê duyệt.\n2. Đề nghị Giám đốc sở công nhận cộng tác viên thanh tra theo thẩm quyền; tổ\nchức tập huấn công tác thanh tra chuyên ngành, công tác kiểm tra nội bộ; trưng tập\ncộng tác viên thanh tra.\n3. Tổ chức thanh tra, xử lý hoặc kiến nghị xử lý sai phạm của các tổ chức và cá\nnhân theo thẩm quyền; xử lý sau thanh tra.\n4. Thực hiện chế độ báo cáo về công tác thanh tra theo quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Trách nhiệm của phòng giáo dục và đào tạo",
+      "text": "Điều 16. Trách nhiệm của phòng giáo dục và đào tạo\n1. Phối hợp với thanh tra sở để xây dựng và thực hiện kế hoạch thanh tra\nchuyên ngành hàng năm đối với các cơ sở giáo dục trên địa bàn.\n2. Giới thiệu cán bộ quản lý, giáo viên thuộc quyền quản lý của phòng giáo\ndục và đào tạo để sở giáo dục và đào tạo công nhận và trưng tập cộng tác viên\nthanh tra.\n3. Xây dựng kế hoạch và tổ chức kiểm tra việc thực hiện nhiệm vụ được giao;\nhướng dẫn công tác kiểm tra nội bộ.\n4. Chỉ đạo, kiểm tra, giám sát việc thực hiện yêu cầu, kiến nghị của đoàn thanh\ntra, kết luận thanh tra, quyết định xử lý sau thanh tra của cơ quan nhà nước có\nthẩm quyền.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Trách nhiệm của cơ sở giáo dục",
+      "text": "Điều 17. Trách nhiệm của cơ sở giáo dục\n1. Các cơ sở giáo dục đại học, trường trung cấp chuyên nghiệp xây dựng kế\nhoạch và tổ chức thanh tra nội bộ; thực hiện chế độ báo cáo về công tác thanh tra\nnội bộ theo quy định.\nCác cơ sở giáo dục mầm non, giáo dục phổ thông và giáo dục thường xuyên\nxây dựng kế hoạch và tổ chức kiểm tra nội bộ; thực hiện chế độ báo cáo về công\ntác kiểm tra nội bộ theo quy định.\n2. Cung cấp kịp thời, đầy đủ, chính xác thông tin, tài liệu theo yêu cầu của\nđoàn thanh tra và phải chịu trách nhiệm trước pháp luật về tính chính xác, trung\nthực của thông tin, tài liệu đã cung cấp.\n3. Thực hiện yêu cầu, kiến nghị của đoàn thanh tra, kết luận thanh tra, quyết\nđịnh xử lý sau thanh tra của cơ quan nhà nước có thẩm quyền.\n\nCÔNG BÁO/Số 913 + 914/Ngày 20-12-2013\n33",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 18. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 18 tháng 01 năm 2014\n2. Bãi bỏ Thông tư số 43/2006/TT-BGDĐT ngày 20 tháng 10 năm 2006 của\nBộ trưởng Bộ Giáo dục và Đào tạo về việc Hướng dẫn thanh tra toàn diện nhà\ntrường, cơ sở giáo dục khác và thanh tra hoạt động sư phạm nhà giáo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 19. Trách nhiệm thi hành\nChánh Văn phòng, Chánh Thanh tra, Thủ trưởng đơn vị thuộc Bộ Giáo dục và\nĐào tạo; Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; Giám\nđốc sở giáo dục và đào tạo; Giám đốc đại học, học viện; Viện trưởng viện nghiên\ncứu khoa học được phép đào tạo trình độ tiến sĩ; Hiệu trưởng trường đại học, cao\nđẳng, trung cấp chuyên nghiệp và thủ trưởng các cơ quan, đơn vị có liên quan chịu\ntrách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

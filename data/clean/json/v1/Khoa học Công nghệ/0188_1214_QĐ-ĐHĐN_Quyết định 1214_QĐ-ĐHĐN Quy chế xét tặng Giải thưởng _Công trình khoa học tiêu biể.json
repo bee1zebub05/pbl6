@@ -1,0 +1,151 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0188_1214_QĐ-ĐHĐN_Quyết định 1214_QĐ-ĐHĐN Quy chế xét tặng Giải thưởng _Công trình khoa học tiêu biể.txt",
+  "mappedBy": "gemini-web",
+  "note": "14 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1214/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc Ban hành Quy chế xét tặng Giải thưởng “Công trình khoa học tiêu biểu của Đại học Đà Nẵng”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "17/04/2018",
+    "effectiveDate": "17/04/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ"
+    ],
+    "summary": "Quyết định ban hành Quy chế xét tặng Giải thưởng “Công trình khoa học tiêu biểu của Đại học Đà Nẵng” nhằm biểu dương các công trình khoa học xuất sắc, khuyến khích nghiên cứu khoa học, nâng cao chất lượng đào tạo và phát triển tài năng khoa học trẻ trong toàn Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế xét tặng Giải thưởng “Công trình khoa học tiêu biểu của Đại học Đà Nẵng”",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh, đối tượng áp dụng, giải thích từ ngữ",
+          "text": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng, giải thích từ ngữ\n1. Quy chế này quy định về tiêu chí, quy trình tổ chức xét tặng Giải thưởng “Công trình khoa học tiêu biểu của Đại học Đà Nẵng” (sau đây gọi tắt là Giải thưởng).\n2. Quy chế này áp dụng đối với các tập thể, cá nhân thuộc các cơ sở giáo dục đại học thành viên, các đơn vị trực thuộc của Đại học Đà Nẵng (ĐHĐN) và những cá nhân tham gia công trình ngoài ĐHĐN.\n3. Công trình khoa học là sản phẩm của lao động sáng tạo được hình thành trong quá trình nghiên cứu khoa học, phát triển công nghệ, ứng dụng các thành tựu khoa học và công nghệ. Sản phẩm cụ thể của công trình khoa học được xem xét, đánh giá để trao tặng Giải thưởng bao gồm nhiều thể loại như: bài báo khoa học, sách/giáo trình, đề tài nghiên cứu khoa học, tác phẩm văn học nghệ thuật, quy trình công nghệ,...",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích, thời gian xét tặng Giải thưởng",
+          "text": "Điều 2. Mục đích, thời gian xét tặng Giải thưởng\n1. Giải thưởng nhằm biểu dương những công trình khoa học xuất sắc và khuyến khích tham gia hoạt động nghiên cứu khoa học của cán bộ/giảng viên, góp phần nâng cao chất lượng đào tạo, phát triển kinh tế - xã hội, phát hiện và bồi dưỡng tài năng khoa học trẻ trong toàn ĐHĐN.\n2. Giải thưởng được tổ chức thường niên vào cuối mỗi năm học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Lĩnh vực khoa học và công nghệ xét tặng Giải thưởng",
+          "text": "Điều 3. Lĩnh vực khoa học và công nghệ xét tặng Giải thưởng\nGiải thưởng được xét tặng cho các công trình khoa học thuộc các lĩnh vực sau:\n1. Khoa học Tự nhiên: Toán học và thống kê, Khoa học máy tính và thông tin, Vật lý, Hóa học, Môi trường, Sinh học, Khoa học tự nhiên khác.\n2. Khoa học Kỹ thuật và Công nghệ: Kỹ thuật dân dụng, Kỹ thuật điện, Kỹ thuật điện tử, Kỹ thuật thông tin, Kỹ thuật cơ khí, Kỹ thuật hóa học, Kỹ thuật vật liệu và luyện kim, Kỹ thuật y học, Kỹ thuật môi trường, Công nghệ sinh học môi trường, Công nghệ sinh học công nghiệp, Công nghệ nano, Kỹ thuật thực phẩm và đồ uống, Khoa học kỹ thuật và công nghệ khác.\n3. Khoa học Y, Dược: Y học cơ sở, Y học lâm sàng, Dược học, Công nghệ sinh học trong y học, Khoa học y, dược khác.\n4. Khoa học Xã hội: Tâm lý học, Kinh tế và kinh doanh, Khoa học giáo dục, Xã hội học, Pháp luật, Khoa học chính trị, Địa lý kinh tế và xã hội, Thông tin đại chúng và truyền thông, Khoa học xã hội khác.\n5. Khoa học Nhân văn: Lịch sử, Ngôn ngữ học và văn học, Triết học, Đạo đức học và tôn giáo, Khoa học nhân văn khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Yêu cầu chung đối với công trình tham gia xét tặng Giải thưởng",
+          "text": "Điều 4. Yêu cầu chung đối với công trình tham gia xét tặng Giải thưởng\nCông trình tham gia xét tặng Giải thưởng phải đáp ứng các yêu cầu sau:\n1. Mỗi công trình do một cá nhân hoặc tập thể (trong đó phải có ít nhất một người là cán bộ/giảng viên thuộc các cơ sở giáo dục đại học thành viên hoặc các đơn vị trực thuộc của ĐHĐN) thực hiện. Công trình phải có một người chịu trách nhiệm chính. Chỉ khen thưởng và cấp giấy chứng nhận cho những người có đóng góp từ 20% trở lên (kể cả người ngoài ĐHĐN và phải có giấy cam kết của người được đề nghị xét thưởng và xác nhận của người phụ trách nhóm nghiên cứu).\n2. Công trình khoa học tham gia xét tặng Giải thưởng phải xuất sắc, tiêu biểu cho hoạt động nghiên cứu khoa học của ĐHĐN và đã được đánh giá nghiệm thu hoặc công bố theo quy định.\n3. Tính đến thời điểm xét tặng Giải thưởng, tác giả, tập thể tác giả không vi phạm quy định tại Điều 8 (Các hành vi bị cấm) Luật Khoa học và Công nghệ năm 2013.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguồn kinh phí cho Giải thưởng",
+          "text": "Điều 5. Nguồn kinh phí cho Giải thưởng\n1. Kinh phí tổ chức xét tặng Giải thưởng được lấy từ kinh phí hoạt động khoa học và công nghệ của Quỹ Phát triển KH&CN ĐHĐN và các nguồn hợp pháp khác tài trợ cho Giải thưởng.\n2. Mức chi cho các hoạt động liên quan đến xét thưởng sẽ theo quy định trong Quy chế Chi tiêu nội bộ của các cơ sở giáo dục đại học thành viên đối với Hội đồng cấp cơ sở và theo quy định trong Phụ lục Quy chế chi tiêu nội bộ của ĐHĐN đối với Hội đồng cấp ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Hồ sơ tham gia xét tặng Giải thưởng",
+          "text": "Điều 6. Hồ sơ tham gia xét tặng Giải thưởng\n1. Đơn đăng ký xét tặng giải thưởng (mẫu ĐKGT 1).\n2. Bản chính hoặc bản sao có chứng thực của công trình khoa học đăng ký xét tặng giải thưởng.\n3. Bản thuyết minh giá trị khoa học của công trình bằng tiếng Việt (mẫu ĐKGT 2). Khuyến khích kèm theo bản dịch tiếng Anh.\n4. Lý lịch khoa học của các tác giả (mẫu ĐKGT 3).\n5. Bản cam kết và xác nhận danh sách tác giả và mức độ đóng góp của từng thành viên đối với công trình khoa học tập thể (mẫu ĐKGT 4).\n6. Văn bản đề nghị xét tặng giải thưởng của Thủ trưởng đơn vị quản lý cán bộ, giảng viên (mẫu ĐKGT 5).\n7. Văn bản xác nhận, đánh giá của cơ quan chức năng có thẩm quyền hoặc đơn vị ứng dụng kết quả của công trình khoa học (đối với loại hình nghiên cứu triển khai và sản xuất thử - thử nghiệm, chuyển giao công nghệ).\n8. Các tài liệu minh chứng khác có liên quan.\n9. Hồ sơ trên đây phải được gửi đến và lưu trữ, quản lý tại Ban Khoa học, Công nghệ và Môi trường - ĐHĐN ở dạng in trên giấy và dạng số hoá.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Thời gian, địa điểm nộp hồ sơ, công bố và trao Giải thưởng",
+          "text": "Điều 7. Thời gian, địa điểm nộp hồ sơ, công bố và trao Giải thưởng\n1. Hồ sơ được gửi về Ban Khoa học, Công nghệ và Môi trường – ĐHĐN trước ngày 30/9 hàng năm.\n2. Việc đánh giá, xét thưởng hoàn thành trước ngày 20/11 hàng năm.\n3. Việc công bố và trao giải thưởng được tổ chức trong năm xét khen thưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiêu chí xét tặng Giải thưởng",
+          "text": "Điều 8. Tiêu chí xét tặng Giải thưởng\nCông trình khoa học được xét tặng Giải thưởng phải là những công trình xuất sắc nhất, tiêu biểu cho ĐHĐN, được cộng đồng khoa học hoặc xã hội thừa nhận và đánh giá cao.\nCụ thể như sau:\n\n1) Đối với công trình nghiên cứu cơ bản:\n- Có sự đóng góp quan trọng cho sự phát triển khoa học, đạt trình độ quốc gia hoặc quốc tế.\n- Các kết quả chính được đăng hoặc nhận đăng trong tạp chí KH quốc gia hoặc quốc tế, hoặc tuyển tập công trình của Hội nghị KH quốc gia hoặc quốc tế. Nếu là đề tài NCKH thì ngoài các điều kiện trên, còn phải hoàn thành đúng thời hạn đăng ký và đã được đánh giá nghiệm thu ở mức \"Khá\" trở lên.\n- Được thủ trưởng đơn vị đề nghị xét thưởng.\n\n2) Đối với công trình nghiên cứu triển khai:\n- Có đóng góp cho sự phát triển khoa học, công nghệ và có kết quả được ứng dụng trong thực tiễn, được xã hội thừa nhận và đánh giá cao;\n- Có kết quả được công bố trong tạp chí KH quốc gia hoặc quốc tế, hoặc tuyển tập công trình của Hội nghị KH quốc gia hoặc quốc tế. Nếu là đề tài NCKH thì ngoài các điều kiện trên, còn phải hoàn thành đúng thời hạn đăng ký và đã được đánh giá nghiệm thu ở mức \"Khá\" trở lên.\n- Có quy trình ứng dụng triển khai vào thực tiễn hoặc những đề xuất có ý nghĩa ứng dụng cao được cơ quan chức năng có thẩm quyền hoặc đơn vị ứng dụng xác nhận về hiệu quả của công trình.\n- Được Thủ trưởng đơn vị đề nghị xét thưởng.\n\n3) Đối với các dự án sản xuất thử - thử nghiệm, chuyển giao công nghệ:\n- Có sản phẩm với hàm lượng khoa học cao và giá trị kinh tế cao.\n- Có khả năng triển khai sản xuất quy mô hàng hóa với hiệu quả kinh tế cao.\n- Được đơn vị ứng dụng kết quả xác nhận về hiệu quả của sản phẩm, được cơ quan chức năng có thẩm quyền xác nhận thương phẩm.\n- Nếu là Dự án, ngoài các điều kiện trên, phải được hoàn thành đúng thời hạn đăng ký và đã được đánh giá nghiệm thu ở mức \"Khá\" trở lên.\n- Được Thủ trưởng đơn vị đề nghị xét thưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quy trình xét tặng Giải thưởng",
+          "text": "Điều 9. Quy trình xét tặng Giải thưởng\n\nViệc xét tặng Giải thưởng được tiến hành ở 02 cấp:\n\n1. Cấp cơ sở\na) Tác giả, tập thể tác giả của công trình đăng ký và nộp hồ sơ tham gia xét tặng Giải thưởng tại cơ sở giáo dục đại học quản lý trực tiếp; Đối với các tác giả, tập thể tác giả của công trình thuộc các đơn vị trực thuộc ĐHĐN đăng ký và nộp hồ sơ tham gia xét tặng Giải thưởng tại Ban Khoa học, Công nghệ và Môi trường, ĐHĐN.\n\nb) Cơ sở giáo dục đại học thành viên, Cơ quan ĐHĐN thành lập và tổ chức họp Hội đồng khoa học cấp cơ sở để đánh giá và lựa chọn các công trình tham gia xét tặng Giải thưởng (Hội đồng tối thiểu gồm 5 thành viên, do Thủ trưởng đơn vị quyết định);\n\nc) Cơ sở giáo dục đại học hoàn thiện hồ sơ đề nghị xét tặng Giải thưởng theo quy định tại Điều 6 của Quy chế này gửi về ĐHĐN.\n\n2. Cấp ĐHĐN\nCông trình tham gia xét tặng Giải thưởng được đánh giá và xét chọn qua hai vòng.\n\na) Vòng 1:\nĐHĐN thành lập Hội đồng xét chọn giải thưởng có tối thiểu 02 thành viên cho mỗi lĩnh vực có hồ sơ đề nghị xét thưởng. Hội đồng có trách nhiệm nghiên cứu, nhận xét, đánh giá những công trình khoa học để đảm bảo đáp ứng đầy đủ các yêu cầu về hồ sơ tham dự giải thưởng theo quy định. Hội đồng sẽ chọn ra các công trình khoa học xuất sắc nhất của mỗi lĩnh vực (quy định trong Điều 3) để mời báo cáo tại vòng 2.\n\nb) Vòng 2:\nTại vòng 2, Hội đồng xét chọn giải thưởng sẽ họp lại để nghe tác giả chính của các công trình được tuyển chọn báo cáo. Tác giả chính của công trình có thể ủy quyền cho các thành viên của nhóm nghiên cứu báo cáo thay tại Hội đồng nếu tác giả chính không thể trực tiếp báo cáo. Sau khi nghe báo cáo, Hội đồng sẽ bỏ phiếu bình chọn các công trình khoa học xuất sắc nhất để trao giải thưởng Nhất, Nhì, Ba và Khuyến khích. Số lượng các Giải Nhất, Nhì, Ba và Khuyến khích sẽ do Hội đồng quyết định đề nghị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Mức thưởng và chứng nhận giải thưởng",
+          "text": "Điều 10. Mức thưởng và chứng nhận giải thưởng\n\n1. Mức thưởng cho mỗi lĩnh vực:\n- Giải Nhất: 30.000.000đ (Ba mươi triệu đồng/công trình);\n- Giải Nhì: 20.000.000đ (Hai mươi triệu đồng/công trình);\n- Giải Ba: 10.000.000đ (Mười triệu đồng/công trình).\n- Giải Khuyến khích: 5.000.000đ (Năm triệu đồng/công trình).\n\n2. Chứng nhận giải thưởng\nĐại học Đà Nẵng cấp giấy chứng nhận cho công trình khoa học được trao thưởng. Nội dung giấy chứng nhận ghi rõ tên công trình, tên tác giả chịu trách nhiệm chính và các cá nhân tham gia có đóng góp từ 20% trở lên của công trình đạt Giải thưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 11. Điều khoản thi hành\nQuy định này có hiệu lực kể từ ngày ký ban hành./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế xét tặng Giải thưởng “Công trình khoa học tiêu biểu của Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế xét tặng Giải thưởng “Công trình khoa học tiêu biểu của Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Ông (Bà) Chánh Văn phòng, Trưởng các Ban chức năng có liên quan, Thủ trưởng các Cơ sở giáo dục đại học thành viên, các đơn vị trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan chịu t",
+      "text": "Điều 3. Các Ông (Bà) Chánh Văn phòng, Trưởng các Ban chức năng có liên quan, Thủ trưởng các Cơ sở giáo dục đại học thành viên, các đơn vị trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

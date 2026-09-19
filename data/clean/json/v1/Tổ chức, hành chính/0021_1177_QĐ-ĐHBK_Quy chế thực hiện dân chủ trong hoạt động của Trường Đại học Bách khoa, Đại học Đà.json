@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0021_1177_QĐ-ĐHBK_Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa, Đại học Đà.txt",
+  "mappedBy": "gemini-web",
+  "note": "23 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo). Bản gốc Quyết định 1177/QĐ-ĐHBK đánh số trùng: có hai Điều 19 — \"Quan hệ giữa Nhà trường với chính quyền địa phương\" (Chương III) và \"Tổ chức thực hiện\" (Chương IV). Đã đối chiếu thẳng bản scan gốc, trang 8-10: bản gốc đúng là như vậy, không phải lỗi OCR. Schema không cho trùng số Điều nên nội dung của Điều 19 thứ hai nằm lồng trong thân Điều 19 thứ nhất; không mất chữ nào nhưng đồ thị sẽ có 23 node cho 24 Điều.",
+  "document": {
+    "documentNumber": "1177/QĐ-ĐHBK",
+    "title": "Quyết định V/v Ban hành Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "26/04/2019",
+    "effectiveDate": "26/04/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng, quy định về trách nhiệm của Hiệu trưởng, Trưởng các đơn vị, viên chức, người lao động, người học và các tổ chức đoàn thể trong việc thực hiện dân chủ.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "04/2000/QĐ-BGD&ĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 04/2000/QĐ-BGD&ĐT ngày 01/3/2000 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế thực hiện dân chủ trong hoạt động của nhà trường;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "6675/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6675/QĐ-ĐHĐN ngày 28/11/2016 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế thực hiện dân chủ trong hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "56/2015/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tổ chức đánh giá định kỳ hàng năm đối với viên chức, NLĐ thuộc thẩm quyền quản lý theo trình tự, thủ tục quy định tại Nghị định số 56/2015/NĐ-CP ngày 09/6/2015 của Chính phủ về đánh giá phân loại công chức, viên chức, NLĐ."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Công đoàn"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế thực hiện dân chủ trong hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định những nội dung liên quan đến việc thực hiện dân chủ trong hoạt\nđộng của Trường Đại học Bách khoa - Đại học Đà Nẵng (sau đây gọi tắt là Nhà trường), bao\ngồm: dân chủ trong nội bộ Nhà trường; dân chủ trong quan hệ và giải quyết công việc với\ncông dân, các cơ quan, đơn vị, tổ chức khác có liên quan:\na. Dân chủ trong nội bộ Nhà trường bao gồm: trách nhiệm của Hiệu trưởng, của các\nđoàn thể, tổ chức và của viên chức, người lao động (NLĐ), người học trong hoạt động nội bộ\ncủa Nhà trường; những việc phải công khai để viên chức, NLĐ, người học biết; những việc\nviên chức, NLĐ, người học được tham gia ý kiến, Hiệu trưởng quyết định; những việc viên\nchức, NLĐ giám sát, kiểm tra;\nb. Dân chủ trong quan hệ giải quyết công việc với công dân, các cơ quan, đơn vị, tổ\nchức khác có liên quan bao gồm: Trách nhiệm của Hiệu trưởng và của viên chức, NLĐ trong\nquan hệ giải quyết công việc với công dân, tổ chức khác có liên quan; quan hệ giữa Hiệu\ntrưởng với các cơ quan quản lý cấp trên, với các cơ quan, đơn vị, tổ chức khác có liên quan.\n2. Quy chế này áp dụng đối với các đơn vị trực thuộc, các tổ chức, viên chức, NLĐ có\ntrong danh sách trả lương và người học của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích thực hiện dân chủ trong hoạt động của Nhà trường",
+          "text": "Điều 2. Mục đích thực hiện dân chủ trong hoạt động của Nhà trường\n1. Phát huy quyền làm chủ của viên chức, NLĐ và nâng cao trách nhiệm của Hiệu\ntrưởng.\n2. Góp phần xây dựng đội ngũ viên chức, NLĐ là công bộc của nhân dân, có đủ phẩm\nchất chính trị, phẩm chất đạo đức, lối sống, năng lực và trình độ chuyên môn nghiệp vụ, làm\nviệc có năng suất, chất lượng hiệu quả, đáp ứng yêu cầu phát triển đổi mới của đất nước.\n3. Huy động tiềm năng, trí tuệ của toàn thể viên chức, NLĐ, người học vào việc xây\ndựng nề nếp, trật tự, kỷ cương trong mọi hoạt động của Nhà trường. Phòng ngừa, ngăn chặn\nvà chống các hành vi tham nhũng, lãng phí, những biểu hiện tiêu cực quan liêu, phiền hà, sách\nnhiễu nhân dân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Yêu cầu của việc thực hiện dân chủ trong Nhà trường",
+          "text": "Điều 3. Yêu cầu của việc thực hiện dân chủ trong Nhà trường\n1. Phát huy quyền làm chủ của viên chức, NLĐ, đảm bảo sự lãnh đạo của Đảng, chấp\nhành nguyên tắc tập trung, dân chủ; nâng cao trách nhiệm của Hiệu trưởng và phát huy vai trò\ncủa các tổ chức, các đoàn thể trong Nhà trường.\n2. Thực hiện dân chủ trong Nhà trường phải luôn dựa trên cơ sở Hiến pháp và pháp luật,\nquyền lợi phải gắn liền với nghĩa vụ và trách nhiệm, dân chủ phải gắn liền với kỷ luật, kỷ\ncương.\n3. Xử lý nghiêm minh những hành vi lợi dụng dân chủ, xâm phạm quyền tự do dân chủ\nlàm ảnh hưởng đến uy tín và hoạt động của Nhà trường, làm tổn hại đến danh dự và quyền lợi\ncủa tập thể, viên chức, NLĐ, người học.\n4. Thực hiện dân chủ trong Nhà trường thông qua việc xây dựng, ban hành và tổ chức\nthực hiện hệ thống văn bản quản lý nội bộ của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Trách nhiệm tổ chức thực hiện dân chủ",
+          "text": "Điều 4. Trách nhiệm tổ chức thực hiện dân chủ\nHiệu trưởng phân công cho cấp dưới thực hiện những việc sau đây:\n1. Thông báo về mục tiêu đào tạo, chương trình và quy trình đào tạo; kế hoạch tuyển\nsinh, các nội quy, quy chế của Nhà trường.\n2. Thông báo công khai các chế độ, chính sách đối với viên chức, NLĐ, người học.\n3. Đặt hòm thư góp ý hoặc các hình thức góp ý khác để các cá nhân, tổ chức, đoàn thể\ntrong Nhà trường thuận lợi trong việc góp ý kiến.\n4. Giải đáp các ý kiến và giải quyết đơn thư khiếu nại, tố cáo, kiến nghị, phản ánh theo\nquy định của pháp luật.\n5. Định kỳ mỗi năm ít nhất một lần, gặp gỡ đại diện của người học thông qua hoạt động\nđối thoại người học để nghe và trao đổi giải quyết những vấn đề giảng dạy, học tập, rèn luyện,\nchế độ, chính sách, về đời sống vật chất, tinh thần và những vấn đề khác trong Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Trách nhiệm của Hiệu trưởng",
+          "text": "Điều 5. Trách nhiệm của Hiệu trưởng\nHiệu trưởng là người do Giám đốc Đại học Đà Nẵng bổ nhiệm, chịu trách nhiệm quản lý\ncác hoạt động của Nhà trường. Hiệu trưởng có trách nhiệm:\n1. Quản lý điều hành mọi hoạt động của Nhà trường, chịu trách nhiệm trước pháp luật và\ncấp trên về toàn bộ hoạt động của Nhà trường.\n2. Tổ chức thực hiện những quy định về trách nhiệm của Nhà trường, trong quản lý, sử\n\ndụng, đào tạo, bồi dưỡng, thực hiện chế độ, chính sách đối với viên chức, NLĐ, người học\ntrong Quy chế này.\n3. Tổ chức các cuộc họp giao ban định kỳ, hàng tháng, hàng quý để đánh giá kết quả\nthực hiện các nhiệm vụ được giao và đề ra các nhiệm vụ, giải pháp chủ yếu phải thực hiện\ntrong thời gian tới. Định kỳ hàng năm Hiệu trưởng phải tổ chức đánh giá tổng kết hoạt động\ncủa Nhà trường tại Hội nghị cán bộ, công chức, viên chức quy định tại Điều 6 Quy chế này.\n4. Tổ chức đánh giá định kỳ hàng năm đối với viên chức, NLĐ thuộc thẩm quyền quản\nlý theo trình tự, thủ tục quy định tại Nghị định số 56/2015/NĐ-CP ngày 09/6/2015 của Chính\nphủ về đánh giá phân loại công chức, viên chức, NLĐ.\n5. Lắng nghe và tiếp thu những ý kiến của cá nhân, tổ chức, đoàn thể trong Nhà trường\nvà có các biện pháp giải quyết đúng theo chế độ, chính sách hiện hành của nhà nước, theo nội\nquy, quy chế, điều lệ của trường đại học và phù hợp với thẩm quyền, trách nhiệm được giao.\nTrong trường hợp vượt quá thẩm quyền giải quyết của Hiệu trưởng thì phải thông báo cho cá\nnhân, tổ chức, đoàn thể trong Trường biết và báo cáo lên cấp trên.\n6. Thực hiện chế độ công khai tài chính theo quy định của nhà nước; công khai các\nquyền lợi, chế độ, chính sách đối với viên chức, NLĐ, người học.\n7. Gương mẫu, đi đầu trong việc đấu tranh chống những biểu hiện thiếu dân chủ trong\nNhà trường, như: cửa quyền, sách nhiễu, thành kiến, trù dập, giấu diếm, bưng bít, làm sai sự\nthật, làm trái nguyên tắc và những biểu hiện không dân chủ khác.\n8. Thực hiện nghiêm túc nguyên tắc tập trung dân chủ trong quản lý Nhà trường. Phối\nhợp chặt chẽ với các tổ chức, đoàn thể, các cá nhân trong Nhà trường, phát huy dân chủ trong\ntổ chức hoạt động của Nhà trường.\n9. Bảo vệ và giữ gìn uy tín của Nhà trường.\n10. Hướng dẫn, đôn đốc, kiểm tra hoạt động của cấp dưới trực tiếp trong việc thực hiện\ndân chủ và giải quyết kịp thời những kiến nghị của cấp dưới theo thẩm quyền được giao.\n11. Tổ chức tiếp viên chức, NLĐ, người học ít nhất một tháng/lần và được thông báo\ncông khai trên Lịch công tác tuần của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức hội nghị cán bộ, công chức viên chức",
+          "text": "Điều 6: Tổ chức hội nghị cán bộ, công chức viên chức\n1. Phối hợp với tổ chức Công đoàn tổ chức Hội nghị cán bộ, công chức, viên chức mỗi\nnăm một lần theo quy định của nhà nước.\n2. Nội dung của Hội nghị, gồm:\na. Kiểm điểm việc thực hiện các nghị quyết, chủ trương, chính sách của Đảng, pháp luật\ncủa Nhà nước có liên quan đến chức năng, nhiệm vụ của Nhà trường; kiểm điểm việc thực\nhiện Nghị quyết Hội nghị cán bộ, công chức, viên chức của năm học trước và những quy định\nvề thực hiện dân chủ trong hoạt động của Nhà trường; đánh giá, tổng kết và kiểm điểm trách\nnhiệm của người đứng đầu cơ quan, đơn vị trong việc thực hiện kế hoạch công tác hàng năm;\nthảo luận, bàn biện pháp thực hiện kế hoạch công tác năm tới của Nhà trường;\nb. Hiệu trưởng lắng nghe ý kiến đóng góp, phê bình của viên chức, NLĐ; giải đáp những\nthắc mắc, kiến nghị của viên chức, NLĐ;\n\nc. Thông qua Quy chế chi tiêu nội bộ của đơn vị (nếu có bổ sung sửa đổi), phát động\nphong trào thi đua và ký kết giao ước thi đua giữa Hiệu trưởng với tổ chức công đoàn Nhà\ntrường;\nd. Bàn các biện pháp cải tiến điều kiện làm việc, nâng cao đời sống của viên chức, NLĐ;\ne. Ban Thanh tra nhân dân báo cáo công tác, bầu Ban Thanh tra nhân dân theo quy định\ncủa Pháp luật;\nf. Khen thưởng các cá nhân, tập thể có thành tích trong công tác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Những việc Hiệu trưởng cần lấy ý kiến tham gia đóng góp xây dựng của các đơn",
+          "text": "Điều 7. Những việc Hiệu trưởng cần lấy ý kiến tham gia đóng góp xây dựng của các đơn\nvị hoặc các tổ chức, đoàn thể, cá nhân trong Nhà trường trước khi quyết định\n1. Kế hoạch phát triển, tuyển sinh, dạy học, nghiên cứu khoa học và các hoạt động khác\ncủa Nhà trường trong năm học.\n2. Quy trình quản lý đào tạo, những vấn đề về chức năng, nhiệm vụ, cơ cấu tổ chức bộ\nmáy trong Nhà trường.\n3. Kế hoạch tuyển dụng, đào tạo, bồi dưỡng trình độ chuyên môn, nghiệp vụ của viên\nchức, NLĐ.\n4. Kế hoạch xây dựng cơ sở vật chất, các hoạt động dịch vụ, sản xuất của Nhà trường.\n5. Các biện pháp tổ chức phong trào thi đua, khen thưởng hàng năm, việc xây dựng nội\nquy, quy chế trong Nhà trường.\n6. Các báo cáo sơ kết, tổng kết theo định kỳ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Trách nhiệm của Trưởng các đơn vị thuộc Trường",
+          "text": "Điều 8. Trách nhiệm của Trưởng các đơn vị thuộc Trường\nTrưởng các phòng, khoa, Giám đốc các trung tâm, Viện, Tổ trực thuộc là người đại\ndiện cho đơn vị, chịu trách nhiệm trước Hiệu trưởng và tập thể viên chức, NLĐ, người học tại\nđơn vị mình về việc thực hiện dân chủ trong đơn vị và Nhà trường có trách nhiệm sau:\n1. Tham mưu, đề xuất những biện pháp giúp Hiệu trưởng thực hiện tốt những quy định\ncủa Quy chế này.\n2. Chấp hành và tổ chức thực hiện tốt các hoạt động dân chủ trong đơn vị.\n3. Thực hiện nghiêm túc Quy chế tổ chức hoạt động, Nội quy làm việc của Nhà trường;\nthực hiện đầy đủ chức năng, nhiệm vụ của đơn vị theo quy định.\n4. Quản lý và điều hành hoạt động của đơn vị; chịu trách nhiệm trước pháp luật và Hiệu\ntrưởng về toàn bộ hoạt động của đơn vị, viên chức, NLĐ, người học thuộc đơn vị mình theo\nquy định của pháp luật.\n5. Xây dựng kế hoạch giai đoạn 5 năm và các kế hoạch ngắn hạn theo năm học về tất cả\ncác mặt công tác, đồng thời quyết định biện pháp để triển khai thực hiện kế hoạch của đơn vị.\nKế hoạch công tác của đơn vị cần được phổ biến rộng rãi và được thảo luận, góp ý xây dựng\ntrong toàn thể viên chức, NLĐ của đơn vị.\n6. Phổ biến kịp thời thông tin về Nghị quyết của Đảng, pháp luật của Nhà nước, quy\nđịnh của cấp trên, các chương trình kế hoạch công tác và mọi quy định của Nhà trường, của\nđơn vị đối với viên chức, NLĐ của đơn vị.\n7. Hàng năm, phối hợp với Công đoàn bộ phận tổ chức Hội nghị cán bộ, công chức, viên\n\nchức đơn vị mình và tham gia Hội nghị cán bộ, công chức, viên chức cấp Trường theo hướng\ndẫn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Trách nhiệm của viên chức, người lao động",
+          "text": "Điều 9. Trách nhiệm của viên chức, người lao động\nViên chức, NLĐ trong Nhà trường có trách nhiệm:\n1. Thực hiện các nhiệm vụ và quyền của nhà giáo theo quy định của Luật giáo dục; Luật\ngiáo dục đại học; Điều lệ trường đại học; Quy định của Đại học Đà Nẵng.\n2. Thực hiện đúng những quy định trong Luật viên chức; Bộ luật lao động; Luật phòng,\nchống tham nhũng; Luật thực hành tiết kiệm, chống lãng phí.\n3. Tham gia đóng góp ý kiến về những nội dung quy định tại Điều 7 Quy chế này.\n4. Giữ gìn phẩm chất, danh dự, uy tín của viên chức, NLĐ; tôn trọng đồng nghiệp và\nsinh viên; bảo vệ uy tín của Nhà trường.\n5. Thực hiện tốt các nhiệm vụ đào tạo, nghiên cứu khoa học, học tập, quản lý của Nhà\ntrường và của đơn vị.\n6. Không được làm những việc bị cấm theo quy định của Luật giáo dục; Luật Giáo dục\nđại học; Luật viên chức; Luật Phòng, chống tham nhũng; Quy định về đạo đức nhà giáo.\n7. Xây dựng nếp sống có văn hoá, lành mạnh trung thực, thực hiện tự phê bình và phê\nbình nghiêm túc, phát huy ưu điểm, sửa chữa khuyết điểm để không ngừng tiến bộ.\n8. Kiên quyết đấu tranh chống những hiện tượng bè phái, mất đoàn kết, cửa quyền, quan\nliêu và những hoạt động khác vi phạm dân chủ, kỷ cương nề nếp trong Nhà trường.\n9. Chịu trách nhiệm trước pháp luật, trước Hiệu trưởng và Trưởng đơn vị về việc thi\nhành nhiệm vụ, công vụ của mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Quyền của viên chức, người lao động",
+          "text": "Điều 10. Quyền của viên chức, người lao động\nViên chức, người lao động trong Nhà trường có những quyền sau:\n1. Trình bày ý kiến, đề xuất giải quyết những vấn đề thuộc phạm vi trách nhiệm của\nmình khác với sự chỉ đạo của người phụ trách trực tiếp, nhưng vẫn phải chấp hành sự chỉ đạo\ncủa người phụ trách trực tiếp, đồng thời có quyền bảo lưu ý kiến và báo cáo lên Ban Giám\nhiệu.\n2. Khiếu nại theo quy định của Luật khiếu nại về quyết định hành chính, hành vi hành\nchính, quyết định kỷ luật của người có thẩm quyền đối với mình khi có căn cứ cho rằng quyết\nđịnh hoặc hành vi đó là trái pháp luật, ảnh hưởng đến quyền và lợi ích hợp pháp của mình.\n3. Tố cáo những hành vi trái pháp luật của đơn vị, tổ chức, cá nhân trong Nhà trường\ntheo quy định của Luật tố cáo khi có căn cứ cho rằng hành vi đó gây thiệt hại đến lợi ích hợp\n\npháp của cơ quan, tổ chức và cá nhân.\n4. Yêu cầu giải trình, giải đáp thắc mắc đối với tổ chức, đơn vị, cá nhân phụ trách về các\nvấn đề liên quan đến trách nhiệm, quyền và lợi ích chính đáng của mình.\n5. Bảo đảm an toàn cho người tố cáo; bảo đảm quyền và lợi ích hợp pháp của người bị tố\ncáo khi chưa có kết luận nội dung tố cáo của người giải quyết tố cáo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Những việc viên chức, người lao động được biết và tham gia ý kiến",
+          "text": "Điều 11. Những việc viên chức, người lao động được biết và tham gia ý kiến\nViên chức, người lao động có quyền được biết và tham gia ý kiến trực tiếp hoặc thông\nqua đại diện về các vấn đề sau:\n1. Những chủ trương, chính sách, chế độ của Đảng và Nhà nước đối với nhà giáo, viên\nchức, NLĐ.\n2. Những quy định về sử dụng tài sản, xây dựng cơ sở vật chất của Nhà trường.\n3. Việc giải quyết đơn khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp\nluật. Đơn vị, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo mà không\ntiếp nhận, không giải quyết tố cáo theo đúng quy định của pháp luật, thiếu trách nhiệm trong\nviệc tiếp nhận, giải quyết tố cáo hoặc giải quyết tố cáo trái pháp luật thì phải bị xử lý nghiêm\nminh; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật.\n4. Công khai các khoản thu từ người học, việc sử dụng kinh phí và chấp hành chế độ\nthu, chi, quyết toán theo quy định hiện hành.\n5. Giải quyết các chế độ, quyền lợi, đời sống vật chất, tinh thần cho viên chức, NLĐ.\n6. Việc thực hiện thi tuyển dụng, thi nâng ngạch viên chức, nâng bậc lương, thuyên\nchuyển, điều động, đề bạt, khen thưởng, kỷ luật.\n7. Những vấn đề về tuyển sinh và thực hiện quy chế thi từng năm học.\n8. Xây dựng, bổ sung, sửa đổi các văn bản quy phạm nội bộ của Nhà trường.\n9. Báo cáo sơ kết, tổng kết; nhận xét, đánh giá công chức, viên chức, NLĐ hàng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Hình thức tham gia đóng góp ý kiến của viên chức, người lao động",
+          "text": "Điều 12. Hình thức tham gia đóng góp ý kiến của viên chức, người lao động\n1. Tham gia ý kiến trực tiếp với Hiệu trưởng và Trưởng các đơn vị;\n2. Thông qua Hội nghị cán bộ, công chức viên chức của đơn vị và của Nhà trường;\n3. Tham gia ý kiến trực tiếp góp ý đối với dự thảo các văn bản quy phạm nội bộ của Nhà\ntrường;\n4. Các hình thức khác phù hợp với quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Trách nhiệm của người học",
+          "text": "Điều 13. Trách nhiệm của người học\n1. Thực hiện đúng những quy định trong Luật Giáo dục, Luật Giáo dục đại học, Quy chế\nđào tạo, Quy chế học sinh sinh viên và các văn bản quy phạm pháp luật có liên quan đến\nngười học.\n2. Thực hiện đúng những quy định trong các văn bản hành chính của Nhà trường có liên\nquan đến người học.\n3. Thực hiện tốt nhiệm vụ học tập, nghiên cứu khoa học; chịu trách nhiệm trước pháp\n\nluật, Hiệu trưởng, Trưởng các đơn vị về việc thực hiện nhiệm vụ của mình.\n4. Xây dựng nếp sống có văn hóa, lành mạnh trung thực, thực hiện tự phê bình và phê\nbình nghiêm túc, phát huy ưu điểm, sửa chữa khuyết điểm để không ngừng tiến bộ.\n5. Kiên quyết đấu tranh chống những hiện tượng bè phái, mất đoàn kết và những hoạt\nđộng khác vi phạm dân chủ, kỷ cương nề nếp trong Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Những việc người học được biết và tham gia ý kiến",
+          "text": "Điều 14. Những việc người học được biết và tham gia ý kiến\n1. Những việc người học được biết\na. Chủ trương, chế độ, chính sách của Nhà nước, của ngành và những quy định của Nhà\ntrường đối với người học;\nb. Kế hoạch tuyển sinh, kế hoạch đào tạo của Nhà trường hàng năm;\nc. Những thông tin có liên quan đến học tập, rèn luyện, sinh hoạt và các khoản thu theo\nquy định;\nd. Chủ trương, kế hoạch tổ chức cho người học phấn đấu trở thành đảng viên Đảng Cộng\nsản Việt Nam, gia nhập các tổ chức, các đoàn thể trong Nhà trường.\n2. Những việc người học được tham gia ý kiến\na. Nội quy, quy định của Nhà trường có liên quan đến người học.\nb. Tổ chức phong trào thi đua và các hoạt động khác trong Nhà trường có liên quan đến\nngười học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Trách nhiệm của người đứng đầu các tổ chức, đoàn thể trong Nhà trường",
+          "text": "Điều 15. Trách nhiệm của người đứng đầu các tổ chức, đoàn thể trong Nhà trường\nNgười đứng đầu các tổ chức, đoàn thể trong Nhà trường (Công đoàn, Đoàn thanh niên,\nHội sinh viên, Hội cựu chiến binh, Ban thanh tra nhân dân, Ban nữ công,...) là người đại diện\ncho các tổ chức, đoàn thể đó có trách nhiệm:\n1. Phối hợp với Nhà trường trong việc tổ chức, thực hiện quy chế dân chủ trong hoạt\nđộng.\n2. Nâng cao chất lượng sinh hoạt của các đoàn thể, các tổ chức, dân chủ bàn bạc các chủ\ntrương, biện pháp thực hiện các nhiệm vụ của Nhà trường.\n3. Tích cực tham gia thực hiện và đóng góp ý kiến vào việc xây dựng các quy chế, quy\nđịnh tổ chức hoạt động, quản lý của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Hội nghị cán bộ, công chức, viên chức",
+          "text": "Điều 16. Hội nghị cán bộ, công chức, viên chức\nHàng năm, Hiệu trưởng phối hợp với Ban chấp hành Công đoàn Trường tổ chức Hội\nnghị cán bộ, công chức, viên chức của Nhà trường. Tham dự Hội nghị gồm Đại biểu được\ntriệu tập (theo quy định). Hội nghị cán bộ, công chức, viên chức có các nội dung tại Điều 6\ncủa Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Nhiệm vụ của Ban Thanh tra nhân dân",
+          "text": "Điều 17. Nhiệm vụ của Ban Thanh tra nhân dân\nBan Thanh tra nhân dân được Hội nghị cán bộ, công chức, viên chức của Trường bầu ra\nvà có các nhiệm vụ:\n1. Giám sát việc thực hiện chính sách, pháp luật, việc giải quyết khiếu nại, tố cáo, việc\nthực hiện quy chế dân chủ của các cá nhân và đơn vị trong Nhà trường.\n2. Khi phát hiện có dấu hiệu vi phạm pháp luật thì kiến nghị Hiệu trưởng xử lý theo quy\nđịnh và giám sát việc thực hiện kiến nghị đó.\n3. Kiến nghị Hiệu trưởng khắc phục những thiếu sót qua việc giám sát, bảo đảm quyền\nvà lợi ích hợp pháp của những người có liên quan.\n4. Hoạt động dưới sự chỉ đạo trực tiếp của Ban chấp hành Công đoàn Trường.\n5. Có trách nhiệm báo cáo hoạt động với Ban chấp hành Công đoàn Trường và Hội nghị\ncán bộ, viên chức của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Quan hệ giữa Trường Đại học Bách khoa với cơ quan quản lý cấp trên",
+          "text": "Điều 18. Quan hệ giữa Trường Đại học Bách khoa với cơ quan quản lý cấp trên\n1. Chấp hành sự chỉ đạo của Bộ Giáo dục và Đào tạo, Đại học Đà Nẵng, thực hiện chế\nđộ báo cáo định kỳ đúng quy định, kịp thời và nghiêm túc.\n2. Kịp thời phản ánh những vướng mắc, khó khăn trong quá trình thực hiện chức năng\nnhiệm vụ của Nhà trường; kiến nghị cơ quan đơn vị cấp trên những vấn đề không phù hợp,\ncần sửa đổi, bổ sung trong các chế độ, chính sách, các quy định của pháp luật và trong chỉ\nđạo, điều hành của cơ quan đơn vị cấp trên.\n3. Tham gia góp ý kiến, phê bình đối với hoạt động của cơ quan, đơn vị cấp trên; có\ntrách nhiệm nghiên cứu, tham gia ý kiến vào các dự thảo về chế độ, chính sách, văn bản quy\nphạm pháp luật do cơ quan đơn vị cấp trên yêu cầu.\n4. Phản ánh những vấn đề chưa rõ trong việc quản lý chỉ đạo với Đại học Đà Nẵng bằng\nvăn bản hoặc thông qua đại diện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Quan hệ giữa Nhà trường với chính quyền địa phương",
+          "text": "Điều 19. Quan hệ giữa Nhà trường với chính quyền địa phương\n1. Nhà trường có trách nhiệm đảm bảo mối quan hệ chặt chẽ với chính quyền địa\nphương để phối hợp giải quyết những công việc liên quan đến công tác của Nhà trường, đảm\nbảo những quyền và lợi ích hợp pháp của viên chức, NLĐ và người học.\n2. Nhà trường tham gia tích cực vào hoạt động xã hội tại địa phương; thực hiện tốt các\nquy định của pháp luật và các quy định theo đúng thẩm quyền của chính quyền địa phương.\n\nCHƯƠNG IV\nĐIỀU KHOẢN THI HÀNH\n\nĐiều 19. Tổ chức thực hiện\n1. Các đơn vị, tổ chức trong Nhà trường có trách nhiệm triển khai thực hiện Quy chế\nnày.\n2. Toàn thể viên chức, người lao động và người học của Nhà trường có trách nhiệm thực\nhiện Quy chế này. Mọi hành vi vi phạm đều bị xử lý theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 20. Hiệu lực thi hành\nQuy chế này có hiệu lực thi hành kể từ ngày ký. Trong quá trình thực hiện, Quy chế có\nthể được sửa đổi, bổ sung theo quyết định của Hiệu trưởng./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế thực hiện dân chủ trong hoạt",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế thực hiện dân chủ trong hoạt\nđộng của Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các ông Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc",
+      "text": "Điều 3. Các ông Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc\nTrường, các tổ chức, cá nhân có liên quan trong Trường Đại học Bách khoa căn cứ Quyết\nđịnh thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

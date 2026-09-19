@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0334_871_KH-BGDĐT_Kế hoạch số 871_KH-BGDĐT ngày 20_8_2019 của Bộ trưởng Bộ GDĐT triển khai thực hiệ.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "871/KH-BGDĐT",
+    "title": "Kế hoạch triển khai thực hiện Phong trào thi đua “Cán bộ, công chức, viên chức thi đua thực hiện văn hóa công sở” trong ngành Giáo dục giai đoạn 2019-2025",
+    "documentType": "Kế hoạch",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/08/2019",
+    "effectiveDate": "20/08/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Kế hoạch triển khai thực hiện Phong trào thi đua “Cán bộ, công chức, viên chức thi đua thực hiện văn hóa công sở” trong ngành Giáo dục giai đoạn 2019-2025 nhằm nâng cao đạo đức công vụ, kỷ cương hành chính và xây dựng môi trường làm việc văn minh, chuyên nghiệp.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Nghĩa",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "733/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Quyết định số 733/QĐ-TTg ngày 14/6/2019 của Thủ tướng Chính phủ về việc ban hành Kế hoạch tổ chức thực hiện Phong trào thi đua “Cán bộ, công chức, viên chức thi đua thực hiện văn hóa công sở” giai đoạn 2019-2025, Bộ Giáo dục và Đào tạo ban hành Kế hoạch..."
+    },
+    {
+      "targetDocumentNumber": "1847/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Văn phòng Bộ chủ trì phối hợp Vụ Tổ chức cán bộ tham mưu sửa đổi các quy định, nội quy, quy chế làm việc của cơ quan Bộ phù hợp với yêu cầu của Đề án văn hóa công vụ được Thủ tướng Chính phủ phê duyệt tại Quyết định 1847/QĐ-TTg ngày 27/12/2018 và Phong trào thi đua."
+    }
+  ],
+  "mentions": [
+    "Ban Thi đua — Khen thưởng Trung ương",
+    "Công đoàn Giáo dục Việt Nam",
+    "Báo Giáo dục và Thời đại",
+    "Ủy ban nhân dân cấp tỉnh"
+  ],
+  "normativeContents": [],
+  "articles": []
+}
