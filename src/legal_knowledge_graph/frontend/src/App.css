@@ -1,0 +1,161 @@
+.chat-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.chat-header h1 {
+  font-size: 1.25rem;
+  margin: 0 0 4px;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.chat-log {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 0;
+}
+
+.placeholder {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.msg {
+  padding: 10px 14px;
+  border-radius: 10px;
+  max-width: 90%;
+  line-height: 1.4;
+  white-space: pre-wrap;
+}
+
+.msg-user {
+  align-self: flex-end;
+  background: #2563eb;
+  color: white;
+}
+
+.msg-bot {
+  align-self: flex-start;
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.msg-cant-answer {
+  background: #fef3c7;
+  color: #78350f;
+}
+
+.msg-error {
+  align-self: flex-start;
+  background: #fee2e2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+}
+
+.msg-loading {
+  color: #6b7280;
+  font-style: italic;
+}
+
+.rows-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+}
+
+.rows-table th,
+.rows-table td {
+  border: 1px solid #d1d5db;
+  padding: 4px 8px;
+  text-align: left;
+}
+
+.rows-table th {
+  background: #e5e7eb;
+}
+
+.cypher-detail summary {
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: #4b5563;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.cypher-detail pre {
+  background: #1f2937;
+  color: #e5e7eb;
+  padding: 8px;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 0.78rem;
+}
+
+.badge {
+  font-size: 0.7rem;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: #e5e7eb;
+  color: #374151;
+}
+
+.badge-warn {
+  background: #fde68a;
+  color: #78350f;
+}
+
+.chat-input {
+  display: flex;
+  gap: 8px;
+  padding-top: 12px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  font-size: 1rem;
+}
+
+.chat-input button {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.chat-input button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.error-boundary {
+  max-width: 480px;
+  margin: 80px auto;
+  text-align: center;
+}
+
+.error-boundary button {
+  margin-top: 12px;
+  padding: 8px 16px;
+  cursor: pointer;
+}

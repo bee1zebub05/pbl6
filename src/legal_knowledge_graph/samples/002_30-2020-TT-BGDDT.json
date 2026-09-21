@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0149_30_2020_TT-BGDĐT_Thông tư 30_2020_TT-BGDĐT Thông tư Bãi bỏ một số văn bản quy phạm pháp luật.txt",
+  "mappedBy": "mock",
+  "note": "Văn bản thật, chỉ chọn 4/~42 văn bản bị bãi bỏ để minh hoạ REPEALS (danh sách đầy đủ dài, không chép hết). Ngày hiệu lực trong bản gốc OCR lỗi ('ngày 01 tháng M năm 2020') nên để trống.",
+  "document": {
+    "documentNumber": "30/2020/TT-BGDĐT",
+    "title": "Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung giáo dục đại học và trung cấp chuyên nghiệp",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "15/09/2020",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": ["Đào tạo", "Pháp chế"],
+    "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Cơ quan, tổ chức, cá nhân có liên quan"],
+    "summary": "Bãi bỏ toàn bộ các Quyết định/Thông tư ban hành chương trình khung giáo dục đại học và trung cấp chuyên nghiệp do không còn phù hợp với Luật Giáo dục đại học sửa đổi 2018 (bỏ khái niệm chương trình khung).",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": null,
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phùng Xuân Nhạ",
+      "academicTitle": null,
+      "position": ["Bộ trưởng"],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "34/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật."
+    },
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "31/2003/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ toàn bộ: 1. Quyết định 31/2003/QĐ-BGD&ĐT ngày 09 tháng 7 năm 2003 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Chương trình khung giáo dục đại học hệ không chính quy một số ngành đào tạo thuộc nhóm ngành khoa học sức khoẻ."
+    },
+    {
+      "targetDocumentNumber": "15/2004/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "2. Quyết định số 15/2004/QĐ-BGD&ĐT ngày 10 tháng 6 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành cao đẳng sư phạm."
+    },
+    {
+      "targetDocumentNumber": "67/2008/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "28. Quyết định số 67/2008/QĐ-BGDĐT ngày 09 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Kỹ thuật trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "73/2008/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Điều 2, mục 1: Quyết định số 73/2008/QĐ-BGDĐT ngày 25 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung về đào tạo trung cấp chuyên nghiệp ngành Quân sự cơ sở."
+    }
+  ],
+  "mentions": [],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung giáo dục đại học",
+      "text": "Bãi bỏ toàn bộ các văn bản quy phạm pháp luật ban hành chương trình khung giáo dục đại học các khối ngành, trong đó có Quyết định 31/2003/QĐ-BGD&ĐT, Quyết định 15/2004/QĐ-BGD&ĐT và Quyết định 67/2008/QĐ-BGDĐT (danh sách đầy đủ 37 văn bản).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung trung cấp chuyên nghiệp",
+      "text": "Bãi bỏ toàn bộ các văn bản quy phạm pháp luật ban hành chương trình khung trung cấp chuyên nghiệp, trong đó có Quyết định số 73/2008/QĐ-BGDĐT ngày 25 tháng 12 năm 2008 (danh sách đầy đủ 7 văn bản).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hiệu lực thi hành",
+      "text": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng năm 2020.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Chánh Văn phòng, Vụ trưởng Vụ Pháp chế; thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; giám đốc sở giáo dục và đào tạo; giám đốc đại học, học viện; hiệu trưởng trường đại học và thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+      "isImplementationClause": false
+    }
+  ]
+}
