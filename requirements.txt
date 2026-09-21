@@ -14,7 +14,7 @@ python-dotenv>=1.0.0
 # Kéo theo torch (~500 MB) + model tiếng Việt (~100 MB tải lần đầu).
 easyocr>=1.7.0
 
-# --- knowledge graph ---
+# --- knowledge graph (pipeline tự động) ---
 # Chỉ cần cho `python run.py kg load`. Các bước kg khác không dùng tới.
 neo4j>=5.0
 
@@ -23,3 +23,13 @@ neo4j>=5.0
 streamlit>=1.30
 pyvis>=0.3.2
 networkx>=3.0
+
+# --- legal_knowledge_graph (đồ thị gán tay, `python run.py lkg ...`) ---
+# neo4j/python-dotenv/google-genai dùng chung với các mục trên; jsonschema
+# chỉ module này cần (validate JSON gán tay theo schema/document.schema.json).
+jsonschema>=4.0
+
+# --- chat API cho legal_knowledge_graph (`python run.py lkg serve-api`) ---
+# Phục vụ frontend/ (React) — xem src/legal_knowledge_graph/core/api/app.py.
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0

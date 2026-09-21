@@ -1,0 +1,45 @@
+{
+  "_comment": "8 nhóm đối tượng áp dụng, gom cụm từ 268 đoạn 'Đối tượng áp dụng' thật trong data/clean/text_final/ (tần suất cụm từ dùng làm căn cứ, không phải suy đoán). Khác Topic ở chỗ KHÔNG có danh sách chuẩn sẵn ở nơi khác trong repo để copy — đây là vocabulary MỚI, tự thiết kế, có thể còn thiếu trường hợp hiếm. don_vi_truc_thuoc và co_so_giao_duc_thanh_vien tách riêng vì khác cấp tổ chức: một Đại học vùng (ĐHĐN) có nhiều trường đại học thành viên, mỗi trường lại có nhiều khoa/phòng/ban trực thuộc.",
+  "target_groups": [
+    {
+      "targetGroupId": "nguoi_hoc",
+      "name": "Người học",
+      "description": "Học sinh, sinh viên, học viên cao học, nghiên cứu sinh, ở mọi bậc/hệ đào tạo."
+    },
+    {
+      "targetGroupId": "can_bo_giang_vien_nld",
+      "name": "Cán bộ, giảng viên, viên chức, người lao động",
+      "description": "Cán bộ, công chức, viên chức, giảng viên, nhà giáo, người lao động trong biên chế/hợp đồng của cơ quan/trường."
+    },
+    {
+      "targetGroupId": "don_vi_truc_thuoc",
+      "name": "Đơn vị trực thuộc",
+      "description": "Phòng, ban, khoa, viện, trung tâm... trực thuộc MỘT trường/đơn vị cụ thể (cấp dưới trường)."
+    },
+    {
+      "targetGroupId": "co_so_giao_duc_thanh_vien",
+      "name": "Cơ sở giáo dục / trường đại học thành viên",
+      "description": "Các trường đại học thành viên, cơ sở giáo dục thuộc một đại học vùng (ĐHĐN) hoặc toàn hệ thống giáo dục (cấp trường trở lên, không phải đơn vị nội bộ một trường)."
+    },
+    {
+      "targetGroupId": "co_quan_to_chuc_ca_nhan_lien_quan",
+      "name": "Cơ quan, tổ chức, cá nhân có liên quan",
+      "description": "Diễn đạt bao quát bên ngoài phạm vi nội bộ trường, thường gặp ở Luật/Nghị định/Thông tư cấp nhà nước."
+    },
+    {
+      "targetGroupId": "hoi_dong",
+      "name": "Hội đồng và thành viên hội đồng",
+      "description": "Văn bản quy định hoạt động của một hội đồng cụ thể (Hội đồng Trường, Hội đồng Khoa học và Đào tạo...) và các thành viên của hội đồng đó."
+    },
+    {
+      "targetGroupId": "doanh_nghiep_doi_tac_nuoc_ngoai",
+      "name": "Doanh nghiệp, đối tác/tổ chức nước ngoài",
+      "description": "Doanh nghiệp, tổ chức/cá nhân nước ngoài — chủ yếu ở văn bản hợp tác quốc tế, chuyển giao công nghệ, liên kết đào tạo."
+    },
+    {
+      "targetGroupId": "khac",
+      "name": "Khác",
+      "description": "Dùng khi đối tượng áp dụng không khớp rõ ràng nhóm nào ở trên — người gán tự quyết, không ép vào nhóm sai."
+    }
+  ]
+}

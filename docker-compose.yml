@@ -1,0 +1,26 @@
+# Container Neo4j THỨ HAI, cho legal_knowledge_graph (đồ thị gán tay,
+# `python run.py lkg ...`) — tách biệt hoàn toàn khỏi container của pipeline
+# tự động (src/vanban), khởi động bằng `docker run` thủ công, không qua
+# compose (xem README.md mục "Cài đặt" gốc): port/volume/mật khẩu đều khác
+# để không thể vô tình đụng vào graph cũ.
+#
+#   docker compose up -d
+#   docker compose down       # dừng, giữ data
+#   docker compose down -v    # dừng + xoá sạch data
+#
+# Neo4j Browser: http://localhost:7475  (đăng nhập neo4j / xem NEO4J_AUTH dưới)
+
+services:
+  neo4j-lkg:
+    image: neo4j:5
+    container_name: neo4j-pbl6-lkg
+    ports:
+      - "7475:7474" # HTTP Browser (khác cổng 7474 của instance chính)
+      - "7688:7687" # Bolt (khác cổng 7687 của instance chính)
+    environment:
+      - NEO4J_AUTH=neo4j/lkg12345678
+    volumes:
+      - neo4j-pbl6-lkg-data:/data
+
+volumes:
+  neo4j-pbl6-lkg-data:
