@@ -83,8 +83,6 @@ def nlq_gemini_keys() -> list[str]:
     return ra
 
 
-# Giữ lại cho tương thích ngược: key đầu bể. Code mới dùng nlq_gemini_keys().
-NLQ_GEMINI_API_KEY = (nlq_gemini_keys() or [""])[0]
 NLQ_GEMINI_MODEL = os.getenv("LKG_GEMINI_MODEL", "gemini-3.6-flash")
 
 # Stage A: độ tin cậy tối thiểu để chấp nhận 1 template match; dưới ngưỡng

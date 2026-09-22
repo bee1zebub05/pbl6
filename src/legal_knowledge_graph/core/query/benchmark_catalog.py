@@ -1,5 +1,5 @@
 """
-Bộ Cypher MINH HOẠ hiệu năng trên data THẬT (`data/clean/json/v1/`, 418 văn
+Bộ Cypher MINH HOẠ hiệu năng trên data THẬT (`data/clean/json/v2/`, 418 văn
 bản sau khi loại `_nghi_ngo/`) — KHÁC mục đích với `catalog.py`:
 
 - `catalog.py`  : assert đúng số dòng trên bộ 17 mẫu cố định — regression
@@ -112,7 +112,7 @@ QUERIES: list[Query] = [
             ORDER BY total DESC
         """,
         expected_rows=None,
-        kind="lookup",
+        kind="distribution",
         note="Đếm riêng 5 loại quan hệ hiệu lực/trích dẫn — không gộp một cục như Q13b.",
     ),
     Query(
@@ -122,7 +122,7 @@ QUERIES: list[Query] = [
             RETURN (r.targetArticle IS NOT NULL) AS hasTargetArticle, count(*) AS total
         """,
         expected_rows=None,
-        kind="lookup",
+        kind="distribution",
         note="Bao nhiêu % cạnh AMENDS biết rõ Điều nào bị sửa (targetArticle khác null) — đo độ đầy đủ dữ liệu.",
     ),
     # ---- Nhóm 4: multi-hop ----
@@ -134,7 +134,7 @@ QUERIES: list[Query] = [
             ORDER BY depth
         """,
         expected_rows=None,
-        kind="multihop",
+        kind="distribution",
         note="Phân bố độ sâu chuỗi hiệu lực thật — chuỗi dài nhất bao nhiêu bước trên data thật.",
     ),
     # ---- Nhóm 5: full-text — cả 3 index ----

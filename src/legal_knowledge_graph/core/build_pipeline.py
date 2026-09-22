@@ -21,11 +21,10 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from neo4j import GraphDatabase
-
 from . import collision_check, config
 from .graph_loader import push
 from .graph_model import collect
+from .nlq import execute
 
 
 def _sanity(session) -> None:
@@ -77,12 +76,8 @@ def main(argv: list[str] | None = None) -> int:
         )
 
     print("\n[4/4] Sanity check (graph có đọc truy vấn được không) ...")
-    driver = GraphDatabase.driver(config.NEO4J_URI, auth=(config.NEO4J_USER, config.NEO4J_PASSWORD))
-    try:
-        with driver.session(database=config.NEO4J_DATABASE) as session:
-            _sanity(session)
-    finally:
-        driver.close()
+    with execute.session() as session:
+        _sanity(session)
 
     print("\nSẵn sàng: python run.py query --source samples|benchmark")
     if dup:
