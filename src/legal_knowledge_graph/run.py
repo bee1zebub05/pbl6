@@ -17,7 +17,7 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
 
-from core import build, collision_check, pipeline, validate  # noqa: E402
+from core import build, build_pipeline, collision_check, validate  # noqa: E402
 from core.nlq import eval_gold as nlq_eval_gold  # noqa: E402
 from core.nlq import pipeline as nlq_pipeline  # noqa: E402
 from core.query import runner as query_runner  # noqa: E402
@@ -92,7 +92,7 @@ def main() -> int:
             argv += ["--dir", str(args.dir)]
         if args.no_wipe:
             argv += ["--no-wipe"]
-        return pipeline.main(argv)
+        return build_pipeline.main(argv)
 
     if args.command == "ask":
         argv = []

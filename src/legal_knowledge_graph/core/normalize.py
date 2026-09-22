@@ -13,6 +13,7 @@ from __future__ import annotations
 import re
 import unicodedata
 from datetime import date
+from pathlib import Path
 
 _DASH_VARIANTS = re.compile(r"[‐‑‒–—−]")
 _SO_PREFIX = re.compile(r"^\s*S[ôố]\s*:?\s*", re.IGNORECASE)
@@ -143,3 +144,15 @@ def authority_level(document_type: str, org_type: str | None) -> tuple[int | Non
     if document_type in LEVEL_BY_DOC_TYPE:
         return LEVEL_BY_DOC_TYPE[document_type], "onto: theo-loai"
     return None, "khong-suy-duoc"
+
+
+def iter_json_files(data_dir: Path) -> list[Path]:
+    """Quét đệ quy mọi `*.json` dưới `data_dir`, bỏ qua thư mục con nào có
+    tên bắt đầu bằng `_` (quy ước "gác lại, chưa xử lý xong"). Dùng chung
+    cho validate.py và collision_check.py — cả hai phải thấy đúng một tập
+    file như nhau."""
+
+    return sorted(
+        p for p in data_dir.rglob("*.json")
+        if not any(part.startswith("_") for part in p.relative_to(data_dir).parts)
+    )

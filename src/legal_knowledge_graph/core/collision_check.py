@@ -18,13 +18,10 @@ from . import config, normalize
 
 def find_collisions(data_dir: Path) -> dict[str, list[tuple[Path, str]]]:
     """Trả về {normalizedNumber: [(đường_dẫn, title), ...]} chỉ cho các khoá
-    có >=2 file. Dùng đúng quy tắc quét như validate_dir() (đệ quy, bỏ qua
-    thư mục con bắt đầu bằng "_")."""
+    có >=2 file. Dùng chung normalize.iter_json_files() với validate.py nên
+    luôn thấy đúng một tập file như nhau."""
 
-    files = sorted(
-        p for p in data_dir.rglob("*.json")
-        if not any(part.startswith("_") for part in p.relative_to(data_dir).parts)
-    )
+    files = normalize.iter_json_files(data_dir)
 
     groups: dict[str, list[tuple[Path, str]]] = {}
     for f in files:

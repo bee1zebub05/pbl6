@@ -47,7 +47,7 @@ QUERIES: list[Query] = [
             RETURN d.documentNumber AS documentNumber
         """,
         expected_rows=3,
-        kind="lookup",
+        kind="distribution",  # lọc theo Topic.name — chỉ topicId có index, name thì không, không thể indexseek
         note="3 văn bản thuộc lĩnh vực Thi đua, khen thưởng (1088, 1605, 2231).",
     ),
     Query(
@@ -87,7 +87,7 @@ QUERIES: list[Query] = [
         name="Q6_repeals_count",
         cypher="MATCH ()-[:REPEALS]->() RETURN count(*) AS total",
         expected_rows=1,
-        kind="lookup",
+        kind="distribution",  # đếm quan hệ thuần, không lọc property -> không thể indexseek
         note="Tổng 5 cạnh REPEALS thật (4 từ 30/2020/TT-BGDĐT + 1 từ 800/QĐ-ĐHBK) — đếm gộp một dòng.",
     ),
     Query(
@@ -99,7 +99,7 @@ QUERIES: list[Query] = [
             ORDER BY contentId
         """,
         expected_rows=2,
-        kind="lookup",
+        kind="distribution",  # lọc theo NormativeContent.contentType — không có index cho property này
         note="2 NormativeContent loại Quy chế (kèm theo 4481/QĐ-ĐHĐN và 4897/QĐ-ĐHĐN), cả hai còn hiệu lực (thừa kế status từ Document cha).",
     ),
     Query(
@@ -144,21 +144,21 @@ QUERIES: list[Query] = [
             ORDER BY incoming DESC
         """,
         expected_rows=33,
-        kind="lookup",
+        kind="distribution",  # lọc theo Document.isStub — không có index cho property này
         note="33 Document stub tự sinh từ citation trỏ tới văn bản chưa map (đúng thực tế: kho thật cũng có tỷ lệ stub cao — README gốc ghi 1,8 stub/văn bản thật).",
     ),
     Query(
         name="Q12_mentions_count",
         cypher="MATCH (:Document)-[:MENTIONS]->() RETURN count(*) AS total",
         expected_rows=1,
-        kind="lookup",
+        kind="distribution",  # đếm quan hệ thuần, không lọc property -> không thể indexseek
         note="Tổng 20 cạnh MENTIONS (Phòng/Ban được nhắc tới trong 'Trách nhiệm thi hành' của các văn bản) — đếm gộp một dòng.",
     ),
     Query(
         name="Q14_applies_to_count",
         cypher="MATCH (:Document)-[:APPLIES_TO]->() RETURN count(*) AS total",
         expected_rows=1,
-        kind="lookup",
+        kind="distribution",  # đếm quan hệ thuần, không lọc property -> không thể indexseek
         note="Tổng cạnh APPLIES_TO (7: 003 và 009 -> Người học, 012 -> Doanh nghiệp/đối tác nước ngoài, 002 -> 2 nhóm, 010 -> 2 nhóm) — đếm gộp một dòng.",
     ),
     Query(

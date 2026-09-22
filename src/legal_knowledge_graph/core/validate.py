@@ -149,10 +149,7 @@ def validate_dir(data_dir: Path) -> list[ValidationResult]:
     thì chưa đưa vào graph."""
 
     validator = jsonschema.Draft202012Validator(_load_schema())
-    files = sorted(
-        p for p in data_dir.rglob("*.json")
-        if not any(part.startswith("_") for part in p.relative_to(data_dir).parts)
-    )
+    files = normalize.iter_json_files(data_dir)
     return [load_and_validate(p, validator) for p in files]
 
 
