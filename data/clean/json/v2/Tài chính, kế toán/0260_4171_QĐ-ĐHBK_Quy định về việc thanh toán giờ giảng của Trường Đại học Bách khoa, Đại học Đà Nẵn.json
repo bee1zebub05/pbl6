@@ -1,0 +1,198 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0260_4171_QĐ-ĐHBK_Quy định về việc thanh toán giờ giảng của Trường Đại học Bách khoa, Đại học Đà Nẵn.txt",
+  "mappedBy": "gemini-web",
+  "note": "11 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4171/QĐ-ĐHBK",
+    "title": "Quyết định Quy định về việc thanh toán giờ giảng của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/11/2023",
+    "effectiveDate": "06/11/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Đào tạo"
+    ],
+    "summary": "Ban hành quy định về việc thanh toán giờ giảng của Trường Đại học Bách khoa, Đại học Đà Nẵng, áp dụng từ năm học 2023-2024. Quy định chi tiết về phạm vi, đối tượng, định nghĩa, phương pháp xác định đơn giá giờ giảng chuẩn, nguyên tắc và nguồn kinh phí thanh toán giờ giảng mức 1 và mức 2.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12 tháng 01 năm 2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Nghị quyết số 22/NQ-HĐT ngày 08 tháng 10 năm 2021 của Hội đồng trường Trường Đại học Bách khoa về việc sửa đổi, bổ sung một số điều Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4194/QĐ-ĐHĐN ngày 08 tháng 12 năm 2021 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định chế độ làm việc của giảng viên Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3536/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3536/QĐ-ĐHBK ngày 27 tháng 12 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "3092/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08 tháng 8 năm 2022 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa"
+    },
+    {
+      "targetDocumentNumber": "2222/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Phòng Kế hoạch - Tài chính",
+    "Phòng Tổ chức - Hành chính",
+    "Phòng Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Về việc thanh toán giờ giảng của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nVăn bản này quy định cho công tác thanh toán giờ giảng hệ đại học tại\nTrường Đại học Bách khoa, Đại học Đà Nẵng (gọi chung là Trường).\n2. Đối tượng áp dụng\na. Áp dụng thanh toán giờ giảng hệ đại học đối với giảng viên cơ hữu thuộc\nTrường; giảng viên được mời thỉnh giảng và giảng viên được Trường ký hợp đồng\nlao động có thời hạn.\nb. Chuyên gia nước ngoài được mời giảng dạy tại Trường không thuộc đối\ntượng áp dụng tại Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\n1. Giờ giảng mức 1: là định mức giờ chuẩn giảng dạy của giảng viên trong\nmột năm học được quy định tại chế độ làm việc giảng viên hiện hành của Trường¹.\n2. Hệ số quy đổi: hệ số xét đến loại hình đào tạo (chương trình truyền thống,\nchất lượng cao, chương trình tiên tiến), tính chất thời gian (trong năm học, hè,\ntrong giờ hành chính, ngoài giờ hành chính), quy mô lớp (hệ số lớp đông), giảng\nbằng tiếng nước ngoài, địa điểm giảng dạy (tại trường, cơ sở liên kết), trình độ của\ngiảng viên (học hàm, học vị).\n3. Giờ giảng quy đổi: là khối lượng giảng dạy được quy đổi theo quy định\ntại chế độ làm việc giảng viên hiện hành của Trường. Các hệ số quy đổi khối\nlượng giảng dạy bao gồm hệ số lớp đông và hệ số giảng dạy bằng tiếng nước\nngoài không phải là môn ngoại ngữ.\n4. Giờ giảng mức 2: là khối lượng giảng dạy được quy đổi theo chế độ làm\nviệc giảng viên hiện hành trừ đi số giờ chuẩn giảng dạy theo định mức của giảng\nviên.\n\n¹ Quyết định số 3092/QĐ-ĐHBK ngày 28/8/2022 ban hành Quy định chế độ làm việc của giảng viên Trường Đại\nhọc Bách khoa, ĐHĐN; Quyết định số 2222/QĐ-ĐHBK ngày 13/6/2023 rà soát, điều chỉnh, bổ sung Quyết định số\n3092/QĐ-ĐHBK của Hiệu trưởng Trường Đại học Bách khoa, ĐHĐN.\n\n5. Đơn giá giờ giảng chuẩn năm học: là căn cứ quy đổi với các hệ số có liên\nquan để xác định đơn giá thanh toán.\n6. Đơn giá giờ giảng mức 1: là đơn giá chi trả cho khối lượng giờ giảng\ntrong định mức giờ chuẩn theo chế độ làm việc giảng viên hiện hành của Trường.\n7. Đơn giá thanh toán giờ giảng mức 2: là đơn giá chi trả cho khối lượng giờ\ngiảng mức 2.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguồn kinh phí chi trả giờ giảng",
+          "text": "Điều 3. Nguồn kinh phí chi trả giờ giảng\nThực hiện theo Quy chế chi tiêu nội bộ hiện hành của Trường Đại học Bách\nkhoa và căn cứ vào tình hình tài chính thực tế hằng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Phương pháp xác định đơn giá giờ giảng chuẩn năm học",
+          "text": "Điều 4. Phương pháp xác định đơn giá giờ giảng chuẩn năm học\n1. Đơn giá giờ giảng chuẩn năm học (ĐCNH) được xác định dựa trên Quỹ\nchi trả giờ giảng, tổng số giờ giảng quy đổi (TGQĐ), số giờ giảng quy đổi từng\nloại (SGQĐi) và hệ số bổ sung đơn giá giờ giảng chuẩn năm học tương ứng\n(HSBSi) và trong điều kiện tài chính thực tế của Trường.\n\nQuỹ chi trả giờ giảng\nĐơn giá giờ giảng chuẩn năm học (ĐCNH) = ────────────────────\nΣ(SGQĐi × HSBSi)\n\nTrong đó:\n- TGQĐ = Σ SGQĐi\n- HSBS được quy định tại Điều 5 và Điều 6 của Quyết định này.\n2. Các hệ số thành phần bổ sung đơn giá giờ giảng chuẩn năm học được\nthể hiện ở Bảng 1.\nBảng 1. Các hệ số thành phần bổ sung đơn giá giờ giảng chuẩn năm học\nSTT\nTên hệ số\nKý hiệu\n1 | Hệ số chức danh\nHCD\n2 | Hệ số giảng dạy chất lượng cao\nHCLC\n3 | Hệ số giảng dạy chương trình tiên tiến\nHCTTT\n4 | Hệ số giảng dạy ngoài giờ\nHNG\n5 | Hệ số giảng dạy học kỳ hè\nHHE\n6 | Hệ số giảng dạy các lớp ngoài thành phố Đà Nẵng\nHXA\n7 | Hệ số đổi mới phương pháp giảng dạy\nHĐM\n\n3. Hệ số chức danh (HCD) áp dụng cho giờ giảng lý thuyết, PBL được quy\nđịnh theo Bảng 2.\nBảng 2. Hệ số chức danh (HCD) áp dụng cho giờ giảng lý thuyết, PBL\nSTT\nChức danh\nHCD\n1 | Trợ giảng\n-0,1\n2 | Giảng viên - Thạc sĩ\n0\n3 | Giảng viên chính - Thạc sĩ, Giảng viên - Tiến sĩ\n0,2\n4 | Giảng viên chính - Tiến sĩ\n0,3\n5 | Giảng viên cao cấp - Tiến sĩ\n0,4\n6 | Giảng viên cao cấp - Phó Giáo sư\n0,5\n7 | Giảng viên cao cấp - Giáo sư\n0,6\n4. Các hệ số thành phần bổ sung khác được quy định theo Bảng 3\nBảng 3. Các hệ số thành phần bổ sung khác\nSTT | Ký hiệu hệ số | Hệ số\nGhi chú\n1\nHCLC\n0,2\n2\nHCTTT\n0,2\nÁp dụng đối với các lớp giảng dạy theo\n3\nHĐM\n0,2\nphương pháp đổi mới do Hiệu trưởng\nquyết định hàng năm.\nÁp dụng đối với các lớp tăng cường, lớp\ndạy vào buổi tối, lớp dạy vào ngày chủ\n4\nHNG\n0,2\nnhật theo kế hoạch năm học do Nhà\ntrường ban hành.\nÁp dụng đối với các lớp giảng dạy trong\n5\nHHE\n0,5\nthời gian nghỉ hè, không áp dụng thêm\nhệ số ngoài giờ (nếu có).\nÁp dụng đối với các lớp giảng dạy ngoài\n6\nHXA\n0,2\nthành phố Đà Nẵng theo kế hoạch của\nNhà trường.\n\nTrong trường hợp phát sinh thêm hệ số mới, Hiệu trưởng sẽ ban hành quyết\nđịnh bổ sung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Thanh toán giờ giảng mức 1",
+          "text": "Điều 5. Thanh toán giờ giảng mức 1\n1. Trường Đại học Bách khoa thanh toán giờ giảng trong định mức (mức 1)\nvới đơn giá cụ thể cho các loại hình đào tạo được xác định như sau:\nĐMức1 = ĐCNH × HSBSMức1\nVới HSBSMức1 = 0,8 × (1 + HCLC,CTTT + HĐM + HXA) × (1 + HNG)\n2. Nguyên tắc xác định giờ giảng mức 1\n- 50% của số giờ giảng mức 1 được trích từ số giờ giảng quy đổi của các\nhọc phần trực tiếp trên lớp² (lý thuyết, PBL) và 50% còn lại được trích từ số giờ\ngiảng quy đổi của các học phần đồ án, thực tập.\nNếu một trong hai giờ giảng này không đủ 50% số giờ giảng mức 1 thì giờ\ngiảng còn lại sẽ bù cho giờ giảng thiếu.\n- Thứ tự trích giờ giảng như dưới đây cho đến khi đủ giờ giảng mức 1:\ni) Giờ giảng đối với chương trình truyền thống, chương trình PFIEV.\nii) Giờ giảng đối với chương trình chất lượng cao, chương trình tiên tiến.\n3. Nguồn kinh phí thanh toán giờ giảng mức 1 được quyết toán từ quỹ bổ\nsung thu nhập của Trường Đại học Bách khoa.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Thanh toán giờ giảng mức 2",
+          "text": "Điều 6. Thanh toán giờ giảng mức 2\n1. Đơn giá thanh toán giờ giảng mức 2 (ĐMức2) cho các lớp lý thuyết, PBL\ncủa chương trình truyền thống, chất lượng cao, chương trình tiên tiến được\nxác định bằng:\nĐMức2 = ĐCNH × HSBSMức2\nVới HSBSMức2 = (1 + HCD + HCLC,CTTT + HĐM + HXA) × (1 + HNG/HHE)\n2. Đơn giá các lớp học phần đồ án, thực tập, hội đồng bảo vệ; công tác ra\nđề, phản biện thi, chấm thi được xác định bằng:\nĐĐồ án, thực tập... = ĐCNH × HSBSĐồ án, thực tập,...\nVới HSBSĐồ án, thực tập,... = (1 + HCLC,CTTT + HXA) × (1 + HNG/HHE)\n3. Đơn giá công tác coi thi được xác định bằng:\nĐCoi thi = ĐCNH × HSBSCoi thi\nVới HSBSCoi thi = (1 + HNG/HHE)\n4. Giữa học kỳ I, căn cứ tình hình tài chính và kế hoạch năm học Nhà\ntrường xác định đơn giá thanh toán cho hoạt động của hội đồng bảo vệ tốt nghiệp,\ncông tác ra đề, coi thi, phản biện thi, chấm thi áp dụng cho cả năm học.\n\n² Khoản 4 Điều 3 Thông tư số 20/2020/TT-BGDĐT ngày 27/7/2020 quy định chế độ làm việc của giảng viên cơ sở\ngiáo dục đại học.\n\n5. Đối với các lớp học phần tổ chức ở học kỳ hè được thanh toán giờ giảng\nmức 2.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 7. Tổ chức thực hiện\nVào đầu năm học, Phòng Kế hoạch - Tài chính, Phòng Tổ chức - Hành\nchính và Phòng Đào tạo tham mưu Hiệu trưởng ban hành đơn giá tạm tính để thực\nhiện tạm ứng tiền giảng. Kết thúc năm học, căn cứ vào điều kiện thực tế, Phòng\nKế hoạch - Tài chính, Phòng Tổ chức - Hành chính và Phòng Đào tạo tham mưu\nHiệu trưởng quyết định đơn giá giờ giảng chuẩn năm học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 8. Điều khoản thi hành\n1. Quy định này được áp dụng từ năm học 2023-2024. Các quy định có liên\nquan về việc thanh toán giờ giảng ban hành trước đây của Trường trái với Quyết\nđịnh này đều bãi bỏ.\n2. Trường hợp các văn bản được dẫn chiếu tại Quy định này được sửa đổi,\nbổ sung hoặc thay thế thì thực hiện theo các văn bản mới đó.\n3. Trong quá trình thực hiện nếu có vướng mắc, các cá nhân và đơn vị phản\nhồi bằng văn bản về Phòng Kế hoạch - Tài chính để tổng hợp trình, tham mưu\nHiệu trưởng xem xét, quyết định việc sửa đổi, bổ sung.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về việc thanh toán giờ giảng của",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về việc thanh toán giờ giảng của\nTrường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch -",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch -\nTài chính, Trưởng phòng Phòng Đào tạo, Trưởng các đơn vị thuộc và trực thuộc Trường,\ntoàn thể viên chức của Trường căn cứ quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

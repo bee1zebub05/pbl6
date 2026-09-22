@@ -1,0 +1,499 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0169_551_QĐ-ĐHĐN_Quyết định 551_QĐ-ĐHĐN Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại h.txt",
+  "mappedBy": "gemini-web",
+  "note": "62 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "551/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/01/2022",
+    "effectiveDate": "28/01/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng, đồng thời bãi bỏ một số quyết định trước đây của Giám đốc Đại học Đà Nẵng về cùng lĩnh vực.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ Quy định về tuyển dụng, sử dụng và quản lý viên chức;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "06/2020/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 06/2020/TT-BNV ngày 02/12/2020 của Bộ trưởng Bộ Nội vụ ban hành Quy chế tổ chức thi tuyển, xét tuyển công chức, viên chức, thi nâng ngạch công chức, thi hoặc xét thăng hạng chức danh nghề nghiệp viên chức; Nội quy thi tuyển, xét tuyển công chức, viên chức, thi nâng ngạch công chức, thi hoặc xét thăng hạng chức danh nghề nghiệp viên chức;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "06/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 06/NQ-HĐĐH ngày 24/01/2022 của Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026 thông qua Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1983/QĐ-ĐHĐN",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Điều 2. Bãi bỏ Quyết định số 1983/QĐ-ĐHĐN ngày 10/5/2016 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định tuyển dụng, ký kết hợp đồng làm việc, tập sự và bổ nhiệm chức danh nghề nghiệp..."
+    },
+    {
+      "targetDocumentNumber": "3295/QĐ-ĐHĐN",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "...và Quyết định số 3295/QĐ-ĐHĐN ngày 29/9/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định về xét chuyển chức danh nghề nghiệp viên chức."
+    },
+    {
+      "targetDocumentNumber": "31/2021/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đối với giảng viên, đáp ứng theo yêu cầu tại Thông tư số 31/2021/TT-BGDĐT ngày 10/11/2021 của Bộ Giáo dục và Đào tạo..."
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Nội vụ",
+    "Đảng ủy ĐHĐN",
+    "Hội đồng ĐHĐN",
+    "Ban Giám đốc ĐHĐN",
+    "Công đoàn, ĐTN ĐHĐN",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh",
+    "Ban Tổ chức Cán bộ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": "CON_HIEU_LUC",
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về tuyển dụng, sử dụng và quản lý viên chức, bao gồm: tuyển dụng viên chức; hợp đồng làm việc; tập sự; bổ nhiệm chức danh nghề nghiệp viên chức; bố trí, phân công công tác; chuyển, biệt phái viên chức trong ĐHĐN; xét chuyển chức danh nghề nghiệp viên chức; thi hoặc xét thăng hạng chức danh nghề nghiệp viên chức; chuyển công tác, nghỉ không hưởng lương, thôi việc; quản lý viên chức của Đại học Đà Nẵng (sau đây gọi tắt là ĐHĐN).\n2. Văn bản này áp dụng tại các trường đại học thành viên, các đơn vị thuộc, trực thuộc ĐHĐN và các tổ chức, đơn vị, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc chung về tuyển dụng, sử dụng và quản lý viên chức",
+          "text": "Điều 2. Nguyên tắc chung về tuyển dụng, sử dụng và quản lý viên chức\n1. Viên chức của các trường đại học thành viên, đơn vị thuộc và trực thuộc ĐHĐN là nguồn nhân lực chung của ĐHĐN; thực hiện nhiệm vụ do đơn vị trực tiếp quản lý phân công và tham gia thực hiện các nhiệm vụ chung của ĐHĐN; chấp hành sự bố trí sắp xếp, phân công, chuyển, biệt phái của Giám đốc ĐHĐN để thực hiện các nhiệm vụ chung của ĐHĐN; có quyền lợi và nghĩa vụ theo quy định của pháp luật.\n2. Thẩm quyền tuyển dụng, sử dụng, quản lý viên chức được thực hiện đảm bảo theo quy định pháp luật, Quy chế tổ chức và hoạt động hiện hành của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 3. Giải thích từ ngữ\nTrong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Thủ trưởng đơn vị” là người đứng đầu đơn vị sự nghiệp công lập có thẩm quyền tuyển dụng viên chức hoặc đơn vị sự nghiệp công lập được giao thẩm quyền tuyển dụng viên chức. Đối với các trường đại học thành viên, thủ trưởng đơn vị là Hiệu trưởng, đối với các đơn vị thuộc và trực thuộc ĐHĐN, thủ trưởng đơn vị là Giám đốc ĐHĐN;\n2. “Thủ trưởng đơn vị trực tiếp sử dụng viên chức” là trưởng các đơn vị thuộc, trực thuộc ĐHĐN và trưởng các đơn vị cấu thành của các trường đại học thành viên;\n3. Các định nghĩa, thuật ngữ khác có liên quan trong Quy định này được sử dụng theo quy định hiện hành của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Căn cứ tuyển dụng viên chức",
+          "text": "Điều 4. Căn cứ tuyển dụng viên chức\n1. Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của từng đơn vị.\n2. ĐHĐN xây dựng kế hoạch tuyển dụng viên chức của các đơn vị thuộc và trực thuộc ĐHĐN; các trường đại học thành viên xây dựng kế hoạch tuyển dụng của trường trên cơ sở đề án vị trí việc làm và định biên nhân sự đã được Giám đốc ĐHĐN phê duyệt để làm căn cứ tuyển dụng trước mỗi đợt tuyển dụng. Nội dung kế hoạch tuyển dụng bao gồm:\na) Số lượng người làm việc được giao và số lượng người làm việc chưa sử dụng của đơn vị sự nghiệp công lập sử dụng viên chức;\nb) Số lượng viên chức cần tuyển ở từng vị trí việc làm;\nc) Số lượng vị trí việc làm cần tuyển đối với người dân tộc thiểu số (nếu có), trong đó xác định rõ chỉ tiêu, cơ cấu dân tộc cần tuyển;\nd) Tiêu chuẩn, điều kiện đăng ký dự tuyển ở từng vị trí việc làm;\nđ) Hình thức và nội dung thi tuyển hoặc xét tuyển;\ne) Các nội dung khác (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Điều kiện đăng ký dự tuyển viên chức",
+          "text": "Điều 5. Điều kiện đăng ký dự tuyển viên chức\n1. Người có đủ các điều kiện sau đây không phân biệt dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo được đăng ký dự tuyển viên chức:\na) Có quốc tịch Việt Nam và cư trú tại Việt Nam;\nb) Từ đủ 18 tuổi trở lên. Người đăng ký dự tuyển vào vị trí việc làm thuộc lĩnh vực văn hóa, nghệ thuật, thể dục, thể thao có thể thấp hơn 18 tuổi nhưng phải từ đủ 15 tuổi trở lên và được sự đồng ý bằng văn bản của người đại diện theo pháp luật;\nc) Có Phiếu đăng ký dự tuyển;\nd) Có lý lịch rõ ràng;\nđ) Có văn bằng, chứng chỉ đào tạo, chứng chỉ hành nghề hoặc có năng khiếu, kỹ năng phù hợp với vị trí việc làm;\ne) Đủ sức khỏe để thực hiện công việc hoặc nhiệm vụ;\nf) Đáp ứng các điều kiện khác theo yêu cầu của vị trí việc làm do đơn vị tuyển dụng xác định.\nThủ trưởng đơn vị được bổ sung các điều kiện khác theo yêu cầu của vị trí việc làm nhưng không thấp hơn các tiêu chuẩn chung, không được trái với quy định của pháp luật, không được phân biệt loại hình đào tạo.\n2. Đối với chức danh nghề nghiệp giảng viên (trừ trợ giảng), ngoài các điều kiện được nêu tại khoản 1 Điều này, ứng viên phải đáp ứng các điều kiện sau:\na) Tốt nghiệp đại học với kết quả học tập đạt loại khá trở lên, có bằng thạc sĩ trở lên phù hợp với vị trí việc làm, ngành hoặc chuyên ngành giảng dạy;\nb) Các điều kiện khác theo quy định của pháp luật chuyên ngành (nếu có).\n3. Những người sau đây không được đăng ký dự tuyển viên chức vào làm việc tại các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN:\na) Mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự;\nb) Đang bị truy cứu trách nhiệm hình sự; đang chấp hành bản án, quyết định hình sự của Tòa án; đang bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng;\nc) Đang trong thời gian chấp hành quyết định kỷ luật;\nd) Đang là viên chức tại các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN;\nđ) Người đã thôi việc tại các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN trong thời gian dưới 12 tháng tính đến ngày cuối cùng của hạn nộp hồ sơ theo thông báo đăng ký dự tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Thẩm quyền về tuyển dụng viên chức",
+          "text": "Điều 6. Thẩm quyền về tuyển dụng viên chức\n1. Giám đốc Đại học Đà Nẵng\nBan hành kế hoạch tuyển dụng, quyết định hình thức thi tuyển hoặc xét tuyển, thông báo tuyển dụng, thành lập Hội đồng tuyển dụng, tổ chức tuyển dụng, công nhận kết quả tuyển dụng, quyết định tuyển dụng viên chức vào làm việc tại các đơn vị thuộc và trực thuộc ĐHĐN. Đối với Viện Nghiên cứu và Đào tạo Việt - Anh, hằng năm căn cứ tình hình thực tế của đơn vị, Giám đốc ĐHĐN sẽ xem xét và có văn bản ủy quyền về công tác: Thông báo tuyển dụng, thành lập Hội đồng tuyển dụng, tổ chức tuyển dụng.\n2. Hiệu trưởng các trường đại học thành viên\nBan hành kế hoạch tuyển dụng, quyết định hình thức thi tuyển hoặc xét tuyển, thông báo tuyển dụng, thành lập Hội đồng tuyển dụng, tổ chức tuyển dụng, công nhận kết quả tuyển dụng, quyết định tuyển dụng viên chức vào làm việc phù... (văn bản kết thúc tại đây)\n\n4\n\nhợp với Đề án vị trí việc làm hoặc danh mục vị trí việc làm của trường đã được phê duyệt, tổng hợp báo cáo ĐHĐN kết quả tuyển dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Hồ sơ tuyển dụng viên chức",
+          "text": "Điều 7. Hồ sơ tuyển dụng viên chức\n\nHồ sơ tuyển dụng viên chức bao gồm:\n\n1. Phiếu đăng ký dự tuyển viên chức (theo Mẫu số 01 kèm theo quy định này);\n2. Bản sơ yếu lý lịch tự thuật (theo Mẫu số 02 kèm theo quy định này);\n3. Bản lý lịch khoa học (đối với vị trí việc làm giảng viên);\n4. Bản sao công chứng giấy khai sinh và chứng minh nhân dân (hoặc căn cước công dân);\n5. Bản sao công chứng các văn bằng (tốt nghiệp trung học phổ thông, đại học, thạc sĩ, tiến sĩ) kèm theo kết quả học tập, các chứng chỉ theo yêu cầu của vị trí việc làm dự tuyển (nếu có). Trường hợp có văn bằng do cơ sở đào tạo nước ngoài cấp phải được công chứng dịch thuật sang tiếng Việt và được Cục Quản lý chất lượng Bộ Giáo dục và Đào tạo công nhận (trừ các trường hợp: Văn bằng của cơ sở giáo dục nước ngoài thuộc phạm vi áp dụng của hiệp định, thỏa thuận về tương đương văn bằng hoặc công nhận lẫn nhau về văn bằng hoặc điều ước quốc tế có liên quan đến văn bằng mà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký kết do Bộ Giáo dục và Đào tạo công bố; Văn bằng do cơ sở giáo dục nước ngoài cấp cho người học được Bộ Giáo dục và Đào tạo cử đi học bằng Ngân sách Nhà nước; Văn bằng do cơ sở giáo dục nước ngoài cấp cho người học theo chương trình liên kết đào tạo với nước ngoài tại Việt Nam đã được cấp có thẩm quyền phê duyệt tại thời điểm Luật sửa đổi, bổ sung một số điều của Luật giáo dục đại học có hiệu lực thi hành);\n6. Giấy chứng nhận đủ sức khỏe để làm việc do cơ quan y tế có thẩm quyền cấp;\n7. Phiếu lý lịch tư pháp do cơ quan có thẩm quyền cấp;\n8. Bản sao công chứng giấy chứng nhận hưởng chính sách, giấy chứng nhận ưu tiên (nếu có).",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Ưu tiên trong tuyển dụng viên chức",
+          "text": "Điều 8. Ưu tiên trong tuyển dụng viên chức\n\n1. Đối tượng và điểm ưu tiên trong thi tuyển hoặc xét tuyển:\na) Anh hùng Lực lượng vũ trang, Anh hùng Lao động, thương binh, người hưởng chính sách như thương binh, thương binh loại B: Được cộng 7,5 điểm vào kết quả điểm vòng 2;\nb) Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu chuyên ngành, học viên tốt nghiệp đào tạo sĩ quan dự bị, tốt nghiệp đào tạo chỉ huy trưởng Ban chỉ huy\n\n5\n\nquân sự cấp xã ngành quân sự cơ sở được phong quân hàm sĩ quan dự bị đã đăng ký ngạch sĩ quan dự bị, con liệt sĩ, con thương binh, con bệnh binh, con của người hưởng chính sách như thương binh, con của thương binh loại B, con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học, con Anh hùng Lực lượng vũ trang, con Anh hùng Lao động: Được cộng 5 điểm vào kết quả điểm vòng 2;\nc) Người hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia công an nhân dân, đội viên thanh niên xung phong: Được cộng 2,5 điểm vào kết quả điểm vòng 2.\n\n2. Trường hợp người dự thi tuyển hoặc dự xét tuyển thuộc nhiều diện ưu tiên quy định tại khoản 1 Điều này thì chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm vòng 2.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hội đồng tuyển dụng viên chức",
+          "text": "Điều 9. Hội đồng tuyển dụng viên chức\n\nHội đồng tuyển dụng viên chức có 05 hoặc 07 thành viên\n\n1. Thành phần của Hội đồng tuyển dụng viên chức\na) Hội đồng tuyển dụng viên chức của ĐHĐN, bao gồm:\n- Chủ tịch Hội đồng là Giám đốc ĐHĐN hoặc Phó Giám đốc ĐHĐN;\n- Phó Chủ tịch Hội đồng là Phó Giám đốc ĐHĐN hoặc người phụ trách công tác tổ chức cán bộ;\n- Ủy viên kiêm Thư ký hội đồng là viên chức của Ban Tổ chức Cán bộ;\n- Các ủy viên khác là những người có chuyên môn, nghiệp vụ liên quan đến việc tổ chức tuyển dụng do Giám đốc ĐHĐN quyết định.\n\nb) Hội đồng tuyển dụng viên chức của các trường đại học thành viên, bao gồm:\n- Chủ tịch Hội đồng là Hiệu trưởng hoặc Phó Hiệu trưởng;\n- Phó Chủ tịch Hội đồng là Phó Hiệu trưởng hoặc người phụ trách công tác tổ chức cán bộ;\n- Ủy viên kiêm Thư ký hội đồng là viên chức giúp việc về công tác tổ chức cán bộ của Phòng Tổ chức - Hành chính;\n- Các ủy viên khác là những người có chuyên môn, nghiệp vụ liên quan đến vị trí tuyển dụng.\n\n2. Nguyên tắc hoạt động của Hội đồng tuyển dụng\nHội đồng tuyển dụng làm việc theo nguyên tắc tập thể, quyết định theo đa số; trường hợp biểu quyết ngang nhau thì thực hiện theo ý kiến mà Chủ tịch Hội đồng tuyển dụng đã biểu quyết.\n\n3. Nhiệm vụ, quyền hạn của Hội đồng tuyển dụng\na) Thành lập các bộ phận giúp việc:\n\n6\n\nCác bộ phận giúp việc gồm: Ban kiểm tra Phiếu đăng ký dự tuyển (thành lập chậm nhất sau 05 ngày làm việc kể từ ngày thành lập Hội đồng tuyển dụng); Ban đề thi, Ban coi thi, Ban phách, Ban chấm thi, Ban chấm phúc khảo (nếu có); Ban kiểm tra sát hạch khi tổ chức thực hiện phỏng vấn hoặc thực hành tại vòng 2; Tổ in sao đề thi. Trường hợp cần thiết, Chủ tịch Hội đồng tuyển dụng thành lập Tổ Thư ký giúp việc.\n\nViệc thành lập các bộ phận giúp việc; nhiệm vụ, quyền hạn, trách nhiệm Trưởng và các thành viên của các bộ phận giúp việc; tiêu chuẩn của người tham gia các bộ phận giúp việc; nguyên tắc làm việc của các bộ phận giúp việc thực hiện theo Mục 2, Chương I, Quy chế thi tuyển, xét tuyển công chức, viên chức, thi nâng ngạch công chức, thi hoặc xét thăng hạng chức danh nghề nghiệp viên chức ban hành kèm theo Thông tư số 06/2020/TT-BNV ngày 02/12/2020 của Bộ trưởng Bộ Nội vụ.\n\nb) Tổ chức thu phí dự tuyển và sử dụng phí dự tuyển theo quy định;\nc) Kiểm tra Phiếu đăng ký dự tuyển, tổ chức thi, chấm thi, chấm phúc khảo theo quy chế;\nd) Báo cáo thủ trưởng đơn vị quyết định công nhận kết quả thi tuyển, xét tuyển;\nđ) Giải quyết khiếu nại, tố cáo trong quá trình tổ chức thi tuyển, xét tuyển;\ne) Hội đồng tuyển dụng tự giải thể sau khi hoàn thành nhiệm vụ.\n\n4. Nhiệm vụ, quyền hạn của Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng và thành viên Hội đồng theo quy định tại Điều 2, Quy chế tổ chức thi tuyển công chức, viên chức, thi nâng ngạch công chức, thi thăng hạng chức danh nghề nghiệp viên chức ban hành kèm theo Thông tư số 06/2020/TT-BNV ngày 02/12/2020 của Bộ trưởng Bộ Nội vụ.\n\n5. Không bố trí những người có quan hệ là cha, mẹ, anh, chị, em ruột của người dự tuyển hoặc của bên vợ (chồng) của người dự tuyển; vợ hoặc chồng, con đẻ hoặc con nuôi của người dự tuyển hoặc những người đang trong thời hạn xử lý kỷ luật hoặc đang thi hành quyết định kỷ luật làm thành viên Hội đồng tuyển dụng, thành viên các bộ phận giúp việc của Hội đồng tuyển dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Phương thức tuyển dụng",
+          "text": "Điều 10. Phương thức tuyển dụng\n\nViệc tuyển dụng viên chức được thực hiện thông qua thi tuyển hoặc xét tuyển viên chức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Giám sát kỳ thi hoặc xét tuyển",
+          "text": "Điều 11. Giám sát kỳ thi hoặc xét tuyển\n\n1. Thủ trưởng đơn vị phải thành lập Ban Giám sát gồm Trưởng ban và các thành viên.\n2. Việc thành lập Ban Giám sát, nhiệm vụ, quyền hạn, nội dung, địa điểm giám sát và tiêu chuẩn thành viên của Ban Giám sát thực hiện theo Điều 36, Chương III Quy chế tổ chức thi tuyển công chức, viên chức, thi nâng ngạch công\n\n7\n\nchức, thi hoặc xét thăng hạng chức danh nghề nghiệp viên chức ban hành kèm theo Thông tư số 06/2020/TT-BNV ngày 02/12/2020 của Bộ trưởng Bộ Nội vụ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Nội dung, hình thức và thời gian thi",
+          "text": "Điều 12. Nội dung, hình thức và thời gian thi\n\nThi tuyển viên chức được thực hiện theo 2 vòng thi như sau:\n\n1. Vòng 1: Thi kiểm tra kiến thức chung\na) Hình thức thi: Thi trắc nghiệm trên máy vi tính.\nTrường hợp tổ chức thi trên máy vi tính thì nội dung thi trắc nghiệm không có phần thi tin học.\nTrường hợp đơn vị chưa có điều kiện tổ chức thi trên máy vi tính thì thi trắc nghiệm trên giấy.\n\nb) Nội dung thi gồm 3 phần, thời gian thi như sau:\nPhần I: Kiến thức chung, 60 câu hỏi hiểu biết về pháp luật viên chức, chủ trương, đường lối của Đảng, chính sách, pháp luật về ngành, lĩnh vực tuyển dụng. Thời gian thi 60 phút;\nPhần II: Ngoại ngữ, 30 câu hỏi theo yêu cầu của vị trí việc làm về một trong năm thứ tiếng Anh, Nga, Pháp, Đức, Trung Quốc hoặc ngoại ngữ khác thủ trưởng đơn vị quyết định. Thời gian thi 30 phút;\nPhần III: Tin học, 30 câu hỏi theo yêu cầu của vị trí việc làm. Thời gian thi 30 phút.\n\nc) Miễn phần thi ngoại ngữ đối với các trường hợp sau:\nCó bằng tốt nghiệp chuyên ngành ngoại ngữ cùng trình độ đào tạo hoặc ở trình độ đào tạo cao hơn so với trình độ đào tạo chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm dự tuyển. Đối với vị trí việc làm giảng dạy ngoại ngữ thì phải có ngoại ngữ 2 như sau: Có bằng tốt nghiệp chuyên ngành ngoại ngữ 2 cùng trình độ đào tạo hoặc ở trình độ đào tạo cao hơn so với trình độ ngoại ngữ theo yêu cầu của vị trí việc làm dự tuyển;\nCó bằng tốt nghiệp cùng trình độ đào tạo hoặc ở trình độ đào tạo cao hơn so với trình độ đào tạo chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm dự tuyển học tập ở nước ngoài hoặc học bằng tiếng nước ngoài ở Việt Nam, được cơ quan có thẩm quyền công nhận;\nCó chứng chỉ tiếng dân tộc thiểu số hoặc là người dân tộc thiểu số dự tuyển vào viên chức công tác ở vùng dân tộc thiểu số.\n\nd) Miễn phần thi tin học đối với các trường hợp có bằng tốt nghiệp từ trung cấp trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin.\n\n8\n\nđ) Kết quả thi vòng 1 được xác định theo số câu trả lời đúng cho từng phần thi quy định tại điểm b khoản này, nếu trả lời đúng từ 50% số câu hỏi trở lên cho từng phần thi thì người dự tuyển được thi tiếp vòng 2.\n\n2. Vòng 2: Thi môn nghiệp vụ chuyên ngành\na) Hình thức thi: Căn cứ vào tính chất, đặc điểm và yêu cầu của vị trí việc làm cần tuyển, thủ trưởng đơn vị quyết định một trong ba hình thức thi: Phỏng vấn; thực hành; thi viết.\nb) Nội dung thi: Kiểm tra kiến thức, kỹ năng hoạt động nghề nghiệp người dự tuyển theo yêu cầu của vị trí việc làm cần tuyển.\nNội dung thi môn nghiệp vụ chuyên ngành phải căn cứ vào nhiệm vụ, tiêu chuẩn về năng lực chuyên môn, nghiệp vụ của chức danh nghề nghiệp viên chức và phải phù hợp với yêu cầu của vị trí việc làm cần tuyển. Trong cùng một kỳ thi tuyển, nếu có các vị trí việc làm yêu cầu chuyên môn, nghiệp vụ khác nhau thì đơn vị phải tổ chức xây dựng các đề thi môn nghiệp vụ chuyên ngành khác nhau tương ứng với yêu cầu của vị trí việc làm cần tuyển.\nc) Thời gian thi: Thi phỏng vấn 30 phút (trước khi thi phỏng vấn, thí sinh dự thi có không quá 15 phút chuẩn bị); thi viết 180 phút (không kể thời gian chép đề); thời gian thi thực hành do thủ trưởng đơn vị quyết định căn cứ vào tính chất, đặc điểm hoạt động nghề nghiệp của vị trí việc làm cần tuyển.\nd) Thang điểm (thi phỏng vấn, thực hành, thi viết): 100 điểm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Xác định người trúng tuyển trong kỳ thi tuyển viên chức",
+          "text": "Điều 13. Xác định người trúng tuyển trong kỳ thi tuyển viên chức\n\n1. Người trúng tuyển trong kỳ thi tuyển viên chức phải có đủ các điều kiện sau:\na) Có kết quả điểm thi tại vòng 2 đạt từ 50 điểm trở lên.\nb) Có số điểm vòng 2 cộng với điểm ưu tiên quy định tại Điều 8 Quy định này (nếu có) cao hơn lấy theo thứ tự điểm từ cao xuống thấp trong chỉ tiêu được tuyển dụng của từng vị trí việc làm.\n\n2. Trường hợp có từ 02 người trở lên có tổng số điểm tính theo quy định tại điểm b khoản 1 Điều này bằng nhau ở chỉ tiêu cuối cùng của vị trí việc làm cần tuyển thì người có kết quả điểm thi vòng 2 cao hơn là người trúng tuyển; nếu vẫn không xác định được thì thủ trưởng đơn vị quyết định người trúng tuyển.\n\n3. Người không trúng tuyển trong kỳ thi tuyển viên chức không được bảo lưu kết quả thi tuyển cho các kỳ thi tuyển lần sau.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Nội dung và hình thức xét tuyển viên chức",
+          "text": "Điều 14. Nội dung và hình thức xét tuyển viên chức\n\nXét tuyển viên chức được thực hiện theo 2 vòng như sau:\n\n9\n\n1. Vòng 1\nKiểm tra điều kiện dự tuyển tại Phiếu đăng ký và hồ sơ dự tuyển theo yêu cầu của vị trí việc làm cần tuyển, nếu đáp ứng đủ thì người dự tuyển được tham dự vòng 2.\n\n2. Vòng 2 được thực hiện như quy định tại khoản 2 Điều 12 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Xác định người trúng tuyển trong kỳ xét tuyển viên chức",
+          "text": "Điều 15. Xác định người trúng tuyển trong kỳ xét tuyển viên chức\n1. Việc xác định người trúng tuyển trong kỳ xét tuyển viên chức được thực hiện như quy định tại khoản 1 và khoản 2 Điều 13 Quy định này.\n2. Người không trúng tuyển trong kỳ xét tuyển không được bảo lưu kết quả xét tuyển cho các kỳ xét tuyển lần sau.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tiếp nhận vào làm viên chức",
+          "text": "Điều 16. Tiếp nhận vào làm viên chức\n1. Căn cứ điều kiện đăng ký dự tuyển viên chức và theo yêu cầu của vị trí việc làm cần tuyển, Giám đốc ĐHĐN hoặc Hiệu trưởng các trường đại học thành viên theo thẩm quyền tuyển dụng viên chức xem xét tiếp nhận vào làm viên chức đối với các trường hợp sau:\na) Các trường hợp có ít nhất 05 năm công tác ở vị trí việc làm yêu cầu trình độ đào tạo đại học trở lên phù hợp với yêu cầu của vị trí việc làm cần tuyển và có đóng bảo hiểm xã hội bắt buộc (không kể thời gian tập sự, thử việc, nếu có thời gian công tác có đóng bảo hiểm xã hội bắt buộc không liên tục mà chưa nhận trợ cấp bảo hiểm xã hội một lần thì được cộng dồn, kể cả thời gian công tác nếu có trước đó ở vị trí công việc thuộc các đối tượng quy định tại khoản này), gồm:\n- Người đang là cán bộ, công chức cấp xã;\n- Người đang ký hợp đồng lao động làm công việc chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập hoặc đơn vị sự nghiệp ngoài công lập theo quy định của pháp luật;\n- Người hưởng lương trong lực lượng vũ trang nhân dân, người làm việc trong tổ chức cơ yếu;\n- Người đang làm việc tại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ, doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết;\n- Người đang làm việc trong các tổ chức chính trị - xã hội nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp.\nb) Người có tài năng, năng khiếu đặc biệt phù hợp với vị trí việc làm trong các ngành, lĩnh vực: Văn hóa, nghệ thuật, thể dục thể thao, các ngành nghề truyền thống.\nc) Người đã từng là cán bộ, công chức, viên chức, sau đó được cấp có thẩm quyền đồng ý chuyển đến làm việc tại lực lượng vũ trang, cơ yếu, tổ chức chính\n\n10\n\ntrị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết.\n\n2. Quy trình xem xét tiếp nhận vào làm viên chức\na) Khi xem xét tiếp nhận vào làm viên chức không giữ chức vụ quản lý đối với các trường hợp quy định tại điểm a khoản 1 Điều này, thủ trưởng đơn vị phải thành lập Hội đồng kiểm tra, sát hạch. Thành phần Hội đồng kiểm tra, sát hạch được thực hiện theo quy định tại khoản 1 Điều 9 Quy định này.\nb) Hội đồng kiểm tra, sát hạch thực hiện các nhiệm vụ sau:\n- Kiểm tra về các điều kiện, tiêu chuẩn, văn bằng, chứng chỉ của người được đề nghị tiếp nhận theo yêu cầu của vị trí việc làm cần tuyển;\n- Tổ chức sát hạch về trình độ hiểu biết chung và năng lực chuyên môn, nghiệp vụ của người được đề nghị tiếp nhận. Hội đồng kiểm tra, sát hạch phải báo cáo thủ trưởng đơn vị thống nhất về hình thức và nội dung sát hạch trước khi thực hiện;\n- Hội đồng kiểm tra, sát hạch làm việc theo nguyên tắc tập thể, quyết định theo đa số; trường hợp biểu quyết ngang nhau thì thực hiện theo ý kiến mà Chủ tịch Hội đồng kiểm tra, sát hạch đã biểu quyết;\n- Báo cáo thủ trưởng đơn vị về kết quả kiểm tra, sát hạch;\n- Hội đồng kiểm tra, sát hạch tự giải thể sau khi hoàn thành nhiệm vụ.\n\n3. Hồ sơ của người được đề nghị tiếp nhận vào làm viên chức:\na) Sơ yếu lý lịch viên chức theo quy định hiện hành được lập chậm nhất là 30 ngày trước ngày nộp hồ sơ tiếp nhận, có xác nhận của cơ quan, tổ chức, đơn vị nơi công tác;\nb) Bản sao các văn bằng, chứng chỉ theo yêu cầu của vị trí việc làm cần tuyển;\nc) Giấy chứng nhận sức khỏe do cơ quan y tế có thẩm quyền cấp chậm nhất là 30 ngày trước ngày nộp hồ sơ tiếp nhận;\nd) Bản tự nhận xét, đánh giá của người được đề nghị tiếp nhận về phẩm chất chính trị, phẩm chất đạo đức, trình độ và năng lực chuyên môn, nghiệp vụ, quá trình công tác có xác nhận của người đứng đầu cơ quan, tổ chức, đơn vị nơi công tác.\n\n4. Khi tiếp nhận các trường hợp quy định tại khoản 1 Điều này để bổ nhiệm làm viên chức quản lý trong đơn vị sự nghiệp công lập thì không phải thực hiện quy trình xem xét tiếp nhận theo quy định tại khoản 2 Điều này, nhưng phải đáp ứng đầy đủ tiêu chuẩn, điều kiện bổ nhiệm và quy định tại khoản 1 Điều này. Quyết định bổ nhiệm đồng thời là quyết định tiếp nhận vào làm viên chức.\n\n5. Trường hợp người được tiếp nhận vào làm viên chức theo quy định tại Quy định này, được bố trí làm việc theo đúng ngành, nghề đào tạo hoặc theo\n\n11\n\nđúng chuyên môn nghiệp vụ trước đây đã đảm nhiệm thì thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo quy định của Luật Bảo hiểm xã hội trước ngày tuyển dụng, tiếp nhận vào làm viên chức (nếu có thời gian công tác có đóng bảo hiểm xã hội bắt buộc không liên tục mà chưa nhận trợ cấp bảo hiểm xã hội một lần thì được cộng dồn) ở trình độ đào tạo tương ứng với trình độ đào tạo theo yêu cầu của vị trí việc làm được tuyển dụng, tiếp nhận được tính để làm căn cứ xếp lương theo chức danh nghề nghiệp phù hợp với vị trí việc làm được tuyển dụng, tiếp nhận.\nViệc xếp lương theo chức danh nghề nghiệp viên chức tương ứng với vị trí việc làm được tuyển dụng, tiếp nhận thực hiện theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Thông báo tuyển dụng và tiếp nhận hồ sơ dự tuyển",
+          "text": "Điều 17. Thông báo tuyển dụng và tiếp nhận hồ sơ dự tuyển\n1. Thông báo tuyển dụng phải được đăng công khai ít nhất 01 lần trên một trong những phương tiện thông tin đại chúng sau: báo in, báo điện tử, báo nói, báo hình; đồng thời đăng tải trên trang thông tin điện tử hoặc Cổng thông tin điện tử và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị có thẩm quyền tuyển dụng.\n2. Nội dung thông báo tuyển dụng bao gồm:\na) Số lượng người làm việc cần tuyển ứng với từng vị trí việc làm;\nb) Số lượng vị trí việc làm thực hiện việc thi tuyển, xét tuyển;\nc) Tiêu chuẩn, điều kiện đăng ký dự tuyển;\nd) Thời hạn, địa chỉ và địa điểm tiếp nhận Phiếu đăng ký dự tuyển, số điện thoại di động hoặc cố định của cá nhân, bộ phận được phân công tiếp nhận Phiếu đăng ký dự tuyển;\nđ) Hình thức, nội dung thi tuyển, xét tuyển; thời gian và địa điểm thi tuyển, xét tuyển.\n3. Trường hợp thay đổi nội dung thông báo tuyển dụng chỉ được thực hiện trước khi khai mạc kỳ tuyển dụng và phải công khai theo quy định tại khoản 1 Điều này.\n4. Người đăng ký dự tuyển nộp Phiếu đăng ký dự tuyển theo Mẫu số 01 ban hành kèm theo Quy định này tại địa điểm tiếp nhận Phiếu đăng ký dự tuyển hoặc gửi theo đường bưu chính hoặc qua trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan, đơn vị có thẩm quyền tuyển dụng.\n5. Thời hạn nhận Phiếu đăng ký dự tuyển là 30 ngày kể từ ngày thông báo tuyển dụng công khai trên phương tiện thông tin đại chúng, trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan, đơn vị có thẩm quyền tuyển dụng.\n\n12",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Trình tự tổ chức tuyển dụng",
+          "text": "Điều 18. Trình tự tổ chức tuyển dụng\n1. Thành lập Hội đồng tuyển dụng và các bộ phận giúp việc của Hội đồng\na) Thành lập Hội đồng tuyển dụng\nCăn cứ quy định tại Điều 9 Quy định này, Giám đốc ĐHĐN quyết định thành lập Hội đồng tuyển dụng viên chức của ĐHĐN, Hiệu trưởng quyết định thành lập Hội đồng tuyển dụng viên chức của trường đại học thành viên.\nb) Thành lập các bộ phận giúp việc của Hội đồng tuyển dụng\nHội đồng tuyển dụng viên chức thành lập các bộ phận giúp việc theo quy định tại điểm a, khoản 3, Điều 9 Quy định này.\n\n2. Thành lập Ban giám sát để giám sát kỳ tuyển dụng viên chức\nCăn cứ quy định tại Điều 11 Quy định này Giám đốc ĐHĐN quyết định thành lập Ban giám sát của ĐHĐN, Hiệu trưởng quyết định thành lập Ban giám sát của trường đại học thành viên.\n\n3. Kiểm tra Phiếu đăng ký và hồ sơ dự tuyển\nTrường hợp người dự tuyển không đáp ứng điều kiện, tiêu chuẩn dự tuyển thì chậm nhất 05 ngày làm việc kể từ ngày kết thúc kiểm tra Phiếu đăng ký dự tuyển, Hội đồng tuyển dụng có trách nhiệm gửi thông báo bằng văn bản tới người đăng ký dự tuyển được biết theo địa chỉ mà người dự tuyển đã đăng ký.\n\n4. Tổ chức thi tuyển\nHội đồng tuyển dụng thông báo danh sách và triệu tập thí sinh đủ điều kiện, tiêu chuẩn dự thi vòng 1, đồng thời đăng tải trên trang thông tin điện tử hoặc Cổng thông tin điện tử và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị có thẩm quyền tuyển dụng. Chậm nhất 15 ngày kể từ ngày thông báo triệu tập thí sinh được tham dự vòng 1, Hội đồng tuyển dụng phải tiến hành tổ chức thi vòng 1.\na) Tổ chức thi vòng 1\nTrường hợp cơ quan, đơn vị có thẩm quyền tuyển dụng tổ chức thi vòng 1 trên máy vi tính thì phải thông báo kết quả cho thí sinh được biết ngay sau khi kết thúc thời gian làm bài thi trên máy vi tính. Không thực hiện việc phúc khảo đối với kết quả thi vòng 1 trên máy vi tính.\nTrường hợp cơ quan, đơn vị có thẩm quyền tuyển dụng tổ chức thi vòng 1 trên giấy thì việc chấm thi thực hiện như sau:\n- Chậm nhất 15 ngày kể từ ngày kết thúc thi vòng 1 phải hoàn thành việc chấm thi vòng 1;\n- Chậm nhất 05 ngày làm việc kể từ ngày kết thúc việc chấm thi vòng 1 phải công bố kết quả thi để thí sinh dự thi biết và thông báo việc nhận đơn phúc khảo trong thời hạn 15 ngày kể từ ngày thông báo kết quả thi trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan, đơn vị có thẩm quyền tuyển dụng;\n\n13\n\nTrường hợp có đơn phúc khảo thì chậm nhất 15 ngày kể từ ngày hết thời hạn nhận đơn phúc khảo phải hoàn thành việc chấm phúc khảo và công bố kết quả chấm phúc khảo để thí sinh dự thi được biết;\nCăn cứ vào điều kiện thực tiễn trong quá trình tổ chức chấm thi, Chủ tịch Hội đồng tuyển dụng quyết định kéo dài thời hạn thực hiện các công việc quy định tại điểm này nhưng tổng thời gian kéo dài không quá 15 ngày.\n\nb) Tổ chức thi vòng 2\nChậm nhất 05 ngày làm việc kể từ ngày kết thúc việc chấm thi vòng 1, Hội đồng tuyển dụng phải lập danh sách và thông báo triệu tập thí sinh đủ điều kiện dự thi vòng 2, đồng thời đăng tải trên trang thông tin điện tử hoặc Cổng thông tin điện tử và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị có thẩm quyền tuyển dụng.\nChậm nhất 15 ngày kể từ ngày thông báo triệu tập thí sinh được tham dự vòng 2, Hội đồng tuyển dụng phải tiến hành tổ chức thi vòng 2.\nTrường hợp cơ quan, đơn vị có thẩm quyền tuyển dụng tổ chức thi vòng 2 bằng hình thức thi viết thì việc chấm thi, phúc khảo thực hiện như quy định tại điểm b khoản này. Không thực hiện việc phúc khảo đối với kết quả thi vòng 2 bằng hình thức phỏng vấn hoặc thực hành.\n\n5. Tổ chức xét tuyển:\na) Chậm nhất 05 ngày làm việc sau ngày kết thúc việc kiểm tra điều kiện, tiêu chuẩn của người dự tuyển tại vòng 1, Hội đồng tuyển dụng phải lập danh sách và thông báo triệu tập thí sinh đủ điều kiện dự xét tuyển ở vòng 2, đồng thời đăng tải trên trang thông tin điện tử hoặc Cổng thông tin điện tử và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị có thẩm quyền tuyển dụng;\nb) Chậm nhất 15 ngày kể từ ngày thông báo triệu tập thí sinh được tham dự vòng 2 thì phải tiến hành tổ chức thi vòng 2 như quy định tại điểm b khoản 3 Điều này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Thông báo kết quả tuyển dụng viên chức",
+          "text": "Điều 19. Thông báo kết quả tuyển dụng viên chức\n1. Sau khi hoàn thành việc chấm thi vòng 2 theo quy định tại Điều 18 Quy định này, chậm nhất 05 ngày làm việc, Hội đồng tuyển dụng phải báo cáo thủ trưởng đơn vị xem xét, công nhận kết quả tuyển dụng.\n2. Trong thời hạn 10 ngày kể từ ngày có quyết định công nhận kết quả tuyển dụng, Hội đồng tuyển dụng phải thông báo công khai trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan, đơn vị có thẩm quyền tuyển dụng và gửi thông báo công nhận kết quả trúng tuyển bằng văn bản tới người dự tuyển theo địa chỉ mà người dự tuyển đã đăng ký. Nội dung thông báo phải ghi rõ thời hạn người trúng tuyển phải đến cơ quan, đơn vị có thẩm quyền tuyển dụng để hoàn thiện hồ sơ tuyển dụng.\n\n14",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Hoàn thiện hồ sơ tuyển dụng viên chức",
+          "text": "Điều 20. Hoàn thiện hồ sơ tuyển dụng viên chức\n\n1. Trong thời hạn 30 ngày, kể từ ngày nhận được thông báo kết quả trúng tuyển, người trúng tuyển phải đến cơ quan, đơn vị có thẩm quyền tuyển dụng để hoàn thiện hồ sơ tuyển dụng. Hồ sơ tuyển dụng thực hiện theo Điều 7 quy định này.\n\n2. Trường hợp người trúng tuyển không hoàn thiện đủ hồ sơ tuyển dụng theo quy định hoặc có hành vi gian lận trong việc kê khai Phiếu đăng ký dự tuyển hoặc bị phát hiện sử dụng văn bằng, chứng chỉ, chứng nhận không đúng quy định để tham gia dự tuyển thì thủ trưởng đơn vị ra quyết định hủy kết quả trúng tuyển.\n\nTrường hợp người đăng ký dự tuyển có hành vi gian lận trong việc kê khai Phiếu đăng ký dự tuyển hoặc sử dụng văn bằng, chứng chỉ, chứng nhận không đúng quy định để tham gia dự tuyển thì cơ quan, đơn vị có thẩm quyền tuyển dụng thông báo công khai trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan, đơn vị và không tiếp nhận Phiếu đăng ký dự tuyển trong một kỳ tuyển dụng tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Ký kết hợp đồng làm việc và nhận việc",
+          "text": "Điều 21. Ký kết hợp đồng làm việc và nhận việc\n\n1. Chậm nhất 15 ngày kể từ ngày người trúng tuyển hoàn thiện hồ sơ tuyển dụng, thủ trưởng đơn vị ban hành quyết định tuyển dụng, đồng thời gửi quyết định tới người trúng tuyển theo địa chỉ đã đăng ký và đơn vị trực tiếp sử dụng viên chức để biết.\n\n2. Trong thời hạn 30 ngày kể từ ngày nhận được quyết định tuyển dụng, người được tuyển dụng viên chức phải đến đơn vị để ký hợp đồng làm việc và nhận việc, trừ trường hợp quyết định tuyển dụng quy định thời hạn khác hoặc được cơ quan, đơn vị có thẩm quyền tuyển dụng viên chức đồng ý gia hạn.\n\n3. Trường hợp người được tuyển dụng viên chức không đến ký hợp đồng làm việc và nhận việc trong thời hạn quy định tại khoản 2 Điều này thì thủ trưởng đơn vị hủy bỏ quyết định tuyển dụng.\n\n4. Thủ trưởng đơn vị xem xét quyết định việc trúng tuyển đối với người dự tuyển có kết quả tuyển dụng thấp hơn liền kề so với kết quả tuyển dụng của người trúng tuyển đã bị hủy bỏ kết quả trúng tuyển theo quy định tại khoản 3 Điều này.\n\nTrường hợp có từ 02 người trở lên có kết quả tuyển dụng thấp hơn liền kề mà bằng nhau thì thủ trưởng đơn vị quyết định người trúng tuyển theo quy định tại Điều 13 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Thẩm quyền ký kết hợp đồng làm việc",
+          "text": "Điều 22. Thẩm quyền ký kết hợp đồng làm việc\n\n1. Giám đốc ĐHĐN ký kết hợp đồng làm việc với viên chức hoặc người trúng tuyển viên chức của các đơn vị thuộc và trực thuộc.\n\n15\n\n2. Hiệu trưởng các trường đại học thành viên ký kết hợp đồng làm việc với viên chức hoặc người trúng tuyển viên chức của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Các loại hợp đồng làm việc",
+          "text": "Điều 23. Các loại hợp đồng làm việc\n\n1. Hợp đồng làm việc xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong khoảng thời gian từ đủ 12 tháng đến 60 tháng (theo Mẫu số 03 ban hành theo Quy định này).\n\nHợp đồng làm việc xác định thời hạn áp dụng đối với người được tuyển dụng làm viên chức kể từ ngày 01 tháng 7 năm 2020, trừ trường hợp quy định tại điểm b và điểm c khoản 2 Điều này.\n\n2. Hợp đồng làm việc không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng (theo Mẫu số 04 ban hành theo Quy định này). Hợp đồng làm việc không xác định thời hạn áp dụng đối với các trường hợp sau đây:\n\na) Viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2020;\n\nb) Cán bộ, công chức chuyển sang làm viên chức theo quy định tại điểm b khoản 9 Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật cán bộ, công chức và Luật viên chức;\n\nc) Người được tuyển dụng làm viên chức làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Các nội dung liên quan đến hợp đồng làm việc",
+          "text": "Điều 24. Các nội dung liên quan đến hợp đồng làm việc\n\n1. Hợp đồng làm việc được ký kết bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với thủ trưởng đơn vị. Trường hợp viên chức là thủ trưởng đơn vị thì do cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập ký kết hợp đồng làm việc.\n\n2. Viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2020 nhưng đang thực hiện hợp đồng làm việc xác định thời hạn thì tiếp tục thực hiện hợp đồng làm việc đã ký kết, kể cả trường hợp viên chức chuyển đến từ đơn vị sự nghiệp công lập khác theo quy định tại khoản 4 Điều này, sau khi kết thúc thời hạn của hợp đồng làm việc đã ký kết thì được ký kết hợp đồng làm việc không xác định thời hạn nếu đáp ứng đầy đủ các yêu cầu theo quy định của pháp luật.\n\n3. Trong quá trình thực hiện hợp đồng làm việc, nếu có thay đổi nội dung hợp đồng làm việc thì viên chức hoặc người được tuyển dụng làm viên chức thỏa thuận với thủ trưởng đơn vị về các nội dung thay đổi đó và được tiến hành bằng việc ký kết phụ lục hợp đồng làm việc hoặc ký kết hợp đồng làm việc mới có những nội dung thay đổi đó.\n\n4. Trường hợp viên chức được cấp có thẩm quyền đồng ý chuyển đến đơn vị sự nghiệp công lập khác thì không thực hiện việc tuyển dụng mới, nhưng phải ký kết hợp đồng làm việc mới với thủ trưởng đơn vị; đồng thời thực hiện chế độ tiền lương đối với viên chức phù hợp trên cơ sở căn cứ vào loại hình hợp\n\n16\n\nđồng làm việc của viên chức đang được ký kết tại đơn vị sự nghiệp công lập trước khi chuyển công tác, năng lực, trình độ đào tạo, quá trình công tác, diễn biến tiền lương và thời gian đóng bảo hiểm xã hội bắt buộc của viên chức.\n\n5. Đối với hợp đồng làm việc xác định thời hạn, trước khi hết hạn hợp đồng làm việc 60 ngày, người có thẩm quyền ký kết tiếp hoặc chấm dứt hợp đồng làm việc với viên chức.\n\nTrường hợp đơn vị sự nghiệp công lập còn nhu cầu, viên chức đáp ứng đầy đủ các yêu cầu theo quy định của pháp luật thì người có thẩm quyền phải ký kết tiếp hợp đồng làm việc với viên chức.\n\nTrường hợp không ký kết tiếp hợp đồng làm việc với viên chức thì người đứng đầu đơn vị sự nghiệp công lập phải nêu rõ lý do bằng văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Đơn phương chấm dứt hợp đồng làm việc",
+          "text": "Điều 25. Đơn phương chấm dứt hợp đồng làm việc\n\n1. Đại học Đà Nẵng, các trường đại học thành viên được đơn phương chấm dứt hợp đồng làm việc với viên chức trong các trường hợp sau:\n\na) Viên chức có 02 năm liên tiếp bị xếp loại chất lượng ở mức độ không hoàn thành nhiệm vụ;\n\nb) Viên chức bị buộc thôi việc theo quy định tại điểm d khoản 1 Điều 52 và khoản 1 Điều 57 của Luật viên chức;\n\nc) Viên chức làm việc theo hợp đồng làm việc không xác định thời hạn bị ốm đau đã điều trị 12 tháng liên tục, viên chức làm việc theo hợp đồng làm việc xác định thời hạn bị ốm đau đã điều trị 06 tháng liên tục mà khả năng làm việc chưa hồi phục. Khi sức khỏe của viên chức bình phục thì được xem xét để ký kết tiếp hợp đồng làm việc;\n\nd) Do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của Chính phủ làm cho đơn vị sự nghiệp công lập buộc phải thu hẹp quy mô, khiến vị trí việc làm mà viên chức đang đảm nhận không còn;\n\nđ) Khi đơn vị chấm dứt hoạt động theo quyết định của cơ quan có thẩm quyền;\n\n2. Khi đơn phương chấm dứt hợp đồng làm việc, trừ trường hợp quy định tại điểm b khoản 1 Điều này, thủ trưởng đơn vị phải báo cho viên chức biết trước ít nhất 45 ngày đối với hợp đồng làm việc không xác định thời hạn hoặc ít nhất 30 ngày đối với hợp đồng làm việc xác định thời hạn.\n\n3. Thủ trưởng đơn vị không được đơn phương chấm dứt hợp đồng làm việc với viên chức trong các trường hợp sau:\n\na) Viên chức ốm đau hoặc bị tai nạn, đang điều trị bệnh nghề nghiệp theo quyết định của cơ sở chữa bệnh, trừ trường hợp quy định tại điểm c khoản 1 Điều này;\n\nb) Viên chức đang nghỉ hàng năm, nghỉ về việc riêng và những trường hợp nghỉ khác được thủ trưởng đơn vị cho phép;\n\n17\n\nc) Viên chức nữ đang trong thời gian có thai, nghỉ thai sản, nuôi con dưới 36 tháng tuổi, trừ trường hợp đơn vị sự nghiệp công lập chấm dứt hoạt động.\n\n4. Viên chức làm việc theo hợp đồng làm việc không xác định thời hạn có quyền đơn phương chấm dứt hợp đồng nhưng phải thông báo bằng văn bản cho thủ trưởng đơn vị biết trước ít nhất 45 ngày; trường hợp viên chức ốm đau hoặc bị tai nạn đã điều trị 06 tháng liên tục thì phải báo trước ít nhất 03 ngày.\n\n5. Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng trong các trường hợp sau:\n\na) Không được bố trí theo đúng vị trí việc làm, địa điểm làm việc hoặc không được bảo đảm các điều kiện làm việc đã thỏa thuận trong hợp đồng làm việc;\n\nb) Không được trả lương đầy đủ hoặc không được trả lương đúng thời hạn theo hợp đồng làm việc;\n\nc) Bị ngược đãi; bị cưỡng bức lao động;\n\nd) Bản thân hoặc gia đình thật sự có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng;\n\nđ) Viên chức nữ có thai phải nghỉ việc theo chỉ định của cơ sở chữa bệnh;\n\ne) Viên chức ốm đau hoặc bị tai nạn đã điều trị từ 03 tháng liên tục mà khả năng làm việc chưa hồi phục.\n\n6. Viên chức phải thông báo bằng văn bản về việc đơn phương chấm dứt hợp đồng làm việc cho thủ trưởng đơn vị biết trước ít nhất 03 ngày đối với các trường hợp quy định tại các điểm a, b, c, đ và e khoản 5 Điều này; ít nhất 30 ngày đối với trường hợp quy định tại điểm d khoản 5 Điều này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Giải quyết tranh chấp về hợp đồng làm việc",
+          "text": "Điều 26. Giải quyết tranh chấp về hợp đồng làm việc\n\nTranh chấp liên quan đến việc ký kết, thực hiện hoặc chấm dứt hợp đồng làm việc được giải quyết theo quy định của pháp luật về lao động.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Thẩm quyền cử viên chức hướng dẫn tập sự và công nhận hết thời gian tập sự",
+          "text": "Điều 27. Thẩm quyền cử viên chức hướng dẫn tập sự và công nhận hết thời gian tập sự\n\n1. Giám đốc ĐHĐN\n\na) Giám đốc ĐHĐN ban hành quyết định cử viên chức hướng dẫn tập sự đối với viên chức làm việc tại các đơn vị thuộc và trực thuộc ĐHĐN.\n\nb) Quyết định công nhận hết thời gian tập sự cho viên chức làm việc tại các đơn vị thuộc và trực thuộc.\n\n18\n\n2. Hiệu trưởng các trường đại học thành viên\n\na) Quyết định cử viên chức hướng dẫn tập sự đối với viên chức làm việc tại đơn vị mình.\n\nb) Quyết định công nhận hết thời gian tập sự đối với viên chức làm việc tại đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 28",
+          "heading": "Chế độ tập sự",
+          "text": "Điều 28. Chế độ tập sự\n\n1. Người trúng tuyển viên chức phải thực hiện chế độ tập sự để làm quen với môi trường công tác, tập làm những công việc của vị trí việc làm được tuyển dụng, trừ trường hợp quy định tại Điều 30 Quy định này.\n\n2. Thời gian tập sự được quy định như sau:\n\na) 12 tháng đối với trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học trở lên. Riêng đối với chức danh nghề nghiệp bác sĩ là 09 tháng;\n\nb) 09 tháng đối với trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo cao đẳng;\n\nc) 06 tháng đối với trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo trung cấp.\n\nd) Thời gian nghỉ sinh con theo chế độ bảo hiểm xã hội, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương, thời gian bị tạm giam, tạm giữ, tạm đình chỉ công tác theo quy định của pháp luật không được tính vào thời gian tập sự.\n\nTrường hợp người tập sự nghỉ ốm đau hoặc có lý do chính đáng dưới 14 ngày mà được thủ trưởng đơn vị đồng ý thì thời gian này được tính vào thời gian tập sự.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 29",
+          "heading": "Trách nhiệm của đơn vị tuyển dụng viên chức đối với người tập sự",
+          "text": "Điều 29. Trách nhiệm của đơn vị tuyển dụng viên chức đối với người tập sự\n\n1. Chậm nhất sau 05 ngày làm việc, kể từ ngày người được tuyển dụng đến nhận việc, trên cơ sở đề nghị của thủ trưởng đơn vị trực tiếp sử dụng viên chức thủ trưởng đơn vị có trách nhiệm ban hành quyết định cử một viên chức có chức danh nghề nghiệp bằng hoặc cao hơn, có năng lực, kinh nghiệm về chuyên môn, nghiệp vụ để hướng dẫn tập sự.\n\n2. Trường hợp đơn vị không có người đủ điều kiện để cử hướng dẫn người tập sự theo quy định tại khoản 1 Điều này thì thủ trưởng đơn vị báo cáo thủ trưởng đơn vị cấp trên xem xét, quyết định.\n\n3. Thủ trưởng đơn vị trực tiếp sử dụng viên chức có trách nhiệm phổ biến trình tự thực hiện tập sự, hướng dẫn cho người tập sự nắm vững chức năng, nhiệm vụ, nội quy, quy chế của đơn vị, chức trách, nhiệm vụ của chức danh nghề nghiệp của người tập sự.\n\n19\n\n4. Trong thời gian thực hiện chế độ tập sự, thủ trưởng đơn vị phải cử viên chức tham gia khóa đào tạo, bồi dưỡng để hoàn chỉnh tiêu chuẩn, điều kiện của chức danh nghề nghiệp trước khi bổ nhiệm. Thời gian tham gia khóa đào tạo, bồi dưỡng được tính vào thời gian thực hiện chế độ tập sự.\n\n5. Không bố trí, phân công công tác đối với người được tuyển dụng đang trong thời gian thực hiện chế độ tập sự sang vị trí việc làm khác vị trí được tuyển dụng ở trong cùng đơn vị sự nghiệp công lập hoặc sang đơn vị sự nghiệp công lập khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 30",
+          "heading": "Trường hợp được miễn chế độ tập sự",
+          "text": "Điều 30. Trường hợp được miễn chế độ tập sự\n\nKhông thực hiện chế độ tập sự đối với các trường hợp đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật Bảo hiểm xã hội, được bố trí làm việc theo đúng ngành, nghề đào tạo hoặc theo đúng chuyên môn nghiệp vụ trước đây đã đảm nhiệm mà thời gian công tác có đóng bảo hiểm xã hội (nếu đứt quãng thì được cộng dồn) bằng hoặc lớn hơn thời gian tập sự tương ứng với thời gian tập sự của chức danh nghề nghiệp được tuyển dụng quy định tại khoản 2 Điều 28 Quy định này. Quá trình công tác nêu trên được tính để làm căn cứ xếp lương theo chức danh nghề nghiệp phù hợp với vị trí việc làm được tuyển dụng.\n\nĐối với các trường hợp không thực hiện chế độ tập sự, người đứng đầu đơn vị sự nghiệp công lập phải cử viên chức tham gia khóa bồi dưỡng để hoàn chỉnh tiêu chuẩn, điều kiện của chức danh nghề nghiệp viên chức trước khi bổ nhiệm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 31",
+          "heading": "Nội dung tập sự",
+          "text": "Điều 31. Nội dung tập sự\n\n1. Trong thời gian tập sự, người được tuyển dụng phải hoàn thành những công việc sau đây:\n\na) Nắm vững quy định của pháp luật viên chức về quyền, nghĩa vụ của viên chức, những việc viên chức không được làm; nắm vững cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của đơn vị sự nghiệp công lập nơi công tác; nội quy, quy chế làm việc của đơn vị; chức trách, nhiệm vụ và yêu cầu của vị trí việc làm được tuyển dụng;\n\nb) Trau dồi kiến thức và rèn luyện năng lực, kỹ năng chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm được tuyển dụng;\n\nc) Tập giải quyết, thực hiện các công việc của vị trí việc làm được tuyển dụng.\n\n2. Người được tuyển dụng vào làm giảng viên, ngoài thực hiện các công việc quy định tại khoản 1 Điều này còn thực hiện một số công việc sau:\n\na) Nắm vững quy định về quyền, nghĩa vụ của giảng viên, các hành vi giảng viên không được làm; tìm hiểu, nắm vững nội quy, quy định, quy chế của nơi công tác về đào tạo, nghiên cứu khoa học, đảm bảo chất lượng giáo dục;\n\n20\n\nb) Củng cố, bổ sung kiến thức và kỹ năng về chuyên môn được phân công giảng dạy; chuẩn bị bài giảng; phương pháp giảng dạy và đánh giá kết quả học tập; quản lý lớp học;\n\nc) Tham gia dự giờ, sinh hoạt chuyên môn học thuật của bộ môn, thực tập giảng dạy và thực hiện các công việc của vị trí việc làm được tuyển dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 32",
+          "heading": "Chế độ chính sách đối với người tập sự và người hướng dẫn tập sự",
+          "text": "Điều 32. Chế độ chính sách đối với người tập sự và người hướng dẫn tập sự\n\n1. Trong thời gian tập sự, người tập sự được hưởng 85% mức lương bậc 1 của chức danh nghề nghiệp tuyển dụng. Trường hợp người tập sự có trình độ thạc sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng thì người tập sự được hưởng 85% mức lương bậc 2 chức danh nghề nghiệp tuyển dụng; trường hợp người tập sự có trình độ tiến sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng thì người tập sự được hưởng 85% mức lương bậc 3 của chức danh nghề nghiệp tuyển dụng. Các khoản phụ cấp được hưởng theo quy định của pháp luật.\n\n2. Người tập sự được hưởng 100% mức lương và phụ cấp của chức danh nghề nghiệp tương ứng với trình độ đào tạo quy định tại khoản 1 Điều này trong các trường hợp sau:\n\na) Làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;\n\nb) Làm việc trong các ngành, nghề độc hại, nguy hiểm;\n\nc) Hoàn thành nghĩa vụ quân sự; nghĩa vụ tham gia công an nhân dân; sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu chuyên ngành, học viên tốt nghiệp đào tạo sĩ quan dự bị, tốt nghiệp đào tạo chỉ huy trưởng Ban chỉ huy quân sự cấp xã ngành quân sự cơ sở và được phong quân hàm sĩ quan dự bị đã đăng ký ngạch sĩ quan dự bị, đội viên thanh niên xung phong, đội viên trí thức trẻ tình nguyện tham gia phát triển nông thôn, miền núi từ đủ 24 tháng trở lên đã hoàn thành nhiệm vụ.\n\n3. Thời gian tập sự không được tính vào thời gian xét nâng bậc lương.\n\n4. Người hướng dẫn tập sự được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 mức lương cơ sở trong thời gian hướng dẫn tập sự.\n\n5. Trong thời gian tập sự, người hướng dẫn tập sự và người tập sự còn được hưởng các chế độ tiền thưởng và phúc lợi khác (nếu có) theo quy định của Nhà nước và quy chế của ĐHĐN và của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 33",
+          "heading": "Trình tự, thủ tục và hồ sơ xét hết thời gian tập sự",
+          "text": "Điều 33. Trình tự, thủ tục và hồ sơ xét hết thời gian tập sự\n\n1. Trình tự thực hiện tập sự của giảng viên (hạng III) - Mã số: V.07.01.03\n\na) Sau khi ký hợp đồng làm việc, người hướng dẫn tập sự có trách nhiệm hướng dẫn người tập sự lập kế hoạch tập sự bằng văn bản để báo cáo Trưởng Bộ môn, Trưởng khoa.\n\n21\n\nNội dung bản kế hoạch tập sự phải đảm bảo các nội dung theo hướng dẫn tại Điều 31 Quy định này và phải nêu rõ được các công việc cần phải học tập, nghiên cứu và thực hiện; ấn định được các mốc thời gian chính để hoàn thành các công việc phải làm.\n\nb) Hoàn thành các chứng chỉ theo yêu cầu của chức danh nghề nghiệp giảng viên.\n\nc) Hoàn thành công tác tập sự chuyên môn, cụ thể đối với ngạch giảng viên như sau:\n\n- Soạn tập bài giảng (giáo án) của môn học được phân công;\n- Đọc các tài liệu tham khảo có liên quan đến môn học;\n- Dự giờ trên lớp của các giảng viên giảng dạy môn học được phân công;\n- Giảng thử trước bộ môn;\n- Giảng thử trước khoa hoặc hội đồng khoa;\n- Giảng trước lớp có sinh viên, có giảng viên hướng dẫn và giảng viên cùng bộ môn dự giờ.\n\nd) Thời gian giữa các lần giảng thử phải đủ để người tập sự có điều kiện hoàn thiện, học tập thêm và sửa chữa những thiếu sót đã mắc phải hoặc những kỹ năng chưa được hoàn thiện trong các lần giảng thử trước đó.\n\nđ) Khi hết thời gian tập sự, người tập sự phải báo cáo kết quả tập sự bằng văn bản theo các nội dung quy định tại Điều 31 Quy định này, người hướng dẫn tập sự có trách nhiệm nhận xét, đánh giá kết quả tập sự đối với người tập sự bằng văn bản.\n\nBộ môn họp và nếu xét thấy đạt yêu cầu thì hướng dẫn người tập sự hoàn chỉnh hồ sơ xét hết thời gian tập sự gửi khoa (nếu bộ môn không trực thuộc Khoa thì gửi Hội đồng khoa học của đơn vị).\n\ne) Hội đồng khoa (hoặc hội đồng khoa học của đơn vị) căn cứ đề nghị của người tập sự và bộ môn, hồ sơ xin xét hết thời gian tập sự, tiến hành họp xét và nếu thấy đạt yêu cầu thì làm văn bản đề nghị thủ trưởng đơn vị ban hành quyết định công nhận hết tập sự cho giảng viên tập sự.\n\n2. Hồ sơ đề nghị xét hết thời gian tập sự của giảng viên – hạng III (Mã số: V.07.01.03) bao gồm:\n\na) Bản sao các chứng chỉ theo yêu cầu của chức danh nghề nghiệp được cơ quan có thẩm quyền chứng thực;\n\nb) Bản kế hoạch tập sự;\n\n22\n\nc) Bản báo cáo của người tập sự;\n\nd) Quyết định của thủ trưởng đơn vị cử cán bộ hướng dẫn tập sự;\n\nđ) Bản nhận xét của người được phân công hướng dẫn tập sự;\n\ne) Biên bản giảng thử trước bộ môn, trước hội đồng khoa và trước lớp có sinh viên;\n\ng) Biên bản họp xét hết thời gian tập sự của bộ môn và của hội đồng khoa.\n\nh) Công văn của đơn vị trực tiếp sử dụng viên chức đề nghị người có thẩm quyền công nhận hết tập sự tại Điều 27 Quy định này công nhận hết tập sự.\n\n3. Đối với chức danh nghề nghiệp trợ giảng (hạng III) - Mã số: V.07.01.23\n\nCác bước thực hiện tập sự và hồ sơ xét hết thời gian tập sự thực hiện như khoản 1 và khoản 2 Điều này trừ các nội dung về giảng thử.\n\n4. Trình tự thực hiện tập sự của viên chức không phải là viên chức giảng dạy\n\na) Viên chức không phải là giảng viên sau khi trúng tuyển và ký hợp đồng làm việc phải làm kế hoạch tập sự bằng văn bản báo cáo thủ trưởng đơn vị trực tiếp sử dụng viên chức.\n\nNội dung bản kế hoạch tập sự phải đảm bảo các nội dung theo Điều 31 Quy định này và phải nêu rõ được các công việc cần phải học tập, nghiên cứu và thực hiện; ấn định được các mốc thời gian chính để hoàn thành các công việc phải làm.\n\nb) Định kỳ 3 tháng 1 lần, người tập sự phải làm báo cáo về kết quả công việc mà mình đã làm, có ý kiến của viên chức được phân công hướng dẫn tập sự, trình thủ trưởng đơn vị sử dụng trực tiếp viên chức. Đơn vị trực tiếp sử dụng viên chức tổ chức họp toàn thể đơn vị để nghe báo cáo và góp ý kiến nhận xét, đánh giá về việc hoàn thành kế hoạch tập sự của người tập sự trong thời gian vừa qua.\n\nc) Khi hết thời gian tập sự, người tập sự phải báo cáo kết quả tập sự bằng văn bản theo các nội dung quy định tại Điều 31 Quy định này, người hướng dẫn tập sự có trách nhiệm nhận xét, đánh giá kết quả tập sự đối với người tập sự bằng văn bản. Đơn vị trực tiếp sử dụng viên chức tổ chức họp để đánh giá, xem xét và nếu đạt yêu cầu đề nghị thủ trưởng đơn vị ra quyết định công nhận hết tập sự.\n\n5. Hồ sơ xét hết thời gian tập sự của viên chức tập sự không phải là giảng viên bao gồm:\n\na) Bản sao các chứng chỉ theo yêu cầu của chức danh nghề nghiệp viên chức được cơ quan có thẩm quyền chứng thực;\n\nb) Bản kế hoạch tập sự;\n\n23\n\nc) Bản báo cáo của người tập sự;\n\nd) Quyết định của Thủ trưởng đơn vị cử cán bộ hướng dẫn tập sự;\n\nđ) Bản nhận xét của người được phân công hướng dẫn tập sự;\n\ne) Các báo cáo về kết quả công việc định kỳ 3 tháng 1 lần của viên chức tập sự có ý kiến của viên chức hướng dẫn tập sự.\n\nf) Công văn của đơn vị trực tiếp sử dụng viên chức đề nghị người có thẩm quyền công nhận hết thời gian tập sự tại Điều 27 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 34",
+          "heading": "Chấm dứt hợp đồng làm việc đối với người tập sự",
+          "text": "Điều 34. Chấm dứt hợp đồng làm việc đối với người tập sự\n\n1. Người tập sự bị chấm dứt hợp đồng làm việc và hủy bỏ quyết định tuyển dụng khi không đạt yêu cầu sau thời gian tập sự hoặc có hành vi vi phạm đến mức phải xử lý kỷ luật theo quy định của pháp luật.\n\n2. Thủ trưởng đơn vị chấm dứt hợp đồng làm việc và hủy bỏ quyết định tuyển dụng đối với các trường hợp quy định tại khoản 1 Điều này.\n\n3. Người tập sự bị chấm dứt hợp đồng làm việc được đơn vị sự nghiệp công lập trợ cấp 01 tháng lương, phụ cấp hiện hưởng và tiền tàu xe về nơi cư trú.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 35",
+          "heading": "Thẩm quyền bổ nhiệm chức danh nghề nghiệp viên chức",
+          "text": "Điều 35. Thẩm quyền bổ nhiệm chức danh nghề nghiệp viên chức\n\nGiám đốc Đại học Đà Nẵng quyết định bổ nhiệm chức danh nghề nghiệp và xếp lương cho viên chức sau khi hết thời gian tập sự trong toàn ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 36",
+          "heading": "Điều kiện bổ nhiệm chức danh nghề nghiệp viên chức",
+          "text": "Điều 36. Điều kiện bổ nhiệm chức danh nghề nghiệp viên chức\n\nNgười trúng tuyển viên chức được xem xét bổ nhiệm vào chức danh nghề nghiệp khi có một trong các điều kiện sau:\n\n1. Đã hoàn thành chế độ tập sự và được đánh giá đạt yêu cầu tập sự theo quy định;\n\n2. Được miễn chế độ tập sự theo quy định tại Điều 30 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 37",
+          "heading": "Hồ sơ đề nghị bổ nhiệm chức danh nghề nghiệp",
+          "text": "Điều 37. Hồ sơ đề nghị bổ nhiệm chức danh nghề nghiệp\n\n1. Các trường đại học thành viên\n\nSau khi viên chức được Hiệu trưởng ban hành Quyết định công nhận hết thời gian tập sự, đơn vị có trách nhiệm lập hồ sơ đề nghị Giám đốc ĐHĐN bổ nhiệm chức danh nghề nghiệp và xếp lương cho viên chức. Hồ sơ đề nghị bổ nhiệm chức danh nghề nghiệp gồm có:\n\na) Văn bản đề nghị bổ nhiệm chức danh nghề nghiệp viên chức;\n\n24\n\nb) Quyết định tuyển dụng viên chức;\nc) Thông báo về việc ký hợp đồng làm việc xác định thời hạn (Hợp đồng làm việc khi viên chức trúng tuyển);\nd) Quyết định công nhận hết thời gian tập sự cho viên chức;\nđ) Các văn bằng, chứng chỉ (bản sao có chứng thực) theo yêu cầu của chức danh nghề nghiệp tuyển dụng;\ne) Quá trình trích đóng bảo hiểm xã hội (nếu trước khi tuyển dụng viên chức có thời gian công tác có trích đóng bảo hiểm xã hội).\n\n2. Đối với các đơn vị thuộc và trực thuộc ĐHĐN\nHồ sơ bổ nhiệm chức danh nghề nghiệp thực hiện theo khoản 1 Điều này gửi kèm với hồ sơ đề nghị xét hết tập sự theo quy định tại Điều 33 Quy định này để Giám đốc ĐHĐN ban hành Quyết định công nhận hết thời gian tập sự, Quyết định bổ nhiệm chức danh nghề nghiệp và xếp lương cho viên chức.\n\n3. Chậm nhất 05 ngày làm việc, kể từ ngày nhận hồ sơ đề nghị bổ nhiệm chức danh nghề nghiệp, trường hợp hồ sơ đạt yêu cầu theo quy định tại khoản 1 và khoản 2 Điều này, Giám đốc Đại học Đà Nẵng quyết định bổ nhiệm chức danh nghề nghiệp và xếp lương cho viên chức được tuyển dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 38",
+          "heading": "Bố trí, phân công công tác",
+          "text": "Điều 38. Bố trí, phân công công tác\n\n1. Thủ trưởng đơn vị trực tiếp sử dụng viên chức chịu trách nhiệm bố trí, phân công công tác; giao nhiệm vụ, kiểm tra việc thực hiện nhiệm vụ của viên chức; bảo đảm các điều kiện cần thiết để viên chức thực hiện nhiệm vụ và các chế độ, chính sách đối với viên chức.\n\n2. Việc bố trí, phân công công tác, giao nhiệm vụ cho viên chức phải bảo đảm phù hợp giữa nhiệm vụ được giao với chức danh nghề nghiệp viên chức, chức vụ quản lý được bổ nhiệm và yêu cầu của vị trí việc làm.\n\n3. Viên chức chịu trách nhiệm về kết quả và chất lượng thực hiện nhiệm vụ của mình; viên chức quản lý phải chịu trách nhiệm về việc thi hành nhiệm vụ của viên chức thuộc quyền quản lý theo quy định của pháp luật.\n\n25",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 39",
+          "heading": "Chuyển viên chức trong ĐHĐN",
+          "text": "Điều 39. Chuyển viên chức trong ĐHĐN\n\n1. Giám đốc ĐHĐN quyết định chuyển viên chức trong ĐHĐN theo yêu cầu nhiệm vụ chung của ĐHĐN hoặc theo đề nghị của các trường đại học thành viên, đơn vị thuộc và trực thuộc ĐHĐN.\n\n2. Điều kiện chuyển viên chức trong ĐHĐN\na) Do yêu cầu sắp xếp, kiện toàn tổ chức bộ máy.\nb) Xét nguyện vọng cá nhân của viên chức.\n\n3. Trường hợp chuyển viên chức theo yêu cầu công tác của ĐHĐN\na) Căn cứ yêu cầu công tác ĐHĐN, Ban Tổ chức Cán bộ đề xuất viên chức dự kiến chuyển sang đơn vị khác, báo cáo Giám đốc ĐHĐN xin chủ trương.\nb) Căn cứ vào chủ trương và sự chỉ đạo của Giám đốc ĐHĐN, Ban Tổ chức Cán bộ tiến hành trao đổi ý kiến với lãnh đạo đơn vị nơi viên chức đang công tác và lãnh đạo đơn vị nơi viên chức sẽ chuyển đến; tổ chức việc gặp, trao đổi ý kiến với viên chức.\nc) Ban Tổ chức Cán bộ báo cáo Giám đốc ĐHĐN xem xét và quyết định việc chuyển viên chức sang đơn vị khác.\n\n4. Trường hợp viên chức có đơn xin chuyển sang đơn vị khác\na) Cá nhân phải có đơn xin chuyển sang đơn vị khác, được thủ trưởng đơn vị sử dụng viên chức đồng ý, thủ trưởng đơn vị dự kiến chuyển đến đồng ý, gửi Ban Tổ chức Cán bộ.\nb) Ban Tổ chức Cán bộ xin ý kiến Giám đốc ĐHĐN.\n\n5. Trường hợp chuyển viên chức là lãnh đạo, quản lý từ cấp Phó Trưởng ban và tương đương trở lên: xin ý kiến của Ban Thường vụ hoặc Đảng ủy ĐHĐN theo phân cấp quản lý.\n\n6. Quy trình chuyển viên chức trong nội bộ các trường đại học thành viên do Hiệu trưởng quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 40",
+          "heading": "Biệt phái viên chức trong ĐHĐN",
+          "text": "Điều 40. Biệt phái viên chức trong ĐHĐN\n\n1. Việc biệt phái viên chức được thực hiện trong các trường hợp sau đây:\na) Theo nhiệm vụ đột xuất, cấp bách;\nb) Để thực hiện công việc cần giải quyết trong một thời gian nhất định.\n\n2. Thời hạn biệt phái viên chức không quá 03 năm.\n\n3. Viên chức được cử biệt phái chịu sự phân công, bố trí, đánh giá, kiểm tra việc thực hiện nhiệm vụ của cơ quan, tổ chức, đơn vị nơi được cử đến biệt phái.\n\n4. Thủ trưởng đơn vị quyết định việc biệt phái viên chức thuộc thẩm quyền quản lý hoặc trình cấp có thẩm quyền quyết định theo quy định của pháp luật.\n\nTrước khi quyết định biệt phái viên chức, người đứng đầu cơ quan, đơn vị\n\n26\n\nđược phân công, phân cấp quản lý viên chức cần gặp gỡ viên chức nêu rõ mục đích, sự cần thiết của việc biệt phái để nghe viên chức đề xuất ý kiến trước khi quyết định theo thẩm quyền hoặc báo cáo cấp có thẩm quyền xem xét, quyết định.\n\n5. Viên chức biệt phái được hưởng quyền lợi quy định tại khoản 4, khoản 5 và khoản 6 Điều 36 Luật Viên chức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 41",
+          "heading": "Thẩm quyền xét chuyển chức danh nghề nghiệp viên chức",
+          "text": "Điều 41. Thẩm quyền xét chuyển chức danh nghề nghiệp viên chức\n\n1. Giám đốc ĐHĐN\nQuyết định bổ nhiệm vào chức danh nghề nghiệp mới đối với viên chức đáp ứng đủ tiêu chuẩn của chức danh nghề nghiệp tương ứng với vị trí việc làm mới.\n\n2. Hiệu trưởng các trường đại học thành viên\nTổ chức xét chuyển và đề nghị Giám đốc ĐHĐN bổ nhiệm vào chức danh nghề nghiệp mới đối với viên chức đáp ứng đủ tiêu chuẩn của chức danh nghề nghiệp tương ứng với vị trí việc làm mới.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 42",
+          "heading": "Điều kiện để xét chuyển chức danh nghề nghiệp viên chức",
+          "text": "Điều 42. Điều kiện để xét chuyển chức danh nghề nghiệp viên chức\n\n1. Việc xét chuyển chức danh nghề nghiệp viên chức phải đảm bảo theo đúng danh mục, điều kiện tiêu chuẩn của từng vị trí việc làm đã được phê duyệt.\n\n2. Việc xét chuyển chức danh nghề nghiệp được thực hiện khi viên chức thay đổi vị trí việc làm mà chức danh nghề nghiệp đang giữ không phù hợp với yêu cầu của vị trí việc làm mới.\n\n3. Viên chức được xét chuyển chức danh nghề nghiệp phải đáp ứng đủ tiêu chuẩn chức danh nghề nghiệp được chuyển. Các trường đại học thành viên căn cứ vào danh mục vị trí việc làm, điều kiện tiêu chuẩn của từng vị trí việc làm đã ban hành, mục tiêu, chiến lược phát triển của đơn vị, đặc thù môn học, ngành học và điều kiện cụ thể của đơn vị để quyết định tiêu chuẩn chức danh nghề nghiệp tương ứng với vị trí việc làm trước khi tổ chức xét tuyển, tuy nhiên không được thấp hơn tiêu chuẩn theo quy định hiện hành của Nhà nước.\n\n4. Không xem xét chuyển chức danh nghề nghiệp khác sang giảng viên, trừ các trường hợp: trợ giảng; kỹ sư, kỹ thuật y đang làm nhiệm vụ hướng dẫn thực hành, thí nghiệm; giáo viên trung học. Trường hợp đặc biệt, thủ trưởng đơn vị căn cứ tình hình thực tế đề xuất Giám đốc ĐHĐN xem xét quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 43",
+          "heading": "Trình tự việc xét chuyển chức danh nghề nghiệp viên chức",
+          "text": "Điều 43. Trình tự việc xét chuyển chức danh nghề nghiệp viên chức\n\n1. Xét chuyển chức danh nghề nghiệp viên chức\na) Đối với các trường đại học thành viên: Hiệu trưởng thành lập Hội đồng xem xét các văn bằng, chứng chỉ đào tạo, bồi dưỡng của viên chức; kiểm tra, sát\n\n27\n\nhạch về hiểu biết, về chuyên môn, nghiệp vụ và các yêu cầu khác theo tiêu chuẩn chức danh nghề nghiệp tương ứng với vị trí việc làm mới bằng hình thức phỏng vấn hoặc thực hành.\n\nb) Đối với các đơn vị thuộc và trực thuộc ĐHĐN: Giám đốc ĐHĐN thành lập Hội đồng xem xét các văn bằng, chứng chỉ đào tạo, bồi dưỡng của viên chức; kiểm tra, sát hạch về hiểu biết, về chuyên môn, nghiệp vụ và các yêu cầu khác theo tiêu chuẩn chức danh nghề nghiệp tương ứng với vị trí việc làm mới bằng hình thức phỏng vấn hoặc thực hành.\n\n2. Bổ nhiệm vào chức danh nghề nghiệp mới\nNếu viên chức đáp ứng đủ tiêu chuẩn của chức danh nghề nghiệp tương ứng với vị trí việc làm mới thì thực hiện như sau:\n\na) Đối với các trường đại học thành viên: Hiệu trưởng có văn bản đề nghị; Giám đốc ĐHĐN căn cứ hồ sơ đề nghị xem xét ban hành quyết định bổ nhiệm vào chức danh nghề nghiệp mới.\n\nHồ sơ kèm theo văn bản đề nghị gồm có:\n- Các văn bằng, chứng chỉ theo yêu cầu của chức danh nghề nghiệp mới;\n- Biên bản họp hội đồng về việc xem xét các văn bằng, chứng chỉ đào tạo, bồi dưỡng của viên chức; kiểm tra, sát hạch về hiểu biết, về chuyên môn, nghiệp vụ và các yêu cầu khác theo tiêu chuẩn chức danh nghề nghiệp tương ứng với vị trí việc làm mới;\n- Quyết định lương gần nhất.\n\nb) Đối với các đơn vị thuộc và trực thuộc ĐHĐN: Giám đốc ĐHĐN ban hành quyết định bổ nhiệm vào chức danh nghề nghiệp mới.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 44",
+          "heading": "Thẩm quyền thi hoặc xét thăng hạng chức danh nghề nghiệp",
+          "text": "Điều 44. Thẩm quyền thi hoặc xét thăng hạng chức danh nghề nghiệp\n\n1. Giám đốc ĐHĐN\na) Trình Bộ Giáo dục và Đào tạo danh sách viên chức đủ điều kiện đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp.\nb) Quyết định bổ nhiệm vào chức danh nghề nghiệp đối với viên chức trúng tuyển kỳ thi hoặc xét thăng hạng chức danh nghề nghiệp giảng viên chính và tương đương.\nc) Đề nghị Bộ Giáo dục và Đào tạo bổ nhiệm chức danh nghề nghiệp đối với viên chức trúng tuyển kỳ thi hoặc xét thăng hạng chức danh nghề nghiệp giảng viên cao cấp và tương đương.\n\n2. Hiệu trưởng các trường đại học thành viên\n\n28\n\nTổ chức thu nhận hồ sơ dự tuyển, sơ tuyển, lập danh sách viên chức có đủ tiêu chuẩn, điều kiện dự thi, kèm theo hồ sơ của viên chức gửi ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 45",
+          "heading": "Căn cứ, tiêu chuẩn, điều kiện đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp",
+          "text": "Điều 45. Căn cứ, tiêu chuẩn, điều kiện đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp\n\n1. Việc thi hoặc xét thăng hạng chức danh nghề nghiệp phải căn cứ vào vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và phù hợp với cơ cấu viên chức theo chức danh nghề nghiệp của đơn vị đã được cấp có thẩm quyền phê duyệt.\n\n2. Viên chức được đăng ký dự thi hoặc xét thăng hạng lên chức danh nghề nghiệp cao hơn liền kề khi có đủ các tiêu chuẩn, điều kiện sau:\n\na) Được xếp loại chất lượng ở mức hoàn thành tốt nhiệm vụ trở lên trong năm công tác liền kề trước năm dự thi hoặc xét thăng hạng chức danh nghề nghiệp; có phẩm chất chính trị, đạo đức nghề nghiệp tốt; không trong thời hạn xử lý kỷ luật, không trong thời gian thực hiện các quy định liên quan đến kỷ luật viên chức quy định tại Điều 56 Luật Viên chức được sửa đổi, bổ sung tại khoản 8 Điều 2 Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, công chức và Luật Viên chức;\n\nb) Có năng lực, trình độ chuyên môn, nghiệp vụ để đảm nhận chức danh nghề nghiệp ở hạng cao hơn liền kề hạng chức danh nghề nghiệp hiện giữ trong cùng lĩnh vực nghề nghiệp;\n\nc) Đáp ứng yêu cầu về văn bằng, chứng chỉ và yêu cầu khác của tiêu chuẩn chức danh nghề nghiệp dự thi hoặc xét thăng hạng;\n\nTrường hợp viên chức được miễn thi môn ngoại ngữ, tin học theo quy định tại khoản 6 và khoản 7 Điều 39 Nghị định số 115/2020/NĐ-CP thì đáp ứng yêu cầu về tiêu chuẩn ngoại ngữ, tin học của chức danh nghề nghiệp dự thi hoặc xét thăng hạng.\n\nd) Đáp ứng yêu cầu về thời gian công tác tối thiểu giữ chức danh nghề nghiệp hạng dưới liền kề theo yêu cầu của tiêu chuẩn chức danh nghề nghiệp dự thi hoặc xét thăng hạng;\n\nTrường hợp viên chức trước khi được tuyển dụng, tiếp nhận đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật Bảo hiểm xã hội, làm việc ở vị trí việc làm có yêu cầu về trình độ chuyên môn, nghiệp vụ phù hợp (nếu có thời gian công tác không liên tục mà chưa nhận trợ cấp bảo hiểm xã hội một lần thì được cộng dồn) và thời gian đó được cơ quan, đơn vị có thẩm quyền tuyển dụng tính làm căn cứ xếp lương ở chức danh nghề nghiệp hiện giữ thì được tính là tương đương với hạng chức danh nghề nghiệp hiện giữ;\n\nTrường hợp có thời gian tương đương thì phải có ít nhất 01 năm (đủ 12 tháng) giữ chức danh nghề nghiệp hạng dưới liền kề so với hạng chức danh nghề nghiệp dự thi hoặc xét tính đến ngày hết thời hạn nộp hồ sơ đăng ký dự thi hoặc xét thăng hạng.\n\n29\n\n3. Đối với giảng viên, đáp ứng theo yêu cầu tại Thông tư số 31/2021/TT-BGDĐT ngày 10/11/2021 của Bộ Giáo dục và Đào tạo quy định tiêu chuẩn, điều kiện thi hoặc xét thăng hạng; nội dung, hình thức và việc xác định người trúng tuyển trong kỳ xét thăng hạng chức danh nghề nghiệp viên chức giảng dạy trong các trường cao đẳng sư phạm và cơ sở giáo dục đại học công lập.\n\n4. Đối với các chức danh nghề nghiệp khác, đáp ứng theo quy định của Bộ Giáo dục và Đào tạo và các Bộ quản lý chuyên ngành có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 46",
+          "heading": "Hồ sơ đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp",
+          "text": "Điều 46. Hồ sơ đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp\n\nHồ sơ đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp bao gồm:\n\n1. Sơ yếu lý lịch viên chức theo quy định hiện hành được lập chậm nhất là 30 ngày trước thời hạn cuối cùng nộp hồ sơ dự thi hoặc xét thăng hạng chức danh nghề nghiệp, có xác nhận của cơ quan, đơn vị sử dụng viên chức;\n\n2. Bản nhận xét, đánh giá của người đứng đầu đơn vị sự nghiệp công lập sử dụng viên chức hoặc của người đứng đầu cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập về các tiêu chuẩn, điều kiện đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp của viên chức theo quy định;\n\n3. Bản sao các văn bằng, chứng chỉ theo yêu cầu của chức danh nghề nghiệp dự thi hoặc xét thăng hạng;\n\nTrường hợp viên chức có bằng tốt nghiệp chuyên môn đạt trình độ ngoại ngữ, tin học theo quy định tương ứng với yêu cầu của chức danh nghề nghiệp dự thi hoặc xét thăng hạng thì được sử dụng thay thế chứng chỉ ngoại ngữ, tin học;\n\nTrường hợp viên chức được miễn thi môn ngoại ngữ, môn tin học quy định tại khoản 6 và khoản 7 Điều 39 Nghị định 115/2020/NĐ-CP thì được miễn chứng chỉ ngoại ngữ, chứng chỉ tin học;\n\n4. Các yêu cầu khác theo quy định của tiêu chuẩn chức danh nghề nghiệp dự thi hoặc xét thăng hạng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 47",
+          "heading": "Xét thăng hạng đặc cách chức danh nghề nghiệp",
+          "text": "Điều 47. Xét thăng hạng đặc cách chức danh nghề nghiệp\n\nViệc xét thăng hạng đặc cách chức danh nghề nghiệp thực hiện theo quy định tại Điều 41, Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ về tuyển dụng, sử dụng và quản lý viên chức và theo hướng dẫn của Bộ Giáo dục và Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 48",
+          "heading": "Thẩm quyền giải quyết chuyển công tác, nghỉ không hưởng lương, thôi việc",
+          "text": "Điều 48. Thẩm quyền giải quyết chuyển công tác, nghỉ không hưởng lương, thôi việc\n\n30\n\n1. Giám đốc ĐHĐN quyết định chuyển công tác, nghỉ không hưởng lương, thôi việc đối với viên chức làm việc tại các đơn vị thuộc và trực thuộc ĐHĐN, giảng viên cao cấp và tương đương trong toàn ĐHĐN.\n\n2. Hiệu trưởng các trường đại học thành viên quyết định chuyển công tác, nghỉ không hưởng lương, thôi việc đối với viên chức làm việc tại trường, trừ giảng viên cao cấp và tương đương theo khoản 1 Điều này. Đối với viên chức có trình độ tiến sĩ, tiến sĩ khoa học, Hiệu trưởng có tờ trình xin ý kiến Giám đốc ĐHĐN trước khi quyết định; báo cáo Giám đốc ĐHĐN về kết quả thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 49",
+          "heading": "Nghỉ không hưởng lương",
+          "text": "Điều 49. Nghỉ không hưởng lương\n\n1. Viên chức được nghỉ không hưởng lương trong trường hợp có lý do chính đáng và được sự đồng ý của thủ trưởng đơn vị theo thẩm quyền.\n\n2. Thời hạn nghỉ không hưởng lương liên tục tối đa là 12 tháng. Đối với các trường hợp đặc biệt xin nghỉ không hưởng lương liên tục quá 12 tháng, thủ trưởng đơn vị có thẩm quyền xem xét, quyết định trên cơ sở đề xuất của thủ trưởng đơn vị quản lý trực tiếp và các đơn vị chức năng liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 50",
+          "heading": "Các trường hợp viên chức được giải quyết thôi việc",
+          "text": "Điều 50. Các trường hợp viên chức được giải quyết thôi việc\n\n1. Viên chức đơn phương chấm dứt hợp đồng làm việc theo quy định tại khoản 4, khoản 5 và khoản 6 Điều 29 Luật Viên chức.\n\n2. Đơn vị sự nghiệp công lập đơn phương chấm dứt hợp đồng làm việc với viên chức khi có một trong các trường hợp quy định tại các điểm c, d và đ khoản 1 Điều 29 Luật Viên chức và khoản 4 Điều 2 Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, công chức và Luật Viên chức.\n\n3. Đơn vị sự nghiệp công lập không ký tiếp hợp đồng làm việc với viên chức khi kết thúc hợp đồng làm việc xác định thời hạn.\n\n4. Đối với trường hợp viên chức được cử đi đào tạo, bồi dưỡng (không bằng nguồn ngân sách nhà nước hoặc kinh phí của cơ quan quản lý, sử dụng viên chức) nhưng chưa hoàn thành nghĩa vụ đã cam kết trước khi được cử đi đào tạo, bồi dưỡng với cơ quan có thẩm quyền có nguyện vọng chấm dứt hợp đồng làm việc và có đơn tự nguyện hoàn trả các khoản kinh phí được chi trả trong thời gian được cử đi đào tạo (bao gồm tiền lương, phụ cấp,...), thủ trưởng đơn vị có thẩm quyền xem xét giải quyết thôi việc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 51",
+          "heading": "Các trường hợp viên chức chưa được giải quyết thôi việc",
+          "text": "Điều 51. Các trường hợp viên chức chưa được giải quyết thôi việc\n\nViên chức chưa được giải quyết thôi việc nếu thuộc một trong các trường hợp sau:\n\n1. Đang trong thời hạn xử lý kỷ luật, đang bị điều tra, truy tố, xét xử.\n\n2. Chưa làm việc đủ thời gian cam kết với đơn vị sự nghiệp công lập khi được cử đi đào tạo.\n\n3. Chưa hoàn thành việc thanh toán các khoản tiền, tài sản thuộc trách nhiệm của viên chức đối với đơn vị sự nghiệp công lập.\n\n31\n\n4. Do yêu cầu công tác và chưa bố trí được người thay thế.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 52",
+          "heading": "Thủ tục giải quyết thôi việc",
+          "text": "Điều 52. Thủ tục giải quyết thôi việc\n\n1. Trường hợp viên chức đơn phương chấm dứt hợp đồng làm việc thì phải thông báo bằng văn bản gửi cho thủ trưởng đơn vị biết theo quy định tại khoản 6 Điều 29 Luật Viên chức.\n\nTrong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của viên chức, nếu đồng ý cho viên chức thôi việc thì thủ trưởng đơn vị chấm dứt hợp đồng làm việc và giải quyết chế độ thôi việc cho viên chức theo quy định. Trường hợp không đồng ý cho viên chức thôi việc thì phải trả lời viên chức bằng văn bản và nêu rõ lý do theo quy định.\n\n2. Trường hợp đơn vị sự nghiệp công lập đơn phương chấm dứt hợp đồng làm việc hoặc không ký tiếp hợp đồng làm việc với viên chức thì đồng thời phải giải quyết chế độ thôi việc cho viên chức theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 53",
+          "heading": "Các trường hợp không thực hiện chế độ thôi việc",
+          "text": "Điều 53. Các trường hợp không thực hiện chế độ thôi việc\n\n1. Viên chức được cơ quan, đơn vị có thẩm quyền đồng ý chuyển đến làm việc tại cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị.\n\n2. Viên chức đã có thông báo nghỉ hưu hoặc thuộc đối tượng tinh giản biên chế theo quy định của pháp luật.\n\n3. Viên chức thuộc trường hợp không được hưởng trợ cấp thôi việc theo quy định tại khoản 2 Điều 29 Luật Viên chức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 54",
+          "heading": "Trợ cấp thôi việc",
+          "text": "Điều 54. Trợ cấp thôi việc\n\n1. Đối với thời gian công tác của viên chức từ ngày 31 tháng 12 năm 2008 trở về trước được tính như sau:\n\na) Cứ mỗi năm làm việc được tính bằng 1/2 tháng lương hiện hưởng, gồm: Mức lương theo chức danh nghề nghiệp, phụ cấp chức vụ quản lý, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề và hệ số chênh lệch bảo lưu lương (nếu có);\n\nb) Mức trợ cấp thấp nhất bằng 01 tháng lương hiện hưởng;\n\nc) Trường hợp viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2003, thời gian làm việc được tính trợ cấp thôi việc là tổng thời gian làm việc (cộng dồn) kể từ khi viên chức có quyết định tuyển dụng đến hết ngày 31 tháng 12 năm 2008;\n\nd) Trường hợp viên chức được tuyển dụng từ ngày 01 tháng 7 năm 2003 trở về sau, thời gian làm việc được tính trợ cấp thôi việc là tổng thời gian làm việc theo hợp đồng làm việc (cộng dồn) kể từ khi viên chức có quyết định tuyển dụng đến hết ngày 31 tháng 12 năm 2008.\n\n2. Đối với thời gian công tác của viên chức từ ngày 01 tháng 01 năm 2009 đến nay được thực hiện theo quy định của pháp luật về trợ cấp thất nghiệp.\n\n32\n\n3. Kinh phí chi trả trợ cấp thôi việc\n\na) Đối với đơn vị sự nghiệp công lập tự bảo đảm về chi thường xuyên, chi đầu tư và đơn vị sự nghiệp công lập tự bảo đảm về chi thường xuyên: Nguồn kinh phí chi trả trợ cấp thôi việc được lấy từ nguồn tài chính của đơn vị, kể cả thời gian trước đó viên chức đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị.\n\nb) Đối với đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên: Nguồn kinh phí chi trả được lấy từ nguồn tài chính của đơn vị sự nghiệp công lập, kể cả thời gian trước đó viên chức đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị. Trường hợp nguồn tài chính của đơn vị sự nghiệp công lập không đáp ứng đủ phần kinh phí chi trả cho thời gian viên chức trước đó đã làm việc tại các cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị thì ngân sách nhà nước hỗ trợ.\n\n4. Viên chức thôi việc được hưởng trợ cấp thôi việc quy định tại khoản 1 và khoản 2 Điều này và được xác nhận thời gian có đóng bảo hiểm xã hội theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 55",
+          "heading": "Nội dung quản lý viên chức",
+          "text": "Điều 55. Nội dung quản lý viên chức\n\n1. Xây dựng kế hoạch, quy hoạch viên chức.\n\n2. Quy định tiêu chuẩn chức danh nghề nghiệp viên chức, xác định vị trí việc làm, cơ cấu viên chức theo chức danh nghề nghiệp và số lượng người làm việc tương ứng.\n\n3. Tổ chức thực hiện việc tuyển dụng, ký hợp đồng làm việc, bố trí, phân công nhiệm vụ, biệt phái, kiểm tra và đánh giá viên chức.\n\n4. Tổ chức thực hiện thay đổi chức danh nghề nghiệp.\n\n5. Tổ chức thực hiện chế độ đào tạo, bồi dưỡng đối với viên chức.\n\n6. Tổ chức thực hiện chế độ tiền lương và các chế độ, chính sách đãi ngộ đối với viên chức.\n\n7. Tổ chức thực hiện việc khen thưởng, kỷ luật đối với viên chức.\n\n8. Giải quyết thôi việc và nghỉ hưu đối với viên chức.\n\n9. Thực hiện chế độ báo cáo, thống kê và quản lý hồ sơ viên chức.\n\n10. Thanh tra, kiểm tra việc thi hành quy định của pháp luật về viên chức.\n\n11. Giải quyết khiếu nại, tố cáo đối với viên chức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 56",
+          "heading": "Nhiệm vụ và quyền hạn của ĐHĐN",
+          "text": "Điều 56. Nhiệm vụ và quyền hạn của ĐHĐN\n\n1. Quản lý về số lượng người làm việc; tiêu chuẩn tuyển dụng, sử dụng\n\n33\n\nchung đối với viên chức trong toàn ĐHĐN.\n\n2. Phân cấp việc tuyển dụng, sử dụng, đào tạo, bồi dưỡng, bổ nhiệm, bổ nhiệm lại, thôi giữ chức vụ, miễn nhiệm, đánh giá viên chức, giải quyết thôi việc, nghỉ hưu, ký kết hợp đồng vụ việc đối với viên chức trong toàn ĐHĐN, các trường đại học thành viên, các đơn vị thuộc và trực thuộc ĐHĐN.\n\n3. Chỉ đạo thẩm định, cho ý kiến về danh mục, đề án vị trí việc làm, tiêu chuẩn và điều kiện làm việc từng vị trí việc làm của các trường đại học thành viên; ban hành danh mục vị trí việc làm, tiêu chuẩn và điều kiện làm việc của từng vị trí trong các đơn vị thuộc và trực thuộc ĐHĐN sau khi Thường trực Hội đồng ĐHĐN thông qua.\n\n4. Thực hiện công tác khen thưởng, kỷ luật đối với viên chức theo thẩm quyền hoặc đề nghị cấp có thẩm quyền khen thưởng, kỷ luật theo quy định.\n\n5. Thực hiện thống kê và báo cáo thống kê viên chức theo quy định.\n\n6. Thanh tra, kiểm tra, giám sát việc thực hiện các quy định của pháp luật đối với viên chức thuộc phạm vi quản lý.\n\n7. Giải quyết khiếu nại, tố cáo theo phân cấp và theo quy định của pháp luật.\n\n8. Ký kết hợp đồng làm việc, thực hiện các chế độ, chính sách của Nhà nước, thực hiện lập hồ sơ và lưu trữ hồ sơ cá nhân của viên chức đối với các đơn vị thuộc và trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 57",
+          "heading": "Nhiệm vụ và quyền hạn của các trường đại học thành viên",
+          "text": "Điều 57. Nhiệm vụ và quyền hạn của các trường đại học thành viên\n\n1. Thực hiện các chế độ, chính sách của Nhà nước đối với viên chức theo phân cấp.\n\n2. Thực hiện tuyển dụng, ký kết và chấm dứt hợp đồng làm việc, biệt phái viên chức thuộc trường.\n\n3. Bố trí, phân công nhiệm vụ và kiểm tra việc thực hiện nhiệm vụ của viên chức; bổ nhiệm, bổ nhiệm lại, cho thôi giữ chức vụ, miễn nhiệm, đánh giá, đào tạo, bồi dưỡng viên chức theo phân cấp.\n\n4. Thực hiện công tác khen thưởng, kỷ luật đối với viên chức theo thẩm quyền hoặc đề nghị cấp có thẩm quyền khen thưởng, kỷ luật theo quy định.\n\n5. Thực hiện việc lập hồ sơ và lưu giữ hồ sơ cá nhân của viên chức thuộc phạm vi quản lý theo quy định.\n\n6. Giải quyết thôi việc, nghỉ hưu đối với viên chức theo phân cấp.\n\n7. Ký kết hợp đồng vụ, việc đối với viên chức đã nghỉ hưu.\n\n8. Thống kê và báo cáo cơ quan, tổ chức cấp trên về số lượng, chất lượng đội ngũ viên chức thuộc phạm vi quản lý theo quy định.\n\n9. Giải quyết khiếu nại, tố cáo theo quy định của pháp luật.\n\n34",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 58",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 58. Điều khoản thi hành\n1. Quy định này có hiệu lực kể từ ngày ký.\n2. Căn cứ Quy định này, Hiệu trưởng các trường đại học thành viên cụ thể hóa điều kiện, tiêu chuẩn riêng để tuyển dụng, tiếp nhận vào làm viên chức theo đặc thù của từng trường nhưng không được thấp hơn nội dung Quy định này và các quy định có liên quan của pháp luật hiện hành.\n3. Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị trực thuộc, cá nhân có liên quan chịu trách nhiệm thi hành Quy định này.\n4. Các nội dung liên quan đến tuyển dụng, sử dụng và quản lý viên chức chưa được quy định trong văn bản này thực hiện theo các quy định pháp luật hiện hành và các văn bản quy phạm nội bộ có liên quan của ĐHĐN.\n5. Trường hợp các văn bản quy phạm pháp luật được viện dẫn tại Quy định này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các văn bản mới.\n6. Trong quá trình thực hiện, nếu có vướng mắc hoặc chưa phù hợp, các đơn vị phản ánh kịp thời về Ban Tổ chức Cán bộ để báo cáo Giám đốc ĐHĐN xem xét sửa đổi, bổ sung./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định tuyển dụng, sử dụng và quản lý viên chức của Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Bãi bỏ Quyết định số 1983/QĐ-ĐHĐN ngày 10/5/2016 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định tuyển dụng, ký kết hợp đồng làm việc, tập sự và bổ nhiệm chức danh nghề nghiệp và Quyết định số ",
+      "text": "Điều 2. Bãi bỏ Quyết định số 1983/QĐ-ĐHĐN ngày 10/5/2016 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định tuyển dụng, ký kết hợp đồng làm việc, tập sự và bổ nhiệm chức danh nghề nghiệp và Quyết định số 3295/QĐ-ĐHĐN ngày 29/9/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định về xét chuyển chức danh nghề nghiệp viên chức.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "text": "Điều 4. Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0372_4311_QĐ-ĐHBK_Ban hành Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại h.txt",
+  "mappedBy": "gemini-web",
+  "note": "14 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4311/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "17/10/2024",
+    "effectiveDate": "17/10/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng, bao gồm nội dung công khai, cách thức, thời điểm công khai và tổ chức thực hiện.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "09/2024/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2024/TT-BGDĐT ngày 03 tháng 6 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về công khai trong hoạt động của các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng \n1. Văn bản này quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng (gọi tắt là Trường ĐHBK/Nhà trường) gồm: nội dung công khai, cách thức và thời điểm công khai, tổ chức thực hiện. \n2. Quy định này áp dụng đối với các đơn vị thuộc trách nhiệm quản lý của Trường ĐHBK (sau đây gọi chung là các đơn vị). \n3. Việc thực hiện công khai các nội dung không nêu trong Quy định này được thực hiện theo quy định của pháp luật có liên quan. \n4. Những nội dung quy định về công khai trong Quy định này không áp dụng đối với thông tin thuộc bí mật nhà nước, bí mật công tác hoặc thông tin chưa được công khai theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích của công khai",
+          "text": "Điều 2. Mục đích của công khai \n1. Minh bạch các thông tin có liên quan của Nhà trường để viên chức, người lao động, người học, gia đình người học và xã hội biết, tham gia giám sát hoạt động của Trường ĐHBK. \n2. Tăng cường trách nhiệm giải trình của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguyên tắc thực hiện công khai",
+          "text": "Điều 3. Nguyên tắc thực hiện công khai \n1. Việc thực hiện công khai bảo đảm đúng các quy định tại Quy định này và các quy định của pháp luật liên quan. \n2. Thông tin công khai bảo đảm chính xác, rõ ràng, đầy đủ, kịp thời, dễ tiếp cận.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thông tin chung về Nhà trường",
+          "text": "Điều 4. Thông tin chung về Nhà trường \n1. Tên Nhà trường (bao gồm tên bằng tiếng nước ngoài, nếu có). \n2. Địa chỉ trụ sở chính và các địa chỉ hoạt động khác của Nhà trường, điện thoại, địa chỉ thư điện tử, cổng thông tin điện tử hoặc trang thông tin điện tử của Nhà trường (sau đây gọi chung là cổng thông tin điện tử). \n3. Loại hình của Nhà trường, cơ quan quản lý trực tiếp. \n4. Sứ mạng, tầm nhìn, mục tiêu của Nhà trường.\n\n5. Tóm tắt quá trình hình thành và phát triển của Nhà trường. \n6. Thông tin người đại diện pháp luật hoặc người phát ngôn hoặc người đại diện để liên hệ, bao gồm: Họ và tên, chức vụ, địa chỉ nơi làm việc; số điện thoại, địa chỉ thư điện tử. \n7. Tổ chức bộ máy \na) Quyết định thành lập, cho phép thành lập, sáp nhập, chia, tách, cho phép hoạt động giáo dục, đình chỉ hoạt động giáo dục của Nhà trường; \nb) Quyết định công nhận Hội đồng trường, Chủ tịch Hội đồng trường và danh sách thành viên Hội đồng trường; \nc) Quyết định điều động, bổ nhiệm, công nhận Hiệu trưởng, Phó Hiệu trưởng; \nd) Quy chế tổ chức và hoạt động của Nhà trường; chức năng, nhiệm vụ, quyền hạn của cơ sở giáo dục và của các đơn vị thuộc, trực thuộc, thành viên (nếu có); sơ đồ tổ chức bộ máy của Trường ĐHBK; \nđ) Quyết định thành lập, sáp nhập, chia tách, giải thể các đơn vị thuộc, trực thuộc, thành viên (nếu có); \ne) Họ và tên, chức vụ, điện thoại, địa chỉ thư điện tử, địa chỉ nơi làm việc, nhiệm vụ, trách nhiệm của lãnh đạo Nhà trường và lãnh đạo các đơn vị thuộc, trực thuộc. \n8. Các văn bản khác của Nhà trường: Chiến lược phát triển; quy chế dân chủ ở cơ sở; các nghị quyết của Hội đồng trường; quy định về quản lý hành chính, nhân sự, tài chính; chính sách thu hút, phát triển đội ngũ nhà giáo và viên chức quản lý giáo dục; kế hoạch và thông báo tuyển dụng của Nhà trường và các quy định, quy chế nội bộ khác (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Thu, chi tài chính",
+          "text": "Điều 5. Thu, chi tài chính \n1. Tình hình tài chính của Nhà trường trong năm tài chính trước liền kề thời điểm báo cáo theo quy định pháp luật, trong đó có cơ cấu các khoản thu, chi hoạt động như sau: \na) Các khoản thu phân theo: Nguồn kinh phí (ngân sách nhà nước, hỗ trợ của nhà đầu tư; học phí, lệ phí và các khoản thu khác từ người học; kinh phí tài trợ và hợp đồng với bên ngoài; nguồn thu khác) và loại hoạt động (giáo dục và đào tạo; khoa học và công nghệ; hoạt động khác); \nb) Các khoản chi phân theo: Chi tiền lương và thu nhập (lương, phụ cấp, lương tăng thêm và các khoản chi khác có tính chất như lương cho giảng viên, viên chức quản lý, viên chức khối hành chính, nhân viên,...); chi cơ sở vật chất và dịch vụ (chi mua sắm, duy tu sửa chữa, bảo dưỡng và vận hành cơ sở vật chất, trang thiết bị, thuê mướn các dịch vụ phục vụ trực tiếp cho hoạt động giáo dục, đào tạo, nghiên cứu, phát triển đội ngũ,...); chi hỗ trợ người học (học bổng, trợ cấp, hỗ trợ sinh hoạt, hoạt động phong trào, thi đua, khen thưởng,...); chi khác. \n2. Các khoản thu và mức thu đối với người học, bao gồm: học phí, lệ phí, tất cả các khoản thu và mức thu ngoài học phí, lệ phí (nếu có) trong năm học và dự kiến cho từng năm học tiếp theo của cấp học hoặc khóa học của Trường ĐHBK trước khi tuyển sinh, dự tuyển. \n3. Chính sách và kết quả thực hiện chính sách hằng năm về trợ cấp và miễn, giảm học phí, học bổng đối với người học. \n4. Số dư các quỹ theo quy định, kể cả quỹ đặc thù (nếu có).\n\n5. Các nội dung công khai tài chính khác thực hiện theo quy định của pháp luật về tài chính, ngân sách, kế toán, kiểm toán, dân chủ cơ sở.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Điều kiện bảo đảm chất lượng đào tạo, nghiên cứu",
+          "text": "Điều 6. Điều kiện bảo đảm chất lượng đào tạo, nghiên cứu \n1. Thông tin về mức độ đáp ứng các tiêu chuẩn, tiêu chí của Chuẩn cơ sở giáo dục đại học, phù hợp với kết quả do Bộ Giáo dục và Đào tạo công bố. \n2. Thông tin về ngành, chương trình đào tạo và các kỳ thi cấp chứng chỉ \na) Danh mục ngành đào tạo đang hoạt động và thông tin chi tiết theo yêu cầu về điều kiện mở ngành đào tạo; \nb) Danh mục chương trình đào tạo đang thực hiện, thông tin chi tiết theo yêu cầu chuẩn chương trình đào tạo (chuẩn đầu ra, chuẩn đầu vào, các điều kiện thực hiện chương trình đào tạo) và mẫu văn bằng, chứng chỉ cấp cho người tốt nghiệp cho từng trình độ, ngành và hình thức đào tạo; đối với các chương trình liên kết đào tạo quốc tế có thêm thông tin về cơ sở giáo dục đại học liên kết đào tạo, thời gian hoạt động liên kết, văn bản phê duyệt của cơ quan có thẩm quyền; \nc) Danh mục hoạt động liên kết tổ chức thi cấp chứng chỉ quốc tế và thông tin chi tiết về kỳ thi, loại chứng chỉ và mẫu chứng chỉ được cấp, thời hạn hoạt động liên kết, văn bản phê duyệt của cơ quan có thẩm quyền. \n3. Thông tin về đội ngũ giảng viên, viên chức quản lý và nhân viên \na) Số lượng viên chức quản lý và nhân viên chia theo nhóm vị trí việc làm; \nb) Số lượng giảng viên toàn thời gian của Nhà trường và từng lĩnh vực đào tạo chia theo trình độ được đào tạo, chức danh giáo sư, phó giáo sư; danh sách giảng viên cơ hữu theo từng đơn vị chuyên môn bao gồm: họ tên, trình độ, chức danh, chuyên môn, lĩnh vực phụ trách, hướng nghiên cứu chính; \nc) Số lượng giảng viên, viên chức quản lý và nhân viên được đào tạo, bồi dưỡng hằng năm theo quy định; \nd) Tỷ lệ sinh viên/giảng viên cơ hữu. \n4. Thông tin về cơ sở vật chất dùng chung \na) Danh mục các khuôn viên, địa điểm đào tạo; thông tin về diện tích đất, địa chỉ, mục đích sử dụng chính (đào tạo, nghiên cứu, dịch vụ,...); \nb) Danh mục các công trình xây dựng (hội trường, tòa giảng đường, ký túc xá, trung tâm học liệu; tòa nhà làm việc,...) các hạng mục cơ sở vật chất; thông tin về khuôn viên, diện tích sàn xây dựng, diện tích sàn sử dụng cho đào tạo, nghiên cứu và mục đích khác; \nc) Thông tin về thư viện (không gian làm việc, phòng đọc,...); số đầu sách và số bản sách giáo trình, sách chuyên khảo. \n5. Thông tin về kết quả đánh giá và kiểm định chất lượng cơ sở giáo dục và chương trình đào tạo \na) Kết quả tự đánh giá của Nhà trường; kế hoạch cải tiến chất lượng sau tự đánh giá; \nb) Giấy chứng nhận kiểm định chất lượng giáo dục do tổ chức kiểm định chất lượng giáo dục cấp theo quy định pháp luật qua các mốc thời gian;\n\nc) Kế hoạch và kết quả thực hiện cải tiến chất lượng sau đánh giá ngoài trong 05 năm và hằng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Kế hoạch và kết quả hoạt động đào tạo, hoạt động khoa học và công nghệ",
+          "text": "Điều 7. Kế hoạch và kết quả hoạt động đào tạo, hoạt động khoa học và công nghệ \n1. Thông tin về kế hoạch tuyển sinh, tổ chức đào tạo hằng năm đối với từng trình độ, hình thức đào tạo theo các quy chế tuyển sinh, đào tạo hiện hành. \n2. Thông tin về kết quả tuyển sinh và đào tạo hằng năm đối với từng trình độ đào tạo, tính cho toàn Trường ĐHBK và phân theo lĩnh vực, ngành và hình thức đào tạo \na) Quy mô đào tạo, số lượng nhập học mới và số lượng tốt nghiệp; \nb) Tỷ lệ nhập học so với kế hoạch, tỷ lệ thôi học, tỷ lệ thôi học năm đầu, tỷ lệ tốt nghiệp trong thời gian không quá 2 năm so với kế hoạch học tập chuẩn và tỷ lệ tốt nghiệp đúng thời hạn (trong thời gian tiêu chuẩn); \nc) Tỷ lệ người học tốt nghiệp đại học có việc làm phù hợp với trình độ đào tạo trong thời gian 12 tháng sau khi tốt nghiệp. \n3. Thông tin về kết quả hoạt động khoa học và công nghệ trong năm, tính cho toàn cơ sở giáo dục và phân theo lĩnh vực khoa học và công nghệ \na) Danh mục dự án, đề tài hoặc nhiệm vụ khoa học công nghệ do Nhà trường chủ trì: Tên dự án, đề tài, nhiệm vụ; cấp quản lý; người chủ trì và các thành viên tham gia; đối tác trong nước và quốc tế; thời gian thực hiện; kinh phí thực hiện; tóm tắt kết quả và sản phẩm đạt được; \nb) Số lượng công trình khoa học được công bố trên các ấn phẩm quốc tế có uy tín và các công bố khoa học khác; số lượng bằng độc quyền sáng chế, giải pháp hữu ích được cấp; \nc) Các kết quả chuyển giao tri thức, chuyển giao công nghệ, hỗ trợ khởi nghiệp (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Cách thức công khai",
+          "text": "Điều 8. Cách thức công khai \n1. Công khai trên cổng thông tin điện tử của Nhà trường \nTrường ĐHBK thực hiện công khai trên cổng thông tin điện tử của Nhà trường, bao gồm: \na) Các nội dung công khai đối với các hoạt động giáo dục do Nhà trường thực hiện được quy định tại Chương II của Quy định này tính đến tháng 6 hằng năm; \nb) Báo cáo thường niên để công khai cho các bên liên quan tổng quan về kết quả hoạt động của Nhà trường tính đến ngày 31 tháng 12 hằng năm theo định dạng file PDF với các nội dung tối thiểu theo quy định tại Phụ lục kèm theo Quyết định này: \n- Phụ lục: Mẫu báo cáo thường niên của cơ sở giáo dục thực hiện chương trình giáo dục đại học (theo quy định tại Phụ lục II ban hành kèm theo Thông tư số 09/2024/TT-BGDĐT ngày 03/6/2024).\n\n5\n\nc) Việc bố trí nội dung công khai được quy định tại điểm a, b của Điều này trên cổng thông tin điện tử do Nhà trường quyết định, bảo đảm thuận lợi cho việc truy cập, tiếp cận thông tin.\n2. Phổ biến hoặc phát tài liệu về nội dung công khai vào đầu khóa học, năm học mới\nNhà trường thực hiện phổ biến các nội dung công khai hoặc phát tài liệu về nội dung công khai cho người học vào tháng đầu tiên của khóa học, năm học mới.\n3. Các hình thức công khai khác theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thời gian công khai",
+          "text": "Điều 9. Thời gian công khai\n1. Thời điểm công khai của Trường ĐHBK như sau\na) Công bố công khai các nội dung theo quy định tại điểm a, khoản 1, Điều 8 của Quy định này trước ngày 30 tháng 6 hằng năm. Trường hợp nội dung công khai có thay đổi hoặc đến ngày 30 tháng 6 hằng năm chưa có thông tin do nguyên nhân khách quan hoặc do quy định khác của pháp luật thì phải được cập nhật, bổ sung chậm nhất sau 10 ngày làm việc kể từ ngày thay đổi thông tin hoặc từ ngày có thông tin chính thức;\nb) Công bố báo cáo thường niên của năm trước liền kề theo quy định tại điểm b, khoản 1, Điều 8 của Quyết định này trước ngày 30 tháng 6 hằng năm. Đối với số liệu liên quan đến báo cáo tài chính năm trước thì cập nhật tính đến hết thời gian quyết toán của cơ quan có thẩm quyền.\n2. Thời gian công khai trên cổng thông tin điện tử tối thiểu là 05 năm kể từ ngày công bố công khai.\n3. Ngoài việc thực hiện công khai theo quy định tại khoản 1 của Điều này, Nhà trường phải thực hiện công khai theo quy định của pháp luật hiện hành có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Trách nhiệm tổ chức thực hiện",
+          "text": "Điều 10. Trách nhiệm tổ chức thực hiện\n1. Tổ chức thực hiện, tổng kết, đánh giá công tác công khai và xây dựng phương hướng, nhiệm vụ công khai trong việc thực hiện tổng kết, đánh giá công tác hằng năm (hoặc năm học) và phương hướng, nhiệm vụ năm (hoặc năm học) tiếp theo của Nhà trường.\n2. Báo cáo về công tác công khai khi có yêu cầu bằng văn bản của Bộ Giáo dục và Đào tạo hoặc của cơ quan quản lý nhà nước có thẩm quyền.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 11. Điều khoản thi hành\n1. Quy định này có hiệu lực thi hành kể từ ngày ký.\n2. Trường hợp pháp luật có quy định khác về nội dung, cách thức, thời gian, thời điểm thực hiện công khai đối với nội dung thông tin cụ thể thì áp dụng theo quy định đó.\n\n6",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về công khai trong hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị và các viên chức, người lao động thuộc Trường chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị và các viên chức, người lao động thuộc Trường chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0386_4473_QĐ-ĐHĐN_Ban hành Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "26 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4473/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/10/2024",
+    "effectiveDate": "24/10/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tuyển sinh",
+      "Đào tạo"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng, bao gồm 5 chương quy định về những quy định chung, xét tuyển, tổ chức nhiệm vụ và quyền hạn, chế độ báo cáo lưu trữ, xử lý vi phạm giải quyết khiếu nại tố cáo.",
+    "idOverride": null,
+    "targetGroups": [
+      "Khác"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "28/2023/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 28/2023/TT-BGDĐT ngày 28/12/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đào tạo từ xa trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2182/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2182/QĐ-ĐHĐN ngày 06/7/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế tuyển sinh đào tạo từ xa của Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Trung tâm Đào tạo Thường xuyên",
+    "Ban Đào tạo và Đảm bảo chất lượng giáo dục"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế tuyển sinh đào tạo từ xa trình độ đại học",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về tuyển sinh đào tạo từ xa (ĐTTX) trình độ đại học của Đại học Đà Nẵng (ĐHĐN), bao gồm: những quy định chung; công tác xét tuyển; tổ chức, nhiệm vụ và quyền hạn trong công tác tuyển sinh; hoạt động thanh tra, kiểm tra, giám sát tuyển sinh; chế độ báo cáo, bảo quản, lưu trữ tài liệu tuyển sinh; xử lý vi phạm, giải quyết khiếu nại, tố cáo.\n2. Quy chế này áp dụng đối với các chương trình ĐTTX của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong văn bản này, các từ ngữ dưới đây được hiểu như sau:\n1. Dự tuyển là việc một thí sinh tham dự quy trình tuyển sinh vào một ngành đào tạo của chương trình ĐTTX trình độ đại học, thông qua việc đăng ký xét tuyển theo quy định của ĐHĐN.\n2. Xét tuyển là quy trình xử lý của ĐHĐN để xác định điều kiện trúng tuyển và lập danh sách thí sinh đủ điều kiện trúng tuyển vào một chương trình ĐTTX trình độ đại học, căn cứ các tiêu chí xét tuyển do ĐHĐN xác định.\n3. Tiêu chí xét tuyển là những yếu tố được dùng để xác định điều kiện trúng tuyển của thí sinh, chủ yếu dựa trên điểm học tập ở chương trình trung học phổ thông (THPT) lớp 12 (điểm học bạ), kết quả học tập toàn khóa trong chương trình trung cấp, cao đẳng, đại học; được quy thành điểm số để xét tuyển bao gồm cả các loại điểm ưu tiên (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Yêu cầu chung trong tuyển sinh",
+          "text": "Điều 3. Yêu cầu chung trong tuyển sinh\n1. ĐHĐN thực hiện quyền tự chủ và trách nhiệm giải trình về công tác tuyển sinh, bảo đảm đúng quy định của pháp luật và chịu trách nhiệm trước pháp luật.\n2. ĐHĐN thực hiện tất cả biện pháp cần thiết nhằm tạo điều kiện thuận lợi và cơ hội bình đẳng cho mọi thí sinh; tuyển chọn được những thí sinh có nguyện vọng và năng lực phù hợp nhất với yêu cầu của chương trình ĐTTX trình độ đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nguyên tắc trong tuyển sinh",
+          "text": "Điều 4. Nguyên tắc trong tuyển sinh\nViệc tuyển sinh ĐTTX trình độ đại học được thực hiện theo quy định của pháp luật hiện hành có liên quan tại thời điểm tuyển sinh và theo Quy chế này.\n1. Công bằng đối với thí sinh:\na) Về cung cấp thông tin: mỗi thí sinh quan tâm được cung cấp thông tin đầy đủ, rõ ràng, tin cậy, nhất quán và kịp thời để có quyết định phù hợp và chuẩn bị tốt nhất cho việc tham gia tuyển sinh;\nb) Về cơ hội dự tuyển: đảm bảo để không thí sinh nào bị mất cơ hội dự tuyển do những quy định không liên quan tới trình độ, năng lực; hoặc do quy trình tuyển sinh gây phiền hà, tốn kém;\nc) Về đánh giá năng lực: thí sinh được đánh giá khách quan, công bằng và tin cậy về khả năng học tập và triển vọng thành công, đáp ứng yêu cầu của chương trình ĐTTX và ngành đào tạo;\nd) Về cơ hội trúng tuyển: thí sinh được tạo cơ hội trúng tuyển cao nhất và quyền xác định nguyện vọng ưu tiên trong chương trình ĐTTX trình độ đại học, ngành đào tạo đủ điều kiện trúng tuyển;\nđ) Về thực hiện cam kết: ĐHĐN thực hiện các cam kết đối với thí sinh; tư vấn, hỗ trợ và giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro.\n2. Công khai, minh bạch đối với xã hội:\na) Về minh bạch thông tin: ĐHĐN có trách nhiệm công bố các thông tin tuyển sinh đầy đủ, rõ ràng và kịp thời trên trang thông tin điện tử của Trung tâm Đào tạo Thường xuyên (TTĐTTX);\nb) Về trách nhiệm giải trình: ĐHĐN có trách nhiệm báo cáo theo yêu cầu của các cơ quan quản lý nhà nước có thẩm quyền và giải trình với xã hội qua hình thức phù hợp về những vấn đề lớn, gây bức xúc cho người dân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Đối tượng, điều kiện dự tuyển",
+          "text": "Điều 5. Đối tượng, điều kiện dự tuyển\n1. Đối tượng dự tuyển bao gồm:\na) Người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương THPT trở lên, không giới hạn độ tuổi và có mong muốn được học tập;\nb) Người đã có bằng tốt nghiệp trung cấp và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật;\nc) Người có bằng tốt nghiệp cao đẳng;\nd) Người có bằng tốt nghiệp đại học đăng ký dự tuyển vào một ngành đào tạo khác với ngành đã tốt nghiệp.\n2. Đối tượng dự tuyển quy định tại khoản 1 Điều này phải đáp ứng các điều kiện sau:\na) Có đủ sức khoẻ để học tập theo quy định hiện hành;\nb) Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định;\nc) Bằng tốt nghiệp của các cơ sở đào tạo nước ngoài, cơ sở đào tạo nước ngoài hoạt động hợp pháp ở Việt Nam thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo (GD&ĐT) hoặc Bộ Lao động – Thương binh và Xã hội.\n3. Đối với thí sinh bị khuyết tật, suy giảm khả năng học tập, ĐHĐN sẽ thực hiện các biện pháp cần thiết và tạo điều kiện tốt nhất để thí sinh có nguyện vọng được đăng ký dự tuyển và theo học các ngành phù hợp với điều kiện sức khoẻ của mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Chính sách ưu tiên trong tuyển sinh",
+          "text": "Điều 6. Chính sách ưu tiên trong tuyển sinh\nThực hiện chính sách ưu tiên trong tuyển sinh theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Phương thức tuyển sinh",
+          "text": "Điều 7. Phương thức tuyển sinh\nĐHĐN sử dụng phương thức xét tuyển cho tất cả các chương trình ĐTTX, cụ thể như sau:\n1. Tuyển sinh đào tạo trình độ đại học: xét tuyển dựa trên điểm trung bình các môn học của năm học lớp 12 (điểm học bạ THPT) hoặc tương đương; kết quả học tập toàn khóa chương trình trung cấp và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật.\n2. Tuyển sinh đào tạo liên thông trình độ đại học: xét tuyển dựa trên kết quả học tập toàn khóa chương trình trung cấp (người có bằng tốt nghiệp trung cấp phải bảo đảm đã học và thi đạt yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật), cao đẳng, đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Ngưỡng đảm bảo chất lượng và nguyên tắc xét tuyển",
+          "text": "Điều 8. Ngưỡng đảm bảo chất lượng và nguyên tắc xét tuyển\n1. Ngưỡng đảm bảo chất lượng:\na) Tuyển sinh đào tạo trình độ đại học: thí sinh đã tốt nghiệp THPT hoặc tương đương.\nb) Tuyển sinh đào tạo liên thông trình độ đại học: thí sinh đã có bằng tốt nghiệp trình độ trung cấp, cao đẳng, đại học.\n2. Nguyên tắc xét tuyển:\nViệc tuyển sinh được thực hiện trên nguyên tắc xét trúng tuyển theo tổng điểm xét tuyển từ cao xuống thấp cho đến hết chỉ tiêu. Trong đó:\na) Đối với tuyển sinh đào tạo trình độ đại học: tổng điểm xét tuyển = điểm trung bình các môn học của năm học lớp 12 + điểm ưu tiên (nếu có).\nb) Đối với tuyển sinh đào tạo liên thông trình độ đại học: tổng điểm xét tuyển = điểm trung bình chung toàn khóa chương trình đào tạo trung cấp (hoặc cao đẳng, đại học) + điểm ưu tiên (nếu có).\nTrường hợp điểm trung bình chung toàn khóa (ĐTBCTK) theo thang điểm 10 thì quy đổi về thang điểm 4 như sau: điểm quy đổi = ĐTBCTK x 4 : 10. Tổng điểm xét tuyển = điểm quy đổi + điểm ưu tiên (nếu có).\n3. Các trường hợp khác ngoài các trường hợp được nêu ở khoản 1, 2 Điều này sẽ do Hội đồng tuyển sinh xem xét, quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Bảo lưu kết quả trúng tuyển",
+          "text": "Điều 9. Bảo lưu kết quả trúng tuyển\n1. Thí sinh đã có giấy báo trúng tuyển của ĐHĐN được bảo lưu kết quả trúng tuyển trong những trường hợp sau:\na) Đi nghĩa vụ quân sự hoặc đi thanh niên xung phong tập trung ngay trong năm trúng tuyển theo quyết định hoặc lệnh của cơ quan có thẩm quyền;\nb) Bị bệnh nặng hoặc bị tai nạn nghiêm trọng không thể nhập học đúng hạn, có hồ sơ y tế và xác nhận của cơ quan y tế có thẩm quyền.\n2. Thí sinh thuộc diện quy định tại khoản 1 Điều này phải gửi đơn đề nghị bảo lưu kèm theo giấy tờ minh chứng về TTĐTTX. Thời gian tối đa được bảo lưu kết quả trúng tuyển là 1 (một) năm. Riêng đối với trường hợp thuộc điểm a khoản 1 Điều này, được xem xét (căn cứ theo quyết định hoặc lệnh của cơ quan có thẩm quyền) bảo lưu kết quả trúng tuyển từ 3 (ba) năm trở lên.\n3. Trong thời gian bảo lưu kết quả trúng tuyển còn hiệu lực, thí sinh có nhu cầu trở lại học tập gửi đơn kèm giấy tờ minh chứng về TTĐTTX để được xem xét tiếp nhận trở lại học tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Đề án tuyển sinh đào tạo từ xa trình độ đại học",
+          "text": "Điều 10. Đề án tuyển sinh đào tạo từ xa trình độ đại học\n1. TTĐTTX xây dựng và công bố đề án tuyển sinh ĐTTX trình độ đại học sau khi được ĐHĐN phê duyệt.\n2. Đề án tuyển sinh ĐTTX trình độ đại học phải có đầy đủ thông tin làm căn cứ để:\na) Thí sinh lựa chọn ngành, chương trình ĐTTX trình độ đại học, phương thức xét tuyển phù hợp với năng lực, sở thích và điều kiện cá nhân; chuẩn bị các điều kiện tham gia dự tuyển và thực hiện các bước theo kế hoạch tuyển sinh của ĐHĐN;\nb) Cơ quan quản lý nhà nước và xã hội giám sát việc thực hiện quy định của pháp luật và các cam kết đối với người học của ĐHĐN trong công tác tuyển sinh và đào tạo.\n3. Nội dung chủ yếu của đề án tuyển sinh ĐTTX trình độ đại học được biên soạn theo đúng Quy chế tuyển sinh đại học của Bộ GD&ĐT.\n4. Đề án tuyển sinh ĐTTX trình độ đại học được xây dựng hằng năm; được công bố công khai trên trang thông tin điện tử của TTĐTTX và qua các hình thức thông tin truyền thông thích hợp khác trước thời điểm thí sinh bắt đầu đăng ký dự tuyển ít nhất 30 ngày; trường hợp điều chỉnh, bổ sung (nếu có) trước ít nhất 15 ngày.\n\n5",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Kế hoạch xét tuyển",
+          "text": "Điều 11. Kế hoạch xét tuyển\n1. TTĐTTX xây dựng kế hoạch tuyển sinh trong năm trình ĐHĐN xem xét, quyết định ban hành.\n2. Căn cứ kế hoạch tuyển sinh trong năm, TTĐTTX tổ chức các đợt tuyển sinh theo kế hoạch đã ban hành:\na) Mỗi đợt tuyển sinh được thông báo cụ thể đối tượng dự tuyển, thời gian đăng ký, địa điểm tổ chức tuyển sinh, nguyên tắc xét tuyển và được công bố trên trang thông tin điện tử của TTĐTTX ít nhất 30 ngày trước ngày tổ chức xét tuyển;\nb) Căn cứ thông báo tuyển sinh đã công bố, TTĐTTX tổ chức cho thí sinh có đủ các điều kiện quy định tại Điều 5 của Quy chế này đăng ký dự tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Hồ sơ dự tuyển",
+          "text": "Điều 12. Hồ sơ dự tuyển\n1. Thí sinh nộp 01 bộ hồ sơ đăng ký dự tuyển tại TTĐTTX – ĐHĐN hoặc nộp 02 bộ hồ sơ đăng ký dự tuyển tại Phòng Đào tạo của Cơ sở phối hợp đào tạo.\n2. Hồ sơ đăng ký dự tuyển gồm có:\n- Phiếu dự tuyển (theo mẫu);\n- Bản sao (có chứng thực) bằng tốt nghiệp THPT hoặc tương đương; bằng tốt nghiệp trung cấp và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật, bằng tốt nghiệp cao đẳng, bằng tốt nghiệp đại học;\n- Bản sao (có chứng thực) học bạ THPT hoặc tương đương; kết quả học tập bậc trung cấp, cao đẳng, đại học;\n- Bản sao thẻ Căn cước công dân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Xác định thí sinh trúng tuyển",
+          "text": "Điều 13. Xác định thí sinh trúng tuyển\nHội đồng tuyển sinh ĐTTX trình độ đại học xác định thí sinh trúng tuyển trong các thí sinh dự tuyển theo từng chương trình ĐTTX và từng đợt tuyển sinh khi đáp ứng đủ các điều kiện quy định tại Điều 5, Điều 7 và Điều 8 của Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Thông báo trúng tuyển và nhập học",
+          "text": "Điều 14. Thông báo trúng tuyển và nhập học\n1. Căn cứ kết luận của Hội đồng tuyển sinh ĐTTX, TTĐTTX gửi giấy báo trúng tuyển cho thí sinh trúng tuyển, trong đó ghi rõ những thủ tục cần thiết khi nhập học để thí sinh thực hiện.\n2. Đối với thí sinh trúng tuyển nhưng không làm thủ tục nhập học trong thời gian quy định, nếu không có lý do chính đáng thì coi như thí sinh từ chối nhập học và ĐHĐN có quyền không tiếp nhận.\n\n6",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Kiểm tra hồ sơ của thí sinh trúng tuyển",
+          "text": "Điều 15. Kiểm tra hồ sơ của thí sinh trúng tuyển\n1. TTĐTTX tổ chức hậu kiểm hồ sơ đã nộp của thí sinh theo quy định tại Điều 12 của Quy chế này.\n2. Trong quá trình học viên đang theo học, ĐHĐN tổ chức thanh tra, kiểm tra hồ sơ trúng tuyển của học viên theo quy định.\nĐHĐN có quyền từ chối tiếp nhận, hủy kết quả trúng tuyển hoặc buộc thôi học nếu thí sinh không đảm bảo các điều kiện trúng tuyển khi đối chiếu thông tin đăng ký xét tuyển và dữ liệu đăng ký dự tuyển với hồ sơ gốc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Trách nhiệm của thí sinh và của ĐHĐN trong công tác xét tuyển",
+          "text": "Điều 16. Trách nhiệm của thí sinh và của ĐHĐN trong công tác xét tuyển\n1. Trách nhiệm của thí sinh\na) Tìm hiểu kỹ thông tin tuyển sinh ĐTTX của ĐHĐN, không đăng ký nguyện vọng vào những ngành, chương trình ĐTTX trình độ đại học mà không đủ điều kiện;\nb) Cung cấp đầy đủ và bảo đảm tính chính xác của tất cả thông tin đăng ký dự tuyển, bao gồm cả thông tin cá nhân, thông tin khu vực và đối tượng (nếu có), nguyện vọng đăng ký, tính xác thực của các giấy tờ minh chứng;\nc) Đồng ý để ĐHĐN được quyền sử dụng thông tin, dữ liệu cần thiết phục vụ cho công tác xét tuyển;\nd) Hoàn thành thanh toán lệ phí tuyển sinh trước khi kết thúc thủ tục đăng ký dự tuyển.\n2. Trách nhiệm của ĐHĐN\na) Cung cấp đầy đủ, đúng định dạng và bảo đảm tính xác thực của thông tin, dữ liệu tuyển sinh lên hệ thống theo hướng dẫn của Bộ GD&ĐT;\nb) Cung cấp đầy đủ thông tin, tư vấn và hướng dẫn thí sinh đăng ký dự tuyển theo quy định;\nc) Bảo đảm quy trình xét tuyển chính xác, công bằng, khách quan; thực hiện các cam kết theo đề án tuyển sinh đã công bố;\nd) Kiểm tra thông tin và hồ sơ minh chứng khi thí sinh nhập học, bảo đảm tất cả thí sinh nhập học phải đủ điều kiện trúng tuyển;\nđ) Giải quyết đơn thư phản ánh, khiếu nại, tố cáo liên quan tới công tác xét tuyển của ĐHĐN theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Tổ chức, nhiệm vụ và quyền hạn của Hội đồng tuyển sinh",
+          "text": "Điều 17. Tổ chức, nhiệm vụ và quyền hạn của Hội đồng tuyển sinh\n1. Giám đốc ĐHĐN ban hành Quyết định thành lập Hội đồng tuyển sinh (HĐTS) ĐTTX trình độ đại học để tổ chức, điều hành các công việc liên quan đến công tác tuyển sinh theo Quy chế tuyển sinh ĐTTX trình độ đại học của ĐHĐN.\n\n7\n\n2. Thành phần HĐTS bao gồm:\na) Chủ tịch: Giám đốc hoặc Phó Giám đốc ĐHĐN;\nb) Phó Chủ tịch: Phó Giám đốc ĐHĐN;\nc) Ủy viên thường trực: Giám đốc hoặc Phó Giám đốc TTĐTTX – ĐHĐN;\nd) Các ủy viên: Hiệu trưởng hoặc Phó Hiệu trưởng các trường đại học thành viên có ngành ĐTTX, Trưởng hoặc Phó Trưởng các ban chức năng liên quan;\nđ) Ủy viên thư ký: Trưởng phòng hoặc Phó Trưởng phòng Phòng Giáo vụ TTĐTTX – ĐHĐN.\nNhững người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của mình và của vợ hoặc chồng) là thí sinh dự tuyển vào ĐHĐN không được tham gia HĐTS của ĐHĐN trong đợt tuyển sinh đó.\n3. Nhiệm vụ và quyền hạn của HĐTS:\na) Tư vấn để Giám đốc ĐHĐN quyết định các vấn đề có liên quan đến tuyển sinh ĐTTX trình độ đại học;\nb) Tổ chức, triển khai công tác tuyển sinh ĐTTX trình độ đại học theo kế hoạch được Giám đốc ĐHĐN phê duyệt;\nc) Thành lập các Tổ giúp việc HĐTS để đáp ứng yêu cầu của công tác tuyển sinh; và\nd) Chuẩn bị dữ liệu phục vụ xét tuyển; xét tuyển theo quy định và công bố kết quả xét tuyển sau khi đã được Giám đốc ĐHĐN phê duyệt;\nđ) Triệu tập thí sinh trúng tuyển theo quy định của ĐHĐN;\ne) Giải quyết thắc mắc và khiếu nại, tố cáo liên quan đến công tác tuyển sinh;\ng) Thực hiện các nhiệm vụ khác do Giám đốc ĐHĐN phân công.\n4. Nhiệm vụ và quyền hạn của Chủ tịch HĐTS:\na) Tổ chức, điều hành HĐTS thực hiện nhiệm vụ và quyền hạn;\nb) Tùy theo tính chất và nhu cầu của công tác tuyển sinh, Chủ tịch HĐTS quyết định thành lập Tổ giúp việc cho HĐTS.\n5. Phó Chủ tịch HĐTS thực hiện các nhiệm vụ được Chủ tịch HĐTS phân công và thay mặt Chủ tịch HĐTS giải quyết công việc khi được Chủ tịch HĐTS ủy quyền.\n6. Các ủy viên HĐTS chấp hành sự phân công của lãnh đạo HĐTS.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Tổ chức, nhiệm vụ và quyền hạn của Tổ giúp việc HĐTS",
+          "text": "Điều 18. Tổ chức, nhiệm vụ và quyền hạn của Tổ giúp việc HĐTS\n1. Chủ tịch HĐTS ban hành Quyết định thành lập Tổ giúp việc HĐTS.\n2. Thành phần Tổ giúp việc HĐTS gồm có:\na) Tổ trưởng: do ủy viên Thư ký HĐTS kiêm nhiệm;\nb) Các tổ viên: viên chức TTĐTTX – ĐHĐN.\n\n8\n\nNhững người có người thân (con, vợ, chồng, bố, mẹ, anh, chị, em ruột của mình và của vợ hoặc chồng) là thí sinh dự tuyển vào ĐHĐN thì không được tham gia Tổ giúp việc HĐTS trong đợt tuyển sinh đó.\n3. Nhiệm vụ và quyền hạn của Tổ giúp việc:\na) Tổ chức nhận hồ sơ đăng ký dự tuyển;\nb) Nhập thông tin đăng ký dự tuyển, quản lý dữ liệu tuyển sinh;\nc) Dự kiến danh sách thí sinh trúng tuyển, trình HĐTS quyết định;\nd) Chuẩn bị hồ sơ các phiên họp của HĐTS;\nđ) Lập danh sách thí sinh trúng tuyển;\ne) In và gửi giấy báo trúng tuyển đến thí sinh trúng tuyển;\ng) Hậu kiểm tra hồ sơ của thí sinh trúng tuyển theo phân công và quy định;\nh) Thực hiện các nhiệm vụ khác do Chủ tịch HĐTS phân công.\n4. Tổ trưởng Tổ giúp việc chịu trách nhiệm trước Chủ tịch HĐTS việc điều hành công tác của Tổ giúp việc.\n5. Các tổ viên Tổ giúp việc chấp hành sự phân công của Tổ trưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Chế độ báo cáo",
+          "text": "Điều 19. Chế độ báo cáo\nTTĐTTX thực hiện báo cáo kết quả tuyển sinh về ĐHĐN và yêu cầu của Bộ GD&ĐT. Cụ thể như sau:\n1. Cập nhật danh sách thí sinh trúng tuyển và nhập học lên hệ thống của Bộ GD&ĐT theo quy định.\n2. Báo cáo những nội dung theo quy định của Quy chế tuyển sinh đại học do Bộ GD&ĐT ban hành.\n3. Báo cáo tình hình tuyển sinh và kết quả tuyển sinh theo yêu cầu của Bộ GD&ĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Bảo quản, lưu trữ tài liệu tuyển sinh",
+          "text": "Điều 20. Bảo quản, lưu trữ tài liệu tuyển sinh\nTTĐTTX thực hiện bảo quản, lưu trữ các tài liệu liên quan đến tuyển sinh ĐTTX theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Xử lý vi phạm về công tác tuyển sinh",
+          "text": "Điều 21. Xử lý vi phạm về công tác tuyển sinh\nĐHĐN thực hiện xử lý vi phạm về công tác tuyển sinh theo quy định hiện hành của pháp luật, Quy chế tuyển sinh đại học của Bộ GD&ĐT và ĐHĐN, cụ thể như sau:\n1. Thí sinh có hành vi gian lận trong quá trình đăng ký dự tuyển để được trúng tuyển thì tùy theo mức độ có thể bị buộc thôi học, cấm dự tuyển ĐTTX trình độ đại học\n\n9\n\nvào ĐHĐN trong những năm tiếp theo hoặc bị xử lý hình sự theo quy định của pháp luật.\n2. Viên chức, người lao động thuộc quản lý của ĐHĐN nếu có hành vi vi phạm Quy chế này, tùy theo mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật có liên quan và quy định của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Giải quyết đơn khiếu nại, đơn tố cáo liên quan đến công tác tuyển sinh",
+          "text": "Điều 22. Giải quyết đơn khiếu nại, đơn tố cáo liên quan đến công tác tuyển sinh\n1. Trong thời gian tuyển sinh, HĐTS tổ chức tiếp nhận và giải quyết đơn khiếu nại, đơn tố cáo của công dân liên quan đến công tác tuyển sinh theo quy định.\n2. Kết thúc tuyển sinh, Giám đốc ĐHĐN tổ chức tiếp nhận và giải quyết đơn khiếu nại, đơn tố cáo của công dân liên quan đến công tác tuyển sinh theo quy định.\n3. Người khiếu nại liên quan đợt tuyển sinh thực hiện quyền khiếu nại khi có căn cứ cho rằng quyết định hành chính hoặc hành vi hành chính đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.\n4. Trình tự, thủ tục, thời hạn giải quyết đơn khiếu nại, đơn tố cáo của công dân liên quan đến công tác tuyển sinh được thực hiện theo quy định của pháp luật và của ĐHĐN về giải quyết khiếu nại, giải quyết tố cáo và các quy định pháp luật có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 23. Tổ chức thực hiện\n1. Căn cứ vào Quy chế này, TTĐTTX có trách nhiệm xây dựng đề án tuyển sinh, xây dựng kế hoạch và tổ chức tuyển sinh ĐTTX trình độ đại học, gửi Ban Đào tạo và Đảm bảo chất lượng giáo dục rà soát, hoàn thiện thủ tục trình Giám đốc phê duyệt.\n2. Trường hợp có những vấn đề chưa được quy định cụ thể trong Quy chế này thì thực hiện theo quy định pháp luật hiện hành.\n3. Trong quá trình thực hiện, TTĐTTX, Ban Đào tạo và Đảm bảo chất lượng giáo dục có trách nhiệm thường xuyên rà soát, tổng hợp các khó khăn, vướng mắc phát sinh trong thực tiễn đề xuất Giám đốc ĐHĐN xem xét, điều chỉnh cho phù hợp./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2182/QĐ-ĐHĐN ngày 06/7/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế tuyển sinh đào tạo từ xa của Đại học Đà Nẵ",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2182/QĐ-ĐHĐN ngày 06/7/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế tuyển sinh đào tạo từ xa của Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban chức năng, Thủ trưởng các trường đại học thành viên, các đơn vị thuộc và trực thuộc Đại học Đà Nẵng có liên quan, Giám đốc Trung tâm Đào tạo Thường xuyên - Đại học Đà N",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban chức năng, Thủ trưởng các trường đại học thành viên, các đơn vị thuộc và trực thuộc Đại học Đà Nẵng có liên quan, Giám đốc Trung tâm Đào tạo Thường xuyên - Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

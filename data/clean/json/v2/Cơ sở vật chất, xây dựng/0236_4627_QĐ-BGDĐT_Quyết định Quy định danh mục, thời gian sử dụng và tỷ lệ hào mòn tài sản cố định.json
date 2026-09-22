@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Cơ sở vật chất, xây dựng/0236_4627_QĐ-BGDĐT_Quyết định Quy định danh mục, thời gian sử dụng và tỷ lệ hào mòn tài sản cố định.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "4627/QĐ-BGDĐT",
+    "title": "Quyết định Quy định danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản cố định vô hình tại các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "29/12/2022",
+    "effectiveDate": "29/12/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "summary": "Ban hành danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản cố định vô hình tại các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "45/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 45/2018/TT-BTC ngày 07 tháng 5 năm 2018 của Bộ Tài chính hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan, tổ chức, đơn vị và tài sản cố định do Nhà nước giao cho doanh nghiệp quản lý không tính thành phần vốn nhà nước tại doanh nghiệp;"
+    },
+    {
+      "targetDocumentNumber": "20/2021/TT-BTTTT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Ghi chú: Danh mục Phần mềm ứng dụng - Sản phẩm phần mềm (Loại 4) nêu trên căn cứ Thông tư số 20/2021/TT-BTTTT ngày 03/12/2021 sửa đổi, bổ sung Thông tư số 09/2013/TT-BTTTT ngày 08/4/2013 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục sản phẩm phần mềm và phần cứng, điện tử./."
+    },
+    {
+      "targetDocumentNumber": "09/2013/TT-BTTTT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Ghi chú: Danh mục Phần mềm ứng dụng - Sản phẩm phần mềm (Loại 4) nêu trên căn cứ Thông tư số 20/2021/TT-BTTTT ngày 03/12/2021 sửa đổi, bổ sung Thông tư số 09/2013/TT-BTTTT ngày 08/4/2013 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục sản phẩm phần mềm và phần cứng, điện tử./."
+    }
+  ],
+  "mentions": [
+    "Bộ Tài chính",
+    "Chính phủ",
+    "Bộ Thông tin và Truyền thông"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này quy định danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản cố định vô hình tại các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo (chi tiết theo Phụ lục đính kèm).",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này quy định danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản cố định vô hình tại các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo (chi tiết theo Phụ lục đính kèm).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Tổ chức thực hiện.",
+      "text": "Điều 2. Tổ chức thực hiện.\n\n1. Thủ trưởng các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo căn cứ các nội dung quy định tại Thông tư số 45/2018/TT-BTC ngày 07/5/2018 của Bộ Tài chính và nội dung quy định tại Điều 1 Quyết định này để thực hiện ghi sổ kế toán, hạch toán, theo dõi và quản lý tài sản theo đúng quy định.\n\nTrong quá trình thực hiện nếu có vướng mắc, các cơ quan, đơn vị phản ánh về Bộ Giáo dục và Đào tạo xem xét sửa đổi, bổ sung danh mục, thời gian sử dụng và tỷ lệ hao mòn đối với tài sản cố định nêu tại Điều 1 phù hợp với các quy định của pháp luật.\n\n2. Vụ trưởng Vụ Kế hoạch - Tài chính có trách nhiệm theo dõi, kiểm tra việc thực hiện Quyết định này, tổng hợp, đề xuất báo cáo Bộ trưởng xem xét điều chỉnh bổ sung quy định danh mục, thời gian sử dụng và tỷ lệ hao mòn tài sản cố định vô hình cho phù hợp với quy định của pháp luật.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.\n\nChánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

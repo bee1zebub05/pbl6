@@ -1,0 +1,246 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0292_130_2020_NĐ-CP_Nghị định về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn trong.txt",
+  "mappedBy": "gemini-web",
+  "note": "25 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "130/2020/NĐ-CP",
+    "title": "Nghị định Về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn trong cơ quan, tổ chức, đơn vị",
+    "documentType": "Nghị định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "30/10/2020",
+    "effectiveDate": "20/12/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị định này quy định chi tiết thi hành một số điều của Luật Phòng, chống tham nhũng về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn trong cơ quan, tổ chức, đơn vị; bao gồm phạm vi điều chỉnh, đối tượng áp dụng, nguyên tắc, trình tự thủ tục cung cấp thông tin, kê khai, công khai bản kê khai, xây dựng phê duyệt kế hoạch xác minh, cơ sở dữ liệu quốc gia và xử lý vi phạm.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan",
+      "Khác"
+    ]
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Xuân Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2015",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;"
+    },
+    {
+      "targetDocumentNumber": "2019",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;"
+    },
+    {
+      "targetDocumentNumber": "2018",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018;"
+    },
+    {
+      "targetDocumentNumber": "78/2013/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ Nghị định số 78/2013/NĐ-CP ngày 17 tháng 7 năm 2013 của Chính phủ về minh bạch tài sản, thu nhập."
+    }
+  ],
+  "mentions": [
+    "Đảng Cộng sản Việt Nam",
+    "Thanh tra Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Công an",
+    "Bộ Quốc phòng",
+    "Bộ Ngoại giao",
+    "Bộ Tài chính",
+    "Bộ Thông tin và Truyền thông",
+    "Ủy ban Thường vụ Quốc hội",
+    "Chủ tịch nước",
+    "Chánh án Tòa án nhân dân tối cao",
+    "Viện trưởng Viện kiểm sát nhân dân tối cao",
+    "Hội đồng bầu cử quốc gia",
+    "Quốc hội",
+    "Kiểm toán Nhà nước",
+    "Cơ quan điều tra",
+    "Viện kiểm sát nhân dân",
+    "Tòa án nhân dân",
+    "Quân đội nhân dân",
+    "Công an nhân dân",
+    "Ủy ban kiểm tra Đảng",
+    "Ủy ban Mặt trận Tổ quốc Việt Nam",
+    "Chủ tịch Ủy ban nhân dân tỉnh"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\n1. Nghị định này quy định chi tiết một số điều của Luật Phòng, chống tham nhũng về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn trong cơ quan, tổ chức, đơn vị, bao gồm:\na) Điểm b khoản 2 Điều 31 về trình tự, thủ tục yêu cầu, thực hiện yêu cầu cung cấp thông tin về tài sản, thu nhập của người có nghĩa vụ kê khai để phục vụ việc xác minh tài sản, thu nhập;\nb) Điều 35 về Mẫu bản kê khai tài sản, thu nhập và việc thực hiện kê khai;\nc) Điểm b khoản 3 Điều 36 về người làm công tác tổ chức cán bộ, quản lý tài chính công, tài sản công, đầu tư công hoặc trực tiếp tiếp xúc và giải quyết công việc của cơ quan, tổ chức, đơn vị, cá nhân phải kê khai tài sản, thu nhập hằng năm;\nd) Khoản 1, 2 và 5 Điều 39 về thời điểm, hình thức và việc tổ chức công khai bản kê khai tại cơ quan, tổ chức, đơn vị; công khai bản kê khai tài sản, thu nhập của người dự kiến được bổ nhiệm giữ chức vụ lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị và người dự kiến bầu giữ chức vụ lãnh đạo, quản lý tại doanh nghiệp nhà nước;\nđ) Điểm d khoản 1 Điều 41 về tiêu chí lựa chọn người có nghĩa vụ kê khai tài sản, thu nhập được xác minh theo kế hoạch hằng năm và việc xây dựng, phê duyệt kế hoạch xác minh tài sản, thu nhập hằng năm của Cơ quan kiểm soát tài sản, thu nhập;\ne) Điều 54 về bảo vệ, lưu trữ, khai thác, cung cấp thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập;\ng) Điểm g, điểm h khoản 1 Điều 94 về xử lý kỷ luật đối với người vi phạm quy định về nghĩa vụ trung thực trong kê khai tài sản, thu nhập, giải trình nguồn gốc của tài sản, thu nhập tăng thêm; vi phạm quy định về thời hạn kê khai tài sản, thu nhập hoặc vi phạm quy định khác về kiểm soát tài sản, thu nhập.\n\n2. Một số biện pháp thi hành Luật Phòng, chống tham nhũng về kiểm soát tài sản, thu nhập phù hợp với phân cấp quản lý cán bộ của Đảng Cộng sản Việt Nam được quy định tại Quy chế phối hợp giữa các Cơ quan kiểm soát tài sản, thu nhập theo quy định tại Điều 30 của Luật Phòng, chống tham nhũng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Cơ quan kiểm soát tài sản, thu nhập.\n2. Người có nghĩa vụ kê khai tài sản, thu nhập (sau đây gọi là người có nghĩa vụ kê khai).\n3. Cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong kiểm soát tài sản, thu nhập.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Giải thích từ ngữ",
+      "text": "Điều 3. Giải thích từ ngữ\nTrong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Kiểm soát tài sản, thu nhập là hoạt động do Cơ quan kiểm soát tài sản, thu nhập thực hiện theo quy định của pháp luật để biết rõ về tài sản, thu nhập, biến động về tài sản, thu nhập, nguồn gốc của tài sản, thu nhập tăng thêm của người có nghĩa vụ kê khai nhằm phòng ngừa tham nhũng, phục vụ công tác cán bộ, kịp thời phát hiện tham nhũng, ngăn chặn hành vi tẩu tán tài sản tham nhũng, thu hồi tài sản tham nhũng.\n2. Kê khai tài sản, thu nhập là việc ghi rõ ràng, đầy đủ, chính xác các loại tài sản, thu nhập, biến động tài sản, thu nhập phải kê khai, nguồn gốc của tài sản, thu nhập tăng thêm theo Mẫu bản kê khai tài sản, thu nhập ban hành kèm theo Nghị định này.\n3. Công khai bản kê khai tài sản, thu nhập là việc công bố bản kê khai tài sản, thu nhập (sau đây gọi tắt là bản kê khai) theo quy định của Luật Phòng, chống tham nhũng và Điều 11, 12, 13 của Nghị định này.\n4. Giải trình nguồn gốc tài sản, thu nhập tăng thêm là việc người có nghĩa vụ kê khai tự giải thích, chứng minh về việc hình thành tài sản, thu nhập tăng thêm so với lần kê khai liền trước đó.\n5. Xác minh tài sản, thu nhập là việc kiểm tra, làm rõ nội dung kê khai và xem xét, đánh giá, kết luận của Cơ quan kiểm soát tài sản, thu nhập theo trình tự, thủ tục quy định tại Luật Phòng, chống tham nhũng và Nghị định này về tính trung thực, đầy đủ, rõ ràng của bản kê khai và tính trung thực trong việc giải trình về nguồn gốc của tài sản, thu nhập tăng thêm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Nguyên tắc kiểm soát tài sản, thu nhập",
+      "text": "Điều 4. Nguyên tắc kiểm soát tài sản, thu nhập\n1. Hoạt động kiểm soát tài sản, thu nhập phải bảo đảm minh bạch, khách quan, công bằng; được thực hiện đúng thẩm quyền, đúng đối tượng, đúng trình tự, thủ tục theo quy định của pháp luật; không xâm phạm quyền tài sản của người có nghĩa vụ kê khai.\n2. Mọi vi phạm của cơ quan, tổ chức, cá nhân trong việc kiểm soát tài sản, thu nhập phải được xử lý nghiêm minh, kịp thời theo quy định của pháp luật.\nNghiêm cấm việc sử dụng không đúng mục đích thông tin, dữ liệu trong kiểm soát tài sản, thu nhập.\n3. Việc thực hiện các biện pháp kiểm soát tài sản, thu nhập và xử lý hành vi kê khai, giải trình không trung thực phải căn cứ vào bản kê khai, việc giải trình và Kết luận xác minh được thực hiện theo Luật Phòng, chống tham nhũng năm 2018 và Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Quyền yêu cầu, trách nhiệm thực hiện yêu cầu cung cấp thông tin",
+      "text": "Điều 5. Quyền yêu cầu, trách nhiệm thực hiện yêu cầu cung cấp thông tin\n1. Người có quyền yêu cầu cung cấp thông tin về tài sản, thu nhập (sau đây gọi là người yêu cầu) để phục vụ việc theo dõi biến động tài sản, thu nhập, xây dựng kế hoạch xác minh và xác minh tài sản, thu nhập, bao gồm:\na) Người đứng đầu, cấp phó của người đứng đầu Cơ quan kiểm soát tài sản, thu nhập;\nb) Tổ trưởng Tổ xác minh tài sản, thu nhập.\n2. Cơ quan, tổ chức, đơn vị, cá nhân được yêu cầu cung cấp thông tin (sau đây gọi là người được yêu cầu) có trách nhiệm cung cấp đầy đủ, trung thực, kịp thời thông tin theo yêu cầu của người yêu cầu và chịu trách nhiệm về thông tin do mình cung cấp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Việc yêu cầu cung cấp thông tin của Cơ quan kiểm soát tài sản, thu nhập",
+      "text": "Điều 6. Việc yêu cầu cung cấp thông tin của Cơ quan kiểm soát tài sản, thu nhập\n1. Việc yêu cầu cung cấp thông tin theo quy định tại khoản 3 Điều 31 của Luật Phòng, chống tham nhũng được thực hiện bằng văn bản.\n2. Nội dung văn bản yêu cầu gồm có:\na) Mục đích, căn cứ yêu cầu cung cấp thông tin;\nb) Những thông tin cần được cung cấp;\nc) Thời hạn cung cấp thông tin;\nd) Hướng dẫn việc cung cấp thông tin bằng văn bản, thông điệp dữ liệu;\nđ) Yêu cầu khác (nếu có).\n3. Việc yêu cầu cung cấp thông tin bổ sung được thực hiện theo quy định tại khoản 1 và khoản 2 Điều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Việc cung cấp thông tin của cơ quan, tổ chức, đơn vị",
+      "text": "Điều 7. Việc cung cấp thông tin của cơ quan, tổ chức, đơn vị\n1. Thời hạn cung cấp thông tin:\na) Người được yêu cầu phải thực hiện yêu cầu cung cấp thông tin trong thời hạn 05 ngày làm việc kể từ ngày nhận được yêu cầu;\nb) Trong trường hợp thông tin được yêu cầu cung cấp là thông tin phức tạp, không có sẵn thì thời hạn cung cấp thông tin là 15 ngày làm việc kể từ ngày nhận được yêu cầu.\n2. Trong trường hợp vì lý do khách quan không thể cung cấp được thông tin hoặc cung cấp không đúng thời hạn thì người được yêu cầu phải có văn bản đề nghị người yêu cầu xem xét, giải quyết.\nNgười được yêu cầu phải chấp hành quyết định của người yêu cầu cung cấp thông tin.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Việc yêu cầu và thực hiện yêu cầu cung cấp thông tin đối với doanh nghiệp, tổ chức thuộc khu vực ngoài nhà nước và cá nhân",
+      "text": "Điều 8. Việc yêu cầu và thực hiện yêu cầu cung cấp thông tin đối với doanh nghiệp, tổ chức thuộc khu vực ngoài nhà nước và cá nhân\n1. Việc yêu cầu và thực hiện yêu cầu cung cấp thông tin đối với doanh nghiệp, tổ chức thuộc khu vực ngoài nhà nước và cá nhân được thực hiện theo quy định tại Điều 6 và Điều 7 của Nghị định này.\n2. Việc yêu cầu và thực hiện yêu cầu cung cấp thông tin đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại Việt Nam được thực hiện theo quy định của pháp luật về cung cấp thông tin khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại Việt Nam.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Mẫu bản kê khai và việc thực hiện kê khai tài sản, thu nhập",
+      "text": "Điều 9. Mẫu bản kê khai và việc thực hiện kê khai tài sản, thu nhập\n1. Việc kê khai lần đầu, kê khai hằng năm và kê khai phục vụ công tác cán bộ được thực hiện theo Mẫu bản kê khai và Hướng dẫn việc kê khai tại Phụ lục I được ban hành kèm theo Nghị định này.\n2. Việc kê khai bổ sung được thực hiện theo Mẫu bản kê khai và hướng dẫn việc kê khai bổ sung tại Phụ lục II được ban hành kèm theo Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Người có nghĩa vụ kê khai hằng năm",
+      "text": "Điều 10. Người có nghĩa vụ kê khai hằng năm\nNgười có nghĩa vụ kê khai theo quy định tại điểm b khoản 3 Điều 36 của Luật Phòng, chống tham nhũng bao gồm:\n\nCÔNG BÁO/Số 1047 + 1048/Ngày 10-11-2020\nTrang 7\n\n1. Các ngạch công chức và chức danh sau đây:\na) Chấp hành viên;\nb) Điều tra viên;\nc) Kế toán viên;\nd) Kiểm lâm viên;\nđ) Kiểm sát viên;\ne) Kiểm soát viên ngân hàng;\ng) Kiểm soát viên thị trường;\nh) Kiểm toán viên;\ni) Kiểm tra viên của Đảng;\nk) Kiểm tra viên hải quan;\nl) Kiểm tra viên thuế;\nm) Thanh tra viên;\nn) Thẩm phán.\n\n2. Những người giữ chức vụ lãnh đạo, quản lý từ Phó trưởng phòng và tương đương trở lên công tác trong một số lĩnh vực được xác định trong danh mục tại Phụ lục III được ban hành kèm theo Nghị định này.\n\n3. Người đại diện phần vốn nhà nước tại doanh nghiệp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Việc công khai bản kê khai tại cơ quan, tổ chức, đơn vị",
+      "text": "Điều 11. Việc công khai bản kê khai tại cơ quan, tổ chức, đơn vị\n\n1. Việc công khai bản kê khai đối với những người thuộc phạm vi kiểm soát của Cơ quan kiểm soát tài sản, thu nhập quy định tại các khoản 1, 2 và 3 Điều 30 của Luật Phòng, chống tham nhũng được thực hiện như sau:\n\na) Bản kê khai của người giữ chức vụ Phó Tổng cục trưởng và tương đương trở lên công tác tại các cơ quan trung ương được niêm yết tại trụ sở bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ hoặc công khai tại cuộc họp bao gồm lãnh đạo từ cấp cục, vụ và tương đương trở lên;\n\nTrang 8\n\nBản kê khai của người giữ chức vụ từ Vụ trưởng và tương đương trở xuống được niêm yết tại đơn vị hoặc công khai tại cuộc họp bao gồm lãnh đạo cấp phòng trở lên trong đơn vị, nơi không tổ chức đơn vị cấp phòng thì tại cuộc họp toàn thể đơn vị. Bản kê khai của những người khác được niêm yết tại phòng, ban, đơn vị hoặc công khai tại cuộc họp bao gồm toàn thể công chức, viên chức thuộc phòng, ban, đơn vị; nếu biên chế của phòng, ban, đơn vị có từ 50 người trở lên và có tổ, đội, nhóm thì công khai trước toàn thể công chức, viên chức thuộc tổ, đội, nhóm;\n\nb) Bản kê khai của Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Ủy ban nhân dân các cấp được niêm yết tại trụ sở Hội đồng nhân dân, Ủy ban nhân dân hoặc công bố tại cuộc họp bao gồm toàn thể cán bộ, công chức, viên chức thuộc Văn phòng Hội đồng nhân dân, Văn phòng Ủy ban nhân dân.\n\nBản kê khai của người có nghĩa vụ kê khai thuộc sở, ngành cấp tỉnh, phòng, ban cấp huyện được niêm yết tại trụ sở cơ quan hoặc công khai tại cuộc họp bao gồm toàn thể cán bộ, công chức, viên chức.\n\nBản kê khai của người có nghĩa vụ kê khai thuộc Hội đồng nhân dân, Ủy ban nhân dân cấp xã được niêm yết tại trụ sở Hội đồng nhân dân, Ủy ban nhân dân xã hoặc công khai tại cuộc họp gồm toàn thể cán bộ, công chức xã;\n\nc) Bản kê khai của những người làm việc trong doanh nghiệp nhà nước được niêm yết tại trụ sở doanh nghiệp nhà nước hoặc công khai tại cuộc họp gồm Ủy viên Hội đồng thành viên, Ủy viên Hội đồng quản trị, Tổng giám đốc, Phó Tổng giám đốc, Trưởng ban kiểm soát, Kiểm soát viên, Kế toán trưởng, Trưởng các đơn vị trực thuộc tập đoàn, tổng công ty, Chủ tịch Hội đồng thành viên, Chủ tịch Hội đồng quản trị, Tổng giám đốc, Giám đốc các tổng công ty, công ty trực thuộc tập đoàn, tổng công ty, Trưởng các đoàn thể trong tập đoàn, tổng công ty nhà nước;\n\nd) Bản kê khai của người đại diện phần vốn nhà nước tại doanh nghiệp được niêm yết hoặc công khai tại cuộc họp như được nêu tại các điểm a, b và c khoản này.\n\n2. Việc công khai bản kê khai tại cuộc họp đối với những người thuộc phạm vi kiểm soát của Cơ quan kiểm soát tài sản, thu nhập quy định tại các khoản 4, 5, 6, 7 và 8 Điều 30 của Luật Phòng, chống tham nhũng được thực hiện như quy định tại khoản 1 Điều này và hướng dẫn của cơ quan có thẩm quyền.\n\nTrang 9\n\n3. Bản kê khai được công khai chậm nhất là 05 ngày kể từ ngày cơ quan, tổ chức, đơn vị quản lý, sử dụng người có nghĩa vụ kê khai bàn giao bản kê khai cho Cơ quan kiểm soát tài sản, thu nhập.\n\n4. Thời gian niêm yết bản kê khai là 15 ngày. Vị trí niêm yết phải bảo đảm an toàn, thuận tiện cho việc đọc các bản kê khai.\n\nViệc niêm yết phải được lập thành biên bản, trong đó ghi rõ các bản kê khai được niêm yết, có chữ ký xác nhận của người đứng đầu cơ quan, tổ chức, đơn vị và đại diện tổ chức công đoàn.\n\n5. Cuộc họp công khai bản kê khai phải bảo đảm có mặt tối thiểu 2/3 số người được triệu tập. Người chủ trì cuộc họp tự mình hoặc phân công người đọc các bản kê khai hoặc từng người đọc bản kê khai của mình. Biên bản cuộc họp phải ghi lại những ý kiến phản ánh, thắc mắc và giải trình về nội dung bản kê khai (nếu có); có chữ ký của người chủ trì cuộc họp và đại diện tổ chức công đoàn cơ quan, tổ chức, đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Công khai bản kê khai của người dự kiến được bổ nhiệm giữ chức vụ lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị",
+      "text": "Điều 12. Công khai bản kê khai của người dự kiến được bổ nhiệm giữ chức vụ lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị\n\n1. Bản kê khai của người dự kiến được bổ nhiệm giữ chức vụ lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị được công khai bao gồm bản kê khai lần đầu, bản kê khai phục vụ việc bổ nhiệm và bản kê khai hằng năm hoặc bản kê khai bổ sung liền trước đó.\n\nViệc công khai được thực hiện bằng hình thức công bố tại cuộc họp lấy phiếu tín nhiệm.\n\n2. Trước khi lấy phiếu tín nhiệm, người chủ trì cuộc họp thực hiện việc công khai bản kê khai như sau:\na) Phát cho những người bỏ phiếu tín nhiệm bản sao của các bản kê khai nêu tại khoản 1 Điều này;\nb) Đọc hoặc phân công người đọc bản kê khai phục vụ bổ nhiệm và Kết luận xác minh tài sản, thu nhập (nếu có).\n\nNgười kê khai có quyền giải thích các ý kiến nêu tại cuộc họp liên quan tới bản kê khai (nếu có).\n\n3. Việc công khai bản kê khai tài sản, thu nhập phải được ghi vào biên bản cuộc họp lấy phiếu tín nhiệm.\n\nTrang 10",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Công khai bản kê khai của người dự kiến được bổ nhiệm, bầu giữ chức vụ lãnh đạo, quản lý tại doanh nghiệp nhà nước",
+      "text": "Điều 13. Công khai bản kê khai của người dự kiến được bổ nhiệm, bầu giữ chức vụ lãnh đạo, quản lý tại doanh nghiệp nhà nước\n\n1. Bản kê khai của người dự kiến được bổ nhiệm, bầu giữ chức vụ lãnh đạo, quản lý tại doanh nghiệp nhà nước được công bố tại cuộc họp lấy phiếu tín nhiệm khi tiến hành bổ nhiệm hoặc tại cuộc họp để bầu các chức vụ lãnh đạo, quản lý.\n\n2. Việc công khai bản kê khai của người dự kiến được bổ nhiệm, bầu giữ chức vụ lãnh đạo, quản lý tại doanh nghiệp nhà nước được thực hiện theo quy định tại Điều 12 của Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Xây dựng kế hoạch xác minh hằng năm",
+      "text": "Điều 14. Xây dựng kế hoạch xác minh hằng năm\n\n1. Căn cứ xây dựng kế hoạch:\na) Tình hình tham nhũng và công tác phòng, chống tham nhũng ở các ngành, lĩnh vực và địa phương;\nb) Các yêu cầu, chỉ đạo của cơ quan, tổ chức có thẩm quyền trong công tác phòng, chống tham nhũng;\nc) Định hướng xây dựng kế hoạch xác minh do Thanh tra Chính phủ chủ trì, phối hợp với các cơ quan có liên quan xây dựng và trình Thủ tướng Chính phủ phê duyệt trước ngày 31 tháng 10 hằng năm;\nd) Khả năng, điều kiện thực hiện các mục tiêu xác minh quy định tại Điều 15 của Nghị định này.\n\n2. Căn cứ vào khoản 1 Điều này, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ chỉ đạo cơ quan thanh tra xây dựng kế hoạch xác minh tài sản, thu nhập hằng năm; nơi không có cơ quan thanh tra thì chỉ đạo đơn vị phụ trách công tác tổ chức cán bộ thực hiện.\n\n3. Kế hoạch xác minh phải có các nội dung sau:\na) Mục đích, yêu cầu của kế hoạch xác minh;\nb) Số lượng và tên cơ quan, đơn vị được xác minh;\n\nTrang 11\n\nc) Tổng số người được xác minh, số lượng người được xác minh phân bổ theo cơ quan, tổ chức, đơn vị trực thuộc;\nd) Việc tổ chức thực hiện kế hoạch xác minh, người được phân công chỉ đạo việc thực hiện, đơn vị được phân công tiến hành xác minh, nguồn lực để thực hiện xác minh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Phê duyệt và thực hiện kế hoạch xác minh",
+      "text": "Điều 15. Phê duyệt và thực hiện kế hoạch xác minh\n\n1. Trước ngày 31 tháng 01 hằng năm, người đứng đầu Cơ quan kiểm soát tài sản, thu nhập quy định tại khoản 1, 3, 4, 5, 6, 7 và 8 Điều 30 của Luật Phòng, chống tham nhũng phê duyệt nội dung và ban hành kế hoạch xác minh hằng năm; Chánh thanh tra tỉnh ban hành kế hoạch xác minh hằng năm sau khi trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt nội dung kế hoạch.\n\n2. Kế hoạch xác minh hằng năm của Cơ quan kiểm soát tài sản, thu nhập phải bảo đảm số cơ quan, tổ chức, đơn vị được tiến hành xác minh tối thiểu bằng 20% số cơ quan, tổ chức, đơn vị thuộc thẩm quyền kiểm soát của mình; riêng đối với Bộ Công an, Bộ Quốc phòng, Bộ Ngoại giao, Bộ Tài chính phải bảo đảm tối thiểu bằng 10%.\n\n3. Trong thời hạn 10 ngày kể từ ngày kế hoạch xác minh được ban hành, Cơ quan kiểm soát tài sản, thu nhập tổ chức lựa chọn ngẫu nhiên người được xác minh. Việc lựa chọn được thực hiện công khai bằng hình thức bốc thăm hoặc sử dụng phần mềm máy tính.\n\nCơ quan kiểm soát tài sản, thu nhập mời đại diện Ủy ban kiểm tra Đảng và Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp dự và chứng kiến việc lựa chọn ngẫu nhiên người được xác minh.\n\nSố lượng người được lựa chọn để xác minh ngẫu nhiên phải bảo đảm tối thiểu 10% số người có nghĩa vụ kê khai hằng năm tại mỗi cơ quan, tổ chức, đơn vị được xác minh, trong đó có ít nhất 01 người là người đứng đầu hoặc cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Tiêu chí lựa chọn người được xác minh theo kế hoạch",
+      "text": "Điều 16. Tiêu chí lựa chọn người được xác minh theo kế hoạch\n\nViệc lựa chọn người có nghĩa vụ kê khai được xác minh theo kế hoạch hằng năm phải căn cứ vào các tiêu chí sau đây:\n\n1. Người có nghĩa vụ kê khai là đối tượng thuộc diện phải kê khai tài sản, thu nhập hằng năm.\n\nCÔNG BÁO/Số 1047 + 1048/Ngày 10-11-2020\nTrang 12\n\n2. Người có nghĩa vụ kê khai chưa được xác minh về tài sản, thu nhập trong thời gian 04 năm liền trước đó.\n\n3. Người có nghĩa vụ kê khai không thuộc một trong các trường hợp sau:\na) Người đang bị điều tra, truy tố, xét xử;\nb) Người đang điều trị bệnh hiểm nghèo được cơ quan y tế có thẩm quyền xác nhận;\nc) Người đang học tập, công tác ở nước ngoài từ 12 tháng trở lên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Nguyên tắc bảo vệ, lưu trữ, khai thác, cung cấp thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập",
+      "text": "Điều 17. Nguyên tắc bảo vệ, lưu trữ, khai thác, cung cấp thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập\n\n1. Thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập phải được lưu trữ đầy đủ, chính xác; khai thác, sử dụng đúng mục đích, có hiệu quả, đúng quy định của pháp luật; bảo đảm yêu cầu của việc kiểm soát tài sản, thu nhập, công tác quản lý nhà nước về phòng, chống tham nhũng và công tác quản lý cán bộ.\n\n2. Cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập phải được bảo vệ nghiêm ngặt, an toàn theo quy định của pháp luật; tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật về công nghệ thông tin; bảo đảm sự tương thích, an toàn, thông suốt trong toàn hệ thống các cơ sở dữ liệu về kiểm soát tài sản, thu nhập.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Trách nhiệm bảo vệ, lưu trữ thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập",
+      "text": "Điều 18. Trách nhiệm bảo vệ, lưu trữ thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập\n\n1. Thanh tra Chính phủ có trách nhiệm:\na) Xây dựng và vận hành hệ thống hạ tầng kỹ thuật Cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập;\nb) Tổ chức bộ máy và cán bộ chuyên trách vận hành Cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập theo quy định của Chính phủ, Thủ tướng Chính phủ;\nc) Thực hiện các biện pháp bảo đảm an ninh, an toàn thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập;\n\nCÔNG BÁO/Số 1047 + 1048/Ngày 10-11-2020\nTrang 13\n\nd) Thực hiện các biện pháp sao lưu, dự phòng để bảo đảm khả năng khắc phục sự cố, phục hồi dữ liệu;\nđ) Thực hiện các biện pháp bảo trì, bảo dưỡng để bảo đảm Cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập hoạt động thường xuyên, ổn định.\n\n2. Bộ Quốc phòng, Bộ Công an, Bộ Thông tin và Truyền thông có trách nhiệm hướng dẫn, phối hợp với Thanh tra Chính phủ trong việc bảo vệ, lưu trữ thông tin cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Khai thác, cung cấp thông tin cơ sở dữ liệu về kiểm soát tài sản, thu nhập",
+      "text": "Điều 19. Khai thác, cung cấp thông tin cơ sở dữ liệu về kiểm soát tài sản, thu nhập\n\n1. Thanh tra Chính phủ và các Cơ quan kiểm soát tài sản, thu nhập khác cung cấp thông tin cơ sở dữ liệu về kiểm soát tài sản, thu nhập theo yêu cầu của Ủy ban Thường vụ Quốc hội, Chủ tịch nước, Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Hội đồng bầu cử quốc gia và các cơ quan, tổ chức khác theo quy định tại các điểm đ, e, g, h và i khoản 1 Điều 42 của Luật Phòng, chống tham nhũng.\n\n2. Thanh tra Chính phủ và các Cơ quan kiểm soát tài sản, thu nhập khác cung cấp thông tin cơ sở dữ liệu về kiểm soát tài sản, thu nhập theo yêu cầu của cơ quan, tổ chức, đơn vị phụ trách công tác tổ chức cán bộ, kiểm tra có thẩm quyền của Đảng, Quốc hội, cơ quan trung ương của các tổ chức chính trị - xã hội.\n\n3. Cơ quan kiểm soát tài sản, thu nhập cung cấp thông tin cơ sở dữ liệu về kiểm soát tài sản, thu nhập theo yêu cầu của Cơ quan thanh tra, Kiểm toán Nhà nước, Cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân.\n\n4. Việc cung cấp thông tin cơ sở dữ liệu về kiểm soát tài sản, thu nhập đối với người chịu sự kiểm soát của nhiều Cơ quan kiểm soát tài sản, thu nhập được thực hiện theo Quy chế phối hợp quy định tại khoản 2 Điều 1 của Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Xử lý hành vi vi phạm đối với người kê khai",
+      "text": "Điều 20. Xử lý hành vi vi phạm đối với người kê khai\n\n1. Người có nghĩa vụ kê khai mà kê khai không trung thực, giải trình nguồn gốc của tài sản, thu nhập tăng thêm không trung thực thì tùy theo tính chất, mức độ mà bị xử lý theo quy định tại Điều 51 của Luật Phòng, chống tham nhũng.\n\nCÔNG BÁO/Số 1047 + 1048/Ngày 10-11-2020\nTrang 14\n\n2. Người có nghĩa vụ kê khai mà tẩu tán, che giấu tài sản, thu nhập, cản trở hoạt động kiểm soát tài sản, thu nhập, không nộp bản kê khai sau 02 lần được đôn đốc bằng văn bản thì tùy theo tính chất, mức độ vi phạm mà bị xử lý bằng một trong các hình thức cảnh cáo, hạ bậc lương, giáng chức, cách chức, bãi nhiệm, buộc thôi việc, giáng cấp bậc quân hàm, giáng cấp bậc hàm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Xử lý hành vi vi phạm khác trong kiểm soát tài sản, thu nhập",
+      "text": "Điều 21. Xử lý hành vi vi phạm khác trong kiểm soát tài sản, thu nhập\n\n1. Người đứng đầu cơ quan, tổ chức, đơn vị thiếu trách nhiệm trong tổ chức việc kê khai, công khai bản kê khai, nộp bản kê khai thì tùy theo tính chất, mức độ mà bị xử lý kỷ luật bằng một trong các hình thức khiển trách, cảnh cáo, giáng chức.\n\n2. Người đứng đầu Cơ quan kiểm soát tài sản, thu nhập, Tổ trưởng và thành viên Tổ xác minh tài sản, thu nhập có hành vi vi phạm trong việc tiếp nhận bản kê khai, quản lý, sử dụng cơ sở dữ liệu về kiểm soát tài sản, thu nhập, tiến hành xác minh, kết luận xác minh, công khai kết quả xác minh thì tùy theo tính chất, mức độ mà bị xử lý kỷ luật bằng một trong các hình thức khiển trách, cảnh cáo, giáng chức, cách chức.\n\n3. Cơ quan, tổ chức, đơn vị, cá nhân không thực hiện, thực hiện không đúng, không đầy đủ, không kịp thời yêu cầu của Cơ quan kiểm soát tài sản, thu nhập thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc xử lý kỷ luật theo quy định của pháp luật.\n\n4. Các hành vi vi phạm quy định tại Điều 20, các khoản 1, 2 và 3 Điều này nếu cấu thành tội phạm thì bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Thẩm quyền, trình tự, thủ tục xử lý kỷ luật đối với người có hành vi vi phạm quy định về kiểm soát tài sản, thu nhập",
+      "text": "Điều 22. Thẩm quyền, trình tự, thủ tục xử lý kỷ luật đối với người có hành vi vi phạm quy định về kiểm soát tài sản, thu nhập\n\n1. Việc xử lý kỷ luật người có hành vi vi phạm là cán bộ, công chức, viên chức được thực hiện theo quy định của pháp luật về xử lý kỷ luật cán bộ, công chức, viên chức.\n\n2. Việc xử lý kỷ luật người có hành vi vi phạm làm việc trong Quân đội nhân dân, Công an nhân dân được thực hiện theo quy định về xử lý kỷ luật trong Quân đội nhân dân, Công an nhân dân.\n\n3. Việc xử lý kỷ luật người có hành vi vi phạm là thành viên, hội viên của tổ chức chính trị, tổ chức chính trị - xã hội được thực hiện theo quy định của tổ chức đó.\n\nCÔNG BÁO/Số 1047 + 1048/Ngày 10-11-2020\nTrang 15",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": "Công khai quyết định xử lý vi phạm",
+      "text": "Điều 23. Công khai quyết định xử lý vi phạm\n\n1. Quyết định kỷ luật đối với người có hành vi vi phạm quy định về kiểm soát tài sản, thu nhập được niêm yết công khai tại cơ quan, tổ chức, đơn vị nơi người bị xử lý kỷ luật thường xuyên làm việc trong thời gian 15 ngày.\n\nNgoài việc niêm yết công khai, người có thẩm quyền xử lý kỷ luật có thể lựa chọn thực hiện thêm hình thức thông báo tại Hội nghị cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức, đơn vị hoặc đăng tải trên trang thông tin điện tử của cơ quan, tổ chức, đơn vị.\n\n2. Việc xử phạt vi phạm hành chính, truy cứu trách nhiệm hình sự đối với các hành vi vi phạm khác về kiểm soát tài sản, thu nhập phải được công khai theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 24. Hiệu lực thi hành\n\nNghị định này có hiệu lực thi hành từ ngày 20 tháng 12 năm 2020.\nBãi bỏ Nghị định số 78/2013/NĐ-CP ngày 17 tháng 7 năm 2013 của Chính phủ về minh bạch tài sản, thu nhập.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 25",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 25. Trách nhiệm thi hành\n\nBộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, các cơ quan, tổ chức, đơn vị và cá nhân có liên quan chịu trách nhiệm tổ chức thi hành Nghị định này./.\n\nTM. CHÍNH PHỦ",
+      "isImplementationClause": false
+    }
+  ]
+}

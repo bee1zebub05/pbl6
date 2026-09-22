@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0344_04_2019_TT-BKHCN_Thông tư 04_2019_TT-BKHCN về quy định sử dụng hóa chất để thực hiện thí nghi.txt",
+  "mappedBy": "gemini-web",
+  "note": "11 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "04/2019/TT-BKHCN",
+    "title": "Thông tư Quy định sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học",
+    "documentType": "Thông tư",
+    "status": null,
+    "issueDate": "26/06/2019",
+    "effectiveDate": "15/09/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Khác"
+    ],
+    "summary": "Thông tư này quy định chi tiết Điều 33 Luật hóa chất về việc sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học, bao gồm trang thiết bị an toàn và bảo hộ lao động, ghi nhãn dụng cụ chứa, hồ sơ theo dõi, cũng như trách nhiệm của người đứng đầu cơ sở thí nghiệm và người trực tiếp sử dụng hóa chất.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Khoa học và Công nghệ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Công Tạc",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "95/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ;"
+    },
+    {
+      "targetDocumentNumber": "113/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 113/2017/ND-CP ngày 09 tháng 10 năm 2017 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật hóa chất;"
+    },
+    {
+      "targetDocumentNumber": "113/2017/ND-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 113/2017/ND-CP ngày 09 tháng 10 năm 2017 của Chính"
+    }
+  ],
+  "mentions": [],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nThông tư này quy định chi tiết Điều 33 Luật hóa chất ngày 21 tháng 11 năm 2007\nliên quan đến sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học (sau\nđây viết tắt là Luật hóa chất), bao gồm:\na) Trang thiết bị an toàn và trang thiết bị bảo hộ lao động, bảo đảm an toàn sử\ndụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học;\n\n12\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\nb) Ghi nhãn dụng cụ chứa hóa chất trong phòng thí nghiệm và kho chứa;\nc) Hồ sơ theo dõi hóa chất trong phòng thí nghiệm; Phiếu an toàn hóa chất;\nd) Trách nhiệm của người đứng đầu cơ sở thí nghiệm và người trực tiếp sử\ndụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Thông tư này áp dụng đối với cơ quan nhà nước, tổ chức, cá nhân sử dụng\nhóa chất và các tổ chức, cá nhân khác có liên quan đến việc sử dụng hóa chất để\nthực hiện thí nghiệm, nghiên cứu khoa học.\n2. Thông tư này không áp dụng đối với tổ chức, cá nhân thực hiện các hoạt\nđộng quy định tại khoản 2 Điều 3 Luật hóa chất ngày 21 tháng 11 năm 2007.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Giải thích từ ngữ",
+      "text": "Điều 3. Giải thích từ ngữ\nTrong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Cơ sở thí nghiệm, nghiên cứu khoa học là cơ quan, tổ chức được thành lập\ntheo quy định của pháp luật, có chức năng thí nghiệm, nghiên cứu khoa học;\n2. Người đứng đầu cơ sở thí nghiệm, nghiên cứu khoa học là người đại diện\ntheo quy định của pháp luật của cơ sở thí nghiệm, nghiên cứu khoa học;\n3. Người trực tiếp sử dụng hóa chất là người tiến hành các hoạt động thí\nnghiệm, nghiên cứu khoa học có sử dụng hóa chất;\n4. Phòng thí nghiệm là nơi thực hiện các thí nghiệm, thử nghiệm, xét nghiệm\n(gọi chung là thí nghiệm) phục vụ cho mục đích phân tích, đánh giá, nghiên cứu\nkhoa học;\n5. Dụng cụ chứa hóa chất bao gồm các loại téc, thùng, bình, chai, lọ, cốc, ống\nđong, ống nghiệm,...dùng để chứa hóa chất hoặc sử dụng làm thí nghiệm, nghiên\ncứu khoa học có sử dụng hóa chất;\n6. Ghi nhãn dụng cụ chứa hóa chất là việc ghi một hoặc một số nội dung cơ\nbản, cần thiết về hóa chất, tính chất gây nguy hiểm của hóa chất đó trên dụng cụ\nchứa để cung cấp thông tin cho người sử dụng;\n7. Hóa chất thải là hóa chất đã qua sử dụng không đáp ứng yêu cầu, chỉ tiêu kỹ\nthuật cho thực hiện thí nghiệm, nghiên cứu khoa học phải loại bỏ hoặc hóa chất đã\nquá hạn.\n\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\n13",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Quy định chung về sử dụng hóa chất để thực hiện thí nghiệm, nghiên",
+      "text": "Điều 4. Quy định chung về sử dụng hóa chất để thực hiện thí nghiệm, nghiên\ncứu khoa học\n1. Tổ chức, cá nhân sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu\nkhoa học phải chấp hành các quy định về quản lý hóa chất tại Luật hóa chất và\nNghị định số 113/2017/ND-CP ngày 09 tháng 10 năm 2017 của Chính phủ quy\nđịnh chi tiết và hướng dẫn thi hành một số điều của Luật hóa chất (sau đây viết tắt\nlà Nghị định số 113/2017/NĐ-CP).\n2. Tổ chức, cá nhân sử dụng hóa chất cấm thuộc “Danh mục hóa chất cấm” để\nthực hiện thí nghiệm, nghiên cứu khoa học phải thực hiện quy định tại Điều 19\nLuật hóa chất.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Trang thiết bị an toàn và trang thiết bị bảo hộ lao động trong",
+      "text": "Điều 5. Trang thiết bị an toàn và trang thiết bị bảo hộ lao động trong\nphòng thí nghiệm\n1. Quy định chung về trang thiết bị an toàn và trang thiết bị bảo hộ lao động\ntrong phòng thí nghiệm, gồm:\na) Phương tiện, thiết bị, dụng cụ ứng phó sự cố hóa chất;\nb) Hộp thuốc sơ cứu;\nc) Trang thiết bị bảo vệ cá nhân (Quần áo, giày, mũ, kính bảo hộ, mặt nạ\nphòng độc, găng tay, khẩu trang...) cần thiết cho người làm thí nghiệm phù hợp\nvới tính chất công việc nghiên cứu, thí nghiệm;\nd) Các loại thùng đựng chất thải được phân loại và có dấu hiệu bên ngoài để dễ\nnhận biết;\nđ) Nội quy an toàn lao động trong phòng thí nghiệm, hướng dẫn sử dụng các\nthiết bị thí nghiệm, hướng dẫn sử dụng an toàn hóa chất theo các nhóm hóa chất\nnguy hiểm;\ne) Phiếu an toàn hóa chất cung cấp những thông tin chi tiết về các hóa chất độc\nhại, nguy hiểm từ nhà sản xuất, nhà nhập khẩu và phân phối.\n\n14\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\n2. Phòng thí nghiệm sử dụng hóa chất nguy hiểm phải được trang bị trang thiết\nbị an toàn phù hợp theo đặc tính nguy hiểm của hóa chất, cụ thể:\na) Khu vực sử dụng hóa chất dễ cháy, nổ có thiết bị giám sát, cảnh báo và bố\ntrí thiết bị thông gió phù hợp;\nb) Khu vực sử dụng hóa chất độc hại dễ bay hơi phải có tủ hút độc phù hợp,\nquạt thông gió hoặc hệ thống thiết bị thu gom, xử lý khí bảo đảm đáp ứng yêu cầu\nkhí thải ra môi trường:\nc) Khu vực sử dụng hóa chất ăn mòn, Ôxy hóa mạnh được bố trí thiết kế riêng,\ncó hệ thống thu gom, xử lý chất thải phù hợp, bảo đảm an toàn;\nd) Các phòng thí nghiệm có sử dụng loại hóa chất có đặc tính nguy hiểm khác\nđược trang bị trang thiết bị an toàn hoặc có giải pháp phù hợp để bảo đảm an toàn\ncho người và bảo vệ môi trường.\n3. Trong phòng thí nghiệm phải bố trí khu vực để lưu giữ hóa chất đang sử\ndụng cho việc nghiên cứu, thí nghiệm bảo đảm an toàn.\n4. Hóa chất nguy hiểm, hóa chất cấm dùng để thí nghiệm, nghiên cứu khoa\nhọc, phải được lưu giữ trong kho chứa riêng biệt, đáp ứng yêu cầu của kho chứa\nhóa chất theo quy định tại Điều 4 Nghị định số 113/2017/NĐ-CP.\n5. Bố trí trang thiết bị an toàn trong phòng thí nghiệm bảo đảm yêu cầu sau:\na) Tránh lối, cửa thoát hiểm. Lối thoát hiểm phải được chỉ dẫn rõ ràng bằng\nbảng, đèn báo và được thiết kế thuận lợi cho việc thoát hiểm, cứu hộ, cứu nạn\ntrong trường hợp khẩn cấp;\nb) Bố trí hệ thống thông gió, hệ thống cảnh báo sự cố, hệ thống chiếu sáng, hệ\nthống điện, hệ thống cấp, thu gom, xử lý chất thải đáp ứng các tiêu chuẩn, quy\nchuẩn kỹ thuật và các quy định về phòng chống cháy, nổ, ăn mòn, bảo vệ môi\ntrường, an toàn và vệ sinh lao động theo quy định của pháp luật;\nc) Bố trí bảng nội quy về an toàn hóa chất, bảng hướng dẫn cụ thể về quy trình\nthao tác, biển báo nguy hiểm phù hợp với mức độ nguy hiểm của hóa chất ở nơi dễ\nthấy, dễ quan sát.\n6. Mỗi phòng thí nghiệm tùy theo tính chất chuyên môn ban hành quy định\nriêng bảo đảm an toàn cho người, tài sản và môi trường trong quá trình sử dụng,\nbảo quản hóa chất nguy hiểm.\n\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\n15",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Ghi nhãn dụng cụ chứa hóa chất trong kho chứa hóa chất, trong",
+      "text": "Điều 6. Ghi nhãn dụng cụ chứa hóa chất trong kho chứa hóa chất, trong\nphòng thí nghiệm\n1. Hóa chất đóng thùng, đóng chai, bao gói nguyên dai, nguyên kiện tồn chứa\ntrong kho chứa hóa chất và lưu giữ trong phòng thí nghiệm thực hiện ghi nhãn\ndụng cụ chứa hóa chất theo quy định tại khoản 3, 4 Điều 27 Luật hóa chất.\n2. Hóa chất mua lẻ, sử dụng lại, dồn lưu tồn chứa trong kho chứa hóa chất\nvà hóa chất sử dụng trong phòng thí nghiệm sau khi phá, dỡ đai, kiện, sang chiết\nvào dụng cụ chứa hóa chất để thực hiện thí nghiệm thì trên dụng cụ chứa hóa\nchất phải ghi nhãn để cảnh báo, phân loại bảo đảm an toàn hóa chất cho người\nsử dụng.\na) Ghi nhãn trên dụng cụ chứa hóa chất trong kho chứa hóa chất bảo đảm\ncác thông tin: tên hóa chất, công thức hóa học; biện pháp phòng ngừa để sử\ndụng an toàn; thời hạn sử dụng; hình đồ cảnh báo, từ cảnh báo, cảnh báo nguy\ncơ (nếu có).\nb) Ghi nhãn trên dụng cụ chứa hóa chất sử dụng trong quá trình thực hiện thí\nnghiệm, nghiên cứu khoa học bảo đảm một hoặc một số thông tin sau:\n- Tên hóa chất, công thức hóa học;\n- Hàm lượng, nồng độ hoặc thành phần chính.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Hồ sơ theo dõi tình hình sử dụng hóa chất để thực hiện thí nghiệm,",
+      "text": "Điều 7. Hồ sơ theo dõi tình hình sử dụng hóa chất để thực hiện thí nghiệm,\nnghiên cứu khoa học\n1. Phòng thí nghiệm lập hồ sơ theo dõi sử dụng hóa chất nguy hiểm và hóa\nchất cấm, bao gồm:\na) Số theo dõi sử dụng hóa chất nguy hiểm và hóa chất cấm;\nb) Hồ sơ, tài liệu của từng loại hóa chất cấm dùng để thực hiện thí nghiệm,\nnghiên cứu khoa học (nếu có);\nc) Phiếu an toàn hóa chất đối với các loại hóa chất độc hại, dễ gây nguy hiểm\ntheo quy định tại Điều 24 Nghị định số 113/2017/NĐ-CP.\n2. Nội dung ghi chép trong sổ theo dõi sử dụng hóa chất nguy hiểm và hóa\nchất cấm cập nhật đầy đủ các thông tin gồm: tên khoa học, tên thương mại, công\nthức hóa học của hóa chất; số lượng, khối lượng hóa chất sử dụng, hóa chất thải;\n\n16\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\nphân nhóm hóa chất nguy hiểm; thông tin liên quan đến sự cố hóa chất, an toàn\nhóa chất; những đặc tính, tác động phát sinh mới gây nguy hiểm của hóa chất.\n3. Sổ theo dõi sử dụng hóa chất nguy hiểm và hóa chất cấm, phiếu an toàn hóa\nchất được lưu giữ thống nhất tại nơi quy định trong phòng thí nghiệm.\n4. Thời gian lưu giữ hồ sơ ghi chép theo dõi tình hình sử dụng đối với hóa chất\nnguy hiểm ít nhất ba năm, hóa chất cấm ít nhất là mười năm, kể từ ngày kết thúc\nsử dụng hóa chất đó.\n5. Định kỳ hằng năm kiểm kê hóa chất, cập nhật theo dõi các hóa chất cũ, đã\nhết hạn sử dụng để có biện pháp xử lý bảo đảm an toàn.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Trách nhiệm của người đứng đầu cơ sở thí nghiệm, nghiên cứu",
+      "text": "Điều 8. Trách nhiệm của người đứng đầu cơ sở thí nghiệm, nghiên cứu\nkhoa học\n1. Thực hiện quản lý hóa chất và quản lý an toàn hóa chất theo quy định của\npháp luật.\n2. Xây dựng, phê duyệt và ban hành nội quy, quy trình, hướng dẫn sử dụng\nhóa chất an toàn, phù hợp với quy định của pháp luật.\n3. Xây dựng kho chứa hóa chất, phòng thí nghiệm đạt yêu cầu theo tiêu chuẩn,\nquy chuẩn kỹ thuật quốc gia, đáp ứng yêu cầu về cơ sở vật chất - kỹ thuật, phù hợp\nvới tính chất đặc thù chuyên ngành, quy mô và đặc tính nguy hiểm của các loại hóa\nchất sử dụng.\n4. Bố trí đầy đủ nguồn nhân lực, trang thiết bị an toàn, trang thiết bị bảo hộ lao\nđộng và phân công người theo dõi về an toàn hóa chất, quản lý, lưu giữ, xử lý sự\ncố hóa chất.\n5. Bảo đảm các điều kiện an toàn cho con người và môi trường trong quá trình\nlưu giữ, sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học theo quy\nđịnh của pháp luật.\n6. Xây dựng Kế hoạch phòng ngừa, ứng phó sự cố hóa chất và biện pháp\nphòng ngừa, ứng phó sự cố hóa chất theo quy định tại Luật hóa chất và Nghị định\nsố 113/2017/NĐ-CP.\n7. Tổ chức huấn luyện an toàn hóa chất hoặc cử người tham gia các khóa huấn\nluyện của các tổ chức huấn luyện an toàn hóa chất theo quy định tại Nghị định số\n113/2017/NĐ-CP.\n\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\n17\n8. Tổ chức các hoạt động bảo đảm an toàn sử dụng hóa chất, bao gồm:\na) Phổ biến, hướng dẫn cho người sử dụng hóa chất nắm vững quy định về nội\nquy an toàn sử dụng hóa chất, quy trình thực hiện thí nghiệm, nghiên cứu khoa học\nvà có kỹ năng đảm bảo xử lý an toàn những sự cố tại nơi làm việc;\nb) Cung cấp và duy trì đầy đủ, phù hợp các trang thiết bị an toàn và trang thiết\nbị bảo hộ lao động để bảo đảm an toàn môi trường làm việc;\nc) Bố trí các trang thiết bị an toàn gọn gàng, dễ thấy, dễ lấy và đầy đủ.\n9. Quản lý, kiểm soát chặt chẽ, báo cáo chính xác, kịp thời về sử dụng hóa chất\ncấm cho cơ quan quản lý có thẩm quyền.\n10. Lập hồ sơ theo dõi hóa chất và lưu giữ phiếu an toàn hóa chất theo quy\nđịnh của pháp luật.\n11. Thực hiện kiểm định, hiệu chuẩn trang thiết bị an toàn theo quy định của\npháp luật về đo lường.\n12. Xử lý, thải bỏ hóa chất tồn dư, chất thải và dụng cụ chứa hóa chất thực\nhiện theo quy định tại Điều 35 Luật hóa chất.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Trách nhiệm của người trực tiếp sử dụng hóa chất",
+      "text": "Điều 9. Trách nhiệm của người trực tiếp sử dụng hóa chất\n1. Tuân thủ các quy định về quản lý an toàn hóa chất theo quy định của pháp\nluật và nội quy, quy trình, hướng dẫn sử dụng hóa chất của cơ sở thí nghiệm,\nnghiên cứu khoa học.\n2. Đề xuất và thực hiện phương án lưu giữ hóa chất, sử dụng trang thiết bị an\ntoàn, trang thiết bị bảo hộ lao động trong thí nghiệm, nghiên cứu bảo đảm an toàn.\n3. Đề xuất và thực hiện phân nhóm, bố trí khu vực lưu giữ theo nhóm hóa chất\nnguy hiểm, dụng cụ chứa hóa chất để tiến hành thí nghiệm, nghiên cứu khoa học\nvà treo biển báo nguy hiểm.\n4. Quản lý, kiểm soát chặt chẽ việc sử dụng hóa chất bảo đảm an toàn theo\nquy định của cơ sở thí nghiệm, nghiên cứu khoa học. Riêng đối với danh mục hóa\nchất cấm phải quản lý nghiêm ngặt số lượng, khối lượng, sử dụng đúng mục đích\ntrong thí nghiệm, nghiên cứu khoa học, bảo đảm tuyệt đối an toàn trong quá trình\nsử dụng.\n\n18\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\n5. Sử dụng các trang thiết bị an toàn, trang thiết bị bảo hộ lao động, dụng cụ\nchứa hóa chất phù hợp, đáp ứng các quy định, bảo đảm an toàn và sạch sẽ.\n6. Phát hiện và báo cáo kịp thời cho người đứng đầu cơ sở thí nghiệm, nghiên\ncứu khoa học các hiện tượng không bình thường trong quá trình sử dụng hóa chất\ncó nguy cơ gây nguy hiểm, mất an toàn hoặc sự cố hóa chất để có biện pháp phòng\nngừa, ứng phó sự cố hóa chất kịp thời.\n7. Thực hiện sắp xếp trang thiết bị an toàn, trang thiết bị bảo hộ lao động, dụng\ncụ chứa hóa chất và lưu giữ hóa chất theo quy định của cơ sở thí nghiệm, nghiên\ncứu khoa học.\n8. Tham gia huấn luyện an toàn hóa chất do cơ sở thí nghiệm, nghiên cứu khoa\nhọc tổ chức (nếu có); nắm vững về nội quy, quy trình, hướng dẫn sử dụng hóa chất\nan toàn và các biện pháp bảo đảm an toàn lao động.\n9. Đọc kỹ tài liệu, hiểu rõ quy trình trước khi thực hiện thí nghiệm và dự báo\ncác sự cố có thể xảy ra để chủ động phòng tránh, đặc biệt đối với các loại hóa chất\nnguy hiểm, hóa chất mới.\n10. Phân loại và lưu giữ, xử lý chất thải theo đúng quy định của cơ sở thí\nnghiệm, nghiên cứu khoa học.\n11. Định kỳ rà soát, đề xuất việc xử lý hóa chất thải, dụng cụ chứa hóa chất bị\như hỏng.\n12. Lập sổ theo dõi hóa chất sử dụng, hóa chất thải.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 10. Trách nhiệm thi hành\n1. Trách nhiệm của Bộ Khoa học và Công nghệ:\na) Phối hợp với các Bộ, ngành, địa phương có liên quan tổ chức phổ biến, triển\nkhai, thực hiện Thông tư này;\nb) Thực hiện báo cáo tình hình sử dụng hóa chất nguy hiểm, hóa chất cấm để\nthực hiện thí nghiệm, nghiên cứu khoa học theo quy định của pháp luật.\n\n19\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\n2. Trách nhiệm của cơ quan quản lý khoa học và công nghệ tỉnh, thành phố\ntrực thuộc Trung ương:\na) Phối hợp với các cơ quan, đơn vị có liên quan tổ chức phổ biến, triển khai,\nthực hiện Thông tư này trên địa bàn địa phương;\nb) Tổng hợp, báo cáo đột xuất hoặc khi có yêu cầu về việc sử dụng hóa chất để\nthực hiện thí nghiệm, nghiên cứu khoa học của tổ chức, cá nhân trên địa bàn quản\nlý, gửi Bộ Khoa học và Công nghệ về: tình hình sử dụng hóa chất cấm để thực hiện\nthí nghiệm, nghiên cứu khoa học; sự cố hóa chất xảy ra; đặc tính nguy hiểm mới\ncủa hóa chất sử dụng.\n3. Trách nhiệm của tổ chức, cá nhân sử dụng hóa chất để thực hiện thí nghiệm,\nnghiên cứu khoa học:\na) Tổ chức, cá nhân sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu\nkhoa học có trách nhiệm báo cáo cơ quan quản lý khoa học và công nghệ tỉnh,\nthành phc“'› trực thuộc Trung ương nơi đặt trụ sở của tổ chức, cá nhân và cơ quan\nquản lý trực tiếp, cụ thể:\n- Báo cáo trước ngày 15 tháng 01 hằng năm tình hình sử dụng hóa chất cấm để\nthực hiện thí nghiệm, nghiên cứu khoa học của năm trước. Nội dung báo cáo gồm:\ntên khoa học, tên thương mại của hóa chất; hàm lượng, tính chất; số lượng, khối\nlượng hóa chất mua, đã sử dụng, thải bỏ; mục đích sử dụng; hồ sơ, tài liệu mua, sử\ndụng và thải bỏ hóa chất;\n- Báo cáo kịp thời tình hình xảy ra sự cố hóa chất trong thực hiện thí nghiệm,\nnghiên cứu khoa học. Nội dung báo cáo gồm: tên khoa học, tên thương mại của\nhóa chất gây sự cố; hậu quả đối với tổ chức và khu vực xung quanh (số người chết,\nsố người bị ảnh hưởng sức khỏe, ước tính thiệt hại vật chất); nguyên nhân, diễn\nbiến và quá trình khắc phục sự cố; hồ sơ, tài liệu, hình ảnh có liên quan đến sự cố\ngửi kèm theo;\n- Báo cáo kịp thời đặc tính nguy hiểm mới của hóa chất sử dụng để thực hiện\nthí nghiệm, nghiên cứu khoa học. Nội dung báo cáo gồm: tên khoa học, tên thương\nmại của hóa chất; hàm lượng, tính chất; mục đích sử dụng; hiện tượng xảy ra trong\nquá trình sử dụng và khả năng gây nguy hiểm mới của hóa chất.\n\n20\nCÔNG BÁO/Số 621 + 622/Ngày 16-8-2019\nb) Tổ chức, cá nhân có trách nhiệm báo cáo khi có yêu cầu của cơ quan quản\nlý nhà nước về tình hình sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu\nkhoa học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 11. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 9 năm 2019.\n2. Trong quá trình thực hiện gặp phải khó khăn, vướng mắc, tổ chức, cá nhân\nphản ánh kịp thời bằng văn bản về Bộ Khoa học và Công nghệ để được hướng dẫn\nhoặc nghiên cứu sửa đổi, bổ sung cho phù hợp.\n3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính\nphủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách\nnhiệm tổ chức triển khai thực hiện Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0441_3707_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều tại _Quy định về liêm chính học thuật của.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3707/QĐ-ĐHBK",
+    "title": "Quyết định Sửa đổi, bổ sung một số điều tại “Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "25/07/2025",
+    "effectiveDate": "25/07/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khảo thí",
+      "Pháp chế"
+    ],
+    "summary": "Quyết định số 3707/QĐ-ĐHBK sửa đổi, bổ sung điểm a khoản 3 Điều 4 của Quy định về liêm chính học thuật tại Trường Đại học Bách khoa, Đại học Đà Nẵng, quy định chi tiết các hình thức xử lý vi phạm đối với người học tại phòng thi từ khiển trách, cảnh cáo, đình chỉ thi, đình chỉ học tập đến buộc thôi học.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "29/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Trường Đại học Bách khoa về việc ban hành Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1274/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Phòng Quản lý Chất lượng và Pháp chế",
+    "Phòng Đào tạo",
+    "Hội đồng xét kỷ luật sinh viên vi phạm quy định về liêm chính học thuật",
+    "Phòng Công tác Sinh viên",
+    "Phòng Tổ chức - Hành chính"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều quy định tại điểm a khoản 3 Điều 4 Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 29/QĐ-ĐHBK ngày 09 tháng ",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều quy định tại điểm a khoản 3 Điều 4 Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng (gọi chung là Quy định), như sau:\n\n“3. Xử lý các vi phạm liêm chính học thuật đối với người học”\na) Các hành vi vi phạm tại phòng thi được xử lý kỷ luật như sau:\n\n- Khiển trách: áp dụng đối với người học vi phạm một lần với hành vi nhìn bài bạn hoặc trao đổi bài với bạn. Hình thức kỷ luật khiển trách do cán bộ coi thi lập biên bản xử lý người học vi phạm quy định về liêm chính học thuật (sau đây gọi tắt là biên bản), ghi rõ hình thức kỷ luật đề nghị vào biên bản và gửi về Phòng Quản lý Chất lượng & Pháp chế (QLCL&PC) ngay sau khi buổi thi kết thúc. Phòng QLCL&PC có trách nhiệm lập hồ sơ vi phạm và bàn giao cho Phòng Đào tạo để thực hiện việc trừ 25% tổng số điểm của bài thi tương ứng đối với người học bị kỷ luật khiển trách.\n\n- Cảnh cáo: áp dụng đối với người học vi phạm một trong các hành vi sau: đã bị khiển trách một lần nhưng trong giờ thi học phần đó vẫn tiếp tục vi phạm Quy định ở mức khiển trách; trao đổi bài làm hoặc giấy nháp cho bạn; chép bài của bạn hoặc để bạn chép bài của mình. Hình thức kỷ luật cảnh cáo do cán bộ coi thi lập biên bản, kèm theo tang vật (nếu có); ghi rõ hình thức kỷ luật đề nghị vào biên bản và gửi về Phòng QLCL&PC ngay sau khi buổi thi kết thúc. Phòng QLCL&PC có trách nhiệm lập hồ sơ vi phạm và bàn giao cho Phòng Đào tạo để thực hiện việc trừ 50% tổng số điểm của bài thi tương ứng đối với người học bị kỷ luật cảnh cáo.\n\n- Đình chỉ thi: áp dụng đối với người học vi phạm một trong các hành vi sau: đã bị xử lý bằng hình thức cảnh cáo một lần nhưng trong giờ thi học phần đó vẫn tiếp tục vi phạm Quy định ở mức khiển trách hoặc cảnh cáo; mang vào phòng thi các phương tiện kỹ thuật lưu trữ, truyền nhận thông tin (như: điện thoại, máy ảnh, đồng hồ thông minh, máy tính có chức năng soạn thảo văn bản,...), trừ trường hợp đề thi có quy định rõ cho phép người học sử dụng tài liệu, phương tiện kỹ thuật trong thời gian thi; mang tài liệu vào phòng thi; đưa đề thi ra ngoài phòng thi hoặc nhận bài giải từ ngoài đưa vào phòng thi. Hình thức kỷ luật đình chỉ thi do cán bộ coi thi lập biên bản, thu giữ tang vật (nếu có); ghi rõ hình thức kỷ luật đề nghị vào biên bản và gửi về Phòng QLCL&PC ngay sau khi buổi thi kết thúc. Phòng QLCL&PC có trách nhiệm lập hồ sơ vi phạm và bàn giao cho Phòng Đào tạo để thực hiện việc cho điểm 0 (không) đối với học phần vi phạm đó. Người học bị kỷ luật đình chỉ thi phải ra khỏi phòng thi ngay sau khi cán bộ coi thi công bố hình thức kỷ luật đình chỉ thi.\n\n- Đình chỉ học tập 01 học kỳ: áp dụng đối với người học mang vào phòng thi nhưng chưa sử dụng các phương tiện kỹ thuật lưu trữ, truyền nhận thông tin (như: điện thoại, máy ảnh, đồng hồ thông minh, máy tính có chức năng soạn thảo văn bản,...), trừ trường hợp đề thi có quy định rõ cho phép người học sử dụng tài liệu, phương tiện kỹ thuật trong thời gian thi. Hình thức kỷ luật này do cán bộ coi thi lập biên bản, gửi về Phòng QLCL&PC ngay sau khi buổi thi kết thúc. Phòng QLCL&PC có trách nhiệm lập hồ sơ vi phạm và bàn giao cho Phòng Công tác Sinh viên để thực hiện thủ tục trình Hội đồng kỷ luật sinh viên xem xét, xử lý theo quy định. Người học bị áp dụng hình thức kỷ luật này phải nhận điểm 0 (không) đối với học phần vi phạm Quy định và bị đình chỉ học tập, không được đăng ký các học phần trong 01 học kỳ chính tiếp theo và học kỳ hè (nếu có). Thời điểm bắt đầu đình chỉ học tập được tính từ thời điểm người học kết thúc đợt thi cuối học kỳ. Trường hợp người học đã hoàn thành tất cả các học phần của chương trình đào tạo nhưng vi phạm các hành vi nêu trên thì bị đình chỉ xét tốt nghiệp trong vòng 6 tháng, kể từ thời điểm người học có đủ điều kiện để xét tốt nghiệp theo quy định. Thời gian đình chỉ học tập được tính vào thời gian đào tạo tối đa mà người học được phép hoàn thành chương trình.\n\n- Đình chỉ học tập 02 học kỳ: áp dụng đối với người học thực hiện một trong các hành vi sau: đi thi hộ hoặc nhờ người khác đi thi hộ; người học sử dụng các phương tiện kỹ thuật lưu trữ, truyền nhận thông tin (như: điện thoại, máy ảnh, đồng hồ thông minh, máy tính có chức năng soạn thảo văn bản,...), trừ trường hợp đề thi có quy định cho phép sử dụng tài liệu, phương tiện kỹ thuật trong thời gian thi; sử dụng giấy tờ giả mạo. Hình thức kỷ luật này do cán bộ coi thi lập biên bản và gửi về Phòng QLCL&PC ngay sau khi buổi thi kết thúc. Phòng QLCL&PC có trách nhiệm lập hồ sơ vi phạm và bàn giao cho Phòng Công tác Sinh viên để thực hiện thủ tục trình Hội đồng kỷ luật sinh viên xem xét, xử lý theo quy định. Người học bị áp dụng hình thức kỷ luật này phải nhận điểm 0 (không) đối với học phần vi phạm Quy định và bị đình chỉ học tập, không được đăng ký các học phần trong 02 học kỳ chính tiếp theo và học kỳ hè (nếu có). Thời điểm bắt đầu đình chỉ học tập được tính từ thời điểm người học kết thúc đợt thi cuối học kỳ. Trường hợp người học đã hoàn thành tất cả các học phần của chương trình đào tạo nhưng vi phạm một trong các hành vi nêu trên thì bị đình chỉ xét tốt nghiệp trong vòng 12 tháng, kể từ thời điểm người học đủ điều kiện để xét tốt nghiệp theo quy định. Thời gian đình chỉ học tập được tính vào thời gian đào tạo tối đa mà người học được phép hoàn thành chương trình.\n\n- Buộc thôi học: áp dụng đối với người học đã bị xử lý kỷ luật với hình thức “Đình chỉ học tập 01 học kỳ” hoặc “Đình chỉ học tập 02 học kỳ” nhưng tiếp tục vi phạm với hành vi thuộc một trong hai mức kỷ luật này. Hình thức kỷ luật này do cán bộ coi thi lập biên bản và gửi về Phòng QLCL&PC ngay sau khi buổi thi kết thúc. Phòng QLCL&PC có trách nhiệm lập hồ sơ vi phạm và bàn giao cho Phòng Công tác Sinh viên để thực hiện thủ tục trình Hội đồng kỷ luật sinh viên xem xét, xử lý theo quy định.\n\n- Đối với các hành vi vi phạm khác, tùy theo tính chất và mức độ vi phạm, Hội đồng kỷ luật sinh viên xem xét, áp dụng hình thức kỷ luật phù hợp trong số các hình thức nêu trên.\n\n- Ngoài các hình thức kỷ luật của Nhà trường, người học có thể bị xem xét, xử lý theo quy định của pháp luật hiện hành, tùy theo tính chất và mức độ vi phạm.\n\n- Hình thức kỷ luật của người học từ cảnh cáo trở lên phải được lưu vào hồ sơ quản lý sinh viên và thông báo cho gia đình người học. Trường hợp người học bị kỷ luật mức đình chỉ học tập có thời hạn hoặc buộc thôi học, Nhà trường gửi thông báo cho địa phương và gia đình người học biết để phối hợp quản lý, giáo dục.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bá",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Quản lý Chất lượng và Pháp chế, Trưởng phòng Phòng Đào tạo, Trưởng các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Quản lý Chất lượng và Pháp chế, Trưởng phòng Phòng Đào tạo, Trưởng các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

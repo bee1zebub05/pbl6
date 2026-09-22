@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0018_1414_QĐ-ĐHBK_Ban hành Quy định về viêc xét, cấp học bổng cho sinh viên hệ đại học chính quy tại.txt",
+  "mappedBy": "gemini-web",
+  "note": "18 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1414/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định về việc xét, cấp học bổng cho sinh viên hệ đại học chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/05/2021",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định ban hành Quy định về việc xét, cấp học bổng cho sinh viên hệ đại học chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng, áp dụng từ năm học 2021-2022 và thay thế Quyết định số 2083/QĐ-ĐHBK ngày 08/9/2019.",
+    "idOverride": null,
+    "targetGroups": [
+      "Người học"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "84/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 84/2020/NĐ-CP ngày 17/7/2020 của Chính phủ quy định chi tiết một số điều của Luật Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "35/2011/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 35/2011/TT-BGDĐT ngày 11/8/2011 của Bộ Giáo dục và Đào tạo quy định về trao và nhận học bổng trợ cấp cho người học trong các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "16/2015/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12/8/2015 của Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của học sinh, sinh viên học trình độ đại học hệ chính quy;"
+    },
+    {
+      "targetDocumentNumber": "17/VBHN-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Văn bản hợp nhất số 17/VBHN-BGDĐT ngày 15/5/2014 của Bộ Giáo dục và Đào tạo ban hành về Quy chế Đào tạo đại học và cao đẳng theo hệ thống tín chỉ;"
+    },
+    {
+      "targetDocumentNumber": "28/VBHN-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Văn bản hợp nhất số 28/VBHN-BGDĐT ngày 05/4/2014 của Bộ Giáo dục và Đào tạo về Học bổng khuyến khích học tập đối với học sinh, sinh viên trong các trường chuyên, trường năng khiếu, các cơ sở giáo dục đại học và trung cấp chuyên nghiệp thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ban hành Quy chế tổ chức và hoạt động của trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2083/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này được áp dụng đối với học kỳ lấy điểm xét học bổng khuyến khích học tập bắt đầu từ năm học 2021 - 2022 và thay thế cho Quyết định số 2083/QĐ-ĐHBK ngày 08/9/2019 ban hành Quy định \"về việc xét, cấp học bổng, hỗ trợ chi phí học tập cho sinh viên đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng\"."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc xét, cấp học bổng cho sinh viên đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy định này điều chỉnh về chính sách, nguyên tắc, tiêu chuẩn và phương thức\nthực hiện xét và cấp học bổng cho sinh viên đại học hệ chính quy.\n2. Quy định này áp dụng cho sinh viên đại học hệ chính quy của Trường Đại học\nBách khoa, Đại học Đà Nẵng (gọi chung là sinh viên) đang trong thời gian đào tạo\ntheo kế hoạch thiết kế của khóa học theo quy chế hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích và yêu cầu",
+          "text": "Điều 2. Mục đích và yêu cầu\n1. Mục đích\na) Xây dựng cơ sở pháp lý cho việc xét, cấp học bổng cho sinh viên nhằm đảm\nbảo quyền lợi, hỗ trợ, khuyến khích, động viên sinh viên tích cực phấn đấu trong học\ntập, rèn luyện phục vụ cộng đồng và đóng góp cho sự phát triển giáo dục đào tạo của\nTrường Đại học Bách khoa, Đại học Đà Nẵng (gọi chung là Nhà trường);\nb) Xây dựng môi trường giáo dục đào tạo toàn diện.\n2. Yêu cầu\na) Bảo đảm chính xác, kịp thời, công bằng, công khai, minh bạch, đúng đối\ntượng;\nb) Đúng quy định của pháp luật, của Nhà nước và của Bộ Giáo dục và Đào tạo;\nc) Đúng nguyên tắc trong quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Chính sách học bổng",
+          "text": "Điều 3. Chính sách học bổng\nNhà trường có các chính sách học bổng, bao gồm:\n1. Học bổng khuyến khích học tập (KKHT)\na) Học bổng KKHT dành cho sinh viên có điểm trung bình chung học tập và\nđiểm rèn luyện của học kỳ lấy điểm xét học bổng KKHT đạt từ loại khá trở lên;\n\nb) Học bổng KKHT được xét cấp theo từng học kỳ của năm học. Đối với sinh\nviên học ở học kỳ hè thì điểm học tập trong học kỳ hè sẽ được tính cùng với học kỳ 2\nđể tính điểm xét học bổng;\nc) Sinh viên thuộc diện hưởng học bổng chính sách, trợ cấp xã hội, chính sách ưu\nđãi thì vẫn được xét, cấp học bổng KKHT theo quy định này.\n2. Học bổng tuyển sinh: là học bổng dành cho sinh viên đáp ứng các điều kiện\ntheo đề án tuyển sinh hằng năm của Nhà trường, được xét cấp nhằm tuyên dương,\nkhích lệ đối với sinh viên có thành tích cao trong tuyển sinh.\n3. Học bổng tài trợ: là học bổng được tài trợ không hoàn lại bằng tiền mặt hoặc\nhiện vật của các cơ quan, tổ chức, cá nhân trong nước và nước ngoài (sau đây gọi\nchung là nhà tài trợ) cho sinh viên; được Nhà trường liên kết, tiếp nhận và triển khai\ntheo quy định của nhà nước và kế hoạch của nhà tài trợ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nguồn học bổng",
+          "text": "Điều 4. Nguồn học bổng\n1. Nguồn học bổng KKHT được trích tối thiểu bằng 8% nguồn thu học phí của\nNhà trường. Tỷ lệ trích lập cụ thể từng học kỳ do Hiệu trưởng quyết định.\n2. Nguồn học bổng tuyển sinh được trích từ nguồn thu học phí của Nhà trường.\nTỷ lệ trích lập cụ thể do Hiệu trưởng quyết định.\n3. Nguồn học bổng tài trợ được lấy từ các nguồn kinh phí tài trợ hợp pháp của\ncác nhà tài trợ được Nhà trường liên kết và tiếp nhận.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tiêu chuẩn xét học bổng KKHT",
+          "text": "Điều 5. Tiêu chuẩn xét học bổng KKHT\n1. Sinh viên phải đạt đồng thời các tiêu chuẩn sau thì được xét, cấp học bổng\nKKHT:\na) Điểm trung bình chung học tập và điểm rèn luyện được xác định theo quy định\nhiện hành của Bộ Giáo dục và Đào tạo ban hành, trong đó điểm trung bình chung học\ntập để xét cấp học bổng KKHT được tính từ điểm thi, kiểm tra hết học phần lần thứ\nnhất. Đối với sinh viên thuộc chương trình đào tạo PFIEV, điểm thi hết học phần lần\nthứ nhất được lấy để xét học bổng KKHT;\nb) Điểm trung bình chung của học kỳ được tính theo công thức sau đây và được\nlàm tròn đến 2 chữ số thập phân:\nDTBC 2M (Di.tc;)\nZM1 tc;\nTrong đó:\nDTBC _ Điểm trung bình chung học kỳ của các học phần lần thứ\nnhất (tính theo thang điểm 10);\nD; - Điểm của học phần thi thứ i;\ntc; Số tín chỉ của học phần thứ i;\nM Tổng số học phần lần thứ nhất mà sinh viên đăng ký trong\nhọc kỳ;\n\nc) Điểm trung bình chung học kỳ để xét cấp học bổng KKHT phải đạt từ 7,00 trở\nlên;\nd) Điểm rèn luyện đạt từ loại khá trở lên (2 65 điểm);\nđ) Tại học kỳ xét học bổng, sinh viên phải tích lũy đủ số tín chỉ theo kế hoạch\nhọc tập thiết kế của chương trình đào tạo mà sinh viên theo học;\nf) Đối với sinh viên thuộc chương trình tiên tiến, tại học kỳ lấy điểm xét cấp học\nbổng KKHT, sinh viên phải đạt yêu cầu về năng lực tiếng Anh theo quy định hiện\nhành của Nhà trường;\ng) Đối với sinh viên lấy điểm tại học kỳ cuối cùng của khóa học (học kỳ làm đồ\nán tốt nghiệp) để xét học bổng, sinh viên phải đủ điều kiện nhận bằng tốt nghiệp đại\nhọc;\nh) Đối với sinh viên học song hành hơn một chương trình đào tạo hệ đại học\nchính quy thì chỉ được xét học bổng KKHT đối với chương trình mà sinh viên trúng\ntuyển trong kỳ tuyển sinh chung của Bộ Giáo dục và Đào tạo quy định;\ni) Đối với trường hợp đặc biệt khác, Nhà trường sẽ xem xét cụ thể và thông báo\ncho sinh viên được biết.\n2. Sinh viên thuộc một trong các trường hợp sau không được xét, cấp học bổng\nKKHT:\na) Chịu hình thức kỷ luật từ mức khiển trách trở lên trong học kỳ xét học bổng;\nb) Có điểm học phần dưới điểm 5,0 theo thang điểm 10 (kể cả học phần không\nđược tính để xét cấp học bổng);\nc) Có tổng số tín chỉ học phần lần đầu của học kỳ lấy điểm xét học bổng 15\n(không tính đối với các học phần xin bảo lưu hoặc hoãn thi), trừ trường hợp học kỳ lấy\nđiểm xét học bổng KKHT số tín chỉ theo thiết kế của chương trình đào tạo < 15;\nd) Học quá thời gian thiết kế của chương trình đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Mức học bổng KKHT",
+          "text": "Điều 6. Mức học bổng KKHT\nHọc bổng KKHT có 3 loại tương ứng 3 mức như sau:\n1. Học bổng loại khá (loại C): Mức học bổng bằng 100% mức học phí hiện hành\ncủa chương trình đào tạo mà sinh viên đó phải đóng đối với các học phần học lần đầu\ntrong học kỳ lấy điểm xét học bổng tại Trường do Hiệu trưởng quy định, áp dụng đối\nvới sinh viên có điểm trung bình chung học tập đạt loại khá trở lên (7,00 7,99 theo\nthang điểm 10) và điểm rèn luyện đạt loại khá trở lên (2 65 điểm)\n2. Học bổng loại giỏi (loại B): Mức học bổng bằng 120% mức học bổng loại Khá\n(loại C) của chương trình đào tạo mà sinh viên phải đóng đối với các học phần học lần\nđầu trong học kỳ lấy điểm xét học bổng, áp dụng đối với sinh viên có điểm trung bình\nchung học tập đạt loại giỏi trở lên (8,00 + 8,99 theo thang điểm 10) và điểm rèn luyện\nđạt loại tốt trở lên (2 80 điểm)\n\n3. Học bổng loại xuất sắc (loại A): Mức học bổng bằng 150% mức học bổng loại\nKhá (loại C) hiện hành của chương trình đào tạo mà sinh viên phải đóng đối với các\nhọc phần học lần đầu trong học kỳ lấy điểm xét học bổng, áp dụng đối với sinh viên có\nđiểm trung bình chung học tập đạt loại xuất sắc (9,00 trở lên theo thang điểm 10) và\nđiểm rèn luyện đạt loại xuất sắc (2 90 điểm)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Trình tự và nguyên tắc xét, cấp học bổng KKHT",
+          "text": "Điều 7. Trình tự và nguyên tắc xét, cấp học bổng KKHT\n1. Học bổng KKHT được xét 2 lần trong một năm học, vào đầu mỗi học kỳ (học\nkỳ 1 và học kỳ 2) theo trình tự như sau:\na) Nhà trường thống kê danh sách dự kiến đủ điều kiện được xét cấp học bổng\nKKHT và thông báo cho sinh viên toàn Trường để kiểm tra và phản hồi (nếu có);\nb) Họp Hội đồng xét cấp học bổng KKHT của Trường;\nc) Hoàn tất các thủ tục theo quy định và ban hành quyết định do Hiệu trưởng ký\nvề việc cấp học bổng kèm theo danh sách sinh viên được cấp học bổng KKHT.\n2. Học kỳ xét cấp học bổng KKHT sử dụng kết quả học tập và rèn luyện của học\nkỳ liền trước để xét cấp học bổng KKHT.\n3. Học bổng KKHT xét theo chương trình đào tạo, khóa học, ngành học.\n4. Hiệu trưởng căn cứ vào nguồn học bổng KKHT xác định số lượng suất học\nbổng cho từng chương trình đào tạo, khóa học, ngành học.\n5. Học bổng KKHT được xét theo tiêu chuẩn và theo thứ tự từ cao xuống thấp\ntheo trình tự các loại A, B, C. Trong mỗi loại, thứ tự ưu tiên lần lượt là: điểm học tập,\nđiểm rèn luyện cho đến hết số suất học bổng đã được xác định dựa trên nguồn kinh phí\ntrích lập theo quy định.\n6. Nếu số lượng sinh viên đủ điều kiện được cấp học bổng KKHT nhiều hơn số\nsuất học bổng được phân bổ thì Hội đồng xét cấp học bổng sẽ tiến hành xét, cấp học\nbổng theo thứ tự ưu tiên đến khi hết tổng số tiền học bổng đã được xác định. Nếu sinh\nviên có cùng kết quả học tập và rèn luyện thì thứ tự ưu tiên lần lượt như sau: sinh viên\ncó hoàn cảnh gia đình khó khăn; sinh viên tích cực tham gia hoạt động phục vụ cộng\nđồng, công tác xã hội (có minh chứng kèm theo).\n7. Nếu số lượng sinh viên đủ tiêu chuẩn được cấp học bổng KKHT thấp hơn số\nsuất học bổng được phân bổ theo chương trình đào tạo, khóa học, ngành học thì Khoa\nđề xuất phân bổ kinh phí còn lại theo một trong các phương án sau:\na) Phân bổ cho các chương trình đào tạo, khóa học, ngành học mà số học bổng\nphân bổ không đủ so với số sinh viên đủ tiêu chuẩn theo quy định này;\nb) Chuyển sang học kỳ kế tiếp cho chương trình đào tạo, khóa học, ngành học\nđó;\nViệc đề xuất được ghi nhận bằng văn bản do Trưởng khoa ký và gửi cho Hội\nđồng xét cấp học bổng KKHT để làm căn cứ xét cấp học bổng KKHT cho sinh viên.\n\n8. Các trường hợp đặc biệt về việc xét cấp học bổng KKHT cho sinh viên sẽ do\nHiệu trưởng xem xét quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Hình thức cấp học bổng",
+          "text": "Điều 8. Hình thức cấp học bổng\n1. Học bổng KKHT và học bổng tuyển sinh được cấp cho sinh viên sau khi có\nQuyết định do Hiệu trưởng ký ban hành theo quy định và được cấp bằng hình thức\nchuyển vào tài khoản liên kết ngân hàng của sinh viên do Nhà trường cấp hoặc nhận\ntrực tiếp tại Phòng Kế hoạch tài chính (trong trường hợp sinh viên chưa được cấp tài\nkhoản liên kết ngân hàng).\n2. Học bổng tài trợ được cấp cho sinh viên bằng các hình thức theo đề nghị của\nnhà tài trợ, đảm bảo phù hợp với quy định của pháp luật và Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Học bổng tuyển sinh",
+          "text": "Điều 9. Học bổng tuyển sinh\n1. Hằng năm, Nhà trường sẽ căn cứ vào tình hình thực tế và đề án tuyển sinh để\ncấp học bổng tuyển sinh.\n2. Việc xét cấp học bổng tuyển sinh thực hiện theo quy định trong Đề án tuyển\nsinh do Nhà trường ban hành.\n3. Sau khi hoàn tất thủ tục nhập học cho sinh viên khóa mới theo quy định chung\ncủa Nhà trường, căn cứ vào chính sách học bổng tuyển sinh được quy định trong đề án\ntuyển sinh hằng năm, Hội đồng xét cấp học bổng tuyển sinh của Nhà trường sẽ tổ chức\nxét và đề nghị Hiệu trưởng ra Quyết định cấp học bổng tuyển sinh.\n4. Việc cấp học bổng tuyển sinh được thực hiện theo hình thức như đối với học bổng\nKKHT, được thực hiện sau khi Quyết định cấp học bổng tuyển sinh được ký ban hành.\n5. Đối với sinh viên đủ tiêu chuẩn được cấp đồng thời hai chính sách học bổng\ngồm học bổng tuyển sinh duy trì và học bổng KKHT theo quy định này thì chỉ được\ncấp một chính sách học bổng có mức học bổng cao hơn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Học bổng tài trợ",
+          "text": "Điều 10. Học bổng tài trợ\n1. Quá trình vận động, tiếp nhận nguồn học bổng từ các đơn vị ngoài Trường cần\nkhuyến khích xác lập biên bản Thỏa thuận hợp tác giữa Nhà trường với các tổ chức, cá\nnhân tài trợ học bổng.\n2. Các chương trình học bổng đặc thù của đơn vị tài trợ cho các chương trình đào\ntạo thì điều kiện xét, cấp học bổng cho sinh viên do đơn vị tài trợ đề xuất, có sự trao\nđổi và thống nhất với Nhà trường và có thể tham khảo các tiêu chuẩn tại Điều 5 của\nQuy định này.\n3. Mỗi sinh viên chỉ được nhận 01 lần học bổng tài trợ trong 01 năm học (sinh\nviên có tổng số tiền học bổng tài trợ nhận được trong năm học 2 5 triệu đồng thì được\ntính lần). Đối với những trường hợp vi phạm về số lần nhận học bổng tài trợ thì Hội\nđồng xét học bổng sẽ xem xét và quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hội đồng xét học bổng",
+          "text": "Điều 11. Hội đồng xét học bổng\n1. Thẩm quyền thành lập: Hội đồng xét học bổng do Hiệu trưởng hoặc Phó Hiệu\ntrưởng được Hiệu trưởng ủy quyền ký Quyết định thành lập.\n2. Thành phần Hội đồng bao gồm:\nChủ tịch Hội đồng: Hiệu trưởng hoặc Phó Hiệu trưởng được ủy quyền;\nỦy viên thường trực Hội đồng: Trưởng phòng Phòng Công tác Sinh viên;\nCác ủy viên của Hội đồng là đại diện các đơn vị: Phòng Công tác Sinh viên,\nPhòng Đào tạo, Phòng Kế hoạch Tài chính, Đoàn Thanh niên và các Khoa quản lý\nsinh viên thuộc đối tượng được xét cấp học bổng;\nThư ký Hội đồng: chuyên viên Phòng Công tác Sinh viên được phân công.\n3. Nhiệm vụ của Hội đồng\na) Tư vấn giúp Hiệu trưởng xem xét, công nhận kết quả xét, cấp học bổng của\ntừng sinh viên trên cơ sở các quy định hiện hành;\nb) Căn cứ vào kết quả xét, cấp học bổng của từng sinh viên, đề nghị Hiệu trưởng\nban hành quyết định cấp học bổng cho sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quyền khiếu nại về việc xét, cấp học bổng",
+          "text": "Điều 12. Quyền khiếu nại về việc xét, cấp học bổng\n1. Cá nhân và tập thể sinh viên nếu thấy việc xét, cấp học bổng không thỏa đáng\ncó quyền khiếu nại lên Phòng Công tác Sinh viên hoặc Phòng Thanh tra Pháp chế để\nđề nghị Hiệu trưởng xem xét lại; nếu đã được Hiệu trưởng xem xét lại mà thấy chưa\nthỏa đáng có thể khiếu nại lên Đại học Đà Nẵng theo quy định của pháp luật về khiếu\nnại, tố cáo.\n2. Các cấp nhận được đơn khiếu nại có trách nhiệm xem xét, nghiên cứu và trả\nlời theo quy định của pháp luật về khiếu nại, tố cáo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Công tác thanh tra, kiểm tra, khen thưởng, kỷ luật",
+          "text": "Điều 13. Công tác thanh tra, kiểm tra, khen thưởng, kỷ luật\n1. Nhà trường có trách nhiệm tự tổ chức thanh tra, kiểm tra, giải quyết khiếu nại,\ntố cáo các lĩnh vực hoạt động của Trường hằng năm, định kỳ hoặc đột xuất theo đúng\ncác quy định của pháp luật và báo cáo theo quy định của Đại học Đà Nẵng, Bộ Giáo\ndục và Đào tạo.\n2. Các đơn vị, tập thể, cá nhân thuộc Trường ĐHBK có thành tích trong việc giới\nthiệu nguồn học bổng tài trợ được xét khen thưởng theo quy định của Nhà trường.\n3. Các đơn vị, tập thể, cá nhân thuộc Trường ĐHBK vi phạm quy định về xét cấp\nhọc bổng cho sinh viên Nhà trường tùy theo mức độ sẽ bị xử lý theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Trách nhiệm của các đơn vị liên quan trong việc xét cấp học bổng",
+          "text": "Điều 14. Trách nhiệm của các đơn vị liên quan trong việc xét cấp học bổng\n1. Phòng Công tác Sinh viên\n\na) Tham mưu cho Hiệu trưởng thành lập Hội đồng xét, cấp học bổng cho sinh\nviên;\nb) Thông báo cho các đơn vị và sinh viên kế hoạch xét, cấp học bổng KKHT vào\nđầu mỗi học kỳ và học bổng tài trợ theo kế hoạch của nhà tài trợ;\nc) Tiếp nhận hồ sơ đăng ký xét, cấp học bổng của sinh viên;\nd) Chủ trì thẩm định hồ sơ đăng ký xét, cấp học bổng của sinh viên và trình Hội\nđồng xem xét;\nđ) Phối hợp với các đơn vị liên quan làm thủ tục cấp học bổng cho sinh viên;\nf) Trả lời, hướng dẫn giải quyết những kiến nghị, khiếu nại của sinh viên trong\nviệc xét cấp học bổng.\n2. Phòng Đào tạo\na) Lập danh sách sinh viên đủ tiêu chuẩn xét, cấp học bổng KKHT và gửi cho\nPhòng Công tác Sinh viên vào đầu mỗi học kỳ;\nb) Thống kê tổng số tín chỉ sinh viên đăng ký học trong học kỳ lấy điểm xét học\nbổng KKHT và gửi cho Phòng Công tác Sinh viên.\n3. Phòng Kế hoạch Tài chính\na) Cung cấp số liệu kinh phí phân bổ học bổng KKHT cho từng chương trình đào\ntạo, khóa học, ngành học của học kỳ lấy điểm xét cấp học bổng KKHT theo quy định;\nb) Thống kê học phí của sinh viên đủ tiêu chuẩn xét, cấp học bổng KKHT đã nộp\ntrong học kỳ lấy điểm xét cấp học bổng KKHT để làm cơ sở xác định mức học bổng;\nc) Thực hiện việc cấp học bổng cho sinh viên theo quy định;\nd) Thực hiện thủ tục tài chính liên quan nguồn học bổng tài trợ của các tổ chức,\ncá nhân theo quy định.\n4. Các Khoa\na) Phối hợp với Phòng Công tác Sinh viên trong việc xét, cấp học bổng cho sinh\nviên;\nb) Thống kê kết quả cấp học bổng tài trợ do Khoa chủ trì và gửi cho Phòng Công\ntác Sinh viên tổng hợp theo từng học kỳ;\nc) Xác nhận thư giới thiệu của giảng viên chủ nhiệm hoặc đơn xin học bổng của\nsinh viên khi đăng ký xét cấp học bổng (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 15. Điều khoản thi hành\n1. Trưởng các đơn vị chịu trách nhiệm phổ biến, triển khai thực hiện Quy định\nnày trong toàn thể viên chức và sinh viên của đơn vị.\n\n2. Phòng Công tác Sinh viên tham mưu cho Hiệu trưởng trong việc hướng dẫn,\nkiểm tra, báo cáo kết quả triển khai thực hiện Quy định này và đề xuất với Hiệu trưởng\nđiều chỉnh, bổ sung khi cần thiết.\n3. Trong quá trình thực hiện, nếu có vướng mắc, bất cập hoặc có vấn đề mới nảy\nsinh cần bổ sung, sửa đổi, các đơn vị, cá nhân có liên quan phản ánh kịp thời với Nhà\ntrường thông qua Phòng Công tác Sinh viên để tổng hợp ý kiến trình Hiệu trưởng xem\nxét và quyết định.\n4. Trong trường hợp văn bản quy phạm pháp luật nêu tại Quy định này được ĩ\nđổi, bổ sung hay thay thế bằng văn bản mới thì áp dụng theo văn bản mới tính tại #hà\nđiểm xét cấp học bổng./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy định về việc xét, cấp học",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy định về việc xét, cấp học\nbổng cho sinh viên đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học\nĐà Nẵng\".",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này được áp dụng đối với học kỳ lấy điểm xét học bổng",
+      "text": "Điều 2. Quyết định này được áp dụng đối với học kỳ lấy điểm xét học bổng\nkhuyến khích học tập bắt đầu từ năm học 2021 2022 và thay thế cho Quyết định số\n2083/QĐ-ĐHBK ngày 08/9/2019 ban hành Quy định \"về việc xét, cấp học bổng, hỗ\ntrợ chi phí học tập cho sinh viên đại học hệ chính quy tại Trường Đại học Bách khoa,\nĐại học Đà Nẵng\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức Hành chính, Trưởng phòng Phòng",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức Hành chính, Trưởng phòng Phòng\nCông tác Sinh viên, Trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi\nhành quyết định này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

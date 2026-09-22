@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0195_436_QĐ-TTg_Ban hành Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ c.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "436/QĐ-TTg",
+    "title": "Ban hành Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ của giáo dục đại học, giai đoạn 2020 - 2025",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "30/03/2020",
+    "effectiveDate": "30/03/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Thủ tướng Chính phủ ban hành Quyết định phê duyệt Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ của giáo dục đại học giai đoạn 2020 - 2025 nhằm đổi mới hoạt động đào tạo, nâng cao chất lượng giáo dục đại học và tạo cơ chế liên thông. Kế hoạch đề ra các nhiệm vụ cụ thể về xây dựng văn bản, chuẩn chương trình đào tạo, rà soát chương trình, xây dựng báo cáo tham chiếu và đẩy mạnh truyền thông.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Xuân Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "1981/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1981/QĐ-TTg ngày 18 tháng 10 năm 2016 của Thủ tướng Chính phủ phê duyệt Khung cơ cấu hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "1982/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1982/QĐ-TTg ngày 18 tháng 10 năm 2016 của Thủ tướng Chính phủ phê duyệt Khung trình độ quốc gia Việt Nam;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Y tế",
+    "Bộ Văn hóa, Thể thao và Du lịch",
+    "Bộ Công An",
+    "Bộ Quốc phòng",
+    "Bộ Tài chính",
+    "Bộ Lao động - Thương binh và Xã hội"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ của giáo dục đại học, giai đoạn 2020 - 2025.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch thực hiện Khung trình độ quốc gia Việt Nam đối với các trình độ của giáo dục đại học, giai đoạn 2020 - 2025.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, cơ sở giáo dục đại học và tổ chức, cá nhân liên quan chị",
+      "text": "Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, cơ sở giáo dục đại học và tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./",
+      "isImplementationClause": true
+    }
+  ]
+}

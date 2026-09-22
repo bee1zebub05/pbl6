@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0048_771_QĐ-ĐHBK_Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "771/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/04/2019",
+    "effectiveDate": "08/04/2019",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "summary": "Trường Đại học Bách khoa ban hành Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động nhằm quản lý, khai thác có hiệu quả các nguồn lực của Nhà trường, hướng dẫn và tăng cường công tác kế hoạch tài chính năm tài chính.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "ĐOÀN QUANG VINH",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "222/KH-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Kế hoạch số 222/KH-ĐHBK ngày 25/01/2019 của Trường Đại học Bách khoa về kế hoạch soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa năm 2019;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động",
+      "contentType": "Quy trình",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mục đích, phạm vi áp dụng",
+          "text": "Điều 1. Ban hành kèm theo Quyết định này Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động của Trường Đại học Bách khoa.\n\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký, các quy định trước đây trái với Quyết định này được bãi bỏ. Trong quá trình thực hiện, Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động của Trường Đại học Bách khoa có thể được điều chỉnh, bổ sung, sửa đổi để phù hợp với thực tế hoạt động của Trường Đại học Bách khoa và các quy định của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc chung",
+          "text": "Kế hoạch và dự toán kinh phí hoạt động của các đơn vị được xây dựng dựa trên định hướng, mục tiêu phát triển của Nhà trường; kế hoạch chiến lược của đơn vị và các công tác dự kiến thực hiện trong năm.\n\nPhòng Kế hoạch – Tài chính (dưới sự chỉ đạo của Hiệu trưởng) là đơn vị tổng hợp kế hoạch và dự toán kinh phí hoạt động năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Các bước xây dựng kế hoạch và dự toán",
+          "text": "Điều 3. Trưởng Phòng Tổ chức – Hành chính, Trưởng các đơn vị trực thuộc Trường căn cứ Quyết định thi hành.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động của Trường Đại học Bách khoa.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động của Trường Đại học Bách khoa.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký, các quy định trước đây trái với Quyết định này được bãi bỏ. Trong quá trình thực hiện, Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động của Trường Đạ",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký, các quy định trước đây trái với Quyết định này được bãi bỏ. Trong quá trình thực hiện, Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động của Trường Đại học Bách khoa có thể được điều chỉnh, bổ sung, sửa đổi để phù hợp với thực tế hoạt động của Trường Đại học Bách khoa và các quy định của Nhà nước.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng Phòng Tổ chức – Hành chính, Trưởng các đơn vị trực thuộc Trường căn cứ Quyết định thi hành.",
+      "text": "Điều 3. Trưởng Phòng Tổ chức – Hành chính, Trưởng các đơn vị trực thuộc Trường căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

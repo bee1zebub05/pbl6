@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0375_346_QĐ-TTg_Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "346/QĐ-TTg",
+    "title": "Quyết định Ban hành Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/04/2023",
+    "effectiveDate": "06/04/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Pháp chế"
+    ],
+    "summary": "Thủ tướng Chính phủ ban hành Quyết định phê duyệt Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở nhằm xác định cụ thể nội dung công việc, thời hạn và trách nhiệm của các cơ quan, tổ chức trong việc thi hành Luật.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trần Lưu Quang",
+      "academicTitle": null,
+      "position": [
+        "Phó Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2022/QH15",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Luật Thực hiện dân chủ ở cơ sở số 10/2022/QH15 được Quốc hội khóa XV thông qua tại kỳ họp thứ 4 ngày 10 tháng 11 năm 2022..."
+    }
+  ],
+  "mentions": [
+    "Bộ Nội vụ",
+    "Bộ Thông tin và Truyền thông",
+    "Đài Tiếng nói Việt Nam",
+    "Đài Truyền hình Việt Nam",
+    "Thông tấn xã Việt Nam",
+    "Bộ Văn hóa, Thể thao và Du lịch",
+    "Bộ Tư pháp",
+    "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+    "Bộ Tài chính",
+    "Bộ Quốc phòng",
+    "Bộ Công an",
+    "Bộ Lao động - Thương binh và Xã hội",
+    "Thanh tra Chính phủ",
+    "Tổng Liên đoàn Lao động Việt Nam",
+    "Văn phòng Quốc hội",
+    "Văn phòng Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi",
+      "text": "Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này./",
+      "isImplementationClause": true
+    }
+  ]
+}

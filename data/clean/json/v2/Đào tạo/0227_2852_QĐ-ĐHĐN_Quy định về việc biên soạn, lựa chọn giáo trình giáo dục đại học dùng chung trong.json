@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0227_2852_QĐ-ĐHĐN_Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong.txt",
+  "mappedBy": "gemini-web",
+  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2852/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/07/2023",
+    "effectiveDate": "05/07/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo"
+    ],
+    "summary": "Quyết định ban hành Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong Đại học Đà Nẵng, bao gồm các quy định về phạm vi điều chỉnh, đối tượng áp dụng, kinh phí, quy trình biên soạn và lựa chọn giáo trình dùng chung.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "35/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 35/2021/TT-BGDĐT ngày 06/12/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": "CON_HIEU_LUC",
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong toàn Đại học Đà Nẵng (ĐHĐN), bao gồm: phạm vi điều chỉnh, đối tượng áp dụng; kinh phí thực hiện; biên soạn giáo trình dùng chung; lựa chọn giáo trình dùng chung; tổ chức thực hiện.\n2. Quy định này áp dụng đối với các trường đại học thành viên, khoa, viện, phân hiệu, trung tâm trực thuộc (sau đây gọi chung là đơn vị đào tạo); đối với tất cả các hình thức đào tạo, trình độ đào tạo.\n3. Quy định này không áp dụng đối với giáo trình dành cho các môn lý luận chính trị và quốc phòng - an ninh do Bộ Giáo dục và Đào tạo tổ chức biên soạn để làm tài liệu giảng dạy, học tập trong các cơ sở giáo dục đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. Môn chung là những môn học trang bị cho người học những kiến thức, kỹ năng thuộc kiến thức giáo dục đại cương, khoa học cơ bản như: Triết học, Kinh tế chính trị, Chủ nghĩa xã hội khoa học, Lịch sử Đảng, Tư tưởng Hồ Chí Minh, Pháp luật đại cương, Tâm lý, Xác suất thống kê, Ngoại ngữ cơ bản, Giáo dục thể chất, Toán, Vật lí, Hóa học...\n2. Giáo trình dùng chung (GTDC) là tài liệu để giảng dạy, học tập, nghiên cứu chính của các môn chung được sử dụng từ 02 đơn vị trở lên, trong đó có 01 đơn vị đào tạo được ĐHĐN giao phụ trách giảng dạy môn chung cho các đơn vị đào tạo khác.\nGTDC gồm giáo trình được các đơn vị phụ trách giảng dạy môn chung tổ chức biên soạn hoặc được lựa chọn từ sách, giáo trình đã được xuất bản và phát hành.\n\nGTDC phải đảm bảo các yêu cầu được quy định tại Thông tư số 35/2021/TT-BGDĐT ngày 06/12/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học.\n3. Các trường đại học thành viên hoặc khoa, viện, trung tâm trực thuộc được giao nhiệm vụ giảng dạy môn chung trong các đơn vị đào tạo của ĐHĐN được gọi là đơn vị phụ trách giảng dạy môn chung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Kinh phí thực hiện",
+          "text": "Điều 3. Kinh phí thực hiện\n1. Kinh phí biên soạn GTDC do đơn vị phụ trách giảng dạy môn chung chịu trách nhiệm bố trí từ nguồn thu hợp pháp, các nguồn tài trợ, viện trợ khác.\n2. Nội dung chi, mức chi cho việc tổ chức biên soạn, thẩm định, phê duyệt GTDC thực hiện theo các quy định hiện hành của pháp luật và được quy định cụ thể trong quy chế/phụ lục quy chế chi tiêu nội bộ của đơn vị phụ trách giảng dạy môn chung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Biên soạn giáo trình dùng chung",
+          "text": "Điều 4. Biên soạn giáo trình dùng chung\nCăn cứ nội dung của chương trình đào tạo, nhu cầu về tài liệu giảng dạy - học tập, thủ trưởng đơn vị phụ trách giảng dạy môn chung chịu trách nhiệm tổ chức biên soạn, thẩm định giáo trình phục vụ giảng dạy các môn chung theo quy định về biên soạn, thẩm định giáo trình hiện hành của đơn vị và của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Lựa chọn giáo trình dùng chung",
+          "text": "Điều 5. Lựa chọn giáo trình dùng chung\nQuy trình lựa chọn GTDC như sau:\nBước 1: Đề xuất sách, giáo trình dự kiến sử dụng làm GTDC\nCăn cứ nhu cầu thực hiện chương trình môn học do đơn vị chuyên môn đề xuất và ý kiến thống nhất của hội đồng khoa học và đào tạo, thủ trưởng đơn vị phụ trách giảng dạy môn chung lập hồ sơ đề nghị ĐHĐN lựa chọn GTDC. Danh mục sách, giáo trình đề nghị sử dụng làm GTDC được lập theo mẫu tại Phụ lục 1.\nBước 2: Thành lập Hội đồng lựa chọn GTDC\nCăn cứ danh mục sách, giáo trình đề nghị sử dụng làm GTDC do thủ trưởng đơn vị phụ trách giảng dạy môn chung đề xuất, Giám đốc ĐHĐN thành lập Hội đồng lựa chọn GTDC để lựa chọn sách/ giáo trình đưa vào sử dụng.\nThành phần Hội đồng lựa chọn GTDC gồm: Đại diện lãnh đạo ĐHĐN, lãnh đạo đơn vị phụ trách giảng dạy môn chung đề xuất GTDC, lãnh đạo đơn vị đào tạo\n\nmà GTDC sẽ được sử dụng, lãnh đạo các ban, phòng chức năng liên quan, giảng viên có chuyên môn phù hợp.\nBước 3: Tổ chức lựa chọn GTDC\nHội đồng lựa chọn GTDC chịu trách nhiệm tổ chức họp xem xét, lựa chọn GTDC và đề nghị Giám đốc ĐHĐN phê duyệt. Danh mục GTDC được Hội đồng lựa chọn thông qua theo mẫu tại Phụ lục 2.\nBước 4: Quyết định lựa chọn sách, giáo trình sử dụng làm GTDC\nCăn cứ đề xuất của Hội đồng lựa chọn GTDC, Giám đốc ĐHĐN quyết định lựa chọn GTDC để phục vụ giảng dạy, học tập trong ĐHĐN. Danh mục GTDC theo mẫu tại Phụ lục 3.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Hồ sơ lựa chọn GTDC",
+          "text": "Điều 6. Hồ sơ lựa chọn GTDC\n1. Hồ sơ đề xuất sách, giáo trình sử dụng làm GTDC:\n- Tờ trình đề nghị lựa chọn GTDC;\n- Danh mục sách, giáo trình đề nghị sử dụng làm GTDC (Mẫu Phụ lục 1);\n- Biên bản thông qua của Hội đồng khoa học - đào tạo.\n2. Hồ sơ lựa chọn:\n- Quyết định thành lập Hội đồng lựa chọn GTDC;\n- Biên bản thông qua của Hội đồng lựa chọn GTDC;\n- Quyết định phê duyệt của Giám đốc ĐHĐN kèm Danh mục sách, giáo trình được phê duyệt làm GTDC (Mẫu Phụ lục 3).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 7. Tổ chức thực hiện\n1. Thủ trưởng đơn vị đào tạo phụ trách giảng dạy môn chung tổ chức rà soát những GTDC hiện đang sử dụng và thực hiện theo Quy định này.\n2. Căn cứ Quy định này, Thủ trưởng đơn vị đào tạo, các ban chức năng liên quan tổ chức thực hiện việc đề xuất, thẩm định, lựa chọn, phê duyệt sách, giáo trình làm GTDC.\n3. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng tại Quy định này được sửa đổi, bổ sung, thay thế thì sẽ áp dụng theo các văn bản sửa đổi, bổ sung, thay thế đó.\n4. Trong quá trình thực hiện, nếu có vướng mắc các đơn vị đào tạo báo cáo Đại học Đà Nẵng bằng văn bản (qua Ban Đào tạo) để trình Giám đốc xem xét, sửa đổi, bổ sung cho phù hợp với tình hình thực tế./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về việc biên soạn, lựa chọn giáo trình giáo dục đại học dùng chung trong Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban hữu quan, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị đào tạo thuộc và trực thuộc chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban hữu quan, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị đào tạo thuộc và trực thuộc chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

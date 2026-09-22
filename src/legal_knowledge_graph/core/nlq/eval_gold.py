@@ -34,7 +34,8 @@ GOLD_SET: list[GoldCase] = [
              "template_result", "TPL_DOCS_BY_TOPIC"),
     GoldCase("Văn bản nào áp dụng cho sinh viên?",
              "template_result", "TPL_DOCS_BY_TARGET_GROUP",
-             note="0 dòng là đúng — targetGroups chưa backfill vào data thật"),
+             note="targetGroups đã backfill ở data/clean/json/v2 (497 cạnh APPLIES_TO, "
+                  "51 văn bản cho 'Người học') — nạp v1 thì câu này vẫn trả 0 dòng"),
     GoldCase("Văn bản 4511/QĐ-ĐHBK nói gì?",
              "template_result", "TPL_DOCUMENT_DETAIL"),
     GoldCase("4511/QĐ-ĐHBK đã thay thế những văn bản nào?",

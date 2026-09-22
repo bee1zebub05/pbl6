@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0304_05_2021_TT-TTCP_Thông tư quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, p.txt",
+  "mappedBy": "gemini-web",
+  "note": "32 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "05/2021/TT-TTCP",
+    "title": "Thông tư quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/10/2021",
+    "effectiveDate": "15/11/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Văn thư, lưu trữ",
+      "Thanh tra, kiểm tra"
+    ],
+    "summary": "Thông tư này quy định chi tiết quy trình tiếp nhận, phân loại và xử lý đối với đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh; đồng thời quy định công tác quản lý, theo dõi, kiểm tra, đôn đốc việc giải quyết đơn của các cơ quan, tổ chức, đơn vị có thẩm quyền.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Thanh tra Chính phủ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "64/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân;"
+    },
+    {
+      "targetDocumentNumber": "31/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo;"
+    },
+    {
+      "targetDocumentNumber": "124/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại;"
+    },
+    {
+      "targetDocumentNumber": "50/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "20/2008/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Các phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính được tiếp nhận, xử lý theo quy định của Nghị định số 20/2008/NĐ-CP ngày 14 tháng 2 năm 2008 của Chính phủ quy định về việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính không thuộc phạm vi điều chỉnh của Thông tư này."
+    },
+    {
+      "targetDocumentNumber": "07/2014/TT-TTCP",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư số 07/2014/TT-TTCP ngày 31 tháng 10 năm 2014 của Thanh tra Chính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, đơn phản ánh hết hiệu lực kể từ ngày Thông tư này có hiệu lực pháp luật."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Thanh tra Chính phủ",
+    "Quốc hội",
+    "Ủy ban Thường vụ Quốc hội",
+    "Đại biểu Quốc hội",
+    "Đoàn Đại biểu Quốc hội",
+    "Hội đồng nhân dân",
+    "Ủy ban Mặt trận Tổ quốc Việt Nam",
+    "Đảng",
+    "Nhà nước",
+    "Hội đồng Dân tộc",
+    "Tòa án nhân dân tối cao",
+    "Viện Kiểm sát nhân dân tối cao",
+    "Kiểm toán Nhà nước",
+    "Văn phòng Chủ tịch nước",
+    "Văn phòng Trung ương",
+    "Ủy ban Kiểm tra trung ương",
+    "Ban tiếp công dân trung ương",
+    "Bộ Quốc phòng",
+    "Bộ Công an",
+    "Bộ Tư pháp",
+    "Văn phòng Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nThông tư này quy định việc tiếp nhận, phân loại, xử lý đối với đơn khiếu\nnại, đơn tố cáo, đơn kiến nghị, phản ánh (sau đây gọi chung là đơn).\nCác phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính\nđược tiếp nhận, xử lý theo quy định của Nghị định số 20/2008/NĐ-CP ngày 14\n\ntháng 2 năm 2008 của Chính phủ quy định về việc tiếp nhận, xử lý phản ánh,\nkiến nghị của cá nhân, tổ chức về quy định hành chính không thuộc phạm vi\nđiều chỉnh của Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\nThông tư này áp dụng đối với cơ quan hành chính nhà nước, đơn vị sự\nnghiệp công lập, doanh nghiệp nhà nước (sau đây gọi chung là cơ quan, tổ\nchức, đơn vị) và người có thẩm quyền trong cơ quan, tổ chức, đơn vị trong việc\nxử lý đơn và cơ quan, tổ chức, cá nhân có liên quan.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nguyên tắc xử lý đơn",
+      "text": "Điều 3. Nguyên tắc xử lý đơn\n1. Việc xử lý đơn phải bảo đảm tuân thủ pháp luật; nhanh chóng, kịp thời;\nrõ ràng, thống nhất và tạo điều kiện thuận tiện cho công dân trong việc thực\nhiện các thủ tục về khiếu nại, tố cáo, kiến nghị, phản ánh.\n2. Đơn phải được gửi, chuyển đến đúng cơ quan, tổ chức, đơn vị, cá nhân\ncó thẩm quyền giải quyết.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Giải thích từ ngữ",
+      "text": "Điều 4. Giải thích từ ngữ\nTrong Thông tư này các từ ngữ dưới đây được hiểu như sau:\n1. Đơn là văn bản có nội dung được trình bày dưới một hình thức theo quy\nđịnh của pháp luật, gửi đến cơ quan, tổ chức, đơn vị, người có thẩm quyền để\nkhiếu nại hoặc tố cáo hoặc kiến nghị, phản ánh.\n2. Xử lý đơn là việc cơ quan, tổ chức, đơn vị, người có thẩm quyền căn cứ\nvào nội dung vụ việc được trình bày trong đơn mà phân loại nhằm thụ lý giải\nquyết đơn thuộc thẩm quyền, hướng dẫn hoặc chuyển đơn đến cơ quan, tổ\nchức, đơn vị, người có thẩm quyền giải quyết theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Tiếp nhận đơn",
+      "text": "Điều 5. Tiếp nhận đơn\nĐơn được tiếp nhận để phân loại và xử lý từ các nguồn sau đây:\n1. Đơn được gửi qua dịch vụ bưu chính;\n2. Đơn được gửi đến Trụ sở tiếp công dân, Ban tiếp công dân, địa điểm\ntiếp công dân, bộ phận tiếp nhận đơn hoặc qua hộp thư góp ý của cơ quan, tổ\nchức, đơn vị;\n3. Đơn do Đại biểu Quốc hội, Đoàn Đại biểu Quốc hội, các cơ quan của\nQuốc hội và của Ủy ban Thường vụ Quốc hội, Đại biểu Hội đồng nhân dân, các\nban của Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức\n\nthành viên của Mặt trận, cơ quan báo chí và cơ quan, tổ chức, đơn vị khác\nchuyển đến theo quy định của pháp luật;\n4. Đơn do lãnh đạo Đảng, Nhà nước và lãnh đạo các cơ quan Đảng\nchuyển đến.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Phân loại đơn",
+      "text": "Điều 6. Phân loại đơn\n1. Việc phân loại đơn căn cứ vào nội dung trình bày trong đơn, mục đích,\nyêu cầu của người viết đơn, không phụ thuộc vào tiêu đề của đơn.\nĐơn được phân loại như sau:\na) Đơn khiếu nại;\nb) Đơn tố cáo;\nc) Đơn kiến nghị, phản ánh;\nd) Đơn có nhiều nội dung khác nhau.\n2. Phân loại theo điều kiện xử lý, bao gồm đơn đủ điều kiện xử lý, đơn\nkhông đủ điều kiện xử lý.\na) Đơn đủ điều kiện xử lý là đơn đáp ứng các yêu cầu sau đây:\n- Đơn dùng chữ viết là tiếng Việt. Trường hợp đơn được viết bằng tiếng\nnước ngoài thì phải kèm bản dịch được công chứng; Đơn được ghi rõ ngày,\ntháng, năm viết đơn; họ, tên, địa chỉ của người viết đơn; có chữ ký hoặc điểm\nchỉ của người viết đơn;\n- Đơn khiếu nại ghi rõ tên, địa chỉ của cơ quan, tổ chức, cá nhân bị khiếu\nnại; nội dung, lý do khiếu nại, tài liệu liên quan đến nội dung khiếu nại và yêu\ncầu của người khiếu nại;\n- Đơn tố cáo ghi rõ họ tên, địa chỉ của người bị tố cáo; hành vi vi phạm\npháp luật bị tố cáo; cách thức liên hệ với người tố cáo và các thông tin khác có\nliên quan;\n- Đơn kiến nghị, phản ánh ghi rõ nội dung kiến nghị, phản ánh;\n- Đơn không rõ họ tên, địa chỉ của người gửi đơn nhưng có nội dung tố\ncáo về hành vi vi phạm pháp luật và nêu rõ người có hành vi vi phạm pháp luật,\ncó tài liệu, chứng cứ cụ thể về hành vi vi phạm pháp luật và có cơ sở để thẩm\ntra, xác minh theo quy định tại khoản 2 Điều 25 Luật Tố cáo.\nb) Đơn không đủ điều kiện xử lý bao gồm:\n- Đơn không đáp ứng các yêu cầu tại điểm a khoản 2 Điều này;\n- Đơn được gửi cho nhiều cơ quan, tổ chức, đơn vị, cá nhân trong đó có cơ\n\nquan, tổ chức, đơn vị hoặc người có thẩm quyền giải quyết;\n- Đơn đã được hướng dẫn theo quy định tại khoản 1 Điều 8 Thông tư này;\n- Đơn có nội dung chống đối đường lối, chủ trương của Đảng, chính sách,\npháp luật của Nhà nước; đơn có nội dung chia rẽ đoàn kết dân tộc, tôn giáo;\nđơn có lời lẽ thô tục, bôi nhọ, xúc phạm danh dự, uy tín của cá nhân, cơ quan,\ntổ chức, đơn vị;\n- Đơn rách nát, chữ viết bị tẩy xóa, không rõ, không thể đọc được.\n3. Phân loại đơn thuộc thẩm quyền và đơn không thuộc thẩm quyền giải\nquyết của người đứng đầu cơ quan, tổ chức, đơn vị mình.\n4. Phân loại đơn theo số lượng người khiếu nại, người tố cáo, người kiến\nnghị, phản ánh.\na) Đơn có họ, tên, chữ ký của một người;\nb) Đơn có họ, tên, chữ ký của 02 người trở lên.\n5. Phân loại theo thẩm quyền giải quyết.\na) Đơn thuộc thẩm quyền giải quyết của cơ quan hành chính nhà nước,\ngồm: Chính phủ, Thủ tướng Chính phủ, bộ, cơ quan ngang bộ, cơ quan thuộc\nChính phủ, Ủy ban nhân dân các cấp và cơ quan, tổ chức trực thuộc Ủy ban\nnhân dân các cấp hoặc của cơ quan hành chính khác;\nb) Đơn thuộc thẩm quyền giải quyết của Quốc hội, Ủy ban Thường vụ\nQuốc hội, Hội đồng Dân tộc, các Ủy ban và các cơ quan khác của Quốc hội,\ncác cơ quan thuộc Ủy ban Thường vụ Quốc hội, Hội đồng nhân dân các cấp và\ncác cơ quan của Hội đồng nhân dân các cấp;\nc) Đơn thuộc thẩm quyền giải quyết của cơ quan tiến hành tố tụng, thi hành án;\nd) Đơn thuộc thẩm quyền giải quyết của Kiểm toán Nhà nước;\nđ) Đơn thuộc thẩm quyền giải quyết của tổ chức chính trị, tổ chức chính\ntrị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã\nhội - nghề nghiệp, tổ chức tôn giáo;\ne) Đơn thuộc thẩm quyền giải quyết của đơn vị sự nghiệp công lập, doanh\nnghiệp nhà nước;\ng) Đơn thuộc thẩm quyền giải quyết của các cơ quan, tổ chức, đơn vị\nkhác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Xử lý đơn khiếu nại thuộc thẩm quyền giải quyết",
+      "text": "Điều 7. Xử lý đơn khiếu nại thuộc thẩm quyền giải quyết\n1. Đơn khiếu nại thuộc thẩm quyền giải quyết và không thuộc một trong\ncác trường hợp không được thụ lý giải quyết theo quy định tại Điều 11 Luật\nKhiếu nại thì người xử lý đơn đề xuất người đứng đầu cơ quan, tổ chức, đơn vị\nthụ lý để giải quyết theo quy định của pháp luật. Việc đề xuất thụ lý giải quyết\nđược thực hiện theo Mẫu số 01 ban hành kèm theo Thông tư này.\n2. Đơn khiếu nại thuộc thẩm quyền giải quyết nhưng chưa đủ điều kiện\nthụ lý giải quyết thì hướng dẫn người khiếu nại bổ sung thông tin, tài liệu để\nthực hiện việc khiếu nại theo quy định của pháp luật. Việc hướng dẫn được\nthực hiện theo Mẫu số 02 ban hành kèm theo Thông tư này.\n3. Đơn khiếu nại thuộc thẩm quyền của cấp dưới nhưng quá thời hạn giải\nquyết theo quy định của Luật Khiếu nại mà chưa được giải quyết thì người xử\nlý đơn báo cáo người đứng đầu cơ quan, tổ chức, đơn vị xem xét, quyết định\ntheo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Xử lý đơn khiếu nại không thuộc thẩm quyền giải quyết",
+      "text": "Điều 8. Xử lý đơn khiếu nại không thuộc thẩm quyền giải quyết\n1. Đơn khiếu nại không thuộc thẩm quyền giải quyết của người đứng đầu cơ\nquan, tổ chức, đơn vị mình thì người xử lý đơn hướng dẫn người khiếu nại gửi\nđơn đến cơ quan, tổ chức, đơn vị, người có thẩm quyền giải quyết. Việc hướng\ndẫn chỉ thực hiện một lần theo Mẫu số 02 ban hành kèm theo Thông tư này.\n2. Đơn khiếu nại do lãnh đạo Đảng, Nhà nước, Hội đồng Dân tộc, các Ủy\nban và cơ quan khác của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc\nhội, Đại biểu Quốc hội, Đoàn đại biểu Quốc hội, Thành viên Chính phủ, Chánh án\nTòa án nhân dân tối cao, Viện trưởng Viện Kiểm sát nhân dân tối cao, Tổng Kiểm\ntoán Nhà nước, Văn phòng Chủ tịch nước, Văn phòng Trung ương, Ủy ban Kiểm\ntra trung ương và các ban đảng Trung ương, cơ quan Trung ương của các tổ chức\nchính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp chuyển đến thì người xử\nlý đơn trình người đứng đầu cơ quan, tổ chức, đơn vị và có văn bản phúc đáp.\n3. Đơn khiếu nại do Ban tiếp công dân trung ương, các cơ quan của Hội\nđồng nhân dân, đại biểu Hội đồng nhân dân, tổ chức chính trị - xã hội, tổ chức\n\nchính trị - xã hội - nghề nghiệp ở cấp tỉnh, cấp huyện chuyển đến thì Ban tiếp\ncông dân báo cáo Chủ tịch Ủy ban nhân dân cùng cấp để xin ý kiến chỉ đạo\nviệc xử lý.\n4. Đối với những vụ việc khiếu nại đông người, phức tạp, tồn đọng, kéo\ndài đã có quyết định giải quyết nhưng người khiếu nại có đơn gửi đến Thanh\ntra Chính phủ hoặc Trụ sở tiếp công dân trung ương thì Trưởng Ban tiếp công\ndân trung ương báo cáo Tổng Thanh tra Chính phủ giao cho các vụ, cục, đơn vị\nkiểm tra, báo cáo, đề xuất văn bản trả lời công dân hoặc trao đổi với Chủ tịch\nỦy ban nhân dân cấp tỉnh về hướng xử lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Xử lý đơn khiếu nại đối với quyết định giải quyết khiếu nại đã",
+      "text": "Điều 9. Xử lý đơn khiếu nại đối với quyết định giải quyết khiếu nại đã\ncó hiệu lực pháp luật\n1. Đơn khiếu nại đối với quyết định giải quyết khiếu nại đã có hiệu lực\npháp luật theo quy định tại Điều 44 Luật Khiếu nại thì người xử lý đơn không\nthụ lý, không chuyển đơn mà hướng dẫn người khiếu nại khởi kiện vụ án hành\nchính tại Tòa án nhân dân có thẩm quyền theo quy định của pháp luật về tố\ntụng hành chính, trừ trường hợp được quy định tại khoản 2 Điều này.\n2. Đơn khiếu nại đối với quyết định giải quyết khiếu nại đã có hiệu lực\npháp luật nhưng qua nghiên cứu, xem xét phát hiện việc giải quyết khiếu nại vi\nphạm pháp luật, gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp\npháp của công dân, cơ quan, tổ chức được quy định tại Điều 38 Nghị định số\n124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết\nmột số điều và biện pháp thi hành Luật Khiếu nại thì người xử lý đơn phải báo\ncáo để người đứng đầu cơ quan, tổ chức, đơn vị mình xem xét, quyết định theo\nquy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Xử lý đơn khiếu nại không thuộc thẩm quyền có họ tên, chữ",
+      "text": "Điều 10. Xử lý đơn khiếu nại không thuộc thẩm quyền có họ tên, chữ\nký của nhiều người\nĐơn khiếu nại không thuộc thẩm quyền giải quyết của cơ quan, tổ chức,\nđơn vị mình mà có họ tên, chữ ký của nhiều người thì người xử lý đơn hướng\ndẫn cho một người khiếu nại có địa chỉ rõ ràng gửi đơn đến đúng cơ quan, tổ\nchức, đơn vị, người có thẩm quyền giải quyết. Việc hướng dẫn được thực hiện\ntheo Mẫu số 02 ban hành kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Xử lý giấy tờ, tài liệu gốc gửi kèm theo đơn khiếu nại",
+      "text": "Điều 11. Xử lý giấy tờ, tài liệu gốc gửi kèm theo đơn khiếu nại\nĐơn khiếu nại có gửi kèm theo giấy tờ, tài liệu gốc thì người xử lý đơn\ntrả lại cho người gửi đơn giấy tờ, tài liệu đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Xử lý đơn khiếu nại đối với quyết định hành chính có khả",
+      "text": "Điều 12. Xử lý đơn khiếu nại đối với quyết định hành chính có khả\nnăng gây hậu quả khó khắc phục\nTrong trường hợp có căn cứ cho rằng việc thi hành quyết định hành chính\nsẽ gây ra hậu quả khó khắc phục thì người xử lý đơn phải kịp thời báo cáo để\nngười đứng đầu cơ quan, tổ chức, đơn vị xem xét, quyết định tạm đình chỉ hoặc\nkiến nghị cơ quan, người có thẩm quyền tạm đình chỉ việc thi hành quyết định\nhành chính.\nSau khi nhận được báo cáo hoặc kiến nghị, người có thẩm quyền có trách\nnhiệm xem xét, quyết định việc tạm đình chỉ, chịu trách nhiệm về quyết định\ncủa mình và thông báo cho cơ quan, tổ chức, đơn vị đã kiến nghị biết kết quả\nxử lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Xử lý đơn tố cáo thuộc thẩm quyền giải quyết",
+      "text": "Điều 13. Xử lý đơn tố cáo thuộc thẩm quyền giải quyết\nĐơn tố cáo thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị\nmình và đủ điều kiện thụ lý theo quy định tại khoản 1 Điều 29 Luật Tố cáo thì\nngười xử lý đơn báo cáo người đứng đầu để thụ lý giải quyết theo quy định.\nViệc đề xuất thụ lý giải quyết được thực hiện theo Mẫu số 01 ban hành kèm\ntheo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Xử lý đơn tố cáo không thuộc thẩm quyền giải quyết",
+      "text": "Điều 14. Xử lý đơn tố cáo không thuộc thẩm quyền giải quyết\n1. Đơn tố cáo không thuộc thẩm quyền giải quyết của cơ quan, tổ chức,\nđơn vị mình thì người xử lý đơn đề xuất với người đứng đầu chuyển đơn và các\nthông tin, tài liệu kèm theo (nếu có) đến cơ quan, tổ chức, đơn vị có thẩm\nquyền giải quyết theo quy định của pháp luật. Việc chuyển đơn tố cáo được\nthực hiện theo Mẫu số 03 ban hành kèm theo Thông tư này. Việc chuyển đơn\nđến cơ quan có thẩm quyền chỉ thực hiện một lần đối với đơn tố cáo có cùng\nnội dung.\n2. Đơn tố cáo thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị\ncấp dưới trực tiếp nhưng quá thời hạn theo quy định của Luật Tố cáo mà chưa\nđược giải quyết thì người xử lý đơn đề xuất người đứng đầu cơ quan, tổ chức,\nđơn vị ra văn bản yêu cầu người đứng đầu cơ quan, tổ chức, đơn vị cấp dưới\n\ntrực tiếp báo cáo về quá trình giải quyết tố cáo, lý do chậm giải quyết, xác định\ntrách nhiệm giải quyết tố cáo và phải báo cáo kết quả giải quyết.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Xử lý đơn tố cáo đối với đảng viên",
+      "text": "Điều 15. Xử lý đơn tố cáo đối với đảng viên\nĐơn tố cáo đối với đảng viên vi phạm Điều lệ Đảng, chủ trương, nghị\nquyết, chỉ thị, quy định, quy chế, kết luận của Đảng được chuyển đến cơ quan\ncó thẩm quyền để xử lý theo quy định của Đảng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Xử lý đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại",
+      "text": "Điều 16. Xử lý đơn tố cáo hành vi vi phạm pháp luật gây thiệt hại\nhoặc đe dọa gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và\nlợi ích hợp pháp của cá nhân, cơ quan, tổ chức\nĐơn tố cáo hành vi vi phạm pháp luật gây thiệt hại hoặc đe dọa gây thiệt\nhại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cá\nnhân, cơ quan, tổ chức thì người xử lý đơn phải kịp thời báo cáo, tham mưu, đề\nxuất để người đứng đầu cơ quan, tổ chức, đơn vị áp dụng biện pháp cần thiết\ntheo thẩm quyền hoặc thông báo cho cơ quan, tổ chức, đơn vị có thẩm quyền\nkịp thời áp dụng biện pháp ngăn chặn theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Xử lý đơn tố cáo hành vi vi phạm thẩm quyền, trình tự, thủ",
+      "text": "Điều 17. Xử lý đơn tố cáo hành vi vi phạm thẩm quyền, trình tự, thủ\ntục giải quyết khiếu nại\n1. Đơn tố cáo người giải quyết khiếu nại vi phạm về thẩm quyền, trình tự,\nthủ tục giải quyết khiếu nại thì không thụ lý đơn theo quy định của Luật Tố\ncáo. Trong trường hợp này, người xử lý đơn hướng dẫn người có đơn tiếp tục\nthực hiện việc khiếu nại hoặc khởi kiện vụ án hành chính tại Tòa án có thẩm\nquyền theo quy định của pháp luật.\n2. Đối với đơn tố cáo mà người tố cáo cung cấp được thông tin, tài liệu,\nchứng cứ xác định người giải quyết khiếu nại có hành vi vi phạm một trong các\nđiều cấm được quy định tại các khoản 1, 2 và 4 của Điều 6 Luật Khiếu nại thì\nthụ lý giải quyết theo quy định của Luật Tố cáo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Xử lý thông tin có nội dung tố cáo",
+      "text": "Điều 18. Xử lý thông tin có nội dung tố cáo\nKhi nhận được thông tin có nội dung tố cáo quy định tại khoản 2 Điều 25\nLuật Tố cáo thì người xử lý đơn báo cáo người có thẩm quyền để xem xét,\nquyết định việc thanh tra, kiểm tra hoặc chuyển đến cơ quan, tổ chức, cá nhân\ncó thẩm quyền để quyết định việc thanh tra, kiểm tra phục vụ cho công tác\nquản lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Giữ bí mật thông tin và bảo vệ người tố cáo",
+      "text": "Điều 19. Giữ bí mật thông tin và bảo vệ người tố cáo\nTrong quá trình xử lý đơn, cơ quan, tổ chức, đơn vị, cá nhân có trách\nnhiệm giữ bí mật thông tin của người tố cáo, nội dung tố cáo theo quy định của\npháp luật.\nTrường hợp người tố cáo đề nghị được bảo vệ thì người xử lý đơn báo\ncáo người đứng đầu xem xét, giải quyết theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Xử lý đơn kiến nghị, phản ánh",
+      "text": "Điều 20. Xử lý đơn kiến nghị, phản ánh\n1. Đơn kiến nghị, phản ánh về những nội dung thuộc trách nhiệm quản lý\ncủa cơ quan, tổ chức, đơn vị mình thì người xử lý đơn báo cáo, đề xuất người\nđứng đầu giải quyết, trả lời theo quy định của pháp luật.\n2. Đơn kiến nghị, phản ánh mà nội dung không thuộc trách nhiệm\nquản lý của cơ quan, tổ chức, đơn vị mình thì người xử lý đơn báo cáo, đề\nxuất người đứng đầu quyết định việc chuyển đơn đến cơ quan, tổ chức, đơn\nvị có trách nhiệm giải quyết và thông báo cho người gửi đơn. Việc chuyển\nđơn kiến nghị, phản ánh được thực hiện theo Mẫu số 04 ban hành kèm theo\nThông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Xử lý đơn có nhiều nội dung khác nhau",
+      "text": "Điều 21. Xử lý đơn có nhiều nội dung khác nhau\nĐơn có cả nội dung khiếu nại, tố cáo, kiến nghị, phản ánh thì người xử lý\nđơn hướng dẫn người gửi đơn tách riêng từng nội dung để gửi đến đúng cơ\nquan, tổ chức, đơn vị, cá nhân có thẩm quyền giải quyết. Việc hướng dẫn được\nthực hiện theo Mẫu số 05 ban hành kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Xử lý đơn thuộc thẩm quyền giải quyết của cơ quan tiến",
+      "text": "Điều 22. Xử lý đơn thuộc thẩm quyền giải quyết của cơ quan tiến\nhành tố tụng, thi hành án\nĐơn thuộc thẩm quyền giải quyết của cơ quan tiến hành tố tụng, thi hành\nán thì người xử lý đơn hướng dẫn gửi đơn hoặc báo cáo, đề xuất người đứng\nđầu quyết định việc chuyển đơn đến cơ quan có thẩm quyền để được giải quyết\ntheo quy định của pháp luật.\n\n10",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": "Xử lý đơn thuộc thẩm quyền giải quyết của Quốc hội, Hội",
+      "text": "Điều 23. Xử lý đơn thuộc thẩm quyền giải quyết của Quốc hội, Hội\nđồng nhân dân các cấp\nĐơn thuộc thẩm quyền giải quyết của Quốc hội, Hội đồng nhân dân các\ncấp thì người xử lý đơn hướng dẫn gửi đơn hoặc báo cáo người đứng đầu cơ\nquan, tổ chức, đơn vị quyết định việc chuyển đơn đến cơ quan có thẩm quyền\nđể được giải quyết theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": "Xử lý đơn thuộc thẩm quyền giải quyết của các cơ quan khác",
+      "text": "Điều 24. Xử lý đơn thuộc thẩm quyền giải quyết của các cơ quan khác\ncủa Nhà nước\nĐơn thuộc thẩm quyền giải quyết của Văn phòng Chủ tịch nước, Kiểm\ntoán nhà nước và các cơ quan khác của Nhà nước thì người xử lý đơn hướng\ndẫn gửi đơn hoặc báo cáo người đứng đầu cơ quan, tổ chức, đơn vị quyết định\nviệc chuyển đơn đến cơ quan có thẩm quyền để được giải quyết theo quy định\ncủa pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 25",
+      "heading": "Xử lý đơn thuộc trách nhiệm giải quyết của tổ chức chính trị,",
+      "text": "Điều 25. Xử lý đơn thuộc trách nhiệm giải quyết của tổ chức chính trị,\ntổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức\nxã hội, tổ chức xã hội - nghề nghiệp và các tổ chức tôn giáo\nĐơn có nội dung liên quan đến tổ chức, hoạt động của tổ chức chính trị, tổ\nchức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội,\ntổ chức xã hội - nghề nghiệp và các tổ chức tôn giáo thì người xử lý đơn hướng\ndẫn gửi đơn hoặc báo cáo người đứng đầu cơ quan, tổ chức, đơn vị quyết định\nviệc chuyển đơn đến tổ chức có trách nhiệm giải quyết theo quy định của pháp\nluật và Điều lệ, Quy chế hoạt động của tổ chức đó.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 26",
+      "heading": "Xử lý đơn thuộc thẩm quyền giải quyết của đơn vị sự nghiệp",
+      "text": "Điều 26. Xử lý đơn thuộc thẩm quyền giải quyết của đơn vị sự nghiệp\ncông lập, doanh nghiệp nhà nước và các đơn vị, tổ chức khác\nĐơn liên quan đến tổ chức, hoạt động của đơn vị sự nghiệp công lập, của\ndoanh nghiệp nhà nước và các đơn vị, tổ chức khác thì người xử lý đơn hướng\ndẫn gửi đơn hoặc chuyển đơn đến đơn vị, doanh nghiệp đó để giải quyết theo\nquy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 27",
+      "heading": "Xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh về",
+      "text": "Điều 27. Xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh về\nnhững vụ việc có tính chất phức tạp\nĐơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh về vụ việc phức tạp,\n\n11\ntồn đọng, kéo dài, có sự tham gia của nhiều người; vụ việc có liên quan đến\nchính sách dân tộc, tôn giáo, an ninh chính trị và trật tự an toàn xã hội thì người\nxử lý đơn phải báo cáo với người đứng đầu cơ quan, tổ chức, đơn vị để kịp thời\náp dụng các biện pháp xử lý theo thẩm quyền hoặc đề nghị với các cơ quan, tổ\nchức, đơn vị có thẩm quyền áp dụng biện pháp xử lý theo quy định của pháp\nluật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 28",
+      "heading": "Việc lưu đơn",
+      "text": "Điều 28. Việc lưu đơn\n1. Việc lưu đơn được thực hiện đối với các loại đơn sau đây:\na) Đơn không đủ điều kiện xử lý quy định tại điểm b khoản 2 Điều 6 của\nThông tư này;\nb) Đơn khiếu nại có quyết định giải quyết khiếu nại đã có hiệu lực pháp\nluật mà không thuộc trường hợp quy định tại Điều 38 Nghị định số\n124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết\nmột số điều và biện pháp thi hành Luật Khiếu nại; đơn tố cáo đã có kết luận nội\ndung tố cáo và quyết định xử lý tố cáo đã có hiệu lực pháp luật mà người tố cáo\nkhông cung cấp được thông tin, tài liệu, chứng cứ mới.\n2. Thời hạn lưu đơn quy định tại khoản 1 Điều này là 01 năm. Hết thời\nhạn nêu trên, người đứng đầu cơ quan, tổ chức, đơn vị xem xét, quyết định việc\ntiêu hủy đơn theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 29",
+      "heading": "Quản lý, theo dõi đơn",
+      "text": "Điều 29. Quản lý, theo dõi đơn\n1. Cơ quan, tổ chức, đơn vị tiếp nhận, chuyển đơn có trách nhiệm vào sổ\nhoặc nhập thông tin vào hệ thống Cơ sở dữ liệu quốc gia về công tác tiếp công\ndân, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định hoặc phần\nmềm xử lý đơn để tra cứu, quản lý, theo dõi. Việc lưu trữ, vào sổ theo dõi hoặc\nsao lưu dữ liệu trên máy tính, tra cứu thông tin được thực hiện theo quy định\ncủa pháp luật về lưu trữ, pháp luật về bảo vệ bí mật nhà nước và Danh mục bí\nmật Nhà nước thuộc lĩnh vực thanh tra, giải quyết khiếu nại, tố cáo và phòng,\nchống tham nhũng.\n\n12\n2. Cơ quan, tổ chức, đơn vị nhận đơn có trách nhiệm trả lời cơ quan, tổ\nchức, đơn vị, người có thẩm quyền đã chuyển đơn theo quy định của pháp luật\nvà quy định của Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 30",
+      "heading": "Trách nhiệm kiểm tra, đôn đốc việc giải quyết khiếu nại, tố",
+      "text": "Điều 30. Trách nhiệm kiểm tra, đôn đốc việc giải quyết khiếu nại, tố\ncáo, kiến nghị, phản ánh của Ban tiếp công dân\n1. Ban tiếp công dân trung ương giúp Tổng Thanh tra Chính phủ theo dõi\nviệc tiếp nhận, xử lý đơn gửi, chuyển đến Thanh tra Chính phủ; chủ trì phối\nhợp với các vụ, cục phụ trách địa bàn, lĩnh vực và các cơ quan, tổ chức tham\ngia tiếp công dân tại Trụ sở tiếp công dân trung ương kiểm tra, đôn đốc việc\ntiếp nhận, xử lý đơn, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh.\n2. Ban tiếp công dân tỉnh, Ban tiếp công dân huyện có trách nhiệm\nphối hợp với cơ quan thanh tra nhà nước giúp Chủ tịch Ủy ban nhân dân\ncùng cấp kiểm tra, đôn đốc việc tiếp nhận xử lý đơn, giải quyết khiếu nại, tố\ncáo, kiến nghị, phản ánh trên địa bàn, trong đó ưu tiên những vụ việc khiếu\nnại, tố cáo đông người, phức tạp, tồn đọng, kéo dài.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 31",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 31. Trách nhiệm thi hành\n1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc\nChính phủ; Chủ tịch Ủy ban nhân dân các cấp; các cơ quan, tổ chức, đơn vị, cá\nnhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an căn cứ quy định tại\nThông tư này quy định việc xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản\nánh liên quan đến cơ quan, tổ chức, đơn vị trong lực lượng vũ trang nhân dân.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 32",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 32. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2021.\n2. Thông tư số 07/2014/TT-TTCP ngày 31 tháng 10 năm 2014 của Thanh tra\nChính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, đơn\nphản ánh hết hiệu lực kể từ ngày Thông tư này có hiệu lực pháp luật.\n\n13\n3. Trong quá trình thực hiện nếu có khó khăn, vướng mắc hoặc có vấn đề\nmới phát sinh, đề nghị cơ quan, tổ chức, đơn vị, cá nhân có liên quan phản ánh\nkịp thời về Thanh tra Chính phủ để sửa đổi, bổ sung cho phù hợp./.",
+      "isImplementationClause": true
+    }
+  ]
+}

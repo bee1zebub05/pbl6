@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0214_1394_QĐ-ĐHBK_Chính sách bảo đảm chất lượng giáo dục Trường Đại học Bách khoa, Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1394/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Chính sách bảo đảm chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/05/2021",
+    "effectiveDate": "14/05/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Quyết định ban hành 'Chính sách bảo đảm chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵng', quy định mục tiêu, các chính sách chất lượng, trách nhiệm triển khai, khen thưởng, chế tài và cập nhật chính sách.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "ĐOÀN QUANG VINH",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ GD&ĐT về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP của Thủ tướng Chính phủ ngày 30/12/2019 về Quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/02/2021 của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "04/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 04/2016/TT-BGDĐT ngày 14/3/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng chương trình đào tạo; Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 04/2016/TT-BGDĐT ngày 14/3/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng chương trình đào tạo; Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "2846/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2846/QĐ-ĐHĐN ngày 25/08/2020 về Chính sách bảo đảm chất lượng giáo dục Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "Phòng Khảo thí và Đảm bảo Chất lượng Giáo dục",
+    "Hội đồng BĐCLGD Trường Đại học Bách khoa, Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Chính sách bảo đảm chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Chính sách bảo đảm chất lượng giáo dục của Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Khảo thí và Đảm bảo Chất lượng Giáo dục, Trưởng các đơn vị thuộc, trực thuộc Trường, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Trưởng phòng Phòng Khảo thí và Đảm bảo Chất lượng Giáo dục, Trưởng các đơn vị thuộc, trực thuộc Trường, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0361_2040_QĐ-BGDĐT_Quy chế xét chọn _Nhà giáo tiêu biểu_.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2040/QĐ-BGDĐT",
+    "title": "Quyết định Về việc ban hành Quy chế xét chọn “Nhà giáo tiêu biểu”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "31/07/2024",
+    "effectiveDate": "31/07/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định số 2040/QĐ-BGDĐT ngày 31/07/2024 về Quy chế xét chọn “Nhà giáo tiêu biểu”, quy định về mục đích, ý nghĩa, thời gian, đối tượng, nguyên tắc, số lượng, tiêu chuẩn, quy trình và hồ sơ đề cử, xét chọn nhà giáo tiêu biểu trong toàn quốc.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Kim Chi",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "98/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "29/2023/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 29/2023/TT-BGDĐT ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng đối với ngành Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "4996/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4996/QĐ-BGDĐT ngày 31 tháng 12 năm 2021 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế bình chọn \"Nhà giáo tiêu biểu của năm\"."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Vụ Tổ chức cán bộ",
+    "Công đoàn Giáo dục Việt Nam",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Đại học Bách khoa Hà Nội",
+    "Đại học Kinh tế Thành phố Hồ Chí Minh",
+    "Đại học Quốc gia Hà Nội",
+    "Đại học Quốc gia Thành phố Hồ Chí Minh",
+    "Cục Nhà giáo và Cán bộ quản lý giáo dục",
+    "Vụ Giáo dục Mầm non",
+    "Vụ Giáo dục Tiểu học",
+    "Vụ Giáo dục Trung học",
+    "Vụ Giáo dục thường xuyên",
+    "Vụ Giáo dục Đại học",
+    "Vụ Khoa học, Công nghệ và Môi trường",
+    "Báo Giáo dục và Thời đại"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế xét chọn “Nhà giáo tiêu biểu”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế xét chọn “Nhà giáo tiêu biểu”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4996/QĐ-BGDĐT ngày 31 tháng 12 năm 2021 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế bình chọn \"Nhà giáo tiêu biểu của năm\".",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4996/QĐ-BGDĐT ngày 31 tháng 12 năm 2021 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế bình chọn \"Nhà giáo tiêu biểu của năm\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Sở Giáo dục và Đào tạo, Giám đốc đại học, học viện, Hiệu trưởng trường đại học, trường cao đẳng sư phạm, Thủ trưởng đơn vị thuộc và trực thuộc Bộ",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Sở Giáo dục và Đào tạo, Giám đốc đại học, học viện, Hiệu trưởng trường đại học, trường cao đẳng sư phạm, Thủ trưởng đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

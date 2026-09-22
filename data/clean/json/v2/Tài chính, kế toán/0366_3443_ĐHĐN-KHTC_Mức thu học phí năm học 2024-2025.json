@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0366_3443_ĐHĐN-KHTC_Mức thu học phí năm học 2024-2025.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "3443/ĐHĐN-KHTC",
+    "title": "V/v mức thu học phí năm học 2024 - 2025",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/08/2024",
+    "effectiveDate": "20/08/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Đào tạo"
+    ],
+    "summary": "Đại học Đà Nẵng thông báo đến Trường Đại học Bách khoa mức thu học phí năm học 2024 - 2025 đối với các chương trình đào tạo, hệ đào tạo sau đại học và lưu học sinh theo các phụ lục kèm theo.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên và Nghị quyết số 71/NQ-HĐĐH ngày 16/8/2024 của Hội đồng Đại học Đà Nẵng (ĐHĐN) về việc thông qua mức thu học phí năm học 2024 - 2025 của ĐHĐN..."
+    },
+    {
+      "targetDocumentNumber": "71/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên và Nghị quyết số 71/NQ-HĐĐH ngày 16/8/2024 của Hội đồng Đại học Đà Nẵng (ĐHĐN) về việc thông qua mức thu học phí năm học 2024 - 2025 của ĐHĐN..."
+    },
+    {
+      "targetDocumentNumber": "97/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 81/2021/NĐ-CP ngày 27/08/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập, giá dịch vụ trong lĩnh vực giáo dục, đào tạo..."
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 7",
+      "context": "2. Đối với các khoản thu khác: Trường thực hiện theo điểm b khoản 2 Điều 7 của Quy chế Tài chính ĐHĐN ban hành kèm theo Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng ĐHĐN."
+    }
+  ],
+  "mentions": [
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

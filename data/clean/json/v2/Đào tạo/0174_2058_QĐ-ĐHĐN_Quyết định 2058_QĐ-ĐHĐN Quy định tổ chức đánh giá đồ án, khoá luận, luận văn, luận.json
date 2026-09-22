@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0174_2058_QĐ-ĐHĐN_Quyết định 2058_QĐ-ĐHĐN Quy định tổ chức đánh giá đồ án, khoá luận, luận văn, luận.txt",
+  "mappedBy": "gemini-web",
+  "note": "13 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2058/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy định tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng theo hình thức trực tuyến",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/06/2021",
+    "effectiveDate": "04/06/2021",
+    "expiryDate": "31/12/2021",
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khảo thí"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy định tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp theo hình thức trực tuyến cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng. Văn bản quy định phạm vi, nguyên tắc, điều kiện tổ chức, hội đồng bảo vệ, nhiệm vụ quyền hạn các bên, duyệt kết quả, lưu trữ và thanh tra kiểm tra.",
+    "idOverride": null,
+    "targetGroups": [
+      "Người học",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "15/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 15/2014/TT-BGDĐT ngày 15/5/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đào tạo trình độ thạc sĩ;"
+    },
+    {
+      "targetDocumentNumber": "08/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2017/TT-BGDĐT ngày 04/4/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "707/BGDĐT-GDĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn số 707/BGDĐT-GDĐH ngày 26/02/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc hướng dẫn đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp theo hình thức trực tuyến năm 2021 trong thời gian dịch COVID-19;"
+    },
+    {
+      "targetDocumentNumber": "12/2016/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Cơ sở đào tạo đảm bảo các điều kiện ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng đáp ứng các quy định của Thông tư số 12/2016/TT-BGDĐT ngày 22/4/2016 của Bộ Giáo dục & Đào tạo ban hành Quy định ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng trong các cơ sở giáo dục đại học và các điều kiện sau:"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ trưởng Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng theo hình thức trực tuyến",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp (sau đây gọi chung là bảo vệ tốt nghiệp) cho sinh viên đại học, học viên cao học và nghiên cứu sinh (sau đây gọi chung là người học) của Đại học Đà Nẵng theo hình thức trực tuyến.\n2. Văn bản này áp dụng đối với các trường đại học thành viên, các đơn vị thuộc, trực thuộc Đại học Đà Nẵng có hoạt động đào tạo (sau đây gọi chung là cơ sở đào tạo) và các cá nhân có liên quan.\n3. Quy định này không áp dụng đối với đề tài luận án liên quan đến bí mật quốc gia thuộc danh mục bí mật nhà nước do cơ quan có thẩm quyền quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc tổ chức bảo vệ tốt nghiệp",
+          "text": "Điều 2. Nguyên tắc tổ chức bảo vệ tốt nghiệp\n1. Tổ chức đánh giá bảo vệ tốt nghiệp cho người học theo hình thức trực tuyến được thực hiện trong trường hợp không thể tổ chức tập trung vì dịch bệnh và phải tuân theo các hướng dẫn của Bộ Giáo dục và Đào tạo.\n2. Việc tổ chức bảo vệ tốt nghiệp cho người học theo hình thức trực tuyến thông qua mạng Internet và sử dụng công nghệ thông tin - truyền thông đa phương tiện đảm bảo những nguyên tắc sau:\n- Hình thức bảo vệ tốt nghiệp trực tuyến được sự đồng thuận của các thành viên hội đồng và người học;\n- Diễn biến của buổi bảo vệ tốt nghiệp trực tuyến được cơ sở đào tạo ghi hình, ghi âm đầy đủ và lưu trữ kèm theo hồ sơ của người học;\n- Người học vắng mặt với lí do chính đáng có đồng ý của cơ sở đào tạo thì sẽ được tham dự đánh giá ở một đợt bảo vệ tốt nghiệp khác và được tính điểm lần đầu. Trường hợp, người học vắng mặt không có lí do chính đáng phải nhận điểm 0.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Điều kiện để tổ chức bảo vệ trực tuyến",
+          "text": "Điều 3. Điều kiện để tổ chức bảo vệ trực tuyến\nCơ sở đào tạo đảm bảo các điều kiện ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng đáp ứng các quy định của Thông tư số 12/2016/TT-BGDĐT ngày 22/4/2016 của Bộ Giáo dục & Đào tạo ban hành Quy định ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng trong các cơ sở giáo dục đại học và các điều kiện sau:\n1. Phần mềm tổ chức họp trực tuyến và cơ sở hạ tầng kết nối để tổ chức các buổi bảo vệ tốt nghiệp trực tuyến do cơ sở đào tạo quy định lựa chọn, đảm bảo độ an toàn, tính bảo mật, chất lượng về âm thanh, hình ảnh kết nối tới tất cả các cá nhân tham gia. Khuyến khích các cơ sở đào tạo có điều kiện hỗ trợ địa điểm và kỹ thuật tổ chức bảo vệ trực tuyến cho thành viên hội đồng và người học;\n2. Có kế hoạch dự phòng, chuẩn bị sẵn thiết bị, công cụ hỗ trợ bảo vệ trực tuyến như máy tính, điện thoại thông minh... để người học hoàn thành buổi bảo vệ tốt nghiệp trong trường hợp xảy ra sự cố về kỹ thuật. Nếu phiên bảo vệ trực tuyến gặp sự cố kỹ thuật, cơ sở đào tạo cho tạm dừng phiên bảo vệ và kịp thời sửa chữa sự cố hoặc dùng các biện pháp dự phòng, cho đến khi sự cố được sửa chữa xong thì mới cho phép phiên bảo vệ tiếp tục;\n3. Cơ sở đào tạo đã xây dựng và ban hành các quy định hoặc quy trình cụ thể về tổ chức bảo vệ đồ án, khoá luận đối với đào tạo đại học và bảo vệ luận văn thạc sĩ, luận án tiến sĩ đối với đào tạo sau đại học, trong đó nêu rõ trách nhiệm của từng đơn vị, cá nhân liên quan đảm bảo trung thực, khách quan và có chế tài khi xảy ra vi phạm;\n4. Cơ sở đào tạo đã ban hành quy định, biểu mẫu và triển khai hướng dẫn người học thực hiện cam kết trung thực trong quá trình bảo vệ tốt nghiệp trực tuyến;\n5. Cơ sở đào tạo phải chuẩn bị các điều kiện đảm bảo an toàn, phòng, chống dịch bệnh cho các thành viên hội đồng, người học theo hướng dẫn của cơ quan có thẩm quyền;\n6. Các quy định nêu tại khoản 3, 4 Điều này phải được ban hành trước khi thực hiện bảo vệ trực tuyến và phải được công bố cùng lúc với các biện pháp xử lý kỉ luật tương ứng nếu phát hiện các vi phạm gian lận.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Hội đồng bảo vệ tốt nghiệp",
+          "text": "Điều 4. Hội đồng bảo vệ tốt nghiệp\n1. Hội đồng bảo vệ tốt nghiệp do thủ trưởng cơ sở đào tạo ra quyết định thành lập, trên cơ sở đề nghị của trưởng đơn vị chuyên môn và trưởng đơn vị quản lý đào tạo.\n2. Số lượng, tiêu chuẩn và thành phần của Hội đồng bảo vệ tốt nghiệp đảm bảo theo quy định của quy chế đào tạo đại học, thạc sĩ, tiến sĩ hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nhiệm vụ và quyền hạn của các bên liên quan",
+          "text": "Điều 5. Nhiệm vụ và quyền hạn của các bên liên quan\n1. Đối với cơ sở đào tạo:\n- Thủ trưởng các cơ sở đào tạo quyết định cho phép người học bảo vệ tốt nghiệp theo hình thức trực tuyến trong trường hợp không tổ chức được bảo vệ tốt nghiệp tập trung tại cơ sở đào tạo khi người học đáp ứng đủ các điều kiện bảo vệ tốt nghiệp theo quy định của quy chế đào tạo hiện hành;\n- Chuẩn bị các điều kiện kỹ thuật, các công cụ, phần mềm phục vụ bảo vệ trực tuyến của đơn vị, đảm bảo các công cụ này có thể hỗ trợ tốt nhất cho việc bảo vệ tốt nghiệp trực tuyến; phân công trách nhiệm rõ ràng đối với đội ngũ kỹ thuật viên hỗ trợ;\n- Cung cấp đủ thông tin về buổi bảo vệ tốt nghiệp đến các đơn vị, cá nhân có liên quan và công khai trên trang thông tin điện tử của cơ sở đào tạo trong đó nêu rõ: Địa điểm, thành phần tham dự và cách thức tham dự buổi bảo vệ trực tuyến;\n- Hướng dẫn cách sử dụng và cung cấp các phần mềm, thiết bị hỗ trợ họp trực tuyến trước buổi bảo vệ cho thành viên hội đồng và người học.\n\n2. Đối với thành viên Hội đồng:\n- Các thành viên Hội đồng tham gia vào phiên bảo vệ trực tuyến có trách nhiệm tự chuẩn bị máy tính có kết nối mạng internet, có webcam để đăng nhập vào phần mềm sử dụng cho phiên bảo vệ tốt nghiệp trực tuyến;\n- Chủ tịch Hội đồng điều khiển phiên họp theo các bước quy định trong quy chế đào tạo đại học, thạc sĩ và tiến sĩ hiện hành;\n- Thư ký Hội đồng chịu trách nhiệm ghi chép và công khai Biên bản của buổi bảo vệ tốt nghiệp trực tuyến và Nghị quyết của hội đồng ngay trong buổi bảo vệ tốt nghiệp. Sau đó, Thư ký gửi đến các thành viên hội đồng tham gia buổi họp và người học để xác nhận và gửi lại cơ sở đào tạo cùng các phiếu đánh giá của từng thành viên hội đồng.\n\n3. Đối với người học:\n- Người học sử dụng máy tính có trang bị webcam, máy tính bảng, điện thoại thông minh có kết nối mạng internet để đăng nhập vào phần mềm sử dụng cho phiên bảo vệ trực tuyến;\n- Người học cam kết trung thực và thực hiện nghiêm túc các quy định về bảo vệ trực tuyến. Người học cần chuẩn bị các giấy tờ tùy thân như CMND/CCCD để cơ sở đào tạo xác thực khi có yêu cầu;\n- Cập nhật các công cụ phù hợp với phần mềm dùng trong bảo vệ trực tuyến;\n- Thực hiện việc bảo vệ tốt nghiệp trực tuyến trước Hội đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Duyệt kết quả bảo vệ tốt nghiệp",
+          "text": "Điều 6. Duyệt kết quả bảo vệ tốt nghiệp\n1. Kết quả bảo vệ tốt nghiệp được Thư ký hội đồng công bố ngay trong buổi bảo vệ trực tuyến đến các thành viên hội đồng, người học và người tham dự. Hồ sơ phê duyệt kết quả bảo vệ gồm:\n- File ghi âm, ghi hình của buổi bảo vệ được lưu vào đĩa CD hoặc USB;\n- Biên bản của buổi bảo vệ tốt nghiệp ghi toàn bộ nội dung của phiên bảo vệ có chữ ký của các bên liên quan;\n- Biên bản kiểm phiếu và các phiếu đánh giá có chữ ký xác nhận của các bên liên quan.\n2. Thủ trưởng cơ sở đào tạo quy định chi tiết quy trình giao và nhận những tài liệu ở khoản 1 điều này đảm bảo đầy đủ chữ ký trước khi ban hành quyết định công nhận kết quả.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Lưu trữ hồ sơ",
+          "text": "Điều 7. Lưu trữ hồ sơ\n1. Tài liệu liên quan đến việc bảo vệ tốt nghiệp được lưu trữ, bảo quản an toàn trong kho lưu trữ. Thủ trưởng cơ sở đào tạo có trách nhiệm chỉ đạo việc bảo quản, lưu trữ tài liệu theo quy định hiện hành.\n2. Đơn vị tổ chức bảo vệ tốt nghiệp lưu trữ vĩnh viễn: Đĩa CD hoặc USB ghi lại toàn bộ quá trình bảo vệ, biên bản của buổi bảo vệ, biên bản kiểm phiếu và các phiếu đánh giá của các thành viên Hội đồng bảo vệ tốt nghiệp.\n3. Các tài liệu khác liên quan lưu trữ theo quy định của quy chế đào tạo hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Thanh tra, kiểm tra",
+          "text": "Điều 8. Thanh tra, kiểm tra\n1. Cơ sở đào tạo có trách nhiệm tự kiểm tra, thanh tra nội bộ việc tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của đơn vị. Chịu sự kiểm tra, thanh tra, giám sát của Đại học Đà Nẵng, của Bộ Giáo dục và Đào tạo và các cơ quan có thẩm quyền theo các quy định hiện hành.\n2. Đại học Đà Nẵng thanh tra, kiểm tra việc thực hiện các quy định về việc tổ chức bảo vệ trực tuyến và lưu trữ hồ sơ tốt nghiệp của các cơ sở đào tạo theo các quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Xử lý vi phạm trong bảo vệ tốt nghiệp trực tuyến",
+          "text": "Điều 9. Xử lý vi phạm trong bảo vệ tốt nghiệp trực tuyến\nNgười học và các cá nhân hoặc tổ chức tham gia vào việc bảo vệ tốt nghiệp trực tuyến nếu có hành vi vi phạm (bị phát hiện trong và sau khi bảo vệ tốt nghiệp) quy định của cơ sở đào tạo, của ĐHĐN, tùy theo mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 10. Tổ chức thực hiện\n1. Căn cứ Quy định này và đặc thù ngành nghề đào tạo, thủ trưởng cơ sở đào tạo có trách nhiệm chỉ đạo xây dựng, ban hành quy định chi tiết về bảo vệ tốt nghiệp trực tuyến của cơ sở đào tạo để nâng cao hiệu quả quản lý.\n2. Các cơ sở đào tạo đảm bảo và duy trì các điều kiện để tổ chức bảo vệ tốt nghiệp, phổ biến rộng rãi Quy định này cho các thành viên của Hội đồng và người học.\n3. Thủ trưởng các cơ sở đào tạo chỉ đạo bộ phận tài chính thực hiện việc thu, chi đối với hoạt động bảo vệ tốt nghiệp theo đúng quy định do cơ quan nhà nước có thẩm quyền ban hành.\n4. Trong quá trình thực hiện, Quy định này có thể được điều chỉnh bổ sung và sửa đổi cho phù hợp với tình hình thực tế. Việc điều chỉnh do Giám đốc Đại học Đà Nẵng xem xét, quyết định.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng theo hình thức trực tuyến.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định tổ chức đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng theo hình thức trực tuyến.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký đến hết ngày 31 tháng 12 năm 2021.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký đến hết ngày 31 tháng 12 năm 2021.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc căn cứ Quyết định thi hành.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

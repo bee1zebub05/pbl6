@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0176_4765_QĐ-ĐHĐN_Quyết định 4765_QĐ-ĐHĐN Quy định về tổ chức xét duyệt và công nhận sáng kiến.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4765/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về tổ chức xét duyệt và công nhận sáng kiến",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/12/2020",
+    "effectiveDate": "28/12/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ"
+    ],
+    "summary": "Đại học Đà Nẵng ban hành quy định về tổ chức xét duyệt và công nhận sáng kiến, bao gồm phạm vi điều chỉnh, đối tượng áp dụng, điều kiện, tiêu chuẩn, thủ tục, hồ sơ và chế độ làm việc của Hội đồng xét duyệt và công nhận sáng kiến.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "13/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 13/2012/NĐ-CP ngày 02 tháng 3 năm 2012 của Chính phủ về việc ban hành Điều lệ sáng kiến;"
+    },
+    {
+      "targetDocumentNumber": "18/2013/TT-BKHCN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 18/2013/TT-BKHCN ngày 01 tháng 8 năm 2013 của Bộ Khoa học và Công nghệ hướng dẫn thi hành một số quy định của Điều lệ sáng kiến được ban hành kèm theo Nghị định số 13/2012/NĐ-CP ngày 02 tháng 3 năm 2012 của Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "7896/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 7896/QĐ-ĐHĐN ngày 26 tháng 11 năm 2013 của Giám đốc Đại học Đà Nẵng ban hành Quy định về tổ chức xét duyệt và công nhận sáng kiến."
+    },
+    {
+      "targetDocumentNumber": "03/2019/TT-BTC",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Kinh phí tổ chức xét duyệt, công nhận sáng kiến được sử dụng trong nguồn kinh phí hoạt động khoa học, công nghệ hàng năm của đơn vị; mức chi như quy định tại Thông tư số 03/2019/TT-BTC ngày 15 tháng 01 năm 2019 của Bộ trưởng Bộ Tài chính về việc Quy định về nguồn kinh phí, nội dung và mức chi từ ngân sách nhà nước để thực hiện hoạt động sáng kiến."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Tài chính",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Về tổ chức xét duyệt và công nhận sáng kiến",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy định này quy định về điều kiện, tiêu chuẩn, thủ tục công nhận sáng kiến, thẩm quyền, quy trình xét duyệt và công nhận sáng kiến, trách nhiệm của Hội đồng sáng kiến trong Đại học Đà Nẵng (ĐHĐN).\n2. Quy định này áp dụng đối với các trường đại học thành viên, các đơn vị thuộc, trực thuộc và viên chức, người lao động hợp đồng (có thời hạn từ 12 tháng trở lên, hợp đồng không xác định thời hạn) làm việc tại ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Hoạt động sáng kiến” bao gồm các hoạt động tạo ra, áp dụng sáng kiến, công nhận sáng kiến, thực hiện quyền và nghĩa vụ liên quan đến sáng kiến.\n2. “Chuyển giao sáng kiến” là việc truyền đạt toàn bộ kiến thức, thông tin về sáng kiến để người được chuyển giao có thể áp dụng sáng kiến.\n3. “Áp dụng sáng kiến lần đầu” là việc áp dụng sáng kiến lần đầu tiên, kể cả áp dụng thử.\n4. “Tác giả sáng kiến” là người trực tiếp tạo ra sáng kiến bằng chính lao động sáng tạo của mình. Đồng tác giả sáng kiến là những tác giả cùng nhau tạo ra sáng kiến.\n5. “Chủ đầu tư tạo ra sáng kiến” là cơ quan, tổ chức, cá nhân đầu tư kinh phí, phương tiện vật chất - kỹ thuật dưới hình thức giao việc, thuê việc hoặc các hình thức khác cho tác giả để tạo ra sáng kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Đối tượng được công nhận là sáng kiến",
+          "text": "Điều 3. Đối tượng được công nhận là sáng kiến\nĐối tượng được công nhận là sáng kiến gồm các giải pháp kỹ thuật, giải pháp quản lý, giải pháp tác nghiệp, giải pháp ứng dụng tiến bộ kỹ thuật (gọi chung là giải pháp) phạm vi trong ĐHĐN.\n1. Giải pháp kỹ thuật là cách thức kỹ thuật, phương tiện kỹ thuật nhằm giải quyết một nhiệm vụ (một vấn đề) xác định, bao gồm:\n\na) Sản phẩm, dưới các dạng: vật thể (ví dụ: dụng cụ, máy móc, thiết bị, linh kiện); chất (ví dụ: vật liệu, chất liệu, thực phẩm, dược phẩm, mỹ phẩm); vật liệu sinh học (ví dụ: chủng vi sinh, chế phẩm sinh học, gen, thực vật, động vật biến đổi gen); hoặc giống cây trồng, giống vật nuôi;\nb) Quy trình (ví dụ: quy trình công nghệ; quy trình chẩn đoán, dự báo, kiểm tra, xử lý, kỹ thuật chăn nuôi, trồng trọt; quy trình chẩn đoán, chữa bệnh cho người, động vật và thực vật...).\n2. Giải pháp quản lý là cách thức tổ chức, điều hành công việc thuộc bất kỳ lĩnh vực hoạt động nào, trong đó có:\na) Phương pháp tổ chức công việc (ví dụ: bố trí nhân lực, máy móc, thiết bị, dụng cụ, nguyên liệu, vật liệu);\nb) Phương pháp điều hành, kiểm tra, giám sát công việc.\n3. Giải pháp tác nghiệp bao gồm các phương pháp thực hiện các thao tác kỹ thuật, nghiệp vụ trong công việc thuộc bất kỳ lĩnh vực hoạt động nào, trong đó có:\na) Phương pháp thực hiện các thủ tục hành chính (ví dụ: tiếp nhận, xử lý hồ sơ, đơn thư, tài liệu);\nb) Phương pháp thẩm định, giám định, tư vấn, đánh giá;\nc) Phương pháp tuyên truyền, đào tạo, giảng dạy, huấn luyện;\nd) Phương pháp huấn luyện động vật; ...\n4. Giải pháp ứng dụng tiến bộ kỹ thuật là phương pháp, cách thức hoặc biện pháp áp dụng một giải pháp kỹ thuật đã biết vào thực tiễn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thẩm quyền xét duyệt và công nhận sáng kiến tại ĐHĐN",
+          "text": "Điều 4. Thẩm quyền xét duyệt và công nhận sáng kiến tại ĐHĐN\n1. ĐHĐN xét duyệt và công nhận sáng kiến cho cá nhân, tập thể là viên chức, người lao động của các đơn vị thuộc và trực thuộc ĐHĐN.\n2. Các trường đại học thành viên xét duyệt và công nhận sáng kiến cho các cá nhân, tập thể là viên chức, người lao động thuộc đơn vị mình.\nSau đây gọi chung ĐHĐN và các trường đại học thành viên là đơn vị xét duyệt sáng kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Tiêu chuẩn sáng kiến",
+          "text": "Điều 5. Tiêu chuẩn sáng kiến\nGiải pháp được công nhận là sáng kiến nếu đáp ứng đầy đủ các điều kiện sau đây:\n1. Tính mới: Một giải pháp được coi là có tính mới trong phạm vi một cơ sở nếu tính đến trước ngày nộp đơn yêu cầu công nhận sáng kiến, hoặc ngày bắt\n\nđầu áp dụng thử hoặc áp dụng lần đầu (tính theo ngày nào sớm hơn), trong phạm vi cơ sở đó, giải pháp đáp ứng đầy đủ các điều kiện sau đây:\na) Không trùng với nội dung của giải pháp trong đơn đăng ký sáng kiến nộp trước;\nb) Chưa công khai trong các văn bản, sách báo, tài liệu kỹ thuật đến mức căn cứ vào đó có thể thực hiện được ngay;\nc) Không trùng với giải pháp của người khác thuộc ĐHĐN đã được áp dụng hoặc áp dụng thử, hoặc đưa vào kế hoạch áp dụng, phổ biến hoặc chuẩn bị các điều kiện để áp dụng, phổ biến;\nd) Chưa được quy định thành tiêu chuẩn, quy trình, quy phạm bắt buộc phải thực hiện.\n2. Tính khả thi:\na) Phù hợp với chức năng, nhiệm vụ được giao;\nb) Phù hợp với điều kiện thực hiện nhiệm vụ của đơn vị tại thời điểm đưa ra sáng kiến để triển khai;\nc) Được áp dụng ngay trong công việc của các cá nhân tại cơ quan, đơn vị.\n3. Tính hiệu quả:\nMang lại hiệu quả trong công tác quản lý, tham mưu, phục vụ; cải thiện điều kiện làm việc, công tác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Đơn yêu cầu công nhận sáng kiến",
+          "text": "Điều 6. Đơn yêu cầu công nhận sáng kiến\n1. Đơn yêu cầu công nhận sáng kiến làm theo quy định (mẫu 1).\n2. Quy định về nội dung Đơn yêu cầu công nhận sáng kiến được hướng dẫn cụ thể như sau:\na) Tên đơn vị được yêu cầu công nhận sáng kiến;\nb) Tác giả sáng kiến hoặc các đồng tác giả sáng kiến (nếu có) và tỷ lệ đóng góp của từng đồng tác giả;\nc) Chủ đầu tư tạo ra sáng kiến: Trường hợp tác giả sáng kiến không đồng thời là chủ đầu tư tạo ra sáng kiến thì trong đơn cần nêu rõ chủ đầu tư tạo ra sáng kiến là cơ quan, tổ chức hoặc cá nhân nào. Nếu sáng kiến được tạo ra do Nhà nước đầu tư kinh phí, phương tiện vật chất - kỹ thuật thì trong đơn cần ghi rõ thông tin này;\nd) Tên sáng kiến; lĩnh vực áp dụng; mô tả bản chất của sáng kiến; các thông tin cần được bảo mật (nếu có):\n- Tên sáng kiến: Phải thể hiện bản chất của giải pháp trong đơn;\n- Lĩnh vực áp dụng: Nêu rõ lĩnh vực có thể áp dụng sáng kiến và vấn đề mà sáng kiến giải quyết;\n- Mô tả sáng kiến:\n\nVề nội dung của sáng kiến: Mô tả ngắn gọn, đầy đủ và rõ ràng các bước thực hiện giải pháp cũng như các điều kiện cần thiết để áp dụng giải pháp; nếu là giải pháp cải tiến giải pháp đã biết trước đó tại cơ sở thì cần nêu rõ tình trạng của giải pháp đã biết, những nội dung đã cải tiến, sáng tạo để khắc phục những nhược điểm của giải pháp đã biết. Bản mô tả nội dung sáng kiến có thể minh họa bằng các bản vẽ, thiết kế, sơ đồ, ảnh chụp mẫu sản phẩm... nếu cần thiết;\n+ Về khả năng áp dụng của sáng kiến: Nêu rõ về việc giải pháp đã được áp dụng, kể cả áp dụng thử trong điều kiện kinh tế - kỹ thuật tại cơ sở và mang lại lợi ích thiết thực; ngoài ra có thể nêu rõ giải pháp còn có khả năng áp dụng cho những đối tượng, cơ quan, tổ chức nào.\n- Các thông tin cần được bảo mật (nếu có).\nđ) Các điều kiện cần thiết để áp dụng sáng kiến;\ne) Những người tham gia tổ chức áp dụng sáng kiến lần đầu (nếu có);\ng) Đánh giá lợi ích thu được hoặc dự kiến có thể thu được do áp dụng giải pháp trong đơn theo ý kiến của tác giả và theo ý kiến của tổ chức, cá nhân tham gia áp dụng giải pháp lần đầu, kể cả áp dụng thử tại cơ sở theo các nội dung sau:\n- So sánh lợi ích kinh tế, xã hội thu được khi áp dụng giải pháp trong đơn so với trường hợp không áp dụng giải pháp đó, hoặc so với những giải pháp tương tự đã biết ở cơ sở (cần nêu rõ giải pháp đem lại hiệu quả kinh tế, lợi ích xã hội cao hơn như thế nào hoặc khắc phục được đến mức độ nào những nhược điểm của giải pháp đã biết trước đó - nếu là giải pháp cải tiến giải pháp đã biết trước đó);\n- Số tiền làm lợi (nếu có thể tính được) và nêu cách tính cụ thể.\n3. Tác giả sáng kiến chịu trách nhiệm về tính trung thực của thông tin nêu trong đơn yêu cầu công nhận sáng kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiếp nhận, xem xét đơn yêu cầu công nhận sáng kiến",
+          "text": "Điều 7. Tiếp nhận, xem xét đơn yêu cầu công nhận sáng kiến\n1. Các đơn vị xét duyệt sáng kiến có trách nhiệm tiếp nhận, xem xét đơn yêu cầu công nhận sáng kiến, hỗ trợ tác giả sáng kiến hoàn thiện đơn và có trách nhiệm xét công nhận sáng kiến theo quy định.\n2. Trong thời hạn 01 tháng kể từ ngày tiếp nhận đơn yêu cầu công nhận sáng kiến, đơn vị xét duyệt sáng kiến có trách nhiệm xem xét đơn theo quy định tại khoản 2 Điều 6 và thực hiện các thủ tục sau đây:\na) Thông báo cho tác giả sáng kiến về thiếu sót của đơn và ấn định thời hạn 01 tháng để tác giả sửa chữa bổ sung, gửi lại;\nb) Thông báo cho tác giả sáng kiến về việc chấp nhận đơn, ghi nhận các thông tin liên quan của đơn và lưu giữ hồ sơ đơn phù hợp với quy định;\nc) Thông báo cho tác giả rõ lý do nếu từ chối chấp nhận đơn.\n\n5",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Trình tự, thủ tục xét, công nhận sáng kiến",
+          "text": "Điều 8. Trình tự, thủ tục xét, công nhận sáng kiến\n\nHằng năm, sáng kiến được xét duyệt và công nhận một cấp (được gọi là cấp cơ sở) theo trình tự và thủ tục như sau:\n\n1. Từ ngày 15/3 đến 10/4, các tập thể/cá nhân nộp hồ sơ đề nghị công nhận sáng kiến về các bộ phận phụ trách xét duyệt sáng kiến do hiệu trưởng các trường đại học thành viên phân công phụ trách. Các đơn vị thuộc, trực thuộc ĐHĐN nộp hồ sơ về Ban Khoa học Công nghệ và Môi trường.\n\n2. Từ ngày 15/4 đến ngày 15/5, các đơn vị thông báo cho các tập thể/cá nhân về việc chấp nhận đơn/từ chối chấp nhận đơn.\n\n3. Các đơn vị xét duyệt sáng kiến tổ chức họp Hội đồng để xét duyệt công nhận sáng kiến và công bố kết quả xét duyệt trước ngày 15/6.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hồ sơ đề nghị công nhận sáng kiến cấp cơ sở",
+          "text": "Điều 9. Hồ sơ đề nghị công nhận sáng kiến cấp cơ sở\n\nHồ sơ đề nghị công nhận sáng kiến gồm:\n\n- Đơn yêu cầu công nhận sáng kiến (mẫu 1);\n\n- Báo cáo kết quả thực hiện sáng kiến (mẫu 2);\n\n- Các tài liệu liên quan khác để chứng minh (nếu có hoặc khi có yêu cầu của Hội đồng xét duyệt và công nhận sáng kiến).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Cách tính điểm sáng kiến",
+          "text": "Điều 10. Cách tính điểm sáng kiến\n\n1. Thang điểm đối với sáng kiến\n\n| STT | Tiêu chuẩn | Tiêu chí đánh giá | Điểm tối đa |\n| 1 | Tính mới, tính sáng tạo | Không trùng với nội dung của giải pháp trong đơn đăng ký sáng kiến nộp trước | 10 |\n| | | Chưa công khai trong các văn bản, sách báo, tài liệu kỹ thuật đến mức căn cứ vào đó có thể thực hiện được ngay | 10 |\n| | | Không trùng với giải pháp của người khác đã được áp dụng hoặc áp dụng thử, hoặc đưa vào kế hoạch áp dụng, phổ biến hoặc chuẩn bị các điều kiện để áp dụng, phổ biến | 10 |\n| | | Chưa được quy định thành tiêu chuẩn, quy trình, quy phạm bắt buộc phải thực hiện | 10 |\n| 2 | Áp dụng hoặc áp dụng thử tại cơ quan/đơn vị | Phù hợp với chức năng, nhiệm vụ được giao | 10 |\n| | | Phù hợp với điều kiện thực hiện nhiệm vụ của đơn vị tại thời điểm đưa ra sáng kiến để triển khai | 10 |\n| | | Được áp dụng ngay trong công việc của các cá nhân tại cơ quan, đơn vị | 10 |\n\n6\n\n3 | Tính hiệu quả | Mang lại hiệu quả trong công tác quản lý, tham mưu, phục vụ; cải thiện điều kiện làm việc, công tác | 30 |\n| Tổng cộng | | | 100 |\n\n2. Điểm quy định công nhận sáng kiến\n\nSáng kiến đạt yêu cầu để Hội đồng biểu quyết thông qua kết quả khi có điểm trung bình của Hội đồng xét duyệt đạt từ 70 điểm trở lên (trong đó mỗi tiêu chuẩn đạt ít nhất 50% số điểm tối đa theo thang điểm tại khoản 1, Điều 10). Phiếu đánh giá sáng kiến theo quy định tại mẫu 3 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hội đồng xét duyệt và công nhận sáng kiến cấp cơ sở",
+          "text": "Điều 11. Hội đồng xét duyệt và công nhận sáng kiến cấp cơ sở\n\n1. Thành lập Hội đồng xét duyệt và công nhận sáng kiến\n\nHội đồng xét duyệt và công nhận sáng kiến do thủ trưởng đơn vị xét duyệt sáng kiến quyết định thành lập gồm có Chủ tịch Hội đồng, Thư ký và các Ủy viên (các chuyên gia hoặc những người có trình độ chuyên môn về lĩnh vực có liên quan đến nội dung sáng kiến và các thành phần khác theo quyết định của người đứng đầu đơn vị xét duyệt sáng kiến). Mỗi hồ sơ sáng kiến được lập một hội đồng để xét duyệt và công nhận. Thường trực Hội đồng xét duyệt và công nhận sáng kiến là một bộ phận chức năng trong đơn vị do thủ trưởng đơn vị phân công phụ trách.\n\n2. Nhiệm vụ và quyền hạn của Hội đồng xét duyệt và công nhận sáng kiến\n\n- Tổ chức đánh giá giải pháp được yêu cầu công nhận sáng kiến theo các điều kiện quy định tại Quy định này. Hội đồng lập biên bản họp (mẫu 4) trong đó phản ánh đầy đủ ý kiến của các thành viên, kết quả biểu quyết của Hội đồng.\n\n- Mời chuyên gia để tư vấn về mặt chuyên môn cho Hội đồng trong trường hợp cần thiết;\n\n- Thực hiện đúng các quy định của pháp luật về giữ bí mật, công bố thông tin có liên quan đến sáng kiến;\n\n- Giải quyết khiếu nại, tố cáo liên quan đến kết quả đánh giá của Hội đồng sáng kiến cấp cơ sở.\n\n3. Nhiệm vụ của Thường trực Hội đồng sáng kiến\n\n- Quản lý và hướng dẫn nghiệp vụ về việc hồ sơ đăng ký, xét duyệt và công nhận sáng kiến;\n\n- Tiếp nhận, kiểm tra hồ sơ yêu cầu công nhận sáng kiến, làm thủ tục cho rút đơn yêu cầu công nhận sáng kiến (khi cần);\n\n- Tổng hợp, xem xét, phân loại, dự kiến thời gian họp, gửi hồ sơ yêu cầu công nhận sáng kiến cho các thành viên Hội đồng sáng kiến nghiên cứu trước khi họp và tổ chức họp Hội đồng;\n\n7\n\n-\n\nHoàn thiện biên bản sau khi Hội đồng sáng kiến họp, trình Thủ trưởng đơn vị ra quyết định công nhận và cấp giấy chứng nhận sáng kiến (mẫu 5) cho những trường hợp đủ điều kiện công nhận là sáng kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Nguyên tắc làm việc của Hội đồng xét duyệt và công nhận sáng kiến",
+          "text": "Điều 12. Nguyên tắc làm việc của Hội đồng xét duyệt và công nhận sáng kiến\n\n1. Các thành viên Hội đồng sáng kiến xem xét tóm tắt hồ sơ yêu cầu công nhận sáng kiến và cho ý kiến thảo luận, nhận xét, đánh giá theo mẫu 3 tại Quy định này.\n\n2. Hội đồng tổng hợp kết quả chấm của các thành viên, đưa ra điểm chấm cuối cùng của Hội đồng và biểu quyết thông qua kết quả. Quyết định của Hội đồng được thông qua theo nguyên tắc biểu quyết với ít nhất 2/3 ý kiến đồng ý của các thành viên Hội đồng.\n\n3. Khi cần thiết, Hội đồng sáng kiến mời cá nhân có đơn đề nghị công nhận sáng kiến đến trình bày (bảo vệ) sáng kiến của mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Chế độ làm việc của hội đồng xét duyệt và công nhận sáng kiến",
+          "text": "Điều 13. Chế độ làm việc của hội đồng xét duyệt và công nhận sáng kiến\n\n1. Đơn vị xét duyệt sáng kiến thông báo rộng rãi trên các phương tiện thông tin của đơn vị về lịch họp của Hội đồng xét duyệt và công nhận sáng kiến.\n\n2. Hội đồng xét duyệt và công nhận sáng kiến họp khi có mặt chủ tịch, thư ký và có ít nhất 2/3 số thành viên Hội đồng.\n\n3. Hồ sơ sáng kiến gửi cho các thành viên Hội đồng ít nhất 03 ngày trước khi họp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Kinh phí hoạt động của Hội đồng sáng kiến",
+          "text": "Điều 14. Kinh phí hoạt động của Hội đồng sáng kiến\n\nKinh phí tổ chức xét duyệt, công nhận sáng kiến được sử dụng trong nguồn kinh phí hoạt động khoa học, công nghệ hàng năm của đơn vị; mức chi như quy định tại Thông tư số 03/2019/TT-BTC ngày 15 tháng 01 năm 2019 của Bộ trưởng Bộ Tài chính về việc Quy định về nguồn kinh phí, nội dung và mức chi từ ngân sách nhà nước để thực hiện hoạt động sáng kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 15. Hiệu lực thi hành\n\nQuy định này có hiệu lực kể từ ngày ký và thay thế Quy định về tổ chức xét duyệt và công nhận sáng kiến ban hành theo Quyết định số 7896/QĐ-ĐHĐN ngày 26 tháng 11 năm 2013 của Giám đốc ĐHĐN.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 16. Tổ chức thực hiện\n\n1. Ban Khoa học, Công nghệ và Môi trường có trách nhiệm hướng dẫn các trường đại học thành viên, các đơn vị thuộc, trực thuộc ĐHĐN thực hiện quy định này; phối hợp với Văn phòng, các ban chức năng kiểm tra, giám sát và báo cáo Giám đốc ĐHĐN về tình hình và kết quả thực hiện.\n\n8\n\n2. Trong quá trình thực hiện Quy định này, nếu thực tế phát sinh các nội dung cần điều chỉnh hoặc bổ sung, các trường đại học thành viên, đơn vị thuộc, trực thuộc ĐHĐN báo cáo Giám đốc ĐHĐN (qua Ban Khoa học, Công nghệ và Môi trường) để xem xét, quyết định sửa đổi, bổ sung cho phù hợp./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về tổ chức xét duyệt và công nhận sáng kiến.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về tổ chức xét duyệt và công nhận sáng kiến.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 7896/QĐ-ĐHĐN ngày 26 tháng 11 năm 2013 của Giám đốc Đại học Đà Nẵng ban hành Quy định về tổ chức xét duyệt và công nhận sáng",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 7896/QĐ-ĐHĐN ngày 26 tháng 11 năm 2013 của Giám đốc Đại học Đà Nẵng ban hành Quy định về tổ chức xét duyệt và công nhận sáng kiến.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và các tập thể/cá nhân có liên quan căn cứ thi hành Qu",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban chức năng của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và các tập thể/cá nhân có liên quan căn cứ thi hành Quyết định này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

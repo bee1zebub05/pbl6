@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0479_1609_QĐ-BGDĐT_Quyết định ban hành Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưở.txt",
+  "mappedBy": "gemini-web",
+  "note": "14 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1609/QĐ-BGDĐT",
+    "title": "Quyết định về việc ban hành Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/06/2026",
+    "effectiveDate": "12/06/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Thi đua, khen thưởng"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo, thay thế Quyết định số 709/QĐ-BGDĐT ngày 04 tháng 3 năm 2024.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "152/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 152/2025/NĐ-CP ngày 14 tháng 6 năm 2025 của Chính phủ quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "07/2026/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 07/2026/TT-BGDĐT ngày 15 tháng 02 năm 2026 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng và Nghị định số 152/2025/NĐ-CP ngày 14 tháng 6 năm 2025 của Chính phủ quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng đối với…"
+    },
+    {
+      "targetDocumentNumber": "709/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 709/QĐ-BGDĐT ngày 04 tháng 3 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "143/2025/TT-BTC",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Kinh phí hoạt động của Hội đồng và đơn vị thường trực Hội đồng thực hiện theo quy định tại Thông tư số 143/2025/TT-BTC ngày 31/12/2025 của Bộ trưởng Bộ Tài chính hướng dẫn mức chi tổ chức thực hiện công tác thi đua, khen thưởng tại khoản 1 Điều 48 Nghị định số 152/2025/NĐ-CP ngày 14/6/2025 của Chính phủ quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và h…"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Bộ Nội vụ",
+    "Ban Thi đua - Khen thưởng Trung ương",
+    "Công đoàn Giáo dục Việt Nam",
+    "Bộ Tài chính",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa Hà Nội"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Chức năng của Hội đồng",
+          "text": "Điều 1. Chức năng của Hội đồng\nHội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo (sau đây viết tắt là Hội đồng) có chức năng tham mưu, tư vấn cho Bộ trưởng Bộ Giáo dục và Đào tạo chỉ đạo, tổ chức thực hiện công tác thi đua, khen thưởng ngành Giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nhiệm vụ, quyền hạn của Hội đồng",
+          "text": "Điều 2. Nhiệm vụ, quyền hạn của Hội đồng\nTham mưu cho Bộ trưởng:\n1. Xây dựng và cụ thể hóa chủ trương của Đảng, chính sách, pháp luật của Nhà nước về công tác thi đua, khen thưởng ngành Giáo dục.\n2. Phát động các phong trào thi đua trong phạm vi ngành Giáo dục theo thẩm quyền; theo dõi, đôn đốc hoạt động của khối, cụm thi đua trong ngành và trong Bộ; định kỳ đánh giá, sơ kết, tổng kết việc thực hiện phong trào thi đua và công tác khen thưởng; kiến nghị, đề xuất các chủ trương, biện pháp đẩy mạnh phong trào thi đua trong từng năm và từng giai đoạn.\n3. Kiểm tra các phong trào thi đua và thực hiện các chủ trương, chính sách pháp luật về thi đua, khen thưởng.\n4. Xét tặng danh hiệu thi đua và hình thức khen thưởng theo thẩm quyền hoặc trình cấp có thẩm quyền xét tặng danh hiệu thi đua, hình thức khen thưởng cho tập thể, cá nhân theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Thành phần Hội đồng",
+          "text": "Điều 3. Thành phần Hội đồng\n1. Chủ tịch Hội đồng: Bộ trưởng.\n\n2. Các Phó Chủ tịch Hội đồng gồm:\na) Phó Chủ tịch thường trực Hội đồng là thứ trưởng được Bộ trưởng giao chỉ đạo các công việc thường xuyên liên quan đến công tác thi đua, khen thưởng.\nb) Phó Chủ tịch Hội đồng là Vụ trưởng Vụ Tổ chức cán bộ.\n3. Các Ủy viên Hội đồng gồm:\na) Các thứ trưởng.\nb) Thủ trưởng các đơn vị: Văn phòng; Vụ Giáo dục Mầm non; Vụ Giáo dục Phổ thông; Vụ Giáo dục Đại học; Vụ Giáo dục Quốc phòng và An ninh; Vụ Học sinh, sinh viên; Vụ Pháp chế; Vụ Kế hoạch - Tài chính; Cục Nhà giáo và Cán bộ quản lý giáo dục; Cục Quản lý chất lượng; Cục Khoa học, Công nghệ và Thông tin; Cục Hợp tác quốc tế; Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên, Chủ tịch Công đoàn Giáo dục Việt Nam.\n4. Thường trực Hội đồng gồm: Chủ tịch Hội đồng, các Phó Chủ tịch Hội đồng và Ủy viên thường trực Hội đồng.\n5. Ủy viên thường trực Hội đồng, kiêm thư ký Hội đồng là Phó Vụ trưởng Vụ Tổ chức cán bộ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nhiệm vụ, quyền hạn của các thành viên Hội đồng",
+          "text": "Điều 4. Nhiệm vụ, quyền hạn của các thành viên Hội đồng\n1. Chủ tịch Hội đồng\na) Chỉ đạo, điều hành mọi hoạt động của Hội đồng.\nb) Quyết định triệu tập, phân công nhiệm vụ cho các thành viên của Hội đồng.\nc) Chủ trì và kết luận các phiên họp của Hội đồng.\n2. Phó Chủ tịch thường trực Hội đồng\na) Thay mặt Chủ tịch Hội đồng đôn đốc, kiểm tra việc thực hiện Quy chế hoạt động và các quyết định về chủ trương của Hội đồng.\nb) Chủ trì, kết luận các phiên họp của Hội đồng nếu Chủ tịch Hội đồng vắng mặt và ủy quyền.\nc) Thay mặt Chủ tịch Hội đồng ký các văn bản của Hội đồng theo ủy quyền của Chủ tịch Hội đồng.\nd) Chỉ đạo, kiểm tra phong trào thi đua, công tác khen thưởng trong toàn ngành và Bộ Giáo dục và Đào tạo.\n3. Phó Chủ tịch Hội đồng\na) Chịu trách nhiệm trước Chủ tịch Hội đồng về hoạt động của đơn vị thường\n\ntrực Hội đồng (Vụ Tổ chức cán bộ) liên quan đến công tác thi đua - khen thưởng.\nb) Ký các văn bản của Hội đồng theo sự ủy quyền của Chủ tịch Hội đồng.\n4. Thường trực Hội đồng\na) Trước mỗi kỳ họp Hội đồng, Thường trực Hội đồng họp thống nhất các nội dung, phương án trình Hội đồng theo đề nghị của đơn vị thường trực Hội đồng.\nb) Quyết định xin ý kiến Hội đồng bằng phiếu đối với những trường hợp không kịp trình tại phiên họp Hội đồng.\n5. Ủy viên thường trực Hội đồng\na) Tham mưu triển khai các nhiệm vụ của Hội đồng và đơn vị thường trực Hội đồng; tham mưu việc hướng dẫn công tác thi đua, khen thưởng trong ngành Giáo dục; xây dựng kế hoạch hoạt động; tham mưu phát động, hướng dẫn, tổ chức thực hiện phong trào thi đua.\nb) Chỉ đạo thẩm định hồ sơ đề nghị xét công nhận danh hiệu thi đua, hình thức khen thưởng cho các tập thể, cá nhân theo quy định, báo cáo Phó Chủ tịch thường trực về các nội dung, phương án trình Thường trực Hội đồng.\nc) Chuẩn bị chương trình, nội dung, tài liệu phục vụ các phiên họp, xin ý kiến Thường trực Hội đồng trước phiên họp Hội đồng.\nd) Ký các văn bản của Hội đồng theo sự ủy quyền của Chủ tịch Hội đồng và Phó Chủ tịch Hội đồng; xác nhận báo cáo thành tích cho tập thể, cá nhân đề nghị khen thưởng cấp Nhà nước và cấp bộ, ban, ngành, tỉnh.\n6. Ủy viên Hội đồng\na) Theo dõi, chỉ đạo phong trào thi đua do Chủ tịch Hội đồng Thi đua - Khen thưởng phân công phụ trách, định kỳ chủ trì tổng hợp báo cáo kết quả thực hiện hoặc báo cáo đột xuất theo yêu cầu; chỉ đạo, theo dõi, đôn đốc, kiểm tra các đơn vị trong ngành Giáo dục việc thực hiện phong trào thi đua và công tác khen thưởng thuộc phạm vi lĩnh vực được phân công phụ trách, định kỳ báo cáo kết quả thực hiện hoặc báo cáo đột xuất theo yêu cầu; phát hiện các điển hình tiên tiến.\nb) Tham dự đầy đủ các phiên họp của Hội đồng theo quy định. Trường hợp vắng mặt không tham dự cuộc họp Hội đồng, ủy viên Hội đồng phải xin phép Chủ tịch Hội đồng, cử cấp phó dự họp để báo cáo về các nội dung được phân công phụ trách, nhận phiếu bầu để ủy viên Hội đồng vắng mặt cho ý kiến, gửi lại đơn vị thường trực Hội đồng sau phiên họp.\nc) Cho ý kiến hiệp y khen thưởng theo lĩnh vực được phân công phụ trách;\n\nthực hiện việc bỏ phiếu biểu quyết hoặc cho ý kiến bằng văn bản đúng thời hạn. Hết thời hạn xin ý kiến hiệp y, đơn vị thường trực Hội đồng chưa nhận được ý kiến của thành viên Hội đồng thì đơn vị thường trực trình khen thưởng theo quy định.\nd) Ủy viên Hội đồng được sử dụng bộ máy của đơn vị mình để thực hiện nhiệm vụ được Hội đồng giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nhiệm vụ, quyền hạn của đơn vị thường trực Hội đồng",
+          "text": "Điều 5. Nhiệm vụ, quyền hạn của đơn vị thường trực Hội đồng\n1. Dự thảo các văn bản hướng dẫn thực hiện công tác thi đua, khen thưởng của ngành Giáo dục.\n2. Đề xuất, tham mưu Hội đồng về chủ trương, kế hoạch tổ chức thực hiện các phong trào thi đua và công tác khen thưởng theo quy định.\n3. Đôn đốc, kiểm tra công tác thi đua, khen thưởng của các cơ quan, đơn vị thuộc Bộ và trong ngành Giáo dục; phát hiện, xây dựng và tổ chức nhân rộng các điển hình tiên tiến.\n4. Thẩm định hồ sơ đề nghị khen thưởng cấp Nhà nước và đề nghị xét khen thưởng theo khối, cụm thi đua; chuẩn bị các điều kiện cần thiết và dự trù kinh phí hoạt động của Hội đồng; gửi tài liệu tới các thành viên Hội đồng trước phiên họp 03 ngày làm việc.\n5. Làm nhiệm vụ Thư ký Hội đồng, ghi biên bản các phiên họp của Hội đồng; tổng hợp ý kiến thành viên Hội đồng; hoàn chỉnh hồ sơ đề nghị khen thưởng theo quy định hiện hành.\n6. Tổ chức triển khai các kết luận của Hội đồng; hướng dẫn nghiệp vụ về thi đua, khen thưởng và xử lý các thông tin, đề nghị của Hội đồng Thi đua - Khen thưởng các bộ, ban, ngành, đoàn thể trung ương và địa phương, đơn vị trong ngành Giáo dục; tổng hợp báo cáo định kỳ, đột xuất theo yêu cầu.\n7. Thẩm định hồ sơ đề nghị khen thưởng, hiệp y khen thưởng, xin ý kiến các đơn vị liên quan, tổng hợp trình Lãnh đạo Bộ (Chủ tịch, Phó Chủ tịch thường trực Hội đồng) xem xét, quyết định.\na) Đối với các sở giáo dục và đào tạo\n- Xin ý kiến Vụ Giáo dục Mầm non, Vụ Giáo dục Phổ thông, Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên, Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo) đối với khen thưởng giám đốc sở giáo dục và đào tạo, phó giám đốc sở giáo dục và đào tạo và tương đương về khen thưởng phong trào thi đua, chuyên đề của Bộ Giáo dục và Đào tạo.\n\n5\n- Xin ý kiến Vụ Giáo dục Mầm non, Vụ Giáo dục Phổ thông, Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên, Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo) về việc hiệp y khen thưởng tập thể sở giáo dục và đào tạo, giám đốc sở giáo dục và đào tạo theo đề nghị của Ủy ban nhân dân cấp tỉnh.\n\nb) Đối với các cơ sở giáo dục đại học, trường cao đẳng sư phạm, cơ sở giáo dục nghề nghiệp thuộc các bộ, ngành, địa phương, cơ sở giáo dục đại học tư thục, cơ sở giáo dục nghề nghiệp tư thục\n\n- Xin ý kiến Vụ Giáo dục Đại học/Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên, Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo), Cục Quản lý chất lượng đối với các cơ sở giáo dục đại học, trường cao đẳng sư phạm, cơ sở giáo dục nghề nghiệp thuộc các bộ, ngành, địa phương và cơ sở giáo dục đại học tư thục, cơ sở giáo dục nghề nghiệp tư thục; hiệu trưởng, phó hiệu trưởng, giám đốc, phó giám đốc và tương đương của các đơn vị này xét khen thưởng phong trào thi đua, chuyên đề của Bộ Giáo dục và Đào tạo.\n\n- Xin ý kiến Vụ Giáo dục Đại học/Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên, Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo), Cục Quản lý chất lượng và các đơn vị liên quan về việc hiệp y khen thưởng tập thể, cá nhân các cơ sở giáo dục đại học, trường cao đẳng sư phạm, cơ sở giáo dục nghề nghiệp thuộc các bộ, ngành, địa phương và cơ sở giáo dục đại học tư thục, cơ sở giáo dục nghề nghiệp tư thục theo đề nghị của các bộ, ngành, Ủy ban nhân dân cấp tỉnh.\n\nc) Đối với các đơn vị trực thuộc Bộ\n\n- Xin ý kiến Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo), Cục Quản lý chất lượng, Cục Khoa học, Công nghệ và Thông tin đối với hồ sơ đề nghị xét khen thưởng phong trào thi đua, chuyên đề của Bộ Giáo dục và Đào tạo cho các phòng, ban chức năng của các đơn vị trực thuộc Bộ.\n\n- Xin ý kiến Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo), Cục Quản lý chất lượng, Cục Khoa học, Công nghệ và Thông tin, Vụ Giáo dục Đại học (đối với các cơ sở giáo dục đại học, trường cao đẳng sư phạm trực thuộc Bộ), Cục Giáo dục nghề nghiệp và Giáo dục thường xuyên (đối với các cơ sở giáo dục nghề nghiệp), Vụ Giáo dục Phổ thông và Cục Hợp tác quốc tế (đối với Trường Hữu Nghị T78 và Trường Hữu nghị 80) đối với hồ sơ đề nghị xét khen thưởng phong trào thi đua, chuyên đề của Bộ Giáo dục và Đào tạo.\n\n6\n- Xin ý kiến Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo), Vụ Kế hoạch - Tài chính đối với hồ sơ đề nghị xét khen thưởng theo phong trào thi đua, chuyên đề của Bộ Giáo dục và Đào tạo cho các đơn vị thuộc, trực thuộc Công ty Trách nhiệm hữu hạn một thành viên Nhà xuất bản Giáo dục Việt Nam; Công ty Trách nhiệm hữu hạn một thành viên Nhà xuất bản Giáo dục Việt Nam và Công ty Trách nhiệm hữu hạn một thành viên Thiết bị giáo dục nghề nghiệp.\n\n- Xin ý kiến Văn phòng (Phòng Kiểm tra và Tiếp công dân, giải quyết khiếu nại, tố cáo), Vụ Giáo dục Đại học đối với hồ sơ đề nghị công nhận danh hiệu Tập thể lao động xuất sắc cho các tập thể của các đơn vị trực thuộc Bộ, đơn vị thành viên, đơn vị thuộc, đơn vị trực thuộc và tương đương của đại học quốc gia, đại học vùng.\n\n8. Thẩm định hồ sơ, đề nghị lãnh đạo Bộ (Thứ trưởng, Phó Chủ tịch thường trực Hội đồng) trình cấp có thẩm quyền tặng thưởng Huân chương Lao động các hạng, Bằng khen của Thủ tướng Chính phủ đối với học sinh đoạt giải quốc tế.\n\n9. Thẩm định hồ sơ, đề nghị lãnh đạo Bộ quyết định tặng Bằng khen của Bộ Giáo dục và Đào tạo, tặng Kỷ niệm chương \"Vì sự nghiệp giáo dục\", Huân chương Hữu nghị, Huy chương Hữu nghị theo quy định của pháp luật.\n\n10. Tổng hợp, lập hồ sơ, tài liệu về các phong trào thi đua và công tác khen thưởng theo quy định của pháp luật; xây dựng báo cáo sơ kết, tổng kết định kỳ và đột xuất về công tác thi đua, khen thưởng.\n\n11. Tham mưu giải quyết khiếu nại, tố cáo liên quan đến lĩnh vực thi đua, khen thưởng theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nguyên tắc hoạt động của Hội đồng",
+          "text": "Điều 6. Nguyên tắc hoạt động của Hội đồng\n\nHội đồng làm việc theo chế độ tập thể, theo nguyên tắc công khai, dân chủ, biểu quyết theo đa số của các thành viên Hội đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Chế độ họp của Hội đồng",
+          "text": "Điều 7. Chế độ họp của Hội đồng\n\n1. Hội đồng họp định kỳ 03 tháng một lần. Hội đồng có thể họp đột xuất do Chủ tịch Hội đồng triệu tập để giải quyết các công việc phát sinh trong thời gian giữa các phiên họp định kỳ.\n\n7\nChủ tịch Hội đồng chủ trì hoặc ủy quyền cho Phó Chủ tịch thường trực Hội đồng chủ trì phiên họp. Hội đồng họp khi có ít nhất 2/3 tổng số thành viên Hội đồng tham dự.\n\n2. Trong trường hợp cần thiết, Thường trực Hội đồng giao cho đơn vị thường trực Hội đồng gửi xin ý kiến các thành viên Hội đồng bằng văn bản, sau đó tổng hợp thành biên bản để báo cáo Chủ tịch Hội đồng.\n\n3. Chủ tịch Hội đồng có thể mời đại diện các đơn vị, đoàn thể khác tham dự các phiên họp của Hội đồng. Đại diện được mời dự có quyền phát biểu thảo luận nhưng không biểu quyết, bỏ phiếu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Việc sử dụng con dấu",
+          "text": "Điều 8. Việc sử dụng con dấu\n\nHội đồng Thi đua - Khen thưởng sử dụng con dấu của Bộ Giáo dục và Đào tạo cho hoạt động của Hội đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quan hệ công tác giữa Hội đồng Thi đua - Khen thưởng các cấp",
+          "text": "Điều 9. Quan hệ công tác giữa Hội đồng Thi đua - Khen thưởng các cấp\n\n1. Quan hệ làm việc giữa Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo với Hội đồng Thi đua - Khen thưởng của các Cục, Văn phòng Bộ, Văn phòng Hội đồng Quốc gia Giáo dục và Phát triển nhân lực, Văn phòng Hội đồng Giáo sư Nhà nước và Ban quản lý đề án, Ban quản lý dự án, Ban quản lý chương trình thuộc Bộ Giáo dục và Đào tạo; Hội đồng Thi đua - Khen thưởng các đơn vị trực thuộc Bộ, sở giáo dục và đào tạo, đại học quốc gia, cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp là quan hệ chỉ đạo, phối hợp; có mối quan hệ phối hợp với Hội đồng Thi đua - Khen thưởng các bộ, ban, ngành đoàn thể Trung ương, các tỉnh, thành phố trực thuộc Trung ương.\n\n2. Căn cứ chức năng, nhiệm vụ của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo, Hội đồng Thi đua - Khen thưởng của các cục, Văn phòng Bộ, Văn phòng Hội đồng Quốc gia Giáo dục và Phát triển nhân lực, Văn phòng Hội đồng Giáo sư Nhà nước và ban quản lý đề án, ban quản lý dự án, ban quản lý chương trình thuộc Bộ Giáo dục và Đào tạo, các đơn vị trực thuộc Bộ, sở giáo dục và đào tạo, cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp có trách nhiệm phối hợp thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Kinh phí hoạt động",
+          "text": "Điều 10. Kinh phí hoạt động\n\n1. Kinh phí hoạt động của Hội đồng và đơn vị thường trực Hội đồng thực hiện theo quy định tại Thông tư số 143/2025/TT-BTC ngày 31/12/2025 của Bộ trưởng Bộ Tài chính hướng dẫn mức chi tổ chức thực hiện công tác thi đua, khen\n\n8\nthưởng tại khoản 1 Điều 48 Nghị định số 152/2025/NĐ-CP ngày 14/6/2025 của Chính phủ quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng.\n\n2. Hội đồng làm việc theo chế độ kiêm nhiệm, các thành viên và thư ký Hội đồng được hưởng chế độ bồi dưỡng khi tham gia họp, xét danh hiệu thi đua, hình thức khen thưởng theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 11. Tổ chức thực hiện\n\n1. Thành viên Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo và các tập thể, cá nhân có liên quan chịu trách nhiệm thực hiện Quy chế này.\n\n2. Các đơn vị thuộc Bộ có trách nhiệm cho ý kiến khi đơn vị thường trực Hội đồng đề nghị.\n\n3. Những nội dung không quy định trong Quy chế này thì áp dụng theo quy định của pháp luật về thi đua, khen thưởng và các lĩnh vực có liên quan.\n\n4. Trong quá trình thực hiện nếu có khó khăn, vướng mắc, các thành viên Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo và các tập thể, cá nhân phản ánh kịp thời về đơn vị thường trực Hội đồng để tổng hợp, tham mưu trình Bộ trưởng xem xét sửa đổi, bổ sung./.\n\nĐẠI HỌC ĐÀ NẴNG\nTRƯỜNG ĐẠI HỌC BÁCH KHOA",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 709/QĐ-BGDĐT ngày 04 tháng 3 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế hoạt động của Hội đồng Thi đua - ",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 709/QĐ-BGDĐT ngày 04 tháng 3 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế hoạt động của Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị có liên quan và thành viên Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị có liên quan và thành viên Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

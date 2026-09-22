@@ -30,6 +30,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+# Tu commit 88d6079 package `legal_knowledge_graph` nam duoi src/, khong con
+# o goc repo -> _validate() import truot neu khong chen duong nay.
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
 from cau_sua_txt import Handler, Kho, chan_cau_trung, noi   # noqa: E402
 import va_dieu_thieu as VD                                  # noqa: E402

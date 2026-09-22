@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0317_05_2024_TT-BGDĐT_Thông tư quy định tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp.txt",
+  "mappedBy": "gemini-web",
+  "note": "8 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "05/2024/TT-BGDĐT",
+    "title": "Thông tư Quy định tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp viên chức giảng dạy trong các cơ sở giáo dục đại học công lập và trường cao đẳng sư phạm",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "29/03/2024",
+    "effectiveDate": "01/06/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Thông tư quy định tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp viên chức giảng dạy trong các cơ sở giáo dục đại học công lập và trường cao đẳng sư phạm công lập.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 6",
+      "context": "quy định tại khoản 2, khoản 3 Điều 6 Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập"
+    },
+    {
+      "targetDocumentNumber": "04/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "được sửa đổi, bổ sung tại Thông tư số 04/2022/TT-BGDĐT ngày 04 tháng 3 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số điều của Thông tư số 35/2020/TT-BGDĐT"
+    },
+    {
+      "targetDocumentNumber": "35/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "đối với viên chức giảng dạy trong các trường cao đẳng sư phạm công lập và Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập."
+    },
+    {
+      "targetDocumentNumber": "31/2021/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Thông tư số 31/2021/TT-BGDĐT ngày 10 tháng 11 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tiêu chuẩn, điều kiện thi hoặc xét thăng hạng; nội dung, hình thức và việc xác định người trúng tuyển trong kỳ xét thăng hạng chức danh nghề nghiệp viên chức giảng dạy trong các trường cao đẳng sư phạm và cơ sở giáo dục đại học công lập hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
+    },
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức; Nghị định số 85/2023/NĐ-CP ngày 07 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020 quy định về tuyển dụng, sử dụng và quản lý viên chức;"
+    },
+    {
+      "targetDocumentNumber": "85/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức; Nghị định số 85/2023/NĐ-CP ngày 07 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020 quy định về tuyển dụng, sử dụng và quản lý viên chức;"
+    }
+  ],
+  "mentions": [
+    "Văn phòng Quốc hội",
+    "Văn phòng Chính phủ",
+    "Ủy ban Văn hóa, Giáo dục của Quốc hội",
+    "Ban Tuyên giáo Trung ương",
+    "Bộ Tư pháp",
+    "Ủy ban Quốc gia đổi mới giáo dục và đào tạo",
+    "Hội đồng Quốc gia Giáo dục và Phát triển nhân lực",
+    "Hội đồng Giáo sư nhà nước",
+    "Công đoàn Giáo dục Việt Nam",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nThông tư này quy định tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp viên chức giảng dạy trong các cơ sở giáo dục đại học công lập và trường\n\ncao đẳng sư phạm, trường cao đẳng công lập có đào tạo ngành Giáo dục Mầm non trình độ cao đẳng (sau đây gọi chung là trường cao đẳng sư phạm).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Thông tư này áp dụng đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập, trường cao đẳng sư phạm đăng ký dự xét thăng hạng chức danh nghề nghiệp và các tổ chức, cá nhân có liên quan.\n2. Thông tư này không áp dụng đối với người làm công tác giảng dạy trong các cơ sở giáo dục thuộc Bộ Quốc phòng và Bộ Công an.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02",
+      "text": "Điều 3. Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02\nViên chức giảng dạy trong các cơ sở giáo dục đại học công lập được đăng ký dự xét thăng hạng chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02 khi có đủ các tiêu chuẩn, điều kiện sau:\n1. Cơ sở giáo dục đại học công lập có nhu cầu, có vị trí việc làm còn thiếu ứng với hạng chức danh nghề nghiệp viên chức xét thăng hạng và được cấp có thẩm quyền cử tham dự kỳ xét thăng hạng.\n2. Đang giữ chức danh nghề nghiệp giảng viên (hạng III), mã số V.07.01.03.\n3. Được xếp loại chất lượng ở mức hoàn thành tốt nhiệm vụ trở lên trong năm công tác liền kề trước năm dự xét thăng hạng chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02; có phẩm chất chính trị, đạo đức nghề nghiệp tốt; không trong thời hạn xử lý kỷ luật; không trong thời gian thực hiện các quy định liên quan đến kỷ luật theo quy định của Đảng và của pháp luật.\n4. Đáp ứng yêu cầu về thời gian công tác tối thiểu giữ chức danh nghề nghiệp giảng viên (hạng III), mã số V.07.01.03; đáp ứng tiêu chuẩn về trình độ đào tạo, bồi dưỡng và năng lực chuyên môn, nghiệp vụ của chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02 quy định tại khoản 2,\n\nkhoản 3 Điều 6 Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập và được sửa đổi, bổ sung tại Thông tư số 04/2022/TT-BGDĐT ngày 04 tháng 3 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số điều của Thông tư số 35/2020/TT-BGDĐT ngày 01 tháng 10 năm 2020 quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các trường cao đẳng sư phạm công lập và Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên cao cấp (hạng I), mã số V.07.01.01",
+      "text": "Điều 4. Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên cao cấp (hạng I), mã số V.07.01.01\nViên chức giảng dạy trong các cơ sở giáo dục đại học công lập được đăng ký dự xét thăng hạng chức danh nghề nghiệp giảng viên cao cấp (hạng I), mã số V.07.01.01 khi có đủ các tiêu chuẩn, điều kiện sau:\n1. Cơ sở giáo dục đại học công lập có nhu cầu, có vị trí việc làm còn thiếu ứng với hạng chức danh nghề nghiệp viên chức xét thăng hạng và được cấp có thẩm quyền cử tham dự kỳ xét thăng hạng.\n2. Đang giữ chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02.\n3. Được xếp loại chất lượng ở mức hoàn thành tốt nhiệm vụ trở lên trong năm công tác liền kề trước năm dự xét thăng hạng chức danh nghề nghiệp giảng viên cao cấp (hạng I), mã số V.07.01.01; có phẩm chất chính trị, đạo đức nghề nghiệp tốt; không trong thời hạn xử lý kỷ luật; không trong thời gian thực hiện các quy định liên quan đến kỷ luật theo quy định của Đảng và của pháp luật.\n4. Đáp ứng yêu cầu về thời gian công tác tối thiểu giữ chức danh nghề nghiệp giảng viên chính (hạng II), mã số V.07.01.02; đáp ứng tiêu chuẩn về trình độ đào tạo, bồi dưỡng và năng lực chuyên môn, nghiệp vụ của chức danh nghề nghiệp giảng viên cao cấp (hạng I), mã số V.07.01.01 quy định tại khoản 2, khoản 3 Điều 7 Thông tư số 40/2020/TT-BGDĐT và được sửa đổi, bổ sung tại Thông tư số 04/2022/TT-BGDĐT.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21",
+      "text": "Điều 5. Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21\nViên chức giảng dạy trong các trường cao đẳng sư phạm được đăng ký dự xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21 khi có đủ các tiêu chuẩn, điều kiện sau:\n1. Trường cao đẳng sư phạm có nhu cầu, có vị trí việc làm còn thiếu ứng với hạng chức danh nghề nghiệp viên chức xét thăng hạng và được cấp có thẩm quyền cử tham dự kỳ xét thăng hạng.\n2. Đang giữ chức danh nghề nghiệp giảng viên cao đẳng sư phạm (hạng III), mã số V.07.08.22.\n3. Được xếp loại chất lượng ở mức hoàn thành tốt nhiệm vụ trở lên trong năm công tác liền kề trước năm dự xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21; có phẩm chất chính trị, đạo đức nghề nghiệp tốt; không trong thời hạn xử lý kỷ luật; không trong thời gian thực hiện các quy định liên quan đến kỷ luật theo quy định của Đảng và của pháp luật.\n4. Đáp ứng yêu cầu về thời gian công tác tối thiểu giữ chức danh nghề nghiệp giảng viên cao đẳng sư phạm (hạng III), mã số V.07.08.22; đáp ứng tiêu chuẩn về trình độ đào tạo, bồi dưỡng và năng lực chuyên môn, nghiệp vụ của chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21 quy định tại khoản 2, khoản 3 Điều 5 Thông tư số 35/2020/TT-BGDĐT ngày 01 tháng 10 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các trường cao đẳng sư phạm công lập và được sửa đổi, bổ sung tại Thông tư số 04/2022/TT-BGDĐT.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm cao cấp (hạng I), mã số V.07.08.20",
+      "text": "Điều 6. Tiêu chuẩn, điều kiện xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm cao cấp (hạng I), mã số V.07.08.20\nViên chức giảng dạy trong các trường cao đẳng sư phạm được đăng ký dự xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm cao cấp (hạng I), mã số V.07.08.20 khi có đủ các tiêu chuẩn, điều kiện sau:\n1.\n\nTrường cao đẳng sư phạm có nhu cầu, có vị trí việc làm còn thiếu ứng với hạng chức danh nghề nghiệp viên chức xét thăng hạng và được cấp có thẩm quyền cử tham dự kỳ xét thăng hạng.\n2. Đang giữ chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21.\n3. Được xếp loại chất lượng ở mức hoàn thành tốt nhiệm vụ trở lên trong năm công tác liền kề trước năm dự xét thăng hạng chức danh nghề nghiệp giảng viên cao đẳng sư phạm cao cấp (hạng I), mã số V.07.08.20; có phẩm chất chính trị, đạo đức nghề nghiệp tốt; không trong thời hạn xử lý kỷ luật; không trong thời gian thực hiện các quy định liên quan đến kỷ luật theo quy định của Đảng và của pháp luật.\n4. Đáp ứng yêu cầu về thời gian công tác tối thiểu giữ chức danh nghề nghiệp giảng viên cao đẳng sư phạm chính (hạng II), mã số V.07.08.21; đáp ứng tiêu chuẩn về trình độ đào tạo, bồi dưỡng và năng lực chuyên môn, nghiệp vụ của chức danh nghề nghiệp giảng viên cao đẳng sư phạm cao cấp (hạng I), mã số V.07.08.20 quy định tại khoản 2, khoản 3 Điều 6 Thông tư số 35/2020/TT-BGDĐT và được sửa đổi, bổ sung tại Thông tư số 04/2022/TT-BGDĐT.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 7. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 6 năm 2024.\n2. Thông tư số 31/2021/TT-BGDĐT ngày 10 tháng 11 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định tiêu chuẩn, điều kiện thi hoặc xét thăng hạng; nội dung, hình thức và việc xác định người trúng tuyển trong kỳ xét thăng hạng chức danh nghề nghiệp viên chức giảng dạy trong các trường cao đẳng sư phạm và cơ sở giáo dục đại học công lập hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Trách nhiệm tổ chức thực hiện",
+      "text": "Điều 8. Trách nhiệm tổ chức thực hiện\n1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương;\n\nThủ trưởng cơ sở giáo dục đại học công lập, Hiệu trưởng trường cao đẳng sư phạm và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n\n2. Trường hợp các văn bản dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các văn bản mới.\n\n3. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh về Bộ Giáo dục và Đào tạo để được hướng dẫn hoặc xem xét, giải quyết./.",
+      "isImplementationClause": true
+    }
+  ]
+}

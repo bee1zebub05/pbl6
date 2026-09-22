@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0439_2453_QĐ-ĐHBK_Quyết định ban hành Quy chế bảo đảm an toàn thông tin và an ninh mạng của Đại học.txt",
+  "mappedBy": "gemini-web",
+  "note": "30 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2453/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy chế bảo đảm an toàn thông tin mạng và an ninh mạng của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "26/06/2025",
+    "effectiveDate": "26/06/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Pháp chế"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy chế bảo đảm an toàn thông tin mạng và an ninh mạng của Đại học Đà Nẵng, áp dụng cho các đơn vị thuộc và trực thuộc Đại học Đà Nẵng cùng các cá nhân liên quan.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": "Bộ Giáo dục và Đào tạo",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Mạnh Toàn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2015",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 4",
+      "context": "Căn cứ Luật An toàn thông tin mạng ngày 19/11/2015"
+    },
+    {
+      "targetDocumentNumber": "2018",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 4",
+      "context": "Căn cứ Luật An ninh mạng ngày 12/6/2018"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "85/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 20",
+      "context": "Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ"
+    },
+    {
+      "targetDocumentNumber": "142/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 142/2016/NĐ-CP ngày 14/10/2016 của Chính phủ về ngăn chặn xung đột thông tin trên mạng"
+    },
+    {
+      "targetDocumentNumber": "53/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 53/2022/NĐ-CP ngày 15/8/2022 của Chính phủ về việc quy định chi tiết một số điều của Luật An ninh mạng"
+    },
+    {
+      "targetDocumentNumber": "13/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 13/2023/NĐ-CP ngày 17/4/2023 của Chính phủ về bảo vệ dữ liệu cá nhân"
+    },
+    {
+      "targetDocumentNumber": "20/2017/TT-BTTTT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc"
+    },
+    {
+      "targetDocumentNumber": "31/2017/TT-BTTTT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 31/2017/TT-BTTTT ngày 15/11/2017 của Bộ Thông tin và Truyền thông quy định hoạt động giám sát an toàn hệ thống thông tin"
+    },
+    {
+      "targetDocumentNumber": "12/2022/TT-BTTTT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2022/TT-BTTTT ngày 12/8/2022 của Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "2763/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Việc quản lý, sử dụng và bảo đảm ANM, mạng máy tính nội bộ có lưu trữ, truyền đưa bí mật nhà nước phải tuân thủ theo Quyết định số 2763/QĐ-ĐHĐN ngày 14/8/2020 của Giám đốc ĐHĐN về việc ban hành Quy chế về công tác bảo vệ bí mật Nhà nước tại ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "874/QĐ-BTTTT",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 5",
+      "context": "Thực hiện quy tắc ứng xử trên mạng theo Điều 5 của Quyết định số 874/QĐ-BTTTT ngày 17/6/2021 của Bộ Thông tin và Truyền thông về việc ban hành bộ quy tắc ứng xử trên mạng xã hội."
+    },
+    {
+      "targetDocumentNumber": "16/2024/TT-BTTTT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nội dung, kế hoạch và quy trình nghiệm thu hệ thống được thực hiện theo Thông tư số 16/2024/TT-BTTTT ngày 30/12/2024 của Bộ Thông tin và Truyền thông quy định chi tiết nội dung công tác triển khai, giám sát công tác triển khai, nghiệm thu đối với dự án đầu tư ứng dụng công nghệ thông tin"
+    },
+    {
+      "targetDocumentNumber": "05/2017/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đơn vị chuyên trách về ứng cứu sự cố ATTT thực hiện trách nhiệm quy định tại khoản 2 Điều 6 Quyết định số 05/2017/QĐ-TTg ngày 16/03/2017 của Thủ tướng Chính phủ"
+    },
+    {
+      "targetDocumentNumber": "02/2023/TT-BTTTT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Báo cáo định kỳ hằng năm về hoạt động giám sát của chủ quản HTTT theo Mẫu số 01 tại Phụ lục 2 Thông tư 02/2023/TT-BTTTT ngày 21/3/2023 của Bộ Thông tin và Truyền thông"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Thông tin và Truyền thông",
+    "Chính phủ",
+    "Trung tâm Công nghệ thông tin và Học liệu số, Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế bảo đảm an toàn thông tin mạng và an ninh mạng của Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": "CON_HIEU_LUC",
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi và đối tượng áp dụng\n1. Phạm vi\nQuy chế này quy định về bảo đảm an toàn thông tin mạng (ATTT) và an ninh mạng\n(ANM) cho các hoạt động ứng dụng công = nghệ - thông tin (CNTT), chuyển đổi số (CĐS)\ncủa Đại học Đà Nẵng (ĐHĐN).\n2. Đối tượng áp dụng\nQuy chế này áp dụng dối với các trường đại học thành viên (ĐHTV); các đơn vị\nthuộc và trực thuộc ĐHĐN (gọi chung là các đơn vị).\nCá nhân là viên chức, người lao động của các trường ĐHTV, các đơn vị thuộc,\ntrực thuộc ĐHĐN và các tổ chức, cá nhân khác tham gia vào hoạt động ứng dụng CNTT,\nCĐS của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\nÉ.Mạng là môi trường trong đó thông tin được cung cấp, truyền dưa; thu thập, xử\nlý, lưu trữ và trao đổi thông qua mạng viễn thông và mạng máy tính\n2 Không gian mạng là mạng lưới kết nối của cơ sở hạ tầng công nghệ thông tin,\nbao gồm mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống\nxử lý và điều khiển thông tin, cơ sở dữ liệu; là nơi con người thực hiện các hành vi xã\nhội không bị giới hạn bởi không gian và thời gian.\n3. An toàn thông tin mạng là sự bảo vệ thông tin, hệ thống thông tin trên mang\ntruy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm bảo\ntránh bị đảm tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin.\n4. An ninh mạng là sự bảo đảm hoạt động trên không gian mạng không gây phương\nhại đến an ninh quốc gia, trật tự an toàn xã hội, bí mật nhà nước, quyền và lợi ích hợp\npháp của cơ quan, tổ chức, cá nhân: mềm và cơ sở dữ liệu được thiết\n5. Hệ thống thông tin là tập hợp phần cứng, phần thu thập, xử lý, lưu trữ và trao đổi\nlập phục vụ mục đích tạo lập; cung cấp; truyền dưa,\nthông tin trên mạng.\n\n6. Chủ quản hệ thống thông tin là cơ quan, tổ chức, cá nhân có thẩm quyền quản\nlý trực tiếp đối với hệ thống thông tin; là cấp có thẩm quyền quyết định dầu tư dự án\nxây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin đó.\n7.Đơn vị vận hành hệ thống thông tin là cơ quan, tổ chức được chủ quản hệ thống\nthông tin giao nhiệm vụ vận hành hệ thống thông tin.\n8. Đơn vị chuyên trách về an toàn thông tin là đơn vị có chức năng, nhiệm vụ bảo\nđảm an toàn thông tin của chủ quản hệ thống thông tin.\n9. Sự cố an toàn thông tin mạng là việc thông tin, hệ thống thông tin bị gây nguy\nhại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng.\n10. Rủi ro an toàn thông tin mạng là những nhân tố chủ quan hoặc khách quan có\nkhả năng ảnh hưởng tới trạng thái an toàn thông tin mạng.\n11. Đánh giá rủi ro an toàn thông tin mạng là việc phát hiện, phân tích, ước lượng\nmức độ tổn hại, mối đe dọa đối với thông tin, hệ thống thông tin.\n12. Quản lý rủi ro an toàn thông tin mạng là việc đưa ra các biện pháp nhằm giảm\nthiểu rủi ro an toàn thông tin mạng.\n13. Phần mềm độc hại là phần mềm có khả năng gây ra hoạt động không bình\nthường cho một phần hay toàn bộ hệ thống thông tin hoặc thực hiện sao chép, sửa đổi,\nxóa bỏ trái phép thông tin lưu trữ trong hệ thống thông tin.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguyên tắc bảo đảm ATTT, ANM",
+          "text": "Điều 3. Nguyên tắc bảo đảm ATTT, ANM\n1. Bảo đảm ATTT, ANM tuân thủ nguyên tắc được quy định tại Điều 4 Luật An\ntoàn thông tin mạng và Điều 4 Luật An ninh mạng.\n2. Trách nhiệm bảo đảm ATTT, ANM gắn với trách nhiệm của người đứng đầu\nđơn vị và cá nhân trực tiếp liên quan.\n3. Xử lý sự cố ATTT, ANM phải phù hợp với trách nhiệm, quyền hạn và bảo đảm\nlợi íchhợp pháp của cơ quan, đơn vị, cá nhân liên quan và theo quy định của pháp luật.\n4. Việc quản lý, sử dụng và bảo đảm ANM, mạng máy tính nội bộ có lưu trữ,\ntruyền đưa bí mật nhà nước phải tuân thủ theo Quyết định số 2763/QĐ-ĐHĐN ngày\n14/8/2020 của Giám đốc ĐHĐN về việc ban hành Quy chế về công tác bảo vệ bí mật\nNhà nước tại ĐHĐN.\n5. Tuân thủ các quy định và hướng dẫn về bảo đảm ATTT, ANM của cơ quan có\nthẩm quyền. Trường hợp có văn bản, quy định cập nhật, thay thế hoặc quy định khác tại\nvăn bản quy phạm pháp luật, quyết định của cấp có thẩm quyền cao hơn thì áp dụng quy\nđịnh tại văn bản đó.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Các hành vi nghiêm cấm",
+          "text": "Điều 4. Các hành vi nghiêm cấm\n1. Các hành vi bị nghiêm cấm thực hiện theo quy định tại Điều 7 Luật An toàn\nthông tin mạng và Điều 8 Luật An ninh mạng.\n2. Vi phạm các quy định, quy chế, quy trình về quản lý, vận hành, sử dụng, bảo\nđảm ATTT, ANM đối với hạ tầng kỹ thuật và hệ thống thông tin (HTTT) của ĐHĐN.\n\n3. Tựý đăng lên, tải về chia sẻ dưới mọi hình thức các dữ liệuatài liệtersế liêu nôi\nbộ, những văn bản chưa được cấp có thẩm quyền công khai lên mạng internet và các\nphương tiện thông tin đại chúng khác.\n4. Tựý đấu nối thiết bị mạng, thiết bị cấp phát - địa chỉ mạng, thiết bị phát sóng nhu\nđiểm truy cập không dây của cá nhân vào mạng nội bộ.\nđổi, lắp mới, tráo đổi thành phần của máy tính phục vụ công việc; gỡ\nbỏ biện pháp bảo đảm ATTT, ANM 5. Tựý thay cài đặt trên thiết bị công nghệ thông tin phục vụ\ncông việc. các thiết bị cá nhân trong khu vực (đã thông báo không được\n6. Tự ý phát sổng ảnh hưởng dến hệ thong của cơ quan, đơn vị\nphép phát sóng) gây nhiễu sóng hoặc",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Phân cấp thực hiện bảo đảm ATTT",
+          "text": "Điều 5. Phân cấp thực hiện bảo đảm ATTT\n1. Chủ quản HTTT HTTT đối với các HTTT do ĐHĐN đầu tư phát triển, nâng\na) ĐHĐN là chủ quản\ncấp; mở rộng và các HTTT khác được giao.\nb) Các trường ĐHTV, các đơn vị trực thuộc ĐHĐN là chủ quản HTTT do đơn vị\nđầu tư phát triển, nâng cấp, mở rộng HTTT và các HTTT khác được giao.\n2. Đơn vị vận hành HTTT tâm Công nghệ thông tin và Học liệu 8ố, ĐHĐN (sau đây viết tắt là Trung\na) Trungcâm CôngaghệcáônẴ 7T7T o ĐHĐN làm chú quản HTTT.\ntâm IDC) b) Các trường ĐHTV, các dơn vị trực thuộc ĐHĐN chịu trách nhiệm phân công\nđơn vị vận hành HTTT của đơn vị mình.\n3. Đơn vị chuyên trách về ATTT tâm IDC là đơn vị chuyên trách về ATTT cho các HTTT do ĐHĐN làm\nTrung\nchủ quản HTTT. trường ĐHTV thành lập hoặc chỉ định bộ phận chuyên trách về ATTT tại\nb) Các\nđơn vị mình nguồn lực có thể thành lậplchỉ\nc) Các đơn vị trực thuộc ĐHĐN, tùy vào tình hình mình hoặc đề nghị ĐHĐN tham gia hỗ\nđịnh bộ phận chuyên trách về ATTT tại đơn vị\ntrợ. 4 Đơn vị chuyên trách về ứng cứu sự cố ATTT\ntâm IDC đảm nhiệm vai trò đơn vị chuyên trách ứng cứu sự cố ATTT\ncủa ĐHEnng tơon VCmaaam moi liên hệ phối hợp 7 với các cơ quan, tổ chức có thẩm\nquyền thực hiện việc tiếp nhận và xử lý các sự cố về ATTT của ĐHĐN.\nb) Đơn vị chuyên trách về ATTT của các trường ĐHTV, các đơn vị trực thuộc\nĐHĐN đẩm nhiệm vai trò dơn vị chuyên trách ứng cứu sự cố ATTTtại đơn vị làm đầu\nmối liên hệ, phối hợp7 với các cơ quan, tổ chức có thẩm quyền thực hiện việc tiếp nhận\nvà xử lý các sự cố về ATTT tại đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Trách nhiệm của các bên liên quan trong việc bảo đảm ATTT",
+          "text": "Điều 6 .Trách nhiệm của các bên liên quan trong việc bảo đảm ATTT\n1.Đối với chủ quản HTTT\na) Thực hiện trách nhiệm quy định tại Điều 20 Nghị định 85/2016/NĐ-CP ngày\n01/7/2016 của Chính phủ về bảo đảm an toàn HTTT theo cấp độ.\nb) Quy định rõ vai trò và trách nhiệm của từng viên chức, người lao động được\nphân công tham gia công tác bảo đảm ATTT tại đơn vị.\nTổ chức triển khai các biện pháp và quy trình quản lý tài khoản, bao gồm: cấp\nc) quyền truy cập, thu hổi tài khoản và quản lý toàn bộ tài sản liên quan đến\nmới, phân quản\nHTTT đối với viên chức, người lao động thuộc phạm vi lý.\nThường xuyên rà soát, kiểm tra quyền truy cập của viên chức, người lao động\nđối với HTTT, nhằm bảo đảm quyền truy cập phù hợp với vị trí công tác và nhiệm vụ\nđược giao.\nđ) Kịp thời thực hiện việc thay đổi hoặc thu hồi quyền truy cập và tài sản CNTT\nđối với viên chức, người lao động khi có sự thay đổi vị trí công tác hoặc chấm dứt công\nviệc tại đơn vị.\n2. Đối với đơn vị vận hành HTTT\nThực hiện xác định cấp độ an toàn hệ thống ~ thông tin theo quy định tại Điều 14\nNghị định 85/2016/NĐ-CP .\nb) Thực hiện bảo vệ HTTT theo quy định của pháp luật và hướng dẫn, tiêu chuẩn,\nquy chuẩn an toàn thông tin.\nc) Định kỳ đánh giá hiệu quả của các biện pháp bảo đảm an toàn thông tin, báo cáo\nchủ quản HTTT điều chỉnh nếu cần thiết.\nĐịnh kỳ hoặc đột xuất báo cáo công tác thực thi bảo đảm an toàn HTTT theo\nyêu cầu của chủ quản HTTT hoặc cơ quan quản lý nhà nước chuyên ngành có thẩm\nquyền:_\nPhối hợp và thực hiện đầy đủ các yêu cầu của cơ quan chức năng có thẩm quyền\ntrong công tác bảo đảm ATTT.\n3. Đối với đơn vị chuyên trách về ATTT\nTham mưu, tổ chức thực thi, đôn đốc, kiểm tra, giám sát công tác bảo đảm\nATTT. duyệt hoặc cho ý kiến về mặt chuyên môn đối với hồ sơ đề xuất\ncấp độ theo thẩm quyền quy định tại khoản 1, khoản 2 Điều 12 và khoản 5 Điều 15 Nghị b) Thẩm định, phê\nđịnh 85/2016/NĐ-CP .\nc) Thực hiện trách nhiệm do chủ quản HTTT phân công.\n4. Đối với viên chức, người lao động đang trong quá trình công tác\na) Tuân thủ các quy định, hướng dẫn về bảo đảm ATTT, ANM và các quy định\ncủa pháp luật liên quan, phù hợp với vị trí công tác được phân công.\nb) Khi phát hiện nguy cơ mất an toàn thông tin hoặc dấu hiệu xảy ra sự cố an toàn\nthông tin, viên chức, người lao động có trách nhiệm kịp thời báo cáo với đơn vị hoặc\n\n5\ncán bộ chuyên trách về an toàn thông tin để được xem xét, tham mưu, tổ chức các biện\npháp ngăn chặn, xử lý và khắc phục sự cố.\nc) Tham gia đầy đủ các lớp tập huấn, đào tạo, bồi dưỡng về ATTT do đơn vị hoặc\ncơ quan cấp trên tổ chức.\nd) Quản lý, sử dụng đúng mục đích các trang thiết bị CNTT được đơn vị giao;\nkhông sử dụng thiết bị CNTT cá nhân để kết nối, truy cập vào HTTT nội bộ nếu chưa\nđược sự cho phép của đơn vị chủ quản hệ thống:\nChỉ được cài đặt các phần mềm hợp lệ, có bản quyền và được phép sử dụng trên\nmáy tính do đơn vị cung cấp; trước khi sao chép dữ liệu, mở tập tin hoặc kết nối bất kỳ\nthiết bị Iuu trữ di động nào vào máy tính, cần thường xuyên sử dụng các phần mêm\nchuyên dụng đễ kiểm tra, đảm bào an toàn thông tin và phòng chống mã độc.\nKhông truy cập hoặc mở các trang tin, thư điện tử không rõ nguồn gốc; hạn chế\nsử dụng tính e) năng luu hoặc tự động điền mật khẩu.\ng) Bảo mật tài khoản truy cập thông tin; không chia sẻ mật khẩu hoặc thông tin cá\nnhân; đặt mật khẩu mạnh (tối thiểu 8 ký tự, bao gồm chữ thường, chữ in hoa, số và ký\ntự đặc biệt như @, #, và thay đổi định kỳ 3 đến 6 tháng 1 lần.\nh) Chấp hành nghiêm các quy định, quy chế, quy trình về đảm bảo ATTT của đơn\nvị; thực hiện đầy đủ các hướng dẫn, khuyến cáo của đơn vị hoặc cán bộ chuyên trách\nCNTT, ATTT.\nthông tin cá nhân khi sử dụng dịch vụ trực tuyến; bào đảm an toàn thông tin đối với dữ i) Bảo vệ thông tin cá nhân của bản thân; tuân thủ quy định pháp luật về cung cấp\nliệu do mình trực tiếp xử lý theo quy định tại Nghị định số 13/2023/NĐ-CP ngày\n17/4/2023 của Chính phủ về bảo vệ dữ liệu cá nhân.\nk) Thực hiện quy tắc ứng xử trên mạng theo Điều 5 của Quyết định số 874/QĐ-BTTTT ngày 17/6/2021 của Bộ Thông tin và Truyền thông về việc ban hành bộ quy tắc\nứng xử trên mạng xã hội.\n5.Đối với viên chức, người lao động nghỉ việc hoặc thay đổi công việc\na) Bàn giao đầy đủ công việc, tài khoản truy cập HTTT, cũng như các tài sản CNTT\ncho dơn vị trước khi nghỉ việc hoặc chuyển công tác.\nb) Cam kết bảo mật các thông tin liên quan đến đơn vị và không tiết lộ ra bên ngoài\ndưới mọi hình thức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Xây dựng Hồ sơ đề xuất cấp độ và triển khai phương án bảo đảm an",
+          "text": "Điều 7. Xây dựng Hồ sơ đề xuất cấp độ và triển khai phương án bảo đảm an\ntoàn thông tin theo cấp độ\n1.Chủ quản HTTT chỉ đạo đơn vị vận hành HTTT thực hiện xác định cấp độ HTTT\nvà xây dựng phương án đảm bảo ATTT phù hợp với cấp độ HTTT theo quy định tại\nNghị định 85/2016/NĐ-CP , Thông tư số 12/2022/TT-BTTTT ngày 12/8/2022 của Bộ\nThông tin và Truyền thông quy định chi tiết và hướng dẫn một số điều của Nghị định\nsố 85/2016/NĐ-CP và hướng dẫn chi tiết tại Tiêu chuẩn quốc gia TCVN 11930:2017:\nCông nghệ thông tin các kỹ thuật an toàn yêu cầu cơ bản về an toàn hệ thống thông\ntin theo cấp độ, gồm các nội dung sau:\n\na) Nguyên tắc bảo đảm an toàn HTTT theo cấp độ và nguyên tắc xác định cấp độ\nHTTT thực hiện theo các nguyên tắc quy định tại Điều 4, Điều của Nghị định\n85/2016/NĐ-CP .\nb) Tiêu chí, thẩm quyền, trình tự; thủ tục xác định cấp độ HTTT thực hiện theo\nquy định từ Điều 6 đến Điều 74 của Nghị định 85/2016/NĐ-CP và tại Điều 6 của Thông\ntư số 12/2022/TT-BTTTT (Hướng dẫn xác định cấp độ HTTT tại Phụ lục I kèm theo\nQuy chế này)\nHồ sơ đề xuất cấp độ, thẩm định hồ sơ đề xuất cấp độ, hồ sơ phê duyệt đề xuất\ncấp độ HTTT thực hiện theo quy định tại Điều 15, Điều 16,Điều 17 của Nghị định c)\n85/2016/NĐ-CP và Điều 8 của Thông tư số 12/2022/TT-BTTTT (Hướng dẫn xây dựng\nHồ sơ đề xuất cấp độ tại Phu lục II kèm theo Quy chế này; Hướng dẫn các bước thẩm\nđịnh, phê duyệt hỗ sơ đề xuất cấp độ tại Phụ lục III kèm theo Quy chế này; Hướng dẫn\nthẩm dịnh hỗ sơ đề xuất cấp độ HTTT tại Phụ lục IV kèm theo Quy chế này).\nPhương án bảo đảm an toàn HTTT theo cấp độ đáp ứng theo yêu cầu quy định\ntại Điều 19 của Nghị định 85/2016/NĐ-CP, Điều 10 của Thông tư 12/2022/TT-BTTTT\nvà hướng dẫn chi tiết tại tiêu chuẩn quốc gia TCVN 11930.2017.\n2 Chủ quản HTTT hoặc đơn vị được ủy quyền quản lý trực tiếp HTTT tổ chức\ntriển khai phương án bảo đảm an toàn HTTT sau khi hồ sơ đề xuất cấp độ hoặc phương\nán bảo đảm an toàn hệ thống được phê duyệt.\n3. Đơn vị chuyên trách về ATTT chịu trách nhiệm giám sát việc triển khai các\nphương án bảo đảm an toàn thông tin đã được phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Bảo đảm ATTT trong thiết kế, xây dựng HTTT",
+          "text": "Điều 8: Bảo đảm ATTT trong thiết kế, xây dựng HTTT\n1. Khi triển khai thiết kế, xây dựng HTTT chủ quản HTTT có trách nhiệm thực\nhiện một số nội dung sau:\na) Có tài liệu mô tả quy mô, phạm vi và đối tượng sử dụng, khai thác, quản lý vận\nhành HTTT; tài liệu mô tả thiết kế và các thành phần của HTTT; tài liệu mô tả phương\nán bảơ đảm an toàn thông tin theo cấp độ; tài liệu mô tả phương án lựa chọn giải pháp\ncông nghệ bảo đảm ATTT.\nb) Đánh giá lại tính phù hợp của phương án đảm bảo ATTT khi có thay đổi thiết\nkế, xây dựng HTTT so với phương án trước khi thay đổi.\nc) Xây dựng phương án quản lý và bảo vệ hồ sơ thiết kế HTTT.\nCó bộ phận chuyên môn hoặc tổ chuyên gia chịu trách nhiệm đánh giá hồ sơ\nthiết kế HTTT và các biện pháp bảo đảm an toàn thông tin trước khi triển khai thực hiện\nHệ thống phải bảo đảm mật khẩu của người dùng có độ bảo mật cao, với yêu\ncầu bắt buộc gồm tối thiểu 8 ký tự và phải có đầy đủ các thành phần: chữ cái viết hoa,\nchữ cái viết thường, chữ số và ký tự đặc biệt.\ne) Ứng dụng khi thiết kế và xây dựng phải đảm bảo xác thực người dùng theo các\ntiêu chí: có kiểm tra và phân quyền người dùng khi truy cập hệ thống; mã hóa thông tin\nxác thực; bảo vệ mật khẩu; giới hạn số lần đăng nhập sai liên tiếp; ưu tiên chứng thực\ntập trung; không khuyến khích đăng - nhập tự động với ứng dụng và dịch vụ xử lý dữ liệu\nquan trọng.\n\n2. Khi phát triển phần mềm thuê khoán trong quá trình thiết kế, xây dựng HTTT\nchủ quản HTTT thực hiện một số nội dung sau:\na) Có biên bàn;, hợp đồng và các cam kết đối với bên thuê khoán các nội dung liên\nquan đến việc phát triển phần mềm thuê khoán.\nb) Kiểm thử phần mềm trên môi trường thử nghiệm trước khi đưa vào sử dụng.\nKiểm đánh giá ATTT trước khi đưa vào sử dụng; khi thay đổi mã nguồn,\nc) tra; mềm cần thực hiện kiểm tra, đánh giá lại ATTT cho phần mềm.\nkiến trúc phần phần\nViệc cung cấp mã nguồn phần mềm, bảo đảm tính bí mật và bản quyền của\nmềm dựa trên hợp đồng giữa các bên theo điểm a khoản 2 của Điều này.\n3. Trước khi sử dụng HTTT, chủ quản HTTT cần phải thử nghiệm và nghiệm thu\nhệ thống theo những yêu cầu sau:\na) Có nội dung, kế hoạch, quy trình thử nghiệm và nghiệm thu hệ thống. Nội dung,\nkế hoạch và quy trình nghiệm thu hệ thống được thực hiện theo Thông tư số 16/2024/TT-\nBTTTT ngày 30/12/2024 của Bộ Thông tin và Truyền thông quy định chi tiết nội dung\ncông tác triển khai, giám sát công tác triển khai, nghiệm thu đối với dự án đầu tư ứng\ndụng công nghệ thông tin; xác định yêu cầu về chất lượng dịch vụ và các nội dung đặc\nthù của hợp đồng thuê dịch vụ đối với thuê dịch vụ công nghệ thông tin theo yêu cầu\nriêng.\nb) Có bộ phận có trách nhiệm thực hiện thử nghiệm và nghiệm thu hệ thống.\nc) Có đơn vị độc lập (bên thứ ba) hoặc bộ phận độc lập thuộc đơn vị thực hiện tư\nvấn và giám sát quá trình thử nghiệm và nghiệm thu hệ thống.\nd) Có báo cáo nghiệm thu được xác nhận của bộ phận chuyên trách và phê duyệt\ncủa chủ quản HTTT trước khi đưa vào sử dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Bảo đảm ATTT trong vận hành HTTT",
+          "text": "Điều 9. Bảo đảm ATTT trong vận hành HTTT\nKhi vận hành HTTT, chủ quản HTTT thực hiện một số nội dung sau:\n1. Bảo đảm ATTT đối với Máy chủ và Trung tâm dữ liệu/Phòng máy chủ\na) Bảo đảm ATTT đối với Máy chủ\nThiết lập chính sách kiểm tra trên máy chủ nhằm bảo đảm việc xác thực người\ndùng khi truy cập, quản lý và sử dụng máy chủ.\nThực hiện thay đổi các tài khoản mặc định hoặc vô hiệu hóa nếu không sử dụng\nnhằm hạn chế nguy cơ mất an toàn thông tin.\nThiết lập cơ chế kiểm soát truy cập hệ thống, giới hạn địa chỉ mạng được phép\nkết nối khi quản trị máy chủ từ xa.\nCấu hình giới hạn thời gian chờ để tự động đóng phiên kết nối khi không có yêu\ncầu từ người dùng; thực hiện thay đổi cổng quản trị mặc định nhằm nâng cao mức độ\nbảo mật.\nThực hiện ghi nhật ký đầy đủ hoạt động truy cập, các tác động vào máy chủ, lỗi\nphát sinh, các sự cố nhằm phục vụ công tác giám sát, kiểm tra và điều tra khi cần thiết.\n\nÁp dụng các biện pháp phòng chống xâm nhập trái phép như: loại bỏ các tài\nkhoản không sử dụng hoặc không còn hợp Ỉệ; cấu hình tường lửa của hệ điều hành và\nhệ thống để ngăn chặn truy cập trái phép.\nVô hiệu hóa các giao thức, các cổng kết nối mạng không sử dụng; thường xuyên\nnhật bàlẸváoxử lý diếm yếu ve an toàn thông tin cho hệ điều hành và dịch vụ hệ\ncập\nthống. Thực hiện cập nhật, nâng cấp và kiểm tra bảo mật máy chủ trước khi đưa vào vận\nhành chính thức. Triển khai biện pháp phòng chống mềm độc hại, bao gồm: cài đặt phần\nmềm chống mã dộc thiê Jập cơ che cập nhật cơ sở dữ liệu tự động; kiểm tra và phần quét_\nmã\nđộc đối với các phần mềm trước khi cài đặt.\nThực hiện quản lý tập trung đối với các phần mềm phòng, chống mã độc được\ncài đặt trên hệ thống máy chú và thiết bị đầu cuối của người sử dụng trong toàn hệ thống.\nThực hiện sao lưu dữ liệu và hệ điều hành trước khi tiến hành xóa, đồng ~ thời áp\ndụng các biện pháp kỹ thuật đế bào dảm dữ liệu không thế phục hồi sau khi xóa.\nXây dựng phương án xóa toàn bộ thông tin và dữ liệu trên máy chủ khi thực hiện\nchuyển giao hoặc thay dổi mục đích sử dụng.\nƯu tiên sử dụng phần mềm hệ điều hành có bản quyền hoặc phần mềm mã nguồn\nmở tin cậy được phổ biến rộng rãi trong nước và quốc tế. Có tài liệu liệt kê đầy đủ các\nphần mêm hệ thống cài đặt trên máy chủ; tài liệu hướng dẫn cài đặt các phần trên máy\nchủ, đồng - thời cấu hình vùng mạng quản trị riêng biệt và giới hạn địa chỉ IP được phép\ntruy cập quản trị.\nTrường hợp sử dụng loại hình thuê dịch vụ máy chủ ẳo ở bên ngoài thì trong hợp\nđồng - với nhà cung cấp dịch vụ máy chủ ả0, cần xác định rõ quyền và trách nhiệm của\ncác bên, đặc biệt là vể bảo mật và an toàn dữ liệu; đồng thời yêu cầu nhà cung cấp dịch\nvụ cung cấp dầy đủ báo cáo và nhật ký truy vết phục vụ công tác kiểm tra, giám sát và\nXác minh các hoạt động truy cập, xử lý dữ liệu trên hệ thống.\nb) Bảo đảm ATTT đối với Trung tâm dữ liệu/Phòng máy chủ\nTrang bị đầy đủ hệ thống phòng cháy, chữa cháy theo đúng tiêu chuẩn kỹ thuật\nhiện hành; hệ thống điều hòa không khí phù hợp với quy mô và điều kiện vận hành; hệ\nthống lưu điện (UPS) dự phòng có công suất phù hợp để đảm bảo an toàn dữ liệu cho\nmáy chủ, các thiết bị lưu trữ chuyên dụng khi có sự cố mất điện.\nCó biện pháp bảo vệ vật lý và phương án dự phòng nhằm phòng chống các nguy\ncƠ mất an toàn thông tin do mất cẳp; cháy nổ, ngập lụt, động đất hoặc các thảm họa khác\ndo thiên nhiên hoặc con người gây ra. Đồng thời, xây dựng, triển khai phương án khôi\nphục hệ thống sau thảm họa bào dẳm tính sẵn sàng và liên tục của hệ thổng:\nThiết lập cơ chế bảo 9tbêt giám sát, phát hiện xâm ahâRe êaịsoát can thiệp vật\nlý đối với các thiết bị mạng; bị bảo mật như tường lửa, bị định tuyến, máy chủ\nvà hệ thống lưu trữ. Việc truy cập, kết nối vật lý phải được kiểm soát chặt chẽ, phù hợp\nvới vai trò, trách nhiệm của từng cá nhân, đơn vị.\nTrang bị hệ thống camera giám sát hoạt động liên tục 24 giờ mỗi ngày 7 ngày\nmỗi tuần (24/7), bảo đảm phạm vi giám sát toàn bộ khu vực. Dữ liệu hình ảnh từ hệ\n\n{hống gaárìáát phài đxgc Jsụ cẫ ki taic hion giám sát phải được lưu trữ tối thiểu trong thời gian 60 ngày đề phục vụ công tác\nXây dựng và ban hành quy chế, quy dinh quy trình khai thác, vận hành Trung tâm\ndữ liệu/Phòng máy chủ phù hợP với quy mô hệ thống và yêu cầu nghiệp vHà rQuyadnb\nphải cụ thễ hóa trách nhiệm cúa từng bộ phận, cá nhân trong quản lý, vận hành và bảo\nvệ an toàn thông tin.\n2.Bảo đảm ATTT đối với hệ thống mạng\nthống mạng phải được thiết kế phân vùng theo chức năng phù hợp với cấp\na) Hệ thống %hông g pnheo quy dinh tại Thông tu $K 12/2022/TT-BTTTT và hướng\ndẫn chi tiết tại Tiêu chuẩn độ của hệ quốc gia TCVN 11930:2017.\nb) Thiết lập các cơ chế kiểm soát truy cập từ bên ngoài mạng, bảo đảm chỉ cho\npậéổZzdungcácạng bên ng0u abao gm cà mang Intemet Việc trux câP từ bê- sử dụng các kết nối mạng an toàn khi truy cập vào thông tin nội bộ hoặc quản trị\nngoài\nvào hệ thống phải được kiểm soát theo từng dịch vụ; ứng dụng cụ thể; phân quyền truy\ncập phải được xác định rõ ràng theo từng người dùng hoặc nhóm người dùng, căn cứ\ntheo yêu cầu nghiệp vụ và quản lý của đơn vị\nThiết lập kiểm soát truy cập từ bên trong hệ thống mạng, bảo đảm chỉ cho phép\ntruy cập ra bên c) ngoài đến các ứng dụng, dịch vụ theo yêu câu nghiệp vụ. Đồng thời, cần\ncó giải pháp kiểm soát quyền truy cập của người dùng đối với các máy chủ và dịch vụ\nnội bộ trên cơ sở chức năng và chính sách quản lý của đơn vị.\nd) Thiết lập chức năng ghi nhận và lưu trữ nhật ký hệ thống trên các thiết bị trong\nToàn bộ nhật ký hệ thống phải được lưu trữ và quản lý tập trung, bảo đảm sẵn\nsàaggchooaongoác heo dõc, giám sấl; kiem tra và diễu tra an toàn thông tin khi cân thiết\nXây dựng và triển khai phương án phòng chống xâm nhập, bảo vệ các phân\nvùng mạng trong hệ thống; bảo đảm năng lực hệ thống đáp , ứng yêu cầu vềquy mô người\ndùng, dịch vụ và ứng dụng được cung cấp trên toàn hệ thống:.\nTriển khai phương án phòng chống phần mềm độc hại trên môi trường mang;\ndịnh &ỳ cậpnhật co sở dữ liệu nhận diện mã độc cho các hệ thống phòng chống _ phần\nmềm độc hại. truyền dữ liệu, kết nối\nThiết lập giải pháp bảo vệ các thiết bị đầu cuối, đường\nInternet và hệ thống dây dẫn mạng LAN (mạng nội bộ), WAN (mạng diện rộng); bảo g\nđảm hạn chế tối đa khả năng truy cập trái phép từ các nguồn không tin cậy .\nh) Căn cứ theo điều kiện thực tế và yêu cẩu bảo mật của từng đơn vị; dơn vị chủ\nquản hệ thống mạng nội bộ có trách nhiệm chủ động nghiên cứu, xây dựng và triển khai\nmô hình, giải pháp bảo đảm an toàn thông tin mạng phù hợp.\ni) Thực hiện các biện pháp kỹ thuật cần thiết để bảo dảm an toàn thông tin trong\ntrinh Kec noinnternet; bao gồm việc vô hiệu hóa hoặc ngắt kết nối các cổng mạng\nkhông sử dụng, đặc biệt tại các khu vực làm việc dùng chung của các dơn vị: quá\n3.Bảo đảm ATTT đối với ứng dụng\na) Việc triển khai, vận hành và sử dụng các ứng dụng phải tuân thủ đầy đủ phương\nán bảo đảm ATTT đã được xây dựng theo tẳi liệu phân tích, thiết kế hệ thống.\n\n10\nb) Có phương án kiểm tra, thử nghiệm, đánh giá tính an toàn, bảo mật và khắc\nphpchậ rvarongqátậir rủi ro trong quá trình triển khai, vận hành ứng dụng. Thực hiện đầy đủ việc cài đặt;\nphần mềm, ứng dụng trên máy chủ, máy trạm và thiết bị kết nối\ncập thống nội bộ.\nmạng trong hệ cập; có kết nối với hệ thống\nsát tập trung; có phương án bẳo mật thông tin liên lạc; chống chối bỏ và bảo vệ mã c) Ứng dụng phải thiết lập chính sách kiểm soát truy\ngiám\nnguồn.\nd) Thực hiện phân quyền truy cập, quản trị và sử dụng ứng dụng, cơ sở dữ liệu\ntheo chức năng, nhiệm vụ của người dùng; bảo đảm việc phân quyền theo từng cấp độ,\nphù hợp với yểu cẩu nghiệp vụ cúa từng cá nhân hoặc nhóm người dùng:\nỨng dụng phải có chức năng ghi, lưu trữ và quản lý nhật ký hệ thống, bao gồm:\nthông tin truy cập, thay đổi cấu hình, thời gian sử dụng, lỗi đ) phát sinh và thông tin đăng\nnhập khi quản trị.\nThực hiện thu hồi tài khoản Office 365 đối với viên chức, người lao động khi\nnghỉ việc, chuyển công tác, chấm dứt hợp đồng lao động hoặc không còn sử dụng tài\nkhoản; đối với sinh viên khi tốt nghiệp, thôi học hoặc bị buộc thôi học.\n4.Bảo đảm an toàn thông tin đối với dữ liệu\na) Xây dựng phương án quản lý, luu trữ dữ liệu quan trọng nhằm bảo đảm tính\ntoàn vẹn; bào mật và khả dụng. Thực hiện sao lưu định kỳ và có phương án khôi phục\ndữ liệu khi xảy ra sự cố.\nb) Áp dụng biện pháp giám sát, cảnh báo để ngăn chặn truy cập, gửi/nhận dữ liệu\ntrái phép. Khuyến khích sử dụng chữ ký số nhằm xác thực và bẳo mật dữ liệu, đặc biệt\ntrong các giao dịch yêu cẩu chống chối bỏ nguồn gốc.\nc) Xóa, tiêu hủy dữ liệu nhạy cảm không thể khôi phục khi thiết bị thay đổi mục\nđích sử dụng, bảo hành hoặc thanh lý. Nếu không thể xóa dữ liệu, phải tiêu hủy phần\ncứng lưu trữ dược xử lý trên máy tính độc lập, không kết\nd) Dữ liệu mật; tối mật; tuyệt mật phải\nnối mạng; có mật khẩu, mã hóa và các biện pháp bảo mật khác .\nSao luu các tệp cấu hình, hệ điều hành máy chủ, cơ sở dữ liệu và dữ liệu nghiệp\nphân loại yà Iuu trữ theo nhóm; có giải pháp lưu trữ tại địa điểm khác phòng ngừa\nthiên tai, sự cố. vụ;\nXây dựng phương án bảo mật và kiểm soát việc chia sẻ, gửi/nhận thông tin trong\nvà ngoài đơn vị.\ngật vn Cá nhân có trách nhiệm bảo vệ thông tin của mình và tuân thủ quy định của\ncấp thông tin cá nhân khi sử dụng dịch vụ trên mạng, đồng thời có\npháp bàog đâp ATTT đối với thông tin do mình xử lý theo Nghị định số\ntrách nhiệm\n13/2023/NĐ-CP .\nh) Tổ chức triển khai việc ký cam kết bằng văn bản về bảo đảm an toàn thông tin\nvà bảo mật thông tin đối với viên chức, người lao động có trách nhiệm tiếp cận, quản lý\nthông tin, dữ liệu quan trọng hoặc tham gia quản trị các hệ thống thông tin trọng yếu của\nđơn vị.\n5. Đảm bảo an toàn thông tin đối với thiết bị đầu cuối\n\na) Ban hành và thực hiện chính sách, quy trình quản lý thiết bị đầu cuối, bao gồm\nvận hành, kết nối, truy cập từ xa; cài đặt, cấu hình bảo mật và đánh giá, xử lý các điểm\nyếu an toàn trước khi đưa thiết bị vào sử dụng.\nb) Quản lý và cập nhật thông tin thiết bị đầu cuối (tên, chủng loại, địa chỉ MAC,\nđịa chỉ IP) và kiểm soát việc kết nối thiết bị vào hệ thống mạng theo địa chỉ MAC, IP .\nc) Xây dựng quy trình bảo dưỡng, bảo trì và hướng dẫn sử dụng thiết bị đầu cuối;\ntổ chức kiểm tra, sửa chữa định kỳ đổi với thiết bị hoạt động và thiết bị dự phòng:\nThực hiện sao luu dữ liệu định kỳ để dảm bảo phục hồi thông tin khi thiết bị\ngặp sự cố hoặc bị tấn công.\nđ) Triển khai hệ thống giám sát hoạt động thiết bị đầu cuối, phát hiện hành vi bất\nthường; đồng - thời xây dựng quy trình ứng phó Sự cố bảo mật để xử lý kịp thời các tình\nhuống phát sinh.\n6. Đảm bảo an toàn thông tin đối với cổng, trang thông tin điện tử\na) Quản lý toàn bộ phiên bản mã nguồn; tổ chức mô hình vận hành hợp lý, triển\nkhai các hệ thống phòng vệ như tường lửa, hệ thống phát hiện và phòng ngừa xâm nhập\n(IDS/IPS), tường lửa ứng dụng web (WAF).\nb) Áp dụng phương thức xác thực đa yếu tố (MFA) nhằm dảm bảo chỉ người dùng\nhợp lệ được truy cập hệ thống; đồng thời triển khai giám sát và phát hiện tẩn công để\nkịp thời phát hiện các hành vi bất thường.\nc) Xây dựng và thực hiện quy trình ứng phó sự cố bảo mật, kiểm tra đánh giá định\nkỳ để phát hiện và khắc phục lỗ hổng hệ thống.\nd) Trước khi đưa vào sử dụng hoặc bổ sung chức năng mới, tiến hành đánh giá,\nkiểm định bảo mật; thành lập bộ phận chuyên trách kiểm tra, giám sát, phát hiện lỗi và\n1ỗ hổng bảo mật để cảnh báo và xử lý kịp thời.\nđ) Xây dựng phương án sao lưu và phục hồi toàn diện đối với cổng, trang thông\ntin điện tử, thực hiện sao lưu dữ liệu, mã nguồn và cơ sở dữ liệu ít nhất mỗi tháng một\nlần để bảo đảm khả năng khôi phục hệ thống trong vòng 24 giờ khi xảy ra sự cố.\n7.Đảm bảo an toàn thông tin với thư điện tử\na) Viên chức, người lao động không sử dụng hộp thư điện tử công cộng trong công\nviệc và không sử dụng thư điện tử công vụ cho mục đích cá nhân. Mỗi cá nhân có trách\nnhiệm đặt mật khẩu đủ mạnh cho hộp thư điện tử của mình.\nb) Thực hiện sao lưu định kỳ các email quan trọng nhằm đảm bảo phục hồi dữ liệu\nkhi xảy ra sự cố.\nc) Trước khi mở tệp đính kèm hoặc nhấp vào liên kết, cần xác minh tính xác thực\ncủa người gửi, tuyệt đối không mở các tệp hoặc liên kết từ nguồn không rõ ràng hoặc\nnghi ngờ.\nd) Cài đặt và duy trì phần mềm diệt virus để phát hiện, ngăn chặn phần mềm độc\nhại từ email; giám sát hoạt động để phát hiện các dấu hiệu bất thường hoặc xâm nhập.\nĐơn vị quản lý hệ thống thư điện tử xây dựng phương án đảm bảo an toàn, tính\nkhả dụng truy cập và các biện pháp chống thư rác. Khi viên chức, người lao động nghỉ\nviệc thì hộp thư điện tử sẽ bị khóa và xóa bỏ khỏi hệ thống thư điện tử.\n\n12\n8. Đảm bảo an toàn thông tin đối với loại hình thuê dịch vụ máy chủ ả0\na) Lựa chọn nhà cung cấp dịch vụ máy chủ ảo uy tín, có chính sách bảo mật rõ\nràng và hỗ trợ kỹ thuật 24/7.\nb) Hệ điều hành và phần mềm trên máy chủ ảo phải được cập nhật phiên bản mới\nliên tục; sử dụng tường lửa để kiểm soát lưu lượng mạng đến máy chủ\nThực hiện sao lưu định kỳ dữ liệu và kiểm tra khả năng khôi phục từ bản sao\nJuu; mã hóa dữ liệu nhạy cảm khi truyền và lưu trữ.\nd) Xây dựng kế hoạch ứng phó sự cố bảo mật và thực hiện kiểm tra đánh giá bảo\nmật định kỳ. tất cả các ứng dụng và dịch vụ trên máy chủ luôn được cập nhật\nĐảm bảo rằng7 để phát hiện và\nvà vá lỗi kịp thời, đồng thời thực hiện kiểm tra bảo mật thường xuyên\nkhắc phục các lỗ hổng có thể bị khai thác.\ne) Ban hành và thực thi chính sách bảo mật trong quản lý, sử dụng máy chủ ả0-\ng) Bảo vệ các công cụ quản lý máy chủ từ xa bằng cách sử dụng chứng thư số và\nhạn chế quyền truy cập qua SSH (Secure Shell) hoặc RDP (Remote Desktop Protocol)\nchỉ từ các địa chỉ IP tin cậy; cập nhật và bảo mật phần mềm quản lý đầu cuối dể ngăn\nchặn các cuộc tấn công ' từ xa.\n9. Đảm bảo an toàn thông tin đối với phần mềm độc hại\na) Áp dụng các chính sách, quy trình quản lý phần mềm độc hại bao gồm: cài đặt,\ncập nhật, sử dụng phần mêm phòng chống mã độc; dò quét, kiểm tra phần mềm dộc hại\ntrên máy tính, máy chủ, thiết bị di động và việc truy cập các trang thông tin trên mạng;\ngửi/nhận tập tin qua mổi trường mạng và các thiết bị luu trữ di động.\nb) Thực hiện sao lưu dữ liệu quan trọng định kỳ dể đảm bảo có thể khôi phục dữ\nliệu nếu hệ thống bị tấn công bởi phần mềm độc hại.\nc) Định kỳ thực hiện kiểm tra và dò quét phần mềm độc hại trên toàn bộ hệ thống;\nthực hiện kiểm tra và xử lý phần mềm độc hại khi phát hiện dấu hiệu hoặc cảnh báo về\ndấu hiệu phần mềm độc hại xuất hiện trên hệ thống.\nd) Viên chức và người lao động phải được hướng dẫn về phòng chống mã độc, các\nrủi ro do mã độc gây ra; không được tự ý cài đặt hoặc gỡ bỏ các phần mềm trên máy\ntrạm khi chưa có sự đồng ý của người có thẩm quyền theo quy định của đơn vị; khi phát\nhiện ra bất kỳ dấu hiệu nào liên quan đến việc bị nhiễm mã độc trên máy trạm người sử\ndụng phải báo trực tiếp cho bộ phận chuyên trách của đơn vị để xử lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Bảo đảm ATTT khi tiếp nhận, phát triển và bảo trì HTTT",
+          "text": "Điều 10. Bảo đảm ATTT khi tiếp nhận, phát triển và bảo trì HTTT\n1. Khi tiếp nhận, phát triển, nâng cấp, bảo trì HTTT, chủ quản HTTT phải rà soát\ncấp độ, phương án bảo đảm an toàn của HTTT và thực hiện điều chỉnh, bố sung hoặc\nthay mới hồ sơ dề xuất cấp độ trong trường hợp cần thiết, đồng thời dơn vị phải tiến\nhành phân tích, xác định rủi ro có thễ xảy ra, đánh giá phạm vi tác động và chuẩn bị các\nbiện pháp hạn chế, loại trừ các rủi ro này và yêu cẩu các bên cung cấp, thi công, các cá\nnhân liên quan thực hiện.\n2 Trong quá trình vận hành HTTT, chủ quản HTTT cần thực hiện đánh giá, phân\nloại HTTT theo cấp độ; triển khai phương án bảo đảm an toàn HTTT đáp ứng yêu cầu\n\n13\ncơ bẳn trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn HTTT theo cấp độ;\nthường xuyên kiểm tra, giám Ỉại và lưu trữ đây đủ thông tin nhật ký hệ thống để phục vụ sát an toàn HTTT; tuân thủ quy trình vận hành; quy trình\nxử lý sự cố đã xây dựng; ghi\nquản_ lý, kiểm soát thông tin. HTTT được cài dặt tại Trung tâm dữ liệu/Phòng máy chủ cần dáp ứng các\nyêu cầu: tách biệt với các 3. Các môi trường phát triển, kiểm tra và thử nghiệm; không cài đặt\ncụ, phương tiện phát triển úng dụng; loại bỏ hoặc tắt các tính năng, phần mềm\ntiện ích không sử dụng trên HTTT; áp dụng các biện pháp bào các công đảm tính toàn vẹn dữ liệu\nthao tác trên hệ thống phải được lưu vết, sẵn sàng cho kiểm tra,\nvà bảo đảm ATTT; mọi\nkiểm soát khi cần thiết. quản HTTT\nquá trình phát - triển, bảo trì các ứng dụng cho các HTTT chủ\n4. Trong Câu Pác đối tác (nếu có) thực hiện các công tác đảm bảo an toàn\ncó trách nhiệm yêu nguồn và dữ liệu, tài liệu thiết kế, quản trị hệ thống mà đối tác\nthông tin; tránh lộ, lọt mã\nđang xử lý ra bên ngoài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Kiểm tra, đánh giá ATTT",
+          "text": "Điều 11. Kiểm tra, đánh giá ATTT\nquản HTTT có thẩm quyền yêu cầu kiểm tra, đánh giá ATTT đối với các\nhệ thống thông tin thuộc phạm vi 1. Chủ quản lý; thực hiện theo quy định tại Điều 11 và Điều\n12 của Thông tư số 12/2022/TT-BTTTT.\n2. Đơn vị vận hành HTTT chịu trách nhiệm đánh giá hiệu quả các biện pháp bảo\nđảm ATTT theo thẩm quyền; kết quả đánh giá làm cơ sở để điều chỉnh, hoàn thiện\nphương án bảo đảm ATTT cho phù hợp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quản lý rủi ro, lỗ hổng, điểm yếu ATTT",
+          "text": "Điều 12. Quản lý rủi ro, lỗ hổng, điểm yếu ATTT\n1. Đơn vị chuyên trách ATTT phối hợp với đơn vị vận hành HTTT của chủ quản\nHTTT tổ chức quản lý 1ỗ hổng, điểm yếu ATTT theo các nội dung sau:\na) Lập danh sách toàn bộ thiết bị, ứng dụng đang sử dụng trong phạm vi quản lý.\nb) Thiết lập, duy trì kênh tiếp nhận thông tin về lỗ hổng, điểm yếu ATTT từ các cơ\nquan, tổ chức có chức năng cảnh Đáo vễ ATTT; các đơn vị cung cấp thiết bị, ứng dụng\nthuộc phạm vi điểm a khoản này .\nQuản lý, giám sát việc cài đặt bản vá lỗ điễm yếủ ATTT đễ các công cụ này có thể hổng, điểm yếu ATTT. Sử dụng và cập\nc) công cụ dò quét 1ỗ hổng;\nnhật liên tục các hiện được các lỗ hổng bảo mật mới nhất.\nphát điểm yếu ATTT sau khi bản vá được phát\nTriển khai cài đặt bản vá lỗ bẳo vệ tạm thời trong trường hợp bản vá bảo mật chưa hổng,\ndaợc phát hành hoặc chua dủ điêu kiện để triển khai. hành; áp dụng các biện pháp\ntrách ATTT phối hợp với đơn vị vận hành HTTT triển khai quản\n2. Đơn vị chuyên quản 1ỗ hông, diem yếu ATTT theo quy định tại khoản\nĐiều này và theo hướng dẫn của cơ quan có thẩm lý rủi ro ATTT trên cơ sở lý quyên.\n3. Định kỳ hằng năm kiểm tra, đánh giá điểm yếu ATTT cho toàn bộ HTTT; thực\nhiện quy trình kiểm tra, đánh giá, xử lý điểm yếu ATTTkhi có thông tin hoặc nhận được\ncảnh báo về điểm yếu ATTT đối với thành phần cụ thể trong hệ thống.\n\n14\n4. Hoạt động đánh giá phát hiện mã độc, lỗ hổng, điểm yếu; thử nghiệm xâm nhập\nhệ thống thực hiện theo quy định tại điểm c khoản Điều 20 của Nghị định số\n85/2016/NĐ-CP và Điều 11 của Thông tư số 12/2022/TT-BTTTT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Giám sát ATTT",
+          "text": "Điều 13. Giám sát ATTT\n1. Nguyên tắc, yêu cầu, nội dung, phương thức, hệ thống kỹ thuật phục vụ công\ntác giám sát thực hiện theo quy dinh tạỉ Điều 3 dến Điều 9 của Thông tư số 31/2017TT-\nBTITT ngày 15/11/2017 cúa Bộ Thông tin và Truyền thông về quy định hoạt động giám\nsát an toàn hệ thống thông tin.\n2. Các HTTT của các trường ĐHTV, các đơn vị trực thuộc ĐHĐN phải có chức\nnăng ghi và lưu trữ nhật ký về hoạt động của hệ thống và người sử dụng HTTT; chức\nnăng ghi nhật ký và thông tin nhật ký, chống giả mạo, sửa đổi, phá hủy và truy cập trái\nphép.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Ứng cứu sự cố ATTT",
+          "text": "Điều 14. Ứng cứu sự cố ATTT\n1. Khi có nguy cơ mất an toàn ANM hoặc sự cố xảy ra ở mức độ thấp thì đơn vị\nchuyên trách về ứng cứu sự cố ATTT của chủ quản HTTT phối hợp với đơn vị; cá nhân\nbị ảnh hưởng tự xử lý, khắc phục hoặc liên hệ với đơn vị cung cẩp sản phẩm, dịch vụ\nviễn thông, internet; dơn vị triển khai ứng dụng để được tư vấn, hỗ trợ ngăn chặn, xử lý,\nkhắc phục.\n2. Khi có nguy cơ hoặc sự cố ATTT xảy ra ở mức độ xét thấy không có khả năng\ntự xử lý được thì đơn vị chuyên trách về ứng cứu sự cố ATTT báo cáo chủ quản HTTT\nđể có phương án xử lý.\n3.Đơn vị chuyên trách về ứng cứu sự cố ATTT thực hiện trách nhiệm quy định tại\nkhoản 2 Điều 6 Quyết định số 05/2017/QĐ-TTg ngày 16/03/2017 của Thủ tướng Chính\nphủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng\nquốc gia.\n4. Quy trình ứng cứu Sự cố ATTT được thực hiện theo Quyết định số 05/2017/QĐ-TTg vằ Ỉhông tu 86 20/2017/TT-BTTTT ngày 12/9/2017 cúa Bộ Thông tin và Truyền\nthông quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT",
+          "text": "Điều 15. Kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT\n1.Khi kết thúc vận hành, khai thác, thanh lý, hủy bỏ HTTT đơn vị chủ quản HTTT\nthực hiện hủy bỏ toàn bộ thông tin, dữ liệu trên hệ thống.\n2. Đối với các HTTT có dữ liệu được lưu trữ trên tài sản vật lý cần phải mang đi\nbảo hành, bảo dưỡng, sửa chữa bên ngoài thì phải được sự phê duyệt của chủ quản HTTT\nvà thực hiện các biện pháp bào vệ dữ liệu; có cam kết bảo mật thông tin giữa bên có dữ\nliệu và bên cung cấp dịch vụ sửa chữa thiết bị lưu trữ dữ liệu.\n\n15",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Triển khai hoạt động đảm bảo ANM",
+          "text": "Điều 16. Triển khai hoạt động đảm bảo ANM\ntrường ĐHTV, các đơn vị trực thuộc ĐHĐN có trách nhiệmíxâycdung q1i\n1. Các đàm ANM máy tính nội bộ, mạng máy tính có kết nối\nđịnh sử dụng; quản lý và bảo\nmạng internet do đơn vị mình quản lý.\nđịnh sử dụng, bảo dảm ANM máy tính gồm những nội dung sau:\n2. Nội dung quy Xác định rõ hệ thống mạng thông tin và thông tin quan trọng cần ưu tiên bảo\na)\nđảm ANM. b) Quy định rõ các điều cấm và các nguyên tắc quản lý, sử dụng và bảo đảm\nmáy tính nội bộ có luu trữ, truyền đua bí mật nhà nước phải được tách biệt\nANM, mạng tính, các thiết bị, phương tiện diện tử có kết nối mạng\nvật lý hoàn toàn với mạng máy tuân thủ quy định pháp luật về bảo vệ bí mật nhà\ninternet; trường hợp khác phải của\nnước. lý, nghiệp vụ; kỹ thuật trong vận hành, sử dụng và bảo dảm\nQuy trình quản phải đáp ứng các yêu cầu cơ bản bảo\nANM đối với dữ liệu, hạ tầng kỹ thuật, trong đó\nđảm an toàn HTTT. d) Điều kiện về nhân sự làm công tác quản trị mạng, vận hành hệ thống, bảo đảm\nANM, an toàn thông ' tin và liên quan đến hoạt động soạn thảo, lưu trữ, truyền đưa bí mật\nnhà nước qua hệ thống mạng máy tính.\nrõ trách nhiệm của từng bộ phận, viên chức, người lao động trong\nquản lý, sử dụng; bào dàm ANM; an toàn thông tin. Quy định\nChế tài xử lý những vi phạm quy định về đảm bảo ANM:\nquản HTTT ứng dụng, triển khai phương án, biện pháp, công nghệ bảo vệ\nANM đối với hệ thống thông 3. Chủ thông tin, tài liệu đugc Juu trũ, soan thẳo; truyền\ntin và quản khuyến khích các đơn vị sử dụng\ndưa trển hệ thống thông tin thuộc phạm vi lý; nhằm nâng cao tính an toàn dữ\nVLAN (Virtual Local Area Network) để quản trị mạng hệ thống khi\nliệu, hạn chễ bị tấn công mạng và dễ dàng tìm ra nguyên nhân khắc phục\nbị sự cố. HTTT tổ chức bồi dưỡng kiến thức về ANM cho viên chức, người\n4. Chủ quản lực bảo vệ ANM cho lực lượng bảo vệ ANM:\nlao động; nâng cao năng HTTT triển khai kiểm tra ANM đối với hệ thống thông tin; phòng,\n5. Chủ quản luật về ANM; ứng phó, khắc phục sự cố ANM:\nchống hành vi vi phạm pháp",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Phương án bảo đảm ANM đối với HTTT",
+          "text": "Điều 17. Phương án bảo đảm ANM đối với HTTT\nnhiệm ban hành phương án bảo đảm ANM đối với\nChủ quản HTTT có trách bộ, thống nhất, tập trung, có sự chia sẻ tàí nguyên\nHTTT do mình quản lý; bảo đảm đồng '\nđể tối ưu hiệu năng, tránh đầu tư trùng lặp.\n2. Phương án bảo đảm ANM đối với HTTT bao gồm:\na) Quy định bẳo đảm ANM trong thiết kế, xây dựng HTTT; đáp ứng yêu cầu cơ\nbản như yêu cầu quản lý, kỹ thuật, nghiệp vụ.\n\n16\nb) Thẩm định ANM.\nc) Kiểm tra, đánh giá ANM.\nd) Giám sát ANM.\nđ) Dự phòng, ứng phó, khắc phục sự cố, tình huống nguy hiểm về ANM.\ne) Quản lý rủi ro.\ng) Kết thúc vận hành, khai thác, sửa chữa, thanh lý, hủy bỏ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Phương án ứng phó, khắc phục sự cố ANM",
+          "text": "Điều 18. Phương án ứng phó, khắc phục sự cố ANM\n1. Chủ quản HTTT có trách nhiệm xây dựng phương án ứng phó, khắc phục sự\ncố ANM đáp ứng theo yêu cầu quy định tại khoản Điều 25 Nghị định 53/2022/NĐ -\nCP ngày 15/8/2022 của Chính phủ quy định chi tiết một số điều Luật An ninh mạng.\n2. Nội dung phương án ứng phó, khắc phục sự cố ANM gồm:\na) Các quy định chung.\nb) Đánh giá các nguy cơ; sự cố ANM.\nPhương án ứng phó, khắc phục đối với một số tình huống cụ thể.\nd) Nhiệm vụ; trách nhiệm của các cơ quan trong tổ chức, điều phối, xử lý, ứng\nphó, khắc phục sự cố.\nHuấn luyện, diễn tập, phòng ngừa sự cố, giám sát phát hiện, bảo đảm các điều\nkiện sẵn sàng đối phó, khắc phục sự cố.\nCác giải pháp đảm bảo; tổ chức triển khai phương án, kế hoạch và kinh phí\nthực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Lực lượng bảo vệ ANM",
+          "text": "Điều 19. Lực lượng bảo vệ ANM\n1. Trung tâm IDC là đơn vị bảo vệ ANM cho các HTTT do ĐHĐN làm chủ quản\nHTTT và các HTTT được giao khác.\n2 Các trường ĐHTV, các đơn vị trực thuộc ĐHĐN chịu trách nhiệm bố trí Jực\nlượng bảo vệ ANM tại đơn vị mình.\n3. Tổ chức, cá nhân được huy động tham gia bảo vệ ANM.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Trách nhiệm của Trung tâm IDC",
+          "text": "Điều 20. Trách nhiệm của Trung tâm IDC\n1. Chủ trì, làm đầu mối hướng dẫn, theo dõi, giám sát, dôn dốc, kiểm tra việc triển\nkhai, tổ chức thực hiện Quy chế này .\n2. Tham mưu triển khai thực hiện các nhiệm vụ; trách nhiệm của chủ quản HTTT\nđối với các HTTT do ĐHĐN là chủ quản HTTT và thực hiện các nhiệm vụ được giao\ntại Quy chế này .\n3 _ Tham mưu xây dựng quy định sử dụng, quản lý và bảo đảm ANM máy tính\nnội bộ, mạng máy tính có kết nối mạng internet do đơn vị mình quản lý .\n\n17\n4 Tham mưu tổ chức thường xuyên các hoạt động tuyên truyền, phổ biến nâng\ncao nhận thức về bảo đảm an toàn thông tin mạng và ANM đến toàn thể viên chức và\nngười lao động tại Cơ quan ĐHĐN.\n5. Tiếp nhận và đưa ra các cảnh báo về an toàn, an ninh thông tin; áp dụng các biện\npháp đế khẳc phục và hạn chế tối đa thiệt hại do sự cố mất ATTT, ANM tại ĐHĐN.\n6. Nhắc nhở, tạm dừng cung cấp các dịch vu mạng ĐHĐN dối với đơn vị, người\nsử dụng có liên quan đê kiểm tra, khắc phục sự cố. Trường hợp có sự cố nghiêm trọng\nvượt quá khả năng khắc phục phải báo cáo Lãnh đạo ĐHĐN và thông báo cho các tổ\nchức hỗ trợ xử lý sự cố mất ATTT, ANM để cùng phối hợp giải quyết.\n7. Lập kế hoạch hàng năm trình Lãnh đạo ĐHĐN phê duyệt và tổ chức triển khai\nkế hoạch bảo đảm ATTT, ANM của ĐHĐN và kế hoạch đào tạo, bồi dưỡng nghiệp vụ\ncho viên chức chuyên trách ATTT, ANM.\n8 Hàng năm, phối hợp với các đơn vị liên quan tham mưu kiểm tra về công tác\nbảo đảm ATTT, ANM đối với các trường ĐHTV, các đơn vị thuộc, trực thuộc ĐHĐN.\n9. Cấp mới, sửa đổi, thu hồi tài khoản và cấp quyền khai thác tài nguyên mạng\nĐHĐN cho người sử dụng đúng chức năng, nhiệm vụ khi có yêu cầu bằng văn bản.\n10. Phối hợp chặt chẽ với các cấp có thẩm quyền và các cơ quan liên quan trong\ncông tác phòng ngừa, đấu tranh, ngăn chặn các hoạt động xâm phạm ATTT, ANM.\n11. Hàng năm rà soát lại quy chế bảo đảm ATTT, ANM để kiểm tra lại tính phù\nhợp và tham mưu thực hiện, cập nhật, bổ sung.\n12. Theo dõi, tổng hợp và báo cáo định kỳ theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Trách nhiệm của các trường ĐHTV, các đon vị trực thuộc ĐHĐN",
+          "text": "Điều 21. Trách nhiệm của các trường ĐHTV, các đon vị trực thuộc ĐHĐN\n1. Chịu trách nhiệm trước Giám đốc ĐHĐN trong việc bảo đảm ATTT, ANM của\nđơn vị mình\n2, Thực hiện các nhiệm vụ được giao tại Quy chế này.\n3. Xây dựng kế hoạch bảo vệ, quản lý và thực hiện bảo dưỡng định kỳ các trang\nthiết bị đầu cuối lắp đặt tại đơn vị.\n4 Xây dựng, triển khai Quy chế/quy định bảo đảm ATTT, ANM tại đơn vị bảo\nđảm phù hợp với Quy chế này và các yêu cầu cụ thể của đơn vị.\n5 Thường xuyên tổ chức các hoạt động tuyên truyền, phổ biến nâng cao nhận thức\nvề bảo đảm ATTT và ANM đến toàn thể bộ viên chức và người lao động tại đơn vị.\n6. Xây dựng kế hoạch tổ chức đào tạo, bồi dưỡng nghiệp vụ về ATTT, ANM cho\nviên chức CNTT, viên chức chuyên trách ATTT, ANM; đào tạo cơ bản về an toàn thông\ntin cho đội ngũ viên chức quản lý, người sử dụng máy tính thuộc đơn vị.\n7 Trường hợp phát hiện mất an toàn, an ninh thông tin không có khả năng xử lý\nphải thông báo kịp thời tới Trung tâm IDC bằng - văn bản và các hình thức liên lạc khác\nđể phối hợp giải quyết.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Trách nhiệm cá nhân",
+          "text": "Điều 22. Trách nhiệm cá nhân\n1 . Chấp hành nghiêm túc các quy định về ATTT, ANM tại quy định này và các\nquy định khác của pháp luật về an toàn thông tin; nâng cao ý thức cảnh giác và trách\n\n18\nnhiệm bảo đảm an toàn thông tin trong phạm vi trách nhiệm và quyền hạn được giao;\nchịu trách nhiệm trước pháp luật và lãnh đạo đơn vị về các vi phạm, thất thoát dữ liệu\nquan trọng hoặc dữ liệu mật do không tuân thủ quy định và các văn bản khác của pháp\nluật về ATTT, ANM.\n2. Tự quản lý, bảo quản thiết bị mà mình được giao sử dụng. Khi phát hiện sự cố\nphải báo ngay với cấp trên và bộ phận chuyên trách vê công nghệ thông tin để kịp thời\nngăn chặn, xử lý-\n3. Tích cực tham gia các chương trình đào tạo, hội nghị về an toàn thông tin do các\nđơn vị chuyên môn tổ chức, nhằm nâng cao nhận thức về trách nhiệm đảm bảo ATTT,\nANM.\nChương\nTỔ CHỨC THỰC HIỆN",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Kinh phí thực hiện",
+          "text": "Điều 23. Kinh phí thực hiện\n1. Kinh phí đảm bảo ATTT, ANM thực hiện lồng ghép, tích hợp với các chương\ntrình, đề án, nhiệm vụ công nghệ thông tin từ nguồn ngân sách nhà nước và các nguồn\nkinh phí hợp pháp khác của các đơn vị.\n2. Căn cứ vào kế hoạch hàng năm, các đơn vị liên quan có trách nhiệm xây dựng\nkế hoạch, đề xuất dự toán kinh phí cho các hoạt động đảm bảo ATTT, ANM trình các\ncấp có thẩm quyền phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Kiểm tra, đánh giá công tác đảm bảo ATTT, ANM",
+          "text": "Điều 24. Kiểm tra, đánh giá công tác đảm bảo ATTT, ANM\nChủ quản HTTT thường xuyên kiểm tra, theo dõi và đánh giá công tác bảo đảm\nATTT, ANM tại đơn vị mình, coi đây là nhiệm vụ trọng tâm của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Chế độ báo cáo",
+          "text": "Điều 25. Chế độ báo cáo\n1. Phương thức gửi, nhận báo cáo: gửi qua hệ thống quản lý văn bản và điều hành;\ngửi qua hệ thống thư điện tử; các phương thức khác theo quy định của pháp luật.\n2. Tần suất thực hiện báo cáo:\na) Định kỳ hàng năm.\nb) Đột xuất theo đề nghị của cơ quan có thẩm quyền.\n3. Nội dung báo cáo\na) Báo cáo định kỳ hằng năm về đảm bảo an toàn HTTT theo cấp độ quy định tại\nĐiều 14 Thông tư 12/2022/TT-BTTTT, thời hạn hoàn thành trước ngày 20 tháng 12\nhằng - năm.\nb) Báo cáo định kỳ hằng năm về hoạt động giám sát của chủ quản HTTT theo Mẫu\nsố 01 tại Phụ lục 2 Thông tư 02/2023/TT-BTTTT ngày 21/3/2023 của Bộ Thông tin và\nTruyền thông quy định chế độ báo cáo định kỳ thuộc phạm vi quản lý nhà nước của Bộ\nThông ' tin và Truyền thông; thời hạn hoàn thành trước ngày 24 tháng 11 hằng năm.\n4. Trách nhiệm thực hiện báo cáo\na) Các trường ĐHTV và các đơn vị trực thuộc ĐHĐN có trách nhiệm xây dựng và\ngửi đầy đủ báo cáo định kỳ, báo cáo đột xuất (khi có yêu cầu) theo quy định tại khoản 3\nĐiều này về ĐHĐN thông qua Trung tâm IDC.\n\n19\nb) Trung tâm IDC có trách nhiệm tiếp nhận và tổng ' hợp các báo cáo do các trường\nĐHTV, các đơn vị trực thuộc ĐHĐN gửi về; xây dựng báo cáo tổng hợp, trình lãnh dao\nĐHĐN xem xét, ký ban hành và gửi báo cáo đến các cơ quan quản lý nhà nước có thẩm\nquyền về ATTT, ANM theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Khen thưởng, kỷ luật",
+          "text": "Điều 26. Khen thưởng, kỷ luật\n1. Kết quả thực hiện Quy chế này là một trong những tiêu chí chấm điểm thi đua\ntrong lĩnh vực liên quan đến công tác tăng cường ứng dụng CNTT và CĐS.\n2. Đơn vị; cá nhân vi phạm Quy chế này và các quy định khác của pháp luật về\nbảo đảm ATTT, ANM; tùy theo tính chấl; mức độ vi phạm sẽ xem xét xử lý theo quy\nđịnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 27.Điều khoản thi hành\n1. Trung tâm IDC, các trường ĐHTV, các đơn vị thuộc và trực thuộc ĐHĐN có\ntrách nhiệm hướng dẫn, triển khai và kiểm tra việc thực hiện Quy chế nàỵ:\n2. Trong quá trình tổ chức thực hiện, nếu có khó khăn, vướng mắc cần điều chỉnh,\nđố;, bỗ sung; các đơn vị phản ánh kịp thời về Trung tâm IDC để tổng hợp, báo cáo\nsửa Giám đốc ĐHĐN xem xét, điều chỉnh cho phù hợp./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy chế bảo đảm an toàn thông tin",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy chế bảo đảm an toàn thông tin\nmạng và an ninh mạng của Đại học Đà Nẵng\" .",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng; Hiệu trưởng các trường đại học thành viên, Giám đốc",
+      "text": "Điều 3. Chánh Văn phòng; Hiệu trưởng các trường đại học thành viên, Giám đốc\nTrung tâm Công nghệ thông tin và Học liệu số, Thủ trưởng các dơn vị thuộc, trực thuộc\nĐại học Đà Nẵng và các cá nhân, đơn vị liên quan căn cứ Quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0474_1061_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo về đường sắt trình độ đại học.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1061/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Chuẩn chương trình đào tạo về đường sắt trình độ đại học",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/05/2026",
+    "effectiveDate": "04/05/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định số 1061/QĐ-BGDĐT ngày 04/05/2026 về chuẩn chương trình đào tạo về đường sắt trình độ đại học, áp dụng cho các cơ sở giáo dục đại học tham gia thực hiện Đề án đào tạo, phát triển nguồn nhân lực đường sắt Việt Nam.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quân",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "17/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "09/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc quy định Danh mục thống kê ngành đào tạo của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "2230/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2230/QĐ-TTg ngày 09 tháng 10 năm 2025 của Thủ tướng Chính phủ phê duyệt Đề án đào tạo, phát triển nguồn nhân lực đường sắt Việt Nam đến năm 2035, định hướng đến năm 2045;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Bộ Xây dựng",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chuẩn chương trình đào tạo về",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chuẩn chương trình đào tạo về\nđường sắt trình độ đại học.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chuẩn chương trình đào tạo về đường sắt trình độ đại học áp dụng đối",
+      "text": "Điều 3. Chuẩn chương trình đào tạo về đường sắt trình độ đại học áp dụng đối\nvới các cơ sở giáo dục đại học tham gia thực hiện Đề án đào tạo, phát triển nguồn\nnhân lực đường sắt Việt Nam đến năm 2035, định hướng đến năm 2045 theo Quyết\nđịnh số 2230/QĐ-TTg ngày 09 tháng 10 năm 2025 của Thủ tướng Chính phủ; các cơ\nsở giáo dục đại học xây dựng, rà soát, cập nhật chương trình đào tạo bảo đảm đáp ứng\ntiêu chí của Chuẩn chương trình đào tạo về đường sắt, báo cáo Bộ Giáo dục và Đào\ntạo trước khi tuyển sinh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các",
+      "text": "Điều 4. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các\nđơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Hiệu trưởng, Giám đốc cơ sở giáo\n\ndục đại học, người đứng đầu các tổ chức và cá nhân liên quan chịu trách nhiệm thi\nhành Quyết định này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

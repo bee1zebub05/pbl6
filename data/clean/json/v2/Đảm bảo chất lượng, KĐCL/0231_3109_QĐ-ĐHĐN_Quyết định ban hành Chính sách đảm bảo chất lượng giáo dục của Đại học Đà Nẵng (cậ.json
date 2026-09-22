@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0231_3109_QĐ-ĐHĐN_Quyết định ban hành Chính sách đảm bảo chất lượng giáo dục của Đại học Đà Nẵng (cậ.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3109/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành chính sách đảm bảo chất lượng giáo dục của Đại học Đà Nẵng (cập nhật năm 2023)",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/07/2023",
+    "effectiveDate": "24/07/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này Chính sách đảm bảo chất lượng giáo dục của Đại học Đà Nẵng (cập nhật năm 2023). Quyết định này thay thế Quyết định số 2846/QĐ-ĐHĐN ngày 25 tháng 8 năm 2020 của Giám đốc Đại học Đà Nẵng.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy định về kiểm định chất lượng cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2846/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2846/QĐ-ĐHĐN ngày 25 tháng 8 năm 2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Chính sách đảm bảo chất lượng giáo dục Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "03/CT-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "ĐHĐN và các đơn vị định kỳ rà soát, thực hiện các quy định về đảm bảo chất lượng đối với đào tạo sau đại học, nhất là đội ngũ giảng viên cơ hữu; thực hiện Chỉ thị số 03/CT-TTg ngày 11/5/2022 của Thủ tướng Chính phủ về việc nâng cao chất lượng đào tạo nhân lực trình độ cao."
+    },
+    {
+      "targetDocumentNumber": "109/2022/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Căn cứ vào nhu cầu, tiềm lực và chiến lược, ĐHĐN và các đơn vị xây dựng và phát triển các loại hình nhóm nghiên cứu, nhóm nghiên cứu mạnh, liên ngành, liên trường; xây dựng và thực hiện chính sách hỗ trợ và ưu đãi đối với các nhóm nghiên cứu và nhóm nghiên cứu mạnh từ nguồn lực của đơn vị mình và từ các nguồn lực hợp pháp khác (theo quy định tại Nghị định số 109/2022/NĐ-CP ngày 30/12/2022 của C…"
+    },
+    {
+      "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Theo Quy định chế độ làm việc của giảng viên ĐHĐN (Quyết định số 4194/QĐ-ĐHĐN ngày 08/12/2021 của Giám đốc ĐHĐN) việc tham gia các hoạt động ĐBCLGD được xác định là một trong những nhiệm vụ của giảng viên."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đảm bảo Chất lượng Giáo dục",
+    "Cục Quản lý chất lượng",
+    "AUN",
+    "ABET",
+    "ASIIN",
+    "ACBSP",
+    "AUN-QA",
+    "AACSB",
+    "CTI",
+    "FIBAA"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chính sách đảm bảo chất lượng",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chính sách đảm bảo chất lượng\ngiáo dục của Đại học Đà Nẵng (cập nhật năm 2023).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định\nsố 2846/QĐ-ĐHĐN ngày 25 tháng 8 năm 2020 của Giám đốc Đại học Đà Nẵng\nvề việc ban hành Chính sách đảm bảo chất lượng giáo dục Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ\ntrưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có\nliên quan chịu trách nhiệm thi hành Quyết định này ./.du",
+      "isImplementationClause": true
+    }
+  ]
+}

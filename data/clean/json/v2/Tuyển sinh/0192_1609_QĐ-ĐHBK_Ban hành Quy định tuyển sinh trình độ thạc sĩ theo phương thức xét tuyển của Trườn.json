@@ -1,0 +1,236 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0192_1609_QĐ-ĐHBK_Ban hành Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trườn.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1609/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/05/2022",
+    "effectiveDate": "13/05/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tuyển sinh",
+      "Đào tạo"
+    ],
+    "summary": "Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành Quyết định kèm theo Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của trường.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "17/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"
+    },
+    {
+      "targetDocumentNumber": "1982/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1982/QĐ-TTg ngày 18/10/2016 của Thủ tướng Chính phủ phê duyệt Khung trình độ quốc gia Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"
+    },
+    {
+      "targetDocumentNumber": "3917/ĐHĐN-ĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn 3917/ĐHĐN-ĐT ngày 16/11/2021 của Giám đốc Đại học Đà Nẵng về việc giao các trường Đại học thành viên tổ chức tuyển sinh đào tạo trình độ thạc sĩ;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy định này quy định chi tiết về đối tượng, tiêu chuẩn, hồ sơ và trình tự thủ\ntục tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển; chức năng, nhiệm vụ của các\nđơn vị, cá nhân có liên quan của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây\ngọi tắt là Trường).\n2. Quy định này áp dụng đối với các đơn vị, tổ chức, cá nhân liên quan đến công\ntác tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trường.\n3. Quy định này không áp dụng đối với việc tuyển sinh các chương trình liên kết\nđào tạo trình độ thạc sĩ giữa Trường với các cơ sở đào tạo nước ngoài (bao gồm cả các\nchương trình liên kết đào tạo với nước ngoài theo quy định về hợp tác, đầu tư của nước\nngoài trong lĩnh vực giáo dục).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Ngành phù hợp",
+          "text": "Điều 2. Ngành phù hợp\n1. Ngành phù hợp: là ngành đào tạo ở trình độ đại học (hoặc trình độ tương đương\ntrở lên) trang bị cho người học nền tảng chuyên môn cần thiết để học tiếp chương trình\nđào tạo thạc sĩ của ngành tương ứng, được quy định cụ thể trong chuẩn đầu vào của\nchương trình đào tạo.\n2. Danh mục ngành phù hợp được quy định cụ thể cho mỗi chương trình đào tạo\nvà phân định rõ ngành phù hợp không học bổ sung kiến thức và ngành phù hợp có học\nbổ sung kiến thức. Việc thay đổi, cập nhật do Hiệu trưởng quyết định theo đề nghị của\nHội đồng khoa học và đào tạo, được công bố trước khi thông báo tuyển sinh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Đối tượng và điều kiện dự tuyển",
+          "text": "Điều 3. Đối tượng và điều kiện dự tuyển\n1. Yêu cầu đối với người dự tuyển:\na) Thí sinh đã tốt nghiệp hoặc đã đủ điều kiện công nhận tốt nghiệp đại học (hoặc\ntrình độ tương đương trở lên) ngành phù hợp với ngành, chuyên ngành đăng ký dự tuyển\ntrình độ thạc sĩ. Thí sinh đăng ký xét tuyển chương trình định hướng nghiên cứu yêu cầu\nhạng tốt nghiệp từ khá trở lên hoặc có công bố khoa học liên quan đến lĩnh vực sẽ học\ntập, nghiên cứu;\nb) Có năng lực ngoại ngữ từ Bậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc\ndùng cho Việt Nam;\n\nc) Đáp ứng các yêu cầu khác của chuẩn chương trình đào tạo do Bộ Giáo dục và\nĐào tạo (Bộ GDĐT) ban hành và theo quy định của chương trình đào tạo.\n2. Thí sinh có năng lực ngoại ngữ đáp ứng yêu cầu quy định tại điểm b khoản 1\nĐiều này khi có một trong các văn bằng, chứng chỉ sau:\na) Bằng tốt nghiệp trình độ đại học trở lên ngành ngôn ngữ nước ngoài; hoặc\nbằng tốt nghiệp trình độ đại học trở lên mà chương trình được thực hiện chủ yếu bằng\nngôn ngữ nước ngoài;\nb) Bằng tốt nghiệp trình độ đại học trở lên do Trường cấp trong thời gian không\nquá 02 năm, tính đến thời điểm nộp hồ sơ đăng ký dự tuyển;\nc) Một trong các văn bằng hoặc chứng chỉ ngoại ngữ đạt trình độ tương đương\nBậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam quy định tại Phụ\nlục của Quy định này hoặc các chứng chỉ tương đương khác do Bộ GDĐT công bố, còn\nhiệu lực tính đến ngày đăng ký dự tuyển.\n3. Thí sinh dự tuyển là công dân nước ngoài muốn đăng ký dự tuyển vào các\nngành/chuyên ngành đào tạo trình độ thạc sĩ của Trường phải đạt trình độ tiếng Việt từ\nBậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài hoặc đã tốt\nnghiệp đại học (hoặc trình độ tương đương trở lên) mà chương trình đào tạo được giảng\ndạy bằng tiếng Việt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Đối tượng và chính sách ưu tiên",
+          "text": "Điều 4. Đối tượng và chính sách ưu tiên\n1. Đối tượng ưu tiên\na) Người có thời gian công tác liên tục từ 02 năm trở lên (tính đến ngày hết hạn\nnộp hồ sơ đăng ký dự tuyển) tại các địa phương được quy định là Khu vực 1 trong Quy\nchế tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành giáo dục mầm non.\nTrong trường hợp này, thí sinh phải có quyết định tiếp nhận công tác hoặc điều động,\nbiệt phái công tác của cơ quan, tổ chức có thẩm quyền;\nb) Thương binh, người hưởng chính sách như thương binh;\nc) Con liệt sĩ;\nd) Anh hùng lực lượng vũ trang, anh hùng lao động;\nđ) Người dân tộc thiểu số có hộ khẩu thường trú từ 02 năm trở lên ở địa phương\nđược quy định tại điểm a khoản này;\ne) Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học, được Ủy\nban nhân dân cấp tỉnh công nhận bị dị dạng, dị tật, suy giảm khả năng tự lực trong sinh\nhoạt, học tập do hậu quả của chất độc hóa học.\n2. Chính sách ưu tiên\nNgười dự tuyển thuộc đối tượng ưu tiên quy định tại khoản 1 Điều này (bao gồm\ncả người thuộc nhiều đối tượng ưu tiên) được cộng thêm 0,5 điểm (theo thang điểm 10)\nvào điểm trung bình chung học tập toàn khóa trình độ đại học, trước khi thực hiện quy\nđổi về thang điểm 4 dùng để xét tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Kế hoạch và chỉ tiêu tuyển sinh",
+          "text": "Điều 5. Kế hoạch và chỉ tiêu tuyển sinh\n1. Trường tổ chức tuyển sinh 02 lần/năm. Tùy theo nhu cầu và chỉ tiêu tuyển sinh,\nTrường có thể tổ chức thêm các đợt bổ sung nhưng không quá 04 lần/năm.\n2. Chỉ tiêu tuyển sinh của từng ngành đào tạo được xác định dựa trên tiêu chí về\nđội ngũ giảng viên cơ hữu tham gia giảng dạy và hướng dẫn; cơ sở vật chất, phòng thí\nnghiệm và quy mô học viên cao học đang đào tạo. Chỉ tiêu tuyển sinh do Trường xây\ndựng, được Giám đốc Đại học Đà Nẵng (ĐHĐN) phê duyệt hàng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Thông báo tuyển sinh và hồ sơ đăng ký dự tuyển",
+          "text": "Điều 6. Thông báo tuyển sinh và hồ sơ đăng ký dự tuyển\n1. Thông báo tuyển sinh được công bố công khai trên trang thông tin điện tử của\nTrường ít nhất 45 ngày tính đến ngày kết thúc nhận hồ sơ dự tuyển, bao gồm những\nthông tin sau:\na) Đối tượng và điều kiện dự tuyển;\nb) Chỉ tiêu tuyển sinh theo chương trình đào tạo, hình thức đào tạo;\nc) Danh mục ngành phù hợp của từng chương trình đào tạo, bao gồm ngành phù\nhợp không học bổ sung kiến thức và ngành phù hợp có học bổ sung kiến thức.\nd) Hồ sơ dự tuyển;\nđ) Kế hoạch và phương thức tuyển sinh;\ne) Mức học phí, mức thu dịch vụ tuyển sinh và khoản thu dịch vụ khác cho lộ\ntrình từng năm học, cả khóa học;\ng) Những thông tin cần thiết khác.\n2. Hồ sơ đăng ký dự tuyển\na) Đơn đăng ký dự tuyển (theo mẫu của Trường);\nb) Bản sao hợp lệ bằng tốt nghiệp đại học (hoặc giấy chứng nhận đủ điều kiện tốt\nnghiệp), bảng điểm tốt nghiệp;\nc) Sơ yếu lý lịch (thời hạn không quá 03 tháng tính đến thời điểm nộp hồ sơ);\nd) Giấy khám sức khỏe (thời hạn không quá 06 tháng tính đến ngày nộp hồ sơ);\nđ) Minh chứng đủ năng lực ngoại ngữ (quy định tại khoản 3 Điều 3 Quy định\nnày);\ne) Minh chứng ưu tiên hợp lệ (nếu có);\ng) Minh chứng nộp lệ phí dự tuyển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Học bổ sung kiến thức",
+          "text": "Điều 7. Học bổ sung kiến thức\n1. Thí sinh tốt nghiệp đại học có ngành nằm trong danh mục ngành phù hợp có\nhọc bổ sung kiến thức phải đăng ký, hoàn thành học bổ sung kiến thức và có bảng\nđiểm trước khi xét tuyển.\n2. Thí sinh phải đóng học phí các học phần bổ sung theo mức học phí quy định\nđối với trình độ đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Hội đồng tuyển sinh",
+          "text": "Điều 8. Hội đồng tuyển sinh\n1. Hội đồng tuyển sinh (HĐTS) do Hiệu trưởng quyết định thành lập gồm các\nthành viên như sau:\na) Chủ tịch: Hiệu trưởng hoặc Phó Hiệu trưởng được Hiệu trưởng uỷ quyền;\nb) Phó Chủ tịch Hội đồng: Phó Hiệu trưởng;\nc) Ủy viên thường trực: Trưởng phòng hoặc Phó Trưởng phòng Đào tạo;\nd) Các ủy viên: Trưởng hoặc Phó Trưởng khoa, Trưởng hoặc Phó Trưởng đơn vị\nchức năng có liên quan trực tiếp đến kỳ thi.\n2. Trách nhiệm và quyền hạn của HĐTS:\na) Tổ chức triển khai các phương án tuyển sinh đã công bố;\nb) Tiếp nhận hồ sơ dự tuyển;\nc) Sơ tuyển hồ sơ, lập danh sách các thí sinh đủ điều kiện tham gia xét tuyển;\nd) Tổ chức xét tuyển; kiểm tra, giám sát quá trình xét tuyển;\nđ) Công bố kết quả xét tuyển, đề nghị công nhận trúng tuyển báo cáo Giám đốc\nĐHĐN;\ne) Giải quyết thắc mắc và khiếu nại, tố cáo liên quan đến công tác tuyển sinh;\ng) Tổng kết công tác tuyển sinh; quyết định khen thưởng, kỷ luật theo quy định.\n3. Trách nhiệm và quyền hạn của Chủ tịch HĐTS.\na) Phổ biến, hướng dẫn, chỉ đạo tổ chức thực hiện và chịu trách nhiệm về công\ntác tuyển sinh của Trường;\nb) Quyết định và chịu trách nhiệm toàn bộ các hoạt động liên quan đến công tác\ntuyển sinh theo quy định tuyển sinh hiện hành;\nc) Thành lập Tổ thư ký theo quy định tại Điều 9 của Quy định này để giúp việc\ncho HĐTS.\n4. Người có bố, mẹ, vợ, chồng, con, anh chị em ruột dự tuyển không được tham\ngia HĐTS và bộ phận giúp việc cho HĐTS.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tổ Thư ký Hội đồng tuyển sinh",
+          "text": "Điều 9. Tổ Thư ký Hội đồng tuyển sinh\n1. Thành phần Tổ Thư ký Hội đồng tuyển sinh (gọi tắt là Tổ Thư ký) gồm: Tổ\ntrưởng là Ủy viên thường trực (hoặc ủy viên) HĐTS và các tổ viên là một số viên chức\nthuộc Phòng Đào tạo và/hoặc Phòng Khảo thí và Đảm bảo Chất lượng Giáo dục, Tổ\nCông nghệ Thông tin, Đơn vị chức năng, Khoa có liên quan.\n2. Trách nhiệm và quyền hạn của Tổ Thư ký.\na) Công bố các thông tin liên quan đến điều kiện, hồ sơ, thời gian đăng ký dự\ntuyển, xét tuyển trên trang thông tin điện tử của Trường;\nb) Nhận và xử lý hồ sơ của thí sinh, thu lệ phí đăng ký dự tuyển;\nc) Chuẩn bị hồ sơ, dự kiến phương án xét tuyển đối với các hồ sơ đủ điều kiện\nxét tuyển và danh sách thí sinh trúng tuyển trình HĐTS xem xét;\n\nd) Chuẩn bị hồ sơ, danh sách thí sinh dự kiến trúng tuyển gửi ĐHĐN phê duyệt;\nđ) Thông báo kết quả xét tuyển cho tất cả thí sinh dự tuyển;\ne) Thông báo cho thí sinh trúng tuyển nhập học;\ng) Thực hiện các nhiệm vụ khác do Chủ tịch HĐTS phân công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Quy trình xét tuyển",
+          "text": "Điều 10. Quy trình xét tuyển\n- Bước 1: Trường xác định chỉ tiêu tuyển sinh của từng ngành đào tạo dựa trên\ncác tiêu chí đảm bảo chất lượng đào tạo theo quy định hiện hành của Bộ GDĐT và văn\nbản hướng dẫn của ĐHĐN;\n- Bước 2: Xây dựng đề án tuyển sinh, kế hoạch xét tuyển và trình Hiệu trưởng ra\nthông báo xét tuyển;\n- Bước 3: Công bố đề án tuyển sinh và thông báo tuyển sinh trên các trang thông\ntin điện tử của Trường, Khoa;\n- Bước 4: Thí sinh đăng ký dự tuyển trực tuyến trên trang tuyển sinh của trường;\nin phiếu đăng ký để nộp kèm hồ sơ dự tuyển;\n- Bước 5: Thí sinh hoàn tất hồ sơ dự tuyển theo yêu cầu và nộp trực tiếp hoặc qua\nđường bưu điện về Phòng Đào tạo;\n- Bước 6: Phòng Đào tạo phối hợp Khoa quản lý chuyên môn thực hiện sơ tuyển\nhồ sơ, lập danh sách thí sinh đủ điều kiện tham gia xét tuyển, thí sinh học bổ sung kiến\nthức theo yêu cầu. Thông báo và tổ chức học bổ sung kiến thức (nếu có);\n- Bước 7: Hiệu trưởng ra quyết định thành lập HĐTS và Tổ thư ký giúp việc cho\nHĐTS;\n- Bước 8: HĐTS họp xét tuyển và thông qua danh sách thí sinh đủ điều kiện trúng\ntuyển trình Hiệu trưởng ra quyết định trúng tuyển. Danh sách thí sinh trúng tuyển được\ncông bố trên trang thông tin điện tử của Trường;\n- Bước 9: HĐTS gửi quyết định trúng tuyển về ĐHĐN để báo cáo (trong vòng\n15 ngày, kể từ ngày ra quyết định trúng tuyển).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Điều kiện trúng tuyển",
+          "text": "Điều 11. Điều kiện trúng tuyển\n1. Thí sinh thuộc diện xét trúng tuyển có hồ sơ đáp ứng theo quy định tại Điều 3\nQuy định này và yêu cầu của thông báo tuyển sinh;\n2. Số lượng trúng tuyển căn cứ vào chỉ tiêu đã được xác định cho từng ngành,\nchuyên ngành đào tạo và kết quả xét hồ sơ của từng thí sinh. Điểm xét tuyển là điểm tốt\nnghiệp đại học theo thang điểm 4. Việc quy đổi từ thang điểm 10 sang thang điểm 4\nđược quy định cụ thể trong đề án tuyển sinh. Trường hợp thí sinh có cùng điểm xét tuyển\nsẽ sắp xếp theo thứ tự ưu tiên thí sinh tốt nghiệp đúng ngành với ngành đăng ký xét\ntuyển, sau đó đến điểm chứng chỉ ngoại ngữ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quyết định trúng tuyển và công nhận học viên",
+          "text": "Điều 12. Quyết định trúng tuyển và công nhận học viên\n1. Sau khi có kết quả xét tuyển, Chủ tịch HĐTS trình danh sách thí sinh trúng\ntuyển để Hiệu trưởng ra quyết định trúng tuyển. HĐTS báo cáo ĐHĐN và thông báo\ncông khai danh sách thí sinh trúng tuyển trên trang thông tin điện tử của Trường.\n2. Căn cứ Quyết định công nhận danh sách thí sinh trúng tuyển, Phòng Đào tạo\ngửi giấy báo nhập học đến các thí sinh trong danh sách trúng tuyển. Giấy báo nhập học\ngửi đến các thí sinh trúng tuyển trước ngày nhập học tối thiểu 15 ngày.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Tổ chức nhập học",
+          "text": "Điều 13. Tổ chức nhập học\n1. Phòng Đào tạo có trách nhiệm phối hợp với các đơn vị chức năng, Khoa quản\nlý chuyên môn có thí sinh trúng tuyển tổ chức nhập học cho thí sinh trúng tuyển khóa\nmới. Thí sinh trúng tuyển không đăng ký nhập học sẽ không được công nhận là học viên\ncủa Trường.\n2. Phòng Đào tạo có trách nhiệm tổ chức lễ khai giảng khóa học mới. Học viên\ntrúng tuyển, khi đăng ký nhập học được cấp tài khoản truy cập hệ thống thông tin đào\ntạo sau đại học, thẻ học viên, mã số học viên, thẻ thư viện sử dụng tại Trung tâm Học\nliệu và Truyền thông... và được cung cấp thông tin, phổ biến các quy định của Trường\nvề quản lý, đào tạo trình độ thạc sĩ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Chế độ báo cáo, lưu trữ",
+          "text": "Điều 14. Chế độ báo cáo, lưu trữ\n1. Trước ngày 31 tháng 12 hàng năm, Trường thực hiện cập nhật đầy đủ, chính\nxác dữ liệu về đào tạo thạc sĩ trên hệ thống cơ sở dữ liệu quốc gia về giáo dục đại học;\nxuất dữ liệu tổng hợp từ hệ thống, báo cáo Bộ GDĐT và ĐHĐN. Thông tin dữ liệu phục\nvụ báo cáo bao gồm: tình hình thực hiện chỉ tiêu tuyển sinh của năm; số giảng viên cơ\nhữu có trình độ tiến sĩ; số liệu thực hiện kế hoạch tuyển sinh theo từng ngành, chuyên\nngành đào tạo; số học viên hiện có và số học viên dự kiến tốt nghiệp năm sau; đăng ký\nchỉ tiêu tuyển sinh cho năm sau.\n2. Các tài liệu, hồ sơ của mỗi học viên, tài liệu liên quan đến xét tuyển được lưu\ntrữ theo quy định hiện hành của công tác lưu trữ.\na) Hồ sơ xác định chỉ tiêu tuyển sinh, quyết định trúng tuyển, danh sách trúng\ntuyển, điểm chuẩn trúng tuyển là tài liệu lưu trữ được bảo quản vĩnh viễn;\nb) Hồ sơ đăng ký dự tuyển và các tài liệu khác liên quan đến tuyển sinh phải được\nbảo quản tối thiểu 5 năm, kể từ khi người học tốt nghiệp;\nc) Việc tiêu hủy tài liệu hết thời gian lưu trữ được thực hiện theo quy định hiện\nhành của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm",
+          "text": "Điều 15. Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm\ntrong tuyển sinh\n1. Phòng Thanh tra - Pháp chế thực hiện kiểm tra, thanh tra, giám sát nội bộ quá\ntrình triển khai công tác tuyển sinh trình độ thạc sĩ của Trường theo quy định hiện hành\nvà kế hoạch thanh tra, kiểm tra đã được Hiệu trưởng phê duyệt.\n\n2. Cơ quan, tổ chức, cá nhân có quyền khiếu nại, tố cáo về hành vi vi phạm quy\nchế của HĐTS, giảng viên, cán bộ quản lý và học viên. Việc khiếu nại, tố cáo; giải quyết\nkhiếu nại, tố cáo được thực hiện theo quy định hiện hành của pháp luật.\n3. Người tham gia công tác tuyển sinh, thí sinh dự thi trong kỳ thi tuyển sinh có\nhành vi vi phạm quy chế, tùy theo mức độ vi phạm sẽ bị xử phạt vi phạm hành chính,\nxử lý kỷ luật theo quy định hiện hành của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 16. Tổ chức thực hiện\n1. Phòng Đào tạo và các đơn vị liên quan căn cứ Quy định này để xây dựng kế\nhoạch, tổ chức tuyển sinh đào tạo thạc sĩ theo phương thức xét tuyển.\n2. Quy định này được áp dụng từ khóa tuyển sinh năm 2022.\n3. Trong quá trình thực hiện, nếu có vướng mắc, không phù hợp hoặc có vấn đề\nmới nảy sinh cần bổ sung, sửa đổi, các đơn vị, cá nhân có liên quan phản ánh kịp thời\nqua Phòng Đào tạo để tổng hợp ý kiến trình Hiệu trưởng xem xét và quyết định./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy định tuyển sinh trình độ thạc",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy định tuyển sinh trình độ thạc\nsĩ theo phương thức xét tuyển của Trường Đại học Bách khoa, Đại học Đà Nẵng\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Phó Trưởng phòng phụ",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Phó Trưởng phòng phụ\ntrách Phòng Đào tạo, Trưởng các đơn vị, cá nhân có liên quan chịu trách nhiệm thi\nhành Quyết định này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

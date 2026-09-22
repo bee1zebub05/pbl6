@@ -26,7 +26,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 GOC = Path(__file__).resolve().parents[2]
 KHO_TXT = GOC / "data" / "clean" / "text_final"
 RA = GOC / "data" / "clean" / "json" / "v1"
-MAU = GOC / "legal_knowledge_graph" / "samples"
+MAU = GOC / "src" / "legal_knowledge_graph" / "samples"
 
 DIEU = re.compile(r"^[ \t]*Điều\s+(\d{1,3}[a-zA-Z]?)\s*[.．:]?", re.M)
 

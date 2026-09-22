@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0456_245_HD-ĐHĐN_Hướng dẫn Khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵ.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "245/HD-ĐHĐN",
+    "title": "Hướng dẫn Khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵng",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "23/01/2026",
+    "effectiveDate": "23/01/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Đại học Đà Nẵng ban hành hướng dẫn khung bảo đảm chất lượng kết quả học tập của người học nhằm tạo cơ sở cho các đơn vị thành viên tự chủ xây dựng, vận hành hệ thống bảo đảm chất lượng nội bộ, thúc đẩy văn hóa chất lượng và cải tiến liên tục.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng cơ sở giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "01/2024/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 01/2024/TT-BGDĐT ngày 05/2/2024 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chuẩn cơ sở giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "04/2025/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 04/2025/TT-BGDĐT ngày 17/02/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng chương trình đào tạo các trình độ của giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học"
+    },
+    {
+      "targetDocumentNumber": "23/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ"
+    },
+    {
+      "targetDocumentNumber": "18/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ"
+    },
+    {
+      "targetDocumentNumber": "28/2023/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 28/2023/TT-BGDĐT ngày 28/12/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo từ xa trình độ đại học"
+    },
+    {
+      "targetDocumentNumber": "766/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Công văn số 766/QLCL-KĐCLGD ngày 20/4/2018 của Cục Quản lý chất lượng v/v hướng dẫn tự đánh giá cơ sở giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "1668/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Công văn số 1668/QLCL-KĐCLGD ngày 31/12/2019 của Cục Quản lý chất lượng về việc thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL-KĐCLGD ngày 20/4/2018 của Cục Quản lý chất lượng"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Cục Quản lý chất lượng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

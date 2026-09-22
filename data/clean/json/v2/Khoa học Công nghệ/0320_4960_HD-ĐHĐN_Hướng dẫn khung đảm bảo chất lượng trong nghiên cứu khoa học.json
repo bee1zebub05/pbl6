@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0320_4960_HD-ĐHĐN_Hướng dẫn khung đảm bảo chất lượng trong nghiên cứu khoa học.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "4960/HD-ĐHĐN",
+    "title": "Hướng dẫn Khung đảm bảo chất lượng trong nghiên cứu khoa học",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "23/11/2023",
+    "effectiveDate": "23/11/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khoa học Công nghệ",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Đại học Đà Nẵng ban hành hướng dẫn Khung đảm bảo chất lượng trong nghiên cứu khoa học đối với các trường đại học thành viên và các đơn vị đào tạo thuộc, trực thuộc nhằm triển khai chu trình đảm bảo và nâng cao chất lượng nghiên cứu khoa học theo chu trình PDCA, hướng dẫn thực hiện công tác đảm bảo chất lượng nghiên cứu khoa học và tổ chức thực hiện.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng cơ sở giáo dục (CSGD) đại học"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Cục Quản lý chất lượng",
+    "Ban Đảm bảo Chất lượng Giáo dục",
+    "Ban Khoa học, Công nghệ và Môi trường"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

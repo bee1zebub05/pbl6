@@ -40,6 +40,7 @@ from pathlib import Path
 GOC = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(GOC / "tools" / "gemini_web"))
 sys.path.insert(0, str(GOC))
+sys.path.insert(0, str(GOC / "src"))   # package da doi cho o commit 88d6079
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 import cau_json as CJ          # noqa: E402  — PROMPT, _boc_json, _validate, _soi_them
@@ -47,8 +48,12 @@ import va_dieu_thieu as VD     # noqa: E402  — bo cat Dieu tu .txt
 
 KHO_TXT = GOC / "data" / "clean" / "text_final"
 RA = GOC / "data" / "clean" / "json" / "v1"
-SCHEMA = GOC / "legal_knowledge_graph" / "schema" / "document.schema.json"
-ENV = GOC.parent / "project" / ".env"
+RA_V2 = GOC / "data" / "clean" / "json" / "v2"
+SCHEMA = GOC / "src" / "legal_knowledge_graph" / "schema" / "document.schema.json"
+REFERENCE = GOC / "src" / "legal_knowledge_graph" / "reference"
+# Truoc day tro ra `../project/.env` (may cua nguoi chay dot dau). Thu muc do
+# khong ton tai o ban checkout nay -> uu tien .env cua chinh repo.
+ENV = GOC / ".env" if (GOC / ".env").exists() else GOC.parent / "project" / ".env"
 
 MODEL_MAC_DINH = "gemini-3.5-flash-lite"
 API = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent"
@@ -150,9 +155,12 @@ def loc_key_song(keys, model):
                 r.read()
             return k, None
         except urllib.error.HTTPError as e:
-            if e.code == 403:
-                return k, "403 " + e.read().decode("utf-8", "replace")[:60]
-            return k, None                  # 429/503 la nhat thoi, van giu key
+            # 401 = "bound service account is deleted or disabled", 403 =
+            # "project has been denied access". Ca hai deu chet han, thu lai bao
+            # nhieu lan cung the. Rieng 429/503 la nhat thoi -> van giu key.
+            if e.code in (401, 403):
+                return k, "%d %s" % (e.code, e.read().decode("utf-8", "replace")[:60])
+            return k, None
         except Exception:
             return k, None
 
@@ -232,11 +240,12 @@ def goi_api(model, prompt, be, han_giay=600):
                     be.phat(key, 90)
             elif e.code in (500, 503):
                 be.phat(key, 20)
-            elif e.code == 403:
-                # 403 = key bi tu choi han ("project has been denied access"),
-                # khong phai het han muc. Bo hen khoi be, giu lai chi to dinh mai.
+            elif e.code in (401, 403):
+                # Key bi tu choi han ("project has been denied access") hoac
+                # service account bi xoa — khong phai het han muc. Bo hen khoi
+                # be, giu lai chi to dinh mai.
                 con = be.bo(key)
-                noi("[api] key dính 403 — bỏ khỏi bể, còn %d key" % con)
+                noi("[api] key dính %d — bỏ khỏi bể, còn %d key" % (e.code, con))
             time.sleep(2.5 * (lan + 1) + random.random() * 2)
         except Exception as e:
             loi_cuoi = "%s: %s" % (type(e).__name__, str(e)[:80])
@@ -646,6 +655,238 @@ def va_lai(chi=None) -> int:
     return 0
 
 
+# ============================================================
+# BU TRUONG targetGroups CHO JSON DA CO
+# ============================================================
+# Vi sao khong chay lai ca file (`--lam-lai`): PROMPT sinh JSON khong he liet ke
+# `targetGroups`, lai con chot "khoa nao khong co trong danh sach nay thi TUYET
+# DOI khong duoc them" -> model bi CAM sinh truong do, nen 0/418 file co no.
+# Nhung sinh lai ca file thi model viet lai luon citations/summary/signers, de
+# mat 95 trich dan da bu tay o commit 0befcd4 va ban 0196 doc lai tu scan o
+# 7fd667c. Nen chi hoi model DUNG mot cau, tren DUNG doan "doi tuong ap dung",
+# roi ghi dung MOT khoa vao JSON cu. Cung tinh than voi `va_lai()` ben tren.
+
+_DIEU_DAU_DONG = re.compile(r"^[ \t]*Điều\s+\d{1,3}[a-zA-Z]?\s*[.:]", re.M)
+_CUM_DOI_TUONG = re.compile(r"đối\s+tượng\s+áp\s+dụng", re.I)
+
+
+def _doan_doi_tuong(goc: str, toi_da: int = 2600) -> str:
+    """Cat doan noi ve doi tuong ap dung tu .txt goc.
+
+    Tra ve "" khi van ban khong noi gi ve doi tuong ap dung — khi do
+    targetGroups = [] la ket luan DUNG, khong ton mot luot goi model nao.
+    """
+    dau_dieu = [m.start() for m in _DIEU_DAU_DONG.finditer(goc)]
+    manh, da_lay = [], set()
+    for m in list(_CUM_DOI_TUONG.finditer(goc))[:2]:
+        truoc = [x for x in dau_dieu if x <= m.start()]
+        sau = [x for x in dau_dieu if x > m.start()]
+        # Khong co cau truc Dieu (Cong van, ke hoach...) thi lay cua so quanh cum tu.
+        d = truoc[-1] if truoc else max(0, m.start() - 700)
+        c = sau[0] if sau else min(len(goc), m.end() + 1400)
+        if d in da_lay:
+            continue
+        da_lay.add(d)
+        manh.append(goc[d:min(c, d + toi_da)].strip())
+    return "\n\n[...]\n\n".join(manh)
+
+
+def _tu_vung_nhom():
+    """-> (slug -> ten chuan, mo ta cho prompt). Doc thang seed, khong chep tay."""
+    from legal_knowledge_graph.core import normalize
+
+    seed = json.loads(io.open(REFERENCE / "target_groups_seed.json",
+                              encoding="utf-8").read())["target_groups"]
+    theo_slug = {normalize.slug(g["name"]): g["name"] for g in seed}
+    mo_ta = "\n".join("- %s — %s" % (g["name"], g["description"]) for g in seed)
+    return theo_slug, mo_ta
+
+
+def _prompt_nhom(mo_ta: str, doan: str) -> str:
+    return (
+        "Dưới đây là đoạn trích NGUYÊN VĂN nói về phạm vi điều chỉnh / đối tượng "
+        "áp dụng của một văn bản pháp quy Việt Nam.\n\n"
+        "Văn bản này áp dụng cho những nhóm đối tượng nào? Chọn trong ĐÚNG 8 nhãn "
+        "sau, chép lại nguyên văn nhãn (phần sau dấu gạch chỉ là giải thích, đừng "
+        "chép):\n" + mo_ta + "\n\n"
+        "QUY TẮC:\n"
+        "1. Trả về DUY NHẤT một mảng JSON các chuỗi, ví dụ [\"Người học\"]. Không "
+        "giải thích, không bọc trong object.\n"
+        "2. Chỉ chọn nhóm mà đoạn văn NÓI RÕ. Không suy đoán từ tiêu đề hay từ "
+        "kiến thức ngoài văn bản.\n"
+        "3. Liệt kê nhiều nhóm nếu đoạn văn nêu nhiều.\n"
+        "4. Phân biệt: 'Đơn vị trực thuộc' là phòng/ban/khoa BÊN TRONG một trường; "
+        "'Cơ sở giáo dục / trường đại học thành viên' là cấp trường trở lên.\n"
+        "5. Có nói về đối tượng áp dụng nhưng không khớp rõ nhãn nào thì trả "
+        "[\"Khác\"]. Không nói gì về đối tượng áp dụng thì trả [].\n\n"
+        "ĐOẠN TRÍCH:\n" + doan
+    )
+
+
+def _doc_mang_nhom(txt: str, theo_slug: dict):
+    """Boc mang JSON tu cau tra loi roi ep ve dung ten trong seed."""
+    from legal_knowledge_graph.core import normalize
+
+    m = re.search(r"\[.*?\]", txt, re.S)
+    if not m:
+        raise RuntimeError("khong thay mang JSON trong cau tra loi")
+    ds = json.loads(m.group(0))
+    if not isinstance(ds, list):
+        raise RuntimeError("tang ngoai cung khong phai mang")
+    ra, la = [], []
+    for x in ds:
+        if not isinstance(x, str):
+            continue
+        # Prompt liet ke nhan duoi dang "Ten — mo ta" va da dan dung chep phan mo
+        # ta, nhung model van chep ca cum. Do duoc 7/266 lan o dot dau, va deu bi
+        # fallback gan oan "Khac". Cat o dau gach dai/ngan roi moi so khop.
+        goc_x = x
+        for dau in (" — ", " – ", " - "):
+            if dau in x:
+                x = x.split(dau, 1)[0]
+                break
+        ten = theo_slug.get(normalize.slug(x))
+        if ten is None:
+            la.append(goc_x)
+        elif ten not in ra:
+            ra.append(ten)
+    # Model bia nhan ngoai tu vung ma khong con nhan nao hop le -> "Khac", dung
+    # tinh than seed: khong ep vao nhom sai. Van in nhan la ra de con soi lai.
+    if la and not ra:
+        ra = [theo_slug["khac"]]
+    return ra, la
+
+
+def bu_nhom(model, chi=None, luong=3, lam_lai=False, ra_dir=None) -> int:
+    """Doc JSON o v1, bu `document.targetGroups`, ghi ban moi ra v2.
+
+    KHONG ghi de v1: v1 la ban da qua nhieu dot sua tay (95 trich dan bu o
+    commit 0befcd4, 0196 doc lai tu scan o 7fd667c) — de nguyen lam moc doi
+    chieu. v2 la ban sao DAY DU cua v1 cong them mot khoa, nen nap thang duoc:
+
+        python run.py lkg all --dir data/clean/json/v2
+
+    File khong co muc "doi tuong ap dung" van duoc chep sang v2 (targetGroups
+    = []), de v2 luon la mot kho tron ven chu khong phai mot tap va.
+    """
+    ra_dir = Path(ra_dir) if ra_dir else RA_V2
+    theo_slug, mo_ta = _tu_vung_nhom()
+
+    txt_theo_ma = {}
+    for p in KHO_TXT.rglob("*.txt"):
+        txt_theo_ma.setdefault(p.name[:4], p)
+
+    dem = {"model": 0, "rong": 0, "chep": 0, "co_san": 0, "hong": 0}
+    khoa_dem = threading.Lock()
+
+    def _dich(j: Path) -> Path:
+        return ra_dir / j.relative_to(RA)
+
+    def _ghi(j: Path, data: dict, ds: list):
+        """Ghi sang v2. True = ghi duoc · None = truot schema, khong ghi."""
+        data["document"]["targetGroups"] = ds
+        loi = CJ._validate(data)
+        if loi:
+            noi("  x %s  gán xong lại trượt schema, KHÔNG ghi sang v2: %s"
+                % (j.name[:4], loi[0][:80]))
+            return None
+        d = _dich(j)
+        d.parent.mkdir(parents=True, exist_ok=True)
+        io.open(d, "w", encoding="utf-8", newline="\n").write(
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+        return True
+
+    viec, rong = [], []
+    for j in sorted(RA.rglob("*.json")):
+        ma = j.name[:4]
+        if chi and ma not in chi:
+            continue
+        d = _dich(j)
+        # Chay lai sau khi dut giua chung: file nao o v2 da co nhan thi bo qua.
+        if d.exists() and not lam_lai:
+            cu = json.loads(io.open(d, encoding="utf-8").read())
+            if cu.get("document", {}).get("targetGroups"):
+                dem["co_san"] += 1
+                continue
+        tx = txt_theo_ma.get(ma)
+        if tx is None:
+            noi("  ? %s  không tìm thấy .txt gốc" % ma)
+            continue
+        doan = _doan_doi_tuong(io.open(tx, encoding="utf-8", errors="replace").read())
+        (viec if doan else rong).append((j, ma, doan))
+
+    noi("[nhom] v1 -> %s" % ra_dir.relative_to(GOC).as_posix())
+    noi("[nhom] %d file cần hỏi model · %d file không có mục đối tượng áp dụng "
+        "(gán [], chép thẳng) · %d file v2 đã có sẵn"
+        % (len(viec), len(rong), dem["co_san"]))
+
+    # Khong co muc doi tuong ap dung -> [] la ket luan, khong ton luot goi nao.
+    for j, ma, _ in rong:
+        data = json.loads(io.open(j, encoding="utf-8").read())
+        if _ghi(j, data, []) is None:
+            dem["hong"] += 1
+        else:
+            dem["rong"] += 1
+
+    if not viec:
+        noi("[nhom] xong · chép sang v2 với [] cho %d file · không gọi API"
+            % dem["rong"])
+        return 1 if dem["hong"] else 0
+
+    keys = re.findall(r'^GEMMA_API_KEY[_0-9]*\s*=\s*"?([^"\s]+)',
+                      io.open(ENV, encoding="utf-8", errors="replace").read(), re.M)
+    noi("[nhom] thử %d key…" % len(keys))
+    keys = loc_key_song(keys, model)
+    be = BeKey(keys)
+    noi("[nhom] %s · %d key sống · %d luồng" % (model, len(keys), luong))
+
+    q = queue.Queue()
+    for v in viec:
+        q.put(v)
+    t0 = time.time()
+
+    def worker():
+        while True:
+            try:
+                j, ma, doan = q.get_nowait()
+            except queue.Empty:
+                return
+            try:
+                txt, _ = goi_api(model, _prompt_nhom(mo_ta, doan), be)
+                ds, la = _doc_mang_nhom(txt, theo_slug)
+                data = json.loads(io.open(j, encoding="utf-8").read())
+                kq = _ghi(j, data, ds)
+                with khoa_dem:
+                    if kq is None:
+                        dem["hong"] += 1
+                    else:
+                        dem["model"] += 1
+                    n = dem["model"] + dem["hong"]
+                noi("  %s %s  %-44s%s  [%d/%d · %.0fs]"
+                    % ("v" if kq is not None else "x", ma,
+                       ", ".join(ds) or "(rỗng)",
+                       ("  bỏ nhãn lạ: " + ", ".join(la)) if la else "",
+                       n, len(viec), time.time() - t0))
+            except Exception as e:
+                with khoa_dem:
+                    dem["hong"] += 1
+                noi("  x %s  %s: %s" % (ma, type(e).__name__, str(e)[:90]))
+            finally:
+                q.task_done()
+
+    ts = [threading.Thread(target=worker, daemon=True) for _ in range(luong)]
+    for t in ts:
+        t.start()
+    for t in ts:
+        t.join()
+
+    noi("[nhom] xong sau %.0fs · model gán %d · gán [] %d · hỏng %d · "
+        "v2 hiện có %d file"
+        % (time.time() - t0, dem["model"], dem["rong"], dem["hong"],
+           len(list(ra_dir.rglob("*.json")))))
+    return 1 if dem["hong"] else 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", default=MODEL_MAC_DINH)
@@ -656,11 +897,19 @@ def main() -> int:
     ap.add_argument("--lam-lai", action="store_true", help="làm cả file đã có JSON")
     ap.add_argument("--va-lai", action="store_true",
                     help="cắt lại Điều cho JSON đã có, không gọi API")
+    ap.add_argument("--bu-nhom", action="store_true",
+                    help="chỉ bù document.targetGroups vào JSON đã có, "
+                         "không sinh lại file")
+    ap.add_argument("--ra", default=None,
+                    help="thư mục đích cho --bu-nhom "
+                         "(mặc định data/clean/json/v2)")
     a = ap.parse_args()
 
     chi_ma = {x.strip() for x in a.chi.split(",") if x.strip()} or None
     if a.va_lai:
         return va_lai(chi_ma)
+    if a.bu_nhom:
+        return bu_nhom(a.model, chi_ma, a.luong, a.lam_lai, a.ra)
 
     keys = re.findall(r'^GEMMA_API_KEY[_0-9]*\s*=\s*"?([^"\s]+)',
                       io.open(ENV, encoding="utf-8", errors="replace").read(), re.M)

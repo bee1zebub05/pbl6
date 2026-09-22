@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0427_1314_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo về vi mạch bán dẫn trình độ đại họ.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1314/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Chuẩn chương trình đào tạo về vi mạch bán dẫn trình độ đại học, thạc sĩ",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/05/2025",
+    "effectiveDate": "13/05/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định quy định Chuẩn chương trình đào tạo về vi mạch bán dẫn trình độ đại học và thạc sĩ, bao gồm các yêu cầu về mục tiêu, chuẩn đầu ra, chuẩn đầu vào, khối lượng học tập, cấu trúc và nội dung, phương pháp giảng dạy, đánh giá, đội ngũ giảng viên và cơ sở vật chất.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "17/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "09/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc quy định Danh mục thống kê ngành đào tạo của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "1017/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Chuẩn chương trình đào tạo về vi mạch bán dẫn áp dụng đối với các cơ sở giáo dục đại học tham gia thực hiện Chương trình \"Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050\" theo Quyết định số 1017/QĐ-TTg ngày 21/9/2024 của Thủ tướng Chính phủ;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Thủ tướng Chính phủ",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chuẩn chương trình đào tạo về",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chuẩn chương trình đào tạo về\nvi mạch bán dẫn trình độ đại học, thạc sĩ.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chuẩn chương trình đào tạo về vi mạch bán dẫn áp dụng đối với các",
+      "text": "Điều 3. Chuẩn chương trình đào tạo về vi mạch bán dẫn áp dụng đối với các\ncơ sở giáo dục đại học tham gia thực hiện Chương trình \"Phát triển nguồn nhân lực\nngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050\" theo\nQuyết định số 1017/QĐ-TTg ngày 21/9/2024 của Thủ tướng Chính phủ; các cơ sở\ngiáo dục đại học xây dựng, rà soát, cập nhật chương trình đào tạo bảo đảm đáp ứng\ncác tiêu chí của Chuẩn chương trình đào tạo về vi mạch bán dẫn, báo cáo Bộ Giáo dục\nvà Đào tạo trước khi tuyển sinh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các",
+      "text": "Điều 4. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các\nđơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Hiệu trưởng, Giám đốc cơ sở\ngiáo dục đại học, người đứng đầu các tổ chức và cá nhân liên quan chịu trách\nnhiệm thi hành Quyết định này.",
+      "isImplementationClause": false
+    }
+  ]
+}

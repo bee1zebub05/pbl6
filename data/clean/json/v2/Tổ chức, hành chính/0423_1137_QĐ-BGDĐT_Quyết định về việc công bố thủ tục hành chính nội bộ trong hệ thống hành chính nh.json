@@ -1,0 +1,197 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0423_1137_QĐ-BGDĐT_Quyết định về việc công bố thủ tục hành chính nội bộ trong hệ thống hành chính nh.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1137/QĐ-BGDĐT",
+    "title": "Quyết định Về việc công bố thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước lĩnh vực chế độ, chính sách đối với nhà giáo thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/04/2025",
+    "effectiveDate": "24/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Công bố thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước lĩnh vực chế độ, chính sách đối với nhà giáo thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "190/2025/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 190/2025/QH15 ngày 19 tháng 02 năm 2025 của Quốc hội quy định về một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "1085/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1085/QĐ-TTg ngày 15 tháng 9 năm 2022 của Thủ tướng Chính phủ ban hành Kế hoạch rà soát, đơn giản hóa thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước giai đoạn 2022-2025;"
+    },
+    {
+      "targetDocumentNumber": "66/NQ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 66/NQ-CP ngày 26/3/2025 của Chính phủ về Chương trình cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh năm 2025 và 2026;"
+    },
+    {
+      "targetDocumentNumber": "6828/VPCP-KSTT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn số 6828/VPCP-KSTT ngày 12 tháng 10 năm 2022 của Văn phòng Chính phủ về việc hướng dẫn triển khai Kế hoạch rà soát, đơn giản hóa thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước giai đoạn 2022-2025;"
+    },
+    {
+      "targetDocumentNumber": "1927/VPCP-KSTT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Công văn số 1927/VPCP-KSTT ngày 25 tháng 3 năm 2024 của Văn phòng Chính phủ về việc thực hiện nhiệm vụ công bố, rà soát, đơn giản hóa TTHC nội bộ;"
+    },
+    {
+      "targetDocumentNumber": "5990/VPCP-KSTT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Công văn số 5990/VPCP-KSTT ngày 22 tháng 8 năm 2024 của Văn phòng Chính phủ về việc công bố, rà soát, đơn giản hóa thủ tục hành chính nội bộ;"
+    },
+    {
+      "targetDocumentNumber": "3869/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 3869/QĐ-BGDĐT ngày 05 tháng 12 năm 2024."
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghị định số 115/2020/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "85/2023/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghị định số 85/2023/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 40/2020/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "05/2024/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 05/2024/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "35/2020/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 35/2020/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "04/2021/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 04/2021/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "13/2024/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 13/2024/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "03/2021/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 03/2021/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "02/2021/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 02/2021/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "01/2021/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 01/2021/TT-BGDĐT;"
+    },
+    {
+      "targetDocumentNumber": "92/2021/TT-BTC",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 92/2021/TT-BTC ngày 28/10/2021 của Bộ Tài chính"
+    },
+    {
+      "targetDocumentNumber": "04/2022/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 04/2022/TT-BGDĐT ngày 04 tháng 3 năm 2022"
+    },
+    {
+      "targetDocumentNumber": "08/2023/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thông tư số 08/2023/TT-BGDĐT ngày 14/4/2023"
+    }
+  ],
+  "mentions": [
+    "Quốc hội",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Văn phòng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Cục Nhà giáo và Cán bộ quản lý giáo dục",
+    "Bộ Tài chính",
+    "UBND các tỉnh, thành phố trực thuộc TW"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố kèm theo Quyết định này thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước, lĩnh vực chế độ, chính sách đối với nhà giáo thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo (",
+      "text": "Điều 1. Công bố kèm theo Quyết định này thủ tục hành chính nội bộ trong hệ thống hành chính nhà nước, lĩnh vực chế độ, chính sách đối với nhà giáo thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo (Chi tiết tại Phụ lục kèm theo).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng Bộ, Cục trưởng Cục Nhà giáo và Cán bộ quản lý giáo dục và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng Bộ, Cục trưởng Cục Nhà giáo và Cán bộ quản lý giáo dục và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

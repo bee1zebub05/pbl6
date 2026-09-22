@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0376_4480_ĐHĐN-TTPC_Quán triệt, tuyên truyền và triển khai thực hiện Luật Thực hiện dân chủ ở cơ sở.txt",
+  "mappedBy": "gemini-web",
+  "note": "Trang 3 là phiếu chuyển văn bản đến của đơn vị cấp dưới, không phải nội dung chính của công văn.",
+  "document": {
+    "documentNumber": "4480/ĐHĐN-TTPC",
+    "title": "V/v quán triệt, tuyên truyền và triển khai thực hiện Luật Thực hiện dân chủ ở cơ sở",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "25/10/2024",
+    "effectiveDate": "25/10/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Pháp chế"
+    ],
+    "summary": "Công văn của Giám đốc Đại học Đà Nẵng đề nghị các trường đại học thành viên, các đơn vị thuộc và trực thuộc quán triệt, tuyên truyền và triển khai thực hiện Luật Thực hiện dân chủ ở cơ sở, Nghị định số 59/2023/NĐ-CP và Quyết định số 346/QĐ-TTg; rà soát văn bản quy phạm nội bộ; thực hiện nghiêm các chế độ công khai, kiểm tra, giám sát và giải quyết khiếu nại, tố cáo.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [],
+  "citations": [
+    {
+      "targetDocumentNumber": "2281-CV/ĐU",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Công văn số 2281-CV/ĐU ngày 07/10/2024 của Đảng ủy Đại học Đà Nẵng (ĐHĐN) về việc quán triệt, tuyên truyền và triển khai thực hiện Luật Thực hiện dân chủ ở cơ sở, Giám đốc ĐHĐN đề nghị các trường đại học thành viên..."
+    },
+    {
+      "targetDocumentNumber": "59/2023/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tiếp tục quán triệt, tuyên truyền, phổ biến đến toàn thể viên chức, người lao động và triển khai thực hiện hiệu quả Luật Thực hiện dân chủ ở cơ sở, Nghị định số 59/2023/NĐ-CP ngày 14/8/2023 của Chính phủ về Quy định chi tiết một số điều của Luật Thực hiện dân chủ ở cơ sở..."
+    },
+    {
+      "targetDocumentNumber": "346/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "...Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở ban hành kèm theo Quyết định số 346/QĐ-TTg ngày 06/4/2023 của Thủ tướng Chính phủ và các văn bản chỉ đạo có liên quan."
+    }
+  ],
+  "mentions": [
+    "Đảng ủy Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

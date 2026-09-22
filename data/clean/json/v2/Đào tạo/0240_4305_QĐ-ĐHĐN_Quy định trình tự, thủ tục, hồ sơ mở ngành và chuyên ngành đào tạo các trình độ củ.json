@@ -1,0 +1,189 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0240_4305_QĐ-ĐHĐN_Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ củ.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4305/QĐ-ĐHĐN",
+    "title": "Quyết định về việc ban hành Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ của giáo dục đại học tại Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/01/2022",
+    "effectiveDate": "08/01/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ của giáo dục đại học tại Đại học Đà Nẵng, đồng thời quy định hiệu lực thi hành và trách nhiệm tổ chức thực hiện của các đơn vị trực thuộc.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "17/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "02/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 02/2022/TT-BGDĐT ngày 18/01/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "09/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định Danh mục thống kê ngành đào tạo của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2250/ĐHĐN-ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Công văn số 2250/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ thạc sĩ, tiến sĩ và Công văn số 3566/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ đại học hết hiệu lực từ ngày Quyết định này có hiệu lực thi hành."
+    },
+    {
+      "targetDocumentNumber": "3566/ĐHĐN-ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Công văn số 2250/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ thạc sĩ, tiến sĩ và Công văn số 3566/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ đại học hết hiệu lực từ ngày Quyết định này có hiệu lực thi hành."
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "thẩm định cho phép mở ngành theo quy định của Luật Giáo dục đại học và Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ của giáo dục đại học tại Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy định này quy định trình tự, thủ tục, hồ sơ mở ngành đào tạo, chuyên ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ tại Đại học Đà Nẵng (ĐHĐN).\n2. Quy định này áp dụng đối với các trường đại học thành viên, các đơn vị đào tạo thuộc và trực thuộc ĐHĐN (sau đây gọi là các đơn vị); các tổ chức, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mở ngành đào tạo",
+          "text": "Điều 2. Mở ngành đào tạo\n1. Các đơn vị phải đáp ứng các điều kiện chung và riêng khi mở ngành đào tạo đối với từng trình độ giáo dục đại học được quy định tại Điều 3, 4, 5 và 6 Thông tư số 02/2022/TT-BGDĐT ngày 18/01/2022 của Bộ Giáo dục và Đào tạo (GDĐT) quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ.\n2. Trước khi tổ chức xây dựng đề án mở ngành, các đơn vị báo cáo ĐHĐN xin ý kiến về chủ trương mở ngành. Căn cứ chiến lược và kế hoạch phát triển, ĐHĐN xem xét và cho ý kiến bằng văn bản. Trên cơ sở ý kiến của ĐHĐN, các đơn vị thực hiện mở ngành theo trình tự, thủ tục được quy định tại văn bản này và quy định pháp luật hiện hành.\n3. Đối với các ngành đào tạo thuộc lĩnh vực sức khỏe, nhóm ngành đào tạo giáo viên, lĩnh vực an ninh - quốc phòng, các đơn vị lập hồ sơ mở ngành gửi về ĐHĐN kiểm tra trước khi trình Bộ GDĐT thẩm định cho phép mở ngành theo quy định của Luật Giáo dục đại học và Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học.\n4. Đối với ngành mới không có trong Danh mục thống kê ngành đào tạo của giáo dục đại học, các đơn vị thực hiện theo quy định tại Điều 6 Thông tư số 09/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ GDĐT quy định Danh mục thống kê ngành đào tạo của giáo dục đại học, đồng thời gửi đề xuất về ĐHĐN tổng hợp, báo cáo bổ sung ngành mới vào Danh mục thống kê ngành đào tạo theo quy định của Bộ GDĐT.\n5. Đối với ngành đã mở nhưng không tổ chức tuyển sinh hoặc không tuyển sinh được trong thời gian quy định ở các trình độ giáo dục đại học (03 năm liên tiếp đối với trình độ đại học và 05 năm liên tiếp đối với trình độ thạc sĩ, tiến sĩ) thì quyết định mở ngành hết hiệu lực. Nếu đơn vị muốn tiếp tục tuyển sinh và tổ chức đào tạo ngành đó phải thực hiện lại trình tự, thủ tục mở ngành theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Mở chuyên ngành đào tạo",
+          "text": "Điều 3. Mở chuyên ngành đào tạo\n1. Các trường đại học thành viên tự quyết định mở chuyên ngành đào tạo nhưng phải đảm bảo các điều kiện về đội ngũ, cơ sở vật chất, chương trình đào tạo (CTĐT)... theo yêu cầu của CTĐT. Các trường đại học thành viên xây dựng quy định cụ thể trình tự, thủ tục mở chuyên ngành.\n2. Giám đốc ĐHĐN quyết định mở chuyên ngành đào tạo đối với các đơn vị thuộc, trực thuộc.\n3. Tên chuyên ngành đào tạo không được trùng tên với tên ngành đã có trong Danh mục thống kê ngành đào tạo hiện hành.\n4. CTĐT giữa các chuyên ngành của cùng một ngành đào tạo phải đảm bảo có sự khác biệt tối thiểu 20% về kiến thức và kỹ năng.\n5. Các đơn vị đào tạo thuộc, trực thuộc ĐHĐN thực hiện mở chuyên ngành đào tạo theo hướng dẫn tại Phụ lục IV ban hành kèm theo Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Chương trình đào tạo",
+          "text": "Điều 4. Chương trình đào tạo\n1. Các đơn vị tổ chức xây dựng và thẩm định CTĐT theo những quy định tại Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ GDĐT quy định về chuẩn CTĐT; xây dựng, thẩm định và ban hành CTĐT các trình độ của giáo dục đại học.\n2. Các trường đại học thành viên xây dựng quy định chi tiết về việc xây dựng, thẩm định, ban hành CTĐT và đánh giá, cải tiến chất lượng CTĐT.\n3. ĐHĐN quy định về việc xây dựng, thẩm định, ban hành CTĐT và đánh giá, cải tiến chất lượng CTĐT trong các đơn vị đào tạo thuộc và trực thuộc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Trình tự thực hiện mở ngành",
+          "text": "Điều 5. Trình tự thực hiện mở ngành\n1. Đối với các trường đại học thành viên đủ điều kiện được tự chủ mở ngành theo quy định.\na) Trường được tự quyết định việc mở ngành khi đáp ứng đầy đủ các điều kiện mở ngành theo quy định của Bộ GDĐT và quy định pháp luật hiện hành.\nb) Sau khi Hội đồng trường phê duyệt chủ trương mở ngành, trường gửi văn bản đề nghị ĐHĐN có ý kiến về chủ trương mở ngành kèm theo hồ sơ gồm Báo cáo đề xuất chủ trương mở ngành và Biên bản họp của Hội đồng Khoa học và Đào tạo của trường về việc thẩm định đề xuất chủ trương mở ngành. Trên cơ sở ý kiến bằng văn bản của ĐHĐN, trường thực hiện các thủ tục mở ngành theo quy định.\nc) Trường xây dựng quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo ở trình độ đại học, thạc sĩ, tiến sĩ.\n2. Đối với các trường đại học thành viên chưa đủ điều kiện được tự chủ mở ngành theo quy định thực hiện theo Phụ lục I ban hành kèm theo Quy định này.\n3. Đối với ngành dự kiến mở mới có nhiều đơn vị tham gia thực hiện chương trình đào tạo thực hiện theo Phụ lục II ban hành kèm theo Quy định này.\n4. Đối với đơn vị đào tạo thuộc, trực thuộc ĐHĐN, thực hiện theo Phụ lục III ban hành kèm theo Quy định này.\n5. Đối với các ngành đào tạo thuộc lĩnh vực sức khỏe, nhóm ngành đào tạo giáo viên, lĩnh vực an ninh - quốc phòng, các đơn vị thực hiện trình tự mở ngành từ bước 1 đến bước 7 của Phụ lục I (đối với các trường thành viên) và Phụ lục III (đối với các đơn vị thuộc và trực thuộc) ban hành kèm theo Quy định này, gửi hồ sơ về ĐHĐN kiểm tra trước khi trình Bộ GDĐT thẩm định cho phép mở ngành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Hồ sơ mở ngành, chuyên ngành đào tạo",
+          "text": "Điều 6. Hồ sơ mở ngành, chuyên ngành đào tạo\n1. Hồ sơ mở ngành được lập thành 08 bộ gửi về ĐHĐN, bao gồm: Văn bản đề nghị mở ngành; đề án mở ngành và các minh chứng được nêu ở cột hồ sơ, tài liệu tại Phụ lục I, II, III ban hành kèm theo Quy định này.\n2. Đối với các đơn vị đào tạo thuộc và trực thuộc ĐHĐN, hồ sơ mở chuyên ngành đào tạo được lập thành 05 bộ gửi về ĐHĐN, bao gồm: Văn bản đề nghị mở chuyên ngành; đề án mở chuyên ngành và các minh chứng được nêu ở cột hồ sơ, tài liệu tại Phụ lục IV ban hành kèm theo Quy định này.\n3. Mỗi hồ sơ mở ngành, chuyên ngành được đóng thành 02 quyển: quyển 01 là Đề án mở ngành/chuyên ngành và hồ sơ minh chứng được sắp xếp lần lượt theo trình tự thực hiện mở ngành/chuyên ngành đào tạo, quyển 02 là CTĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Xem xét và ra quyết định mở ngành",
+          "text": "Điều 7. Xem xét và ra quyết định mở ngành\n1. Các đơn vị (trừ đơn vị đã tự chủ theo quy định) gửi hồ sơ mở ngành theo quy định tại Điều 6 Quy định này về ĐHĐN (qua Ban Đào tạo) để báo cáo và đề nghị ĐHĐN quyết định cho phép mở ngành đào tạo.\n\n4\n\n2. ĐHĐN tiếp nhận và thẩm định hồ sơ; Ban Đào tạo là đơn vị chủ trì, tham mưu lấy ý kiến của các Ban chức năng có liên quan, trong trường hợp cần thiết Giám đốc ĐHĐN quyết định thành lập Hội đồng kiểm tra, đánh giá Đề án mở ngành.\n\n3. Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành của các đơn vị, Giám đốc ĐHĐN ra quyết định cho phép mở ngành đào tạo, nếu hồ sơ mở ngành của đơn vị đầy đủ và đáp ứng các điều kiện để được mở ngành theo quy định tại Thông tư số 02/2022/TT-BGDĐT và các quy định khác có liên quan của pháp luật.\n\nTrường hợp hồ sơ mở ngành của đơn vị chưa đầy đủ, chưa bảo đảm các điều kiện để được mở ngành theo quy định, ĐHĐN thông báo kết quả bằng văn bản về tình trạng hồ sơ và những nội dung chưa bảo đảm theo quy định đối với đơn vị đề nghị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Chế độ báo cáo, lưu trữ và công khai",
+          "text": "Điều 8. Chế độ báo cáo, lưu trữ và công khai\n\n1. Trong thời gian 10 ngày kể từ ngày có quyết định mở ngành đào tạo theo quy định, các đơn vị báo cáo Bộ GDĐT theo nội dung quy định tại khoản 1 Điều 14 Thông tư số 02/2022/TT-BGDĐT.\n\n2. Đối với ngành được phép đào tạo trình độ đại học theo quy định này, từ năm học thứ hai (kể từ khi ban hành quyết định mở ngành đào tạo) đến khi kết thúc khóa học đầu tiên, trước ngày bắt đầu năm học mới của từng năm học, các đơn vị phải báo cáo Bộ GDĐT và ĐHĐN các nội dung theo quy định tại khoản 2 Điều 14 Thông tư số 02/2022/TT-BGDĐT theo mẫu tại Phụ lục VI ban hành kèm theo Quy định này.\n\n3. Trước ngày 15 tháng 12 hàng năm, các đơn vị có trách nhiệm báo cáo về ĐHĐN về các quyết định mở ngành đã hết hiệu lực theo quy định tại khoản 3 Điều 14 Thông tư số 02/2022/TT-BGDĐT.\n\n4. Các đơn vị chỉ được thông báo tuyển sinh ngành/chuyên ngành mở mới sau khi có quyết định cho phép mở ngành/chuyên ngành đào tạo và công khai trên trang thông tin điện tử của đơn vị các nội dung theo quy định tại khoản 5 Điều 14 Thông tư số 02/2022/TT-BGDĐT.\n\n5. Các trường đại học thành viên đủ điều kiện được tự chủ mở ngành theo quy định thực hiện báo cáo về ĐHĐN về việc mở ngành đào tạo, kèm theo đề án và các hồ sơ minh chứng trong thời gian 10 ngày kể từ khi ban hành quyết định mở ngành đào tạo.\n\n6. Các trường đại học thành viên thực hiện báo cáo về việc mở chuyên ngành đào tạo về ĐHĐN trong vòng 10 ngày kể từ khi có quyết định mở chuyên ngành đào tạo.\n\n5\n\n7. Các đơn vị có trách nhiệm lưu trữ và bảo quản hồ sơ mở ngành/chuyên ngành đào tạo, các tài liệu liên quan đến việc mở ngành/chuyên ngành đào tạo, và các tài liệu liên quan khác để phục vụ công tác báo cáo, kiểm tra; thực hiện lưu trữ theo quy định hiện hành về công tác lưu trữ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 9. Tổ chức thực hiện\n\n1. ĐHĐN tiếp nhận hồ sơ, xem xét và phê duyệt chủ trương mở ngành trước ngày 31 tháng 10 hàng năm đối với các ngành dự kiến tuyển sinh cho năm kế tiếp.\n\n2. Các đơn vị tổ chức triển khai thực hiện đúng cam kết theo đề án mở ngành đào tạo.\n\n3. Các đơn vị thực hiện trách nhiệm trong việc đánh giá chất lượng và kiểm định chất lượng CTĐT và thực hiện trách nhiệm trong công tác bảo đảm chất lượng giáo dục theo quy định của Luật Giáo dục đại học.\n\n4. ĐHĐN thành lập các đoàn kiểm tra, thanh tra nội bộ các đơn vị việc thực hiện hoạt động mở ngành đào tạo, việc thực hiện cam kết theo đề án mở ngành đào tạo và công tác bảo đảm chất lượng theo quy định hiện hành.\n\n5. Trường hợp các văn bản quy phạm pháp luật được viện dẫn tại Quy định này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các văn bản mới được ban hành.\n\n6. Trong quá trình thực hiện, nếu có vướng mắc hoặc có vấn đề mới phát sinh, các đơn vị phản ánh về Ban Đào tạo để tổng hợp ý kiến, trình Giám đốc ĐHĐN xem xét điều chỉnh, bổ sung.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ của giáo dục đại học tại Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định trình tự, thủ tục, hồ sơ mở ngành và chuyên ngành đào tạo các trình độ của giáo dục đại học tại Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Công văn số 2250/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ thạc sĩ, tiến sĩ và Công vă",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Công văn số 2250/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ thạc sĩ, tiến sĩ và Công văn số 3566/ĐHĐN-ĐT ngày 13/7/2017 của Giám đốc Đại học Đà Nẵng về việc hướng dẫn lập hồ sơ đăng ký mở ngành đào tạo trình độ đại học hết hiệu lực từ ngày Quyết định này có hiệu lực thi hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban hữu quan của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban hữu quan của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0056_22_NQ-HĐT_Nghị quyết sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "22/NQ-HĐT",
+    "title": "Nghị quyết Về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Nghị quyết",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/10/2021",
+    "effectiveDate": "08/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Sửa đổi, bổ sung và thay thế một số từ, cụm từ tại các điều, khoản của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Nghị quyết số 05/NQ-HĐT ngày 12/01/2021.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Đình Lâm",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Chủ tịch Hội đồng trường"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa."
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "3859/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3859/QĐ-HĐĐH và 3860/QĐ-HĐĐH ngày 05/11/2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường và Chủ tịch Hội đồng trường Trường Đại học Bách khoa, nhiệm kỳ 2020-2025;"
+    },
+    {
+      "targetDocumentNumber": "3860/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3859/QĐ-HĐĐH và 3860/QĐ-HĐĐH ngày 05/11/2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường và Chủ tịch Hội đồng trường Trường Đại học Bách khoa, nhiệm kỳ 2020-2025;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "21/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 21/NQ-HĐT phiên họp thứ năm của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng ngày 24/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "68/2000/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "\"10. Người lao động là người được Nhà trường ký hợp đồng lao động theo Nghị định của Chính phủ số 68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp (hoặc theo quy định của pháp luật lao động hiện hành) và được trả lương theo quy định của pháp luật về tiền công lao động.\""
+    },
+    {
+      "targetDocumentNumber": "24/2014/TTLT-BKHCN-BNV",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "\"6. Nhiệm vụ và tiêu chuẩn của nghiên cứu viên thực hiện theo Thông tư liên tịch số 24/2014/TTLT-BKHCN-BNV ngày 01 tháng 10 năm 2014 của Bộ Khoa học và Công nghệ và Bộ Nội vụ quy định mã số và tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành khoa học và công nghệ và được sửa đổi, bổ sung một số điều tại Thông tư số 01/2020/TT-BKHCN ngày 20 tháng 01 năm 2020 của Bộ Khoa học và Công nghệ.\""
+    },
+    {
+      "targetDocumentNumber": "01/2020/TT-BKHCN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "\"6. Nhiệm vụ và tiêu chuẩn của nghiên cứu viên thực hiện theo Thông tư liên tịch số 24/2014/TTLT-BKHCN-BNV ngày 01 tháng 10 năm 2014 của Bộ Khoa học và Công nghệ và Bộ Nội vụ quy định mã số và tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành khoa học và công nghệ và được sửa đổi, bổ sung một số điều tại Thông tư số 01/2020/TT-BKHCN ngày 20 tháng 01 năm 2020 của Bộ Khoa học và Công nghệ.\""
+    },
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "\"7. Giảng viên thực hiện các nhiệm vụ và quyền hạn theo quy định của Luật Giáo dục đại học hiện hành và Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 của Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập, cụ thể như sau:\""
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "\"k) Thực hiện quy định về chế độ làm việc đối với chức danh giảng viên theo Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ Giáo dục và Đào tạo quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học.\""
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "2. Thay thế cụm từ \"Quy chế tổ chức và hoạt động của ĐHĐN ban hành kèm theo Quyết định số 2762/QĐ-HĐĐH ngày 14 tháng 8 năm 2020 của Hội đồng ĐHĐN\""
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Hội đồng Khoa học và Đào tạo",
+    "Hội đồng Đảm bảo Chất lượng Giáo dục",
+    "Trung tâm Học liệu & Truyền thông",
+    "Tổ Công nghệ Thông tin",
+    "Trung tâm Hỗ trợ Sinh viên và Quan hệ Doanh nghiệp",
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Nội vụ",
+    "Ban Giám hiệu",
+    "Đảng ủy Trường"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa.\n\n1. Khoản 10 Điều 5 được sửa đổi như sau:\n\"10. Người lao động là người được Nhà trường ký hợp đồng lao động theo Nghị định của Chính phủ số 68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp (hoặc theo quy định của pháp luật lao động hiện hành) và được trả lương theo quy định của pháp luật về tiền công lao động.\"\n\n2. Khoản 1 Điều 6 được sửa đổi như sau:\n\"1. Cơ cấu tổ chức của Nhà trường gồm:\na) Hội đồng trường.\nb) Hiệu trưởng, các Phó Hiệu trưởng.\nc) Hội đồng Khoa học và Đào tạo, Hội đồng Đảm bảo Chất lượng Giáo dục và các hội đồng tư vấn.\n\npage 2\n\nd) Các khoa, bộ môn, các tổ chức khoa học và công nghệ, các tổ chức phục vụ đào tạo khác.\nđ) Các đơn vị chức năng gồm: các phòng, Trung tâm Học liệu & Truyền thông, Tổ Công nghệ Thông tin.\ne) Các đơn vị trực thuộc của Trường, gồm: Trung tâm Hỗ trợ Sinh viên và Quan hệ Doanh nghiệp, các viện, các trung tâm, các cơ sở dịch vụ, doanh nghiệp, cơ sở kinh doanh.\ng) Văn phòng các tổ chức đảng, đoàn thể.\nh) Các trung tâm thí nghiệm tổng hợp, liên ngành thuộc Trường.\"\n\n3. Điểm b khoản 2 Điều 9 được sửa đổi như sau:\n\"b) Ban hành quy chế tổ chức và hoạt động, quy chế dân chủ cơ sở của Nhà trường và các văn bản quy phạm khác thuộc thẩm quyền của Hội đồng trường sau khi có ý kiến của Giám đốc ĐHĐN, phù hợp với quy định của pháp luật và của ĐHĐN.\"\n\n4. Điểm d khoản 2 Điều 9 được sửa đổi như sau:\n\"d) Ban hành nghị quyết thống nhất chủ trương và ủy quyền cho Hiệu trưởng ban hành quyết định về việc thành lập, chia, tách, sáp nhập, hợp nhất, giải thể, đổi tên, tổ chức sắp xếp lại các đơn vị thuộc, trực thuộc Trường; ban hành danh mục vị trí việc làm, tiêu chuẩn và điều kiện làm việc của từng vị trí; quy định về tuyển dụng, sử dụng, quản lý viên chức và người lao động sau khi có ý kiến của Giám đốc ĐHĐN phù hợp với quy định của pháp luật và của ĐHĐN.\"\n\n5. Điểm đ khoản 2 Điều 9 được sửa đổi như sau:\n\"đ) Quyết định nhân sự Hiệu trưởng bằng nghị quyết và trình Hội đồng ĐHĐN công nhận theo quy trình nhân sự hiện hành của ĐHĐN; quyết định bổ nhiệm, bổ nhiệm lại, miễn nhiệm, bãi nhiệm Phó Hiệu trưởng, Kế toán trưởng trên cơ sở đề xuất của Hiệu trưởng sau khi có ý kiến của Giám đốc ĐHĐN theo quy trình nhân sự hiện hành của ĐHĐN; tổ chức đánh giá hiệu quả hoạt động hàng năm của Chủ tịch Hội đồng trường, của Hiệu trưởng và trình Giám đốc ĐHĐN đánh giá, xếp loại chất lượng viên chức theo quy định; lấy phiếu tín nhiệm đối với Chủ tịch Hội đồng trường, Hiệu trưởng vào giữa nhiệm kỳ hoặc đột xuất trong trường hợp cần thiết.\"\n\n6. Điểm b khoản 4 Điều 9 được sửa đổi như sau:\n\"b) Chủ tịch Hội đồng trường do Hội đồng trường bầu trong số các thành viên của Hội đồng trường theo nguyên tắc bỏ phiếu kín và phải được trên 50% tổng số thành viên theo danh sách của Hội đồng trường đồng ý và được Hội đồng ĐHĐN ra quyết định công nhận; Nhiệm kỳ của Chủ tịch Hội đồng trường theo nhiệm kỳ của Hội đồng trường, có thể được bổ nhiệm lại nhưng không giữ chức vụ quá 10 năm liên tiếp. Trường hợp thành viên ngoài Nhà trường trúng cử Chủ tịch Hội đồng trường thì phải trở thành viên chức cơ hữu của Nhà trường; Chủ tịch Hội đồng trường không kiêm nhiệm các chức vụ quản lý trong Nhà trường.\"\n\n7. Khoản 5 Điều 9 được sửa đổi như sau:\n\"5. Thư ký Hội đồng trường do Chủ tịch Hội đồng trường giới thiệu trong số các thành viên của Hội đồng trường và được Hội đồng trường bổ nhiệm bằng nghị quyết khi có trên 50% tổng số thành viên theo danh sách của Hội đồng trường đồng ý thông qua. Thư ký Hội đồng trường không kiêm nhiệm chức vụ Hiệu trưởng hoặc Phó Hiệu trưởng, trực tiếp giúp Chủ tịch Hội đồng trường thực hiện một số nhiệm vụ và quyền hạn cụ thể sau đây:\na) Tổng hợp thông tin về hoạt động của Nhà trường báo cáo Chủ tịch Hội đồng trường; chuẩn bị chương trình nghị sự, nội dung, tài liệu, gửi giấy mời họp và làm thư ký các cuộc họp của Hội đồng trường; xây dựng, hoàn chỉnh, lưu trữ các văn bản của Hội đồng trường.\n\npage\n\n3\n\nb) Chuẩn bị các báo cáo, giải trình với cơ quan quản lý nhà nước và các cơ quan liên quan theo nhiệm vụ, chức năng của Hội đồng trường.\nc) Các nhiệm vụ khác do Chủ tịch Hội đồng trường giao.\"\n\n8. Khoản 1 Điều 12 được sửa đổi như sau:\n\"1. Hiệu trưởng là người chịu trách nhiệm quản lý, điều hành các hoạt động của Nhà trường theo quy định của pháp luật và theo quy chế tổ chức và hoạt động của Nhà trường. Hiệu trưởng do Hội đồng trường quyết định theo quy trình nhân sự hiện hành của ĐHĐN. Nhiệm kỳ của Hiệu trưởng do Hội đồng trường quyết định trong phạm vi nhiệm kỳ của Hội đồng trường, có thể được bổ nhiệm lại nhưng không giữ chức vụ quá 10 năm liên tiếp tại Nhà trường.\"\n\n9. Điểm d khoản 3 Điều 12 được sửa đổi như sau:\n\"d) Trình văn bản thuộc thẩm quyền ban hành của Hội đồng trường sau khi tổ chức lấy ý kiến của tổ chức, đơn vị, cá nhân có liên quan trong Nhà trường theo quy định; ban hành đề án vị trí việc làm, quy chế chi tiêu nội bộ và các văn bản quy phạm nội bộ khác của Nhà trường theo quy định hiện hành của pháp luật và ĐHĐN.\"\n\n10. Điểm đ khoản 3 Điều 12 được sửa đổi như sau:\n\"đ) Đề xuất Hội đồng trường quyết định bổ nhiệm, bổ nhiệm lại, miễn nhiệm, bãi nhiệm chức danh Phó Hiệu trưởng, Kế toán trưởng theo quy trình nhân sự hiện hành của ĐHĐN; chủ trì tổ chức thực hiện quy trình và quyết định bổ nhiệm, bổ nhiệm lại, miễn nhiệm, bãi nhiệm chức danh quản lý khác của Nhà trường gồm trưởng, phó các đơn vị thuộc, trực thuộc Trường; quyết định dự án đầu tư theo thẩm quyền của Nhà trường.\"\n\n11. Điểm b khoản 4 Điều 12 được sửa đổi như sau:\n\"b) Sau khi quyết định nhân sự Hiệu trưởng bằng nghị quyết, Hội đồng trường gửi tờ trình kèm theo hồ sơ đề nghị Hội đồng ĐHĐN công nhận Hiệu trưởng theo quy trình nhân sự hiện hành của ĐHĐN.\"\n\n12. Khoản 4 Điều 13 được sửa đổi như sau:\n\"4. Phó Hiệu trưởng do Hội đồng trường quyết định bổ nhiệm, bổ nhiệm lại, bãi nhiệm, miễn nhiệm trên cơ sở đề xuất của Hiệu trưởng Nhà trường theo quy trình nhân sự hiện hành của ĐHĐN. Nhiệm kỳ của Phó Hiệu trưởng do Hội đồng trường quyết định trong phạm vi nhiệm kỳ của Hội đồng trường, có thể được bổ nhiệm lại nhưng không giữ chức vụ quá 10 năm liên tiếp tại Nhà trường.\"\n\n13. Khoản 1 Điều 17 được sửa đổi như sau:\n\"1. Khoa là đơn vị chuyên môn thuộc Nhà trường do Hội đồng trường quyết định thành lập, chia tách, giải thể, tổ chức sắp xếp lại sau khi có ý kiến của Giám đốc ĐHĐN. Khoa có các nhiệm vụ sau đây:\na) Quản lý viên chức, người lao động và người học thuộc khoa theo phân cấp của Hiệu trưởng;\nb) Lập kế hoạch và phân công tổ chức thực hiện các hoạt động giáo dục, đào tạo theo kế hoạch chung của Nhà trường và các quy định hiện hành, bao gồm:\n- Xây dựng, phát triển chương trình đào tạo của ngành, chuyên ngành được Nhà trường giao nhiệm vụ;\n- Xây dựng đề cương chi tiết các học phần liên quan bảo đảm tính thống nhất, tránh chồng chéo giữa các học phần của chương trình đào tạo hoặc giữa các trình độ đào tạo;\n- Xây dựng hệ thống tài liệu phục vụ đào tạo theo định hướng phát triển của Nhà trường;\n\npage 4\n\n-\n\nNghiên cứu cải tiến phương pháp giảng dạy, học tập; xây dựng và thực hiện phương pháp kiểm tra, đánh giá kết quả học tập, rèn luyện của sinh viên, bảo đảm chuẩn đầu ra của người học theo cam kết đã được công bố, đáp ứng nhu cầu sử dụng của thị trường lao động.\nc) Lập kế hoạch và phân công tổ chức thực hiện các hoạt động khoa học và công nghệ, hợp tác quốc tế; hợp tác với các tổ chức khoa học và công nghệ, cơ sở sản xuất, kinh doanh liên quan đến ngành nghề đào tạo và huy động sự tham gia của doanh nghiệp vào quá trình đào tạo của khoa;\nd) Xây dựng kế hoạch phát triển đội ngũ viên chức và người lao động thuộc khoa, ngành nghề đào tạo và cơ sở vật chất phục vụ cho đào tạo và nghiên cứu khoa học, tăng cường điều kiện đảm bảo chất lượng đào tạo;\nđ) Xây dựng kế hoạch và tổ chức thực hiện công tác giáo dục chính trị, tư tưởng, đạo đức, lối sống cho đội ngũ viên chức, người lao động, người học; có kế hoạch đào tạo, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ cho viên chức và người lao động thuộc khoa;\ne) Xây dựng kế hoạch và tổ chức thực hiện các công tác về đảm bảo và kiểm định chất lượng giáo dục cho các chương trình đào tạo của khoa;\ng) Tổ chức đánh giá viên chức quản lý, viên chức, người lao động thuộc khoa và tham gia đánh giá viên chức quản lý trong Nhà trường theo quy định của Nhà trường.\nh) Thực hiện các nhiệm vụ khác theo sự phân công của Nhà trường.\"\n\n14. Khoản 2 Điều 18 được sửa đổi như sau:\n\"2. Bộ môn có trách nhiệm triển khai thực hiện các nhiệm vụ sau đây:\na) Xây dựng, rà soát, cập nhật, phát triển chương trình đào tạo của ngành, chuyên ngành theo sự phân công của khoa.\nb) Chịu trách nhiệm về nội dung, chất lượng, tiến độ giảng dạy của những học phần được giao trong chương trình đào tạo, kế hoạch giảng dạy chung của Nhà trường, của khoa;\nc) Xây dựng và hoàn thiện nội dung học phần; tổ chức biên soạn, xây dựng hệ thống tài liệu phục vụ đào tạo phù hợp với nội dung học phần được Nhà trường và khoa phân công;\nd) Nghiên cứu đổi mới phương pháp giảng dạy; tổ chức kiểm tra, đánh giá quá trình và kết quả học tập của sinh viên theo quy định của Nhà trường;\nđ) Nghiên cứu khoa học và phát triển công nghệ, thực hiện các dịch vụ khoa học và công nghệ theo kế hoạch của Nhà trường và của khoa;\ne) Xây dựng kế hoạch phát triển đội ngũ của bộ môn; tham gia đào tạo, bồi dưỡng đội ngũ viên chức thuộc lĩnh vực chuyên môn;\ng) Triển khai thực hiện các công tác về đảm bảo và kiểm định chất lượng giáo dục theo sự phân công của Nhà trường và khoa;\nh) Tổ chức đánh giá công tác quản lý, hoạt động đào tạo, hoạt động khoa học và công nghệ của cá nhân, của bộ môn, của khoa và Nhà trường;\ni) Thực hiện các nhiệm vụ khác theo sự phân công của Nhà trường và khoa.\"\n\n15. Điểm d khoản 3 Điều 19 được sửa đổi như sau:\n\"d) Mỗi trung tâm có Giám đốc trung tâm và không quá 02 Phó Giám đốc.\"\n\n16. Khoản 4 Điều 20 được sửa đổi như sau:\n\"4. Mỗi đơn vị trực thuộc có Giám đốc và không quá 02 Phó Giám đốc. Tiêu chuẩn và quy trình giới thiệu, bổ nhiệm, bổ nhiệm lại, miễn nhiệm Giám đốc các viện, trung tâm trực thuộc được thực hiện theo Quy trình nhân sự hiện hành của Nhà trường. Phó Giám đốc do Giám đốc thực hiện quy trình bổ nhiệm sau khi được sự đồng ý về chủ trương và nhân sự của Hiệu trưởng. Quy trình đối với Giám đốc được thực hiện sau khi được Giám đốc ĐHĐN phê duyệt chủ trương phù hợp với quy định của pháp luật và ĐHĐN.\"\n\npage\n\n5\n\n17. Khoản 6 Điều 40 được sửa đổi như sau:\n\"6. Nhiệm vụ và tiêu chuẩn của nghiên cứu viên thực hiện theo Thông tư liên tịch số 24/2014/TTLT-BKHCN-BNV ngày 01 tháng 10 năm 2014 của Bộ Khoa học và Công nghệ và Bộ Nội vụ quy định mã số và tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành khoa học và công nghệ và được sửa đổi, bổ sung một số điều tại Thông tư số 01/2020/TT-BKHCN ngày 20 tháng 01 năm 2020 của Bộ Khoa học và Công nghệ.\"\n\n18. Khoản 7 Điều 40 được sửa đổi như sau:\n\"7. Giảng viên thực hiện các nhiệm vụ và quyền hạn theo quy định của Luật Giáo dục đại học hiện hành và Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 của Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập, cụ thể như sau:\"\n\n19. Điểm k khoản 7 Điều 40 được sửa đổi như sau:\n\"k) Thực hiện quy định về chế độ làm việc đối với chức danh giảng viên theo Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ Giáo dục và Đào tạo quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học.\"",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thay thế một số từ, cụm từ tại một số điều, khoản",
+      "text": "Điều 2. Thay thế một số từ, cụm từ tại một số điều, khoản\n\n1. Thay thế cụm từ \"Luật Giáo dục đại học (đã được sửa đổi, bổ sung)\" tại khoản 1 Điều 8 bằng cụm từ \"Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018 (sau đây gọi là Luật Giáo dục đại học hiện hành)\".\n\n2. Thay thế cụm từ \"Quy chế tổ chức và hoạt động của ĐHĐN ban hành kèm theo Quyết định số 2762/QĐ-HĐĐH ngày 14 tháng 8 năm 2020 của Hội đồng ĐHĐN\"\n- Tại điểm i khoản 2 Điều 9 bằng cụm từ \"Quy chế tổ chức và hoạt động của ĐHĐN ban hành kèm theo Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng ĐHĐN (sau đây gọi là Quy chế tổ chức và hoạt động hiện hành của ĐHĐN)\".\n- Tại Điều 34 bằng cụm từ \"Quy chế tổ chức và hoạt động hiện hành của ĐHĐN\".\n- Tại Điều 47 bằng cụm từ \"Quy chế tổ chức và hoạt động hiện hành của ĐHĐN\".\n\n3. Thay thế cụm từ \"Điều 19\" tại khoản 6 Điều 17 bằng cụm từ \"Điều 18\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nghị quyết này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 3. Nghị quyết này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Các thành viên Hội đồng trường, Ban Giám hiệu, Trưởng các đơn vị thuộc và trực thuộc Trường, toàn thể viên chức, người lao động, các tổ chức và các cá nhân có liên quan căn cứ Nghị quyết thi hành./.",
+      "text": "Điều 4. Các thành viên Hội đồng trường, Ban Giám hiệu, Trưởng các đơn vị thuộc và trực thuộc Trường, toàn thể viên chức, người lao động, các tổ chức và các cá nhân có liên quan căn cứ Nghị quyết thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

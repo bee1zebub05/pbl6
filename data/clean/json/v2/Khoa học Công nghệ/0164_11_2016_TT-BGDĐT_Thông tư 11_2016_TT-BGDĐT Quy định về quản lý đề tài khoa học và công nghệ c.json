@@ -1,0 +1,324 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0164_11_2016_TT-BGDĐT_Thông tư 11_2016_TT-BGDĐT Quy định về quản lý đề tài khoa học và công nghệ c.txt",
+  "mappedBy": "gemini-web",
+  "note": "40 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "11/2016/TT-BGDĐT",
+    "title": "Thông tư Ban hành Quy định về quản lý đề tài khoa học và công nghệ cấp bộ của Bộ Giáo dục và Đào tạo",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "11/04/2016",
+    "effectiveDate": "27/05/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Thông tư này ban hành Quy định về quản lý đề tài khoa học và công nghệ cấp bộ thuộc trách nhiệm quản lý của Bộ Giáo dục và Đào tạo, bao gồm xác định, tuyển chọn, thẩm định, tổ chức triển khai, kiểm tra, đánh giá và nghiệm thu.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Bùi Văn Ga",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 08/2014/NĐ-CP ngày 27 tháng 01 năm 2014 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học và Công nghệ;"
+    },
+    {
+      "targetDocumentNumber": "12/2010/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư này có hiệu lực thi hành kể từ ngày 27 tháng 5 năm 2016 và thay thế Thông tư số 12/2010/TT-BGDĐT ngày 29 tháng 3 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về quản lý đề tài khoa học và công nghệ cấp bộ của Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về quản lý đề tài khoa học và công nghệ cấp bộ của Bộ Giáo dục và Đào tạo",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1 Thông tư này quy định về quản lý đề tài khoa học và công nghệ cấp bộ\nthuộc trách nhiệm quản lý của Bộ Giáo dục và Đào tạo bao gồm: xác định, tuyển 1\nchọn; thẩm định, tổ chức triển khai và kiểm tra tình hình thực hiện, đánh giá,\nnghiệm thu kết quả thực hiện đề tài cấp bộ. / ;\n2. Thông tư này áp dụng đối với các đơn vị thuộc Bộ Giáo dục và Đào tạo, các\nđại học vùng , học viện, các trường đại học, cao đẳng, các viện nghiên cứu và trung 1\ntâm nghiên cứu khoa học trực thuộc Bộ Giáo dục và Đào tạo, các tổ chức, cá nhân\nđược tuyển chọn hoặc được giao đề tài khoa học và công nghệ cấp bộ của Bộ Giáo\ndục và Đào tạo (sau đây gọi là các tổ chức, cá nhân). P",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Đề tài khoa học và công nghệ cấp bộ",
+          "text": "Điều 2. Đề tài khoa học và công nghệ cấp bộ\n1. Đề tài khoa học và công nghệ cấp bộ (sau đây gọi là đề tài cấp bộ) đáp ứng ẵ\ncác yêu cầu sau: 5\na) Có tầm quan trọng đối với sự phát triển của ngành giáo dục, góp phần nâng\ncao chất lượng giáo dục và đào tạo;\nb) Giải quyết các vấn đề khoa học và công nghệ phục vụ phát triển ngành giáo\ndục, phát triển kinh tế xã hội;\nc) Nâng cao trình độ chuyên môn, nghiệp vụ cho giảng viên, nghiên cứu viên\nvà cán bộ quản lý;\nd) Kết hợp đào tạo và nghiên cứu khoa học, chuyển giao công nghệ.\n2. Đề tài cấp bộ sử dụng nguồn ngân sách nhà nước hoặc nguồn ngoài ngân sách\nvà được giao thực hiện theo phương thức tuyển chọn hoặc giao trực tiếp.\n3. Mỗi đề tài cấp bộ do một cán bộ khoa học làm chủ nhiệm đề tài, có các\nthành viên tham gia nghiên cứu và một thành viên là thư ký khoa học, không có\nđồng chủ nhiệm và phó chủ nhiệm đề tài.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\n4 Thời gian thực hiện đề tài cấp bộ không quá 24 tháng tính từ khi được phê\nduyệt và cấp kinh phí thực hiện. Trường hợp đặc biệt có thời gian thực hiện đề tài\ntrên 24 tháng do Bộ trưởng Bộ Giáo dục và Đào tạo quyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Đề tài cấp bộ được giao trực tiếp",
+          "text": "Điều 3. Đề tài cấp bộ được giao trực tiếp\n1. Đề tài cấp bộ được giao trực tiếp là đề tài cấp bộ thuộc một trong các trường\nhợp được quy định tại Khoản 1 Điều 30 Luật Khoa học và Công nghệ năm 2013 và\ncó cam kết sử dụng của tổ chức sử dụng kết quả nghiên cứu.\n2 Bộ trưởng Bộ Giáo dục và Đào tạo lựa chọn tổ chức, cá nhân có đủ điều\nkiện để giao thực hiện đề tài cấp bộ được giao trực tiếp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Tổ chức chủ trì đề tài cấp bộ",
+          "text": "Điều 4. Tổ chức chủ trì đề tài cấp bộ\n1 Tổ chức chủ trì đề tài cấp bộ là các đại học; học viện, các trường đại học, 1\ncao đẳng, các viện nghiên cứu, trung tâm nghiên cứu khoa học và các tổ chức khoa\nhọc và công nghệ được Bộ Giáo dục và Đào tạo giao quản lý, tổ chức thực hiện đề 1\ntài cấp bộ.\n2. Tổ chức chủ trì đề tài phối hợp với Vụ Khoa học, Công nghệ và Môi trường; Bộ\nGiáo dục và Đào tạo trong việc quản lý toàn diện đề tài cấp bộ được giao. 1",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Trách nhiệm của tổ chức chủ trì đề tài cấp bộ",
+          "text": "Điều 5. Trách nhiệm của tổ chức chủ trì đề tài cấp bộ\n1. Tạo điều kiện về thời gian, kinh phí, thiết bị, phòng thí nghiệm, nhà / 6\nxưởng cho chủ nhiệm đề tài và các thành viên nghiên cứu của đề tài thực hiện 1\nnghiên cứu theo đúng nội dung và tiến độ ghi trong thuyết minh đề tài và hợp\nđồng thực hiện đề tài.\n2. Tổ chức kiểm tra tình hình thực hiện đề tài và gửi báo cáo định kỳ hàng năm P\ntình hình thực hiện đề tài về Bộ Giáo dục và Đào tạo.\n3 Công bố các kết quả nghiên cứu của đề tài trên trang thông tin điện tử của tổ 1\nchức chủ trì và các phương tiện thông tin đại chúng theo quy định hiện hành.\n4 Hỗ trợ đăng ký xác lập quyền sở hữu trí tuệ để bảo hộ kết quả nghiên cứu\ncủa đề tài theo quy định hiện hành.\n5. Nhận chuyển giao tài sản cố định trang thiết bị; phần mềm máy tính, tài liệu\nnghiên cứu được mua sắm từ kinh phí của đề tài theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quyền hạn của tổ chức chủ trì đề tài cấp bộ",
+          "text": "Điều 6. Quyền hạn của tổ chức chủ trì đề tài cấp bộ\n1 Đề xuất đề tài cấp bộ theo hướng dẫn của Bộ Giáo dục và Đào tạo.\n2 Đăng ký tham gia tuyển chọn hoặc được giao trực tiếp thực hiện đề tài\ncấp bộ.\n3. Đề xuất điều chỉnh đề tài cấp bộ với Bộ Giáo dục và Đào tạo.\n4. Tổ chức đánh giá cấp cơ sở sau khi đề tài hoàn thành nhiệm vụ nghiên cứu\nvà giao nộp đủ hồ sơ theo quy định.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016 5\n5. Đề nghị Bộ Giáo dục và Đào tạo tổ chức đánh giá, nghiệm thu cấp bộ.\n6. Được xác lập quyền sở hữu trí tuệ để bảo hộ kết quả nghiên cứu của đề tài\ntheo quy định hiện hành:\n7 . Thực hiện chuyển giao kết quả nghiên cứu của đề tài theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiêu chuẩn chủ nhiệm đề tài cấp bộ",
+          "text": "Điều 7. Tiêu chuẩn chủ nhiệm đề tài cấp bộ\nCác cá nhân đăng ký làm chủ nhiệm đề tài cấp bộ phải có các tiêu chuẩn sau:\n1. Là giảng viên, nghiên cứu viên có trình độ từ thạc sĩ trở lên, có chuyên môn\nphù hợp với lĩnh vực nghiên cứu của đề tài.\n2. Có ít nhất một công trình công bố trên tạp chí khoa học trong hoặc ngoài\nnước thuộc lĩnh vực nghiên cứu hoặc lĩnh vực gần với đề tài, hoặc là chủ nhiệm đề 1\ntài cấp cơ sở trở lên đã được nghiệm thu thuộc lĩnh vực nghiên cứu trong thời hạn\n5 năm gần đây.\n3. Tại thời điểm tuyển chọn hoặc được giao trực tiếp không là chủ nhiệm đề tài\nhoặc nhiệm vụ khoa học và công nghệ cấp bộ của Bộ Giáo dục và Đào tạo hoặc\nđang bị xử lý theo Khoản 1 Điều 38 của quy định này. 1",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Trách nhiệm của chủ nhiệm đề tài cấp bộ /",
+          "text": "Điều 8. Trách nhiệm của chủ nhiệm đề tài cấp bộ /\n1. Xây dựng thuyết minh đề tài cấp bộ (sau đây gọi là thuyết minh đề tài) . 6\n2. Tổ chức thực hiện nghiên cứu theo đúng nội dung và tiến độ ghi trong thuyết 1\nminh đề tài và hợp đồng thực hiện đề tài; chấp hành các yêu cầu kiểm tra việc thực\nhiện đề tài của tổ chức chủ trì và Bộ Giáo dục và Đào tạo.\n3. Đảm bảo tính trung thực kết quả nghiên cứu; chỉ rõ đầy đủ các trích dẫn P\ncùng với nguồn gốc của nội dung trích dẫn.\n4. Báo cáo định kỳ 6 tháng và hàng năm tình hình thực hiện đề tài. ẵ\n5. Viết báo cáo tổng kết và báo cáo tóm tắt đề tài. 5\n6. Thanh, quyết toán kinh phí của đề tài theo đúng quy định tài chính hiện\nhành, chuyển giao tài sản cố định, trang thiết bị, phần mềm máy tính, tài liệu\nnghiên cứu được mua sắm từ kinh phí của đề tài (nếu có) cho tổ chức chủ trì quản\nlý sau khi đề tài kết thúc.\n7. Trực tiếp báo cáo trước Hội đồng đánh giá, nghiệm thu cấp cơ sở và Hội\nđồng đánh giá, nghiệm thu cấp bộ kết quả thực hiện đề tài.\n8. Công bố các kết quả nghiên cứu của đề tài trên trang thông tin điện tử của tổ\nchức chủ trì và các phương tiện thông tin đại chúng theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Quyền hạn của chủ nhiệm đề tài cấp bộ",
+          "text": "Điều 9. Quyền hạn của chủ nhiệm đề tài cấp bộ\n1 Kiến nghị với tổ chức chủ trì tạo điều kiện về thời gian, kinh phí, thiết bị,\nphòng thí nghiệm, nhà xưởng để thực hiện đề tài.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\n2. Lựa chọn các thành viên tham gia nghiên cứu đề tài, ký hợp đồng với các tổ\nchức hoặc cá nhân trong và ngoài tổ chức để triển khai các nội dung nghiên cứu\ntheo quy định hiện hành.\n3. Đề xuất điều chỉnh đề tài với tổ chức chủ trì và Bộ Giáo dục và Đào tạo.\n4. Yêu cầu tổ chức chủ trì tổ chức đánh giá, nghiệm thu đề tài sau khi giao nộp\nđủ hồ sơ theo quy định.\n5. Được xác lập quyền sở hữu trí tuệ để bảo hộ kết quả nghiên cứu của đề tài\ntheo quy định hiện hành.\n6. Được thực hiện chuyển giao kết quả nghiên cứu của đề tài theo quy định\nhiện hành. 1\nXÁC ĐỊNH, TUYỂN CHỌN\"TngM\nĐỊNH ĐỀ TÀI CẤP BỘ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Xác định đề tài cấp bộ được giao theo phương thức tuyển chọn 1",
+          "text": "Điều 10. Xác định đề tài cấp bộ được giao theo phương thức tuyển chọn 1\n1.Bộ Giáo dục và Đào tạo căn cứ vào tiềm lực khoa học và công nghệ giao số / 6\nlượng đề tài cấp bộ cho các tổ chức trực thuộc Bộ Giáo dục và Đào tạo\n2 Các tổ chức gửi đề xuất đề tài cấp bộ theo số lượng được giao (Mẫu 1 Phụ 1\nlục I) về Bộ Giáo dục và Đào tạo.\n3. Bộ Giáo dục và Đào tạo thành lập Hội đồng tư vấn xác định đề tài cấp bộ và\nthông báo đề tài được xác định cho các tổ chức. P\n4 Các tổ chức thông báo những đề tài đã được xác định trên trang thông tin ẵ\nđiện tử của tổ chức và trên phương tiện thông tin đại chúng để các tổ chức, cá nhân\ntham gia tuyển chọn. 5",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Đăng ký xác định và xét duyệt đề tài cấp bộ được giao trực tiếp",
+          "text": "Điều 11. Đăng ký xác định và xét duyệt đề tài cấp bộ được giao trực tiếp\n1 Bộ Giáo dục và Đào tạo thành lập Hội đồng tư vấn xác định đề tài cấp bộ giao\ntrực tiếp trên cơ sở đề xuất đáp ứng yêu cầu tại Điều 3 của Quy định này.\n2. Bộ Giáo dục và Đào tạo thông báo đề tài được giao trực tiếp cho tổ chức,\ncá nhân.\n3. Tổ chức, cá nhân được giao đề tài chuẩn bị hồ sơ theo quy định tại Điều 15\ncủa Quy định này và bảo vệ trước Hội đồng tư vấn xét duyệt đề tài khoa học và\ncông nghệ cấp bộ giao trực tiếp do Bộ Giáo dục và Đào tạo thành lập (sau đây gọi là\nHội đồng xét duyệt đề tài giao trực tiếp). Thành phần và phương thức làm việc của\nHội đồng xét duyệt đề tài giao trực tiếp được áp dụng theo quy định tại Điều 17 của\nQuy định này.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Tiêu chí xác định đề tài cấp bộ",
+          "text": "Điều 12. Tiêu chí xác định đề tài cấp bộ\nCác tiêu chí xác định đề tài cấp bộ bao gồm:\n1. Tính cấp thiết của đề tài.\n2. Định hướng mục tiêu nghiên cứu của đề tài.\n3. Nội dung nghiên cứu chính của đề tài.\n4. Khả năng không trùng lắp với các đề tài khoa học và công nghệ đã và đang\nthực hiện, các luận văn thạc sĩ, luận án tiến sĩ đã bảo vệ.\n5. Dự kiến sản phẩm; địa chỉ ứng dụng, hiệu quả của đề tài.\n6. Dự kiến kinh phí thực hiện đề tài. 1",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Hội đồng tư vấn xác định đề tài cấp bộ",
+          "text": "Điều 13. Hội đồng tư vấn xác định đề tài cấp bộ\n1. Hội đồng tư vấn xác định đề tài cấp bộ (sau đây gọi là Hội đồng xác định) có 7,9\nhoặc 11 thành viên, trong đó có 01 chủ tịch, 01 thư ký và các ủy viên: Thành viên Hội\nđồng xác định là các chuyên gia có uy tín, khách quan; có trình độ chuyên môn\nnghiệp vụ và am hiểu sâu về lĩnh vực khoa học và công nghệ của đề tài. 1\n2. Phương thức làm việc của Hội đồng- xác định:\na) Hội đồng chỉ họp khi có mặt chủ tịch, thư ký và ít nhất 2/3 số thành viên / 6\nHội đồng; 1\nb) Chủ tịch Hội đồng trực tiếp chủ trì cuộc họp;\nc) Tài liệu cuộc họp gửi cho các thành viên Hội đồng ít nhất 03 ngày trước khi\nhọp. Tất cả các thành viên Hội đồng chuẩn bị ý kiến nhận xét và đánh giá đề xuất P\nđề tài theo Mẫu 2 Phụ lục I\n3. Ý kiến đánh giá của Hội đồng xác định ẵ\na) Các thành viên Hội đồng- đánh giá đề xuất theo Phiếu đánh giá đề xuất đề tài 5\n(Mẫu 3 Phụ lục I). Ý kiến bằng văn bản của thành viên Hội đồng vắng mặt chỉ có ý\nnghĩa tham khảo;\nb) Đề xuất đề tài được xếp loại \"đề nghị thực hiện\" nếu tất cả các nội dung\ntrong Phiếu đánh giá đều ở mức \"đạt yêu cầu\" . Đề xuất đề tài được xếp loại \"đề\nnghị không thực hiện' khi một trong các nội dung trong Phiếu đánh giá ở mức\n\"không đạt yêu cầu\" Đề xuất đề tài được ghi vào biên bản kết luận của Hội đồng\n\"đề nghị thực hiện\" khi có từ 2/3 số phiếu đánh giá của các thành viên Hội đồng có\nmặt xếp loại \"đề nghị thực hiện\";\nHội đồng bầu ban kiểm phiếu gồm 3 thành viên, trong đó có 01 trưởng ban;\nBan kiểm phiếu tổng hợp kết quả đánh giá theo Mẫu 4 Phụ lục I và công bố kết\nquả kiểm phiếu tại cuộc họp của Hội đồng: Kết quả đánh giá đề xuất đề tài được\nghi vào biên bản họp Hội đồng xác định (Mẫu 5 Phụ lục I);\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\nd) Đối với đề xuất đề tài được \"đề nghị thực hiện\" , Hội đồng xác định thống\nnhất về: tên, định hướng mục tiêu, sản phẩm và yêu cầu đối với sản phẩm, dự kiến\nkinh phí của đề tài;\nđ) Đối với đề xuất đề tài được \"đề nghị không thực hiện\" , Hội đồng thống nhất\ný kiến đánh giá về lý do không đề nghị thực hiện.\n4. Trách nhiệm của thành viên Hội đồng xác định\nTrách nhiệm của thành viên Hội đồng xác định thực hiện theo quy định tại\nĐiều 35 của Nghị định số 08/2014/NĐ-CP ngày 27 tháng 01 năm 2014 của Chính\nphủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học và\nCông nghệ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ 1",
+          "text": "Điều 14. Tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ 1\n1. Các tổ chức, cá nhân đáp ứng tiêu chuẩn tại Điều 4 và Điều 7 của Quy định\nnày có thể đăng ký tham gia tuyển chọn chủ trì đề tài cấp bộ.\n2. Bộ trưởng Bộ Giáo dục và Đào tạo giao Thủ trưởng tổ chức được giao đề tài\ncấp bộ thành lập Hội đồng tư vấn tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ\nvà tổ chức tuyển chọn. 1\n3. Kết quả tuyển chọn tổ chức; cá nhân chủ trì đề tài cấp bộ được thông báo\ntrên các phương tiện thông tin đại chúng: / ;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Hồ sơ đăng ký tham gia tuyển chọn tổ chức, cá nhân chủ trì đề 1",
+          "text": "Điều 15. Hồ sơ đăng ký tham gia tuyển chọn tổ chức, cá nhân chủ trì đề 1\ntài cấp bộ\n1. Hồ sơ đăng ký tham gia tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ\n(sau đây gọi tắt là hồ sơ đăng ký tuyển chọn) bao gồm:\na) Thuyết minh đề tài (Mẫu 6 Phụ lục I);\nb) Tiềm lực khoa học của tổ chức; cá nhân chủ trì đề tài cấp bộ (Mẫu 7 Phụ lục I); ẵ\nc) Xác nhận của tổ chức, cá nhân phối hợp thực hiện đề tài. 5\n2. Hồ sơ đăng ký tuyển chọn phải được niêm phong và ghi rõ bên ngoài: tên đề\ntài; tên, địa chỉ của tổ chức chủ trì đề tài; họ và tên của chủ nhiệm đề tài, danh mục\ntài liệu có trong hồ sơ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tiêu chí tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ",
+          "text": "Điều 16. Tiêu chí tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ\nTiêu chí tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ bao gồm:\n1 Tổng quan tình hình nghiên cứu thuộc lĩnh vực của đề tài: mức độ đầy đủ,\nhợp lý trong việc đánh giá tình hình nghiên cứu trong và ngoài nước; thành công\nvà hạn chế của công trình nghiên cứu liên quan; mức độ cập nhật thông tin mới\nnhất về lĩnh vực nghiên cứu\n2 Tính cấp thiết của đề tài: tính khoa học, cụ thể, rõ ràng của việc luận giải về\ntính cấp thiết đối với vấn đề nghiên cứu của đề tài.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\n3. Mục tiêu của đề tài: mức độ cụ thể, rõ ràng về mặt khoa học, lý luận và thực\ntiễn của mục tiêu cần đạt được.\n4. Cách tiếp cận, phương pháp nghiên cứu: cách tiếp cận cụ thể của đề tài; độ\ntin cậy, tính hợp lý của các phương pháp nghiên cứu để thực hiện đề tài.\n5. Đối tượng và phạm vi nghiên cứu: Sự phù hợp, rõ ràng của đối tượng, phạm\nvi nghiên cứu với mục tiêu, nội dung nghiên cứu.\n6. Nội dung nghiên cứu và tiến độ thực hiện: tính đầy đủ của những nội dung,\ncông việc chính cần phải tiến hành, sự phù hợp của nội dung nghiên cứu với mục\ntiêu của đề tài, sự phù hợp của tiến độ thực hiện với nội dung nghiên cứu và thời\ngian thực hiện đề tài. 1\n7. Sản phẩm: tính rõ ràng; tính mới và sáng tạo của loại hình sản phẩm nghiên\ncứu dự kiến đạt được; sự phù hợp của sản phẩm với mục tiêu, nội dung nghiên cứu.\n8. Gắn kết với hoạt động đào tạo sau đại học và đại học: số lượng nghiên cứu\nsinh, học viên cao học tham gia nghiên cứu, kết quả đào tạo sau đại học và đại học.\n9 Phương thức chuyển giao, địa chỉ ứng dụng, tác động và lợi ích mang lại 1\ncủa kết quả nghiên cứu.\n10. Dự toán kinh phí: sự phù hợp của dự toán kinh phí với quy định tài chính / 6\nhiện hành, với nội dung; tiến độ nghiên cứu, mục lục ngân sách nhà nước. 1\n11. Năng lực của chủ nhiệm đề tài: kinh nghiệm, thành tích trong nghiên cứu\nkhoa học và đào tạo; năng lực tổ chức quản lý, thực hiện đề tài.\n12 Thành viên tham gia nghiên cứu: kinh nghiệm, thành tích trong lĩnh vực P\nnghiên cứu của đề tài. Số lượng thành viên tham gia nghiên cứu tối thiểu 3 người,\ntối đa 10 người và có ít nhất một thành viên là học viên sau đại học. ẵ\n13. Tiềm lực khoa học và công nghệ của tổ chức chủ trì đề tài: nguồn nhân lực; 5\ntrang thiết bị, phòng thí nghiệm và cơ sở vật chất khác để thực hiện đề tài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Hội đồng tư vấn tuyển chọn tổ chức; cá nhân chủ trì đề tài cấp bộ",
+          "text": "Điều 17. Hội đồng tư vấn tuyển chọn tổ chức; cá nhân chủ trì đề tài cấp bộ\n1. Hội đồng tuyển chọn có 7, 9 hoặc 11 thành viên, trong đó có 01 chủ tịch,\n01 thư ký và các ủy viên. Thành viên Hội đồng tuyển chọn là các chuyên gia có\nuy tín, khách quan; có trình độ chuyên môn nghiệp vụ và am hiểu sâu về lĩnh vực\nkhoa học và công nghệ của đề tài. Chủ nhiệm đề tài và các thành viên tham gia\nnghiên cứu đề tài không tham gia Hội đồng tuyển chọn.\n2. Phương thức làm việc của Hội đồng tuyển chọn:\na) Hội đồng chỉ họp khi có mặt chủ tịch thư ký và ít nhất 2/3 số thành viên\nHội đồng;\nb) Chủ tịch Hội đồng trực tiếp chủ trì cuộc họp;\n\n10 CÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\nTài liệu cuộc họp gửi cho các thành viên Hội đồng ít nhất 03 ngày trước khi\nhọp. Tất cả các thành viên Hội đồng chuẩn bị ý kiến nhận xét hồ sơ đăng ký tuyển\nchọn tổ chức, cá nhân chủ trì đề tài cấp bộ theo Mẫu 8 Phụ lục I.\n3. Ý kiến đánh giá của Hội đồng tuyển chọn\na) Các thành viên Hội đồng đánh giá theo Phiếu đánh giá hồ sơ đăng ký tham\ngia tuyển chọn tổ chức, cá nhân chủ trì đề tài cấp bộ (Mẫu 9 Phụ lục I) Ý kiến\nbằng văn bản của thành viên Hội đồng vắng mặt chỉ có ý nghĩa tham khảo;\nb) Hội đồng bầu ban kiểm phiếu gồm 3 thành viên, trong đó có 01 trưởng ban.\nBan kiểm phiếu tổng hợp kết quả đánh giá theo Mẫu 10 Phụ lục I và công bố kết\nquả kiểm phiếu tại cuộc họp của Hội đồng tuyển chọn;\nc) Kết quả đánh giá tuyển chọn là điểm trung bình cộng của các thành viên Hội 1\nđồng và được ghi vào biên bản họp Hội đồng tuyển chọn (Mẫu 11 Phụ lục I).\n4. Trách nhiệm của thành viên Hội đồng tuyển chọn\nTrách nhiệm của thành viên Hội đồng tuyển chọn thực hiện theo quy định tại\nĐiều 35 của Nghị định số 08/2014/NĐ-CP ngày 27 tháng 01 năm 2014 của Chính\nphủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học và\nCông nghệ. / 6",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Thẩm định nội dung, kinh phí và phê duyệt đề tài cấp bộ",
+          "text": "Điều 18. Thẩm định nội dung, kinh phí và phê duyệt đề tài cấp bộ\n1. Căn cứ kết quả tuyển chọn tổ chức, cá nhân chủ trì đối với đề tài được giao 1\ntheo phương thức tuyển chọn và kết quả xét duyệt hồ sơ đối với đề tài giao trực\ntiếp, Bộ Giáo dục và Đào tạo thành lập Tổ thẩm định nội dung và kinh phí thực\nhiện đề tài (sau đây gọi là Tổ thẩm định) .\nĐối với đề tài cấp bộ không sử dụng ngân sách nhà nước, tổ chức, cá nhân chủ ẵ\ntrì và tổ chức; cá nhân cấp kinh phí cho đề tài tổ chức thẩm định nội dung và kinh\nphí theo quy định của Nhà nước. 5\n2 Tổ thẩm định có 5 hoặc 7 thành viên; trong đó có 01 tổ trưởng: Thành viên\nTổ thẩm định là đại diện cơ quan quản lý nhà nước về khoa học và công nghệ, kế\nhoạch tài chính và các chuyên gia, các nhà khoa học trong lĩnh vực nghiên cứu\ncủa đề tài. Biên bản họp Tổ thẩm định theo Mẫu 12 Phụ lục I.\n3. Căn cứ kết quả thẩm định, Bộ Giáo dục và Đào tạo phê duyệt các đề tài cấp\nbộ để thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Hợp đồng thực hiện đề tài cấp bộ",
+          "text": "Điều 19. Hợp đồng thực hiện đề tài cấp bộ\n1. Bộ trưởng Bộ Giáo dục và Đào tạo giao Thủ trưởng tổ chức chủ trì đề tài ký\nhợp đồng thực hiện đề tài cấp bộ (sau đây gọi là hợp đồng) với chủ nhiệm đề tài.\nTổ chức chủ trì gửi 01 bản hợp đồng về Bộ Giáo dục và Đào tạo để theo dõi và\nquản lý.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\n2. Đối với trường hợp tổ chức chủ trì không phải là đơn vị dự toán thuộc Bộ\nGiáo dục và Đào tạo, Văn phòng Bộ Giáo dục và Đào tạo ký hợp đồng thực hiện\nđề tài với tổ chức, cá nhân chủ trì đề tài.\n3 . Hợp đồng thực hiện đề tài cấp bộ của Bộ Giáo dục và Đào tạo thực hiện\ntheo Mẫu 13 Phụ lục I.\n4 Trong trường hợp đề tài cấp bộ có điều chỉnh, văn bản điều chỉnh đề tài là\nmột phần của hợp đồng",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Báo cáo tình hình thực hiện đề tài cấp bộ",
+          "text": "Điều 20. Báo cáo tình hình thực hiện đề tài cấp bộ\n1. Chủ nhiệm đề tài báo cáo tình hình thực hiện đề tài định kỳ 6 tháng và hàng\nnăm cho tổ chức chủ trì.\n2. Tổ chức chủ trì báo cáo Bộ Giáo dục và Đào tạo về tình hình thực hiện đề / 6\ntài trước 30 tháng 12 hàng năm (Mẫu 15 Phụ lục I). 1\n3. Trường hợp đột xuất, tổ chức chủ trì và chủ nhiệm đề tài cấp bộ báo cáo tình\nhình thực hiện đề tài theo yêu cầu của Bộ Giáo dục và Đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Kiểm tra tình hình thực hiện đề tài cấp bộ",
+          "text": "Điều 21. Kiểm tra tình hình thực hiện đề tài cấp bộ\n1. Bộ Giáo dục và Đào tạo tổ chức kiểm tra định kỳ hàng năm hoặc đột xuất ẵ\ntình hình thực hiện đề tài cấp bộ.\n2. Thủ trưởng tổ chức chủ trì kiểm tra tình hình thực hiện đề tài cấp bộ định 5\nkỳ 6 tháng và hàng năm.\n3. Nội dung kiểm tra gồm tiến độ thực hiện, nội dung nghiên cứu, sản phẩm và\nviệc sử dụng kinh phí của đề tài so với thuyết minh đề tài được phê duyệt.\n4. Kết quả kiểm tra là căn cứ để xem xét việc tiếp tục triển khai thực hiện đề\ntài, điều chỉnh đề tài và cấp kinh phí\n5. Biên bản kiểm tra tình hình thực hiện đề tài cấp bộ (Mẫu 16 Phụ lục I) lưu ở tổ\nchức chủ trì, Bộ Giáo dục và Đào tạo và tổ chức, cá nhân cấp kinh phí cho đề tài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Điều chỉnh đề tài cấp bộ",
+          "text": "Điều 22. Điều chỉnh đề tài cấp bộ\n1. Khi cần điều chỉnh, tổ chức chủ trì đề tài cấp bộ gửi đề nghị điều chỉnh đề\ntài cấp bộ về Bộ Giáo dục và Đào tạo (Mẫu 14 Phụ lục I)\n\n12 CÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\n2. Điều chỉnh thời gian thực hiện đề tài cấp bộ chỉ được thực hiện một lần.\nThời gian gia hạn thực hiện đề tài tối đa 6 tháng đối với đề tài cấp bộ có thời gian\nthực hiện đến 24 tháng, tối đa 12 tháng đối với đề tài cấp bộ có thời gian thực hiện\ntrên 24 tháng\n3. Thay đổi chủ nhiệm đề tài cấp bộ được thực hiện trong các trường hợp sau:\nđi học tập hoặc công tác dài hạn trên 6 tháng; bị ốm đau, bệnh tật (có xác nhận của\ncơ quan y tế) không có khả năng điều hành hoạt động' nghiên cứu; vi phạm nguyên\ntắc quản lý tài chính; không hoàn thành tiến độ nội dung đề tài theo đặt hàng mà\nkhông có lý do chính đáng hoặc vi phạm pháp luật phải đình chỉ công tác. Chủ\nnhiệm đề tài mới phải đáp ứng các quy định tại Điều 7 của Thông tư này.\n4 Việc điều chỉnh đề tài cấp bộ không làm thay đổi mục tiêu nghiên cứu 1\ncủa đề tài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Thanh lý đề tài cấp bộ",
+          "text": "Điều 23. Thanh lý đề tài cấp bộ\n1. Việc thanh lý đề tài cấp bộ được tiến hành nếu có một trong các trường hợp sau:\na) Có văn bản đề nghị thanh lý của tổ chức chủ trì đề tài;\nb) Có kết luận kiểm tra của Bộ Giáo dục và Đào tạo đề nghị thanh lý; 1\nc) Có kết quả đánh giá của Hội đồng đánh giá cấp cơ sở mức \"Không đạt\"; / 6\nThời gian thực hiện đã quá 6 tháng mà không có lý do. 1\n2. Hội đồng tư vấn thanh lý đề tài cấp bộ (sau đây gọi là Hội đồng thanh lý)\ncó 7, 9 hoặc 11 thành viên, trong đó có 01 chủ tịch, 01 thư ký và các ủy viên.\nThành viên Hội đồng là đại diện của cơ quan quản lý nhà nước về khoa học và\ncông nghệ, kế hoạch tài chính, đại diện tổ chức chủ trì đề tài, đại diện tổ chức\ncấp kinh phí thực hiện đề tài, các nhà khoa học thuộc lĩnh vực nghiên cứu của đề ẵ\ntài (Mẫu 17 và 18 Phụ lục I).\n5\nChương -\nĐÁNH GIÁ, NGHIỆM THU KẾT QUẢ THỰC HIỆN ĐỀ TÀI CẤP BỘ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Đánh giá, nghiệm thu kết quả thực hiện đề tài cấp bộ",
+          "text": "Điều 24. Đánh giá, nghiệm thu kết quả thực hiện đề tài cấp bộ\nĐánh giá, nghiệm thu kết quả thực hiện đề tài cấp bộ được tiến hành ở 2 cấp:\ncấp cơ sở và cấp bộ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Đánh giá, nghiệm thu cấp cơ sở",
+          "text": "Điều 25. Đánh giá, nghiệm thu cấp cơ sở\n1. Sau khi hoàn thành đề tài, chủ nhiệm đề tài nộp cho phòng/ban khoa học và\ncông nghệ của tổ chức chủ trì báo cáo tổng kết, báo cáo tóm tắt và các sản phẩm,\ntài liệu theo thuyết minh và hợp đồng thực hiện đề tài để tổ chức đánh giá, nghiệm\nthu cấp cơ sở.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016 13\n2 Thủ trưởng tổ chức chủ trì thành lập Hội đồng đánh giá, nghiệm thu cấp cơ\nsở đề tài cấp bộ (sau đây gọi là Hội đồng đánh giá cấp cơ sở) và tổ chức đánh giá,\nnghiệm thu cấp cơ sở.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Hội đồng - đánh giá cấp cơ sở",
+          "text": "Điều 26. Hội đồng - đánh giá cấp cơ sở\n1. Hội đồng đánh giá cấp cơ sở có 7 hoặc 9 thành viên, trong đó có 01 chủ tịch,\n02 phản biện, 01 thư ký và các ủy viên; có ít nhất 02 thành viên ngoài tổ chức chủ\ntrì đề tài. Chủ nhiệm đề tài và những thành viên tham gia nghiên cứu không tham\ngia Hội đồng đánh giá cấp cơ sở.\n2 Phương thức làm việc và chương trình họp Hội đồng do Thủ trưởng tổ chức\nchủ trì đề tài quy định.\n3. Hội đồng đánh giá cấp cơ sở đánh giá, nghiệm thu kết quả nghiên cứu của 1\nđề tài so với thuyết minh và hợp đồng thực hiện đề tài.\n4. Hội đồng đánh giá cấp cơ sở đánh giá, nghiệm thu đề tài theo các nội dung:\nmục tiêu, nội dung cách tiếp cận và phương pháp nghiên cứu; sản phẩm, phương\nthức chuyển giao, địa chỉ ứng dụng, tác động và lợi ích mang lại của kết quả\nnghiên cứu, báo cáo tổng kết và báo cáo tóm tắt. Phiếu đánh giá cấp cơ sở và biên 1\nbản họp Hội đồng đánh giá cấp cơ sở đề tài khoa học và công nghệ cấp bộ theo\nMẫu 19 và Mẫu 20 Phụ lục I / 6\n5. Tổ chức chủ trì đề tài cấp bộ thông báo rộng rãi trên các phương tiện thông 1\ntin đại chúng về cuộc họp của Hội đồng đánh giá cấp cơ sở.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Xếp loại đánh giá, nghiệm thu cấp cơ sở",
+          "text": "Điều 27. Xếp loại đánh giá, nghiệm thu cấp cơ sở\n1. Đề tài được đánh giá, nghiệm thu cấp cơ sở theo 2 mức: \"Đạt\" và \"Không đạt\" . P\n2. Đề tài được đánh giá, nghiệm thu ở mức \"Đạt\" nếu có ít nhất 2/3 số thành\nviên Hội đồng có mặt xếp loại ở mức \"Đạt\" ẵ\n3. Đề tài được đánh giá, nghiệm thu ở mức \"Không đạt\" khi có một trong các 5\ntrường hợp sau:\na) Có nhiều hơn 1/3 số thành viên Hội đồng có mặt xếp loại ở mức \"Không' đạt\":\nb) Hồ sơ, tài liệu; số liệu về kết quả nghiên cứu không trung thực.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 28",
+          "heading": "Xử lý kết quả đánh giá, nghiệm thu cấp cơ sở",
+          "text": "Điều 28. Xử lý kết quả đánh giá, nghiệm thu cấp cơ sở\n1. Đối với đề tài cấp bộ được đánh giá, nghiệm thu cấp cơ sở ở mức \"Đạt\"\na) Chủ nhiệm đề tài hoàn thiện hồ sơ theo kết luận của Hội đồng đánh giá cấp\ncơ sở;\nb) Tổ chức chủ trì kiểm tra các nội dung chỉnh sửa theo kết luận của Hội đồng\nđánh giá cấp cơ sở.\n2. Đối với đề tài cấp bộ được đánh giá ở mức \"Không đạt , tổ chức chủ trì báo\ncáo Bộ Giáo dục và Đào tạo để xử lý theo quy định tại Điều 23 của Quy định này.\n\n14 CÔNG BÁO/Số 331 + 332/Ngày 14-5-2016",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 29",
+          "heading": "Đánh giá, nghiệm thu cấp bộ",
+          "text": "Điều 29. Đánh giá, nghiệm thu cấp bộ\n1. Tổ chức chủ trì đề tài cấp bộ gửi hồ sơ đề nghị đánh giá, nghiệm thu cấp bộ\nvề Bộ Giáo dục và Đào tạo trong thời hạn 45 ngày kể từ ngày họp Hội đồng đánh\ngiá cấp cơ sở.\n2 Bộ Giáo dục và Đào tạo thành lập Hội đồng tư vấn đánh giá, nghiệm thu cấp bộ\n(sau đây gọi là Hội đồng nghiệm thu cấp bộ)\n3. Hồ sơ đề nghị đánh giá, nghiệm thu cấp bộ gồm:\na) Báo cáo tổng kết; báo cáo tóm tắt (Mẫu 1 và 2 Phụ lục II) và tất cả sản\nphẩm, tài liệu theo thuyết minh và hợp đồng thực hiện đề tài (kèm theo danh mục\nsản phẩm); 1\nb) Thông tin kết quả nghiên cứu của đề tài (Mẫu 21 Phụ lục I);\nc) Thông tin kết quả nghiên cứu của đề tài bằng tiếng Anh (Mẫu 22 Phụ lục I);\nd) Báo cáo quyết toán tài chính của đề tài;\nđ) Biên bản kiểm tra tình hình thực hiện đề tài;\ne) Quyết định thành lập và biên bản họp Hội đồng đánh giá cấp cơ sở; 1\ng) Công văn của tổ chức chủ trì đề nghị Bộ Giáo dục và Đào tạo thành lập Hội / ;\nđồng nghiệm thu cấp bộ, kèm theo danh sách giới thiệu thành viên Hội đồng (từ 11\nngười trở lên, trong đó có 3 phản biện) (Mẫu 23 Phụ lục I). 1",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 30",
+          "heading": "Hội đồng nghiệm thu cấp bộ",
+          "text": "Điều 30. Hội đồng nghiệm thu cấp bộ\n1. Hội đồng nghiệm thu cấp bộ có 7,9 hoặc 11 thành viên, trong đó có 01 chủ\ntịch, 02 phản biện, 01 thư ký và các ủy viên; có 2/3 số thành viên Hội đồng là các\nnhà khoa học, chuyên gia trong lĩnh vực nghiên cứu của đề tài; số thành viên còn 1\nlại là đại diện của cơ quan quản lý nhà nước, cơ sở sản xuất kinh doanh hoặc tổ\nchức liên quan đến việc ứng dụng, chuyển giao kết quả nghiên cứu của đề tài; có ít\nnhất 01 phản biện là người ngoài tổ chức chủ trì. Thành phần của Hội đồng nghiệm\nthu phải có ít nhất 1/3 số thành viên là nhà khoa học; cán bộ ngoài tổ chức chủ trì\nđề tài và có tối đa 02 thành viên là thành viên Hội đồng đánh giá cấp cơ sở. Chủ\ntịch Hội đồng và phản biện của Hội đồng đánh giá cấp cơ sở không là chủ tịch Hội\nđồng và phản biện Hội đồng nghiệm thu cấp bộ.\n2. Chủ nhiệm đề tài và những thành viên tham gia nghiên cứu không tham gia\nHội đồng nghiệm thu cấp bộ.\n3. Trách nhiệm của thành viên Hội đồng nghiệm thu cấp bộ\nTrách nhiệm của thành viên Hội đồng nghiệm thu cấp bộ thực hiện theo quy\nđịnh tại Điều 35 của Nghị định số 08/2014/NĐ-CP ngày 27 tháng 01 năm 2014 của\nChính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học\nvà Công nghệ.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016 15",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 31",
+          "heading": "Nội dung đánh giá, nghiệm thu cấp bộ yêu cầu đối với sản phẩm",
+          "text": "Điều 31. Nội dung đánh giá, nghiệm thu cấp bộ yêu cầu đối với sản phẩm\nvà báo cáo tổng kết của đề tài cấp bộ\n1 Đề tài cấp bộ được đánh giá, nghiệm thu theo các nội dung sau:\na) Về sản phẩm của đề tài: Số lượng, khối lượng sản phẩm; chất lượng sản\nphẩm; tính năng thông số kỹ thuật của sản phẩm so với thuyết minh và hợp đồng\nthực hiện đề tài;\nb) Về báo cáo tổng kết: Tính đầy đủ, rõ ràng; xác thực và khoa học của báo cáo\ntổng kết và các tài liệu cần thiết kèm theo.\n2. Yêu cầu đối với sản phẩm\nNgoài các yêu cầu ghi trong thuyết minh và hợp đồng thực hiện đề tài; sản 1\nphẩm của đề tài cấp bộ cần phải đáp ứng được các yêu cầu sau:\na) Đối với sản phẩm là: mẫu; vật liệu; thiết bị, máy móc; dây chuyền công\nnghệ; giống cây trồng; giống vật nuôi và các sản phẩm có thể đo kiểm cần phải có\nvăn bản chứng nhận kiểm định chất lượng của các cơ quan, tổ chức có chức năng\nphù hợp; độc lập với tổ chức chủ trì; 1\nb) Đối với sản phẩm là: nguyên lý ứng dụng; phương pháp; tiêu chuẩn; quy\nphạm; phần mềm máy tính; bản vẽ thiết kế; quy trình công nghệ; sơ đồ, bản đồ; số / ;\nliệu; cơ sở dữ liệu; báo cáo phân tích; tài liệu dự báo (phương pháp; quy trình, mô 1\nhình,-); đề án, quy hoạch; luận chứng kinh tế kỹ thuật, báo cáo nghiên cứu khả\nthi và các sản phẩm tương tự khác cần được thẩm định bởi Hội đồng khoa học\nchuyên ngành hoặc tổ chuyên gia do tổ chức chủ trì đề tài cấp bộ thành lập;\nc) Đối với sản phẩm là: kết quả tham gia đào tạo sau đại học, giải pháp hữu\ních, sáng chế, công bố, xuất bản và các sản phẩm tương tự khác cần có văn bản xác ẵ\nnhận của cơ quan chức năng phù hợp;\nd) Các sản phẩm cần ghi rõ là sản phẩm của đề tài khoa học cấp bộ như mã số 5\nđề tài, tên đề tài..\n3. Yêu cầu đối với báo cáo tổng kết\na) Tổng quan được các kết quả nghiên cứu đã có liên quan đến đề tài;\nb) Số liệu; tư liệu có tính đại diện, độ tin cậy, xác thực, cập nhật;\nc) Nội dung báo cáo là toàn bộ kết quả nghiên cứu của đề tài được trình bày\ntheo kết cấu hệ thống và khoa học, với các luận cứ khoa học có cơ sở lý luận và\nthực tiễn cụ thể giải đáp những vấn đề nghiên cứu đặt ra, phản ánh trung thực kết\nquả nghiên cứu của đề tài phù hợp với thông lệ chung trong hoạt động nghiên cứu\nkhoa học;\nd) Kết cấu nội dung; văn phong khoa học, phù hợp.\n\n16 CÔNG BÁO/Số 331 + 332/Ngày 14-5-2016",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 32",
+          "heading": "Phương thức đánh giá, nghiệm thu cấp bộ",
+          "text": "Điều 32. Phương thức đánh giá, nghiệm thu cấp bộ\n1. Mỗi sản phẩm của đề tài được đánh giá theo các tiêu chí về số lượng; khối\nlượng và chất lượng theo 3 mức: \"Xuất sắc\" khi vượt mức so với thuyết minh và\nhợp đồng thực hiện đề tài; 'Đạt\" khi đáp ứng đúng, đủ yêu cầu so với thuyết minh\nvà hợp đồng thực hiện đề tài; \"Không đạt khi không đáp ứng đúng, đủ yêu cầu so\nvới thuyết minh và hợp đồng thực hiện đề tài. Ngoài các yêu cầu ghi trong thuyết\nminh và hợp đồng thực hiện đề tài, sản phẩm của đề tài cấp bộ cần phải đáp ứng\nđược các yêu cầu quy định tại Khoản 2 Điều 31 của Quy định này.\n2 Báo cáo tổng kết đề tài được đánh giá theo 3 mức: \"Xuất sắc' khi báo cáo\ntổng kết đã hoàn thiện, đáp ứng yêu cầu quy định tại Khoản 3 Điều 31; \"Đạt\" khi\nbáo cáo tổng kết cần chỉnh sửa, bổ sung và có thể hoàn thiện; \"Không đạt\" khi 1\nkhông thuộc hai trường hợp trên.\n3. Đánh giá, nghiệm thu đề tài theo 3 mức: \"Xuất sắc\" khi tất cả tiêu chí về sản\nphẩm đạt mức \"Xuất sắc' và báo cáo tổng kết đạt mức \"Đạt\" trở lên; \"Đạt\" khi đáp\nứng đồng thời các yêu cầu: Tất cả các tiêu chí về khối lượng; số lượng và chất\nlượng sản phẩm ở mức \"Đạt trở lên; báo cáo tổng kết đạt mức Đạt trở lên;\n\"Không đạt' khi không thuộc hai trường hợp trên 1\n4 Xếp loại đánh giá, nghiệm thu cấp bộ / 6\nĐề tài được đánh giá, nghiệm thu cấp bộ theo 3 mức: \"Xuất sắc\" , \"Đạt\" và 1\n\"Không đạt\na) Mức \"Xuất sắc\" nếu đề tài có ít nhất 3/4 số thành viên Hội đồng nghiệm thu\ncấp bộ có mặt xếp loại ở mức \"Xuất sắc\" và không có thành viên Hội đồng xếp\nloại ở mức \"Không đạt\"\nb) Mức \"Không đạt\" nếu đề tài có nhiều hơn 1/3 số thành viên Hội đồng ẵ\nnghiệm thu cấp bộ có mặt xếp loại ở mức \"Không đạt\"\nc) Mức Đạt' nếu đề tài không thuộc điểm a và điểm b Khoản này. 5",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 33",
+          "heading": "Tổ chức họp Hội đồng nghiệm thu cấp bộ",
+          "text": "Điều 33. Tổ chức họp Hội đồng nghiệm thu cấp bộ\n1 . Hội đồng nghiệm thu cấp bộ được tổ chức họp trong thời gian 45 ngày, kể\ntừ ngày ký quyết định thành lập Hội đồng.\n2. Tổ chức chủ trì báo cáo Bộ Giáo dục và Đào tạo về thời gian và địa điểm tổ\nchức họp Hội đồng nghiệm thu cấp bộ.\n3. Tổ chức chủ trì đề tài cấp bộ thông báo rộng rãi trên các phương tiện thông\ntin đại chúng về cuộc họp của Hội đồng nghiệm thu cấp bộ.\n4. Hội đồng nghiệm thu cấp bộ họp khi có mặt chủ tịch, thư ký, có ít nhất 2/3\nsố thành viên Hội đồng, có bản nhận xét của 2 phản biện và chỉ được vắng mặt 1\nphản biện.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016 17\n5. Tài liệu cuộc họp gửi cho các thành viên Hội đồng ít nhất 03 ngày trước khi\nhọp. Tất cả thành viên Hội đồng chuẩn bị ý kiến nhận xét kết quả thực hiện đề tài\ntheo Mẫu 24 Phụ lục I. Ý kiến bằng văn bản của thành viên Hội đồng vắng mặt chỉ\ncó ý nghĩa tham khảo.\n6 Chương trình họp Hội đồng nghiệm thu cấp bộ bao gồm:\na) Đại diện Bộ Giáo dục và Đào tạo hoặc đại diện tổ chức chủ trì đề tài đọc\nQuyết định thành lập Hội đồng nghiệm thu cấp bộ, giới thiệu thành phần Hội đồng\nvà các đại biểu tham dự;\nb) Đại diện Bộ Giáo dục và Đào tạo hoặc đại diện tổ chức chủ trì đề tài phát\nbiểu ý kiến;\nc) Chủ tịch Hội đồng chủ trì phiên họp; 1\nd) Chủ nhiệm đề tài báo cáo kết quả thực hiện đề tài;\nđ) Các phản biện đọc nhận xét và nêu câu hỏi;\ne) Các thành viên Hội đồng và những người tham dự phát biểu ý kiến và nêu\ncâu hỏi; 1\ng) Chủ nhiệm đề tài trả lời câu hỏi;\nh) Trao đổi chung; / 6\ni) Các thành viên Hội đồng đánh giá, nghiệm thu theo Phiếu đánh giá, nghiệm 1\nthu (Mẫu 25 Phụ lục I);\nk) Hội đồng họp riêng để đánh giá và thống - nhất kết luận;\nl) Hội đồng bầu ban kiểm phiếu gồm 3 thành viên, trong đó có 01 trưởng ban.\nBan kiểm phiếu tổng hợp kết quả đánh giá theo Mẫu 26 Phụ lục I và công bố kết\nquả kiểm phiếu tại cuộc họp của Hội đồng; ẵ\nm) Chủ tịch Hội đồng công bố kết luận cuộc họp Hội đồng. Biên bản họp Hội 5\nđồng nghiệm thu cấp bộ theo Mẫu 27 Phụ lục I.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 34",
+          "heading": "Xử lý kết quả đánh giá, nghiệm thu cấp bộ",
+          "text": "Điều 34. Xử lý kết quả đánh giá, nghiệm thu cấp bộ\n1. Đối với đề tài được xếp loại ở mức \"Đạt trở lên, trong thời hạn 45 ngày kể\ntừ ngày họp Hội đồng nghiệm thu cấp bộ, chủ nhiệm đề tài hoàn thiện hồ sơ theo ý\nkiến kết luận của Hội đồng:\n2 Chủ nhiệm đề tài và tổ chức chủ trì gửi về Bộ Giáo dục và Đào tạo hồ sơ\nxác nhận hoàn thành đề tài.\n3. Hồ sơ xác nhận hoàn thành đề tài bao gồm:\na) Biên bản họp Hội đồng nghiệm thu cấp bộ;\nb) Bản giải trình hoàn thiện đề tài có ý kiến của Chủ tịch Hội đồng nghiệm thu\ncấp bộ và xác nhận của tổ chức chủ trì (Mẫu 28 Phụ lục I);\n\n18 CÔNG BÁO/Số 331 + 332/Ngày 14-5-2016\nBáo cáo tổng kết; báo cáo tóm tắt đã hoàn thiện theo ý kiến của Hội đồng\nnghiệm thu cấp bộ;\nd) Đĩa CD có lưu báo cáo tổng kết, báo cáo tóm tắt, thông tin kết quả nghiên\ncứu của đề tài.\n4. Chủ nhiệm đề tài và tổ chức chủ trì công bố kết quả nghiên cứu của đề tài\ntheo các quy định hiện hành.\n5. Tổ chức chủ trì và chủ nhiệm đề tài tiến hành các thủ tục xác lập quyền sở\nhữu trí tuệ để bảo hộ kết quả nghiên cứu của đề tài theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 35",
+          "heading": "Thanh lý hợp đồng thực hiện đề tài cấp bộ",
+          "text": "Điều 35. Thanh lý hợp đồng thực hiện đề tài cấp bộ\n1 Bộ trưởng Bộ Giáo dục và Đào tạo giao Thủ trưởng tổ chức chủ trì đề tài\nthanh lý hợp đồng thực hiện đề tài cấp bộ với chủ nhiệm đề tài:\n2 Tổ chức chủ trì gửi 01 bản Biên bản thanh lý hợp đồng thực hiện đề tài 1\n(Mẫu 29 Phụ lục I) về Bộ Giáo dục và Đào tạo để theo dõi và quản lý.\n3. Đối với trường hợp tổ chức chủ trì không phải là đơn vị dự toán thuộc Bộ\nGiáo dục và Đào tạo, Văn phòng Bộ Giáo dục và Đào tạo thanh lý hợp đồng thực\nhiện đề tài cấp bộ với tổ chức, cá nhân chủ trì đề tài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 36",
+          "heading": "Kinh phí hoạt động của các Hội đồng tư vấn khoa học và công 1",
+          "text": "Điều 36. Kinh phí hoạt động của các Hội đồng tư vấn khoa học và công 1\nnghệ cấp bộ, Tổ thẩm định và kiểm tra thực hiện đề tài\n1 Kinh phí hoạt động của Hội đồng tư vấn khoa học và công nghệ cấp bộ: xác / 6\nđịnh, tuyển chọn; xét duyệt đề tài giao trực tiếp; nghiệm thu, thanh lý đề tài, Tổ\nthẩm định và kiểm tra thực hiện đề tài được chi từ kinh phí sự nghiệp khoa học và 1\ncông nghệ cấp hàng năm Đối với các Hội đồng do Thủ trưởng các tổ chức ra\nquyết định thành lập và tổ chức họp; kinh phí được chi từ nguồn kinh phí khoa học\nvà công nghệ của các tổ chức.\n2. Kinh phí hoạt động của Hội đồng đánh giá cấp cơ sở được chi từ kinh phí sự\nnghiệp khoa học và công nghệ cấp cho đề tài. ẵ\n3. Định mức chi cho hoạt động của các Hội đồng, Tổ thẩm định và kiểm tra\nthực hiện đề tài theo quy định tài chính hiện hành của Nhà nước . 5\n4 Đối với đề tài cấp bộ không sử dụng ngân sách nhà nước, kinh phí hoạt\nđộng của các Hội đồng tư vấn khoa học và công nghệ: xác định, tuyển chọn, đánh\ngiá, nghiệm thu, thanh lý đề tài, Tổ thẩm định và kiểm tra thực hiện đề tài do tổ\nchức chủ trì hoặc bên cấp kinh phí cho đề tài chi trả.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 37",
+          "heading": "Khen thưởng",
+          "text": "Điều 37. Khen thưởng\n1 Hàng năm, tổ chức, cá nhân thực hiện các đề tài đạt kết quả xuất sắc, được\náp dụng vào thực tiễn sản xuất và đời sống, mang lại hiệu quả kinh tế xã hội cao\nđược Bộ trưởng Bộ Giáo dục và Đào tạo xem xét khen thưởng.\n\nCÔNG BÁO/Số 331 + 332/Ngày 14-5-2016 19\n2 Nguồn kinh phí khen thưởng và mức khen thưởng được thực hiện theo quy\nđịnh hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 38",
+          "heading": "Xử lý vi phạm",
+          "text": "Điều 38. Xử lý vi phạm\n1 Chủ nhiệm đề tài không hoàn thành nhiệm vụ được giao theo Thuyết minh\nđề tài sẽ bị xử lý theo hình thức thanh lý và phải bồi hoàn kinh phí được cấp từ\nngân sách Nhà nước, đồng thời sẽ không được đăng ký làm chủ nhiệm đề tài cấp\nbộ ít nhất trong thời gian 3 năm kể từ ngày thanh lý .\n2 Tổ chức; cá nhân vi phạm Quy định này, tùy theo tính chất, mức độ vi\nphạm, sẽ bị xử lý, xử phạt; áp dụng các trách nhiệm pháp lý khác theo quy định\ncủa pháp luật hiện hành / .\n1",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Thông tư này Quy định về quản lý đề tài khoa ẵ",
+      "text": "Điều 1. Ban hành kèm theo Thông tư này Quy định về quản lý đề tài khoa ẵ\nhọc và công nghệ cấp bộ của Bộ Giáo dục và Đào tạo\nĐiều 2; Thông tư này có hiệu lực thi hành kể từ ngày 27 tháng 5 năm 2016 5\nvà thay thế Thông tư số 12/2010/TT-BGDĐT ngày 29 tháng 3 năm 2010 của Bộ\ntrưởng Bộ Giáo dục và Đào tạo ban hành Quy định về quản lý đề tài khoa học\nvà công nghệ cấp bộ của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Thông tư này có hiệu lực thi hành kể từ ngày 27 tháng 5 năm 2016 và thay thế Thông tư số 12/2010/TT-BGDĐT ngày 29 tháng 3 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về quản lý đề tài khoa học và công nghệ cấp bộ của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Khoa học, Công nghệ và Môi",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Khoa học, Công nghệ và Môi\ntrường, Thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo, Giám đốc các đại\nhọc vùng; Hiệu trưởng các trường đại học, cao đẳng, Viện trưởng các viện\nnghiên cứu; Giám đốc các trung tâm nghiên cứu khoa học và các cá nhân có liên\nquan chịu trách nhiệm thi hành Thông tư này / .",
+      "isImplementationClause": true
+    }
+  ]
+}

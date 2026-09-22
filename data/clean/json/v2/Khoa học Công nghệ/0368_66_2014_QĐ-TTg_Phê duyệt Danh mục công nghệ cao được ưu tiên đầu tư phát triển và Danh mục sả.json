@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0368_66_2014_QĐ-TTg_Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sả.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "66/2014/QĐ-TTg",
+    "title": "Quyết định Về việc phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "25/11/2014",
+    "effectiveDate": "15/01/2015",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Công nghệ thông tin, CĐS"
+    ],
+    "summary": "Thủ tướng Chính phủ ban hành Quyết định phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển, đồng thời quy định việc xem xét bổ sung các danh mục và hiệu lực thi hành.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Tấn Dũng",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "49/2010/QĐ-TTg",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2015 và thay thế Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 7 năm 2010 của Thủ tướng Chính phủ về việc phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển."
+    }
+  ],
+  "mentions": [
+    "Bộ Khoa học và Công nghệ",
+    "Ban Bí thư Trung ương Đảng",
+    "Chính phủ",
+    "Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương",
+    "Văn phòng Trung ương và các Ban của Đảng",
+    "Văn phòng Tổng Bí thư",
+    "Văn phòng Chủ tịch nước",
+    "Hội đồng Dân tộc và các Ủy ban của Quốc hội",
+    "Văn phòng Quốc hội",
+    "Tòa án nhân dân tối cao",
+    "Viện Kiểm sát nhân dân tối cao",
+    "Kiểm toán Nhà nước",
+    "Ủy ban Giám sát tài chính Quốc gia",
+    "Ngân hàng Chính sách xã hội",
+    "Ngân hàng Phát triển Việt Nam",
+    "Mặt trận Tổ quốc Việt Nam",
+    "Văn phòng Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát",
+      "text": "Điều 1. Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát\ntriển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển\n(ban hành kèm theo Quyết định này).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối với các công nghệ cao và sản phẩm công nghệ cao không",
+      "text": "Điều 2. Đối với các công nghệ cao và sản phẩm công nghệ cao không\nnằm trong Danh mục ban hành kèm theo Quyết định này nhưng thuộc trường\nhợp cấp thiết phục vụ nhu cầu phát triển kinh tế - xã hội thì Bộ Khoa học và\nCông nghệ chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ có liên quan trình\nThủ tướng Chính phủ xem xét, quyết định.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01\nnăm 2015 và thay thế Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 7\nnăm 2010 của Thủ tướng Chính phủ về việc phê duyệt Danh mục công nghệ\ncao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao\nđược khuyến khích phát triển.\n\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan\nthuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc\nTrung ương chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

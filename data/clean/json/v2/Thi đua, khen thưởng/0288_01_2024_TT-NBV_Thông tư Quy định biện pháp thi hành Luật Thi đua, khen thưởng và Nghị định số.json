@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0288_01_2024_TT-NBV_Thông tư Quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số.txt",
+  "mappedBy": "gemini-web",
+  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "01/2024/TT-BNV",
+    "title": "Thông tư Quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/02/2024",
+    "effectiveDate": "15/04/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng"
+    ],
+    "summary": "Thông tư này quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số 98/2023/NĐ-CP, bao gồm các quy định về nguyên tắc thi đua khen thưởng, hình thức và nội dung tổ chức phong trào thi đua, việc tặng cờ thi đua và Bằng khen, khen thưởng đối với khối cơ quan đảng, đoàn thể, tổ chức tôn giáo, cũng như việc công nhận sáng kiến và trách nhiệm tiếp nhận hồ sơ.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Nội vụ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Thị Thanh Trà",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "98/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "63/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 63/2022/NĐ-CP ngày 12 tháng 9 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ;"
+    }
+  ],
+  "mentions": [
+    "Ban Thi đua - Khen thưởng Trung ương",
+    "Chính phủ",
+    "Bộ Nội vụ",
+    "Thủ tướng Chính phủ",
+    "Chủ tịch nước",
+    "Mặt trận Tổ quốc Việt Nam",
+    "Tổng Liên đoàn Lao động Việt Nam",
+    "Hội đồng Thi đua - Khen thưởng Trung ương"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Quy định chung về thi đua, khen thưởng",
+      "text": "Điều 1. Quy định chung về thi đua, khen thưởng\n1. Đối với cá nhân, tập thể, hộ gia đình có thành tích xuất sắc đột xuất thì\nngười đứng đầu Bộ, ban, ngành, tỉnh khen thưởng theo thẩm quyền. Trường hợp\nthành tích tiêu biểu xuất sắc, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh\nhoặc lĩnh vực thuộc Bộ, ban, ngành, tỉnh hoặc phạm vi toàn quốc thì đề nghị\nkhen thưởng cấp Nhà nước theo tiêu chuẩn quy định.\n2. Đối với tập thể không có tổ chức đảng, đoàn thể khi đề nghị khen\nthưởng trong Báo cáo thành tích phải thể hiện là tập thể không có tổ chức đảng,\nđoàn thể.\n3. Người đứng đầu Bộ, ban, ngành, tỉnh khi sơ kết, tổng kết phong trào thi\nđua trong phạm vi Bộ, ban, ngành, tỉnh thực hiện việc khen thưởng theo thẩm\nquyền. Bộ, ban, ngành không đề nghị khen thưởng cấp Nhà nước cho đối tượng\nkhông do Bộ, ban, ngành quản lý chuyên môn theo ngành dọc.\nKhi sơ kết, tổng kết phong trào thi đua, ngoài việc khen thưởng theo thẩm\nquyền, Bộ, ban, ngành, tỉnh lựa chọn cá nhân, tập thể có thành tích tiêu biểu xuất\nsắc đề nghị tặng Bằng khen của Thủ tướng Chính phủ (đối với phong trào thi\nđua có thời gian từ 03 năm trở lên); lựa chọn cá nhân, tập thể có thành tích đặc\nbiệt xuất sắc đề nghị Thủ tướng Chính phủ xét, trình Chủ tịch nước tặng thưởng\nHuân chương Lao động hạng Ba (đối với phong trào thi đua có thời gian từ 05\nnăm trở lên).\n\n2\n4. Khi Bộ, ban, ngành, tỉnh tiến hành sơ kết, tổng kết việc thực hiện luật,\npháp lệnh, nghị định hoặc phục vụ hội nghị, hội thảo, diễn đàn quốc tế, khu\nvực... thì thực hiện khen thưởng theo thẩm quyền, không đề nghị khen thưởng\ncấp Nhà nước, trừ thành tích phục vụ hội nghị, diễn đàn quốc tế, khu vực phục\nvụ nhiệm vụ chính trị của Đảng, Nhà nước.\n5. Việc bình xét danh hiệu “Lao động tiên tiến”, “Chiến sĩ tiên tiến” trong\nmột số trường hợp cụ thể được thực hiện như sau:\na) Cá nhân tham gia chiến đấu, phục vụ chiến đấu hoặc có hành động dũng\ncảm cứu người, cứu tài sản của Nhà nước, của Nhân dân dẫn đến bị thương tích\ncần điều trị, điều dưỡng theo kết luận của cơ sở y tế cấp huyện hoặc tương\nđương trở lên thì thời gian điều trị, điều dưỡng được tính để bình xét danh hiệu\n“Lao động tiên tiến”, “Chiến sĩ tiên tiến”;\nb) Cá nhân được cử tham gia đào tạo, bồi dưỡng ngắn hạn dưới 01 năm,\nchấp hành tốt quy định của cơ sở đào tạo, bồi dưỡng thì thời gian học tập được\ntính vào thời gian công tác tại cơ quan, tổ chức, đơn vị để được bình xét danh\nhiệu “Lao động tiên tiến”, “Chiến sĩ tiên tiến”;\nTrường hợp cá nhân được cử tham gia đào tạo, bồi dưỡng từ 01 năm trở lên\nthì thời gian tham gia đào tạo, bồi dưỡng được tính vào thời gian để bình xét\ndanh hiệu “Lao động tiên tiến”, “Chiến sĩ tiên tiến”. Ngoài các tiêu chuẩn, điều\nkiện theo quy định chung, trong thời gian tham gia đào tạo, bồi dưỡng, cá nhân\nphải chấp hành tốt quy định của cơ sở đào tạo, hoàn thành nhiệm vụ học tập, đạt\nkết quả học tập từ loại khá trở lên (đối với các khóa đào tạo, bồi dưỡng có xếp\nloại trung bình, khá, giỏi...);\nc) Đối với cá nhân chuyển công tác hoặc được điều động, biệt phái đến\ncơ quan, tổ chức, đơn vị khác trong một thời gian nhất định thì việc bình xét\ndanh hiệu “Lao động tiên tiến”, “Chiến sĩ tiên tiến” do cơ quan, tổ chức, đơn vị\ncó thẩm quyền đánh giá, xếp loại mức độ hoàn thành nhiệm vụ (đối với cá\nnhân là cán bộ, công chức, viên chức) hoặc cơ quan, tổ chức, đơn vị mới (đối\nvới cá nhân không phải là cán bộ, công chức, viên chức) thực hiện. Trường hợp\ncó thời gian công tác ở cơ quan cũ từ 06 tháng trở lên phải có ý kiến nhận xét\ncủa cơ quan cũ;\nd) Không xét tặng danh hiệu “Lao động tiên tiến”, “Chiến sĩ tiên tiến” đối\nvới các cá nhân mới tuyển dụng dưới 06 tháng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hình thức tổ chức thi đua",
+      "text": "Điều 2. Hình thức tổ chức thi đua\n1. Thi đua thường xuyên là hình thức thi đua căn cứ vào chức năng, nhiệm\nvụ được giao của cá nhân, tập thể để tổ chức phát động, nhằm thực hiện tốt công\nviệc hàng ngày, hàng tháng, hàng quý, hàng năm của cơ quan, tổ chức, đơn vị.\nĐối tượng thi đua thường xuyên là các cá nhân trong một tập thể, các tập thể\ntrong cùng một cơ quan, tổ chức, đơn vị hoặc giữa các cơ quan, tổ chức, đơn vị\ncó chức năng, nhiệm vụ, tính chất công việc tương ứng nhau được chia theo\nkhối thi đua, cụm thi đua.\n\n3\nViệc tổ chức phong trào thi đua thường xuyên phải xác định rõ mục đích,\nyêu cầu, mục tiêu, các chỉ tiêu cụ thể và được triển khai thực hiện tại cơ quan, tổ\nchức, đơn vị hoặc theo cụm thi đua, khối thi đua để phát động phong trào thi đua,\nký kết giao ước thi đua. Kết thúc năm công tác, thủ trưởng cơ quan, tổ chức, đơn\nvị, trưởng các cụm thi đua, khối thi đua tiến hành tổng kết và bình xét các danh\nhiệu thi đua.\n2. Thi đua theo chuyên đề là hình thức thi đua nhằm thực hiện tốt nhiệm\nvụ trọng tâm hoặc một lĩnh vực cần tập trung được xác định trong khoảng thời\ngian nhất định để phấn đấu hoàn thành nhiệm vụ trọng tâm, cấp bách của cơ\nquan, tổ chức, đơn vị. Chỉ phát động thi đua theo chuyên đề khi đã xác định rõ\nthời gian mục đích, yêu cầu, chỉ tiêu, nội dung và giải pháp cụ thể.\nKhi tổ chức phong trào thi đua theo chuyên đề trong phạm vi Bộ, ban,\nngành, tỉnh có thời gian từ 03 năm trở lên, cơ quan chuyên trách công tác thi\nđua, khen thưởng của Bộ, ban, ngành, tỉnh gửi Kế hoạch tổ chức phát động\nphong trào thi đua về Bộ Nội vụ (Ban Thi đua - Khen thưởng Trung ương) để\ntheo dõi, tổng hợp, đối chiếu khi thẩm định hồ sơ khen thưởng cấp Nhà nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nội dung tổ chức phong trào thi đua",
+      "text": "Điều 3. Nội dung tổ chức phong trào thi đua\nNgười đứng đầu cơ quan, tổ chức, đơn vị có trách nhiệm triển khai tổ\nchức phong trào thi đua trong phạm vi quản lý theo một số nội dung sau:\n1. Tổ chức phong trào thi đua gắn với chức năng, nhiệm vụ được giao hoặc\nmục tiêu, định hướng, chiến lược phát triển của cơ quan, đơn vị, tổ chức. Phong\ntrào thi đua phải có chủ đề, tên gọi dễ nhớ, dễ hiểu, có chỉ tiêu, nội dung, kế\nhoạch, phương pháp thi đua cụ thể, thiết thực, phù hợp với điều kiện, khả năng\ntham gia của cá nhân, tập thể, hộ gia đình.\n2. Triển khai nhiều biện pháp tuyên truyền, vận động cá nhân, tập thể, hộ\ngia đình tích cực hưởng ứng, tham gia các phong trào thi đua. Thường xuyên\nđôn đốc, theo dõi quá trình tổ chức thực hiện; chú trọng công tác chỉ đạo điểm,\nhướng dẫn, kiểm tra đối với phong trào thi đua có thời gian thực hiện từ 03 năm\ntrở lên; phát hiện nhân tố mới, điển hình tiên tiến để tuyên truyền, biểu dương,\nnhân rộng. Sơ kết, tổng kết, khen thưởng các cá nhân, tập thể, hộ gia đình có\nthành tích trong phong trào thi đua. Tăng cường phổ biến các sáng kiến, kinh\nnghiệm, cách làm hay, sáng tạo, hiệu quả để cá nhân, tổ chức, hộ gia đình khác\nhọc tập và làm theo.\n3. Tổng kết phong trào thi đua phải đánh giá đúng kết quả, hiệu quả, tác\ndụng; tồn tại, hạn chế và nguyên nhân; đồng thời rút ra những bài học kinh\nnghiệm trong việc tổ chức phong trào thi đua. Việc bình xét, công nhận danh\nhiệu thi đua và hình thức khen thưởng phải đảm bảo nguyên tắc chính xác, công\nkhai, minh bạch, công bằng; kịp thời khen thưởng các cá nhân, tập thể, hộ gia\nđình tiêu biểu xuất sắc; khuyến khích khen thưởng cá nhân là ngư dân, đồng bào\ndân tộc thiểu số, nông dân, công nhân, người yếu thế, khuyết tật; tập thể, cá\nnhân có thành tích tiêu biểu xuất sắc trong lao động, sản xuất, học tập, công tác;\ncán bộ, công chức, viên chức năng động, sáng tạo, dám nghĩ, dám làm, dám đột\nphá vì lợi ích chung.\n\n4",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Triển khai tổ chức phong trào thi đua",
+      "text": "Điều 4. Triển khai tổ chức phong trào thi đua\n1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ,\nlãnh đạo ban, ngành, cơ quan, tổ chức ở Trung ương, Chủ tịch Ủy ban nhân dân\ncác cấp, lãnh đạo các cơ quan, tổ chức, đơn vị chủ trì, phối hợp với tổ chức\nchính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ\nchức xã hội - nghề nghiệp cùng cấp để tổ chức phát động, chỉ đạo tổ chức triển\nkhai phong trào thi đua trong phạm vi quản lý; chủ động phát hiện, lựa chọn các\ncá nhân, tập thể, hộ gia đình có thành tích xứng đáng để khen thưởng hoặc đề\nnghị cấp trên khen thưởng; tuyên truyền, tôn vinh, nhân rộng các điển hình tiên\ntiến và tạo điều kiện để cá nhân, tập thể, hộ gia đình được khen thưởng cấp Nhà\nnước được trao đổi, giao lưu, phổ biến kinh nghiệm, nhân rộng những sáng kiến,\nmô hình hay, sáng tạo, cách làm hiệu quả.\n2. Mặt trận Tổ\nquốc Việt Nam, các tổ chức thành viên của Mặt trận, các tổ\nchức xã hội khác triển khai tổ chức phong trào thi đua trong phạm vi nhiệm vụ,\nquyền hạn của mình:\na) Tổ chức hoặc phối hợp với các cơ quan nhà nước để phát động, triển\nkhai các cuộc vận động, các phong trào thi đua, phổ biến kinh nghiệm, nhân\nrộng các điển hình tiên tiến;\nb) Phối hợp, thống nhất hành động giữa các tổ chức thành viên; tham gia\nvới các cơ quan chức năng tuyên truyền, động viên đoàn viên, hội viên, các tầng\nlớp nhân dân tham gia phong trào thi đua và thực hiện chính sách khen thưởng;\nc) Giám sát việc thực hiện chính sách, pháp luật về thi đua, khen thưởng\nvà phản biện xã hội đối với dự thảo chính sách, pháp luật về thi đua, khen\nthưởng; kịp thời phản ánh, đề xuất các giải pháp để thực hiện các quy định của\npháp luật về thi đua, khen thưởng.\n3. Cơ quan, tổ chức, đơn vị tham mưu, giúp việc về công tác thi đua, khen\nthưởng các cấp, các ngành căn cứ vào nhiệm vụ, chỉ tiêu cụ thể của kế hoạch\nphát triển kinh tế - xã hội hàng năm, 05 năm và nhiệm vụ chính trị được giao\ncủa cơ quan, tổ chức, đơn vị cùng cấp để tham mưu, đề xuất với cấp ủy đảng,\nchính quyền về chủ trương, nội dung, chương trình, kế hoạch, biện pháp thi đua;\nđặc biệt coi trọng công tác tuyên truyền, vận động các tầng lớp Nhân dân tham\ngia phong trào thi đua; chủ động phối hợp với Mặt trận Tổ quốc Việt Nam và\ncác tổ chức thành viên của Mặt trận Tổ quốc Việt Nam trong việc hướng\ndẫn tổ\nchức các phong trào thi đua và kiểm tra việc thực hiện; tham mưu sơ kết, tổng\nkết các phong trào thi đua, nhân rộng các điển hình tiên tiến; đề xuất khen\nthưởng và các giải pháp nâng cao hiệu quả công tác thi đua, khen thưởng.\n4. Cơ quan thông tin đại chúng thường xuyên tuyên truyền mục đích, ý\nnghĩa của phong trào thi đua yêu nước theo tư tưởng Hồ Chí Minh; chủ trương,\nđường lối của Đảng, chính sách pháp luật của Nhà nước về công tác thi đua,\nkhen thưởng; vị trí vai trò, tầm quan trọng của thi đua yêu nước trong sự nghiệp\ncách mạng; đẩy mạnh tuyên truyền các phong trào thi đua yêu nước; phản ánh\nđúng kết quả, bài học kinh nghiệm trong tổ chức thực hiện các phong trào thi\nđua yêu nước, những đổi mới trong công tác thi đua, khen thưởng của các Bộ,\n\n5\nban, ngành, đoàn thể trung ương, địa phương, cơ quan, đơn vị; phát hiện các cá\nnhân, tập thể, hộ gia đình có thành tích xuất sắc trong phong trào thi đua; biểu\ndương, tôn vinh, nêu gương các điển hình tiên tiến, người tốt, việc tốt, đấu tranh\nvới các hành vi vi phạm pháp luật về thi đua, khen thưởng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Điều",
+      "text": "Điều\n5. Việc tặng cờ thi đua, Bằng khen của Bộ, ban, ngành, tỉnh đối\nvới các tập thể tham gia cụm thi đua, khối thi đua\n1. Bộ, ban, ngành, tỉnh căn cứ quy định của pháp luật về thi đua, khen\nthưởng và tình hình thực tiễn của Bộ, ban, ngành, tỉnh để tổ chức cụm thi đua,\nkhối thi đua cho phù hợp, khoa học, hiệu quả.\n2. Bộ, ban, ngành, tỉnh xem xét, quyết định tặng cờ thi đua của Bộ, ban,\nngành, tỉnh cho tập thể có thành tích tiêu biểu xuất sắc, dẫn đầu cụm thi đua,\nkhối thi đua do Bộ, ban, ngành, tỉnh tổ chức, không tặng cờ thi đua của cấp mình\nđối với tập thể nằm trong tỷ lệ được đề nghị tặng “Cờ thi đua của Chính phủ”.\nTrường hợp tập thể đã đề nghị tặng “Cờ thi đua của Chính phủ” nhưng không\nđược xét tặng do chưa đảm bảo tiêu chuẩn, hồ sơ, thủ tục tặng “Cờ thi đua của\nChính phủ” thì Bộ, ban, ngành, tỉnh xem xét, quyết định tặng cờ thi đua của Bộ,\nban, ngành, tỉnh theo quy định chung.\n3. Bộ, ban, ngành Trung ương thực hiện xét, tặng Bằng khen cấp bộ cho cơ\nquan chuyên môn thuộc tỉnh khi cơ quan chuyên môn thuộc tỉnh tham gia cụm\nthi đua, khối thi đua do Bộ, ban, ngành Trung ương tổ chức.\nỦy ban nhân dân cấp tỉnh thực hiện xét, tặng Bằng khen cấp tỉnh cho cơ\nquan, tổ chức, đơn vị thuộc Bộ, ban, ngành Trung ương tham gia cụm thi đua,\nkhối thi đua do tỉnh tổ chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Khen thưởng cá nhân, tập thể thuộc cơ quan đảng, đoàn thể,",
+      "text": "Điều 6. Khen thưởng cá nhân, tập thể thuộc cơ quan đảng, đoàn thể,\ncác hội ở trung ương và địa phương; Hội đồng nhân dân các cấp; các tổ\nchức tôn giáo\n1. Cá nhân, tập thể làm chuyên trách công tác đảng, đoàn thể: Cấp nào\nquản lý về tổ chức, cán bộ, công chức, viên chức, người lao động và quỹ lương\nthì cấp đó xét, quyết định khen thưởng hoặc trình cấp trên khen thưởng.\na) Cá nhân, tập thể chuyên trách công tác đảng, đoàn thể ở các Bộ, ban,\nngành, đoàn thể trung ương thì nơi trực tiếp quản lý cán bộ, công chức và quỹ\nlương xét, quyết định khen thưởng hoặc trình cấp trên khen thưởng;\nb) Cá nhân, tập thể chuyên trách công tác đảng, đoàn thể thuộc cấp tỉnh, do\ncơ quan đảng, đoàn thể trực tiếp quản lý xét, đề nghị Chủ tịch Ủy ban nhân dân\ncấp tỉnh khen thưởng hoặc trình cấp trên khen thưởng;\nc) Cá nhân, tập thể chuyên trách công tác đảng, đoàn thể thuộc cấp huyện,\ndo cơ quan đảng, đoàn thể trực tiếp quản lý xét, đề nghị Chủ tịch Ủy ban nhân\ndân cấp huyện khen thưởng hoặc Chủ tịch Ủy ban nhân dân cấp huyện trình Chủ\ntịch Ủy ban nhân dân cấp tỉnh khen thưởng hoặc trình cấp trên khen thưởng;\nd) Tổng Liên đoàn Lao động Việt Nam khen thưởng và trình cấp trên khen\nthưởng đối với: Các ban, đơn vị sự nghiệp, doanh nghiệp thuộc hệ thống công\nđoàn; các Liên đoàn Lao động tỉnh, thành phố trực thuộc trung ương; Công đoàn\n\n6\nngành trung ương và tương đương; Công đoàn Tổng Công ty trực thuộc Tổng\nliên đoàn; Liên đoàn Lao động cấp huyện; Công đoàn ngành cấp tỉnh, Công\nđoàn viên chức cấp tỉnh, Công đoàn khu công nghiệp, khu chế xuất, khu kinh tế,\nkhu công nghệ cao; Công đoàn Tổng công ty và tương đương; Công đoàn cơ sở\nvà cán bộ công đoàn chuyên trách hưởng lương từ tài chính công đoàn thuộc các\nđơn vị nêu trên.\n2. Việc khen thưởng trong Hội đồng nhân dân các cấp\na) Hội đồng nhân dân cấp tỉnh: Chủ tịch, Phó Chủ tịch Hội đồng nhân dân,\ncác Ban của Hội đồng nhân dân, các Ủy viên là Trưởng ban của Hội đồng nhân\ndân, đại biểu Hội đồng nhân dân chuyên trách do Văn phòng Đoàn đại biểu\nQuốc hội và Hội đồng nhân dân cấp tỉnh tổng hợp hồ sơ, trình Chủ tịch Ủy ban\nnhân dân cấp tỉnh khen thưởng hoặc đề nghị cấp trên khen thưởng. Đại biểu Hội\nđồng nhân dân hoạt động kiêm nhiệm được thực hiện theo nguyên tắc cấp nào\nquản lý về tổ chức, cán bộ, quỹ lương thì cấp đó có trách nhiệm xét, quyết định\nkhen thưởng và đề nghị cấp trên khen thưởng.\nb) Hội đồng nhân dân cấp huyện, cấp xã: Việc khen thưởng đối với Chủ\ntịch, Phó Chủ tịch Hội đồng nhân dân, các Ban của Hội đồng nhân dân, đại biểu\nHội đồng nhân dân chuyên trách, đại biểu Hội đồng nhân dân hoạt động kiêm\nnhiệm được thực hiện theo nguyên tắc cấp nào quản lý về tổ chức, cán bộ, quỹ\nlương cấp đó có trách nhiệm xét, khen thưởng và đề nghị cấp trên khen thưởng.\n3. Khen thưởng cá nhân, tập thể thuộc các tổ chức tôn giáo\na) Việc khen thưởng cá nhân, tập thể thuộc trung ương các giáo hội do cơ\nquan quản lý nhà nước về tôn giáo (Bộ Nội vụ) trình Thủ tướng Chính phủ;\nb) Cá nhân, tập thể thuộc giáo hội tỉnh, thành phố trực thuộc trung ương do\nChủ tịch Ủy ban nhân dân cấp tỉnh trình Thủ tướng Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Về công nhận hiệu quả áp dụng, khả năng nhân rộng của",
+      "text": "Điều 7. Về công nhận hiệu quả áp dụng, khả năng nhân rộng của\nsáng kiến; hiệu quả áp dụng, phạm vi ảnh hưởng của đề tài khoa học, đề\nán khoa học, công trình khoa học và công nghệ để làm căn cứ xét tặng\ndanh hiệu thi đua, hình thức khen thưởng\n1. Việc xét, công nhận sáng kiến thực hiện theo quy định của pháp luật về\nsáng kiến.\n2. Việc đánh giá, công nhận hiệu quả áp dụng, khả năng nhân rộng của\nsáng kiến để làm căn cứ xét tặng danh hiệu thi đua, hình thức khen thưởng do\nngười đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền tặng danh hiệu thi\nđua, hình thức khen thưởng xem xét, công nhận.\n3. Việc xét, nghiệm thu đề tài khoa học, đề án khoa học, công trình khoa\nhọc và công nghệ thực hiện theo Luật Khoa học và công nghệ và các văn bản\nquy định chi tiết thi hành.\nĐề tài khoa học, đề án khoa học, công trình khoa học và công nghệ để làm\ncăn cứ xét tặng danh hiệu Chiến sĩ thi đua các cấp và khen thưởng hoặc đề nghị\ncấp trên khen thưởng là đề tài khoa học, đề án khoa học, công trình khoa học và\ncông nghệ đã được cơ quan, tổ chức, đơn vị có thẩm quyền nghiệm thu.\n\n7\nĐối tượng được công nhận có đề tài khoa học, đề án khoa học, công trình\nkhoa học và công nghệ để làm căn cứ xét danh hiệu thi đua và các hình thức\nkhen thưởng là Chủ nhiệm đề tài khoa học, đề án khoa học, công trình khoa học\nvà công nghệ và người trực tiếp tham gia nghiên cứu đề tài khoa học, đề án khoa\nhọc, công trình khoa học và công nghệ. Người trực tiếp tham gia nghiên cứu đề\ntài khoa học, đề án khoa học, công trình khoa học và công nghệ là thư ký, người\nđược phân công viết ít nhất 01 nội dung của đề tài khoa học, đề án khoa học,\ncông trình khoa học và công nghệ.\nViệc công nhận hiệu quả áp dụng, phạm vi ảnh hưởng của đề tài khoa học,\nđề án khoa học, công trình khoa học và công nghệ do người đứng đầu cơ quan,\ntổ chức, đơn vị có thẩm quyền xem xét, công nhận.\n4. Người đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền căn cứ hiệu\nquả áp dụng, khả năng nhân rộng của sáng kiến, hiệu quả áp dụng, phạm vi ảnh\nhưởng của đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ để\nxét, tặng danh hiệu thi đua cho cá nhân. Phạm vi ảnh hưởng, hiệu quả áp dụng,\nkhả năng nhân rộng ở cấp cơ sở thì xét, tặng danh hiệu “Chiến sĩ thi đua cơ sở”;\nphạm vi ảnh hưởng, hiệu quả áp dụng, khả năng nhân rộng trong Bộ, ban,\nngành, tỉnh thì xét, tặng danh hiệu Chiến sĩ thi đua Bộ, ban, ngành, tỉnh; phạm vi\nảnh hưởng, hiệu quả áp dụng, khả năng nhân rộng trong toàn quốc thì đề nghị\nxét tặng danh hiệu “Chiến sĩ thi đua toàn quốc”.\n5. Căn cứ quy định về đối tượng, tiêu chuẩn, thành tích đạt được và hiệu\nquả áp dụng, khả năng nhân rộng của sáng kiến, hiệu quả áp dụng, phạm vi ảnh\nhưởng của đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ,\nngười đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền khen thưởng hoặc đề\nnghị cấp trên khen thưởng các hình thức theo tiêu chuẩn quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Trách nhiệm tiếp nhận hồ sơ đề nghị khen thưởng; cấp phát,",
+      "text": "Điều 8. Trách nhiệm tiếp nhận hồ sơ đề nghị khen thưởng; cấp phát,\ncấp đổi, cấp lại hiện vật khen thưởng; chuẩn bị hiện vật khen thưởng và\nnhiệm vụ thi đua, khen thưởng khác\n1. Hồ sơ đề nghị khen thưởng của Bộ, ban, ngành, tỉnh trình Thủ tướng\nChính phủ theo quy định tại khoản 12 và khoản 14 Điều 30 của Nghị định số\n98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi\nhành một số điều của Luật Thi đua, khen thưởng gửi về Bộ Nội vụ (qua Ban Thi\nđua - Khen thưởng Trung ương) để thực hiện theo quy định.\n2. Hồ sơ đề nghị cấp đổi, cấp lại hiện vật khen thưởng cấp Nhà nước theo\nquy định tại Điều 114 và Điều 115 của Nghị định số 98/2023/NĐ-CP ngày 31\ntháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của\nLuật Thi đua, khen thưởng gửi về Bộ Nội vụ (qua Ban Thi đua\n- Khen thưởng\nTrung ương) để thực hiện theo quy định.\nBộ Nội vụ (Ban Thi đua - Khen thưởng Trung ương) có trách nhiệm mua\nsắm, bảo quản và cấp phát hiện vật khen thưởng cấp Nhà nước theo quy định tại\nkhoản 1 Điều 113 của Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023\ncủa Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen\nthưởng và pháp luật liên quan.\n\n8\n3. Ban Thi đua - Khen thưởng Trung ương tham mưu, giúp Bộ Nội vụ thực\nhiện nhiệm vụ của cơ quan thường trực Hội đồng Thi đua - Khen thưởng Trung\nương theo quy định tại khoản 5 Điều 47 của Nghị định số 98/2023/NĐ-CP ngày\n31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của\nLuật Thi đua, khen thưởng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 9. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 15 tháng 04 năm 2024.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 10. Điều khoản thi hành\n1. Thủ trưởng các Bộ, ban, ngành Trung ương; Chủ tịch Ủy ban nhân dân\ntỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Thông tư này.\n2. Trong quá trình thực hiện nếu có vướng mắc đề nghị các cơ quan, tổ\nchức, đơn vị, cá nhân phản ánh về Bộ Nội vụ để nghiên cứu, hướng dẫn./.",
+      "isImplementationClause": true
+    }
+  ]
+}

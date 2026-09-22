@@ -1,0 +1,268 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Văn thư, lưu trữ/0072_479_QĐ-ĐHBK_Nội quy về công tác bảo vệ bí mật Nhà nước tại Trường Đại học Bách khoa, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "23 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "479/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Nội quy về công tác bảo vệ bí mật Nhà nước tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "21/02/2022",
+    "effectiveDate": "21/02/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Văn thư, lưu trữ",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành kèm theo Nội quy về công tác bảo vệ bí mật nhà nước tại Trường Đại học Bách khoa, Đại học Đà Nẵng, quy định về xác định, sao chụp, lưu giữ, bảo quản, vận chuyển, giao nhận, cung cấp, điều chỉnh độ mật, giải mật, tiêu hủy tài liệu bí mật nhà nước và trách nhiệm của các đơn vị, cá nhân liên quan.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "26/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 26/2020/NĐ-CP ngày 28/02/2020 của Chính phủ Quy định chi tiết một số điều của Luật Bảo vệ bí mật nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "24/2020/TT-BCA",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 24/2020/TT-BCA ngày 10/3/2020 của Bộ Công an ban hành biểu mẫu sử dụng trong công tác bảo vệ bí mật nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-ĐHĐN ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Nghị quyết số 13/NQ-ĐHĐN ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng; Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 của Hội đồng Trường Đại học Bách khoa về việc ban hành sửa đổi Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 của Hội đồng Trường Đại học Bách khoa về việc ban hành sửa đổi Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1966/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1966/QĐ-BGDĐT ngày 14/7/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế công tác bảo vệ bí mật nhà nước tại Cơ quan Bộ GDĐT;"
+    },
+    {
+      "targetDocumentNumber": "2763/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2763/QĐ-ĐHĐN ngày 14 tháng 8 năm 2020 của Đại học Đà Nẵng ban hành Quy chế về công tác bảo vệ bí mật nhà nước tại Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Công an",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Phòng Tổ chức - Hành chính",
+    "Công an thành phố Đà Nẵng",
+    "Bộ Ngoại giao",
+    "Thủ tướng Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Nội quy Về công tác bảo vệ bí mật nhà nước tại Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Nội quy",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh, đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Nội quy này quy định về xác định bí mật nhà nước (BMNN) và độ mật của BMNN; sao, chụp; thống kê, lưu giữ, bảo quản; vận chuyển, giao, nhận; mang ra khỏi nơi lưu giữ; cung cấp, chuyển giao BMNN; tổ chức hội nghị, hội thảo, cuộc họp có nội dung BMNN; điều chỉnh độ mật; giải mật; tiêu hủy, thu hồi; biểu mẫu sử dụng trong công tác bảo vệ BMNN; chế độ thông tin, báo cáo.\n2. Nội quy này được áp dụng đối với các đơn vị thuộc và trực thuộc Trường Đại học Bách khoa (sau đây gọi chung là các đơn vị); cán bộ viên chức, người lao động (CBVC, NLĐ) của các đơn vị và các tổ chức, cá nhân có liên quan đến công tác bảo vệ BMNN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong Nội quy này các từ ngữ dưới đây được giải thích như sau:\n1. Bí mật nhà nước là thông tin có nội dung quan trọng do người đứng đầu cơ quan, tổ chức có thẩm quyền xác định căn cứ vào quy định của Luật này, chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc.\nHình thức chứa BMNN bao gồm tài liệu, vật, địa điểm, lời nói, hoạt động hoặc các dạng khác.\n2. Bảo vệ bí mật nhà nước là việc cơ quan, tổ chức, cá nhân sử dụng lực lượng, phương tiện, biện pháp để phòng, chống xâm phạm bí mật nhà nước.\n3. Lộ bí mật nhà nước là trường hợp người không có trách nhiệm biết được BMNN.\n4. Mất bí mật nhà nước là trường hợp tài liệu, vật chứa BMNN không còn thuộc sự quản lý của cơ quan, tổ chức, cá nhân có trách nhiệm quản lý.\n5. Sao tài liệu bí mật nhà nước là việc chép lại hoặc tạo ra bản khác theo đúng nội dung bản gốc hoặc bản chính của tài liệu.\n6. Chụp tài liệu, vật chứa bí mật nhà nước là việc ghi lại bằng hình ảnh tài liệu, vật chứa BMNN.\n7. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của BMNN.\n8. Giải mật là xóa bỏ độ mật của BMNN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Các hành vi bị nghiêm cấm",
+          "text": "Điều 3. Các hành vi bị nghiêm cấm\n1. Làm lộ, chiếm đoạt, mua, bán BMNN; làm sai lệch, hư hỏng, mất tài liệu, vật chứa BMNN.\n2. Thu thập, trao đổi, cung cấp, chuyển giao BMNN trái pháp luật; sao, chụp, lưu giữ, vận chuyển, giao, nhận, thu hồi, tiêu hủy tài liệu, vật chứa BMNN trái pháp luật.\n3. Mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ trái pháp luật.\n4. Lợi dụng, lạm dụng việc bảo vệ BMNN, sử dụng BMNN để thực hiện, che giấu hành vi vi phạm pháp luật, xâm phạm quyền và lợi ích hợp pháp hoặc cản trở hoạt động của cơ quan, tổ chức, cá nhân.\n5. Soạn thảo, lưu giữ tài liệu có chứa nội dung BMNN trên máy tính hoặc thiết bị khác đã kết nối hoặc đang kết nối với mạng Internet, mạng máy tính, mạng viễn thông, trừ trường hợp lưu giữ BMNN theo quy định của pháp luật về cơ yếu.\n6. Truyền BMNN trên phương tiện thông tin, viễn thông trái với quy định của pháp luật về cơ yếu.\n7. Chuyển mục đích sử dụng máy tính, thiết bị khác đã dùng để soạn thảo, lưu giữ, trao đổi BMNN khi chưa loại bỏ BMNN.\n8. Sử dụng thiết bị có tính năng thu, phát tín hiệu, ghi âm, ghi hình trong hội nghị, hội thảo, cuộc họp có nội dung BMNN dưới mọi hình thức khi chưa được người có thẩm quyền cho phép.\n9. Đăng tải, phát tán BMNN trên phương tiện thông tin đại chúng, mạng Internet, mạng máy tính và mạng viễn thông.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Trách nhiệm của người đứng đầu đơn vị",
+          "text": "Điều 4. Trách nhiệm của người đứng đầu đơn vị\n1. Hiệu trưởng Trường Đại học Bách khoa (ĐHBK), trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện bảo vệ BMNN như sau:\n- Căn cứ vào các quy định, hướng dẫn liên quan đến bảo vệ BMNN, tổ chức tuyên truyền, phổ biến và thực hiện công tác bảo vệ BMNN trong phạm vi quản lý.\n- Tổ chức chỉ đạo xây dựng nội quy về bảo vệ BMNN tại đơn vị.\n- Phân công cán bộ thực hiện nhiệm vụ kiêm nhiệm bảo vệ BMNN tại Phòng Tổ chức - Hành chính; Thực hiện việc ký cam kết với các cá nhân có liên quan đến công tác bảo vệ BMNN tại đơn vị.\n- Sơ kết hằng năm, tổng kết năm năm một lần công tác bảo vệ BMNN tại đơn vị.\n- Chỉ đạo xử lý và kịp thời thông báo với cơ quan có thẩm quyền khi xảy ra lộ, mất BMNN tại đơn vị.\n- Tổ chức thu hồi tài liệu, vật chứa BMNN khi người được phân công nhiệm vụ kiêm nhiệm bảo vệ BMNN thôi việc, chuyển công tác, nghỉ hưu, từ trần hoặc vì lý do khác mà không được phân công tiếp tục quản lý BMNN.\n\n2. Trưởng các phòng, Trưởng các khoa, Tổ trực thuộc, Giám đốc các trung tâm:\n- Căn cứ vào các quy định, hướng dẫn liên quan đến bảo vệ BMNN, tổ chức tuyên truyền, phổ biến và thực hiện công tác bảo vệ BMNN trong phạm vi quản lý.\n- Phân công cán bộ phụ trách công tác hành chính thực hiện nhiệm vụ kiêm nhiệm bảo vệ BMNN. Thực hiện việc ký cam kết với các cá nhân có liên quan đến công tác bảo vệ BMNN tại đơn vị.\n- Phối hợp với Phòng Tổ chức – Hành chính trong việc thực hiện sơ kết hằng năm, tổng kết năm năm một lần công tác bảo vệ BMNN tại Trường.\n- Chỉ đạo xử lý và kịp thời thông báo với Hiệu trưởng khi xảy ra lộ, mất BMNN tại đơn vị.\n- Tổ chức thu hồi tài liệu, vật chứa BMNN khi người được phân công nhiệm vụ kiêm nhiệm bảo vệ BMNN thôi việc, chuyển công tác, nghỉ hưu, từ trần hoặc vì lý do khác mà không được phân công tiếp tục quản lý BMNN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Trách nhiệm của Trưởng phòng Tổ chức - Hành chính hoặc người phụ trách công tác hành chính của đơn vị",
+          "text": "Điều 5. Trách nhiệm của Trưởng phòng Tổ chức - Hành chính hoặc người phụ trách công tác hành chính của đơn vị\n1. Trực tiếp tham mưu, đề xuất các biện pháp và giúp Hiệu trưởng triển khai thực hiện công tác bảo vệ BMNN tại đơn vị.\n2. Tổ chức thực hiện nghiêm túc các quy định về bảo vệ BMNN tại đơn vị.\n3. Chỉ đạo xây dựng, trình Hiệu trưởng ban hành các văn bản hướng dẫn liên quan đến bảo vệ BMNN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Trách nhiệm của các cá nhân được phân công kiêm nhiệm bảo vệ BMNN tại đơn vị",
+          "text": "Điều 6. Trách nhiệm của các cá nhân được phân công kiêm nhiệm bảo vệ BMNN tại đơn vị\n1. Có phẩm chất đạo đức tốt, có đủ tiêu chuẩn chính trị, có kiến thức pháp luật và chuyên môn, nghiệp vụ về bảo vệ BMNN, nghiêm chỉnh chấp hành đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước.\n2. Có trách nhiệm giữ gìn BMNN; phục tùng sự phân công, điều động của cơ quan, đơn vị và thực hiện đầy đủ chức trách, nhiệm vụ được giao.\n3. Thường xuyên nghiên cứu, tham gia bồi dưỡng các lớp nghiệp vụ về các quy định bảo vệ BMNN được tổ chức.\n4. Trường hợp phát hiện vi phạm trong hoạt động bảo vệ BMNN phải báo cáo ngay với người có trách nhiệm để giải quyết và có biện pháp khắc phục.\n5. Trước khi thôi việc, chuyển công tác, nghỉ hưu hoặc vì lý do khác mà không được phân công tiếp tục nhiệm vụ bảo vệ BMNN thì phải bàn giao BMNN cho cấp có thẩm quyền quản lý và cam kết bảo vệ BMNN đã quản lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Xác định bí mật nhà nước và độ mật của bí mật nhà nước",
+          "text": "Điều 7. Xác định bí mật nhà nước và độ mật của bí mật nhà nước\n1. Hiệu trưởng có trách nhiệm xác định BMNN và độ mật của BMNN.\n2. Việc xác định BMNN và độ mật của BMNN phải căn cứ vào danh mục BMNN thuộc các lĩnh vực được Thủ tướng Chính phủ ban hành và quy định của Luật Bảo vệ BMNN.\n3. Trình tự, thủ tục xác định BMNN và độ mật của BMNN:\na) Cán bộ, viên chức khi soạn thảo, tạo ra thông tin thuộc danh mục BMNN phải đề xuất để người có thẩm quyền theo quy định tại khoản 1 Điều này xác định BMNN, độ mật của BMNN, nơi nhận, số lượng bản phát hành, được phép hay không được phép sao, chụp tài liệu, vật chứa BMNN tại Tờ trình, ký văn bản hoặc văn bản xác định độ mật đối với vật, địa điểm, lời nói, hoạt động, hình thức khác chứa BMNN. Văn bản, tài liệu chứa BMNN phải thể hiện nơi nhận, số lượng bản phát hành, tên người soạn thảo, được phép hoặc không được phép sao, chụp ở mục “Nơi nhận” của văn bản, tài liệu.\n\nTrường hợp văn bản điện tử, người soạn thảo phải tạo dấu chỉ độ mật sau khi hoàn thành trên văn bản sau khi được người có thẩm quyền xác định BMNN và độ mật của BMNN; văn bản điện tử khi in ra để phát hành phải đóng dấu chỉ độ mật theo quy định.\n\nTrường hợp sử dụng BMNN của cơ quan, tổ chức khác phải xác định độ mật tương ứng.\n\nTrường hợp thông tin trong cùng một tài liệu, vật chứa BMNN thuộc danh mục BMNN có độ mật khác nhau thì xác định theo độ mật cao nhất.\n\nTrường hợp văn bản có tính chất lặp đi lặp lại như báo cáo chuyên đề, báo cáo định kỳ có cùng một độ mật thì người đứng đầu đơn vị xác định một lần cho loại văn bản đó.\n\nDự thảo văn bản có nội dung BMNN phải được quản lý, bảo vệ như văn bản phát hành chính thức từ khi soạn thảo và tiêu hủy ngay sau khi hoàn thành việc soạn thảo, tạo ra nếu không cần thiết phải lưu giữ.\n\nb) Viên chức khi tiếp nhận thông tin thuộc danh mục BMNN, nhưng chưa được xác định là BMNN phải báo cáo đề xuất ngay người đứng đầu đơn vị để xác định theo thẩm quyền.\n\nNgười được giao xử lý phải có văn bản đề xuất người đứng đầu đơn vị xác định BMNN, độ mật của BMNN, nơi nhận, số lượng bản phát hành, được phép hay không được phép sao, chụp tài liệu, vật chứa BMNN. Thông tin tiếp nhận phải được bảo vệ trong quá trình tiếp nhận và xử lý.\n\n6\n\n4. Độ mật của BMNN được xác định theo dấu chỉ độ mật, văn bản xác định độ mật hoặc hình thức khác phù hợp với hình thức chứa BMNN.\n\n5. Mẫu dấu chỉ độ mật, mẫu văn bản xác định độ mật của BMNN thực hiện theo quy định tại Điều 18 Nội quy này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Sao, chụp tài liệu, vật chứa bí mật nhà nước",
+          "text": "Điều 8. Sao, chụp tài liệu, vật chứa bí mật nhà nước\n\n1. Hình thức sao tài liệu BMNN gồm: sao y bản chính, sao lục và trích sao.\n\n2. Thẩm quyền sao, chụp tài liệu, vật chứa BMNN tại Trường ĐHBK:\n\na) Hiệu trưởng có thẩm quyền cho phép sao, chụp tài liệu, vật chứa BMNN độ “Mật”.\n\nb) Người có thẩm quyền được quy định tại điểm a Khoản này có thể ủy quyền cho cấp phó thực hiện thẩm quyền cho phép sao, chụp tài liệu, vật chứa BMNN.\n\nViệc ủy quyền cho phép sao, chụp tài liệu, vật chứa BMNN có thể được thực hiện thường xuyên hoặc theo từng trường hợp cụ thể và phải được thể hiện bằng văn bản, trong đó xác định rõ phạm vi, nội dung, thời hạn ủy quyền.\n\nCấp phó được ủy quyền cho phép sao, chụp tài liệu, vật chứa BMNN phải chịu trách nhiệm về quyết định cho phép sao, chụp của mình trước cấp trưởng và trước pháp luật. Người được ủy quyền không được ủy quyền tiếp cho người khác.\n\n3. Việc sao, chụp tài liệu, vật chứa BMNN được thực hiện như sau:\n\na) Sau khi được người có thẩm quyền quy định tại khoản 2 Điều này cho phép, người được giao nhiệm vụ tiến hành việc sao, chụp tài liệu, vật chứa BMNN.\n\nb) Bản sao tài liệu BMNN đóng dấu “Bản sao số” ở trang đầu và dấu “Bản sao BMNN” ở trang cuối của tài liệu sau khi sao, trong đó phải thể hiện số thứ tự bản sao, hình thức sao y bản chính hoặc sao lục, thời gian, số lượng, nơi nhận, thẩm quyền cho phép sao và con dấu của cơ quan, tổ chức (nếu có).\n\nc) Bản trích sao tài liệu BMNN phải thực hiện theo mẫu “trích sao”, trong đó thể hiện đầy đủ nội dung trích sao, thời gian, số lượng, nơi nhận, thẩm quyền cho phép sao và con dấu của cơ quan, tổ chức (nếu có).\n\nd) Bản chụp tài liệu, vật chứa BMNN phải có “văn bản ghi nhận việc chụp tài liệu, vật chứa BMNN”, trong đó phải thể hiện tên, loại tài liệu, vật chứa BMNN, độ mật, thời gian, số lượng, nơi nhận, người thực hiện chụp tài liệu, vật chứa BMNN, thẩm quyền cho phép chụp và con dấu của cơ quan, tổ chức (nếu có).\n\nđ) Việc sao, chụp phải ghi nhận vào “Sổ quản lý sao, chụp BMNN” để quản lý và theo dõi.\n\n4. Phương tiện, thiết bị sử dụng để sao, chụp tài liệu, vật chứa BMNN không được kết nối mạng Internet, mạng máy tính, mạng viễn thông, trừ trường hợp thực hiện theo quy định của pháp luật về cơ yếu.\n\n7\n\n5. Mẫu dấu sao, chụp; mẫu văn bản ghi nhận việc chụp BMNN; mẫu sổ quản lý sao, chụp BMNN thực hiện theo quy định tại Điều 18 Nội quy này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước",
+          "text": "Điều 9. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước\n\n1. Tài liệu, vật chứa BMNN được lưu giữ theo hồ sơ chuyên đề, đối tượng, lĩnh vực, có bảng thống kê chi tiết kèm theo, phải được bảo vệ bằng biện pháp thích hợp, bảo đảm an toàn do người đứng đầu đơn vị quy định.\n\n2. Hằng năm, các đơn vị thống kê tài liệu, vật chứa BMNN đã tiếp nhận, phát hành theo trình tự thời gian và từng độ mật.\n\n3. Nơi lưu giữ, bảo quản tài liệu, vật chứa BMNN phải được đảm bảo an toàn, kiên cố, tránh không bị hư hại do cháy nổ hay bị đột nhập, lấy cắp BMNN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước",
+          "text": "Điều 10. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước\n\n1. Việc vận chuyển, giao, nhận tài liệu, vật chứa BMNN do viên chức được phân công làm công tác bảo vệ BMNN hoặc liên quan trực tiếp đến BMNN thực hiện. Viên chức làm công tác liên quan trực tiếp đến BMNN chỉ vận chuyển, giao, nhận tài liệu, vật chứa BMNN khi được lãnh đạo đơn vị chỉ đạo.\n\n2. Việc vận chuyển tài liệu, vật chứa BMNN qua dịch vụ bưu chính được thực hiện theo quy định của pháp luật về bưu chính.\n\n3. Việc giao tài liệu, vật chứa BMNN được thực hiện như sau:\n\na) Trước khi giao tài liệu, vật chứa BMNN phải đăng ký vào “Sổ đăng ký BMNN đi”. Tài liệu, vật chứa BMNN độ “Tuyệt mật” chỉ ghi trích yếu khi người có thẩm quyền xác định BMNN đồng ý.\n\nb) Tài liệu, vật chứa BMNN phải làm bì hoặc đóng gói riêng. Giấy làm bì phải dùng loại giấy dai, bền, khó thấm nước, không nhìn thấu qua được; hồ dán phải dính, khó bóc.\n\nTrường hợp tài liệu, vật chứa BMNN độ “Tuyệt mật” phải được bảo vệ bằng hai lớp phong bì: Bì trong ghi số, ký hiệu của tài liệu, vật chứa BMNN, tên người nhận, đóng dấu “Tuyệt mật” và được niêm phong bằng dấu của đơn vị ở ngoài bì; trường hợp gửi đích danh người có trách nhiệm giải quyết thì đóng dấu “Chỉ người có tên mới được bóc bì”. Bì ngoài ghi như gửi tài liệu thường và đóng dấu ký hiệu chữ “A”.\n\nTài liệu, vật chứa BMNN độ “Tối mật” và “Mật” được bảo vệ bằng một lớp bì, ngoài bì đóng dấu chữ “B” và chữ “C” tương ứng với độ mật của tài liệu, vật chứa BMNN bên trong.\n\nc) Việc giao tài liệu, vật chứa BMNN phải được thực hiện bằng “Sổ chuyển giao BMNN”.\n\n4. Việc nhận tài liệu, vật chứa BMNN được thực hiện như sau:\n\na) Sau khi nhận tài liệu, vật chứa BMNN phải đăng ký vào “Sổ đăng ký BMNN đến”.\n\n8\n\nb) Trường hợp tài liệu, vật chứa BMNN mà phong bì có dấu “Chỉ người có tên mới được bóc bì”, người nhận vào sổ theo ký hiệu ngoài bì, không được mở bì và phải chuyển ngay đến người có tên trên phong bì. Nếu người có tên trên phong bì đi vắng và trên phong bì đóng dấu “Hỏa tốc” thì chuyển đến lãnh đạo đơn vị hoặc người được lãnh đạo đơn vị ủy quyền giải quyết.\n\nc) Trường hợp tài liệu, vật chứa BMNN được gửi đến mà không thực hiện đúng quy định bảo vệ BMNN thì chuyển đến lãnh đạo đơn vị nhận tài liệu, vật chứa BMNN hoặc người có tên trên phong bì (đối với trường hợp gửi đích danh) giải quyết, đồng thời phải thông báo cho nơi gửi biết để có biện pháp khắc phục. Nếu phát hiện tài liệu, vật chứa BMNN gửi đến có dấu hiệu bóc, mở bì hoặc bị tráo đổi, mất, hư hỏng thì người nhận phải báo cáo ngay người đứng đầu đơn vị để có biện pháp xử lý.\n\n4. Nơi gửi và nơi nhận tài liệu, vật chứa BMNN phải đối chiếu về số lượng, kiểm tra việc đóng bì, đóng gói tài liệu, vật chứa BMNN. Trường hợp phát hiện thiếu số lượng, sai sót trong đóng bì, đóng gói thì nơi nhận yêu cầu nơi gửi bổ sung, xử lý trước khi vào sổ theo dõi và ký nhận.\n\n5. Trường hợp tài liệu, vật chứa BMNN có đóng dấu “Tài liệu thu hồi”, đơn vị hoặc viên chức đã nhận tài liệu, vật chứa BMNN phải gửi lại đúng thời hạn ghi trên văn bản.\n\n6. Việc chuyển, nhận văn bản điện tử có nội dung BMNN trên mạng Internet, mạng máy tính (mạng nội bộ, mạng diện rộng) và mạng viễn thông được thực hiện theo quy định của pháp luật về cơ yếu.\n\n7. Việc vận chuyển, giao nhận sản phẩm mật mã thực hiện theo quy định của pháp luật về cơ yếu.\n\n8. Trường hợp tài liệu, vật chứa BMNN đăng ký bằng cơ sở dữ liệu quản lý trên máy tính thì khi chuyển giao phải in ra giấy để ký nhận và đóng sổ để quản lý. Máy tính dùng để đăng ký tài liệu, vật chứa BMNN không được nối mạng Internet, mạng máy tính và mạng viễn thông, trừ trường hợp thực hiện theo quy định của pháp luật về cơ yếu.\n\n9. Mẫu Sổ đăng ký BMNN đi, mẫu Sổ đăng ký BMNN đến và mẫu Sổ chuyển giao BMNN thực hiện theo quy định tại Điều 18 của Nội quy này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ",
+          "text": "Điều 11. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ\n\n1. Việc mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ để phục vụ công tác ở trong nước phải được Hiệu trưởng hoặc Phó Hiệu trưởng được ủy quyền trực tiếp quản lý BMNN cho phép.\n\n2. Không được phép mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ để phục vụ công tác ở nước ngoài.\n\n3. Viên chức khi mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ phải có văn bản xin phép người có thẩm quyền theo quy định tại khoản 1, khoản 2 Điều này. Văn bản xin phép mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ phục vụ công tác trong nước phải nêu rõ\n\n9\n\nhọ, tên, chức vụ, đơn vị công tác; tên loại, trích yếu nội dung, độ mật của tài liệu, vật chứa BMNN; mục đích sử dụng; thời gian, địa điểm công tác; biện pháp bảo vệ BMNN.\n\n4. Trong thời gian mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ, nếu phát hiện BMNN bị lộ, bị mất, người mang tài liệu, vật chứa BMNN phải báo cáo ngay với người đứng đầu đơn vị trực tiếp quản lý, Trưởng đoàn công tác để có biện pháp xử lý và khắc phục hậu quả.\n\n5. Tài liệu, vật chứa BMNN mang ra khỏi nơi lưu giữ phải được chứa, đựng, vận chuyển bằng phương tiện, thiết bị bảo đảm an toàn do người đứng đầu đơn vị quản lý BMNN quy định và phải bảo vệ trong thời gian mang ra khỏi nơi lưu giữ. Khi kết thúc nhiệm vụ phải báo cáo người có thẩm quyền cho phép mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ về việc quản lý, sử dụng BMNN và nộp lại đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước",
+          "text": "Điều 12. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước\n\n1. Người có thẩm quyền quy định tại Khoản 2 Điều 8 của Nội quy này quyết định việc cung cấp, chuyển giao BMNN với độ mật tương ứng trừ trường hợp cung cấp, chuyển giao BMNN cho các cơ quan, tổ chức, cá nhân nước ngoài.\n\n2. Cơ quan, tổ chức đề nghị cung cấp, chuyển giao BMNN phải có văn bản gửi người có thẩm quyền quyết định việc cung cấp, chuyển giao BMNN. Văn bản đề nghị phải ghi rõ tên cơ quan, tổ chức; người đại diện cơ quan, tổ chức; BMNN đề nghị cung cấp, chuyển giao; mục đích sử dụng và cam kết bảo vệ BMNN.\n\n3. Người đề nghị cung cấp, chuyển giao BMNN phải có văn bản gửi người có thẩm quyền quyết định việc cung cấp, chuyển giao BMNN. Văn bản đề nghị phải ghi rõ họ và tên; số Căn cước công dân, Chứng minh nhân dân, Hộ chiếu, Chứng minh Công an nhân dân hoặc số giấy chứng minh do Quân đội nhân dân cấp; địa chỉ liên lạc; vị trí công tác; BMNN đề nghị cung cấp, chuyển giao; mục đích sử dụng và cam kết bảo vệ BMNN.\n\n4. Trường hợp từ chối cung cấp, chuyển giao BMNN, người có thẩm quyền quyết định việc cung cấp, chuyển giao BMNN phải trả lời bằng văn bản và nêu rõ lý do.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước",
+          "text": "Điều 13. Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước\n\n1. Việc tổ chức hội nghị, hội thảo, cuộc họp có nội dung BMNN trong trường hợp không có yếu tố nước ngoài được Giám đốc ĐHĐN quyết định bằng văn bản.\n\n2. Hội nghị, hội thảo, cuộc họp có nội dung BMNN do đơn vị chủ trì đã được GĐ ĐHĐN phê duyệt phải tổ chức trong phòng họp kín tại trụ sở làm việc của đơn vị. Trường hợp tổ chức ở ngoài trụ sở thì người đứng đầu đơn vị quyết định tổ chức hội nghị, hội thảo, cuộc họp có trách nhiệm đề nghị Công an thành phố Đà Nẵng kiểm tra an ninh, an toàn trong và ngoài khu vực diễn ra hội nghị, hội thảo, cuộc họp.\n\n3. Phương tiện, thiết bị sử dụng trong hội nghị, hội thảo, cuộc họp có nội dung BMNN:\n\n10\n\na) Hội nghị, hội thảo, cuộc họp có nội dung BMNN phải sử dụng micro có dây và các phương tiện, thiết bị được Công an thành phố Đà Nẵng kiểm tra an ninh, an toàn trước khi lắp đặt, trừ phương tiện, thiết bị do lực lượng cơ yếu trang bị. Trường hợp hội nghị, hội thảo, cuộc họp có nội dung BMNN tổ chức bằng hình thức truyền hình trực tuyến phải bảo vệ đường truyền theo quy định pháp luật về cơ yếu.\n\nb) Người tham gia hội nghị, hội thảo, cuộc họp không được mang thiết bị có tính năng thu, phát tín hiệu, ghi âm, ghi hình vào trong hội nghị, hội thảo, cuộc họp có nội dung BMNN độ Tuyệt mật, Tối mật. Đối với hội nghị, hội thảo, cuộc họp có nội dung BMNN độ Mật, việc sử dụng phương tiện, thiết bị được thực hiện theo yêu cầu của người chủ trì.\n\nc) Trong trường hợp cần thiết, đơn vị chủ trì hội nghị, hội thảo, cuộc họp có nội dung BMNN quyết định việc sử dụng phương tiện, thiết bị kỹ thuật để ngăn chặn hoạt động xâm nhập, thu tin từ bên ngoài; sử dụng phương tiện, thiết bị để ghi âm, ghi hình phục vụ công tác.\n\n4. Phương án bảo vệ hội nghị, hội thảo, cuộc họp có nội dung BMNN:\n\na) Đối với hội nghị, hội thảo, cuộc họp có nội dung BMNN độ Tuyệt mật, người đứng đầu đơn vị chủ trì quyết định việc bố trí lực lượng canh gác, bảo vệ bên ngoài; dự kiến các tình huống phức tạp có thể xảy ra, ảnh hưởng đến an ninh, an toàn trong quá trình tổ chức hội nghị, hội thảo, cuộc họp và phương án giải quyết, xử lý.\n\nb) Hội nghị, hội thảo, cuộc họp có nội dung BMNN tổ chức từ hai ngày trở lên phải niêm phong phòng họp sau mỗi ngày tổ chức hội nghị, hội thảo, cuộc họp.\n\nc) Người tham dự hội nghị, hội thảo, cuộc họp có nội dung BMNN phải đúng thành phần theo yêu cầu của đơn vị chủ trì, có trách nhiệm bảo vệ, sử dụng BMNN theo quy định của nội quy này và yêu cầu của người chủ trì hội nghị, hội thảo, cuộc họp. Trường hợp hội nghị, hội thảo, cuộc họp có nội dung BMNN độ Tuyệt mật phải có biện pháp kiểm tra việc tuân thủ quy định các phương tiện, thiết bị không được mang vào phòng họp đối với người tham dự.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Điều chỉnh độ mật",
+          "text": "Điều 14. Điều chỉnh độ mật\n\n1. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của BMNN.\n\n2. Việc điều chỉnh độ mật phải căn cứ vào danh mục BMNN do Thủ tướng Chính phủ ban hành thuộc lĩnh vực giáo dục và đào tạo và các lĩnh vực khác quy định tại Luật Bảo vệ BMNN.\n\n3. Hiệu trưởng có thẩm quyền quyết định đề nghị điều chỉnh độ mật của BMNN.\n\n4. Sau khi ban hành quyết định điều chỉnh độ mật, đơn vị điều chỉnh độ mật phải đóng dấu hoặc có văn bản, hình thức khác xác định việc tăng độ mật, giảm độ mật.\n\n5. Chậm nhất 15 ngày, kể từ ngày ban hành quyết định điều chỉnh độ mật, đơn vị điều chỉnh độ mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\nTrang 11\n\n11\n\nĐơn vị nhận được thông báo về việc điều chỉnh độ mật có trách nhiệm đóng dấu hoặc có văn bản, hình thức khác xác định việc điều chỉnh độ mật tương ứng đối với BMNN thuộc phạm vi quản lý.\n\n6. Mẫu dấu điều chỉnh độ mật thực hiện theo quy định tại Điều 18 của Nội quy này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Giải mật",
+          "text": "Điều 15. Giải mật\n\n1. BMNN đương nhiên giải mật trong các trường hợp sau:\na) Hết thời hạn bảo vệ, hết thời gian gia hạn thời hạn bảo vệ BMNN quy định tại Điều 19, Điều 20 Luật Bảo vệ BMNN ngày 15/11/2018.\nb) Không còn thuộc danh mục BMNN. Trường hợp này, đơn vị xác định BMNN phải đóng dấu hoặc có văn bản, hình thức khác xác định việc giải mật và thông báo ngay bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.\n\n2. BMNN được giải mật toàn bộ hoặc một phần trong trường hợp cần giải mật để đáp ứng yêu cầu thực tiễn bảo vệ lợi ích quốc gia, dân tộc, phát triển kinh tế - xã hội, hội nhập, hợp tác quốc tế. Trong trường hợp này, các đơn vị phải tiến hành giải mật theo trình tự, thủ tục sau:\na) Hiệu trưởng xác định BMNN thành lập Hội đồng giải mật.\nb) Hội đồng giải mật bao gồm đại diện lãnh đạo đơn vị xác định BMNN làm Chủ tịch Hội đồng và đại diện Văn phòng, cơ quan, đơn vị có liên quan.\nc) Hội đồng giải mật có trách nhiệm xem xét việc giải mật, báo cáo người đứng đầu đơn vị xác định BMNN ban hành quyết định giải mật.\nd) Trường hợp giải mật một phần thì nội dung giải mật được đưa vào quyết định giải mật và chậm nhất 15 ngày kể từ ngày có quyết định giải mật, đơn vị tiến hành giải mật có trách nhiệm thông báo bằng văn bản cho các cơ quan, tổ chức, cá nhân có liên quan biết để thực hiện đóng dấu giải mật hoặc có văn bản xác định việc giải mật đối với tài liệu, vật chứa BMNN do mình quản lý.\nđ) Trường hợp giải mật toàn bộ BMNN thì sau khi quyết định giải mật phải được đóng dấu giải mật hoặc có văn bản xác định việc giải mật và chậm nhất 15 ngày kể từ ngày quyết định giải mật BMNN, đơn vị chủ trì tiến hành giải mật có trách nhiệm thông báo bằng văn bản cho các cơ quan, tổ chức, cá nhân có liên quan biết để đóng dấu giải mật hoặc có văn bản xác định việc giải mật đối với tài liệu, vật chứa BMNN do mình quản lý.\ne) Hồ sơ giải mật phải được lưu trữ bao gồm quyết định thành lập Hội đồng giải mật; BMNN đề nghị giải mật; biên bản họp Hội đồng giải mật; quyết định giải mật và tài liệu khác có liên quan.\n\n4. Mẫu dấu giải mật thực hiện theo quy định tại Điều 18 Nội quy này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Tiêu hủy tài liệu, vật chứa bí mật nhà nước",
+          "text": "Điều 16. Tiêu hủy tài liệu, vật chứa bí mật nhà nước\n\nTrang 12\n\n12\n\n1. Tiêu hủy tài liệu, vật chứa BMNN trong trường hợp sau đây:\na) Khi không cần thiết phải lưu giữ và việc tiêu hủy không gây nguy hại đến lợi ích quốc gia, dân tộc.\nb) Nếu không tiêu hủy ngay sẽ gây nguy hại cho lợi ích quốc gia, dân tộc.\n\n2. Việc tiêu hủy tài liệu, vật chứa BMNN phải đáp ứng các yêu cầu sau đây:\na) Không để bị lộ, bị mất BMNN.\nb) Quá trình tiêu hủy phải tác động làm thay đổi hình dạng, tính năng, tác dụng của tài liệu, vật chứa BMNN và loại bỏ hoàn toàn thông tin BMNN.\nc) Tài liệu, vật chứa BMNN sau khi tiêu hủy không thể phục hồi hình dạng, tính năng, tác dụng, nội dung.\n\n3. Thẩm quyền tiêu hủy tài liệu, vật chứa BMNN được quy định như sau:\na) Người có thẩm quyền quy định tại điểm a khoản 2 Điều 8 Nội quy này có thẩm quyền quyết định tiêu hủy tài liệu, vật chứa BMNN.\nb) Người đang quản lý tài liệu, vật chứa BMNN được quyền quyết định tiêu hủy trong trường hợp quy định tại điểm b khoản 1 Điều này và báo cáo ngay bằng văn bản về việc tiêu hủy với người đứng đầu đơn vị.\n\n4. Việc tiêu hủy tài liệu, vật chứa BMNN trong trường hợp quy định tại điểm a khoản 1 Điều này được quy định như sau:\na) Người có thẩm quyền quy định tại điểm a khoản 2 Điều 8 Nội quy này quyết định thành lập Hội đồng tiêu hủy tài liệu, vật chứa BMNN.\nb) Hội đồng tiêu hủy tài liệu, vật chứa BMNN bao gồm đại diện lãnh đạo đơn vị trực tiếp lưu giữ tài liệu, vật chứa BMNN làm Chủ tịch Hội đồng; người trực tiếp lưu giữ tài liệu, vật chứa BMNN và đại diện cơ quan, tổ chức có liên quan.\nc) Hội đồng tiêu hủy tài liệu, vật chứa BMNN có trách nhiệm rà soát tài liệu, vật chứa BMNN được đề nghị tiêu hủy, báo cáo người có thẩm quyền quy định tại điểm a khoản 2 Điều 8 Nội quy này ban hành quyết định tiêu hủy.\nd) Hồ sơ tiêu hủy phải được lưu trữ bao gồm quyết định thành lập Hội đồng tiêu hủy; danh sách tài liệu, vật chứa BMNN đề nghị tiêu hủy; biên bản họp Hội đồng tiêu hủy; quyết định tiêu hủy, biên bản tiêu hủy và tài liệu khác có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Thu hồi tài liệu bí mật nhà nước",
+          "text": "Điều 17. Thu hồi tài liệu bí mật nhà nước\n\n1. Đối với tài liệu bí mật có dấu “Tài liệu thu hồi” các đơn vị phải trả lại Phòng Tổ chức - Hành chính đúng thời hạn.\n2. Văn thư được giao nhiệm vụ gửi tài liệu BMNN phải theo dõi, đôn đốc thu hồi tài liệu BMNN đúng thời hạn.\n\nTrang 13\n\n13\n\n3. Khi nhận và trả tài liệu phải kiểm tra, đối chiếu đảm bảo sự vẹn toàn của tài liệu; tuyệt đối không được để thất lạc tài liệu BMNN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Biểu mẫu sử dụng trong công tác bảo vệ bí mật nhà nước",
+          "text": "Điều 18. Biểu mẫu sử dụng trong công tác bảo vệ bí mật nhà nước",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước",
+          "text": "Điều 19. Chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước\n\n1. Các đơn vị báo cáo công tác bảo vệ BMNN gửi về Phòng Tổ chức - Hành chính để tổng hợp, báo cáo theo yêu cầu của ĐHĐN và Bộ Giáo dục và Đào tạo định kỳ trước ngày 28 tháng 12 hàng năm.\n2. Thời hạn chốt số liệu trong chế độ báo cáo hằng năm: Tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.\n\nTrang 14\n\n14\n\n3. Báo cáo đột xuất được thực hiện ngay sau khi xảy ra lộ, mất BMNN hoặc phát hiện các hành vi vi phạm pháp luật về bảo vệ BMNN hoặc theo yêu cầu của lãnh đạo Bộ và các đơn vị có liên quan.\n\n4. Nội dung báo cáo về công tác bảo vệ BMNN:\na) Phân tích, đánh giá tình hình liên quan đến công tác bảo vệ BMNN.\nb) Kết quả thực hiện công tác bảo vệ BMNN; ưu điểm, hạn chế, khó khăn, vướng mắc, nguyên nhân và bài học kinh nghiệm trong chỉ đạo, thực hiện.\nc) Tình hình, số liệu các vụ lộ, mất BMNN; nguyên nhân và việc xử lý, khắc phục hậu quả.\nd) Dự báo tình hình; dự kiến công tác trọng tâm bảo vệ BMNN và đề xuất, kiến nghị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 20. Tổ chức thực hiện\n\n1. Trưởng các đơn vị thuộc và trực thuộc có trách nhiệm phổ biến, quán triệt đến từng viên chức thuộc phạm vi đơn vị quản lý các quy định hiện hành của Nhà nước về công tác bảo vệ BMNN và thực hiện nghiêm chỉnh các quy định của Nội quy này.\n2. Phòng Tổ chức – Hành chính chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra, đôn đốc việc thực hiện Nội quy này.\n3. Trong quá trình thực hiện Nội quy này, nếu phát sinh khó khăn, vướng mắc các đơn vị, cá nhân gửi ý kiến góp ý về Phòng Tổ chức - Hành chính để tổng hợp, báo cáo, đề xuất Hiệu trưởng xem xét, điều chỉnh, sửa đổi, bổ sung cho phù hợp.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Nội quy về công tác bảo vệ bí mật nhà nước tại Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Nội quy về công tác bảo vệ bí mật nhà nước tại Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị thuộc và trực thuộc Trường, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị thuộc và trực thuộc Trường, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

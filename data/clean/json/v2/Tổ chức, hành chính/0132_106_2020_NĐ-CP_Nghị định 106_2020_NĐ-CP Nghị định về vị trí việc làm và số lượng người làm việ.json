@@ -1,0 +1,200 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0132_106_2020_NĐ-CP_Nghị định 106_2020_NĐ-CP Nghị định về vị trí việc làm và số lượng người làm việ.txt",
+  "mappedBy": "gemini-web",
+  "note": "21 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "106/2020/NĐ-CP",
+    "title": "Nghị định Về vị trí việc làm và số lượng người làm việc trong đơn vị sự nghiệp công lập",
+    "documentType": "Nghị định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "10/09/2020",
+    "effectiveDate": "15/11/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị định này quy định về nguyên tắc, trình tự, trách nhiệm, thẩm quyền quyết định và điều chỉnh vị trí việc làm và số lượng người làm việc trong đơn vị sự nghiệp công lập.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Xuân Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "41/2012/NĐ-CP",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2020 và thay thế Nghị định số 41/2012/NĐ-CP ngày 08 tháng 5 năm 2012 của Chính phủ quy định về vị trí việc làm trong đơn vị sự nghiệp công lập."
+    },
+    {
+      "targetDocumentNumber": "16/2015/NĐ-CP",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Bãi bỏ các nội dung quy định về tự chủ nhân sự quy định tại Nghị định số 16/2015/NĐ-CP ngày 14 tháng 02 năm 2015 của Chính phủ quy định cơ chế tự chủ của đơn vị sự nghiệp công lập."
+    }
+  ],
+  "mentions": [
+    "Bộ Quốc phòng",
+    "Bộ Công an",
+    "Đại học Quốc gia Hà Nội",
+    "Đại học Quốc gia thành phố Hồ Chí Minh",
+    "Bộ Nội vụ",
+    "Ban Tổ chức Trung ương",
+    "Văn phòng Quốc hội",
+    "Văn phòng Chủ tịch nước",
+    "Tòa án nhân dân tối cao",
+    "Viện kiểm sát nhân dân tối cao",
+    "Kiểm toán Nhà nước",
+    "Ủy ban Giám sát tài chính Quốc gia",
+    "Ngân hàng Chính sách xã hội",
+    "Ngân hàng Phát triển Việt Nam",
+    "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nNghị định này quy định về nguyên tắc, trình tự, trách nhiệm, thẩm\nquyền quyết định và điều chỉnh vị trí việc làm và số lượng người làm việc\ntrong đơn vị sự nghiệp công lập.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\nNghị định này áp dụng đối với các đơn vị sự nghiệp công lập thuộc\nphạm vi quản lý của bộ, cơ quan ngang bộ (trừ Bộ Quốc phòng và Bộ Công\nan), cơ quan thuộc Chính phủ, tổ chức do Chính phủ, Thủ tướng Chính phủ\nthành lập mà không phải là đơn vị sự nghiệp công lập; Đại học Quốc gia Hà\nNội, Đại học Quốc gia thành phố Hồ Chí Minh, Ủy ban nhân dân tỉnh, thành\nphố trực thuộc trung ương.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nguyên tắc xác định vị trí việc làm và số lượng người làm việc",
+      "text": "Điều 3. Nguyên tắc xác định vị trí việc làm và số lượng người làm việc\n1. Thực hiện nghiêm chủ trương của Đảng và của pháp luật về vị trí\nviệc làm, số lượng người làm việc và tinh giản biên chế trong đơn vị sự\nnghiệp công lập.\n2. Phù hợp với chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của\nđơn vị sự nghiệp công lập.\n3. Bảo đảm tính khoa học, khách quan, công khai, minh bạch, hiệu quả\nvà nâng cao chất lượng đội ngũ viên chức, người lao động trong đơn vị sự\nnghiệp công lập.\n4. Bảo đảm một người làm việc phải được giao đủ khối lượng công\nviệc để thực hiện theo thời gian lao động quy định. Những vị trí việc làm\nkhông có đủ khối lượng công việc để thực hiện theo thời gian quy định của\nmột người làm việc thì phải bố trí kiêm nhiệm.\n5. Bảo đảm cơ cấu hợp lý, trong đó số lượng người làm việc tại các vị\ntrí việc làm chức danh nghề nghiệp chuyên ngành và chức danh nghề nghiệp\nchuyên môn dùng chung chiếm tỉ lệ tối thiểu 65% tổng số lượng người làm\nviệc của đơn vị sự nghiệp công lập.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Căn cứ xác định vị trí việc làm, số lượng người làm việc và",
+      "text": "Điều 4. Căn cứ xác định vị trí việc làm, số lượng người làm việc và\ncơ cấu viên chức theo chức danh nghề nghiệp\n1. Căn cứ xác định vị trí việc làm bao gồm:\na) Chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của đơn vị sự\nnghiệp công lập;\nb) Mức độ phức tạp, tính chất, đặc điểm, quy mô hoạt động; phạm vi,\nđối tượng phục vụ; quy trình quản lý chuyên môn, nghiệp vụ theo quy định\ncủa pháp luật chuyên ngành.\n2. Căn cứ xác định số lượng người làm việc bao gồm:\na) Vị trí việc làm và khối lượng công việc thực tế tại từng vị trí việc\nlàm của đơn vị sự nghiệp công lập;\nb) Mức độ hiện đại hóa công sở, trang thiết bị, phương tiện làm việc và\nứng dụng công nghệ thông tin;\nc) Thực trạng quản lý, sử dụng số lượng người làm việc được giao của\nđơn vị.\n\n3. Căn cứ xác định cơ cấu viên chức theo chức danh nghề nghiệp\nbao gồm:\na) Danh mục vị trí việc làm;\nb) Mức độ phức tạp của công việc của vị trí việc làm;\nc) Tiêu chuẩn, chức danh nghề nghiệp viên chức tương ứng với vị trí\nviệc làm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Phân loại vị trí việc làm",
+      "text": "Điều 5. Phân loại vị trí việc làm\n1. Phân loại theo khối lượng công việc\na) Vị trí việc làm do một người đảm nhận.\nb) Vị trí việc làm do nhiều người đảm nhận.\nc) Vị trí việc làm kiêm nhiệm.\n2. Phân loại theo tính chất, nội dung công việc\na) Vị trí việc làm lãnh đạo, quản lý.\nb) Vị trí việc làm chức danh nghề nghiệp chuyên ngành.\nc) Vị trí việc làm chức danh nghề nghiệp chuyên môn dùng chung\n(hành chính, tổng hợp, quản trị văn phòng, tổ chức cán bộ, kế hoạch tài chính\nvà các vị trí việc làm không giữ chức danh nghề nghiệp chuyên ngành của\nđơn vị sự nghiệp công lập).\nd) Vị trí việc làm hỗ trợ, phục vụ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Trình tự phê duyệt vị trí việc làm",
+      "text": "Điều 6. Trình tự phê duyệt vị trí việc làm\n1. Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chi đầu tư\nCăn cứ khoản 1 Điều 4 Nghị định này, đơn vị sự nghiệp công lập xây\ndựng Đề án vị trí việc làm, tổ chức thẩm định và trình người đứng đầu đơn vị\nsự nghiệp công lập để trình Hội đồng quản lý thông qua; người đứng đầu đơn\nvị sự nghiệp công lập quyết định phê duyệt vị trí việc làm và cơ cấu viên\nchức theo chức danh nghề nghiệp của đơn vị sau khi được Hội đồng quản lý\nthông qua.\n\n2. Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên\nCăn cứ khoản 1 Điều 4 Nghị định này và văn bản hướng dẫn của cơ\nquan có thẩm quyền về vị trí việc làm và cơ cấu viên chức theo chức danh\nnghề nghiệp theo ngành, lĩnh vực, đơn vị sự nghiệp công lập xây dựng Đề án\nvị trí việc làm, tổ chức thẩm định và trình người đứng đầu đơn vị sự nghiệp\ncông lập quyết định phê duyệt vị trí việc làm và cơ cấu viên chức theo chức\ndanh nghề nghiệp của đơn vị. Trường hợp đơn vị sự nghiệp công lập có Hội\nđồng quản lý thì người đứng đầu đơn vị sự nghiệp công lập phải trình Hội đồng\nquản lý thông qua trước khi quyết định phê duyệt vị trí việc làm, cơ cấu viên\nchức theo chức danh nghề nghiệp.\n3. Đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và\nđơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên\na) Căn cứ khoản 1 Điều 4 Nghị định này và văn bản hướng dẫn của cơ\nquan có thẩm quyền về vị trí việc làm và cơ cấu viên chức theo chức danh\nnghề nghiệp theo ngành, lĩnh vực, đơn vị sự nghiệp công lập xây dựng Đề án\nvị trí việc làm; báo cáo cơ quan cấp trên quản lý trực tiếp để báo cáo cơ quan,\ntổ chức theo quy định tại điểm b khoản này thẩm định.\nb) Các cơ quan, tổ chức được giao nhiệm vụ về tổ chức cán bộ của\nbộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, tổ chức do Chính phủ,\nThủ tướng Chính phủ thành lập mà không phải là đơn vị sự nghiệp công lập;\nĐại học Quốc gia Hà Nội, Đại học Quốc gia thành phố Hồ Chí Minh, Ủy ban\nnhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là bộ,\nngành, địa phương) hoặc cơ quan, tổ chức được giao nhiệm vụ về tổ chức cán\nbộ của cơ quan, tổ chức được phân cấp, ủy quyền quản lý, sử dụng vị trí việc\nlàm theo quy định thực hiện tiếp nhận hồ sơ, tổ chức thẩm định Đề án vị trí\nviệc làm của đơn vị sự nghiệp công lập và trình cấp có thẩm quyền theo quy\nđịnh tại điểm c khoản này phê duyệt.\nc) Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc\nChính phủ, người đứng đầu tổ chức do Chính phủ, Thủ tướng Chính phủ\nthành lập mà không phải là đơn vị sự nghiệp công lập; Giám đốc Đại học\nQuốc gia Hà Nội, Giám đốc Đại học Quốc gia thành phố Hồ Chí Minh, Ủy\nban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy\nban nhân dân cấp tỉnh) hoặc cơ quan, tổ chức được phân cấp, ủy quyền quản\nlý, sử dụng vị trí việc làm theo quy định phê duyệt vị trí việc làm và cơ cấu\nviên chức theo chức danh nghề nghiệp của đơn vị sự nghiệp công lập thuộc\nphạm vi quản lý.\n\n4. Hội đồng trường của trường đại học công lập ban hành danh mục\nvị trí việc làm của đơn vị theo quy định của Luật Giáo dục đại học và Nghị\nđịnh này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Hồ sơ và thời hạn thẩm định Đề án vị trí việc làm",
+      "text": "Điều 7. Hồ sơ và thời hạn thẩm định Đề án vị trí việc làm\n1. Hồ sơ đề nghị thẩm định Đề án vị trí việc làm gồm:\na) Văn bản đề nghị thẩm định Đề án vị trí việc làm;\nb) Đề án vị trí việc làm;\nc) Bản sao các văn bản của cơ quan có thẩm quyền quy định chức năng,\nnhiệm vụ, quyền hạn và cơ cấu tổ chức của đơn vị sự nghiệp công lập;\nd) Các văn bản khác có liên quan đến việc xây dựng đề án vị trí việc làm\n(nếu có).\n2. Nội dung Đề án vị trí việc làm gồm:\na) Sự cần thiết và cơ sở pháp lý của việc xây dựng Đề án vị trí\nviệc làm;\nb) Thống kê và phân nhóm công việc theo chức năng, nhiệm vụ, tính\nchất, mức độ phức tạp;\nc) Xác định vị trí việc làm, trong đó có: Bản mô tả vị trí việc làm,\nkhung năng lực, chức danh nghề nghiệp của từng vị trí việc làm;\nd) Tổng hợp vị trí việc làm và cơ cấu viên chức theo chức danh nghề\nnghiệp của đơn vị sự nghiệp công lập;\nđ) Kiến nghị, đề xuất (nếu có).\n3. Thời hạn thẩm định\nTrong thời hạn 40 ngày (đối với hồ sơ đề nghị thẩm định và phê duyệt\nlần đầu), 25 ngày (đối với hồ sơ đề nghị điều chỉnh) kể từ ngày nhận đủ hồ sơ,\ncơ quan, tổ chức được giao trách nhiệm thẩm định Đề án vị trí việc làm\nquy định tại khoản 3 Điều 6 Nghị định này phải hoàn thành việc thẩm định\nđể trình cấp có thẩm quyền xem xét, quyết định phê duyệt vị trí việc làm và\ncơ cấu viên chức theo chức danh nghề nghiệp của các đơn vị sự nghiệp công\nlập thuộc phạm vi quản lý. Trường hợp cấp có thẩm quyền quyết định\nkhông đồng ý thì thông báo bằng văn bản cho đơn vị sự nghiệp công lập và\nnêu rõ lý do.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Điều chỉnh vị trí việc làm và cơ cấu viên chức theo chức",
+      "text": "Điều 8. Điều chỉnh vị trí việc làm và cơ cấu viên chức theo chức\ndanh nghề nghiệp\n1. Việc điều chỉnh vị trí việc làm, cơ cấu viên chức theo chức danh\nnghề nghiệp trong các đơn vị sự nghiệp công lập được thực hiện trong các\ntrường hợp sau:\na) Đơn vị sự nghiệp công lập có sự thay đổi một trong các căn cứ quy\nđịnh tại khoản 1 Điều 4 Nghị định này;\nb) Đơn vị sự nghiệp công lập được tổ chức lại theo quyết định của cơ\nquan có thẩm quyền.\n2. Trình tự, hồ sơ điều chỉnh vị trí việc làm, cơ cấu viên chức theo chức\ndanh nghề nghiệp trong đơn vị sự nghiệp công lập thực hiện theo quy định tại\nĐiều 6 và Điều 7 Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Trình tự phê duyệt số lượng người làm việc hàng năm",
+      "text": "Điều 9. Trình tự phê duyệt số lượng người làm việc hàng năm\n1. Đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chi đầu\ntư và đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên căn cứ khoản 2\nĐiều 4 Nghị định này và văn bản hướng dẫn của cơ quan có thẩm quyền về\nđịnh mức số lượng người làm việc trong đơn vị sự nghiệp công lập theo\nngành, lĩnh vực để lập kế hoạch số lượng người làm việc hàng năm; tổ\nchức thẩm định và trình người đứng đầu đơn vị sự nghiệp công lập quyết định\nphê duyệt. Trường hợp đơn vị sự nghiệp công lập có Hội đồng quản lý thì\nngười đứng đầu đơn vị sự nghiệp công lập phải trình Hội đồng quản lý thông\nqua trước khi quyết định phê duyệt số lượng người làm việc của đơn vị.\n2. Đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và\nđơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên\na) Căn cứ khoản 2 Điều 4 Nghị định này và văn bản hướng dẫn của cơ\nquan có thẩm quyền về định mức số lượng người làm việc trong đơn vị sự\nnghiệp công lập theo ngành, lĩnh vực, đơn vị sự nghiệp công lập lập kế hoạch\nsố lượng người làm việc hưởng lương từ ngân sách nhà nước hàng năm của\nđơn vị mình, báo cáo cơ quan cấp trên quản lý trực tiếp để báo cáo cơ quan, tổ\nchức quy định tại điểm b khoản này. Đối với đơn vị sự nghiệp công lập tự bảo\nđảm một phần chi thường xuyên thì kế hoạch số lượng người làm việc gồm:\nSố lượng người làm việc hưởng lương từ ngân sách nhà nước và số lượng\nngười làm việc hưởng lương từ nguồn thu sự nghiệp.\n\nb) Các cơ quan, tổ chức được giao nhiệm vụ về tổ chức cán bộ của bộ,\nngành, địa phương tiếp nhận hồ sơ, tổ chức thẩm định số lượng người làm\nviệc đối với đơn vị sự nghiệp công lập; tổng hợp số lượng người làm việc trong\ncác đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn\nvị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên của\nbộ, ngành, địa phương trình người đứng đầu bộ, ngành, địa phương để gửi Bộ\nNội vụ thẩm định.\nc) Bộ Nội vụ thẩm định kế hoạch số lượng người làm việc hưởng lương\ntừ ngân sách nhà nước trong các đơn vị sự nghiệp công lập tự bảo đảm một\nphần chi thường xuyên và đơn vị sự nghiệp công lập do ngân sách nhà nước\nbảo đảm chi thường xuyên của bộ, ngành, địa phương.\nd) Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc\nChính phủ, người đứng đầu tổ chức do Chính phủ, Thủ tướng Chính phủ\nthành lập mà không phải là đơn vị sự nghiệp công lập; Giám đốc Đại học\nQuốc gia Hà Nội, Giám đốc Đại học Quốc gia thành phố Hồ Chí Minh quyết\nđịnh giao số lượng người làm việc hưởng lương từ ngân sách nhà nước đối\nvới từng đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và\nđơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên\nthuộc phạm vi quản lý trong tổng số lượng người làm việc được Bộ Nội vụ\nthẩm định; quyết định giao số lượng người làm việc hưởng lương từ nguồn\nthu sự nghiệp đối với đơn vị sự nghiệp tự bảo đảm một phần chi thường\nxuyên thuộc phạm vi quản lý.\nđ) Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp phê\nduyệt số lượng người làm việc hưởng lương từ ngân sách nhà nước trong các\nđơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị\nsự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên thuộc\nphạm vi quản lý trong tổng số lượng người làm việc đã được Bộ Nội vụ thẩm\nđịnh; quyết định giao số lượng người làm việc hưởng lương từ ngân sách nhà\nnước đối với từng đơn vị sự nghiệp công lập thuộc phạm vi quản lý trong tổng\nsố lượng người làm việc được Hội đồng nhân dân phê duyệt; quyết định giao\nsố lượng người làm việc hưởng lương từ nguồn thu sự nghiệp đối với đơn vị\nsự nghiệp tự bảo đảm một phần chi thường xuyên thuộc phạm vi quản lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Hồ sơ và thời hạn gửi kế hoạch số lượng người làm việc",
+      "text": "Điều 10. Hồ sơ và thời hạn gửi kế hoạch số lượng người làm việc\nhàng năm\n1. Hồ sơ kế hoạch số lượng người làm việc hàng năm của các đơn vị\nsự nghiệp công lập thuộc phạm vi quản lý của bộ, ngành, địa phương gồm:\na) Văn bản đề nghị;\n\nb) Kế hoạch số lượng người làm việc của các đơn vị sự nghiệp công lập\nthuộc phạm vi quản lý của bộ, ngành, địa phương theo quy định tại khoản 2\nĐiều này, kèm theo văn bản làm cơ sở xác định số lượng người làm việc;\nc) Bản sao các văn bản của cơ quan có thẩm quyền quyết định hoặc phê\nduyệt số lượng người làm việc trong đơn vị sự nghiệp công lập của đơn vị\nhoặc của bộ, ngành, địa phương của năm trước liền kề với năm kế hoạch;\nd) Các văn bản liên quan (nếu có).\n2. Nội dung kế hoạch số lượng người làm việc gồm:\na) Sự cần thiết của việc lập kế hoạch số lượng người làm việc hàng năm;\nb) Báo cáo đánh giá việc giao và sử dụng số lượng người làm việc của\nnăm trước liền kề năm lập kế hoạch và tại thời điểm lập kế hoạch;\nc) Xác định số lượng người làm việc kèm theo việc thống kê, tổng hợp\nsố liệu số lượng người làm việc của năm kế hoạch theo Phụ lục IA, Phụ lục IB,\nPhụ lục IIA và Phụ lục IIB ban hành kèm theo Nghị định này;\nd) Giải pháp thực hiện kế hoạch số lượng người làm việc sau khi được\ncấp có thẩm quyền giao hoặc phê duyệt, dự kiến nguồn viên chức, hợp đồng\nlao động bổ sung, thay thế, thực hiện chính sách tinh giản biên chế và dự toán\nkinh phí để thực hiện;\nđ) Kiến nghị, đề xuất.\n3. Thời gian gửi kế hoạch số lượng người làm việc hàng năm của bộ,\nngành, địa phương\na) Trước ngày 01 tháng 5 hàng năm, bộ, ngành, địa phương gửi kế\nhoạch số lượng người làm việc trong các đơn vị sự nghiệp công lập của năm\ntiếp theo liền kề về Bộ Nội vụ;\nb) Sau thời hạn quy định tại điểm a khoản này, bộ, ngành, địa phương\nkhông gửi kế hoạch số lượng người làm việc trong các đơn vị sự nghiệp công\nlập của năm tiếp theo liền kề thì Bộ Nội vụ sẽ thông báo tổng số lượng người\nlàm việc hưởng lương từ ngân sách nhà nước trong các đơn vị sự nghiệp công\nlập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do\nngân sách nhà nước bảo đảm chi thường xuyên của bộ, ngành, địa phương với\ntỷ lệ tinh giản biên chế cao hơn 01% (một phần trăm) so với tỷ lệ tinh giản\nbiên chế theo lộ trình quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Điều chỉnh số lượng người làm việc hàng năm",
+      "text": "Điều 11. Điều chỉnh số lượng người làm việc hàng năm\n1. Việc điều chỉnh số lượng người làm việc trong các đơn vị sự nghiệp\ncông lập thực hiện trong các trường hợp sau:\na) Đơn vị sự nghiệp công lập có thay đổi một trong các căn cứ quy định\ntại khoản 2 Điều 4 Nghị định này;\nb) Đơn vị sự nghiệp công lập thành lập, tổ chức lại theo quyết định của\ncơ quan có thẩm quyền.\n2. Trình tự, hồ sơ điều chỉnh số lượng người làm việc thực hiện theo\nquy định tại Điều 9 và Điều 10 Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Trách nhiệm và thẩm quyền của người đứng đầu bộ, ngành",
+      "text": "Điều 12. Trách nhiệm và thẩm quyền của người đứng đầu bộ, ngành\n1. Bộ trưởng, Thủ trưởng cơ quan ngang bộ\na) Hướng dẫn về vị trí việc làm lãnh đạo, quản lý và chức danh nghề\nnghiệp chuyên ngành, cơ cấu viên chức theo chức danh nghề nghiệp và định\nmức số lượng người làm việc trong đơn vị sự nghiệp công lập thuộc ngành,\nlĩnh vực được giao quản lý sau khi có ý kiến thống nhất của Bộ trưởng Bộ\nNội vụ.\nb) Xây dựng vị trí việc làm chức danh nghề nghiệp chuyên môn dùng\nchung và vị trí việc làm hỗ trợ, phục vụ trong đơn vị sự nghiệp công lập thuộc\nngành, lĩnh vực được giao quản lý gửi Bộ Nội vụ để Bộ Nội vụ ban hành.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc\nChính phủ, người đứng đầu tổ chức do Chính phủ, Thủ tướng Chính phủ\nthành lập mà không phải là đơn vị sự nghiệp công lập\na) Quyết định phê duyệt, điều chỉnh vị trí việc làm và cơ cấu viên chức\ntheo chức danh nghề nghiệp của đơn vị sự nghiệp công lập thuộc phạm vi\nquản lý quy định tại khoản 3 Điều 6 Nghị định này.\nb) Phân cấp hoặc ủy quyền quản lý, sử dụng vị trí việc làm đối với các\nđơn vị sự nghiệp công lập theo thẩm quyền và theo quy định của pháp luật.\n\nc) Tổ chức thẩm định, tổng hợp kế hoạch số lượng người làm việc\ntrong các đơn vị sự nghiệp công lập thuộc phạm vi quản lý theo quy định tại\nĐiều 10 Nghị định này gửi Bộ Nội vụ để thẩm định.\nd) Quyết định giao, điều chỉnh số lượng người làm việc hưởng lương từ\nngân sách nhà nước đối với từng đơn vị sự nghiệp công lập tự bảo đảm một\nphần chi thường xuyên và đơn vị sự nghiệp công lập do ngân sách bảo đảm\nchi thường xuyên trong tổng số người làm việc được Bộ Nội vụ thẩm định.\nđ) Quyết định giao, điều chỉnh số lượng người làm việc hưởng lương từ\nnguồn thu sự nghiệp đối với đơn vị sự nghiệp tự bảo đảm một phần chi\nthường xuyên theo quy định tại điểm d khoản 2 Điều 9 Nghị định này.\ne) Hướng dẫn, kiểm tra, thanh tra theo thẩm quyền việc chấp hành các\nquy định của pháp luật về quản lý, sử dụng vị trí việc làm, số lượng người làm\nviệc trong các đơn vị sự nghiệp công lập thuộc ngành, lĩnh vực quản lý và\nthuộc phạm vi quản lý của bộ, ngành.\ng) Định kỳ hàng năm thống kê, tổng hợp, báo cáo về vị trí việc làm, cơ\ncấu viên chức theo chức danh nghề nghiệp, số lượng người làm việc trong\ncác đơn vị sự nghiệp công lập thuộc thẩm quyền quản lý của năm trước liền\nkề theo Phụ lục III và Phụ lục IV ban hành kèm theo Nghị định này, gửi Bộ\nNội vụ trước ngày 31 tháng 01 hàng năm để tổng hợp, báo cáo Thủ tướng\nChính phủ.\nh) Giải quyết khiếu nại, tố cáo và xử lý vi phạm về quản lý, sử dụng vị\ntrí việc làm, số lượng người làm việc trong các đơn vị sự nghiệp công lập\nthuộc phạm vi quản lý theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Trách nhiệm và thẩm quyền của Hội đồng nhân dân tỉnh,",
+      "text": "Điều 13. Trách nhiệm và thẩm quyền của Hội đồng nhân dân tỉnh,\nthành phố trực thuộc trung ương\nCăn cứ đề nghị của Ủy ban nhân dân cấp tỉnh và ý kiến thẩm định của\nBộ Nội vụ, Hội đồng nhân dân cấp tỉnh phê duyệt số lượng người làm việc\nhưởng lương từ ngân sách nhà nước trong các đơn vị sự nghiệp công lập tự\nbảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do ngân\nsách nhà nước bảo đảm chi thường xuyên của địa phương.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Trách nhiệm và thẩm quyền của Ủy ban nhân dân tỉnh,",
+      "text": "Điều 14. Trách nhiệm và thẩm quyền của Ủy ban nhân dân tỉnh,\nthành phố trực thuộc trung ương\n1. Quyết định phê duyệt, điều chỉnh vị trí việc làm và cơ cấu viên\nchức theo chức danh nghề nghiệp của đơn vị sự nghiệp công lập thuộc phạm\nvi quản lý quy định tại khoản 3 Điều 6 Nghị định này.\n\n2. Phân cấp hoặc ủy quyền quản lý, sử dụng vị trí việc làm trong các\nđơn vị sự nghiệp công lập thuộc phạm vi quản lý.\n3. Tổ chức thẩm định, tổng hợp kế hoạch số lượng người làm việc\ntrong các đơn vị sự nghiệp công lập thuộc phạm vi quản lý theo quy định tại\nĐiều 10 Nghị định này gửi Bộ Nội vụ để thẩm định.\n4. Trình Hội đồng nhân dân cùng cấp phê duyệt tổng số lượng người\nlàm việc hưởng lương từ ngân sách nhà nước trong các đơn vị sự nghiệp công\nlập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do\nngân sách nhà nước bảo đảm chi thường xuyên thuộc phạm vi quản lý trong\ntổng số lượng người làm việc đã được Bộ Nội vụ thẩm định.\n5. Quyết định giao, điều chỉnh số lượng người làm việc hưởng lương từ\nngân sách nhà nước đối với từng đơn vị sự nghiệp công lập tự bảo đảm một\nphần chi thường xuyên và đơn vị sự nghiệp công lập do ngân sách nhà nước\nbảo đảm chi thường xuyên thuộc phạm vi quản lý trong tổng số lượng người\nlàm việc được Hội đồng nhân dân cấp tỉnh phê duyệt.\n6. Quyết định giao, điều chỉnh số lượng người làm việc hưởng lương từ\nnguồn thu sự nghiệp đối với đơn vị sự nghiệp công lập tự bảo đảm một phần\nchi thường xuyên theo quy định tại điểm đ khoản 2 Điều 9 Nghị định này.\n7. Hướng dẫn, kiểm tra, thanh tra việc chấp hành các quy định của pháp\nluật về quản lý, sử dụng vị trí việc làm, số lượng người làm việc trong các\nđơn vị sự nghiệp công lập thuộc phạm vi quản lý.\n8. Giải quyết khiếu nại, tố cáo và xử lý vi phạm về quản lý, sử dụng vị\ntrí việc làm, số lượng người làm việc trong các đơn vị sự nghiệp công lập\nthuộc phạm vi quản lý theo quy định của pháp luật.\n9. Định kỳ hàng năm thống kê, tổng hợp, báo cáo về vị trí việc làm, cơ\ncấu viên chức theo chức danh nghề nghiệp, số lượng người làm việc trong các\nđơn vị sự nghiệp công lập thuộc phạm vi quản lý của năm trước liền kề theo Phụ\nlục III và Phụ lục IV ban hành kèm theo Nghị định này gửi Bộ Nội vụ trước\nngày 31 tháng 01 để tổng hợp, báo cáo Chính phủ, Thủ tướng Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Trách nhiệm và thẩm quyền của Bộ trưởng Bộ Nội vụ",
+      "text": "Điều 15. Trách nhiệm và thẩm quyền của Bộ trưởng Bộ Nội vụ\n1. Hướng dẫn về vị trí việc làm lãnh đạo, quản lý và chức danh nghề\nnghiệp chuyên ngành, cơ cấu viên chức theo chức danh nghề nghiệp và định\nmức số lượng người làm việc trong đơn vị sự nghiệp công lập thuộc ngành,\nlĩnh vực được giao quản lý; vị trí việc làm chức danh nghề nghiệp chuyên\nmôn dùng chung và hỗ trợ, phục vụ trong đơn vị sự nghiệp công lập theo đề\nxuất của bộ quản lý ngành, lĩnh vực.\n\n2. Trước ngày 01 tháng 7 hàng năm, thẩm định số lượng người làm\nviệc hưởng lương từ ngân sách nhà nước trong các đơn vị sự nghiệp công lập\ncủa năm sau liền kề đối với bộ, ngành, địa phương theo quy định tại điểm c\nkhoản 2 Điều 9 Nghị định này. Trường hợp số lượng người làm việc hưởng\nlương từ ngân sách nhà nước tăng so với số lượng người làm việc hưởng\nlương từ ngân sách nhà nước đã được thẩm định của năm trước liền kề thì\ntrình Thủ tướng Chính phủ xem xét, quyết định trước khi gửi văn bản thẩm\nđịnh số lượng người làm việc đối với bộ, ngành, địa phương.\n3. Thống kê, tổng hợp vị trí việc làm, cơ cấu viên chức theo chức danh\nnghề nghiệp và số lượng người làm việc trong các đơn vị sự nghiệp công lập\ncủa cả nước; báo cáo Chính phủ, Thủ tướng Chính phủ và các cơ quan có\nthẩm quyền.\n4. Kiểm tra, thanh tra, đôn đốc việc thực hiện quản lý, sử dụng vị trí\nviệc làm, số lượng người làm việc trong các đơn vị sự nghiệp công lập.\n5. Giải quyết khiếu nại, tố cáo và xử lý vi phạm về quản lý, sử dụng vị\ntrí việc làm, số lượng người làm việc trong các đơn vị sự nghiệp công lập theo\nquy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Trách nhiệm và thẩm quyền của người đứng đầu đơn vị",
+      "text": "Điều 16. Trách nhiệm và thẩm quyền của người đứng đầu đơn vị\nsự nghiệp công lập\n1. Người đứng đầu đơn vị sự nghiệp công lập tự bảo đảm chi thường\nxuyên và chi đầu tư và đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên\na) Chỉ đạo xây dựng Đề án vị trí việc làm và lập kế hoạch số lượng\nngười làm việc.\nb) Quyết định phê duyệt vị trí việc làm và cơ cấu viên chức theo chức\ndanh nghề nghiệp của đơn vị; quyết định số lượng người làm việc của đơn vị,\nbảo đảm không được thấp hơn định mức số lượng người làm việc trong các\nđơn vị sự nghiệp công lập do bộ quản lý ngành, lĩnh vực ban hành; bảo đảm\nviệc làm, thu nhập ổn định đối với số lượng người làm việc của đơn vị; không\nlàm tăng kinh phí chi đầu tư đối với đơn vị sự nghiệp công lập tự bảo đảm chi\nthường xuyên.\nc) Thống kê, tổng hợp vị trí việc làm, cơ cấu viên chức theo chức danh\nnghề nghiệp và số lượng người làm việc của đơn vị; báo cáo cơ quan cấp trên\nquản lý trực tiếp.\n\n2. Người đứng đầu đơn vị sự nghiệp công lập tự bảo đảm một phần chi\nthường xuyên và đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm\nchi thường xuyên\na) Chỉ đạo xây dựng Đề án vị trí việc làm, trình cấp có thẩm quyền\nquyết định vị trí việc làm và cơ cấu viên chức theo chức danh nghề nghiệp\ncủa đơn vị.\nb) Chỉ đạo lập kế hoạch số lượng người làm việc, kế hoạch điều chỉnh\nsố lượng người làm việc hàng năm của đơn vị theo quy định tại Nghị định\nnày, trình cấp có thẩm quyền xem xét, quyết định.\nc) Thống kê, tổng hợp vị trí việc làm, cơ cấu viên chức theo chức danh\nnghề nghiệp và số lượng người làm việc của đơn vị, báo cáo cơ quan cấp trên\nquản lý trực tiếp.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Xử lý trách nhiệm",
+      "text": "Điều 17. Xử lý trách nhiệm\nNgười đứng đầu bộ, ngành, địa phương; người đứng đầu đơn vị sự\nnghiệp công lập, Hội đồng quản lý (đối với đơn vị sự nghiệp công lập có Hội\nđồng quản lý) và Hội đồng trường (đối với trường đại học công lập) thực hiện\nkhông đúng quy định tại Nghị định này thì bị xem xét đánh giá, xếp loại ở\nmức hoàn thành nhiệm vụ hàng năm và xử lý trách nhiệm theo quy định của\nĐảng và của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Áp dụng quy định của Nghị định này đối với các đối",
+      "text": "Điều 18. Áp dụng quy định của Nghị định này đối với các đối\ntượng khác\nCác đơn vị sự nghiệp thuộc tổ chức chính trị xã hội nghề nghiệp, tổ\nchức xã hội, tổ chức xã hội nghề nghiệp; đơn vị sự nghiệp thuộc đơn vị sự\nnghiệp công lập; đơn vị sự nghiệp thuộc doanh nghiệp do Nhà nước nắm giữ\n100% vốn điều lệ, doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ\nhoặc tổng số cổ phần có quyền biểu quyết được áp dụng các quy định của\nNghị định này trong việc xác định vị trí việc làm, số lượng người làm việc của\nđơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Quy định chuyển tiếp",
+      "text": "Điều 19. Quy định chuyển tiếp\n1. Vị trí việc làm của các đơn vị sự nghiệp công lập đã được cơ quan có\nthẩm quyền phê duyệt sẽ được tiếp tục thực hiện cho đến khi bộ, ngành, địa\nphương ban hành quyết định phê duyệt vị trí việc làm và cơ cấu viên chức\ntheo chức danh nghề nghiệp của đơn vị theo quy định tại Nghị định này.\n\n2. Trong thời gian các bộ quản lý ngành, lĩnh vực chưa ban hành văn\nbản hướng dẫn về định mức số lượng người làm việc đối với đơn vị sự nghiệp\ncông lập thuộc ngành, lĩnh vực được giao quản lý thì bộ, ngành, địa phương\ngửi Bộ Nội vụ thẩm định số lượng người làm việc hưởng lương từ nguồn thu\nsự nghiệp đối với các đơn vị sự nghiệp công lập tự bảo đảm một phần chi\nthường xuyên thuộc ngành, lĩnh vực nêu trên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 20. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2020\nvà thay thế Nghị định số 41/2012/NĐ-CP ngày 08 tháng 5 năm 2012 của\nChính phủ quy định về vị trí việc làm trong đơn vị sự nghiệp công lập.\n2. Bãi bỏ các nội dung quy định về tự chủ nhân sự quy định tại Nghị\nđịnh số 16/2015/NĐ-CP ngày 14 tháng 02 năm 2015 của Chính phủ quy định\ncơ chế tự chủ của đơn vị sự nghiệp công lập.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 21. Trách nhiệm thi hành\n1. Chậm nhất đến hết ngày 30 tháng 6 năm 2021, Bộ trưởng bộ quản lý\nngành, lĩnh vực phải ban hành văn bản hướng dẫn về vị trí việc làm lãnh đạo,\nquản lý và chức danh nghề nghiệp chuyên ngành, cơ cấu viên chức theo chức\ndanh nghề nghiệp và định mức số lượng người làm việc đối với đơn vị sự\nnghiệp công lập thuộc ngành, lĩnh vực được giao quản lý; Bộ trưởng Bộ Nội\nvụ ban hành văn bản hướng dẫn về vị trí việc làm chức danh nghề nghiệp\nchuyên môn dùng chung và hỗ trợ, phục vụ của đơn vị sự nghiệp công lập.\n2. Chậm nhất sau 03 tháng kể từ ngày Bộ trưởng Bộ quản lý ngành,\nlĩnh vực và Bộ trưởng Bộ Nội vụ ban hành văn bản hướng dẫn theo quy định\ntại khoản 1 Điều này, các bộ, ngành, địa phương phải phê duyệt vị trí việc làm\nvà cơ cấu viên chức theo chức danh nghề nghiệp của các đơn vị sự nghiệp\ncông lập thuộc phạm vi quản lý.\n3. Ban Tổ chức Trung ương, Văn phòng Quốc hội, Văn phòng Chủ tịch\nnước, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán\nNhà nước căn cứ vào các quy định tại Nghị định này hướng dẫn các đơn vị sự\nnghiệp công lập thuộc phạm vi quản lý thực hiện về vị trí việc làm và số\nlượng người làm việc.\n4. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng áp dụng quy định\ntại Nghị định này hướng dẫn về vị trí việc làm và số lượng người làm việc\ntrong các đơn vị sự nghiệp công lập thuộc phạm vi quản lý, bảo đảm phù hợp\nvới đặc thù của lực lượng vũ trang.\n\n5. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan\nthuộc Chính phủ, người đứng đầu tổ chức do Chính phủ, Thủ tướng Chính\nphủ thành lập mà không phải là đơn vị sự nghiệp công lập, Chủ tịch Hội đồng\nnhân dân, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương,\nngười đứng đầu đơn vị sự nghiệp công lập và các cơ quan, tổ chức, cá nhân có\nliên quan chịu trách nhiệm thi hành Nghị định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0058_2522_ĐHBK-TCHC_Ban hành bộ tiêu chí đánh giá, xếp loại viên chức của Trường Đại học Bách khoa.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "2522/ĐHBK-TCHC",
+    "title": "V/v ban hành Bộ Tiêu chí đánh giá, xếp loại viên chức của Trường ĐHBK",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/10/2021",
+    "effectiveDate": "08/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Trường Đại học Bách khoa ban hành Bộ Tiêu chí đánh giá, xếp loại viên chức của Trường Đại học Bách khoa áp dụng cho năm học 2021-2022 và các năm học trở về sau dựa trên Nghị định số 90/2020/NĐ-CP.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "90/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 90/2020/NĐ-CP ngày 13 tháng 8 năm 2020 của Chính phủ về việc đánh giá, xếp loại chất lượng cán bộ, công chức, viên chức, Trường Đại học Bách khoa xây dựng dự thảo Bộ Tiêu chí đánh giá, xếp loại viên chức của Trường Đại học Bách khoa."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

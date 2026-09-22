@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Cơ sở vật chất, xây dựng/0365_2652_QĐ-ĐHBK_Quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuy.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2652/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 100 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/07/2024",
+    "effectiveDate": "01/07/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 100 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng. Quyết định có hiệu lực kể từ ngày ký và thay thế Quyết định số 2929/QĐ-ĐHBK ngày 01 tháng 8 năm 2023.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "04/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 04/NQ-HĐĐH ngày 18 tháng 01 năm 2023 của Hội đồng Đại học Đà Nẵng về việc phân cấp thẩm quyền quyết định trong công tác quản lý đầu tư, mua sắm tài sản, hàng hóa, dịch vụ, sửa chữa thường xuyên công trình xây dựng cho các trường đại học thành viên, đơn vị trực thuộc Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "5000/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế chi tiêu nội bộ;"
+    },
+    {
+      "targetDocumentNumber": "2929/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2929/QĐ-ĐHBK ngày 01 tháng 8 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành quy định về hồ sơ thanh toán mua sắm thường xuyên tại Trường Đại học Bách khoa."
+    },
+    {
+      "targetDocumentNumber": "123/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Lập theo quy định tại Nghị định 123/2020/NĐ-CP, nên đính kèm theo minh chứng kiểm tra trên trang thông tin điện tử về thuế https://tracuunnt.gdt.gov.vn/tcnnt/mstdn.jsp tại thời điểm xuất hoá đơn."
+    },
+    {
+      "targetDocumentNumber": "06/2021/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "11. () Bộ hồ sơ quản lý chất lượng công trình: căn cứ theo quy định thuộc Nghị định 06/2021/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "99/2021/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "12. (*) Bộ hồ sơ quyết toán: căn cứ theo quy định tại Nghị định 99/2021/NĐ-CP; Biểu mẫu theo Thông tư 96/2021/TT-BTC."
+    },
+    {
+      "targetDocumentNumber": "96/2021/TT-BTC",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "12. (*) Bộ hồ sơ quyết toán: căn cứ theo quy định tại Nghị định 99/2021/NĐ-CP; Biểu mẫu theo Thông tư 96/2021/TT-BTC."
+    },
+    {
+      "targetDocumentNumber": "3772/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "14. Hồ sơ thanh toán mua sắm hàng hóa, dịch vụ có giá trị dưới 50 triệu đồng thuộc đề tài khoa học công nghệ thực hiện theo Quyết định số 3772/QĐ-ĐHBK ngày 05/10/2023 của Hiệu trưởng Trường Đại học Bách khoa."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 100 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng (Phụ lục kèm theo).",
+      "text": "Điều 1. Ban hành quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 100 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng (Phụ lục kèm theo).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2929/QĐ-ĐHBK ngày 01 tháng 8 năm 2023 của Hiệu trưởng Trường Đại học Bách",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2929/QĐ-ĐHBK ngày 01 tháng 8 năm 2023 của Hiệu trưởng Trường Đại học Bách\n\nkhoa - Đại học Đà Nẵng ban hành quy định về hồ sơ thanh toán mua sắm thường xuyên tại Trường Đại học Bách khoa.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng phòng Phòng Cơ sở Vật chất, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị và các viên chức, người lao động thuộc Trường Đại học Bách khoa c",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng phòng Phòng Cơ sở Vật chất, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị và các viên chức, người lao động thuộc Trường Đại học Bách khoa căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

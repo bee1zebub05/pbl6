@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0333_4499_BGDĐT-GDĐH_Công văn số 4499_BGDĐT-GDĐH ngày 06_10_2021 của Bộ trưởng Bộ GDĐT về hướng dẫn.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "4499/BGDĐT-GDĐH",
+    "title": "Hướng dẫn thực hiện nhiệm vụ giáo dục đại học năm học 2021-2022",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/10/2021",
+    "effectiveDate": "06/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Công tác sinh viên",
+      "Khoa học Công nghệ",
+      "Tài chính, kế toán",
+      "Thi đua, khen thưởng",
+      "Thanh tra, kiểm tra",
+      "Học liệu, truyền thông"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo hướng dẫn các đại học, học viện, trường đại học và trường cao đẳng sư phạm thực hiện nhiệm vụ giáo dục đại học năm học 2021-2022 với các nội dung về phòng chống dịch COVID-19, phát triển hệ thống, đẩy mạnh tự chủ đại học, nâng cao chất lượng tuyển sinh và đào tạo, kiểm định chất lượng, nghiên cứu khoa học, chuyển đổi số, thi đua khen thưởng và truyền thông.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "24/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Chỉ thị số 24/CT-TTg ngày 03/9/2021 của Thủ tướng Chính phủ về việc đẩy mạnh triển khai các nhiệm vụ; giải pháp tổ chức dạy học an toàn, bảo đảm chương trình và mục tiêu chất lượng giáo dục, đào tạo ứng phó với đại dịch COVID-19"
+    },
+    {
+      "targetDocumentNumber": "800/CT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Chỉ thị số 800/CT-BGDĐT ngày 24/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo (GDĐT) về thực hiện nhiệm vụ năm học 2021-2022 ứng phó với dịch COVID-19 và tiếp tục đổi mới, kiên trì mục tiêu chất lượng giáo dục và đào tạo"
+    },
+    {
+      "targetDocumentNumber": "925/TB-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Kết luận của Bộ trưởng Bộ GDĐT tại Thông báo số 925/TB-BGDĐT ngày 15/9/2021"
+    },
+    {
+      "targetDocumentNumber": "29/NQ-TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Tiếp tục đẩy mạnh việc thực hiện đổi mới, căn bản toàn diện giáo dục đào tạo theo Nghị quyết số 29/NQ-TW ngày 04/11/2013"
+    },
+    {
+      "targetDocumentNumber": "71/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "triển khai hiệu quả Nghị định số 71/2020/NĐ-CP ngày 30/6/2020 của Chính phủ quy định lộ trình thực hiện nâng trình độ chuẩn được đào tạo của giáo viên mầm non, tiểu học, trung học cơ sở"
+    },
+    {
+      "targetDocumentNumber": "116/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghị định số 116/2020/NĐ-CP ngày 25/9/2020 của Chính phủ quy định về chính sách hỗ trợ tiền đóng học phí, chi phí sinh hoạt đối với sinh viên sư phạm"
+    },
+    {
+      "targetDocumentNumber": "31/CT-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "tiếp tục thực hiện Chỉ thị số 31/CT-TTg ngày 04/12/2019 của Thủ tướng Chính phủ về giáo dục đạo đức, lối sống cho học sinh, sinh viên"
+    },
+    {
+      "targetDocumentNumber": "2622/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Các cơ sở đào tạo xây dựng kế hoạch và triển khai thực hiện Quyết định số 2622/QĐ-BGDĐT ngày 16/8/2021 của Bộ trưởng Bộ GDĐT ban hành Kế hoạch triển khai Quyết định số 69/QĐ-TTg ngày 15/01/2019 của Thủ tướng Chính phủ phê duyệt \"Đề án nâng cao chất lượng giáo dục đại học giai đoạn 2019-2025\" trong giai đoạn 2021-2025"
+    },
+    {
+      "targetDocumentNumber": "69/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 2622/QĐ-BGDĐT ngày 16/8/2021 của Bộ trưởng Bộ GDĐT ban hành Kế hoạch triển khai Quyết định số 69/QĐ-TTg ngày 15/01/2019 của Thủ tướng Chính phủ phê duyệt \"Đề án nâng cao chất lượng giáo dục đại học giai đoạn 2019-2025\""
+    },
+    {
+      "targetDocumentNumber": "1684/TB-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "thực hiện có hiệu quả các nhiệm vụ và giải pháp đã đề ra tại Thông báo số 1684/TB-BGDĐT ngày 28/12/2020 của Bộ GDĐT về kết luận của Thứ trưởng Hoàng Minh Sơn tại Hội nghị tổng kết công tác bảo đảm và kiểm định chất lượng GDĐH, cao đẳng Sư phạm giai đoạn 2011-2020."
+    }
+  ],
+  "mentions": [
+    "Đảng Cộng sản Việt Nam",
+    "Chính phủ",
+    "Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương"
+  ],
+  "normativeContents": [],
+  "articles": []
+}
