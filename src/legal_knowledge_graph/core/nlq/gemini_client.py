@@ -107,21 +107,46 @@ class _BeKey:
 
 
 _be: _BeKey | None = None
+_be_embed: _BeKey | None = None
 _khoa_be = threading.Lock()
+
+
+def _load_keys() -> list[str]:
+    keys = config.nlq_gemini_keys()
+    if not keys:
+        raise GeminiCallError(
+            "Chưa cấu hình key cho NLQ. Điền LKG_GEMINI_API_KEY_0 (hoặc "
+            "LKG_GEMINI_API_KEYS=key1,key2,...) trong .env ở gốc repo."
+        )
+    return keys
 
 
 def _get_be() -> _BeKey:
     global _be
     with _khoa_be:
         if _be is None:
-            keys = config.nlq_gemini_keys()
-            if not keys:
-                raise GeminiCallError(
-                    "Chưa cấu hình key cho NLQ. Điền LKG_GEMINI_API_KEY_0 (hoặc "
-                    "LKG_GEMINI_API_KEYS=key1,key2,...) trong .env ở gốc repo."
-                )
-            _be = _BeKey(keys)
+            _be = _BeKey(_load_keys())
         return _be
+
+
+def _get_be_embed() -> _BeKey:
+    """Bể key RIÊNG cho embed_content() — KHÔNG dùng chung _get_be() dù
+    cùng đọc từ cùng danh sách key. Lý do: quota Gemini tính theo
+    PerProjectPerDayPerModel — generate_content (gemini-3.6-flash) và
+    embed_content (model khác, VD gemini-embedding-001) nhiều khả năng có
+    quota tách biệt theo model dù chung project/key. Nếu dùng chung 1
+    _BeKey, 1 key bị loại vì hết quota generate_content sẽ kéo theo bị
+    loại luôn ở embed_content — dù embed_content có thể còn nguyên quota.
+    Xác nhận thật (không suy đoán): quan sát trực tiếp phiên làm việc —
+    Stage A hết quota loại cả 4 key khỏi bể chung, khiến retrieval báo lỗi
+    'hết quota' NGAY LẬP TỨC mà chưa từng thật sự gọi embed_content — tách
+    bể để loại trừ khả năng chặn nhầm này."""
+
+    global _be_embed
+    with _khoa_be:
+        if _be_embed is None:
+            _be_embed = _BeKey(_load_keys())
+        return _be_embed
 
 
 def so_key() -> tuple[int, int]:
@@ -191,5 +216,70 @@ def call_json(prompt: str, response_schema: dict, temperature: float = 0.0) -> d
 
     raise GeminiCallError(
         f"Gọi Gemini thất bại sau {n_goi} lượt gọi trên bể {len(be)}/{be.tong} key "
+        f"(trần {_MAX_GOI} lượt / {_HAN_GIAY:.0f}s). Lỗi cuối: {loi_cuoi}"
+    )
+
+
+def call_embed(texts: list[str], task_type: str, output_dimensionality: int) -> list[list[float]]:
+    """Gọi Gemini embed_content() cho retrieval ngữ nghĩa (core/nlq/retrieval.py,
+    core/nlq/embed_articles.py) — dùng BỂ KEY RIÊNG (_get_be_embed(), KHÔNG
+    dùng chung _get_be() của call_json()) vì quota Gemini tính theo model,
+    key hết quota generate_content không có nghĩa hết quota embed_content
+    (xem docstring _get_be_embed()). Cùng cơ chế phân loại lỗi transient/
+    chết hẳn, chỉ khác điểm gọi API và cách đọc response. `contents` nhận
+    cả danh sách -> 1 lần gọi embed nhiều text, trả về đúng thứ tự (giảm
+    số request thật gửi đi).
+
+    task_type: 'RETRIEVAL_DOCUMENT' lúc backfill Article, 'RETRIEVAL_QUERY'
+    lúc embed câu hỏi người dùng — embedding bất đối xứng, Gemini khuyến nghị
+    dùng đúng loại cho từng phía để tăng độ chính xác retrieval."""
+
+    be = _get_be_embed()
+    cau_hinh = types.EmbedContentConfig(
+        task_type=task_type,
+        output_dimensionality=output_dimensionality,
+    )
+
+    loi_cuoi = ""
+    n_goi = 0
+    han = time.time() + _HAN_GIAY
+    while n_goi < _MAX_GOI and time.time() < han:
+        lay = be.lay()
+        if lay is None:
+            if len(be) == 0:
+                raise GeminiCallError(
+                    f"Cả {be.tong} key đều đã hết hạn mức ngày hoặc bị từ chối. "
+                    f"Lỗi cuối: {loi_cuoi}"
+                )
+            time.sleep(max(0.5, min(be.cho_bao_lau() + 0.5, han - time.time())))
+            continue
+
+        key, client = lay
+        n_goi += 1
+        try:
+            response = client.models.embed_content(
+                model=config.NLQ_EMBED_MODEL, contents=texts, config=cau_hinh
+            )
+        except Exception as exc:
+            loi_cuoi = str(exc)
+            if any(m in loi_cuoi for m in _CHET_HAN):
+                con = be.loai(key)
+                if con == 0:
+                    raise GeminiCallError(
+                        f"Cả {be.tong} key đều đã hết hạn mức ngày hoặc bị từ "
+                        f"chối. Lỗi cuối: {loi_cuoi}"
+                    ) from exc
+                continue
+            if any(m in loi_cuoi for m in _TRANSIENT):
+                be.cho_nghi(key)
+                continue
+            raise GeminiCallError(f"Gọi Gemini embed thất bại: {exc}") from exc
+
+        if not response.embeddings:
+            raise GeminiCallError("Gemini embed trả về rỗng (có thể bị chặn bởi safety filter)")
+        return [e.values for e in response.embeddings]
+
+    raise GeminiCallError(
+        f"Gọi Gemini embed thất bại sau {n_goi} lượt gọi trên bể {len(be)}/{be.tong} key "
         f"(trần {_MAX_GOI} lượt / {_HAN_GIAY:.0f}s). Lỗi cuối: {loi_cuoi}"
     )

@@ -17,6 +17,7 @@ from dataclasses import dataclass
 
 from .. import config, normalize
 from ..validate import load_seed_entries
+from . import aliases as aliases_module
 
 _MIN_SCORE = 0.5
 _AMBIGUITY_MARGIN = 0.08  # 2 candidate cách nhau dưới mức này -> coi là mơ hồ
@@ -67,15 +68,25 @@ def _similarity(query_slug: str, candidate_slug: str) -> float:
     return len(q_tokens & c_tokens) / len(q_tokens | c_tokens)
 
 
-def _fuzzy_pick(query: str, options: dict[str, str]) -> Resolution:
+def _fuzzy_pick(query: str, options: dict[str, str], aliases: dict[str, str] | None = None) -> Resolution:
     """options: slug -> tên hiển thị gốc. Trả Resolved(slug) khi khớp rõ
     ràng (đúng slug hoặc 1 candidate vượt trội theo token phân biệt),
     Ambiguous(tên hiển thị của 2-3 candidate gần nhau) khi không phân biệt
     được, NotFound() khi không có candidate nào đủ gần (điểm dưới
     _MIN_SCORE — chặn trường hợp tên hoàn toàn khác nhau nhưng chung tiền
-    tố "Trường Đại học..." vẫn bị coi là gần)."""
+    tố "Trường Đại học..." vẫn bị coi là gần).
+
+    aliases (nếu có): slug(alias) -> slug(canonical), tra TRƯỚC exact-slug-
+    match — bắt các viết tắt (VD "ĐHBK") mà fuzzy match theo token không
+    bắt được (không chia sẻ token nào với "truong_dai_hoc_bach_khoa"). Nếu
+    canonical đã lưu không còn khớp options sống (org đổi tên/xoá) thì rơi
+    tiếp xuống các bước match bên dưới, không hard-fail."""
 
     query_slug = normalize.slug(query)
+    if aliases and query_slug in aliases:
+        canonical_slug = aliases[query_slug]
+        if canonical_slug in options:
+            return Resolved(canonical_slug)
     if query_slug in options:
         return Resolved(query_slug)
 
@@ -117,7 +128,7 @@ def reset_org_cache() -> None:
 def resolve_organization(mention: str, session) -> Resolution:
     # orgId = slug(name) (core/normalize.py::org_id), nên slug khớp trong
     # _fuzzy_pick CHÍNH LÀ orgId cần điền vào $param, không cần map thêm.
-    return _fuzzy_pick(mention, _load_org_cache(session))
+    return _fuzzy_pick(mention, _load_org_cache(session), aliases_module.load_org_aliases())
 
 
 # ============================================================
@@ -136,7 +147,7 @@ def _load_topic_cache() -> dict[str, str]:
 
 
 def resolve_topic(mention: str) -> Resolution:
-    return _fuzzy_pick(mention, _load_topic_cache())
+    return _fuzzy_pick(mention, _load_topic_cache(), aliases_module.load_topic_aliases())
 
 
 # ============================================================
@@ -155,7 +166,7 @@ def _load_target_group_cache() -> dict[str, str]:
 
 
 def resolve_target_group(mention: str) -> Resolution:
-    return _fuzzy_pick(mention, _load_target_group_cache())
+    return _fuzzy_pick(mention, _load_target_group_cache(), aliases_module.load_target_group_aliases())
 
 
 # ============================================================

@@ -31,8 +31,22 @@ app.add_middleware(
 )
 
 
+class ResumeIn(BaseModel):
+    """Ngữ cảnh vòng hỏi-lại — FE gửi lại NGUYÊN VẸN những gì lượt trước
+    trả về trong `missing_param`/`raw_params` (xem pipeline.PendingClarification).
+    Backend không tự lưu gì, không có session id nào cả (stateless)."""
+
+    template: str
+    raw_params: dict[str, str]
+    missing_param: str
+    rounds: int = 0
+
+
 class ChatRequest(BaseModel):
     question: str = Field(min_length=1, description="Câu hỏi tiếng Việt tự nhiên")
+    resume: ResumeIn | None = Field(
+        default=None, description="Có khi đây là câu trả lời cho 1 lượt hỏi-lại trước đó"
+    )
 
 
 class ChatResponse(BaseModel):
@@ -44,6 +58,12 @@ class ChatResponse(BaseModel):
     elapsed_ms: float | None = None
     reason: str | None = None
     confidence: float | None = None
+    missing_param: str | None = None
+    candidates: list[str] | None = None
+    raw_params: dict | None = None
+    correction_attempts: int = 0
+    retrieval: list[dict] | None = None
+    retrieval_reason: str | None = None
 
 
 @app.exception_handler(Exception)
@@ -62,8 +82,18 @@ def health() -> dict:
 def chat(req: ChatRequest):
     # def thường (không async): Starlette tự chạy trong threadpool nên
     # không block event loop — ask() là I/O đồng bộ (gọi Gemini + Neo4j).
+    resume = (
+        pipeline.PendingClarification(
+            template=req.resume.template,
+            raw_params=req.resume.raw_params,
+            missing_param=req.resume.missing_param,
+            rounds=req.resume.rounds,
+        )
+        if req.resume is not None
+        else None
+    )
     try:
-        result = pipeline.ask(req.question)
+        result = pipeline.ask(req.question, resume=resume)
     except Exception as exc:
         return JSONResponse(status_code=500, content={"error": f"Lỗi khi xử lý câu hỏi: {exc}"})
     return ChatResponse(**result.__dict__)
