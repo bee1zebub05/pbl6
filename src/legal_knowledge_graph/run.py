@@ -18,6 +18,7 @@ if sys.platform == "win32":
     sys.stderr.reconfigure(encoding="utf-8")
 
 from core import build, build_pipeline, collision_check, validate  # noqa: E402
+from core.nlq import embed_articles as nlq_embed_articles  # noqa: E402
 from core.nlq import eval_gold as nlq_eval_gold  # noqa: E402
 from core.nlq import pipeline as nlq_pipeline  # noqa: E402
 from core.query import runner as query_runner  # noqa: E402
@@ -56,6 +57,14 @@ def main() -> int:
 
     p_nlq_eval = sub.add_parser("nlq-eval", help="Chạy bộ câu hỏi gold cho NLQ (thật qua Gemini + Neo4j)")
     p_nlq_eval.add_argument("--verbose", action="store_true")
+    p_nlq_eval.add_argument("--with-retrieval", action="store_true",
+                             help="Bật luôn retrieval ngữ nghĩa (mặc định tắt để đỡ tốn gấp đôi quota)")
+
+    p_embed = sub.add_parser("embed-articles", help="Backfill embedding cho Article (chạy tay, không nằm trong build/all)")
+    p_embed.add_argument("--batch-size", type=int, default=None, help="Số text gộp vào 1 lần gọi embed_content()")
+    p_embed.add_argument("--read-batch-size", type=int, default=None, help="Số Article đọc mỗi lượt round-trip Neo4j")
+    p_embed.add_argument("--dry-run", action="store_true", help="Chỉ đếm số Article còn thiếu embedding, KHÔNG gọi Gemini")
+    p_embed.add_argument("--verbose", action="store_true")
 
     p_api = sub.add_parser("serve-api", help="Chạy FastAPI cho chat UI (core/api/), xem frontend/")
     p_api.add_argument("--host", default="127.0.0.1")
@@ -107,8 +116,24 @@ def main() -> int:
         return nlq_pipeline.main(argv)
 
     if args.command == "nlq-eval":
-        argv = ["--verbose"] if args.verbose else []
+        argv = []
+        if args.verbose:
+            argv += ["--verbose"]
+        if args.with_retrieval:
+            argv += ["--with-retrieval"]
         return nlq_eval_gold.main(argv)
+
+    if args.command == "embed-articles":
+        argv = []
+        if args.batch_size is not None:
+            argv += ["--batch-size", str(args.batch_size)]
+        if args.read_batch_size is not None:
+            argv += ["--read-batch-size", str(args.read_batch_size)]
+        if args.dry_run:
+            argv += ["--dry-run"]
+        if args.verbose:
+            argv += ["--verbose"]
+        return nlq_embed_articles.main(argv)
 
     if args.command == "serve-api":
         import uvicorn

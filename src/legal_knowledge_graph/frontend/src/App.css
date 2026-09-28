@@ -69,6 +69,50 @@
   font-style: italic;
 }
 
+.msg-clarify {
+  background: #dbeafe;
+  color: #1e3a8a;
+}
+
+.candidate-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.candidate-btn {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid #93c5fd;
+  background: white;
+  color: #1e3a8a;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.candidate-btn:hover {
+  background: #eff6ff;
+}
+
+.clarify-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 4px;
+  font-size: 0.85rem;
+}
+
+.clarify-cancel {
+  border: none;
+  background: none;
+  color: #2563eb;
+  cursor: pointer;
+  font-size: 0.85rem;
+  text-decoration: underline;
+  padding: 0;
+}
+
 .rows-table {
   border-collapse: collapse;
   width: 100%;
@@ -116,6 +160,56 @@
 .badge-warn {
   background: #fde68a;
   color: #78350f;
+}
+
+.retrieval-detail {
+  margin-top: 8px;
+  border-top: 1px dashed #d1d5db;
+  padding-top: 8px;
+}
+
+.retrieval-detail summary {
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: #4b5563;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.retrieval-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.retrieval-hit {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+
+.retrieval-hit-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+
+.retrieval-heading {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #14532d;
+}
+
+.retrieval-text {
+  font-size: 0.82rem;
+  color: #1f2937;
+  margin: 0;
+  line-height: 1.45;
 }
 
 .chat-input {

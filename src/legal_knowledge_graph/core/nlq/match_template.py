@@ -43,8 +43,13 @@ _RESPONSE_SCHEMA = {
             },
         },
         "reason": {"type": "string"},
+        "missing": {
+            "type": "array",
+            "items": {"type": "string"},
+            "description": "Tên các tham số BẮT BUỘC của template đã chọn nhưng câu hỏi không nêu rõ giá trị.",
+        },
     },
-    "required": ["matched", "template", "confidence", "params", "reason"],
+    "required": ["matched", "template", "confidence", "params", "reason", "missing"],
 }
 
 _PROMPT_TEMPLATE = """Bạn là bộ định tuyến câu hỏi cho một Cypher/Neo4j knowledge graph về văn bản pháp quy quản trị đại học Việt Nam (Đại học Đà Nẵng, Trường Đại học Bách khoa và các văn bản pháp luật cấp trên liên quan).
@@ -59,9 +64,10 @@ QUY TẮC BẮT BUỘC:
 - Với tham số 'status': map sang đúng 1 trong CON_HIEU_LUC (còn hiệu lực) / HET_HIEU_LUC (hết hiệu lực) / CHUA_HIEU_LUC (chưa có hiệu lực). Không chắc/không nhắc tới thì đừng điền tham số này.
 - Với tham số 'contentType': map sang đúng 1 trong: Quy định, Quy chế, Điều lệ, Quy trình, Nội quy, Đề án, Kế hoạch, Hướng dẫn, Chương trình.
 - Với tham số 'limit'/'seedLimit': chỉ điền nếu người dùng nêu số cụ thể (vd "top 5"), không thì bỏ qua.
-- Không khớp template nào (hoặc câu hỏi mơ hồ/ngoài phạm vi) -> matched=false, template="", confidence=0, params=[], giải thích ngắn ở 'reason'.
+- Không khớp template nào (hoặc câu hỏi mơ hồ/ngoài phạm vi) -> matched=false, template="", confidence=0, params=[], missing=[], giải thích ngắn ở 'reason'.
 - 'confidence' là số 0.0-1.0, phản ánh thật độ chắc chắn — đừng luôn trả 1.0.
 - 'params' là MẢNG các object {{"key": tên_tham_số, "value": giá_trị_thô}}, mỗi tham số bắt buộc/tuỳ chọn đã trích được là 1 phần tử — không phải object phẳng.
+- 'missing': nếu bạn CHẮC CHẮN đúng template nhưng câu hỏi KHÔNG nêu rõ giá trị của một tham số BẮT BUỘC của template đó (VD hỏi "văn bản nào còn hiệu lực?" nhưng không nói rõ đơn vị nào) — vẫn trả matched=true, điền các tham số trích được vào 'params', và liệt kê TÊN các tham số bắt buộc còn thiếu vào 'missing' (hệ thống sẽ tự hỏi lại người dùng). Không nhầm với trường hợp không chắc template nào cả — lúc đó vẫn là matched=false. Khớp đúng template và đủ tham số thì để missing=[] (mảng rỗng, không phải bỏ trống field).
 
 DANH SÁCH TEMPLATE:
 {catalog}
@@ -78,6 +84,7 @@ class StageAResult:
     confidence: float
     params: dict[str, str]
     reason: str
+    missing: tuple[str, ...] = ()
 
 
 def match_template(question: str) -> StageAResult:
@@ -104,12 +111,15 @@ def match_template(question: str) -> StageAResult:
         if isinstance(item, dict) and "key" in item and "value" in item
     }
     reason = data.get("reason", "")
+    missing = tuple(m for m in (data.get("missing") or []) if isinstance(m, str) and m)
 
     if matched and (template not in TEMPLATES or confidence < config.NLQ_TEMPLATE_CONFIDENCE_MIN):
         # Không đủ điều kiện (tên template lạ, hoặc dưới ngưỡng tin cậy) ->
         # coi là miss, KHÔNG chạy Cypher với 1 lựa chọn không chắc chắn.
         matched = False
+        missing = ()
 
     return StageAResult(
-        matched=matched, template=template, confidence=confidence, params=params, reason=reason
+        matched=matched, template=template, confidence=confidence, params=params,
+        reason=reason, missing=missing,
     )

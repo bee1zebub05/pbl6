@@ -24,6 +24,7 @@ REFERENCE_DIR = ROOT / "reference"
 ORGANIZATIONS_SEED_PATH = REFERENCE_DIR / "organizations_seed.json"
 TOPICS_SEED_PATH = REFERENCE_DIR / "topics_seed.json"
 TARGET_GROUPS_SEED_PATH = REFERENCE_DIR / "target_groups_seed.json"
+ALIASES_SEED_PATH = REFERENCE_DIR / "aliases_seed.json"
 DEFAULT_DATA_DIR = ROOT / "samples"
 
 # Trỏ vào container Neo4j THỨ HAI, tách biệt hoàn toàn khỏi instance của
@@ -95,3 +96,33 @@ NLQ_ROW_CAP = int(os.getenv("LKG_NLQ_ROW_CAP", "200"))
 # Timeout Cypher phía server (giây), áp dụng qua Session.begin_transaction()
 # — xem core/nlq/execute.py để biết vì sao KHÔNG dùng session.run(timeout=).
 NLQ_QUERY_TIMEOUT_SECONDS = float(os.getenv("LKG_NLQ_QUERY_TIMEOUT_SECONDS", "10"))
+
+# Số lượt tối đa hệ thống chủ động hỏi lại 1 tham số còn thiếu/mơ hồ trước
+# khi bỏ cuộc hẳn (unsupported) — xem core/nlq/pipeline.py::_run_template().
+NLQ_MAX_CLARIFY_ROUNDS = int(os.getenv("LKG_NLQ_MAX_CLARIFY_ROUNDS", "2"))
+
+# Số lần tối đa Stage B (freeform) được tự sửa Cypher sau khi bị guard.py
+# chặn, trước khi bỏ cuộc hẳn — xem core/nlq/pipeline.py::_run_freeform().
+NLQ_FREEFORM_MAX_ATTEMPTS = int(os.getenv("LKG_NLQ_FREEFORM_MAX_ATTEMPTS", "2"))
+
+# ============================================================
+# Retrieval ngữ nghĩa (embedding) trên Article — chạy song song Cypher,
+# xem core/nlq/retrieval.py, core/nlq/embed_articles.py.
+# ============================================================
+
+# Đã xác nhận bằng lệnh gọi thật (không suy đoán): model tồn tại trên bể
+# key đang dùng, output_dimensionality=768 hoạt động đúng.
+NLQ_EMBED_MODEL = os.getenv("LKG_EMBED_MODEL", "gemini-embedding-001")
+NLQ_EMBED_DIMENSIONS = int(os.getenv("LKG_EMBED_DIMENSIONS", "768"))
+
+# Số Article đọc mỗi lượt round-trip Neo4j (embed_articles.py).
+NLQ_EMBED_READ_BATCH_SIZE = int(os.getenv("LKG_EMBED_READ_BATCH_SIZE", "200"))
+# Số text gộp vào 1 lần gọi embed_content() — giảm số request thật gửi đi.
+NLQ_EMBED_API_BATCH_SIZE = int(os.getenv("LKG_EMBED_API_BATCH_SIZE", "32"))
+
+NLQ_RETRIEVAL_TOP_K = int(os.getenv("LKG_RETRIEVAL_TOP_K", "5"))
+NLQ_VECTOR_INDEX_NAME = os.getenv("LKG_VECTOR_INDEX_NAME", "article_embedding")
+
+# Tắt được để nlq-eval/test thường ngày không tốn gấp đôi quota Gemini —
+# chat UI thật vẫn mặc định bật (đúng quyết định "chạy cho mọi câu hỏi").
+NLQ_RETRIEVAL_ENABLED = os.getenv("LKG_RETRIEVAL_ENABLED", "true").lower() == "true"

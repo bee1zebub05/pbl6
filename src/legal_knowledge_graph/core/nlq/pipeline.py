@@ -20,10 +20,11 @@ về"): `template_result` / `freeform_result` (chưa có) / `resolution_failed`
 from __future__ import annotations
 
 import argparse
+import dataclasses
 from dataclasses import dataclass
 
 from .. import config
-from . import execute, freeform, gemini_client, guard, match_template, resolve
+from . import execute, freeform, gemini_client, guard, match_template, resolve, retrieval
 from .templates import TEMPLATES, Template
 
 
@@ -34,11 +35,16 @@ class TemplateParamError(Exception):
 class ResolutionFailed(Exception):
     """Tương ứng loại kết quả `resolution_failed` trong plan — 1 tham số
     không resolve được rõ ràng (mơ hồ hoặc không tồn tại). KHÔNG chạy
-    Cypher nào khi lỗi này xảy ra."""
+    Cypher nào khi lỗi này xảy ra.
 
-    def __init__(self, param_name: str, reason: str):
+    candidates: chỉ có giá trị khi lỗi gốc là resolve.Ambiguous — mang
+    theo để NlqResult.candidates hiển thị gợi ý cho người dùng chọn, thay
+    vì chỉ nhét vào chuỗi `reason` cho người đọc."""
+
+    def __init__(self, param_name: str, reason: str, candidates: tuple[str, ...] | None = None):
         self.param_name = param_name
         self.reason = reason
+        self.candidates = candidates
         super().__init__(f"'{param_name}': {reason}")
 
 
@@ -92,6 +98,7 @@ def fill_template(tpl: Template, raw_params: dict[str, str], session_) -> dict:
                 raise ResolutionFailed(
                     spec.name,
                     f"mơ hồ, có thể là: {' / '.join(result.candidates)}",
+                    candidates=result.candidates,
                 )
             else:  # NotFound
                 msg = f"không tìm thấy giá trị khớp '{raw_params[spec.name]}'"
@@ -137,42 +144,199 @@ class NlqResult:
     elapsed_ms: float | None = None
     reason: str | None = None
     confidence: float | None = None
+    # Cơ chế hỏi lại (chỉ có ý nghĩa khi kind="resolution_failed" và
+    # missing_param khác None — resolution_failed KHÔNG kèm missing_param
+    # nghĩa là chấm dứt thật, không mời hỏi lại nữa, VD hết lượt):
+    missing_param: str | None = None
+    candidates: tuple[str, ...] | None = None
+    raw_params: dict | None = None
+    # Tier 2 — số lần Stage B đã tự sửa Cypher sau khi bị guard chặn.
+    correction_attempts: int = 0
+    # Retrieval ngữ nghĩa (core/nlq/retrieval.py) — chạy SONG SONG luồng
+    # Cypher trên, độc lập với kind. retrieval=None + retrieval_reason có
+    # giá trị nghĩa là retrieval thất bại (lỗi Gemini/Neo4j) — KHÔNG được
+    # phép kéo theo hỏng luôn kết quả Cypher đã có.
+    retrieval: list[dict] | None = None
+    retrieval_reason: str | None = None
+
+
+@dataclass(frozen=True)
+class PendingClarification:
+    """Ngữ cảnh đủ để tiếp tục 1 câu hỏi đang chờ trả lời 1 tham số còn
+    thiếu — sống ở phía CLIENT (API/FE gửi lại nguyên trong request kế
+    tiếp), backend KHÔNG lưu gì (xem plan, quyết định "stateless")."""
+
+    template: str
+    raw_params: dict[str, str]
+    missing_param: str
+    rounds: int = 0
+
+
+# Câu hỏi gợi ý theo LOẠI resolver (không phải theo từng ParamSpec — đa số
+# tham số cùng loại resolver dùng chung được 1 câu hỏi tự nhiên).
+_CLARIFY_QUESTIONS: dict[str, str] = {
+    "org": "Bạn muốn hỏi về đơn vị/tổ chức nào?",
+    "topic": "Bạn muốn hỏi về lĩnh vực nào?",
+    "target_group": "Bạn muốn hỏi về nhóm đối tượng nào?",
+    "doc_number": "Số hiệu văn bản là gì?",
+    "status": "Bạn muốn lọc theo tình trạng hiệu lực nào (còn hiệu lực / hết hiệu lực / chưa có hiệu lực)?",
+    "content_type": "Bạn muốn hỏi về loại nội dung nào (Quy định/Quy chế/Nội quy...)?",
+    "fulltext_phrase": "Bạn muốn tìm theo cụm từ nào?",
+}
+
+
+def _clarify_question(tpl: Template, param_name: str) -> str:
+    spec = next((p for p in tpl.params if p.name == param_name), None)
+    if spec is not None and spec.resolver in _CLARIFY_QUESTIONS:
+        return _CLARIFY_QUESTIONS[spec.resolver]
+    return f"Bạn có thể nêu rõ hơn giá trị cho '{param_name}' không?"
 
 
 def _run_freeform(question: str, stage_a_confidence: float) -> NlqResult:
     """Stage A miss -> Stage B: Gemini tự viết Cypher, qua guard.py trước
-    khi chạy thật. Guard từ chối ở bất kỳ bước nào -> unsupported ngay,
-    KHÔNG chạy Cypher "một phần"."""
+    khi chạy thật. Bị guard chặn thì thử SỬA LẠI tối đa
+    config.NLQ_FREEFORM_MAX_ATTEMPTS lần (gửi kèm lý do từ chối cụ thể của
+    guard cho Gemini tự sửa), không chạy Cypher "một phần" ở bất kỳ lượt
+    nào. Hết lượt vẫn không qua được guard -> unsupported hẳn."""
 
-    try:
-        stage_b = freeform.generate_freeform(question)
-    except gemini_client.GeminiCallError as exc:
-        return NlqResult(kind="unsupported", reason=f"Lỗi gọi Gemini (Stage B): {exc}", confidence=stage_a_confidence)
+    cypher: str | None = None
+    guard_reason: str | None = None
+    attempt = 0
 
-    if stage_b.unsupported or not stage_b.cypher:
-        return NlqResult(kind="unsupported", reason=stage_b.reason, confidence=stage_a_confidence)
+    while attempt < config.NLQ_FREEFORM_MAX_ATTEMPTS:
+        attempt += 1
+        try:
+            if attempt == 1:
+                stage_b = freeform.generate_freeform(question)
+            else:
+                stage_b = freeform.generate_freeform_correction(question, cypher, guard_reason)
+        except gemini_client.GeminiCallError as exc:
+            return NlqResult(
+                kind="unsupported",
+                reason=f"Lỗi gọi Gemini (Stage B, lượt {attempt}): {exc}",
+                confidence=stage_a_confidence,
+                correction_attempts=attempt - 1,
+            )
 
-    try:
-        capped_cypher = guard.guard_freeform_cypher(stage_b.cypher, {}, row_cap=config.NLQ_ROW_CAP)
-    except guard.GuardRejected as exc:
-        return NlqResult(kind="unsupported", cypher=stage_b.cypher, reason=f"Bị chặn bởi guard: {exc.reason}", confidence=stage_a_confidence)
+        if stage_b.unsupported or not stage_b.cypher:
+            return NlqResult(
+                kind="unsupported", reason=stage_b.reason, confidence=stage_a_confidence,
+                correction_attempts=attempt - 1,
+            )
 
-    result = execute.run_cypher(capped_cypher, {}, timeout_seconds=config.NLQ_QUERY_TIMEOUT_SECONDS)
+        cypher = stage_b.cypher
+        try:
+            capped_cypher = guard.guard_freeform_cypher(cypher, {}, row_cap=config.NLQ_ROW_CAP)
+        except guard.GuardRejected as exc:
+            guard_reason = exc.reason
+            continue  # còn lượt thì generate_freeform_correction() ở đầu vòng lặp kế tiếp
+
+        result = execute.run_cypher(capped_cypher, {}, timeout_seconds=config.NLQ_QUERY_TIMEOUT_SECONDS)
+        correction_note = f" (đã tự sửa {attempt - 1} lần)" if attempt > 1 else ""
+        return NlqResult(
+            kind="freeform_result",
+            cypher=capped_cypher,
+            params={},
+            rows=result.rows,
+            elapsed_ms=result.elapsed_ms,
+            confidence=stage_a_confidence,
+            correction_attempts=attempt - 1,
+            reason=f"Cypher do LLM tự sinh (freeform) — độ tin cậy thấp hơn kết quả template, "
+                   f"nên soát lại Cypher{correction_note}.",
+        )
+
+    # Hết config.NLQ_FREEFORM_MAX_ATTEMPTS lượt mà lượt cuối vẫn bị guard chặn.
     return NlqResult(
-        kind="freeform_result",
-        cypher=capped_cypher,
-        params={},
-        rows=result.rows,
-        elapsed_ms=result.elapsed_ms,
+        kind="unsupported",
+        cypher=cypher,
+        reason=f"Đã thử sửa Cypher {attempt - 1} lần nhưng vẫn bị chặn: {guard_reason}",
         confidence=stage_a_confidence,
-        reason="Cypher do LLM tự sinh (freeform) — độ tin cậy thấp hơn kết quả template, nên soát lại Cypher.",
+        correction_attempts=attempt - 1,
     )
 
 
-def ask(question: str) -> NlqResult:
-    """Điểm vào cho câu hỏi tự nhiên tự do. Stage A chạy trước; miss ->
-    Stage B (freeform, guard.py canh gác) — xem plan mục "Kết quả trả về:
-    4 loại rõ ràng"."""
+def _run_template(tpl: Template, raw_params: dict[str, str], confidence: float | None, rounds: int) -> NlqResult:
+    """Chạy 1 template đã CHỌN xong (Stage A hoặc resume của vòng hỏi lại).
+    ResolutionFailed còn lượt hỏi lại (rounds < NLQ_MAX_CLARIFY_ROUNDS) ->
+    resolution_failed KÈM missing_param (mời hỏi lại); hết lượt -> unsupported
+    hẳn, không mời hỏi lại vô hạn."""
+
+    try:
+        with execute.session() as session_:
+            params = fill_template(tpl, raw_params, session_)
+            result = execute.run_in_session(
+                session_, tpl.cypher, params, timeout_seconds=config.NLQ_QUERY_TIMEOUT_SECONDS
+            )
+    except ResolutionFailed as exc:
+        if rounds < config.NLQ_MAX_CLARIFY_ROUNDS:
+            return NlqResult(
+                kind="resolution_failed",
+                template=tpl.name,
+                reason=_clarify_question(tpl, exc.param_name),
+                confidence=confidence,
+                missing_param=exc.param_name,
+                candidates=exc.candidates,
+                raw_params=raw_params,
+            )
+        return NlqResult(
+            kind="unsupported",
+            template=tpl.name,
+            reason=f"Vẫn chưa xác định được '{exc.param_name}' sau nhiều lần hỏi lại "
+                   f"({exc.reason}) — bạn thử đặt lại câu hỏi đầy đủ hơn nhé.",
+            confidence=confidence,
+        )
+    except TemplateParamError as exc:
+        return NlqResult(kind="unsupported", template=tpl.name, reason=str(exc), confidence=confidence)
+
+    return NlqResult(
+        kind="template_result",
+        template=tpl.name,
+        cypher=tpl.cypher.strip(),
+        params=params,
+        rows=result.rows,
+        elapsed_ms=result.elapsed_ms,
+        confidence=confidence,
+    )
+
+
+def _attach_retrieval(result: NlqResult, question: str) -> NlqResult:
+    """Chạy retrieval ngữ nghĩa SAU KHI đã có kết quả Cypher (bất kể kind
+    gì) — độc lập hoàn toàn, lỗi ở đây không được phép làm hỏng kết quả
+    Cypher đã có (xem NlqResult.retrieval_reason). Bắt Exception rộng có
+    chủ đích: lỗi có thể tới từ Gemini (GeminiCallError) HOẶC từ Neo4j
+    (VD vector index chưa có embedding nào — trạng thái bình thường lúc
+    mới build, chưa chạy `embed-articles`)."""
+
+    if not config.NLQ_RETRIEVAL_ENABLED:
+        return result
+    try:
+        with execute.session() as session_:
+            hits = retrieval.retrieve(question, session_)
+        return dataclasses.replace(result, retrieval=hits)
+    except Exception as exc:
+        return dataclasses.replace(result, retrieval_reason=f"Truy xuất ngữ nghĩa thất bại: {exc}")
+
+
+def ask(question: str, resume: PendingClarification | None = None) -> NlqResult:
+    """Điểm vào cho câu hỏi tự nhiên tự do — bọc _ask_core() bằng retrieval
+    ngữ nghĩa, chạy cho MỌI kind kết quả (xem _attach_retrieval)."""
+
+    return _attach_retrieval(_ask_core(question, resume), question)
+
+
+def _ask_core(question: str, resume: PendingClarification | None = None) -> NlqResult:
+    """Stage A chạy trước; miss -> Stage B (freeform, guard.py canh gác)
+    — xem plan mục "Kết quả trả về: 4 loại rõ ràng".
+
+    resume: câu trả lời cho 1 lượt hỏi-lại trước đó (xem PendingClarification
+    — client/FE gửi lại nguyên, backend KHÔNG tự lưu gì). Có resume thì bỏ
+    qua Stage A hoàn toàn, coi `question` là giá trị thô cho đúng tham số
+    còn thiếu lần trước."""
+
+    if resume is not None:
+        tpl = TEMPLATES[resume.template]
+        raw_params = {**resume.raw_params, resume.missing_param: question}
+        return _run_template(tpl, raw_params, confidence=None, rounds=resume.rounds + 1)
 
     try:
         stage_a = match_template.match_template(question)
@@ -183,26 +347,26 @@ def ask(question: str) -> NlqResult:
         return _run_freeform(question, stage_a.confidence)
 
     tpl = TEMPLATES[stage_a.template]
-    try:
-        with execute.session() as session_:
-            params = fill_template(tpl, stage_a.params, session_)
-            result = execute.run_in_session(
-                session_, tpl.cypher, params, timeout_seconds=config.NLQ_QUERY_TIMEOUT_SECONDS
-            )
-    except ResolutionFailed as exc:
-        return NlqResult(kind="resolution_failed", template=tpl.name, reason=str(exc), confidence=stage_a.confidence)
-    except TemplateParamError as exc:
-        return NlqResult(kind="unsupported", template=tpl.name, reason=str(exc), confidence=stage_a.confidence)
 
-    return NlqResult(
-        kind="template_result",
-        template=tpl.name,
-        cypher=tpl.cypher.strip(),
-        params=params,
-        rows=result.rows,
-        elapsed_ms=result.elapsed_ms,
-        confidence=stage_a.confidence,
-    )
+    if stage_a.missing:
+        # Stage A tự tin đúng template nhưng câu hỏi không nêu rõ 1+ tham số
+        # bắt buộc -> hỏi lại NGAY tham số đầu tiên còn thiếu, không gọi
+        # fill_template (nó sẽ ném TemplateParamError chung chung cho tham
+        # số chưa từng có trong raw_params, không phải ResolutionFailed).
+        # Mọi template hiện có tối đa 1 tham số bắt buộc nên chỉ hỏi 1 slot
+        # là đủ trên thực tế; nếu sau này có template >=2 tham số bắt buộc,
+        # cần mở rộng để hỏi tuần tự từng slot trong `missing`.
+        missing_param = stage_a.missing[0]
+        return NlqResult(
+            kind="resolution_failed",
+            template=tpl.name,
+            reason=_clarify_question(tpl, missing_param),
+            confidence=stage_a.confidence,
+            missing_param=missing_param,
+            raw_params=stage_a.params,
+        )
+
+    return _run_template(tpl, stage_a.params, stage_a.confidence, rounds=0)
 
 
 def _parse_param_args(pairs: list[str]) -> dict[str, str]:

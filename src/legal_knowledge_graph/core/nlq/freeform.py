@@ -41,6 +41,28 @@ CÂU HỎI: "{question}"
 
 Trả JSON đúng schema đã cho, không thêm chữ nào khác ngoài JSON."""
 
+# Prompt sửa lỗi — nhúng NGUYÊN VĂN lý do guard.py từ chối (đủ cụ thể để
+# sửa được, VD "Label 'Faculty' không tồn tại trong schema"), không yêu
+# cầu Gemini viết lại từ đầu mà sửa đúng chỗ sai.
+_CORRECTION_PROMPT_TEMPLATE = """Cypher bạn vừa viết cho câu hỏi dưới đây bị hệ thống kiểm duyệt TỪ CHỐI. Hãy sửa lại đúng chỗ sai, CHỈ dùng đúng schema đã cho — không được bịa label/property/relationship nào khác.
+
+{schema}
+
+QUY TẮC BẮT BUỘC (giống lần trước):
+- CHỈ dùng: MATCH, OPTIONAL MATCH, WHERE, WITH, UNWIND, RETURN, ORDER BY, CALL db.index.fulltext.queryNodes. TUYỆT ĐỐI CẤM: CREATE, MERGE, SET, DELETE, REMOVE, DETACH, DROP, LOAD CSV, FOREACH, CALL apoc.*, CALL dbms.*, CALL gds.*.
+- KHÔNG tự thêm LIMIT ở cuối — hệ thống sẽ tự ép giới hạn số dòng.
+- CHỈ 1 statement Cypher duy nhất.
+- Nếu sau khi soát lại vẫn không viết được Cypher hợp lệ cho câu hỏi này bằng đúng schema -> unsupported=true, cypher="", giải thích ngắn ở 'reason'.
+
+CÂU HỎI GỐC: "{question}"
+
+CYPHER LẦN TRƯỚC (BỊ TỪ CHỐI):
+{previous_cypher}
+
+LÝ DO BỊ TỪ CHỐI: {guard_reason}
+
+Trả JSON đúng schema đã cho, không thêm chữ nào khác ngoài JSON."""
+
 
 @dataclass(frozen=True)
 class StageBResult:
@@ -49,10 +71,7 @@ class StageBResult:
     reason: str
 
 
-def generate_freeform(question: str) -> StageBResult:
-    prompt = _PROMPT_TEMPLATE.format(schema=schema_context.render_prompt_context(), question=question)
-    data = gemini_client.call_json(prompt, _RESPONSE_SCHEMA)
-
+def _parse_stage_b(data: dict) -> StageBResult:
     unsupported = bool(data.get("unsupported"))
     cypher = (data.get("cypher") or "").strip()
     reason = data.get("reason", "")
@@ -62,3 +81,24 @@ def generate_freeform(question: str) -> StageBResult:
         reason = reason or "Gemini không sinh được Cypher (rỗng)"
 
     return StageBResult(unsupported=unsupported, cypher=cypher or None, reason=reason)
+
+
+def generate_freeform(question: str) -> StageBResult:
+    prompt = _PROMPT_TEMPLATE.format(schema=schema_context.render_prompt_context(), question=question)
+    data = gemini_client.call_json(prompt, _RESPONSE_SCHEMA)
+    return _parse_stage_b(data)
+
+
+def generate_freeform_correction(question: str, previous_cypher: str, guard_reason: str) -> StageBResult:
+    """Tier 2 — gọi khi guard.py vừa từ chối Cypher lượt trước. Nhúng
+    nguyên Cypher bị từ chối + lý do cụ thể của guard, để Gemini sửa đúng
+    chỗ sai thay vì đoán lại từ đầu."""
+
+    prompt = _CORRECTION_PROMPT_TEMPLATE.format(
+        schema=schema_context.render_prompt_context(),
+        question=question,
+        previous_cypher=previous_cypher,
+        guard_reason=guard_reason,
+    )
+    data = gemini_client.call_json(prompt, _RESPONSE_SCHEMA)
+    return _parse_stage_b(data)

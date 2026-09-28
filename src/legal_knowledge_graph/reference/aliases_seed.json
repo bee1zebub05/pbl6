@@ -1,0 +1,15 @@
+{
+  "_comment": "Bảng alias cho entity linking (core/nlq/resolve.py) — người tự tay bảo trì, KHÔNG sinh tự động. 'alias' là cách viết khác người dùng có thể gõ (viết tắt, tên gọi tắt); 'canonical' PHẢI là tên hiển thị đúng như đang tồn tại sống trong graph (Organization.name) hoặc trong seed đóng (Topic/TargetGroup.name) — nếu canonical không còn khớp gì (org đổi tên/xoá), resolve.py tự rơi xuống fuzzy match cũ, không hard-fail.",
+  "organizations": [
+    { "alias": "ĐHBK", "canonical": "Trường Đại học Bách khoa", "_note": "Tạm trỏ vào biến thể tên có nhiều ISSUED_BY nhất trong 3 node ĐHBK chưa gộp (xem GRAPHREPORT.md) — sẽ hết cần _note này khi gộp org xong." },
+    { "alias": "DHBK", "canonical": "Trường Đại học Bách khoa", "_note": "như trên" },
+    { "alias": "Bách khoa", "canonical": "Trường Đại học Bách khoa", "_note": "như trên" },
+    { "alias": "ĐHĐN", "canonical": "Đại học Đà Nẵng" },
+    { "alias": "DHDN", "canonical": "Đại học Đà Nẵng" },
+    { "alias": "Bộ GD&ĐT", "canonical": "Bộ Giáo dục và Đào tạo" },
+    { "alias": "BGDĐT", "canonical": "Bộ Giáo dục và Đào tạo" },
+    { "alias": "BGD&ĐT", "canonical": "Bộ Giáo dục và Đào tạo" }
+  ],
+  "topics": [],
+  "target_groups": []
+}
