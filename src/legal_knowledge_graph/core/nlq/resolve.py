@@ -18,6 +18,7 @@ from dataclasses import dataclass
 from .. import config, normalize
 from ..validate import load_seed_entries
 from . import aliases as aliases_module
+from . import schema_context
 
 _MIN_SCORE = 0.5
 _AMBIGUITY_MARGIN = 0.08  # 2 candidate cách nhau dưới mức này -> coi là mơ hồ
@@ -118,13 +119,6 @@ def _load_org_cache(session) -> dict[str, str]:
     return _org_cache
 
 
-def reset_org_cache() -> None:
-    """Xoá cache — dùng khi graph vừa build lại (org mới thêm/đổi tên)."""
-
-    global _org_cache
-    _org_cache = None
-
-
 def resolve_organization(mention: str, session) -> Resolution:
     # orgId = slug(name) (core/normalize.py::org_id), nên slug khớp trong
     # _fuzzy_pick CHÍNH LÀ orgId cần điền vào $param, không cần map thêm.
@@ -132,41 +126,30 @@ def resolve_organization(mention: str, session) -> Resolution:
 
 
 # ============================================================
-# Topic — 18 giá trị cố định (reference/topics_seed.json)
+# Topic (18 giá trị, reference/topics_seed.json) và TargetGroup (8 giá
+# trị, reference/target_groups_seed.json) — cùng 1 khuôn: load seed 1
+# lần, cache trong closure, fuzzy-match qua alias rồi _fuzzy_pick. Gộp
+# thành factory thay vì lặp cache+hàm cho từng loại (trước đây 2 khối
+# gần như copy-paste).
 # ============================================================
 
-_topic_cache: dict[str, str] | None = None
+def _make_seed_resolver(seed_path, alias_loader):
+    """Trả về 1 hàm resolve_<x>(mention) -> Resolution, seed load 1 lần
+    qua aliases_module.lazy_cache() (org không dùng factory này — nguồn
+    là Neo4j sống qua session, không phải seed tĩnh, xem _load_org_cache)."""
+
+    load_cache = aliases_module.lazy_cache(
+        lambda: {normalize.slug(e["name"]): e["name"] for e in load_seed_entries(seed_path)}
+    )
+
+    def resolve(mention: str) -> Resolution:
+        return _fuzzy_pick(mention, load_cache(), alias_loader())
+
+    return resolve
 
 
-def _load_topic_cache() -> dict[str, str]:
-    global _topic_cache
-    if _topic_cache is None:
-        entries = load_seed_entries(config.TOPICS_SEED_PATH)
-        _topic_cache = {normalize.slug(e["name"]): e["name"] for e in entries}
-    return _topic_cache
-
-
-def resolve_topic(mention: str) -> Resolution:
-    return _fuzzy_pick(mention, _load_topic_cache(), aliases_module.load_topic_aliases())
-
-
-# ============================================================
-# TargetGroup — 8 giá trị cố định (reference/target_groups_seed.json)
-# ============================================================
-
-_target_group_cache: dict[str, str] | None = None
-
-
-def _load_target_group_cache() -> dict[str, str]:
-    global _target_group_cache
-    if _target_group_cache is None:
-        entries = load_seed_entries(config.TARGET_GROUPS_SEED_PATH)
-        _target_group_cache = {normalize.slug(e["name"]): e["name"] for e in entries}
-    return _target_group_cache
-
-
-def resolve_target_group(mention: str) -> Resolution:
-    return _fuzzy_pick(mention, _load_target_group_cache(), aliases_module.load_target_group_aliases())
+resolve_topic = _make_seed_resolver(config.TOPICS_SEED_PATH, aliases_module.load_topic_aliases)
+resolve_target_group = _make_seed_resolver(config.TARGET_GROUPS_SEED_PATH, aliases_module.load_target_group_aliases)
 
 
 # ============================================================
@@ -190,36 +173,26 @@ def resolve_document_number(mention: str, session) -> Resolution:
 # ============================================================
 # Enum phòng vệ — Stage A (Gemini) đã map trực tiếp sang các giá trị này,
 # đây chỉ là lớp validate chặn giá trị sai lọt qua trước khi vào Cypher.
+# Giá trị lấy THẲNG từ schema_context.ENUMS — 1 nguồn sự thật duy nhất,
+# tránh 2 danh sách enum lệch nhau khi có loại văn bản/status mới.
 # ============================================================
 
-STATUS_VALUES = ("CON_HIEU_LUC", "HET_HIEU_LUC", "CHUA_HIEU_LUC")
-CONTENT_TYPE_VALUES = (
-    "Quy định", "Quy chế", "Điều lệ", "Quy trình", "Nội quy", "Đề án",
-    "Kế hoạch", "Hướng dẫn", "Chương trình",
-)
-DOCUMENT_TYPE_VALUES = (
-    "Luật", "Pháp lệnh", "Nghị định", "Thông tư", "Thông tư liên tịch",
-    "Quyết định", "Nghị quyết", "Chỉ thị", "Hướng dẫn", "Kế hoạch",
-    "Văn bản hợp nhất", "Lệnh", "Công văn", "Hiến pháp",
-)
+STATUS_VALUES = schema_context.ENUMS["Document.status"]
+CONTENT_TYPE_VALUES = schema_context.ENUMS["NormativeContent.contentType"]
+
+
+def _resolve_enum(mention: str, values: tuple[str, ...], field_name: str) -> Resolution:
+    if mention in values:
+        return Resolved(mention)
+    return NotFound(suggestion=f"{field_name} phải là 1 trong: {', '.join(values)}")
 
 
 def resolve_status(mention: str) -> Resolution:
-    if mention in STATUS_VALUES:
-        return Resolved(mention)
-    return NotFound(suggestion=f"status phải là 1 trong: {', '.join(STATUS_VALUES)}")
+    return _resolve_enum(mention, STATUS_VALUES, "status")
 
 
 def resolve_content_type(mention: str) -> Resolution:
-    if mention in CONTENT_TYPE_VALUES:
-        return Resolved(mention)
-    return NotFound(suggestion=f"contentType phải là 1 trong: {', '.join(CONTENT_TYPE_VALUES)}")
-
-
-def resolve_document_type(mention: str) -> Resolution:
-    if mention in DOCUMENT_TYPE_VALUES:
-        return Resolved(mention)
-    return NotFound(suggestion=f"documentType phải là 1 trong: {', '.join(DOCUMENT_TYPE_VALUES)}")
+    return _resolve_enum(mention, CONTENT_TYPE_VALUES, "contentType")
 
 
 # ============================================================

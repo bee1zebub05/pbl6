@@ -8,7 +8,8 @@ Chạy mọi lệnh từ **thư mục gốc của repo** (nơi có `run.py` và
 - Python (venv gốc repo đã cài `requirements.txt`), Docker Desktop, Node.js
   (chỉ cần nếu chạy frontend).
 - `.env` ở gốc repo (copy từ `.env.example`) — điền `LKG_GEMINI_API_KEY_0`
-  nếu muốn dùng `ask`/`nlq-eval`/chat UI.
+  (hoặc `GEMINI_API_KEY_0`/`GEMMA_API_KEY_0` — dùng chung một bể key) nếu
+  muốn dùng `ask`/`nlq-eval`/chat UI.
 
 ## 1. Khởi động hạ tầng
 
@@ -31,6 +32,7 @@ Kiểm tra Neo4j sống: `docker ps --filter name=neo4j-pbl6-lkg`. Browser tại
 | `query` | `query --source samples\|benchmark` | Chạy bộ Cypher kiểm tra — xem lưu ý bên dưới |
 | `ask` | `ask "<câu hỏi>"` hoặc `ask --template TPL_X --param k=v` | Hỏi bằng ngôn ngữ tự nhiên → Cypher → kết quả |
 | `nlq-eval` | `nlq-eval [--verbose]` | Chạy bộ câu hỏi gold cho NLQ (tốn quota Gemini) |
+| `embed-articles` | `embed-articles [--dry-run] [--verbose]` | Backfill embedding cho Article (retrieval ngữ nghĩa) — chạy tay, tốn quota Gemini, không nằm trong `build`/`all` |
 | `serve-api` | `serve-api [--port PORT] [--reload]` | Chạy backend chat UI |
 
 **`query --source samples`** chỉ đúng khi Neo4j đang chứa data từ
@@ -42,7 +44,7 @@ python run.py lkg all --dir data/clean/json/v2   # nạp lại data thật
 ```
 
 **`ask --template`** không gọi Gemini (test cơ chế, không tốn quota).
-**`ask "<câu hỏi>"`** cần `LKG_GEMINI_API_KEY_0`.
+**`ask "<câu hỏi>"`** cần `LKG_GEMINI_API_KEY_0` (hoặc `GEMINI_API_KEY_0`/`GEMMA_API_KEY_0`).
 
 ## 3. Chat UI (backend + frontend)
 
@@ -90,7 +92,7 @@ cd src/legal_knowledge_graph/frontend && npm run dev
 |---|---|
 | Không kết nối được Neo4j (`ServiceUnavailable`/connection refused) | Docker Desktop chưa chạy, hoặc container đã tắt — `docker ps -a`, `docker start neo4j-pbl6-lkg` |
 | Gemini trả `404` model not found | `LKG_GEMINI_MODEL` trong `.env` trỏ tới model đã ngừng hỗ trợ — đổi sang model khác còn dùng được |
-| Gemini trả `429` liên tục | Hết quota key hiện tại — thêm `LKG_GEMINI_API_KEY_1`, `_2`... vào `.env`, `gemini_client.py` tự xoay vòng |
+| Gemini trả `429` liên tục | Hết quota key hiện tại — thêm `LKG_GEMINI_API_KEY_1`, `_2`... (hoặc `GEMINI_API_KEY_*`/`GEMMA_API_KEY_*`, cùng một bể) vào `.env`, `gemini_client.py` tự xoay vòng |
 | `query --source samples` FAIL hàng loạt | Neo4j đang chứa data thật (v2) chứ không phải `samples/` — build lại `samples/ --wipe` trước |
 | Frontend gọi API bị chặn CORS | Backend chỉ mở CORS cho `localhost:5173`/`127.0.0.1:5173` (`core/api/app.py`) — kiểm tra frontend chạy đúng port mặc định của Vite |
-| `ask`/`serve-api` báo thiếu key | `.env` chưa có `LKG_GEMINI_API_KEY_0` |
+| `ask`/`serve-api` báo thiếu key | `.env` chưa có `LKG_GEMINI_API_KEY_0` (hoặc `GEMINI_API_KEY_0`/`GEMMA_API_KEY_0`) |

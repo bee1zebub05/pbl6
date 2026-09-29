@@ -18,7 +18,7 @@ chỉ có việc CHỌN câu hỏi nào để hỏi là chưa qua thẩm định
 
 from __future__ import annotations
 
-from .catalog import Query
+from .catalog import Query, hybrid_expand_cypher
 
 QUERIES: list[Query] = [
     # ---- Nhóm 1: phân bố node (distribution) ----
@@ -177,14 +177,7 @@ QUERIES: list[Query] = [
     # ---- Nhóm 6: hybrid — 2 hướng ngược nhau ----
     Query(
         name="B14_hybrid_expand_outgoing",
-        cypher="""
-            CALL db.index.fulltext.queryNodes('doc_text', '"Đại học Đà Nẵng"') YIELD node, score
-            WITH node, score ORDER BY score DESC LIMIT 10
-            MATCH (node)-[:BASED_ON|REFERENCES*0..2]->(expanded:Document)
-            RETURN DISTINCT expanded.documentNumber AS documentNumber, expanded.authorityLevel AS level
-            ORDER BY level DESC
-            LIMIT 50
-        """,
+        cypher=hybrid_expand_cypher(fulltext_query='"Đại học Đà Nẵng"', seed_limit=10, final_limit=50),
         expected_rows=None,
         kind="hybrid",
         note="Hướng XUÔI: văn bản khớp full-text dựa trên những văn bản gốc thẩm quyền nào.",

@@ -39,10 +39,71 @@ class Template:
     params: tuple[ParamSpec, ...] = field(default_factory=tuple)
 
 
+# Giá trị mặc định lặp lại nhiều lần cho $limit/$seedLimit các template bên
+# dưới — đặt tên rõ thay vì rải chuỗi "50"/"20"/"10" khắp nơi.
+_DEFAULT_LIMIT = "50"        # trần dòng mặc định cho hầu hết template liệt kê
+_DEFAULT_LIMIT_CHAIN = "20"  # template multi-hop (chuỗi thay thế/sửa đổi) — ít dòng hơn
+_DEFAULT_TOP_N = "10"        # template kiểu "top N"/seed cho hybrid expand
+
+
+def _make_lookup_template(
+    *, name: str, description: str, nl_examples: tuple[str, ...],
+    rel: str, label: str, id_field: str, resolver: ResolverKind,
+    extra_columns: tuple[str, ...] = (),
+) -> Template:
+    """Factory cho khuôn 'Document -[:REL]-> (:Label {idField: $id}) WHERE
+    $status IS NULL OR d.status = $status ... ORDER BY issueDate LIMIT' —
+    dùng cho TPL_DOCS_BY_ORG_STATUS/TPL_DOCS_BY_TOPIC (trước đây 2 khối
+    Cypher gần như copy-paste, chỉ khác relationship/label/tên tham số id
+    và vài cột RETURN phụ qua `extra_columns`)."""
+
+    columns = ", ".join((
+        "d.documentNumber AS documentNumber", "d.title AS title", "d.status AS status", *extra_columns,
+    ))
+    cypher = f"""
+                MATCH (d:Document)-[:{rel}]->(:{label} {{{id_field}: ${id_field}}})
+                WHERE $status IS NULL OR d.status = $status
+                RETURN {columns}
+                ORDER BY d.issueDate DESC
+                LIMIT $limit
+            """
+    return Template(
+        name=name, description=description, nl_examples=nl_examples, cypher=cypher,
+        params=(
+            ParamSpec(id_field, resolver),
+            ParamSpec("status", "status", required=False, default_raw=None),
+            ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT),
+        ),
+    )
+
+
+def _make_fulltext_template(
+    *, name: str, description: str, nl_examples: tuple[str, ...],
+    index_name: str, id_field: str, text_field: str,
+) -> Template:
+    """Factory cho khuôn fulltext 1-hop — dùng cho
+    TPL_ARTICLE_FULLTEXT_SEARCH/TPL_DOCUMENT_FULLTEXT_SEARCH, chỉ khác
+    tên index và cặp cột trả về."""
+
+    cypher = f"""
+                CALL db.index.fulltext.queryNodes('{index_name}', $luceneQuery) YIELD node, score
+                RETURN node.{id_field} AS {id_field}, node.{text_field} AS {text_field}, score
+                ORDER BY score DESC
+                LIMIT $limit
+            """
+    return Template(
+        name=name, description=description, nl_examples=nl_examples, cypher=cypher,
+        params=(
+            ParamSpec("luceneQuery", "fulltext_phrase"),
+            ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT),
+        ),
+    )
+
+
 TEMPLATES: dict[str, Template] = {
     t.name: t
     for t in [
-        Template(
+        _make_lookup_template(
             name="TPL_DOCS_BY_ORG_STATUS",
             description="Tra văn bản do một cơ quan/đơn vị cụ thể ban hành, có thể lọc theo tình trạng hiệu lực.",
             nl_examples=(
@@ -50,21 +111,10 @@ TEMPLATES: dict[str, Template] = {
                 "Văn bản còn hiệu lực của Đại học Đà Nẵng",
                 "Bộ Giáo dục và Đào tạo đã ban hành những văn bản nào?",
             ),
-            cypher="""
-                MATCH (d:Document)-[:ISSUED_BY]->(:Organization {orgId: $orgId})
-                WHERE $status IS NULL OR d.status = $status
-                RETURN d.documentNumber AS documentNumber, d.title AS title,
-                       d.status AS status, d.issueDate AS issueDate
-                ORDER BY d.issueDate DESC
-                LIMIT $limit
-            """,
-            params=(
-                ParamSpec("orgId", "org"),
-                ParamSpec("status", "status", required=False, default_raw=None),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
-            ),
+            rel="ISSUED_BY", label="Organization", id_field="orgId", resolver="org",
+            extra_columns=("d.issueDate AS issueDate",),
         ),
-        Template(
+        _make_lookup_template(
             name="TPL_DOCS_BY_TOPIC",
             description="Tra văn bản thuộc một lĩnh vực nghiệp vụ cụ thể (trong 18 lĩnh vực chuẩn).",
             nl_examples=(
@@ -72,18 +122,7 @@ TEMPLATES: dict[str, Template] = {
                 "Danh sách văn bản về Tuyển sinh",
                 "Có văn bản nào về Thi đua, khen thưởng không?",
             ),
-            cypher="""
-                MATCH (d:Document)-[:HAS_TOPIC]->(:Topic {topicId: $topicId})
-                WHERE $status IS NULL OR d.status = $status
-                RETURN d.documentNumber AS documentNumber, d.title AS title, d.status AS status
-                ORDER BY d.issueDate DESC
-                LIMIT $limit
-            """,
-            params=(
-                ParamSpec("topicId", "topic"),
-                ParamSpec("status", "status", required=False, default_raw=None),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
-            ),
+            rel="HAS_TOPIC", label="Topic", id_field="topicId", resolver="topic",
         ),
         Template(
             name="TPL_DOCS_BY_TARGET_GROUP",
@@ -100,7 +139,7 @@ TEMPLATES: dict[str, Template] = {
             """,
             params=(
                 ParamSpec("targetGroupId", "target_group"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
+                ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT),
             ),
         ),
         Template(
@@ -140,7 +179,7 @@ TEMPLATES: dict[str, Template] = {
             """,
             params=(
                 ParamSpec("normalizedNumber", "doc_number"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="20"),
+                ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT_CHAIN),
             ),
         ),
         Template(
@@ -173,7 +212,7 @@ TEMPLATES: dict[str, Template] = {
             """,
             params=(
                 ParamSpec("status", "status", required=False, default_raw="CON_HIEU_LUC"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
+                ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT),
             ),
         ),
         Template(
@@ -206,44 +245,26 @@ TEMPLATES: dict[str, Template] = {
             """,
             params=(
                 ParamSpec("contentType", "content_type"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
+                ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT),
             ),
         ),
-        Template(
+        _make_fulltext_template(
             name="TPL_ARTICLE_FULLTEXT_SEARCH",
             description="Tìm các Điều (Article) có chứa một cụm từ cụ thể (full-text, khớp từ khoá, không phải semantic search).",
             nl_examples=(
                 "Điều nào nói về trình độ tiếng Anh?",
                 "Tìm các Điều nhắc tới trách nhiệm thi hành",
             ),
-            cypher="""
-                CALL db.index.fulltext.queryNodes('article_text', $luceneQuery) YIELD node, score
-                RETURN node.articleId AS articleId, node.heading AS heading, score
-                ORDER BY score DESC
-                LIMIT $limit
-            """,
-            params=(
-                ParamSpec("luceneQuery", "fulltext_phrase"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
-            ),
+            index_name="article_text", id_field="articleId", text_field="heading",
         ),
-        Template(
+        _make_fulltext_template(
             name="TPL_DOCUMENT_FULLTEXT_SEARCH",
             description="Tìm văn bản (theo tiêu đề/tóm tắt) có chứa một cụm từ cụ thể (full-text).",
             nl_examples=(
                 "Văn bản nào nhắc tới Đại học Đà Nẵng?",
                 "Tìm văn bản có từ 'Chiến lược' trong tiêu đề",
             ),
-            cypher="""
-                CALL db.index.fulltext.queryNodes('doc_text', $luceneQuery) YIELD node, score
-                RETURN node.documentNumber AS documentNumber, node.title AS title, score
-                ORDER BY score DESC
-                LIMIT $limit
-            """,
-            params=(
-                ParamSpec("luceneQuery", "fulltext_phrase"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
-            ),
+            index_name="doc_text", id_field="documentNumber", text_field="title",
         ),
         Template(
             name="TPL_HYBRID_FULLTEXT_EXPAND",
@@ -262,8 +283,8 @@ TEMPLATES: dict[str, Template] = {
             """,
             params=(
                 ParamSpec("luceneQuery", "fulltext_phrase"),
-                ParamSpec("seedLimit", "int_limit", required=False, default_raw="10"),
-                ParamSpec("limit", "int_limit", required=False, default_raw="50"),
+                ParamSpec("seedLimit", "int_limit", required=False, default_raw=_DEFAULT_TOP_N),
+                ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_LIMIT),
             ),
         ),
         Template(
@@ -279,7 +300,7 @@ TEMPLATES: dict[str, Template] = {
                 ORDER BY total DESC
                 LIMIT $limit
             """,
-            params=(ParamSpec("limit", "int_limit", required=False, default_raw="10"),),
+            params=(ParamSpec("limit", "int_limit", required=False, default_raw=_DEFAULT_TOP_N),),
         ),
         Template(
             name="TPL_DOC_DISTRIBUTION_BY_STATUS",

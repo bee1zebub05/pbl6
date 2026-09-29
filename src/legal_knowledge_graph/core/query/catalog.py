@@ -28,6 +28,22 @@ class Query:
     note: str
 
 
+def hybrid_expand_cypher(*, fulltext_query: str, seed_limit: int, final_limit: int | None = None) -> str:
+    """Cypher hybrid fulltext(doc_text) -> mở rộng BASED_ON|REFERENCES, chiều
+    XUÔI (node khớp full-text -> văn bản gốc thẩm quyền nó dựa trên) — dùng
+    chung bởi Q10 (catalog.py) và B14 (benchmark_catalog.py), trước đây 2
+    khối Cypher gần như copy-paste chỉ khác seed_limit/final_limit."""
+
+    limit_clause = f"\n            LIMIT {final_limit}" if final_limit is not None else ""
+    return f"""
+            CALL db.index.fulltext.queryNodes('doc_text', {fulltext_query!r}) YIELD node, score
+            WITH node, score ORDER BY score DESC LIMIT {seed_limit}
+            MATCH (node)-[:BASED_ON|REFERENCES*0..2]->(expanded:Document)
+            RETURN DISTINCT expanded.documentNumber AS documentNumber, expanded.authorityLevel AS level
+            ORDER BY level DESC{limit_clause}
+        """
+
+
 QUERIES: list[Query] = [
     Query(
         name="Q1_single_hop_org_status",
@@ -124,13 +140,7 @@ QUERIES: list[Query] = [
     ),
     Query(
         name="Q10_hybrid_fulltext_then_expand",
-        cypher="""
-            CALL db.index.fulltext.queryNodes('doc_text', '"Đại học Đà Nẵng"') YIELD node, score
-            WITH node, score ORDER BY score DESC LIMIT 5
-            MATCH (node)-[:BASED_ON|REFERENCES*0..2]->(expanded:Document)
-            RETURN DISTINCT expanded.documentNumber AS documentNumber, expanded.authorityLevel AS level
-            ORDER BY expanded.authorityLevel DESC
-        """,
+        cypher=hybrid_expand_cypher(fulltext_query='"Đại học Đà Nẵng"', seed_limit=5),
         expected_rows=None,
         kind="hybrid",
         note="BM25 lọc ứng viên rồi mở rộng theo quan hệ — không assert số dòng cố định, chỉ soi kết quả.",

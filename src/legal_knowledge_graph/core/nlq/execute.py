@@ -13,32 +13,22 @@ thật sự phải qua `Session.begin_transaction(timeout=...)`.
 from __future__ import annotations
 
 import time
-from contextlib import contextmanager
 from dataclasses import dataclass
 
-from neo4j import GraphDatabase
+from .. import neo4j_session
 
-from .. import config
+# Re-export: 1 session dùng chung cho cả bước resolve (tra cứu
+# Organization/Document sống) lẫn bước execute cuối — tránh mở nhiều kết
+# nối cho 1 lần hỏi. Định nghĩa thật nằm ở core/neo4j_session.py, dùng
+# chung với graph_loader.py/query/runner.py — giữ tên `execute.session()`
+# ở đây vì phần lớn code core/nlq/ đã gọi qua tên này.
+session = neo4j_session.session
 
 
 @dataclass(frozen=True)
 class ExecutionResult:
     rows: list[dict]
     elapsed_ms: float
-
-
-@contextmanager
-def session():
-    """1 session dùng chung cho cả bước resolve (tra cứu Organization/
-    Document sống) lẫn bước execute cuối — tránh mở nhiều kết nối cho 1
-    lần hỏi."""
-
-    driver = GraphDatabase.driver(config.NEO4J_URI, auth=(config.NEO4J_USER, config.NEO4J_PASSWORD))
-    try:
-        with driver.session(database=config.NEO4J_DATABASE) as s:
-            yield s
-    finally:
-        driver.close()
 
 
 def run_in_session(session_, cypher: str, params: dict, timeout_seconds: float) -> ExecutionResult:

@@ -22,8 +22,7 @@ import argparse
 from pathlib import Path
 
 from . import collision_check, config
-from .graph_loader import push
-from .graph_model import collect
+from .build import collect_and_summarize, push_and_report
 from .nlq import execute
 
 
@@ -58,22 +57,11 @@ def main(argv: list[str] | None = None) -> int:
     dup = collision_check.find_collisions(args.dir)
     collision_check.print_report(args.dir, dup)
 
-    print(f"\n[2/4] Validate + dựng model từ {args.dir} ...")
-    model = collect(args.dir)  # tự raise SystemExit nếu có file không hợp lệ
-    print(
-        f"  OK — {len(model.documents)} Document thật, {len(model.orgs)} Organization, "
-        f"{len(model.topics)} Topic, {len(model.persons)} Person, "
-        f"{len(model.normative_contents)} NormativeContent, {len(model.articles)} Article, "
-        f"{len(model.citations)} citations."
-    )
+    print("\n[2/4] ", end="")
+    model = collect_and_summarize(args.dir)  # tự raise SystemExit nếu có file không hợp lệ
 
-    print(f"\n[3/4] Nạp vào Neo4j ({config.NEO4J_URI}, database={config.NEO4J_DATABASE}) ...")
-    report = push(model, wipe=not args.no_wipe)
-    for name, counters in report.items():
-        print(
-            f"  {name:<28} {counters['nodes_created']:>4} / "
-            f"{counters['relationships_created']:>4} / {counters['properties_set']:>5}"
-        )
+    print("\n[3/4] ", end="")
+    push_and_report(model, wipe=not args.no_wipe)
 
     print("\n[4/4] Sanity check (graph có đọc truy vấn được không) ...")
     with execute.session() as session:

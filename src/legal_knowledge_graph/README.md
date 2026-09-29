@@ -52,7 +52,7 @@ instance chính (`7474`/`7687`) của pipeline tự động.
 | Biến | Mặc định | Dùng cho |
 |---|---|---|
 | `LKG_NEO4J_URI` / `_USER` / `_PASSWORD` / `_DATABASE` | xem trên | Kết nối Neo4j |
-| `LKG_GEMINI_API_KEY_0` | (rỗng) | Gọi Gemini cho NLQ (`ask`, `nlq-eval`, chat UI) |
+| `LKG_GEMINI_API_KEY_0` | (rỗng) | Gọi Gemini cho NLQ (`ask`, `nlq-eval`, chat UI) — bể key CHUNG với `GEMINI_API_KEY_*`/`GEMMA_API_KEY_*` (xem `core/config.py::nlq_gemini_keys()`), điền cái nào cũng được gộp vào |
 | `LKG_GEMINI_MODEL` | `gemini-3.6-flash` | Model Gemini dùng cho NLQ |
 | `LKG_NLQ_TEMPLATE_CONFIDENCE_MIN` | `0.6` | Ngưỡng nhận 1 template match |
 | `LKG_NLQ_ROW_CAP` | `200` | Số dòng tối đa mỗi truy vấn NLQ |
@@ -92,7 +92,8 @@ python run.py lkg all [--dir DIR] [--no-wipe]
 python run.py lkg query [--source samples|benchmark] [--verbose]
 python run.py lkg ask "<câu hỏi tự nhiên>" [--verbose]
 python run.py lkg ask --template TPL_XXX --param k=v
-python run.py lkg nlq-eval [--verbose]
+python run.py lkg nlq-eval [--verbose] [--with-retrieval]
+python run.py lkg embed-articles [--batch-size N] [--read-batch-size N] [--dry-run] [--verbose]
 python run.py lkg serve-api [--host HOST] [--port PORT] [--reload]
 ```
 
@@ -105,6 +106,7 @@ python run.py lkg serve-api [--host HOST] [--port PORT] [--reload]
 | `query` | Chạy bộ Cypher (`samples` = regression có assertion, `benchmark` = đo trên data thật) |
 | `ask` | Câu hỏi tự nhiên → Cypher → kết quả thô |
 | `nlq-eval` | Chạy bộ câu hỏi gold cho NLQ |
+| `embed-articles` | Backfill embedding cho Article (retrieval ngữ nghĩa) — chạy tay, tốn quota Gemini, không nằm trong `build`/`all` |
 | `serve-api` | Chạy FastAPI cho chat UI |
 
 ## Đồ thị
