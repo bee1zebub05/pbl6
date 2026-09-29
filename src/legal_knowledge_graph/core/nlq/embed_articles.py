@@ -22,6 +22,13 @@ from .. import config
 from ..graph_loader import run_batched
 from . import execute, gemini_client
 
+# Số lượt read-batch LIÊN TIẾP không embed nổi Article nào (mọi request
+# trong lượt đó đều lỗi) trước khi dừng hẳn thay vì lặp vô ích — phản ứng
+# trực tiếp với sự cố THẬT đã gặp khi backfill: bể key cạn quota khiến
+# script cứ "chạy" hàng giờ mà chỉ in BO QUA liên tục, không có tín hiệu
+# dừng rõ ràng nào cho người vận hành.
+_MAX_CONSECUTIVE_STALLED_BATCHES = 3
+
 
 def _build_embed_input(heading: str | None, text: str) -> str:
     return f"{heading}\n\n{text}" if heading else text
@@ -70,11 +77,13 @@ def run(read_batch_size: int, api_batch_size: int, dry_run: bool, verbose: bool)
         n_done = 0
         n_skipped = 0
         started = time.time()
+        consecutive_stalled = 0
 
         while True:
             rows = _fetch_batch(session_, read_batch_size)
             if not rows:
                 break
+            n_done_before_batch = n_done
 
             for start in range(0, len(rows), api_batch_size):
                 chunk = rows[start:start + api_batch_size]
@@ -106,6 +115,21 @@ def run(read_batch_size: int, api_batch_size: int, dry_run: bool, verbose: bool)
                 if verbose:
                     elapsed = time.time() - started
                     print(f"  da xong {n_done} (bo qua {n_skipped}), {elapsed:.1f}s")
+
+            if n_done == n_done_before_batch:
+                consecutive_stalled += 1
+                if consecutive_stalled >= _MAX_CONSECUTIVE_STALLED_BATCHES:
+                    print(
+                        f"\nDUNG: {consecutive_stalled} lot lien tiep khong embed "
+                        f"duoc Article nao (moi request deu loi) -- kha nang cao be "
+                        f"key da het quota hoan toan. Da embed {n_done} Article, "
+                        f"phan con lai van thieu embedding -- chay lai lenh nay sau "
+                        f"khi quota hoi (resumable, khong mat tien do da co).",
+                        file=sys.stderr,
+                    )
+                    return 1
+            else:
+                consecutive_stalled = 0
 
         print(f"\nHoan tat: {n_done} Article da embed, {n_skipped} bi bo qua vi loi.")
         return 0 if n_skipped == 0 else 1

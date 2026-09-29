@@ -15,9 +15,7 @@ from __future__ import annotations
 import argparse
 import time
 
-from neo4j import GraphDatabase
-
-from .. import config
+from .. import neo4j_session
 from . import benchmark_catalog, catalog
 from .catalog import Query
 
@@ -91,14 +89,10 @@ def main(argv: list[str] | None = None) -> int:
 
     queries = SOURCES[args.source]
 
-    driver = GraphDatabase.driver(config.NEO4J_URI, auth=(config.NEO4J_USER, config.NEO4J_PASSWORD))
     results = []
-    try:
-        with driver.session(database=config.NEO4J_DATABASE) as session:
-            for query in queries:
-                results.append(run_one(session, query))
-    finally:
-        driver.close()
+    with neo4j_session.session() as session:
+        for query in queries:
+            results.append(run_one(session, query))
 
     header = f"{'query':<38} {'rows':>5} {'expected':>9} {'elapsed_ms':>11} {'index_used':>11}  assertion"
     print(header)

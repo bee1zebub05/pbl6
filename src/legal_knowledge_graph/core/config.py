@@ -4,6 +4,10 @@ KHÔNG dùng chung biến môi trường với pipeline tự động (tiền t�
 File .env vật lý dùng CHUNG với repo (gộp theo yêu cầu merge hạ tầng — env/
 requirements/docker/run — về một chỗ), nhưng namespace biến vẫn tách biệt
 hoàn toàn, nên module này vẫn chạy độc lập được về mặt logic/kết nối.
+
+Ngoại lệ có chủ đích: key Gemini cho NLQ (nlq_gemini_keys()) dùng CHUNG bể
+với GEMINI_API_KEY_*/GEMMA_API_KEY_* của các module khác trong repo — xem
+docstring hàm đó.
 """
 
 from __future__ import annotations
@@ -31,6 +35,9 @@ DEFAULT_DATA_DIR = ROOT / "samples"
 # pipeline tự động (src/vanban). Không dùng chung port/biến môi trường.
 NEO4J_URI = os.getenv("LKG_NEO4J_URI", "bolt://localhost:7688")
 NEO4J_USER = os.getenv("LKG_NEO4J_USER", "neo4j")
+# Mật khẩu mặc định KHỚP NEO4J_AUTH trong docker-compose.yml — chỉ dùng cho
+# container local dev đi kèm repo, không phải secret thật. Deploy nơi khác
+# PHẢI set LKG_NEO4J_PASSWORD qua .env, không dựa vào default này.
 NEO4J_PASSWORD = os.getenv("LKG_NEO4J_PASSWORD", "lkg12345678")
 NEO4J_DATABASE = os.getenv("LKG_NEO4J_DATABASE", "neo4j")
 
@@ -42,18 +49,19 @@ BATCH_SIZE = 500
 # src/vanban, không liên quan truy vấn đồ thị — giữ đúng quy tắc tách biệt).
 # ============================================================
 def nlq_gemini_keys() -> list[str]:
-    """Bể key cho NLQ, theo thứ tự ưu tiên, bỏ trùng và giữ nguyên thứ tự.
+    """Bể key CHUNG cho NLQ — gộp cả ba nguồn key Gemini có trong .env,
+    bỏ trùng (theo giá trị key) và giữ nguyên thứ tự xuất hiện đầu tiên:
 
-      1. LKG_GEMINI_API_KEY_<n>  — đánh số tuỳ ý, không cần liên tục
-      2. LKG_GEMINI_API_KEY      — cách cũ một key, vẫn chạy
-      3. LKG_GEMINI_API_KEYS     — tất cả trên một dòng, ngăn bằng dấu phẩy
-      4. GEMMA_API_KEY<...>      — DÙNG CHUNG bể của tools/gemini_api/
+      1. LKG_GEMINI_API_KEY_<n> / LKG_GEMINI_API_KEY / LKG_GEMINI_API_KEYS
+      2. GEMINI_API_KEY_<n> / GEMINI_API_KEY / GEMINI_API_KEYS   — bể của src/vanban (hiệu đính OCR)
+      3. GEMMA_API_KEY_<n> / GEMMA_API_KEY / GEMMA_API_KEYS       — bể của tools/gemini_api/
 
-    Mục 4 là ngoại lệ có chủ đích với nguyên tắc tách namespace nêu ở đầu
-    file, và chỉ chạm tới khi ba mục trên đều rỗng. Lý do: free tier chặn
-    20 request/NGÀY/project/model, một key không đủ cho cả `nlq-eval`
-    (19 câu) lẫn chat UI. Để key ở MỘT chỗ thì xoay key chỉ phải sửa một
-    chỗ. Muốn tách hẳn thì cứ điền LKG_GEMINI_API_KEY_0 — nó thắng.
+    Trước đây 3 nguồn này đọc theo THỨ TỰ ƯU TIÊN (nguồn sau chỉ được đọc
+    khi nguồn trước rỗng hoàn toàn) — đổi thành GỘP CHUNG một bể theo yêu
+    cầu người dùng: quota Gemini tính theo KEY (PerProjectPerDayPerModel),
+    không theo module gọi, nên càng nhiều key trong bể, NLQ (backfill
+    embedding, chat UI, nlq-eval) càng ít phải chờ cooldown. Đánh số tuỳ
+    ý, không cần liên tục.
     """
     ra: list[str] = []
 
@@ -63,24 +71,21 @@ def nlq_gemini_keys() -> list[str]:
             if k and k not in ra:
                 ra.append(k)
 
-    def theo_so(muc):
-        return int(muc[0].rsplit("_", 1)[1])
+    def theo_so(ten: str) -> int:
+        return int(ten.rsplit("_", 1)[1])
 
-    danh_so = [(t, v) for t, v in os.environ.items()
-               if t.startswith("LKG_GEMINI_API_KEY_") and t[19:].isdigit()]
-    for ten, gia_tri in sorted(danh_so, key=theo_so):
-        them(gia_tri)
-    them(os.getenv("LKG_GEMINI_API_KEY", ""))
-    them(os.getenv("LKG_GEMINI_API_KEYS", ""))
-    if ra:
-        return ra
+    for tien_to in ("LKG_GEMINI_API_KEY_", "GEMINI_API_KEY_", "GEMMA_API_KEY_"):
+        danh_so = [t for t in os.environ
+                   if t.startswith(tien_to) and t[len(tien_to):].isdigit()]
+        for ten in sorted(danh_so, key=theo_so):
+            them(os.environ[ten])
 
-    them(os.getenv("GEMMA_API_KEY", ""))
-    danh_so = [(t, v) for t, v in os.environ.items()
-               if t.startswith("GEMMA_API_KEY_") and t[14:].isdigit()]
-    for ten, gia_tri in sorted(danh_so, key=theo_so):
-        them(gia_tri)
-    them(os.getenv("GEMMA_API_KEYS", ""))
+    for ten_don in ("LKG_GEMINI_API_KEY", "GEMINI_API_KEY", "GEMMA_API_KEY"):
+        them(os.getenv(ten_don, ""))
+
+    for ten_list in ("LKG_GEMINI_API_KEYS", "GEMINI_API_KEYS", "GEMMA_API_KEYS"):
+        them(os.getenv(ten_list, ""))
+
     return ra
 
 

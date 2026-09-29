@@ -22,9 +22,7 @@ Thứ tự nạp (xem lý do trong README §6):
 
 from __future__ import annotations
 
-from neo4j import GraphDatabase
-
-from . import config
+from . import config, neo4j_session
 from .graph_model import GraphModel
 
 RELATION_TYPES = ("BASED_ON", "REFERENCES", "REPLACES", "AMENDS", "REPEALS")
@@ -95,180 +93,216 @@ def _wipe(session) -> None:
             break
 
 
-def push(model: GraphModel, wipe: bool = False) -> dict[str, dict[str, int]]:
-    driver = GraphDatabase.driver(config.NEO4J_URI, auth=(config.NEO4J_USER, config.NEO4J_PASSWORD))
+def _push_topics(session, model: GraphModel) -> dict[str, int]:
+    return run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (t:Topic {topicId: row.topicId}) "
+        "SET t.name = row.name",
+        list(model.topics.values()),
+    )
+
+
+def _push_target_groups(session, model: GraphModel) -> dict[str, int]:
+    return run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (g:TargetGroup {targetGroupId: row.targetGroupId}) "
+        "SET g.name = row.name",
+        list(model.target_groups.values()),
+    )
+
+
+def _push_organizations(session, model: GraphModel) -> dict[str, dict[str, int]]:
+    """Organization + PART_OF — 2 bước gắn liền (PART_OF cần Organization
+    của cả 2 đầu đã tồn tại)."""
+
     report: dict[str, dict[str, int]] = {}
-    try:
-        with driver.session(database=config.NEO4J_DATABASE) as session:
-            if wipe:
-                _wipe(session)
+    report["Organization"] = run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (o:Organization {orgId: row.orgId}) "
+        "SET o.name = row.name, o.orgType = row.orgType",
+        list(model.orgs.values()),
+    )
+    report["PART_OF"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (a:Organization {orgId: row.orgId}) "
+        "MATCH (b:Organization {orgId: row.parentOrg}) "
+        "MERGE (a)-[:PART_OF]->(b)",
+        [o for o in model.orgs.values() if o.get("parentOrg")],
+    )
+    return report
 
-            for stmt in _split_cypher(SCHEMA_CYPHER):
-                session.run(stmt)
-            session.run(VECTOR_INDEX_CYPHER.format(
-                index_name=config.NLQ_VECTOR_INDEX_NAME, dimensions=config.NLQ_EMBED_DIMENSIONS,
-            ))
 
-            report["Topic"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (t:Topic {topicId: row.topicId}) "
-                "SET t.name = row.name",
-                list(model.topics.values()),
-            )
+def _push_documents(session, model: GraphModel) -> dict[str, dict[str, int]]:
+    """Document thật + Document stub (cho citation target chưa map) +
+    4 loại cạnh trực tiếp từ Document (ISSUED_BY/HAS_TOPIC/APPLIES_TO/
+    MENTIONS) — stub PHẢI tạo trước cạnh quan hệ nên gộp chung 1 hàm,
+    không tách citation stub ra khỏi nhóm Document."""
 
-            report["TargetGroup"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (g:TargetGroup {targetGroupId: row.targetGroupId}) "
-                "SET g.name = row.name",
-                list(model.target_groups.values()),
-            )
+    report: dict[str, dict[str, int]] = {}
+    report["Document"] = run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (d:Document {normalizedNumber: row.normalizedNumber}) "
+        "SET d += row, d.isStub = false",
+        list(model.documents.values()),
+    )
 
-            report["Organization"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (o:Organization {orgId: row.orgId}) "
-                "SET o.name = row.name, o.orgType = row.orgType",
-                list(model.orgs.values()),
-            )
+    # Stub cho citation target chưa map — chạy TRƯỚC khi tạo cạnh
+    # quan hệ, và chỉ set isStub/documentNumber lúc TẠO MỚI (ON CREATE) để
+    # không bao giờ hạ một Document thật đã tồn tại xuống thành stub.
+    stub_targets = []
+    seen = set()
+    for c in model.citations:
+        if c["target"] not in model.documents and c["target"] not in seen:
+            seen.add(c["target"])
+            stub_targets.append({"normalizedNumber": c["target"], "documentNumber": c["target_raw"]})
+    report["Document (stub)"] = run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (d:Document {normalizedNumber: row.normalizedNumber}) "
+        "ON CREATE SET d.documentNumber = row.documentNumber, d.isStub = true",
+        stub_targets,
+    )
 
-            report["PART_OF"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (a:Organization {orgId: row.orgId}) "
-                "MATCH (b:Organization {orgId: row.parentOrg}) "
-                "MERGE (a)-[:PART_OF]->(b)",
-                [o for o in model.orgs.values() if o.get("parentOrg")],
-            )
+    report["ISSUED_BY"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.doc}) "
+        "MATCH (o:Organization {orgId: row.org}) "
+        "MERGE (d)-[:ISSUED_BY]->(o)",
+        model.issued_by,
+    )
 
-            report["Document"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (d:Document {normalizedNumber: row.normalizedNumber}) "
-                "SET d += row, d.isStub = false",
-                list(model.documents.values()),
-            )
+    report["HAS_TOPIC"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.doc}) "
+        "MATCH (t:Topic {topicId: row.topic}) "
+        "MERGE (d)-[:HAS_TOPIC]->(t)",
+        model.has_topic,
+    )
 
-            # Stub cho citation target chưa map — chạy TRƯỚC khi tạo cạnh
-            # quan hệ, và chỉ set isStub/documentNumber lúc TẠO MỚI (ON CREATE) để
-            # không bao giờ hạ một Document thật đã tồn tại xuống thành stub.
-            stub_targets = []
-            seen = set()
-            for c in model.citations:
-                if c["target"] not in model.documents and c["target"] not in seen:
-                    seen.add(c["target"])
-                    stub_targets.append({"normalizedNumber": c["target"], "documentNumber": c["target_raw"]})
-            report["Document (stub)"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (d:Document {normalizedNumber: row.normalizedNumber}) "
-                "ON CREATE SET d.documentNumber = row.documentNumber, d.isStub = true",
-                stub_targets,
-            )
+    report["APPLIES_TO"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.doc}) "
+        "MATCH (g:TargetGroup {targetGroupId: row.group}) "
+        "MERGE (d)-[:APPLIES_TO]->(g)",
+        model.applies_to,
+    )
 
-            report["ISSUED_BY"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.doc}) "
-                "MATCH (o:Organization {orgId: row.org}) "
-                "MERGE (d)-[:ISSUED_BY]->(o)",
-                model.issued_by,
-            )
+    report["MENTIONS"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.doc}) "
+        "MATCH (o:Organization {orgId: row.org}) "
+        "MERGE (d)-[:MENTIONS]->(o)",
+        model.mentions,
+    )
+    return report
 
-            report["HAS_TOPIC"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.doc}) "
-                "MATCH (t:Topic {topicId: row.topic}) "
-                "MERGE (d)-[:HAS_TOPIC]->(t)",
-                model.has_topic,
-            )
 
-            report["APPLIES_TO"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.doc}) "
-                "MATCH (g:TargetGroup {targetGroupId: row.group}) "
-                "MERGE (d)-[:APPLIES_TO]->(g)",
-                model.applies_to,
-            )
+def _push_people(session, model: GraphModel) -> dict[str, dict[str, int]]:
+    report: dict[str, dict[str, int]] = {}
+    report["Person"] = run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (p:Person {personId: row.personId}) "
+        "SET p.fullName = row.fullName, p.academicTitle = row.academicTitle, "
+        "p.position = row.positions",
+        list(model.persons.values()),
+    )
+    report["SIGNED_BY"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.doc}) "
+        "MATCH (p:Person {personId: row.person}) "
+        "MERGE (d)-[:SIGNED_BY]->(p)",
+        model.signed_by,
+    )
+    return report
 
-            report["MENTIONS"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.doc}) "
-                "MATCH (o:Organization {orgId: row.org}) "
-                "MERGE (d)-[:MENTIONS]->(o)",
-                model.mentions,
-            )
 
-            report["Person"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (p:Person {personId: row.personId}) "
-                "SET p.fullName = row.fullName, p.academicTitle = row.academicTitle, "
-                "p.position = row.positions",
-                list(model.persons.values()),
-            )
+def _push_normative_contents(session, model: GraphModel) -> dict[str, dict[str, int]]:
+    report: dict[str, dict[str, int]] = {}
+    report["NormativeContent"] = run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (c:NormativeContent {contentId: row.contentId}) "
+        "SET c.contentType = row.contentType, c.title = row.title, c.status = row.status",
+        model.normative_contents,
+    )
+    report["PROMULGATES"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.doc}) "
+        "MATCH (c:NormativeContent {contentId: row.content}) "
+        "MERGE (d)-[:PROMULGATES]->(c)",
+        model.promulgates,
+    )
+    return report
 
-            report["SIGNED_BY"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.doc}) "
-                "MATCH (p:Person {personId: row.person}) "
-                "MERGE (d)-[:SIGNED_BY]->(p)",
-                model.signed_by,
-            )
 
-            report["NormativeContent"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (c:NormativeContent {contentId: row.contentId}) "
-                "SET c.contentType = row.contentType, c.title = row.title, c.status = row.status",
-                model.normative_contents,
-            )
+def _push_articles(session, model: GraphModel) -> dict[str, dict[str, int]]:
+    report: dict[str, dict[str, int]] = {}
+    report["Article"] = run_batched(
+        session,
+        "UNWIND $rows AS row MERGE (a:Article {articleId: row.articleId}) "
+        "SET a.number = row.number, a.heading = row.heading, a.text = row.text, "
+        "a.isImplementationClause = row.isImplementationClause",
+        model.articles,
+    )
+    report["HAS_ARTICLE (Document)"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (d:Document {normalizedNumber: row.parentId}) "
+        "MATCH (a:Article {articleId: row.articleId}) "
+        "MERGE (d)-[:HAS_ARTICLE]->(a)",
+        [a for a in model.articles if a["parentLabel"] == "Document"],
+    )
+    report["HAS_ARTICLE (NormativeContent)"] = run_batched(
+        session,
+        "UNWIND $rows AS row "
+        "MATCH (c:NormativeContent {contentId: row.parentId}) "
+        "MATCH (a:Article {articleId: row.articleId}) "
+        "MERGE (c)-[:HAS_ARTICLE]->(a)",
+        [a for a in model.articles if a["parentLabel"] == "NormativeContent"],
+    )
+    return report
 
-            report["PROMULGATES"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.doc}) "
-                "MATCH (c:NormativeContent {contentId: row.content}) "
-                "MERGE (d)-[:PROMULGATES]->(c)",
-                model.promulgates,
-            )
 
-            report["Article"] = run_batched(
-                session,
-                "UNWIND $rows AS row MERGE (a:Article {articleId: row.articleId}) "
-                "SET a.number = row.number, a.heading = row.heading, a.text = row.text, "
-                "a.isImplementationClause = row.isImplementationClause",
-                model.articles,
-            )
+def _push_citations(session, model: GraphModel) -> dict[str, dict[str, int]]:
+    report: dict[str, dict[str, int]] = {}
+    for rel in RELATION_TYPES:
+        rows = [c for c in model.citations if c["type"] == rel]
+        report[rel] = run_batched(
+            session,
+            "UNWIND $rows AS row "
+            "MATCH (a:Document {normalizedNumber: row.source}) "
+            "MATCH (b:Document {normalizedNumber: row.target}) "
+            f"MERGE (a)-[r:{rel}]->(b) "
+            "SET r.context = row.context, r.targetArticle = row.targetArticle",
+            rows,
+        )
+    return report
 
-            report["HAS_ARTICLE (Document)"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (d:Document {normalizedNumber: row.parentId}) "
-                "MATCH (a:Article {articleId: row.articleId}) "
-                "MERGE (d)-[:HAS_ARTICLE]->(a)",
-                [a for a in model.articles if a["parentLabel"] == "Document"],
-            )
 
-            report["HAS_ARTICLE (NormativeContent)"] = run_batched(
-                session,
-                "UNWIND $rows AS row "
-                "MATCH (c:NormativeContent {contentId: row.parentId}) "
-                "MATCH (a:Article {articleId: row.articleId}) "
-                "MERGE (c)-[:HAS_ARTICLE]->(a)",
-                [a for a in model.articles if a["parentLabel"] == "NormativeContent"],
-            )
+def push(model: GraphModel, wipe: bool = False) -> dict[str, dict[str, int]]:
+    report: dict[str, dict[str, int]] = {}
+    with neo4j_session.session() as session:
+        if wipe:
+            _wipe(session)
 
-            for rel in RELATION_TYPES:
-                rows = [c for c in model.citations if c["type"] == rel]
-                report[rel] = run_batched(
-                    session,
-                    "UNWIND $rows AS row "
-                    "MATCH (a:Document {normalizedNumber: row.source}) "
-                    "MATCH (b:Document {normalizedNumber: row.target}) "
-                    f"MERGE (a)-[r:{rel}]->(b) "
-                    "SET r.context = row.context, r.targetArticle = row.targetArticle",
-                    rows,
-                )
-    finally:
-        driver.close()
+        for stmt in _split_cypher(SCHEMA_CYPHER):
+            session.run(stmt)
+        session.run(VECTOR_INDEX_CYPHER.format(
+            index_name=config.NLQ_VECTOR_INDEX_NAME, dimensions=config.NLQ_EMBED_DIMENSIONS,
+        ))
+
+        report["Topic"] = _push_topics(session, model)
+        report["TargetGroup"] = _push_target_groups(session, model)
+        report.update(_push_organizations(session, model))
+        report.update(_push_documents(session, model))
+        report.update(_push_people(session, model))
+        report.update(_push_normative_contents(session, model))
+        report.update(_push_articles(session, model))
+        report.update(_push_citations(session, model))
 
     return report

@@ -13,12 +13,29 @@ alias trỏ tới 1 org đã đổi tên/xoá không làm hard-fail cả resolve
 from __future__ import annotations
 
 import json
+from typing import Callable, TypeVar
 
 from .. import config, normalize
 
-_org_aliases: dict[str, str] | None = None
-_topic_aliases: dict[str, str] | None = None
-_target_group_aliases: dict[str, str] | None = None
+T = TypeVar("T")
+
+
+def lazy_cache(loader: Callable[[], T]) -> Callable[[], T]:
+    """Bọc 1 hàm load-1-lần thành hàm cache-trong-closure — gọi lại bao
+    nhiêu lần cũng chỉ load thật 1 lần trong tiến trình. Dùng chung cho
+    MỌI cache "load 1 lần rồi giữ nguyên" ở core/nlq/ (3 hàm alias dưới
+    đây + resolve.py::_make_seed_resolver() — trước đây mỗi cache tự viết
+    tay 1 biến global + check `is None`, lặp lại 6 lần giữa 2 file)."""
+
+    cache: T | None = None
+
+    def get() -> T:
+        nonlocal cache
+        if cache is None:
+            cache = loader()
+        return cache
+
+    return get
 
 
 def _load_raw() -> dict:
@@ -30,22 +47,6 @@ def _to_slug_map(entries: list[dict]) -> dict[str, str]:
     return {normalize.slug(e["alias"]): normalize.slug(e["canonical"]) for e in entries}
 
 
-def load_org_aliases() -> dict[str, str]:
-    global _org_aliases
-    if _org_aliases is None:
-        _org_aliases = _to_slug_map(_load_raw().get("organizations") or [])
-    return _org_aliases
-
-
-def load_topic_aliases() -> dict[str, str]:
-    global _topic_aliases
-    if _topic_aliases is None:
-        _topic_aliases = _to_slug_map(_load_raw().get("topics") or [])
-    return _topic_aliases
-
-
-def load_target_group_aliases() -> dict[str, str]:
-    global _target_group_aliases
-    if _target_group_aliases is None:
-        _target_group_aliases = _to_slug_map(_load_raw().get("target_groups") or [])
-    return _target_group_aliases
+load_org_aliases = lazy_cache(lambda: _to_slug_map(_load_raw().get("organizations") or []))
+load_topic_aliases = lazy_cache(lambda: _to_slug_map(_load_raw().get("topics") or []))
+load_target_group_aliases = lazy_cache(lambda: _to_slug_map(_load_raw().get("target_groups") or []))

@@ -132,16 +132,11 @@ class GraphModel:
             }
             self._org_name_index[normalize.slug(row["name"])] = row["orgId"]
 
-    def add_document_file(self, data: dict) -> None:
-        doc = data["document"]
-        doc_key = doc.get("idOverride") or normalize.normalize_document_number(doc["documentNumber"])
-
-        org = data["organization"]
+    def _register_document(self, doc_key: str, doc: dict, org: dict) -> None:
         org_id = self.register_org(
             org["name"], org.get("orgType"), org.get("parentOrg"), org.get("idOverride")
         )
         level, level_note = self.resolve_level(org_id, doc["documentType"])
-
         self.documents[doc_key] = {
             "normalizedNumber": doc_key,
             "documentNumber": doc["documentNumber"],
@@ -159,25 +154,26 @@ class GraphModel:
         }
         self.issued_by.append({"doc": doc_key, "org": org_id})
 
+    def _register_document_taxonomy(self, doc_key: str, doc: dict) -> None:
         for topic_name in doc.get("topics") or []:
             tid = self.register_topic(topic_name)
             self.has_topic.append({"doc": doc_key, "topic": tid})
-
         for group_name in doc.get("targetGroups") or []:
             gid = self.register_target_group(group_name)
             self.applies_to.append({"doc": doc_key, "group": gid})
 
+    def _register_signers_and_mentions(self, doc_key: str, data: dict) -> None:
         for signer in data.get("signers") or []:
             pid = self.register_person(
                 signer["fullName"], signer.get("academicTitle"),
                 signer["position"], signer.get("idOverride"),
             )
             self.signed_by.append({"doc": doc_key, "person": pid})
-
         for mention_name in data.get("mentions") or []:
             mid = self.register_org(mention_name, None, None, None)
             self.mentions.append({"doc": doc_key, "org": mid})
 
+    def _register_contents_and_articles(self, doc_key: str, data: dict) -> None:
         for idx, content in enumerate(data.get("normativeContents") or [], start=1):
             content_id = content.get("idOverride") or normalize.content_id(doc_key, idx)
             self.normative_contents.append({
@@ -193,6 +189,7 @@ class GraphModel:
         for art in data.get("articles") or []:
             self._add_article(art, parent_id=doc_key, parent_label="Document")
 
+    def _register_citations(self, doc_key: str, data: dict) -> None:
         for citation in data.get("citations") or []:
             self.citations.append({
                 "source": doc_key,
@@ -202,6 +199,16 @@ class GraphModel:
                 "targetArticle": citation.get("targetArticle"),
                 "context": citation.get("context"),
             })
+
+    def add_document_file(self, data: dict) -> None:
+        doc = data["document"]
+        doc_key = doc.get("idOverride") or normalize.normalize_document_number(doc["documentNumber"])
+
+        self._register_document(doc_key, doc, data["organization"])
+        self._register_document_taxonomy(doc_key, doc)
+        self._register_signers_and_mentions(doc_key, data)
+        self._register_contents_and_articles(doc_key, data)
+        self._register_citations(doc_key, data)
 
     def _add_article(self, art: dict, parent_id: str, parent_label: str) -> None:
         article_id = normalize.article_id(parent_id, art["number"])

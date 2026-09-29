@@ -12,6 +12,8 @@ không bao giờ để lộ traceback thô ra response.
 
 from __future__ import annotations
 
+import logging
+
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
@@ -19,7 +21,18 @@ from pydantic import BaseModel, Field
 
 from ..nlq import pipeline
 
+logger = logging.getLogger(__name__)
+
 app = FastAPI(title="legal_knowledge_graph chat API")
+
+
+def _error_response(exc: Exception, context: str) -> JSONResponse:
+    """Log đầy đủ exception phía server (traceback, để debug được thật),
+    trả message CHUNG CHUNG cho client — không bao giờ đưa chi tiết lỗi
+    nội bộ (đường dẫn, message driver Neo4j...) ra ngoài response."""
+
+    logger.exception(context)
+    return JSONResponse(status_code=500, content={"error": context})
 
 # Chỉ mở cho Vite dev server chạy local — demo/prototype, không phải service
 # public. Mở rộng origin ở đây nếu sau này deploy nơi khác.
@@ -70,7 +83,7 @@ class ChatResponse(BaseModel):
 async def unhandled_exception_handler(request: Request, exc: Exception):
     # Lưới an toàn cuối cùng — bất kỳ lỗi nào lọt qua handler bên dưới
     # (kể cả lỗi framework) vẫn trả JSON nhất quán, không trắng trang/HTML.
-    return JSONResponse(status_code=500, content={"error": f"Lỗi nội bộ: {exc}"})
+    return _error_response(exc, "Lỗi nội bộ")
 
 
 @app.get("/api/health")
@@ -95,5 +108,5 @@ def chat(req: ChatRequest):
     try:
         result = pipeline.ask(req.question, resume=resume)
     except Exception as exc:
-        return JSONResponse(status_code=500, content={"error": f"Lỗi khi xử lý câu hỏi: {exc}"})
+        return _error_response(exc, "Lỗi khi xử lý câu hỏi")
     return ChatResponse(**result.__dict__)
