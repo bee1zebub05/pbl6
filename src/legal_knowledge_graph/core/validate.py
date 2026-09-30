@@ -4,15 +4,14 @@ chéo mà JSON Schema tự nó không diễn đạt được (khớp danh mục 
 Điều không trùng trong cùng một cha, không tự trích dẫn chính mình).
 
 Dùng độc lập: `python run.py validate [--dir DIR]`
-Dùng lại trong graph_model.py: `load_and_validate(path)` — build không bao
-giờ nạp một file chưa qua được bước này.
+Dùng lại trong graph_model.py qua `validate_dir(dir)` — build không bao giờ
+nạp một file chưa qua được bước này.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -67,8 +66,7 @@ def _cross_field_errors(data: dict) -> list[str]:
     errors: list[str] = []
 
     doc = data.get("document", {})
-    document_number = doc.get("documentNumber", "")
-    doc_key = data["document"].get("idOverride") or normalize.normalize_document_number(document_number)
+    doc_key = normalize.doc_key(doc)
 
     topic_seed = _seed_topic_names()
     for topic in doc.get("topics") or []:

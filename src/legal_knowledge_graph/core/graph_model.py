@@ -8,17 +8,10 @@ graph_loader.py.
 
 from __future__ import annotations
 
-import json
 from pathlib import Path
 
 from . import config, normalize
-from .validate import validate_dir
-
-
-def _load_seed(path: Path, key: str) -> list[dict]:
-    with open(path, encoding="utf-8") as f:
-        raw = json.load(f)
-    return raw.get(key, [])
+from .validate import load_seed_entries, validate_dir
 
 
 class GraphModel:
@@ -119,11 +112,11 @@ class GraphModel:
         return pid
 
     def load_seeds(self) -> None:
-        for row in _load_seed(config.TOPICS_SEED_PATH, "topics"):
+        for row in load_seed_entries(config.TOPICS_SEED_PATH):
             self.register_topic(row["name"])
-        for row in _load_seed(config.TARGET_GROUPS_SEED_PATH, "target_groups"):
+        for row in load_seed_entries(config.TARGET_GROUPS_SEED_PATH):
             self.register_target_group(row["name"])
-        for row in _load_seed(config.ORGANIZATIONS_SEED_PATH, "organizations"):
+        for row in load_seed_entries(config.ORGANIZATIONS_SEED_PATH):
             self.orgs[row["orgId"]] = {
                 "orgId": row["orgId"],
                 "name": row["name"],
@@ -202,7 +195,7 @@ class GraphModel:
 
     def add_document_file(self, data: dict) -> None:
         doc = data["document"]
-        doc_key = doc.get("idOverride") or normalize.normalize_document_number(doc["documentNumber"])
+        doc_key = normalize.doc_key(doc)
 
         self._register_document(doc_key, doc, data["organization"])
         self._register_document_taxonomy(doc_key, doc)

@@ -55,14 +55,14 @@ def run_cypher(cypher: str, params: dict, timeout_seconds: float) -> ExecutionRe
         return run_in_session(s, cypher, params, timeout_seconds)
 
 
-def explain(cypher: str, params: dict, session_=None) -> None:
+def explain(cypher: str, params: dict, session_) -> None:
     """Chạy EXPLAIN <cypher> — parse/plan mà KHÔNG đụng data. Raise nếu cú
     pháp/plan sai; không raise không có nghĩa Cypher đúng NGỮ NGHĨA, chỉ là
     hợp lệ để chạy (xem guard.py bước property/label whitelist cho phần
-    EXPLAIN không bắt được)."""
+    EXPLAIN không bắt được).
 
-    if session_ is not None:
-        session_.run(f"EXPLAIN {cypher}", **params).consume()
-        return
-    with session() as s:
-        s.run(f"EXPLAIN {cypher}", **params).consume()
+    Bắt buộc nhận session có sẵn (không tự mở session riêng) — caller
+    (guard.py, qua pipeline._run_freeform) dùng LẠI đúng session sẽ chạy
+    Cypher thật sau đó, tránh mở 2 kết nối Neo4j cho 1 lượt Stage B."""
+
+    session_.run(f"EXPLAIN {cypher}", **params).consume()

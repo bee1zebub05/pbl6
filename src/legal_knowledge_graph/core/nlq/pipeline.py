@@ -48,9 +48,6 @@ class ResolutionFailed(Exception):
         super().__init__(f"'{param_name}': {reason}")
 
 
-_RESOLVERS_NEEDING_SESSION = {"org", "doc_number"}
-
-
 def _resolve_param(spec, raw: str, session_) -> resolve.Resolution:
     if spec.resolver == "org":
         return resolve.resolve_organization(raw, session_)
@@ -197,53 +194,62 @@ def _run_freeform(question: str, stage_a_confidence: float) -> NlqResult:
     khi chạy thật. Bị guard chặn thì thử SỬA LẠI tối đa
     config.NLQ_FREEFORM_MAX_ATTEMPTS lần (gửi kèm lý do từ chối cụ thể của
     guard cho Gemini tự sửa), không chạy Cypher "một phần" ở bất kỳ lượt
-    nào. Hết lượt vẫn không qua được guard -> unsupported hẳn."""
+    nào. Hết lượt vẫn không qua được guard -> unsupported hẳn.
+
+    Mở 1 session DUY NHẤT cho toàn bộ vòng lặp — EXPLAIN (guard) và chạy
+    Cypher thật (khi qua guard) dùng chung, tránh mở 2 kết nối Neo4j
+    riêng cho mỗi lượt (trước đây guard tự mở session riêng cho EXPLAIN)."""
 
     cypher: str | None = None
     guard_reason: str | None = None
     attempt = 0
 
-    while attempt < config.NLQ_FREEFORM_MAX_ATTEMPTS:
-        attempt += 1
-        try:
-            if attempt == 1:
-                stage_b = freeform.generate_freeform(question)
-            else:
-                stage_b = freeform.generate_freeform_correction(question, cypher, guard_reason)
-        except gemini_client.GeminiCallError as exc:
+    with execute.session() as session_:
+        while attempt < config.NLQ_FREEFORM_MAX_ATTEMPTS:
+            attempt += 1
+            try:
+                if attempt == 1:
+                    stage_b = freeform.generate_freeform(question)
+                else:
+                    stage_b = freeform.generate_freeform_correction(question, cypher, guard_reason)
+            except gemini_client.GeminiCallError as exc:
+                return NlqResult(
+                    kind="unsupported",
+                    reason=f"Lỗi gọi Gemini (Stage B, lượt {attempt}): {exc}",
+                    confidence=stage_a_confidence,
+                    correction_attempts=attempt - 1,
+                )
+
+            if stage_b.unsupported or not stage_b.cypher:
+                return NlqResult(
+                    kind="unsupported", reason=stage_b.reason, confidence=stage_a_confidence,
+                    correction_attempts=attempt - 1,
+                )
+
+            cypher = stage_b.cypher
+            try:
+                capped_cypher = guard.guard_freeform_cypher(
+                    cypher, {}, row_cap=config.NLQ_ROW_CAP, session_=session_
+                )
+            except guard.GuardRejected as exc:
+                guard_reason = exc.reason
+                continue  # còn lượt thì generate_freeform_correction() ở đầu vòng lặp kế tiếp
+
+            result = execute.run_in_session(
+                session_, capped_cypher, {}, timeout_seconds=config.NLQ_QUERY_TIMEOUT_SECONDS
+            )
+            correction_note = f" (đã tự sửa {attempt - 1} lần)" if attempt > 1 else ""
             return NlqResult(
-                kind="unsupported",
-                reason=f"Lỗi gọi Gemini (Stage B, lượt {attempt}): {exc}",
+                kind="freeform_result",
+                cypher=capped_cypher,
+                params={},
+                rows=result.rows,
+                elapsed_ms=result.elapsed_ms,
                 confidence=stage_a_confidence,
                 correction_attempts=attempt - 1,
+                reason=f"Cypher do LLM tự sinh (freeform) — độ tin cậy thấp hơn kết quả template, "
+                       f"nên soát lại Cypher{correction_note}.",
             )
-
-        if stage_b.unsupported or not stage_b.cypher:
-            return NlqResult(
-                kind="unsupported", reason=stage_b.reason, confidence=stage_a_confidence,
-                correction_attempts=attempt - 1,
-            )
-
-        cypher = stage_b.cypher
-        try:
-            capped_cypher = guard.guard_freeform_cypher(cypher, {}, row_cap=config.NLQ_ROW_CAP)
-        except guard.GuardRejected as exc:
-            guard_reason = exc.reason
-            continue  # còn lượt thì generate_freeform_correction() ở đầu vòng lặp kế tiếp
-
-        result = execute.run_cypher(capped_cypher, {}, timeout_seconds=config.NLQ_QUERY_TIMEOUT_SECONDS)
-        correction_note = f" (đã tự sửa {attempt - 1} lần)" if attempt > 1 else ""
-        return NlqResult(
-            kind="freeform_result",
-            cypher=capped_cypher,
-            params={},
-            rows=result.rows,
-            elapsed_ms=result.elapsed_ms,
-            confidence=stage_a_confidence,
-            correction_attempts=attempt - 1,
-            reason=f"Cypher do LLM tự sinh (freeform) — độ tin cậy thấp hơn kết quả template, "
-                   f"nên soát lại Cypher{correction_note}.",
-        )
 
     # Hết config.NLQ_FREEFORM_MAX_ATTEMPTS lượt mà lượt cuối vẫn bị guard chặn.
     return NlqResult(
