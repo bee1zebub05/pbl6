@@ -61,6 +61,15 @@ def normalize_document_number(raw: str) -> str:
     return deaccent(cleaned).upper()
 
 
+def doc_key(doc: dict) -> str:
+    """Khoá hợp nhất 1 Document dùng để MERGE (`idOverride` ghi đè nếu có,
+    không thì suy từ `documentNumber` chuẩn hoá) — dùng chung bởi
+    collision_check.py/validate.py/graph_model.py, trước đây mỗi nơi tự viết
+    lại đúng 1 biểu thức này."""
+
+    return doc.get("idOverride") or normalize_document_number(doc.get("documentNumber", ""))
+
+
 def slug(text: str) -> str:
     """orgId / personId / topicId — deaccent, lowercase, non-alnum -> '_'."""
 

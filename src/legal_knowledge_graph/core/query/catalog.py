@@ -26,6 +26,14 @@ class Query:
     expected_rows: int | None
     kind: str  # lookup | multihop | fulltext | hybrid | sanity | distribution | ranking | anomaly
     note: str
+    # 2 field dưới CHỈ scenario_catalog.py dùng (mặc định None, không ảnh
+    # hưởng 34 Query cũ ở catalog.py/benchmark_catalog.py) — cho phép
+    # runner.py chấm precision/recall/F1 bằng cách so TẬP ID, không chỉ
+    # đếm số dòng. Thiết kế để tái dùng khi có nguồn kết quả khác ngoài
+    # Cypher (BM25, semantic retrieval...) — chỉ cần đưa list ID vào cùng
+    # hàm chấm điểm, không cần xây evaluate riêng.
+    id_field: str | None = None  # cột trong RETURN dùng làm "khoá" (vd "documentNumber")
+    expected_ids: frozenset[str] | None = None  # ground-truth đã verify thật; None = chưa có/không áp dụng
 
 
 def hybrid_expand_cypher(*, fulltext_query: str, seed_limit: int, final_limit: int | None = None) -> str:

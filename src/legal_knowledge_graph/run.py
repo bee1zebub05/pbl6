@@ -38,8 +38,9 @@ def main() -> int:
     p_build.add_argument("--wipe", action="store_true", help="Xoá sạch graph trước khi nạp")
 
     p_query = sub.add_parser("query", help="Chạy bộ Cypher test + báo cáo chất lượng/hiệu năng")
-    p_query.add_argument("--source", choices=["samples", "benchmark"], default="samples",
-                          help="samples = regression 17 mẫu; benchmark = minh hoạ trên data thật")
+    p_query.add_argument("--source", choices=["samples", "benchmark", "scenarios"], default="samples",
+                          help="samples = regression 17 mẫu; benchmark = minh hoạ trên data thật; "
+                               "scenarios = 20 case dễ->khó trên data thật (assert + P/R/F1)")
     p_query.add_argument("--verbose", action="store_true", help="In vài dòng kết quả mẫu mỗi câu")
 
     p_collisions = sub.add_parser("check-collisions", help="Báo cáo normalizedNumber bị trùng bởi >=2 file")

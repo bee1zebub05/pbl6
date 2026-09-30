@@ -21,9 +21,8 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from . import collision_check, config
+from . import collision_check, config, neo4j_session
 from .build import collect_and_summarize, push_and_report
-from .nlq import execute
 
 
 def _sanity(session) -> None:
@@ -64,7 +63,7 @@ def main(argv: list[str] | None = None) -> int:
     push_and_report(model, wipe=not args.no_wipe)
 
     print("\n[4/4] Sanity check (graph có đọc truy vấn được không) ...")
-    with execute.session() as session:
+    with neo4j_session.session() as session:
         _sanity(session)
 
     print("\nSẵn sàng: python run.py query --source samples|benchmark")

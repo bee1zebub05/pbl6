@@ -170,12 +170,6 @@ def _get_be_embed() -> _BeKey:
         return _be_embed
 
 
-def so_key() -> tuple[int, int]:
-    """-> (số key còn sống, tổng số key nạp ban đầu). Cho CLI in ra."""
-    be = _get_be()
-    return len(be), be.tong
-
-
 def call_json(prompt: str, response_schema: dict, temperature: float = 0.0) -> dict:
     """Gọi Gemini, ép output JSON đúng response_schema (dict dạng OpenAPI
     subset — xem google.genai.types.Schema). Raise GeminiCallError nếu hết

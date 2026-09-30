@@ -33,7 +33,7 @@ def find_collisions(data_dir: Path) -> dict[str, list[tuple[Path, str]]]:
         raw = doc.get("documentNumber")
         if not raw:
             continue
-        key = doc.get("idOverride") or normalize.normalize_document_number(raw)
+        key = normalize.doc_key(doc)
         groups.setdefault(key, []).append((f, doc.get("title", "")))
 
     return {k: v for k, v in groups.items() if len(v) > 1}

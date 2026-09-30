@@ -82,20 +82,23 @@ def enforce_limit(cypher: str, cap: int) -> str:
     return f"{stripped}\nLIMIT {cap}"
 
 
-def dry_run_explain(cypher: str, params: dict) -> None:
+def dry_run_explain(cypher: str, params: dict, session_) -> None:
     try:
-        execute.explain(cypher, params)
+        execute.explain(cypher, params, session_)
     except Exception as exc:
         raise GuardRejected(f"EXPLAIN thất bại — Cypher sai cú pháp/plan: {exc}") from exc
 
 
-def guard_freeform_cypher(cypher: str, params: dict, row_cap: int) -> str:
+def guard_freeform_cypher(cypher: str, params: dict, row_cap: int, session_) -> str:
     """Chạy toàn bộ chuỗi kiểm tra cho Cypher freeform (Stage B). Trả về
     Cypher đã ép LIMIT nếu qua hết mọi bước; raise GuardRejected ngay khi
-    có bước nào chặn — KHÔNG chạy thử "một phần"."""
+    có bước nào chặn — KHÔNG chạy thử "một phần".
+
+    session_: dùng LẠI session của caller cho bước EXPLAIN — caller sẽ
+    chạy Cypher thật (đã qua guard) trên cùng session này ngay sau đó."""
 
     check_blocklist(cypher)
     check_labels_and_properties(cypher)
     capped = enforce_limit(cypher, row_cap)
-    dry_run_explain(capped, params)
+    dry_run_explain(capped, params, session_)
     return capped
