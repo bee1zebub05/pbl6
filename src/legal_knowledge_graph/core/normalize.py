@@ -47,6 +47,28 @@ def _clean_document_number(raw: str) -> str:
     return text
 
 
+# Số hiệu văn bản trong câu tự do:
+#   số[/năm]/ký hiệu : "2673/QĐ-ĐHBK", "08/2021/TT-BGDĐT", "30a/2008/NQ-CP",
+#                      "16/2006/TTLT/BLĐTBXH-BGDĐT-BTC", "952/QĐ-ĐHBK-KHCN&HTQT"
+#   số-loại/cơ quan  : "57-NQ/TW", "02-CTr/BCĐTW" (văn bản của Đảng)
+# Ký hiệu phải mở đầu bằng chữ cái — ngày tháng ("12/3/2024"), khoảng năm
+# ("2024/2025"), phân số ("3/4") không khớp.
+_SYMBOL = r"[A-ZĐ][A-ZĐ0-9&]*(?:[-/][A-ZĐ0-9][A-ZĐ0-9&]*)*"
+_DOC_NUMBER_IN_TEXT = re.compile(
+    rf"(?<![\w/-])\d{{1,5}}[A-Z]?(?:(?:/\d{{4}})?/{_SYMBOL}|-[A-ZĐ][A-ZĐ]*/{_SYMBOL})(?![\w/&])",
+    re.IGNORECASE,
+)
+
+
+def find_document_numbers(text: str) -> list[str]:
+    """Các số hiệu văn bản xuất hiện trong câu, bỏ trùng theo khoá chuẩn hoá, giữ thứ tự."""
+
+    found: dict[str, str] = {}
+    for match in _DOC_NUMBER_IN_TEXT.finditer(unicodedata.normalize("NFC", text)):
+        found.setdefault(normalize_document_number(match.group(0)), match.group(0))
+    return list(found.values())
+
+
 def normalize_document_number(raw: str) -> str:
     """Khoá MERGE của Document (property Neo4j: normalizedNumber) — deaccent +
     uppercase, giữ nguyên dấu '/' và '-'.
@@ -64,8 +86,7 @@ def normalize_document_number(raw: str) -> str:
 def doc_key(doc: dict) -> str:
     """Khoá hợp nhất 1 Document dùng để MERGE (`idOverride` ghi đè nếu có,
     không thì suy từ `documentNumber` chuẩn hoá) — dùng chung bởi
-    collision_check.py/validate.py/graph_model.py, trước đây mỗi nơi tự viết
-    lại đúng 1 biểu thức này."""
+    ingest/collision_check.py, ingest/validate.py, ingest/graph_model.py."""
 
     return doc.get("idOverride") or normalize_document_number(doc.get("documentNumber", ""))
 

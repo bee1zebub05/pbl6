@@ -17,11 +17,11 @@ if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
 
-from core import build, build_pipeline, collision_check, validate  # noqa: E402
-from core.nlq import embed_articles as nlq_embed_articles  # noqa: E402
-from core.nlq import eval_gold as nlq_eval_gold  # noqa: E402
-from core.nlq import pipeline as nlq_pipeline  # noqa: E402
-from core.query import runner as query_runner  # noqa: E402
+from core.ingest import build, build_pipeline, collision_check, validate  # noqa: E402
+from core.chat import cli as chat_cli  # noqa: E402
+from core.graph_query import article_embeddings  # noqa: E402
+from core.benchmark import chat_eval  # noqa: E402
+from core.benchmark import runner as query_runner  # noqa: E402
 
 
 def main() -> int:
@@ -50,21 +50,29 @@ def main() -> int:
     p_all.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
     p_all.add_argument("--no-wipe", action="store_true", help="Không xoá graph cũ trước khi nạp (mặc định LÀ xoá)")
 
-    p_ask = sub.add_parser("ask", help="NLQ: câu hỏi tự nhiên -> Cypher -> kết quả thô (xem core/nlq/)")
-    p_ask.add_argument("question", nargs="?", default=None, help="Câu hỏi tự nhiên (Gemini chọn template hoặc tự sinh Cypher)")
-    p_ask.add_argument("--template", help="Chạy thủ công 1 template, bỏ qua Gemini, xem core/nlq/templates.py")
+    p_ask = sub.add_parser("ask", help="Chatbot: hỏi một câu (xem core/chat/)")
+    p_ask.add_argument("question", nargs="?", default=None, help="Câu hỏi tiếng Việt tự nhiên")
+    p_ask.add_argument("--template", help="Chạy thủ công 1 template, bỏ qua LLM, xem core/graph_query/templates/")
     p_ask.add_argument("--param", action="append", default=[], help="key=value, có thể lặp lại (dùng với --template)")
     p_ask.add_argument("--verbose", action="store_true")
 
-    p_nlq_eval = sub.add_parser("nlq-eval", help="Chạy bộ câu hỏi gold cho NLQ (thật qua Gemini + Neo4j)")
-    p_nlq_eval.add_argument("--verbose", action="store_true")
-    p_nlq_eval.add_argument("--with-retrieval", action="store_true",
+    p_chat = sub.add_parser("chat", help="Chatbot: hội thoại nhiều lượt trong terminal")
+    p_chat.add_argument("--verbose", action="store_true")
+
+    p_templates = sub.add_parser("templates", help="Sinh lại docs/TEMPLATES.md (danh mục template) từ core/graph_query/templates/")
+    p_templates.add_argument("--stdout", action="store_true", help="In ra màn hình thay vì ghi file")
+
+    p_chat_eval = sub.add_parser("chat-eval", help="Chạy bộ câu hỏi gold cho chatbot (thật qua Gemini + Neo4j)")
+    p_chat_eval.add_argument("--verbose", action="store_true")
+    p_chat_eval.add_argument("--with-retrieval", action="store_true",
                              help="Bật luôn retrieval ngữ nghĩa (mặc định tắt để đỡ tốn gấp đôi quota)")
 
     p_embed = sub.add_parser("embed-articles", help="Backfill embedding cho Article (chạy tay, không nằm trong build/all)")
-    p_embed.add_argument("--batch-size", type=int, default=None, help="Số text gộp vào 1 lần gọi embed_content()")
+    p_embed.add_argument("--batch-size", type=int, default=None, help="Số text gộp vào 1 lần gọi API embedding")
     p_embed.add_argument("--read-batch-size", type=int, default=None, help="Số Article đọc mỗi lượt round-trip Neo4j")
-    p_embed.add_argument("--dry-run", action="store_true", help="Chỉ đếm số Article còn thiếu embedding, KHÔNG gọi Gemini")
+    p_embed.add_argument("--dry-run", action="store_true", help="Chỉ đếm số Article còn thiếu embedding, KHÔNG gọi API")
+    p_embed.add_argument("--reset", action="store_true",
+                         help="Xoá MỌI embedding cũ và dựng lại vector index — dùng khi đổi model / số chiều embedding")
     p_embed.add_argument("--verbose", action="store_true")
 
     p_api = sub.add_parser("serve-api", help="Chạy FastAPI cho chat UI (core/api/), xem frontend/")
@@ -114,15 +122,30 @@ def main() -> int:
             argv += ["--param", p]
         if args.verbose:
             argv += ["--verbose"]
-        return nlq_pipeline.main(argv)
+        return chat_cli.ask_main(argv)
 
-    if args.command == "nlq-eval":
+    if args.command == "chat":
+        return chat_cli.chat_main(["--verbose"] if args.verbose else [])
+
+    if args.command == "templates":
+        from core.graph_query.templates import catalog_markdown
+
+        text = catalog_markdown()
+        if args.stdout:
+            print(text)
+        else:
+            target = Path(__file__).resolve().parent / "docs" / "TEMPLATES.md"
+            target.write_text(text, encoding="utf-8")
+            print(f"Đã ghi {target}")
+        return 0
+
+    if args.command == "chat-eval":
         argv = []
         if args.verbose:
             argv += ["--verbose"]
         if args.with_retrieval:
             argv += ["--with-retrieval"]
-        return nlq_eval_gold.main(argv)
+        return chat_eval.main(argv)
 
     if args.command == "embed-articles":
         argv = []
@@ -132,9 +155,11 @@ def main() -> int:
             argv += ["--read-batch-size", str(args.read_batch_size)]
         if args.dry_run:
             argv += ["--dry-run"]
+        if args.reset:
+            argv += ["--reset"]
         if args.verbose:
             argv += ["--verbose"]
-        return nlq_embed_articles.main(argv)
+        return article_embeddings.main(argv)
 
     if args.command == "serve-api":
         import uvicorn

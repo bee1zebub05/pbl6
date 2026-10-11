@@ -91,7 +91,7 @@ dấu gạch trước khi so khớp, và 7 file đó đã được gán lại đ
 
 Nhãn model trả về đi qua `normalize.slug()` rồi phải khớp một mục trong
 `src/legal_knowledge_graph/reference/target_groups_seed.json` — cùng đúng phép so
-khớp mà `core/validate.py` dùng, nên không lệch được. Nhãn không khớp bị loại và
+khớp mà `core/ingest/validate.py` dùng, nên không lệch được. Nhãn không khớp bị loại và
 in ra màn hình. Mỗi file sau khi gán còn phải qua trọn bộ `load_and_validate()`;
 trượt schema thì **không ghi sang v2**, giữ nguyên bản v1.
 

@@ -7,7 +7,7 @@ Chi khac ba cho:
 
   1. Cau lenh (PROMPT)  -> bao Gemini tra ve JSON thay vi plaintext.
   2. Nguon viec         -> quet thang `data/clean/text_final`, khong doc CSV.
-  3. Cong nhan ket qua  -> parse JSON roi cho qua `core/validate.py` cua
+  3. Cong nhan ket qua  -> parse JSON roi cho qua `core/ingest/validate.py` cua
                            legal_knowledge_graph. Sai schema la KHONG nhan, tra
                            loi cu the ve extension de no thu lai.
 
@@ -283,12 +283,12 @@ def _cuu_json(raw: str, toi_da: int = 300):
 
 
 def _validate(data: dict) -> list[str]:
-    """Cho qua chinh `core/validate.py` cua legal_knowledge_graph.
+    """Cho qua chinh `core/ingest/validate.py` cua legal_knowledge_graph.
 
     Ghi ra file tam roi goi `load_and_validate` thay vi tu viet lai bo kiem: neu
     ductran sua schema hay sua luat kiem cheo, cau nay tu dong theo, khong lech.
     """
-    from legal_knowledge_graph.core.validate import load_and_validate
+    from legal_knowledge_graph.core.ingest.validate import load_and_validate
 
     with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False,
                                      encoding="utf-8") as f:
