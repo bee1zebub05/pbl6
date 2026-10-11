@@ -29,8 +29,6 @@ src/legal_knowledge_graph/
 │   ├── db.py                         Kết nối Neo4j (driver dùng chung, session CLI), chạy Cypher có timeout, ghi theo lô
 │   ├── ingest/                       JSON → Neo4j: validate, collision_check, graph_model,
 │   │                                   graph_loader, build (`build`), build_pipeline (`all`)
-│   ├── benchmark/                    Bộ Cypher regression / benchmark / 20 kịch bản (`lkg query`),
-│   │                                   bộ câu hỏi gold của chatbot chat_eval.py (`lkg chat-eval`)
 │   ├── graph_query/                  Truy vấn đồ thị, không phụ thuộc chatbot:
 │   │   ├── templates/                  kho 68 template Cypher (6 nhóm, mức 1–5)
 │   │   ├── schema.py                   mô tả schema graph
@@ -39,13 +37,18 @@ src/legal_knowledge_graph/
 │   │   ├── graph_context.py            Cypher GraphRAG: Điều hạt giống, mở rộng theo quan hệ
 │   │   └── article_embeddings.py       backfill embedding (`lkg embed-articles`)
 │   ├── llm/gemini_key_pool.py        Bể key Gemini xoay vòng (chatbot + embedding)
-│   ├── chat/                         Chatbot LangGraph (mục "Chatbot")
+│   ├── chat/                         Chatbot LangGraph (mục "Chatbot"), kèm bộ câu hỏi gold chat_eval.py (`lkg chat-eval`)
 │   └── api/                          FastAPI cho chat UI
 ├── frontend/                       Chat UI (React + Vite)
 ├── docs/                           GUIDELINE, GRAPHREPORT, STRUCTUREDFORM, EXAMPLE, TEMPLATES (sinh tự động)
 ├── tests/                          Kiểm thử pytest (offline; phần live tự bỏ qua nếu Neo4j tắt)
 └── run.py                          Điểm vào CLI, gọi qua `python run.py lkg <lệnh>`
 ```
+
+Bộ đo Cypher (regression trên `samples/`, hiệu năng, 20 kịch bản có P/R/F1)
+không thuộc module này mà nằm ở `src/cypher_benchmark/`, chạy bằng
+`python run.py bench --source samples|benchmark|scenarios`. Hai bên chỉ dùng
+chung Neo4j (biến `LKG_NEO4J_*`), không import mã của nhau.
 
 ## Cài đặt
 
@@ -114,7 +117,6 @@ python run.py lkg validate [--dir DIR]
 python run.py lkg check-collisions [--dir DIR]
 python run.py lkg build [--dir DIR] [--wipe]
 python run.py lkg all [--dir DIR] [--no-wipe]
-python run.py lkg query [--source samples|benchmark|scenarios] [--verbose]
 python run.py lkg ask "<câu hỏi>" [--verbose]
 python run.py lkg ask --template TPL_XXX --param k=v
 python run.py lkg chat [--verbose]
@@ -130,7 +132,6 @@ python run.py lkg serve-api [--host HOST] [--port PORT] [--reload]
 | `check-collisions` | Báo cáo `normalizedNumber` bị ≥2 file trùng |
 | `build` | Validate rồi nạp vào Neo4j (`--wipe` để nạp lại từ đầu) |
 | `all` | check-collisions → validate → build → sanity. Mặc định đọc `samples/`; dữ liệu thật: `--dir data/clean/json/v2` |
-| `query` | Chạy bộ Cypher (`samples` = regression, `benchmark` = đo hiệu năng, `scenarios` = 20 kịch bản có P/R/F1) |
 | `ask` | Hỏi chatbot một câu; `--template` chạy thủ công một template, không qua LLM |
 | `chat` | Hội thoại nhiều lượt trong terminal (`/new` mở hội thoại mới, `/exit` thoát) |
 | `templates` | Sinh lại `docs/TEMPLATES.md` — danh mục 68 template từ `core/graph_query/templates/` |

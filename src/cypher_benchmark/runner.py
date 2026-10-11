@@ -1,33 +1,28 @@
 """
-Chạy một bộ Cypher (catalog.py/benchmark_catalog.py/scenario_catalog.py)
-trên Neo4j riêng của legal_knowledge_graph, đo thời gian thật + đọc PROFILE
-plan để biết có dùng index/fulltext hay bị rơi về quét toàn bộ. In báo cáo
-dạng bảng.
+Chạy một bộ Cypher trong catalogs/ trên Neo4j riêng của legal_knowledge_graph,
+đo thời gian thật + đọc PROFILE plan để biết có dùng index/fulltext hay bị
+rơi về quét toàn bộ. In báo cáo dạng bảng.
 
-`--source samples` (mặc định): bộ catalog.py, assert đúng số dòng, thoát mã
-khác 0 nếu có câu FAIL — dùng làm regression test cho cơ chế.
-`--source benchmark`: bộ benchmark_catalog.py, không assert số dòng cố định
-(mọi câu expected_rows=None) — luôn thoát mã 0 nếu không lỗi, mục đích là ĐỌC
-số đo chứ không PASS/FAIL.
-`--source scenarios`: bộ scenario_catalog.py (20 case, data thật, dễ->khó) —
-CHẤM ĐIỂM precision/recall/F1 khi câu có `expected_ids` (xem `_score_ids()`),
+`--source samples` (mặc định): assert đúng số dòng, thoát mã khác 0 nếu có
+câu FAIL — dùng làm regression test cho cơ chế.
+`--source benchmark`: không assert số dòng cố định (mọi câu
+expected_rows=None) — luôn thoát mã 0 nếu không lỗi, mục đích là ĐỌC số đo
+chứ không PASS/FAIL.
+`--source scenarios`: 20 case, data thật, dễ->khó — CHẤM ĐIỂM
+precision/recall/F1 khi câu có `expected_ids` (xem `scoring.score_ids()`),
 ngoài ra vẫn giữ assert số dòng như 2 nguồn kia.
 """
 
 from __future__ import annotations
 
 import argparse
+import sys
 import time
 
-from .. import db
-from . import benchmark_catalog, catalog, scenario_catalog
-from .catalog import Query
-
-SOURCES = {
-    "samples": catalog.QUERIES,
-    "benchmark": benchmark_catalog.QUERIES,
-    "scenarios": scenario_catalog.QUERIES,
-}
+from . import db
+from .catalogs import SOURCES
+from .query import Query
+from .scoring import score_ids
 
 
 def _plan_signature(plan) -> str:
@@ -60,25 +55,6 @@ def _index_used(signature: str, kind: str) -> bool | None:
     return None
 
 
-def _score_ids(result_ids: list[str], expected_ids: frozenset[str] | None) -> dict:
-    """Precision/Recall/F1 kiểu tập hợp (intersection/union) — nhận list ID
-    THÔ, không quan tâm nguồn gốc (Cypher hôm nay, hay BM25/semantic
-    retrieval sau này). Đây là điểm TÁI DÙNG khi cắm thêm 1 nguồn kết quả
-    khác vào cùng bộ case: chỉ cần đưa list ID của nguồn đó + đúng
-    `expected_ids` của case (xem scenario_catalog.py) vào đây, không cần
-    viết lại evaluate."""
-
-    if expected_ids is None:
-        return {"precision": None, "recall": None, "f1": None}
-
-    result_set = set(result_ids)
-    tp = len(result_set & expected_ids)
-    precision = tp / len(result_set) if result_set else 1.0
-    recall = tp / len(expected_ids) if expected_ids else 1.0
-    f1 = 2 * precision * recall / (precision + recall) if (precision + recall) else 0.0
-    return {"precision": precision, "recall": recall, "f1": f1}
-
-
 def run_one(session, query: Query) -> dict:
     start = time.perf_counter()
     rows = list(session.run(query.cypher))
@@ -96,11 +72,8 @@ def run_one(session, query: Query) -> dict:
     else:
         passed = n == query.expected_rows
 
-    if query.expected_ids is not None:
-        result_ids = [r[query.id_field] for r in rows]
-        score = _score_ids(result_ids, query.expected_ids)
-    else:
-        score = {"precision": None, "recall": None, "f1": None}
+    result_ids = [r[query.id_field] for r in rows] if query.expected_ids is not None else []
+    score = score_ids(result_ids, query.expected_ids)
 
     return {
         "name": query.name,
@@ -115,7 +88,11 @@ def run_one(session, query: Query) -> dict:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Chạy bộ Cypher trên Neo4j riêng của legal_knowledge_graph")
+    # Console Windows mặc định cp1252/cp1258 sẽ vỡ khi in tiếng Việt.
+    if sys.platform == "win32":
+        sys.stdout.reconfigure(encoding="utf-8")
+
+    parser = argparse.ArgumentParser(prog="run.py bench", description="Chạy bộ Cypher trên Neo4j riêng của legal_knowledge_graph")
     parser.add_argument("--source", choices=sorted(SOURCES), default="samples",
                          help="samples = regression 17 mẫu (assert số dòng); benchmark = minh hoạ trên data thật "
                               "(chỉ đo); scenarios = 20 case dễ->khó trên data thật (assert số dòng + P/R/F1 khi có ground-truth)")

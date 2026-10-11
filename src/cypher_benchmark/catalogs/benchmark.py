@@ -1,10 +1,10 @@
 """
 Bộ Cypher MINH HOẠ hiệu năng trên data THẬT (`data/clean/json/v2/`, 418 văn
-bản sau khi loại `_nghi_ngo/`) — KHÁC mục đích với `catalog.py`:
+bản sau khi loại `_nghi_ngo/`) — KHÁC mục đích với `samples.py`:
 
-- `catalog.py`  : assert đúng số dòng trên bộ 17 mẫu cố định — regression
+- `samples.py`  : assert đúng số dòng trên bộ 17 mẫu cố định — regression
   test cho cơ chế validate/build/query.
-- `benchmark_catalog.py` (file này): KHÔNG assert số dòng cố định
+- `benchmark.py` (file này): KHÔNG assert số dòng cố định
   (`expected_rows=None` ở mọi câu) — chỉ đo thời gian thật + đọc PROFILE thật
   trên graph thật, để xem hình dạng hiệu năng theo từng loại truy vấn.
 
@@ -18,7 +18,7 @@ chỉ có việc CHỌN câu hỏi nào để hỏi là chưa qua thẩm định
 
 from __future__ import annotations
 
-from .catalog import Query, hybrid_expand_cypher
+from ..query import Query, hybrid_expand_cypher
 
 QUERIES: list[Query] = [
     # ---- Nhóm 1: phân bố node (distribution) ----
