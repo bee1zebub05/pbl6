@@ -8,9 +8,59 @@
   box-sizing: border-box;
 }
 
+.chat-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
 .chat-header h1 {
   font-size: 1.25rem;
   margin: 0 0 4px;
+}
+
+.new-chat {
+  flex-shrink: 0;
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  background: white;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.new-chat:disabled {
+  cursor: not-allowed;
+  color: #9ca3af;
+}
+
+.answer {
+  margin: 0;
+}
+
+.msg-direct {
+  background: #ecfdf5;
+  color: #064e3b;
+}
+
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  max-height: 320px;
+  margin: 8px 0;
+}
+
+.meta {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin: 6px 0 0;
 }
 
 .muted {
@@ -95,24 +145,6 @@
   background: #eff6ff;
 }
 
-.clarify-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 6px 4px;
-  font-size: 0.85rem;
-}
-
-.clarify-cancel {
-  border: none;
-  background: none;
-  color: #2563eb;
-  cursor: pointer;
-  font-size: 0.85rem;
-  text-decoration: underline;
-  padding: 0;
-}
-
 .rows-table {
   border-collapse: collapse;
   width: 100%;
@@ -129,6 +161,10 @@
 
 .rows-table th {
   background: #e5e7eb;
+}
+
+.cypher-detail {
+  margin-top: 8px;
 }
 
 .cypher-detail summary {
@@ -160,21 +196,6 @@
 .badge-warn {
   background: #fde68a;
   color: #78350f;
-}
-
-.retrieval-detail {
-  margin-top: 8px;
-  border-top: 1px dashed #d1d5db;
-  padding-top: 8px;
-}
-
-.retrieval-detail summary {
-  cursor: pointer;
-  font-size: 0.8rem;
-  color: #4b5563;
-  display: flex;
-  align-items: center;
-  gap: 6px;
 }
 
 .retrieval-list {

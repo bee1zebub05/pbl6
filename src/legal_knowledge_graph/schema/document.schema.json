@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://pbl6.local/legal_knowledge_graph/document.schema.json",
   "title": "Legal Knowledge Graph Document Mapping",
-  "description": "Một file JSON = một văn bản (map 1-1 từ data/clean/text_final/*.txt). Người map chỉ điền giá trị THÔ (chuỗi in trên văn bản) — mọi khoá chuẩn hoá (normalizedNumber, orgId, contentId, articleId, personId) do core/build.py tự suy ra, KHÔNG được tự điền trừ khi dùng idOverride.",
+  "description": "Một file JSON = một văn bản (map 1-1 từ data/clean/text_final/*.txt). Người map chỉ điền giá trị THÔ (chuỗi in trên văn bản) — mọi khoá chuẩn hoá (normalizedNumber, orgId, contentId, articleId, personId) do core/ingest/graph_model.py (qua core/normalize.py) tự suy ra, KHÔNG được tự điền trừ khi dùng idOverride.",
   "type": "object",
   "required": ["schemaVersion", "document", "organization"],
   "additionalProperties": false,

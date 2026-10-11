@@ -33,3 +33,23 @@ jsonschema>=4.0
 # Phục vụ frontend/ (React) — xem src/legal_knowledge_graph/core/api/app.py.
 fastapi>=0.115.0
 uvicorn[standard]>=0.30.0
+
+# --- chatbot LangGraph cho legal_knowledge_graph (core/chat/) ---
+# Ghim chính xác: các bản đã phát hành >= 2 tuần, kiểm tương thích ngày
+# 09/10/2026 (pip check sạch, không đổi google-genai/pydantic/fastapi/neo4j).
+# langchain-google-genai 4.4.0 cần google-genai>=2.20,<3 — khớp mục trên.
+langchain-core==1.6.5
+langgraph==1.2.12
+langgraph-checkpoint==4.2.0
+langchain-google-genai==4.4.0
+langsmith==0.14.1
+# Provider LLM / embedding chuẩn OpenAI API (LKG_LLM_PROVIDER=openai_compatible).
+# Kiểm ngày 11/10/2026: 1.6.7 / 1.7.0 đòi langchain-core >= 1.6.6 / 1.6.8 (xung
+# đột ghim ở trên); 1.6.6 cần langchain-core>=1.6.4. openai và regex (phụ thuộc
+# của tiktoken) ghim bản >= 2 tuần thay vì bản mới nhất pip tự chọn.
+langchain-openai==1.6.6
+openai==3.19.2
+regex==2026.9.10
+
+# --- kiểm thử (src/legal_knowledge_graph/tests/) ---
+pytest==9.1.1

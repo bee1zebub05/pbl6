@@ -1,89 +1,64 @@
 """
-FastAPI mỏng cho chat UI (frontend/) — chỉ 1 việc: nhận câu hỏi, gọi thật
-core/nlq/pipeline.ask(), trả JSON. KHÔNG tự thêm logic nghiệp vụ ở đây.
+FastAPI mỏng cho chat UI (frontend/) — nhận câu hỏi, gọi ChatService
+(core/chat/), trả JSON. Không có logic nghiệp vụ ở đây.
 
-Lớp bắt lỗi quan trọng nhất ở module này: pipeline.ask() chỉ tự bọc 3 loại
-lỗi thành NlqResult (GeminiCallError, ResolutionFailed, TemplateParamError)
-— một lỗi hạ tầng (Neo4j mất kết nối, timeout mạng...) sẽ ném thẳng ra
-ngoài ask(), chưa được bắt ở đâu cả. Handler /api/chat và exception_handler
-toàn cục dưới đây là nơi chặn lỗi đó lại, luôn trả JSON {"error": "..."},
-không bao giờ để lộ traceback thô ra response.
+Lỗi trong graph đã được node tự bọc thành kind="error"; handler dưới đây và
+exception_handler toàn cục chỉ là lưới an toàn cuối cho lỗi ngoài graph,
+luôn trả JSON {"error": "..."} và không để lộ traceback ra response.
 """
 
 from __future__ import annotations
 
 import logging
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field
 
-from ..nlq import pipeline
+from .. import config
+from ..chat.container import get_chat_service
+from ..chat.models import ChatResponse
 
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="legal_knowledge_graph chat API")
+@asynccontextmanager
+async def lifespan(_app: FastAPI):
+    # Dựng chatbot ngay khi server khởi động: cấu hình LLM / embedding sai thì
+    # server không lên và báo lỗi rõ, thay vì lỗi 500 ở câu hỏi đầu tiên.
+    get_chat_service()
+    yield
 
 
-def _error_response(exc: Exception, context: str) -> JSONResponse:
-    """Log đầy đủ exception phía server (traceback, để debug được thật),
-    trả message CHUNG CHUNG cho client — không bao giờ đưa chi tiết lỗi
-    nội bộ (đường dẫn, message driver Neo4j...) ra ngoài response."""
+app = FastAPI(title="legal_knowledge_graph chat API", lifespan=lifespan)
 
-    logger.exception(context)
-    return JSONResponse(status_code=500, content={"error": context})
-
-# Chỉ mở cho Vite dev server chạy local — demo/prototype, không phải service
-# public. Mở rộng origin ở đây nếu sau này deploy nơi khác.
+# Origin lấy từ LKG_CORS_ORIGINS (mặc định chỉ Vite dev server chạy local).
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=config.CORS_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 
-class ResumeIn(BaseModel):
-    """Ngữ cảnh vòng hỏi-lại — FE gửi lại NGUYÊN VẸN những gì lượt trước
-    trả về trong `missing_param`/`raw_params` (xem pipeline.PendingClarification).
-    Backend không tự lưu gì, không có session id nào cả (stateless)."""
+def _error_response(context: str) -> JSONResponse:
+    """Log đầy đủ phía server, trả message chung chung cho client."""
 
-    template: str
-    raw_params: dict[str, str]
-    missing_param: str
-    rounds: int = 0
+    logger.exception(context)
+    return JSONResponse(status_code=500, content={"error": context})
 
 
 class ChatRequest(BaseModel):
-    question: str = Field(min_length=1, description="Câu hỏi tiếng Việt tự nhiên")
-    resume: ResumeIn | None = Field(
-        default=None, description="Có khi đây là câu trả lời cho 1 lượt hỏi-lại trước đó"
-    )
-
-
-class ChatResponse(BaseModel):
-    kind: str
-    template: str | None = None
-    cypher: str | None = None
-    params: dict | None = None
-    rows: list[dict] | None = None
-    elapsed_ms: float | None = None
-    reason: str | None = None
-    confidence: float | None = None
-    missing_param: str | None = None
-    candidates: list[str] | None = None
-    raw_params: dict | None = None
-    correction_attempts: int = 0
-    retrieval: list[dict] | None = None
-    retrieval_reason: str | None = None
+    question: str = Field(min_length=1, max_length=config.CHAT_MAX_QUESTION_CHARS,
+                          description="Câu hỏi tiếng Việt tự nhiên")
+    thread_id: str | None = Field(default=None, max_length=64,
+                                  description="Mã hội thoại; bỏ trống để bắt đầu hội thoại mới")
 
 
 @app.exception_handler(Exception)
 async def unhandled_exception_handler(request: Request, exc: Exception):
-    # Lưới an toàn cuối cùng — bất kỳ lỗi nào lọt qua handler bên dưới
-    # (kể cả lỗi framework) vẫn trả JSON nhất quán, không trắng trang/HTML.
-    return _error_response(exc, "Lỗi nội bộ")
+    return _error_response("Lỗi nội bộ")
 
 
 @app.get("/api/health")
@@ -93,20 +68,11 @@ def health() -> dict:
 
 @app.post("/api/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
-    # def thường (không async): Starlette tự chạy trong threadpool nên
-    # không block event loop — ask() là I/O đồng bộ (gọi Gemini + Neo4j).
-    resume = (
-        pipeline.PendingClarification(
-            template=req.resume.template,
-            raw_params=req.resume.raw_params,
-            missing_param=req.resume.missing_param,
-            rounds=req.resume.rounds,
-        )
-        if req.resume is not None
-        else None
-    )
+    # def thường (không async): Starlette chạy trong threadpool, không block
+    # event loop — ask() là I/O đồng bộ (Gemini + Neo4j).
     try:
-        result = pipeline.ask(req.question, resume=resume)
-    except Exception as exc:
-        return _error_response(exc, "Lỗi khi xử lý câu hỏi")
-    return ChatResponse(**result.__dict__)
+        return get_chat_service().ask(req.question, thread_id=req.thread_id)
+    except ValueError as exc:
+        return JSONResponse(status_code=422, content={"error": str(exc)})
+    except Exception:
+        return _error_response("Lỗi khi xử lý câu hỏi")

@@ -1,20 +1,21 @@
 # Kho văn bản đã OCR
 
-## Dùng cái nào
+Cập nhật: 09/10/2026.
 
-**`text_final/` — 455 văn bản. Đây là kho chuẩn, dùng cái này.**
+## Kho chuẩn
 
-`text_clean_gemma/` là bản cũ, giữ lại vì `data/kg/documents.jsonl` và
-`src/vanban/config.py` còn trỏ vào nó. Khi chuyển sang `text_final` thì sửa
-`config.py` và chạy lại `python run.py kg docs`.
+`text_final/` gồm **454 văn bản** (455 trước khi loại `0158`) và là nguồn duy nhất của cả
+hai pipeline. `text_clean_gemma/` là bản hiệu đính lượt một (460 văn bản), đã bỏ khỏi repo.
+`src/vanban/core/config.py` trỏ tới `text_final`; riêng `data/kg/` của pipeline tự động
+vẫn được dựng từ bản cũ, cần chạy lại `python run.py kg docs` để đồng bộ.
 
-| | `text_clean_gemma` | **`text_final`** |
+| | `text_clean_gemma` (cũ) | `text_final` |
 |---|---|---|
-| Số văn bản | 460 | **455** |
-| Đọc được người ký | ~50% | **99%** |
-| Đọc được ngày ban hành | ~89% | **100%** |
-| Watermark quảng cáo | còn | **đã dọn** |
-| Bản bị website gắn nhầm | còn | **đã loại** |
+| Số văn bản | 460 | 454 |
+| Đọc được người ký | ~50% | 99% |
+| Đọc được ngày ban hành | ~89% | 100% |
+| Watermark quảng cáo | còn | đã dọn |
+| Bản website gắn nhầm file | còn | đã loại |
 
 ## `text_final` được dựng thế nào
 
@@ -93,7 +94,7 @@ trên và sinh ra **một** dấu duy nhất. Dấu sắc trong `é` chỉ là d
 
 ### Đối chiếu ảnh gốc
 
-`data/raw/pdf/` (bản local, không nằm trong repo) có đủ 457 PDF gốc. PDF là ảnh scan
+`data/raw/pdf/` từng có đủ 457 PDF gốc; thư mục này hiện rỗng trên máy chứa repo, nên việc đối chiếu cần lấy lại PDF từ bản làm việc ngoài repo hoặc từ website. PDF là ảnh scan
 thuần, không có lớp text, nhưng render ra ảnh rồi đọc thì rõ hoàn toàn:
 
 ```python
@@ -109,19 +110,15 @@ trang 9 so từng chữ **khớp 100%**. Măng-sét thật là
 ### Chỗ cần rà lại
 
 Những chỗ phải suy ra từ ngoài trang giấy đã ghi trong `TIEN_DO_SUA_OCR.md` (bản
-local). Đáng chú ý: `0254` ngày ban hành mâu thuẫn ngay trong văn bản (trang 17 ghi
+local, ngoài repo). Đáng chú ý: `0254` ngày ban hành mâu thuẫn ngay trong văn bản (trang 17 ghi
 `21/8/2023`, trang 3 và 16 ghi `24`) · `0193` số hiệu lệch giữa trang 1 (`150`) và
 phụ lục (`450`) · `0060` `01/NQ-PHBK` có thể là `NQ-ĐHBK` hoặc `NQ-HĐT` · `0320`
 URL chú thích dựng lại từ chuỗi vỡ · `0463` còn 2 dòng rác chưa đọc được.
 
 ### Sửa tiếp ở đâu
 
-Bản trong repo này được sinh từ `data/processed/text_final` ở **bản local, ngoài
-repo**. Hai bản **không tự đồng bộ**. Sửa tiếp thì sửa ở bản local rồi copy đè:
-
-```
-cp -r data/processed/text_final/. pbl6/data/clean/text_final/
-```
+Thư mục này trong repo là bản chính thức. Bản làm việc ngoài repo (nếu còn) không tự
+đồng bộ; mọi chỉnh sửa phải được sao chép vào `data/clean/text_final/` và commit.
 
 ## Chất lượng đo được
 
@@ -145,7 +142,7 @@ ký là **đúng**, không phải lỗi OCR.
 
 ## Năm văn bản đã loại — website nguồn gắn nhầm file
 
-Xem `data/../processed/_cach_ly_ban_sai/` ở bản local. Đã đối chiếu md5 toàn bộ PDF
+Các bản này được cách ly trong `processed/_cach_ly_ban_sai/` của bản làm việc (không còn trong repo). Đã đối chiếu md5 toàn bộ PDF
 rồi **mở từng file đọc tận mắt**:
 
 | id | Mục lục ghi | PDF thật là | Trùng với |

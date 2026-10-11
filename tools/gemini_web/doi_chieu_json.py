@@ -3,7 +3,7 @@
 
     python tools/gemini_web/doi_chieu_json.py 0227
 
-  Tang 1 HOP LE   — parse duoc khong, qua core/validate.py cua ductran khong.
+  Tang 1 HOP LE   — parse duoc khong, qua core/ingest/validate.py cua ductran khong.
   Tang 2 DAY DU   — bat duoc may Dieu tren tong so Dieu that trong .txt, than
                     Dieu co chep nguyen van hay bi tom tat, co tach dung phan
                     ban hanh kem theo vao normativeContents khong.
@@ -79,7 +79,7 @@ def main() -> int:
     print("=" * 74)
 
     # ---------- TANG 1 ----------
-    from legal_knowledge_graph.core.validate import load_and_validate
+    from legal_knowledge_graph.core.ingest.validate import load_and_validate
     kq = load_and_validate(js)
     print("\nTANG 1 — HOP LE")
     print("   schema + kiem cheo: %s" % ("DAT" if kq.ok else "TRUOT"))
