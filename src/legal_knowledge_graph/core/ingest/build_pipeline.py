@@ -67,7 +67,7 @@ def main(argv: list[str] | None = None) -> int:
     with db.session() as session:
         _sanity(session)
 
-    print("\nSẵn sàng: python run.py query --source samples|benchmark")
+    print("\nSẵn sàng: python run.py bench --source samples|benchmark|scenarios  (ở gốc repo)")
     if dup:
         print(f"Lưu ý: {len(dup)} normalizedNumber bị trùng ở bước 1 — xem cảnh báo phía trên.")
     return 0

@@ -223,8 +223,8 @@ MATCH (d:Document {isStub: false}) RETURN d.status, count(*) ORDER BY count(*) D
 
 ## 4. Benchmark hiệu năng
 
-17 câu Cypher (`core/benchmark/benchmark_catalog.py`), chạy bằng `python
-run.py lkg query --source benchmark` trên đúng graph mô tả ở §3.
+17 câu Cypher (`src/cypher_benchmark/catalogs/benchmark.py`), chạy bằng
+`python run.py bench --source benchmark` trên đúng graph mô tả ở §3.
 `runner.py` chạy mỗi câu hai lượt: một lượt đo thời gian bằng
 `time.perf_counter()`, một lượt `PROFILE` để xác nhận có dùng
 index/fulltext hay quét toàn bộ.

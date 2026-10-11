@@ -2,7 +2,7 @@
 Kết nối Neo4j của module — chỗ DUY NHẤT tạo driver và chạy Cypher.
 
   Neo4jConnection  một driver sống suốt tiến trình (chatbot, API)
-  session()        mở rồi đóng driver mỗi lần (lệnh CLI chạy một lần: nạp, benchmark, backfill)
+  session()        mở rồi đóng driver mỗi lần (lệnh CLI chạy một lần: nạp, backfill embedding)
   run_in_session   chạy Cypher ĐỌC có timeout thật
   explain          kiểm cú pháp/plan bằng EXPLAIN, không đụng dữ liệu
   run_batched      chạy Cypher GHI theo lô

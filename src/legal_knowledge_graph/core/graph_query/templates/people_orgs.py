@@ -94,17 +94,17 @@ TEMPLATES: list[Template] = [
         description="Cơ cấu tổ chức quanh một cơ quan: đơn vị trực thuộc và các cấp quản lý phía trên.",
         nl_examples=("Đại học Đà Nẵng gồm những đơn vị trực thuộc nào trong dữ liệu?",
                      "Trường Đại học Bách khoa trực thuộc cơ quan nào?"),
-        cypher=f"""
-            MATCH (o:Organization {{orgId: $orgId}})
-            CALL (o) {{
+        cypher="""
+            MATCH (o:Organization {orgId: $orgId})
+            CALL (o) {
                 OPTIONAL MATCH (child:Organization)-[:PART_OF]->(o)
                 RETURN collect(child.name) AS subUnits
-            }}
-            CALL (o) {{
+            }
+            CALL (o) {
                 OPTIONAL MATCH up = (o)-[:PART_OF*1..4]->(:Organization)
                 WITH up ORDER BY length(up) DESC LIMIT 1
                 RETURN CASE WHEN up IS NULL THEN [] ELSE [n IN tail(nodes(up)) | n.name] END AS parents
-            }}
+            }
             RETURN o.name AS organization, subUnits, parents
         """,
         params=(P_ORG,), example_params={"orgId": "Đại học Đà Nẵng"},

@@ -29,7 +29,6 @@ Kiểm tra Neo4j sống: `docker ps --filter name=neo4j-pbl6-lkg`. Browser tại
 | `check-collisions` | `check-collisions [--dir DIR]` | Dò `normalizedNumber` bị trùng |
 | `build` | `build [--dir DIR] [--wipe]` | Nạp JSON vào Neo4j; `--wipe` xoá sạch trước khi nạp |
 | `all` | `all --dir DIR [--no-wipe]` | 1 lệnh: check-collisions → validate → build --wipe → sanity |
-| `query` | `query --source samples\|benchmark\|scenarios` | Chạy bộ Cypher kiểm tra — xem lưu ý bên dưới |
 | `ask` | `ask "<câu hỏi>"` hoặc `ask --template TPL_X --param k=v` | Hỏi chatbot một câu, hoặc chạy thủ công một template |
 | `chat` | `chat [--verbose]` | Hội thoại nhiều lượt với chatbot trong terminal |
 | `templates` | `templates [--stdout]` | Sinh lại `docs/TEMPLATES.md` (danh mục 68 template) |
@@ -37,11 +36,13 @@ Kiểm tra Neo4j sống: `docker ps --filter name=neo4j-pbl6-lkg`. Browser tại
 | `embed-articles` | `embed-articles [--dry-run] [--reset] [--verbose]` | Backfill embedding cho Article (GraphRAG) — chạy tay, tốn quota embedding, không nằm trong `build`/`all`; `--reset` khi đổi model hoặc số chiều embedding |
 | `serve-api` | `serve-api [--port PORT] [--reload]` | Chạy backend chat UI |
 
-**`query --source samples`** chỉ đúng khi Neo4j đang chứa data từ
+Bộ đo Cypher nằm ngoài module, ở `src/cypher_benchmark/`, chạy bằng
+`python run.py bench --source samples|benchmark|scenarios`.
+**`bench --source samples`** chỉ đúng khi Neo4j đang chứa data từ
 `samples/` (17 văn bản). Muốn kiểm cơ chế:
 ```powershell
 python run.py lkg build --dir src/legal_knowledge_graph/samples --wipe
-python run.py lkg query --source samples      # kỳ vọng 16/16 PASS
+python run.py bench --source samples          # kỳ vọng 16/16 PASS
 python run.py lkg all --dir data/clean/json/v2   # nạp lại data thật
 ```
 

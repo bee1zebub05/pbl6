@@ -2,14 +2,14 @@
 20 kịch bản Cypher chạy trên DATA THẬT (`data/clean/json/v2`, 403 Document
 thật + 8.814 Article) — KHÁC mục đích với 2 catalog kia:
 
-- `catalog.py`           : regression cơ chế trên `samples/` (17 mẫu cố định).
-- `benchmark_catalog.py` : đo hiệu năng thuần trên data thật, tự nhận CHƯA
-  qua thẩm định là đại diện đúng nhu cầu truy vấn thật.
-- File này (`scenario_catalog.py`): 20 câu hỏi đã CHỌN LỌC theo góc nhìn
+- `samples.py`   : regression cơ chế trên `samples/` (17 mẫu cố định).
+- `benchmark.py` : đo hiệu năng thuần trên data thật, tự nhận CHƯA qua thẩm
+  định là đại diện đúng nhu cầu truy vấn thật.
+- File này (`scenarios.py`): 20 câu hỏi đã CHỌN LỌC theo góc nhìn
   người dùng thật (giảng viên/sinh viên/phụ huynh/cán bộ quản lý dữ liệu),
   sắp theo 5 mức độ phức tạp Cypher tăng dần (dễ -> khó), mỗi câu có ground
   truth (`expected_ids`) khi kết quả xác định rõ ràng — dùng để CHẤM ĐIỂM
-  (precision/recall/F1, xem `runner.py::_score_ids()`), không chỉ đếm dòng.
+  (precision/recall/F1, xem `scoring.score_ids()`), không chỉ đếm dòng.
 
 Phần lớn số liệu/Cypher lấy lại từ 2 nguồn ĐÃ VERIFY THẬT thay vì bịa case
 mới: `docs/GRAPHREPORT.md` (số liệu graph) và `docs/EXAMPLE.md` (20 câu hỏi mẫu theo
@@ -20,14 +20,14 @@ GIỚI HẠN CÓ CHỦ ĐÍCH: Mức 4 (fulltext/hybrid) và phần ranking/dist
 của Mức 5 để `expected_ids=None` — độ liên quan của kết quả fulltext/hybrid
 vốn cần NGƯỜI thẩm định thủ công (câu nào thực sự "liên quan" là phán đoán
 chủ quan, không phải sự thật khách quan như 1 cạnh quan hệ có tồn tại hay
-không) — KHÔNG tự bịa ground-truth chưa qua thẩm định. `_score_ids()` đã
+không) — KHÔNG tự bịa ground-truth chưa qua thẩm định. `score_ids()` đã
 sẵn sàng nhận `expected_ids` cho các case này khi được gán tay sau này
 (lúc thật sự triển khai so sánh BM25), không cần sửa cơ chế chấm điểm.
 """
 
 from __future__ import annotations
 
-from .catalog import Query, hybrid_expand_cypher
+from ..query import Query, hybrid_expand_cypher
 
 QUERIES: list[Query] = [
     # ============================================================
@@ -94,7 +94,7 @@ QUERIES: list[Query] = [
 
     # Tình huống (phụ huynh): "Trường có văn bản nào về tuyển sinh không?"
     # — lọc theo lĩnh vực nghiệp vụ (Topic.name, KHÔNG có index — chỉ
-    # topicId có, xem catalog.py Q2 cùng khuôn).
+    # topicId có, xem samples.py Q2 cùng khuôn).
     Query(
         name="S03_docs_by_topic",
         cypher="""
@@ -102,7 +102,7 @@ QUERIES: list[Query] = [
             RETURN d.documentNumber AS documentNumber, d.title AS title
         """,
         expected_rows=16,
-        kind="distribution",  # Topic.name không index (chỉ topicId có) — cùng lý do với catalog.py Q2
+        kind="distribution",  # Topic.name không index (chỉ topicId có) — cùng lý do với samples.py Q2
         note="16 văn bản thuộc lĩnh vực Tuyển sinh — khớp EXAMPLE.md câu 3.",
         id_field="documentNumber",
         expected_ids=frozenset({
@@ -274,7 +274,7 @@ QUERIES: list[Query] = [
         """,
         expected_rows=14,
         kind="lookup",
-        note="14 văn bản bị AMENDS một phần nhưng vẫn CON_HIEU_LUC — cùng khuôn catalog.py Q5, đo trên data thật.",
+        note="14 văn bản bị AMENDS một phần nhưng vẫn CON_HIEU_LUC — cùng khuôn samples.py Q5, đo trên data thật.",
         id_field="documentNumber",
         expected_ids=frozenset({
             "33/2024/QH15", "10/2016/TT-BGDĐT", "2231/QĐ-ĐHBK", "55/2011/NĐ-CP", "25/2019/TT-BGDĐT",
@@ -298,7 +298,7 @@ QUERIES: list[Query] = [
         note="Phân bố độ sâu chuỗi thật: 1 bước 250 · 2 bước 44 · 3 bước 7 · 4 bước 2 — khớp GRAPHREPORT.md §3.",
         # Đây là câu đếm/group theo depth, không phải danh sách ID để chấm
         # điểm recall — giữ id_field/expected_ids=None như các câu sanity/
-        # distribution khác của catalog.py.
+        # distribution khác của samples.py.
     ),
 
     # ============================================================

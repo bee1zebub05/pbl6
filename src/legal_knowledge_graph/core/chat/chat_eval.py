@@ -18,8 +18,8 @@ import argparse
 import uuid
 from dataclasses import dataclass, field
 
-from ..chat.container import build_chat_service
-from ..chat.models import ChatResponse
+from .container import build_chat_service
+from .models import ChatResponse
 
 
 @dataclass(frozen=True)

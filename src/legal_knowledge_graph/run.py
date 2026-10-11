@@ -18,10 +18,9 @@ if sys.platform == "win32":
     sys.stderr.reconfigure(encoding="utf-8")
 
 from core.ingest import build, build_pipeline, collision_check, validate  # noqa: E402
+from core.chat import chat_eval  # noqa: E402
 from core.chat import cli as chat_cli  # noqa: E402
 from core.graph_query import article_embeddings  # noqa: E402
-from core.benchmark import chat_eval  # noqa: E402
-from core.benchmark import runner as query_runner  # noqa: E402
 
 
 def main() -> int:
@@ -37,15 +36,10 @@ def main() -> int:
     p_build.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
     p_build.add_argument("--wipe", action="store_true", help="Xoá sạch graph trước khi nạp")
 
-    p_query = sub.add_parser("query", help="Chạy bộ Cypher test + báo cáo chất lượng/hiệu năng")
-    p_query.add_argument("--source", choices=["samples", "benchmark", "scenarios"], default="samples",
-                          help="samples = regression 17 mẫu; benchmark = minh hoạ trên data thật; "
-                               "scenarios = 20 case dễ->khó trên data thật (assert + P/R/F1)")
-    p_query.add_argument("--verbose", action="store_true", help="In vài dòng kết quả mẫu mỗi câu")
-
     p_collisions = sub.add_parser("check-collisions", help="Báo cáo normalizedNumber bị trùng bởi >=2 file")
     p_collisions.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
 
+    # Bộ đo Cypher (regression/benchmark/scenarios) đã tách ra src/cypher_benchmark/: `python run.py bench`.
     p_all = sub.add_parser("all", help="Chạy trọn: check-collisions -> validate -> build -> sanity (1 lệnh)")
     p_all.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
     p_all.add_argument("--no-wipe", action="store_true", help="Không xoá graph cũ trước khi nạp (mặc định LÀ xoá)")
@@ -93,12 +87,6 @@ def main() -> int:
         if args.wipe:
             argv += ["--wipe"]
         return build.main(argv)
-
-    if args.command == "query":
-        argv = ["--source", args.source]
-        if args.verbose:
-            argv += ["--verbose"]
-        return query_runner.main(argv)
 
     if args.command == "check-collisions":
         argv = ["--dir", str(args.dir)] if args.dir else []

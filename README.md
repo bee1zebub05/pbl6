@@ -75,12 +75,14 @@ PBL6/
 │   │   ├── kg/                   Xây graph theo quy tắc (Bước 0–5)
 │   │   ├── rag/                  Ba hệ truy hồi BM25 / KG / Hybrid
 │   │   └── eval/                 Khối đánh giá §6
-│   └── legal_knowledge_graph/    Pipeline gán tay
-│       ├── schema/, reference/   JSON Schema và danh mục chuẩn (topic, nhóm đối tượng, cơ quan, alias)
-│       ├── samples/              17 văn bản mẫu cho kiểm thử hồi quy
-│       ├── core/                 ingest (validate, build), benchmark, graph_query, chat (LangGraph), api
-│       ├── frontend/             Giao diện chat (React + Vite)
-│       └── tests/                Kiểm thử offline của chatbot (pytest)
+│   ├── legal_knowledge_graph/    Pipeline gán tay
+│   │   ├── schema/, reference/   JSON Schema và danh mục chuẩn (topic, nhóm đối tượng, cơ quan, alias)
+│   │   ├── samples/              17 văn bản mẫu cho kiểm thử hồi quy
+│   │   ├── core/                 ingest (validate, build), graph_query, chat (LangGraph), api
+│   │   ├── frontend/             Giao diện chat (React + Vite)
+│   │   └── tests/                Kiểm thử offline của chatbot (pytest)
+│   └── cypher_benchmark/         Bộ đo Cypher trên graph gán tay: regression, hiệu năng,
+│                                 20 kịch bản có P/R/F1 (`python run.py bench`)
 │
 ├── tools/                        Công cụ chạy theo đợt, ngoài luồng `run.py`
 │   ├── gemini_web/               Hiệu đính hàng loạt qua giao diện web Gemini; dựng và đối chiếu JSON
@@ -144,7 +146,7 @@ Pipeline gán tay:
 
 ```powershell
 python run.py lkg all              # kiểm tra trùng → validate → nạp Neo4j → kiểm tra nhanh
-python run.py lkg query --source benchmark
+python run.py bench --source benchmark   # bộ đo Cypher: samples | benchmark | scenarios
 python run.py lkg ask "<câu hỏi>"
 python run.py lkg chat              # hội thoại nhiều lượt trong terminal
 python run.py lkg chat-eval
