@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0381_4897_QĐ-ĐHĐN_Ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4897/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/11/2024",
+    "effectiveDate": "27/11/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng, quy định về vị trí pháp lý, chức năng, nhiệm vụ, cơ cấu tổ chức và hoạt động của Hội đồng.",
+    "idOverride": null,
+    "targetGroups": [
+      "Hội đồng và thành viên hội đồng",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo và Đảm bảo chất lượng giáo dục",
+    "Ban Khoa học và Hợp tác Quốc tế",
+    "Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng",
+    "Hội đồng Giáo sư cơ sở ĐHĐN",
+    "Ban Tổ chức Cán bộ",
+    "Văn phòng ĐHĐN",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế tổ chức và hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về vị trí pháp lý, chức năng, nhiệm vụ, tổ chức\nvà hoạt động của Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng (ĐHĐN).\n2. Quy chế này áp dụng đối với các thành viên Hội đồng Khoa học và\nĐào tạo ĐHĐN (sau đây gọi tắt là Hội đồng), các trường đại học thành viên, các\nđơn vị thuộc và trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Vị trí pháp lý và chức năng, nhiệm vụ của Hội đồng",
+          "text": "Điều 2. Vị trí pháp lý và chức năng, nhiệm vụ của Hội đồng\n1. Hội đồng do Giám đốc ĐHĐN quyết định thành lập, giải thể, kiện\ntoàn, thay thế, bổ sung thành viên và có nhiệm kỳ theo nhiệm kỳ của Giám đốc\nĐHĐN.\n2. Hội đồng thực hiện các nhiệm vụ theo quy định tại điểm b khoản 1\nĐiều 11 Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN và\ntư vấn cho Giám đốc ĐHĐN về:\na) Chiến lược, chính sách, giải pháp trong lĩnh vực đào tạo, khoa học công\nnghệ;\nb) Nhân sự Hội đồng Giáo sư cơ sở ĐHĐN;\nc) Việc thẩm định mở ngành đào tạo theo thẩm quyền và quy định hiện\nhành của Bộ Giáo dục và Đào tạo và của ĐHĐN;\nd) Các nội dung khác theo quy định pháp luật hiện hành và theo yêu cầu\ncủa Giám đốc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Cơ cấu tổ chức của Hội đồng",
+          "text": "Điều 3. Cơ cấu tổ chức của Hội đồng\n1. Thành phần Hội đồng: thực hiện theo quy định tại điểm a khoản 1\nĐiều 11 Nghị quyết số 08/NQ-HĐĐH.\n\n2. Hội đồng gồm có Chủ tịch, Phó Chủ tịch, 02 Ủy viên thường trực, 02\nThư ký và các thành viên (ủy viên) Hội đồng.\n- Chủ tịch Hội đồng là Giám đốc ĐHĐN;\n- Phó Chủ tịch Hội đồng là Phó Giám đốc ĐHĐN phụ trách đào tạo,\nnghiên cứu khoa học;\n- Ủy viên thường trực là Trưởng các ban: Ban Đào tạo và Đảm bảo chất\nlượng giáo dục, Ban Khoa học và Hợp tác quốc tế;\n- Thư ký Hội đồng là đại diện lãnh đạo các ban: Ban Đào tạo và Đảm bảo\nchất lượng giáo dục, Ban Khoa học và Hợp tác quốc tế.\n3. Thường trực Hội đồng gồm: Chủ tịch, Phó Chủ tịch và các Ủy viên\nthường trực.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Trách nhiệm, quyền hạn của thành viên Hội đồng",
+          "text": "Điều 4. Trách nhiệm, quyền hạn của thành viên Hội đồng\n1. Chủ tịch Hội đồng chỉ đạo và điều hành các hoạt động của Hội đồng\ntheo quy định của Quy chế này; triệu tập và chủ trì các phiên họp của Hội đồng;\nký các văn bản của Hội đồng. Phó Chủ tịch Hội đồng điều hành họp Hội đồng\nkhi Chủ tịch Hội đồng vắng mặt và được Chủ tịch Hội đồng ủy quyền.\n2. Thường trực Hội đồng giải quyết các công việc của Hội đồng theo ủy\nquyền của Hội đồng, đảm bảo duy trì các hoạt động thường xuyên và đột xuất\ncủa Hội đồng giữa các kỳ họp thường kỳ của Hội đồng.\n3. Hội đồng ủy quyền cho Thường trực Hội đồng quyết định các nội dung\nthuộc thẩm quyền của Hội đồng về công tác tuyển sinh, đào tạo đối với các đơn\nvị đào tạo thuộc, trực thuộc ĐHĐN; thẩm định việc mở ngành đào tạo và báo\ncáo Hội đồng ở phiên họp kế tiếp.\n4. Thư ký Hội đồng chịu trách nhiệm chuẩn bị tài liệu họp, ghi biên bản,\ndự thảo thông báo kết luận các phiên họp; chuẩn bị các báo cáo có liên quan;\nquản lý, lưu trữ hồ sơ của Hội đồng và thực hiện các nhiệm vụ khác do Chủ tịch\nHội đồng giao.\n5. Thành viên Hội đồng có trách nhiệm chuẩn bị ý kiến trước phiên họp\ncủa Hội đồng, tham gia ý kiến bằng văn bản hay phát biểu tại cuộc họp, bỏ\nphiếu đối với các vấn đề cần phải biểu quyết theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Thành lập và kiện toàn Hội đồng",
+          "text": "Điều 5. Thành lập và kiện toàn Hội đồng\n1. Đầu nhiệm kỳ của Giám đốc ĐHĐN, Ban Đào tạo và Đảm bảo chất\nlượng giáo dục phối hợp với Ban Khoa học và Hợp tác quốc tế tham mưu cho\nGiám đốc ĐHĐN về nhân sự dự kiến tham gia Hội đồng. Sau khi có ý kiến của\nGiám đốc, Ban Tổ chức Cán bộ có trách nhiệm trình Giám đốc ĐHĐN xem xét,\nquyết định thành lập Hội đồng.\n\n2. Trường hợp Hội đồng bị khuyết hoặc không đảm bảo cơ cấu thành viên\ntheo quy định tại Điều 3 thì Ban Đào tạo và Đảm bảo chất lượng giáo dục phối\nhợp với Ban Khoa học và Hợp tác quốc tế tham mưu Giám đốc ĐHĐN xem xét,\nquyết định thay thế, bổ sung hoặc kiện toàn thành viên Hội đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức họp Hội đồng",
+          "text": "Điều 6. Tổ chức họp Hội đồng\n1. Hội đồng tổ chức họp định kỳ ít nhất 01 năm 01 lần. Phiên họp đột\nxuất của Hội đồng do Chủ tịch Hội đồng triệu tập. Phiên họp Hội đồng chỉ được\ntiến hành khi có tối thiểu 2/3 (hai phần ba) thành viên Hội đồng có mặt.\n2. Hội đồng làm việc theo nguyên tắc tập thể, quyết định theo đa số. Hình\nthức biểu quyết (giơ tay, phiếu kín, ý kiến trực tuyến) đối với mỗi nội dung do\nChủ tịch Hội đồng quyết định trong cuộc họp. Mỗi nội dung cần biểu quyết phải\nđược trên 1/2 tổng số thành viên Hội đồng đồng ý. Trường hợp số phiếu biểu\nquyết đồng ý đúng bằng 1/2 tổng số thành viên Hội đồng thì quyết định cuối\ncùng theo ý kiến của Chủ tịch Hội đồng hoặc Phó Chủ tịch được ủy quyền điều\nhành phiên họp.\n3. Trước mỗi phiên họp ít nhất 03 ngày, Thư ký Hội đồng chuẩn bị\nchương trình, nội dung họp báo cáo Chủ tịch Hội đồng hoặc Thường trực Hội\nđồng cho ý kiến trước khi gửi cho các thành viên Hội đồng.\n4. Khi cần thiết, Giám đốc ĐHĐN thành lập Tổ giúp việc của Hội đồng\nđể thực hiện thẩm định một số nội dung cần Hội đồng thông qua. Tổ giúp việc\nbáo cáo kết quả thẩm định cho Hội đồng hoặc Thường trực Hội đồng để xem xét\nquyết định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Kết quả họp Hội đồng",
+          "text": "Điều 7. Kết quả họp Hội đồng\n1. Kết quả họp Hội đồng được thể hiện bằng Thông báo kết luận sau mỗi\nphiên họp của Chủ trì phiên họp Hội đồng. Thư ký Hội đồng có trách nhiệm dự\nthảo, trình Chủ trì phiên họp Hội đồng ký ban hành Thông báo kết luận trong\nvòng 10 ngày sau ngày họp.\n2. Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị\nthuộc và trực thuộc ĐHĐN có trách nhiệm tổ chức triển khai thực hiện các nội\ndung trong Thông báo kết luận thuộc phạm vi, trách nhiệm của đơn vị mình.\nVăn phòng ĐHĐN và các ban chức năng liên quan có trách nhiệm theo dõi, đôn\nđốc thực hiện Thông báo kết luận và báo cáo kết quả cho Giám đốc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Kinh phí hoạt động của Hội đồng",
+          "text": "Điều 8. Kinh phí hoạt động của Hội đồng\n1. Kinh phí hoạt động thường xuyên của Hội đồng thực hiện theo quy\n\nđịnh của Nhà nước và Quy chế chi tiêu nội bộ hiện hành của ĐHĐN.\n2. Tùy theo nội dung công việc, Giám đốc ĐHĐN quyết định mức chi\ncủa Hội đồng trong các công việc cụ thể.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 9. Điều khoản thi hành\nHội đồng, Thường trực Hội đồng, các thành viên Hội đồng, các đơn vị, tổ\nchức và cá nhân có liên quan chịu trách nhiệm thi hành Quy chế này.\nTrong quá trình thực hiện, nếu có vấn đề phát sinh, vướng mắc, các thành\nviên Hội đồng và các đơn vị phản ánh về Thường trực Hội đồng để tổng hợp,\nbáo cáo Giám đốc ĐHĐN xem xét, quyết định./.\n\nĐẠI HỌC ĐÀ NẴNG",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động\ncủa Hội đồng Khoa học và Đào tạo Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên,",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên,\nThủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng, các đơn vị, tổ chức\nvà cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

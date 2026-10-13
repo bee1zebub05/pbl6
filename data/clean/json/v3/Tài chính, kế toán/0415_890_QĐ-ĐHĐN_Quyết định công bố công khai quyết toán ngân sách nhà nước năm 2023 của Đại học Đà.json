@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0415_890_QĐ-ĐHĐN_Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Đại học Đà.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "890/QĐ-ĐHĐN",
+    "title": "Quyết định Công bố công khai quyết toán ngân sách nhà nước năm 2023 của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/03/2025",
+    "effectiveDate": "12/03/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định công bố công khai số liệu quyết toán ngân sách nhà nước năm 2023 của Đại học Đà Nẵng bao gồm các phụ lục và thuyết minh đính kèm.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "61/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "90/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 90/2018/TT-BTC ngày 28/9/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng, Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng, Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1290/TB-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông báo số 1290/TB-BGDĐT ngày 30/9/2024 về thẩm tra quyết toán ngân sách năm 2023 của Bộ Giáo dục và Đào tạo cho Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "106/TB-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông báo số 106/TB-BGDĐT ngày 07/02/2024 về thẩm tra, xét duyệt quyết toán ngân sách năm 2023 (điều chỉnh) của Bộ Giáo dục và Đào tạo cho Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "534/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 534/QĐ-BGDĐT ngày 28/02/2025 của Bộ Giáo dục và Đào tạo về việc công khai quyết toán ngân sách năm 2023 của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "137/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 137/2017/TT-BTC ngày 25/12/2017 của Bộ Tài chính quy định xét duyệt, thẩm định, thông báo và tổng hợp quyết toán năm;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Tài chính",
+    "Hội đồng Đại học Đà Nẵng",
+    "Kho bạc Nhà nước",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố công khai số liệu quyết toán ngân sách nhà nước năm 2023",
+      "text": "Điều 1: Công bố công khai số liệu quyết toán ngân sách nhà nước năm 2023\ncủa Đại học Đà Nẵng (theo các phụ lục, phụ biểu đính kèm).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2: Quyết định có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng ban Ban Kế hoạch - Tài chính và Thủ",
+      "text": "Điều 3: Chánh Văn phòng, Trưởng ban Ban Kế hoạch - Tài chính và Thủ\ntrưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

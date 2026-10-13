@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0186_637_QĐ-ĐHĐN_Quyết định 637_QĐ-ĐHĐN Quy chế phục vụ cộng đồng đối với công chức, viên chức và n.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "637/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy chế phục vụ cộng đồng đối với công chức, viên chức và người lao động tại Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "21/02/2020",
+    "effectiveDate": "21/02/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy chế phục vụ cộng đồng đối với công chức, viên chức và người lao động tại Đại học Đà Nẵng nhằm nâng cao nhận thức, phát huy trách nhiệm đối với cộng đồng, đồng thời quy định các hình thức, quy trình, chính sách khen thưởng và cơ chế giám sát thực hiện.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định về kiểm định chất lượng cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "4047/TB-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông báo số 4047/TB-ĐHĐN ngày 29/11/2019 của Đại học Đà Nẵng về việc xây dựng quy chế phục vụ cộng đồng đối với sinh viên và cán bộ giảng viên, phục vụ công tác đảm bảo và kiểm định chất lượng theo Thông tư số 12/2017/TT-BGDĐT;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Công đoàn ĐHĐN",
+    "Ban Tổ chức Cán bộ",
+    "Ban Đảm bảo chất lượng giáo dục",
+    "Đoàn Thanh niên"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế phục vụ cộng đồng đối với công chức, viên chức và người lao động tại Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mục đích, ý nghĩa",
+          "text": "Điều 1. Mục đích, ý nghĩa\n1. Nâng cao nhận thức của công chức, viên chức và người lao động (CCVC-NLĐ) đối với cộng đồng và tích cực tham gia các hoạt động phục vụ cộng đồng (PVCĐ);\n2. Tạo điều kiện, cơ hội để CCVC-NLĐ được tiếp cận, giúp đỡ với những người gặp khó khăn về xã hội, y tế, kinh tế,...\n3. Phát huy vai trò, trách nhiệm của Đại học Đà Nẵng (ĐHĐN) đối với cộng đồng thông qua việc cung cấp các hoạt động PVCĐ. Xây dựng ĐHĐN trở thành một cơ sở giáo dục đại học có uy tín về PVCĐ tại Việt Nam cũng như trên thế giới.\n4. Hoạt động PVCĐ mang tính chất tình nguyện, ĐHĐN khuyến khích CCVC-NLĐ tham gia.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Phạm vi áp dụng",
+          "text": "Điều 2. Phạm vi áp dụng\nQuy chế này áp dụng cho toàn thể CCVC-NLĐ của ĐHĐN bao gồm các đơn vị thành viên, các đơn vị thuộc và trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Các hình thức hoạt động PVCĐ",
+          "text": "Điều 3. Các hình thức hoạt động PVCĐ\n1. Các hoạt động mang tính từ thiện:\n- Lớp học không đồng: Dạy kiến thức, kỹ năng, ngoại ngữ, tin học cho học sinh trường phổ thông, vùng sâu, vùng xa, trẻ em có hoàn cảnh khó khăn,...\n- Hiến máu nhân đạo: Trực tiếp hiến máu nhân đạo, tham gia cộng tác viên tổ chức hoạt động hiến máu nhân đạo;\n- Tham gia phục vụ chương trình tiếp sức mùa thi Tốt nghiệp phổ thông trung học Quốc gia;\n- Tham gia chiến dịch mùa hè xanh;\n- Tổ chức, tham gia hoạt động gây quỹ ủng hộ người nghèo, nạn nhân bão lụt, chất độc da cam, trẻ em khuyết tật,...\n- Tổ chức thăm, tặng quà cho các trung tâm phụng dưỡng người có công, cá nhân có hoàn cảnh khó khăn,...\n- Tham gia hoạt động thiện nguyện như thăm hỏi, ủng hộ vật chất cho các bệnh viện, viện dưỡng lão, các nhà nuôi dưỡng trẻ em, ...\n- Các hoạt động mang tính từ thiện khác.\n\n2. Các hoạt động mang tính chuyên môn:\n- Phản biện các vấn đề xã hội liên quan đến chuyên môn: Đóng góp hoặc phản biện về bảo vệ môi trường, năng lượng, các chính sách của thành phố/tỉnh, quốc gia, ...;\n- Tình nguyện phục vụ, hỗ trợ các đơn vị trong và ngoài ĐHĐN tổ chức, dịch thuật cho hội nghị, hội thảo, tiếp đón các đoàn khách;\n- Hỗ trợ miễn phí cho các hoạt động cần tình nguyện viên của các đơn vị bên ngoài và các đơn vị thành viên, thuộc và trực thuộc ĐHĐN;\n- Làm đại sứ cho trường/khoa;\n- Tổ chức khám chữa bệnh miễn phí;\n- Hỗ trợ các địa phương thực hiện các dự án an sinh xã hội miễn phí;\n- Các hoạt động phục vụ cộng đồng mang tính chuyên môn khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Quy trình thực hiện hoạt động PVCĐ",
+          "text": "Điều 4. Quy trình thực hiện hoạt động PVCĐ\nQuy trình thực hiện hoạt động PVCĐ theo trình tự như sau:\n1. Xây dựng kế hoạch PVCĐ: Thực hiện vào đầu năm học.\n- Đối với các đơn vị thành viên: Trên cơ sở đăng ký của nhóm, đơn vị và kế hoạch năm học, Hiệu trưởng các đơn vị thành viên ban hành kế hoạch PVCĐ của năm học (mẫu số 01).\n- Đối với các đơn vị thuộc và trực thuộc ĐHĐN: Trên cơ sở đăng ký của nhóm, đơn vị, Ban TCCB trình Thủ trưởng Cơ quan ĐHĐN ban hành Kế hoạch PVCĐ của năm học (mẫu số 01).\n2. Thực hiện: Các cá nhân, nhóm, đơn vị tiến hành lập kế hoạch của từng chương trình hoạt động PVCĐ theo kế hoạch đã được duyệt hoặc hoạt động PVCĐ mang tính đột xuất (mẫu số 02). Các cá nhân, nhóm, đơn vị triển khai thực hiện hoạt động PVCĐ.\n3. Kiểm tra, đánh giá: Đơn vị tham gia hoạt động PVCĐ tiến hành đánh giá chất lượng của hoạt động PVCĐ thông qua cá nhân, nhóm, đơn vị tham gia PVCĐ (mẫu số 03) và người hoặc đơn vị được phục vụ (mẫu số 04), tổ chức đánh giá rút kinh nghiệm thông qua các cuộc họp tổng kết.\n4. Điều chỉnh, cải tiến các hoạt động PVCĐ tiếp theo (mẫu số 05).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Rà soát, đánh giá Chương trình PVCĐ",
+          "text": "Điều 5. Rà soát, đánh giá Chương trình PVCĐ\n1. Sau mỗi Chương trình PVCĐ, các đơn vị tham gia tổ chức đánh giá mức độ hài lòng của CCVC-NLĐ tham gia PVCĐ (theo mẫu 03) và người hoặc đơn vị được phục vụ (theo mẫu 04);\n2. Các đơn vị tham gia PVCĐ tổ chức họp, rà soát điều chỉnh, rút kinh nghiệm cho Chương trình PVCĐ tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Cơ chế giám sát, báo cáo kết quả thực hiện",
+          "text": "Điều 6. Cơ chế giám sát, báo cáo kết quả thực hiện\n1. Công đoàn ĐHĐN có trách nhiệm giám sát các hoạt động PVCĐ trong toàn ĐHĐN.\n2. Thủ trưởng các đơn vị thành viên, các đơn vị thuộc và trực thuộc có trách nhiệm giám sát việc triển khai tại đơn vị.\n3. Công đoàn ĐHĐN, thủ trưởng các đơn vị định kỳ tháng 7 hằng năm (kết thúc năm học) thực hiện báo cáo kết quả các hoạt động PVCĐ gửi về ĐHĐN (qua Ban Tổ chức Cán bộ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Phân công thực hiện",
+          "text": "Điều 7. Phân công thực hiện\n1. Đại học Đà Nẵng:\n- Ban Tổ chức Cán bộ: Xây dựng kế hoạch PVCĐ của Cơ quan Đại học Đà Nẵng trình thủ trưởng đơn vị quyết định ban hành; Thu nhận báo cáo kết quả thực hiện để giải quyết chế độ chính sách cho CCVC-NLĐ;\n- Ban Đảm bảo chất lượng giáo dục: Tư vấn về hoạt động PVCĐ phục vụ cho công tác kiểm định chất lượng.\n2. Các đơn vị thành viên, các đơn vị thuộc và trực thuộc:\n- Các đơn vị thành viên: Xây dựng và ban hành kế hoạch PVCĐ của đơn vị.\n- Phòng Khảo thí và Đảm bảo chất lượng giáo dục của các đơn vị thành viên: Lưu giữ các minh chứng và thực hiện tự đánh giá hoạt động PVCĐ phục vụ cho công tác kiểm định chất lượng.\n- Tháng 7 hàng năm, các đơn vị thành viên, các đơn vị thuộc và trực thuộc có trách nhiệm báo cáo kết quả thực hiện hoạt động PVCĐ về Đại học Đà Nẵng (qua Ban Tổ chức Cán bộ) để theo dõi tổng hợp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Chính sách đối với hoạt động PVCĐ",
+          "text": "Điều 8. Chính sách đối với hoạt động PVCĐ\nĐể khuyến khích CCVC-NLĐ tham gia PVCĐ, ĐHĐN có các chính sách đối với các cá nhân, đơn vị tham gia PVCĐ như sau:\n1. Đối với cá nhân:\n- Được cấp có thẩm quyền khen thưởng hoặc đề nghị cấp trên khen thưởng nếu có thành tích xuất sắc trong hoạt động PVCĐ.\n- Được ưu tiên trong việc bình xét các danh hiệu thi đua và hình thức khen thưởng hằng năm theo thẩm quyền của đơn vị quản lý.\n- Lấy kết quả thành tích tham gia hoạt động PVCĐ để làm tiêu chí trong việc bình xét khen thưởng của các đợt thi đua chuyên đề về lĩnh vực Công đoàn, Đoàn Thanh niên.\n2. Đối với tập thể:\n- Khen thưởng thành tích cho các tập thể có nhiều đóng góp trong công tác PVCĐ.\n- Được ưu tiên trong việc bình xét các danh hiệu thi đua và hình thức khen thưởng hằng năm theo thẩm quyền của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 9. Hiệu lực thi hành\nQuy chế này được áp dụng kể từ ngày ký Quyết định. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh về ĐHĐN (qua Ban Tổ chức Cán bộ) để được giải quyết./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy chế phục vụ cộng đồng đối với công chức, viên chức và người lao động tại Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy chế phục vụ cộng đồng đối với công chức, viên chức và người lao động tại Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, trưởng các ban chức năng liên quan của Đại học Đà Nẵng, Hiệu trưởng các đơn vị thành viên, thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành quyết đị",
+      "text": "Điều 3. Chánh Văn phòng, trưởng các ban chức năng liên quan của Đại học Đà Nẵng, Hiệu trưởng các đơn vị thành viên, thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

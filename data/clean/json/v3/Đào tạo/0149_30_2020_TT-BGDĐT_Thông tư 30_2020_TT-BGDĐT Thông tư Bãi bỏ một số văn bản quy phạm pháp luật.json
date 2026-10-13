@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0149_30_2020_TT-BGDĐT_Thông tư 30_2020_TT-BGDĐT Thông tư Bãi bỏ một số văn bản quy phạm pháp luật.txt",
+  "mappedBy": "gemini-web",
+  "note": "Văn bản OCR bị khuyết danh sách các khoản từ 3 đến 13 tại Điều 1 4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "30/2020/TT-BGDĐT",
+    "title": "Thông tư Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung giáo dục đại học và trung cấp chuyên nghiệp",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "15/09/2020",
+    "effectiveDate": "01/11/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Đào tạo"
+    ],
+    "summary": "Bãi bỏ các văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành quy định về chương trình khung giáo dục đại học và trung cấp chuyên nghiệp.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phùng Xuân Nhạ",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "34/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật;"
+    },
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "31/2003/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "1. Quyết định 31/2003/QĐ-BGD&ĐT ngày 09 tháng 7 năm 2003 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Chương trình khung giáo dục đại học hệ không chính quy một số ngành đào tạo thuộc nhóm ngành khoa học sức khoẻ."
+    },
+    {
+      "targetDocumentNumber": "15/2004/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "2. Quyết định số 15/2004/QĐ-BGD&ĐT ngày 10 tháng 6 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành cao đẳng sư phạm."
+    },
+    {
+      "targetDocumentNumber": "19/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "14. Quyết định 19/2007/QĐ-BGDĐT ngày 30 tháng 5 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành khoa học quân sự trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "20/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "15. Quyết định số 20/2007/QĐ-BGDĐT ngày 30 tháng 5 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành khoa học an ninh trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "22/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "16. Quyết định số 22/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học ngành Nông lâm kết hợp trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "23/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "17. Quyết định số 23/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Công nghệ chế biến lâm sản trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "24/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "18. Quyết định số 24/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Kiến trúc cảnh quan trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "25/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "19. Quyết định số 25/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Trồng trọt trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "26/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "20. Quyết định số 26/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Lâm nghiệp trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "27/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "21. Quyết định số 27/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Nông lâm kết hợp trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "28/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "22. Quyết định số 28/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Chăn nuôi trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "29/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "23. Quyết định số 29/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Lâm sinh trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "30/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "24. Quyết định số 30/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Khuyến nông trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "32/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "25. Quyết định số 32/2007/QĐ-BGDĐT ngày 18 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Công nghệ trình độ đại học và cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "64/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "26. Quyết định số 64/2007/QĐ-BGDĐT ngày 01 tháng 11 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Công nghệ trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "20/2008/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "27. Quyết định số 20/2008/QĐ-BGDĐT ngày 22 tháng 4 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học Khối ngành Khoa học Sức khỏe trình độ đại học và cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "67/2008/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "28. Quyết định số 67/2008/QĐ-BGDĐT ngày 09 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Kỹ thuật trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "22/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "29. Thông tư số 22/2010/TT-BGDĐT ngày 20 tháng 7 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành Khoa học quân sự trình độ đại học, cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "28/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "30. Thông tư số 28/2010/TT-BGDĐT ngày 01 tháng 11 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành Văn hóa - Nghệ thuật - Thông tin, trình độ đại học và cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "37/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "31. Thông tư số 37/2010/TT-BGDĐT ngày 21 tháng 12 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ Chương trình khung giáo dục đại học khối ngành sư phạm, trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "01/2011/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "32. Thông tư số 01/2011/TT-BGDĐT ngày 14 tháng 01 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành khoa học quân sự trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "09/2011/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "33. Thông tư số 09/2011/TT-BGDĐT ngày 24 tháng 02 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành Nông - Lâm - Ngư nghiệp."
+    },
+    {
+      "targetDocumentNumber": "21/2011/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "34. Thông tư số 21/2011/TT-BGDĐT ngày 27 tháng 5 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành khoa học An ninh."
+    },
+    {
+      "targetDocumentNumber": "38/2009/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "35. Thông tư số 38/2009/TT-BGDĐT ngày 22 tháng 12 năm 2009 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Kỹ thuật, trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "01/2012/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "36. Thông tư số 01/2012/TT-BGDĐT ngày 13 tháng 01 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ Chương trình khung giáo dục đại học khối ngành Khoa học Sức khỏe, trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "02/2012/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "37. Thông tư số 02/2012/TT-BGDĐT ngày 13 tháng 01 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học ngành Sư phạm Giáo dục quốc phòng - an ninh, trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "73/2008/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "1. Quyết định số 73/2008/QĐ-BGDĐT ngày 25 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung về đào tạo trung cấp chuyên nghiệp ngành Quân sự cơ sở."
+    },
+    {
+      "targetDocumentNumber": "15/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "2. Thông tư số 15/2010/TT-BGDĐT ngày 01 tháng 6 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp khối ngành Tài nguyên - Môi trường."
+    },
+    {
+      "targetDocumentNumber": "17/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "3. Thông tư số 17/2010/TT-BGDĐT ngày 28 tháng 6 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các khối ngành: Công nghệ hoá học; Công nghệ kỹ thuật điện, điện tử và viễn thông; Sản xuất, chế biến sợi, vải, giày, da; Công nghệ kỹ thuật cơ khí; Công nghệ thông tin; Công nghệ kỹ thuật kiến trúc và công trình xây dựng."
+    },
+    {
+      "targetDocumentNumber": "18/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "4. Thông tư số 18/2010/TT-BGDĐT ngày 28 tháng 6 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các khối ngành: Nông nghiệp; Thuỷ sản."
+    },
+    {
+      "targetDocumentNumber": "19/2010/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "5. Thông tư số 19/2010/TT-BGDĐT ngày 05 tháng 7 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung khối ngành Khoa học sức khỏe trình độ trung cấp chuyên nghiệp."
+    },
+    {
+      "targetDocumentNumber": "33/2012/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "6. Thông tư số 33/2012/TT-BGDĐT ngày 26 tháng 9 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số nội dung của Chương trình khung về đào tạo trung cấp chuyên nghiệp ngành Quân sự cơ sở ban hành kèm theo Quyết định số 73/2008/QĐ-BGDĐT ngày 25 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "13/2013/TT-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "7. Thông tư số 13/2013/TT-BGDĐT ngày 08 tháng 5 năm 2013 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các nhóm ngành: Công nghệ hóa học, vật liệu, luyện kim và môi trường; Công nghệ kỹ thuật cơ khí; Công nghệ kỹ thuật điện, điện tử và viễn thông; Công nghệ dầu khí và khai thác."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Vụ Pháp chế",
+    "Văn phòng",
+    "Vụ trưởng Vụ Pháp chế",
+    "sở giáo dục và đào tạo",
+    "đại học",
+    "học viện",
+    "trường đại học",
+    "trường cao đẳng sư phạm",
+    "trường trung cấp sư phạm"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung giáo dục đại học",
+      "text": "Điều 1. Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung giáo dục đại học\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Quyết định 31/2003/QĐ-BGD&ĐT ngày 09 tháng 7 năm 2003 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Chương trình khung giáo dục đại học hệ không chính quy một số ngành đào tạo thuộc nhóm ngành khoa học sức khoẻ.\n2. Quyết định số 15/2004/QĐ-BGD&ĐT ngày 10 tháng 6 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành cao đẳng sư phạm.\n3. (Tiếp tục danh sách từ trang 2)\n\n14. Quyết định 19/2007/QĐ-BGDĐT ngày 30 tháng 5 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành khoa học quân sự trình độ đại học.\n15. Quyết định số 20/2007/QĐ-BGDĐT ngày 30 tháng 5 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành khoa học an ninh trình độ đại học.\n16. Quyết định số 22/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học ngành Nông lâm kết hợp trình độ đại học.\n17. Quyết định số 23/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Công nghệ chế biến lâm sản trình độ đại học.\n18. Quyết định số 24/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Kiến trúc cảnh quan trình độ đại học.\n19. Quyết định số 25/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Trồng trọt trình độ cao đẳng.\n20. Quyết định số 26/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Lâm nghiệp trình độ cao đẳng.\n21. Quyết định số 27/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Nông lâm kết hợp trình độ cao đẳng.\n22. Quyết định số 28/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Chăn nuôi trình độ cao đẳng.\n23. Quyết định số 29/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Lâm sinh trình độ cao đẳng.\n24. Quyết định số 30/2007/QĐ-BGDĐT ngày 01 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung ngành Khuyến nông trình độ cao đẳng.\n\n25. Quyết định số 32/2007/QĐ-BGDĐT ngày 18 tháng 6 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Công nghệ trình độ đại học và cao đẳng.\n26. Quyết định số 64/2007/QĐ-BGDĐT ngày 01 tháng 11 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Công nghệ trình độ cao đẳng.\n27. Quyết định số 20/2008/QĐ-BGDĐT ngày 22 tháng 4 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học Khối ngành Khoa học Sức khỏe trình độ đại học và cao đẳng.\n28. Quyết định số 67/2008/QĐ-BGDĐT ngày 09 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Kỹ thuật trình độ đại học.\n29. Thông tư số 22/2010/TT-BGDĐT ngày 20 tháng 7 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành Khoa học quân sự trình độ đại học, cao đẳng.\n30. Thông tư số 28/2010/TT-BGDĐT ngày 01 tháng 11 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành Văn hóa - Nghệ thuật - Thông tin, trình độ đại học và cao đẳng.\n31. Thông tư số 37/2010/TT-BGDĐT ngày 21 tháng 12 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ Chương trình khung giáo dục đại học khối ngành sư phạm, trình độ đại học.\n32. Thông tư số 01/2011/TT-BGDĐT ngày 14 tháng 01 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành khoa học quân sự trình độ đại học.\n33. Thông tư số 09/2011/TT-BGDĐT ngày 24 tháng 02 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành Nông - Lâm - Ngư nghiệp.\n34. Thông tư số 21/2011/TT-BGDĐT ngày 27 tháng 5 năm 2011 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học khối ngành khoa học An ninh.\n35. Thông tư số 38/2009/TT-BGDĐT ngày 22 tháng 12 năm 2009 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Kỹ thuật, trình độ đại học.\n\n36. Thông tư số 01/2012/TT-BGDĐT ngày 13 tháng 01 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ Chương trình khung giáo dục đại học khối ngành Khoa học Sức khỏe, trình độ đại học.\n37. Thông tư số 02/2012/TT-BGDĐT ngày 13 tháng 01 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học ngành Sư phạm Giáo dục quốc phòng - an ninh, trình độ đại học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung trung cấp chuyên nghiệp",
+      "text": "Điều 2. Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung trung cấp chuyên nghiệp\nBãi bỏ toàn bộ các văn bản quy phạm pháp luật sau đây:\n1. Quyết định số 73/2008/QĐ-BGDĐT ngày 25 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung về đào tạo trung cấp chuyên nghiệp ngành Quân sự cơ sở.\n2. Thông tư số 15/2010/TT-BGDĐT ngày 01 tháng 6 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp khối ngành Tài nguyên - Môi trường.\n3. Thông tư số 17/2010/TT-BGDĐT ngày 28 tháng 6 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các khối ngành: Công nghệ hoá học; Công nghệ kỹ thuật điện, điện tử và viễn thông; Sản xuất, chế biến sợi, vải, giày, da; Công nghệ kỹ thuật cơ khí; Công nghệ thông tin; Công nghệ kỹ thuật kiến trúc và công trình xây dựng.\n4. Thông tư số 18/2010/TT-BGDĐT ngày 28 tháng 6 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các khối ngành: Nông nghiệp; Thuỷ sản.\n5. Thông tư số 19/2010/TT-BGDĐT ngày 05 tháng 7 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung khối ngành Khoa học sức khỏe trình độ trung cấp chuyên nghiệp.\n6. Thông tư số 33/2012/TT-BGDĐT ngày 26 tháng 9 năm 2012 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số nội dung của Chương trình khung về đào tạo trung cấp chuyên nghiệp ngành Quân sự cơ sở ban hành kèm theo Quyết định số 73/2008/QĐ-BGDĐT ngày 25 tháng 12 năm 2008 của Bộ trưởng Bộ Giáo dục và Đào tạo.\n\n7. Thông tư số 13/2013/TT-BGDĐT ngày 08 tháng 5 năm 2013 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các nhóm ngành: Công nghệ hóa học, vật liệu, luyện kim và môi trường; Công nghệ kỹ thuật cơ khí; Công nghệ kỹ thuật điện, điện tử và viễn thông; Công nghệ dầu khí và khai thác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 3. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 11 năm 2020.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 4. Trách nhiệm thi hành\nChánh Văn phòng, Vụ trưởng Vụ Pháp chế; thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; giám đốc sở giáo dục và đào tạo; giám đốc đại học, học viện; hiệu trưởng trường đại học; hiệu trưởng trường cao đẳng sư phạm; hiệu trưởng trường trung cấp sư phạm và thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+      "isImplementationClause": true
+    }
+  ]
+}

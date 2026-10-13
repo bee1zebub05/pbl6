@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0342_595_KH-BGDĐT_Kế hoạch 595_KH-BGDĐT ngày 10_4_2023 Triển khai Đề án “Tuyên truyền gương điển hì.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "595/KH-BGDĐT",
+    "title": "Kế hoạch Triển khai Đề án “Tuyên truyền gương điển hình tiên tiến giai đoạn 2023 - 2025” của ngành Giáo dục",
+    "documentType": "Kế hoạch",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "10/04/2023",
+    "effectiveDate": "10/04/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành kế hoạch triển khai Đề án “Tuyên truyền gương điển hình tiên tiến giai đoạn 2023 - 2025” nhằm nâng cao nhận thức, đẩy mạnh phát hiện, bồi dưỡng, nhân rộng và tôn vinh các tập thể, cá nhân điển hình tiên tiến tiêu biểu trong ngành Giáo dục.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "1526/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Quyết định số 1526/QĐ-TTg ngày 09/12/2022 của Thủ tướng Chính phủ phê duyệt Đề án “Tuyên truyền gương điển hình tiên tiến giai đoạn 2022 - 2025”"
+    },
+    {
+      "targetDocumentNumber": "2559/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "căn cứ Quyết định số 2559/QĐ-BGDĐT ngày 06/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Chương trình hành động của Bộ Giáo dục và Đào tạo triển khai Chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng"
+    },
+    {
+      "targetDocumentNumber": "29-NQ/TW",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đẩy mạnh thực hiện Nghị quyết số 29-NQ/TW ngày 04/11/2013 của Ban Chấp hành Trung ương Đảng khóa XI về đổi mới căn bản, toàn diện giáo dục và đào tạo đáp ứng yêu cầu công nghiệp hóa, hiện đại hóa trong điều kiện kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập quốc tế"
+    },
+    {
+      "targetDocumentNumber": "34-CT/TW",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "chịu trách nhiệm về chất lượng, hiệu quả công tác thi đua, khen thưởng và công tác tuyên truyền, phổ biến, nhân rộng điển hình tiên tiến theo Chỉ thị số 34-CT/TW ngày 07/4/2014 của Bộ Chính trị về tiếp tục đổi mới công tác thi đua, khen thưởng."
+    }
+  ],
+  "mentions": [
+    "Thủ tướng Chính phủ",
+    "Chính phủ",
+    "Ban Chấp hành Trung ương Đảng khóa XI",
+    "Bộ Chính trị",
+    "Bộ Nội vụ",
+    "Ban Thi đua - Khen thưởng Trung ương",
+    "Công đoàn Giáo dục Việt Nam",
+    "Đại học Đà Nẵng",
+    "Báo Giáo dục và Thời đại"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

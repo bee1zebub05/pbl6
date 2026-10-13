@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0025_447_QĐ-ĐHBK_Quy trình ban hành văn bản tại Trường Đại học Bách khoa, Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "441/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành \"Quy trình ban hành văn bản tại Trường Đại học Bách khoa\"",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/04/2018",
+    "effectiveDate": "24/04/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Văn thư, lưu trữ"
+    ],
+    "summary": "Quyết định ban hành Quy trình ban hành văn bản hành chính tại Trường Đại học Bách khoa - Đại học Đà Nẵng, quy định các bước xây dựng, kiểm tra, hiệu chỉnh, trình ký, ban hành và quản lý văn bản.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "07/2012/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 07/2012/TT-BNV ngày 22 tháng 11 năm 2012 của Bộ trưởng Bộ Nội vụ về việc hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan;"
+    },
+    {
+      "targetDocumentNumber": "7010/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 7010/QĐ-ĐHĐN ngày 04 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy trình ban hành văn bản cấp Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Đảng ủy",
+    "BGH",
+    "CĐ",
+    "ĐTN",
+    "H.SV",
+    "Hội CCB",
+    "Phòng Tổ chức – Hành chính",
+    "Phòng TC-HC",
+    "Ban Giám hiệu",
+    "Phòng Đào tạo",
+    "Phòng Công tác sinh viên"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy trình ban hành văn bản hành chính” tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy trình ban hành văn bản hành chính” tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng các Phòng, Khoa và trưởng các đơn vị trực thuộc căn cứ quyết định thi hành./.",
+      "text": "Điều 3. Trưởng các Phòng, Khoa và trưởng các đơn vị trực thuộc căn cứ quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

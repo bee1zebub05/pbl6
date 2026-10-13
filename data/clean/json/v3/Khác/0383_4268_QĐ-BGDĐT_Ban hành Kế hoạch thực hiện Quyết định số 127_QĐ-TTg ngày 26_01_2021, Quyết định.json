@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khác/0383_4268_QĐ-BGDĐT_Ban hành Kế hoạch thực hiện Quyết định số 127_QĐ-TTg ngày 26_01_2021, Quyết định.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "4268/QĐ-BGDĐT",
+    "title": "Ban hành Kế hoạch thực hiện Quyết định số 127/QĐ-TTg ngày 26/01/2021, Quyết định số 142/QĐ-TTg ngày 02/02/2024 của Thủ tướng Chính phủ",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "30/12/2024",
+    "effectiveDate": "30/12/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định số 4268/QĐ-BGDĐT ngày 30/12/2024 kèm theo Kế hoạch thực hiện Quyết định số 127/QĐ-TTg ngày 26/01/2021 và Quyết định số 142/QĐ-TTg ngày 02/02/2024 của Thủ tướng Chính phủ nhằm phát triển dữ liệu và ứng dụng trí tuệ nhân tạo ngành giáo dục giai đoạn đến năm 2030.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "47/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 04 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "127/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 127/QĐ-TTg ngày 26 tháng 01 năm 2021 của Thủ tướng Chính phủ ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo đến năm 2030;"
+    },
+    {
+      "targetDocumentNumber": "142/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 142/QĐ-TTg ngày 02 tháng 02 năm 2024 của Thủ tướng Chính phủ phê duyệt Chiến lược dữ liệu quốc gia đến năm 2030;"
+    },
+    {
+      "targetDocumentNumber": "73/2019/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "...tổ chức thực hiện theo quy định tại Nghị định 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước; Nghị định số 82/2024/NĐ-CP ngày 10/7/2024 sửa đổi, bổ sung một số điều của Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ và các quy định hiện hành có liên quan."
+    },
+    {
+      "targetDocumentNumber": "82/2024/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "...quy định tại Nghị định 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước; Nghị định số 82/2024/NĐ-CP ngày 10/7/2024 sửa đổi, bổ sung một số điều của Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ và các quy định hiện hành có liên quan."
+    },
+    {
+      "targetDocumentNumber": "42/2022/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "- Triển khai Cổng dữ liệu của Bộ GDĐT theo quy định tại Nghị định số 42/2022/NĐ-CP của Chính phủ, tích hợp với Cổng dữ liệu quốc gia."
+    },
+    {
+      "targetDocumentNumber": "131/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "9. Nội dung nhiệm vụ chủ yếu: Phát triển hệ thống học liệu số, học liệu mở, chương trình giáo dục, đào tạo, sách giáo khoa số theo Quyết định số 131/QĐ-TTg ngày 25/01/2022 và Quyết định số 1117/QĐ-TTg ngày 25/9/2023 của Thủ tướng Chính phủ."
+    },
+    {
+      "targetDocumentNumber": "1117/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "9. Nội dung nhiệm vụ chủ yếu: Phát triển hệ thống học liệu số, học liệu mở, chương trình giáo dục, đào tạo, sách giáo khoa số theo Quyết định số 131/QĐ-TTg ngày 25/01/2022 và Quyết định số 1117/QĐ-TTg ngày 25/9/2023 của Thủ tướng Chính phủ."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Cục Công nghệ thông tin",
+    "Vụ Kế hoạch - Tài chính",
+    "Vụ GDĐH",
+    "Vụ GDTX",
+    "Vụ GDTrH",
+    "Vụ GDTH",
+    "Vụ GDMN",
+    "Vụ KHCNMT",
+    "Cục QLCL",
+    "Cục HTQT",
+    "Văn phòng Chính phủ",
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch thực hiện Quyết định số 127/QĐ-TTg ngày 26/01/2021, Quyết định số 142/QĐ-TTg ngày 02/02/2024 của Thủ tướng Chính phủ (gọi chung là Kế hoạch), gồm các nội dung",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch thực hiện Quyết định số 127/QĐ-TTg ngày 26/01/2021, Quyết định số 142/QĐ-TTg ngày 02/02/2024 của Thủ tướng Chính phủ (gọi chung là Kế hoạch), gồm các nội dung sau:\n\n1. Mục đích\nXác định rõ mục tiêu, nhiệm vụ, giải pháp và phân công trách nhiệm tổ chức thực hiện nhằm phát triển dữ liệu và ứng dụng trí tuệ nhân tạo giai đoạn đến năm 2030 của Bộ Giáo dục và Đào tạo.\n\n2. Các nhiệm vụ cụ thể\nChi tiết các nhiệm vụ, đơn vị chủ trì, sản phẩm cần đạt và thời gian thực hiện tại Phụ lục kèm theo.\n\n3. Tổ chức thực hiện\n3.1. Thủ trưởng các đơn vị thuộc, trực thuộc Bộ\na) Căn cứ nội dung, nhiệm vụ được phân công tại Kế hoạch này chủ động xây dựng kế hoạch chi tiết, đề xuất kinh phí và tổ chức thực hiện theo quy định tại Nghị...\n\n...định 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước; Nghị định số 82/2024/NĐ-CP ngày 10/7/2024 sửa đổi, bổ sung một số điều của Nghị định số 73/2019/NĐ-CP ngày 05/9/2019 của Chính phủ và các quy định hiện hành có liên quan.\n\nb) Báo cáo kết quả thực hiện Kế hoạch gửi Cục Công nghệ thông tin tổng hợp báo cáo Bộ trưởng.\n\n3.2. Cục Công nghệ thông tin là đơn vị đầu mối đôn đốc và tổng hợp kết quả thực hiện Kế hoạch.\n\n3.3. Vụ Kế hoạch - Tài chính chủ trì, phối hợp với Cục Công nghệ thông tin phân bổ kinh phí thực hiện các nhiệm vụ theo quy định.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin và Thủ trưởng các đơn vị có liên quan thuộc, trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin và Thủ trưởng các đơn vị có liên quan thuộc, trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

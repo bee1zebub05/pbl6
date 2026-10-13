@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0364_2140_QĐ-BGDĐT_Công khai đường dây nóng, hộp thư điện tử tiếp nhận thông tin về hành vi nhũng nh.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2140/QĐ-BGDĐT",
+    "title": "Quyết định về việc công khai đường dây nóng, hộp thư điện tử tiếp nhận thông tin về hành vi nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp đối với các đơn vị thực hiện chức năng quản lý nhà nước của Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "15/08/2024",
+    "effectiveDate": "15/08/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thanh tra, kiểm tra",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Quyết định công khai số điện thoại đường dây nóng và hộp thư điện tử để tiếp nhận thông tin về hành vi nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp đối với các đơn vị thực hiện chức năng quản lý nhà nước của Bộ.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24/10/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "10/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Chỉ thị số 10/CT-TTg ngày 22/4/2019 của Thủ tướng Chính phủ về việc tăng cường xử lý, ngăn chặn có hiệu quả tình trạng nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp trong giải quyết công việc;"
+    },
+    {
+      "targetDocumentNumber": "4668/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4668/QĐ-BGDĐT ngày 30/12/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị thuộc Bộ Giáo dục và Đào tạo (được sửa đổi, bổ sung theo Quyết định số 290/QĐ-BGDĐT ngày 15/01/2024);"
+    },
+    {
+      "targetDocumentNumber": "290/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4668/QĐ-BGDĐT ngày 30/12/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị thuộc Bộ Giáo dục và Đào tạo (được sửa đổi, bổ sung theo Quyết định số 290/QĐ-BGDĐT ngày 15/01/2024);"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Vụ Giáo dục Mầm non",
+    "Vụ Giáo dục Tiểu học",
+    "Vụ Giáo dục Trung học",
+    "Vụ Giáo dục Đại học",
+    "Vụ Giáo dục thể chất",
+    "Vụ Giáo dục dân tộc",
+    "Vụ Giáo dục thường xuyên",
+    "Vụ Giáo dục Quốc phòng và An ninh",
+    "Vụ Giáo dục Chính trị và Công tác học sinh, sinh viên",
+    "Vụ Tổ chức cán bộ",
+    "Vụ Kế hoạch - Tài chính",
+    "Vụ Cơ sở vật chất",
+    "Vụ Khoa học, Công nghệ và Môi trường",
+    "Vụ Pháp chế",
+    "Văn phòng",
+    "Cục Quản lý chất lượng",
+    "Cục Nhà giáo và Cán bộ quản lý giáo dục",
+    "Cục Công nghệ thông tin",
+    "Cục Hợp tác quốc tế",
+    "Thanh tra",
+    "Văn phòng Chính phủ",
+    "Thanh tra Chính phủ",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công khai đường dây nóng, hộp thư điện tử tiếp nhận thông tin về hành vi nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp đối với các đơn vị thực hiện chức năng quản lý nhà nước của Bộ Giáo dục v",
+      "text": "Điều 1. Công khai đường dây nóng, hộp thư điện tử tiếp nhận thông tin về hành vi nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp đối với các đơn vị thực hiện chức năng quản lý nhà nước của Bộ Giáo dục và Đào tạo, để thực hiện Chỉ thị số 10/CT-TTg ngày 22/4/2019 của Thủ tướng Chính phủ về việc tăng cường xử lý, ngăn chặn có hiệu quả tình trạng nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp trong giải quyết công việc.\n\n1. Số điện thoại tiếp nhận thông tin trong giờ hành chính: 024.38621002.\n2. Địa chỉ hộp thư điện tử: duongdaynongct10.2019@moet.gov.vn.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 2. Tổ chức thực hiện\n\n1. Thanh tra Bộ Giáo dục và Đào tạo chủ trì, phối hợp với các đơn vị thuộc Bộ Giáo dục và Đào tạo tham mưu soạn thảo trình Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế hoạt động đường dây nóng tiếp nhận thông tin về hành vi nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp đối với các đơn vị thực hiện chức năng quản lý nhà nước của Bộ Giáo dục và Đào tạo, để...\n\n...thực hiện Chỉ thị số 10/CT-TTg ngày 22/4/2019 của Thủ tướng Chính phủ.\n\n2. Các phản ánh, kiến nghị của tổ chức, cá nhân đối với Bộ Giáo dục và Đào tạo liên quan đến chức năng, nhiệm vụ của Vụ, Cục, Thanh tra, Văn phòng được gửi đến hộp thư điện tử của các đơn vị thuộc Bộ Giáo dục và Đào tạo (đính kèm Quyết định này) để xử lý theo thẩm quyền.\n\n3. Văn phòng Bộ Giáo dục và Đào tạo thông báo công khai số điện thoại, địa chỉ hộp thư điện tử tiếp nhận thông tin tại Điều 1 và khoản 2 Điều này trên Cổng thông tin điện tử của Bộ Giáo dục và Đào tạo.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 3. Quyết định này có hiệu lực kể từ ngày ký.\n\nChánh Văn phòng, Chánh Thanh tra, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị thuộc Bộ, trực thuộc Bộ và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

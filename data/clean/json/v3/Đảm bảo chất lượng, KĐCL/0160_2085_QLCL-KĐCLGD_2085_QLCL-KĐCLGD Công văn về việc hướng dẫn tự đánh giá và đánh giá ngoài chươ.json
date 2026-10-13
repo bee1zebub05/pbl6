@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0160_2085_QLCL-KĐCLGD_2085_QLCL-KĐCLGD Công văn về việc hướng dẫn tự đánh giá và đánh giá ngoài chươ.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "2085/QLCL-KĐCLGD",
+    "title": "Công văn về việc hướng dẫn tự đánh giá và đánh giá ngoài chương trình đào tạo",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "31/12/2020",
+    "effectiveDate": "31/12/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "summary": "Cục Quản lý chất lượng hướng dẫn chi tiết về công tác tự đánh giá và đánh giá ngoài chương trình đào tạo đối với các cơ sở giáo dục đại học, trường cao đẳng có đào tạo giáo viên và các tổ chức kiểm định chất lượng giáo dục.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Cục Quản lý chất lượng",
+    "orgType": "don_vi_truc_thuoc",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Mỹ Phong",
+      "academicTitle": null,
+      "position": [
+        "Phó Cục trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "38/2013/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quy định về quy trình và chu kỳ kiểm định chất lượng CTĐT của các trường đại học, cao đẳng và trung cấp chuyên nghiệp ban hành kèm theo Thông tư số 38/2013/TT-BGDĐT ngày 29/11/2013 của Bộ trưởng Bộ GDĐT."
+    },
+    {
+      "targetDocumentNumber": "23/2011/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 23/2011/TT-BGDĐT ngày 16/6/2011 của Bộ trưởng Bộ GDĐT ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình giáo dục sư phạm kỹ thuật công nghiệp trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "49/2012/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 49/2012/TT-BGDĐT ngày 12/12/2012 của Bộ trưởng Bộ GDĐT ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trung học phổ thông trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "33/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 33/2014/TT-BGDĐT ngày 02/10/2014 của Bộ trưởng Bộ GDĐT ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo điều dưỡng trình độ đại học, cao đẳng;"
+    },
+    {
+      "targetDocumentNumber": "04/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 04/2016/TT-BGDĐT ngày 14/3/2016 của Bộ trưởng Bộ GDĐT ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "02/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 02/2020/TT-BGDĐT ngày 05/02/2020 của Bộ trưởng Bộ GDĐT quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo giáo viên trình độ cao đẳng sư phạm và trung cấp sư phạm;"
+    },
+    {
+      "targetDocumentNumber": "39/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 39/2020/TT-BGDĐT ngày 09/10/2020 của Bộ trưởng Bộ GDĐT quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo từ xa trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "1075/KTKĐCLGD-KĐĐH",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Công văn này thay thế Công văn số 1075/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn tự đánh giá chương trình đào tạo và Công văn số 1076/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn đánh giá ngoài chương trình đào tạo."
+    },
+    {
+      "targetDocumentNumber": "1076/KTKĐCLGD-KĐĐH",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Công văn này thay thế Công văn số 1075/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn tự đánh giá chương trình đào tạo và Công văn số 1076/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn đánh giá ngoài chương trình đào tạo."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Cục Quản lý chất lượng",
+    "Bộ Công an",
+    "Bộ Quốc phòng",
+    "Cục Nhà trường",
+    "Cục Đào tạo",
+    "Vụ GDĐH"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

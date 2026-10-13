@@ -1,0 +1,270 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0204_3092_QĐ-ĐHBK_Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "21 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "3092/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/08/2022",
+    "effectiveDate": "08/08/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Đào tạo",
+      "Khoa học Công nghệ",
+      "Khảo thí",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng, bao gồm nhiệm vụ của các chức danh giảng viên, thời gian làm việc, giờ chuẩn giảng dạy, nghiên cứu khoa học, phục vụ cộng đồng, chế độ làm việc vượt định mức và các quy định tổ chức thực hiện.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 20/2020/TT-BGDĐT ngày 27/7/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 40/2020/TT-BGDĐT ngày 26/10/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập;"
+    },
+    {
+      "targetDocumentNumber": "08/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2016/TT-BGDĐT ngày 28/3/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chế độ giảm định mức giờ dạy cho giáo viên, giảng viên làm công tác công đoàn không chuyên trách trong các cơ sở giáo dục công lập thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "13/2013/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 13/2013/QĐ-TTg ngày 06/02/2013 của Thủ tướng Chính phủ ban hành chế độ, chính sách đối với cán bộ Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội sinh viên Việt Nam, Hội liên hiệp thanh niên Việt Nam trong các cơ sở giáo dục và cơ sở dạy nghề;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+    },
+    {
+      "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4194/QĐ-ĐHĐN ngày 08/12/2021 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định chế độ làm việc của giảng viên Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4766/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"
+    },
+    {
+      "targetDocumentNumber": "1404/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1404/QĐ-ĐHBK ngày 12/5/2021 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định quản lý hoạt động khoa học và công nghệ tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "52/QĐ-ĐHBK-HCTH",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 52/QĐ-ĐHBK-HCTH ngày 04/3/2014 ban hành Quy định làm việc của giảng viên có thời gian giảng dạy dưới 03 năm."
+    },
+    {
+      "targetDocumentNumber": "168/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Giảng viên làm công tác quốc phòng, quân sự không chuyên trách quy định tại Nghị định số 168/2018/NĐ-CP ngày 28 tháng 12 năm 2018 của Chính phủ về công tác Quốc phòng ở Bộ, ngành trung ương, địa phương"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Thủ tướng Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n\n1. Văn bản này quy định chế độ làm việc của giảng viên cơ hữu của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường), bao gồm: nhiệm vụ của các chức danh giảng viên; thời gian làm việc, giờ chuẩn giảng dạy, nghiên cứu khoa học (NCKH), phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác; chế độ làm việc vượt định mức và quy đổi các hoạt động chuyên môn ra giờ chuẩn giảng dạy, các loại hình hoạt động khoa học, công nghệ và đổi mới sáng tạo ra giờ NCKH, các hoạt động khác ra giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác.\n\n2. Quy định này áp dụng đối với giảng viên cao cấp, giảng viên chính, giảng viên, giảng viên nhiệm vụ hướng dẫn thực hành, thí nghiệm, trợ giảng (sau đây gọi chung là giảng viên) và các tổ chức, cá nhân khác có liên quan.\n\n3. Quy định này không áp dụng đối với chuyên gia nước ngoài, người Việt Nam ở nước ngoài; giảng viên của các trường đại học thành viên thuộc Đại học Đà Nẵng (ĐHĐN) và các cơ sở giáo dục khác; giảng viên được mời thỉnh giảng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Mục đích quy định chế độ làm việc của giảng viên",
+          "text": "Điều 2. Mục đích quy định chế độ làm việc của giảng viên\n\n1. Làm căn cứ để Hiệu trưởng, Trưởng khoa phân công, bố trí, sử dụng hợp lý, hiệu quả lao động đối với giảng viên; tăng cường hiệu lực và nâng cao chất lượng công tác quản lý hoạt động đào tạo và NCKH.\n\n2. Làm căn cứ để Nhà trường kiểm tra, thẩm định, đánh giá và xây dựng chính sách, chương trình đào tạo, tuyển dụng, bồi dưỡng giảng viên; nâng cao chất lượng đào tạo, NCKH; tổ chức công tác đảm bảo chất lượng, kiểm định chất lượng giáo dục theo các tiêu chuẩn đánh giá khu vực và quốc tế.\n\n3. Làm cơ sở để giảng viên xây dựng kế hoạch giảng dạy, NCKH, phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn, nghiệp vụ khác.\n\n4. Tạo điều kiện thúc đẩy hiệu quả hoạt động giảng dạy, hoạt động khoa học và công nghệ qua việc sử dụng linh hoạt thế mạnh/năng lực giảng dạy hoặc nghiên cứu của mỗi giảng viên.\n\n5. Làm cơ sở để Hiệu trưởng đánh giá, xếp loại chất lượng giảng viên hàng năm; bình xét thi đua khen thưởng, đảm bảo tính công khai, công bằng, dân chủ; thực hiện chế độ, chính sách, quyền và nghĩa vụ của giảng viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nhiệm vụ của các chức danh giảng viên",
+          "text": "Điều 3. Nhiệm vụ của các chức danh giảng viên\n\n1. Trợ giảng (hạng III) - Mã số: V.07.01.23\na) Hỗ trợ giảng viên (hạng III), giảng viên chính (hạng II), giảng viên cao cấp (hạng I) trong các hoạt động giảng dạy, bao gồm: chuẩn bị bài giảng, phụ đạo, hướng dẫn bài tập, hướng dẫn sinh viên NCKH thảo luận, thí nghiệm, thực hành, thực tập và chấm bài;\nb) Học tập, bồi dưỡng nâng cao trình độ lý luận chính trị, chuyên môn, nghiệp vụ và phương pháp giảng dạy; tham gia hoạt động thực tiễn để nâng cao chất lượng đào tạo và NCKH;\nc) Tham gia công tác quản lý, công tác Đảng, Đoàn thể và thực hiện các nhiệm vụ khác theo quy chế tổ chức, hoạt động của Trường và quy định khác của pháp luật có liên quan.\n\n2. Giảng viên (hạng III) - Mã số: V.07.01.03\na) Giảng dạy, hướng dẫn và chấm đồ án, khóa luận tốt nghiệp; tham gia giảng dạy chương trình đào tạo trình độ thạc sĩ, tiến sĩ và hướng dẫn, đánh giá luận văn thạc sĩ, luận án tiến sĩ nếu có đủ tiêu chuẩn theo quy định;\nb) Tham gia xây dựng, phát triển chương trình đào tạo;\nc) Chủ trì hoặc tham gia biên soạn giáo trình, sách tham khảo, sách chuyên khảo, sách hướng dẫn, biên dịch sách và giáo trình bằng tiếng nước ngoài sang tiếng Việt (sau đây gọi chung là sách phục vụ đào tạo);\nd) Tổ chức, tham gia các hoạt động NCKH; viết và tham gia báo cáo khoa học tại các hội nghị, hội thảo khoa học; tham gia đánh giá các đề tài NCKH cấp cơ sở, các đề tài sinh viên NCKH; tham gia các hoạt động hợp tác quốc tế và bảo đảm chất lượng giáo dục đại học;\nđ) Tham gia công tác chủ nhiệm lớp, cố vấn học tập; hướng dẫn thảo luận, thực hành, thí nghiệm và thực tập;\ne) Học tập, bồi dưỡng nâng cao trình độ lý luận chính trị, chuyên môn, nghiệp vụ và phương pháp giảng dạy; tham gia hoạt động thực tiễn để nâng cao chất lượng đào tạo và NCKH;\ng) Tham gia công tác quản lý, công tác Đảng, Đoàn thể và thực hiện các nhiệm vụ khác theo quy chế tổ chức, hoạt động của Trường và quy định khác của pháp luật có liên quan.\n\n3. Giảng viên nhiệm vụ hướng dẫn thực hành, thí nghiệm (hạng III) - Mã số: V.07.01.03\na) Tham gia công tác chủ nhiệm lớp; Hướng dẫn thực hành, thí nghiệm, thảo luận, khảo sát thực địa, kiến tập, thực tập, kể cả các hoạt động này trong các học phần Đồ án môn học, Dự án PBL (Project Based Learning), Đồ án tốt nghiệp...;\nb) Xây dựng, thực hiện các nhiệm vụ kỹ thuật được giao: chuẩn bị thiết bị, dụng cụ, vật tư, hóa chất... phục vụ thực hành, thí nghiệm; quản lý, bảo trì, đề xuất sửa chữa/thay thế trang thiết bị tại phòng thực hành, thí nghiệm; đảm bảo các nguyên tắc an toàn tại phòng thực hành, thí nghiệm;\nc) Tham gia xây dựng, phát triển chương trình đào tạo;\nd) Chủ trì hoặc tham gia biên soạn giáo trình, sách tham khảo, sách chuyên khảo, sách hướng dẫn, biên dịch sách và giáo trình bằng tiếng nước ngoài sang tiếng Việt (sau đây gọi chung là sách phục vụ đào tạo);\nđ) Tổ chức, tham gia các hoạt động NCKH; viết và tham gia báo cáo khoa học tại các hội nghị, hội thảo khoa học; tham gia đánh giá các đề tài NCKH cấp cơ sở, các đề tài sinh viên NCKH; tham gia các hoạt động hợp tác quốc tế và bảo đảm chất lượng giáo dục đại học;\ne) Học tập, bồi dưỡng nâng cao trình độ lý luận chính trị, chuyên môn, nghiệp vụ và phương pháp giảng dạy; tham gia hoạt động thực tiễn để nâng cao chất lượng đào tạo và NCKH;\ng) Tham gia công tác quản lý, công tác Đảng, Đoàn thể và thực hiện các nhiệm vụ khác theo quy chế tổ chức, hoạt động của cơ sở giáo dục đại học công lập và quy định khác của pháp luật có liên quan.\nh) Các nhiệm vụ khác theo sự phân công của cấp trên.\n\n4. Giảng viên chính (hạng II) - Mã số: V.07.01.02\na) Giảng dạy, hướng dẫn và chấm đồ án, khóa luận tốt nghiệp; tham gia giảng dạy chương trình đào tạo trình độ thạc sĩ, tiến sĩ và hướng dẫn, đánh giá luận văn thạc sĩ, luận án tiến sĩ nếu có đủ tiêu chuẩn theo quy định;\nb) Chủ trì, tham gia xây dựng, phát triển chương trình đào tạo; đề xuất chủ trương, phương hướng và biện pháp phát triển của ngành hoặc chuyên ngành được giao đảm nhiệm; chủ động đề xuất các giải pháp nâng cao chất lượng giảng dạy, phương pháp kiểm tra đánh giá kết quả học tập, rèn luyện của người học;\nc) Chủ trì hoặc tham gia biên soạn sách phục vụ đào tạo; chủ trì hoặc tham gia thực hiện các nhiệm vụ khoa học và công nghệ;\nd) Chủ trì, tham gia đánh giá các đề án, đề tài NCKH; viết và tham gia báo cáo khoa học tại các hội nghị, hội thảo khoa học; tham gia các hoạt động hợp tác quốc tế và bảo đảm chất lượng giáo dục đại học;\nđ) Tham gia công tác chủ nhiệm lớp, cố vấn học tập; hướng dẫn thảo luận, thực hành, thí nghiệm, thực tập;\ne) Tham gia bồi dưỡng giảng viên theo yêu cầu phát triển chuyên môn, nghiệp vụ của khoa hoặc chuyên ngành;\ng) Học tập, bồi dưỡng nâng cao trình độ lý luận chính trị, chuyên môn, nghiệp vụ và phương pháp giảng dạy; tham gia hoạt động thực tiễn để nâng cao chất lượng đào tạo và NCKH;\n\n4\n\nh) Tham gia công tác quản lý, công tác Đảng, Đoàn thể và thực hiện các nhiệm vụ khác theo quy chế tổ chức, hoạt động của Trường và quy định khác của pháp luật có liên quan.\n\n5. Giảng viên cao cấp (hạng I) - Mã số: V.07.01.01\na) Giảng dạy; hướng dẫn và chấm đồ án, khóa luận tốt nghiệp; hướng dẫn luận văn thạc sĩ, luận án tiến sĩ; chủ trì hoặc tham gia các hội đồng đánh giá luận văn thạc sĩ, luận án tiến sĩ;\nb) Chủ trì, tham gia xây dựng, phát triển chương trình đào tạo của chuyên ngành; đề xuất phương hướng, biện pháp phát triển của ngành hoặc chuyên ngành; chủ động cập nhật thường xuyên những thành tựu khoa học vào việc xây dựng, phát triển chương trình đào tạo; đổi mới phương pháp giảng dạy và phương pháp kiểm tra đánh giá kết quả học tập, rèn luyện của người học;\nc) Chủ trì hoặc tham gia biên soạn sách phục vụ đào tạo; chủ trì hoặc tham gia thực hiện chương trình, đề tài NCKH; định hướng NCKH cho khoa, nhóm chuyên môn;\nd) Chủ trì hoặc tham gia đánh giá các đề án, đề tài NCKH; tổ chức và trình bày báo cáo khoa học tại các hội nghị, hội thảo khoa học. Chủ trì hoặc tham gia nghiệm thu và công bố các báo cáo khoa học, các công trình nghiên cứu, trao đổi kinh nghiệm đóng góp vào sự phát triển của khoa và chuyên ngành; tham gia các hoạt động hợp tác quốc tế và bảo đảm chất lượng giáo dục đại học;\nđ) Tổ chức hướng dẫn người học NCKH; hướng dẫn người học phương pháp học tập, nghiên cứu có hiệu quả; phát hiện năng lực sở trường của người học để tổ chức đào tạo, bồi dưỡng tài năng;\ne) Chủ trì hoặc tham gia bồi dưỡng, phát triển đội ngũ giảng viên theo yêu cầu phát triển chuyên môn, nghiệp vụ của khoa hoặc chuyên ngành;\ng) Học tập, bồi dưỡng nâng cao trình độ lý luận chính trị, chuyên môn, nghiệp vụ và phương pháp giảng dạy; tham gia hoạt động thực tiễn để nâng cao chất lượng đào tạo và NCKH;\nh) Tham gia công tác quản lý, công tác Đảng, Đoàn thể và thực hiện các nhiệm vụ khác theo quy chế tổ chức, hoạt động của Trường và quy định khác của pháp luật có liên quan.\n\n6. Giảng viên có chức danh giáo sư, phó giáo sư ngoài việc thực hiện nhiệm vụ của giảng viên quy định tại khoản 2, 3, 4, 5 Điều này và các nhiệm vụ sau:\na) Thực hiện nhiệm vụ của giảng viên theo quy định của Luật giáo dục, Luật giáo dục đại học, chế độ làm việc của giảng viên và các văn bản pháp luật có liên quan;\nb) Biên soạn chương trình, giáo trình và sách phục vụ đào tạo; giảng dạy, hướng dẫn đồ án, khoá luận/đồ án tốt nghiệp đại học, luận văn thạc sĩ, chuyên đề, luận án tiến sĩ và thực hiện những nhiệm vụ chuyên môn khác theo quy định;\nc) Nghiên cứu, phát triển ứng dụng khoa học và chuyển giao công nghệ, bảo đảm chất lượng đào tạo;\n\n5\n\nd) Rèn luyện đạo đức, tác phong khoa học, bồi dưỡng chuyên môn, nghiệp vụ và định hướng NCKH, công nghệ cho đồng nghiệp trong tổ, nhóm chuyên môn;\nđ) Hợp tác với đồng nghiệp về công tác chuyên môn; tham gia các hoạt động tư vấn khoa học, công nghệ, chuyển giao công nghệ phục vụ kinh tế, xã hội, quốc phòng, an ninh và các công tác khác.\n\nChương II\nQUY ĐỊNH VỀ THỜI GIAN LÀM VIỆC, GIỜ CHUẨN GIẢNG DẠY, NGHIÊN CỨU KHOA HỌC, PHỤC VỤ CỘNG ĐỒNG VÀ THỰC HIỆN CÁC NHIỆM VỤ CHUYÊN MÔN KHÁC",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thời gian làm việc, giờ chuẩn giảng dạy và định mức giờ chuẩn giảng dạy",
+          "text": "Điều 4. Thời gian làm việc, giờ chuẩn giảng dạy và định mức giờ chuẩn giảng dạy\n1. Thời gian làm việc của giảng viên thực hiện theo chế độ mỗi tuần làm việc 40 giờ và được xác định theo năm học. Tổng quỹ thời gian làm việc của giảng viên trong 01 năm học là 44 tuần (tương đương 1.760 giờ hành chính) để thực hiện nhiệm vụ giảng dạy, NCKH, phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác, được xác định theo năm học sau khi trừ số ngày nghỉ theo quy định.\n2. Giờ chuẩn giảng dạy là đơn vị thời gian quy đổi từ số giờ lao động cần thiết để hoàn thành khối lượng một công việc nhất định thuộc nhiệm vụ của giảng viên tương đương với một tiết giảng lý thuyết trình độ đại học trực tiếp trên lớp (hoặc giảng dạy trực tuyến), bao gồm thời gian lao động cần thiết trước, trong và sau tiết giảng.\n3. Thời gian giảng dạy trong kế hoạch đào tạo được tính bằng giờ chuẩn giảng dạy, trong đó một tiết giảng lý thuyết trình độ đại học trực tiếp trên lớp (hoặc giảng dạy trực tuyến) 50 phút được tính bằng một giờ chuẩn giảng dạy.\n4. Thời gian dùng để tính định mức giờ chuẩn giảng dạy là số lượng giờ chuẩn giảng dạy đã được quy đổi theo khoản 1 và khoản 2 Điều 10 của Quy định này. Định mức giờ chuẩn giảng dạy của giảng viên trong một năm học là 270 giờ chuẩn giảng dạy (tương đương 810 giờ hành chính); trong đó, giờ chuẩn giảng dạy trực tiếp trên lớp (hoặc giảng dạy trực tuyến) đã được quy đổi (theo khoản 1 và khoản 2 Điều 10 của Quy định này) phải đảm bảo tối thiểu 50% định mức quy định.\n5. Định mức giờ chuẩn giảng dạy của trợ giảng trong một năm học là 135 giờ chuẩn giảng dạy (tương đương 405 giờ hành chính);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Định mức giờ chuẩn đối với giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác Đảng, Đoàn thể",
+          "text": "Điều 5. Định mức giờ chuẩn đối với giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác Đảng, Đoàn thể\n1. Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, Đảng, Đoàn thể có nghĩa vụ giảng dạy tối thiểu theo định mức quy định tại Phụ lục I của Quy định này (tính theo tỷ lệ % của định mức giờ chuẩn giảng dạy quy định tại khoản 4 Điều 4 của Quy định này).\n2. Giảng viên kiêm nhiệm nhiều chức vụ được áp dụng định mức giờ chuẩn giảng dạy thấp nhất trong số các chức vụ kiêm nhiệm quy định tại khoản 1 Điều này.\n\n6",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quản lý hoạt động giảng dạy",
+          "text": "Điều 6. Quản lý hoạt động giảng dạy\n1. Khoa hoặc Bộ môn quản lý chuyên môn có trách nhiệm phân công công tác giảng dạy cho các giảng viên trong đơn vị đảm bảo hợp lý, phù hợp với trình độ chuyên môn, năng lực của giảng viên; đảm bảo số giờ tương ứng với định mức giờ chuẩn giảng dạy đối với từng giảng viên.\n2. Căn cứ vào kế hoạch công tác và phân công của Khoa hoặc Bộ môn, giảng viên có trách nhiệm chuẩn bị kế hoạch và dự kiến khối lượng công việc giảng dạy trình Bộ môn và Khoa xem xét cân đối, điều chỉnh và phê duyệt trước khi thực hiện.\n3. Đối với khối lượng giờ giảng trong định mức, bao gồm các loại hình đào tạo trong năm học (không bao gồm các loại hình đào tạo do các cơ sở đào tạo ngoài ĐHĐN mời giảng), được Nhà trường hỗ trợ theo đơn giá mức 1. Đơn giá mức 1 do Hiệu trưởng quyết định.\n4. Đối với khối lượng giờ giảng vượt định mức, bao gồm các loại hình đào tạo trong năm học (không bao gồm các loại hình đào tạo do các cơ sở đào tạo ngoài ĐHĐN mời giảng), được Nhà trường thanh toán theo đơn giá mức 2. Đơn giá mức 2 do Hiệu trưởng quyết định.\n5. Giảng viên phải tuân thủ sự phân công công tác của Lãnh đạo Khoa và Bộ môn. Giảng viên không được ký hợp đồng làm việc, hợp đồng lao động với tư cách là giảng viên cơ hữu với các đơn vị đào tạo khác ngoài Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quy định về nghiên cứu khoa học",
+          "text": "Điều 7. Quy định về nghiên cứu khoa học\n1. Định mức giờ (tính theo đơn vị giờ hành chính) thực hiện nhiệm vụ NCKH của các chức danh giảng viên, giảng viên chính, giảng viên cao cấp, phó giáo sư và giáo sư được xác định theo quy định hiện hành của ĐHĐN về quản lý hoạt động khoa học và công nghệ. Định mức thực hiện nhiệm vụ NCKH trong mỗi năm học đối với mỗi chức danh giảng viên như sau:\na) 600 giờ đối với chức danh giảng viên; 300 giờ đối với chức danh giảng viên nhiệm vụ hướng dẫn thực hành, thí nghiệm; 300 giờ đối với chức danh trợ giảng;\nb) 660 giờ đối với chức danh giảng viên chính;\nc) 720 giờ đối với chức danh giảng viên cao cấp, phó giáo sư;\nd) 840 giờ đối với chức danh giáo sư.\n2. Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, Đảng, Đoàn thể, định mức giờ thực hiện nhiệm vụ NCKH được xác định theo quy định tại Phụ lục II của Quy định này (tính theo tỷ lệ % của định mức giờ thực hiện NCKH quy định tại khoản 1 Điều này).\n3. Việc giao và triển khai thực hiện nhiệm vụ NCKH cho giảng viên phải phù hợp với điều kiện, tiềm lực khoa học, chiến lược phát triển của Bộ môn, Khoa và phù hợp với năng lực chuyên môn của giảng viên.\n4. Mỗi năm, giảng viên phải hoàn thành nhiệm vụ NCKH được giao tương ứng với chức danh hoặc vị trí công việc đang đảm nhiệm. Kết quả NCKH của giảng viên được\n\n7\n\nđánh giá thông qua các sản phẩm khoa học và công nghệ, các hoạt động nghiên cứu và chuyển giao công nghệ được xác định theo quy định hiện hành của Trường và ĐHĐN về quản lý hoạt động khoa học và công nghệ.\n5. Đối với những giảng viên không hoàn thành nhiệm vụ NCKH theo quy định, Trưởng các Phòng, Khoa và đơn vị trực thuộc (sau đây gọi tắt là Trưởng đơn vị) căn cứ mức độ, hoàn cảnh cụ thể để xem xét khi đánh giá kết quả thực hiện nhiệm vụ trong năm học, xếp loại thi đua và giải quyết các chế độ, chính sách liên quan; đồng thời cho phép bù giờ chuẩn giảng dạy sang giờ NCKH theo quy định tại khoản 3 Điều 13 Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quy định về phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác",
+          "text": "Điều 8. Quy định về phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác\n1. Giảng viên phải dành thời gian làm việc trong năm học để phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác (bao gồm học tập, bồi dưỡng nâng cao năng lực chuyên môn, nghiệp vụ; xây dựng, cải tiến chương trình đào tạo; kiểm định, đảm bảo chất lượng; liên hệ, cung cấp thông tin Trường và ĐHĐN cho các học giả, đồng nghiệp, doanh nghiệp phục vụ xếp hạng đại học,..). Định mức thời gian phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác trong mỗi năm học đối với mỗi chức danh giảng viên như sau:\na) 350 giờ đối với chức danh giảng viên; 650 giờ đối với chức danh giảng viên nhiệm vụ hướng dẫn thực hành, thí nghiệm; 1055 giờ đối với chức danh trợ giảng;\nb) 290 giờ đối với chức danh giảng viên chính;\nc) 230 giờ đối với chức danh giảng viên cao cấp, phó giáo sư;\nd) 110 giờ đối với chức danh giáo sư.\n2. Giảng viên được bổ nhiệm chức vụ lãnh đạo hoặc kiêm nhiệm công tác quản lý, Đảng, Đoàn thể, định mức giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác được xác định theo quy định tại Phụ lục III của Quy định này (tính theo tỷ lệ % của định mức giờ thực hiện theo quy định tại khoản 1 Điều này).\n3. Giảng viên không thực hiện đủ giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác phải bù giờ chuẩn giảng dạy hoặc giờ NCKH sang giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác. Việc tính bù chỉ dùng cho mục đích đánh giá, xếp loại chất lượng giảng viên.\n4. Trưởng đơn vị sắp xếp, bố trí thời gian, tạo điều kiện thuận lợi để giảng viên hoàn thành nhiệm vụ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Miễn, giảm định mức giờ chuẩn giảng dạy, giờ NCKH, giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác",
+          "text": "Điều 9. Miễn, giảm định mức giờ chuẩn giảng dạy, giờ NCKH, giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác\n1. Giảng viên trong thời gian tập sự, thử việc chỉ thực hiện tối đa 50% định mức giờ chuẩn giảng dạy, đồng thời được miễn giảm nhiệm vụ NCKH để dành thời gian tham gia dự giờ, trợ giảng và tham gia thực tập, thực tế.\n2. Giảng viên trong thời gian nghỉ hưởng trợ cấp bảo hiểm xã hội, nghỉ theo các quy\n\n8\n\nđịnh của Bộ luật Lao động hiện hành được miễn giảm định mức giờ chuẩn giảng dạy, định mức giờ NCKH và định mức giờ phục vụ cộng đồng và nhiệm vụ chuyên môn khác theo tỷ lệ tương ứng với thời gian nghỉ.\n3. Giảng viên được cử đi đào tạo thạc sĩ, tiến sĩ thì tỷ lệ miễn giảm giờ chuẩn được thực hiện theo tỷ lệ thời gian đào tạo chia cho thời gian làm việc theo quy định của giảng viên trong 1 năm học.\n4. Giảng viên được cử đi đào tạo, bồi dưỡng tập trung liên tục mỗi đợt từ 30 ngày trở lên thì cứ mỗi 30 ngày được giảm 10% giờ nghĩa vụ cả năm nhưng tối đa không quá 100%. Nếu trong 01 năm được cử đi nhiều đợt liên tục thì cộng dồn để tính tỷ lệ miễn giảm tương ứng, số ngày lẻ cuối cùng nhiều hơn 15 ngày thì được tính tròn thành 30 ngày.\n5. Giảng viên được cử đi đào tạo, bồi dưỡng không tập trung thì tổng tỷ lệ miễn giảm giờ chuẩn bằng tổng tỷ lệ của thời gian tập trung chia cho thời gian giảng dạy theo quy định của giảng viên trong 1 năm học.\n6. Các trường hợp miễn, giảm khác do Hiệu trưởng xem xét, quyết định.\n\nChương III\nQUY ĐỔI GIỜ GIẢNG DẠY, NGHIÊN CỨU KHOA HỌC, PHỤC VỤ CỘNG ĐỒNG VÀ THỰC HIỆN CÁC HOẠT ĐỘNG CHUYÊN MÔN KHÁC; CHẾ ĐỘ LÀM VIỆC VƯỢT ĐỊNH MỨC LAO ĐỘNG",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Quy đổi các hoạt động giảng dạy ra giờ chuẩn giảng dạy",
+          "text": "Điều 10. Quy đổi các hoạt động giảng dạy ra giờ chuẩn giảng dạy\n1. Quy đổi các hoạt động chuyên môn ra giờ chuẩn giảng dạy đối với hoạt động giảng dạy đại học thực hiện theo quy định tại Phụ lục IV của Quy định này.\n2. Quy đổi các hoạt động chuyên môn ra giờ chuẩn giảng dạy đối với hoạt động giảng dạy sau đại học thực hiện theo quy định tại Phụ lục V của Quy định này.\n3. Đối với các nhiệm vụ đã có kinh phí hỗ trợ thù lao từ các nguồn kinh phí khác Quy định này thì không thực hiện quy đổi thời gian thực hiện nhiệm vụ ra giờ chuẩn giảng dạy; tuy nhiên, các nhiệm vụ này được xem xét tính vào tổng định mức giờ chuẩn giảng dạy để đánh giá hoàn thành nhiệm vụ trong năm đối với giảng viên không vượt định mức lao động.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Quy đổi các loại hình sản phẩm khoa học và công nghệ, hoạt động nghiên cứu và chuyển giao công nghệ ra giờ hành chính",
+          "text": "Điều 11. Quy đổi các loại hình sản phẩm khoa học và công nghệ, hoạt động nghiên cứu và chuyển giao công nghệ ra giờ hành chính\n1. Quy đổi các loại hình sản phẩm NCKH ra số giờ hành chính tương ứng thực hiện nhiệm vụ NCKH được thực hiện theo quy định tại Phụ lục VI của Quy định này, phù hợp với quy định hiện hành của ĐHĐN về quản lý hoạt động khoa học và công nghệ tại ĐHĐN.\n2. Đối với các loại hình, nội dung/kết quả NCKH quy đổi ra số giờ NCKH chưa được quy định tại khoản 1 Điều này, Phòng Khoa học Công nghệ và Hợp tác quốc tế tham mưu cho Hiệu trưởng điều chỉnh, bổ sung; báo cáo Giám đốc ĐHĐN (qua Ban Khoa học Công nghệ và Môi trường) trước thời điểm tính tổng kết giờ NCKH hàng năm 03 tháng để Giám đốc ĐHĐN xem xét quyết định.\n\nTrang 9",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Quy đổi các hoạt động phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác ra giờ hành chính",
+          "text": "Điều 12. Quy đổi các hoạt động phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác ra giờ hành chính\n\n1. Quy đổi các hoạt động phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác ra số giờ hành chính tương ứng được xác định theo quy định tại Phụ lục VII của Quy định này.\n\n2. Đối với các hoạt động quy đổi ra số giờ phục vụ cộng đồng chưa được quy định tại khoản 1 Điều này, Phòng Tổ chức - Hành chính tham mưu cho Hiệu trưởng điều chỉnh, bổ sung trước tháng 8 hàng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Chế độ làm việc vượt định mức lao động",
+          "text": "Điều 13. Chế độ làm việc vượt định mức lao động\n\n1. Trong một năm học, giảng viên giảng dạy, NCKH, phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác vượt định mức được hưởng chế độ làm việc vượt định mức theo quy định của pháp luật và Quy chế chi tiêu nội bộ của Trường. Thời gian làm việc vượt định mức của giảng viên hằng năm không được vượt quá thời gian theo quy định của pháp luật về lao động.\n\n2. Cách tính giờ làm việc vượt định mức\na) Giờ chuẩn giảng dạy vượt định mức lao động bằng số giờ chuẩn giảng dạy quy đổi thực tế thực hiện của giảng viên trừ đi số giờ chuẩn giảng dạy theo định mức của giảng viên.\nb) Giờ NCKH vượt định mức lao động bằng số giờ NCKH thực tế thực hiện của giảng viên trừ đi số giờ NCKH theo định mức của giảng viên.\nc) Giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác vượt định mức lao động bằng số giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác thực tế thực hiện của giảng viên trừ đi số giờ phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác theo định mức của giảng viên.\n\n3. Giảng viên hoàn thành số giờ hành chính của một loại hình nhiệm vụ (giảng dạy hoặc NCKH hoặc phục vụ cộng đồng hoặc thực hiện các nhiệm vụ chuyên môn khác) vượt định mức quy định nhưng chưa hoàn thành số giờ định mức của các loại hình nhiệm vụ khác thì được chuyển đổi giờ vượt định mức ở nhiệm vụ này bù cho giờ thiếu định mức ở nhiệm vụ khác để phục vụ cho việc đánh giá mức độ hoàn thành nhiệm vụ trong năm đối với giảng viên. Hệ số chuyển đổi giờ hành chính giữa các loại hình nhiệm vụ quy định tại Phụ lục VIII của Quy định này.\n\n4. Mức tối đa của số giờ hành chính vượt định mức được chuyển đổi giữa các loại hình nhiệm vụ (giảng dạy, NCKH, phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác) không vượt quá 50% định mức ứng với mỗi loại hình nhiệm vụ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Kế hoạch hóa khối lượng công việc",
+          "text": "Điều 14. Kế hoạch hóa khối lượng công việc\n\n1. Hàng năm, trước ngày 15 tháng 6, căn cứ vào kế hoạch công tác của Trường, đơn vị và sự phân công của Trưởng bộ môn/ Trưởng khoa hoặc Trưởng phòng, giảng viên có\n\nTrang 10\n\ntrách nhiệm lập kế hoạch và dự kiến khối lượng công việc giảng dạy, NCKH và các công tác khác của mình cho năm học tiếp theo và trình Trưởng đơn vị xem xét. Trưởng đơn vị cân đối, điều chỉnh, tổng hợp khối lượng công tác chuyên môn của đơn vị.\n\n2. Hàng năm, trước ngày 15 tháng 8, giảng viên và Trưởng bộ môn/ Trưởng khoa hoặc Trưởng phòng rà soát, điều chỉnh kế hoạch công tác của các cá nhân và của đơn vị (nếu cần thiết) và gửi về Phòng Tổ chức - Hành chính để tổng hợp và trình Hiệu trưởng phê duyệt thực hiện.\n\n3. Trưởng khoa có trách nhiệm đảm bảo phân công công việc trong đơn vị phù hợp với năng lực giảng viên (kể cả giảng viên có sinh hoạt chuyên môn và đang kiêm nhiệm chức vụ quản lý tại các đơn vị chức năng) và khối lượng công việc của cả đơn vị; đảm bảo số giờ tương ứng với định mức giờ chuẩn của từng cá nhân; tỷ lệ giờ vượt định mức của cá nhân phải tương ứng với tỷ lệ giờ vượt định mức trung bình chung của đơn vị.\n\n4. Giảng viên căn cứ kế hoạch công tác năm đã được phê duyệt và các nhiệm vụ được giao bổ sung (nếu có) thực hiện các công việc và báo cáo định kỳ hoặc đột xuất với lãnh đạo đơn vị khi được yêu cầu. Cuối năm, giảng viên báo cáo về kết quả thực hiện các nhiệm vụ giảng dạy, NCKH, và các nhiệm vụ khác căn cứ theo yêu cầu đánh giá xếp loại chất lượng cán bộ, viên chức. Báo cáo kết quả thực hiện nhiệm vụ của giảng viên cần có ý kiến, chữ ký thẩm định/xác nhận của Trưởng đơn vị trực tiếp quản lý giảng viên, Trưởng phòng Phòng Đào tạo, Trưởng phòng Phòng Khoa học công nghệ và hợp tác quốc tế.\n\n5. Dữ liệu báo cáo kết quả thực hiện các nhiệm vụ của giảng viên (sau khi đã được thẩm định, xác nhận theo khoản 4 Điều này) được dùng để làm cơ sở đánh giá, xếp loại cán bộ viên chức; bình xét thi đua, khen thưởng; thanh quyết toán trả tiền dạy vượt giờ định mức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Thanh toán tiền làm thêm vượt định mức, lương tăng thêm",
+          "text": "Điều 15. Thanh toán tiền làm thêm vượt định mức, lương tăng thêm\n\n1. Việc thanh toán tiền cho giảng viên đối với các công việc thực hiện vượt định mức, quyết toán tiền lương tăng thêm được thực hiện vào thời điểm kết thúc năm học, sau khi có báo cáo tổng hợp toàn Trường kết quả thực hiện nhiệm vụ của giảng viên đã được Hiệu trưởng phê duyệt.\n\n2. Phòng Kế hoạch - Tài chính có thể căn cứ kế hoạch khối lượng công việc mỗi học kỳ và cả năm của giảng viên để cho tạm ứng trước giờ giảng vượt định mức giờ chuẩn giảng dạy vào cuối học kỳ 1 và hoàn thành thanh quyết toán vào cuối năm học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Trách nhiệm của các đơn vị",
+          "text": "Điều 16. Trách nhiệm của các đơn vị\n\n1. Trưởng các đơn vị có trách nhiệm triển khai Quy định này đến toàn thể giảng viên của đơn vị, đảm bảo yêu cầu mỗi giảng viên phải thực hiện đồng thời nhiệm vụ giảng dạy, NCKH, phục vụ cộng đồng và thực hiện các nhiệm vụ chuyên môn khác căn cứ tình hình thực tế tại đơn vị; có trách nhiệm đôn đốc và kiểm tra việc thực hiện chế độ làm việc và định mức lao động của giảng viên theo Quy định này; quản lý, kiểm tra và xác nhận dữ liệu về hoạt động cộng đồng và các hoạt động chuyên môn khác của các giảng viên trong đơn vị.\n\nTrang 11\n\n2. Phòng Tổ chức - Hành chính có trách nhiệm tổng hợp kế hoạch, dự kiến khối lượng công việc thực hiện; báo cáo kê khai kết quả thực hiện nhiệm vụ của giảng viên trình Hiệu trưởng phê duyệt.\n\n3. Phòng Đào tạo có trách nhiệm quản lý dữ liệu về giờ giảng; kiểm tra, xác nhận giờ quy đổi của giảng viên và các đơn vị Bộ môn, Khoa.\n\n4. Phòng Khoa học công nghệ và hợp tác quốc tế có trách nhiệm quản lý dữ liệu về hoạt động và giờ NCKH quy đổi; kiểm tra, xác nhận giờ quy đổi của giảng viên và các đơn vị Bộ môn, Khoa và Phòng.\n\n5. Phòng Khảo thí và đảm bảo chất lượng giáo dục có trách nhiệm quản lý dữ liệu về công tác khảo thí trình độ đại học; kiểm tra, xác nhận giờ quy đổi của giảng viên và các đơn vị Bộ môn, Khoa và Phòng.\n\n6. Phòng Kế hoạch - Tài chính có trách nhiệm thực hiện thanh toán tiền làm thêm giờ vượt định mức theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Áp dụng chuyển tiếp",
+          "text": "Điều 17. Áp dụng chuyển tiếp\n\nViệc thanh toán và quy đổi hoạt động giảng dạy sau đại học ra giờ chuẩn giảng dạy đối với các lớp cao học từ khóa tuyển sinh 43 về trước được áp dụng theo dự toán kinh phí khoán chi được phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Điều khoản thi hành",
+          "text": "Điều 18. Điều khoản thi hành\n\n1. Quy định này được áp dụng kể từ năm học 2022-2023. Các quy định liên quan đã ban hành trước đây đều bãi bỏ.\n\n2. Trường hợp các văn bản dẫn chiếu tại Quy định này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo các văn bản mới đó.\n\n3. Trong quá trình thực hiện nếu có vướng mắc hoặc chưa phù hợp, các cá nhân và đơn vị cần kịp thời báo cáo (thông qua phòng Đào tạo) Hiệu trưởng xem xét, quyết định việc điều chỉnh, bổ sung.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 52/QĐ-ĐHBK-HCTH ngày 04/3/2014 ban hành Quy định làm việc của giảng viên có thời gian giảng dạy dưới 03 năm.",
+      "text": "Điều 2. Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 52/QĐ-ĐHBK-HCTH ngày 04/3/2014 ban hành Quy định làm việc của giảng viên có thời gian giảng dạy dưới 03 năm.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Phó Trưởng phòng phụ trách Phòng Đào tạo, Trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Phó Trưởng phòng phụ trách Phòng Đào tạo, Trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

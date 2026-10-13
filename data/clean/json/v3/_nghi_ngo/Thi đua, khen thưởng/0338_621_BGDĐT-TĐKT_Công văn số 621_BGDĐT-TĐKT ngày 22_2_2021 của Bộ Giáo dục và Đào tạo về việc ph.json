@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0338_621_BGDĐT-TĐKT_Công văn số 621_BGDĐT-TĐKT ngày 22_2_2021 của Bộ Giáo dục và Đào tạo về việc ph.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "621/BGDĐT-TĐKT",
+    "title": "Về việc phát hiện, lựa chọn, giới thiệu điển hình tiên tiến",
+    "documentType": "Công văn",
+    "status": null,
+    "issueDate": "22/02/2021",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo yêu cầu các sở giáo dục và đào tạo, các đại học, học viện, trường đại học, trường cao đẳng sư phạm và các đơn vị thuộc, trực thuộc Bộ kịp thời phát hiện, bồi dưỡng, nhân rộng điển hình tiên tiến và gửi bài viết, thông tin về Vụ Thi đua - Khen thưởng để tôn vinh, khen thưởng.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [],
+  "mentions": [
+    "Sở Giáo dục và Đào tạo các tỉnh, thành phố trực thuộc Trung ương",
+    "Sở Giáo dục, Khoa học và Công nghệ tỉnh Bạc Liêu",
+    "Vụ Thi đua - Khen thưởng"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

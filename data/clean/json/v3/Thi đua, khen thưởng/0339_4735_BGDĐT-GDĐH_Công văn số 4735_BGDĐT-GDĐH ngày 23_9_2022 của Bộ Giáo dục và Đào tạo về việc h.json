@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0339_4735_BGDĐT-GDĐH_Công văn số 4735_BGDĐT-GDĐH ngày 23_9_2022 của Bộ Giáo dục và Đào tạo về việc h.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "4735/BGDĐT-GDĐH",
+    "title": "Hướng dẫn thực hiện nhiệm vụ năm học 2022-2023 đối với giáo dục đại học",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "23/09/2022",
+    "effectiveDate": "23/09/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo hướng dẫn các đại học, học viện, trường đại học và trường cao đẳng sư phạm thực hiện nhiệm vụ giáo dục đại học năm học 2022-2023 với các nội dung trọng tâm như nhiệm vụ chung, nâng cao năng lực thực thi pháp luật, hoàn thiện tổ chức bộ máy, tuyển sinh, ứng dụng CNTT, bảo đảm chất lượng, khoa học công nghệ, đầu tư và hội nhập quốc tế.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "1112/CT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Chỉ thị số 1112/CT-BGDĐT ngày 19/8/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo (GDĐT) về thực hiện nhiệm vụ trọng tâm năm học 2022-2023, Bộ GDĐT đề nghị các đại học..."
+    },
+    {
+      "targetDocumentNumber": "71/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Riêng đối với các cơ sở đào tạo có ngành đào tạo giáo viên: cần chủ động làm việc với Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương để triển khai thực hiện hiệu quả Nghị định số 71/2020/NĐ-CP ngày 30/6/2020 của Chính phủ..."
+    },
+    {
+      "targetDocumentNumber": "116/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "...và Nghị định số 116/2020/NĐ-CP ngày 25/9/2020 của Chính phủ quy định về chính sách hỗ trợ tiền đóng học phí, chi phí sinh hoạt đối với sinh viên sư phạm;"
+    },
+    {
+      "targetDocumentNumber": "131/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Ban hành kèm theo Quyết định số 131/QĐ-TTg ngày 25/01/2022 của Thủ tướng Chính phủ."
+    },
+    {
+      "targetDocumentNumber": "4966/BGDĐT-CNTT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tiếp tục triển khai ứng dụng công nghệ thông tin và chuyển đổi số trong các cơ sở đào tạo theo hướng dẫn tại công văn số 4966/BGDĐT-CNTT ngày 31/10/2019 về việc triển khai nhiệm vụ ứng dụng CNTT đối với các cơ sở GDĐH."
+    }
+  ],
+  "mentions": [
+    "Đảng",
+    "Quốc hội",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Cơ sở vật chất, xây dựng/0085_1425_QĐ-ĐHĐN_Ban hành Quy định quản lý và sử dụng tài sản công tại ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "15 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1425/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy định quản lý và sử dụng tài sản công tại Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "26/04/2018",
+    "effectiveDate": "26/04/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Cơ sở vật chất, xây dựng",
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định ban hành kèm theo Quy định về quản lý và sử dụng tài sản công tại Đại học Đà Nẵng, áp dụng đối với các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc, nhằm quản lý thống nhất, hiệu quả, tiết kiệm và chống lãng phí tài sản công.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trần Văn Nam",
+      "academicTitle": "GS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức hoạt động đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ban hành kèm theo Quyết định số 6950/QĐ- DHDN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "15/2017/QH14",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 ngày 21/06/2017 của Quốc hội;"
+    },
+    {
+      "targetDocumentNumber": "151/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26/12/2017 quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công;"
+    },
+    {
+      "targetDocumentNumber": "144/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư 144/2017/TT-BTC ngày 29/12/2017 hướng dẫn một số nội dung của Nghị định số 151/2017/NĐ-CP ngày 26/12/2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công;"
+    },
+    {
+      "targetDocumentNumber": "162/2014/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 162/2014/TT-BTC ngày 06/11/2014 quy định chế độ quản lý, tính hao mòn tài sản cố định trong các cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp có sử dụng ngân sách nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "1465/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1465/QĐ-BGDĐT ngày 26/4/2017 về việc phân cấp thanh lý tài sản đối với các đơn vị sự nghiệp trực thuộc Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "7128/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "việc quản lý và lập báo cáo kiểm kê tài sản hàng năm phải thực hiện trên phần mềm quản lý công sản do ĐHĐN ban hành kèm theo Quyết định số 7128/QĐ-ĐHĐN ngày 05 tháng 12 năm 2014 của Giám đốc ĐHĐN."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Quốc hội",
+    "Đại học Đà Nẵng",
+    "Ban Cơ sở vật chất",
+    "Văn phòng",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh",
+    "Phân hiệu ĐHĐN tại Kon Tum",
+    "Ban KHTC"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về quản lý và sử dụng tài sản công tại Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mục đích",
+          "text": "Điều 1. Mục đích\n1. Thực hiện thống nhất quản lý về tài sản công tại Đại học Đà Nẵng (ĐHĐN) đảm bảo tuân thủ các quy định của pháp luật và hướng dẫn của cơ quan Nhà nước có thẩm quyền.\n2. Khai thác và sử dụng tài sản hiệu quả, tiết kiệm, chống lãng phí, thất thoát trong việc quản lý và sử dụng tài sản công.\n3. Phát huy quyền làm chủ tập thể, dân chủ, công khai trong việc quản lý và sử dụng tài sản công.\n4. Tăng cường công tác tự kiểm tra, giám sát nội bộ.\n5. Nâng cao tinh thần trách nhiệm của từng đơn vị, cá nhân trong công tác quản lý, sử dụng tài sản công.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Phạm vi điều chỉnh, đối tượng áp dụng và giải thích từ ngữ",
+          "text": "Điều 2. Phạm vi điều chỉnh, đối tượng áp dụng và giải thích từ ngữ\n1. Quy định này hướng dẫn việc quản lý và sử dụng tài sản công tại ĐHĐN.\n2. Quy định này áp dụng đối với các cơ sở giáo dục đại học thành viên (CSGDĐHTV) và các đơn vị trực thuộc ĐHĐN.\n3. Các CSGDĐHTV, gồm: các trường đại học, cao đẳng thành viên trực thuộc ĐHĐN; Các đơn vị trực thuộc ĐHĐN, gồm: Viện Nghiên cứu và Đào tạo Việt - Anh, Phân hiệu ĐHĐN tại Kon Tum, các Văn phòng và các Ban chức năng, Khoa, Trung tâm trực thuộc ĐHĐN.\n4. Tài sản, gồm: nhà, đất và các loại tài sản được nêu tại Điều 3 của Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Tài sản công tại ĐHĐN",
+          "text": "Điều 3. Tài sản công tại ĐHĐN\n1. Nhà làm việc, công trình sự nghiệp, nhà ở công vụ và tài sản khác gắn liền với đất thuộc trụ sở làm việc, cơ sở hoạt động sự nghiệp, nhà ở công vụ.\n2. Quyền sử dụng đất thuộc trụ sở làm việc, cơ sở hoạt động sự nghiệp, nhà ở công vụ.\n3. Xe ô tô và phương tiện vận tải khác; máy móc, thiết bị.\n4. Quyền sở hữu trí tuệ, phần mềm ứng dụng, cơ sở dữ liệu.\n5. Tài sản khác theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Phân cấp công tác quản lý",
+          "text": "Điều 4. Phân cấp công tác quản lý\n1. Đại học Đà Nẵng chịu trách nhiệm quản lý chung về việc sử dụng tài sản công trong toàn ĐHĐN.\n2. Cơ quan ĐHĐN chịu trách nhiệm quản lý và khai thác sử dụng các tài sản do các đơn vị trực thuộc ĐHĐN (không có tài khoản và con dấu riêng) trực tiếp sử dụng.\n3. Các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN (có tài khoản và con dấu riêng) chịu trách nhiệm quản lý và khai thác sử dụng các tài sản do đơn vị trực tiếp sử dụng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguyên tắc quản lý, sử dụng tài sản",
+          "text": "Điều 5. Nguyên tắc quản lý, sử dụng tài sản\n1. Tất cả tài sản công phát sinh từ các nguồn hợp pháp do ĐHĐN quản lý và sử dụng, phải được quản lý chặt chẽ về hiện vật và giá trị theo đúng quy định của pháp luật về quản lý, sử dụng tài sản công; phải được quản lý toàn vẹn, tập trung, thống nhất, có phân công, phân cấp cho các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN quản lý.\n2. Tài sản phải được đầu tư, trang bị và sử dụng đúng mục đích, tiêu chuẩn, định mức, chế độ, đảm bảo hiệu quả, tiết kiệm, chống lãng phí và phải thực hiện theo đúng quy định của pháp luật hiện hành về quản lý, sử dụng tài sản công; phải được giữ gìn, bảo quản, duy tu, bảo dưỡng, sửa chữa, bảo vệ theo chế độ quy định.\n3. Tài sản phải được thống kê, kế toán đầy đủ về mặt hiện vật và giá trị theo quy định của pháp luật.\n4. Việc sử dụng tài sản công vào mục đích kinh doanh, cho thuê, liên doanh, liên kết hoặc trong các giao dịch khác được thực hiện theo Luật Quản lý, sử dụng tài sản công và các văn bản hướng dẫn thi hành.\n5. Việc khai thác nguồn lực tài chính từ tài sản công phải tuân theo cơ chế thị trường, có hiệu quả, công khai, minh bạch, đúng pháp luật.\n6. Việc quản lý, sử dụng tài sản công phải được thực hiện công khai, minh bạch, đảm bảo thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng; được giám sát, thanh tra, kiểm tra, kiểm toán; mọi hành vi vi phạm chế độ quản lý, sử dụng tài sản công phải được xử lý kịp thời, nghiêm minh theo quy định của pháp luật.\n7. Tài sản phải được kiểm kê, thống kê về hiện vật, ghi nhận thông tin phù hợp với tính chất, đặc điểm của tài sản; được quản lý, bảo vệ, khai thác theo quy hoạch, kế hoạch, đảm bảo tiết kiệm, hiệu quả, đúng pháp luật.\n8. Hồ sơ tài sản phải được bảo quản và lưu trữ theo quy định của nhà nước; thực hiện kiểm kê định kỳ hàng năm về tài sản cố định đang quản lý; báo cáo cơ quan quản lý cấp trên trực tiếp để thống nhất hạch toán điều chỉnh số liệu giữa kết quả kiểm kê và sổ kế toán (nếu có); thực hiện báo cáo tình hình quản lý, sử dụng tài sản theo quy định của pháp luật về quản lý, sử dụng tài sản công.\n9. Tài sản cố định đã tính hao mòn đủ nhưng vẫn còn sử dụng được thì đơn vị vẫn phải tiếp tục quản lý theo quy định của pháp luật.\n10. Các hình thức xử lý tài sản công tại đơn vị (thu hồi, điều chuyển, thanh lý, tiêu hủy, bị mất, bị hủy hoại,...) phải được thực hiện theo quy định của pháp luật hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Nhiệm vụ, quyền hạn của ĐHĐN về quản lý, sử dụng tài sản công",
+          "text": "Điều 6. Nhiệm vụ, quyền hạn của ĐHĐN về quản lý, sử dụng tài sản công\n1. Quản lý, sử dụng tài sản công phục vụ hoạt động theo chức năng, nhiệm vụ được giao; quyết định điều tiết tài sản trong toàn ĐHĐN; tổ chức thanh tra, kiểm tra việc quản lý và sử dụng tài sản công tại các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN.\n2. Quyết định biện pháp bảo vệ, khai thác và sử dụng hiệu quả tài sản công được giao trong toàn ĐHĐN.\n3. Quyết định việc thanh lý, điều chuyển (điều chuyển tài sản giữa các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN), thu hồi, bố trí, sắp xếp nơi làm việc của các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN phù hợp với quy mô, chức năng, nhiệm vụ được giao, đúng với quy định pháp luật.\n\n4. Tổ chức giám sát, kiểm tra việc chấp hành các quy định về quản lý và sử dụng tài sản công của các cá nhân, đơn vị sử dụng; thu hồi tài sản sử dụng không đúng mục đích hoặc không hiệu quả trong phạm vi quản lý.\n\n5. Quản lý việc sử dụng tài sản công đúng mục đích, tiêu chuẩn, định mức, chế độ và bảo đảm hiệu quả, tiết kiệm, chống lãng phí.\n\n6. Chấp hành các quy định của Luật Quản lý, sử dụng tài sản công và các quy định khác của pháp luật có liên quan, bảo đảm sử dụng tài sản công đúng mục đích, tiêu chuẩn, định mức, chế độ, hiệu quả và tiết kiệm.\n\n7. Chịu trách nhiệm trước pháp luật về quản lý, sử dụng tài sản công thuộc phạm vi quản lý; báo cáo công tác quản lý và sử dụng tài sản công tại ĐHĐN cho các cấp theo quy định và khi có yêu cầu.\n\n8. Giải quyết các khiếu nại, tố cáo liên quan đến việc quản lý sử dụng tài sản công tại ĐHĐN theo quy định của pháp luật.\n\n9. Xử lý theo thẩm quyền hoặc trình các cấp có thẩm quyền xử lý vi phạm pháp luật về quản lý, sử dụng tài sản công;\n\n10. Các nhiệm vụ, quyền hạn khác theo quy định hiện hành của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quyền, nghĩa vụ của các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN về quản lý, sử dụng tài sản công",
+          "text": "Điều 7. Quyền, nghĩa vụ của các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN về quản lý, sử dụng tài sản công\n\n1. Các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN được giao quản lý, sử dụng tài sản công có các quyền sau đây:\n\n1.1. Chỉ đạo việc tổ chức thực hiện quản lý, sử dụng tài sản công được giao tại đơn vị mình quản lý.\n\n1.2. Xử lý theo thẩm quyền hoặc trình các cấp có thẩm quyền xử lý vi phạm pháp luật về quản lý, sử dụng tài sản công tại đơn vị.\n\n1.3. Chịu trách nhiệm việc bố trí, sắp xếp để khai thác tài sản công được giao thuộc đơn vị mình quản lý có hiệu quả và theo đúng các quy định của ĐHĐN và của pháp luật.\n\n1.4. Quyết định việc điều chuyển, thu hồi, bố trí, sắp xếp nơi làm việc của các đơn vị (các đơn vị trực thuộc quyền của đơn vị quản lý) phù hợp với quy mô, chức năng, nhiệm vụ được giao, đúng với quy định pháp luật.\n\n2. Các CSGDĐHTV và các đơn vị trực thuộc ĐHĐN có các nghĩa vụ về quản lý và sử dụng tài sản công, gồm:\n\n2.1. Ban hành và phê duyệt quy định chi tiết: quy chế quản lý và sử dụng tài sản công tại đơn vị; sổ nhật ký cho phòng thí nghiệm, phòng thực hành,...; kế hoạch bảo trì, bảo dưỡng trang thiết bị và các quy định khác theo tính chất đặc thù phù hợp với từng đơn vị. Nội dung quy chế quản lý và sử dụng tài sản công tại đơn vị phải tuân thủ theo đúng các quy định hiện hành của pháp luật.\n\n2.2. Tổ chức và giám sát quá trình thực hiện về quy định quản lý, sử dụng tài sản công thuộc phạm vi quản lý theo thẩm quyền đúng với các quy định đã ban hành, quy định của ĐHĐN và các quy định hiện hành của pháp luật về quản lý, sử dụng tài sản công.\n\n2.3. Chấp hành các quy định của Luật Quản lý, sử dụng tài sản công và các quy định khác của pháp luật có liên quan, bảo đảm sử dụng tài sản công đúng mục đích, tiêu chuẩn, định mức, chế độ, hiệu quả, tiết kiệm, chống lãng phí.\n\n2.4. Chịu trách nhiệm trước pháp luật và ĐHĐN về quản lý, sử dụng tài sản công thuộc phạm vi quản lý.\n\n2.5. Lập thẻ tài sản cố định; lập và quản lý hồ sơ tài sản; hạch toán, ghi chép tài sản; theo dõi, báo cáo tình hình quản lý, sử dụng tài sản công được giao theo quy định của Luật Quản lý, sử dụng tài sản công và các quy định hiện hành của pháp luật về kế toán, thống kê.\n\n2.6. Chịu trách nhiệm quản lý, kiểm kê, lập báo cáo tài sản hằng năm và nộp báo cáo kiểm kê cho ĐHĐN; việc quản lý và lập báo cáo kiểm kê tài sản hàng năm phải thực hiện trên phần mềm quản lý công sản do ĐHĐN ban hành kèm theo Quyết định số 7128/QĐ-ĐHĐN ngày 05 tháng 12 năm 2014 của Giám đốc ĐHĐN. Chịu trách nhiệm lập và báo cáo về quản lý tài sản cho ĐHĐN và các cơ quan chức năng khác khi có yêu cầu cụ thể.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Các hành vi bị nghiêm cấm",
+          "text": "Điều 8. Các hành vi bị nghiêm cấm\n\n1. Lợi dụng, lạm dụng chức vụ, quyền hạn chiếm đoạt, chiếm giữ và sử dụng trái phép tài sản công.\n\n2. Đầu tư xây dựng, mua sắm, giao, thuê, sử dụng tài sản công không đúng mục đích, chế độ, vượt tiêu chuẩn, định mức.\n\n3. Giao tài sản công cho các đơn vị, cá nhân vượt tiêu chuẩn, định mức hoặc giao cho các đơn vị, cá nhân không có nhu cầu sử dụng.\n\n4. Sử dụng xe ô tô và tài sản công khác do tổ chức, cá nhân tặng cho không đúng mục đích, chế độ, vượt tiêu chuẩn, định mức.\n\n5. Sử dụng hoặc không sử dụng tài sản công được giao gây lãng phí; sử dụng tài sản công vào mục đích kinh doanh, cho thuê, liên doanh, liên kết không phù hợp với mục đích sử dụng của tài sản, làm ảnh hưởng đến việc thực hiện chức năng, nhiệm vụ do Nhà nước giao; sử dụng tài sản công để kinh doanh trái pháp luật.\n\n6. Xử lý tài sản công trái quy định của pháp luật.\n\n7. Hủy hoại hoặc cố ý làm hư hỏng tài sản công.\n\n8. Chiếm đoạt, chiếm giữ, sử dụng trái phép tài sản công.\n\n9. Không thực hiện hoặc thực hiện không đầy đủ trách nhiệm, nghĩa vụ trong quản lý, sử dụng tài sản công theo quy định của pháp luật.\n\n10. Hành vi bị nghiêm cấm khác trong quản lý, sử dụng tài sản công theo quy định của pháp luật có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Khen thưởng, kỷ luật",
+          "text": "Điều 9. Khen thưởng, kỷ luật\n\n1. Các đơn vị, cá nhân có thành tích trong việc bảo vệ tài sản công tại ĐHĐN thì được xét khen thưởng theo chế độ chung. Nếu có những cải tiến nâng cao năng suất máy móc, thiết bị; tiết kiệm nguyên, nhiên vật liệu; phục hồi máy móc thiết bị cũ đạt hiệu quả thiết thực thì được đề nghị khen thưởng theo chế độ sáng kiến cải tiến kỹ thuật, thực hành tiết kiệm, chống lãng phí.\n\n2. Các đơn vị và cá nhân có hành vi vi phạm pháp luật về quản lý, sử dụng tài sản công thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; trường hợp gây thiệt hại cho Nhà nước thì phải bồi thường theo quy định của pháp luật.\n\n3. Thủ trưởng các đơn vị có trách nhiệm giải trình và phải chịu trách nhiệm hoặc liên đới chịu trách nhiệm nếu để xảy ra vi phạm pháp luật về quản lý, sử dụng tài sản công tại đơn vị mình; tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Trách nhiệm thực hiện báo cáo",
+          "text": "Điều 10. Trách nhiệm thực hiện báo cáo\n\n1. Trong quá trình quản lý và khai thác sử dụng tài sản công tại đơn vị, các CSGDĐHTV và đơn vị trực thuộc ĐHĐN có trách nhiệm báo cáo những vấn đề phát sinh cho Giám đốc ĐHĐN qua Ban Cơ sở vật chất.\n\n2. Các CSGDĐHTV và đơn vị trực thuộc ĐHĐN thực hiện công tác kiểm kê và lập báo cáo kiểm kê tài sản lúc 0 giờ ngày 01/01 hằng năm theo phần mềm quản lý công sản ĐHĐN; lập báo cáo giám sát đánh giá hiệu quả khai thác và sử dụng tài sản tại đơn vị quản lý theo đúng thời gian quy định và báo cáo đột xuất khi có yêu cầu của các cấp có thẩm quyền. Việc lập báo cáo đột xuất sẽ được hướng dẫn bằng văn bản khi có yêu cầu.\n\n3. Ban CSVC và Ban KHTC phối hợp lập và tổng hợp số liệu báo cáo Bộ Giáo dục và Đào tạo và các cơ quan chức năng theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 11. Hiệu lực thi hành\n\n1. Quy định này có hiệu lực kể từ ngày ký. Bãi bỏ các quy định trước đây trái với Quy định này.\n\n2. Trong quá trình triển khai thực hiện, nội dung của Quy định này sẽ được điều chỉnh, cập nhật khi có các văn bản quy phạm pháp luật mới được ban hành.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 12. Tổ chức thực hiện\n\n1. Thủ trưởng các CSGDĐHTV và các đơn vị trực thuộc có trách nhiệm triển khai thực hiện Quy định này;\n\n2. Văn phòng và các Ban chức năng có trách nhiệm tham mưu cho Giám đốc ĐHĐN và tư vấn, hỗ trợ các CSGDĐHTV và các đơn vị trực thuộc triển khai thực hiện các nội dung của Quy định này.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành Quy định về quản lý và sử dụng tài sản công tại Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành Quy định về quản lý và sử dụng tài sản công tại Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban chức năng, Hiệu trưởng các cơ sở giáo dục đại học thành viên, Thủ trưởng các đơn vị trực thuộc và cán bộ, viên chức thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyế",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban chức năng, Hiệu trưởng các cơ sở giáo dục đại học thành viên, Thủ trưởng các đơn vị trực thuộc và cán bộ, viên chức thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

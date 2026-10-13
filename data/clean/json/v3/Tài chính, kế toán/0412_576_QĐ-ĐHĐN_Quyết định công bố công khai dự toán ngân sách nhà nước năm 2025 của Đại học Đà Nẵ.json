@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0412_576_QĐ-ĐHĐN_Quyết định công bố công khai dự toán ngân sách nhà nước năm 2025 của Đại học Đà Nẵ.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "576/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc công bố công khai dự toán ngân sách nhà nước năm 2025 của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "25/02/2025",
+    "effectiveDate": "25/02/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định công bố công khai số liệu dự toán chi ngân sách nhà nước năm 2025 của Đại học Đà Nẵng bao gồm chi sự nghiệp giáo dục, đào tạo, nguồn vốn viện trợ và chi sự nghiệp khoa học và công nghệ.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "61/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "90/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 90/2018/TT-BTC ngày 28/9/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4269/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4269/QĐ-BGDĐT ngày 30/12/2024 của Bộ Giáo dục và Đào tạo về việc giao dự toán ngân sách nhà nước năm 2025;"
+    },
+    {
+      "targetDocumentNumber": "08/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 08/QĐ-BGDĐT ngày 06/01/2025 của Bộ Giáo dục và Đào tạo về việc công bố công khai dự toán ngân sách nhà nước năm 2025;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Tài chính",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Kế hoạch – Tài chính",
+    "Trường Đại học Kinh tế",
+    "Trường Đại học Sư phạm",
+    "Trường Đại học Ngoại ngữ",
+    "Trường Đại học Sư phạm Kỹ thuật",
+    "Trường Đại học CNTT&TT Việt - Hàn",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh",
+    "Văn phòng ĐHĐN"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố công khai số liệu dự toán chi ngân sách nhà nước năm 2025 của Đại học Đà Nẵng (chi tiết theo biểu đính kèm).",
+      "text": "Điều 1. Công bố công khai số liệu dự toán chi ngân sách nhà nước năm 2025 của Đại học Đà Nẵng (chi tiết theo biểu đính kèm).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.\n\n2",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng ban Ban Kế hoạch – Tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng ban Ban Kế hoạch – Tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

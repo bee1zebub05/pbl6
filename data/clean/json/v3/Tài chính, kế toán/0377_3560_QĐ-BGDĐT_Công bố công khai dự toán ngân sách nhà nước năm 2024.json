@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0377_3560_QĐ-BGDĐT_Công bố công khai dự toán ngân sách nhà nước năm 2024.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3560/QĐ-BGDĐT",
+    "title": "V/v công bố công khai dự toán ngân sách nhà nước năm 2024",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/11/2024",
+    "effectiveDate": "14/11/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định công bố công khai số liệu dự toán ngân sách nhà nước đợt 3 năm 2024 của Bộ Giáo dục và Đào tạo.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24/10/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "61/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "90/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 90/2018/TT-BTC ngày 28/9/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 61/2017/TT-BTC ngày 15 tháng 6 năm 2017 của Bộ Tài chính hướng dẫn về công khai ngân sách đối với đơn vị dự toán ngân sách, tổ chức được ngân sách nhà nước hỗ trợ;"
+    }
+  ],
+  "mentions": [
+    "Bộ Tài chính",
+    "Vụ Kế hoạch - Tài chính",
+    "Trường Đại học Mở TP.HCM",
+    "Trường Đại học Hà Nội",
+    "Trường Đại học Ngoại thương",
+    "Trường Đại học Kinh tế quốc dân",
+    "Đại học Kinh tế TP.HCM",
+    "Trường Đại học Bách khoa Hà Nội",
+    "Trường Đại học Sư phạm Kỹ thuật TP.HCM",
+    "Trường Đại học Luật TP.HCM",
+    "Trường Đại học Mỏ Địa chất",
+    "Trung tâm Đào tạo KV SEAMEO tại VN",
+    "Báo Giáo dục Thời đại",
+    "Trường Đại học Cần Thơ",
+    "Trường Đại học Tây Bắc",
+    "Trường Đại học Y dược Thái Nguyên",
+    "Trường Đại học Dược Hà Nội",
+    "Trường Đại học Mỏ - Địa chất",
+    "Trường Đại học Sư phạm Thể dục Thể thao Hà Nội",
+    "Trường Đại học Sư phạm Thể dục Thể thao TP.HCM",
+    "Trường Đại học Phạm Ngũ Tự",
+    "Trường Đại học Kiên Giang",
+    "Trường Đại học Nông Lâm TP.HCM",
+    "Trường Đại học Nha Trang",
+    "Trường Đại học Xây dựng",
+    "Trường Đại học Giao thông vận tải",
+    "Đại học Thái Nguyên",
+    "Trường Đại học Tây Nguyên",
+    "Trường Đại học Đà Lạt",
+    "Trường Đại học Mỹ thuật Công nghiệp",
+    "Trường Đại học Sư phạm Nghệ thuật TƯ",
+    "Đại học Huế",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Sư phạm Hà Nội",
+    "Trường THPT chuyên Đại học sư phạm",
+    "Trường Đại học Sư phạm Hà Nội II",
+    "Trường Đại học Vinh",
+    "Trường Đại học Quy Nhơn",
+    "Trường Đại học sư phạm Kỹ thuật Hưng Yên",
+    "Trường Đại học Đồng Tháp",
+    "Trường Cao đẳng sư phạm TW",
+    "Trường Cao đẳng sư phạm TW Nha Trang",
+    "Trường Cao đẳng sư phạm TW TPHCM",
+    "Học viện Quản lý giáo dục",
+    "Trường Cán bộ Quản lý giáo dục TP HCM",
+    "Tạp chí giáo dục",
+    "TTKV về học tập suốt đời của tổ chức SEAMEO tại VN",
+    "Trường Hữu nghị T80",
+    "Trường Cao đẳng Nghề",
+    "Viện Khoa học Giáo dục",
+    "Viện Nghiên cứu thiết kế trường học",
+    "Viện Nghiên cứu cao cấp về Toán",
+    "Ban Quản lý Dự án ngoại ngữ 2020",
+    "Ban Quản lý các dự án (Bộ GD&DT)",
+    "Vampen phòng Bộ Giáo dục và Đào tạo",
+    "Trung tâm Phát triển GDĐT phía Nam",
+    "Trường Đại học Việt Đức",
+    "Viện nghiên cứu chiến lược và ODA",
+    "Vụ Giáo dục Thường xuyên và Sách",
+    "Thanh tra Bộ Giáo dục và Đào tạo",
+    "Cục Quản lý chất lượng",
+    "Văn phòng Cục QLCL",
+    "Trung tâm Kiểm định chất lượng giáo dục",
+    "Trung tâm Khảo thí và Kiểm định chất lượng giáo dục văn bằng",
+    "Cục Nhà giáo và Cán bộQLGD",
+    "Cục Công nghệ thông tin",
+    "Cục Hợp tác quốc tế",
+    "Vampen phòng Cục HTQT",
+    "Phân viện Puskin",
+    "Trung tâm Phát triển giáo dục quốc tế",
+    "Vampen phòng QG Giáo dục và PTNL",
+    "Hội đồng Giáo sư nhà nước",
+    "Dự án Giáo dục THCS khu vực khó khăn nhất giai đoạn II",
+    "Trường Đại học Bách khoa",
+    "Trường Đại học Thương mại"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố công khai số liệu dự toán ngân sách nhà nước đợt 3 năm 2024 của Bộ Giáo dục và Đào tạo (Chi tiết theo biểu đính kèm).",
+      "text": "Điều 1. Công bố công khai số liệu dự toán ngân sách nhà nước đợt 3 năm 2024 của Bộ Giáo dục và Đào tạo (Chi tiết theo biểu đính kèm).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

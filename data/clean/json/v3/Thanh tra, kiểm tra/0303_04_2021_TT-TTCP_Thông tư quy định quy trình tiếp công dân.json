@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0303_04_2021_TT-TTCP_Thông tư quy định quy trình tiếp công dân.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "04/2021/TT-TTCP",
+    "title": "Thông tư quy định quy trình tiếp công dân",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/10/2021",
+    "effectiveDate": "15/11/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Thông tư này quy định quy trình tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh tại nơi tiếp công dân của cơ quan, tổ chức, đơn vị có trách nhiệm tiếp công dân; xác định nhân thân và tính hợp pháp của người đại diện; tiếp nhận, phân loại, xử lý nội dung; trách nhiệm của người đứng đầu cơ quan, đơn vị và công tác theo dõi, quản lý việc tiếp công dân.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan",
+      "Khác"
+    ]
+  },
+  "organization": {
+    "name": "Thanh tra Chính phủ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Hồng Phong",
+      "academicTitle": null,
+      "position": [
+        "Tổng Thanh tra"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "64/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân;"
+    },
+    {
+      "targetDocumentNumber": "31/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều của Luật Tố cáo;"
+    },
+    {
+      "targetDocumentNumber": "124/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Khiếu nại;"
+    },
+    {
+      "targetDocumentNumber": "50/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "05/2021/TT-TTCP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Việc phân loại, xử lý nội dung khiếu nại, tố cáo, kiến nghị, phản ánh được căn cứ vào bản ghi nội dung trình bày hoặc đơn của công dân và thực hiện theo Thông tư số 05/2021/TT-TTCP ngày 01 tháng 10 năm 2021 của Thanh tra Chính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh."
+    },
+    {
+      "targetDocumentNumber": "06/2014/TT-TTCP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Thông tư số 06/2014/TT-TTCP ngày 31 tháng 10 năm 2014 của Thanh tra Chính phủ quy định quy trình tiếp công dân hết hiệu lực kể từ ngày Thông tư này có hiệu lực pháp luật."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Thanh tra Chính phủ",
+    "Văn phòng Ủy ban nhân dân"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh",
+      "text": "Điều 1. Phạm vi điều chỉnh\nThông tư này quy định quy trình tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh tại nơi tiếp công dân của cơ quan, tổ chức, đơn vị có trách nhiệm tiếp công dân theo quy định tại các điểm a, b, c và d khoản 1 Điều 4 của Luật Tiếp công dân và các cơ quan thuộc Chính phủ, đơn vị sự nghiệp công lập theo quy định tại Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Cơ quan hành chính nhà nước, cơ quan thuộc Chính phủ, đơn vị sự nghiệp công lập (sau đây gọi chung là cơ quan, đơn vị), người đứng đầu cơ quan, đơn vị và người tiếp công dân.\n2. Người khiếu nại, tố cáo, kiến nghị, phản ánh đến trình bày trực tiếp tại Trụ sở tiếp công dân hoặc địa điểm tiếp công dân.\n3. Cơ quan, tổ chức, cá nhân có liên quan đến công tác tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Mục đích của việc tiếp công dân",
+      "text": "Điều 3. Mục đích của việc tiếp công dân\n1. Hướng dẫn công dân thực hiện quyền khiếu nại, tố cáo, kiến nghị, phản ánh đúng quy định pháp luật, góp phần tuyên truyền, phổ biến pháp luật.\n2. Tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh thuộc thẩm quyền giải quyết của người đứng đầu cơ quan, đơn vị để xem xét, giải quyết theo quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Việc từ chối tiếp công dân",
+      "text": "Điều 4. Việc từ chối tiếp công dân\nNgười tiếp công dân được từ chối tiếp công dân trong các trường hợp quy định tại khoản 1 và khoản 2 Điều 9 Luật Tiếp công dân và phải giải thích cho công dân được biết lý do từ chối tiếp, đồng thời báo cáo người phụ trách tiếp công dân.\nTrường hợp từ chối tiếp công dân theo quy định tại khoản 3 Điều 9 Luật Tiếp công dân thì người đứng đầu cơ quan, đơn vị phụ trách tiếp công dân ra Thông báo từ chối tiếp công dân. Thông báo được thực hiện theo Mẫu số 01 ban hành kèm theo Thông tư này.\n\nChương II\nTIẾP NGƯỜI KHIẾU NẠI, NGƯỜI TỐ CÁO, NGƯỜI KIẾN NGHỊ, PHẢN ÁNH\n\nMục 1\nXÁC ĐỊNH NHÂN THÂN CỦA NGƯỜI KHIẾU NẠI, NGƯỜI TỐ CÁO, NGƯỜI KIẾN NGHỊ, PHẢN ÁNH VÀ TÍNH HỢP PHÁP CỦA NGƯỜI ĐẠI DIỆN THEO QUY ĐỊNH CỦA PHÁP LUẬT",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Xác định nhân thân của người khiếu nại, người tố cáo, người kiến nghị, phản ánh",
+      "text": "Điều 5. Xác định nhân thân của người khiếu nại, người tố cáo, người kiến nghị, phản ánh\n1. Khi tiếp người khiếu nại, người tiếp công dân yêu cầu họ nêu rõ họ tên, địa chỉ và xuất trình giấy tờ tùy thân, giấy giới thiệu, giấy ủy quyền (nếu có).\n\n2. Khi tiếp người tố cáo, người kiến nghị, phản ánh, người tiếp công dân yêu cầu người tố cáo, người kiến nghị, phản ánh nêu rõ họ tên, địa chỉ và xuất trình giấy tờ tùy thân.\nTrong quá trình tiếp người tố cáo, người tiếp công dân phải giữ bí mật họ tên, địa chỉ, bút tích người tố cáo theo quy định của pháp luật về tố cáo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Xác định tính hợp pháp của người đại diện, người được ủy quyền, luật sư hoặc trợ giúp viên pháp lý",
+      "text": "Điều 6. Xác định tính hợp pháp của người đại diện, người được ủy quyền, luật sư hoặc trợ giúp viên pháp lý\n1. Trường hợp cơ quan, tổ chức thực hiện việc khiếu nại thông qua người đại diện là người đứng đầu cơ quan, tổ chức thì người tiếp công dân yêu cầu người đại diện xuất trình giấy giới thiệu, giấy tờ tùy thân.\nTrong trường hợp người đứng đầu cơ quan, tổ chức ủy quyền cho người đại diện theo quy định của pháp luật để thực hiện việc khiếu nại thì người tiếp công dân đề nghị người được ủy quyền xuất trình giấy tờ tùy thân, giấy ủy quyền của người ủy quyền.\n2. Trường hợp người đến trình bày việc khiếu nại là người đại diện, người được ủy quyền của người khiếu nại được quy định tại điểm a khoản 1 Điều 12 Luật Khiếu nại thì người tiếp công dân yêu cầu xuất trình giấy tờ chứng minh việc đại diện, ủy quyền hợp pháp hoặc giấy tờ khác có liên quan.\nTrường hợp người đến trình bày là người đại diện, người được ủy quyền hợp pháp thì người tiếp công dân tiến hành các thủ tục tiếp như đối với người khiếu nại.\n3. Trường hợp người khiếu nại ủy quyền cho luật sư hoặc trợ giúp viên pháp lý thực hiện việc khiếu nại thì người tiếp công dân yêu cầu luật sư hoặc trợ giúp viên pháp lý xuất trình Thẻ luật sư, Thẻ trợ giúp viên pháp lý và Giấy ủy quyền khiếu nại.\n4. Trường hợp công dân không có giấy ủy quyền hoặc việc ủy quyền không theo đúng quy định tại điểm a, điểm b khoản 1 Điều 12 Luật Khiếu nại thì người tiếp công dân không tiếp nhận hồ sơ vụ việc và giải thích rõ lý do, hướng dẫn công dân làm các thủ tục cần thiết để thực hiện việc khiếu nại theo đúng quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh",
+      "text": "Điều 7. Tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh\n1. Khi công dân đến trình bày trực tiếp và không có đơn thì người tiếp công dân hướng dẫn công dân viết đơn khiếu nại, tố cáo, kiến nghị, phản ánh hoặc ghi chép đầy đủ, trung thực, chính xác nội dung trình bày của công dân; nội dung nào chưa rõ thì đề nghị công dân trình bày thêm, sau đó đọc lại cho công dân nghe và đề nghị họ ký tên hoặc điểm chỉ xác nhận vào văn bản.\n2. Trường hợp công dân đến trình bày và có đơn với nội dung cụ thể, rõ ràng, có thể xác định được rõ tính chất vụ việc và cơ quan có thẩm quyền giải quyết thì người tiếp công dân hướng dẫn công dân gửi đơn đến cơ quan có thẩm quyền để được xem xét, giải quyết theo quy định của pháp luật.\n3. Trường hợp nhiều người đến khiếu nại, tố cáo, kiến nghị, phản ánh về cùng một nội dung thì người tiếp công dân hướng dẫn họ cử người đại diện để trình bày; ghi lại nội dung trình bày và đề nghị người đại diện ký tên hoặc điểm chỉ xác nhận vào văn bản.\n4. Trường hợp công dân trình bày nhiều nội dung, vừa có nội dung khiếu nại, vừa có nội dung tố cáo, kiến nghị, phản ánh thì người tiếp công dân hướng dẫn công dân thực hiện việc khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp luật.\n5. Việc tiếp nhận, ghi chép nội dung khiếu nại, tố cáo, kiến nghị, phản ánh và việc hướng dẫn công dân viết đơn phải được ghi vào Sổ tiếp công dân hoặc được nhập vào phần mềm cơ sở dữ liệu về tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Phân loại, xử lý khiếu nại, tố cáo, kiến nghị, phản ánh",
+      "text": "Điều 8. Phân loại, xử lý khiếu nại, tố cáo, kiến nghị, phản ánh\n1. Việc phân loại, xử lý nội dung khiếu nại, tố cáo, kiến nghị, phản ánh được căn cứ vào bản ghi nội dung trình bày hoặc đơn của công dân và thực hiện theo Thông tư số 05/2021/TT-TTCP ngày 01 tháng 10 năm 2021 của Thanh tra Chính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh.\n2. Ý kiến trình bày nội dung khiếu nại, tố cáo, kiến nghị, phản ánh không thuộc thẩm quyền giải quyết của cơ quan, đơn vị tiếp công dân thì người tiếp công dân hướng dẫn công dân viết đơn gửi đến cơ quan, tổ chức có thẩm quyền giải quyết.\nTrường hợp nội dung thuộc thẩm quyền giải quyết của cơ quan, đơn vị mình thì người tiếp công dân tiếp nhận các thông tin, tài liệu để báo cáo người có thẩm quyền giải quyết. Nếu công dân cung cấp các thông tin, tài liệu, chứng cứ có liên quan đến khiếu nại, tố cáo, kiến nghị, phản ánh thì người tiếp công dân xem xét để tiếp nhận các thông tin, tài liệu, chứng cứ đó. Việc tiếp nhận thông tin, tài liệu, chứng cứ được thực hiện bằng giấy biên nhận theo Mẫu số 02 ban hành kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Trách nhiệm của người đứng đầu cơ quan, đơn vị trong việc trực tiếp tiếp công dân",
+      "text": "Điều 9. Trách nhiệm của người đứng đầu cơ quan, đơn vị trong việc trực tiếp tiếp công dân\n1. Người đứng đầu cơ quan, đơn vị phải trực tiếp tiếp công dân để lắng nghe, xem xét, giải quyết và chỉ đạo việc giải quyết các khiếu nại, tố cáo, kiến nghị, phản ánh thuộc thẩm quyền của mình hoặc thuộc thẩm quyền của người đứng đầu cơ quan, đơn vị cấp dưới trong công tác tiếp công dân, xử lý đơn và giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh.\nNgười đứng đầu cơ quan, đơn vị có trách nhiệm tiếp công dân định kỳ hoặc đột xuất theo quy định của Luật Tiếp công dân và kiểm tra, đôn đốc việc xử lý sau tiếp công dân của các cơ quan, đơn vị.\n2. Việc tiếp công dân của người đứng đầu cơ quan, đơn vị phải được công chức, viên chức giúp việc ghi chép đầy đủ vào Sổ tiếp công dân hoặc nhập thông tin vào Cơ sở dữ liệu quốc gia về công tác tiếp công dân, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh hoặc phần mềm quản lý công tác tiếp công dân và được lưu tại nơi tiếp công dân. Ý kiến chỉ đạo của người đứng đầu cơ quan, đơn vị trong việc giải quyết các khiếu nại, tố cáo, kiến nghị, phản ánh tại Trụ sở tiếp công dân phải được lập thành văn bản và gửi cho các cơ quan, tổ chức, đơn vị có liên quan để triển khai thực hiện theo đúng yêu cầu, nội dung chỉ đạo; ấn định thời gian giải quyết phù hợp với quy định của pháp luật và cơ quan, tổ chức, đơn vị có trách nhiệm giải quyết phải gửi kết quả giải quyết cho công dân được biết.\n3. Khi tiếp công dân, nếu vụ việc rõ ràng, cụ thể, có cơ sở và thuộc thẩm quyền giải quyết thì người đứng đầu cơ quan, đơn vị phải trả lời ngay cho công dân biết; nếu vụ việc phức tạp cần nghiên cứu, xem xét thì nói rõ thời hạn giải quyết và người cần liên hệ để biết kết quả giải quyết.\n4. Kết thúc việc tiếp công dân, người đứng đầu cơ quan, đơn vị ra thông báo kết luận việc tiếp công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Trách nhiệm của Ban tiếp công dân, công chức, viên chức được giao nhiệm vụ giúp người đứng đầu cơ quan, đơn vị tiếp công dân và trách nhiệm của cơ quan, đơn vị có liên quan",
+      "text": "Điều 10. Trách nhiệm của Ban tiếp công dân, công chức, viên chức được giao nhiệm vụ giúp người đứng đầu cơ quan, đơn vị tiếp công dân và trách nhiệm của cơ quan, đơn vị có liên quan\n1. Ban tiếp công dân, công chức, viên chức được giao nhiệm vụ giúp người đứng đầu cơ quan, đơn vị tiếp công dân và cơ quan Thanh tra nhà nước hoặc Văn phòng Ủy ban nhân dân cùng cấp có trách nhiệm:\n\na) Sắp xếp việc tiếp công dân của người đứng đầu cơ quan, đơn vị và thông báo cho cơ quan, đơn vị có liên quan biết; ưu tiên những vụ việc khiếu nại, tố cáo, kiến nghị, phản ánh đông người, phức tạp, kéo dài;\nb) Cử người ghi chép nội dung việc tiếp công dân;\nc) Chuẩn bị các điều kiện cần thiết khác để người đứng đầu cơ quan, đơn vị thực hiện việc tiếp công dân.\n2. Cơ quan, đơn vị có liên quan đến nội dung khiếu nại, tố cáo, kiến nghị, phản ánh có trách nhiệm:\na) Cử lãnh đạo cơ quan, đơn vị cùng tiếp công dân để thực hiện những yêu cầu do người đứng đầu cơ quan, đơn vị giao;\nb) Cử công chức, viên chức để ghi chép nội dung việc tiếp công dân, nhận các thông tin, tài liệu do công dân cung cấp;\nc) Chuẩn bị đầy đủ những thông tin, tài liệu liên quan đến nội dung vụ việc khiếu nại, tố cáo, kiến nghị, phản ánh mà người đứng đầu cơ quan, đơn vị sẽ tiếp công dân.\n3. Kết thúc việc tiếp công dân, các cơ quan, đơn vị có liên quan chịu trách nhiệm giúp người đứng đầu cơ quan, đơn vị chuẩn bị văn bản trả lời công dân.\nTrường hợp vụ việc liên quan đến trách nhiệm của nhiều cấp, nhiều ngành thì cơ quan thanh tra nhà nước cùng cấp có trách nhiệm phối hợp với các cơ quan, đơn vị, cá nhân có thẩm quyền nghiên cứu, phân tích tính chất, mức độ, nguyên nhân của vụ việc để đề xuất các biện pháp giải quyết, đồng thời chuẩn bị văn bản để người đứng đầu cơ quan, đơn vị trả lời công dân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Theo dõi, quản lý việc tiếp công dân",
+      "text": "Điều 11. Theo dõi, quản lý việc tiếp công dân\nViệc tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh phải được ghi vào Sổ tiếp công dân hoặc nhập thông tin vào Cơ sở dữ liệu quốc gia về công tác tiếp công dân, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh hoặc phần mềm quản lý công tác tiếp công dân.\nSổ tiếp công dân được thực hiện theo Mẫu số 03 ban hành kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 12. Hiệu lực thi hành\n1. Thông tư này có hiệu lực kể từ ngày 15 tháng 11 năm 2021.\n6\n\n2. Thông tư số 06/2014/TT-TTCP ngày 31 tháng 10 năm 2014 của Thanh tra Chính phủ quy định quy trình tiếp công dân hết hiệu lực kể từ ngày Thông tư này có hiệu lực pháp luật.\n3. Trong quá trình thực hiện nếu có khó khăn, vướng mắc hoặc có vấn đề mới phát sinh đề nghị cơ quan, tổ chức, đơn vị, cá nhân có liên quan phản ánh kịp thời về Thanh tra Chính phủ để sửa đổi, bổ sung cho phù hợp.\n\nTỔNG THANH TRA",
+      "isImplementationClause": true
+    }
+  ]
+}

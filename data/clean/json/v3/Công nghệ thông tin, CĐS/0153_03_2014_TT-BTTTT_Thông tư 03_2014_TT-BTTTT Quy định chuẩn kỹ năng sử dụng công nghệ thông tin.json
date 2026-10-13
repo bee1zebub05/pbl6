@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0153_03_2014_TT-BTTTT_Thông tư 03_2014_TT-BTTTT Quy định chuẩn kỹ năng sử dụng công nghệ thông tin.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "03/2014/TT-BTTTT",
+    "title": "Thông tư Quy định Chuẩn kỹ năng sử dụng công nghệ thông tin",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "11/03/2014",
+    "effectiveDate": "28/04/2014",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS"
+    ],
+    "summary": "Thông tư này quy định Chuẩn kỹ năng sử dụng công nghệ thông tin bao gồm Chuẩn kỹ năng sử dụng CNTT cơ bản (06 mô đun) và Chuẩn kỹ năng sử dụng CNTT nâng cao (09 mô đun), áp dụng đối với cơ quan, tổ chức, cá nhân tham gia trực tiếp hoặc có liên quan đến hoạt động đánh giá kỹ năng sử dụng CNTT.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Thông tin và Truyền thông",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Bắc Son",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "132/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;"
+    }
+  ],
+  "mentions": [
+    "Bộ Thông tin và Truyền thông",
+    "Vụ Công nghệ thông tin",
+    "Chính phủ",
+    "W3C"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định Chuẩn kỹ năng sử dụng công nghệ thông tin (CNTT),\nbao gồm:\na) Chuẩn kỹ năng sử dụng CNTT cơ bản;\nb) Chuẩn kỹ năng sử dụng CNTT nâng cao.\n2. Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia trực tiếp\nhoặc có liên quan đến hoạt động đánh giá kỹ năng sử dụng CNTT.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quy định Chuẩn kỹ năng sử dụng CNTT",
+      "text": "Điều 2. Quy định Chuẩn kỹ năng sử dụng CNTT\n1. Chuẩn kỹ năng sử dụng CNTT cơ bản gồm 06 mô đun sau:\na) Mô đun kỹ năng 01 (Mã IU01): Hiểu biết về CNTT cơ bản (Bảng 01,\nPhụ lục số 01);\nb) Mô đun kỹ năng 02 (Mã IU02): Sử dụng máy tính cơ bản (Bảng 02, Phụ\nlục số 01);\nc) Mô đun kỹ năng 03 (Mã IU03): Xử lý văn bản cơ bản (Bảng 03, Phụ lục\nsố 01);\n\nCÔNG BÁO/Số 413 + 414/Ngày 02-4-2014\n\nd) Mô đun kỹ năng 04 (Mã IU04): Sử dụng bảng tính cơ bản (Bảng 04, Phụ\nlục số 01);\nđ) Mô đun kỹ năng 05 (Mã IU05): Sử dụng trình chiếu cơ bản (Bảng 05, Phụ\nlục số 01);\ne) Mô đun kỹ năng 06 (Mã IU06): Sử dụng Internet cơ bản (Bảng 06, Phụ lục\nsố 01).\n2. Chuẩn kỹ năng sử dụng CNTT nâng cao gồm 09 mô đun sau:\na) Mô đun kỹ năng 07 (Mã IU07): Xử lý văn bản nâng cao (Bảng 01, Phụ\nlục số 02);\nb) Mô đun kỹ năng 08 (Mã IU08): Sử dụng bảng tính nâng cao (Bảng 02,\nPhụ lục số 02);\nc) Mô đun kỹ năng 09 (Mã IU09): Sử dụng trình chiếu nâng cao (Bảng 03,\nPhụ lục số 02);\nd) Mô đun kỹ năng 10 (Mã IU10): Sử dụng hệ quản trị cơ sở dữ liệu (Bảng 04,\nPhụ lục số 02);\nđ) Mô đun kỹ năng 11 (Mã IU11): Thiết kế đồ họa hai chiều (Bảng 05, Phụ\nlục số 02);\ne) Mô đun kỹ năng 12 (Mã IU12): Biên tập ảnh (Bảng 06, Phụ lục số 02);\ng) Mô đun kỹ năng 13 (Mã IU13): Biên tập trang thông tin điện tử (Bảng 07,\nPhụ lục số 02);\nh) Mô đun kỹ năng 14 (Mã IU14): An toàn, bảo mật thông tin (Bảng 08, Phụ\nlục số 02);\ni) Mô đun kỹ năng 15 (Mã IU15): Sử dụng phần mềm kế hoạch dự án\n(Bảng 09, Phụ lục số 02).\n3. Cá nhân đạt Chuẩn kỹ năng sử dụng CNTT cơ bản phải đáp ứng yêu cầu của\ntất cả các mô đun quy định tại Khoản 1 Điều này. Cá nhân đạt Chuẩn kỹ năng sử\ndụng CNTT nâng cao phải đạt Chuẩn kỹ năng sử dụng CNTT cơ bản, đồng thời\nđáp ứng yêu cầu của tối thiểu 03 mô đun trong số các mô đun quy định tại Khoản 2\nĐiều này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 3. Hiệu lực thi hành\nThông tư này có hiệu lực kể từ ngày 28 tháng 4 năm 2014.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 4. Tổ chức thực hiện\n1. Chánh Văn phòng, Vụ trưởng Vụ Công nghệ thông tin, Thủ trưởng các cơ\nquan, đơn vị thuộc Bộ Thông tin và Truyền thông; Giám đốc Sở Thông tin và\n\nCÔNG BÁO/Số 413 + 414/Ngày 02-4-2014\n\nTruyền thông các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức,\ncá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Trong quá trình thực hiện, có phát sinh vướng mắc, cơ quan, tổ chức, cá\nnhân phản ánh về Bộ Thông tin và Truyền thông (Vụ Công nghệ thông tin) để kịp\nthời giải quyết./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0177_4766_QĐ-ĐHĐN_Quyết định 4766_QĐ-ĐHĐN Quy định quản lý hoạt động khoa học công nghệ tại ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "20 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4766/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/12/2020",
+    "effectiveDate": "01/01/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ"
+    ],
+    "summary": "Ban hành quy định về quản lý hoạt động khoa học và công nghệ tại Đại học Đà Nẵng, bao gồm quản lý nhiệm vụ khoa học công nghệ các cấp, hội thảo khoa học, kết quả nghiên cứu, quy đổi giờ nghiên cứu khoa học, khen thưởng và xử lý vi phạm.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-ĐHĐN ngày 14 tháng 8 năm 2020 của Giám đốc Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1826/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Việc quản lý và tổ chức thực hiện đề tài KH&CN cấp ĐHĐN được thực hiện theo Quyết định số 1826/QĐ-ĐHĐN ngày 31/5/2018 của Giám đốc ĐHĐN quy định về quản lý đề tài KH&CN cấp ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "4031/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Việc quản lý và tổ chức thực hiện đề tài KH&CN cấp cơ sở của các đơn vị thuộc ĐHĐN (khối cơ quan ĐHĐN) được thực hiện theo Quyết định số 4031/QĐ-ĐHĐN ngày 6/8/2015 của Giám đốc ĐHĐN quy định về quản lý đề tài KH&CN cấp cơ sở của ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "1489/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 20",
+      "context": "Việc quản lý và tổ chức hội thảo khoa học quốc tế được thực hiện theo Điều 20 và Điều 21 tại Quyết định số 1489/QĐ-ĐHĐN ngày 06/5/2020 của Giám đốc ĐHĐN quy định về công tác quản lý hoạt động hợp tác quốc tế của ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "2681/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyền sở hữu, quyền tác giả đối với kết quả nghiên cứu khoa học và phát triển công nghệ từ nhiệm vụ KH&CN các cấp khác thực hiện theo Luật khoa học và công nghệ và Quy định số 2681/QĐ-ĐHĐN ngày 03/6/2015 của Giám đốc ĐHĐN về Quản lý hoạt động Sở hữu trí tuệ trong Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "1214/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Giải thưởng \"Công trình khoa học tiêu biểu của ĐHĐN\" thực hiện theo Quy chế xét tặng Giải thưởng \"Công trình khoa học tiêu biểu của ĐHĐN\" ban hành kèm theo Quyết định số 1214/QĐ-ĐHĐN ngày 17/4/2018 của Giám đốc ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "2682/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Cá nhân, tập thể tham gia các hoạt động KH&CN phải tuân thủ các quy định về đạo đức nghề nghiệp theo thông lệ quốc tế, quy định hiện hành của Nhà nước và của ĐHĐN quy định về tiêu chuẩn năng lực và đạo đức trong các hoạt động KH&CN của ĐHĐN theo Quyết định số 2682/QĐ-ĐHĐN ngày 03/6/2015 của Giám đốc ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "168/2018/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Giảng viên làm công tác quốc phòng, quân sự không chuyên trách quy định tại Nghị định số 168/2018/NĐ-CP ngày 28 tháng 12 năm 2018 của Chính phủ về công tác Quốc phòng ở Bộ, ngành trung ương, địa phương"
+    },
+    {
+      "targetDocumentNumber": "13/2013/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Giảng viên làm công tác đoàn thanh niên, hội sinh viên, hội liên hiệp thanh niên thực hiện theo Quyết định số 13/2013/QĐ-TTg ngày 06 tháng 02 năm 2013 của Thủ tướng Chính phủ quy định về chế độ, chính sách đối với cán bộ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên Việt Nam, Hội Liên hiệp Thanh niên Việt Nam trong các cơ sở giáo dục và cơ sở dạy nghề"
+    },
+    {
+      "targetDocumentNumber": "08/2016/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Giảng viên làm công tác công đoàn không chuyên trách trong các cơ sở giáo dục đại học thực hiện theo quy định tại Thông tư số 08/2016/TT-BGDĐT ngày 28 tháng 03 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Ban Khoa học, Công nghệ và Môi trường"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Quản lý hoạt động khoa học và công nghệ tại Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định việc quản lý và tổ chức các hoạt động khoa học và\ncông nghệ (KH&CN) tại Đại học Đà Nẵng (ĐHĐN), bao gồm: 1\nQuản lý nhiệm vụ KH&CN;\nQuản lý và tổ chức hội thảo khoa học;\nQuản lý kết quả hoạt động KH&CN và quy đổi giờ nghiên cứu khoa học;\nthưởng và xử lý vi phạm trong hoạt động KH&CN; ĐA\nKhen\n2. Văn bản này áp dụng cho các trường đại học thành viên, đơn vị thuộc, đơn\nvị trực thuộc ĐHĐN (sau đây được gọi là đơn vị) và tổ chức, cá nhân tham gia thực\nhiện hoạt động KH&CN tại ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguồn lực thực hiện các hoạt động khoa học và công nghệ",
+          "text": "Điều 2. Nguồn lực thực hiện các hoạt động khoa học và công nghệ\n1. Nguồn lực thực hiện các hoạt động KH&CN ở ĐHĐN bao gồm:\nNguồn nhân lực: đội ngũ công chức, viên chức, người lao động, nghiên cứu\nsinh, học viên cao học và sinh viên.\nb. Hệ thống phòng thí nghiệm, trang thiết bị nghiên cứu.\nc. Kinh phí gồm:\nKinh phí sự nghiệp KH&CN, kinh phí sự nghiệp môi trường, kinh phí đầu tư\nphát triển;\nQuỹ phát triển KH&CN ĐHĐN;\nKinh phí thực hiện các nhiệm vụ KH&CN của Bộ, ngành, địa phương;\nKinh phí hỗ trợ từ nguồn thu sự nghiệp KH&CN của các trường đại học thành\nviên, đơn vị trực thuộc ĐHĐN;\nKinh phí hỗ trợ của cơ quan, doanh nghiệp sử dụng kết quả nghiên cứu khoa\nhọc và phát triển công nghệ;\nKinh phí của dự án quốc tế, tài trợ của cá nhân, tổ chức;\n\nKinh phí từ các nguồn thu hợp pháp khác.\n2. ĐHĐN thống nhất quản lý và điều hành các nguồn lực nói trên theo quy định\nhiện hành của Nhà nước và của ĐHĐN nhằm nâng cao chất lượng và hiệu quả của\nhoạt động KH&CN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Quản lý nhiệm vụ KH&CN cấp bộ, cấp quốc gia",
+          "text": "Điều 3. Quản lý nhiệm vụ KH&CN cấp bộ, cấp quốc gia\n1. Nhiệm vụ KH&CN cấp bộ, cấp quốc gia do ĐHĐN chủ trì là những nhiệm vụ\nKH&CN do các bộ, cơ quan ngang bộ, cơ quan chính phủ, cơ quan nhà nước ở trung ương\nphê duyệt và giao ĐHĐN làm cơ quan chủ trì; các trường đại học thành viên, đơn vị trực\nthuộc ĐHĐN làm cơ quan thực hiện đề tài.\nCông tác quản lý và tổ chức hoạt động của các nhiệm vụ thực hiện theo các quy\nđịnh của Nhà nước có liên quan tương ứng với các nhiệm vụ được giao.\nb. Trách nhiệm của ĐHĐN\nTrên cơ sở đề xuất từ các đơn vị, căn cứ vào kế hoạch KH&CN và định hướng ưu\n1 tiên hằng 5 năm, ĐHĐN xem xét hoặc tổ chức xây dựng danh mục nhiệm vụ, tổng hợp gửi các\nbộ, ngành liên quan theo quy định.\nPhối hợp với các bộ, ngành liên quan phê duyệt thuyết minh nhiệm vụ. Trong\ntrường hợp được ủy quyền, tổ chức triển khai ký hợp đồng thực hiện với vai trò là bên\ngiao nhiệm vụ.\nPhối hợp với bộ, ngành thực hiện chức năng quản lý liên quan đối với các nhiệm vụ\nKH&CN.\nc. Trách nhiệm của các trường đại học thành viên và đơn vị trực thuộc ĐHĐN\nTổ chức xây dựng đề xuất nhiệm vụ, báo cáo ĐHĐN để xem xét, tổng hợp báo\ncáo bộ, ngành.\nTạo điều kiện thuận lợi cho chủ nhiệm nhiệm vụ và thành viên nhóm nghiên cứu\nthực hiện đúng tiến độ nhiệm vụ theo hợp đồng đã ký kết.\nPhối hợp quản lý hiệu quả việc công bố và ứng dụng kết quả, sản phẩm KH&CN\ncủa nhiệm vụ KH&CN theo quy định của Luật Sở hữu trí tuệ.\nĐịnh kỳ và đột xuất (khi có yêu cầu) báo cáo bộ, ngành và ĐHĐN về tình hình\nvà kết quả thực hiện.\nPhối hợp với các cơ quan liên quan xử lý nhiệm vụ KH&CN không hoàn thành theo\nquy định của Nhà nước và của ĐHĐN.\nd. Trách nhiệm của chủ nhiệm nhiệm vụ KH&CN\nThực hiện đầy đủ, đảm bảo chất lượng và đúng tiến độ nội dung nhiệm vụ theo hợp\nđồng đã ký kết.\n\nĐịnh kỳ và đột xuất (khi có yêu cầu) báo cáo ĐHĐN và cơ quan liên quan về\ntình hình và kết quả thực hiện nhiệm vụ được giao.\n2. Nhiệm vụ KH&CN cấp bộ, cấp quốc gia do các trường đại học thành viên, đơn\nvị trực thuộc ĐHĐN chủ trì là những nhiệm vụ KH&CN do các bộ, cơ quan ngang bộ, cơ\nquan chính phủ, cơ quan nhà nước ở trung ương phê duyệt và giao các trường đại học\nthành viên, đơn vị trực thuộc ĐHĐN là cơ quan chủ trì.\nCông tác quản lý và tổ chức hoạt động của các nhiệm vụ thực hiện theo các quy\nđịnh của Nhà nước có liên quan tương ứng với các nhiệm vụ được giao.\nb. Định kỳ hằng năm và đột xuất (khi có yêu cầu), cơ quan chủ trì báo cáo ĐHĐN\ntình hình quản lý, tổ chức và kết quả thực hiện nhiệm vụ KH&CN cấp bộ, cấp quốc gia.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Quản lý đề tài KH&CN cấp ĐHĐN",
+          "text": "Điều 4. Quản lý đề tài KH&CN cấp ĐHĐN\nViệc quản lý và tổ chức thực hiện đề tài KH&CN cấp ĐHĐN được thực hiện theo\nQuyết định số 1826/QĐ-ĐHĐN ngày 31/5/2018 của Giám đốc ĐHĐN quy định về quản\nlý đề tài KH&CN cấp ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Quản lý đề tài KH&CN cấp cơ sở",
+          "text": "Điều 5. Quản lý đề tài KH&CN cấp cơ sở\n1. Thủ trưởng của các trường đại học thành viên và đơn vị trực thuộc ĐHĐN ban\nhành quy định về quản lý và tổ chức thực hiện đề tài KH&CN cấp cơ sở do đơn vị quản lý\nphù hợp với quy định của Nhà nước và của ĐHĐN.\n2. Việc quản lý và tổ chức thực hiện đề tài KH&CN cấp cơ sở của các đơn vị thuộc\nĐHĐN (khối cơ quan ĐHĐN) được thực hiện theo Quyết định số 4031/QĐ-ĐHĐN ngày\n6/8/2015 của Giám đốc ĐHĐN quy định về quản lý đề tài KH&CN cấp cơ sở của ĐHĐN.\n3. Định kỳ hằng năm và đột xuất (khi có yêu cầu) các trường đại học thành viên, đơn\nvị trực thuộc ĐHĐN báo cáo ĐHĐN tình hình quản lý, tổ chức và kết quả thực hiện đề tài\nKH&CN cấp cơ sở do đơn vị quản lý.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quản lý nhiệm vụ KH&CN hợp tác trong nước",
+          "text": "Điều 6. Quản lý nhiệm vụ KH&CN hợp tác trong nước\n1. Nhiệm vụ KH&CN hợp tác trong nước do ĐHĐN làm cơ quan chủ trì là các đề tài,\ndự án hoặc nội dung KH&CN khác được triển khai hợp tác giữa ĐHĐN và các đối tác\ntrong nước bằng kinh phí của đối tác hoặc kinh phí của cả hai bên.\na. Căn cứ vào nhu cầu đặt hàng của đối tác và tiềm lực KH&CN của ĐHĐN, ĐHĐN\ntổ chức xây dựng và thống nhất danh mục nhiệm vụ với đối tác.\nb. Việc tuyển chọn, phê duyệt và quản lý nhiệm vụ KH&CN hợp tác thực hiện phù\nhợp với quy định, thỏa thuận của hai bên.\n2. Nhiệm vụ KH&CN hợp tác trong nước do các trường đại học thành viên, đơn vị\ntrực thuộc ĐHĐN làm cơ quan chủ trì là các đề tài, dự án hoặc nội dung KH&CN khác\nđược triển khai hợp tác giữa trường đại học thành viên, đơn vị trực thuộc và các đối tác\ntrong nước bằng kinh phí của đối tác hoặc kinh phí của cả hai bên.\n\nCông tác quản lý và tổ chức hoạt động của các nhiệm vụ thực hiện theo các quy\nđịnh của Nhà nước và phù hợp với quy định, thỏa thuận của hai bên.\nA b. Định kỳ hằng năm và đột xuất (khi có yêu cầu), các trường đại học thành viên và\ncác đơn vị trực thuộc báo cáo ĐHĐN (qua Ban Khoa học, Công nghệ và Môi trường) về\ntình hình tổ chức triển khai và kết quả thực hiện các nhiệm vụ KH&CN hợp tác trong nước\ncủa đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quản lý nhiệm vụ KH&CN hợp tác quốc tế",
+          "text": "Điều 7. Quản lý nhiệm vụ KH&CN hợp tác quốc tế\n1. Nhiệm vụ KH&CN hợp tác quốc tế do ĐHĐN làm cơ quan chủ trì là các đề tài, dự\nán hoặc nội dung KH&CN khác được hợp tác triển khai giữa ĐHĐN và đối tác nước ngoài\n(bao gồm nhà tài trợ hoặc/và đối tác chuyên môn) trong khuôn khổ các chương trình tài trợ\nquốc tế, hợp tác theo nghị định thư hoặc hợp tác song phương khác.\nNhiệm vụ KH&CN hợp tác quốc tế hoàn toàn bằng kinh phí nước ngoài tài trợ thực\nhiện theo các văn bản pháp quy của Nhà nước và quy định của các chương trình tài trợ.\nb. Nhiệm vụ KH&CN theo nghị định thư thực hiện theo quy định hiện hành của Bộ\nKhoa học và Công nghệ quy định về quản lý các nhiệm vụ khoa học và công nghệ theo nghị\nđịnh thư.\nc. Nhiệm vụ KH&CN hợp tác quốc tế có sử dụng kinh phí của ĐHĐN thực hiện quy\ntrình đề xuất, tuyển chọn, phê duyệt và quản lý theo thỏa thuận hai bên, đồng thời tuân thủ\ncác văn bản pháp quy của Nhà nước về hợp tác quốc tế trong KH&CN.\n2. Nhiệm vụ KH&CN hợp tác quốc tế do các trường đại học thành viên, đơn vị trực\nthuộc ĐHĐN làm cơ quan chủ trì là các đề tài, dự án hoặc nội dung KH&CN khác được\nhợp tác triển khai giữa trường đại học thành viên, đơn vị trực thuộc và đối tác nước ngoài\n(bao gồm nhà tài trợ hoặc/và đối tác chuyên môn) trong khuôn khổ các chương trình tài trợ\nquốc tế, hợp tác theo nghị định thư hoặc hợp tác song phương khác.\nCông tác quản lý và tổ chức hoạt động của các nhiệm vụ thực hiện theo các quy\nđịnh của Nhà nước, các Bộ ngành liên quan và phù hợp với quy định, thỏa thuận của hai\nbên. 1\nb. Định kỳ hằng năm và đột xuất (khi có yêu cầu), các trường đại học thành viên và\ncác đơn vị trực thuộc báo cáo ĐHĐN (qua Ban Khoa học, Công nghệ và Môi trường) về\ntình hình tổ chức triển khai và kết quả thực hiện các nhiệm vụ KH&CN hợp tác quốc tế\ncủa đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức hội thảo khoa học trong nước",
+          "text": "Điều 8. Tổ chức hội thảo khoa học trong nước\n1. Hội thảo khoa học trong nước là các hội thảo tổ chức tại Việt Nam và không do\ncơ quan, tổ chức nước ngoài tổ chức hoặc tham gia tổ chức.\n\n2. Thẩm quyền quyết định tổ chức hội thảo:\nĐối với các hội thảo do các trường đại học thành viên, các đơn vị trực thuộc\nĐHĐN chủ trì: Thủ trưởng trường đại học thành viên, đơn vị trực thuộc quyết định việc\ntổ chức hội thảo.\nRiêng đối với các hội thảo có nội dung liên quan đến các vấn đề chính trị, an ninh,\nquốc phòng, dân tộc, tôn giáo, nhân quyền, biên giới, lãnh thổ hoặc thuộc phạm vi bí mật\nnhà nước, các trường đại học thành viên và các đơn vị trực thuộc báo cáo ĐHĐN (qua\nBan Khoa học Công nghệ và Môi trường) kế hoạch tổ chức hội thảo để trình Giám đốc\nphê duyệt kế hoạch và nội dung trước khi quyết định tổ chức.\nb. Đối với các hội thảo do các dơn vị thuộc ĐHĐN chủ trì: Các đơn vị thuộc ĐHĐN\nxây dựng kế hoạch tổ chức hội thảo và gửi kế hoạch về ĐHĐN (qua Ban Khoa học\nCông nghệ và Môi trường) để Giám đốc ĐHĐN xem xét phê duyệt quyết định tổ chức\nhội thảo.\n3. Đơn vị chủ trì hội thảo có trách nhiệm xây dựng kế hoạch và tổ chức hội thảo theo\nnội dung kế hoạch đã được phê duyệt; chịu trách nhiệm về nội dung, chương trình, tài liệu\nvà tài chính phục vụ hội thảo; báo cáo ĐHĐN tóm tắt kết quả tổ chức hội thảo trong thời\nhạn 30 ngày kể từ ngày kết thúc hội thảo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tổ chức hội thảo khoa học quốc tế",
+          "text": "Điều 9. Tổ chức hội thảo khoa học quốc tế\nViệc quản lý và tổ chức hội thảo khoa học quốc tế được thực hiện theo Điều 20 và\nĐiều 21 tại Quyết định số 1489/QĐ-ĐHĐN ngày 06/5/2020 của Giám đốc ĐHĐN quy\nđịnh về công tác quản lý hoạt động hợp tác quốc tế của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Công bố kết quả hoạt động khoa học và công nghệ",
+          "text": "Điều 10. Công bố kết quả hoạt động khoa học và công nghệ\n1. Sau khi nghiệm thu các đề tài/dự án KH&CN, các đơn vị hoặc cá nhân thực hiện\ncác đề tài/dự án KH&CN có trách nhiệm thông báo công khai kết quả thực hiện nhiệm vụ\nKH&CN của mình trên trang thông tin điện tử của ĐHĐN hoặc bản tin của đơn vị đối với\ntất cả các đề tài/dự án KH&CN các cấp do đơn vị là cơ quan chủ trì.\n2. Kết quả của các hoạt động KH&CN khi công bố dưới dạng các ấn phẩm khoa\nhọc phải ghi đầy đủ địa chỉ của ĐHĐN bằng tiếng Anh và tiếng Việt, sự tài trợ của\nĐHĐN và của đơn vị chủ trì (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Quyền sở hữu, sử dụng kết quả nghiên cứu khoa học và phát triển",
+          "text": "Điều 11. Quyền sở hữu, sử dụng kết quả nghiên cứu khoa học và phát triển\ncông nghệ\nQuyền sở hữu, quyền tác giả đối với kết quả nghiên cứu khoa học và phát triển công\nnghệ từ nhiệm vụ KH&CN các cấp khác thực hiện theo Luật khoa học và công nghệ và\nQuy định số 2681/QĐ-ĐHĐN ngày 03/6/2015 của Giám đốc ĐHĐN về Quản lý hoạt\nđộng Sở hữu trí tuệ trong Đại học Đà Nẵng.\n\ndộng Sở hữu trí tuệ trong Đại học Đà Nẵng:",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Tính quy đổi giờ thực hiện nghiên cứu khoa học",
+          "text": "Điều 12. Tính quy đổi giờ thực hiện nghiên cứu khoa học\nViệc tính quy đổi giờ thực hiện nghiên cứu khoa học cho giảng viên thực hiện nhiệm\nvụ KH&CN như trong Phụ lục đính kèm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Các hình thức khen thưởng về khoa học và công nghệ",
+          "text": "Điều 13. Các hình thức khen thưởng về khoa học và công nghệ\nCá nhân, tập thể có thành tích xuất sắc trong hoạt động KH&CN được xét tặng danh\nhiệu, giải thưởng về KH&CN và các hình thức khen thưởng sau đây:\n1. Danh hiệu, giải thưởng và các hình thức khen thưởng về KH&CN quốc gia, bộ,\nngành theo các quy định hiện hành.\n2. Danh hiệu, giải thưởng KH&CN quốc tế phù hợp với pháp luật Việt Nam.\n3. Khen thưởng về KH&CN cấp ĐHĐN gồm:\nGiải thưởng \"Công trình khoa học tiêu biểu của ĐHĐN\" thực hiện theo Quy\nchế xét tặng Giải thưởng \"Công trình khoa học tiêu biểu của ĐHĐN\" ban hành kèm theo\nQuyết định số 1214/QĐ-ĐHĐN ngày 17/4/2018 của Giám đốc ĐHĐN.\nb) Khen thưởng: Giám đốc ĐHĐN xét khen thưởng và đề nghị khen thưởng các\ncấp cao hơn đối với các cá nhân, tập thể có thành tích xuất sắc trong hoạt động KH&CN\ntheo quy định hiện hành.\n4. Khen thưởng KH&CN cấp cơ sở\nThủ trưởng các trường đại học thành viên và đơn vị trực thuộc ĐHĐN xét khen\nthưởng cấp cơ sở đối với các cá nhân, tập thể có thành tích xuất sắc trong hoạt động\nKH&CN theo các quy định của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Thực hiện đạo đức nghề nghiệp trong hoạt động khoa học và công",
+          "text": "Điều 14. Thực hiện đạo đức nghề nghiệp trong hoạt động khoa học và công\nnghệ\n1. Cá nhân, tập thể tham gia các hoạt động KH&CN phải tuân thủ các quy định\nvề đạo đức nghề nghiệp theo thông lệ quốc tế, quy định hiện hành của Nhà nước và\ncủa ĐHĐN quy định về tiêu chuẩn năng lực và đạo đức trong các hoạt động KH&CN của\nĐHĐN theo Quyết định số 2682/QĐ-ĐHĐN ngày 03/6/2015 của Giám đốc ĐHĐN.\n2. Các nghiên cứu KH&CN có đối tượng nghiên cứu là con người cần giảm thiểu\ntối đa các nguy cơ gây hại và tăng cường tối đa lợi ích, tôn trọng nhân phẩm, quyền\nriêng tư và tự do cá nhân, đặc biệt với các đối tượng xã hội dễ bị tổn thương, đảm bảo\nhài hòa giữa lợi ích và mục tiêu của nghiên cứu.\n3. Các hành vi bị cấm\nCác hành vi bị cấm trong hoạt động KH&CN được thực hiện theo Quyết định số\n2682/QĐ-ĐHĐN ngày 03/6/2015 của Giám đốc ĐHĐN quy định về tiêu chuẩn năng lực và\n\nđạo đức trong các hoạt động KH&CN của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Xử lý vi phạm trong hoạt động khoa học và công nghệ",
+          "text": "Điều 15. Xử lý vi phạm trong hoạt động khoa học và công nghệ\nViệc xử lý vi phạm trong hoạt động KH&CN được thực hiện theo Quyết định số\n2682/QĐ-ĐHĐN ngày 03/6/2015 của Giám đốc ĐHĐN quy định về tiêu chuẩn năng lực và\nđạo đức trong các hoạt động KH&CN của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 16. Hiệu lực thi hành\nQuy định này có hiệu lực thi hành kể từ ngày 01/01/2021.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 17. Tổ chức thực hiện\nTrong quá trình thực hiện, nếu có vướng mắc, phát sinh, cần điều chỉnh, bổ sung\ncho phù hợp với điều kiện thực tế và quy định pháp luật hiện hành, các trường đại học\nthành viên, đơn vị thuộc, đơn vị trực thuộc, cá nhân và tổ chức có liên quan phản ánh về\nBan Khoa học Công nghệ và Môi trường để tổng hợp, báo cáo Giám đốc ĐHĐN xem xét,\nquyết định.\n2. Hiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị thuộc, trực thuộc\nĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quy định nàyJ [L",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định quản lý hoạt động",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định quản lý hoạt động\nkhoa học công nghệ tại Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày 01/01/2021.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 01/01/2021.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban chức năng của Đại học Đà",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban chức năng của Đại học Đà\nNẵng; Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc,\ntrực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết\ndịnh này / LU",
+      "isImplementationClause": true
+    }
+  ]
+}

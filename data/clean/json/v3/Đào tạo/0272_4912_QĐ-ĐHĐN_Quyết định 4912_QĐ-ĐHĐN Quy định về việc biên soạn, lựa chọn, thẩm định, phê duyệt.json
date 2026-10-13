@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0272_4912_QĐ-ĐHĐN_Quyết định 4912_QĐ-ĐHĐN Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt.txt",
+  "mappedBy": "gemini-web",
+  "note": "15 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "4912/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học trong các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/11/2023",
+    "effectiveDate": "20/11/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khác"
+    ],
+    "summary": "Quyết định ban hành Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học trong các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng, đồng thời thay thế Quyết định số 2709/QĐ-ĐHĐN ngày 09/8/2018.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "35/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 35/2021/TT-BGDĐT ngày 06/12/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2709/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 2709/QĐ-ĐHĐN ngày 09/8/2018 của Giám đốc Đại học Đà Nẵng ban hành Quy định về việc biên soạn, thẩm định, lựa chọn và sử dụng giáo trình trong các cơ sở đào tạo trực thuộc Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo",
+    "Trung tâm Đào tạo thường xuyên",
+    "Phân hiệu Đại học Đà Nẵng tại Kon Tum",
+    "Nhà xuất bản"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học trong các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định cụ thể một số nội dung về việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học thuộc tất cả các hình thức, trình độ đào tạo (sau đây gọi tắt là Quy định) theo Thông tư số 35/2021/TT-BGDĐT ngày 06/12/2021 của Bộ Giáo dục và Đào tạo Quy định việc biên soạn, lựa chọn, thẩm định, duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học (Thông tư 35); các quy định chung ngoài Quy định này được thực hiện theo Thông tư 35.\n2. Quy định này áp dụng đối với các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng (sau đây gọi tắt là đơn vị).\n3. Đối với giáo trình sử dụng chung cho các môn lý luận chính trị, quốc phòng và an ninh, các đơn vị sử dụng giáo trình do Bộ Giáo dục và Đào tạo tổ chức biên soạn để làm tài liệu giảng dạy, học tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Yêu cầu và việc sử dụng giáo trình",
+          "text": "Điều 2. Yêu cầu và việc sử dụng giáo trình\n1. Giáo trình phải đáp ứng các quy định chung tại Điều 3 và khoản 1, 2 Điều 4 Thông tư 35.\n2. Nội dung giáo trình phải đáp ứng các quy định tại khoản 3, 4 và 5 Điều 4 Thông tư 35.\n3. Ngôn ngữ dùng để biên soạn giáo trình là tiếng Việt hoặc tiếng nước ngoài và phải thống nhất với ngôn ngữ giảng dạy của học phần.\n4. Cấu trúc và hình thức trình bày của giáo trình:\na) Cấu trúc của giáo trình gồm phần mở đầu, các chương, cuối mỗi chương có câu hỏi ôn tập và bài tập áp dụng, tài liệu tham khảo, mục lục, phụ lục (nếu có).\nb) Hình thức trình bày theo Phụ lục V.\n5. Việc sử dụng giáo trình và tài liệu để giảng dạy, học tập:\na) Việc sử dụng các giáo trình và tài liệu đã xuất bản làm tài liệu dùng cho giảng viên và người học được thực hiện theo các quy định tại Điều 7 Thông tư 35.\nb) Các đơn vị quy định cụ thể việc công khai sử dụng giáo trình, tài liệu giảng dạy trên các phương tiện truyền thông của đơn vị và các bản cập nhật nếu có sửa đổi, bổ sung để giảng viên, người học biết và sử dụng trong quá trình giảng dạy, học tập.\nc) Các đơn vị quy định cụ thể về quyền hạn và trách nhiệm của Phòng/Khoa/Bộ môn, tổ chức trực thuộc đơn vị, của giảng viên và người học trong việc sử dụng giáo trình, tài liệu để giảng dạy và học tập đối với từng nội dung, chuyên đề, học phần của chương trình đào tạo, ngành đào tạo và trình độ đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Yêu cầu và việc sử dụng bài giảng, tài liệu tham khảo",
+          "text": "Điều 3. Yêu cầu và việc sử dụng bài giảng, tài liệu tham khảo\n1. Yêu cầu đối với bài giảng:\na) Bài giảng là tài liệu sử dụng trong nội bộ do đơn vị tổ chức biên soạn. Bài giảng phải đáp ứng các yêu cầu quy định tại Điều 5 Thông tư 35.\nb) Đơn vị quy định về nội dung chi tiết, cấu trúc, hình thức trình bày và quy trình biên soạn, phê duyệt bài giảng; quy định về quyền hạn, trách nhiệm của giảng viên và của đơn vị, đảm bảo tính đồng bộ, thống nhất, phù hợp với quy định của pháp luật có liên quan.\n2. Yêu cầu đối với tài liệu tham khảo:\na) Tài liệu tham khảo sử dụng tại đơn vị phải đảm bảo các điều kiện quy định tại Điều 6 Thông tư 35.\nb) Đơn vị tổ chức biên soạn tài liệu tham khảo khi đã ban hành quy định nội dung chi tiết, cấu trúc, hình thức trình bày, quy trình biên soạn, thẩm định và xuất bản tài liệu tham khảo.\n3. Việc sử dụng bài giảng và tài liệu tham khảo:\na) Việc sử dụng bài giảng và tài liệu tham khảo thực hiện theo quy định tại Điều 8 Thông tư 35.\nb) Đơn vị quy định cụ thể quy trình đưa bài giảng, tài liệu tham khảo vào sử dụng trong giảng dạy, học tập tại đơn vị; quy định về việc sử dụng, giám sát, quyền hạn, trách nhiệm của giảng viên, người học và các bên liên quan trong việc cung cấp và tiếp cận bài giảng do giảng viên biên soạn, tài liệu tham khảo đối với từng học phần của chương trình đào tạo, ngành đào tạo và trình độ đào tạo, quy định việc công khai và mức độ công khai bài giảng của giảng viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Kinh phí biên soạn, lựa chọn, thẩm định và phê duyệt giáo trình, tài liệu giảng dạy",
+          "text": "Điều 4. Kinh phí biên soạn, lựa chọn, thẩm định và phê duyệt giáo trình, tài liệu giảng dạy\n1. Kinh phí hỗ trợ tổ chức biên soạn, lựa chọn, thẩm định và phê duyệt giáo trình, tài liệu giảng dạy được thanh toán theo Quy chế/Phụ lục quy chế chi tiêu nội bộ của đơn vị.\n2. Hồ sơ thanh toán theo quy định của Quy chế/Phụ lục quy chế chi tiêu nội bộ của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Xác định giáo trình biên soạn, lựa chọn",
+          "text": "Điều 5. Xác định giáo trình biên soạn, lựa chọn\n1. Thủ trưởng đơn vị tổ chức xác định danh mục các giáo trình cần thiết phải có để sử dụng làm tài liệu giảng dạy, học tập, nghiên cứu chính thức của đơn vị đối với từng học phần của chương trình đào tạo, ngành đào tạo và trình độ đào tạo, bao gồm các giáo trình đã có, các giáo trình cần biên soạn và lựa chọn bổ sung cho phù hợp với nhu cầu sử dụng của đơn vị và công khai các giáo trình sẽ biên soạn và lựa chọn.\n2. Danh mục các giáo trình cần biên soạn, lựa chọn phải được Hội đồng Khoa học và Đào tạo (HĐKH&ĐT) của đơn vị thông qua, đối với danh mục giáo trình cần biên soạn, lựa chọn áp dụng tại Trung tâm Đào tạo thường xuyên phải được Thường trực HĐKH&ĐT Đại học Đà Nẵng thông qua.\n3. Đơn vị xây dựng kế hoạch biên soạn, lựa chọn giáo trình phù hợp với nhu cầu sử dụng của đơn vị và báo cáo Đại học Đà Nẵng (ĐHĐN).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức biên soạn giáo trình",
+          "text": "Điều 6. Tổ chức biên soạn giáo trình\n1. ĐHĐN tổ chức biên soạn giáo trình đối với các đơn vị đào tạo thuộc ĐHĐN theo quy trình tại Phụ lục I. Các đơn vị đào tạo trực thuộc và Phân hiệu ĐHĐN tại Kon Tum (PHKT) xây dựng, ban hành quy trình và tổ chức biên soạn giáo trình của đơn vị.\n2. Thành phần Ban biên soạn giáo trình:\na) Ban biên soạn gồm chủ biên/đồng chủ biên và các thành viên khác (nếu có). Thành viên ban biên soạn phải có trình độ từ thạc sĩ trở lên đối với biên soạn giáo trình trình độ đại học; có trình độ tiến sĩ hoặc có chức danh từ phó giáo sư trở lên đối với biên soạn giáo trình trình độ thạc sĩ và tiến sĩ.\nb) Các thành viên tham gia Ban biên soạn phải có chuyên môn phù hợp với nội dung giáo trình và đang trực tiếp giảng dạy trình độ tương ứng hoặc các nhà khoa học có uy tín đang tham gia thỉnh giảng tại đơn vị, Ban biên soạn giáo trình có số lượng tối đa không quá 5 thành viên.\n3. Nhiệm vụ và quyền hạn của chủ biên/đồng chủ biên:\na) Tổ chức biên soạn giáo trình theo đúng đề cương giáo trình đã được duyệt; chịu trách nhiệm chính về tính khoa học, hiện đại, phù hợp thực tiễn và tính đúng đắn trong chuyên môn của giáo trình.\nb) Chịu trách nhiệm về nội dung khoa học của giáo trình, tiếp thu, sửa chữa nội dung giáo trình theo góp ý của các nhà khoa học và ý kiến kết luận của Hội đồng thẩm định.\nc) Đề xuất thay thế hoặc bổ sung thành viên tham gia biên soạn giáo trình khi thấy cần thiết.\n4. Trách nhiệm, nghĩa vụ và quyền hạn của thành viên tham gia Ban biên soạn giáo trình:\na) Chịu trách nhiệm chính về tính khoa học, hiện đại, phù hợp thực tiễn và tính đúng đắn trong chuyên môn của giáo trình, chịu sự chỉ đạo về mặt chuyên môn của chủ biên/đồng chủ biên, của đơn vị trong quá trình biên soạn giáo trình và về bản quyền tác giả theo quy định hiện hành của Nhà nước.\nb) Thực hiện nhiệm vụ theo phân công của chủ biên, đảm bảo trung thực, đúng tiến độ thời gian, sử dụng ngôn ngữ thống nhất chung của toàn bộ giáo trình, biểu quyết theo đa số.\nc) Được quyền góp ý về cấu trúc, nội dung của các phần không được phân công viết trong giáo trình nhưng phải tuân thủ quyết định của chủ biên/đồng chủ biên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tổ chức thẩm định bản thảo giáo trình",
+          "text": "Điều 7. Tổ chức thẩm định bản thảo giáo trình\n1. Hội đồng thẩm định:\na) Thành viên Hội đồng thẩm định là các nhà khoa học trong và ngoài ĐHĐN, có trình độ chuyên môn phù hợp với nội dung giáo trình cần thẩm định, có uy tín và kinh nghiệm giảng dạy; có trình độ đào tạo từ thạc sĩ trở lên đối với thẩm định giáo trình đại học; có trình độ đào tạo tiến sĩ hoặc có chức danh từ phó giáo sư trở lên đối với thẩm định giáo trình thạc sĩ và giáo trình tiến sĩ. Thành viên đã tham gia biên soạn giáo trình không tham gia Hội đồng thẩm định bản thảo giáo trình đã biên soạn.\nb) Thành viên Hội đồng thẩm định bản thảo giáo trình viết bằng tiếng nước ngoài phải có trình độ tiếng nước ngoài tương ứng đạt mức tối thiểu từ bậc 4/6 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương.\nc) Số lượng thành viên Hội đồng thẩm định phải là số lẻ, tối thiểu 05 thành viên trong đó có 01 Chủ tịch Hội đồng, 02 Phản biện, 01 Ủy viên Thư ký và các Ủy viên. Trong đó, Chủ tịch Hội đồng là giảng viên thuộc ĐHĐN, Hội đồng phải có ít nhất 01 thành viên ngoài ĐHĐN.\nd) Nhiệm vụ và quyền hạn của Hội đồng thẩm định:\n- Thực hiện thẩm định bản thảo giáo trình theo đúng nguyên tắc làm việc, nội dung và trình tự phiên họp thẩm định giáo trình quy định tại khoản 2 và khoản 4 Điều này và các quy định của pháp luật hiện hành có liên quan; nhận xét, đánh giá bản thảo giáo trình theo các yêu cầu tại Điều 2 của Quy định này;\n- Trong quá trình thẩm định, Hội đồng thẩm định có thể mời thêm một số đại biểu không phải là thành viên thuộc Hội đồng thẩm định tham dự các phiên họp thẩm định nếu thấy cần thiết. Ý kiến các thành viên ngoài Hội đồng thẩm định chỉ mang tính tham khảo và các thành viên này không tham gia biểu quyết hoặc quyết định các vấn đề thuộc chức năng nhiệm vụ của Hội đồng thẩm định;\n- Hội đồng thẩm định chịu trách nhiệm trước đơn vị quyết định thành lập Hội đồng, các cơ quan nhà nước có thẩm quyền, sự phù hợp về chuyên môn của giáo trình đã thẩm định và có trách nhiệm giải trình khi được yêu cầu.\n2. Nguyên tắc làm việc của Hội đồng thẩm định:\na) Hội đồng thẩm định làm việc dưới sự điều hành của Chủ tịch Hội đồng đảm bảo sự chính xác, khoa học, tính khách quan: ý kiến của trên 50% thành viên Hội đồng thẩm định có mặt tại phiên họp là kết quả thẩm định của Hội đồng thẩm định. Nếu ý kiến đồng ý hoặc không đồng ý bằng nhau thì quyết định của Chủ tịch Hội đồng là kết quả của Hội đồng thẩm định. Các thành viên trong Hội đồng thẩm định phải tự chịu trách nhiệm với ý kiến thẩm định của mình.\n\nb) Phiên họp của Hội đồng thẩm định phải có mặt ít nhất 2/3 tổng số thành viên của Hội đồng, trong đó phải có mặt Chủ tịch Hội đồng, Thư ký Hội đồng, 01 Ủy viên Phản biện. Trong trường hợp không thể họp trực tiếp do thiên tai, dịch bệnh hoặc do các trường hợp bất khả kháng khác, Hội đồng có thể tổ chức họp theo hình thức trực tuyến.\n\nc) Hội đồng thẩm định đánh giá và kết luận cụ thể các mức độ đáp ứng yêu cầu của giáo trình theo quy định tại Điều 2 Quy định này.\n\n3. Trách nhiệm, quyền hạn của các thành viên Hội đồng thẩm định\na) Chủ tịch Hội đồng: chịu trách nhiệm về hoạt động thẩm định, lập và thực hiện kế hoạch làm việc của Hội đồng; phân công nhiệm vụ các thành viên trong Hội đồng; điều hành phiên họp và chủ trì thông qua kết luận của Hội đồng.\n\nb) Thư ký Hội đồng: có trách nhiệm chuẩn bị hồ sơ, tài liệu cho buổi họp của Hội đồng; thực hiện các nhiệm vụ theo phân công của Chủ tịch Hội đồng; chịu trách nhiệm về tính đầy đủ và trung thực đối với nội dung ghi trong biên bản họp.\n\nc) Ủy viên Phản biện: có trách nhiệm viết nhận xét phản biện; thực hiện các nhiệm vụ theo phân công của Chủ tịch Hội đồng. Trường hợp vắng mặt phải gửi bản nhận xét phản biện bản thảo giáo trình đến Thư ký Hội đồng chậm nhất 1 ngày trước ngày họp Hội đồng thẩm định.\n\nd) Ủy viên Hội đồng: thực hiện các nhiệm vụ theo phân công của Chủ tịch Hội đồng.\n\n4. Nội dung và trình tự phiên họp thẩm định bản thảo giáo trình\na) Hội đồng thẩm định làm việc theo nguyên tắc được quy định tại khoản 2 Điều 7 của Quy định này. Kết luận của Hội đồng thẩm định cần xác định rõ kết quả thẩm định cụ thể của bản thảo giáo trình là một trong ba trường hợp sau:\n- Đạt yêu cầu cao, không cần chỉnh sửa, bổ sung; đề nghị được phê duyệt cho phép xuất bản giáo trình;\n- Đạt yêu cầu, phải chỉnh sửa, bổ sung theo ý kiến của Hội đồng, phải được Chủ tịch Hội đồng thẩm định xác nhận thông qua bản giải trình chỉnh sửa trước khi phê duyệt cho phép xuất bản giáo trình;\n- Không đạt yêu cầu, phải chỉnh sửa, bổ sung và thẩm định lại. Trong thời hạn 30 ngày kể từ khi có kết luận của Hội đồng thẩm định, Ban biên soạn phải hoàn thiện chỉnh sửa, bổ sung để thẩm định lại lần 2. Kinh phí cho việc tổ chức thẩm định lần 2 do Ban biên soạn chi trả. Nếu sau 2 lần thẩm định, giáo trình vẫn không đạt yêu cầu hoặc không chỉnh sửa, bổ sung đúng hạn Ban biên soạn phải dừng hoạt động biên soạn giáo trình.\n\nb) Trình tự của phiên họp thẩm định được trình bày theo Phụ lục II.\n\n5. Phê duyệt bản thảo giáo trình\na) Căn cứ kết quả thẩm định, Giám đốc ĐHĐN xem xét phê duyệt bản thảo cho phép xuất bản giáo trình đối với các đơn vị đào tạo thuộc ĐHĐN; Thủ trưởng các đơn vị đào tạo trực thuộc và Giám đốc PHKT phê duyệt bản thảo và cho phép xuất bản giáo trình của đơn vị.\n\nb) Hồ sơ phê duyệt bản thảo giáo trình gồm:\n\n- Bản thảo giáo trình hoàn thiện;\n- Phiếu nhận xét bản thảo giáo trình của Ủy viên Phản biện;\n- Phiếu nhận xét bản thảo giáo trình của thành viên Hội đồng;\n- Phiếu đánh giá bản thảo giáo trình;\n- Biên bản họp Hội đồng thẩm định bản thảo giáo trình;\n- Bản giải trình chỉnh sửa có xác nhận của Chủ tịch Hội đồng thẩm định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức thẩm định, lựa chọn sách đã xuất bản làm giáo trình",
+          "text": "Điều 8. Tổ chức thẩm định, lựa chọn sách đã xuất bản làm giáo trình\n1. Việc thẩm định sách đã xuất bản để lựa chọn làm giáo trình được áp dụng thực hiện như đối với thẩm định bản thảo giáo trình đã biên soạn theo quy định tại các khoản 1, 2, 3 Điều 7 Quy định này.\n\n2. Quy trình, nội dung và trình tự phiên họp thẩm định, lựa chọn sách đã xuất bản làm giáo trình\na) Đối với các đơn vị đào tạo thuộc ĐHĐN\n- ĐHĐN sẽ tổ chức thẩm định, lựa chọn sách đã xuất bản làm giáo trình.\n- Quy trình tổ chức thẩm định, lựa chọn sách đã xuất bản làm giáo trình được quy định tại Phụ lục III.\n- Hội đồng thẩm định làm việc theo nguyên tắc được quy định tại khoản 2 Điều 7 của Quy định này. Kết luận của Hội đồng thẩm định cần xác định rõ kết quả thẩm định cụ thể của sách đã xuất bản như sau:\n+ Đạt yêu cầu cao, đề nghị được phê duyệt cho phép sử dụng làm giáo trình;\n+ Không đạt yêu cầu.\n- Trình tự của phiên họp thẩm định, lựa chọn sách đã xuất bản làm giáo trình được trình bày theo Phụ lục IV.\n\nb) Đối với đơn vị đào tạo trực thuộc ĐHĐN và PHKT\nCác đơn vị đào tạo trực thuộc và PHKT ban hành quy trình và tổ chức thẩm định, lựa chọn giáo trình của đơn vị.\n\n3. Hồ sơ lựa chọn giáo trình gồm:\n- Phiếu nhận xét lựa chọn sách làm giáo trình của thành viên Hội đồng;\n- Phiếu đánh giá lựa chọn sách làm giáo trình;\n- Biên bản họp Hội đồng thẩm định, lựa chọn sách làm giáo trình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Phê duyệt giáo trình",
+          "text": "Điều 9. Phê duyệt giáo trình\n1. Căn cứ đề xuất của Thủ trưởng đơn vị, Giám đốc ĐHĐN xem xét, quyết định phê duyệt đưa giáo trình đã biên soạn, thẩm định và xuất bản theo quy định tại Điều 6, Điều 7 Quy định này hoặc sách đã thẩm định, lựa chọn theo quy định tại Điều 8 Quy định này vào sử dụng làm giáo trình trong giảng dạy, học tập tại đơn vị.\n\n2. Hồ sơ phê duyệt giáo trình\na) Tờ trình đề xuất của Thủ trưởng đơn vị về việc phê duyệt đưa giáo trình\n\nđã được thẩm định và xuất bản hoặc sách đã được thẩm định, lựa chọn làm giáo trình tại đơn vị;\nb) Quyết định phê duyệt bản thảo và cho phép xuất bản giáo trình (đối với các giáo trình tổ chức biên soạn và xuất bản tại Điều 6 và 7 Quy định này).\nc) Bản cam kết của Ban biên soạn về giáo trình đã xuất bản đúng với bản thảo giáo trình đã được thẩm định có xác nhận của Thủ trưởng đơn vị.\nd) Quyết định lựa chọn giáo trình (đối với sách đã xuất bản được thẩm định, lựa chọn tại Điều 8 Quy định này).\n\n3. Đơn vị tổ chức biên soạn, thẩm định là chủ sở hữu quyền tác giả của giáo trình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 10. Tổ chức thực hiện\n1. Đơn vị đào tạo và các tổ chức, cá nhân có liên quan căn cứ Quy định này và các quy định của pháp luật có liên quan đến việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng giáo trình, tài liệu giảng dạy đối với các trình độ của giáo dục đại học để tổ chức thực hiện.\n\n2. Căn cứ các quy định liên quan, các đơn vị xây dựng, ban hành và tổ chức thực hiện quy định nội bộ về việc biên soạn, thẩm định và lựa chọn giáo trình, bài giảng, tài liệu tham khảo đối với các trình độ của giáo dục đại học tại đơn vị.\n\n3. Đơn vị phổ biến, hướng dẫn cho giảng viên, người học và các tổ chức, cá nhân có liên quan về các quy định tại khoản 1 và 2 Điều này; phổ biến hướng dẫn người học về quyền và trách nhiệm được tiếp cận và sử dụng giáo trình, bài giảng, tài liệu tham khảo ngay từ đầu khóa học.\n\n4. Định kỳ vào tháng 12 hằng năm, đơn vị thực hiện báo cáo ĐHĐN danh mục các giáo trình, bài giảng, tài liệu tham khảo do đơn vị biên soạn, lựa chọn và thẩm định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Thanh tra, kiểm tra, xử lý khiếu nại, công khai và lưu trữ",
+          "text": "Điều 11. Thanh tra, kiểm tra, xử lý khiếu nại, công khai và lưu trữ\n1. Thanh tra, kiểm tra, xử lý khiếu nại\na) ĐHĐN tổ chức thanh tra, kiểm tra nội bộ việc thực hiện kế hoạch, quy định của đơn vị và các nhiệm vụ khác liên quan đến việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng giáo trình, bài giảng, tài liệu tham khảo của các đơn vị đối với từng học phần của chương trình đào tạo, ngành đào tạo và trình độ đào tạo.\nb) Trong quá trình sử dụng giáo trình, nếu có xảy ra khiếu nại về bản quyền, nội dung khoa học, Giám đốc ĐHĐN sẽ xem xét và xử lý theo quy định hiện hành.\n\n2. Công khai và lưu trữ\na) Các đơn vị công khai quy định nội bộ của đơn vị và các quy định khác có liên quan đến việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng giáo trình, bài giảng, tài liệu tham khảo trên trang thông tin điện tử của đơn vị chậm nhất 30 ngày trước khi tổ chức áp dụng thực hiện; công khai danh mục giáo trình, tài liệu tham khảo trên trang thông tin điện tử của đơn vị.\n\nb) Các đơn vị có trách nhiệm lưu trữ, bảo quản an toàn các tài liệu có liên quan đến công tác biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng giáo trình, bài giảng, tài liệu tham khảo trong đơn vị đối với các trình độ của giáo dục đại học theo các quy định Luật Lưu trữ và các quy định bảo quản tài liệu chuyên môn nghiệp vụ của ngành giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 12. Hiệu lực thi hành\nQuy định này có hiệu lực kể từ ngày ký ban hành. Trong quá trình thực hiện Quy định này, nếu có vướng mắc, bất cập hoặc có vấn đề mới nảy sinh cần bổ sung, sửa đổi, các đơn vị và cá nhân có liên quan phản ánh kịp thời về ĐHĐN (qua Ban Đào tạo) để tổng hợp ý kiến trình Giám đốc xem xét và quyết định./.\n\n[Phụ lục I]",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học trong các đơn vị đào tạo thuộc và trực thuộc Đại ",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về việc biên soạn, lựa chọn, thẩm định, phê duyệt và sử dụng tài liệu giảng dạy, giáo trình giáo dục đại học trong các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 2709/QĐ-ĐHĐN ngày 09/8/2018 của Giám đốc Đại học Đà Nẵng ban hành Quy định về việc biên soạn, thẩm định, lựa chọn và sử dụng",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 2709/QĐ-ĐHĐN ngày 09/8/2018 của Giám đốc Đại học Đà Nẵng ban hành Quy định về việc biên soạn, thẩm định, lựa chọn và sử dụng giáo trình trong các cơ sở đào tạo trực thuộc Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng có liên quan, Thủ trưởng các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban chức năng có liên quan, Thủ trưởng các đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

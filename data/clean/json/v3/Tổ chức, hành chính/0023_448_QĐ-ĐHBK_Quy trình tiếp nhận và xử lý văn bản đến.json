@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0023_448_QĐ-ĐHBK_Quy trình tiếp nhận và xử lý văn bản đến.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "448/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành “Quy trình tiếp nhận và xử lý văn bản đến”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/04/2018",
+    "effectiveDate": "24/04/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Văn thư, lưu trữ",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành kèm theo “Quy trình tiếp nhận và xử lý văn bản đến” tại Trường Đại học Bách khoa - Đại học Đà Nẵng, quy định về nguyên tắc, các bước tiếp nhận, phân loại, bóc bì, đóng dấu, đăng ký, trình, chuyển giao, triển khai thực hiện, theo dõi, đôn đốc và lưu trữ văn bản đến.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": "Đại học Đà Nẵng",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "07/2012/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 07/2012/TT-BNV ngày 22 tháng 11 năm 2012 của Bộ trưởng Bộ Nội vụ về việc hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan;"
+    },
+    {
+      "targetDocumentNumber": "139/VTLTNN-TTTH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 139/VTLTNN-TTTH ngày 14/3/2009 của Cục Văn thư và Lưu trữ nhà nước về việc hướng dẫn quản lý văn bản đi, văn bản đến và lập hồ sơ trong môi trường mạng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Cục Văn thư và Lưu trữ nhà nước",
+    "Bộ Nội vụ",
+    "Bộ Công an",
+    "Chính phủ",
+    "Đảng ủy",
+    "BGH",
+    "CĐ",
+    "ĐTN",
+    "H.SV",
+    "Hội CCB"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy trình tiếp nhận và xử lý văn bản đến” tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy trình tiếp nhận và xử lý văn bản đến” tại Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng các Phòng, Khoa và trưởng các đơn vị trực thuộc căn cứ quyết định thi hành.",
+      "text": "Điều 3. Trưởng các Phòng, Khoa và trưởng các đơn vị trực thuộc căn cứ quyết định thi hành.",
+      "isImplementationClause": false
+    }
+  ]
+}

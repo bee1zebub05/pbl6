@@ -1,0 +1,172 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0405_800_QĐ-ĐHBK_Quyết định ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "800/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định số 3092/QĐ-ĐHBK ngày 08 tháng 8 năm 2022 Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/03/2024",
+    "effectiveDate": "01/03/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Đào tạo",
+      "Khoa học Công nghệ"
+    ],
+    "summary": "Quyết định ban hành các Phụ lục thay thế Phụ lục II, IV, V, VI, VII, IX đã được ban hành theo Quyết định số 3092/QĐ-ĐHBK ngày 08/8/2022 của Trường Đại học Bách khoa, Đại học Đà Nẵng về Quy định chế độ làm việc của giảng viên, áp dụng từ năm học 2023-2024.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/2013/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 13/2013/QĐ-TTg ngày 06 tháng 02 năm 2013 của Thủ tướng Chính phủ về chế độ, chính sách đối với cán bộ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên Việt Nam, Hội Liên hiệp Thanh niên Việt Nam trong các cơ sở giáo dục và cơ sở dạy nghề;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ Giáo dục và Đào tạo Quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 của Bộ Giáo dục và Đào tạo Quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập;"
+    },
+    {
+      "targetDocumentNumber": "08/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2016/TT-BGDĐT ngày 28 tháng 3 năm 2016 của Bộ Giáo dục và Đào tạo Quy định chế độ giảm định mức giờ dạy cho giáo viên, giảng viên làm công tác công đoàn không chuyên trách trong các cơ sở giáo dục công lập thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4194/QĐ-ĐHĐN ngày 08 tháng 12 năm 2021 của Đại học Đà Nẵng về việc ban hành Quy định chế độ làm việc của giảng viên Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4766/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3237/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3237/QĐ-ĐHĐN ngày 31 tháng 7 năm 2023 của Giám đốc Đại học Đà Nẵng ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1404/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1404/QĐ-ĐHBK ngày 12 tháng 5 năm 2021 của Trường Đại học Bách khoa ban hành Quy định quản lý hoạt động khoa học và công nghệ tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3092/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08 tháng 8 năm 2022 của Trường Đại học Bách khoa ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2222/QĐ-ĐHBK",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "840/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "(sau đây gọi tắt là Quyết định 840)."
+    },
+    {
+      "targetDocumentNumber": "639/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "639/QĐ-ĐHĐN ngày 3/2/2021 của Giám đốc ĐHĐN về việc quy định tên giao dịch tiếng Anh của Đại học Đà Nẵng, các trường DHTV, các đơn vị thuộc và trực thuộc, các chức danh lãnh đạo trong Đại học Đà Nẵng)."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+    "Hội Sinh viên Việt Nam",
+    "Hội Liên hiệp Thanh niên Việt Nam",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng trường Trường Đại học Bách khoa",
+    "Cục Sở hữu trí tuệ",
+    "Hội đồng Giáo sư nhà nước"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này các Phụ lục thay thế Phụ lục II, IV, V, VI, VII, IX đã được ban hành theo Quyết định số 3092/QĐ-ĐHBK của Trường Đại học Bách khoa ngày 08 tháng 8 năm 2022 ban hành Quy",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này các Phụ lục thay thế Phụ lục II, IV, V, VI, VII, IX đã được ban hành theo Quyết định số 3092/QĐ-ĐHBK của Trường Đại học Bách khoa ngày 08 tháng 8 năm 2022 ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng, áp dụng từ năm học 2023-2024.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trư",
+      "text": "Điều 2. Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Đào tạo, Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị và cá nhân có ",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Đào tạo, Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

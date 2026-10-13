@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0031_542_QĐ-ĐHBK_Quy định soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đ.txt",
+  "mappedBy": "gemini-web",
+  "note": "15 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "542/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "08/05/2018",
+    "effectiveDate": "08/05/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính",
+      "Văn thư, lưu trữ"
+    ],
+    "summary": "Quyết định ban hành Quy định về soạn thảo, thẩm định và ban hành văn bản quy phạm nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng; quy định nguyên tắc, ngôn ngữ, kỹ thuật trình bày, trình tự các bước thực hiện và trách nhiệm tổ chức thi hành.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về ban hành Quy chế tổ chức, hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "01/2011/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 01/2011/TT-BNV ngày 19/01/2011 của Bộ trưởng Bộ Nội vụ hướng dẫn về thể thức và kỹ thuật trình bày văn bản hành chính;"
+    },
+    {
+      "targetDocumentNumber": "5668/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 5668/QĐ-ĐHĐN ngày 30/9/2014 của Giám đốc Đại học Đà Nẵng ban hành Quy chế soạn thảo, thẩm định và ban hành văn bản quy phạm nội bộ;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ trưởng Bộ Giáo dục và Đào tạo",
+    "Bộ Nội vụ",
+    "Bộ trưởng Bộ Nội vụ",
+    "Đại học Đà Nẵng",
+    "Giám đốc Đại học Đà Nẵng",
+    "Phòng Thanh tra - Pháp chế",
+    "Phòng Tổ chức - Hành chính",
+    "Ban Giám hiệu",
+    "Trường Đại học Bách khoa",
+    "Đảng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Về soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về soạn thảo, thẩm định và ban hành văn bản quy phạm nội bộ (viết tắt là VBQPNB) của Trường Đại học Bách khoa (gọi tắt là Trường), bao gồm: Nguyên tắc soạn thảo, trình tự, kỹ thuật soạn thảo, ban hành VBQPNB.\n2. Các VBQPNB của Trường là các văn bản hành chính có đủ các yếu tố sau:\na) Được ban hành dưới hình thức văn bản có tên loại: Quy chế, Quy định, Quy trình, Hướng dẫn, Nội quy.\nb) Có chứa quy tắc hoặc tiêu chuẩn, áp dụng chung cho một mặt hoạt động, một lĩnh vực công tác, một công việc của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Nguyên tắc soạn thảo và ban hành VBQPNB",
+          "text": "Điều 2. Nguyên tắc soạn thảo và ban hành VBQPNB\nViệc soạn thảo, ban hành VBQPNB của Trường phải tuân thủ các nguyên tắc sau:\n1. Bảo đảm tính hợp pháp, tính thống nhất, tính phù hợp với các văn bản quy phạm pháp luật cũng như các quy định của Bộ Giáo dục & Đào tạo và của Đại học Đà Nẵng;\n2. Thực hiện đúng thẩm quyền, thể thức, kỹ thuật trình bày, trình tự, thủ tục soạn thảo và ban hành VBQPNB;\n3. Bảo đảm tính công khai, minh bạch trong quá trình soạn thảo, ban hành VBQPNB;\n4. Bảo đảm tính khả thi của VBQPNB, phù hợp với điều kiện, tình hình thực tế của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Ngôn ngữ và kỹ thuật trình bày VBQPNB",
+          "text": "Điều 3. Ngôn ngữ và kỹ thuật trình bày VBQPNB\n1. Ngôn ngữ sử dụng trong VBQPNB là tiếng Việt, từ ngữ được sử dụng đảm bảo tính phổ thông; cách diễn đạt phải ngắn gọn, chính xác, dễ hiểu và được hiểu theo một nghĩa; chỉ sử dụng từ ngữ nước ngoài nếu không có từ tiếng Việt thay thế.\n2. VBQPNB cần quy định trực tiếp nội dung cần điều chỉnh, không quy định chung chung, không quy định lại các nội dung đã được quy định trong VBQPNB khác.\n3. Tùy theo nội dung VBQPNB có phạm vi điều chỉnh rộng hay hẹp có thể lựa chọn một trong những bố cục sau:\na) Phần, chương, mục, điều, khoản, điểm;\n\nb) Chương, mục, điều, khoản, điểm;\nc) Chương, điều, khoản, điểm;\nd) Điều, khoản.\n4. Các quy định khác về thể thức, kỹ thuật, phông chữ trình bày VBQPNB được áp dụng theo Thông tư số 01/2011/TT-BNV ngày 19/01/2011 của Bộ trưởng Bộ Nội vụ hướng dẫn về thể thức và kỹ thuật trình bày văn bản hành chính.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thời điểm có hiệu lực của VBQPNB",
+          "text": "Điều 4. Thời điểm có hiệu lực của VBQPNB\n1. Thời điểm có hiệu lực thi hành của VBQPNB phải được xác định cụ thể trong văn bản, bảo đảm đủ thời gian để các đối tượng thi hành có điều kiện tiếp cận văn bản và có điều kiện chuẩn bị thực hiện văn bản.\n2. Trong trường hợp cần thiết phải có các quy định chuyển tiếp phù hợp.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Trình tự soạn thảo và ban hành VBQPNB",
+          "text": "Điều 5. Trình tự soạn thảo và ban hành VBQPNB\nTrình tự ban hành VBQPNB gồm các bước:\n1. Xin ý kiến chỉ đạo của Hiệu trưởng;\n2. Soạn thảo dự thảo;\n3. Lấy ý kiến góp ý đối với dự thảo, chỉnh lý dự thảo;\n4. Thẩm định dự thảo;\n5. Trình ký và ban hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Soạn thảo dự thảo và lấy ý kiến góp ý",
+          "text": "Điều 6. Soạn thảo dự thảo và lấy ý kiến góp ý\n1. Sau khi có ý kiến chỉ đạo của Hiệu trưởng, đơn vị soạn thảo có trách nhiệm nghiên cứu thông tin, tư liệu có liên quan để hoàn thành dự thảo và trình Hiệu trưởng phê duyệt việc lấy ý kiến đóng góp của các đơn vị cho dự thảo.\n2. Tùy theo mức độ phức tạp của nội dung dự thảo có thể lựa chọn các hình thức tổ chức lấy ý kiến sau:\na) Gửi dự thảo để lấy ý kiến của các đơn vị, tổ chức, cá nhân có liên quan và đối tượng chịu tác động trực tiếp của văn bản;\nb) Tổ chức họp góp ý trực tiếp hoặc tổ chức Hội thảo;\nc) Lấy ý kiến thông qua Trang thông tin điện tử của Trường.\n3. Thời hạn mỗi lần lấy ý kiến không quá 07 ngày làm việc và bảo đảm cho đối tượng được lấy ý kiến đủ thời gian nghiên cứu dự thảo.\nĐơn vị, tổ chức, cá nhân được lấy ý kiến có trách nhiệm nghiên cứu, tham gia đóng góp ý kiến.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tổng hợp và giải trình ý kiến góp ý, chỉnh lý dự thảo",
+          "text": "Điều 7. Tổng hợp và giải trình ý kiến góp ý, chỉnh lý dự thảo\n1. Trên cơ sở ý kiến góp ý, đơn vị chủ trì soạn thảo có trách nhiệm nghiên cứu, tổng hợp, giải trình và chỉnh lý dự thảo.\n\n2. Trường hợp xét thấy cần thiết, đơn vị chủ trì soạn thảo tiếp tục lấy ý kiến góp ý của đơn vị, tổ chức, cá nhân có liên quan.\nĐối với những vấn đề phức tạp có ý kiến không thống nhất, đơn vị chủ trì soạn thảo báo cáo Hiệu trưởng để xin ý kiến chỉ đạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Thẩm định dự thảo VBQPNB",
+          "text": "Điều 8. Thẩm định dự thảo VBQPNB\n1. Phòng Thanh tra - Pháp chế có trách nhiệm thẩm định dự thảo VBQPNB của Trường.\n2. Thời hạn thẩm định dự thảo VBQPNB không quá 07 ngày làm việc, kể từ ngày nhận được dự thảo cần thẩm định.\n3. Các nội dung thẩm định bao gồm:\na) Sự cần thiết ban hành VBQPNB; Đối tượng áp dụng và phạm vi điều chỉnh của dự thảo;\nb) Sự phù hợp của nội dung dự thảo với đường lối, chủ trương, chính sách của Đảng;\nc) Tính hợp pháp và tính thống nhất của dự thảo với hệ thống pháp luật và hệ thống VBQPNB;\nd) Tính khả thi của dự thảo (bao gồm sự phù hợp giữa quy định của dự thảo với yêu cầu thực tế và điều kiện bảo đảm để thực hiện);\ne) Ngôn ngữ, kỹ thuật soạn thảo văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Trình ký và ban hành VBQPNB",
+          "text": "Điều 9. Trình ký và ban hành VBQPNB\n1. Sau khi hoàn tất việc thẩm định dự thảo VBQPNB, đơn vị soạn thảo hoàn chỉnh dự thảo VBQPNB và trình Hiệu trưởng ký ban hành.\n2. Hồ sơ trình ký và ban hành theo Quy trình ban hành văn bản của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Đính chính sai sót và sửa đổi, bổ sung đối với VBQPNB đã phát hành",
+          "text": "Điều 10. Đính chính sai sót và sửa đổi, bổ sung đối với VBQPNB đã phát hành\n1. Đính chính sai sót:\na) VBQPNB đã phát hành nếu phát hiện có sai sót về thể thức, kỹ thuật trình bày thì đơn vị chủ trì soạn thảo phối hợp với Phòng Tổ chức - Hành chính và Phòng Thanh tra - Pháp chế để thực hiện đính chính bằng việc soạn thảo một văn bản đính chính.\nb) Đối với VBQPNB đã phát hành nhưng có sai sót về nội dung phải được sửa đổi, thay thế bằng văn bản có hình thức tương đương theo trình tự như trên.\n2. Sửa đổi, bổ sung VBQPNB:\na) Khi ban hành VBQPNB phải thực hiện sửa đổi, bổ sung, bãi bỏ, hủy bỏ hoặc thay thế VBQPNB, điều, khoản, điểm của VBQPNB đã ban hành trái với quy định của văn bản mới ngay trong VBQPNB mới đó.\nb) Tên VBQPNB, phần, chương, mục, điều, khoản, điểm của VBQPNB được sửa đổi, bổ sung, bãi bỏ, hủy bỏ hoặc thay thế phải được liệt kê cụ thể tại điều quy định về hiệu lực thi hành của VBQPNB.\nc) Trình tự soạn thảo và ban hành văn bản sửa đổi, bổ sung VBQPNB được thực hiện như đối với trình tự soạn thảo và ban hành VBQPNB của Quy định này (từ Điều 5 đến Điều 9).",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 11. Hiệu lực thi hành\nQuy định này có hiệu lực kể từ ngày ký. Trong quá trình triển khai thực hiện, nếu có vấn đề phát sinh hoặc khó khăn, vướng mắc, đề nghị các đơn vị, cá nhân phản ánh kịp thời về Phòng Thanh tra - Pháp chế để tổng hợp trình Hiệu trưởng xem xét, quyết định.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 12. Tổ chức thực hiện\n1. Trưởng phòng Tổ chức - Hành chính, Trưởng các Phòng chức năng, Trưởng các đơn vị thuộc Trường có trách nhiệm tổ chức triển khai thực hiện Quy định này.\n2. Phòng Thanh tra - Pháp chế có trách nhiệm giúp Hiệu trưởng Nhà trường kiểm tra, giám sát việc thực hiện Quy định này./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Quy định soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Quy định soạn thảo và ban hành văn bản quy phạm nội bộ Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các ông (bà) Trưởng Phòng Tổ chức - Hành chính, Trưởng các phòng chức năng, Trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Các ông (bà) Trưởng Phòng Tổ chức - Hành chính, Trưởng các phòng chức năng, Trưởng các đơn vị và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

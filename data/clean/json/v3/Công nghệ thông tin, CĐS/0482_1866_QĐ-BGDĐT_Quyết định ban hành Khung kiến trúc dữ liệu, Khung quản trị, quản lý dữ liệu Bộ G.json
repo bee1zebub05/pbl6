@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0482_1866_QĐ-BGDĐT_Quyết định ban hành Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu Bộ G.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1866/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu Bộ Giáo dục và Đào tạo (Phiên bản 1.0)",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "29/06/2026",
+    "effectiveDate": "29/06/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu Bộ Giáo dục và Đào tạo (Phiên bản 1.0). Quyết định có hiệu lực kể từ ngày ký.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "60/2024/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Dữ liệu số 60/2024/QH15;"
+    },
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "165/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 165/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Dữ liệu;"
+    },
+    {
+      "targetDocumentNumber": "88/2026/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 88/2026/NĐ-CP ngày 28 tháng 3 năm 2026 của Chính phủ quy định quản lý dữ liệu giáo dục và đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "2439/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2439/QĐ-TTg ngày 04 tháng 11 năm 2025 của Thủ tướng Chính phủ về việc ban hành Khung kiến trúc dữ liệu quốc gia, Khung quản trị, quản lý dữ liệu quốc gia, Từ điển dữ liệu dùng chung (Phiên bản 1.0);"
+    },
+    {
+      "targetDocumentNumber": "2629/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2629/QĐ-TTg ngày 01 tháng 12 năm 2025 của Thủ tướng Chính phủ về việc phê duyệt Chương trình phát triển Chính phủ số;"
+    },
+    {
+      "targetDocumentNumber": "11/QĐ-BCĐCP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 11/QĐ-BCĐCP ngày 27 tháng 02 năm 2026 ban hành kế hoạch hoạt động năm 2026 của Ban Chỉ đạo của Chính phủ về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và Đề án 06;"
+    },
+    {
+      "targetDocumentNumber": "3090/QĐ-BKHCN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3090/QĐ-BKHCN ngày 08 tháng 10 năm 2025 của Bộ trưởng Bộ Khoa học và Công nghệ về ban hành Khung kiến trúc tổng thể quốc gia số;"
+    },
+    {
+      "targetDocumentNumber": "3009/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3009/QĐ-BGDĐT ngày 31 tháng 10 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về Phê duyệt Chiến lược dữ liệu đến năm 2030 của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "2920/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2920/QĐ-BGDĐT ngày 22 tháng 10 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về ban hành Chiến lược chuyển đổi số của Bộ Giáo dục và Đào tạo giai đoạn 2025 – 2030, định hướng đến năm 2035;"
+    },
+    {
+      "targetDocumentNumber": "278/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Việc kết nối, chia sẻ và khai thác dữ liệu từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phải tuân thủ quy định tại Nghị định số 278/2025/NĐ-CP ngày 22 tháng 10 năm 2025 của Chính phủ về kết nối, chia sẻ dữ liệu bắt buộc giữa các cơ quan thuộc hệ thống chính trị và các văn bản quy phạm pháp luật khác có liên quan."
+    },
+    {
+      "targetDocumentNumber": "356/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Dữ liệu cá nhân bao gồm dữ liệu cá nhân cơ bản, dữ liệu cá nhân nhạy cảm được quy định tại Nghị định 356/2025/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật bảo vệ dữ liệu cá nhân."
+    },
+    {
+      "targetDocumentNumber": "20/2025/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Ví dụ: Thông tin cá nhân học sinh, sinh viên; kết quả học tập, học bạ... (Nghị định 165/2025/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dữ liệu; Quyết định 20/2025/QĐ-TTg Ban hành Danh mục dữ liệu quan trọng, dữ liệu cốt lõi.)"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Giáo dục và Đào tạo",
+    "Ủy ban nhân dân các cấp"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu Bộ Giáo dục và Đào tạo (Phiên bản 1.0).",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Khung kiến trúc dữ liệu, Khung quản trị, quản lý dữ liệu Bộ Giáo dục và Đào tạo (Phiên bản 1.0).",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng Bộ, Cục trưởng Cục Khoa học, Công nghệ và Thông tin, Thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng Bộ, Cục trưởng Cục Khoa học, Công nghệ và Thông tin, Thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

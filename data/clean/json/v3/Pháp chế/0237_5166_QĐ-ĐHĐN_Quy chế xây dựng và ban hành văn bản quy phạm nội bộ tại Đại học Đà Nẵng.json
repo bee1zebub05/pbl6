@@ -1,0 +1,203 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0237_5166_QĐ-ĐHĐN_Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng.txt",
+  "mappedBy": "gemini-web",
+  "note": "17 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "5166/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/12/2022",
+    "effectiveDate": "28/12/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế",
+      "Tổ chức, hành chính",
+      "Văn thư, lưu trữ"
+    ],
+    "summary": "Quyết định ban hành Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng, đồng thời thay thế Quyết định số 5668/QĐ-ĐHĐN ngày 30 tháng 9 năm 2014.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "30/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ về công tác văn thư;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 7 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 7 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "5668/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 5668/QĐ-ĐHĐN ngày 30 tháng 9 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế soạn thảo, thẩm định và ban hành văn bản quy phạm nội bộ."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Thanh tra và Pháp chế"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế Xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về xây dựng và ban hành văn bản quy phạm nội bộ (QPNB) tại Đại học Đà Nẵng (ĐHĐN), bao gồm: nguyên tắc xây dựng và ban hành văn bản QPNB; ban hành, điều chỉnh Chương trình xây dựng văn bản QPNB; công tác soạn thảo, thẩm định văn bản QPNB.\n2. Quy chế này được áp dụng tại các trường đại học thành viên (ĐHTV), các đơn vị thuộc, trực thuộc ĐHĐN và các đơn vị, tổ chức, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Văn bản quy phạm nội bộ",
+          "text": "Điều 2. Văn bản quy phạm nội bộ\nVăn bản QPNB bao gồm:\n1. Văn bản do người có thẩm quyền ký ban hành có đầy đủ các yếu tố sau:\na) Có chứa quy tắc hoặc tiêu chuẩn, có hiệu lực bắt buộc chung được áp dụng nhiều lần để điều chỉnh các hoạt động của đơn vị, cá nhân.\nb) Được ban hành dưới hình thức văn bản có tên loại: quy chế, quy định, quy trình, hướng dẫn, nội quy, ... .\n2. Các văn bản liên tịch giữa chính quyền và đoàn thể ở cấp ĐHĐN hoặc trường ĐHTV có đầy đủ các yếu tố nêu ở các điểm a và b khoản 1 Điều này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Nguyên tắc xây dựng, ban hành văn bản quy phạm nội bộ",
+          "text": "Điều 3. Nguyên tắc xây dựng, ban hành văn bản quy phạm nội bộ\n1. Bảo đảm tính hợp pháp, tuân thủ các quy định pháp luật, phù hợp với các văn bản quy phạm pháp luật có liên quan đang còn hiệu lực.\n2. Bảo đảm tính khả thi, phù hợp với thực tế áp dụng và yêu cầu phát triển của ĐHĐN, các trường ĐHTV, các đơn vị thuộc và trực thuộc ĐHĐN.\n3. Tuân thủ thẩm quyền, trình tự, thủ tục xây dựng, ban hành văn bản theo quy định tại quy chế này (trừ các văn bản thuộc thẩm quyền ban hành của các đơn vị quy định tại Điều 9 Quy chế này); thể thức, kỹ thuật trình bày văn bản thực hiện theo quy định pháp luật về công tác văn thư hiện hành.\n4. Bảo đảm tính thống nhất trong hệ thống văn bản quy phạm nội bộ của ĐHĐN, của đơn vị ban hành văn bản.\n5. Bảo đảm tính công khai trong quá trình xây dựng, ban hành văn bản (trừ trường hợp văn bản có nội dung thuộc bí mật nhà nước); văn bản trước khi ban hành cần được lấy ý kiến góp ý rộng rãi của các đơn vị, tổ chức, cá nhân có liên quan; bảo đảm tính minh bạch trong các quy phạm của văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Ban hành Chương trình xây dựng văn bản quy phạm nội bộ",
+          "text": "Điều 4. Ban hành Chương trình xây dựng văn bản quy phạm nội bộ\n1. Vào đầu mỗi năm học, Ban Thanh tra và Pháp chế (TTPC)/bộ phận pháp chế của các trường ĐHTV (gọi tắt là bộ phận pháp chế) có trách nhiệm tham mưu Giám đốc ĐHĐN/Hiệu trưởng các trường ĐHTV (gọi tắt là Hiệu trưởng) triển khai việc lập đề nghị, đề xuất xây dựng văn bản QPNB đến các đơn vị thuộc, trực thuộc của đơn vị.\n2. Các đơn vị chức năng, đơn vị thuộc, trực thuộc của ĐHĐN/trường ĐHTV căn cứ vào các quy định pháp luật hiện hành và tình hình thực tế, thực hiện việc rà soát các văn bản QPNB liên quan đến mảng công tác của đơn vị, lập Danh mục đề xuất sửa đổi, bổ sung, thay thế, bãi bỏ, ban hành mới văn bản QPNB (Mẫu số 01) gửi về Ban TTPC/bộ phận pháp chế để tổng hợp, tham mưu Giám đốc ĐHĐN/Hiệu trưởng quyết định ban hành Chương trình xây dựng văn bản QPNB của ĐHĐN/trường ĐHTV (Mẫu số 02).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Điều chỉnh Chương trình xây dựng văn bản quy phạm nội bộ",
+          "text": "Điều 5. Điều chỉnh Chương trình xây dựng văn bản quy phạm nội bộ\n1. Việc điều chỉnh Chương trình xây dựng văn bản QPNB được thực hiện trong các trường hợp sau:\n- Bổ sung vào Chương trình những văn bản QPNB phải soạn thảo, ban hành do yêu cầu cấp thiết từ thực tiễn hoặc yêu cầu phải sửa đổi, bổ sung cho phù hợp với văn bản quy phạm pháp luật, văn bản của cấp trên mới ban hành;\n- Đưa ra khỏi Chương trình những dự thảo văn bản QPNB chưa cần thiết hoặc không còn cần thiết phải sửa đổi, ban hành.\n2. Trường hợp phát sinh yêu cầu điều chỉnh Chương trình theo quy định tại khoản 1 Điều này, đơn vị chủ trì soạn thảo lập văn bản đề nghị, nêu rõ lý do điều chỉnh trình Giám đốc ĐHĐN/Hiệu trưởng phê duyệt, cho phép điều chỉnh; gửi 01 bản về Ban TTPC/bộ phận pháp chế để theo dõi, tổng hợp.\nVăn bản đề nghị điều chỉnh đã được phê duyệt là minh chứng phục vụ việc đánh giá mức độ hoàn thành nhiệm vụ của các đơn vị được giao chủ trì soạn thảo văn bản QPNB.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Trách nhiệm soạn thảo văn bản quy phạm nội bộ",
+          "text": "Điều 6. Trách nhiệm soạn thảo văn bản quy phạm nội bộ\n1. Căn cứ Chương trình xây dựng văn bản QPNB đã được ban hành, các đơn vị được giao chủ trì có trách nhiệm tổ chức soạn thảo các văn bản và chịu trách nhiệm trước Giám đốc ĐHĐN/Hiệu trưởng về tiến độ soạn thảo, chất lượng dự thảo văn bản được phân công soạn thảo.\n2. Trách nhiệm soạn thảo văn bản liên tịch nêu ở khoản 2 Điều 2 Quy chế này do lãnh đạo cấp có thẩm quyền ký ban hành văn bản quyết định đối tới từng trường hợp cụ thể.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Trình tự, thủ tục xây dựng và ban hành quy chế, quy định",
+          "text": "Điều 7. Trình tự, thủ tục xây dựng và ban hành quy chế, quy định\nViệc xây dựng và ban hành văn bản được thực hiện như sau:\n\nBước 1. Xây dựng dự thảo\nĐơn vị chủ trì soạn thảo nghiên cứu thông tin, tư liệu, các văn bản quy phạm pháp luật, văn bản quy định của cấp trên có liên quan, xây dựng đề cương và biên soạn dự thảo; thảo luận, trao đổi ý kiến trong đơn vị, thống nhất nội dung dự thảo (dự thảo lần 01).\n\nBước 2. Tổ chức lấy ý kiến góp ý\nĐơn vị chủ trì soạn thảo tham mưu Giám đốc ĐHĐN/Hiệu trưởng tổ chức lấy ý kiến góp ý dự thảo lần 01 đến các đơn vị, cá nhân có liên quan theo quy định tại Điều 10 Quy chế này.\n\nBước 3. Chỉnh sửa, hoàn thiện dự thảo văn bản (dự thảo lần 02).\nTrên cơ sở ý kiến góp ý của các cá nhân, đơn vị có liên quan, đơn vị chủ trì soạn thảo lập Bảng tổng hợp ý kiến góp ý, giải trình (Mẫu số 03); chỉnh sửa, hoàn thiện dự thảo văn bản (dự thảo lần 02).\nBảng tổng hợp ý kiến góp ý, giải trình cần nêu rõ lý do tiếp thu, không tiếp thu nội dung góp ý (nếu có); đề xuất phương án giải quyết.\n\nBước 4. Thẩm định Dự thảo văn bản QPNB\n- Đơn vị chủ trì soạn thảo lập hồ sơ đề nghị thẩm định về Ban TTPC/bộ phận pháp chế để thẩm định. Hồ sơ gồm có:\n+ Công văn đề nghị thẩm định của đơn vị chủ trì soạn thảo (Mẫu số 04);\n+ Dự thảo quyết định (nghị quyết) ban hành văn bản (nếu có);\n+ Dự thảo văn bản cần thẩm định;\n+ Bảng tổng hợp ý kiến góp ý, giải trình.\n+ Các tài liệu liên quan khác (nếu có).\n- Đơn vị thẩm định tổ chức thẩm định dự thảo văn bản và phản hồi ý kiến cho đơn vị chủ trì soạn thảo (Mẫu số 05); gửi văn bản bảo lưu ý kiến thẩm định (Mẫu số 06) cho đơn vị chủ trì soạn thảo (nếu có nội dung chưa thống nhất và cần bảo lưu ý kiến).\n* Các quy chế, quy định có nội dung phức tạp, còn có vấn đề cần làm rõ theo đề nghị của đơn vị thẩm định, đơn vị soạn thảo cần xây dựng dự thảo lần 02b (sau dự thảo lần 02) và tiếp tục tham mưu tổ chức lấy ý kiến của các đơn vị, tổ chức, cá nhân có liên quan. Sau khi lấy ý kiến góp ý, đơn vị chủ trì soạn thảo hoàn thiện và gửi lại Dự thảo cho đơn vị thẩm định để tiếp tục rà soát thẩm định.\n\nBước 5. Trình ký ban hành văn bản QPNB\n Đối với quy chế, quy định do Giám đốc ĐHĐN/Hiệu trưởng ký ban hành:*\nĐơn vị chủ trì soạn thảo chỉnh sửa, hoàn thiện dự thảo văn bản theo ý kiến thẩm định (dự thảo lần 03), phản hồi ý kiến bằng văn bản cho đơn vị thẩm định (nếu có nội dung chưa thống nhất và cần bảo lưu ý kiến); gửi dự thảo lần 03 kèm Tờ trình đề nghị ban hành văn bản (Mẫu số 07) trình Giám đốc ĐHĐN/Hiệu trưởng ký ban hành.\n\n \n\nĐối với quy chế, quy định do Hội đồng ĐHĐN/Hội đồng trường của các trường ĐHTV (gọi tắt là Hội đồng trường) ký ban hành:*\n- Sau khi có ý kiến thẩm định, đơn vị chủ trì soạn thảo chỉnh sửa, hoàn thiện dự thảo văn bản (dự thảo lần 03) trình Giám đốc ĐHĐN/Hiệu trưởng cho ý kiến trước khi lập hồ sơ trình Hội đồng ĐHĐN/Hội đồng trường xem xét, ban hành văn bản.\n- Hồ sơ đề nghị gồm:\n+ Tờ trình của Giám đốc ĐHĐN/Hiệu trưởng đề nghị Hội đồng ĐHĐN/Hội đồng trường ban hành văn bản (Mẫu số 07);\n+ Dự thảo nghị quyết ban hành văn bản;\n+ Dự thảo văn bản cần ban hành;\n+ Bảng tổng hợp ý kiến góp ý, giải trình.\n- Trường hợp Hội đồng ĐHĐN/Hội đồng trường có ý kiến, yêu cầu chỉnh sửa Dự thảo, đơn vị chủ trì soạn thảo báo cáo, xin ý kiến chỉ đạo của Giám đốc ĐHĐN/Hiệu trưởng để chỉnh sửa và hoàn thiện dự thảo văn bản (dự thảo lần 04);\n- Sau khi chỉnh sửa, hoàn thiện, đơn vị chủ trì soạn thảo chuẩn bị hồ sơ đề nghị trình Hội đồng ĐHĐN/Hội đồng trường xem xét, ban hành văn bản.\n\nBước 6. Phát hành văn bản\nĐơn vị chủ trì soạn thảo văn bản có trách nhiệm phát hành văn bản đến các đơn vị, tổ chức, cá nhân có liên quan và gửi 01 bản về Ban TTPC/bộ phận pháp chế để theo dõi, cập nhật vào hệ thống văn bản QPNB của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Xây dựng và ban hành quy trình, hướng dẫn, nội quy và các văn bản QPNB khác",
+          "text": "Điều 8. Xây dựng và ban hành quy trình, hướng dẫn, nội quy và các văn bản QPNB khác\n1. Đối với các quy trình, hướng dẫn, nội quy và các văn bản QPNB khác có nội dung phức tạp, có khả năng phát sinh nhiều ý kiến trái chiều, hoặc nội dung văn bản có liên quan nhiều đến quyền lợi, trách nhiệm của viên chức, người lao động hoặc sinh viên, việc xây dựng và ban hành được thực hiện theo trình tự, thủ tục quy định tại Điều 7 Quy chế này.\n2. Đối với các văn bản có nội dung đơn giản, đơn vị chủ trì soạn thảo trực tiếp trao đổi với đơn vị thẩm định về nội dung dự thảo, các vấn đề liên quan; lập công văn đề nghị thẩm định kèm theo dự thảo văn bản gửi lấy ý kiến thẩm định; hoàn thiện Dự thảo sau thẩm định và trình ký ban hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Việc xây dựng và ban hành các văn bản QPNB áp dụng tại Viện Nghiên cứu và Đào tạo Việt - Anh, Phân hiệu ĐHĐN tại Kon Tum, các Khoa, đơn vị trực thuộc ĐHĐN",
+          "text": "Điều 9. Việc xây dựng và ban hành các văn bản QPNB áp dụng tại Viện Nghiên cứu và Đào tạo Việt - Anh, Phân hiệu ĐHĐN tại Kon Tum, các Khoa, đơn vị trực thuộc ĐHĐN\n1. Đối với các văn bản thuộc thẩm quyền ban hành của Giám đốc ĐHĐN.\nThủ tục xây dựng và ban hành văn bản được thực hiện như sau:\nBước 1. Đơn vị chủ trì soạn thảo nghiên cứu thông tin, tư liệu, các văn bản quy phạm pháp luật, văn bản quy định của cấp trên có liên quan, chuẩn bị đề cương và biên soạn dự thảo; thảo luận, trao đổi ý kiến trong đơn vị, thống nhất nội dung dự thảo (dự thảo lần 01).\n\nBước 2. Đơn vị chủ trì soạn thảo gửi Tờ trình đề nghị ban hành văn bản kèm dự thảo lần 01 về ĐHĐN để làm thủ tục lấy ý kiến góp ý, thẩm định, trình ký, ban hành văn bản.\nBước 3. Đơn vị chức năng theo sự phân công của Giám đốc ĐHĐN tổ chức lấy ý kiến góp ý đến các đơn vị, cá nhân có liên quan.\nTrên cơ sở các ý kiến góp ý, đơn vị chức năng phối hợp với đơn vị chủ trì soạn thảo hoàn thiện dự thảo văn bản (dự thảo lần 02); làm thủ tục thẩm định, trình ký và ban hành văn bản theo quy định tại Điều 7 Quy chế này.\n2. Đối với các văn bản thuộc thẩm quyền ban hành của Viện trưởng Viện Nghiên cứu và Đào tạo Việt - Anh, Giám đốc Phân hiệu ĐHĐN tại Kon Tum, Trưởng các Khoa, Thủ trưởng các đơn vị trực thuộc ĐHĐN.\nCác đơn vị tổ chức xây dựng và ban hành văn bản phù hợp với tình hình thực tế tại đơn vị, đảm bảo tuân thủ các nguyên tắc quy định tại Điều 3 Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Việc lấy ý kiến góp ý đối với Dự thảo văn bản QPNB",
+          "text": "Điều 10. Việc lấy ý kiến góp ý đối với Dự thảo văn bản QPNB\n1. Tùy theo mức độ phức tạp của nội dung văn bản và khả năng phát sinh ý kiến trái chiều về các quy phạm trong văn bản dự thảo, đơn vị chủ trì soạn thảo tham mưu lựa chọn hình thức, đối tượng lấy ý kiến phù hợp. Việc tổ chức lấy ý kiến có thể được thực hiện dưới một hoặc kết hợp các hình thức:\n- Gửi dự thảo đề nghị đóng góp ý kiến đến đối tượng chịu sự tác động trực tiếp của văn bản và các đơn vị, tổ chức, cá nhân có liên quan.\n- Tổ chức họp góp ý qua các cuộc họp, hội thảo, tọa đàm...\n- Đăng tải dự thảo để lấy ý kiến công khai trên trang thông tin điện tử của đơn vị.\n2. Đối với quy chế, quy định có liên quan đến quyền, nghĩa vụ và lợi ích hợp pháp của số đông viên chức và người lao động cần có sự tham gia góp ý trực tiếp của tổ chức công đoàn, hội sinh viên, đoàn thanh niên cùng cấp ban hành văn bản.\n3. Dự thảo lấy ý kiến phải có viện dẫn kèm theo danh mục các văn bản quy phạm pháp luật, quy định hiện hành dùng làm căn cứ soạn thảo quy chế, quy định.\n4. Thời hạn lấy ý kiến phải được ghi cụ thể trong văn bản gửi lấy ý kiến và đảm bảo thời lượng để đối tượng được lấy ý kiến có đủ thời gian nghiên cứu, tham gia ý kiến đối với Dự thảo. Qua thời hạn lấy ý kiến mà đối tượng được lấy ý kiến không có ý kiến phản hồi thì được xem là thống nhất với nội dung Dự thảo.\n5. Trách nhiệm tham gia ý kiến\na) Đơn vị, tổ chức, cá nhân người được lấy ý kiến chịu trách nhiệm trước Giám đốc ĐHĐN/Hiệu trưởng về nội dung và thời hạn tham gia góp ý kiến.\nb) Thủ trưởng các đơn vị được lấy ý kiến có trách nhiệm:\n- Tổ chức cho toàn thể viên chức, người lao động của đơn vị mình tham gia đóng góp ý kiến cho dự thảo của văn bản;\n- Thu thập ý kiến, trực tiếp tham gia đóng góp ý kiến bằng văn bản đối với các nội dung trình bày trong dự thảo văn bản;\n-\n\nGửi văn bản góp ý về đơn vị chủ trì soạn thảo đúng thời gian theo yêu cầu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Công tác thẩm định văn bản quy phạm nội bộ",
+          "text": "Điều 11. Công tác thẩm định văn bản quy phạm nội bộ\n1. Trách nhiệm thẩm định văn bản QPNB\n- Ban TTPC có trách nhiệm thẩm định các dự thảo văn bản QPNB thuộc thẩm quyền ban hành của Hội đồng ĐHĐN và của Giám đốc ĐHĐN, dự thảo văn bản liên tịch cùng cấp.\n- Bộ phận pháp chế của các trường ĐHTV có trách nhiệm thẩm định các dự thảo văn bản QPNB thuộc thẩm quyền ban hành của Hội đồng trường và của Hiệu trưởng, dự thảo văn bản liên tịch cùng cấp.\n2. Nội dung thẩm định bao gồm:\n- Rà soát hiệu lực, tính hợp lý của các văn bản là căn cứ để ban hành văn bản;\n- Sự phù hợp của nội dung dự thảo văn bản với các quy định pháp luật hiện hành và các văn bản của cấp trên có liên quan;\n- Tính thống nhất của dự thảo văn bản với các văn bản khác trong hệ thống văn bản quy phạm nội bộ của đơn vị;\n- Tính khả thi của dự thảo văn bản, ngôn ngữ, kỹ thuật soạn thảo văn bản.\n3. Thời hạn thẩm định dự thảo văn bản là 10 ngày làm việc, tính từ ngày nhận đủ hồ sơ thẩm định theo quy định tại Điều 7 Quy chế này (không kể thời gian chờ đơn vị chủ trì soạn thảo cung cấp đủ thông tin liên quan). Trong trường hợp thời hạn thẩm định phải kéo dài hơn, đơn vị thẩm định phải giải trình lý do. Để thuận lợi cho công tác thẩm định, đơn vị thẩm định có quyền yêu cầu đơn vị chủ trì soạn thảo gửi bổ sung các văn bản, tài liệu khác liên quan đến việc thẩm định.\n4. Đối với các dự thảo văn bản có nội dung phức tạp chưa thẩm định được và cần được tiếp tục thảo luận, đơn vị thẩm định tham mưu đề xuất với người có thẩm quyền tổ chức cuộc họp tư vấn thẩm định có sự tham gia của đại diện đơn vị chủ trì soạn thảo, các đơn vị có liên quan và các chuyên gia, nhà khoa học, ...",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản quy phạm nội bộ",
+          "text": "Điều 12. Sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản quy phạm nội bộ\n1. Văn bản QPNB chỉ được sửa đổi, bổ sung, thay thế hoặc bãi bỏ bằng văn bản QPNB của chính đơn vị đã ban hành văn bản đó hoặc bị đình chỉ việc thi hành hoặc bãi bỏ bằng văn bản của cơ quan nhà nước, người có thẩm quyền.\n2. Văn bản sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản khác phải xác định rõ tên văn bản, phần, chương, mục, tiểu mục, điều, khoản, điểm của văn bản bị sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành.\n3. Trách nhiệm soạn thảo, trình tự, thủ tục xây dựng và ban hành văn bản sửa đổi, bổ sung được thực hiện theo quy định tại các Điều 6, 7 Quy chế này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Điều chỉnh sai sót đối với văn bản đã công bố",
+          "text": "Điều 13. Điều chỉnh sai sót đối với văn bản đã công bố\n1. Văn bản đã phát hành nhưng có sai sót về nội dung phải được sửa đổi, thay thế bằng văn bản có hình thức tương đương.\n2. Văn bản đã phát hành nhưng có sai sót về thể thức, kỹ thuật trình bày phải\n\nđược đính chính bằng công văn của đơn vị, tổ chức ban hành văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 14. Tổ chức thực hiện\n1. Hiệu trưởng các trường ĐHTV, Trưởng các đơn vị thuộc, trực thuộc ĐHĐN chịu trách nhiệm tổ chức thực hiện Quy chế này. Trong quá trình thực hiện, nếu gặp khó khăn, vướng mắc hoặc có vấn đề mới phát sinh, đề nghị các đơn vị, tổ chức, cá nhân phản ánh kịp thời về ĐHĐN (qua Ban TTPC) để sửa đổi, bổ sung cho phù hợp.\n2. Các đơn vị được giao chủ trì soạn thảo văn bản QPNB chịu trách nhiệm bảo đảm các điều kiện cần thiết, tạo điều kiện để viên chức trong đơn vị soạn thảo văn bản đúng trình tự, tiến độ, có chất lượng và phù hợp với các quy định hiện hành. Cung cấp đầy đủ tài liệu, thông tin và đáp ứng kịp thời các yêu cầu của đơn vị thẩm định.\n3. Ban Thanh tra và Pháp chế có trách nhiệm tham mưu cho Giám đốc ĐHĐN hướng dẫn, hỗ trợ các trường ĐHTV, các đơn vị thuộc và trực thuộc ĐHĐN thực hiện Quy chế này./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế xây dựng và ban hành văn bản quy phạm nội bộ tại Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 5668/QĐ-ĐHĐN ngày 30 tháng 9 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế soạn thảo, thẩm định và ban hành văn bản ",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 5668/QĐ-ĐHĐN ngày 30 tháng 9 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế soạn thảo, thẩm định và ban hành văn bản quy phạm nội bộ.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng, Hiệu trưởng các trường đại học thành viên, Trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm ",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban chức năng, Hiệu trưởng các trường đại học thành viên, Trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

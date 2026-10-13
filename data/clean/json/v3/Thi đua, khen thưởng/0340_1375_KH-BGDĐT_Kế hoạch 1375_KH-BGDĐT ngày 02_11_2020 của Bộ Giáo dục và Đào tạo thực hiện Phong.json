@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0340_1375_KH-BGDĐT_Kế hoạch 1375_KH-BGDĐT ngày 02_11_2020 của Bộ Giáo dục và Đào tạo thực hiện Phong.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "1375/KH-BGDĐT",
+    "title": "Kế hoạch Thực hiện Phong trào thi đua “Đổi mới, sáng tạo trong quản lý, giảng dạy và học tập” ngành Giáo dục giai đoạn 2020 - 2025",
+    "documentType": "Kế hoạch",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "02/11/2020",
+    "effectiveDate": "02/11/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Đào tạo"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Kế hoạch thực hiện Phong trào thi đua “Đổi mới, sáng tạo trong quản lý, giảng dạy và học tập” ngành Giáo dục giai đoạn 2020 - 2025 nhằm đẩy mạnh Nghị quyết số 29-NQ/TW, đổi mới công tác quản lý giáo dục, giảng dạy, học tập và tôn vinh các điển hình tiên tiến.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "29-NQ/TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Đẩy mạnh thực hiện Nghị quyết số 29-NQ/TW ngày 04/11/2013 của Ban Chấp hành Trung ương Đảng khóa XI về đổi mới căn bản, toàn diện giáo dục và đào tạo..."
+    },
+    {
+      "targetDocumentNumber": "34-CT/TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quán triệt sâu sắc, vận dụng sáng tạo tư tưởng thi đua ái quốc của Chủ tịch Hồ Chí Minh gắn với Chỉ thị số 34-CT/TW ngày 07/4/2014 của Bộ Chính trị..."
+    },
+    {
+      "targetDocumentNumber": "05-CT/TW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "...Chỉ thị số 05-CT/TW ngày 15/5/2016 của Bộ Chính trị về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh."
+    }
+  ],
+  "mentions": [
+    "Ban Chấp hành Trung ương Đảng",
+    "Bộ Chính trị",
+    "Bộ Giáo dục và Đào tạo",
+    "Vụ Thi đua - Khen thưởng",
+    "Hội đồng Thi đua - Khen thưởng ngành Giáo dục",
+    "Ban TĐKT Trung ương",
+    "Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+    "Công đoàn Giáo dục Việt Nam"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

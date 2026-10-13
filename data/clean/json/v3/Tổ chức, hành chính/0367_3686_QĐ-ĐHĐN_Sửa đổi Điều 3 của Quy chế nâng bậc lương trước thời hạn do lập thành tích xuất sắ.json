@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0367_3686_QĐ-ĐHĐN_Sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắ.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "3686/QĐ-ĐHĐN",
+    "title": "Quyết định về việc sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức, người lao động của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/09/2024",
+    "effectiveDate": "04/09/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức, người lao động của Đại học Đà Nẵng ban hành kèm theo Quyết định số 5005/QĐ-ĐHĐN ngày 27/11/2023 của Giám đốc Đại học Đà Nẵng, quy định về thẩm quyền quyết định nâng bậc lương trước thời hạn.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng (ĐHĐN);"
+    },
+    {
+      "targetDocumentNumber": "204/2004/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (Nghị định số 204/2004/NĐ-CP); Nghị định số 17/2013/NĐ-CP ngày 19/02/2013 và Nghị định số 117/2016/NĐ-CP ngày 21/7/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 204/2004/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "17/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (Nghị định số 204/2004/NĐ-CP); Nghị định số 17/2013/NĐ-CP ngày 19/02/2013 và Nghị định số 117/2016/NĐ-CP ngày 21/7/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 204/2004/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "117/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (Nghị định số 204/2004/NĐ-CP); Nghị định số 17/2013/NĐ-CP ngày 19/02/2013 và Nghị định số 117/2016/NĐ-CP ngày 21/7/2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 204/2004/NĐ-CP;"
+    },
+    {
+      "targetDocumentNumber": "111/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 111/2022/NĐ-CP ngày 30/12/2022 của Chính phủ về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/2013/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2013/TT-BNV ngày 31/7/2013 của Bộ trưởng Bộ Nội vụ hướng dẫn thực hiện chế độ nâng bậc lương thường xuyên và nâng bậc lương trước thời hạn đối với cán bộ, công chức, viên chức và người lao động; Thông tư số 03/2021/TT-BNV ngày 29/6/2021 của Bộ trưởng Bộ Nội vụ về việc sửa đổi, bổ sung chế độ nâng bậc lương thường xuyên, nâng bậc lương trước thời hạn và chế độ phụ cấp thâm…"
+    },
+    {
+      "targetDocumentNumber": "03/2021/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2013/TT-BNV ngày 31/7/2013 của Bộ trưởng Bộ Nội vụ hướng dẫn thực hiện chế độ nâng bậc lương thường xuyên và nâng bậc lương trước thời hạn đối với cán bộ, công chức, viên chức và người lao động; Thông tư số 03/2021/TT-BNV ngày 29/6/2021 của Bộ trưởng Bộ Nội vụ về việc sửa đổi, bổ sung chế độ nâng bậc lương thường xuyên, nâng bậc lương trước thời hạn và chế độ phụ cấp thâm…"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN ban hành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng ĐHĐN ban hành Quy chế tổ chức và hoạt động của ĐHĐN; Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "1559/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1559/QĐ-BGDĐT ngày 04/6/2024 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc xét thăng hạng chức danh nghề nghiệp, bổ nhiệm chức danh nghề nghiệp; nâng bậc lương; nghỉ hưu, kéo dài thời gian công tác đối với viên chức của các đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "5005/QĐ-ĐHĐN",
+      "relationType": "AMENDS",
+      "targetArticle": "Điều 3",
+      "context": "Điều 1. Sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức, người lao động của ĐHĐN ban hành kèm theo Quyết định số 5005/QĐ-ĐHĐN ngày 27/11/2023 của Giám đốc ĐHĐN như sau:"
+    },
+    {
+      "targetDocumentNumber": "3686/ĐHĐN-TCCB",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Công văn số 3686/ĐHĐN-TCCB ngày 04/9/2024 của Đại học Đà Nẵng về việc sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức, người lao động của Đại học Đà Nẵng"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Bộ Nội vụ",
+    "Hội đồng ĐHĐN",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức, người lao động của ĐHĐN ban hành kèm theo Quyết định số 5005/QĐ-ĐHĐN ngà",
+      "text": "Điều 1. Sửa đổi Điều 3 của Quy chế nâng bậc lương trước thời hạn do lập thành tích xuất sắc trong thực hiện nhiệm vụ đối với viên chức, người lao động của ĐHĐN ban hành kèm theo Quyết định số 5005/QĐ-ĐHĐN ngày 27/11/2023 của Giám đốc ĐHĐN như sau:\n\n“Điều 3. Thẩm quyền quyết định nâng bậc lương trước thời hạn\n1. Giám đốc ĐHĐN đề nghị Bộ trưởng Bộ Giáo dục và Đào tạo quyết định nâng bậc lương trước thời hạn đối với Chủ tịch Hội đồng ĐHĐN, Giám đốc ĐHĐN.\n2. Giám đốc ĐHĐN quyết định nâng bậc lương trước thời hạn đối với:\na) Giảng viên cao cấp (hạng I) và tương đương; Giảng viên chính (hạng II), Chuyên viên chính và tương đương trong toàn ĐHĐN (trừ khoản 1 Điều này).\nb) Viên chức, người lao động của các đơn vị thuộc, trực thuộc ĐHĐN.\n3. Hiệu trưởng các trường đại học thành viên:\na) Trình Giám đốc ĐHĐN quyết định nâng bậc lương trước thời hạn đối với Giảng viên cao cấp (hạng I), Giảng viên chính (hạng II), Chuyên viên chính và tương đương của Trường.\nb) Quyết định nâng bậc lương trước thời hạn đối với Giảng viên (hạng III), Chuyên viên và các chức danh nghề nghiệp còn lại của Trường sau khi được Giám đốc ĐHĐN phê duyệt.”",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các Ban chức năng của ĐHĐN, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban chức năng của ĐHĐN, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc ĐHĐN căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

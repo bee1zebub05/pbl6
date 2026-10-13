@@ -1,0 +1,226 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0343_01_2011_TT-BNV_Thông tư 01_2011_TT-BNV, ngày 19_01_2011 hướng dẫn thể thức và kỹ thuật trình.txt",
+  "mappedBy": "gemini-web",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "01/2011/TT-BNV",
+    "title": "Thông tư Hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "19/01/2011",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Văn thư, lưu trữ",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Thông tư này hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính và bản sao văn bản, áp dụng đối với các cơ quan nhà nước, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế và đơn vị lực lượng vũ trang nhân dân.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Nội vụ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trần Văn Tuấn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "48/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 48/2008/NĐ-CP ngày 17 tháng 4 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ;"
+    },
+    {
+      "targetDocumentNumber": "110/2004/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư;"
+    },
+    {
+      "targetDocumentNumber": "09/2010/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 09/2010/NĐ-CP ngày 08 tháng 02 năm 2010 của Chính phủ sửa đổi, bổ sung Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư,"
+    }
+  ],
+  "mentions": [
+    "Bộ Nội vụ",
+    "Chính phủ",
+    "Văn phòng Quốc hội",
+    "Hội đồng dân tộc",
+    "Ủy ban nhân dân",
+    "Tập đoàn Kinh tế nhà nước",
+    "Tổng công ty 91",
+    "Bộ Giao thông Vận tải",
+    "Tập đoàn Điện lực Việt Nam",
+    "Hội đồng nhân dân tỉnh Nghệ An",
+    "Ủy ban nhân dân tỉnh Thái Nguyên",
+    "UBND tỉnh Quảng Bình",
+    "Sở Nội vụ",
+    "Viện Khoa học xã hội VN",
+    "Viện Dân tộc học",
+    "Cục Văn thư và Lưu trữ nhà nước",
+    "Bộ Công thương",
+    "Công ty Điện lực 1",
+    "Trường Cao đẳng Quản trị kinh doanh",
+    "Bộ Tài chính",
+    "Viện Hải dương học",
+    "Viện Khoa học và Công nghệ Việt Nam",
+    "Cục Thuế tỉnh Bình Dương",
+    "Tổng Cục thuế",
+    "Ủy ban nhân dân thành phố Hà Nội",
+    "Ủy ban nhân dân thành phố Hồ Chí Minh",
+    "Ủy ban nhân dân tỉnh Hải Dương",
+    "Ủy ban nhân dân tỉnh Quảng Ninh",
+    "Ủy ban nhân dân tỉnh Lâm Đồng",
+    "Ủy ban nhân dân thành phố Hà Tĩnh",
+    "Ủy ban nhân dân huyện Sóc Sơn",
+    "Ủy ban nhân dân quận Gò Vấp",
+    "Ủy ban nhân dân thị xã Bà Rịa",
+    "Ủy ban nhân dân xã Kim Liên",
+    "Ủy ban nhân dân phường Điện Biên Phủ",
+    "Bộ Công an",
+    "Bộ Quốc phòng",
+    "Vụ Hành chính Văn phòng Chính phủ",
+    "Vụ Tổ chức Cán bộ Bộ Nội vụ",
+    "Ban Kinh tế Ngân sách",
+    "Văn phòng Sở",
+    "Hội đồng thi tuyển công chức Bộ Nội vụ",
+    "Sở Y tế",
+    "Vụ Nội vụ địa phương",
+    "Bộ Xây dựng",
+    "Văn phòng Chính phủ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi và đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi và đối tượng áp dụng\nThông tư này hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính và bản sao văn bản; được áp dụng đối với các cơ quan nhà nước, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế và đơn vị lực lượng vũ trang nhân dân (sau đây gọi chung là cơ quan, tổ chức).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thể thức văn bản",
+      "text": "Điều 2. Thể thức văn bản\nThể thức văn bản là tập hợp các thành phần cấu thành văn bản, bao gồm những thành phần chung áp dụng đối với các loại văn bản và các thành phần bổ sung trong những trường hợp cụ thể hoặc đối với một số loại văn bản nhất định theo quy định tại Khoản 3, Điều 1 Nghị định số 09/2010/NĐ-CP ngày 08 tháng 02 năm 2010 của Chính phủ sửa đổi, bổ sung Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư và hướng dẫn tại Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Kỹ thuật trình bày văn bản",
+      "text": "Điều 3. Kỹ thuật trình bày văn bản\nKỹ thuật trình bày văn bản quy định tại Thông tư này bao gồm khổ giấy, kiểu trình bày, định lề trang văn bản, vị trí trình bày các thành phần thể thức, phông chữ, cỡ chữ, kiểu chữ và các chi tiết trình bày khác, được áp dụng đối với văn bản soạn thảo trên máy vi tính và in ra giấy; văn bản được soạn thảo bằng các phương pháp hay phương tiện kỹ thuật khác hoặc văn bản được làm trên giấy mẫu in sẵn; không áp dụng đối với văn bản được in thành sách, in trên báo, tạp chí và các loại ấn phẩm khác.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Phông chữ trình bày văn bản",
+      "text": "Điều 4. Phông chữ trình bày văn bản\nPhông chữ sử dụng trình bày văn bản trên máy vi tính là phông chữ tiếng Việt của bộ mã ký tự Unicode theo Tiêu chuẩn Việt Nam TCVN 6909: 2001.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Khổ giấy, kiểu trình bày, định lề trang văn bản và vị trí trình bày",
+      "text": "Điều 5. Khổ giấy, kiểu trình bày, định lề trang văn bản và vị trí trình bày\n1. Khổ giấy\nVăn bản hành chính được trình bày trên giấy khổ A4 (210 mm x 297 mm).\nCác văn bản như giấy giới thiệu, giấy biên nhận hồ sơ, phiếu gửi, phiếu chuyển được trình bày trên giấy khổ A5 (148 mm x 210 mm) hoặc trên giấy mẫu in sẵn (khổ A5).\n\n2. Kiểu trình bày\nVăn bản hành chính được trình bày theo chiều dài của trang giấy khổ A4 (định hướng bản in theo chiều dài).\nTrường hợp nội dung văn bản có các bảng, biểu nhưng không được làm thành các phụ lục riêng thì văn bản có thể được trình bày theo chiều rộng của trang giấy (định hướng bản in theo chiều rộng).\n\n3. Định lề trang văn bản (đối với khổ giấy A4)\nLề trên: cách mép trên từ 20 - 25 mm;\nLề dưới: cách mép dưới từ 20 - 25 mm;\nLề trái: cách mép trái từ 30 - 35 mm;\nLề phải: cách mép phải từ 15 - 20 mm.\n\n4. Vị trí trình bày các thành phần thể thức văn bản trên một trang giấy khổ A4 được thực hiện theo sơ đồ bố trí các thành phần thể thức văn bản kèm theo Thông tư này (Phụ lục II). Vị trí trình bày các thành phần thể thức văn bản trên một trang giấy khổ A5 được áp dụng tương tự theo sơ đồ tại Phụ lục trên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Quốc hiệu",
+      "text": "Điều 6. Quốc hiệu\n1. Thể thức\nQuốc hiệu ghi trên văn bản bao gồm 2 dòng chữ: “CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM” và “Độc lập - Tự do - Hạnh phúc”.\n\n2. Kỹ thuật trình bày\nQuốc hiệu được trình bày tại ô số 1; chiếm khoảng 1/2 trang giấy theo chiều ngang, ở phía trên, bên phải.\nDòng thứ nhất: “CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM” được trình bày bằng chữ in hoa, cỡ chữ từ 12 đến 13, kiểu chữ đứng, đậm;\nDòng thứ hai: “Độc lập - Tự do - Hạnh phúc” được trình bày bằng chữ in thường, cỡ chữ từ 13 đến 14 (nếu dòng thứ nhất cỡ chữ 12, thì dòng thứ hai cỡ chữ 13; nếu dòng thứ nhất cỡ chữ 13, thì dòng thứ hai cỡ chữ 14), kiểu chữ đứng, đậm; được đặt canh giữa dưới dòng thứ nhất; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối, có cách chữ; phía dưới có đường kẻ ngang, nét liền, có độ dài bằng độ dài của dòng chữ (sử dụng lệnh Draw, không dùng lệnh Underline), cụ thể:",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Tên cơ quan, tổ chức ban hành văn bản",
+      "text": "Điều 7. Tên cơ quan, tổ chức ban hành văn bản\n1. Thể thức\nĐối với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Văn phòng Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội hoặc Hội đồng nhân dân và Ủy ban nhân dân các cấp; Đoàn Đại biểu Quốc hội tỉnh, thành phố trực thuộc Trung ương; Tập đoàn Kinh tế nhà nước, Tổng công ty 91 không ghi cơ quan chủ quản.\nTên cơ quan, tổ chức ban hành văn bản bao gồm tên của cơ quan, tổ chức chủ quản trực tiếp (nếu có) (đối với các tổ chức kinh tế có thể là công ty mẹ) và tên của cơ quan, tổ chức ban hành văn bản.\n\na) Tên của cơ quan, tổ chức ban hành văn bản phải được ghi đầy đủ hoặc được viết tắt theo quy định tại văn bản thành lập, quy định chức năng nhiệm vụ, quyền hạn và cơ cấu tổ chức bộ máy, phê chuẩn, cấp giấy phép hoạt động hoặc công nhận tư cách pháp nhân của cơ quan, tổ chức có thẩm quyền, ví dụ:\nBỘ GIAO THÔNG VẬN TẢI\nTẬP ĐOÀN ĐIỆN LỰC VIỆT NAM\nHỘI ĐỒNG NHÂN DÂN TỈNH NGHỆ AN\nỦY BAN NHÂN DÂN TỈNH THÁI NGUYÊN\n\nb) Tên của cơ quan, tổ chức chủ quản trực tiếp có thể viết tắt những cụm từ thông dụng như Ủy ban nhân dân (UBND), Hội đồng nhân dân (HĐND), Việt Nam (VN), ví dụ:\nUBND TỈNH QUẢNG BÌNH\nSỞ NỘI VỤ\nVIỆN KHOA HỌC XÃ HỘI VN\nVIỆN DÂN TỘC HỌC\n\n2. Kỹ thuật trình bày\nTên cơ quan, tổ chức ban hành văn bản được trình bày tại ô số 2; chiếm khoảng 1/2 trang giấy theo chiều ngang, ở phía trên, bên trái.\nTên cơ quan, tổ chức chủ quản trực tiếp được trình bày bằng chữ in hoa, cùng cỡ chữ như cỡ chữ của Quốc hiệu, kiểu chữ đứng. Nếu tên cơ quan, tổ chức chủ quản dài, có thể trình bày thành nhiều dòng.\nTên cơ quan, tổ chức ban hành văn bản được trình bày bằng chữ in hoa, cùng cỡ chữ như cỡ chữ của Quốc hiệu, kiểu chữ đứng, đậm, được đặt canh giữa dưới tên cơ quan, tổ chức chủ quản; phía dưới có đường kẻ ngang, nét liền, có độ dài bằng từ 1/3 đến 1/2 độ dài của dòng chữ và đặt cân đối so với dòng chữ. Trường hợp tên cơ quan, tổ chức ban hành văn bản dài có thể trình bày thành nhiều dòng, ví dụ:\nBỘ NỘI VỤ\nCỤC VĂN THƯ VÀ LƯU TRỮ NHÀ NƯỚC\n\nCác dòng chữ trên được trình bày cách nhau dòng đơn.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Số, ký hiệu của văn bản",
+      "text": "Điều 8. Số, ký hiệu của văn bản\n1. Thể thức\na) Số của văn bản\nSố của văn bản là số thứ tự đăng ký văn bản tại văn thư của cơ quan, tổ chức. Số của văn bản được ghi bằng chữ số Ả-rập, bắt đầu từ số 01 vào ngày đầu năm và kết thúc vào ngày 31 tháng 12 hàng năm.\n\nb) Ký hiệu của văn bản\n- Ký hiệu của văn bản có tên loại bao gồm chữ viết tắt tên loại văn bản theo bảng chữ viết tắt tên loại văn bản và bản sao kèm theo Thông tư này (Phụ lục I) và chữ viết tắt tên cơ quan, tổ chức hoặc chức danh nhà nước (áp dụng đối với chức danh Chủ tịch nước và Thủ tướng Chính phủ) ban hành văn bản, ví dụ:\nNghị quyết của Chính phủ ban hành được ghi như sau: Số:.../NQ-CP\nChỉ thị của Thủ tướng Chính phủ ban hành được ghi như sau: Số:.../CT-TTg\nQuyết định của Thường trực Hội đồng nhân dân ban hành được ghi như sau: Số:………………/QĐ-HĐND\nBáo cáo của các ban của Hội đồng nhân dân được ghi như sau: Số:………/BC-HĐND\n\n- Ký hiệu của công văn bao gồm chữ viết tắt tên cơ quan, tổ chức hoặc chức danh nhà nước ban hành công văn và chữ viết tắt tên đơn vị (vụ, phòng, ban, bộ phận) soạn thảo hoặc chủ trì soạn thảo công văn đó (nếu có), ví dụ:\nCông văn của Chính phủ do Vụ Hành chính Văn phòng Chính phủ soạn thảo: Số:......../CP-HC\nCông văn của Bộ Nội vụ do Vụ Tổ chức Cán bộ Bộ Nội vụ soạn thảo: Số:.../BNV-TCCB\nCông văn của Hội đồng nhân dân tỉnh do Ban Kinh tế Ngân sách soạn thảo: Số:......../HĐND-KTNS\nCông văn của Ủy ban nhân dân tỉnh do tổ chuyên viên (hoặc thư ký) theo dõi lĩnh vực văn hóa - xã hội soạn thảo: Số:......./UBND-VX\nCông văn của Sở Nội vụ tỉnh do Văn phòng Sở soạn thảo: Số:....../SNV-VP\n\nTrường hợp các Hội đồng, các Ban tư vấn của cơ quan được sử dụng con dấu của cơ quan để ban hành văn bản và Hội đồng, Ban được ghi là “cơ quan” ban hành văn bản thì phải lấy số của Hội đồng, Ban, ví dụ Quyết định số 01 của Hội đồng thi tuyển công chức Bộ Nội vụ được trình bày như sau:\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\nTrang 13\n\nBỘ NỘI VỤ\nHỘI ĐỒNG THI TUYỂN CÔNG CHỨC\n\nSố: 01/QĐ-HĐTTCC\n\nViệc ghi ký hiệu công văn do UBND cấp huyện, cấp xã ban hành bao gồm chữ viết tắt tên cơ quan, tổ chức ban hành công văn và chữ viết tắt tên lĩnh vực (các lĩnh vực được quy định tại Mục 2, Mục 3, Chương IV, Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân năm 2003) được giải quyết trong công văn.\n\nChữ viết tắt tên cơ quan, tổ chức và các đơn vị trong mỗi cơ quan, tổ chức hoặc lĩnh vực (đối với UBND cấp huyện, cấp xã) do cơ quan, tổ chức quy định cụ thể, bảo đảm ngắn gọn, dễ hiểu.\n\n2. Kỹ thuật trình bày\nSố, ký hiệu của văn bản được trình bày tại ô số 3, được đặt canh giữa dưới tên cơ quan, tổ chức ban hành văn bản.\n\nTừ “Số” được trình bày bằng chữ in thường, ký hiệu bằng chữ in hoa, cỡ chữ 13, kiểu chữ đứng; sau từ “Số” có dấu hai chấm; với những số nhỏ hơn 10 phải ghi thêm số 0 phía trước; giữa số và ký hiệu văn bản có dấu gạch chéo (/), giữa các nhóm chữ viết tắt trong ký hiệu văn bản có dấu gạch nối (-) không cách chữ, ví dụ:\nSố: 15/QĐ-HĐND (Quyết định của Thường trực Hội đồng nhân dân);\nSố: 19/HĐND-KTNS (Công văn của Thường trực Hội đồng nhân dân do Ban Kinh tế ngân sách soạn thảo);\nSố: 23/BC-BNV (Báo cáo của Bộ Nội vụ);\nSố: 234/SYT-VP (Công văn của Sở Y tế do Văn phòng soạn thảo).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Địa danh và ngày, tháng, năm ban hành văn bản",
+      "text": "Điều 9. Địa danh và ngày, tháng, năm ban hành văn bản\n1. Thể thức\na) Địa danh ghi trên văn bản là tên gọi chính thức của đơn vị hành chính (tên riêng của tỉnh, thành phố trực thuộc Trung ương; huyện, quận, thị xã, thành phố thuộc tỉnh; xã, phường, thị trấn) nơi cơ quan, tổ chức đóng trụ sở; đối với những đơn vị hành chính được đặt tên theo tên người, bằng chữ số hoặc sự kiện lịch sử thì phải ghi tên gọi đầy đủ của đơn vị hành chính đó, cụ thể như sau:\n- Địa danh ghi trên văn bản của các cơ quan, tổ chức Trung ương là tên của tỉnh, thành phố trực thuộc Trung ương nơi cơ quan, tổ chức đóng trụ sở, ví dụ:\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\nTrang 14\n\nVăn bản của Bộ Công thương, của Công ty Điện lực 1 thuộc Tập đoàn Điện lực Việt Nam (có trụ sở tại thành phố Hà Nội): Hà Nội,\nVăn bản của Trường Cao đẳng Quản trị kinh doanh thuộc Bộ Tài chính (có trụ sở tại thị trấn Như Quỳnh, huyện Mỹ Văn, tỉnh Hưng Yên): Hưng Yên,\nVăn bản của Viện Hải dương học thuộc Viện Khoa học và Công nghệ Việt Nam (có trụ sở tại thành phố Nha Trang, tỉnh Khánh Hòa): Khánh Hòa,\nVăn bản của Cục Thuế tỉnh Bình Dương thuộc Tổng Cục thuế (có trụ sở tại thị xã Thủ Dầu Một, tỉnh Bình Dương): Bình Dương,\n\n- Địa danh ghi trên văn bản của các cơ quan, tổ chức cấp tỉnh:\n+ Đối với các thành phố trực thuộc Trung ương: là tên của thành phố trực thuộc Trung ương, ví dụ:\nVăn bản của Ủy ban nhân dân thành phố Hà Nội và của các sở, ban, ngành thuộc thành phố: Hà Nội, của Ủy ban nhân dân thành phố Hồ Chí Minh và của các sở, ban, ngành thuộc thành phố: Thành phố Hồ Chí Minh,\n+ Đối với các tỉnh là tên của tỉnh, ví dụ:\nVăn bản của Ủy ban nhân dân tỉnh Hải Dương và của các sở, ban, ngành thuộc tỉnh (có trụ sở tại thành phố Hải Dương, tỉnh Hải Dương): Hải Dương, của Ủy ban nhân dân tỉnh Quảng Ninh và của các sở, ban, ngành thuộc tỉnh (có trụ sở tại thành phố Hạ Long, tỉnh Quảng Ninh): Quảng Ninh, của Ủy ban nhân dân tỉnh Lâm Đồng và của các sở, ban, ngành thuộc tỉnh (có trụ sở tại thành phố Đà Lạt, tỉnh Lâm Đồng): Lâm Đồng,\n\nTrường hợp địa danh ghi trên văn bản của cơ quan thành phố thuộc tỉnh mà tên thành phố trùng với tên tỉnh thì ghi thêm hai chữ thành phố (TP.), ví dụ:\nVăn bản của Ủy ban nhân dân thành phố Hà Tĩnh (tỉnh Hà Tĩnh) và của các phòng, ban thuộc thành phố: TP. Hà Tĩnh,\n\n- Địa danh ghi trên văn bản của các cơ quan, tổ chức cấp huyện là tên của huyện, quận, thị xã, thành phố thuộc tỉnh, ví dụ:\nVăn bản của Ủy ban nhân dân huyện Sóc Sơn (thành phố Hà Nội) và của các phòng, ban thuộc huyện: Sóc Sơn,\nVăn bản của Ủy ban nhân dân quận Gò Vấp (thành phố Hồ Chí Minh), của các phòng, ban thuộc quận: Gò Vấp,\nVăn bản của Ủy ban nhân dân thị xã Bà Rịa (tỉnh Bà Rịa - Vũng Tàu) và của các phòng, ban thuộc thị xã: Bà Rịa,\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\nTrang 15\n\n- Địa danh ghi trên văn bản của Hội đồng nhân dân, Ủy ban nhân dân và của các tổ chức cấp xã là tên của xã, phường, thị trấn đó, ví dụ:\nVăn bản của Ủy ban nhân dân xã Kim Liên (huyện Nam Đàn, tỉnh Nghệ An): Kim Liên,\nVăn bản của Ủy ban nhân dân phường Điện Biên Phủ (quận Ba Đình, TP. Hà Nội): Phường Điện Biên Phủ,\n\n- Địa danh ghi trên văn bản của các cơ quan, tổ chức và đơn vị vũ trang nhân dân thuộc phạm vi quản lý của Bộ Công an, Bộ Quốc phòng được thực hiện theo quy định của pháp luật và quy định cụ thể của Bộ Công an, Bộ Quốc phòng.\n\nb) Ngày, tháng, năm ban hành văn bản\nNgày, tháng, năm ban hành văn bản là ngày, tháng, năm văn bản được ban hành.\nNgày, tháng, năm ban hành văn bản phải được viết đầy đủ; các số chỉ ngày, tháng, năm dùng chữ số Ả-rập; đối với những số chỉ ngày nhỏ hơn 10 và tháng 1, 2 phải ghi thêm số 0 ở trước, cụ thể:\nThành phố Hồ Chí Minh, ngày 05 tháng 02 năm 2009\nQuận 1, ngày 10 tháng 02 năm 2010\n\n2. Kỹ thuật trình bày\nĐịa danh và ngày, tháng, năm ban hành văn bản được trình bày trên cùng một dòng với số, ký hiệu văn bản, tại ô số 4, bằng chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ nghiêng; các chữ cái đầu của địa danh phải viết hoa; sau địa danh có dấu phẩy; địa danh và ngày, tháng, năm được đặt canh giữa dưới Quốc hiệu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Tên loại và trích yếu nội dung của văn bản",
+      "text": "Điều 10. Tên loại và trích yếu nội dung của văn bản\n1. Thể thức\nTên loại văn bản là tên của từng loại văn bản do cơ quan, tổ chức ban hành. Khi ban hành văn bản đều phải ghi tên loại, trừ công văn.\nTrích yếu nội dung của văn bản là một câu ngắn gọn hoặc một cụm từ phản ánh khái quát nội dung chủ yếu của văn bản.\n\n2. Kỹ thuật trình bày\nTên loại và trích yếu nội dung của các loại văn bản có ghi tên loại được trình bày tại ô số 5a; tên loại văn bản (nghị quyết, quyết định, kế hoạch, báo cáo, tờ trình và các loại văn bản khác) được đặt canh giữa bằng chữ in hoa, cỡ chữ 14, kiểu chữ đứng, đậm; trích yếu nội dung văn bản được đặt canh giữa, ngay dưới tên loại văn bản, bằng chữ in thường, cỡ chữ 14, kiểu chữ đứng, đậm; bên dưới trích yếu có\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\nTrang 16\n\nđường kẻ ngang, nét liền, có độ dài bằng từ 1/3 đến 1/2 độ dài của dòng chữ và đặt cân đối so với dòng chữ, ví dụ:\n\nQUYẾT ĐỊNH\nVề việc điều động cán bộ\n\nTrích yếu nội dung công văn được trình bày tại ô số 5b, sau chữ “V/v” bằng chữ in thường, cỡ chữ từ 12 đến 13, kiểu chữ đứng; được đặt canh giữa dưới số và ký hiệu văn bản, cách dòng 6pt với số và ký hiệu văn bản, ví dụ:\n\nSố: 72/VTLTNN-NVĐP\nV/v kế hoạch kiểm tra công tác\nvăn thư, lưu trữ năm 2009",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Nội dung văn bản",
+      "text": "Điều 11. Nội dung văn bản\n1. Thể thức\na) Nội dung văn bản là thành phần chủ yếu của văn bản.\nNội dung văn bản phải bảo đảm những yêu cầu cơ bản sau:\n- Phù hợp với hình thức văn bản được sử dụng;\n- Phù hợp với đường lối, chủ trương, chính sách của Đảng; phù hợp với quy định của pháp luật;\n- Được trình bày ngắn gọn, rõ ràng, chính xác;\n- Sử dụng ngôn ngữ viết, cách diễn đạt đơn giản, dễ hiểu;\n- Dùng từ ngữ tiếng Việt Nam phổ thông (không dùng từ ngữ địa phương và từ ngữ nước ngoài nếu không thực sự cần thiết). Đối với thuật ngữ chuyên môn cần xác định rõ nội dung thì phải được giải thích trong văn bản;\n- Chỉ được viết tắt những từ, cụm từ thông dụng, những từ thuộc ngôn ngữ tiếng Việt dễ hiểu. Đối với những từ, cụm từ được sử dụng nhiều lần trong văn bản thì có thể viết tắt, nhưng các chữ viết tắt lần đầu của từ, cụm từ phải được đặt trong dấu ngoặc đơn ngay sau từ, cụm từ đó;\n- Khi viện dẫn lần đầu văn bản có liên quan, phải ghi đầy đủ tên loại, số, ký hiệu văn bản, ngày, tháng, năm ban hành văn bản, tên cơ quan, tổ chức ban hành văn bản, trích yếu nội dung văn bản (đối với luật và pháp lệnh chỉ ghi tên loại và tên của luật, pháp lệnh), ví dụ: “... được quy định tại Nghị định số 110/2004/NĐ-CP ngày 08\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\nTrang 17\n\ntháng 4 năm 2004 của Chính phủ về công tác văn thư”; trong các lần viện dẫn tiếp theo, chỉ ghi tên loại và số, ký hiệu của văn bản đó;\n- Viết hoa trong văn bản hành chính được thực hiện theo Phụ lục VI - Quy định viết hoa trong văn bản hành chính.\n\nb) Bố cục của văn bản\nTùy theo thể loại và nội dung, văn bản có thể có phần căn cứ pháp lý để ban hành, phần mở đầu và có thể được bố cục theo phần, chương, mục, điều, khoản, điểm hoặc được phân chia thành các phần, mục từ lớn đến nhỏ theo một trình tự nhất định, cụ thể:\n- Nghị quyết (cá biệt): theo điều, khoản, điểm hoặc theo khoản, điểm;\n- Quyết định (cá biệt): theo điều, khoản, điểm; các quy chế (quy định) ban hành kèm theo quyết định: theo chương, mục, điều, khoản, điểm;\n- Chỉ thị (cá biệt): theo khoản, điểm;\n- Các hình thức văn bản hành chính khác: theo phần, mục, khoản, điểm hoặc theo khoản, điểm.\nĐối với các hình thức văn bản được bố cục theo phần, chương, mục, điều thì phần, chương, mục, điều phải có tiêu đề.\n\n2. Kỹ thuật trình bày\nNội dung văn bản được trình bày tại ô số 6.\nPhần nội dung (bản văn) được trình bày bằng chữ in thường (được dàn đều cả hai lề), kiểu chữ đứng; cỡ chữ từ 13 đến 14 (phần lời văn trong một văn bản phải dùng cùng một cỡ chữ); khi xuống dòng, chữ đầu dòng phải lùi vào từ 1cm đến 1,27cm (1 default tab); khoảng cách giữa các đoạn văn (paragraph) đặt tối thiểu là 6pt; khoảng cách giữa các dòng hay cách dòng (line spacing) chọn tối thiểu từ cách dòng đơn (single line spacing) hoặc từ 15pt (exactly line spacing) trở lên; khoảng cách tối đa giữa các dòng là 1,5 dòng (1,5 lines).\n\nĐối với những văn bản có phần căn cứ pháp lý để ban hành thì sau mỗi căn cứ phải xuống dòng, cuối dòng có dấu “chấm phẩy”, riêng căn cứ cuối cùng kết thúc bằng dấu “phẩy”.\n\nTrường hợp nội dung văn bản được bố cục theo phần, chương, mục, điều, khoản, điểm thì trình bày như sau:\n- Phần, chương: Từ “Phần”, “Chương” và số thứ tự của phần, chương được trình bày trên một dòng riêng, canh giữa, bằng chữ in thường, cỡ chữ từ 13 đến 14, kiểu...\n\n18\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\n\nchữ đứng, đậm. Số thứ tự của phần, chương dùng chữ số La Mã. Tiêu đề (tên) của phần, chương được trình bày ngay dưới, canh giữa, bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm;\n\n- Mục: Từ “Mục” và số thứ tự của mục được trình bày trên một dòng riêng, canh giữa, bằng chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm. Số thứ tự của mục dùng chữ số Ả-rập. Tiêu đề của mục được trình bày ngay dưới, canh giữa, bằng chữ in hoa, cỡ chữ từ 12 đến 13, kiểu chữ đứng, đậm;\n\n- Điều: Từ “Điều”, số thứ tự và tiêu đề của điều được trình bày bằng chữ in thường, cách lề trái 1 default tab, số thứ tự của điều dùng chữ số Ả-rập, sau số thứ tự có dấu chấm; cỡ chữ bằng cỡ chữ của phần lời văn (13 - 14), kiểu chữ đứng, đậm;\n\n- Khoản: Số thứ tự các khoản trong mỗi mục dùng chữ số Ả-rập, sau số thứ tự có dấu chấm, cỡ chữ số bằng cỡ chữ của phần lời văn (13 - 14), kiểu chữ đứng; nếu khoản có tiêu đề, số thứ tự và tiêu đề của khoản được trình bày trên một dòng riêng, bằng chữ in thường, cỡ chữ bằng cỡ chữ của phần lời văn (13 - 14), kiểu chữ đứng;\n\n- Điểm: Thứ tự các điểm trong mỗi khoản dùng các chữ cái tiếng Việt theo thứ tự abc, sau có dấu đóng ngoặc đơn, bằng chữ in thường, cỡ chữ bằng cỡ chữ của phần lời văn (13 - 14), kiểu chữ đứng.\n\nTrường hợp nội dung văn bản được phân chia thành các phần, mục, khoản, điểm thì trình bày như sau:\n\n- Phần (nếu có): Từ “Phần” và số thứ tự của phần được trình bày trên một dòng riêng, canh giữa, bằng chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; số thứ tự của phần dùng chữ số La Mã. Tiêu đề của phần được trình bày ngay dưới, canh giữa, bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm;\n\n- Mục: Số thứ tự các mục dùng chữ số La Mã, sau có dấu chấm và được trình bày cách lề trái 1 default tab; tiêu đề của mục được trình bày cùng một hàng với số thứ tự, bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm;\n\n- Khoản: Số thứ tự các khoản trong mỗi mục dùng chữ số Ả-rập, sau số thứ tự có dấu chấm, cỡ chữ số bằng cỡ chữ của phần lời văn (13 - 14), kiểu chữ đứng; nếu khoản có tiêu đề, số thứ tự và tiêu đề của khoản được trình bày trên một dòng riêng, bằng chữ in thường, cỡ chữ bằng cỡ chữ của phần lời văn (13 - 14), kiểu chữ đứng, đậm;\n\n- Điểm trình bày như trường hợp nội dung văn bản được bố cục theo phần, chương, mục, điều, khoản, điểm.\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\n19",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Quyền hạn, chức vụ, họ tên và chữ ký của người có thẩm quyền",
+      "text": "Điều 12. Quyền hạn, chức vụ, họ tên và chữ ký của người có thẩm quyền\n\n1. Thể thức\n\na) Việc ghi quyền hạn của người ký được thực hiện như sau:\n\n- Trường hợp ký thay mặt tập thể thì phải ghi chữ viết tắt “TM.” (thay mặt) vào trước tên tập thể lãnh đạo hoặc tên cơ quan, tổ chức, ví dụ:\n\nTM. HỘI ĐỒNG NHÂN DÂN\nTM. ĐOÀN ĐẠI BIỂU QUỐC HỘI\n\n- Trường hợp ký thay người đứng đầu cơ quan, tổ chức thì phải ghi chữ viết tắt “KT.” (ký thay) vào trước chức vụ của người đứng đầu, ví dụ:",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Dấu của cơ quan, tổ chức",
+      "text": "Điều 13. Dấu của cơ quan, tổ chức\n\n1. Việc đóng dấu trên văn bản được thực hiện theo quy định tại Khoản 2 và Khoản 3 Điều 26 Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư và quy định của pháp luật có liên quan; việc đóng dấu giáp lai đối với văn bản, tài liệu chuyên ngành và phụ lục kèm theo được thực hiện theo quy định tại Khoản 4 Điều 26 Nghị định số 110/2004/NĐ-CP.\n\n2. Dấu của cơ quan, tổ chức được trình bày tại ô số 8; dấu giáp lai được đóng vào khoảng giữa mép phải của văn bản hoặc phụ lục văn bản, trùm lên một phần các tờ giấy; mỗi dấu đóng tối đa 05 trang văn bản.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Nơi nhận",
+      "text": "Điều 14. Nơi nhận\n\n1. Thể thức\n\nNơi nhận xác định những cơ quan, tổ chức, đơn vị và cá nhân nhận văn bản và có trách nhiệm như để xem xét, giải quyết; để thi hành; để kiểm tra, giám sát; để báo cáo; để trao đổi công việc; để biết và để lưu.\n\nNơi nhận phải được xác định cụ thể trong văn bản. Căn cứ quy định của pháp luật; căn cứ chức năng, nhiệm vụ, quyền hạn của cơ quan, tổ chức và quan hệ công tác; căn cứ yêu cầu giải quyết công việc, đơn vị hoặc cá nhân soạn thảo hoặc chủ trì soạn thảo có trách nhiệm đề xuất những cơ quan, tổ chức, đơn vị và cá nhân nhận văn bản trình người ký văn bản quyết định.\n\nĐối với văn bản chỉ gửi cho một số đối tượng cụ thể thì phải ghi tên từng cơ quan, tổ chức, cá nhân nhận văn bản; đối với văn bản được gửi cho một hoặc một số nhóm đối tượng nhất định thì nơi nhận được ghi chung, ví dụ:\n\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương;\n\nĐối với những văn bản có ghi tên loại, nơi nhận bao gồm từ “Nơi nhận” và phần liệt kê các cơ quan, tổ chức, đơn vị và cá nhân nhận văn bản.\n\nĐối với công văn hành chính, nơi nhận bao gồm hai phần:\n\n- Phần thứ nhất bao gồm từ “Kính gửi”, sau đó là tên các cơ quan, tổ chức hoặc đơn vị, cá nhân trực tiếp giải quyết công việc;\n\n22\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011\n\n- Phần thứ hai bao gồm từ “Nơi nhận”, phía dưới là từ “Như trên”, tiếp theo là tên các cơ quan, tổ chức, đơn vị và cá nhân có liên quan khác nhận văn bản.\n\n2. Kỹ thuật trình bày\n\nNơi nhận được trình bày tại ô số 9a và 9b.\n\nPhần nơi nhận tại ô số 9a được trình bày như sau:\n\n- Từ “Kính gửi” và tên các cơ quan, tổ chức hoặc cá nhân nhận văn bản được trình bày bằng chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng;\n\n- Sau từ “Kính gửi” có dấu hai chấm; nếu công văn gửi cho một cơ quan, tổ chức hoặc một cá nhân thì từ “Kính gửi” và tên cơ quan, tổ chức hoặc cá nhân được trình bày trên cùng một dòng; trường hợp công văn gửi cho hai cơ quan, tổ chức hoặc cá nhân trở lên thì xuống dòng; tên mỗi cơ quan, tổ chức, cá nhân hoặc mỗi nhóm cơ quan, tổ chức, cá nhân được trình bày trên một dòng riêng, đầu dòng có gạch đầu dòng, cuối dòng có dấu chấm phẩy, cuối dòng cuối cùng có dấu chấm; các gạch đầu dòng được trình bày thẳng hàng với nhau dưới dấu hai chấm.\n\nPhần nơi nhận tại ô số 9b (áp dụng chung đối với công văn hành chính và các loại văn bản khác) được trình bày như sau:\n\n- Từ “Nơi nhận” được trình bày trên một dòng riêng (ngang hàng với dòng chữ “quyền hạn, chức vụ của người ký” và sát lề trái), sau có dấu hai chấm, bằng chữ in thường, cỡ chữ 12, kiểu chữ nghiêng, đậm;\n\n- Phần liệt kê các cơ quan, tổ chức, đơn vị và cá nhân nhận văn bản được trình bày bằng chữ in thường, cỡ chữ 11, kiểu chữ đứng; tên mỗi cơ quan, tổ chức, đơn vị và cá nhân hoặc mỗi nhóm cơ quan, tổ chức, đơn vị nhận văn bản được trình bày trên một dòng riêng, đầu dòng có gạch đầu dòng sát lề trái, cuối dòng có dấu chấm phẩy; riêng dòng cuối cùng bao gồm chữ “Lưu” sau có dấu hai chấm, tiếp theo là chữ viết tắt “VT” (Văn thư cơ quan, tổ chức), dấu phẩy, chữ viết tắt tên đơn vị (hoặc bộ phận) soạn thảo văn bản và số lượng bản lưu (chỉ trong những trường hợp cần thiết), cuối cùng là dấu chấm.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Các thành phần khác",
+      "text": "Điều 15. Các thành phần khác\n\n1. Thể thức\n\na) Dấu chỉ mức độ mật\n\nViệc xác định và đóng dấu độ mật (tuyệt mật, tối mật hoặc mật), dấu thu hồi đối với văn bản có nội dung bí mật nhà nước được thực hiện theo quy định tại Điều 5, 6, 7, 8 của Pháp lệnh Bảo vệ bí mật nhà nước năm 2000.\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | Trang 23\n\nb) Dấu chỉ mức độ khẩn\nTùy theo mức độ cần được chuyển phát nhanh, văn bản được xác định độ khẩn theo bốn mức sau: khẩn, thượng khẩn, hỏa tốc, hỏa tốc hẹn giờ; khi soạn thảo văn bản có tính chất khẩn, đơn vị hoặc cá nhân soạn thảo văn bản đề xuất mức độ khẩn trình người ký văn bản quyết định.\n\nc) Đối với những văn bản có phạm vi, đối tượng được phổ biến, sử dụng hạn chế, sử dụng các chỉ dẫn về phạm vi lưu hành như “TRẢ LẠI SAU KHI HỌP (HỘI NGHỊ)”, “XEM XONG TRẢ LẠI”, “LƯU HÀNH NỘI BỘ”.\n\nd) Đối với công văn, ngoài các thành phần được quy định có thể bổ sung địa chỉ cơ quan, tổ chức; địa chỉ thư điện tử (E-Mail); số điện thoại, số Telex, số Fax; địa chỉ trang thông tin điện tử (Website).\n\nđ) Đối với những văn bản cần được quản lý chặt chẽ về số lượng bản phát hành phải có ký hiệu người đánh máy và số lượng bản phát hành.\n\ne) Trường hợp văn bản có phụ lục kèm theo thì trong văn bản phải có chỉ dẫn về phụ lục đó. Phụ lục văn bản phải có tiêu đề; văn bản có từ hai phụ lục trở lên thì các phụ lục phải được đánh số thứ tự bằng chữ số La Mã.\n\ng) Văn bản có hai trang trở lên thì phải đánh số trang bằng chữ số Ả-rập.\n\n2. Kỹ thuật trình bày\na) Dấu chỉ mức độ mật\nCon dấu các độ mật (TUYỆT MẬT, TỐI MẬT hoặc MẬT) và dấu thu hồi được khắc sẵn theo quy định tại Mục 2 Thông tư số 12/2002/TT-BCA ngày 13 tháng 9 năm 2002 hướng dẫn thực hiện Nghị định số 33/2002/NĐ-CP của Chính phủ quy định chi tiết thi hành Pháp lệnh Bảo vệ bí mật nhà nước năm 2000. Dấu độ mật được đóng vào ô số 10a, dấu thu hồi được đóng vào ô số 11.\n\nb) Dấu chỉ mức độ khẩn\nCon dấu các độ khẩn được khắc sẵn hình chữ nhật có kích thước 30mm x 8mm, 40mm x 8mm và 20mm x 8mm, trên đó các từ “KHẨN”, “THƯỢNG KHẨN”, “HỎA TỐC” và “HỎA TỐC HẸN GIỜ” trình bày bằng chữ in hoa, phông chữ Times New Roman cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm và đặt cân đối trong khung hình chữ nhật viền đơn. Dấu độ khẩn được đóng vào ô số 10b. Mực để đóng dấu độ khẩn dùng màu đỏ tươi.\n\nc) Các chỉ dẫn về phạm vi lưu hành\nCác chỉ dẫn về phạm vi lưu hành trình bày tại ô số 11; các cụm từ “TRẢ LẠI SAU KHI HỌP (HỘI NGHỊ)”, “XEM XONG TRẢ LẠI”, “LƯU HÀNH NỘI BỘ”\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | Trang 24\n\ntrình bày cân đối trong một khung hình chữ nhật viền đơn, bằng chữ in hoa, phông chữ Times New Roman, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm.\n\nd) Địa chỉ cơ quan, tổ chức; địa chỉ thư điện tử (E-Mail); số điện thoại, số Telex, số Fax; địa chỉ Trang thông tin điện tử (Website)\nCác thành phần này được trình bày tại ô số 14 trang thứ nhất của văn bản, bằng chữ in thường, cỡ chữ từ 11 đến 12, kiểu chữ đứng, dưới một đường kẻ nét liền kéo dài hết chiều ngang của vùng trình bày văn bản.\n\nđ) Ký hiệu người đánh máy và số lượng bản phát hành\nĐược trình bày tại ô số 13; ký hiệu bằng chữ in hoa, số lượng bản bằng chữ số Ả-rập, cỡ chữ 11, kiểu chữ đứng.\n\ne) Phụ lục văn bản\nPhụ lục văn bản được trình bày trên các trang riêng; từ “Phụ lục” và số thứ tự của phụ lục được trình bày thành một dòng riêng, canh giữa, bằng chữ in thường, cỡ chữ 14, kiểu chữ đứng, đậm; tên phụ lục được trình bày canh giữa, bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm.\n\ng) Số trang văn bản\nSố trang được trình bày tại góc phải ở cuối trang giấy (phần footer) bằng chữ số Ả-rập, cỡ chữ 13 - 14, kiểu chữ đứng, không đánh số trang thứ nhất. Số trang của phụ lục được đánh số riêng theo từng phụ lục.\n\nMẫu chữ và chi tiết trình bày các thành phần thể thức văn bản được minh họa tại Phụ lục IV kèm theo Thông tư này.\n\nMẫu trình bày một số loại văn bản hành chính được minh họa tại Phụ lục V kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Thể thức bản sao",
+      "text": "Điều 16. Thể thức bản sao\nThể thức bản sao bao gồm:\n1. Hình thức sao\n“SAO Y BẢN CHÍNH” hoặc “TRÍCH SAO” hoặc “SAO LỤC”.\n2. Tên cơ quan, tổ chức sao văn bản\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | Trang 25\n\n3. Số, ký hiệu bản sao bao gồm số thứ tự đăng ký được đánh chung cho các loại bản sao do cơ quan, tổ chức thực hiện và chữ viết tắt tên loại bản sao theo Bảng chữ viết tắt tên loại văn bản và bản sao kèm theo Thông tư này (Phụ lục I). Số được ghi bằng chữ số Ả-rập, bắt đầu từ số 01 vào ngày đầu năm và kết thúc vào ngày 31 tháng 12 hàng năm.\n\n4. Các thành phần thể thức khác của bản sao văn bản gồm địa danh và ngày, tháng, năm sao; quyền hạn, chức vụ, họ tên và chữ ký của người có thẩm quyền; dấu của cơ quan, tổ chức sao văn bản và nơi nhận được thực hiện theo hướng dẫn tại Điều 9, 12, 13 và 14 của Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Kỹ thuật trình bày",
+      "text": "Điều 17. Kỹ thuật trình bày\n1. Vị trí trình bày các thành phần thể thức bản sao (trên trang giấy khổ A4)\nThực hiện theo sơ đồ bố trí các thành phần thể thức bản sao kèm theo Thông tư này (Phụ lục III).\nCác thành phần thể thức bản sao được trình bày trên cùng một tờ giấy, ngay sau phần cuối cùng của văn bản cần sao được photocopy, dưới một đường kẻ nét liền, kéo dài hết chiều ngang của vùng trình bày văn bản.\n\n2. Kỹ thuật trình bày bản sao\na) Cụm từ “SAO Y BẢN CHÍNH”, “TRÍCH SAO” hoặc “SAO LỤC” được trình bày tại ô số 1 (Phụ lục III) bằng chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm.\n\nb) Tên cơ quan, tổ chức sao văn bản (tại ô số 2); số, ký hiệu bản sao (tại ô số 3); địa danh và ngày, tháng, năm sao (tại ô số 4); chức vụ, họ tên và chữ ký của người có thẩm quyền (tại ô số 5a, 5b và 5c); dấu của cơ quan, tổ chức sao văn bản (tại ô số 6); nơi nhận (tại ô số 7) được trình bày theo hướng dẫn trình bày các thành phần thể thức tại Phụ lục III.\n\nMẫu chữ và chi tiết trình bày các thành phần thể thức bản sao được minh họa tại Phụ lục IV; mẫu trình bày bản sao được minh họa tại Phụ lục V kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 18. Điều khoản thi hành\nThông tư này có hiệu lực sau 45 ngày, kể từ ngày ký.\n\nCÔNG BÁO/Số 93 + 94 ngày 11-02-2011 | Trang 26\n\nNhững quy định về thể thức và kỹ thuật trình bày văn bản hành chính và bản sao văn bản được quy định tại Thông tư liên tịch số 55/2005/TTLT-BNV-VPCP ngày 06 tháng 5 năm 2005 của Bộ Nội vụ và Văn phòng Chính phủ hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính trái với Thông tư này bị bãi bỏ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 19. Tổ chức thực hiện\nBộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Tập đoàn kinh tế nhà nước, Tổng công ty nhà nước (91) chịu trách nhiệm tổ chức triển khai thực hiện Thông tư này.\n\nCác Bộ, ngành căn cứ quy định thể thức và kỹ thuật trình bày văn bản tại Thông tư này để quy định thể thức và kỹ thuật trình bày văn bản chuyên ngành cho phù hợp./.",
+      "isImplementationClause": true
+    }
+  ]
+}

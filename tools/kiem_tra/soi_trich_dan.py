@@ -37,7 +37,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 GOC = Path(__file__).resolve().parents[2]
 KHO_TXT = GOC / "data" / "clean" / "text_final"
-RA = GOC / "data" / "clean" / "json" / "v1"
+RA = GOC / "data" / "clean" / "json" / "v3"
 
 LOAI = (r"(?:Bộ luật|Luật|Pháp lệnh|Nghị định|Thông tư liên tịch|Thông tư"
         r"|Nghị quyết|Quyết định|Chỉ thị)")
@@ -152,6 +152,12 @@ def soi(c, goc_txt, mo_txt, bang, ho_so):
     ct = c.get("context") or ""
     if not sh:
         return "KHONG RO", None, "trong"
+    # So hieu THAT luon co phan chu (QH13, NĐ-CP, QĐ-ĐHBK, NQ/TW...). Khong co
+    # chu nao nghia la model nhet NGAY hoac NAM vao — "25/12/2001", "2015".
+    # Lop nay tung lot vi chuoi ngay/nam thi van ban nao chang co, nen phep
+    # kiem "co nam nguyen van trong .txt khong" luon dung.
+    if not re.search(r"[A-Za-zĐđ]", sh):
+        return "KHONG RO", None, "số hiệu không có chữ cái nào — là ngày hoặc năm"
     if _khoa(sh) in _khoa(goc_txt):
         return "NGUYEN VAN", None, ""
     if _mo(sh) and _mo(sh) in mo_txt:

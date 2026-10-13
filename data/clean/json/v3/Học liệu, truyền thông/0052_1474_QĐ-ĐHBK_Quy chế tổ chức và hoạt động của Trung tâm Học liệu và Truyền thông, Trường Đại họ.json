@@ -1,0 +1,240 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Học liệu, truyền thông/0052_1474_QĐ-ĐHBK_Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông, Trường Đại họ.txt",
+  "mappedBy": "gemini-web",
+  "note": "Ngày ban hành ở Quyết định bị mờ số ngày ('ngày / / tháng 5 năm 2021'), trong khi Quy chế kèm theo ghi rõ 'ngày 21 tháng 5 năm 2021'. 20 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "1474/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "21/05/2021",
+    "effectiveDate": "21/05/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Học liệu, truyền thông",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Quyết định ban hành Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng, quy định về vị trí chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, cơ sở vật chất và các mối quan hệ công tác của đơn vị.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "13/2008/QĐ-BVHTTDL",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 13/2008/QĐ-BVHTTDL ngày 10/3/2008 của Bộ Văn hóa, Thể thao và Du lịch về việc ban hành Quy chế mẫu tổ chức và hoạt động thư viện trường đại học;"
+    },
+    {
+      "targetDocumentNumber": "2767/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2767/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/1/2021 của Hội đồng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1217/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1217/QĐ-ĐHĐN ngày 10/4/2017 của Giám đốc Đại học Đà Nẵng về việc thành lập Trung tâm Học liệu và Truyền thông, Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "93/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Diện tích kho của Trung tâm được ấn định theo tiêu chuẩn quy định về điều kiện thành lập thư viện đại học tại Nghị định số 93/2020/NĐ-CP ngày 18 tháng 8 năm 2020 của Chính phủ Quy định chi tiết một số điều của Luật Thư viện."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Văn hóa, Thể thao và Du lịch",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng Trường Đại học Bách khoa",
+    "Trung tâm Học liệu và Truyền thông",
+    "Phòng Tổ chức Hành chính",
+    "Đảng Cộng sản Việt Nam",
+    "Tổng Liên đoàn Lao động Việt Nam",
+    "Ban Giám hiệu",
+    "Tổ Nghiệp vụ Thông tin Thư viện",
+    "Tổ Công nghệ Thông tin và Truyền thông",
+    "Hội đồng tư vấn học liệu và truyền thông",
+    "Hội đồng thẩm định giáo trình",
+    "Phòng Cơ sở vật chất",
+    "Phòng Kế hoạch Tài chính",
+    "Phòng Đào tạo",
+    "Hệ thống mạng Thư viện Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế Tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông, Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về tổ chức, hoạt động và cơ sở vật chất của Trung tâm Học\nliệu và Truyền thông thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi là\nTrung tâm).\n2. Quy chế này được áp dụng đối với Trung tâm và các đơn vị, cá nhân có liên quan\ntrong và ngoài Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Tên gọi và trụ sở",
+          "text": "Điều 2. Tên gọi và trụ sở\nTrung tâm là đơn vị chức năng thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng\n(sau đây gọi là Trường) được thành lập theo Quyết định số 1217/QĐ-ĐHĐN ngày 10 tháng\n4 năm 2017 của Giám đốc Đại học Đà Nẵng:\n1. Tên gọi: Trung tâm Học liệu và Truyền thông, Trường Đại học Bách khoa, Đại học\nĐà Nẵng.\n2. Tên tiếng Anh: Learning Resources and Communication Center.\n3. Tên viết tắt: LRCC-DUT\n4. Trụ sở: 54 Nguyễn Lương Bằng, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Thành\nphố Đà Nẵng. Điện thoại: +84.236.3735906.\n5. Trung tâm là đơn vị chức năng trong cơ cấu tổ chức của Trường; có tổ chức Đảng\nCộng sản Việt Nam và tổ chức đoàn thể quần chúng; hoạt động theo Hiến pháp, pháp luật;\ntheo Điều lệ của Đảng Cộng sản Việt Nam và Tổng Liên đoàn Lao động Việt Nam.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Chức năng, nhiệm vụ",
+          "text": "Điều 3. Chức năng, nhiệm vụ\n1. Trung tâm có chức năng tham mưu, giúp việc và chịu trách nhiệm trước Hiệu\ntrưởng về công tác lưu trữ, tổ chức, khai thác và cung cấp thông tin tư liệu trong các lĩnh\n\nvực khoa học, công nghệ, kinh tế, quản lý các hoạt động truyền thông, quảng bá học\nhiệu phục vụ cho công tác của Trường.\n2. Trung tâm có nhiệm vụ tham mưu, giúp việc Hiệu trưởng xây dựng kế hoạch hoạt\nđộng dài hạn và ngắn hạn của công tác học liệu, công tác truyền thông và một số công tác\nkhác có liên quan phục vụ đào tạo, nghiên cứu khoa học và triển khai ứng dụng tiến bộ\nkhoa học công nghệ của Trường:\n2.1. Công tác học liệu\na) Xây dựng kế hoạch phát triển và bổ sung nguồn tài liệu phục vụ giảng dạy, nghiên\ncứu theo đề xuất của các đơn vị và kế hoạch hàng năm của Trường;\nb) Tổ chức, quản lý học liệu theo các chuẩn nghiệp vụ;\nc) Tổ chức không gian đọc; giới thiệu, hướng dẫn kỹ năng tìm kiếm, khai thác và sử\ndụng nguồn tư liệu tham khảo cho người dùng tin phục vụ công tác nghiên cứu, giảng dạy\nvà học tập;\nd) Tạo lập, cung cấp sản phẩm thông tin và dịch vụ hỗ trợ khai thác, sử dụng thông\ntin thư viện;\ne) Tiếp nhận các nguồn tài liệu được tặng;\nf) Phát triển thư viện số, hiện đại hóa hoạt động thông tin thư viện;\ng) Thực hiện liên thông với thư viện trong nước và nước ngoài.\n2.2. Công tác truyền thông\na) Xây dựng và tổ chức thực hiện kế hoạch truyền thông, quảng bá học hiệu Trường\nĐại học Bách khoa, Đại học Đà Nẵng;\nb) Xây dựng mối quan hệ với các cơ quan thông tin đại chúng để đưa tin, quảng bá\nhình ảnh của Trường;\nc) Phối hợp với các đơn vị trong Trường thực hiện các ấn phẩm truyền thông để quảng\nbá học hiệu của Trường; thực hiện các hoạt động truyền thông, quảng bá về nguồn học\nliệu, sản phẩm và dịch vụ thông tin tại Trung tâm;\nd) Tổ chức và quản lý mạng lưới cộng tác viên để thu thập tin tức, đưa tin về các hoạt\nđộng của Trường trên các phương tiện thông tin đại chúng.\n2.3. Công tác khác\na) Nghiên cứu, ứng dụng thành tựu khoa học công nghệ tiên tiến, công nghệ thông\ntin vào công tác quản lý và tổ chức thực hiện công tác học liệu, công tác truyền thông;\n\nb) Hỗ trợ thực hiện thủ tục xuất bản, in ấn, phát hành tài liệu phục vụ đào tạo do\nTrường tổ chức biên soạn (giáo trình, sách hướng dẫn, sách chuyên khảo...); tổ chức giới\nthiệu và hỗ trợ lưu hành tài liệu cho người có nhu cầu theo đúng quy định pháp luật về\nquyền tác giả và sở hữu trí tuệ;\nc) Tổ chức hướng dẫn kỹ năng thông tin cho sinh viên và người dùng tin; tập huấn\nngắn hạn, bồi dưỡng nghiệp vụ thông tin thư viện, nghiệp vụ truyền thông; phối hợp xây\ndựng thực hiện và cung cấp các khóa học trực tuyến về các kỹ năng hỗ trợ học tập, nghiên\ncứu cho sinh viên và các đối tượng có nhu cầu khác;\nd) Xây dựng kế hoạch tổ chức bồi dưỡng chuyên môn, nghiệp vụ, ngoại ngữ, tin học\ncho đội ngũ cán bộ viên chức để nâng cao hiệu quả công tác và phát triển nguồn nhân lực\ncó chất lượng;\ne) Tổ chức, quản lý viên chức, người lao động và tài sản theo trách nhiệm và quyền\nhạn được giao;\nTổ chức bảo quản, định kỳ kiểm kê tài sản của Trung tâm theo quy định của pháp\nluật;\nf) Thực hiện các nhiệm vụ khác do Hiệu trưởng giao.\n3. Trung tâm có các quyền hạn sau:\na) Quản lý và sử dụng văn phòng, tài nguyên thông tin, cơ sở vật chất, trang thiết bị 4/\nvà các tài sản khác do Trường giao quản lý; \"H\nb) Tham gia trao đổi, chia sẻ tài nguyên thông tin với thư viện, cơ quan thông tin, tổ 'c\nchức, cá nhân trong nước và nước ngoài theo quy định của pháp luật về việc xuất và nhập\nvăn hóa phẩm không thuộc phạm vi kinh doanh;\nc) Tham gia các hội nghề nghiệp về thông tin thư viện và truyền thông theo quy\nđịnh của pháp luật;\nd) Tham gia các hội nghị, hội thảo khoa học trong và ngoài nước về công tác thông\ntin thư viện và truyền thông;\nđ) Tổ chức các hoạt động dịch vụ có thu phù hợp với quy định của pháp luật và chức\nnăng nhiệm vụ được giao;\ne) Từ chối phục vụ tài liệu và thực hiện các hoạt động chuyên môn, nghiệp vụ trái\npháp luật và nội quy, quy chế của Trung tâm, của Trường và Đại học Đà Nẵng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Đối tượng phục vụ của Trung tâm",
+          "text": "Điều 4. Đối tượng phục vụ của Trung tâm\nĐối tượng phục vụ chính của Trung tâm là viên chức, người lao động, người học và\ncác nhà nghiên cứu khoa học thuộc Trường. Nếu được phép theo quy định, Trung tâm có\n\nthể phục vụ đối tượng người dùng tin ngoài trường và được phép thu phí dịch vụ theo quy\nđịnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Cơ cấu tổ chức của Trung tâm",
+          "text": "Điều 5. Cơ cấu tổ chức của Trung tâm\n1. Lãnh đạo Trung tâm\nGiám đốc và Phó Giám đốc.\na) Giám đốc là người điều hành toàn bộ hoạt động của Trung tâm và chịu trách nhiệm\ntrước Hiệu trưởng của Trường về mọi hoạt động của Trung tâm. Giám đốc Trung tâm do\nHiệu trưởng bổ nhiệm và miễn nhiệm. Nhiệm kỳ của Giám đốc Trung tâm theo nhiệm kỳ\ncủa Hiệu trưởng.\nb) Phó Giám đốc là người giúp Giám đốc thực hiện các nhiệm vụ quản lý, điều hành\ndo Giám đốc phân công và chịu trách nhiệm trước Giám đốc về những công việc được\nphân công. Phó Giám đốc Trung tâm do Hiệu trưởng ra quyết định bổ nhiệm và miễn\nnhiệm. Nhiệm kỳ của Phó Giám đốc Trung tâm theo nhiệm kỳ của Hiệu trưởng.\n2. Các bộ phận chức năng trực thuộc\na) Tổ Nghiệp vụ Thông tin Thư viện\nb) Tổ Công nghệ Thông tin và Truyền thông.\n3. Nhân sự của Trung tâm\na) Viên chức, người lao động làm việc tại Trung tâm theo các vị trí của đề án việc\nlàm do Nhà trường tuyển dụng, ký hợp đồng.\nb) Viên chức, người lao động của Trung tâm được bố trí, sắp xếp vào chức danh nghề\nnghiệp, hạng bậc theo chức danh, tiêu chuẩn phù hợp với các quy định hiện hành.\n4. Tùy theo quy mô phát triển của Trung tâm, số lượng viên chức, người lao động và\ncác bộ phận chức năng trực thuộc sẽ được điều chỉnh phù hợp với hoạt động của Trung\ntâm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Hội đồng tư vấn học liệu và truyền thông",
+          "text": "Điều 6. Hội đồng tư vấn học liệu và truyền thông\nHội đồng tư vấn học liệu và truyền thông Trường Đại học Bách khoa, Đại học Đà\nNẵng thực hiện chức năng tư vấn về những công việc quan trọng liên quan đến chiến lược\nphát triển và triển khai các hoạt động công tác học liệu, công tác truyền thông của Trường.\n\nHội đồng tư vấn học liệu và truyền thông có chủ tịch là một thành viên trong Ban\nGiám hiệu. Thành viên của Hội đồng bao gồm lãnh đạo các khoa, phòng, đơn vị trực thuộc\nvà chuyên gia.\nHiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng quyết định thành lập Hội\nđồng tư vấn học liệu và truyền thông của Trường trên cơ sở đề nghị của Lãnh đạo Trung\ntâm. Nhiệm kỳ của Hội đồng tư vấn học liệu và truyền thông theo nhiệm kỳ của Hiệu\ntrưởng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Các hoạt động của Trung tâm",
+          "text": "Điều 7. Các hoạt động của Trung tâm\n1. Hoạt động chuyên môn, nghiệp vụ về công tác học liệu, biên soạn các thư mục\nchuyên đề, sản phẩm thông tin và dịch vụ thông tin - thư viện; xây dựng cơ sở dữ liệu; giới\nthiệu và triển lãm học liệu phù hợp với điều kiện cụ thể của Trung tâm.\n2. Hoạt động chuyên môn, nghiệp vụ về công tác truyền thông, biên soạn các ấn phẩm\ntruyền thông, quảng bá học hiệu Nhà trường; tổ chức các hội nghị, hội thảo khoa học về\nlĩnh vực thông tin thư viện và truyền thông.\n3. Phát huy tối đa việc ứng dụng công nghệ thông tin vào hoạt động của đơn vị nhằm\nphục vụ nhiệm vụ đào tạo, nghiên cứu khoa học, ứng dụng chuyển giao công nghệ và công\ntác quản lý của Trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Đối với Ban Giám hiệu",
+          "text": "Điều 8. Đối với Ban Giám hiệu\nTrình Ban Giám hiệu phê duyệt các chương trình công tác, kế hoạch chiến lược, kế\nhoạch quản lý, phát triển và triển khai các hoạt động của Trung tâm hàng năm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Đối với các khoa, đơn vị chức năng trong Trường",
+          "text": "Điều 9. Đối với các khoa, đơn vị chức năng trong Trường\nTrung tâm phối hợp chặt chẽ với các khoa, đơn vị chức năng trong Trường và cá nhân\ncó liên quan trong việc bổ sung và tổ chức các nguồn tài liệu phục vụ đào tạo và nghiên\ncứu khoa học, tài liệu lưu chiểu có chất lượng theo đúng chương trình đào tạo của Trường;\nthực hiện các ấn phẩm truyền thông, các hoạt động quảng bá học hiệu Trường Đại học\nBách khoa, Đại học Đà Nẵng.\nPhối hợp với các khoa, đơn vị chức năng trong Trường kịp thời bổ sung, thông báo,\nhỗ trợ khai thác, sử dụng hiệu quả các nguồn học liệu và các ấn phẩm truyền thông, quảng\nbá học hiệu của Trường.\nTư vấn cho giảng viên về thủ tục xuất bản, phát hành, lưu hành các tài liệu được biên\nsoạn theo phê duyệt của Hội đồng thẩm định giáo trình và được Hiệu trưởng cho phép nhập\n\nhọc liệu để phục vụ tại Trung tâm; hướng dẫn đăng ký và sử dụng phòng học, phòng hội\nthảo và các tiện ích khác hiện có tại Trung tâm hỗ trợ hoạt động học tập, giảng dạy và\nnghiên cứu khoa học.\nPhối hợp với Phòng Cơ sở vật chất, Phòng Kế hoạch Tài chính, Phòng Đào tạo thực\nhiện các hồ sơ về bổ sung học liệu, kiểm tra tình trạng nợ tài liệu theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Đối với các cơ quan, tổ chức, cá nhân khác",
+          "text": "Điều 10. Đối với các cơ quan, tổ chức, cá nhân khác\nTham gia phối hợp với thư viện các trường đại học thành viên thuộc Đại học Đà Nẵng\nkhai thác và sử dụng các nguồn học liệu được cung cấp trong Hệ thống mạng Thư viện Đại\nhọc Đà Nẵng; kịp thời đưa tin về các hoạt động của Trường và các hoạt động khác có liên\nquan.\nMở rộng liên kết trong và ngoài nước giữa Trung tâm với các cơ quan thông tin, các\nnhà xuất bản, thư viện của các trường đại học có đào tạo cùng chuyên ngành với Trường,\ncác nhà sách, nhà in, cơ quan thông tin đại chúng; phối hợp phát hành, cung ứng tài liệu và\ncác sản phẩm văn hóa thông tin và truyền thông, tổ chức Hội sách và các hoạt động khác\nnhằm phổ biến các nguồn học liệu có chất lượng cho người dùng tin.\nMở rộng mạng lưới cộng tác viên; xây dựng mối quan hệ với các cơ quan thông tin\nđại chúng để thu thập tin tức, đưa tin, quảng bá hình ảnh của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Cơ sở vật chất",
+          "text": "Điều 11. Cơ sở vật chất\n1. Cơ sở vật chất của Trung tâm gồm tài nguyên thông tin, cơ sở vật chất, trang thiết\nbị và các tài sản khác phục vụ triển khai các hoạt động của đơn vị theo đúng chức năng\nnhiệm vụ được giao.\n2. Vốn tài liệu của Trung tâm bao gồm các vật mang tin dưới dạng vật chất: Tài liệu\nin trên giấy, tài liệu nghe nhìn, tài liệu số, tài liệu điện tử và các cơ sở dữ liệu trực tuyến\nđược tổ chức thành các bộ sưu tập phù hợp nhằm phục vụ nhu cầu người đọc, người dùng\ntin trong Trường và cộng đồng.\n3. Cơ sở vật chất, trang thiết bị của Trung tâm gồm hệ thống mạng máy tính, máy\ntính trong hệ thống, các phần mềm ứng dụng, website của Trường; các trang thiết bị, cơ sở\nvật chất khác phục vụ thực hiện nhiệm vụ của Trung tâm.\n\n4. Trụ sở của Trung tâm\na) Trụ sở của Trung tâm hiện tại được bố trí tại tòa nhà 4 tầng có diện tích 5.040m2\nvới 1.000 chỗ ngồi; được xây dựng theo đúng tiêu chuẩn kiến trúc và phù hợp với sự phát\ntriển của Trung tâm.\nb) Diện tích kho của Trung tâm được ấn định theo tiêu chuẩn quy định về điều kiện\nthành lập thư viện đại học tại Nghị định số 93/2020/NĐ-CP ngày 18 tháng 8 năm 2020 của\nChính phủ Quy định chi tiết một số điều của Luật Thư viện.\n5. Vốn tài liệu, cơ sở vật chất, trang thiết bị và tài sản khác phục vụ cho triển khai và\nphát triển các hoạt động công tác học liệu và truyền thông của Trung tâm do Nhà trường\nđầu tư, trang bị. Giám đốc Trung tâm có quyền đề xuất Hiệu trưởng, các Phòng chức năng\ntrong việc trang bị cơ sở vật chất đáp ứng nhu cầu hoạt động và phát triển của Trung tâm.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Kinh phí hoạt động của Trung tâm",
+          "text": "Điều 12. Kinh phí hoạt động của Trung tâm\nNguồn kinh phí hoạt động của Trung tâm được Nhà trường cấp bao gồm:\nKinh phí hoạt động thường xuyên theo kế hoạch.\nKinh phí đầu tư xây dựng cơ sở hạ tầng, mua sắm trang thiết bị và vốn tài liệu của\nTrung tâm; thực hiện các hoạt động nghiệp vụ của công tác học liệu và công tác truyền\nthông theo kế hoạch chung của Nhà trường.\nCác khoản thu, chi không quy định tại văn bản này sẽ được áp dụng theo Quy chế chi\ntiêu nội bộ và các quy định khác của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Sử dụng cơ sở vật chất và kinh phí hoạt động của Trung tâm",
+          "text": "Điều 13. Sử dụng cơ sở vật chất và kinh phí hoạt động của Trung tâm\nLãnh đạo Trung tâm chịu trách nhiệm trực tiếp về việc quản lý và sử dụng hiệu quả\nkinh phí, cơ sở vật chất được giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Khen thưởng",
+          "text": "Điều 14. Khen thưởng\nViên chức, người lao động, người học và nhà nghiên cứu có nhiều đóng góp vào việc\nxây dựng và phát triển của Trung tâm được Hiệu trưởng khen thưởng theo đề nghị của\nLãnh đạo Trung tâm, tùy theo thành tích và minh chứng cụ thể.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Xử lý vi phạm",
+          "text": "Điều 15. Xử lý vi phạm\nNguyên tắc xử lý: Các trường hợp vi phạm quy định của pháp luật, quy định của Nhà\ntrường về công tác học liệu và truyền thông thì tùy theo tính chất, mức độ vi phạm mà bị\n\nxử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định; nếu\ngây thiệt hại thì phải bồi thường theo quy định của pháp luật.\nTrong thẩm quyền của mình, tùy theo tính chất, mức độ vi phạm, Lãnh đạo Trung\ntâm sẽ xử lý người vi phạm theo các hình thức sau đây:\nNhắc nhở, đình chỉ quyền sử dụng các dịch vụ của Trung tâm 01 tháng;\nKhiển trách, đình chỉ quyền sử dụng các dịch vụ của Trung tâm 03 tháng;\nCảnh cáo, đình chỉ quyền sử dụng các dịch vụ của Trung tâm 01 năm.\nĐối với tính chất và mức độ vi phạm cao hơn, Lãnh đạo Trung tâm sẽ chuyển hồ sơ\nlên Trường và phối hợp với các đơn vị liên quan để xử lý.\nNgoài ra, người vi phạm còn phải bồi thường thiệt hại: mức phạt và bồi thường theo\nquy định của Trường, nghị định xử phạt vi phạm hành chính trong lĩnh vực văn hóa thông\ntin truyền thông và các quy định khác của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 16. Hiệu lực thi hành\n1. Quy chế này có hiệu lực kể từ ngày ký quyết định ban hành. Các quy định trước\nđây trái với Quy chế này đều bị bãi bỏ.\n2. Trong quá trình thực hiện, Quy chế này sẽ được điều chỉnh, bổ sung, sửa đổi để\nphù hợp với tình hình và yêu cầu thực tế đúng theo các quy định hiện hành.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 17. Tổ chức thực hiện\n1. Lãnh đạo Trung tâm Học liệu và Truyền thông, Trưởng các đơn vị thuộc, trực thuộc\nTrường, tổ chức và cá nhân có liên quan căn cứ Quyết định thi hành.\n2. Lãnh đạo Trung tâm Học liệu và Truyền thông và các bộ phận chức năng trực thuộc\ncăn cứ vào Quy chế này có trách nhiệm tổ chức thực hiện các nhiệm vụ theo chức năng và\nphạm vi quyền hạn của mình, đảm bảo các hoạt động của Trung tâm được thuận lợi và có\nhiệu quả./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy chế tổ chức và hoạt động của Trung",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy chế tổ chức và hoạt động của Trung\ntâm Học liệu và Truyền thông, Trường Đại học Bách khoa, Đại học Đà Nẵng\"",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức Hành chính, Lãnh đạo Trung tâm Học liệu",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức Hành chính, Lãnh đạo Trung tâm Học liệu\nvà Truyền thông, Trưởng các đơn vị thuộc, trực thuộc Trường; tổ chức và cá nhân có liên\nquan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0442_2358_QĐ-BGDĐT_Quyết định ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025-2026 của.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2358/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/08/2025",
+    "effectiveDate": "20/08/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành kèm theo Quyết định này Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục với chủ đề “Kỷ cương - Sáng tạo - Đột phá - Phát triển”.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Kim Sơn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ về Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Đảng ủy Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ; Giám đốc Sở Giáo dục và Đào tạo; Giám đốc các đại học, học viện; Hiệu trưởng các trường đại học, cao đẳng sư phạm, cơ sở giáo dục nghề ng",
+      "text": "Điều 3. Chánh Văn phòng, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ; Giám đốc Sở Giáo dục và Đào tạo; Giám đốc các đại học, học viện; Hiệu trưởng các trường đại học, cao đẳng sư phạm, cơ sở giáo dục nghề nghiệp chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

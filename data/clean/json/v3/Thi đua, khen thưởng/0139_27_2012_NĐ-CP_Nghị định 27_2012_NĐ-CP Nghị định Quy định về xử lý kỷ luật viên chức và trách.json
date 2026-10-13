@@ -1,0 +1,335 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0139_27_2012_NĐ-CP_Nghị định 27_2012_NĐ-CP Nghị định Quy định về xử lý kỷ luật viên chức và trách.txt",
+  "mappedBy": "gemini-web",
+  "note": "37 Điều được cắt thẳng từ bản .txt gốc do lượt trích xuất bỏ sót. 41 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "27/2012/NĐ-CP",
+    "title": "Nghị định Quy định về xử lý kỷ luật viên chức và trách nhiệm bồi thường, hoàn trả của viên chức",
+    "documentType": "Nghị định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/04/2012",
+    "effectiveDate": "25/05/2012",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Nghị định quy định về thời hiệu, thời hạn xử lý kỷ luật, việc áp dụng hình thức kỷ luật, thẩm quyền, trình tự, thủ tục xử lý kỷ luật đối với viên chức và trách nhiệm bồi thường, hoàn trả của viên chức.",
+    "idOverride": null,
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Chính phủ",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Tấn Dũng",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "06/2010/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Những người giữ chức vụ lãnh đạo, quản lý tại đơn vị sự nghiệp công lập được quy định là công chức theo Nghị định số 06/2010/NĐ-CP ngày 25 tháng 01 năm 2010 của Chính phủ quy định những người là công chức;"
+    },
+    {
+      "targetDocumentNumber": "68/2000/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Những người làm việc theo chế độ hợp đồng quy định tại Nghị định số 68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp và hợp đồng lao động thời vụ tại đơn vị sự nghiệp công lập."
+    },
+    {
+      "targetDocumentNumber": "35/2005/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Bãi bỏ những quy định về xử lý kỷ luật đối với viên chức tại Nghị định số 35/2005/NĐ-CP ngày 17 tháng 3 năm 2005 của Chính phủ về việc xử lý kỷ luật cán bộ, công chức;"
+    },
+    {
+      "targetDocumentNumber": "103/2007/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "bãi bỏ những quy định về xử lý kỷ luật đối với viên chức tại Nghị định số 103/2007/NĐ-CP ngày 14 tháng 6 năm 2007 của Chính phủ quy định trách nhiệm của cán bộ, công chức, viên chức trong việc thực hành tiết kiệm; chống lãng phí"
+    },
+    {
+      "targetDocumentNumber": "107/2006/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "và Nghị định số 107/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ quy định xử lý trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn vị khi để xảy ra tham nhũng trong cơ quan, tổ chức đơn vị do mình quản lý, phụ trách trái với quy định tại Nghị định này;"
+    },
+    {
+      "targetDocumentNumber": "118/2006/NĐ-CP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "bãi bỏ những quy định về xử lý trách nhiệm vật chất đối với viên chức quy định tại Nghị định số 118/2006/NĐ-CP ngày 10 tháng 10 năm 2006 của Chính phủ về xử lý trách nhiệm vật chất đối với cán bộ, công chức."
+    }
+  ],
+  "mentions": [
+    "Tòa án",
+    "Bộ Nội vụ",
+    "Đảng",
+    "Nhà nước",
+    "Kho bạc Nhà nước"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh P",
+      "text": "Điều 1. Phạm vi điều chỉnh P\nNghị định này quy định về thời hiệu, thời hạn xử lý kỷ luật; việc áp dụng hình 8\nthức kỷ luật; thẩm quyền; trình tự, thủ tục xử lý kỷ luật đối với viên chức và trách 1\nnhiệm bồi thường, hoàn trả của viên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối tượng áp dụng",
+      "text": "Điều 2. Đối tượng áp dụng\n1. Nghị định này áp dụng đối với viên chức làm việc trong các đơn vị sự\nnghiệp công lập quy định tại khoản 1, khoản 2 Điều 9 Luật Viên chức.\n2. Nghị định này không áp dụng đối với các đối tượng sau:\na) Những người giữ chức vụ lãnh đạo, quản lý tại đơn vị sự nghiệp công lập\nđược quy định là công chức theo Nghị định số 06/2010/NĐ-CP ngày 25 tháng 01\nnăm 2010 của Chính phủ quy định những người là công chức;\nb) Những người làm việc theo chế độ hợp đồng quy định tại Nghị định số\n68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế độ\nhợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự\nnghiệp và hợp đồng lao động thời vụ tại đơn vị sự nghiệp công lập.\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Nguyên tắc xử lý kỷ luật",
+      "text": "Điều 3. Nguyên tắc xử lý kỷ luật\n1 Khách quan, công bằng, nghiêm minh, đúng pháp luật.\n2. Mỗi hành vi vi phạm pháp luật chỉ bị xử lý một hình thức kỷ luật: Nếu viên\nchức có nhiều hành vi vi phạm pháp luật hoặc tiếp tục có hành vi vi phạm pháp\nluật trong thời gian đang thi hành quyết định kỷ luật thì bị xử lý kỷ luật về từng\nhành vi vi phạm và chịu hình thức kỷ luật nặng hơn một mức so với hình thức kỷ 9\nluật áp dụng với hành vi vi phạm nặng nhất; trừ trường hợp có hành vi vi phạm bị 1\nxử lý kỷ luật bằng hình thức buộc thôi việc.\n3 Thái độ tiếp thu; sửa chữa và chủ động khắc phục hậu quả của viên chức có\nhành vi vi phạm pháp luật là yếu tố xem xét tăng nặng hoặc giảm nhẹ khi áp dụng 1\nhình thức kỷ luật. 1\n4 Thời gian chưa xem xét xử lý kỷ luật đối với viên chức trong các trường hợp\nquy định tại Điều 5 Nghị định này không tính vào thời hạn xử lý kỷ luật. cháe g\n5 . Không áp dụng hình thức xử phạt hành chính thay cho hình thức kỷ luật. 1\n6. Cấm mọi hành vi xâm phạm thân thể, danh dự, nhân phẩm của viên chức\ntrong quá trình xử lý kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Các trường hợp xử lý kỷ luật P",
+      "text": "Điều 4. Các trường hợp xử lý kỷ luật P\nViên chức bị xử lý kỷ luật khi có hành vi vi phạm pháp luật trong các trường\nhợp sau: 1\n1 Vi phạm việc thực hiện nghĩa vụ của viên chức và những việc viên chức\nkhông được làm quy định tại Luật Viên chức;\n2 Vi phạm các nghĩa vụ khác cam kết trong hợp đồng làm việc đã ký kết với\nđơn vị sự nghiệp công lập;\n3. Vi phạm pháp luật bị Tòa án kết án bằng bản án có hiệu lực pháp luật;\n4 Vi phạm quy định của pháp luật về phòng; chống tham nhũng; thực hành tiết\nkiệm; chống lãng phí; bình đẳng giới; phòng, chống tệ nạn xã hội và các quy định\nkhác của pháp luật liên quan đến viên chức nhưng chưa đến mức bị truy cứu trách\nnhiệm hình sự.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Các trường hợp chưa xem xét xử lý kỷ luật",
+      "text": "Điều 5. Các trường hợp chưa xem xét xử lý kỷ luật\nCơ quan, tổ chức, đơn vị có thẩm quyền chưa xem xét xử lý kỷ luật đối với\nviên chức có hành vi vi phạm pháp luật trong các trường hợp sau:\n1 Đang trong thời gian nghỉ hàng năm; nghỉ theo chế độ, nghỉ việc riêng được\nngười đứng đầu đơn vị sự nghiệp công lập cho phép;\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\n2 Đang trong thời gian điều trị, chữa bệnh có xác nhận của cơ quan y tế có\nthẩm quyền;\n3 Viên chức nữ đang trong thời gian mang thai, nghỉ thai sản, đang nuôi con\ndưới 12 tháng tuổi;\n4 Đang bị tạm giữ, tạm giam chờ kết luận của cơ quan có thẩm quyền điều tra,\ntruy tố, xét xử về hành vi vi phạm pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Các trường hợp được miễn xử lý kỷ luật",
+      "text": "Điều 6. Các trường hợp được miễn xử lý kỷ luật\nViên chức được miễn xử lý kỷ luật trong các trường hợp sau:\n1. Được cơ quan có thẩm quyền xác nhận tình trạng mất năng lực hành vi dân\nsự khi vi phạm pháp luật;\n2; Được cấp có thẩm quyền xác nhận có hành vi vi phạm pháp luật trong tình 9\nthế bất khả kháng khi thực hiện công việc, nhiệm vụ. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Thời hiệu xử lý kỷ luật",
+      "text": "Điều 7. Thời hiệu xử lý kỷ luật\n1. Thời hiệu xử lý kỷ luật là 24 tháng; kể từ thời điểm viên chức có hành vi vi 1\nphạm pháp luật cho đến thời điểm người đứng đầu đơn vị sự nghiệp công lập có g\nthẩm quyền ra thông báo bằng văn bản về việc xem xét xử lý kỷ luật. 1\n2. Khi phát hiện hành vi vi phạm pháp luật của viên chức, người đứng đầu đơn\nvị sự nghiệp công lập có thẩm quyền xử lý kỷ luật quy định tại Điều 14 Nghị định\nnày phải ra thông báo bằng văn bản về việc xem xét xử lý kỷ luật. Thông báo phải P\nnêu rõ thời điểm viên chức có hành vi vi phạm pháp luật, thời điểm phát hiện viên\nchức có hành vi vi phạm pháp luật và thời hạn xử lý kỷ luật. 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Thời hạn xử lý kỷ luật",
+      "text": "Điều 8. Thời hạn xử lý kỷ luật\n1. Thời hạn xử lý kỷ luật tối đa là 02 tháng; kể từ ngày phát hiện viên chức có\nhành vi vi phạm pháp luật cho đến ngày người đứng đầu đơn vị sự nghiệp công lập\ncó thẩm quyền ra quyết định xử lý kỷ luật.\n2 Trường hợp vụ việc có liên quan đến nhiều người, có tang vật; phương tiện\ncần giám định hoặc những tình tiết phức tạp khác cần có thời gian thanh tra, kiểm\ntra để làm rõ thêm thì người đứng đầu đơn vị sự nghiệp công lập có thẩm quyền xử\nlý kỷ luật ra quyết định kéo dài thời hạn xử lý kỷ luật, nhưng không quá 04 tháng",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Các hình thức kỷ luật",
+      "text": "Điều 9. Các hình thức kỷ luật\n1. Viên chức không giữ chức vụ quản lý nếu có hành vi vi phạm pháp luật; tùy\ntheo mức độ vi phạm bị áp dụng một trong các hình thức kỷ luật sau:\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\na) Khiển trách;\nb) Cảnh cáo;\nc) Buộc thôi việc.\n2 Viên chức quản lý nếu có hành vi vi phạm pháp luật; tùy theo mức độ vi\nphạm bị áp dụng một trong các hình thức kỷ luật sau:\na) Khiển trách;\nb) Cảnh cáo;\nc) Cách chức;\nd) Buộc thôi việc.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Khiển trách 1",
+      "text": "Điều 10. Khiển trách 1\nHình thức kỷ luật khiển trách áp dụng đối với viên chức có một trong các hành 1\nvi vi phạm pháp luật sau đây:\n1 . Vi phạm các quy định, nội quy quy chế làm việc của đơn vị sự nghiệp công\nlập đã được người có thẩm quyền nhắc nhở bằng văn bản;\n2 Không tuân thủ quy trình, quy định chuyên môn, nghiệp vụ; đạo đức nghề 1\nnghiệp và quy tắc ứng xử trong khi thực hiện hoạt động nghề nghiệp, đã được\nngười có thẩm quyền nhắc nhở bằng văn bản; 8 g\n3 Không chấp hành sự phân công công tác của người có thẩm quyền hoặc\nkhông thực hiện công việc, nhiệm vụ đã cam kết trong hợp đồng làm việc mà 1\nkhông có lý do chính đáng;\n4 . Có thái độ hách dịch, cửa quyền hoặc gây khó khăn, phiền hà đối với nhân\ndân trong quá trình thực hiện công việc hoặc nhiệm vụ được giao; P\n5. Gây mất đoàn kết trong đơn vị; 8\n6 Tự ý nghỉ việc, tổng số từ 03 đến dưới 05 ngày làm việc trong một tháng (\nđược tính trong tháng dương lịch hoặc từ 03 đến dưới 05 ngày làm việc liên tiếp 5\nmà không có lý do chính đáng;\n7. Sử dụng tài sản của đơn vị sự nghiệp công lập và của nhân dân trái với quy\nđịnh của pháp luật.\n8 Vi phạm quy định của pháp luật về phòng; chống tham nhũng; thực hành tiết\nkiệm, chống lãng phí; kỷ luật lao động; bình đẳng giới; phòng, chống tệ nạn xã hội\nvà các quy định khác của pháp luật liên quan đến viên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Cảnh cáo",
+      "text": "Điều 11. Cảnh cáo\nHình thức kỷ luật cảnh cáo áp dụng đối với viên chức có một trong các hành vi\nvi phạm pháp luật sau đây:\n1 Không tuân thủ quy trình, quy định chuyên môn; nghiệp vụ; đạo đức nghề\nnghiệp và quy tắc ứng xử trong khi thực hiện hoạt động nghề nghiệp gây hậu quả\nnghiêm trọng;\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\n2 Không chấp hành sự phân công công tác của người có thẩm quyền hoặc\nkhông thực hiện công việc, nhiệm vụ đã cam kết trong hợp đồng làm việc mà\nkhông có lý do chính đáng; gây ảnh hưởng đến công việc chung của đơn vị;\n3 . Sử dụng giấy tờ không hợp pháp để được tham gia đào tạo, bồi dưỡng; được\ndự thi hoặc xét thay đổi chức danh nghề nghiệp;\n4 Tự ý nghỉ việc, tổng số từ 05 đến dưới 07 ngày làm việc trong một tháng\nđược tính trong tháng dương lịch hoặc từ 05 đến dưới 07 ngày làm việc liên tiếp;\nmà không có lý do chính đáng;\n5. Phân biệt đối xử dân tộc, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi\nhình thức;\n6 Lợi dụng hoạt động nghề nghiệp để tuyên truyền chống lại chủ trương\nđường lối, chính sách của Đảng pháp luật của Nhà nước hoặc gây phương hại đối 1\nvới thuần phong; mỹ tục, đời sống văn hóa, tinh thần của nhân dân và xã hội; 1\n7. Xúc phạm danh dự; nhân phẩm, uy tín của người khác trong khi thực hiện\nhoạt động nghề nghiệp;\n8. Sử dụng trái phép chất ma túy bị cơ quan công an thông báo về đơn vị sự\nnghiệp công lập nơi viên chức đang công tác;\n9 Viên chức quản lý không thực hiện đúng trách nhiệm quản lý, để viên chức A\nthuộc quyền quản lý, phụ trách vi phạm pháp luật gây hậu quả nghiêm trọng trong ẵ g\nkhi thực hiện hoạt động nghề nghiệp;\n10. Bị phạt tù cho hưởng án treo hoặc cải tạo không giam giữ đối với viên 1\nchức không giữ chức vụ quản lý, trừ trường hợp quy định tại khoản 1 Điều 13\nNghị định này;\n11. Vi phạm ở mức độ nghiêm trọng quy định của pháp luật về phòng; chống P\ntham nhũng; thực hiện tiết kiệm; chống lãng phí; kỷ luật lao động; bình đẳng giới;\nphòng chống tệ nạn xã hội và các quy định khác của pháp luật liên quan đến viên 1\nchức nhưng đã thành khẩn kiểm điểm trong quá trình xem xét xử lý kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 12",
+      "heading": "Cách chức",
+      "text": "Điều 12. Cách chức\nHình thức kỷ luật cách chức áp dụng đối với viên chức quản lý có một trong\ncác hành vi vi phạm pháp luật sau đây:\n1 Không hoàn thành nhiệm vụ quản lý, điều hành theo sự phân công mà\nkhông có lý do chính đáng, để xảy ra hậu quả nghiêm trọng;\n2. Sử dụng giấy tờ không hợp pháp để được bổ nhiệm chức vụ;\n3. Bị phạt tù cho hưởng án treo hoặc cải tạo không giam giữ;\n4 Vi phạm ở mức độ nghiêm trọng quy định của pháp luật về phòng; chống\ntham nhũng; thực hành tiết kiệm, chống lãng phí; bình đẳng giới; phòng; chống tệ\nnạn xã hội và các quy định khác của pháp luật liên quan đến viên chức .",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 13",
+      "heading": "Buộc thôi việc",
+      "text": "Điều 13. Buộc thôi việc\nHình thức kỷ luật buộc thôi việc áp dụng đối với viên chức có một trong các\nhành vi vi phạm pháp luật sau đây:\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\n1. Bị phạt tù mà không được hưởng án treo hoặc bị Tòa án kết án về hành vi\ntham nhũng;\n2 Không tuân thủ quy trình, quy định chuyên môn; nghiệp vụ, đạo đức nghề\nnghiệp và quy tắc ứng xử trong khi thực hiện hoạt động nghề nghiệp gây hậu quả\nđặc biệt nghiêm trọng;\n3. Sử dụng giấy tờ không hợp pháp để được tuyển dụng vào đơn vị sự nghiệp\ncông lập;\n4 Nghiện ma túy có xác nhận của cơ quan y tế có thẩm quyền;\n5. Tự ý nghỉ việc, tổng số từ 07 ngày làm việc trở lên trong một tháng hoặc từ\n20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng được tính\ntrong tháng dương lịch; năm dương lịch; 1\n6 Vi phạm ở mức độ đặc biệt nghiêm trọng quy định của pháp luật về phòng, 1\nchống tham nhũng; nhưng chưa đến mức bị truy cứu trách nhiệm hình sự; quy định\ncủa pháp luật về thực hành tiết kiệm; chống lãng phí; kỷ luật lao động; phòng,\nchống tệ nạn xã hội và các quy định khác của pháp luật liên quan đến viên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 14",
+      "heading": "Thẩm quyền xử lý kỷ luật 1",
+      "text": "Điều 14. Thẩm quyền xử lý kỷ luật 1\n1. Đối với viên chức quản lý, người đứng đầu cơ quan; tổ chức, đơn vị có thẩm\nquyền bổ nhiệm tiến hành xử lý kỷ luật và quyết định hình thức kỷ luật. P\n2. Đối với viên chức không giữ chức vụ quản lý; người đứng đầu đơn vị sự\nnghiệp công lập quản lý viên chức tiến hành xử lý kỷ luật và quyết định hình thức 1\nkỷ luật.\n3. Đối với viên chức biệt phái, người đứng đầu cơ quan, tổ chức, đơn vị nơi\nviên chức được cử đến biệt phái tiến hành xem xét xử lý kỷ luật; đề nghị hình thức\nkỷ luật và gửi hồ sơ xử lý kỷ luật về đơn vị sự nghiệp công lập cử viên chức biệt\nphái để ra quyết định kỷ luật theo thẩm quyền .\n4. Đối với viên chức đã chuyển công tác mới phát hiện có hành vi vi phạm\npháp luật mà còn trong thời hiệu quy định, thì người đứng đầu đơn vị sự nghiệp\ncông lập quản lý viên chức trước đây tiến hành xử lý kỷ luật, quyết định hình thức\nkỷ luật và gửi hồ sơ, quyết định kỷ luật về cơ quan tổ chức, đơn vị đang quản lý\nviên chức. Nếu đơn vị sự nghiệp công lập trước đây đã giải thể, sáp nhập, hợp\nnhất; chia, tách thì những người có trách nhiệm liên quan phải bàn giao hồ sơ để\nđơn vị sự nghiệp công lập đang quản lý viên chức thực hiện việc xử lý kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 15",
+      "heading": "Tổ chức họp kiểm điểm viên chức có hành vi vi phạm pháp luật",
+      "text": "Điều 15. Tổ chức họp kiểm điểm viên chức có hành vi vi phạm pháp luật\n1 Người đứng đầu đơn vị sự nghiệp công lập quản lý viên chức chịu trách\nnhiệm tổ chức cuộc họp để viên chức có hành vi vi phạm pháp luật tự kiểm điểm\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\nvà nhận hình thức kỷ luật, trừ trường hợp viên chức bị Tòa án kết án phạt tù mà\nkhông được hưởng án treo hoặc bị Tòa án kết án về hành vi tham nhũng. Việc tổ\nchức cuộc họp kiểm điểm được tiến hành như sau:\na) Trường hợp đơn vị sự nghiệp công lập quản lý viên chức có đơn vị cấu\nthành thì tổ chức cuộc họp kiểm điểm với thành phần dự họp là toàn thể viên chức\ncủa đơn vị cấu thành mà viên chức đang công tác. Biên bản cuộc họp kiểm điểm ở\nđơn vị cấu thành được gửi tới người đứng đầu đơn vị sự nghiệp công lập quản lý\nviên chức. Cuộc họp kiểm điểm của đơn vị sự nghiệp công lập quản lý viên chức\ncó hành vi vi phạm pháp luật được tổ chức với thành phần dự họp là đại diện lãnh\nđạo chính quyền; cấp ủy và công đoàn của đơn vị;\nb) Trường hợp đơn vị sự nghiệp công lập quản lý viên chức không có đơn vị\ncấu thành, thành phần dự họp kiểm điểm viên chức vi phạm là toàn thể viên chức 9\ncủa đơn vị. 1\n2. Đối với viên chức quản lý có hành vi vi phạm pháp luật, người đứng đầu cơ\nquan, tổ chức, đơn vị có thẩm quyền bổ nhiệm viên chức có trách nhiệm tổ chức\nhọp kiểm điểm và quyết định thành phần dự họp.\n3 Viên chức có hành vi vi phạm pháp luật phải làm bản tự kiểm điểm và tự\nnhận hình thức kỷ luật. Trường hợp viên chức có hành vi vi phạm pháp luật không\nlàm bản kiểm điểm thì cuộc họp kiểm điểm viên chức vi phạm vẫn được tiến hành.\n4 Nội dung các cuộc họp kiểm điểm viên chức có hành vi vi phạm pháp luật ẵ g\nquy định tại Điều này phải được lập thành biên bản; Biên bản các cuộc họp kiểm 1\nđiểm phải có kiến nghị áp dụng hình thức kỷ luật đối với viên chức có hành vi vi\nphạm pháp luật. Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc họp\nkiểm điểm, biên bản cuộc họp kiểm điểm được gửi tới Chủ tịch Hội đồng kỷ luật\nđể tổ chức xem xét xử lý kỷ luật theo quy định tại Nghị định này. P",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 16",
+      "heading": "Hội đồng kỷ luật",
+      "text": "Điều 16. Hội đồng kỷ luật\n1. Người có thẩm quyền xử lý kỷ luật quy định tại Điều 14 Nghị định này 1\nquyết định thành lập Hội đồng kỷ luật để tư vấn về việc áp dụng hình thức kỷ luật 1\nđối với viên chức có hành vi vi phạm pháp luật; trừ trường hợp viên chức bị Tòa\nán kết án phạt tù mà không được hưởng án treo hoặc bị Tòa án kết án về hành vi\ntham nhũng.\n2. Nguyên tắc làm việc của Hội đồng kỷ luật:\na) Hội đồng kỷ luật chỉ họp khi có đủ các thành viên tham dự;\nb) Hội đồng kỷ luật kiến nghị áp dụng hình thức kỷ luật thông qua bỏ phiếu kín;\nc) Cuộc họp Hội đồng kỷ luật phải có biên bản ghi ý kiến của các thành viên\ndự họp và kết quả bỏ phiếu kiến nghị hình thức kỷ luật áp dụng đối với viên chức\ncó hành vi vi phạm pháp luật.\n3 . Hội đồng kỷ luật tự giải thể sau khi hoàn thành nhiệm vụ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 17",
+      "heading": "Thành phần Hội đồng kỷ luật",
+      "text": "Điều 17. Thành phần Hội đồng kỷ luật\n1 Đối với viên chức không giữ chức vụ quản lý có hành vi vi phạm pháp luật:\n\n10 CÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\na) Trường hợp đơn vị sự nghiệp công lập quản lý viên chức không có đơn vị\ncấu thành, Hội đồng kỷ luật có 03 thành viên; bao gồm:\nChủ tịch Hội đồng là người đứng đầu hoặc cấp phó của người đứng đầu đơn vị\nsự nghiệp công lập quản lý viên chức;\nMột ủy viên Hội đồng là đại diện Ban chấp hành công đoàn của đơn vị sự\nnghiệp công lập quản lý viên chức;\nMột ủy viên kiêm Thư ký Hội đồng là người đại diện bộ phận làm công tác tổ\nchức cán bộ của đơn vị sự nghiệp công lập quản lý viên chức.\nb) Trường hợp đơn vị sự nghiệp công lập quản lý viên chức có đơn vị cấu\nthành, Hội đồng kỷ luật có 05 thành viên, bao gồm:\nChủ tịch Hội đồng là người đứng đầu hoặc cấp phó của người đứng đầu đơn vị 9\nsự nghiệp công lập quản lý viên chức; 1\nMột ủy viên Hội đồng là đại diện cấp ủy của đơn vị sự nghiệp công lập quản lý\nviên chức;\nMột ủy viên Hội đồng là đại diện Ban chấp hành công đoàn của đơn vị sự\nnghiệp công lập quản lý viên chức;\nMột ủy viên Hội đồng là đại diện của đơn vị công tác có viên chức bị xem xét\nxử lý kỷ luật; ủy viên Hội đồng này do người đứng đầu của đơn vị cấu thành đó\nlựa chọn và cử ra; 8 g\nMột ủy viên kiêm Thư ký Hội đồng là người đại diện bộ phận làm công tác tổ 1\nchức cán bộ của đơn vị sự nghiệp công lập quản lý viên chức .\n2. Đối với viên chức quản lý có hành vi vi phạm pháp luật, Hội đồng kỷ luật có\n05 thành viên, bao gồm: P\na) Chủ tịch Hội đồng là người đứng đầu hoặc cấp phó của người đứng đầu cơ\nquan, tổ chức, đơn vị có thẩm quyền bổ nhiệm viên chức; 1\nb) Một ủy viên Hội đồng là người đứng đầu hoặc cấp phó của người đứng đầu\nđơn vị sự nghiệp công lập quản lý viên chức;\nc) Một ủy viên Hội đồng là đại diện cấp ủy của đơn vị sự nghiệp công lập quản\nlý viên chức hoặc đơn vị được phân cấp quản lý viên chức;\nd) Một ủy viên Hội đồng là đại diện Ban chấp hành công đoàn của đơn vị quản\nlý viên chức hoặc đơn vị được phân cấp quản lý viên chức;\nđ) Một ủy viên kiêm Thư ký Hội đồng là người đại diện bộ phận làm công tác\ntổ chức cán bộ của cơ quan, tổ chức, đơn vị có thẩm quyền xử lý kỷ luật viên chức.\n3 Không được cử người có quan hệ gia đình như cha, mẹ, con được pháp luật\nthừa nhận và vợ, chồng, anh, chị; em ruột, dâu (rể) hoặc người có liên quan đến\nhành vi vi phạm pháp luật của viên chức bị xem xét xử lý kỷ luật tham gia thành\nviên Hội đồng kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 18",
+      "heading": "Tổ chức họp Hội đồng kỷ luật",
+      "text": "Điều 18. Tổ chức họp Hội đồng kỷ luật\n1. Chuẩn bị họp:\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\na) Chậm nhất là 03 ngày làm việc trước cuộc họp của Hội đồng kỷ luật, giấy\ntriệu tập họp phải được gửi tới viên chức có hành vi vi phạm pháp luật. Viên chức\ncó hành vi vi phạm pháp luật vắng mặt phải có lý do chính đáng. Trường hợp viên\nchức có hành vi vi phạm pháp luật vắng mặt sau 02 lần gửi giấy triệu tập thì đến\nlần thứ 03 sau khi đã gửi giấy triệu tập, nếu viên chức đó vẫn vắng mặt thì Hội\nđồng kỷ luật vẫn họp xem xét và kiến nghị hình thức kỷ luật;\nb) Hội đồng kỷ luật có thể mời đại diện của tổ chức chính trị, tổ chức chính\ntrị xã hội của đơn vị có viên chức vi phạm kỷ luật dự họp. Người được mời dự\nhọp có quyền phát biểu ý kiến và đề xuất hình thức kỷ luật nhưng không được\nbỏ phiếu về hình thức kỷ luật;\nc) Ủy viên kiêm Thư ký Hội đồng kỷ luật có nhiệm vụ chuẩn bị tài liệu, hồ sơ\nliên quan đến việc xử lý kỷ luật, ghi biên bản cuộc họp của Hội đồng kỷ luật; 1\nd) Hồ sơ xử lý kỷ luật trình Hội đồng kỷ luật gồm: bản tự kiểm điểm; trích 1\nngang sơ yếu lý lịch của viên chức có hành vi vi phạm pháp luật; biên bản cuộc\nhọp kiểm điểm viên chức và các tài liệu khác có liên quan.\n2. Trình tự họp:\na) Chủ tịch Hội đồng kỷ luật tuyên bố lý do, giới thiệu các thành viên tham dự; A\nb) Ủy viên kiêm Thư ký Hội đồng kỷ luật đọc trích ngang sơ yếu lý lịch của\nviên chức có hành vi vi phạm pháp luật và các tài liệu khác có liên quan; 8 g\nc) Viên chức có hành vi vi phạm pháp luật đọc bản tự kiểm điểm, nếu viên 1\nchức có hành vi vi phạm pháp luật vắng mặt thì Thư ký Hội đồng kỷ luật đọc thay.\nNếu viên chức có hành vi vi phạm pháp luật không làm bản tự kiểm điểm thì Hội\nđồng kỷ luật tiến hành các trình tự còn lại của cuộc họp quy định tại khoản này;\nd) Ủy viên kiêm Thư ký Hội đồng kỷ luật đọc biên bản cuộc họp kiểm điểm; P\nđ) Các thành viên Hội đồng kỷ luật và người tham dự cuộc họp thảo luận và 1\nphát biểu ý kiến;\ne) Viên chức có hành vi vi phạm pháp luật phát biểu ý kiến; nếu viên chức có\nhành vi vi phạm pháp luật không phát biểu ý kiến hoặc vắng mặt thì Hội đồng kỷ\nluật tiến hành các trình tự còn lại của cuộc họp quy định tại khoản này;\ng) Hội đồng kỷ luật bỏ phiếu kín kiến nghị áp dụng hình thức kỷ luật;\nh) Chủ tịch Hội đồng kỷ luật công bố kết quả bỏ phiếu kín và thông qua biên\nbản cuộc họp;\ni) Chủ tịch Hội đồng kỷ luật và ủy viên kiêm Thư ký Hội đồng kỷ luật có trách\nnhiệm ký biên bản cuộc họp.\n3 Trường hợp có từ 02 viên chức trở lên trong cùng đơn vị có hành vi vi phạm\npháp luật thì Hội đồng kỷ luật họp để tiến hành xem xét xử lý kỷ luật đối với từng\nviên chức.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 19",
+      "heading": "Quyết định kỷ luật",
+      "text": "Điều 19. Quyết định kỷ luật\n1. Trình tự ra quyết định kỷ luật:\n\n12 CÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\na) Trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc cuộc họp; Hội đồng kỷ\nluật phải có kiến nghị việc xử lý kỷ luật bằng văn bản (kèm theo biên bản họp Hội\nđồng kỷ luật và hồ sơ xử lý kỷ luật) gửi người có thẩm quyền xử lý kỷ luật quy\nđịnh tại Điều 14 của Nghị định này;\nb) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản kiến\nnghị của Hội đồng kỷ luật, người có thẩm quyền xử lý kỷ luật ra quyết định kỷ\nluật hoặc kết luận viên chức không vi phạm pháp luật và chịu trách nhiệm về\nquyết định của mình;\nc) Trường hợp vi phạm của viên chức có tình tiết phức tạp thì người có thẩm\nquyền xử lý kỷ luật quyết định kéo dài thời hạn xử lý kỷ luật theo quy định tại\nkhoản 2 Điều 8 Nghị định này và chịu trách nhiệm về quyết định của mình; 9\nd) Trường hợp viên chức có hành vi vi phạm pháp luật bị Tòa án kết án phạt tù |\nmà không được hưởng án treo hoặc bị Tòa án kết án về hành vi tham nhũng, trong\nthời hạn 15 ngày làm việc, kể từ ngày nhận được quyết định, bản án có hiệu lực\npháp luật của Tòa án thì người có thẩm quyền xử lý kỷ luật có trách nhiệm ra\nquyết định kỷ luật buộc thôi việc đối với viên chức vi phạm pháp luật.\n2 Quyết định kỷ luật phải ghi rõ thời điểm có hiệu lực thi hành. 1\n3. Sau 12 tháng; kể từ ngày quyết định kỷ luật có hiệu lực; nếu viên chức 1 g\nkhông tiếp tục có hành vi vi phạm pháp luật đến mức phải xử lý kỷ luật thì đương 1\nnhiên chấm dứt hiệu lực của quyết định kỷ luật.\nTrường hợp viên chức tiếp tục có hành vi vi phạm pháp luật trong thời gian\nđang thi hành quyết định kỷ luật thì quyết định kỷ luật đang thi hành chấm dứt P\nhiệu lực kể từ thời điểm quyết định kỷ luật đối với hành vi vi phạm pháp luật mới\ncó hiệu lực. 8\n4 Các tài liệu liên quan đến việc xử lý kỷ luật và quyết định kỷ luật phải được (\nlưu giữ trong hồ sơ viên chức. Hình thức kỷ luật phải ghi vào lý lịch của viên chức. 5",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 20",
+      "heading": "Khiếu nại",
+      "text": "Điều 20. Khiếu nại\nViên chức bị xử lý kỷ luật có quyền khiếu nại đối với quyết định kỷ luật theo\nquy định của pháp luật về khiếu nại.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 21",
+      "heading": "Các quy định liên quan khi xem xét xử lý kỷ luật",
+      "text": "Điều 21. Các quy định liên quan khi xem xét xử lý kỷ luật\n1 . Trường hợp viên chức đang làm thủ tục hưởng chế độ hưu trí mà bị phát\nhiện có hành vi vi phạm pháp luật trong thời gian thi hành nhiệm vụ thì đơn vị sự\nnghiệp công lập dừng việc giải quyết thủ tục hưởng chế độ hưu trí cho đến thời\nđiểm có quyết định kỷ luật hoặc có kết luận viên chức không vi phạm pháp luật\ncủa người có thẩm quyền xử lý kỷ luật.\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012 13\n2 Trường hợp Hội đồng kỷ luật đã có văn bản kiến nghị về việc xử lý kỷ luật\nnhưng chưa ra quyết định kỷ luật mà phát hiện thêm các tình tiết liên quan đến vi\nphạm kỷ luật hoặc phát hiện viên chức bị xem xét xử lý kỷ luật có hành vi vi phạm\npháp luật khác thì Hội đồng kỷ luật xem xét kiến nghị lại hình thức kỷ luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 22",
+      "heading": "Các quy định liên quan đến việc thi hành quyết định kỷ luật",
+      "text": "Điều 22. Các quy định liên quan đến việc thi hành quyết định kỷ luật\n1 Viên chức bị xử lý kỷ luật buộc thôi việc:\na) Viên chức bị xử lý kỷ luật buộc thôi việc thì không được hưởng chế độ thôi\nviệc nhưng được cơ quan bảo hiểm xã hội xác nhận thời gian làm việc đã đóng bảo\nhiểm xã hội để thực hiện chế độ bảo hiểm xã hội theo quy định của pháp luật;\nb) Đơn vị sự nghiệp công lập có thẩm quyền quản lý viên chức lưu giữ hồ sơ\nviên chức bị xử lý kỷ luật buộc thôi việc có trách nhiệm cung cấp bản sao hồ sơ lý 9\nlịch và nhận xét quá trình công tác (có xác nhận) khi viên chức bị xử lý kỷ luật có 1\nnhu cầu.\n2 Quyết định xử lý kỷ luật đối với viên chức đã được cơ quan, tổ chức; đơn vị\ncó thẩm quyền hoặc Tòa án kết luận là bị oan; sai thì chậm nhất là 10 ngày làm\nviệc kể từ ngày có văn bản kết luận của cơ quan; tổ chức, đơn vị có thẩm quyền 5\nhoặc từ ngày quyết định của Tòa án có hiệu lực, người đứng đầu đơn vị sự nghiệp A\ncông lập quản lý viên chức có trách nhiệm công bố công khai tại đơn vị nơi viên\nchức đang công tác . 8 g\n3 Viên chức bị xử lý kỷ luật bằng hình thức cách chức, buộc thôi việc, sau đó 1\nđược cơ quan; tổ chức, đơn vị có thẩm quyền hoặc Tòa án kết luận là oan, sai mà\nvị trí công tác cũ đã bố trí người khác thay thế, thì người đứng đầu đơn vị sự\nnghiệp công lập có thẩm quyền có trách nhiệm bố trí vào vị trí công tác, chức vụ\nquản lý phù hợp. P\n4 Trường hợp cơ quan, tổ chức, đơn vị có thẩm quyền giải quyết khiếu nại, tố 1\ncáo kết luận xử lý kỷ luật viên chức tiến hành không đúng quy định về áp dụng\nhình thức kỷ luật, trình tự, thủ tục và thẩm quyền xử lý kỷ luật thì người có thẩm\nquyền đã ký quyết định kỷ luật phải ra quyết định hủy bỏ quyết định xử lý kỷ luật;\nđồng thời đơn vị sự nghiệp công lập có thẩm quyền xử lý kỷ luật phải tiến hành\nxem xét xử lý kỷ luật viên chức theo đúng quy định tại Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 23",
+      "heading": "Chế độ, chính sách đối với viên chức đang trong thời gian tạm",
+      "text": "Điều 23. Chế độ, chính sách đối với viên chức đang trong thời gian tạm\ngiữ; tạm giam và tạm đình chỉ công tác\n1. Trong thời gian tạm giữ, tạm giam để phục vụ cho công tác điều tra, truy tố,\nxét xử hoặc tạm đình chỉ công tác để xem xét xử lý kỷ luật thì viên chức được\nhưởng 50% của mức lương hiện hưởng; cộng với phụ cấp chức vụ; phụ cấp thâm\nniên vượt khung; phụ cấp thâm niên nghề\n2 Trường hợp viên chức không bị xử lý kỷ luật hoặc được kết luận là oan; sai\nthì được truy lĩnh 50% còn lại của mức lương hiện hưởng, cộng với phụ cấp chức\nvụ, phụ cấp thâm niên vượt khung. phụ cấp thâm niên nghề trong thời gian tạm\nđình chỉ công tác hoặc bị tạm giữ, tạm giam.\n\n14 CÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\n3 . Trường hợp viên chức bị xử lý kỷ luật hoặc bị Tòa án tuyên là có tội thì\nkhông được truy lĩnh 50% còn lại của mức lương hiện hưởng, cộng với phụ cấp\nchức vụ, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề trong thời gian\ntạm đình chỉ công tác hoặc bị tạm giữ, tạm giam.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 24",
+      "heading": "Các trường hợp xử lý trách nhiệm bồi thường, hoàn trả 1",
+      "text": "Điều 24. Các trường hợp xử lý trách nhiệm bồi thường, hoàn trả 1\n1. Viên chức làm mất, hư hỏng trang bị, thiết bị hoặc có hành vi khác gây hại\ntài sản của đơn vị sự nghiệp công lập thì phải có nghĩa vụ bồi thường theo quy\nđịnh tại Nghị định này .\n2 Viên chức khi thực hiện công việc hoặc nhiệm vụ được phân công có lỗi gây\nthiệt hại cho người khác thì đơn vị sự nghiệp công lập phải bồi thường thiệt hại do\nviên chức thuộc quyền quản lý gây ra theo quy định của pháp luật dân sự về trách\nnhiệm bồi thường thiệt hại ngoài hợp đồng. Viên chức có lỗi gây thiệt hại cho g\nngười khác mà đơn vị sự nghiệp công lập đã bồi thường phải có nghĩa vụ hoàn trả 8 1\ncho đơn vị sự nghiệp công lập theo quy định tại Nghị định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 25",
+      "heading": "Nguyên tắc xử lý trách nhiệm bồi thường, hoàn trả",
+      "text": "Điều 25. Nguyên tắc xử lý trách nhiệm bồi thường, hoàn trả\n1. Phải căn cứ vào lỗi, tính chất của hành vi gây thiệt hại, mức độ thiệt hại tài P\nsản thực tế gây ra để quyết định mức và phương thức bồi thường thiệt hại, hoàn trả\ncho đơn vị, bảo đảm khách quan, công bằng và công khai. 1\n2 Viên chức gây ra thiệt hại có trách nhiệm bồi thường; hoàn trả theo quyết\nđịnh của người đứng đầu đơn vị sự nghiệp công lập hoặc cấp có thẩm quyền: Nếu\nviên chức không đủ khả năng bồi thường một lần thì bị trừ 20% (hai mươi phần\ntrăm) tiền lương hàng tháng cho đến khi bồi thường đủ theo quyết định của người\ncó thẩm quyền.\n3 Trường hợp viên chức gây thiệt hại thuyên chuyển công tác, nghỉ hưu hay\nthôi việc thì phải hoàn thành việc bồi thường; hoàn trả trước khi thuyên chuyển;\nnghỉ hưu hay thôi việc; nếu không đủ khả năng bồi thường, hoàn trả thì đơn vị sự\nnghiệp công lập quản lý viên chức có trách nhiệm phối hợp với cơ quan, tổ chức,\nđơn vị mới hoặc chính quyền địa phương nơi viên chức cư trú tiếp tục thu tiền bồi\nthường, hoàn trả cho đến khi thu đủ theo quyết định của người có thẩm quyền:\nNếu đơn vị sự nghiệp công lập quản lý viên chức gây ra thiệt hại bị giải thể,\nsáp nhập thì cơ quan, tổ chức, đơn vị kế thừa đơn vị bị giải thể, sáp nhập có trách\nnhiệm tiếp tục thu tiền bồi thường, hoàn trả cho đến khi thu đủ theo quyết định của\nngười có thẩm quyền.\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012 15\nTrường hợp viên chức gây ra thiệt hại bị phạt tù mà không được hưởng án treo\nthì cơ quan thi hành án có trách nhiệm thu tiền bồi thường; hoàn trả theo quyết\nđịnh của bản án, quyết định có hiệu lực của Tòa án.\n4 Trường hợp có từ 02 viên chức trở lên cùng làm mất mát, hư hỏng hoặc gây\nthiệt hại đến tài sản của đơn vị sự nghiệp công lập hoặc gây thiệt hại cho người\nkhác mà đơn vị sự nghiệp công lập phải bồi thường thì các viên chức đó đều phải\nliên đới chịu trách nhiệm bồi thường, hoàn trả trên cơ sở mức độ thiệt hại tài sản\nthực tế và mức độ lỗi của mỗi người.\n5. Tài sản bị mất mát, hư hỏng, thiệt hại do lỗi cố ý của viên chức thì viên chức\nphải bồi thường; hoàn trả toàn bộ giá trị thiệt hại gây ra. Nếu tài sản bị mất mát, hư\nhỏng, thiệt hại do lỗi vô ý của viên chức thì căn cứ vào từng trường hợp cụ thể\nngười đứng đầu đơn vị sự nghiệp công lập quyết định mức và phương thức bồi 1\nthường, hoàn trả.\n6. Trường hợp viên chức ngay sau khi gây ra thiệt hại có đơn xin tự\nnguyện bồi thường, hoàn trả thiệt hại và được người đứng đầu đơn vị sự\nnghiệp công lập có thẩm quyền đồng ý bằng văn bản về mức, phương thức và\nthời hạn bồi thường, hoàn trả thì không phải thành lập Hội đồng xử lý trách\nnhiệm bồi thường theo quy định tại Điều 27 hoặc Hội đồng xử lý trách nhiệm A\nhoàn trả theo quy định tại Điều 32 Nghị định này.\n7 Trường hợp thiệt hại xảy ra do nguyên nhân bất khả kháng thì viên chức liên g\nquan không phải chịu trách nhiệm bồi thường, hoàn trả 8 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 26",
+      "heading": "Xác định giá trị tài sản bị thiệt hại 1",
+      "text": "Điều 26. Xác định giá trị tài sản bị thiệt hại 1\n1 Khi phát hiện viên chức có hành vi làm mất, hư hỏng trang bị, thiết bị hoặc\ncó hành vi khác gây thiệt hại tài sản của đơn vị sự nghiệp công lập thì đơn vị sự\nnghiệp công lập quản lý viên chức phải tổ chức xác minh, sơ bộ đánh giá thiệt hại\nvà lập biên bản về nội dung vụ việc để làm căn cứ xem xét, xử lý trách nhiệm bồi\nthường đối với viên chức.\n2 Giá trị tài sản bị thiệt hại được xác định trên cơ sở giá trị thực tế của tài sản\n(tính theo giá thị trường tại thời điểm xảy ra hư hỏng; mất mát, thiệt hại), trừ đi giá\ntrị còn lại của tài sản (nếu có) tại thời điểm xảy ra hư hỏng; mất mát, thiệt hại.\n3 Đơn vị sự nghiệp công lập quản lý viên chức yêu cầu viên chức gây ra thiệt\nhại viết bản tường trình về vụ việc. đề xuất hướng giải quyết: đồng thời, chuẩn bị\nthành lập Hội đồng xử lý trách nhiệm bồi thường theo quy định tại Điều 27 Nghị\nđịnh này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 27",
+      "heading": "Hội đồng xử lý trách nhiệm bồi thường",
+      "text": "Điều 27. Hội đồng xử lý trách nhiệm bồi thường\n1 Người đứng đầu đơn vị sự nghiệp công lập quản lý viên chức phải thành lập\nHội đồng xử lý trách nhiệm bồi thường để xem xét giải quyết việc bồi thường\n\n16 CÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\ntrong thời hạn 15 ngày làm việc, kể từ ngày phát hiện viên chức gây thiệt hại tài\nsản của đơn vị\n2. Thành phần Hội đồng xử lý trách nhiệm bồi thường có 05 thành viên, bao gồm:\na) Người đứng đầu hoặc cấp phó của người đứng đầu đơn vị sự nghiệp công\nlập làm Chủ tịch Hội đồng;\nb) Một ủy viên Hội đồng là đại diện Ban chấp hành công đoàn của đơn vị sự\nnghiệp công lập;\nc) Một ủy viên Hội đồng là người trực tiếp quản lý hành chính và chuyên môn,\nnghiệp vụ của viên chức phải bồi thường;\nd) Một ủy viên Hội đồng là chuyên gia về lĩnh vực có liên quan đến việc xác\nđịnh mức độ thiệt hại do đơn vị sự nghiệp công lập mời; 1\nđ) Một ủy viên kiêm Thư ký Hội đồng là đại diện bộ phận tài chính kế toán 1\ncủa đơn vị sự nghiệp công lập.\n3 Trường hợp viên chức quản lý gây ra thiệt hại thì người đứng đầu cơ quan,\ntổ chức, đơn vị cấp trên trực tiếp quyết định thành lập Hội đồng xử lý trách nhiệm\nbồi thường theo quy định tại khoản 1 Điều này. Chủ tịch Hội đồng là người đứng\nđầu hoặc cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị cấp trên trực tiếp A\ncủa viên chức gây ra thiệt hại. 3 g\n4 Không được cử người có quan hệ gia đình như cha, mẹ, con được pháp luật\nthừa nhận và vợ, chồng, anh, chị, em ruột, dâu (rể) hoặc người có liên quan đến 1\nviên chức đã gây thiệt hại tham gia Hội đồng xử lý trách nhiệm bồi thường:",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 28",
+      "heading": "Nhiệm vụ và nguyên tắc hoạt động của Hội đồng xử lý trách",
+      "text": "Điều 28. Nhiệm vụ và nguyên tắc hoạt động của Hội đồng xử lý trách\nnhiệm bồi thường P\n1. Hội đồng xử lý trách nhiệm bồi thường có các nhiệm vụ:\na) Xem xét, đánh giá tính chất của hành vi gây thiệt hại; mức độ thiệt hại; 8\n( 5\nb) Xác định trách nhiệm của viên chức gây ra thiệt hại và viên chức có liên quan;\nc) Kiến nghị với người đứng đầu đơn vị sự nghiệp công lập hoặc cấp có thẩm\nquyền về mức và phương thức bồi thường;\nd) Trường hợp Hội đồng phát hiện hành vi của viên chức gây ra thiệt hại vật\nchất có dấu hiệu cấu thành tội phạm thì Hội đồng kiến nghị với người có thẩm\nquyền chuyển hồ sơ đến cơ quan chức năng để xử lý theo quy định của pháp luật.\n2. Hội đồng xử lý trách nhiệm bồi thường hoạt động theo các nguyên tắc:\na) Hội đồng họp khi có đủ 03 thành viên trở lên tham dự, trong đó có Chủ tịch\nHội đồng và Thư ký Hội đồng;\nb) Trong quá trình thảo luận và quyết định, các thành viên Hội đồng phải công\nbằng; khách quan, dân chủ và tuân theo các quy định của pháp luật;\nc) Kiến nghị của Hội đồng về mức và phương thức bồi thường được thực hiện\nbằng hình thức bỏ phiếu kín theo nguyên tắc đa số;\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012 17\nd) Cuộc họp của Hội đồng phải có biên bản ghi ý kiến của các thành viên dự\nhọp và kết quả bỏ phiếu kiến nghị mức và phương thức bồi thường;\nđ) Các cuộc họp của Hội đồng phải có sự tham gia của viên chức gây ra thiệt\nhại. Trường hợp viên chức gây ra thiệt hại vắng mặt sau 02 lần được Hội đồng\ntriệu tập mà không có lý do chính đáng thì đến lần thứ 03, sau khi Hội đồng triệu\ntập, nếu viên chức đó tiếp tục vắng mặt thì Hội đồng vẫn họp và viên chức gây ra\nthiệt hại phải thi hành quyết định bồi thường thiệt hại:\n3. Hội đồng tự giải thể sau khi hoàn thành nhiệm vụ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 29",
+      "heading": "Hồ sơ xử lý",
+      "text": "Điều 29. Hồ sơ xử lý\n1. Khi xem xét; giải quyết việc bồi thường phải căn cứ vào hồ sơ xử lý trách\nnhiệm bồi thường của vụ việc; bao gồm: 9\na) Biên bản về vụ việc (hoặc văn bản kết luận của cơ quan có thẩm quyền); 1\nb) Các bản tường trình của viên chức gây thiệt hại và viên chức có liên quan;\nc) Hồ sơ kinh tế kỹ thuật (nếu có) của trang bị, thiết bị hoặc tài sản bị mất, hư\nhỏng hoặc thiệt hại;\nd) Biên bản đánh giá sơ bộ giá trị tài sản bị thiệt hại theo quy định tại khoản A\nĐiều 26 Nghị định này;\nđ) Các văn bản khác có liên quan (nếu có) is g\n2. Hồ sơ xử lý trách nhiệm bồi thường phải được gửi các thành viên Hội 1\nđồng xử lý trách nhiệm bồi thường trước khi họp Hội đồng 05 ngày làm việc\nđể nghiên cứu:.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 30",
+      "heading": "Trình tự họp Hội đồng xử lý trách nhiệm bồi thường P",
+      "text": "Điều 30. Trình tự họp Hội đồng xử lý trách nhiệm bồi thường P\n1 Hội đồng xử lý trách nhiệm bồi thường họp xem xét giải quyết việc bồi\nthường theo trình tự sau: 1\na) Chủ tịch Hội đồng công bố thành phần tham gia;\nb) Ủy viên kiêm Thư ký Hội đồng báo cáo về hành vi gây thiệt hại của viên\nchức và mức bồi thường thiệt hại;\nc) Hội đồng nghe giải trình của viên chức phải bồi thường và nghe ý kiến của\ncác thành viên Hội đồng;\nd) Hội đồng thảo luận và bỏ phiếu kín về mức và phương thức bồi thường;\nđ) Chủ tịch Hội đồng công bố kết quả bỏ phiếu kín và thông qua biên bản\ncuộc họp;\ne) Chủ tịch Hội đồng và Ủy viên kiêm Thư ký Hội đồng ký vào biên bản\ncuộc họp.\n2. Trong thời hạn 05 ngày làm việc, kể từ ngày Hội đồng xử lý trách nhiệm bồi\nthường bỏ phiếu thông qua mức và phương thức bồi thường; Chủ tịch Hội đồng\nphải lập hồ sơ cuộc họp và gửi tới người đứng đầu đơn vị sự nghiệp công lập hoặc\ncấp có thẩm quyền xem xét, quyết định.\n\n18 CÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\n3. Trường hợp không đồng ý với mức bồi thường thiệt hại do Hội đồng xử lý\ntrách nhiệm bồi thường đã bỏ phiếu thông qua thì viên chức gây ra thiệt hại và viên\nchức có liên quan có thể yêu cầu Hội đồng xử lý trách nhiệm bồi thường thuê\nchuyên gia, tổ chức thẩm định. Chi phí thuê chuyên gia; tổ chức thẩm định do viên\nchức có yêu cầu trả.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 31",
+      "heading": "Xác định trách nhiệm hoàn trả",
+      "text": "Điều 31. Xác định trách nhiệm hoàn trả\n1 Khi viên chức có hành vi gây thiệt hại cho người khác trong khi thực hiện\ncông việc hoặc nhiệm vụ được phân công mà đơn vị sự nghiệp công lập đã bồi 9\nthường thì người đứng đầu đơn vị sự nghiệp công lập quản lý viên chức yêu cầu 1\nviên chức gây ra thiệt hại viết bản tường trình về vụ việc, đề xuất hướng giải quyết.\n2 Trách nhiệm hoàn trả của viên chức được xác định trên cơ sở số tiền mà đơn\nvị sự nghiệp công lập đã bồi thường cho người bị thiệt hại do viên chức gây ra\ntrong khi thực hiện công việc hoặc nhiệm vụ được phân công theo quy định của\npháp luật. A",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 32",
+      "heading": "Hội đồng xử lý trách nhiệm hoàn trả",
+      "text": "Điều 32. Hội đồng xử lý trách nhiệm hoàn trả\n1 Người đứng đầu đơn vị sự nghiệp công lập quản lý viên chức phải thành lập g\nHội đồng xử lý trách nhiệm hoàn trả để xem xét giải quyết việc hoàn trả trong thời 1\nhạn 15 ngày làm việc, kể từ ngày đơn vị sự nghiệp công lập thực hiện xong việc\nchi trả tiền bồi thường.\n2. Thành phần Hội đồng xử lý trách nhiệm hoàn trả gồm:\na) Người đứng đầu hoặc cấp phó của người đứng đầu đơn vị sự nghiệp công P\nlập làm Chủ tịch Hội đồng;\nb) Một ủy viên Hội đồng là đại diện Ban chấp hành công đoàn của đơn vị sự 1\nnghiệp công lập;\nc) Một ủy viên kiêm Thư ký Hội đồng là đại diện bộ phận tài chính kế toán\ncủa đơn vị sự nghiệp công lập.\n3 Trường hợp viên chức quản lý gây ra thiệt hại thì người đứng đầu cơ quan\ntổ chức, đơn vị cấp trên trực tiếp quyết định thành lập Hội đồng xử lý trách nhiệm\nbồi thường, hoàn trả theo quy định tại khoản 1 Điều này. Chủ tịch Hội đồng là\nngười đứng đầu hoặc cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị cấp\ntrên trực tiếp của viên chức gây ra thiệt hại.\n4 Không được cử người có quan hệ gia đình như cha, mẹ, con được pháp luật\nthừa nhận và vợ, chồng, anh, chị, em ruột; dâu (rể) hoặc người có liên quan đến\nviên chức đã gây ra thiệt hại tham gia Hội đồng xử lý trách nhiệm hoàn trả.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 33",
+      "heading": "Nhiệm vụ và nguyên tắc hoạt động của Hội đồng xử lý trách",
+      "text": "Điều 33. Nhiệm vụ và nguyên tắc hoạt động của Hội đồng xử lý trách\nnhiệm hoàn trả\n1. Hội đồng xử lý trách nhiệm hoàn trả có các nhiệm vụ:\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012 19\na) Xem xét, đánh giá tính chất của hành vi gây thiệt hại; mức độ thiệt hại;\nb) Xác định trách nhiệm của viên chức gây ra thiệt hại;\nc) Kiến nghị với người đứng đầu đơn vị sự nghiệp công lập hoặc cấp có thẩm\nquyền về mức và phương thức hoàn trả.\n2 Hội đồng xử lý trách nhiệm hoàn trả hoạt động theo các nguyên tắc:\na) Hội đồng chỉ họp khi có đầy đủ các thành viên Hội đồng;\nb) Trong quá trình thảo luận và quyết định, các thành viên Hội đồng phải công\nbằng; khách quan; dân chủ và tuân thủ theo các quy định của pháp luật;\nc) Kiến nghị của Hội đồng về mức và phương thức hoàn trả được thực hiện\nbằng hình thức bỏ phiếu kín và theo nguyên tắc đa số;\nd) Cuộc họp của Hội đồng phải có biên bản ghi ý kiến của các thành viên dự 9\nhọp và kết quả bỏ phiếu kiến nghị mức và phương thức hoàn trả; 1\nđ) Các cuộc họp của Hội đồng phải có sự tham gia của viên chức gây ra thiệt\nhại. Trường hợp viên chức gây ra thiệt hại vắng mặt sau 02 lần được Hội đồng\ntriệu tập mà không có lý do chính đáng thì đến lần thứ 03, sau khi Hội đồng triệu\ntập, nếu viên chức đó tiếp tục vắng mặt thì Hội đồng vẫn họp và viên chức gây ra\nthiệt hại phải thi hành quyết định. A\n3. Hội đồng xử lý trách nhiệm hoàn trả tự giải thể sau khi hoàn thành nhiệm vụ: h",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 34",
+      "heading": "Hồ sơ xử lý g",
+      "text": "Điều 34. Hồ sơ xử lý g\n1 Khi xem xét, xử lý trách nhiệm hoàn trả của viên chức phải căn cứ vào hồ 1\nsơ xử lý trách nhiệm hoàn trả, bao gồm:\na) Biên bản về vụ việc hoặc văn bản kết luận của cơ quan có thẩm quyền;\nb) Các bản tường trình của viên chức gây thiệt hại; P\nc) Văn bản; giấy tờ xác nhận số tiền đơn vị sự nghiệp công lập đã phải bồi thường; 1\nd) Các văn bản khác có liên quan (nếu có).\n2. Hồ sơ xử lý trách nhiệm hoàn trả phải được gửi tới các thành viên Hội đồng xử\nlý trách nhiệm hoàn trả trước khi họp Hội đồng 05 ngày làm việc để nghiên cứu.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 35",
+      "heading": "Trình tự họp Hội đồng xử lý trách nhiệm hoàn trả",
+      "text": "Điều 35. Trình tự họp Hội đồng xử lý trách nhiệm hoàn trả\n1. Hội đồng xử lý trách nhiệm hoàn trả họp xem xét giải quyết trách nhiệm\nhoàn trả theo trình tự sau:\na) Chủ tịch Hội đồng công bố thành phần tham gia;\nb) Ủy viên kiêm Thư ký Hội đồng báo cáo về hành vi gây thiệt hại của viên\nchức, số tiền đơn vị sự nghiệp đã phải bồi thường và mức hoàn trả;\nc) Hội đồng nghe giải trình của viên chức và nghe ý kiến của các thành viên\nHội đồng;\nd) Hội đồng thảo luận và bỏ phiếu kín về mức và phương thức hoàn trả;\nđ) Chủ tịch Hội đồng công bố kết quả bỏ phiếu kín và thông qua biên bản\ncuộc họp;\n\n20 CÔNG BÁO/Số 343 + 344/Ngày 23-04-2012\ne) Chủ tịch Hội đồng và Ủy viên kiêm Thư ký Hội đồng ký vào biên bản\ncuộc họp.\n2. Trong thời hạn 05 ngày làm việc, kể từ ngày Hội đồng xử lý trách nhiệm\nhoàn trả bỏ phiếu thông qua mức và phương thức hoàn trả, Chủ tịch Hội đồng phải\nlập hồ sơ cuộc họp và gửi tới người đứng đầu đơn vị sự nghiệp công lập hoặc cấp\ncó thẩm quyền xem xét, quyết định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 36",
+      "heading": "Quyết định bồi thường, hoàn trả",
+      "text": "Điều 36. Quyết định bồi thường, hoàn trả\n1. Căn cứ kiến nghị của Hội đồng xử lý trách nhiệm bồi thường, hoàn trả, 1\ntrong thời hạn 10 ngày làm việc, kể từ ngày nhận được kiến nghị, người đứng đầu\nđơn vị sự nghiệp công lập hoặc người đứng đầu cơ quan, tổ chức, đơn vị cấp trên\ntrực tiếp ra quyết định yêu cầu viên chức bồi thường thiệt hại hoặc hoàn trả; trong\nquyết định phải ghi rõ mức, phương thức và thời hạn bồi thường, hoàn trả.\n2. Nếu ý kiến của người đứng đầu đơn vị sự nghiệp công lập hoặc người đứng 1\nđầu cơ quan; tổ chức, đơn vị cấp trên trực tiếp khác với kiến nghị của Hội đồng xử\nlý trách nhiệm bồi thường, hoàn trả thì người đứng đầu đơn vị sự nghiệp công lập g\nhoặc người đứng đầu cơ quan; tổ chức, đơn vị cấp trên trực tiếp quyết định và chịu |\ntrách nhiệm trước pháp luật về quyết định đó. 8 1",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 37",
+      "heading": "Thu, nộp, quản lý và sử dụng tiền, tài sản bồi thường, hoàn trả",
+      "text": "Điều 37. Thu, nộp, quản lý và sử dụng tiền, tài sản bồi thường, hoàn trả\n1 Viên chức gây ra thiệt hại và các bộ phận chức năng của đơn vị sự nghiệp P\ncông lập có tài sản bị thiệt hại phải thực hiện đúng thời hạn, mức và phương thức\nbồi thường, hoàn trả ghi trong quyết định bồi thường thiệt hại hoặc quyết định 1\nhoàn trả.\n2. Đơn vị sự nghiệp công lập phải thu và nộp vào tài khoản của đơn vị tại Kho\nbạc Nhà nước số tiền bồi thường thiệt hại hoặc hoàn trả theo quy định của pháp luật.\n3. Số tiền hoặc tài sản bồi thường, hoàn trả của viên chức cho đơn vị sự nghiệp\ncông lập phải được theo dõi, quản lý và sử dụng theo đúng quy định của pháp luật.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 38",
+      "heading": "Khiếu nại",
+      "text": "Điều 38. Khiếu nại\nViên chức bị xử lý trách nhiệm bồi thường hoặc hoàn trả có quyền khiếu nại\nvề quyết định bồi thường, hoàn trả của người có thẩm quyền theo quy định của\npháp luật về khiếu nại .",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 39",
+      "heading": "Xử lý viên chức cố ý không thực hiện nghĩa vụ bồi thường; hoàn trả",
+      "text": "Điều 39. Xử lý viên chức cố ý không thực hiện nghĩa vụ bồi thường; hoàn trả\nViên chức không thực hiện đúng thời hạn; mức và phương thức bồi thường;\nhoàn trả ghi trong quyết định bồi thường thiệt hại hoặc quyết định hoàn trả, đã\nđược đơn vị sự nghiệp công lập có trách nhiệm thông báo đến lần thứ ba về việc\nbồi thường, hoàn trả mà cố ý không thực hiện nghĩa vụ bồi thường, hoàn trả thì bị\nxử lý theo quy định của pháp luật.\n\nCÔNG BÁO/Số 343 + 344/Ngày 23-04-2012 21",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 40",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 40. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành kể từ ngày 25 tháng 5 năm 2012.\n2 Bãi bỏ những quy định về xử lý kỷ luật đối với viên chức tại Nghị định số\n35/2005/NĐ-CP ngày 17 tháng 3 năm 2005 của Chính phủ về việc xử lý kỷ luật\ncán bộ, công chức; bãi bỏ những quy định về xử lý kỷ luật đối với viên chức tại\nNghị định số 103/2007/NĐ-CP ngày 14 tháng 6 năm 2007 của Chính phủ quy định\ntrách nhiệm của cán bộ, công chức, viên chức trong việc thực hành tiết kiệm;\nchống lãng phí và Nghị định số 107/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của\nChính phủ quy định xử lý trách nhiệm của người đứng đầu cơ quan, tổ chức, đơn 9\nvị khi để xảy ra tham nhũng trong cơ quan, tổ chức đơn vị do mình quản lý, phụ 1\ntrách trái với quy định tại Nghị định này; bãi bỏ những quy định về xử lý trách\nnhiệm vật chất đối với viên chức quy định tại Nghị định số 118/2006/NĐ-CP ngày\n10 tháng 10 năm 2006 của Chính phủ về xử lý trách nhiệm vật chất đối với cán bộ,\ncông chức.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 41",
+      "heading": "Trách nhiệm thi hành A",
+      "text": "Điều 41. Trách nhiệm thi hành A\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc g\nChính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương\nvà các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị 1\nđịnh này./.\nTM. CHÍNH PHỦ P",
+      "isImplementationClause": true
+    }
+  ]
+}

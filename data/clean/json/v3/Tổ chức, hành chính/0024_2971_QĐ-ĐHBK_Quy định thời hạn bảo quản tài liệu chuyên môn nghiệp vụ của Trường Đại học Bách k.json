@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0024_2971_QĐ-ĐHBK_Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách k.txt",
+  "mappedBy": "gemini-web",
+  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2971/QĐ-ĐHBK",
+    "title": "Quyết định Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "26/12/2018",
+    "effectiveDate": "26/12/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Văn thư, lưu trữ"
+    ],
+    "summary": "Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ hình thành tại các đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng, áp dụng cho các Khoa, Phòng, Tổ trực thuộc, Viện, Trung tâm của Trường.",
+    "idOverride": null,
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ]
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "01/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ Quy định chi tiết thi hành một số điều của Luật Lưu trữ;"
+    },
+    {
+      "targetDocumentNumber": "09/2011/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2011/TT-BNV ngày 03/6/2011 của Bộ Nội vụ Quy định về thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của các cơ quan, tổ chức;"
+    },
+    {
+      "targetDocumentNumber": "27/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 27/2016/TT-BGDĐT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Bộ Nội vụ",
+    "Phòng Tổ chức - Hành chính",
+    "Khoa",
+    "Phòng",
+    "Tổ trực thuộc",
+    "Viện Khoa học Công nghệ Bách khoa Đà Nẵng",
+    "Trung tâm",
+    "Phòng Thanh tra - Pháp chế",
+    "Phòng Đào tạo",
+    "Phòng KHCN&HTQT",
+    "Phòng TTPC",
+    "KT&ĐBCLGD",
+    "HĐTS",
+    "TTHLTT",
+    "P.KT&ĐBCLGD",
+    "P.CTSV",
+    "KHTC",
+    "VPĐU",
+    "TTHTSV&QHDN",
+    "Tổ Y tế",
+    "CSVC",
+    "TTHL&TT"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi và đối tượng áp dụng\n1. Quy định này cụ thể hóa Thông tư 27/2016/TT-BGDĐT ngày 30/12/2016 của Bộ Giáo dục và Đào tạo về việc quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng.\n2. Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng (sau đây gọi chung là đơn vị).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 2. Tài liệu chuyên môn nghiệp vụ của đơn vị\n1. Tài liệu chuyên môn nghiệp vụ là vật mang tin hình thành trong quá trình giải quyết công việc để phục vụ cho hoạt động chuyên môn nghiệp vụ về giáo dục và đào tạo của đơn vị.\nTài liệu chuyên môn nghiệp vụ của đơn vị gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh; tài liệu điện tử và các vật mang tin khác.\n2. Hồ sơ chuyên môn nghiệp vụ của đơn vị là một tập tài liệu chuyên môn nghiệp vụ có liên quan với nhau về một vấn đề, một sự việc, một đối tượng cụ thể hoặc có đặc điểm chung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Các nhóm tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 3. Các nhóm tài liệu chuyên môn nghiệp vụ của đơn vị\nNhóm I. Tài liệu chung về giáo dục và đào tạo\nNhóm II. Tài liệu về đào tạo đại học, thạc sĩ, tiến sĩ; nghiên cứu khoa học\nNhóm III. Tài liệu về kiểm định chất lượng giáo dục\nNhóm IV. Tài liệu về văn bằng, chứng chỉ\nNhóm V. Tài liệu về học phí, học bổng, chính sách hỗ trợ người học\nNhóm VI. Tài liệu về công tác học sinh, sinh viên\nNhóm VII. Tài liệu về đào tạo với nước ngoài\nNhóm VIII. Tài liệu về công tác nhà giáo, cán bộ quản lý cơ sở giáo dục\nNhóm IX. Tài liệu về cơ sở vật chất, thiết bị trường học\nNhóm X. Tài liệu về công nghệ thông tin trong quản lý giáo dục, dạy và học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 4. Thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị\n1. Thời hạn bảo quản hồ sơ, tài liệu chuyên môn nghiệp vụ của đơn vị là khoảng thời gian cần thiết để lưu giữ hồ sơ, tài liệu tính từ năm công việc kết thúc. Thời hạn bảo quản hồ sơ, tài liệu gồm hai mức sau:\na) Bảo quản vĩnh viễn: Hồ sơ, tài liệu thuộc mức này được lưu giữ cho đến khi tài liệu tự hủy hoại và không thể phục chế.\nb) Bảo quản có thời hạn: Hồ sơ, tài liệu thuộc mức này được lưu giữ với thời hạn tính bằng số năm cụ thể hoặc khoảng thời gian nhất định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguyên tắc bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 5. Nguyên tắc bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị\n1. Tài liệu bảo quản bao gồm bản gốc, bản chính hoặc bản sao hợp pháp trong trường hợp không còn bản gốc, bản chính.\n2. Mức xác định thời hạn bảo quản cho mỗi hồ sơ, tài liệu cụ thể của đơn vị không được thấp hơn mức quy định (tại Bảng thời hạn bảo quản).\n3. Khi lựa chọn tài liệu giao nộp vào Lưu trữ lịch sử, đơn vị phải xem xét mức độ đầy đủ của tài liệu, đồng thời lưu ý đến những giai đoạn, thời điểm lịch sử để có thể nâng thời hạn bảo quản của tài liệu lên cao hơn so với mức quy định.\n4. Đối với hồ sơ, tài liệu đã hết thời hạn bảo quản, Hội đồng xác định giá trị tài liệu của cơ quan, đơn vị xem xét, đánh giá để tiêu hủy theo quy định của pháp luật hoặc kéo dài thêm thời hạn bảo quản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức lưu trữ, bảo quản tài liệu",
+          "text": "Điều 6. Tổ chức lưu trữ, bảo quản tài liệu\n1. Tổ chức lưu trữ, bảo quản tài liệu tại các đơn vị\n- Lưu trữ: gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh, văn bản điện tử được hình thành trong quá trình giải quyết công việc chuyên môn nghiệp vụ của đơn vị.\n- Bảo quản: được bảo quản tại văn phòng, kho lưu trữ của đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.\n2. Tổ chức lưu trữ, bảo quản tài liệu tại kho lưu trữ của Trường.\n- Lưu trữ: gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh; văn bản điện tử, được hình thành trong quá trình giải quyết công việc chuyên môn nghiệp vụ của Nhà trường.\n- Bảo quản: được bảo quản tại bộ phận Văn thư Phòng Tổ chức - Hành chính, kho lưu trữ, Phòng truyền thống của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Hiệu lực và trách nhiệm thi hành",
+          "text": "Điều 7. Hiệu lực và trách nhiệm thi hành\n1. Quy định này có hiệu lực thi hành kể từ ngày ký.\n2. Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quy định này.\n3. Phòng Thanh tra - Pháp chế có trách nhiệm giúp Hiệu trưởng Nhà trường kiểm tra, giám sát việc thực hiện Quy định này./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ hình thành tại các đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ hình thành tại các đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 2. Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quyết định này./.",
+      "text": "Điều 3. Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quyết định này./.",
+      "isImplementationClause": false
+    }
+  ]
+}

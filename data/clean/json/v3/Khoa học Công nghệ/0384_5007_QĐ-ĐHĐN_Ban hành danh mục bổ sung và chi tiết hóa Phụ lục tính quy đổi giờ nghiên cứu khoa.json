@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0384_5007_QĐ-ĐHĐN_Ban hành danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "5007/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng cho các đơn vị thuộc, trực thuộc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/12/2024",
+    "effectiveDate": "05/12/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng kèm theo Quyết định số 3237/QĐ-ĐHĐN. Bãi bỏ một số mục của Bảng 3 trong phụ lục cũ. Quyết định có hiệu lực từ ngày ký và áp dụng từ năm học 2024-2025.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 4 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chế độ làm việc của giảng viên cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4766/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3237/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3237/QĐ-ĐHĐN ngày 31 tháng 7 năm 2023 của Giám đốc Đại học Đà Nẵng ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "639/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "quy định trong Quyết định số 639/QĐ-ĐHĐN ngày 3/2/2021 của Giám đốc ĐHĐN về việc quy định tên giao dịch tiếng Anh của Đại học Đà Nẵng, các trường ĐHTV, các đơn vị thuộc và trực thuộc, các chức danh lãnh đạo trong Đại học Đà Nẵng"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Cục Sở hữu trí tuệ",
+    "Hội đồng Giáo sư nhà nước"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng ch",
+      "text": "Điều 1. Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng cho các đơn vị thuộc, trực thuộc Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Bãi bỏ mục 8 và 9 của Bảng 3, Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN.",
+      "text": "Điều 2. Bãi bỏ mục 8 và 9 của Bảng 3, Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký và áp dụng từ năm học 2024-2025.",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký và áp dụng từ năm học 2024-2025.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Trưởng các Ban chức năng của Đại học Đà Nẵng, Thủ trưởng các đơn vị thuộc, trực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 4. Chánh Văn phòng, Trưởng các Ban chức năng của Đại học Đà Nẵng, Thủ trưởng các đơn vị thuộc, trực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

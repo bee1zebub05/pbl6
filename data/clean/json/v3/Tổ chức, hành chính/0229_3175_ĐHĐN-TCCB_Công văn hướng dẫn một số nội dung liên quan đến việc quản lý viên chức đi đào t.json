@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0229_3175_ĐHĐN-TCCB_Công văn hướng dẫn một số nội dung liên quan đến việc quản lý viên chức đi đào t.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "3175/ĐHĐN-TCCB",
+    "title": "Về hướng dẫn một số nội dung liên quan đến việc quản lý viên chức đi đào tạo trong nước khi hết thời gian được cử đi đào tạo",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "22/07/2023",
+    "effectiveDate": "22/07/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "summary": "Đại học Đà Nẵng hướng dẫn các trường đại học thành viên và các đơn vị trực thuộc về việc quản lý, giải quyết hồ sơ đối với viên chức đi đào tạo trong nước khi hết thời gian cử đi đào tạo (đã hoàn thành, bảo vệ luận án cấp cơ sở, chưa hoàn thành hoặc không hoàn thành chương trình đào tạo).",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Hường",
+      "academicTitle": null,
+      "position": [
+        "Phó Trưởng ban"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2973/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quy định quản lý viên chức của ĐHĐN được cử đi đào tạo, bồi dưỡng và nghiên cứu ban hành kèm theo Quyết định số 2973/QĐ-ĐHĐN ngày 12/7/2023 của Giám đốc ĐHĐN"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Ban Tổ chức Cán bộ"
+  ],
+  "normativeContents": [],
+  "articles": []
+}
