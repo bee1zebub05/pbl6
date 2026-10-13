@@ -23,6 +23,7 @@ from ..chat.models import ChatResponse
 
 logger = logging.getLogger(__name__)
 
+
 @asynccontextmanager
 async def lifespan(_app: FastAPI):
     # Dựng chatbot ngay khi server khởi động: cấu hình LLM / embedding sai thì

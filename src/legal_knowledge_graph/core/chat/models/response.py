@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from pydantic import BaseModel
 
+
 class ClarificationOut(BaseModel):
     question: str
     candidates: list[str] = []
