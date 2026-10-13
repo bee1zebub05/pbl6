@@ -14,6 +14,7 @@ services:
   neo4j-lkg:
     image: neo4j:5
     container_name: neo4j-pbl6-lkg
+    restart: unless-stopped # tự chạy lại khi Docker Desktop khởi động
     ports:
       - "7475:7474" # HTTP Browser (khác cổng 7474 của instance chính)
       - "7688:7687" # Bolt (khác cổng 7687 của instance chính)

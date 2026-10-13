@@ -56,7 +56,7 @@ LLM_PROVIDERS = ("gemini", "openai_compatible")
 LLM_PROVIDER = os.getenv("LKG_LLM_PROVIDER", "gemini").strip().lower()
 # LKG_GEMINI_MODEL là tên cũ, vẫn được đọc khi chưa đặt LKG_LLM_MODEL.
 LLM_MODEL = os.getenv("LKG_LLM_MODEL") or os.getenv("LKG_GEMINI_MODEL") or (
-    "gemini-3.6-flash" if LLM_PROVIDER == "gemini" else "")
+    "gemini-3.8-flash" if LLM_PROVIDER == "gemini" else "")
 # Chỉ dùng cho openai_compatible. Server tự host không cần key thì để trống.
 LLM_BASE_URL = os.getenv("LKG_LLM_BASE_URL", "")
 LLM_API_KEY = os.getenv("LKG_LLM_API_KEY", "")

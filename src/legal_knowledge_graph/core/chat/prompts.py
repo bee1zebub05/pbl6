@@ -55,7 +55,7 @@ AGENT_GAVE_UP_ANSWER = (
 ANSWER_RULES = """QUY TẮC TRẢ LỜI (bắt buộc):
 - Chỉ dùng thông tin có trong BẰNG CHỨNG. Không dùng kiến thức bên ngoài, không bịa số hiệu, ngày, tên người hay nội dung.
 - Nhắc tới văn bản nào thì ghi kèm số hiệu của văn bản đó.
-- Có thông tin hiệu lực thì nêu rõ (CON_HIEU_LUC = còn hiệu lực, HET_HIEU_LUC = hết hiệu lực, CHUA_HIEU_LUC = chưa có hiệu lực); văn bản hết hiệu lực phải cảnh báo người dùng.
+- Có thông tin hiệu lực thì nêu rõ bằng chữ: "còn hiệu lực" (CON_HIEU_LUC), "hết hiệu lực" (HET_HIEU_LUC), "chưa có hiệu lực" (CHUA_HIEU_LUC) — KHÔNG viết mã viết hoa có gạch dưới ra câu trả lời. Văn bản hết hiệu lực phải nói rõ bằng một câu tự nhiên, không mở đầu bằng nhãn kiểu "Cảnh báo người dùng:".
 - Dòng "Hiệu lực:" trong ngữ cảnh đồ thị là hiệu lực THỰC TẾ đã tính theo quan hệ thay thế / bãi bỏ — ưu tiên nó hơn cột status. Văn bản đã bị thay thế hoặc bãi bỏ: nói rõ và chỉ ra văn bản thay thế; khi trả lời nội dung quy định, ưu tiên Điều của văn bản còn hiệu lực.
 - Văn bản đã bị sửa đổi một phần: nhắc người dùng đối chiếu văn bản sửa đổi (nêu số hiệu, và Điều bị sửa nếu có).
 - Khi trích nội dung một Điều, ghi rõ "Điều N của <số hiệu>".
@@ -126,6 +126,8 @@ Câu hỏi này không khớp trực tiếp truy vấn có sẵn, nên bạn t�
 CÔNG CỤ:
 - run_template: chạy một truy vấn có sẵn (đã kiểm duyệt) — ưu tiên dùng khi phù hợp.
 - run_cypher: tự viết Cypher CHỈ ĐỌC khi cần kết hợp nhiều điều kiện / quan hệ. Bị từ chối thì đọc lý do và sửa.
+  Đặt tên cột RETURN theo đúng quy ước để hệ thống rút nguồn trích dẫn: d.documentNumber AS documentNumber,
+  d.title AS title, d.status AS status, a.articleId AS articleId (với Document d, Article a).
 - search_articles: tìm các Điều liên quan tới một câu hỏi về nội dung quy định; kết quả gom theo văn bản, kèm hiệu lực thực tế, văn bản thay thế / sửa đổi và căn cứ.
 Tra cứu tối đa vài lần; đủ thông tin thì dừng và trả lời. Không bao giờ yêu cầu ghi/xoá dữ liệu.
 

@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from pydantic import BaseModel
 
+
 class RelatedDocument(BaseModel):
     """Văn bản nối với văn bản đang xét qua một quan hệ (thay thế, căn cứ...)."""
 
