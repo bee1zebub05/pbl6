@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tuyển sinh/0226_1340_QĐ-ĐHBK_Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1340/QĐ-ĐHBK",
+    "title": "Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "11/04/2023",
+    "effectiveDate": "11/04/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tuyển sinh",
+      "Tài chính, kế toán"
+    ],
+    "summary": "Quyết định ban hành mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023 của Trường Đại học Bách khoa, Đại học Đà Nẵng, bao gồm tuyển sinh sau đại học, đại học chính quy và các hệ liên thông.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "645/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 645/QĐ-ĐHĐN ngày 22/02/2023 của Giám đốc Đại học Đà Nẵng về việc quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "ĐHBK Hà Nội",
+    "Đại học Quốc gia TP.HCM",
+    "Ngân hàng Thương mại Cổ phần Công Thương Việt Nam, chi nhánh Bắc Đà Nẵng (VietinBank, CN Bắc Đà Nẵng)"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Mức thu",
+          "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023 của Trường Đại học Bách khoa – Đại học Đà Nẵng.\n\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với quy định này hết hiệu lực thi hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Hình thức thu",
+          "text": "2. Hình thức thu: Thí sinh nộp phí lúc nộp hồ sơ, nộp một trong các hình thức:\n\n2.1. Chuyển khoản:\n- Người thụ hưởng: Trường Đại học Bách khoa;\n- Số tài khoản: 129000083132;\n- Tại Ngân hàng Thương mại Cổ phần Công Thương Việt Nam, chi nhánh Bắc Đà Nẵng (VietinBank, CN Bắc Đà Nẵng).\n- Nội dung chuyển khoản: Ghi rõ họ tên, ngày tháng năm sinh, số điện thoại liên lạc, mã số đăng ký trực tuyến (số ID đăng ký) và lý do nộp lệ phí.\n- Đối với thí sinh nộp lệ phí qua ngân hàng, không chuyển khoản qua cây ATM do không thể hiện được thông tin người nộp và các nội dung khác.\n\n2.3. Nộp qua bưu điện:\nNộp hồ sơ và lệ phí thi về địa chỉ: Trường Đại học Bách khoa – Số 54 Nguyễn Lương Bằng, Quận Liên Chiểu, Tp. Đà Nẵng. Khi nộp hồ sơ đề nghị nộp thêm biên lai thu tiền của Bưu điện.\n\n2.4. Nộp qua Cổng thanh toán VNPAY.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023 của Trường Đại học Bách khoa – Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023 của Trường Đại học Bách khoa – Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với quy định này hết hiệu lực thi hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với quy định này hết hiệu lực thi hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức Hành chính, lãnh đạo Phòng Kế hoạch Tài chính, lãnh đạo Phòng Đào tạo và các đơn vị có liên quan căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức Hành chính, lãnh đạo Phòng Kế hoạch Tài chính, lãnh đạo Phòng Đào tạo và các đơn vị có liên quan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": false
+    }
+  ]
+}

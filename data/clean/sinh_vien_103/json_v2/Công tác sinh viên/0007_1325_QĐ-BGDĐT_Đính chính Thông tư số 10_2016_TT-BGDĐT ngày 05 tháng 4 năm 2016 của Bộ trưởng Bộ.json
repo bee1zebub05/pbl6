@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0007_1325_QĐ-BGDĐT_Đính chính Thông tư số 10_2016_TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1325/QĐ-BGDĐT",
+    "title": "Quyết định Về việc đính chính Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy",
+    "documentType": "Quyết định",
+    "status": null,
+    "issueDate": "25/04/2016",
+    "effectiveDate": "25/04/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Pháp chế"
+    ],
+    "summary": "Đính chính Điều 6, chương II của Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo.",
+    "idOverride": null,
+    "targetGroups": []
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Nghĩa",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2016/TT-BGDĐT",
+      "relationType": "AMENDS",
+      "targetArticle": "Điều 6",
+      "context": "Về việc đính chính Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy"
+    },
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "110/2004/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư;"
+    },
+    {
+      "targetDocumentNumber": "09/2010/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 09/2010/NĐ-CP ngày 08 tháng 02 năm 2010 của Chính phủ về sửa đổi, bổ sung một số Điều của Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư;"
+    },
+    {
+      "targetDocumentNumber": "40/2010/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 40/2010/NĐ-CP ngày 12 tháng 4 năm 2010 của Chính phủ về kiểm tra và xử lý văn bản quy phạm pháp luật;"
+    },
+    {
+      "targetDocumentNumber": "100/2010/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 100/2010/NĐ-CP ngày 28 tháng 9 năm 2010 của Chính phủ về Công báo;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Vụ Công tác học sinh, sinh viên",
+    "Bộ Giáo dục và Đào tạo",
+    "Ban Tuyên giáo Trung ương Đảng",
+    "Văn phòng Chính phủ",
+    "Văn phòng Quốc hội",
+    "Văn phòng Chủ tịch Nước",
+    "Ủy ban VH, GD, TN, TN&NĐ của QH",
+    "Hội đồng Quốc gia Giáo dục và Phát triển nhân lực",
+    "Kiểm toán nhà nước",
+    "Bộ Tư pháp",
+    "Cục KTVBQPPL"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Đính chính Điều 6, chương II của Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ G",
+      "text": "Điều 1. Đính chính Điều 6, chương II của Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo như sau:\n“Điều 6. Các hành vi sinh viên không được làm\nThực hiện theo quy định tại Điều 88 Luật Giáo dục, Điều 61 Luật Giáo dục đại học và các văn bản quy phạm pháp luật khác có liên quan”.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và là bộ phận không tách rời của Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và là bộ phận không tách rời của Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ\n\nGiáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học chịu trách n",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Giám đốc các đại học, học viện, Hiệu trưởng các trường đại học chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

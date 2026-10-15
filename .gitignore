@@ -14,3 +14,6 @@ tools/gemini_web/trang_thai_*.json*
 
 # Trang thai chay che do JSON
 tools/gemini_web/trang_thai_json.json
+
+# Du lieu dung tu data/clean/sinh_vien_103 (python tools/labeler/build_data.py)
+tools/labeler/data/

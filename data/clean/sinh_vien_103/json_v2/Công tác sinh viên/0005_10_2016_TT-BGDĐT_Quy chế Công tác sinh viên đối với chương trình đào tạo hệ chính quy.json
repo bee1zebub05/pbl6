@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0005_10_2016_TT-BGDĐT_Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy.txt",
+  "mappedBy": "gemini-web",
+  "note": "26 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "10/2016/TT-BGDĐT",
+    "title": "Thông tư Ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/04/2016",
+    "effectiveDate": "23/05/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Pháp chế"
+    ],
+    "summary": "Thông tư này ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy, bao gồm các quy định về nhiệm vụ, quyền của sinh viên, khen thưởng, kỷ luật, nội dung công tác sinh viên và hệ thống tổ chức quản lý.",
+    "idOverride": null,
+    "targetGroups": [
+      "Người học",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ]
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Nghĩa",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "75/2006/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "31/2011/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "07/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": "Điều 1",
+      "context": "Nghị định số 07/2013/NĐ-CP ngày 09 tháng 01 năm 2013 của Chính phủ sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP"
+    },
+    {
+      "targetDocumentNumber": "141/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "42/2007/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 5 năm 2016 và thay thế những quy định về sinh viên và công tác sinh viên của các đại học, học viện, trường đại học tại Quyết định số 42/2007/QĐ-BGDĐT ngày 13 tháng 8 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế học sinh, sinh viên các trường đại học, cao đẳng và trung cấp chuyên nghiệp hệ chính quy."
+    }
+  ],
+  "mentions": [
+    "Đảng Cộng sản Việt Nam",
+    "Đoàn TNCS Hồ Chí Minh",
+    "Hội Sinh viên Việt Nam",
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về công tác sinh viên đối với chương trình đào tạo\nđại học hệ chính quy, bao gồm: Nhiệm vụ và quyền của sinh viên; khen thưởng\nvà kỷ luật sinh viên; nội dung công tác sinh viên; hệ thống tổ chức, quản lý công\ntác sinh viên và tổ chức thực hiện.\n2. Quy chế này áp dụng đối với các đại học quốc gia, đại học vùng, học\nviện, trường đại học (bao gồm cả các trường đại học, khoa thành viên của đại\nhọc quốc gia, đại học vùng) trong hệ thống giáo dục quốc dân thực hiện chương\ntrình đào tạo trình độ đại học hệ chính quy (sau đây gọi chung là cơ sở giáo dục\nđại học) và các cơ quan, tổ chức, cá nhân có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Sinh viên",
+          "text": "Điều 2. Sinh viên\n1. Sinh viên được quy định tại quy chế này là người đang học chương trình\nđào tạo trình độ đại học hệ chính quy tại các cơ sở giáo dục đại học.\n2. Sinh viên là trung tâm của các hoạt động giáo dục và đào tạo trong cơ sở\ngiáo dục đại học, được bảo đảm điều kiện thực hiện đầy đủ nhiệm vụ và quyền\ntrong quá trình học tập và rèn luyện tại cơ sở giáo dục và đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Công tác sinh viên",
+          "text": "Điều 3. Công tác sinh viên\n1. Công tác sinh viên là một trong những công tác trọng tâm của cơ sở giáo\ndục đại học, bao gồm tổng thể các hoạt động giáo dục, tuyên truyền, quản lý, hỗ\ntrợ và dịch vụ đối với sinh viên nhằm đảm bảo các mục tiêu của giáo dục đại\nhọc.\n2. Công tác sinh viên phải thực hiện đúng chủ trương, đường lối của Đảng,\nchính sách, pháp luật của Nhà nước và các quy định của Bộ Giáo dục và Đào\ntạo.\n3. Công tác sinh viên phải bảo đảm dân chủ, khách quan, công bằng, công\nkhai, minh bạch trong các vấn đề có liên quan đến sinh viên.\nLualVietnam\nrnavjesub",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nhiệm vụ của sinh viên",
+          "text": "Điều 4. Nhiệm vụ của sinh viên\n1. Chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật của\nNhà nước, điều lệ trường đại học và các quy chế, nội quy của cơ sở giáo dục đại\nhọc.\n2. Học tập, rèn luyện theo chương trình, kế hoạch giáo dục, đào tạo của cơ\nsở giáo dục đại học; chủ động, tích cực tự học, nghiên cứu, sáng tạo và rèn luyện\nđạo đức, lối sống.\n3. Tôn trọng nhà giáo, cán bộ quản lý, viên chức và nhân viên của cơ sở\ngiáo dục đại học; đoàn kết, giúp đỡ lẫn nhau trong quá trình học tập và rèn\nluyện; thực hiện tốt nếp sống văn hóa trong trường học.\n4. Giữ gìn và bảo vệ tài sản; hành động góp phần bảo vệ, xây dựng và phát\nhuy truyền thống của cơ sở giáo dục đại học.\n5. Thực hiện đầy đủ quy định về việc khám sức khoẻ đầu khóa và khám sức\nkhoẻ định kỳ trong thời gian học tập theo quy định của cơ sở giáo dục đại học.\n6. Đóng học phí, bảo hiểm y tế đầy đủ, đúng thời hạn.\n7. Tham gia lao động công ích, hoạt động tình nguyện, hoạt động xã hội vì\ncộng đồng phù hợp với năng lực và sức khoẻ theo yêu cầu của cơ sở giáo dục\nđại học.\n8. Chấp hành nghĩa vụ làm việc có thời hạn theo sự điều động của Nhà\nnước khi được hưởng học bổng, chi phí đào tạo do Nhà nước cấp hoặc do nước\nngoài tài trợ theo Hiệp định ký kết với Nhà nước; nếu không chấp hành phải bồi\nhoàn học bổng, chi phí đào tạo theo quy định của Chính phủ.\n9. Tham gia phòng, chống tiêu cực, gian lận trong học tập, thi cử và các\nhoạt động khác của sinh viên; kịp thời báo cáo với khoa, phòng chức năng, Thủ\ntrưởng cơ sở giáo dục đại học hoặc các cơ quan có thẩm quyền khi phát hiện\nnhững hành vi tiêu cực, gian lận trong học tập, thi cử hoặc những hành vi vi\nphạm pháp luật, vi phạm nội quy, quy chế khác của sinh viên, cán bộ, nhà giáo\ntrong cơ sở giáo dục đại học.\n10. Tham gia công tác bảo đảm an ninh, trật tự, an toàn giao thông, phòng\nchống tội phạm, tệ nạn xã hội trong trường học, gia đình và cộng đồng.\n11. Thực hiện các nhiệm vụ khác có liên quan theo quy định của pháp luật\nvà của cơ sở giáo dục đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Quyền của sinh viên",
+          "text": "Điều 5. Quyền của sinh viên\n1. Được nhận vào học đúng ngành, nghề đã đăng ký dự tuyển nếu đủ các\nđiều kiện trúng tuyển theo quy định của Bộ Giáo dục và Đào tạo và cơ sở giáo\ndục đại học.\n4\n\n2. Được tôn trọng và đối xử bình đẳng; được cung cấp đầy đủ thông tin cá\nnhân về việc học tập, rèn luyện theo quy định của cơ sở giáo dục đại học; được\nphổ biến nội quy, quy chế về đào tạo, rèn luyện và các chế độ, chính sách của\nNhà nước có liên quan đến sinh viên.\n3. Được tạo điều kiện trong học tập, nghiên cứu khoa học và rèn luyện,\nbao gồm:\na) Sử dụng hệ thống thư viện, các trang thiết bị và phương tiện phục vụ các\nhoạt động học tập, nghiên cứu khoa học, văn hoá, văn nghệ, thể dục, thể thao;\nb) Tham gia nghiên cứu khoa học, thi sinh viên giỏi, thi Olympic các môn\nhọc, thi sáng tạo khoa học, kỹ thuật;\nc) Chăm sóc, bảo vệ sức khoẻ theo quy định hiện hành của Nhà nước;\nd) Đăng ký dự tuyển đi học, tham gia các hoạt động giao lưu, trao đổi sinh\nviên ở nước ngoài; học chuyển tiếp ở các trình độ đào tạo cao hơn theo quy định\nhiện hành;\nđ) Tham gia hoạt động trong tổ chức Đảng Cộng sản Việt Nam, Đoàn\nTNCS Hồ Chí Minh, Hội Sinh viên Việt Nam; tham gia các tổ chức tự quản của\nsinh viên, các hoạt động xã hội có liên quan ở trong và ngoài trường học theo\nquy định của pháp luật; các hoạt động văn hoá, văn nghệ, thể thao lành mạnh,\nphù hợp với mục tiêu đào tạo của cơ sở giáo dục đại học;\ne) Sử dụng các dịch vụ công tác xã hội hiện có của cơ sở giáo dục đại học\n(bao gồm các dịch vụ về hướng nghiệp, tư vấn việc làm, tư vấn sức khỏe, tâm lý,\nhỗ trợ sinh viên có hoàn cảnh đặc biệt);\ng) Nghỉ học tạm thời, tạm ngừng học, học theo tiến độ chậm, tiến độ\nnhanh, học cùng lúc hai chương trình, chuyển trường theo quy định của quy chế\nvề đào tạo của Bộ Giáo dục và Đào tạo; được nghỉ hè, nghỉ tết, nghỉ lễ theo quy\nđịnh.\n4. Được hưởng các chế độ, chính sách, được xét nhận học bổng khuyến\nkhích học tập, học bổng do các tổ chức, cá nhân trong và ngoài nước tài trợ theo\nquy định hiện hành; được miễn giảm phí khi sử dụng các dịch vụ công cộng về\ngiao thông, giải trí, tham quan bảo tàng, di tích lịch sử, công trình văn hoá theo\nquy định của Nhà nước.\n5. Được góp ý kiến, tham gia quản lý và giám sát hoạt động giáo dục và các\nđiều kiện đảm bảo chất lượng giáo dục; trực tiếp hoặc thông qua đại diện hợp\npháp của mình kiến nghị các giải pháp góp phần xây dựng và phát triển cơ sở\ngiáo dục đại học; đề đạt nguyện vọng và khiếu nại lên Thủ trưởng cơ sở giáo\ndục đại học giải quyết các vấn đề có liên quan đến quyền, lợi ích chính đáng của\nsinh viên.\n6. Được xét tiếp nhận vào ký túc xá và ưu tiên khi sắp xếp vào ở ký túc xá\ntheo quy định.\n3\nLualiemam\ncPelalsk\n\n7. Sinh viên đủ điều kiện công nhận tốt nghiệp được cấp bằng tốt nghiệp,\nchứng chỉ, bảng điểm học tập và rèn luyện, các giấy tờ liên quan và giải quyết\ncác thủ tục hành chính khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Các hành vi sinh viên không được làm",
+          "text": "Điều 6. Các hành vi sinh viên không được làm\n1. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ\nquản lý, viên chức, nhân viên, người học của cơ sở giáo dục đại học và người\nkhác.\n2. Gian lận trong học tập, kiểm tra, thi cử như: quay cóp, mang tài liệu vào\nphòng thi, xin điểm; học, thi, thực tập, trực hộ người khác hoặc nhờ người khác\nhọc, thi, thực tập, trực hộ; sao chép, nhờ hoặc làm hộ tiểu luận, đồ án, khoá luận\ntốt nghiệp; tổ chức hoặc tham gia tổ chức thi hộ hoặc các hành vi gian lận khác.\n3. Hút thuốc, uống rượu, bia trong trường học; say rượu, bia khi đến lớp\nhọc.\n4. Tổ chức hoặc tham gia tụ tập đông người, biểu tình, khiếu kiện trái pháp\nluật; tham gia tệ nạn xã hội, gây rối an ninh, trật tự an toàn trong cơ sở giáo dục\nđại học hoặc ngoài xã hội.\n5. Tổ chức hoặc tham gia đua xe, cổ vũ đua xe trái phép.\n6. Tổ chức hoặc tham gia đánh bạc dưới mọi hình thức.\n7. Sản xuất, buôn bán, vận chuyển, phát tán, tàng trữ, sử dụng hoặc lôi kéo\nngười khác sử dụng vũ khí, chất nổ, các chất ma tuý, các loại dược phẩm, hoá\nchất cấm sử dụng; các tài liệu, ấn phẩm, thông tin phản động đồi trụy và các tài\nliệu cấm khác theo quy định của Nhà nước; tổ chức, tham gia, truyền bá các hoạt\nđộng mê tín dị đoan, các hoạt động tôn giáo trong cơ sở giáo dục đại học và các\nhành vi vi phạm đạo đức khác.\n8. Thành lập, tham gia các hoạt động mang tính chất chính trị trái pháp\nluật; tổ chức, tham gia các hoạt động tập thể mang danh nghĩa cơ sở giáo dục đại\nhọc khi chưa được Thủ trưởng cơ sở giáo dục đại học cho phép.\n9. Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo\nlực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước; xuyên\ntạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân\ntrên mạng Internet.\n10. Tổ chức hoặc tham gia các hoạt động vi phạm pháp luật khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Nội dung hình thức khen thưởng",
+          "text": "Điều 7. Nội dung hình thức khen thưởng\n1. Khen thưởng thường xuyên, kịp thời đối với cá nhân và tập thể lớp sinh\nviên đạt thành tích xứng đáng để biểu dương, khen thưởng. Cụ thể:\n4\n\na) Đoạt giải trong các cuộc thi Olympic các môn học, thi nghiên cứu khoa\nhọc, các cuộc thi sáng tạo kỹ thuật, học thuật, văn hóa, văn nghệ, thể thao;\nb) Đóng góp có hiệu quả trong công tác Đảng, Đoàn thanh niên, Hội sinh\nviên, trong hoạt động thanh niên xung kích, sinh viên tình nguyện, giữ gìn an\nninh trật tự, các hoạt động trong lớp, khoa, trong ký túc xá, hoạt động xã hội,\nvăn hoá, văn nghệ, thể thao;\nc) Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an ninh tổ\nquốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội;\ndũng cảm cứu người bị nạn, chống tiêu cực, tham nhũng;\nd) Các thành tích đặc biệt khác.\nNội dung, hình thức và mức khen thưởng thường xuyên do Thủ trưởng cơ\nsở giáo dục đại học quy định.\n2. Thi đua, khen thưởng toàn diện, định kỳ đối với cá nhân và tập thể lớp\nsinh viên được tiến hành vào cuối năm học, khóa học. Cụ thể:\na) Đối với cá nhân:\nDanh hiệu cá nhân gồm 3 loại: Khá, Giỏi, Xuất sắc.\nTiêu chuẩn xếp loại:\nĐạt danh hiệu sinh viên Khá: xếp loại học tập và rèn luyện từ khá trở\nlên;\nĐạt danh hiệu sinh viên Giỏi: xếp loại học tập từ giỏi trở lên và xếp loại\nrèn luyện từ tốt trở lên;\nĐạt danh hiệu sinh viên Xuất sắc: kết quả học tập đạt từ 3,6 (thang điểm 4)\nhoặc từ 9,0 (thang điểm 10) trở lên và xếp loại rèn luyện xuất sắc.\nDanh hiệu cá nhân được lưu vào hồ sơ quản lý sinh viên.\nKhông xét khen thưởng đối với sinh viên bị kỷ luật hoặc có điểm kết thúc\nhọc phần trong năm học đó dưới mức trung bình.\nb) Đối với tập thể lớp sinh viên:\nDanh hiệu tập thể lớp sinh viên gồm 2 loại: Lớp sinh viên Tiên tiến và\nLớp sinh viên Xuất sắc.\nThủ trưởng cơ sở giáo dục đại học quy định cụ thể về tiêu chuẩn danh\nhiệu Lớp sinh viên Tiên tiến và Lớp sinh viên Xuất sắc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Trình tự, thủ tục xét khen thưởng",
+          "text": "Điều 8. Trình tự, thủ tục xét khen thưởng\n1. Vào đầu năm học, cơ sở giáo dục đại học tổ chức cho sinh viên, các lớp\nsinh viên đăng ký danh hiệu thi đua cá nhân và tập thể lớp sinh viên.\n2. Thủ tục xét khen thưởng:\n\na) Căn cứ vào thành tích đạt được trong học tập và rèn luyện của sinh viên,\ncác lớp sinh viên tiến hành lập danh sách kèm theo bản thành tích cá nhân và tập\nthể lớp, có xác nhận của chủ nhiệm lớp, đề nghị khoa hoặc đơn vị phụ trách\ncông tác sinh viên xem xét;\nb) Khoa hoặc đơn vị phụ trách công tác sinh viên tổ chức họp, xét và đề\nnghị Hội đồng khen thưởng và kỷ luật sinh viên của cơ sở giáo dục đại học xét\nduyệt;\nc) Căn cứ vào đề nghị của khoa hoặc đơn vị phụ trách công tác sinh viên,\nHội đồng khen thưởng và kỷ luật sinh viên của cơ sở giáo dục đại học tổ chức\nxét và đề nghị Thủ trưởng cơ sở giáo dục đại học công nhận danh hiệu đối với\ncá nhân và tập thể lớp sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Hình thức kỷ luật và nội dung vi phạm",
+          "text": "Điều 9. Hình thức kỷ luật và nội dung vi phạm\n1. Những sinh viên có hành vi vi phạm thì tuỳ tính chất, mức độ, hậu quả\ncủa hành vi vi phạm có thể được nhắc nhở, phê bình hoặc phải chịu một trong\ncác hình thức kỷ luật sau:\na) Khiển trách: áp dụng đối với sinh viên có hành vi vi phạm lần đầu nhưng\nở mức độ nhẹ;\nb) Cảnh cáo: áp dụng đối với sinh viên đã bị khiển trách mà tái phạm hoặc\nvi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc\nmới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;\nc) Đình chỉ học tập có thời hạn: áp dụng đối với những sinh viên đang\ntrong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng\ncác hành vi sinh viên không được làm; sinh viên vi phạm pháp luật bị xử phạt tù\nnhưng cho hưởng án treo. Tùy từng trường hợp cụ thể, Thủ trưởng cơ sở giáo\ndục đại học căn cứ vào quy chế đào tạo để quyết định thời hạn đình chỉ học tập\ntheo các mức: đình chỉ một học kỳ, đình chỉ một năm học hoặc đình chỉ theo\nthời gian sinh viên bị xử phạt tù nhưng cho hưởng án treo.\nd) Buộc thôi học: áp dụng đối với sinh viên đang trong thời gian bị đình chỉ\nhọc tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và\nmức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến cơ sở giáo dục đại\nhọc và xã hội; vi phạm pháp luật bị xử phạt tù giam.\n2. Hình thức kỷ luật của sinh viên từ cảnh cáo trở lên phải được lưu vào hồ\nsơ quản lý sinh viên và thông báo cho gia đình sinh viên. Trường hợp sinh viên\nbị kỷ luật mức đình chỉ học tập có thời hạn hoặc buộc thôi học, cơ sở giáo dục\nđại học phải gửi thông báo cho địa phương và gia đình sinh viên biết để phối\nhợp quản lý, giáo dục.\n3. Nội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ\nlục kèm theo Quy chế này.\nTF esl",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Trình tự, thủ tục và hồ sơ xét kỷ luật",
+          "text": "Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật\n1. Thủ tục xét kỷ luật:\na) Sinh viên có hành vi vi phạm phải làm bản tự kiểm điểm và tự nhận hình\nthức kỷ luật. Trong trường hợp sinh viên không chấp hành làm bản tự kiểm điểm\nthì Hội đồng khen thưởng và kỷ luật sinh viên vẫn họp để xử lý trên cơ sở các\nchứng cứ thu thập được;\nb) Chủ nhiệm lớp sinh viên chủ trì họp với tập thể lớp sinh viên, phân tích\nvà đề nghị hình thức kỷ luật gửi khoa hoặc đơn vị phụ trách công tác sinh viên;\nc) Khoa hoặc đơn vị phụ trách công tác sinh viên xem xét, đề nghị Hội\nđồng khen thưởng và kỷ luật sinh viên của cơ sở giáo dục đại học;\nd) Hội đồng khen thưởng và kỷ luật sinh viên tổ chức họp để xét kỷ luật,\nthành phần bao gồm: các thành viên của Hội đồng, đại diện tập thể lớp sinh viên\ncó sinh viên vi phạm và sinh viên có hành vi vi phạm. Sinh viên vi phạm kỷ luật\nđã được mời mà không đến dự (nếu không có lý do chính đáng), không có bản\ntự kiểm điểm thì Hội đồng vẫn tiến hành họp và xét thêm khuyết điểm thiếu ý\nthức tổ chức kỷ luật.\nHội đồng kiến nghị áp dụng hình thức kỷ luật, đề nghị Thủ trưởng cơ sở\ngiáo dục đại học ra quyết định kỷ luật bằng văn bản.\n2. Hồ sơ xử lý kỷ luật của sinh viên:\na) Bản tự kiểm điểm (nếu có);\nb) Biên bản của tập thể lớp sinh viên họp kiểm điểm sinh viên có hành vi vi\nphạm;\nc) Biên bản của khoa hoặc đơn vị phụ trách công tác sinh viên;\nd) Các tài liệu có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Chấm dứt hiệu lực của quyết định kỷ luật",
+          "text": "Điều 11. Chấm dứt hiệu lực của quyết định kỷ luật\n1. Đối với sinh viên bị kỷ luật khiển trách: sau 03 tháng kể từ ngày có\nquyết định kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm\nđến mức phải xử lý kỷ luật thì đương nhiên được chấm dứt hiệu lực của quyết\nđịnh kỷ luật và được hưởng quyền lợi của sinh viên kể từ ngày quyết định kỷ\nluật chấm dứt hiệu lực.\n2. Đối với sinh viên bị kỷ luật cảnh cáo: sau 06 tháng kể từ ngày có quyết\nđịnh kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm đến\nmức phải xử lý kỷ luật thì đương nhiên được chấm dứt hiệu lực của quyết định\nkỷ luật và được hưởng quyền lợi của sinh viên kể từ ngày quyết định kỷ luật\nchấm dứt hiệu lực.\n3. Đối với trường hợp đình chỉ học tập có thời hạn: khi hết thời hạn đình\nchỉ, sinh viên phải xuất trình chứng nhận của địa phương (cấp xã, phường, thị\ntrấn) nơi cư trú về việc chấp hành tốt nghĩa vụ công dân tại địa phương; chứng\n9nafaee 1n\n\nnhận của cơ quan có thẩm quyền về việc đã chấp hành xong hình phạt tù nhưng\ncho hưởng án treo để cơ sở giáo dục đại học xem xét, tiếp nhận vào học tiếp nếu\nđủ điều kiện.\n4. Cấp có thẩm quyền quyết định kỷ luật phải có điều khoản ghi rõ thời\ngian sinh viên bị thi hành kỷ luật, tính từ khi ban hành quyết định kỷ luật đến\nthời điểm hết thời hạn bị kỷ luật theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Cơ cấu tổ chức và nhiệm vụ của Hội đồng khen thưởng và kỷ",
+          "text": "Điều 12. Cơ cấu tổ chức và nhiệm vụ của Hội đồng khen thưởng và kỷ\nluật sinh viên\n1. Cơ cấu tổ chức Hội đồng khen thưởng và kỷ luật sinh viên:\na) Chủ tịch Hội đồng: là Thủ trưởng hoặc cấp phó của Thủ trưởng cơ sở\ngiáo dục đại học\nb) Thường trực Hội đồng: là trưởng phòng (ban) công tác chính trị sinh\nviên\nc) Các uỷ viên: là đại diện các khoa, phòng, ban có liên quan, Đoàn TNCS\nHồ Chí Minh, Hội sinh viên Việt Nam của cơ sở giáo dục đại học.\nHội đồng có thể mời đại diện lớp sinh viên, giảng viên chủ nhiệm, cố vấn\nhọc tập. Các thành phần này được tham gia phát biểu ý kiến, đề xuất mức khen\nthưởng hoặc kỷ luật nhưng không được quyền biểu quyết.\n2. Thủ trưởng cơ sở giáo dục đại học ra quyết định thành lập và quy định\ncụ thể về chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng khen thưởng\nvà kỷ luật sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Quyền khiếu nại về khen thưởng, kỷ luật",
+          "text": "Điều 13. Quyền khiếu nại về khen thưởng, kỷ luật\nCá nhân và tập thể sinh viên nếu xét thấy các hình thức khen thưởng và kỷ\nluật không thoả đáng có quyền khiếu nại lên các phòng, ban chức năng hoặc Thủ\ntrưởng cơ sở giáo dục đại học; nếu cơ sở giáo dục đại học đã xem xét lại mà\nchưa thoả đáng có thể khiếu nại lên cấp có thẩm quyền theo quy định của pháp\nluật về khiếu nại, tố cáo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Tổ chức các hoạt động giáo dục, tuyên truyền",
+          "text": "Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\n1. Giáo dục tư tưởng chính trị\na) Giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ\ntrương, đường lối của Đảng, hình thành bản lĩnh chính trị, yêu tổ quốc Việt Nam\nxã hội chủ nghĩa; cảnh giác và biết phê phán những luận điểm xuyên tạc, hành\nđộng chống phá Đảng và Nhà nước;\nb) Phối hợp với Đoàn TNCS Hồ Chí Minh, Hội Sinh viên và các tổ chức\nchính trị xã hội khác có liên quan trong các hoạt động rèn luyện của sinh viên.\nTạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp vào Đảng.\nEf9$r\n\n2. Giáo dục đạo đức, lối sống\na) Giáo dục, tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức\ntốt đẹp của dân tộc Việt Nam, những chuẩn mực đạo đức chung của xã hội và\nđạo đức nghề nghiệp; biết phê phán những hành vi không phù hợp với chuẩn\nmực đạo đức;\nb) Định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với\nbản sắc văn hóa dân tộc Việt Nam; giáo dục ý thức trách nhiệm của cá nhân sinh\nviên đối với tập thể và cộng đồng.\n3. Giáo dục, tuyên truyền phổ biến pháp luật\na) Giáo dục, tuyên truyền nâng cao nhận thức và ý thức tuân thủ pháp luật,\nthói quen sống và làm việc theo pháp luật;\nb) Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các quy chế,\nquy định về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn xã\nhội, đảm bảo trật tự an toàn giao thông và các Luật khác có liên quan.\n4. Giáo dục kỹ năng: Kỹ năng sống, kỹ năng nghề nghiệp, việc làm.\n5. Giáo dục thể chất\na) Giáo dục, hướng dẫn sinh viên về kỹ thuật, phương pháp luyện tập và tổ\nchức cho sinh viên tham gia các hoạt động thể dục, thể thao theo quy định của\nBộ Giáo dục và Đào tạo;\nb) Phổ biến, tuyên truyền nâng cao nhận thức cho sinh viên về ăn uống đảm\nbảo dinh dưỡng, vệ sinh an toàn thực phẩm; sinh hoạt điều độ, không lạm dụng\nrượu, bia, sử dụng chất kích thích, gây nghiện; kiến thức và kỹ năng chăm sóc\nsức khỏe, phòng chống dịch, bệnh, tai nạn thương tích; Tổ chức và triển khai\nhoạt động của Trạm Y tế trong cơ sở giáo dục đại học theo quy định của Bộ\nGiáo dục và Đào tạo.\n6. Giáo dục thẩm mỹ\na) Giáo dục kiến thức, kỹ năng để sinh viên biết yêu và cảm thụ cái đẹp\ntrong tự nhiên, cuộc sống xã hội và trong nghệ thuật.\nb) Hình thành năng lực phán đoán và đánh giá thẩm mỹ; hình thành thị\nhiếu, lý tưởng thẩm mỹ đúng đắn; hình thành năng lực sáng tạo nghệ thuật, lòng\nham muốn và khả năng chuyển tải cái đẹp vào đời sống học tập, lao động và ứng\nxử; Có thái độ phê phán cái xấu, phản thẩm mỹ trong tâm hồn, trong hành vi\nứng xử, hình dáng, trang phục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Công tác quản lý sinh viên",
+          "text": "Điều 15. Công tác quản lý sinh viên\n1. Công tác hành chính\na) Tổ chức tiếp nhận thí sinh trúng tuyển, sắp xếp, bố trí sinh viên vào các\nlớp, chỉ định Ban cán sự lớp (lớp trưởng, lớp phó) lâm thời, làm thẻ sinh viên,\nthẻ thư viện, quản lý, tổ chức cấp phát văn bằng, chứng chỉ của sinh viên;\nLualiemam\n5Pd7 rnln eLon\n\nb) Thống kê, tổng hợp dữ liệu và quản lý, lưu trữ hồ sơ liên quan đến sinh\nviên; giải quyết các công việc hành chính có liên quan đến sinh viên.\n2. Công tác khen thưởng và kỷ luật\na) Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện\ncủa sinh viên; phân loại, xếp loại sinh viên cuối mỗi học kỳ, năm học, khóa học\ntheo Quy chế của Bộ Giáo dục và Đào tạo;\nb) Phát động, tổ chức các phong trào thi đua trong sinh viên; Tổ chức đánh\ngiá, bình bầu và khen thưởng cho tập thể, cá nhân sinh viên đạt thành tích cao\ntrong học tập và rèn luyện; tổ chức cho sinh viên nghiên cứu khoa học, thi\nOlympic các môn học, thi sáng tạo tài năng trẻ và các hoạt động khuyến khích\nhọc tập khác;\nc) Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về\nhọc tập và rèn luyện đối với sinh viên;\nd) Tham mưu, theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm\ntheo quy định.\n3. Công tác sinh viên nội trú, ngoại trú\nTổ chức thực hiện các nội dung, biện pháp công tác sinh viên nội trú, ngoại\ntrú theo quy định của Bộ Giáo dục và Đào tạo.\n4. Công tác bảo đảm an ninh, trật tự trường học\na) Ban hành nội quy, quy định; xây dựng kế hoạch; tổ chức kiểm tra, giám\nsát việc thực hiện các văn bản chỉ đạo, văn bản quy phạm pháp luật của Đảng,\nNhà nước về công tác bảo đảm an ninh, trật tự an toàn xã hội, phòng chống tội\nphạm, tệ nạn xã hội trong sinh viên; Phối hợp với công an địa phương thực hiện\ncác biện pháp bảo đảm an ninh, trật tự trường học;\nb) Xây dựng môi trường giáo dục lành mạnh, đảm bảo an toàn cho các hoạt\nđộng học tập, rèn luyện của sinh viên. Theo dõi, nắm bắt diễn biến tư tưởng,\nhành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn chặn việc\nkích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, Nhà nước,\ntham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi phạm pháp\nluật; phối hợp xử lý các vụ việc về an ninh, trật tự trường học và các vụ việc liên\nquan đến sinh viên ở trong và ngoài cơ sở giáo dục đại học.\n5. Thực hiện các chế độ, chính sách đối với sinh viên\nTuyên truyền, hướng dẫn, theo dõi, tổng hợp và giải quyết các chế độ,\nchính sách của Nhà nước liên quan đến sinh viên theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Hỗ trợ và dịch vụ sinh viên",
+          "text": "Điều 16. Hỗ trợ và dịch vụ sinh viên\n1. Tư vấn học tập\nTư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp\nvới mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo; hướng dẫn\n10\nEf94 15\n\nsinh viên tiếp cận các nguồn lực (về học thuật, tài chính, kỹ thuật) nhằm nâng\ncao khả năng, học tập hiệu quả.\n2. Công tác hướng nghiệp, tư vấn việc làm\nTổ chức thực hiện các nội dung, biện pháp công tác tư vấn hướng nghiệp,\nviệc làm theo quy định của Bộ Giáo dục và Đào tạo.\n3. Tư vấn tâm lý, chăm sóc sức khỏe\na) Tư vấn, hỗ trợ sinh viên khi gặp phải các vấn đề về tâm lý xã hội; phối\nhợp tổ chức các dịch vụ tư vấn, chăm sóc sức khỏe để có sự hỗ trợ, can thiệp cần\nthiết khi sinh viên gặp phải các vấn đề ảnh hưởng đến thể chất và tinh thần;\nb) Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tư vấn, tổ\nchức cho sinh viên thực hiện Luật bảo hiểm y tế; sơ, cấp cứu, khám chữa bệnh\nban đầu cho sinh viên.\n4. Hỗ trợ tài chính\nPhối hợp với các tổ chức, cá nhân hảo tâm xây dựng, quản lý các quỹ học\nbổng; tổ chức trao học bổng tài trợ cho sinh viên xuất sắc, sinh viên có hoàn\ncảnh gia đình khó khăn.\n5. Hỗ trợ đặc biệt\nTriển khai dịch vụ công tác xã hội trong trường học; tạo điều kiện giúp đỡ\nsinh viên khuyết tật, sinh viên diện chính sách, có hoàn cảnh đặc biệt khó khăn.\n6. Tổ chức, quản lý các dịch vụ sinh viên\nTổ chức dịch vụ cho sinh viên như: internet, điện thoại, nhà ăn, căng tin,\ntrông giữ xe, sân chơi, bãi tập, thiết chế văn hóa.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Hệ thống tổ chức, quản lý công tác sinh viên",
+          "text": "Điều 17. Hệ thống tổ chức, quản lý công tác sinh viên\nHệ thống tổ chức, quản lý công tác sinh viên của nhà trường gồm: Thủ\ntrưởng cơ sở giáo dục đại học, các đơn vị phụ trách công tác sinh viên, khoa,\nchủ nhiệm lớp sinh viên, cố vấn học tập và lớp sinh viên.\nCăn cứ Điều lệ trường đại học, Thủ trưởng cơ sở giáo dục đại học quy định\nhệ thống tổ chức, quản lý công tác sinh viên phù hợp, bảo đảm thực hiện tốt các\nnội dung công tác sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Thủ trưởng cơ sở giáo dục đại học",
+          "text": "Điều 18. Thủ trưởng cơ sở giáo dục đại học\n1. Chỉ đạo, tổ chức quản lý các hoạt động của công tác sinh viên. Bố trí các\nnguồn lực nhằm bảo đảm thực hiện tốt các nội dung của công tác sinh viên.\n2. Xây dựng kế hoạch và tổ chức thực hiện các chủ trương, đường lối của\nĐảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ Giáo dục và\n11\nLualiemam\nFrnletsino ) e[\n\nĐào tạo, ngành và địa phương trong công tác sinh viên; tạo điều kiện cho sinh\nviên thực hiện đầy đủ quyền và nhiệm vụ của mình.\n3. Chỉ đạo tổ chức \"Tuần Sinh hoạt công dân sinh viên\" đầu khóa, đầu\nnăm và cuối khóa học theo hướng dẫn của Bộ Giáo dục và Đào tạo; hằng năm\ntổ chức đối thoại với sinh viên để cung cấp thông tin cần thiết cho sinh viên;\nnắm bắt tâm tư, nguyện vọng và giải quyết kịp thời những thắc mắc, nhu cầu\nchính đáng của sinh viên.\n4. Đảm bảo các điều kiện để phát huy hiệu quả vai trò của tổ chức Đoàn\nTNCS Hồ Chí Minh và Hội Sinh viên Việt Nam trong công tác sinh viên; chú\ntrọng công tác giáo dục tư tưởng chính trị, đạo đức, lối sống cho sinh viên.\n5. Quyết định sự tham gia của sinh viên mang tính chất đại diện cho cơ sở\ngiáo dục đại học khi có sự huy động của địa phương, các cấp, các ngành hoặc\ncác tổ chức khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Các đơn vị, cá nhân phụ trách công tác sinh viên",
+          "text": "Điều 19. Các đơn vị, cá nhân phụ trách công tác sinh viên\n1. Căn cứ Điều lệ trường đại học, Thủ trưởng cơ sở giáo dục đại học quyết\nđịnh thành lập và quy định chức năng, nhiệm vụ của Khoa và các đơn vị phụ\ntrách các nội dung công tác sinh viên của nhà trường và giao cho Phòng (Ban)\ncông tác chính trị công tác sinh viên là đơn vị chủ trì tham mưu, tổng hợp giúp\nThủ trưởng cơ sở giáo dục đại học về công tác sinh viên của nhà trường.\n2. Chủ nhiệm lớp sinh viên\nCăn cứ điều kiện cụ thể, Thủ trưởng cơ sở giáo dục đại học hoặc Trưởng\nkhoa phân công giảng viên, viên chức của nhà trường làm công tác chủ nhiệm\nlớp sinh viên để hỗ trợ quản lý, hướng dẫn các hoạt động học tập và rèn luyện\ncủa lớp sinh viên.\n3. Cố vấn học tập\nCăn cứ điều kiện cụ thể, Thủ trưởng cơ sở giáo dục đại học hoặc Trưởng\nkhoa phân công giảng viên kiêm nhiệm công tác cố vấn học tập cho sinh viên để\ntư vấn, hướng dẫn sinh viên thực hiện tốt quy chế, quy định về đào tạo. Cơ sở\ngiáo dục đại học có thể phân công một giảng viên kiêm nhiệm công tác cố vấn\nhọc tập và chủ nhiệm lớp sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Lớp sinh viên",
+          "text": "Điều 20. Lớp sinh viên\n1. Lớp sinh viên: bao gồm những sinh viên cùng ngành, cùng khoá học.\nLớp sinh viên được duy trì ổn định trong cả khoá học, là nơi để cơ sở giáo dục\nđại học tổ chức, quản lý về thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt\nđộng đoàn thể, các hoạt động xã hội, thi đua, khen thưởng, kỷ luật.\n2. Ban cán sự lớp sinh viên gồm:\na) Lớp trưởng và các lớp phó do tập thể sinh viên trong lớp bầu, Thủ\ntrưởng cơ sở giáo dục đại học (hoặc trưởng khoa, đơn vị phụ trách công tác sinh\n12\nfa$ r\n\nviên theo phân cấp của Thủ trưởng cơ sở giáo dục đại học) công nhận. Nhiệm kỳ\nban cán sự Lớp sinh viên theo năm học.\nb) Nhiệm vụ của ban cán sự lớp sinh viên:\nTổ chức thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động sinh\nhoạt, đời sống và các hoạt động xã hội theo kế hoạch của trường, khoa, phòng,\nban;\nĐôn đốc sinh viên trong lớp chấp hành nghiêm chỉnh nội quy, quy chế về\nhọc tập, rèn luyện; Xây dựng nền nếp tự quản trong lớp;\nTổ chức, động viên giúp đỡ những sinh viên gặp khó khăn trong học tập,\nrèn luyện. Thay mặt cho sinh viên của lớp liên hệ với chủ nhiệm lớp và các\ngiảng viên bộ môn; đề nghị các khoa, đơn vị phụ trách công tác sinh viên và ban\ngiám hiệu nhà trường giải quyết những vấn đề có liên quan đến nhiệm vụ và\nquyền của sinh viên trong lớp;\nPhối hợp chặt chẽ và thường xuyên với tổ chức Đoàn TNCS Hồ Chí\nMinh, và Hội sinh viên Việt Nam trong hoạt động của lớp;\nBáo cáo đầy đủ, chính xác tình hình học tập, rèn luyện theo học kỳ, năm\nhọc và những việc đột xuất của lớp với khoa hoặc đơn vị phụ trách công tác sinh\nviên;\nc) Quyền lợi của ban cán sự lớp sinh viên:\nĐược ưu tiên cộng điểm rèn luyện và các chế độ khác theo quy định của\ntrường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Lớp học phần",
+          "text": "Điều 21. Lớp học phần\n1. Lớp học phần: bao gồm những sinh viên đăng ký cùng học một học\nphần. Lớp học phần được tổ chức theo thời gian học một học phần, là nơi để nhà\ntrường theo dõi, quản lý về học tập và ý thức kỷ luật của sinh viên trong giờ học.\n2. Ban cán sự lớp học phần gồm lớp trưởng và các lớp phó do cơ sở\ngiáo dục đại học chỉ định. Nhiệm kỳ của ban cán sự Lớp học phần theo thời gian\nhọc của học phần. Ban cán sự lớp học phần có trách nhiệm báo cáo việc\nchấp hành nội quy, quy chế của sinh viên trong lớp với khoa, đơn vị phụ trách\ncông tác sinh viên. Ban cán sự lớp học phần được ưu tiên cộng điểm rèn luyện\nvà các chế độ khác theo quy định của cơ sở giáo dục đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Trách nhiệm của cơ sở giáo dục đại học",
+          "text": "Điều 22. Trách nhiệm của cơ sở giáo dục đại học\n1. Căn cứ nội dung của Quy chế này xây dựng quy chế, quy định cụ thể về\ncông tác sinh viên phù hợp với chức năng, nhiệm vụ và thực tiễn công tác tổ\nchức giáo dục và đào tạo của nhà trường.\n13\nr4afaceunilalsd\n\n2. Chủ động phối hợp chặt chẽ với các tổ chức đoàn thể, gia đình sinh viên,\ncác cơ quan có liên quan trên địa bàn để tổ chức thực hiện tốt công tác sinh viên.\n3. Tổ chức tổng kết, đánh giá công tác sinh viên; báo cáo Bộ Giáo dục và\nĐào tạo vào cuối năm học; gửi báo cáo đột xuất về Bộ Giáo dục và Đào tạo và\ncác cơ quan quản lý trực tiếp về những vụ việc phức tạp, nghiêm trọng xảy ra có\nliên quan đến sinh viên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Công tác thanh tra, kiểm tra, khen thưởng, kỷ luật",
+          "text": "Điều 23. Công tác thanh tra, kiểm tra, khen thưởng, kỷ luật\n1. Bộ Giáo dục và Đào tạo, các sở giáo dục và đào tạo và các cơ sở giáo dục\nđại học theo thẩm quyền tổ chức thanh tra, kiểm tra việc thực hiện công tác sinh\nviên.\n2. Các cơ sở giáo dục đại học, đơn vị, cá nhân có thành tích trong công tác\nsinh viên được xét khen thưởng theo quy định.\n3. Các cá nhân vi phạm quy định về công tác sinh viên tuỳ theo mức độ sẽ\nbị xử lý theo quy định.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Thông tư này Quy chế công tác sinh viên",
+      "text": "Điều 1. Ban hành kèm theo Thông tư này Quy chế công tác sinh viên\nđối với chương trình đào tạo đại học hệ chính quy.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 5 năm",
+      "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 5 năm\n2016 và thay thế những quy định về sinh viên và công tác sinh viên của các đại\nhọc, học viện, trường đại học tại Quyết định số 42/2007/QĐ-BGDĐT ngày 13\ntháng 8 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế\nhọc sinh, sinh viên các trường đại học, cao đẳng và trung cấp chuyên nghiệp hệ\nchính quy.\nLualVietnam\nal \"rlnt",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên,",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Công tác học sinh, sinh viên,\nThủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Giám đốc các\nđại học, học viện; Hiệu trưởng các trường đại học chịu trách nhiệm thi hành\nThông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

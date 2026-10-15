@@ -1,0 +1,185 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0242_2367_QĐ-ĐHĐN_Quy định về việc tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại họ.txt",
+  "mappedBy": "gemini-web",
+  "note": "12 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2367/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về việc tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": null,
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Công tác sinh viên"
+    ],
+    "summary": "Quyết định ban hành Quy định về việc tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại học Đà Nẵng, bao gồm các quy định về chương trình, tổ chức giảng dạy, đánh giá kết quả, miễn học, điều kiện xét công nhận hoàn thành và xử lý kỷ luật.",
+    "idOverride": null,
+    "targetGroups": [
+      "Người học",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ]
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "25/2015/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 25/2015/TT-BGDĐT ngày 14/10/2015 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chương trình môn học Giáo dục thể chất thuộc các chương trình đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4784/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4784/QĐ-ĐHĐN ngày 29/12/2020 của Giám đốc Đại học Đà Nẵng về việc phân công tổ chức và quản lý hoạt động đào tạo giữa Đại học Đà Nẵng và các đơn vị đào tạo thuộc và trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "6800/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 6800/QĐ-ĐHĐN ngày 09/12/2016 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại học Đà Nẵng và Quyết định số 3485/QĐ-ĐHĐN ngày 14/10/2020 của Giám đốc Đại học Đà Nẵng về việc sửa đổi, bổ sung Quy định tổ chức giảng dạy, học tập môn học Giáo dục thể chất…"
+    },
+    {
+      "targetDocumentNumber": "3485/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 6800/QĐ-ĐHĐN ngày 09/12/2016 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại học Đà Nẵng và Quyết định số 3485/QĐ-ĐHĐN ngày 14/10/2020 của Giám đốc Đại học Đà Nẵng về việc sửa đổi, bổ sung Quy định tổ chức giảng dạy, học tập môn học Giáo dục thể chất…"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Khoa Giáo dục Thể chất",
+    "Hội đồng Đại học Đà Nẵng",
+    "Ban Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về chương trình môn học Giáo dục thể chất\n(GDTC); tổ chức giảng dạy, học tập, đánh giá xếp loại và xác nhận hoàn thành\nmôn học GDTC trong Đại học Đà Nẵng;\n2. Văn bản này áp dụng đối với Khoa Giáo dục Thể chất, giảng viên\nGDTC và sinh viên đang theo học tại các trường đại học thành viên, các đơn vị\nđào tạo thuộc và trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Chương trình môn học GDTC",
+          "text": "Điều 2. Chương trình môn học GDTC\n1. Mục tiêu:\nChương trình môn học GDTC nhằm cung cấp kiến thức, kỹ năng vận động\ncơ bản, hình thành thói quen luyện tập thể dục, thể thao để nâng cao sức khỏe;\nphát triển thể lực, tầm vóc, hoàn thiện nhân cách, nâng cao khả năng học tập, kỹ\nnăng hoạt động xã hội với tinh thần, thái độ tích cực góp phần thực hiện mục tiêu\ngiáo dục toàn diện\n2. Khối lượng kiến thức, cấu trúc chương trình:\na. Khối lượng kiến thức\nChương trình gồm 04 tín chỉ (120 tiết) tương đương 04 học phần:\nb. Cấu trúc chương trình\nChương trình có hai phần: Học phần GDTC bắt buộc và Học phần GDTC\ntự chọn.\nHọc phần GDTC bắt buộc (Học phần GDTC 1): là học phần chứa đựng\nnhững nội dung, kiến thức chính yếu của chương trình, nhằm cung cấp kiến thức,\nkỹ năng vận động cơ bản;\nHọc phần GDTC tự chọn: 03 học phần\nHọc phần GDTC 2;\nHọc phần GDTC 3;\n+ Học phần GDTC 4\n\n2\nLà học phần chứa đựng những nội dung, kiến thức cần thiết của chương\ntrình, nhằm hình thành các kỹ năng và thói quen tập luyện môn thể thao mà sinh\nviên đã yêu thích, lựa chọn.\n3. Các lớp GDTC:\na. Lớp GDTC cơ bản:\nSinh viên có sức khỏe bình thường theo học chương trình GDTC cơ bản\nvới 04 học phần (01 Học phần GDTC bắt buộc và 03 Học phần GDTC tự chọn);\nNội dung chương trình, đề cương chi tiết các lớp GDTC cơ bản được tổ\nchức xây dựng, thẩm định và ban hành theo quy định hiện hành;\nTheo chu kỳ hai năm, Khoa Giáo dục Thể chất khảo sát nhu cầu của sinh\nviên và dựa vào cơ sở vật chất, đội ngũ giảng viên để điều chỉnh, bổ sung các\nmôn thể thao của lớp GDTC cơ bản cho phù hợp.\nb. Lớp GDTC nâng cao:\nSinh viên đăng ký học lớp GDTC nâng cao sau khi học xong học phần\nGDTC bắt buộc;\nSinh viên theo học lớp GDTC nâng cao được tuyển chọn theo các quy\nđịnh của Bộ môn;\nNội dung chương trình, đề cương chi tiết các lớp GDTC nâng cao được\ntổ chức xây dựng, thẩm định và ban hành theo quy định hiện hành;\nTheo chu kỳ hai năm, Khoa Giáo dục Thể chất khảo sát nhu cầu của sinh\nviên và dựa vào cơ sở vật chất, đội ngũ giảng viên để điều chỉnh, bổ sung các\nmôn thể thao của lớp GDTC nâng cao cho phù hợp.\nc. Lớp GDTC sức khỏe yếu:\nSinh viên bị dị tật bẩm sinh, khuyết tật, khả năng vận động kém và những\nsinh viên có chỉ định của bác sĩ về tình trạng sức khỏe không đảm bảo cho việc\nhoạt động thể dục thể thao được sắp xếp học chương trình của lớp GDTC sức\nkhỏe yếu;\nSinh viên bị tai nạn, ốm đau bất thường sức khỏe không đảm bảo để tiếp\ntục theo học chương trình của lớp GDTC cơ bản, GDTC nâng cao thì được\nchuyển sang lớp GDTC sức khỏe yếu trong cùng học kỳ;\nNội dung chương trình, đề cương chi tiết các lớp GDTC sức khỏe yếu\nđược tổ chức xây dựng, thẩm định và ban hành theo quy định hiện hành;\nSinh viên lớp GDTC sức khỏe yếu không học Học phần bắt buộc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Tổ chức giảng dạy môn học GDTC",
+          "text": "Điều 3. Tổ chức giảng dạy môn học GDTC\n1. Kế hoạch giảng dạy:\nChương trình môn học GDTC được tổ chức giảng dạy trong 02 năm học\nđầu tiên của khóa học:\n\n3\nHọc kỳ 1, năm học thứ nhất: Học phần GDTC bắt buộc (GDTC1). Riêng\nsinh viên lớp GDTC sức khỏe yếu học học phần GDTC1 theo chương trình của\nlớp GDTC sức khỏe yếu.\nHọc kỳ 2, năm học thứ nhất và năm học thứ hai: các học phần GDTC tự\nchọn: (GDTC2, GDTC3, GDTC4)\n2. Đăng ký học Học phần GDTC:\nSinh viên đăng ký Học phần GDTC tại các trường đại học thành viên, các\nđơn vị đào tạo thuộc và trực thuộc ĐHĐN theo kế hoạch giảng dạy;\nSinh viên phải hoàn thành học phần GDTC bắt buộc, mới được đăng ký\nhọc các học phần tự chọn (trừ sinh viên thuộc lớp GDTC sức khỏe yếu);\nSinh viên lựa chọn 03 Học phần GDTC tự chọn khác nhau;\nSinh viên bị điểm F trong học phần đã học phải đăng ký học lại học phần\nđó;\nSinh viên được quyền đăng ký học lại theo kế hoạch giảng dạy hằng năm\ncủa Khoa Giáo dục Thể chất.\n3. Địa điểm học tập:\nTại giảng đường, phòng học, khu hoạt động thể thao của các trường đại\nhọc thành viên, các đơn vị đào tạo thuộc và trực thuộc ĐHĐN và Khoa Giáo dục\nThể chất.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Đánh giá kết quả",
+          "text": "Điều 4. Đánh giá kết quả\n1. Điểm chuyên cần:\nĐiểm chuyên cần: 30%\nĐiểm chuyên cần được tính như sau:\nSố tiết nghỉ học Điểm\nKhông vắng thái độ học tích cực 10\n02 tiết 8\n04 tiết 6\n06 tiết 4\nTrên 06 tiết\n2. Điểm thi giữa học phần:\nĐiểm thi giữa học phần: 20%\nĐiểm giữa học phần là điểm trung bình cộng các điểm thành phần (nếu\ncó từ 2 cột điểm trở lên);\nHình thức kiểm tra theo quy định của Bộ môn và phải phù hợp với nội\ndung học phần đã quy định trong chương trình.\n\n3. Điểm thi kết thúc học phần:\nĐiểm thi kết thúc học phần: 50%\nĐiểm thi kết thúc học phần là điểm trung bình cộng các điểm thi thành\nphần (nếu có từ 2 cột điểm trở lên);\nHình thức kiểm tra theo quy định của Bộ môn và phải phù hợp với nội\ndung học phần đã quy định trong chương trình.\n4. Điểm học phần:\nĐiểm học phần là tổng điểm của tất cả các điểm đánh giá bộ phận của học\nphần nhân với trọng số tương ứng (theo thang điểm 10). Điểm học phần làm tròn\nđến một chữ số thập phân sau đó chuyển thành điểm chữ như sau:\nPhân loại Điểm số Điểm chữ Xếp loại\n8.5 - 10 A Giỏi\nLoại đạt 7.0 - 8.4 B Khá\n5.5 - 6.9 C Trung bình\n4.0 - 5.4 D Trung bình yếu\nLoại không đạt Dưới 4.0 F Kém\n5. Cách tính điểm trung bình chung:\na) Để tính điểm trung bình chung học kỳ và điểm trung bình chung tích\nlũy, mức điểm chữ của mỗi học phần phải được quy đổi qua điểm số (theo thang\nđiểm 4) như sau:\nA tương ứng với 4\nB tương ứng với 3\nC tương ứng với 2\nD tương ứng với 1\nF tương ứng với 0\nb) Điểm trung bình chung tích lũy được tính theo công thức sau và được\nlàm tròn đến 2 chữ số thập phân:\nai × ni\nA i=1\nni\ni = 1\nTrong đó:\nA là điểm trung bình chung tích lũy\n\n5\nai là điểm của học phần thứ i\nni là số tín chỉ của học phần thứ i\nn là tổng số học phần.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Khối lượng học phần sinh viên phải tích lũy",
+          "text": "Điều 5. Khối lượng học phần sinh viên phải tích lũy\nĐối với sinh viên học đại học hệ chính quy và liên thông hệ chính quy:\nSinh viên phải tích lũy đủ 04 học phần GDTC theo Điều 2 của Quy định này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Miễn học môn Giáo dục thể chất",
+          "text": "Điều 6. Miễn học môn Giáo dục thể chất\n1. Miễn học tất cả các học phần môn học GDTC cho những sinh viên đã\nđược công nhận hoàn thành môn học GDTC từ các trường đại học giảng dạy theo\nThông tư số 25/2015/TT-BGDĐT ngày 14/10/2015 của Bộ Giáo dục và Đào tạo\nban hành Quy định về chương trình môn học Giáo dục thể chất thuộc các chương\ntrình đào tạo trình độ đại học.\n2. Miễn học một số học phần môn học GDTC cho những sinh viên đã học\ncác học phần GDTC trong những trường hợp chuyển trường, học liên thông.\n3. Các trường hợp đặc biệt do Giám đốc Đại học Đà Nẵng quyết định.\n4. Các thủ tục cần thiết để được xét miễn học môn học hoặc một số học\nphần môn học GDTC:\nSinh viên nộp đơn xin miễn học, 01 bản photo công chứng bản công nhận\nhoàn thành môn học GDTC (nếu có) hoặc văn bản xác nhận kết quả học tập các\nhọc phần đã hoàn thành về Khoa Giáo dục Thể chất để xem xét giải quyết.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Điều kiện xét xếp loại và công nhận hoàn thành môn học Giáo",
+          "text": "Điều 7. Điều kiện xét xếp loại và công nhận hoàn thành môn học Giáo\ndục thể chất\n1. Sinh viên được công nhận hoàn thành chương trình môn học GDTC khi\nkết thúc môn học và xếp loại có điểm trung bình chung môn học đạt từ 2.0 điểm\ntrở lên (theo thang điểm 4)\n2. Căn cứ kết quả học tập của sinh viên, Khoa GDTC có trách nhiệm xét\nvà lập danh sách sinh viên hoàn thành chương trình môn học GDTC, trình Giám\nđốc Đại học Đà Nẵng ban hành quyết định công nhận hoàn thành chương trình\nmôn học GDTC.\n3. Căn cứ quyết định công nhận kết quả của Đại học Đà Nẵng, Trưởng\nKhoa GDTC (thừa ủy quyền của Giám đốc Đại học Đà Nẵng) ký giấy chứng\nnhận hoàn thành chương trình môn học GDTC cho sinh viên có nhu cầu.\n4. Kết quả hoàn thành chương trình môn học GDTC là một trong những\nđiều kiện để xét tốt nghiệp cho sinh viên.\n5. Sinh viên chưa đủ điều kiện được công nhận xếp loại và công nhận hoàn\nthành môn học Giáo dục thể chất phải lựa chọn đăng ký học một số học phần để\ncải thiện điểm nhằm hoàn thành chương trình môn học theo quy định.\n\n6. Xếp loại được xác định theo điểm trung bình chung tích lũy của môn\nhọc GDTC như sau:\nĐiểm trung bình chung tích lũy Xếp loại\n3.60 4.00 Xuất sắc\n3.20 3.59 Giỏi\n2.50 3.19 Khá\n2.00 2.49 Trung bình",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Xử lý kỷ luật",
+          "text": "Điều 8. Xử lý kỷ luật\n1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ\nbị xử lý kỷ luật đối với từng học phần đã vi phạm theo các quy định của Quy\nchế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo\nban hành, trừ trường hợp quy định tại khoản 2 Điều này.\n2. Sinh viên đi thi hộ hoặc nhờ người khác thi hộ, đều bị kỷ luật ở mức\nđình chỉ học tập một năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi\nhọc đối với trường hợp vi phạm lần thứ hai.\n3. Các giảng viên, cán bộ của Khoa Giáo dục Thể chất có hành vi vi phạm\ncác quy định về tổ chức đào tạo, kiểm tra, thi và công nhận xếp loại, nếu có đủ\nchứng cứ, tùy theo mức độ nặng nhẹ sẽ bị xem xét xử lý kỷ luật theo quy định\npháp luật hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 9. Tổ chức thực hiện\n1. Khoa Giáo dục Thể chất có trách nhiệm tổ chức biên soạn đề cương,\ngiáo trình, giáo án, tập bài giảng, sách chuyên khảo theo Điều 2 của Quy định\nnày theo phân công nhiệm vụ của ĐHĐN.\n2. Trong quá trình thực hiện, nếu có vướng mắc hoặc có vấn đề mới nảy\nsinh cần sửa đổi, bổ sung các đơn vị phản ánh kịp thời với Khoa Giáo dục Thể\nchất để tổng hợp ý kiến trình Giám đốc xem xét và quyết định./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này \"Quy định về việc tổ chức giảng",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này \"Quy định về việc tổ chức giảng\ndạy, học tập môn học Giáo dục thể chất trong Đại học Đà Nẵng\"\n\n2",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết\nđịnh số 6800/QĐ-ĐHĐN ngày 09/12/2016 của Giám đốc Đại học Đà Nẵng về việc\nban hành Quy định tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại\nhọc Đà Nẵng và Quyết định số 3485/QĐ-ĐHĐN ngày 14/10/2020 của Giám đốc\nĐại học Đà Nẵng về việc sửa đổi, bổ sung Quy định tổ chức giảng dạy, học tập môn\nhọc Giáo dục thể chất trong Đại học Đà Nẵng;",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Trưởng các ban chức năng liên quan, Hiệu trưởng",
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các ban chức năng liên quan, Hiệu trưởng\ncác trường đại học thành viên, Trưởng khoa Khoa Giáo dục Thể chất, Thủ trưởng\ncác đơn vị đào tạo thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành\nQuyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}
