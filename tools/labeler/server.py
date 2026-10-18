@@ -138,7 +138,8 @@ def dung_handler(kho: Kho, goc_tinh: Path):
             self.send_header("Content-Length", str(len(b)))
             self.send_header("Cache-Control", "no-store")
             self.end_headers()
-            self.wfile.write(b)
+            if self.command != "HEAD":
+                self.wfile.write(b)
 
         def _than(self):
             n = int(self.headers.get("Content-Length") or 0)
@@ -192,17 +193,20 @@ def dung_handler(kho: Kho, goc_tinh: Path):
             self.send_header("Content-Length", str(len(b)))
             self.send_header("Cache-Control", "no-store" if f.suffix == ".html" else "max-age=60")
             self.end_headers()
-            self.wfile.write(b)
+            if self.command != "HEAD":        # HEAD chi tra header, khong tra than
+                self.wfile.write(b)
 
         def _dieu_phoi(self):
             d = urlparse(self.path).path
             if d.startswith("/api/"):
                 return self._api(d[5:].strip("/"))
-            if self.command != "GET":
+            if self.command not in ("GET", "HEAD"):
                 return self.send_error(405)
             self._tinh()
 
-        do_GET = do_POST = do_PUT = do_PATCH = do_DELETE = _dieu_phoi
+        # HEAD phai co: `curl -I` dung method nay, thieu thi BaseHTTPRequestHandler
+        # tra 501 du trang van chay binh thuong trong trinh duyet.
+        do_GET = do_HEAD = do_POST = do_PUT = do_PATCH = do_DELETE = _dieu_phoi
 
     return H
 
