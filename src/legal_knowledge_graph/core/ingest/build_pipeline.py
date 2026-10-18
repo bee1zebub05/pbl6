@@ -13,7 +13,7 @@ CLI `all` — chạy TRỌN một lượt từ thư mục JSON thô tới graph 
 
 Dùng khi có version dữ liệu mới (v2, v3...) hoặc muốn nạp lại từ đầu:
 
-    python run.py all --dir data/clean/json/v2
+    python run.py lkg all --dir data/clean/json/v2     (ở gốc repo)
 """
 
 from __future__ import annotations

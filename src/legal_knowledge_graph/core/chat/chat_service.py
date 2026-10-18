@@ -15,6 +15,7 @@ from langchain_core.messages import HumanMessage
 
 from ..observability import (annotate_current_trace, current_trace_id, llm_calls_in_turn, log_event,
                              traceable, turn_context)
+from . import session_log
 from .models import TURN_RESET, ChatResponse, ClarificationOut, GraphContext
 from .prompts import ERROR_ANSWER
 
@@ -25,10 +26,11 @@ def _trace_summary(output: Any) -> dict:
 
 
 class ChatService:
-    def __init__(self, graph, model_name: str, max_question_chars: int):
+    def __init__(self, graph, model_name: str, max_question_chars: int, turn_deadline_seconds: float | None = None):
         self._graph = graph
         self._model_name = model_name
         self._max_chars = max_question_chars
+        self._deadline_seconds = turn_deadline_seconds
 
     def ask(self, question: str, thread_id: str | None = None) -> ChatResponse:
         question = (question or "").strip()[: self._max_chars]
@@ -36,7 +38,8 @@ class ChatService:
             raise ValueError("Câu hỏi rỗng")
         thread_id = thread_id or uuid.uuid4().hex
 
-        with turn_context(thread_id) as turn_id:
+        with turn_context(thread_id, self._deadline_seconds) as turn_id, \
+                session_log.turn(thread_id, turn_id, question):
             log_event("turn.start", question=question)
             started = time.perf_counter()
             try:
@@ -44,12 +47,19 @@ class ChatService:
             except Exception as exc:  # lỗi ngoài node (checkpointer, cấu hình graph...)
                 log_event("error", level=logging.ERROR, node="graph", error_type=type(exc).__name__,
                           message=str(exc)[:500])
+                session_log.error("graph", exc)
                 state, trace_id = {"kind": "error", "answer": ERROR_ANSWER, "error": str(exc)}, None
             elapsed_ms = (time.perf_counter() - started) * 1000
             response = self._to_response(state, thread_id, turn_id, trace_id, elapsed_ms, llm_calls_in_turn())
             log_event("turn.end", kind=response.kind, intent=response.intent, action=response.action,
                       template=response.template, ms=round(elapsed_ms, 1), llm_calls=response.llm_calls,
                       trace_id=trace_id)
+            session_log.step(
+                f"KẾT QUẢ LƯỢT · {response.kind} · {response.llm_calls} lượt LLM · {elapsed_ms:.0f} ms",
+                **{"Câu trả lời gửi người dùng": response.answer,
+                   "Ứng viên hỏi lại": response.clarification.candidates if response.clarification else None,
+                   "Nguồn": response.sources, "Lỗi": state.get("error"), "trace_id": trace_id},
+            )
         return response
 
     @traceable(name="legal_chat", process_outputs=_trace_summary)

@@ -1,7 +1,7 @@
 """
 An toàn cho Cypher — chủ yếu phục vụ tool `run_cypher` của agent chatbot
 (core/chat/agent.py) vì đó là Cypher do LLM tự viết. Nhánh template không cần
-blocklist/whitelist (Cypher đã hand-vetted trong templates.py), nhưng vẫn
+blocklist/whitelist (Cypher đã kiểm duyệt tay trong templates/), nhưng vẫn
 đi qua timeout của core/db.py giống nhau (defense in depth — tham số cực
 đoan vẫn có thể làm 1 template chạy chậm).
 

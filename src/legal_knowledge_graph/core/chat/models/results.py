@@ -28,7 +28,6 @@ class AgentOutcome:
     cypher: str | None
     rows: list[dict]
     context: GraphContext
-    tool_calls: list[dict]
 
 
 class ResolutionFailed(Exception):

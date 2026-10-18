@@ -197,9 +197,64 @@ def test_infrastructure_error_returns_friendly_message():
 
 def test_retrieval_failure_does_not_break_answer():
     class BrokenRetriever(FakeRetriever):
-        def retrieve(self, question, *, scope_docs=()):
+        def retrieve(self, question, **kwargs):
             raise RuntimeError("vector index chưa có embedding")
 
-    llm = FakeLLM({"intent": [_intent()], "route": [_frame("status_distribution")], "answer": ["OK"]})
-    r = _service(llm, retriever=BrokenRetriever()).ask("Phân bố hiệu lực?")
+    llm = FakeLLM({"intent": [_intent()], "route": [_frame("list_documents", org="ĐHBK")], "answer": ["OK"]})
+    r = _service(llm, retriever=BrokenRetriever()).ask("Văn bản của ĐHBK?")
     assert r.kind == "answer" and r.retrieval_reason
+
+
+def test_statistics_question_skips_graph_rag():
+    retriever = FakeRetriever(_context())
+    llm = FakeLLM({"intent": [_intent()], "route": [_frame("status_distribution")], "answer": ["OK"]})
+    r = _service(llm, retriever=retriever).ask("Phân bố hiệu lực?")
+    assert r.kind == "answer" and retriever.scopes == [] and r.retrieval is None
+
+
+def test_document_list_uses_scope_only_retrieval():
+    retriever = FakeRetriever()
+    llm = FakeLLM({"intent": [_intent()], "route": [_frame("list_documents", org="ĐHBK")], "answer": ["OK"]})
+    _service(llm, retriever=retriever).ask("Văn bản của ĐHBK?")
+    assert retriever.modes == ["scope"]
+
+
+def test_content_question_uses_full_retrieval_with_router_phrase():
+    retriever = FakeRetriever()
+    llm = FakeLLM({"intent": [_intent(question="Quy định về học bổng?")],
+                   "route": [_frame("search_articles", phrase="học bổng")], "answer": ["OK"]})
+    _service(llm, retriever=retriever).ask("Quy định về học bổng?")
+    assert (retriever.modes, retriever.phrases) == (["full"], ["học bổng"])
+
+
+def _agent_messages(llm):
+    system, human = next(messages for node, messages in llm.prompts if node == "agent")[:2]
+    return system.text, human.text
+
+
+def test_agent_sees_history_original_message_and_router_frame():
+    llm = FakeLLM({
+        "intent": [_intent("smalltalk", "Xin chào", reply="Chào bạn!"),
+                   _intent(question="1001/QĐ-ĐHBK có phải do Đoàn Quang Vinh ký không?")],
+        "route": [_frame("document_detail", doc_number="1001/QĐ-ĐHBK", person="Đoàn Quang Vinh")],
+        "agent": [AIMessage(content="Đúng vậy.")],
+    })
+    service = _service(llm)
+    service.ask("Xin chào", thread_id="t-agent")
+    service.ask("văn bản đó có phải thầy Vinh ký?", thread_id="t-agent")
+    system, human = _agent_messages(llm)
+    assert "Người dùng: Xin chào" in human and "Bot: Chào bạn!" in human
+    assert "TIN NHẮN GỐC: văn bản đó có phải thầy Vinh ký?" in human
+    assert "action=document_detail" in human and '"person": "Đoàn Quang Vinh"' in human
+    assert human.endswith("CÂU HỎI: 1001/QĐ-ĐHBK có phải do Đoàn Quang Vinh ký không?")
+    # Danh mục template thu hẹp theo action, vẫn giữ template lọc kết hợp.
+    assert "TPL_DOCS_FILTERED" in system and "TPL_DOC_DISTRIBUTION_BY_STATUS" not in system
+
+
+def test_agent_with_action_other_gets_full_catalog_and_no_empty_sections():
+    llm = FakeLLM({"intent": [_intent(question="câu khó")], "route": [_frame("other")],
+                   "agent": [AIMessage(content="…")]})
+    _service(llm).ask("câu khó")
+    system, human = _agent_messages(llm)
+    assert "TPL_DOC_DISTRIBUTION_BY_STATUS" in system
+    assert "LỊCH SỬ" not in human and "TIN NHẮN GỐC" not in human

@@ -16,6 +16,7 @@ from langchain_core.runnables import Runnable
 from langchain_core.tools import BaseTool
 
 from ...observability import log_event
+from .. import session_log
 from ..ports import M, LLMProvider
 
 # Biến chat model thành runnable cần gọi (structured / bind_tools / nguyên bản).
@@ -37,14 +38,21 @@ class LangChainLLM(LLMProvider):
 
     def _invoke(self, node: str, build: Build, messages: Sequence[BaseMessage]) -> Any:
         started = time.perf_counter()
-        ok, info = False, {}
+        ok, info, result, failure = False, {}, None, None
         try:
             result = self._call(build, list(messages), info)
             ok = True
             return result
+        except Exception as exc:
+            failure = exc
+            raise
         finally:
-            log_event("llm", node=node, provider=self.provider, model=self.model_name, ok=ok,
-                      ms=round((time.perf_counter() - started) * 1000, 1), **info)
+            ms = round((time.perf_counter() - started) * 1000, 1)
+            # `info` có thể ghi đè `model` bằng model thực dùng (model dự phòng của Gemini).
+            fields = {"node": node, "provider": self.provider, "model": self.model_name, "ok": ok, "ms": ms, **info}
+            log_event("llm", **fields)
+            session_log.llm_call(node, model=fields["model"], ms=ms, info=info, messages=messages,
+                                 output=result, error=failure)
 
     def structured(self, schema: type[M], messages: Sequence[BaseMessage], *, node: str) -> M:
         return self._invoke(node, lambda m: m.with_structured_output(schema, **self._structured_kwargs), messages)

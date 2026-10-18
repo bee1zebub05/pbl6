@@ -97,6 +97,17 @@ def test_text_and_tool_calling(llm):
     assert message.tool_calls[0]["args"] == {"query": "học bổng"}
 
 
+def test_llm_call_is_written_to_session_log_with_prompt_and_output(llm, monkeypatch, tmp_path):
+    from core.chat import session_log
+
+    monkeypatch.setattr(config, "SESSION_LOG_ENABLED", True)
+    monkeypatch.setattr(config, "SESSION_LOG_DIR", tmp_path)
+    with session_log.turn("t-provider", "turn1", "Học bổng?"):
+        llm.structured(RouterOutput, [HumanMessage("CÂU HỎI: Học bổng?")], node="route")
+    text = session_log.session_path("t-provider").read_text(encoding="utf-8")
+    assert "[route] LLM qwen-test" in text and "CÂU HỎI: Học bổng?" in text and '"phrase": "học bổng"' in text
+
+
 def test_build_llm_picks_provider_from_config(monkeypatch, server_url):
     monkeypatch.setattr(config, "LLM_PROVIDER", "openai_compatible")
     monkeypatch.setattr(config, "LLM_MODEL", "qwen-test")

@@ -21,7 +21,7 @@ from __future__ import annotations
 
 from .. import config
 from .. import db
-from .entity_resolver import lucene_terms
+from .entity_resolver import keyword_query, resolve_fulltext_phrase
 from .templates.base import ARTICLE_TO_DOC
 
 # Cột chung của một Điều hạt giống: Điều + văn bản chứa nó + nội dung kèm
@@ -131,8 +131,15 @@ def seed_vector(session_, query_vector: list[float], k: int) -> list[dict]:
                                         "queryVector": query_vector, "k": k})
 
 
-def seed_fulltext(session_, question: str, k: int) -> list[dict]:
-    query = lucene_terms(question)
+def fulltext_query(question: str, phrase: str | None = None) -> str:
+    """Truy vấn Lucene cho seed BM25. `phrase`: cụm nội dung router đã trích
+    (slot phrase) — chính xác hơn từ khoá rút từ cả câu hỏi, nên được dùng thay khi có."""
+
+    return resolve_fulltext_phrase(phrase) if phrase else keyword_query(question)
+
+
+def seed_fulltext(session_, question: str, k: int, phrase: str | None = None) -> list[dict]:
+    query = fulltext_query(question, phrase)
     if not query:
         return []
     return _run(session_, SEED_FULLTEXT, {"luceneQuery": query, "candidates": k * 3, "k": k})

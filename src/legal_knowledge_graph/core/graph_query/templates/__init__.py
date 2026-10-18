@@ -18,18 +18,26 @@ khoá thật trước khi điền vào $param.
 
 from __future__ import annotations
 
+from typing import Collection
+
 from . import content, documents, people_orgs, relations, single_document, statistics
-from .actions import ACTION_DESCRIPTIONS, AGENT_ACTION
+from .actions import (ACTION_DESCRIPTIONS, AGENT_ACTION, RETRIEVAL_FULL, RETRIEVAL_NONE, RetrievalMode,
+                      retrieval_mode)
 from .base import (INT_SLOTS, INTERNAL_PARAMS, PARAM_TO_SLOT, RESOLVER_KINDS, SLOT_TO_PARAM, ParamSpec, Template)
 
 _GROUPS = (documents, single_document, relations, content, people_orgs, statistics)
 
 TEMPLATES: dict[str, Template] = {t.name: t for group in _GROUPS for t in group.TEMPLATES}
 
+# Template luôn có trong danh mục agent dù câu hỏi đã có action: lọc kết hợp
+# nhiều điều kiện và tìm theo nội dung — hai đường agent hay cần nhất.
+AGENT_BASE_ACTIONS = frozenset({"list_documents", "search_articles"})
+
 __all__ = [
-    "ACTION_DESCRIPTIONS", "AGENT_ACTION", "INT_SLOTS", "INTERNAL_PARAMS", "PARAM_TO_SLOT", "RESOLVER_KINDS",
-    "SLOT_TO_PARAM", "ParamSpec", "Template", "TEMPLATES", "action_description", "actions_in_order",
-    "catalog_markdown", "catalog_text", "template_slots",
+    "ACTION_DESCRIPTIONS", "AGENT_ACTION", "AGENT_BASE_ACTIONS", "INT_SLOTS", "INTERNAL_PARAMS", "PARAM_TO_SLOT",
+    "RESOLVER_KINDS", "RETRIEVAL_FULL", "RETRIEVAL_NONE", "RetrievalMode", "SLOT_TO_PARAM", "ParamSpec", "Template",
+    "TEMPLATES", "action_description", "actions_in_order", "catalog_markdown", "catalog_text", "retrieval_mode",
+    "template_slots",
 ]
 
 
@@ -54,11 +62,14 @@ def action_description(action: str) -> str:
     return next(t.description for t in TEMPLATES.values() if t.action == action)
 
 
-def catalog_text() -> str:
-    """Danh mục template cho prompt agent (tool run_template)."""
+def catalog_text(actions: Collection[str] | None = None) -> str:
+    """Danh mục template cho prompt agent (tool run_template). `actions`: chỉ
+    liệt kê template của các action này (None = toàn bộ kho)."""
 
     lines: list[str] = []
     for tpl in TEMPLATES.values():
+        if actions is not None and tpl.action not in actions:
+            continue
         required = [p.name for p in tpl.params if p.required and p.default is None]
         optional = [p.name for p in tpl.params if p.name not in required and p.name not in INTERNAL_PARAMS]
         params = ", ".join([*required, *(f"{p}?" for p in optional)]) or "không"
@@ -119,6 +130,10 @@ def _check() -> None:
     names = [t.name for group in _GROUPS for t in group.TEMPLATES]
     duplicates = {n for n in names if names.count(n) > 1}
     assert not duplicates, f"Trùng tên template: {duplicates}"
+    actions = {t.action for t in TEMPLATES.values()}
+    for declared in (RETRIEVAL_FULL, RETRIEVAL_NONE, AGENT_BASE_ACTIONS):
+        assert declared <= actions, f"Action không có trong kho template: {sorted(declared - actions)}"
+    assert not RETRIEVAL_FULL & RETRIEVAL_NONE, f"Action vừa full vừa none: {sorted(RETRIEVAL_FULL & RETRIEVAL_NONE)}"
     for tpl in TEMPLATES.values():
         unknown = {p.name for p in tpl.params} - set(PARAM_TO_SLOT) - INTERNAL_PARAMS
         assert not unknown, f"{tpl.name}: tham số {unknown} chưa có slot trong SLOT_TO_PARAM"

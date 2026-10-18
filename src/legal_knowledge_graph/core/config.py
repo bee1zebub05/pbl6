@@ -1,5 +1,5 @@
 """
-Cấu hình riêng cho legal_knowledge_graph — KHÔNG import src/vanban/config.py,
+Cấu hình riêng cho legal_knowledge_graph — KHÔNG import src/vanban/core/config.py,
 KHÔNG dùng chung biến môi trường với pipeline tự động (tiền tố LKG_ riêng).
 File .env vật lý dùng CHUNG với repo (env/requirements/docker/run để một
 chỗ), nhưng namespace biến tách biệt hoàn toàn, nên module này vẫn chạy độc
@@ -56,7 +56,7 @@ LLM_PROVIDERS = ("gemini", "openai_compatible")
 LLM_PROVIDER = os.getenv("LKG_LLM_PROVIDER", "gemini").strip().lower()
 # LKG_GEMINI_MODEL là tên cũ, vẫn được đọc khi chưa đặt LKG_LLM_MODEL.
 LLM_MODEL = os.getenv("LKG_LLM_MODEL") or os.getenv("LKG_GEMINI_MODEL") or (
-    "gemini-3.8-flash" if LLM_PROVIDER == "gemini" else "")
+    "gemini-3.5-flash" if LLM_PROVIDER == "gemini" else "")
 # Chỉ dùng cho openai_compatible. Server tự host không cần key thì để trống.
 LLM_BASE_URL = os.getenv("LKG_LLM_BASE_URL", "")
 LLM_API_KEY = os.getenv("LKG_LLM_API_KEY", "")
@@ -65,7 +65,12 @@ LLM_API_KEY = os.getenv("LKG_LLM_API_KEY", "")
 #   function_calling  qua tool call — cho server chưa hỗ trợ json_schema
 #   json_mode         chỉ ép JSON hợp lệ, schema nằm trong prompt — phương án cuối
 LLM_STRUCTURED_METHOD = os.getenv("LKG_LLM_STRUCTURED_METHOD", "json_schema")
-LLM_TIMEOUT_SECONDS = float(os.getenv("LKG_LLM_TIMEOUT_SECONDS", "60"))
+# Model dự phòng khi model chính báo 503 quá tải (chỉ provider gemini) — để
+# trống thì tắt: bể key tự xoay và chờ như cũ. Nên chọn model khác dòng hoặc
+# bản -lite vì quá tải thường tính theo model.
+LLM_FALLBACK_MODEL = os.getenv("LKG_LLM_FALLBACK_MODEL", "").strip()
+# Trần cho MỘT request; đặt thấp vì một lần 504 sẽ ăn trọn thời gian này.
+LLM_TIMEOUT_SECONDS = float(os.getenv("LKG_LLM_TIMEOUT_SECONDS", "30"))
 # Số lần SDK tự thử lại (openai_compatible). Gemini không dùng — bể key tự xoay.
 LLM_MAX_RETRIES = int(os.getenv("LKG_LLM_MAX_RETRIES", "2"))
 
@@ -125,6 +130,10 @@ MAX_CLARIFY_ROUNDS = int(os.getenv("LKG_NLQ_MAX_CLARIFY_ROUNDS", "2"))
 
 # Số tin nhắn gần nhất đưa vào node intent để viết lại câu hỏi nối tiếp.
 CHAT_HISTORY_WINDOW = int(os.getenv("LKG_CHAT_HISTORY_WINDOW", "6"))
+# Trần thời gian cho CẢ một lượt hỏi (giây): mọi lời gọi Gemini trong lượt
+# dùng chung hạn chót này, quá hạn thì trả câu báo lỗi thay vì để người dùng
+# chờ bể key xoay vòng nhiều phút. 0 = không giới hạn.
+TURN_DEADLINE_SECONDS = float(os.getenv("LKG_TURN_DEADLINE_SECONDS", "60"))
 # Số vòng LLM -> tool tối đa của agent trước khi dừng.
 AGENT_MAX_STEPS = int(os.getenv("LKG_AGENT_MAX_STEPS", "4"))
 # Số dòng kết quả Cypher tối đa đưa vào prompt tổng hợp câu trả lời.
@@ -139,6 +148,10 @@ CORS_ORIGINS = [o.strip() for o in os.getenv(
 # Log cục bộ có cấu trúc (core/observability.py).
 LOG_LEVEL = os.getenv("LKG_LOG_LEVEL", "INFO").upper()
 LOG_DIR = REPO_ROOT / "logs"
+# Log theo phiên hội thoại (core/chat/session_log.py): mỗi thread_id một file
+# văn bản, ghi đầu vào / đầu ra của từng bước ở mỗi lượt — để debug.
+SESSION_LOG_ENABLED = os.getenv("LKG_SESSION_LOG", "true").lower() == "true"
+SESSION_LOG_DIR = Path(os.getenv("LKG_SESSION_LOG_DIR") or LOG_DIR / "sessions")
 
 # ============================================================
 # Embedding Article và GraphRAG — bằng chứng bổ sung cho kết quả Cypher,

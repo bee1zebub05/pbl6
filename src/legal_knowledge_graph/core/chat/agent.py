@@ -11,9 +11,10 @@ giữ Cypher/dòng/Điều thật để node chính trả ra API làm nguồn, k
 
 from __future__ import annotations
 
-from typing import Annotated, Any, TypedDict
+import json
+from typing import Annotated, Any, Sequence, TypedDict
 
-from langchain_core.messages import AIMessage, AnyMessage, HumanMessage, SystemMessage, ToolMessage
+from langchain_core.messages import AIMessage, AnyMessage, BaseMessage, HumanMessage, SystemMessage, ToolMessage
 from langchain_core.tools import BaseTool, StructuredTool, tool
 from langgraph.graph import END, START, StateGraph
 from langgraph.graph.message import add_messages
@@ -25,11 +26,13 @@ from .. import config
 from ..graph_query.cypher_guard import GuardRejected
 from ..graph_query.templates import INT_SLOTS, SLOT_TO_PARAM
 from ..observability import log_event
+from . import session_log
 from .models import AgentOutcome, DocumentContext, GraphContext, ResolutionFailed, TemplateParamError
 from .ports import ContextRetriever, LLMProvider, QueryExecutor
-from .prompts import AGENT_GAVE_UP_ANSWER, AGENT_SYSTEM
+from .prompts import AGENT_GAVE_UP_ANSWER, agent_system
 from .answering.evidence import context_to_text, rows_to_text
 from .retrieval.template_query import TemplateQueryService
+from .understanding.history import format_history, recent_turns
 
 _LAST_STEP_NOTE = "Đã hết lượt tra cứu. KHÔNG gọi thêm công cụ — trả lời người dùng ngay bằng bằng chứng đã có."
 
@@ -56,13 +59,14 @@ RunTemplateArgs = _run_template_args()
 
 class AgentService:
     def __init__(self, llm: LLMProvider, templates: TemplateQueryService, executor: QueryExecutor,
-                 retriever: ContextRetriever, max_steps: int, max_rows: int):
+                 retriever: ContextRetriever, max_steps: int, max_rows: int, history_window: int):
         self._llm = llm
         self._templates = templates
         self._executor = executor
         self._retriever = retriever
         self._max_steps = max_steps
         self._max_rows = max_rows
+        self._history_window = history_window
         self._tools = self._build_tools()
         self._graph = self._build_graph()
 
@@ -120,6 +124,7 @@ class AgentService:
         log_event("agent.tool", tool=name, rows=len(artifact.get("rows") or []),
                   articles=len(context.hits()) if context else 0, ok="rows" in artifact or "context" in artifact,
                   note=None if artifact else content[:200])
+        session_log.tool(name, content, cypher=artifact.get("cypher"))
         return content, artifact
 
     # ------------------------------------------------------------ graph
@@ -146,22 +151,41 @@ class AgentService:
 
     # ------------------------------------------------------------ run
 
-    def run(self, question: str) -> AgentOutcome:
+    def run(self, question: str, *, history: Sequence[BaseMessage] = (), original: str | None = None,
+            action: str | None = None, slots: dict | None = None, route_reason: str | None = None) -> AgentOutcome:
+        """`question`: câu đã viết lại (node intent). `history`, `original` (tin nhắn gốc của người dùng) và khung
+        router (`action`, `slots`, `route_reason`) để agent tự sửa khi câu viết lại sai và đỡ tốn lượt tra cứu."""
+
+        prompt = self.user_prompt(question, history=history, original=original, action=action, slots=slots,
+                                  route_reason=route_reason)
         state = self._graph.invoke(
-            {"messages": [SystemMessage(AGENT_SYSTEM), HumanMessage(question)]},
+            {"messages": [SystemMessage(agent_system(action)), HumanMessage(prompt)]},
             config={"recursion_limit": 2 * self._max_steps + 2},
         )
         return self._outcome(state["messages"])
+
+    def user_prompt(self, question: str, *, history: Sequence[BaseMessage] = (), original: str | None = None,
+                    action: str | None = None, slots: dict | None = None, route_reason: str | None = None) -> str:
+        parts = []
+        if recent_turns(history, self._history_window):
+            parts.append(f"LỊCH SỬ (cũ -> mới, tham khảo):\n{format_history(history, self._history_window)}")
+        if original and original.strip() != question.strip():
+            parts.append(f"TIN NHẮN GỐC: {original.strip()}")
+        if action:
+            frame = f"action={action}, slots={json.dumps(slots or {}, ensure_ascii=False)}"
+            parts.append(f"KHUNG ĐÃ TRÍCH: {frame}" + (f"; lý do chuyển agent: {route_reason}" if route_reason else ""))
+        parts.append(f"CÂU HỎI: {question}")
+        return "\n\n".join(parts)
 
     @staticmethod
     def _outcome(messages: list[AnyMessage]) -> AgentOutcome:
         cypher: str | None = None
         rows: list[dict] = []
         documents: list[DocumentContext] = []
-        tool_calls: list[dict] = []
+        tools: list[str] = []
         for m in messages:
             if isinstance(m, AIMessage):
-                tool_calls += [{"tool": c["name"], "args": c["args"]} for c in m.tool_calls]
+                tools += [c["name"] for c in m.tool_calls]
             elif isinstance(m, ToolMessage) and isinstance(m.artifact, dict):
                 if m.artifact.get("rows") is not None:
                     cypher, rows = m.artifact.get("cypher"), m.artifact["rows"]
@@ -170,7 +194,7 @@ class AgentService:
 
         final = messages[-1]
         answer = final.text.strip() if isinstance(final, AIMessage) and not final.tool_calls else ""
-        log_event("agent", steps=sum(isinstance(m, AIMessage) for m in messages),
-                  tools=[c["tool"] for c in tool_calls], answered=bool(answer))
+        log_event("agent", steps=sum(isinstance(m, AIMessage) for m in messages), tools=tools,
+                  answered=bool(answer))
         return AgentOutcome(answer=answer or AGENT_GAVE_UP_ANSWER, cypher=cypher, rows=rows,
-                            context=GraphContext(documents=documents), tool_calls=tool_calls)
+                            context=GraphContext(documents=documents))

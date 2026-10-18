@@ -6,5 +6,5 @@ ráp vào chatbot ở ../container.py (build_llm chọn LLM theo LKG_LLM_PROVIDE
     gemini_llm.py             LLMProvider: Gemini Developer API + bể key
     openai_compatible_llm.py  LLMProvider: mọi server chuẩn OpenAI API (vLLM, Ollama, OpenRouter...)
     neo4j_adapters.py         QueryExecutor, EntityResolver
-    graph_retriever.py  ContextRetriever (GraphRAG: embed + Cypher)
+    graph_retriever.py        ContextRetriever (GraphRAG: embed + Cypher)
 """

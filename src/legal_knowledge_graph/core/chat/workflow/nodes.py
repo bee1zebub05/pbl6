@@ -12,13 +12,16 @@ from __future__ import annotations
 
 import functools
 import logging
+import time
 import traceback
 from typing import Callable
 
-from langchain_core.messages import AIMessage, HumanMessage
+from langchain_core.messages import AIMessage, BaseMessage, HumanMessage
 from langgraph.graph import END
 
+from ...graph_query.templates import retrieval_mode
 from ...observability import log_event
+from .. import session_log
 from ..models import ChatState, GraphContext, QueryResult, ResolutionFailed, TemplateParamError
 from ..ports import ContextRetriever
 from ..prompts import ERROR_ANSWER, FALLBACK_REPLIES, SUGGESTIONS
@@ -43,20 +46,45 @@ def safe_node(name: str) -> Callable[[NodeFn], NodeFn]:
     def decorator(fn: NodeFn) -> NodeFn:
         @functools.wraps(fn)
         def wrapper(self: "ChatNodes", state: ChatState) -> dict:
+            started = time.perf_counter()
             try:
-                return fn(self, state)
+                update = fn(self, state)
             except Exception as exc:
                 log_event("error", level=logging.ERROR, node=name, error_type=type(exc).__name__,
                           message=str(exc)[:500])
                 log_event("error", level=logging.DEBUG, node=name, traceback=traceback.format_exc())
+                session_log.error(name, exc)
                 return {"kind": "error", "error": f"{type(exc).__name__}: {exc}", "answer": ERROR_ANSWER,
                         "messages": [AIMessage(ERROR_ANSWER)], "clarify_rounds": 0}
+            session_log.step(f"[{name}] đầu ra node · {(time.perf_counter() - started) * 1000:.0f} ms",
+                             **_session_view(update))
+            return update
         return wrapper
     return decorator
 
 
+def _session_view(update: dict) -> dict:
+    """State node vừa ghi, gọn cho log phiên: bỏ `messages`, `answer`, `sources` (khối
+    kết quả lượt đã in), ngữ cảnh GraphRAG chỉ giữ một dòng mỗi Điều (toàn văn đã
+    nằm trong prompt answer)."""
+
+    view = {k: v for k, v in update.items() if k not in ("messages", "answer", "sources")}
+    if view.get("graph_context"):
+        view["graph_context"] = [
+            f"{h['documentNumber']} · {h['articleId']} · {h['heading'] or ''} · via {'+'.join(h['via'])} · "
+            f"{h['effectiveStatus']}" + (f" (bị thay bởi {', '.join(h['supersededBy'])})" if h["supersededBy"] else "")
+            + f" · {len(h['text'])} ký tự"
+            for h in GraphContext.model_validate(view["graph_context"]).hits()
+        ]
+    return view
+
+
 def _failed(state: ChatState) -> bool:
     return state.get("kind") == "error"
+
+
+def _message_text(message: BaseMessage) -> str:
+    return message.text if isinstance(message, HumanMessage) else str(message.content)
 
 
 def _documents_in(params: dict | None, rows: list[dict] | None) -> tuple[str, ...]:
@@ -87,10 +115,8 @@ class ChatNodes:
     @safe_node(INTENT)
     def intent(self, state: ChatState) -> dict:
         messages = state["messages"]
-        current = messages[-1]
-        message = current.text if isinstance(current, HumanMessage) else str(current.content)
         rounds = state.get("clarify_rounds") or 0
-        result = self._intent.classify(messages[:-1], message, awaiting_clarification=rounds > 0)
+        result = self._intent.classify(messages[:-1], _message_text(messages[-1]), awaiting_clarification=rounds > 0)
         return {
             "intent": result.intent,
             "question": result.standalone_question,
@@ -150,7 +176,10 @@ class ChatNodes:
     def retrieve(self, state: ChatState) -> dict:
         # GraphRAG là bằng chứng phụ — lỗi ở đây không được làm hỏng kết quả Cypher đã có.
         try:
-            context = self._retriever.retrieve(state["question"], scope_docs=_documents_in(state.get("params"), state.get("rows")))
+            context = self._retriever.retrieve(
+                state["question"], scope_docs=_documents_in(state.get("params"), state.get("rows")),
+                mode=retrieval_mode(state.get("action")), phrase=(state.get("slots") or {}).get("phrase"),
+            )
         except Exception as exc:
             log_event("graph_rag", level=logging.WARNING, failed=True, error=str(exc)[:300])
             return {"graph_context": None, "retrieval_reason": f"Truy xuất ngữ cảnh thất bại: {exc}"}
@@ -168,7 +197,11 @@ class ChatNodes:
 
     @safe_node(AGENT)
     def agent(self, state: ChatState) -> dict:
-        outcome = self._agent.run(state["question"])
+        messages = state["messages"]
+        outcome = self._agent.run(
+            state["question"], history=messages[:-1], original=_message_text(messages[-1]),
+            action=state.get("action"), slots=state.get("slots"), route_reason=state.get("route_reason"),
+        )
         update = self._finish(outcome.answer, kind="agent_answer")
         update.update({
             "template": None, "cypher": outcome.cypher, "rows": outcome.rows,
@@ -212,4 +245,5 @@ class ChatNodes:
             return ASK_CLARIFY if self._can_clarify(state) else AGENT
         if kind == "agent":
             return AGENT
-        return RETRIEVE
+        # Thống kê / đếm / xếp hạng: kết quả template đã đủ, không truy xuất Điều.
+        return ANSWER if retrieval_mode(state.get("action")) == "none" else RETRIEVE
