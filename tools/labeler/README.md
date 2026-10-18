@@ -32,3 +32,56 @@ Thông tin văn bản (số hiệu, loại, ngày, lĩnh vực, tóm tắt) đi�
 
 Cố định theo cột `nguoi_gan` của `danh_sach.csv`: Nguyên 28, Đức 25, Tùng 25, Kiên 25. Chia riêng mức A và B,
 trong mỗi mức cân theo tổng số ký tự để khối lượng gần bằng nhau.
+
+## Tự host (lưu nhãn xuống SQLite trên máy mình)
+
+Bản artifact lưu nhãn trong kho dùng chung của claude.ai. Nếu tự host trang này
+như file tĩnh thì không có kho đó, nhãn chỉ nằm trong bộ nhớ tab và mất khi tải
+lại — chính trang sẽ hiện băng-rôn *"Bản xem thử: nhãn chỉ lưu tạm trong tab
+này"*.
+
+`server.py` dựng lại đúng phần API mà trang cần và lưu xuống SQLite. Nó phục vụ
+luôn file tĩnh nên chỉ cần một tiến trình. **Chỉ dùng thư viện chuẩn của
+Python**, không phải cài gì.
+
+```bash
+python3 tools/labeler/build_data.py                  # sinh tools/labeler/data/
+python3 tools/labeler/server.py                      # cổng 8002, chỉ nghe 127.0.0.1
+python3 tools/labeler/server.py --db /mnt/ssd/nhan.db --cong 8002
+```
+
+Trang tự dò: chạy trong artifact thì dùng kho chung của artifact, chạy sau
+`server.py` thì dùng SQLite, không có cả hai thì vẫn rơi về bộ nhớ như cũ.
+Đường chạy artifact **không đổi gì**.
+
+Khi tự host, danh tính lấy từ ô *"Tôi là"* ở góc trên, nên `assignee` và
+`updatedBy` vẫn ghi đúng ai làm. Mỗi người chọn tên mình một lần, trình duyệt
+nhớ.
+
+Mặc định chỉ nghe `127.0.0.1` — đủ cho cloudflared chạy cùng máy, và không lòi
+trang ra mạng LAN. Muốn mở rộng thì `--dia-chi 0.0.0.0`.
+
+File `.db` nằm trong `.gitignore`: đó là dữ liệu thật, sao lưu bằng cách copy
+file, đừng commit.
+
+### Chạy nền bằng systemd
+
+```ini
+# /etc/systemd/system/pbl6-labeler.service
+[Unit]
+Description=PBL6 labeler
+After=network.target
+
+[Service]
+User=dqkin625
+WorkingDirectory=/home/dqkin625/pbl6
+ExecStart=/usr/bin/python3 tools/labeler/server.py --cong 8002 --db /home/dqkin625/pbl6-nhan.db
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+
+```bash
+sudo systemctl daemon-reload && sudo systemctl enable --now pbl6-labeler
+```

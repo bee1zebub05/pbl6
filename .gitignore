@@ -17,3 +17,8 @@ tools/gemini_web/trang_thai_json.json
 
 # Du lieu dung tu data/clean/sinh_vien_103 (python tools/labeler/build_data.py)
 tools/labeler/data/
+
+# Kho nhan khi tu host (tools/labeler/server.py) — du lieu that, khong commit
+tools/labeler/*.db
+tools/labeler/*.db-wal
+tools/labeler/*.db-shm

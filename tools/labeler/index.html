@@ -272,6 +272,71 @@ const mem = { docs:{}, anns:{}, subsDocs:[], subsAnn:{} };
 function memEmitDocs(){ for (const f of mem.subsDocs) f(Object.entries(mem.docs).map(([id,d])=>({id,data:()=>d}))); }
 function memEmitAnn(id){ for (const f of mem.subsAnn[id]||[]) f(Object.entries(mem.anns[id]||{}).map(([aid,d])=>({id:aid,data:()=>d}))); }
 let seq=0; const created=new Set();
+/* ---------- tự host: kho nhãn nằm ở server.py (SQLite), dùng khi không chạy
+   trong artifact. Dựng lại đúng phần API mà `store` ở trên gọi tới, nên không
+   phải sửa gì trong `store`. ---------- */
+const LOCAL_API = "api/";
+async function apiCall(viec, path, body){
+  const o = { method: body===undefined ? "GET" : "POST",
+              headers: body===undefined ? undefined : {"Content-Type":"application/json"},
+              body: body===undefined ? undefined : JSON.stringify(body) };
+  const r = await fetch(LOCAL_API+viec+"?path="+encodeURIComponent(path), o);
+  if (!r.ok) { const e=new Error("api "+viec+" "+r.status); e.code="invalid_argument"; throw e; }
+  return r.json();
+}
+function wrapDocs(ds){ return { docs: ds.map(d=>({ id:d.id, data:()=>d.data })) }; }
+
+/* Trang đăng ký theo thời gian thực; ở đây hỏi lại mỗi 1,5 giây. Bốn người gán
+   tay thì đủ, đổi lại không cần WebSocket. Chỉ gọi cb khi dữ liệu đổi thật. */
+function poll(path, cb, err){
+  let cu="", song=true;
+  const lan = async () => {
+    if (!song) return;
+    try { const j=await apiCall("list",path);
+          const s=JSON.stringify(j.docs);
+          if (s!==cu){ cu=s; cb(wrapDocs(j.docs)); } }
+    catch(e){ if (err) err(e); }
+    if (song) setTimeout(lan, 1500);
+  };
+  lan();
+  return ()=>{ song=false; };
+}
+function localDb(){
+  return {
+    collection(path){
+      return {
+        onSnapshot:(cb,err)=>poll(path,cb,err),
+        get: async ()=>wrapDocs((await apiCall("list",path)).docs),
+        doc(){ const id="n"+Date.now().toString(36)+Math.random().toString(36).slice(2,8);
+               return { id, set:(d)=>apiCall("set",path+"/"+id,d) }; },
+      };
+    },
+    doc(path){
+      return {
+        get: async ()=>{ const j=await apiCall("get",path); return { exists:j.exists, data:()=>j.data }; },
+        set:(d)=>apiCall("set",path,d),
+        update:(p)=>apiCall("update",path,p),
+        delete:()=>apiCall("delete",path),
+      };
+    },
+  };
+}
+/* Danh tính khi tự host: lấy luôn tên người tự chọn ở ô "Tôi là". Nhờ vậy
+   assignee/updatedBy vẫn ghi đúng ai làm, và cột tên vẫn hiện. */
+function localUser(){
+  return {
+    me: async ()=>({ id: S.iam ? "u:"+S.iam : "local" }),
+    can: async ()=>true,
+    profiles: async (ids)=>Object.fromEntries(ids.map(i=>[i,
+      { name: String(i).startsWith("u:") ? String(i).slice(2) : "Khách",
+        isMe: i === (S.iam ? "u:"+S.iam : "local") }])),
+  };
+}
+async function coMayChuCucBo(){
+  try { const r=await fetch(LOCAL_API+"get?path=docs/_probe"); return r.ok; }
+  catch(_){ return false; }
+}
+
 const store = {
   subDocs(cb){ if (S.db) return S.db.collection("docs").onSnapshot(s=>cb(s.docs.map(d=>({id:d.id,data:d.data()}))), e=>dbErr(e)); mem.subsDocs.push(ds=>cb(ds.map(d=>({id:d.id,data:d.data()})))); memEmitDocs(); return ()=>{}; },
   subAnn(id, cb){ if (S.db) return S.db.collection(`docs/${id}/ann`).onSnapshot(s=>cb(s.docs.map(d=>({id:d.id,...d.data()}))), e=>dbErr(e)); (mem.subsAnn[id] ||= []).push(ds=>cb(ds.map(d=>({id:d.id,...d.data()})))); memEmitAnn(id); return ()=>{ mem.subsAnn[id]=[]; }; },
@@ -297,7 +362,10 @@ function who(id){ const p=S.names[id]; const span=el("span",{class:"who"}); if (
 const PEOPLE = ["Nguyên","Đức","Tùng","Kiên"];
 const FILTERS = [["all","Tất cả"],["mine","Của tôi"],...PEOPLE.map(p=>["p:"+p,p]),["dang","Đang gán"],["xem","Cần xem lại"],["xong","Xong"],["A","Mức A"],["B","Mức B"]];
 function getIam(){ try { return localStorage.getItem("iam")||""; } catch(_){ return ""; } }
-function setIam(v){ S.iam=v; try { localStorage.setItem("iam",v); } catch(_){} if (v && S.filter==="all") S.filter="mine"; renderFilters(); renderList(); }
+function setIam(v){ S.iam=v; try { localStorage.setItem("iam",v); } catch(_){} if (v && S.filter==="all") S.filter="mine";
+  // Tự host thì danh tính CHÍNH LÀ tên tự chọn, đổi tên phải đổi theo ngay.
+  if (S.tuHost) { S.me={id: v ? "u:"+v : "local"}; renderMe(); }
+  renderFilters(); renderList(); }
 function renderFilters(){ const f=$("filters"); f.replaceChildren(...FILTERS.map(([k,n])=>el("button",{class:"chip",type:"button","aria-pressed":String(S.filter===k),onclick:()=>{S.filter=k;renderFilters();renderList();}},n))); }
 function stOf(id){ return S.docs[id]?.status || "chua"; }
 function renderList(){
@@ -645,7 +713,9 @@ async function start(){
   document.body.append(el("datalist",{id:"orgList"}, ...S.seed.organizations.map(o=>el("option",{value:o.name}))));
   renderList(); showBanner();
   const C=window.claude;
-  const [db,user,downloads]=await Promise.all([C?.use?.("db")??null, C?.use?.("user")??null, C?.use?.("downloads")??null].map(p=>Promise.resolve(p).catch(()=>null)));
+  let [db,user,downloads]=await Promise.all([C?.use?.("db")??null, C?.use?.("user")??null, C?.use?.("downloads")??null].map(p=>Promise.resolve(p).catch(()=>null)));
+  // Không chạy trong artifact -> thử máy chủ cục bộ (tools/labeler/server.py).
+  if (!db && await coMayChuCucBo()){ db=localDb(); user=localUser(); S.tuHost=true; }
   S.db=db; S.user=user; dl=downloads;
   if (user){ try { S.me=await user.me(); const w=await user.can("data.write"); if (w===false) S.canWrite=false; if (w===true) S.writeKnown=true; } catch(_){} }
   if (!S.me) S.me={id:"local"};
