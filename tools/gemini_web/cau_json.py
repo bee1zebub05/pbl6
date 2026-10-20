@@ -124,14 +124,25 @@ PROMPT = (
     "1. CHỈ chép những gì có trong văn bản. Không suy đoán, không bổ sung kiến thức "
     "ngoài. Không rõ thì để null hoặc mảng rỗng.\n"
     "2. `articles[].text` phải là TOÀN VĂN của Điều đó, chép nguyên si, giữ đủ các "
-    "khoản, điểm. Không tóm tắt, không rút gọn.\n"
+    "khoản, điểm. Không tóm tắt, không rút gọn. `text` phải MỞ ĐẦU bằng "
+    "đúng `number` rồi dấu chấm, y như văn bản in: `Điều 1. Miễn học phí...`, "
+    "không được cắt bỏ phần `Điều 1.` ở đầu.\n"
     "3. Điều nằm trong bản Quy định/Quy chế ban hành kèm theo thì đặt vào "
     "`normativeContents[].articles`, KHÔNG đặt ở `articles` gốc. `articles` gốc chỉ "
     "chứa các Điều của chính văn bản (thường là Điều 1, 2, 3 về ban hành và thi hành).\n"
+    "3a. Bản kèm theo KHÔNG đánh số bằng Điều mà đánh `1.`, `2.`, `2.1.` (hay gặp ở "
+    "Quy trình, Kế hoạch, Chương trình, và cả Quy định dạng bảng) thì VẪN "
+    "tạo `normativeContents`, cắt theo mục đánh số CẤP CAO NHẤT, mỗi mục một phần tử "
+    "trong `articles`. Bảng biểu thì chép từng dòng thành văn xuôi trong `text` của mục "
+    "chứa nó. TUYỆT ĐỐI không để `articles` rỗng — schema chặn, cả file bị loại.\n"
     "4. `isImplementationClause` = true cho các Điều thi hành kiểu 'Quyết định này có "
     "hiệu lực...', 'Chánh Văn phòng... chịu trách nhiệm thi hành'.\n"
-    "5. `number` phải đúng dạng `Điều <số>`, vd `Điều 1`, `Điều 12a`. Không thêm dấu chấm.\n"
+    "5. `number` dạng `Điều <số>`, vd `Điều 1`, `Điều 12a`, không thêm dấu chấm. Riêng "
+    "mục ở luật 3a thì ghi đúng con số văn bản in, bỏ dấu chấm cuối: `1`, `2`, `2.1`. "
+    "Không tự đổi `1.` thành `Điều 1` — văn bản không viết thế.\n"
     "6. Ngày dạng dd/mm/yyyy, có số 0 đứng đầu: `05/04/2023`, không phải `5/4/2023`.\n"
+    "6a. `status`: mặc định CON_HIEU_LUC. Chỉ ghi HET_HIEU_LUC khi chính văn bản nói nó đã "
+    "hết hiệu lực, CHUA_HIEU_LUC khi `effectiveDate` muộn hơn `issueDate`. Đừng để null.\n"
     "7. `citations`: quan hệ lấy theo động từ trong câu — 'Căn cứ' → BASED_ON, "
     "'thay thế' → REPLACES, 'sửa đổi, bổ sung' → AMENDS, 'bãi bỏ' → REPEALS, còn lại "
     "chỉ nhắc tên → REFERENCES. Không tự trích dẫn chính văn bản này.\n"
@@ -146,7 +157,10 @@ PROMPT = (
     "đổi phía sau. Ví dụ 'bãi bỏ Điều 165 của Luật Xây dựng số 50/2014/QH13 đã được sửa "
     "đổi, bổ sung theo Luật số 03/2016/QH14, Luật số 45/2024/QH15' thì CHỈ ghi một dòng "
     "REPEALS tới 50/2014/QH13. Các số còn lại là lịch sử sửa đổi của chính nó, không phải "
-    "văn bản bị bãi bỏ.\n"
+    "văn bản bị bãi bỏ. Luật này CHỈ dành cho REPLACES/AMENDS/REPEALS. Khối `Căn cứ` "
+    "thì NGƯỢC LẠI: mọi số hiệu trong đó đều là một dòng BASED_ON riêng, "
+    "kể cả khi câu viết 'Căn cứ A ... được sửa đổi, bổ sung tại B' — A và B đều là "
+    "căn cứ thật, giữ cả hai.\n"
     "7d. Số hiệu LUÔN có phần chữ (QH13, NĐ-CP, QĐ-ĐHBK, NQ/TW). Ngày tháng và năm KHÔNG "
     "phải số hiệu: '25/12/2001', '2015', '14/06/2019' đều SAI, bỏ hẳn trích dẫn đó.\n"
 "8. TUYỆT ĐỐI không thêm các khoá normalizedNumber, orgId, personId, topicId, "
@@ -459,6 +473,8 @@ def main():
     a = ap.parse_args()
 
     KhoJson.NGUON = Path(a.nguon)
+    # Nhan hien tren panel phai theo --out that, khong thi bao nham cho ghi.
+    KhoJson.RA_MO_TA = a.out.replace(chr(92), "/").rstrip("/") + "/"
     if not KhoJson.NGUON.is_dir():
         raise SystemExit("khong thay thu muc nguon: %s" % KhoJson.NGUON)
 

@@ -208,8 +208,9 @@
       "properties": {
         "number": {
           "type": "string",
-          "pattern": "^Điều\\s+\\d+[a-zA-Z]?$",
-          "examples": ["Điều 1", "Điều 12", "Điều 5a"]
+          "pattern": "^(?:Điều\\s+\\d+[a-zA-Z]?|\\d+(?:\\.\\d+){0,2})$",
+          "description": "Dạng `Điều <số>` cho phần đánh số bằng Điều. Bản kèm theo đánh số bằng mục (`1.`, `2.1.`) — Quy trình, Kế hoạch, Chương trình thường thế — thì ghi đúng con số đó, bỏ dấu chấm cuối: `1`, `2.1`. Không tự đổi mục thành Điều, văn bản không viết thế.",
+          "examples": ["Điều 1", "Điều 12", "Điều 5a", "1", "2.1"]
         },
         "heading": { "type": ["string", "null"] },
         "text": {
