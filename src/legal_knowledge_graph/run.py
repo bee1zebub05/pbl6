@@ -39,7 +39,6 @@ def main() -> int:
     p_collisions = sub.add_parser("check-collisions", help="Báo cáo normalizedNumber bị trùng bởi >=2 file")
     p_collisions.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
 
-    # Bộ đo Cypher (regression/benchmark/scenarios) đã tách ra src/cypher_benchmark/: `python run.py bench`.
     p_all = sub.add_parser("all", help="Chạy trọn: check-collisions -> validate -> build -> sanity (1 lệnh)")
     p_all.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
     p_all.add_argument("--no-wipe", action="store_true", help="Không xoá graph cũ trước khi nạp (mặc định LÀ xoá)")
@@ -59,7 +58,7 @@ def main() -> int:
     p_chat_eval = sub.add_parser("chat-eval", help="Chạy bộ câu hỏi gold cho chatbot (thật qua Gemini + Neo4j)")
     p_chat_eval.add_argument("--verbose", action="store_true")
     p_chat_eval.add_argument("--with-retrieval", action="store_true",
-                             help="Bật luôn retrieval ngữ nghĩa (mặc định tắt để đỡ tốn gấp đôi quota)")
+                             help="Bật retrieval ngữ nghĩa (mặc định tắt để đỡ tốn quota embedding)")
 
     p_embed = sub.add_parser("embed-articles", help="Backfill embedding cho Article (chạy tay, không nằm trong build/all)")
     p_embed.add_argument("--batch-size", type=int, default=None, help="Số text gộp vào 1 lần gọi API embedding")
@@ -164,8 +163,7 @@ def main() -> int:
         )
         return 0
 
-    parser.error(f"lệnh không hợp lệ: {args.command}")
-    return 2
+    parser.error(f"lệnh không hợp lệ: {args.command}")  # thoát luôn (SystemExit)
 
 
 if __name__ == "__main__":

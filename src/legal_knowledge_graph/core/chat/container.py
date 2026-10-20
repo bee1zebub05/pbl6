@@ -55,7 +55,7 @@ def build_llm() -> LLMProvider:
     if not config.LLM_MODEL:
         raise ValueError(f"Chưa đặt LKG_LLM_MODEL cho provider '{provider}'")
     if provider == "gemini":
-        return GeminiPooledLLM(config.LLM_MODEL, config.LLM_TIMEOUT_SECONDS)
+        return GeminiPooledLLM(config.LLM_MODEL, config.LLM_TIMEOUT_SECONDS, config.LLM_FALLBACK_MODEL)
     if config.LLM_STRUCTURED_METHOD not in _STRUCTURED_METHODS:
         raise ValueError(f"LKG_LLM_STRUCTURED_METHOD='{config.LLM_STRUCTURED_METHOD}' không hợp lệ — "
                          f"chọn một trong {_STRUCTURED_METHODS}")
@@ -100,12 +100,13 @@ def build_chat_service(*, llm: LLMProvider | None = None, executor: QueryExecuto
         templates=templates,
         clarification=ClarificationService(),
         answer=AnswerService(llm, config.ANSWER_MAX_ROWS),
-        agent=AgentService(llm, templates, executor, retriever, config.AGENT_MAX_STEPS, config.ANSWER_MAX_ROWS),
+        agent=AgentService(llm, templates, executor, retriever, config.AGENT_MAX_STEPS, config.ANSWER_MAX_ROWS,
+                           config.CHAT_HISTORY_WINDOW),
         retriever=retriever,
         max_clarify_rounds=config.MAX_CLARIFY_ROUNDS,
     )
     graph = ChatGraphBuilder(nodes).build(checkpointer if checkpointer is not None else MemorySaver())
-    return ChatService(graph, llm.model_name, config.CHAT_MAX_QUESTION_CHARS)
+    return ChatService(graph, llm.model_name, config.CHAT_MAX_QUESTION_CHARS, config.TURN_DEADLINE_SECONDS)
 
 
 _default_service: ChatService | None = None

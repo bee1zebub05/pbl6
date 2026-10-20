@@ -23,11 +23,8 @@ from ..llm import embeddings
 from . import vector_index
 from ..db import run_batched
 
-# Số lượt read-batch LIÊN TIẾP không embed nổi Article nào (mọi request
-# trong lượt đó đều lỗi) trước khi dừng hẳn thay vì lặp vô ích — phản ứng
-# trực tiếp với sự cố THẬT đã gặp khi backfill: bể key cạn quota khiến
-# script cứ "chạy" hàng giờ mà chỉ in BO QUA liên tục, không có tín hiệu
-# dừng rõ ràng nào cho người vận hành.
+# Số lượt read-batch LIÊN TIẾP không embed nổi Article nào trước khi dừng:
+# bể key cạn quota thì mọi request đều lỗi, chạy tiếp chỉ in BO QUA mãi.
 _MAX_CONSECUTIVE_STALLED_BATCHES = 3
 
 

@@ -15,13 +15,15 @@ from core.db import ExecutionResult
 
 
 class FakeLLM(LLMProvider):
-    """Trả lời theo kịch bản: mỗi node một hàng đợi phản hồi."""
+    """Trả lời theo kịch bản: mỗi node một hàng đợi phản hồi. Ghi lại messages
+    mỗi lần gọi (`prompts`: danh sách (node, messages)) để test kiểm đầu vào."""
 
     model_name = "fake"
 
     def __init__(self, script: dict[str, list[Any]] | None = None):
         self._queues: dict[str, deque] = defaultdict(deque)
         self.calls: list[str] = []
+        self.prompts: list[tuple[str, list[BaseMessage]]] = []
         for node, responses in (script or {}).items():
             self.add(node, *responses)
 
@@ -29,8 +31,9 @@ class FakeLLM(LLMProvider):
         self._queues[node].extend(responses)
         return self
 
-    def _next(self, node: str) -> Any:
+    def _next(self, node: str, messages: Sequence[BaseMessage]) -> Any:
         self.calls.append(node)
+        self.prompts.append((node, list(messages)))
         if not self._queues[node]:
             raise AssertionError(f"FakeLLM: hết phản hồi kịch bản cho node '{node}'")
         item = self._queues[node].popleft()
@@ -39,16 +42,16 @@ class FakeLLM(LLMProvider):
         return item
 
     def structured(self, schema: type[M], messages: Sequence[BaseMessage], *, node: str) -> M:
-        result = self._next(node)
+        result = self._next(node, messages)
         assert isinstance(result, schema), f"node {node}: kịch bản trả {type(result)}, cần {schema}"
         return result
 
     def text(self, messages: Sequence[BaseMessage], *, node: str) -> str:
-        return self._next(node)
+        return self._next(node, messages)
 
     def invoke_with_tools(self, messages: Sequence[BaseMessage], tools: Sequence[BaseTool], *,
                           node: str) -> AIMessage:
-        return self._next(node)
+        return self._next(node, messages)
 
 
 class FakeExecutor(QueryExecutor):
@@ -86,12 +89,17 @@ class FakeResolver(EntityResolver):
 
 
 class FakeRetriever(ContextRetriever):
-    """Trả ngữ cảnh cố định; ghi lại scope_docs mỗi lần gọi để test kiểm."""
+    """Trả ngữ cảnh cố định; ghi lại scope_docs, mode, phrase mỗi lần gọi để test kiểm."""
 
     def __init__(self, context: GraphContext | None = None):
         self.context = context or GraphContext()
         self.scopes: list[tuple[str, ...]] = []
+        self.modes: list[str] = []
+        self.phrases: list[str | None] = []
 
-    def retrieve(self, question: str, *, scope_docs: Sequence[str] = ()) -> GraphContext:
+    def retrieve(self, question: str, *, scope_docs: Sequence[str] = (), mode: str = "full",
+                 phrase: str | None = None) -> GraphContext:
         self.scopes.append(tuple(scope_docs))
+        self.modes.append(mode)
+        self.phrases.append(phrase)
         return self.context

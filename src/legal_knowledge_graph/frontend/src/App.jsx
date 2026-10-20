@@ -15,98 +15,9 @@ const KIND_CLASS = {
   error: 'msg-cant-answer',
 }
 
-const STATUS_LABEL = {
-  CON_HIEU_LUC: 'còn hiệu lực',
-  HET_HIEU_LUC: 'hết hiệu lực',
-  CHUA_HIEU_LUC: 'chưa có hiệu lực',
-}
-
-function RowsTable({ rows }) {
-  if (!rows?.length) return <p className="muted">Không có dòng kết quả nào.</p>
-  const columns = Object.keys(rows[0])
-  return (
-    <div className="table-wrap">
-      <table className="rows-table">
-        <thead>
-          <tr>
-            {columns.map((col) => (
-              <th key={col}>{col}</th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {rows.map((row, i) => (
-            <tr key={i}>
-              {columns.map((col) => (
-                <td key={col}>{typeof row[col] === 'object' ? JSON.stringify(row[col]) : String(row[col])}</td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  )
-}
-
-function Sources({ sources }) {
-  if (!sources?.length) return null
-  return (
-    <div className="sources">
-      {sources.map((s, i) => (
-        <span key={i} className="badge" title={s.title || ''}>
-          {s.documentNumber || s.articleId || s.contentId}
-          {s.status ? ` · ${STATUS_LABEL[s.status] || s.status}` : ''}
-        </span>
-      ))}
-    </div>
-  )
-}
-
-function Details({ result }) {
-  const hasQuery = result.cypher || result.rows
-  const hasRetrieval = result.retrieval?.length || result.retrieval_reason
-  if (!hasQuery && !hasRetrieval) return null
-
-  return (
-    <details className="cypher-detail">
-      <summary>
-        Chi tiết truy vấn
-        {result.kind === 'agent_answer' && <span className="badge badge-warn">agent tự tra cứu — soát lại</span>}
-        {result.rows && <span className="badge">{result.rows.length} dòng</span>}
-      </summary>
-      {result.rows && <RowsTable rows={result.rows} />}
-      {result.cypher && <pre>{result.cypher}</pre>}
-      {hasRetrieval && (
-        <div className="retrieval-list">
-          {result.retrieval_reason && <p className="muted">{result.retrieval_reason}</p>}
-          {result.retrieval?.map((hit, i) => (
-            // Agent có thể tìm Điều nhiều lần -> cùng articleId xuất hiện lại; ghép chỉ số để key duy nhất.
-            <div key={`${hit.articleId}-${i}`} className="retrieval-hit">
-              <div className="retrieval-hit-head">
-                <span className="retrieval-heading">{hit.heading || hit.articleId}</span>
-                {hit.via?.length > 0 && <span className="badge">{hit.via.join(' + ')}</span>}
-                {hit.documentNumber && <span className="badge">{hit.documentNumber}</span>}
-                {hit.supersededBy?.length > 0 ? (
-                  <span className="badge badge-warn">đã bị thay thế bởi {hit.supersededBy.join(', ')}</span>
-                ) : (
-                  hit.effectiveStatus && <span className="badge">{STATUS_LABEL[hit.effectiveStatus] || hit.effectiveStatus}</span>
-                )}
-              </div>
-              <p className="retrieval-text">{hit.text}</p>
-            </div>
-          ))}
-        </div>
-      )}
-      <p className="meta">
-        {[result.intent, result.action, result.template, `${result.llm_calls} lượt LLM`, `${Math.round(result.elapsed_ms)} ms`]
-          .filter(Boolean)
-          .join(' · ')}
-        {result.trace_id && ` · trace ${result.trace_id}`}
-      </p>
-    </details>
-  )
-}
-
+// Giao diện chỉ hiện câu trả lời (và nút ứng viên khi bot hỏi lại). Chi tiết
+// từng bước — Cypher, dòng kết quả, Điều GraphRAG, prompt LLM — nằm ở log phiên
+// logs/sessions/ (core/chat/session_log.py), không đưa lên UI.
 function BotMessage({ result, onPickCandidate, disabled }) {
   const candidates = result.clarification?.candidates || []
   return (
@@ -121,8 +32,6 @@ function BotMessage({ result, onPickCandidate, disabled }) {
           ))}
         </div>
       )}
-      <Sources sources={result.sources} />
-      <Details result={result} />
     </div>
   )
 }

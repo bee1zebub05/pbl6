@@ -14,6 +14,7 @@ from langchain_core.tools import BaseTool
 from pydantic import BaseModel
 
 from ..graph_query import entity_resolver
+from ..graph_query.templates import RetrievalMode
 from ..db import ExecutionResult
 from .models import GraphContext
 
@@ -65,6 +66,9 @@ class ContextRetriever(ABC):
     """GraphRAG: tìm Điều liên quan tới câu hỏi rồi mở rộng theo quan hệ trên graph."""
 
     @abstractmethod
-    def retrieve(self, question: str, *, scope_docs: Sequence[str] = ()) -> GraphContext:
+    def retrieve(self, question: str, *, scope_docs: Sequence[str] = (), mode: RetrievalMode = "full",
+                 phrase: str | None = None) -> GraphContext:
         """`scope_docs`: số hiệu văn bản (thô hoặc đã chuẩn hoá — câu hỏi nhắc tới, kết quả template) cần lấy thêm
-        Điều gần nghĩa nhất bên trong và được ưu tiên trong ngữ cảnh."""
+        Điều gần nghĩa nhất bên trong và được ưu tiên trong ngữ cảnh.
+        `mode`: full = thêm Điều gần nghĩa toàn kho; scope = chỉ Điều trong `scope_docs`; none = không truy xuất
+        (graph_query/templates/actions.py). `phrase`: cụm nội dung router đã trích, dùng cho tìm từ khoá."""

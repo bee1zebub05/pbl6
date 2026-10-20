@@ -75,6 +75,9 @@ liệu).
 | `LKG_LLM_MODEL` | `gemini-3.6-flash` | Model của chatbot (`LKG_GEMINI_MODEL` là tên cũ, vẫn được đọc) |
 | `LKG_LLM_BASE_URL` / `LKG_LLM_API_KEY` | (rỗng) | Địa chỉ và key server, chỉ cho `openai_compatible` |
 | `LKG_LLM_STRUCTURED_METHOD` | `json_schema` | Cách ép output có cấu trúc với `openai_compatible`: `json_schema`, `function_calling`, `json_mode` |
+| `LKG_LLM_FALLBACK_MODEL` | (rỗng = tắt) | Model Gemini dự phòng khi model chính báo 503 quá tải (mục "Bể key Gemini") |
+| `LKG_LLM_TIMEOUT_SECONDS` | `30` | Trần cho một request LLM |
+| `LKG_TURN_DEADLINE_SECONDS` | `60` | Trần thời gian cho cả một lượt hỏi; `0` = không giới hạn |
 | `LKG_GEMINI_API_KEY_<n>` | (rỗng) | Bể key Gemini — gộp chung với `GEMINI_API_KEY_*`/`GEMMA_API_KEY_*` (`config.gemini_keys()`) |
 | `LKG_EMBED_PROVIDER` / `LKG_EMBED_MODEL` / `LKG_EMBED_DIMENSIONS` | `gemini` / `gemini-embedding-001` / `768` | Embedding cho GraphRAG, chọn độc lập với LLM |
 | `LKG_NLQ_ROW_CAP` | `200` | Số dòng tối đa mỗi truy vấn Cypher |
@@ -86,6 +89,7 @@ liệu).
 | `LKG_ANSWER_MAX_ROWS` | `30` | Số dòng kết quả đưa vào prompt trả lời |
 | `LKG_RETRIEVAL_ENABLED` | `true` | Bật GraphRAG (bước `retrieve` và tool `search_articles`) |
 | `LKG_LOG_LEVEL` | `INFO` | Mức log; `DEBUG` ghi thêm Cypher, params, dòng mẫu, traceback |
+| `LKG_SESSION_LOG` / `LKG_SESSION_LOG_DIR` | `true` / `logs/sessions` | Log theo phiên hội thoại (mục "Quan sát và debug") |
 | `LANGSMITH_TRACING` | `false` | Bật/tắt LangSmith tracing (`true` để bật) |
 | `LANGSMITH_API_KEY` / `LANGSMITH_PROJECT` | (rỗng) / `pbl6-legal-chatbot` | Khoá và project LangSmith, chỉ dùng khi `LANGSMITH_TRACING=true` |
 
@@ -164,6 +168,7 @@ graph TD
     route -->|thiếu slot| ask_clarify
     route -->|thừa slot / other| agent
     run_template -->|có kết quả| retrieve
+    run_template -->|thống kê / đếm / xếp hạng| answer
     run_template -->|thực thể mơ hồ / không thấy| ask_clarify
     run_template -->|hết lượt hỏi lại / lỗi tham số| agent
     retrieve --> answer
@@ -180,9 +185,9 @@ graph TD
 | `route` | 1 | LLM trích **khung câu hỏi**: `action` (56 loại) + 14 slot (org, topic, target_group, doc_number, person, position, status, doc_type, content_type, year, since_year, article_number, phrase, limit) ở cùng một cấp. `TemplateSelector` chọn 1 trong 68 template |
 | `run_template` | 0 | Resolve slot thành khoá thật (alias + so khớp mờ, không LLM), chạy Cypher đã kiểm duyệt |
 | `ask_clarify` | 0 | Hỏi lại khi thiếu slot hoặc thực thể mơ hồ / không tồn tại, kèm ứng viên |
-| `retrieve` | embed | GraphRAG: Điều liên quan + hiệu lực thực tế + quan hệ (mục bên dưới); lỗi không chặn luồng |
+| `retrieve` | embed | GraphRAG theo mức của action: Điều liên quan + hiệu lực thực tế + quan hệ (mục bên dưới); lỗi không chặn luồng |
 | `answer` | 1 | Viết câu trả lời chỉ từ bằng chứng, dẫn số hiệu, nêu hiệu lực. Không có bằng chứng thì dùng câu cố định, không gọi LLM |
-| `agent` | 2–4 | Subgraph ReAct (`llm` ⇄ `ToolNode`) với 3 tool: `run_template`, `run_cypher` (qua guard), `search_articles` |
+| `agent` | 2–4 | Subgraph ReAct (`llm` ⇄ `ToolNode`) với 3 tool: `run_template`, `run_cypher` (qua guard), `search_articles`. Nhận câu đã viết lại cùng lịch sử hội thoại, tin nhắn gốc và khung router (action + slot); danh mục template trong prompt thu hẹp theo action (~8.000 thay vì ~15.000 ký tự), action `other` giữ danh mục đủ |
 
 Câu hỏi phổ biến tốn 3 lượt gọi LLM; câu ngoài domain 1 lượt; câu qua agent
 4–6 lượt.
@@ -195,12 +200,20 @@ ngữ cảnh quan hệ quanh văn bản chứa chúng, theo kiểu *local search
 này không gọi thêm LLM: mỗi câu hỏi chỉ tốn 1 lượt embed và 5 câu Cypher,
 đo trên graph thật dưới 0,5 giây.
 
+**Mức truy xuất theo action** (`core/graph_query/templates/actions.py`):
+
+| Mức | Action | Làm gì |
+|---|---|---|
+| `full` | hỏi nội dung quy định (`search_articles`, `article_text`, `document_contents`, `latest_document_about`...) | đủ 4 bước bên dưới |
+| `scope` | mặc định: liệt kê văn bản, quan hệ thay thế / sửa đổi, metadata một văn bản | bỏ hạt giống toàn kho, chỉ lấy Điều trong các văn bản câu hỏi nêu tên / template trả về; vẫn hiệu chỉnh hiệu lực |
+| `none` | thống kê, đếm, xếp hạng, hồ sơ người / cơ quan | bỏ hẳn bước `retrieve` |
+
 | Bước | Cách làm |
 |---|---|
-| 1. Hạt giống | 8 Điều từ vector index `article_embedding` và 8 Điều từ fulltext BM25 `article_text`, gộp bằng Reciprocal Rank Fusion, giữ 5. Bỏ các Điều "hiệu lực thi hành / trách nhiệm thi hành" (1.000/8.814 Điều): chúng gần nghĩa với hầu hết câu hỏi nhưng không mang nội dung quy định |
+| 1. Hạt giống | 8 Điều từ vector index `article_embedding` và 8 Điều từ fulltext BM25 `article_text`, gộp bằng Reciprocal Rank Fusion, giữ 5. Truy vấn BM25 dùng slot `phrase` của router nếu có; không thì `entity_resolver.keyword_query()` rút từ câu hỏi: bỏ số hiệu và từ để hỏi / từ chung ("văn bản", "quy định", "nào", "gì"...), phát cặp hai âm tiết `"a b"^2` cùng âm tiết đơn. Trên 12 câu hỏi nội dung, số Điều trùng giữa fulltext và vector top-8 tăng từ 47/96 lên 51/96. Bỏ các Điều "hiệu lực thi hành / trách nhiệm thi hành" (1.000/8.814 Điều): chúng gần nghĩa với hầu hết câu hỏi nhưng không mang nội dung quy định |
 | 2. Phạm vi | Văn bản trong phạm vi gồm văn bản được câu hỏi nêu tên (tham số `normalizedNumber` đã resolve) và văn bản trong các dòng kết quả template. Lấy thêm 2 Điều gần nghĩa nhất trong mỗi văn bản (tối đa 5 văn bản), chấm cosine trực tiếp; các văn bản này đứng đầu ngữ cảnh. So khớp phạm vi theo khoá chuẩn hoá `Document.normalizedNumber` |
 | 3. Mở rộng | Với mỗi văn bản chứa Điều: cơ quan ban hành, văn bản thay thế / bãi bỏ / sửa đổi nó (kèm Điều bị sửa nếu có), 3 căn cứ chính. Điều quá ngắn được kèm Điều liền trước và liền sau trong cùng văn bản |
-| 4. Đóng gói | Gom theo văn bản, cắt mỗi Điều 1.500 ký tự, tổng 12.000 ký tự |
+| 4. Đóng gói | Gom theo văn bản, cắt mỗi Điều 1.500 ký tự, tổng không vượt 12.000 ký tự (Điều cuối được cắt cho vừa nếu còn ≥ 300 ký tự) |
 
 **Hiệu lực thực tế.** Quan hệ được ưu tiên hơn thuộc tính: văn bản đã có
 văn bản khác `REPLACES`/`REPEALS` được coi là hết hiệu lực, và ngữ cảnh
@@ -381,7 +394,19 @@ embedding, kiểm số chiều).
 chung cho LLM của chatbot và embedding: key dính 429/503 nghỉ theo
 `retryDelay` rồi thử ngay key khác, key 401/403 bị loại. Mỗi key có một
 `ChatGoogleGenerativeAI` riêng với `max_retries=1` (không tự retry) để bể tự
-xoay. Bể "generate" và "embed" tách riêng vì quota tính theo model.
+xoay. Bể tách theo model (`generate:<model>`, `embed`) vì quota tính theo model.
+
+**Trần thời gian.** Mỗi lời gọi qua bể dừng ở mốc sớm hơn giữa 90 giây và hạn
+chót của lượt hỏi (`LKG_TURN_DEADLINE_SECONDS`, mặc định 60). Trước đây trần chỉ
+áp cho từng lời gọi, nên một lượt agent 6 lời gọi gặp 503/504 liên tục từng
+kéo tới 202 giây (`intent` 5 lần thử, `route` 10 lần). Quá hạn thì lượt kết
+thúc với câu báo lỗi thân thiện.
+
+**Model dự phòng.** 503 "high demand" là quá tải của model, đổi key không
+giúp được. Khi đặt `LKG_LLM_FALLBACK_MODEL`, 503 ở model chính được gọi lại
+ngay bằng model dự phòng (không cho key nghỉ 45 giây), và model chính bị bỏ qua
+trong 60 giây sau đó. Log `llm` ghi model thực dùng; mỗi lần chuyển có một dòng
+`llm.fallback`.
 
 ### API và giao diện
 
@@ -395,10 +420,10 @@ trả:
 
 `kind`: `answer`, `agent_answer`, `no_data`, `clarification`, `direct`, `error`.
 
-Giao diện hiển thị câu trả lời, nguồn (số hiệu + hiệu lực), nút ứng viên khi
-bot hỏi lại, và khối "Chi tiết truy vấn" thu gọn (bảng dòng, Cypher, Điều
-GraphRAG kèm nhãn "đã bị thay thế", intent/action/template, số lượt LLM, `trace_id`). Nút "Cuộc hội
-thoại mới" bỏ `thread_id`.
+Giao diện chỉ hiển thị câu trả lời và nút ứng viên khi bot hỏi lại; chi tiết
+từng bước nằm ở log phiên (mục "Quan sát và debug"). API vẫn trả đủ các trường
+trên cho CLI `--verbose` và `chat-eval`. Nút "Cuộc hội thoại mới" bỏ
+`thread_id`, nên lượt kế tiếp mở một phiên (và một file log phiên) mới.
 
 ```powershell
 python run.py lkg serve-api          # http://localhost:8000
@@ -435,6 +460,25 @@ trọn một lượt:
 | `keypool` | key bị cho nghỉ / bị loại, lý do |
 | `error` | node, loại lỗi (DEBUG: traceback) |
 
+**Log theo phiên** — `logs/sessions/<YYYY-MM-DD>/<HHMMSS>_<thread_id>.log`,
+một file văn bản cho mỗi cuộc hội thoại (`thread_id`), viết để đọc khi debug
+(`core/chat/session_log.py`). Mỗi lượt người dùng nhắn là một khối `LƯỢT n`,
+bên trong theo đúng thứ tự chạy:
+
+| Khối | Nội dung |
+|---|---|
+| `[<node>] LLM <model>` | ms, số lần thử, key; **đầu vào** đầy đủ (system prompt, lịch sử, câu hỏi, bằng chứng) và **đầu ra** (JSON structured / văn bản / tool call) |
+| `[<node>] đầu ra node` | state node vừa ghi: intent + câu viết lại, action + slot + template + tham số thô, Cypher + tham số đã resolve + dòng kết quả, hỏi lại + ứng viên... |
+| `[retrieve] GraphRAG — hạt giống` | mức truy xuất, văn bản phạm vi, truy vấn Lucene, xếp hạng từ vector / fulltext / phạm vi, hạt giống sau RRF |
+| `[agent.tool] <tool>` | Cypher (nếu có) và đúng nội dung kết quả agent đọc ở bước sau |
+| `[<node>] LỖI` | lỗi kèm traceback |
+| `KẾT QUẢ LƯỢT` | kind, số lượt LLM, tổng ms, câu trả lời gửi người dùng, ứng viên, nguồn, `trace_id` |
+
+System prompt chỉ in đầy đủ ở lần đầu trong file (các lần sau ghi `giống prompt
+#n`); tin nhắn agent gửi lại ở mỗi bước chỉ in một lần mỗi lượt. Một phiên
+2 lượt có GraphRAG khoảng 80 KB. Ghi file lỗi không làm hỏng lượt hỏi; pytest
+tắt log phiên (`tests/conftest.py`).
+
 **LangSmith** — mặc định tắt (`LANGSMITH_TRACING=false` trong `.env`). Để bật,
 đặt `LANGSMITH_TRACING=true` và điền `LANGSMITH_API_KEY`. Bộ kiểm thử luôn tắt
 tracing (`tests/conftest.py` ép `LANGSMITH_TRACING=false` trước khi import
@@ -460,7 +504,7 @@ của graph: smalltalk, template, không có dữ liệu, hỏi lại rồi hoà
 đúng số bước, lỗi Neo4j, lỗi retrieval; cùng bảng ánh xạ của `TemplateSelector`
 và bước bù `doc_number` của router (`tests/test_chat_graph.py`).
 `tests/test_text_matching.py` kiểm regex nhận diện số hiệu và truy vấn Lucene
-theo cụm từ. Toàn bộ 165 kiểm thử đạt (offline + Neo4j thật), gồm `tests/test_llm_providers.py` chạy provider `openai_compatible` qua server giả chuẩn OpenAI, và `tests/test_api.py` kiểm API dựng chatbot lúc khởi động và CORS.
+theo cụm từ. Toàn bộ 186 kiểm thử đạt (offline + Neo4j thật), gồm `tests/test_llm_providers.py` chạy provider `openai_compatible` qua server giả chuẩn OpenAI, và `tests/test_api.py` kiểm API dựng chatbot lúc khởi động và CORS.
 
 Kiểm chứng đầu-cuối với Gemini + Neo4j thật (11/10/2026):
 

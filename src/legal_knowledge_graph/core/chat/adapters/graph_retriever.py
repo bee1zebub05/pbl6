@@ -12,9 +12,11 @@ from typing import Sequence
 
 from ...db import Neo4jConnection
 from ...graph_query import graph_context
+from ...graph_query.templates import RetrievalMode
 from ...llm import embeddings
 from ...normalize import normalize_document_number
 from ...observability import debug_enabled, log_event, traceable
+from .. import session_log
 from ..models import GraphContext
 from ..ports import ContextRetriever
 from ..retrieval.graph_rag import GraphRagService
@@ -30,6 +32,11 @@ def _expand_summary(result: tuple[list[dict], list[dict]]) -> dict:
                            "repealedBy": [r["documentNumber"] for r in d.get("repealedBy") or []]}
                           for d in docs],
             "neighbors": len(neighbors)}
+
+def _ranked(rows: list[dict]) -> list[str]:
+    """Một dòng mỗi Điều cho log phiên: hạng · điểm gốc của nguồn · articleId · tiêu đề."""
+    return [f"{i}. {r['score']:.4f}  {r['articleId']}  {(r.get('heading') or '')[:80]}"
+            for i, r in enumerate(rows, start=1)]
 
 def _context_summary(ctx: GraphContext) -> dict:
     return {"documents": [{"documentNumber": d.documentNumber, "effectiveStatus": d.effectiveStatus,
@@ -47,16 +54,19 @@ class Neo4jGraphRetriever(ContextRetriever):
         self._max_related = max_related
 
     @traceable(name="graph_rag", run_type="retriever", process_outputs=_context_summary)
-    def retrieve(self, question: str, *, scope_docs: Sequence[str] = ()) -> GraphContext:
-        if not self._enabled:
+    def retrieve(self, question: str, *, scope_docs: Sequence[str] = (), mode: RetrievalMode = "full",
+                 phrase: str | None = None) -> GraphContext:
+        if not self._enabled or mode == "none":
             return GraphContext()
         scope = tuple(dict.fromkeys(normalize_document_number(n) for n in scope_docs))[: self._scope_docs]
-        seeds = self._seed(question, scope)
+        if mode == "scope" and not scope:
+            return GraphContext()
+        seeds = self._seed(question, scope, search_all=mode == "full", phrase=phrase)
         doc_rows, neighbor_rows = self._expand(seeds)
         ctx = self._service.build(seeds, doc_rows, neighbor_rows, priority_keys=scope)
 
         superseded = [d.documentNumber for d in ctx.documents if d.supersededBy]
-        log_event("graph_rag", seeds=len(seeds), scope_docs=list(scope), documents=len(ctx.documents),
+        log_event("graph_rag", mode=mode, seeds=len(seeds), scope_docs=list(scope), documents=len(ctx.documents),
                   articles=sum(len(d.articles) for d in ctx.documents), superseded=superseded,
                   chars=sum(len(a.text) for d in ctx.documents for a in d.articles))
         if debug_enabled():
@@ -64,15 +74,30 @@ class Neo4jGraphRetriever(ContextRetriever):
         return ctx
 
     @traceable(name="graph_rag.seed", run_type="retriever", process_outputs=_seed_summary)
-    def _seed(self, question: str, scope: tuple[str, ...]) -> list[dict]:
+    def _seed(self, question: str, scope: tuple[str, ...], *, search_all: bool, phrase: str | None) -> list[dict]:
+        """`search_all`: thêm Điều hạt giống toàn kho (vector + fulltext); False = chỉ Điều trong `scope`."""
+
         query_vector = embeddings.embed_texts([question], kind="query")[0]
+        vector: list[dict] = []
+        fulltext: list[dict] = []
         with self._conn.session() as s:
-            vector = graph_context.seed_vector(s, query_vector, self._seed_k)
-            fulltext = graph_context.seed_fulltext(s, question, self._seed_k)
+            if search_all:
+                vector = graph_context.seed_vector(s, query_vector, self._seed_k)
+                fulltext = graph_context.seed_fulltext(s, question, self._seed_k, phrase=phrase)
             scoped = graph_context.scoped_articles(s, query_vector, list(scope), self._scope_per_doc)
         log_event("graph_rag.seed", vector=len(vector), fulltext=len(fulltext), scoped=len(scoped),
                   overlap=len({r["articleId"] for r in vector} & {r["articleId"] for r in fulltext}))
-        return self._service.select_seeds(vector, fulltext, scoped)
+        seeds = self._service.select_seeds(vector, fulltext, scoped)
+        session_log.step(
+            f"[retrieve] GraphRAG — hạt giống ({'toàn kho + phạm vi' if search_all else 'chỉ phạm vi'})",
+            **{"Văn bản phạm vi": list(scope),
+               "Truy vấn fulltext (Lucene)": graph_context.fulltext_query(question, phrase) if search_all else None,
+               "Từ vector index": _ranked(vector), "Từ fulltext BM25": _ranked(fulltext),
+               "Trong văn bản phạm vi (cosine)": _ranked(scoped),
+               "Hạt giống được chọn (sau RRF)": [f"{s['score']:.5f}  {s['articleId']}  via {'+'.join(s['via'])}"
+                                                   for s in seeds]},
+        )
+        return seeds
 
     @traceable(name="graph_rag.expand", run_type="retriever", process_outputs=_expand_summary)
     def _expand(self, seeds: list[dict]) -> tuple[list[dict], list[dict]]:

@@ -2,16 +2,14 @@
 Bể key Gemini dùng chung cho chatbot (core/chat/adapters/gemini_llm.py) và
 embedding (call_embed — GraphRAG và backfill graph_query/article_embeddings.py).
 
-Vì sao cần bể key: free tier của `gemini-3.6-flash` chặn ở **20 request/
-NGÀY/project/model** (`GenerateRequestsPerDayPerProjectPerModel-FreeTier`),
-đo thật ngày 22/09/2026 khi chạy bộ eval chatbot. Một key không đủ cho cả
-eval lẫn chat UI.
+Vì sao cần bể key: free tier Gemini giới hạn số request mỗi NGÀY theo
+project và model (`GenerateRequestsPerDayPerProjectPerModel-FreeTier`, cỡ
+vài chục), một key không đủ cho cả chat-eval lẫn chat UI.
 
-Đây KHÔNG phải bản copy của `src/vanban/clean/key_pool.py` (bể đó đếm cả
-RPM lẫn TPM cho OCR hàng loạt). Chatbot gọi thưa nên chỉ cần ba việc: xoay
-vòng, cho key dính 429 nghỉ rồi nhảy sang key khác NGAY thay vì ngồi sleep,
-và loại hẳn key đã chết. Toàn bộ vòng lặp đó nằm ở MỘT hàm `call_with_pool()`;
-mọi điểm gọi API chỉ truyền vào việc cần làm với một key.
+Chatbot gọi thưa nên bể chỉ làm ba việc: xoay vòng, cho key dính 429 nghỉ
+rồi nhảy sang key khác NGAY thay vì ngồi sleep, và loại hẳn key đã chết.
+Toàn bộ vòng lặp nằm ở MỘT hàm `call_with_pool()`; mọi điểm gọi API chỉ
+truyền vào việc cần làm với một key.
 
 Thread-safe: `core/api/app.py` khai báo handler bằng `def` thường nên
 Starlette chạy nó trong threadpool — nhiều câu hỏi có thể vào bể cùng lúc.
@@ -28,13 +26,18 @@ from google import genai
 from google.genai import types
 
 from .. import config
-from ..observability import log_event
+from ..observability import log_event, turn_deadline
 
 T = TypeVar("T")
 
 
 class GeminiCallError(Exception):
     pass
+
+
+class ModelOverloaded(GeminiCallError):
+    """Model báo 503 quá tải — lỗi của MODEL, đổi key không giúp được; người
+    gọi nên chuyển sang model dự phòng (chỉ raise khi fail_fast_on_overload)."""
 
 
 # Lỗi tạm thời: đổi key rồi thử tiếp. Khác với lỗi chết hẳn bên dưới.
@@ -49,12 +52,14 @@ _TRANSIENT = ("429", "500", "503", "504", "RESOURCE_EXHAUSTED", "UNAVAILABLE", "
 # xuống _FATAL khi KHÔNG có retryDelay.
 _FATAL = ("401", "403", "UNAUTHENTICATED", "PERMISSION_DENIED")
 
+_OVERLOADED = ("503", "UNAVAILABLE")
+
 _DEFAULT_COOLDOWN_SECONDS = 45.0  # cho key dính 429 theo phút khi Google không kèm retryDelay
 # Ngân sách đếm LƯỢT GỌI API THẬT, không đếm lượt "cả bể đang nghỉ nên phải
 # chờ" — trộn hai thứ này thì với bể 17 key, 8 lượt chờ đã tiêu hết ngân
 # sách trước khi kịp gọi lại key đầu tiên vừa hết hạn nghỉ.
 _MAX_CALLS = 10
-_DEADLINE_SECONDS = 90.0  # trần thời gian cho MỘT lời gọi qua bể
+_DEADLINE_SECONDS = 90.0  # trần thời gian cho MỘT lời gọi qua bể; trong lượt hỏi còn bị kẹp bởi hạn chót của lượt
 
 _RETRY_DELAY_RE = re.compile(r"retryDelay['\"]?\s*:\s*['\"]?(\d+(?:\.\d+)?)s")
 
@@ -142,10 +147,18 @@ class KeyPool:
             return max(0.0, min(self._cooldown_until.get(k, 0.0) for k in self._keys) - now)
 
 
-def call_with_pool(pool: KeyPool, fn: Callable[[str, genai.Client], T], description: str) -> T:
+def call_with_pool(pool: KeyPool, fn: Callable[[str, genai.Client], T], description: str, *,
+                   fail_fast_on_overload: bool = False) -> T:
     """Chạy `fn(key, client)` trên một key còn suất; lỗi tạm thời thì cho
     key nghỉ và thử ngay key khác, lỗi chết hẳn thì loại key. Hết ngân sách
     lượt gọi/thời gian hoặc hết key -> GeminiCallError.
+
+    Hạn chót = sớm hơn giữa trần của lời gọi này và hạn chót của lượt hỏi
+    đang chạy (observability.turn_deadline) — một lượt có nhiều lời gọi không
+    cộng dồn thành nhiều phút chờ.
+
+    `fail_fast_on_overload`: 503 quá tải -> raise ModelOverloaded ngay, không
+    cho key nghỉ (người gọi có model dự phòng).
 
     `fn` có thể dùng client của SDK (embedding) hoặc chỉ dùng key (adapter
     LangChain tự giữ một ChatGoogleGenerativeAI cho mỗi key)."""
@@ -153,6 +166,9 @@ def call_with_pool(pool: KeyPool, fn: Callable[[str, genai.Client], T], descript
     last_error = ""
     calls = 0
     deadline = time.time() + _DEADLINE_SECONDS
+    turn_end = turn_deadline()
+    if turn_end is not None:
+        deadline = min(deadline, turn_end)
     while calls < _MAX_CALLS and time.time() < deadline:
         acquired = pool.acquire()
         if acquired is None:
@@ -173,6 +189,8 @@ def call_with_pool(pool: KeyPool, fn: Callable[[str, genai.Client], T], descript
             raise
         except Exception as exc:
             last_error = _error_text(exc)
+            if fail_fast_on_overload and any(m in last_error for m in _OVERLOADED):
+                raise ModelOverloaded(f"{description}: model quá tải — {last_error}") from exc
             retry_seconds = _retry_delay_seconds(last_error)
             if retry_seconds is not None:
                 pool.cooldown(key, max(retry_seconds, 1.0), last_error)
@@ -188,9 +206,11 @@ def call_with_pool(pool: KeyPool, fn: Callable[[str, genai.Client], T], descript
                 continue
             raise GeminiCallError(f"{description} thất bại: {last_error}") from exc
 
+    reason = "hết thời gian của lượt hỏi" if turn_end is not None and time.time() >= turn_end else \
+        f"trần {_MAX_CALLS} lượt / {_DEADLINE_SECONDS:.0f}s"
     raise GeminiCallError(
         f"{description} thất bại sau {calls} lượt gọi trên bể {len(pool)}/{pool.total} key "
-        f"(trần {_MAX_CALLS} lượt / {_DEADLINE_SECONDS:.0f}s). Lỗi cuối: {last_error}"
+        f"({reason}). Lỗi cuối: {last_error}"
     )
 
 
@@ -210,7 +230,7 @@ _pools_lock = threading.Lock()
 
 
 def get_pool(name: str) -> KeyPool:
-    """Một bể riêng cho mỗi loại lời gọi ("generate", "embed") dù cùng danh
+    """Một bể riêng cho mỗi loại lời gọi ("generate:<model>", "embed") dù cùng danh
     sách key: quota Gemini tính theo model, key hết quota generate_content
     chưa chắc hết quota embed_content. Dùng chung một bể thì key bị loại vì
     generate sẽ kéo theo bị loại oan ở embed (đã gặp trên thực tế)."""

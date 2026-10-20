@@ -35,6 +35,7 @@ LOGGER_NAME = "lkg.chat"
 _thread_id: ContextVar[str | None] = ContextVar("lkg_thread_id", default=None)
 _turn_id: ContextVar[str | None] = ContextVar("lkg_turn_id", default=None)
 _llm_calls: ContextVar[list[int] | None] = ContextVar("lkg_llm_calls", default=None)
+_turn_deadline: ContextVar[float | None] = ContextVar("lkg_turn_deadline", default=None)
 
 _configured = False
 
@@ -106,17 +107,27 @@ def debug_enabled() -> bool:
 
 
 @contextmanager
-def turn_context(thread_id: str) -> Iterator[str]:
-    """Gắn thread_id/turn_id + bộ đếm lượt gọi LLM cho một lượt hỏi."""
+def turn_context(thread_id: str, deadline_seconds: float | None = None) -> Iterator[str]:
+    """Gắn thread_id/turn_id, bộ đếm lượt gọi LLM và hạn chót của một lượt hỏi
+    (`deadline_seconds` kể từ lúc vào; None = không giới hạn)."""
 
     turn_id = uuid.uuid4().hex[:12]
-    tokens = (_thread_id.set(thread_id), _turn_id.set(turn_id), _llm_calls.set([0]))
+    deadline = time.time() + deadline_seconds if deadline_seconds else None
+    tokens = (_thread_id.set(thread_id), _turn_id.set(turn_id), _llm_calls.set([0]), _turn_deadline.set(deadline))
     try:
         yield turn_id
     finally:
         _thread_id.reset(tokens[0])
         _turn_id.reset(tokens[1])
         _llm_calls.reset(tokens[2])
+        _turn_deadline.reset(tokens[3])
+
+
+def turn_deadline() -> float | None:
+    """Thời điểm (epoch giây) lượt hỏi hiện tại phải xong; None khi ngoài lượt hỏi
+    (backfill embedding, CLI template thủ công) hoặc không giới hạn."""
+
+    return _turn_deadline.get()
 
 
 def count_llm_call() -> None:

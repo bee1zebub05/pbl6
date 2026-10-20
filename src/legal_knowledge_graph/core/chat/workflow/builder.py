@@ -6,6 +6,7 @@ Ráp node thành LangGraph:
                                              ├─ thiếu slot     → ask_clarify → END
                                              └─ thừa slot/other → agent → END
     run_template ─┬─ có kết quả        → retrieve → answer → END
+                  ├─ thống kê / đếm    → answer → END (không GraphRAG, actions.py::RETRIEVAL_NONE)
                   ├─ resolve lỗi       → ask_clarify (còn lượt) / agent (hết lượt)
                   └─ lỗi tham số       → agent
 """
@@ -37,7 +38,7 @@ class ChatGraphBuilder:
         graph.add_edge(START, INTENT)
         graph.add_conditional_edges(INTENT, n.after_intent, [ROUTE, RESPOND_DIRECT, END])
         graph.add_conditional_edges(ROUTE, n.after_route, [RUN_TEMPLATE, ASK_CLARIFY, AGENT, END])
-        graph.add_conditional_edges(RUN_TEMPLATE, n.after_run_template, [RETRIEVE, ASK_CLARIFY, AGENT, END])
+        graph.add_conditional_edges(RUN_TEMPLATE, n.after_run_template, [RETRIEVE, ANSWER, ASK_CLARIFY, AGENT, END])
         graph.add_edge(RETRIEVE, ANSWER)
         for terminal in (RESPOND_DIRECT, ASK_CLARIFY, ANSWER, AGENT):
             graph.add_edge(terminal, END)

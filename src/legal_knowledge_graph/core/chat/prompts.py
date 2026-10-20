@@ -1,12 +1,15 @@
 """
 Toàn bộ prompt và câu trả lời cố định của chatbot. `ANSWER_RULES` dùng chung
-cho node answer và agent để hai đường trả lời cùng một chuẩn.
+cho node answer và agent để hai đường trả lời cùng một chuẩn. Prompt agent là
+hàm `agent_system(action)` vì danh mục template thu hẹp theo action.
 """
 
 from __future__ import annotations
 
+from functools import lru_cache
+
 from ..graph_query import schema
-from ..graph_query.templates import catalog_text
+from ..graph_query.templates import AGENT_ACTION, AGENT_BASE_ACTIONS, TEMPLATES, catalog_text
 from ..reference import load_seed_entries
 from .. import config
 from .understanding.template_selector import actions_prompt
@@ -120,8 +123,26 @@ Trả lời CÂU HỎI của người dùng dựa trên BẰNG CHỨNG lấy t�
 
 {ANSWER_RULES}"""
 
-AGENT_SYSTEM = f"""Bạn là trợ lý tra cứu {DOMAIN_DESCRIPTION}, làm việc trên đồ thị tri thức Neo4j.
+_KNOWN_ACTIONS = frozenset(t.action for t in TEMPLATES.values())
+
+
+@lru_cache(maxsize=None)
+def agent_system(action: str | None = None) -> str:
+    """Prompt hệ thống của agent. Router đã trích được action có template thì
+    danh mục run_template chỉ gồm template của action đó cùng nhóm lọc / tìm
+    nội dung chung (danh mục đủ chiếm hơn nửa prompt); action `other` hoặc lạ
+    thì giữ danh mục đủ."""
+
+    narrowed = action in _KNOWN_ACTIONS and action != AGENT_ACTION
+    catalog = catalog_text({action, *AGENT_BASE_ACTIONS} if narrowed else None)
+    catalog_note = (" — chỉ gồm các truy vấn gần với câu hỏi; không có truy vấn phù hợp thì dùng run_cypher"
+                    if narrowed else "")
+    return f"""Bạn là trợ lý tra cứu {DOMAIN_DESCRIPTION}, làm việc trên đồ thị tri thức Neo4j.
 Câu hỏi này không khớp trực tiếp truy vấn có sẵn, nên bạn tự dùng công cụ để tra cứu rồi trả lời.
+
+ĐẦU VÀO: CÂU HỎI là bản đã viết lại từ TIN NHẮN GỐC theo LỊCH SỬ hội thoại và có thể viết lại sai — đối chiếu
+với tin nhắn gốc và lịch sử khi có. KHUNG ĐÃ TRÍCH là gợi ý tham số (vd cho run_template hoặc TPL_DOCS_FILTERED),
+không chắc đã đúng.
 
 CÔNG CỤ:
 - run_template: chạy một truy vấn có sẵn (đã kiểm duyệt) — ưu tiên dùng khi phù hợp.
@@ -131,8 +152,8 @@ CÔNG CỤ:
 - search_articles: tìm các Điều liên quan tới một câu hỏi về nội dung quy định; kết quả gom theo văn bản, kèm hiệu lực thực tế, văn bản thay thế / sửa đổi và căn cứ.
 Tra cứu tối đa vài lần; đủ thông tin thì dừng và trả lời. Không bao giờ yêu cầu ghi/xoá dữ liệu.
 
-TRUY VẤN CÓ SẴN (run_template):
-{catalog_text()}
+TRUY VẤN CÓ SẴN (run_template{catalog_note}):
+{catalog}
 
 SCHEMA ĐỒ THỊ (cho run_cypher):
 {schema.render_prompt_context()}

@@ -1,18 +1,18 @@
 """
 Resolve thực thể THÔ (chuỗi LLM trích ra hoặc người dùng gõ tay ở CLI
 --template thủ công) -> giá trị thật trong graph. KHÔNG dùng LLM ở file
-này — thuần Python xác định, để test được độc lập với Gemini (Phase 1).
+này — thuần Python xác định, test được độc lập với LLM.
 
 Nguyên tắc: KHÔNG BAO GIỜ tự đoán khi mơ hồ — trả `Ambiguous`/`NotFound`
-thay vì chọn đại 1 candidate. Xem plan (abundant-sleeping-moth.md) mục
-"Kết quả trả về: 4 loại rõ ràng" — resolve thất bại phải lộ ra thành
-`resolution_failed`, không được âm thầm chạy Cypher với tham số sai.
+thay vì chọn đại 1 candidate. Chatbot đổi hai kết quả này thành câu hỏi lại
+(ResolutionFailed), không âm thầm chạy Cypher với tham số sai.
 """
 
 from __future__ import annotations
 
 import difflib
 import re
+import unicodedata
 from dataclasses import dataclass
 
 from .. import config, normalize
@@ -102,9 +102,9 @@ def _fuzzy_pick(query: str, options: dict[str, str], aliases: dict[str, str] | N
 
 
 # ============================================================
-# Organization — 778 node THẬT trong graph, seed chỉ có 21 (fast-path).
-# Resolve phải đối chiếu trực tiếp Organization.name sống trong graph,
-# không thể chỉ dựa vào seed.
+# Organization — graph có hàng trăm cơ quan (phần lớn phát sinh từ dữ liệu),
+# reference/organizations_seed.json chỉ có vài chục. Resolve phải đối chiếu
+# trực tiếp Organization.name trong graph, không thể chỉ dựa vào seed.
 # ============================================================
 
 _org_cache: dict[str, str] | None = None  # slug(name) -> name, cache trong tiến trình
@@ -296,11 +296,51 @@ def resolve_fulltext_phrase(raw: str) -> str:
     return f'"{cleaned}"^2 OR ({" AND ".join(syllables)})'
 
 
-def lucene_terms(raw: str) -> str:
-    """Câu hỏi tự do -> truy vấn Lucene dạng các từ rời (OR mặc định, BM25
-    tự xếp hạng). Viết thường để AND/OR/NOT trong câu không thành toán tử."""
+# Từ dừng của CÂU HỎI (không phải của văn bản): có mặt ở gần như mọi Điều
+# hoặc chỉ là từ để hỏi, đưa vào BM25 chỉ làm nhiễu xếp hạng. Cụm nhiều âm
+# tiết bỏ trước; âm tiết đơn chỉ gồm những âm tiết hiếm khi nằm trong từ ghép
+# mang nội dung (không có "điều" — "điều kiện").
+_QUESTION_STOP_PHRASES = (
+    "trường đại học bách khoa", "đại học bách khoa", "đại học đà nẵng", "như thế nào", "còn hiệu lực",
+    "hết hiệu lực", "văn bản", "quy định", "thế nào", "ra sao", "bao nhiêu", "là gì", "những gì", "hiện hành",
+    "hiện nay", "hiện tại", "hiệu lực", "cho biết", "hay không", "có phải", "đhbk", "đhđn",
+)
+_QUESTION_STOP_PHRASE_RE = re.compile(
+    r"(?<!\S)(?:" + "|".join(re.escape(p) for p in sorted(_QUESTION_STOP_PHRASES, key=len, reverse=True)) + r")(?!\S)"
+)
+_QUESTION_STOP_SYLLABLES = frozenset({
+    "nào", "gì", "là", "của", "các", "những", "về", "theo", "và", "có", "không", "được", "cho", "tôi", "em",
+    "mình", "ai", "hãy", "với", "thì", "mà", "này", "đó", "ạ", "nhé", "vậy", "sao", "bị", "đã", "đang", "sẽ",
+    "nêu", "hỏi", "muốn",
+})
+_SPAN_BREAK = "|"
 
-    return _lucene_clean(raw).lower()
+
+def keyword_query(question: str) -> str:
+    """Câu hỏi tự do -> truy vấn Lucene cho seed BM25 của GraphRAG. Bỏ số hiệu
+    văn bản (đã đi theo phạm vi văn bản) và từ dừng của câu hỏi; mỗi đoạn liên
+    tục còn lại phát các cặp hai âm tiết làm cụm chính xác `"a b"^2` (từ tiếng
+    Việt phần lớn là hai âm tiết) cùng các âm tiết đơn. Không còn gì -> "" (chỉ
+    dùng vector). Viết thường để AND/OR/NOT trong câu không thành toán tử."""
+
+    text = unicodedata.normalize("NFC", question)
+    for number in normalize.find_document_numbers(text):
+        text = text.replace(number, " ")
+    text = re.sub(r"[^\w\s]|_", " ", text).lower()
+    text = _QUESTION_STOP_PHRASE_RE.sub(f" {_SPAN_BREAK} ", text)
+
+    spans: list[list[str]] = [[]]
+    for syllable in text.split():
+        if syllable == _SPAN_BREAK or syllable in _QUESTION_STOP_SYLLABLES:
+            spans.append([])
+        else:
+            spans[-1].append(syllable)
+
+    terms: list[str] = []
+    for span in spans:
+        terms += [f'"{a} {b}"^2' for a, b in zip(span, span[1:])]
+        terms += [s for s in span if not s.isdigit()]
+    return " OR ".join(dict.fromkeys(terms))
 
 
 # ============================================================

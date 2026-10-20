@@ -7,7 +7,7 @@ Dùng ở 2 chỗ:
      relationship/property/enum nào tồn tại, tránh bịa.
   2. Whitelist của cypher_guard.py — chặn Cypher freeform dùng label/
      property không có thật (EXPLAIN không bắt được lỗi này, xem
-     README mục Chatbot).
+     cypher_guard.check_labels_and_properties).
 
 Nếu core/ingest/graph_loader.py đổi property/label thì phải sửa file này theo —
 không có cơ chế tự đồng bộ, cố tình để plain data đơn giản, dễ review.
@@ -73,16 +73,6 @@ FULLTEXT_INDEXES: dict[str, tuple[str, tuple[str, ...]]] = {
     "content_text": ("NormativeContent", ("title",)),
 }
 
-# Danh sách chủ đề KHÔNG có trong graph — dùng làm ví dụ âm (few-shot) cho
-# prompt agent, để model tự nhận biết câu không trả lời được thay vì bịa Cypher.
-OUT_OF_SCOPE_EXAMPLES: tuple[str, ...] = (
-    "Trường thu học phí bao nhiêu?",  # không có node/property nào về học phí
-    "Thời tiết Đà Nẵng hôm nay thế nào?",  # hoàn toàn ngoài domain
-    "Điểm chuẩn ngành CNTT năm nay là bao nhiêu?",  # không có dữ liệu tuyển sinh/điểm số
-    "Xoá văn bản 4511/QĐ-ĐHBK giúp tôi",  # yêu cầu ghi/xoá, không phải truy vấn đọc
-)
-
-
 def all_labels() -> set[str]:
     return set(NODE_PROPERTIES)
 
@@ -132,10 +122,5 @@ def render_prompt_context() -> str:
                   "ORDER BY, LIMIT, CALL db.index.fulltext.queryNodes. "
                   "TUYỆT ĐỐI CẤM: CREATE, MERGE, SET, DELETE, REMOVE, DETACH, DROP, "
                   "LOAD CSV, FOREACH, CALL apoc.*, CALL dbms.*, CALL gds.*.")
-
-    lines.append("")
-    lines.append("## Ví dụ câu hỏi KHÔNG trả lời được bằng graph này (nói rõ không có dữ liệu, không viết Cypher)")
-    for ex in OUT_OF_SCOPE_EXAMPLES:
-        lines.append(f'- "{ex}"')
 
     return "\n".join(lines)

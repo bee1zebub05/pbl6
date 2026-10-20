@@ -49,12 +49,18 @@ def _clip(text: str | None, limit: int) -> str:
     return text if len(text) <= limit else text[:limit] + "…"
 
 
+def _cost(article: ArticleEvidence) -> int:
+    return len(article.text) + sum(len(n.text) for n in article.neighbors)
+
+
 class GraphRagService:
-    def __init__(self, *, top_k: int, context_chars: int, article_chars: int, short_article_chars: int = 400):
+    def __init__(self, *, top_k: int, context_chars: int, article_chars: int, short_article_chars: int = 400,
+                 min_article_chars: int = 300):
         self._top_k = top_k
         self._context_chars = context_chars
         self._article_chars = article_chars
         self._short_article_chars = short_article_chars
+        self._min_article_chars = min_article_chars
 
     def select_seeds(self, vector: list[dict], fulltext: list[dict], scoped: list[dict]) -> list[dict]:
         """top_k Điều sau khi gộp vector + fulltext, rồi thêm Điều trong văn
@@ -100,14 +106,24 @@ class GraphRagService:
         for key in sorted(grouped, key=priority):
             articles: list[ArticleEvidence] = []
             for s in sorted(grouped[key], key=lambda x: x["score"], reverse=True):
-                if budget <= 0:
+                article = self._fit(self._article(s, neighbors.get(s["articleId"], [])), budget)
+                if article is None:
                     break
-                article = self._article(s, neighbors.get(s["articleId"], []))
-                budget -= len(article.text) + sum(len(n.text) for n in article.neighbors)
+                budget -= _cost(article)
                 articles.append(article)
             if articles:
                 documents.append(self._document(docs_by_key[key], articles))
         return GraphContext(documents=documents)
+
+    def _fit(self, article: ArticleEvidence, budget: int) -> ArticleEvidence | None:
+        """Điều vừa ngân sách thì giữ nguyên; không vừa thì bỏ Điều liền kề và cắt
+        toàn văn cho vừa phần còn lại, trừ khi phần còn lại quá ít để còn ý nghĩa."""
+
+        if _cost(article) <= budget:
+            return article
+        if budget < self._min_article_chars:
+            return None
+        return article.model_copy(update={"text": _clip(article.text, budget - 1), "neighbors": []})
 
     def _article(self, seed: dict, neighbor_rows: list[dict]) -> ArticleEvidence:
         return ArticleEvidence(

@@ -6,18 +6,16 @@ Idempotent: mọi thứ dùng MERGE, chạy lại bao nhiêu lần cũng không 
 node/cạnh (trừ property cập nhật theo lần chạy mới nhất — đúng ý "gán lại
 thì ghi đè").
 
-Thứ tự nạp (xem lý do trong README §6):
-  1) constraint + index
+Thứ tự nạp — node phải có trước cạnh nối tới nó:
+  1) constraint + index (cả vector index, chưa có embedding)
   2) Topic + TargetGroup + Organization (từ reference/ + phát sinh trong
-     samples/, kể cả org được nhắc/parentOrg mà bản thân nó không phải cơ
-     quan ban hành ai)
-  3) PART_OF
-  4) Document THẬT (isStub=false) cho mọi file
-  5) ISSUED_BY, HAS_TOPIC, APPLIES_TO, MENTIONS
-  6) Person + SIGNED_BY
-  7) NormativeContent + PROMULGATES, Article + HAS_ARTICLE
-  8) CUỐI CÙNG: citations -> tạo Document stub (nếu cần) rồi tạo 5 loại
-     quan hệ BASED_ON/REFERENCES/REPLACES/AMENDS/REPEALS
+     dữ liệu, kể cả org được nhắc/parentOrg mà bản thân nó không phải cơ
+     quan ban hành ai), rồi PART_OF
+  3) Document thật (isStub=false) cho mọi file, Document stub cho đích trích
+     dẫn chưa có file, rồi ISSUED_BY, HAS_TOPIC, APPLIES_TO, MENTIONS
+  4) Person + SIGNED_BY
+  5) NormativeContent + PROMULGATES, Article + HAS_ARTICLE
+  6) 5 loại quan hệ trích dẫn BASED_ON/REFERENCES/REPLACES/AMENDS/REPEALS
 """
 
 from __future__ import annotations
@@ -29,31 +27,21 @@ from .graph_model import GraphModel
 
 RELATION_TYPES = ("BASED_ON", "REFERENCES", "REPLACES", "AMENDS", "REPEALS")
 
-SCHEMA_CYPHER = """
-CREATE CONSTRAINT doc_key IF NOT EXISTS FOR (d:Document) REQUIRE d.normalizedNumber IS UNIQUE;
-CREATE CONSTRAINT org_key IF NOT EXISTS FOR (o:Organization) REQUIRE o.orgId IS UNIQUE;
-CREATE CONSTRAINT topic_key IF NOT EXISTS FOR (t:Topic) REQUIRE t.topicId IS UNIQUE;
-CREATE CONSTRAINT target_group_key IF NOT EXISTS FOR (g:TargetGroup) REQUIRE g.targetGroupId IS UNIQUE;
-CREATE CONSTRAINT content_key IF NOT EXISTS FOR (c:NormativeContent) REQUIRE c.contentId IS UNIQUE;
-CREATE CONSTRAINT article_key IF NOT EXISTS FOR (a:Article) REQUIRE a.articleId IS UNIQUE;
-CREATE CONSTRAINT person_key IF NOT EXISTS FOR (p:Person) REQUIRE p.personId IS UNIQUE;
-CREATE INDEX doc_status IF NOT EXISTS FOR (d:Document) ON (d.status);
-CREATE INDEX doc_level IF NOT EXISTS FOR (d:Document) ON (d.authorityLevel);
-CREATE INDEX doc_type IF NOT EXISTS FOR (d:Document) ON (d.documentType);
-CREATE FULLTEXT INDEX doc_text IF NOT EXISTS FOR (d:Document) ON EACH [d.title, d.summary];
-CREATE FULLTEXT INDEX article_text IF NOT EXISTS FOR (a:Article) ON EACH [a.heading, a.text];
-CREATE FULLTEXT INDEX content_text IF NOT EXISTS FOR (c:NormativeContent) ON EACH [c.title];
-"""
-
-
-
-def _split_cypher(script: str) -> list[str]:
-    # Bỏ dòng chú thích "//" TRƯỚC khi ghép/split theo ";" — làm ngược lại
-    # (split trước, xoá chú thích sau) từng khiến pipeline tự động mất
-    # constraint/index một cách âm thầm (xem src/vanban/kg/neo4j_load.py).
-    lines = [ln for ln in script.splitlines() if ln.strip() and not ln.strip().startswith("//")]
-    joined = "\n".join(lines)
-    return [s.strip() for s in joined.split(";") if s.strip()]
+SCHEMA_STATEMENTS = (
+    "CREATE CONSTRAINT doc_key IF NOT EXISTS FOR (d:Document) REQUIRE d.normalizedNumber IS UNIQUE",
+    "CREATE CONSTRAINT org_key IF NOT EXISTS FOR (o:Organization) REQUIRE o.orgId IS UNIQUE",
+    "CREATE CONSTRAINT topic_key IF NOT EXISTS FOR (t:Topic) REQUIRE t.topicId IS UNIQUE",
+    "CREATE CONSTRAINT target_group_key IF NOT EXISTS FOR (g:TargetGroup) REQUIRE g.targetGroupId IS UNIQUE",
+    "CREATE CONSTRAINT content_key IF NOT EXISTS FOR (c:NormativeContent) REQUIRE c.contentId IS UNIQUE",
+    "CREATE CONSTRAINT article_key IF NOT EXISTS FOR (a:Article) REQUIRE a.articleId IS UNIQUE",
+    "CREATE CONSTRAINT person_key IF NOT EXISTS FOR (p:Person) REQUIRE p.personId IS UNIQUE",
+    "CREATE INDEX doc_status IF NOT EXISTS FOR (d:Document) ON (d.status)",
+    "CREATE INDEX doc_level IF NOT EXISTS FOR (d:Document) ON (d.authorityLevel)",
+    "CREATE INDEX doc_type IF NOT EXISTS FOR (d:Document) ON (d.documentType)",
+    "CREATE FULLTEXT INDEX doc_text IF NOT EXISTS FOR (d:Document) ON EACH [d.title, d.summary]",
+    "CREATE FULLTEXT INDEX article_text IF NOT EXISTS FOR (a:Article) ON EACH [a.heading, a.text]",
+    "CREATE FULLTEXT INDEX content_text IF NOT EXISTS FOR (c:NormativeContent) ON EACH [c.title]",
+)
 
 
 def _wipe(session) -> None:
@@ -262,7 +250,7 @@ def push(model: GraphModel, wipe: bool = False) -> dict[str, dict[str, int]]:
         if wipe:
             _wipe(session)
 
-        for stmt in _split_cypher(SCHEMA_CYPHER):
+        for stmt in SCHEMA_STATEMENTS:
             session.run(stmt)
         # Chỉ tạo index; đổ embedding qua lệnh riêng `embed-articles` (xem graph_query/vector_index.py).
         vector_index.ensure(session)

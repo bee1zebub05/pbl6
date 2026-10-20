@@ -55,11 +55,25 @@ def test_build_groups_by_document_and_prioritises_scope_docs():
     assert ctx.hits()[0]["articleId"] == "B#Điều 2"
 
 
-def test_build_respects_budget_and_clips_long_articles():
+def _total_chars(ctx):
+    return sum(len(a.text) + sum(len(n.text) for n in a.neighbors) for d in ctx.documents for a in d.articles)
+
+
+def test_build_never_exceeds_budget_and_clips_long_articles():
     seeds = fuse_rrf({"vector": [_seed(f"A#Điều {i}", doc="A", text="x" * 2000) for i in range(5)]})
     ctx = _service(context_chars=1200, article_chars=500).build(seeds, [_doc("A")], [])
     articles = ctx.documents[0].articles
-    assert len(articles) == 3 and all(len(a.text) <= 501 for a in articles)
+    # 2 Điều (501 ký tự mỗi Điều) — phần còn lại 198 ký tự quá ít để cắt thêm một Điều.
+    assert len(articles) == 2 and all(len(a.text) <= 501 for a in articles)
+    assert _total_chars(ctx) <= 1200
+
+
+def test_last_article_is_clipped_to_fit_remaining_budget():
+    seeds = fuse_rrf({"vector": [_seed(f"A#Điều {i}", doc="A", text="x" * 2000) for i in range(5)]})
+    ctx = _service(context_chars=1400, article_chars=500).build(seeds, [_doc("A")], [])
+    articles = ctx.documents[0].articles
+    assert len(articles) == 3 and len(articles[2].text) == 1400 - 2 * 501
+    assert _total_chars(ctx) == 1400
 
 
 def test_short_seed_gets_neighbors_attached():

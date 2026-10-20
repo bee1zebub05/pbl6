@@ -1,6 +1,5 @@
 """
-Chuẩn hoá khoá cho legal_knowledge_graph — viết mới từ đầu, KHÔNG import
-src/vanban/kg/norm.py (module này phải độc lập hoàn toàn với code cũ).
+Chuẩn hoá khoá cho legal_knowledge_graph (không import src/vanban/ — module độc lập).
 
 Nguyên tắc: người map chỉ gõ giá trị THÔ (như in trên văn bản); mọi khoá
 dùng để MERGE trong Neo4j (normalizedNumber, orgId, contentId, articleId,
@@ -139,9 +138,9 @@ def vn_date_to_iso(raw: str | None) -> str | None:
 
 
 # ============================================================
-# authorityLevel (§3 Ontology) — hai bảng y hệt norm.py thật, viết lại độc
-# lập. org-type ưu tiên hơn doc-type: 252/501 văn bản thật dùng chung nhãn
-# "Quyết định" nhưng trải khắp mọi bậc, xét theo loại là vô nghĩa.
+# authorityLevel (§3 rules/Ontology.md). org-type ưu tiên hơn doc-type: hơn
+# nửa kho là "Quyết định" nhưng trải khắp mọi bậc (Bộ, Đại học vùng, trường),
+# nên loại văn bản không cho biết bậc thẩm quyền.
 # ============================================================
 
 LEVEL_BY_ORG_TYPE: dict[str, int] = {

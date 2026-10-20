@@ -16,6 +16,7 @@ import json
 import uuid
 
 from ..observability import setup_logging
+from . import session_log
 from .container import build_chat_service, build_template_query_service
 from .models import ChatResponse, ResolutionFailed, TemplateParamError
 
@@ -79,7 +80,14 @@ def ask_main(argv: list[str] | None = None) -> int:
         parser.error("cần một câu hỏi hoặc --template")
     response = build_chat_service().ask(args.question)
     _print_response(response, args.verbose)
+    _print_session_log(response.thread_id)
     return 1 if response.kind == "error" else 0
+
+
+def _print_session_log(thread_id: str) -> None:
+    path = session_log.session_path(thread_id)
+    if path is not None:
+        print(f"(log phiên: {path})")
 
 
 def chat_main(argv: list[str] | None = None) -> int:
@@ -95,12 +103,15 @@ def chat_main(argv: list[str] | None = None) -> int:
             question = input("\nBạn: ").strip()
         except (EOFError, KeyboardInterrupt):
             print()
+            _print_session_log(thread_id)
             return 0
         if not question:
             continue
         if question in ("/exit", "/quit"):
+            _print_session_log(thread_id)
             return 0
         if question == "/new":
+            _print_session_log(thread_id)
             thread_id = uuid.uuid4().hex
             print("(đã bắt đầu hội thoại mới)")
             continue

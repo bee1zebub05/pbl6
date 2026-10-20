@@ -4,7 +4,7 @@ liệu — KHÔNG tự sửa, chỉ báo cáo. Người rà soát tự quyết: 
 một văn bản bị crawl/OCR hai lần) thì kệ (build sẽ tự gộp đúng); 2 văn bản
 THẬT KHÁC NHAU dùng chung số hiệu (tổ chức đánh số lại theo năm/phiên họp)
 thì phải điền `idOverride` khác nhau ở từng file rồi chạy lại, nếu không
-build sẽ gộp NHẦM (xem README §10 mục "Data thật đã nạp").
+build sẽ gộp NHẦM (các nhóm trùng đã biết: docs/GRAPHREPORT.md §5).
 """
 
 from __future__ import annotations

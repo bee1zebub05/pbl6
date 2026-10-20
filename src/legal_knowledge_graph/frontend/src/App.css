@@ -44,25 +44,6 @@
   color: #064e3b;
 }
 
-.sources {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-  margin-top: 8px;
-}
-
-.table-wrap {
-  overflow-x: auto;
-  max-height: 320px;
-  margin: 8px 0;
-}
-
-.meta {
-  font-size: 0.75rem;
-  color: #6b7280;
-  margin: 6px 0 0;
-}
-
 .muted {
   color: #6b7280;
   font-size: 0.9rem;
@@ -143,94 +124,6 @@
 
 .candidate-btn:hover {
   background: #eff6ff;
-}
-
-.rows-table {
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 0.85rem;
-  margin-bottom: 8px;
-}
-
-.rows-table th,
-.rows-table td {
-  border: 1px solid #d1d5db;
-  padding: 4px 8px;
-  text-align: left;
-}
-
-.rows-table th {
-  background: #e5e7eb;
-}
-
-.cypher-detail {
-  margin-top: 8px;
-}
-
-.cypher-detail summary {
-  cursor: pointer;
-  font-size: 0.8rem;
-  color: #4b5563;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.cypher-detail pre {
-  background: #1f2937;
-  color: #e5e7eb;
-  padding: 8px;
-  border-radius: 6px;
-  overflow-x: auto;
-  font-size: 0.78rem;
-}
-
-.badge {
-  font-size: 0.7rem;
-  padding: 1px 6px;
-  border-radius: 999px;
-  background: #e5e7eb;
-  color: #374151;
-}
-
-.badge-warn {
-  background: #fde68a;
-  color: #78350f;
-}
-
-.retrieval-list {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 8px;
-}
-
-.retrieval-hit {
-  background: #f0fdf4;
-  border: 1px solid #bbf7d0;
-  border-radius: 8px;
-  padding: 8px 10px;
-}
-
-.retrieval-hit-head {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 6px;
-  margin-bottom: 4px;
-}
-
-.retrieval-heading {
-  font-weight: 600;
-  font-size: 0.85rem;
-  color: #14532d;
-}
-
-.retrieval-text {
-  font-size: 0.82rem;
-  color: #1f2937;
-  margin: 0;
-  line-height: 1.45;
 }
 
 .chat-input {
