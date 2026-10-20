@@ -143,6 +143,9 @@ PROMPT = (
     "6. Ngày dạng dd/mm/yyyy, có số 0 đứng đầu: `05/04/2023`, không phải `5/4/2023`.\n"
     "6a. `status`: mặc định CON_HIEU_LUC. Chỉ ghi HET_HIEU_LUC khi chính văn bản nói nó đã "
     "hết hiệu lực, CHUA_HIEU_LUC khi `effectiveDate` muộn hơn `issueDate`. Đừng để null.\n"
+    "6b. `documentNumber` không được có khoảng trắng: `1088 /QĐ-ĐHBK` phải ghi "
+    "`1088/QĐ-ĐHBK`. Văn bản in sẵn `Số: ...../QĐ-ĐHBK` rồi điền số viết tay vào chỗ trống nên "
+    "hay thừa khoảng trắng — bỏ hết, chỉ giữ số và dấu `/`.\n"
     "7. `citations`: quan hệ lấy theo động từ trong câu — 'Căn cứ' → BASED_ON, "
     "'thay thế' → REPLACES, 'sửa đổi, bổ sung' → AMENDS, 'bãi bỏ' → REPEALS, còn lại "
     "chỉ nhắc tên → REFERENCES. Không tự trích dẫn chính văn bản này.\n"
@@ -178,7 +181,10 @@ PROMPT = (
     "10b. `mentions` chỉ ghi tổ chức CÓ DANH TÍNH RÕ, ưu tiên tên trong danh sách ở 10a. "
     "Bỏ các cụm chung chung không xác định được là đơn vị nào: 'Ban Giám hiệu', 'Phòng "
     "Đào tạo', 'Các Khoa, bộ môn trực thuộc', 'Các đơn vị'. Không chắc thì bỏ.\n"
-"11. Mốc trang `----- [Trang N] -----` là do máy OCR chèn, KHÔNG phải nội dung. "
+    "10c. KHÔNG lấy `mentions` từ khối `Nơi nhận:` ở cuối văn bản. Đó là danh sách gửi "
+    "công văn, không phải tổ chức được văn bản nhắc tới về nội dung. Chỉ lấy tổ chức "
+    "xuất hiện trong thân các Điều hoặc phần Căn cứ.\n"
+    "11. Mốc trang `----- [Trang N] -----` là do máy OCR chèn, KHÔNG phải nội dung. "
     "Bỏ hẳn khỏi mọi trường; câu nào bị nó cắt làm đôi thì nối lại cho liền.\n"
 )
 
