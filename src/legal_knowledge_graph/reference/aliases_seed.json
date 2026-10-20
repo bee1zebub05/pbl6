@@ -80,6 +80,36 @@
       "alias": "VKU",
       "canonical": "Trường Đại học Công nghệ thông tin và Truyền thông Việt - Hàn",
       "_note": "1 lần trong kho"
+    },
+    {
+      "alias": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "484 lần trong kho — dạng đầy đủ hay gặp nhất"
+    },
+    {
+      "alias": "Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "135 lần trong kho"
+    },
+    {
+      "alias": "Trường Đại học Bách khoa – Đại học Đà Nẵng",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "19 lần, gạch ngang dài"
+    },
+    {
+      "alias": "Đại học Bách khoa - Đại học Đà Nẵng",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "136 lần. Thiếu alias thì fuzzy match trả nhầm sang \"Hội đồng Đại học Đà Nẵng\" vì đuôi trùng."
+    },
+    {
+      "alias": "Đại học Bách khoa",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "dạng gọi tắt, bỏ chữ Trường"
+    },
+    {
+      "alias": "Bộ Giáo dục",
+      "canonical": "Bộ Giáo dục và Đào tạo",
+      "_note": "3663 lần. Từ khi thêm Bộ Ngoại giao vào seed, fuzzy match coi đây là Ambiguous giữa hai bộ."
     }
   ],
   "topics": [],
