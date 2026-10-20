@@ -59,6 +59,19 @@ _LINH_VUC = ("Công nghệ thông tin, CĐS | Công tác sinh viên | Cơ sở v
              "Đào tạo | Đảm bảo chất lượng, KĐCL")
 _LOAI_ND = ("Quy định | Quy chế | Điều lệ | Quy trình | Nội quy | Đề án | Kế hoạch | "
             "Hướng dẫn | Chương trình")
+# reference/target_groups_seed.json — validate.py doi khop CHINH XAC mot trong tam muc.
+_NHOM = ("Người học | Cán bộ, giảng viên, viên chức, người lao động | Đơn vị trực thuộc | "
+         "Cơ sở giáo dục / trường đại học thành viên | Cơ quan, tổ chức, cá nhân có liên quan | "
+         "Hội đồng và thành viên hội đồng | Doanh nghiệp, đối tác/tổ chức nước ngoài | Khác")
+# reference/organizations_seed.json — ten CHUAN. Khong dung ten chuan thi loader sinh
+# node rieng, mot co quan thanh nhieu node. Do that: ĐHBK tung bi tach lam 3 node.
+_CO_QUAN = ("Quốc hội | Ủy ban Thường vụ Quốc hội | Chủ tịch nước | Chính phủ | "
+            "Thủ tướng Chính phủ | Bộ Giáo dục và Đào tạo | Bộ Tài chính | Bộ Nội vụ | "
+            "Bộ Thông tin và Truyền thông | Bộ Khoa học và Công nghệ | "
+            "Bộ Lao động - Thương binh và Xã hội | Bộ Tư pháp | Bộ Y tế | Bộ Quốc phòng | "
+            "Bộ Công an | Bộ Xây dựng | Bộ Kế hoạch và Đầu tư | Thanh tra Chính phủ | "
+            "Đại học Đà Nẵng | Trường Đại học Bách khoa | Hội đồng Đại học Đà Nẵng | "
+            "Hội đồng Trường Đại học Bách khoa")
 
 PROMPT = (
     "Đây là toàn văn một văn bản pháp quy Việt Nam, đã OCR từ bản scan và đã được sửa "
@@ -83,6 +96,7 @@ PROMPT = (
     '    "expiryDate": "dd/mm/yyyy hoặc null",\n'
     '    "fileUrl": null,\n'
     '    "topics": ["chọn trong: ' + _LINH_VUC + '"],\n'
+    '    "targetGroups": ["đối tượng áp dụng, chọn trong: ' + _NHOM + '"],\n'
     '    "summary": "1-3 câu, tối đa 600 ký tự, chỉ tóm ý CÓ SẴN trong văn bản",\n'
     '    "idOverride": null\n'
     "  },\n"
@@ -128,7 +142,14 @@ PROMPT = (
     "7b. Mỗi số hiệu chỉ xuất hiện MỘT lần trong `citations`. Nếu một văn bản vừa "
     "nằm ở phần Căn cứ vừa được nhắc trong thân bài thì chỉ ghi một dòng, lấy quan "
     "hệ mạnh hơn theo thứ tự REPEALS > REPLACES > AMENDS > BASED_ON > REFERENCES.\n"
-    "8. TUYỆT ĐỐI không thêm các khoá normalizedNumber, orgId, personId, topicId, "
+        "7c. Một câu có NHIỀU số hiệu thì chỉ lấy số hiệu của văn bản ĐÍCH, bỏ chuỗi sửa "
+    "đổi phía sau. Ví dụ 'bãi bỏ Điều 165 của Luật Xây dựng số 50/2014/QH13 đã được sửa "
+    "đổi, bổ sung theo Luật số 03/2016/QH14, Luật số 45/2024/QH15' thì CHỈ ghi một dòng "
+    "REPEALS tới 50/2014/QH13. Các số còn lại là lịch sử sửa đổi của chính nó, không phải "
+    "văn bản bị bãi bỏ.\n"
+    "7d. Số hiệu LUÔN có phần chữ (QH13, NĐ-CP, QĐ-ĐHBK, NQ/TW). Ngày tháng và năm KHÔNG "
+    "phải số hiệu: '25/12/2001', '2015', '14/06/2019' đều SAI, bỏ hẳn trích dẫn đó.\n"
+"8. TUYỆT ĐỐI không thêm các khoá normalizedNumber, orgId, personId, topicId, "
     "articleId, authorityLevel, isStub — máy nạp tự sinh.\n"
     "9. Chuỗi JSON phải escape đúng: xuống dòng trong `text` viết là \\n, dấu nháy kép "
     "viết là \\\". JSON phải parse được.\n"
@@ -136,7 +157,14 @@ PROMPT = (
     "chính tả thường: `ĐẠI HỌC ĐÀ NẴNG` → `Đại học Đà Nẵng`, `QUYẾT ĐỊNH Ban hành` → "
     "`Quyết định Ban hành`. Chỉ áp dụng cho `organization.name` và `document.title`; "
     "`articles[].text` vẫn chép nguyên si.\n"
-    "11. Mốc trang `----- [Trang N] -----` là do máy OCR chèn, KHÔNG phải nội dung. "
+        "10a. `organization.name` phải dùng ĐÚNG tên chuẩn nếu cơ quan nằm trong danh sách: "
+    + _CO_QUAN + ". Văn bản in 'Trường Đại học Bách khoa, Đại học Đà Nẵng' hay 'Trường "
+    "Đại học Bách khoa - Đại học Đà Nẵng' thì vẫn ghi 'Trường Đại học Bách khoa'. Khác "
+    "cách viết là máy nạp dựng thành node riêng, một trường thành ba node.\n"
+    "10b. `mentions` chỉ ghi tổ chức CÓ DANH TÍNH RÕ, ưu tiên tên trong danh sách ở 10a. "
+    "Bỏ các cụm chung chung không xác định được là đơn vị nào: 'Ban Giám hiệu', 'Phòng "
+    "Đào tạo', 'Các Khoa, bộ môn trực thuộc', 'Các đơn vị'. Không chắc thì bỏ.\n"
+"11. Mốc trang `----- [Trang N] -----` là do máy OCR chèn, KHÔNG phải nội dung. "
     "Bỏ hẳn khỏi mọi trường; câu nào bị nó cắt làm đôi thì nối lại cho liền.\n"
 )
 
@@ -153,11 +181,14 @@ class KhoJson(Kho):
     # kiem soat duoc, nen chia dot chay theo no.
     TU_KB = 0.0
     TOI_KB = 1e9
+    # Kho .txt nguon. Doi duoc qua --nguon de chay rieng mot tap con, vd
+    # data/clean/sinh_vien_103/text (103 van ban lien quan nguoi hoc).
+    NGUON = KHO_TXT
 
     def _nap_csv(self, csv_path, chi, tu_loi_cao):
         """Bo qua CSV — nguon viec la toan bo `data/clean/text_final`."""
         bo_co = 0
-        for p in sorted(KHO_TXT.rglob("*.txt")):
+        for p in sorted(self.NGUON.rglob("*.txt")):
             ma = p.name[:4]
             if chi and ma not in chi:
                 continue
@@ -177,7 +208,7 @@ class KhoJson(Kho):
                 "so_dong": 0,
                 "ty_le_loi": "",
             }
-        noi("[cau] nap %d van ban tu %s" % (len(self.viec), KHO_TXT))
+        noi("[cau] nap %d van ban tu %s" % (len(self.viec), self.NGUON))
         if bo_co:
             noi("[cau] bo qua %d file ngoai khoang %.0f-%.0f KB"
                 % (bo_co, self.TU_KB, self.TOI_KB))
@@ -423,7 +454,13 @@ def main():
                     help="chi lam file tu co nay tro len (KB)")
     ap.add_argument("--toi-kb", type=float, default=1e9,
                     help="chi lam file toi co nay (KB) — chia dot theo co file")
+    ap.add_argument("--nguon", default=str(KHO_TXT),
+                    help="thu muc .txt nguon (mac dinh data/clean/text_final)")
     a = ap.parse_args()
+
+    KhoJson.NGUON = Path(a.nguon)
+    if not KhoJson.NGUON.is_dir():
+        raise SystemExit("khong thay thu muc nguon: %s" % KhoJson.NGUON)
 
     import cau_sua_txt
     cau_sua_txt.TRANG_THAI = Path(a.trang_thai)
