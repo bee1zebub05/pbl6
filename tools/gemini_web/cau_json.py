@@ -58,20 +58,35 @@ _LINH_VUC = ("Công nghệ thông tin, CĐS | Công tác sinh viên | Cơ sở v
              "Tuyển sinh | Tài chính, kế toán | Tổ chức, hành chính | Văn thư, lưu trữ | "
              "Đào tạo | Đảm bảo chất lượng, KĐCL")
 _LOAI_ND = ("Quy định | Quy chế | Điều lệ | Quy trình | Nội quy | Đề án | Kế hoạch | "
-            "Hướng dẫn | Chương trình")
+            "Hướng dẫn | Chương trình | Phụ lục")
 # reference/target_groups_seed.json — validate.py doi khop CHINH XAC mot trong tam muc.
 _NHOM = ("Người học | Cán bộ, giảng viên, viên chức, người lao động | Đơn vị trực thuộc | "
          "Cơ sở giáo dục / trường đại học thành viên | Cơ quan, tổ chức, cá nhân có liên quan | "
          "Hội đồng và thành viên hội đồng | Doanh nghiệp, đối tác/tổ chức nước ngoài | Khác")
 # reference/organizations_seed.json — ten CHUAN. Khong dung ten chuan thi loader sinh
 # node rieng, mot co quan thanh nhieu node. Do that: ĐHBK tung bi tach lam 3 node.
-_CO_QUAN = ("Quốc hội | Ủy ban Thường vụ Quốc hội | Chủ tịch nước | Chính phủ | "
-            "Thủ tướng Chính phủ | Bộ Giáo dục và Đào tạo | Bộ Tài chính | Bộ Nội vụ | "
-            "Bộ Thông tin và Truyền thông | Bộ Khoa học và Công nghệ | "
-            "Bộ Lao động - Thương binh và Xã hội | Bộ Tư pháp | Bộ Y tế | Bộ Quốc phòng | "
-            "Bộ Công an | Bộ Xây dựng | Bộ Kế hoạch và Đầu tư | Thanh tra Chính phủ | "
-            "Đại học Đà Nẵng | Trường Đại học Bách khoa | Hội đồng Đại học Đà Nẵng | "
-            "Hội đồng Trường Đại học Bách khoa")
+# reference/organizations_seed.json — ten CHUAN. Khong dung ten chuan thi loader
+# sinh node rieng, mot co quan thanh nhieu node. Do that: DHBK tung bi tach lam
+# 3 node. Doc THANG tu seed, khong chep tay — chep tay thi them to chuc vao seed
+# xong lai quen sua prompt.
+def _doc_ten_co_quan():
+    import json as _json
+    _p = (GOC / "src" / "legal_knowledge_graph" / "reference"
+          / "organizations_seed.json")
+    try:
+        _ds = _json.loads(_p.read_text(encoding="utf-8"))["organizations"]
+    except Exception:
+        return ""
+    # Loc theo orgId, KHONG theo name: cap bien the (vd "Doan TNCS Ho Chi Minh"
+    # va "Doan Thanh nien Cong san Ho Chi Minh") chung mot orgId, chi duoc dua
+    # TEN HIEN THI vao prompt. Dua ca hai la bao model tu chon, data lai lech.
+    _theo_id = {}
+    for _o in _ds:
+        _theo_id[_o["orgId"]] = _o["name"]   # dong sau ghi de = ten hien thi
+    return " | ".join(dict.fromkeys(_theo_id.values()))
+
+
+_CO_QUAN = _doc_ten_co_quan()
 
 PROMPT = (
     "Đây là toàn văn một văn bản pháp quy Việt Nam, đã OCR từ bản scan và đã được sửa "
@@ -135,6 +150,13 @@ PROMPT = (
     "tạo `normativeContents`, cắt theo mục đánh số CẤP CAO NHẤT, mỗi mục một phần tử "
     "trong `articles`. Bảng biểu thì chép từng dòng thành văn xuôi trong `text` của mục "
     "chứa nó. TUYỆT ĐỐI không để `articles` rỗng — schema chặn, cả file bị loại.\n"
+    "3b. `contentType` lấy theo CHỮ IN ở đầu bản kèm theo, không đoán. Tiêu đề "
+    "ghi `PHỤ LỤC` thì `contentType` là `Phụ lục`, dù bên trong nó là bảng biểu hay "
+    "danh mục. Đừng khai thành `Quy định` hay `Hướng dẫn`.\n"
+    "3c. Một văn bản có thể kèm NHIỀU bản: ví dụ một Quy chế rồi một PHỤ LỤC. Mỗi "
+    "bản là MỘT PHẦN TỬ RIÊNG trong `normativeContents`. Dòng `PHỤ LỤC` là TIÊU ĐỀ của bản "
+    "mới, TUYỆT ĐỐI không biến nó thành một phần tử trong `articles` của bản trước, và "
+    "không bao giờ được ghi `number` là `PHỤ LỤC` — `number` chỉ là số (xem luật 5).\n"
     "4. `isImplementationClause` = true cho các Điều thi hành kiểu 'Quyết định này có "
     "hiệu lực...', 'Chánh Văn phòng... chịu trách nhiệm thi hành'.\n"
     "5. `number` dạng `Điều <số>`, vd `Điều 1`, `Điều 12a`, không thêm dấu chấm. Riêng "
@@ -431,16 +453,52 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
     # Hai mau so truoc deu sai: lay ca file thi phu luc lam phong mau so; lay
     # tu tieu de Dieu dau den tieu de cuoi thi bieu mau phu luc (cung danh so
     # Dieu lai tu 1) cung lam phong. Ca hai deu bao nham hang chuc file.
-    _sach = re.sub(r"\n{3,}", "\n\n", VD.MOC_TRANG.sub("", txt))
-    _vt = []
-    for _a in (data.get('articles') or []) + [
-            y for _n in (data.get('normativeContents') or [])
-            for y in (_n.get('articles') or [])]:
-        _t = _a.get('text') or ''
-        _i = _sach.find(_t) if _t else -1
-        if _i >= 0:
-            _vt.append((_i, _i + len(_t)))
-    if len(_vt) >= 2:
+    # So SAU KHI NEN khoang trang. Duong cu (va_dieu_thieu.py) CAT than Dieu
+    # thang tu .txt nen giu nguyen cho ngat dong, find() khop tuyet doi chay
+    # duoc. Duong moi model tu go lai, no noi dong khac di -> find() truot
+    # gan het va bao oan: lo 103 van ban co 55 file dinh nhan nghi ngo, trong
+    # do 0016 nguyen van 54/54 Dieu van bi gan, con 0013 lech that (3/29) lai
+    # khong. Nen khoang trang xong thi hai duong do nhu nhau.
+    # Don rac OCR roi nen khoang trang, ap dung cho CA HAI PHIA.
+    #
+    # Hai thu phai bo. Mot la moc '----- [Trang N] -----'. Hai la SO TRANG in
+    # o dong rieng ngay sau moc — MOC_TRANG khong dong toi, ma no nam LOT GIUA
+    # than Dieu nen find() truot: 0017 mat 38/57 Dieu chi vi the. Chi xoa dong
+    # CHI CO CHU SO; '2. Chuan dau ra...' la khoan 2, xoa la sai.
+    #
+    # Phai don CA HAI PHIA vi hai duong sinh JSON khac nhau: va_dieu_thieu.py
+    # CAT than Dieu thang tu .txt nen than Dieu CO so trang va giu nguyen cho
+    # ngat dong; model tu go lai thi KHONG co so trang va noi dong khac di.
+    # Don mot phia thi duong kia vo: chi don _sach, v4 tut tu 57 xuong 27 file
+    # canh bao nhung v1 vot tu 2 len 175.
+    def _don(_s):
+        _s = VD.MOC_TRANG.sub("", _s or "")
+        _s = re.sub(r"^[ \t]*\d{1,3}[ \t]*$", "", _s, flags=re.M)
+        # Tieu de chay cua Cong bao, cung lot giua than Dieu nhu so trang.
+        # Do that: 69/454 file co, tong 1.274 dong (0153 co 63, 0089 co 22).
+        _s = re.sub(r"^[ \t]*CÔNG BÁO/.*$", "", _s, flags=re.M)
+        return re.sub(r"\s+", " ", _s).strip()
+
+    _sach = _don(txt)
+
+    # Do RIENG tung khoi, khong gop ca van ban vao mot nhip. Dieu cua chinh
+    # van ban va Dieu cua tung ban kem theo nam roi nhau trong .txt; do gop
+    # thi nhip keo tu Dieu 1 den muc cuoi cua phu luc, om luon khoi ky ten
+    # nam GIUA — 0156 nguyen van 6/6 Dieu van bi bao 45% chi vi the.
+    _khoi = [("các Điều", data.get('articles') or [])]
+    for _n in (data.get('normativeContents') or []):
+        _khoi.append((_n.get('contentType') or 'bản kèm theo',
+                      _n.get('articles') or []))
+
+    for _ten, _ds in _khoi:
+        _vt = []
+        for _a in _ds:
+            _t = _don(_a.get('text'))
+            _i = _sach.find(_t) if _t else -1
+            if _i >= 0:
+                _vt.append((_i, _i + len(_t)))
+        if len(_vt) < 2:
+            continue
         _vt.sort()
         _gop = [list(_vt[0])]
         for _s, _e in _vt[1:]:
@@ -454,8 +512,8 @@ def _soi_them(data: dict, goc: Path) -> tuple[list[str], bool]:
         # dai 85-95% la tieu de Chuong/Muc da co y cat ra (chung nam GIUA cac
         # Dieu nen hien len thanh khoang ho), va chi 4 file rot xuong duoi 85%.
         if _span >= 3000 and _phu < _span * 0.85:
-            canh_bao.append("ho noi dung giua cac Dieu (%d/%d ky tu = %.0f%%)"
-                            % (_phu, _span, 100.0 * _phu / max(_span, 1)))
+            canh_bao.append("ho noi dung giua %s (%d/%d ky tu = %.0f%%)"
+                            % (_ten, _phu, _span, 100.0 * _phu / max(_span, 1)))
 
     if not (data.get("signers") or []):
         canh_bao.append("khong co nguoi ky")

@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tài chính, kế toán/0449_5543_QĐ-ĐHBK_Quyết định ban hành các khoản thu, mức thu tại Ký túc xá Trường Đại học Bách khoa,.txt",
   "mappedBy": "gemini-web",
-  "note": null,
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
   "document": {
     "documentNumber": "5543/QĐ-ĐHBK",
     "title": "Quyết định Về việc ban hành các khoản thu, mức thu tại Ký túc xá Trường Đại học Bách khoa, Đại học Đà Nẵng",
@@ -13,21 +13,21 @@
     "expiryDate": null,
     "fileUrl": null,
     "topics": [
-      "Công tác sinh viên",
-      "Tài chính, kế toán"
+      "Tài chính, kế toán",
+      "Công tác sinh viên"
     ],
     "targetGroups": [
       "Người học",
       "Cán bộ, giảng viên, viên chức, người lao động",
       "Đơn vị trực thuộc"
     ],
-    "summary": "Quyết định ban hành các khoản thu, mức thu tiền ở và thế chấp tại Ký túc xá Trường Đại học Bách khoa, Đại học Đà Nẵng cùng chính sách hỗ trợ giảm nội trú phí cho sinh viên thuộc diện chính sách, khó khăn hoặc thành viên Tổ tự quản.",
+    "summary": "Ban hành các khoản thu, mức thu tại Ký túc xá của Trường Đại học Bách khoa, Đại học Đà Nẵng kèm theo các chính sách hỗ trợ giảm nội trú phí cho sinh viên thuộc đối tượng chính sách, hoàn cảnh khó khăn.",
     "idOverride": null
   },
   "organization": {
     "name": "Trường Đại học Bách khoa",
     "orgType": "truong_thanh_vien",
-    "parentOrg": null,
+    "parentOrg": "Đại học Đà Nẵng",
     "idOverride": null
   },
   "signers": [
@@ -63,13 +63,13 @@
       "targetDocumentNumber": "08/NQ-HĐĐH",
       "relationType": "BASED_ON",
       "targetArticle": null,
-      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
     },
     {
       "targetDocumentNumber": "13/NQ-HĐĐH",
       "relationType": "BASED_ON",
       "targetArticle": null,
-      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
     },
     {
       "targetDocumentNumber": "68/NQ-HĐĐH",
@@ -97,36 +97,39 @@
     }
   ],
   "mentions": [
-    "Chính phủ",
     "Đại học Đà Nẵng",
     "Bộ Giáo dục và Đào tạo",
-    "Hội đồng Đại học Đà Nẵng",
-    "Hội đồng Trường Đại học Bách khoa",
-    "Trường Đại học Bách khoa"
+    "Hội đồng Đại học Đà Nẵng"
   ],
   "normativeContents": [
     {
-      "title": "Phụ lục Các khoản thu, mức thu tại Ký túc xá",
-      "contentType": "Quy định",
+      "title": "PHỤ LỤC CÁC KHOẢN THU, MỨC THU TẠI KÝ TÚC XÁ",
+      "contentType": "Phụ lục",
       "status": null,
       "idOverride": null,
       "articles": [
         {
           "number": "1",
           "heading": "Ký túc xá sinh viên chất lượng cao (Phòng 02 chỗ)",
-          "text": "1. Ký túc xá sinh viên chất lượng cao (Phòng 02 chỗ): Mức thu tiền ở: 2.000.000đ/SV/tháng; Mức thu thế chấp: 2.000.000đ/SV/vị trí; Ghi chú: .",
+          "text": "1. Ký túc xá sinh viên chất lượng cao (Phòng 02 chỗ): Mức thu tiền ở là 2.000.000đ/SV/tháng, mức thu thế chấp là 2.000.000đ/SV/vị trí.",
           "isImplementationClause": false
         },
         {
           "number": "2",
           "heading": "Ký túc xá số 4, 5 (Phòng 8 chỗ)",
-          "text": "2. Ký túc xá số 4, 5 (Phòng 8 chỗ):\n- Tầng 1: Mức thu tiền ở: 400.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 2: Mức thu tiền ở: 350.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 3: Mức thu tiền ở: 300.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 4: Mức thu tiền ở: 250.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 5: Mức thu tiền ở: 200.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .",
+          "text": "2. Ký túc xá số 4, 5 (Phòng 8 chỗ): Tầng 1 mức thu tiền ở 400.000đ/SV/tháng, mức thu thế chấp 300.000đ/SV/vị trí. Tầng 2 mức thu tiền ở 350.000đ/SV/tháng, mức thu thế chấp 300.000đ/SV/vị trí. Tầng 3 mức thu tiền ở 300.000đ/SV/tháng, mức thu thế chấp 300.000đ/SV/vị trí. Tầng 4 mức thu tiền ở 250.000đ/SV/tháng, mức thu thế chấp 300.000đ/SV/vị trí. Tầng 5 mức thu tiền ở 200.000đ/SV/tháng, mức thu thế chấp 300.000đ/SV/vị trí.",
           "isImplementationClause": false
         },
         {
           "number": "3",
           "heading": "Ký túc xá số 3",
-          "text": "3. Ký túc xá số 3: Mức thu tiền ở: Không thu (phục vụ Lưu học sinh); Mức thu thế chấp: ; Ghi chú: .\n\nChính sách hỗ trợ:\n- Sinh viên thuộc đối tượng được miễn giảm học phí theo quy định; sinh viên là con mồ côi cả cha lẫn mẹ; sinh viên hộ nghèo và cận nghèo; sinh viên có hộ khẩu thường trú tại vùng cao, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; sinh viên có hoàn cảnh khó khăn do thiên tai, có bố hoặc mẹ mắc bệnh hiểm nghèo... (có xác nhận của chính quyền địa phương) được hỗ trợ giảm 50% nội trú phí.\n- Sinh viên là thành viên của Tổ tự quản Ký túc xá được hỗ trợ giảm 30% nội trú phí.\n- Các trường hợp đặc biệt khó khăn khác do Hiệu trưởng xem xét, quyết định.",
+          "text": "3. Ký túc xá số 3: Không thu (phục vụ Lưu học sinh).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "Chính sách hỗ trợ",
+          "text": "Chính sách hỗ trợ: Sinh viên thuộc đối tượng được miễn giảm học phí theo quy định; sinh viên là con mồ côi cả cha lẫn mẹ; sinh viên hộ nghèo và cận nghèo; sinh viên có hộ khẩu thường trú tại vùng cao, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; sinh viên có hoàn cảnh khó khăn do thiên tai, có bố hoặc mẹ mắc bệnh hiểm nghèo... (có xác nhận của chính quyền địa phương) được hỗ trợ giảm 50% nội trú phí. Sinh viên là thành viên của Tổ tự quản Ký túc xá được hỗ trợ giảm 30% nội trú phí. Các trường hợp đặc biệt khó khăn khác do Hiệu trưởng xem xét, quyết định.",
           "isImplementationClause": false
         }
       ]
@@ -135,19 +138,19 @@
   "articles": [
     {
       "number": "Điều 1",
-      "heading": null,
+      "heading": "Ban hành các khoản thu, mức thu tại Ký túc xá của Trường Đại học Bách khoa, Đại học Đà Nẵng (chi tiết theo Phụ lục kèm theo).",
       "text": "Điều 1. Ban hành các khoản thu, mức thu tại Ký túc xá của Trường Đại học Bách khoa, Đại học Đà Nẵng (chi tiết theo Phụ lục kèm theo).",
       "isImplementationClause": false
     },
     {
       "number": "Điều 2",
-      "heading": null,
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với Quyết định này hết hiệu lực thi hành.",
       "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với Quyết định này hết hiệu lực thi hành.",
       "isImplementationClause": true
     },
     {
       "number": "Điều 3",
-      "heading": null,
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng phòng Phòng Công tác sinh viên, Trưởng các đơn vị có liên quan và sinh viên căn cứ Quyết định thi hành./.",
       "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng phòng Phòng Công tác sinh viên, Trưởng các đơn vị có liên quan và sinh viên căn cứ Quyết định thi hành./.",
       "isImplementationClause": true
     }

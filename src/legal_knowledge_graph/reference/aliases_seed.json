@@ -1,14 +1,86 @@
 {
   "_comment": "Bảng alias cho entity linking (core/graph_query/entity_resolver.py) — người tự tay bảo trì, KHÔNG sinh tự động. 'alias' là cách viết khác người dùng có thể gõ (viết tắt, tên gọi tắt); 'canonical' PHẢI là tên hiển thị đúng như đang tồn tại sống trong graph (Organization.name) hoặc trong seed đóng (Topic/TargetGroup.name) — nếu canonical không còn khớp gì (org đổi tên/xoá), entity_resolver.py tự rơi xuống fuzzy match cũ, không hard-fail.",
   "organizations": [
-    { "alias": "ĐHBK", "canonical": "Trường Đại học Bách khoa", "_note": "Tạm trỏ vào biến thể tên có nhiều ISSUED_BY nhất trong 3 node ĐHBK chưa gộp (xem GRAPHREPORT.md) — sẽ hết cần _note này khi gộp org xong." },
-    { "alias": "DHBK", "canonical": "Trường Đại học Bách khoa", "_note": "như trên" },
-    { "alias": "Bách khoa", "canonical": "Trường Đại học Bách khoa", "_note": "như trên" },
-    { "alias": "ĐHĐN", "canonical": "Đại học Đà Nẵng" },
-    { "alias": "DHDN", "canonical": "Đại học Đà Nẵng" },
-    { "alias": "Bộ GD&ĐT", "canonical": "Bộ Giáo dục và Đào tạo" },
-    { "alias": "BGDĐT", "canonical": "Bộ Giáo dục và Đào tạo" },
-    { "alias": "BGD&ĐT", "canonical": "Bộ Giáo dục và Đào tạo" }
+    {
+      "alias": "ĐHBK",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "Tạm trỏ vào biến thể tên có nhiều ISSUED_BY nhất trong 3 node ĐHBK chưa gộp (xem GRAPHREPORT.md) — sẽ hết cần _note này khi gộp org xong."
+    },
+    {
+      "alias": "DHBK",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "như trên"
+    },
+    {
+      "alias": "Bách khoa",
+      "canonical": "Trường Đại học Bách khoa",
+      "_note": "như trên"
+    },
+    {
+      "alias": "ĐHĐN",
+      "canonical": "Đại học Đà Nẵng"
+    },
+    {
+      "alias": "DHDN",
+      "canonical": "Đại học Đà Nẵng"
+    },
+    {
+      "alias": "Bộ GD&ĐT",
+      "canonical": "Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "alias": "BGDĐT",
+      "canonical": "Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "alias": "BGD&ĐT",
+      "canonical": "Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "alias": "Đoàn TNCS",
+      "canonical": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "_note": "25 lần trong kho"
+    },
+    {
+      "alias": "TNCS",
+      "canonical": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "_note": "28 lần trong kho"
+    },
+    {
+      "alias": "HĐĐH",
+      "canonical": "Hội đồng Đại học Đà Nẵng",
+      "_note": "322 lần trong kho"
+    },
+    {
+      "alias": "HĐT",
+      "canonical": "Hội đồng Trường Đại học Bách khoa",
+      "_note": "163 lần trong kho. Văn bản ĐHĐN có thể dùng HĐT cho hội đồng trường thành viên khác — alias chỉ là gợi ý lúc hỏi, entity_resolver vẫn rơi xuống fuzzy nếu không khớp."
+    },
+    {
+      "alias": "ĐHKT",
+      "canonical": "Trường Đại học Kinh tế",
+      "_note": "5 lần trong kho"
+    },
+    {
+      "alias": "ĐHSP",
+      "canonical": "Trường Đại học Sư phạm",
+      "_note": "9 lần trong kho"
+    },
+    {
+      "alias": "ĐHNN",
+      "canonical": "Trường Đại học Ngoại ngữ",
+      "_note": "4 lần trong kho"
+    },
+    {
+      "alias": "ĐHSPKT",
+      "canonical": "Trường Đại học Sư phạm Kỹ thuật",
+      "_note": "4 lần trong kho"
+    },
+    {
+      "alias": "VKU",
+      "canonical": "Trường Đại học Công nghệ thông tin và Truyền thông Việt - Hàn",
+      "_note": "1 lần trong kho"
+    }
   ],
   "topics": [],
   "target_groups": []

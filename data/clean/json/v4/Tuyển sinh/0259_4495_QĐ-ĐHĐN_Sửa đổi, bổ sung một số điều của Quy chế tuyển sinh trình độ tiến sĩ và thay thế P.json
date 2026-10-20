@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tuyển sinh/0259_4495_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế P.txt",
   "mappedBy": "gemini-web",
-  "note": null,
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
   "document": {
     "documentNumber": "4495/QĐ-ĐHĐN",
     "title": "Quyết định Về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng",
@@ -13,17 +13,17 @@
     "expiryDate": null,
     "fileUrl": null,
     "topics": [
-      "Tuyển sinh",
-      "Đào tạo"
+      "Đào tạo",
+      "Khảo thí",
+      "Tổ chức, hành chính"
     ],
     "targetGroups": [
       "Người học",
-      "Cán bộ, giảng viên, viên chức, người lao động",
-      "Cơ sở giáo dục / trường đại học thành viên",
       "Đơn vị trực thuộc",
-      "Hội đồng và thành viên hội đồng"
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cán bộ, giảng viên, viên chức, người lao động"
     ],
-    "summary": "Quyết định sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng, bao gồm yêu cầu ngoại ngữ, đánh giá xét tuyển NCS, kiểm tra hồ sơ sau nhập học và ban hành biểu mẫu mới.",
+    "summary": "Quyết định sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng, bao gồm các quy định về yêu cầu ngoại ngữ, hội đồng xét tuyển, hậu kiểm hồ sơ trúng tuyển và các biểu mẫu xét duyệt nghiên cứu sinh.",
     "idOverride": null
   },
   "organization": {
@@ -44,10 +44,16 @@
   ],
   "citations": [
     {
-      "targetDocumentNumber": "3297/QĐ-ĐHĐN",
-      "relationType": "AMENDS",
+      "targetDocumentNumber": "14/6/2019",
+      "relationType": "BASED_ON",
       "targetArticle": null,
-      "context": "Về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng"
+      "context": "Căn cứ Luật Giáo dục ngày 14/6/2019;"
+    },
+    {
+      "targetDocumentNumber": "18/6/2012",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục đại học ngày 18/6/2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19/11/2018;"
     },
     {
       "targetDocumentNumber": "99/2019/NĐ-CP",
@@ -86,41 +92,42 @@
       "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
     },
     {
-      "targetDocumentNumber": "13/NQ-HĐĐH",
-      "relationType": "BASED_ON",
+      "targetDocumentNumber": "3297/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
       "targetArticle": null,
-      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+      "context": "...và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng"
     }
   ],
   "mentions": [
     "Đại học Đà Nẵng",
-    "Chính phủ",
-    "Bộ Giáo dục và Đào tạo",
-    "Hội đồng Đại học Đà Nẵng"
+    "Trường Đại học Ngoại ngữ",
+    "Trường Đại học Bách khoa",
+    "Hội đồng Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo"
   ],
   "normativeContents": [
     {
       "title": "Phụ lục Hồ sơ xét duyệt nghiên cứu sinh",
-      "contentType": "Quy định",
+      "contentType": "Phụ lục",
       "status": null,
       "idOverride": null,
       "articles": [
         {
           "number": "1",
-          "heading": "Biểu mẫu 1. Biên bản họp hội đồng xét tuyển nghiên cứu sinh",
-          "text": "1. Biểu mẫu 1. Biên bản họp hội đồng xét tuyển nghiên cứu sinh năm …\nHọ và tên thí sinh: ………………………………………………………………………………………\nNgành dự tuyển: …………………………………………………………………………………………\n- Quyết định thành lập Hội đồng: số …. ngày …. tháng …. năm …. của Giám đốc Đại học Đà Nẵng.\n- Ngày họp: ……/……/…….\n- Thành viên của Hội đồng xét tuyển NCS:\n Tổng số: ….. người\n Có mặt: ….. người Vắng mặt: ….. người\n- Địa điểm: …………….., Đại học Đà Nẵng, TP. Đà Nẵng\n1. Tổng hợp kết quả đánh giá của các thành viên Hội đồng\n- STT 1 đến 5: Họ và tên thành viên Hội đồng; Điểm đánh giá hồ sơ; Điểm đánh giá phần trình bày; Điểm đánh giá chất lượng bài báo/báo cáo khoa học; Tổng điểm của từng thành viên\nTổng cộng\nTổng điểm của Hội đồng: ………………………………………………………………………………\nĐiểm trung bình của Hội đồng: ………………………………………………………………………\n- Ghi bằng số: …………………………………………………………………………………………..\n- Ghi bằng chữ: ………………………………………………………………………………………….\n2. Phần trao đổi (câu hỏi và trả lời) giữa các thành viên Hội đồng và ứng viên NCS\n(Có biên bản ghi chép theo mẫu gửi kèm)\n3. Kết luận của Hội đồng\n3.1 Tên đề xuất của đề tài luận án\n3.2 Mục tiêu nghiên cứu đề tài luận án cần hướng đến\n3.3 Dự kiến một số kết quả chính cần đạt được của luận án\n3.4 Đề xuất của Hội đồng về phương pháp nghiên cứu hoặc các hoạt động hỗ trợ nhằm bảo đảm tính khả thi của đề tài luận án (nếu có)\n3.5 Đề xuất của Hội đồng về người hướng dẫn: Người hướng dẫn chính; Người hướng dẫn phụ (nếu cần thiết)\n3.6 Kết luận của Hội đồng (Ghi rõ ứng viên có đủ điều kiện để xét tuyển nghiên cứu sinh hay không?)\nThư ký Hội đồng; Chủ tịch Hội đồng; Xác nhận của ĐẠI HỌC ĐÀ NẴNG.",
+          "heading": "Biểu mẫu 1: Biên bản họp hội đồng xét tuyển nghiên cứu sinh",
+          "text": "Biểu mẫu 1\nĐẠI HỌC ĐÀ NẴNG\nHỘI ĐỒNG XÉT TUYỂN NGHIÊN CỨU SINH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nBIÊN BẢN HỌP HỘI ĐỒNG\nXét tuyển nghiên cứu sinh năm …\nHọ và tên thí sinh: \nNgành dự tuyển: \n- Quyết định thành lập Hội đồng: số …. ngày …. tháng …. năm …. của Giám đốc Đại học Đà Nẵng.\n- Ngày họp: ……/……/……\n- Thành viên của Hội đồng xét tuyển NCS: Tổng số: ….. người, Có mặt: ….. người, Vắng mặt: ….. người\n- Địa điểm: …………….., Đại học Đà Nẵng, TP. Đà Nẵng\n1. Tổng hợp kết quả đánh giá của các thành viên Hội đồng\nBảng tổng hợp gồm các cột: STT, Họ và tên thành viên Hội đồng, Điểm đánh giá hồ sơ, Điểm đánh giá phần trình bày, Điểm đánh giá chất lượng bài báo/báo cáo khoa học, Tổng điểm của từng thành viên (gồm 5 dòng số thứ tự và 1 dòng Tổng cộng).\nTổng điểm của Hội đồng: \nĐiểm trung bình của Hội đồng: \n- Ghi bằng số: \n- Ghi bằng chữ: \n2. Phần trao đổi (câu hỏi và trả lời) giữa các thành viên Hội đồng và ứng viên NCS\n(Có biên bản ghi chép theo mẫu gửi kèm)\n3. Kết luận của Hội đồng\n3.1 Tên đề xuất của đề tài luận án\n3.2 Mục tiêu nghiên cứu đề tài luận án cần hướng đến\n3.3 Dự kiến một số kết quả chính cần đạt được của luận án\n3.4 Đề xuất của Hội đồng về phương pháp nghiên cứu hoặc các hoạt động hỗ trợ nhằm bảo đảm tính khả thi của đề tài luận án (nếu có)\n3.5 Đề xuất của Hội đồng về người hướng dẫn: Người hướng dẫn chính, Người hướng dẫn phụ (nếu cần thiết)\n3.6 Kết luận của Hội đồng (Ghi rõ ứng viên có đủ điều kiện để xét tuyển nghiên cứu sinh hay không?)\nThư ký Hội đồng Chủ tịch Hội đồng\nXác nhận của ĐẠI HỌC ĐÀ NẴNG",
           "isImplementationClause": false
         },
         {
           "number": "2",
-          "heading": "Biểu mẫu 2. Biên bản ghi chép phần vấn đáp của thí sinh dự tuyển",
-          "text": "2. Biểu mẫu 2. Biên bản ghi chép phần vấn đáp của thí sinh dự tuyển\nHọ và tên thí sinh: ............................................................................................................\nNgành: ...........................................................................................................................\nCâu hỏi 1 và Trả lời câu hỏi 1\nCâu hỏi 2 và Trả lời câu hỏi 2\nCâu hỏi 3 và Trả lời câu hỏi 3\nCâu hỏi 4 và Trả lời câu hỏi 4\nCâu hỏi 5 và Trả lời câu hỏi 5\nThư ký Hội đồng; Chủ tịch Hội đồng.",
+          "heading": "Biểu mẫu 2: Biên bản ghi chép phản vấn đáp của thí sinh dự tuyển",
+          "text": "Biểu mẫu 2\nĐẠI HỌC ĐÀ NẴNG\nHỘI ĐỒNG XÉT TUYỂN NGHIÊN CỨU SINH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nĐà Nẵng, ngày tháng năm 20...\nBIÊN BẢN GHI CHÉP PHẢN VẤN ĐÁP CỦA THÍ SINH DỰ TUYỂN\nHọ và tên thí sinh: \nNgành: \nNội dung ghi chép các câu hỏi từ 1 đến 5 và trả lời tương ứng của thí sinh.\nThư ký Hội đồng và Chủ tịch Hội đồng ký tên.",
           "isImplementationClause": false
         },
         {
           "number": "3",
-          "heading": "Biểu mẫu 3. Phiếu đánh giá thí sinh dự tuyển nghiên cứu sinh",
-          "text": "3. Biểu mẫu 3. Phiếu đánh giá thí sinh dự tuyển nghiên cứu sinh dùng cho Hội đồng xét tuyển nghiên cứu sinh\nKỳ xét tuyển NCS: Tháng ..... năm .........\nHọ và tên thí sinh dự tuyển: ............................................................................................................\nNgành dự tuyển: ..............................................................................................................................\nHọ và tên thành viên Hội đồng xét tuyển NCS: ...............................................................................\nHọc hàm, Học vị: .............................................................................................................................\nĐơn vị công tác: ..............................................................................................................................\nI. Tiêu chí đánh giá\nMỗi thành viên Hội đồng xét tuyển NCS đánh giá thí sinh dự tuyển với tổng điểm tối đa là 100, theo 03 nội dung:\n1. Đánh giá hồ sơ dự tuyển (điểm tối đa 50)\n2. Đánh giá phần trình bày đề cương và vấn đáp của thí sinh (điểm tối đa 40)\n 2.1. Cách đặt vấn đề, xác định mục tiêu:* Sự am hiểu của thí sinh về lĩnh vực nghiên cứu, năng lực lựa chọn vấn đề nghiên cứu, sự rõ ràng về ý tưởng đối với các mục tiêu mong muốn đạt được sau khi hoàn thành chương trình đào tạo tiến sĩ.\n 2.2. Khả năng thực hiện nghiên cứu:* Tính khả thi trong phương pháp nghiên cứu, các điều kiện và kế hoạch nghiên cứu.\n 2.3. Tư chất cần có của một NCS, bao gồm:* Khả năng trí tuệ, sự hiểu biết, tính sáng tạo; tính tiếp thu cái mới; sự chín chắn, nhiệt tình, tự tin; khả năng sắp xếp công việc; tính kiên định, khả năng lãnh đạo, khả năng làm việc theo nhóm; chấp nhận rủi ro, tính lạc quan, vượt qua nghịch cảnh.\n3. Đánh giá chất lượng bài báo hoặc báo cáo khoa học (điểm tối đa 10)\nII. Kết quả đánh giá\n1. Hồ sơ dự tuyển (Điểm tối đa 50):\n- 1.1: Kết quả học tập (Điểm trung bình lấy từ hồ sơ kết quả học tập của trình độ cao nhất). Trường hợp thí sinh không cung cấp minh chứng bảng điểm: Hội đồng xét tuyển NCS đánh giá căn cứ trên hồ sơ quá trình học tập của thí sinh (Điểm tối đa 10).\n- 1.2: Tổng điểm đánh giá chất lượng đề cương nghiên cứu (Điểm tối đa 35), gồm: a. Tính cấp thiết (hay ý nghĩa) của đề tài nghiên cứu (5 điểm); b. Tổng quan các nghiên cứu trong và ngoài nước đã thực hiện (5 điểm); c. Tác dụng dự kiến của đề tài, tính khả thi của đề tài (5 điểm); d. Tính thời sự của đề tài nghiên cứu (10 điểm); e. Phương pháp tiếp cận trong nghiên cứu (10 điểm).\n- 1.3: Đánh giá dựa trên ý kiến nhận xét và ủng hộ thí sinh trong thư giới thiệu (Điểm tối đa 5).\n2. Trình bày đề cương và vấn đáp của thí sinh (Điểm tối đa 40):\n- 2.1: Cách đặt vấn đề, xác định mục tiêu nghiên cứu (Điểm tối đa 15).\n- 2.2: Khả năng thực hiện nghiên cứu (Điểm tối đa 15).\n- 2.3: Tư chất cần có của một nghiên cứu sinh (Điểm tối đa 10).\n3. Chất lượng bài báo hoặc báo cáo khoa học (Điểm tối đa 10):\n- 3.1: Tính phù hợp với đề tài đăng ký NCS (Điểm tối đa 5).\n- 3.2: Tính sáng tạo, chất lượng bài báo/báo cáo khoa học (dựa trên loại Tạp chí, Hội thảo và chỉ số đánh giá Tạp chí) (Điểm tối đa 5).\nTổng điểm đánh giá (1+2+3): 100.\nTổng điểm đánh giá:\n- Ghi bằng số: .........................................................................................................................\n- Ghi bằng chữ: ......................................................................................................................\n*Ghi chú: Thí sinh đạt điều kiện làm Nghiên cứu sinh phải có điểm tối thiểu của các tiêu chí đánh giá tại mục 1 và 2 đạt từ 50% số điểm tối đa trở lên và tổng điểm bình quân của tất cả các thành viên trong Hội đồng tối thiểu là 50.*\nĐà Nẵng, ngày ...... tháng ...... năm ..........\nThành viên đánh giá (Ký và ghi rõ họ tên)",
+          "heading": "Biểu mẫu 3: Phiếu đánh giá thí sinh dự tuyển nghiên cứu sinh",
+          "text": "Biểu mẫu 3\nĐẠI HỌC ĐÀ NẴNG\nHỘI ĐỒNG XÉT TUYỂN NGHIÊN CỨU SINH\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nPHIẾU ĐÁNH GIÁ THÍ SINH DỰ TUYỂN NGHIÊN CỨU SINH\nDùng cho Hội đồng xét tuyển nghiên cứu sinh\nKỳ xét tuyển NCS: Tháng ..... năm .........\nHọ và tên thí sinh dự tuyển: \nNgành dự tuyển: \nHọ và tên thành viên Hội đồng xét tuyển NCS: \nHọc hàm, Học vị: \nĐơn vị công tác: \nI. Tiêu chí đánh giá\nMỗi thành viên Hội đồng xét tuyển NCS đánh giá thí sinh dự tuyển với tổng điểm tối đa là 100, theo 03 nội dung:\n1. Đánh giá hồ sơ dự tuyển (điểm tối đa 50)\n2. Đánh giá phần trình bày đề cương và vấn đáp của thí sinh (điểm tối đa 40)\n3. Đánh giá chất lượng bài báo hoặc báo cáo khoa học (điểm tối đa 10)\nII. Kết quả đánh giá\nBảng chi tiết các nội dung đánh giá điểm tối đa và điểm đánh giá gồm:\n1. Hồ sơ dự tuyển (50 điểm): 1.1 Kết quả học tập (10 điểm), 1.2 Tổng điểm đánh giá chất lượng đề cương nghiên cứu (35 điểm) bao gồm tính cấp thiết, tổng quan nghiên cứu, tác dụng dự kiến, tính thời sự, phương pháp tiếp cận; 1.3 Đánh giá dựa trên thư giới thiệu (5 điểm).\n2. Trình bày đề cương và vấn đáp của thí sinh (40 điểm): 2.1 Cách đặt vấn đề, xác định mục tiêu nghiên cứu (15 điểm); 2.2 Khả năng thực hiện nghiên cứu (15 điểm); 2.3 Tư chất cần có của một nghiên cứu sinh (10 điểm).\n3. Chất lượng bài báo hoặc báo cáo khoa học (10 điểm): 3.1 Tính phù hợp với đề tài đăng ký NCS (5 điểm); 3.2 Tính sáng tạo, chất lượng bài báo/báo cáo khoa học (5 điểm).\nTổng điểm đánh giá (1+2+3): 100 điểm.\n*Ghi chú: Thí sinh đạt điều kiện làm Nghiên cứu sinh phải có điểm tối thiểu của các tiêu chí đánh giá tại mục 1 và 2 đạt từ 50% số điểm tối đa trở lên và tổng điểm bình quân của tất cả các thành viên trong Hội đồng tối thiểu là 50.*",
           "isImplementationClause": false
         }
       ]
@@ -130,13 +137,13 @@
     {
       "number": "Điều 1",
       "heading": "Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng",
-      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng\n\n1. Sửa đổi điểm d khoản 2 Điều 3 như sau:\n“d) Người dự tuyển đào tạo trình độ tiến sĩ ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài phải đáp ứng yêu cầu về năng lực ngoại ngữ khác được quy định trong Đề án tuyển sinh của cơ sở đào tạo.”\n\n2. Sửa đổi khoản 3 Điều 3 như sau:\n“3. Người dự tuyển là công dân nước ngoài nếu đăng ký theo học chương trình đào tạo trình độ tiến sĩ bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài hoặc đã tốt nghiệp đại học, thạc sĩ hoặc tiến sĩ mà chương trình đào tạo được giảng dạy bằng tiếng Việt; phải đáp ứng yêu cầu về ngoại ngữ thứ hai do cơ sở đào tạo quy định trong Đề án tuyển sinh, trừ trường hợp là người bản ngữ của ngôn ngữ được sử dụng trong chương trình đào tạo trình độ tiến sĩ.”\n\n3. Sửa đổi điểm a khoản 3 Điều 6 như sau:\n“a) Hội đồng xét tuyển NCS tổ chức đánh giá thí sinh dự tuyển trình độ tiến sĩ trên cơ sở hồ sơ dự tuyển và việc trình bày đề cương nghiên cứu của thí sinh theo thang điểm 100.\n- Điểm đánh giá hồ sơ dự tuyển tối đa 50; điểm đánh giá việc trình bày và vấn đáp của thí sinh tối đa 40; điểm đánh giá chất lượng bài báo hoặc báo cáo khoa học là 10;\n- Thí sinh được xếp loại đạt nếu điểm đánh giá hồ sơ dự tuyển và điểm đánh giá trình bày vấn đáp đạt từ 50% điểm tối đa trở lên và điểm trung bình của tất cả các thành viên hội đồng từ 50 điểm trở lên. Quy định cụ thể về thang điểm và trình tự đánh giá trong xét tuyển NCS thực hiện theo Phụ lục IV.”\n\n4. Bổ sung khoản 6 Điều 6 như sau:\n“6. Kiểm tra hồ sơ thí sinh trúng tuyển sau khi nhập học\n- Các cơ sở đào tạo chịu trách nhiệm kiểm tra thông tin và hồ sơ minh chứng (sau đây gọi là hậu kiểm) của tất cả các thí sinh trúng tuyển đã tham gia nhập học các đợt tuyển sinh khác nhau trong năm tuyển sinh và báo cáo kết quả hậu kiểm về ĐHĐN trong thời gian 30 ngày sau khi nhập học.\n- ĐHĐN tổ chức kiểm tra các trường hợp bất thường và xử lý các sai sót trong tuyển sinh được phát hiện sau khi hậu kiểm.”\n\n5. Sửa đổi khoản 2 Điều 10 như sau:\n“2. Các cơ sở đào tạo, các ban chức năng và các đơn vị liên quan căn cứ quy chế này để phối hợp tổ chức tuyển sinh trình độ tiến sĩ.\nTrường Đại học Ngoại ngữ quy định về yêu cầu năng lực ngoại ngữ khác đối với ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài trong Đề án tuyển sinh dựa trên đặc điểm của từng ngành đảm bảo phù hợp với quy định tại Thông tư số 18/2021/TT-BGDĐT; tổ chức đánh giá trình độ ngoại ngữ khác và gửi kết quả về Đại học Đà Nẵng để xét tuyển.”",
+      "text": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng\n\n1. Sửa đổi điểm d khoản 2 Điều 3 như sau:\n“d) Người dự tuyển đào tạo trình độ tiến sĩ ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài phải đáp ứng\n\nyêu cầu về năng lực ngoại ngữ khác được quy định trong Đề án tuyển sinh của cơ sở đào tạo.”\n\n2. Sửa đổi khoản 3 Điều 3 như sau:\n“3. Người dự tuyển là công dân nước ngoài nếu đăng ký theo học chương trình đào tạo trình độ tiến sĩ bằng tiếng Việt phải có chứng chỉ tiếng Việt tối thiểu từ bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài hoặc đã tốt nghiệp đại học, thạc sĩ hoặc tiến sĩ mà chương trình đào tạo được giảng dạy bằng tiếng Việt; phải đáp ứng yêu cầu về ngoại ngữ thứ hai do cơ sở đào tạo quy định trong Đề án tuyển sinh, trừ trường hợp là người bản ngữ của ngôn ngữ được sử dụng trong chương trình đào tạo trình độ tiến sĩ.”\n\n3. Sửa đổi điểm a khoản 3 Điều 6 như sau:\n“a) Hội đồng xét tuyển NCS tổ chức đánh giá thí sinh dự tuyển trình độ tiến sĩ trên cơ sở hồ sơ dự tuyển và việc trình bày đề cương nghiên cứu của thí sinh theo thang điểm 100.\n- Điểm đánh giá hồ sơ dự tuyển tối đa 50; điểm đánh giá việc trình bày và vấn đáp của thí sinh tối đa 40; điểm đánh giá chất lượng bài báo hoặc báo cáo khoa học là 10;\n- Thí sinh được xếp loại đạt nếu điểm đánh giá hồ sơ dự tuyển và điểm đánh giá trình bày vấn đáp đạt từ 50% điểm tối đa trở lên và điểm trung bình của tất cả các thành viên hội đồng từ 50 điểm trở lên. Quy định cụ thể về thang điểm và trình tự đánh giá trong xét tuyển NCS thực hiện theo Phụ lục IV.”\n\n4. Bổ sung khoản 6 Điều 6 như sau:\n“6. Kiểm tra hồ sơ thí sinh trúng tuyển sau khi nhập học\n- Các cơ sở đào tạo chịu trách nhiệm kiểm tra thông tin và hồ sơ minh chứng (sau đây gọi là hậu kiểm) của tất cả các thí sinh trúng tuyển đã tham gia nhập học các đợt tuyển sinh khác nhau trong năm tuyển sinh và báo cáo kết quả hậu kiểm về ĐHĐN trong thời gian 30 ngày sau khi nhập học.\n- ĐHĐN tổ chức kiểm tra các trường hợp bất thường và xử lý các sai sót trong tuyển sinh được phát hiện sau khi hậu kiểm.”\n\n5. Sửa đổi khoản 2 Điều 10 như sau:\n“2. Các cơ sở đào tạo, các ban chức năng và các đơn vị liên quan căn cứ quy chế này để phối hợp tổ chức tuyển sinh trình độ tiến sĩ.\nTrường Đại học Ngoại ngữ quy định về yêu cầu năng lực ngoại ngữ khác đối với ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài trong Đề án tuyển sinh dựa trên đặc điểm của từng ngành đảm bảo phù hợp với quy định tại Thông tư số 18/2021/TT-BGDĐT; tổ chức đánh giá trình độ ngoại ngữ khác và gửi kết quả về Đại học Đà Nẵng để xét tuyển.”",
       "isImplementationClause": false
     },
     {
       "number": "Điều 2",
       "heading": "Thay thế",
-      "text": "Điều 2. Thay thế\nPhụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN được thay thế tại Phụ lục kèm theo Quyết định này.",
+      "text": "Điều 2. Thay thế\n\nPhụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN được thay thế tại Phụ lục kèm theo Quyết định này.",
       "isImplementationClause": false
     },
     {

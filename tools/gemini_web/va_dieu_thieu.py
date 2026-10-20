@@ -86,6 +86,28 @@ MOC_CHUONG = re.compile(
     re.M)
 
 
+
+
+def _khoa_sap(so):
+    """Khoa sap xep cho `number`, chiu duoc ca so muc va so La Ma.
+
+    `number` khong con chi la "Điều <số>": bản kèm theo đánh số bằng mục
+    (`1`, `2.1`) hoặc số La Mã (`I`, `IV`) — xem $defs.article trong
+    document.schema.json. Dạng nào đọc không ra thì đẩy xuống cuối thay vì
+    ném lỗi, vì đây chỉ là thứ tự hiển thị.
+    """
+    s = (so or "").replace("\u0110i\u1ec1u", "").strip()
+    m = re.match(r"(\d+)(?:\.(\d+))?", s)
+    if m:
+        return (int(m.group(1)), int(m.group(2) or 0))
+    _LM = {"I": 1, "V": 5, "X": 10, "L": 50}
+    if s and all(c in _LM for c in s.upper()):
+        g = [_LM[c] for c in s.upper()]
+        n = sum(-v if i + 1 < len(g) and v < g[i + 1] else v
+                for i, v in enumerate(g))
+        return (n, 0)
+    return (9999, 0)
+
 def _bo_duoi_chuong(than: str) -> str:
     """Bo tieu de Chuong/Muc cua chuong KE TIEP dinh o cuoi than Dieu.
 
@@ -382,7 +404,7 @@ def _ghi_nd(js, d, goc, thieu, ten, loai):
     if nd:
         nd[0]["articles"] = sorted(
             (nd[0].get("articles") or []) + them,
-            key=lambda x: int(re.match(r"\d+", x["number"].replace("Điều", "").strip()).group()))
+            key=lambda x: _khoa_sap(x["number"]))
     else:
         nd = [{"title": ten, "contentType": loai, "status": None,
                "idOverride": None, "articles": them}]
@@ -473,7 +495,7 @@ def main() -> int:
             } for k in thieu]
             d["articles"] = sorted(
                 (d.get("articles") or []) + them,
-                key=lambda x: int(re.match(r"\d+", x["number"].replace("Điều", "").strip()).group()))
+                key=lambda x: _khoa_sap(x["number"]))
             cu = (d.get("note") or "").strip()
             d["note"] = (cu + " " if cu else "") + (
                 "%d Điều được cắt thẳng từ bản .txt gốc do lượt trích xuất bỏ sót."

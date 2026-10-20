@@ -185,7 +185,7 @@
           "type": "string",
           "enum": [
             "Quy định", "Quy chế", "Điều lệ", "Quy trình",
-            "Nội quy", "Đề án", "Kế hoạch", "Hướng dẫn", "Chương trình"
+            "Nội quy", "Đề án", "Kế hoạch", "Hướng dẫn", "Chương trình", "Phụ lục"
           ]
         },
         "status": {

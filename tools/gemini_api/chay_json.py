@@ -444,8 +444,9 @@ def _lam_dieu(cat, k):
 
 
 def _sap(ds):
-    return sorted(ds, key=lambda x: int(
-        re.match(r"\d+", x["number"].replace("Điều", "").strip()).group()))
+    # Dung chung khoa voi va_dieu_thieu: `number` co the la so muc (1, 2.1)
+    # hoac so La Ma (I, IV), khong con chi la 'Dieu <so>'.
+    return sorted(ds, key=lambda x: VD._khoa_sap(x["number"]))
 
 
 def _gop(cu, cat, bo_qua=None):
