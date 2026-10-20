@@ -22,3 +22,6 @@ tools/labeler/data/
 tools/labeler/*.db
 tools/labeler/*.db-wal
 tools/labeler/*.db-shm
+
+# Dump Neo4j: 26 MB nhi phan, tai tao duoc tu JSON trong repo -> khong dua vao lich su git
+data/neo4j_dump/*.dump
