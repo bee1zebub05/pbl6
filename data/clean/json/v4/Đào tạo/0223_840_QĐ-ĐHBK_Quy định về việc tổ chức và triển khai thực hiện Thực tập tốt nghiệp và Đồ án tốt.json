@@ -1,0 +1,216 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0223_840_QĐ-ĐHBK_Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "840/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt nghiệp theo hình thức Capstone Project của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/02/2023",
+    "effectiveDate": "28/02/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo"
+    ],
+    "targetGroups": [
+      "Người học",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Cơ quan, tổ chức, cá nhân có liên quan",
+      "Hội đồng và thành viên hội đồng",
+      "Doanh nghiệp, đối tác/tổ chức nước ngoài"
+    ],
+    "summary": "Quyết định ban hành Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt nghiệp theo hình thức Capstone Project kết hợp giữa Nhà trường và Doanh nghiệp cho sinh viên năm cuối khóa của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "17/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "1691/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1691/QĐ-ĐHBK ngày 15/7/2020 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Mục tiêu và Chuẩn đầu ra chương trình đào tạo tích hợp Cử nhân Kỹ sư 180 tín chỉ;"
+    },
+    {
+      "targetDocumentNumber": "3092/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08/08/2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "39/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đối với sinh viên chương trình tiên tiến từ khóa 2019 về trước: áp dụng Quyết định số 39/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định tổ chức và triển khai thực hiện Thực tập tốt nghiệp và làm Đồ án tốt nghiệp cho sinh viên Chương trình tiên tiến\"."
+    },
+    {
+      "targetDocumentNumber": "38/QĐ-ĐHBK",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "2. Bãi bỏ Quyết định số 38/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định tổ chức và triển khai thực hiện Đồ án tốt nghiệp kết hợp giữa Nhà trường và doanh nghiệp Capstone project\"."
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Hội đồng Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt nghiệp theo hình thức Capstone Project của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi điều chỉnh, đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy định này quy định việc tổ chức và triển khai Thực tập tốt nghiệp và Đồ án tốt nghiệp kết hợp giữa Nhà trường và Doanh nghiệp, Viện/Trung tâm/Phòng thí nghiệm nghiên cứu, cơ quan sở ban ngành chuyên môn (sau đây gọi chung là doanh nghiệp) theo hình thức Capstone Project (sau đây gọi tên là Capstone Project) cho sinh viên năm cuối khóa của Trường Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi tắt là Trường).\nCapstone Project được áp dụng nhằm nâng cao chất lượng Thực tập tốt nghiệp (viết tắt là TTTN) và Đồ án tốt nghiệp (viết tắt là ĐATN); gắn kết nội dung đề tài ĐATN với thực tế để đáp ứng mục tiêu chương trình đào tạo và nhu cầu nhân lực chất lượng cao của thị trường lao động.\n2. Quy định này áp dụng đối với viên chức tham gia công tác đào tạo, sinh viên năm cuối của Trường và các cá nhân, đơn vị có liên quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Thời gian và khối lượng thực hiện, phương thức triển khai và đánh giá",
+          "text": "Điều 2. Thời gian và khối lượng thực hiện, phương thức triển khai và đánh giá\n1. Capstone Project được triển khai liên tục theo kế hoạch năm cuối của chương trình đào tạo.\n2. Số tín chỉ của học phần Capstone Project, bao gồm số tín chỉ TTTN và số tín chỉ ĐATN, được thể hiện trong chương trình đào tạo. Trong đó:\na) TTTN được thực hiện tại doanh nghiệp.\nb) ĐATN được thực hiện tại doanh nghiệp; hoặc kết hợp tại doanh nghiệp và tại Trường; hoặc thực hiện tại Trường.\nc) ĐATN được triển khai sau khi thực hiện TTTN hoặc có thể được triển khai đồng thời với TTTN. Nội dung ĐATN được triển khai theo định hướng nghiên cứu, phát triển, sản xuất gắn với doanh nghiệp. Tùy theo nội dung đề tài, ĐATN có thể được triển khai liên ngành.\nd) Điểm đánh giá của học phần Capstone Project bao gồm điểm TTTN và điểm ĐATN. Trọng số của từng nội dung được tính theo tỷ lệ số tín chỉ đóng góp trong Đề cương chi tiết học phần. Sinh viên không hoàn thành TTTN thì không được tiếp tục làm ĐATN, sinh viên phải đăng ký lại học phần Capstone Project.\n3. Trường hợp TTTN và ĐATN là 02 học phần riêng lẻ trong chương trình đào tạo, điểm đánh giá TTTN và ĐATN là 02 cột điểm riêng lẻ.\n4. Sinh viên thực hiện ĐATN dưới sự hướng dẫn và đánh giá bởi Hội đồng hướng dẫn (viết tắt là HĐHD) và Hội đồng bảo vệ tốt nghiệp (viết tắt là HĐBVTN).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Hội đồng hướng dẫn và Hội đồng bảo vệ tốt nghiệp",
+          "text": "Điều 3. Hội đồng hướng dẫn và Hội đồng bảo vệ tốt nghiệp\n1. Hiệu trưởng quyết định thành lập HĐHD và HĐBVTN. Quyết định thành lập Hội đồng thể hiện đầy đủ nhiệm vụ các thành viên hội đồng, đơn vị công tác, danh sách sinh viên và tên đề tài theo đề nghị của khoa.\n2. Hội đồng hướng dẫn\na) HĐHD có ít nhất 02 thành viên, trong đó có ít nhất 01 thành viên đại diện cho doanh nghiệp là đồng hướng dẫn. Chủ tịch hội đồng là giảng viên hướng dẫn của Trường.\nb) Chủ tịch HĐHD tổ chức việc hướng dẫn và đánh giá theo các tiêu chí tại Phụ lục 1 (mốc M1, M2, M3 của Bảng 2).\n3. Hội đồng bảo vệ tốt nghiệp\na) HĐBVTN có số thành viên là số lẻ, trong đó có chủ tịch, người phản biện và thư ký. Chủ tịch và thư ký HĐBVTN là giảng viên của Trường. HĐBVTN có ít nhất 01 thành viên đại diện cho doanh nghiệp và 01 thành viên không phải là thành viên của HĐHD.\nb) HĐBVTN chấm bảo vệ ĐATN theo các tiêu chí tại Phụ lục 1 (mốc M3 của Bảng 2).\nc) HĐBVTN làm việc khi có các phiếu nhận xét đồng ý cho bảo vệ của HĐHD, của người phản biện và có ít nhất 3/4 số thành viên tham dự, trong đó phải có chủ tịch, thư ký hội đồng. Thành viên vắng mặt họp hội đồng, phải xin phép chủ tịch hội đồng bằng văn bản.\nChênh lệch điểm đánh giá (quy về thang điểm 10) của các thành viên HĐBVTN không vượt quá 1,5 điểm.\nChênh lệch điểm đánh giá (quy về thang điểm 10) của người phản biện giữa 2 lần đánh giá sản phẩm ĐATN và đánh giá tại HĐBVTN không vượt quá 1,5 điểm.\n4. Yêu cầu đối với thành viên đại diện cho doanh nghiệp tham gia HĐHD và HĐBVTN: tốt nghiệp trình độ đại học trở lên; có chuyên môn phù hợp với nội dung đề tài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Sinh viên thực hiện Capstone Project",
+          "text": "Điều 4. Sinh viên thực hiện Capstone Project\n1. Capstone Project được khuyến khích triển khai cho nhóm từ 02 đến 03 sinh viên đăng ký tham gia làm chung đề tài; tối đa 05 sinh viên/nhóm.\n2. Nhóm sinh viên có nhiệm vụ xây dựng đề cương ĐATN, phân công nhiệm vụ và thực hiện dưới sự hướng dẫn của HĐHD, thực hiện báo cáo định kỳ trước HĐHD và HĐBVTN theo các tiêu chí đánh giá tại Phụ lục 1.\n3. Sinh viên có trách nhiệm tuân thủ các quy định tại doanh nghiệp, hoàn thành đúng tiến độ các nội dung cần thực hiện của Capstone Project.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Quy trình triển khai Thực tập tốt nghiệp",
+          "text": "Điều 5. Quy trình triển khai Thực tập tốt nghiệp\nNội dung công việc | Thời gian thực hiện | Đơn vị chủ trì | Đơn vị phối hợp thực hiện\n1. Xây dựng kế hoạch triển khai TTTN tại doanh nghiệp\n1.1. Liên hệ doanh nghiệp để gửi sinh viên TTTN | Trước thời điểm TTTN theo Kế hoạch năm học | Khoa/Bộ môn | Phòng Đào tạo; Trung tâm hỗ trợ sinh viên và quan hệ doanh nghiệp (HTSV&QHDN)\n1.2. Thông báo cho sinh viên kế hoạch TTTN tại doanh nghiệp | Trước thời điểm TTTN theo Kế hoạch năm học | Khoa/Bộ môn | Doanh nghiệp\n2. Tổ chức TTTN tại doanh nghiệp\nGiám sát, hướng dẫn sinh viên thực tập tại doanh nghiệp. | Theo Kế hoạch năm học | Doanh nghiệp | Khoa/Bộ môn\n3. Đánh giá TTTN\nSinh viên báo cáo kết quả TTTN. Khoa/Bộ môn tổ chức đánh giá theo các tiêu chí ở Phụ lục 1 (Bảng 1) | Tuần cuối cùng của đợt TTTN theo Kế hoạch năm học | Khoa/Bộ môn, Doanh nghiệp | Phòng Đào tạo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Quy trình triển khai Đồ án tốt nghiệp",
+          "text": "Điều 6. Quy trình triển khai Đồ án tốt nghiệp\nNội dung công việc | Thời gian thực hiện | Đơn vị chủ trì | Đơn vị phối hợp thực hiện\n1. Xây dựng kế hoạch triển khai ĐATN với sự tham gia của doanh nghiệp\n1.1. Thông báo cho sinh viên về nội dung, quy trình triển khai Capstone Project | Trước hoặc trong quá trình triển khai TTTN | Khoa/Bộ môn | Phòng Đào tạo\n1.2. Liên hệ mời doanh nghiệp hợp tác triển khai | Trước hoặc trong quá trình triển khai TTTN | Khoa/Bộ môn | Phòng Đào tạo; Trung tâm HTSV&QHDN\n1.3. Lập kế hoạch để doanh nghiệp tổ chức seminar giới thiệu doanh nghiệp, tuyển chọn sinh viên tham gia | Trước hoặc trong quá trình triển khai TTTN | Khoa/Bộ môn | Trung tâm HTSV & QHDN; Các Khoa có liên quan\n1.4. Tổ chức tuyển chọn sinh viên làm Capstone Project | Trước hoặc trong quá trình triển khai TTTN | Khoa/Bộ môn | Doanh nghiệp\n1.5. Lập danh sách sinh viên làm ĐATN, gồm có: Danh sách sinh viên làm ĐATN tại doanh nghiệp; Danh sách sinh viên làm ĐATN kết hợp tại doanh nghiệp và tại Trường; Danh sách sinh viên làm ĐATN tại Trường. | Chậm nhất là tuần cuối cùng của đợt TTTN theo kế hoạch đào tạo của năm học | Khoa/Bộ môn | Doanh nghiệp\n1.6. Thảo luận với doanh nghiệp và các khoa cùng hướng dẫn (nếu có) về nội dung đề tài và thành viên của doanh nghiệp, giảng viên tham gia HĐHD, hướng đề tài, mục tiêu, sản phẩm đạt được. Xác định đề tài được thực hiện bằng ngoại ngữ (tiếng Anh/Pháp/Nhật) (nếu có) | Chậm nhất là tuần cuối cùng của đợt TTTN theo kế hoạch đào tạo của năm học | Khoa/Bộ môn | Doanh nghiệp; Các khoa có tham gia\n2. Thành lập HĐHD\n2.1. Gửi cho Phòng Đào tạo Danh sách HĐHD cho từng đề tài kèm theo danh sách sinh viên làm Capstone Project. | Chậm nhất là tuần cuối cùng của đợt TTTN theo kế hoạch đào tạo của năm học | Khoa/Bộ môn; Phòng Đào tạo |\n2.2. Trình Ban Giám hiệu ban hành quyết định thành lập HĐHD. | Chậm nhất là tuần cuối cùng của đợt TTTN theo kế hoạch đào tạo của năm học | Phòng Đào tạo | Phòng Tổ chức - Hành chính\n3. Triển khai Capstone Project\nSinh viên triển khai Capstone Project dưới sự hướng dẫn và đánh giá của HĐHD theo các tiêu chí tại Phụ lục 1 (mốc M1, M2, M3 của Bảng 2) | Theo Kế hoạch năm học | HĐHD | Khoa/Bộ môn Doanh nghiệp\n4. Thành lập HĐBVTN\n4.1. Gửi cho Phòng Đào tạo danh sách HĐBVTN cho từng nhóm sinh viên làm Capstone Project với tên đề tài đã được xác định bởi HĐHD. | Tiến hành trước thời điểm bảo vệ 02 tuần theo kế hoạch đào tạo năm học | Khoa/Bộ môn; Phòng Đào tạo; Các khoa có tham gia |\n4.2. Trình Ban Giám hiệu ban hành quyết định thành lập HĐBVTN. | Tiến hành trước thời điểm bảo vệ 02 tuần theo kế hoạch đào tạo năm học | Phòng Đào tạo | Phòng Tổ chức - Hành chính\n5. Tổ chức bảo vệ Capstone Project\nSinh viên báo cáo kết quả thực hiện ĐATN trước HĐBVTN. HĐBVTN chấm bảo vệ ĐATN theo các tiêu chí đánh giá tại Phụ lục 1 (mốc M3 của Bảng 2) | Theo kế hoạch đào tạo năm học | HĐBVTN | Khoa/Bộ môn, Phòng Đào tạo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Kinh phí thực hiện",
+          "text": "Điều 7. Kinh phí thực hiện\nTrường chi hỗ trợ cho công tác quản lý, công tác tổ chức triển khai thực hiện Capstone Project theo định mức quy định tại Phụ lục 2.\nHồ sơ của mỗi Capstone Project được Trường chi hỗ trợ là các hồ sơ có đầy đủ minh chứng theo các tiêu chí đánh giá tại Phụ lục 1.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tổ chức thực hiện",
+          "text": "Điều 8. Tổ chức thực hiện\n1. Trưởng phòng Phòng Đào tạo có trách nhiệm hướng dẫn các đơn vị trong việc thực hiện Quy định này.\n2. Trưởng khoa/Trưởng bộ môn có trách nhiệm phổ biến Quy định này đến các giảng viên thuộc đơn vị, các giảng viên thuộc Đại học Đà Nẵng, các giảng viên thỉnh giảng tham gia HĐHD, HĐBVTN và các cá nhân có liên quan.\n3. Chủ tịch HĐHD có trách nhiệm phổ biến Quy định này cho sinh viên ngay từ tuần đầu của thời gian làm ĐATN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Áp dụng quy định chuyển tiếp",
+          "text": "Điều 9. Áp dụng quy định chuyển tiếp\nĐối với sinh viên chương trình tiên tiến từ khóa 2019 về trước: áp dụng Quyết định số 39/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định tổ chức và triển khai thực hiện Thực tập tốt nghiệp và làm Đồ án tốt nghiệp cho sinh viên Chương trình tiên tiến\".",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 10. Hiệu lực thi hành\n1. Quy định này có hiệu lực kể từ ngày ký và được áp dụng từ học kỳ 2 năm học 2022-2023.\n2. Bãi bỏ Quyết định số 38/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định tổ chức và triển khai thực hiện Đồ án tốt nghiệp kết hợp giữa Nhà trường và doanh nghiệp Capstone project\".\n3. Những quy định khác về việc tổ chức và triển khai Capstone Project được thực hiện theo các văn bản pháp luật hiện hành và quy định về ĐATN của Trường.\n4. Các trường hợp khác với Quy định này do Hiệu trưởng xem xét, quyết định.\n5. Trong quá trình thực hiện Quy định này, nếu có vướng mắc, các đơn vị, cá nhân có liên quan phản ánh bằng văn bản về Phòng Đào tạo để tổng hợp, báo cáo Hiệu trưởng xem xét, quyết định./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt nghiệp theo hình thức Capstone Project của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và áp dụng từ Học kỳ 2 năm học 2022-2023.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": null,
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Phó Trưởng phòng phụ trách Phòng Đào tạo, Trưởng các đơn vị, cá nhân có liên quan và sinh viên của Trường chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

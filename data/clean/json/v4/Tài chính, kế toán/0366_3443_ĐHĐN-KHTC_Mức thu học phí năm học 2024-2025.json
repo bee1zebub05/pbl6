@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0366_3443_ĐHĐN-KHTC_Mức thu học phí năm học 2024-2025.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "3443/ĐHĐN-KHTC",
+    "title": "V/v mức thu học phí năm học 2024 - 2025",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/08/2024",
+    "effectiveDate": "20/08/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Người học"
+    ],
+    "summary": "Đại học Đà Nẵng thông báo đến Trường Đại học Bách khoa mức thu học phí năm học 2024 - 2025 đối với các chương trình đào tạo đại học, sau đại học, lưu học sinh và hướng dẫn thực hiện các khoản thu khác.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên"
+    },
+    {
+      "targetDocumentNumber": "71/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 71/NQ-HĐĐH ngày 16/8/2024 của Hội đồng Đại học Đà Nẵng (ĐHĐN) về việc thông qua mức thu học phí năm học 2024 - 2025 của ĐHĐN"
+    },
+    {
+      "targetDocumentNumber": "97/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 81/2021/NĐ-CP ngày 27/08/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập, giá dịch vụ trong lĩnh vực giáo dục, đào tạo"
+    },
+    {
+      "targetDocumentNumber": "81/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 81/2021/NĐ-CP ngày 27/08/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập, giá dịch vụ trong lĩnh vực giáo dục, đào tạo"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐĐH",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 7",
+      "context": "Trường thực hiện theo điểm b khoản 2 Điều 7 của Quy chế Tài chính ĐHĐN ban hành kèm theo Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng ĐHĐN."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục Mức thu học phí năm học 2024 - 2025 Trường Đại học Bách khoa",
+      "contentType": "Hướng dẫn",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Hệ đào tạo Đại học",
+          "text": "1. Hệ đào tạo Đại học\n1.1 Chương trình truyền thống:\n- Khóa 2020, 2021: 450.000 đồng/tín chỉ\n- Khóa 2022 - Nhóm ngành I (1): 650.000 đồng/tín chỉ\n- Khóa 2022 - Nhóm ngành II (2): 780.000 đồng/tín chỉ\n- Khóa 2023, 2024 - Nhóm ngành I (3): 650.000 đồng/tín chỉ\n- Khóa 2023, 2024 - Nhóm ngành II (4): 780.000 đồng/tín chỉ\n1.2 Chương trình chất lượng cao (mức thu theo đơn vị tự chủ chi thường xuyên):\n- Khóa 2020, 2021 (Ngành Kiến trúc): 950.000 đồng/tín chỉ\n- Khóa 2020, 2021 (Các ngành còn lại): 845.000 đồng/tín chỉ\n1.3 Chương trình tiên tiến:\n- Khóa 2023 trở về trước: 34.000.000 đồng/năm học\n- Khóa 2024: 35.000.000 đồng/năm học\n1.4 Chương trình PFIEV:\n- Khóa 2020, 2021: 23.900.000 đồng/năm học\n- Khóa 2022, 2023, 2024: 582.000 đồng/tín chỉ\n1.5 ĐH hệ vừa làm vừa học, liên thông: Bằng với mức thu tại mục 1.1\nLớp đào tạo đặc thù giảng dạy 100% tiếng Anh (không bao gồm: chương trình tiên tiến, chương trình chất lượng cao; mức thu theo đơn vị tự chủ chi thường xuyên): 894.000 đồng/tín chỉ\n\n(1) Gồm các ngành: Kỹ thuật Tàu thủy, Kỹ thuật Môi trường, Xây dựng Công trình thủy, Xây dựng Công trình Giao thông, Quản lý Tài nguyên và Môi trường, Kỹ thuật Cơ sở Hạ tầng.\n(2) Các ngành còn lại.\n(3) Gồm các ngành: Kỹ thuật Tàu thủy, Kỹ thuật Môi trường, Xây dựng Công trình thủy, Xây dựng Công trình Giao thông, Quản lý Tài nguyên và Môi trường, Kỹ thuật Cơ sở Hạ tầng, Kỹ thuật Hệ thống công nghiệp, Công nghệ Kỹ thuật vật liệu xây dựng, Kỹ thuật Xây dựng chuyên ngành Kỹ thuật và Quản lý xây dựng đô thị thông minh.\n(4) Các ngành còn lại.\nGhi chú:\n- Đơn giá tín chỉ không bao gồm học phí GDQP&AN.\n- Mức thu trên chỉ bao gồm học phí, không bao gồm các chi phí khác kể cả chi phí ký túc xá.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Hệ đào tạo sau Đại học",
+          "text": "2. Hệ đào tạo sau Đại học\n2.1 Thạc sĩ:\n- Từ khóa tuyển sinh năm 2022 về sau: 31.000.000 đồng/năm học\n2.2 Tiến sĩ:\n- Khóa tuyển sinh năm 2021 trở về trước: 31.400.000 đồng/năm học\n- Từ khóa tuyển sinh năm 2022 về sau: 38.800.000 đồng/năm học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Mức thu đối với Lưu học sinh",
+          "text": "3. Mức thu đối với Lưu học sinh\n3.1 Trình độ đại học:\n- Tuyển sinh năm 2021 trở về trước: [chữ mờ không đọc được]\n- Tuyển sinh năm 2022 trở về sau: Bằng với mức thu tại mục 1.1\n3.2 Thạc sĩ: Bằng với mức thu tại mục 2.1\n3.3 Tiến sĩ: Bằng với mức thu tại mục 2.2",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "1",
+      "heading": "Đối với mức thu học phí các chương trình đào tạo",
+      "text": "1. Đối với mức thu học phí các chương trình đào tạo\nCăn cứ Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định 81/2021/NĐ-CP ngày 27/08/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập, giá dịch vụ trong lĩnh vực giáo dục, đào tạo; Nghị quyết số 71/NQ-HĐĐH ngày 16/8/2024 của Hội đồng ĐHĐN về việc thông qua mức thu học phí năm học 2024 - 2025 của ĐHĐN, ĐHĐN thông báo mức thu học phí năm học 2024 - 2025 của Trường theo phụ lục kèm theo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "2",
+      "heading": "Đối với các khoản thu khác",
+      "text": "2. Đối với các khoản thu khác: Trường thực hiện theo điểm b khoản 2 Điều 7 của Quy chế Tài chính ĐHĐN ban hành kèm theo Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng ĐHĐN. Trường xác định và công bố các mức thu trên cơ sở các quy định của Nhà nước, có xem xét đến nhu cầu và khả năng chi trả của người học, đảm bảo tương xứng với chất lượng dịch vụ được cung ứng bởi Trường và các bên liên quan đồng thời đảm bảo thực hiện đúng nghĩa vụ thuế đối với Nhà nước.\nĐề nghị Trường Đại học Bách khoa triển khai thực hiện thông báo, công khai, tổ chức và quản lý thu đúng quy định, sử dụng các khoản thu trên đúng mục đích, hạch toán kế toán từng khoản thu vào sổ sách kế toán theo đúng quy định hiện hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

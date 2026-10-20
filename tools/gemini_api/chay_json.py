@@ -46,6 +46,8 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 import cau_json as CJ          # noqa: E402  — PROMPT, _boc_json, _validate, _soi_them
 import va_dieu_thieu as VD     # noqa: E402  — bo cat Dieu tu .txt
 
+# Kho .txt nguon. Doi duoc qua --nguon de chay rieng mot tap con, vd
+# data/clean/sinh_vien_103/text (103 van ban lien quan nguoi hoc).
 KHO_TXT = GOC / "data" / "clean" / "text_final"
 RA = GOC / "data" / "clean" / "json" / "v1"
 RA_V2 = GOC / "data" / "clean" / "json" / "v2"
@@ -894,6 +896,8 @@ def main() -> int:
     ap.add_argument("--toi-kb", type=float, default=1e9)
     ap.add_argument("--tu-kb", type=float, default=0.0)
     ap.add_argument("--chi", default="")
+    ap.add_argument("--nguon", default=None,
+                    help="thu muc .txt nguon (mac dinh data/clean/text_final)")
     ap.add_argument("--lam-lai", action="store_true", help="làm cả file đã có JSON")
     ap.add_argument("--va-lai", action="store_true",
                     help="cắt lại Điều cho JSON đã có, không gọi API")
@@ -904,6 +908,18 @@ def main() -> int:
                     help="thư mục đích cho --bu-nhom "
                          "(mặc định data/clean/json/v2)")
     a = ap.parse_args()
+
+    global KHO_TXT, RA
+
+    if a.nguon:
+        KHO_TXT = Path(a.nguon)
+        if not KHO_TXT.is_dir():
+            raise SystemExit("khong thay thu muc nguon: %s" % KHO_TXT)
+        print("[api] nguon: %s" % KHO_TXT)
+
+    if a.ra:
+        RA = Path(a.ra)
+        print("[api] ra: %s" % RA)
 
     chi_ma = {x.strip() for x in a.chi.split(",") if x.strip()} or None
     if a.va_lai:

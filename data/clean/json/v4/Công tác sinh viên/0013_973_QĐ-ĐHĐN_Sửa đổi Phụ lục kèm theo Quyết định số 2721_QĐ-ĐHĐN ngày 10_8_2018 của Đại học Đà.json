@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0013_973_QĐ-ĐHĐN_Sửa đổi Phụ lục kèm theo Quyết định số 2721_QĐ-ĐHĐN ngày 10_8_2018 của Đại học Đà.txt",
+  "mappedBy": "gemini-web",
+  "note": "Văn bản nguồn chứa Quyết định 973/QĐ-ĐHĐN ngày 20/3/2020 sửa đổi Phụ lục của Quyết định 2721/QĐ-ĐHĐN, sau đó là toàn văn Quyết định 2721/QĐ-ĐHĐN ngày 10/8/2018 đính kèm để đối chiếu. Trích xuất chính xác theo văn bản sửa đổi 973/QĐ-ĐHĐN.",
+  "document": {
+    "documentNumber": "973/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc sửa đổi Phụ lục kèm theo Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Đại học Đà Nẵng về việc ban hành Quy chế Công tác sinh viên Đại học Đà Nẵng đối với chương trình đào tạo đại học hệ chính quy",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/03/2020",
+    "effectiveDate": "20/03/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên"
+    ],
+    "targetGroups": [
+      "Người học",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Quyết định sửa đổi Phụ lục về Một số nội dung vi phạm và khung xử lý kỷ luật sinh viên áp dụng đối với các cơ sở giáo dục đại học thành viên, đơn vị trực thuộc ban hành kèm theo Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Văn Dưỡng",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2721/QĐ-ĐHĐN",
+      "relationType": "AMENDS",
+      "targetArticle": null,
+      "context": "Sửa đổi Phụ lục của Quy chế Công tác sinh viên Đại học Đà Nẵng đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Đại học Đà Nẵng (Phụ lục mới được kèm theo Quyết định này)."
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "30/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 30/2020/NĐ-CP ngày 05/3/2020 của Chính phủ về công tác văn thư;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "10/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05/4/2014 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy"
+    },
+    {
+      "targetDocumentNumber": "1325/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 1325/QĐ-BGDĐT ngày 25/4/2016 của Bộ Giáo dục và Đào tạo về việc đính chính Thông tư số 10/2016/TT-BGDĐT ngày 05/4/2014 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "31/2009/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Xử lý theo Thông tư số 31/2009/TT-BGDĐT ngày 23/10/2009 ban hành Quy định về công tác phòng, chống tệ nạn ma túy tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục Một số nội dung vi phạm và khung xử lý kỷ luật sinh viên áp dụng đối với các CSGDĐHTV, ĐVTT",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép",
+          "text": "1. Đến muộn giờ học, giờ thực tập; nghỉ học không phép hoặc quá phép: CSGDĐHTV/ĐVTT quy định cụ thể",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Mất trật tự, làm việc riêng trong giờ học, giờ thực tập và tự học",
+          "text": "2. Mất trật tự, làm việc riêng trong giờ học, giờ thực tập và tự học: CSGDĐHTV/ĐVTT quy định cụ thể",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Vô lễ với thầy cô giáo, CBVC, NLĐ trong nhà trường",
+          "text": "3. Vô lễ với thầy cô giáo, CBVC, NLĐ trong nhà trường: Khiển trách Lần 1; Cảnh cáo Lần 2; Đình chỉ học tập 1 năm học Lần 3. Ghi chú: Trong trường hợp đặc biệt nghiêm trọng, có thể đình chỉ 01 năm học hoặc buộc thôi học ngay lần vi phạm đầu tiên",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "Học hộ hoặc nhờ người khác học hộ",
+          "text": "4. Học hộ hoặc nhờ người khác học hộ: Khiển trách Lần 1; Cảnh cáo Lần 2; Đình chỉ học tập 1 năm học Lần 3",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "Thi, kiểm tra hộ hoặc nhờ thi, kiểm tra hộ; làm hộ, nhờ làm hoặc sao chép tiểu luận, đồ án, khoá luận tốt nghiệp",
+          "text": "5. Thi, kiểm tra hộ hoặc nhờ thi, kiểm tra hộ; làm hộ, nhờ làm hoặc sao chép tiểu luận, đồ án, khoá luận tốt nghiệp: Đình chỉ học tập 1 năm học Lần 1; Buộc thôi học Lần 2",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "Tổ chức học, thi, kiểm tra hộ; tổ chức làm hộ tiểu luận, đồ án, khoá luận tốt nghiệp",
+          "text": "6. Tổ chức học, thi, kiểm tra hộ; tổ chức làm hộ tiểu luận, đồ án, khoá luận tốt nghiệp: Buộc thôi học Lần 1. Ghi chú: Tuỳ theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": "Mang tài liệu vào phòng thi, đưa đề thi ra ngoài, nhờ làm hộ, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra",
+          "text": "7. Mang tài liệu vào phòng thi, đưa đề thi ra ngoài, nhờ làm hộ, ném tài liệu vào phòng thi, vẽ bậy vào bài thi; bỏ thi không có lý do chính đáng và các hình thức gian lận khác trong học tập, thi, kiểm tra: Xử lý theo Quy chế đào tạo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": "Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định mà không có lý do chính đáng",
+          "text": "8. Cố tình chậm nộp hoặc không nộp học phí, bảo hiểm y tế theo quy định mà không có lý do chính đáng: Tùy theo mức độ, xử lý từ nhắc nhở, khiển trách đến buộc thôi học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": "Làm hư hỏng tài sản trong KTX và các tài sản khác của cơ quan, đơn vị",
+          "text": "9. Làm hư hỏng tài sản trong KTX và các tài sản khác của cơ quan, đơn vị: Tùy mức độ xử lý từ khiển trách đến buộc thôi học và phải bồi thường thiệt hại",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": "Uống rượu, bia trong giờ học; say rượu, bia khi đến lớp",
+          "text": "10. Uống rượu, bia trong giờ học; say rượu, bia khi đến lớp: Khiển trách Lần 1; Cảnh cáo Lần 2; Đình chỉ học tập 1 năm học Lần 3; Buộc thôi học Lần 4",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": "Hút thuốc lá trong giờ học, phòng họp, phòng thí nghiệm và nơi cấm hút thuốc theo quy định",
+          "text": "11. Hút thuốc lá trong giờ học, phòng họp, phòng thí nghiệm và nơi cấm hút thuốc theo quy định: Từ lần 3 trở lên, xử lý từ khiển trách đến cảnh cáo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": "Đánh bạc dưới mọi hình thức",
+          "text": "12. Đánh bạc dưới mọi hình thức: Khiển trách Lần 1; Cảnh cáo Lần 2; Đình chỉ học tập 1 năm học Lần 3; Buộc thôi học Lần 4. Ghi chú: Tuỳ theo mức độ có thể giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": "Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hoá đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép",
+          "text": "13. Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hoá đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép: Khiển trách Lần 1; Cảnh cáo Lần 2; Đình chỉ học tập 1 năm học Lần 3; Buộc thôi học Lần 4. Ghi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": "Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma tuý",
+          "text": "14. Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma tuý: Buộc thôi học Lần 1. Ghi chú: Giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": "Sử dụng ma tuý",
+          "text": "15. Sử dụng ma tuý: Xử lý theo Thông tư số 31/2009/TT-BGDĐT ngày 23/10/2009 ban hành Quy định về công tác phòng, chống tệ nạn ma túy tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": "Chứa chấp, môi giới mại dâm",
+          "text": "16. Chứa chấp, môi giới mại dâm: Buộc thôi học Lần 1. Ghi chú: Giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": "Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có",
+          "text": "17. Lấy cắp tài sản, chứa chấp, tiêu thụ tài sản do lấy cắp mà có: Tuỳ theo mức độ xử lý từ cảnh cáo đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": "Chứa chấp, buôn bán vũ khí, chất nổ và hàng cấm theo quy định của Nhà nước",
+          "text": "18. Chứa chấp, buôn bán vũ khí, chất nổ và hàng cấm theo quy định của Nhà nước: Buộc thôi học Lần 1. Ghi chú: Giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": "Đưa phần tử xấu vào trong trường, KTX gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường",
+          "text": "19. Đưa phần tử xấu vào trong trường, KTX gây ảnh hưởng xấu đến an ninh, trật tự trong nhà trường: Tùy theo mức độ xử lý từ cảnh cáo đến buộc thôi học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": "Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau",
+          "text": "20. Đánh nhau, tổ chức hoặc tham gia tổ chức đánh nhau: Cảnh cáo Lần 1; Đình chỉ học tập 1 năm học Lần 2; Buộc thôi học Lần 3. Ghi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": "Kích động, lôi kéo người khác biểu tình, viết truyền đơn, áp phích trái pháp luật",
+          "text": "21. Kích động, lôi kéo người khác biểu tình, viết truyền đơn, áp phích trái pháp luật: Đình chỉ học tập 1 năm học Lần 1; Buộc thôi học Lần 2. Ghi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": "Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật",
+          "text": "22. Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật: Khiển trách Lần 1; Cảnh cáo Lần 2; Đình chỉ học tập 1 năm học Lần 3; Buộc thôi học Lần 4. Ghi chú: Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": "Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng Internet",
+          "text": "23. Đăng tải, bình luận, chia sẻ bài viết, hình ảnh có nội dung dung tục, bạo lực, đồi trụy, xâm phạm an ninh quốc gia, chống phá Đảng và Nhà nước, xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân trên mạng Internet: Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": "Có hành động quấy rối, dâm ô, xâm phạm nhân phẩm, đời tư của người khác",
+          "text": "24. Có hành động quấy rối, dâm ô, xâm phạm nhân phẩm, đời tư của người khác: Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cho cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": "Vi phạm các quy định về an toàn giao thông",
+          "text": "25. Vi phạm các quy định về an toàn giao thông: Tùy theo mức độ, xử lý từ khiển trách đến buộc thôi học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": "Các vi phạm khác",
+          "text": "26. Các vi phạm khác: Tùy theo mức độ, đơn vị xem xét, nhắc nhở, phê bình, trừ điểm rèn luyện hoặc xử lý kỷ luật từ khiển trách đến buộc thôi học. Nếu nghiêm trọng, giao cơ quan chức năng xử lý theo quy định của pháp luật",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1. Sửa đổi Phụ lục của Quy chế Công tác sinh viên Đại học Đà Nẵng đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Đại học Đà Nẵng (Phụ lục mới được kèm theo Quyết định này).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": null,
+      "text": "Điều 3. Chánh Văn phòng, Trưởng các Ban chức năng có liên quan, Hiệu trưởng các đơn vị thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng căn cứ Quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

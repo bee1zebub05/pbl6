@@ -1,0 +1,196 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công tác sinh viên/0069_1216_QĐ-ĐHBK_Phê duyệt Đề án Công tác chủ nhiệm lớp cố vấn học tập và tư vấn hỗ trợ cho sinh vi.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1216/QĐ-ĐHBK",
+    "title": "Quyết định Phê duyệt Đề án Công tác chủ nhiệm lớp, cố vấn học tập và tư vấn hỗ trợ cho sinh viên thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "22/04/2022",
+    "effectiveDate": "01/09/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Đào tạo"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Người học"
+    ],
+    "summary": "Phê duyệt kèm theo Quyết định này Đề án Công tác chủ nhiệm lớp, cố vấn học tập và tư vấn hỗ trợ cho sinh viên thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng. Quyết định có hiệu lực kể từ học kỳ 1 năm học 2022-2023.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 40/2020/TT-BGDĐT ngày 26/10/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/03/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021 của Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021 của Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng; Nghị quyết 22/NQ-HĐT ngày 08/10/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành về việc sửa đổi, bổ sung một số Điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng; Nghị quyết 22/NQ-HĐT ngày 08/10/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành về việc sửa đổi, bổ sung một số Điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4194/QĐ-ĐHĐN ngày 08/12/2021 của Giám đốc Đại học Đà Nẵng ban hành Quy định chế độ làm việc của giảng viên Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1001/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16/4/2021 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Đề án Công tác chủ nhiệm lớp, cố vấn học tập và tư vấn hỗ trợ cho sinh viên thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Đề án",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "MỤC TIÊU CỦA ĐỀ ÁN",
+          "text": "I. MỤC TIÊU CỦA ĐỀ ÁN\n1. Mục tiêu chung\n- Tăng cường công tác phối hợp giữa GVCN/GVCVHT với Nhà trường và gia đình sinh viên trong công tác quản lý sinh viên, đảm bảo quá trình giáo dục đào tạo toàn diện cho sinh viên trong Trường ĐHBK;\n- Nâng cao vai trò của GVCN/GVCVHT nhằm tăng mức độ hài lòng của người học, tăng chất lượng và số lượng sinh viên tốt nghiệp theo kế hoạch thiết kế học tập của chương trình đào tạo;\n- Tạo môi trường học tập và rèn luyện thuận lợi cho sinh viên, góp phần nâng cao chất lượng đào tạo của Nhà trường;\n- Tổ chức triển khai công tác hỗ trợ, chủ nhiệm và cố vấn học tập cho sinh viên trong toàn Trường một cách thống nhất, đồng bộ, giúp sinh viên rèn luyện đạo đức, tư tưởng chính trị, hoàn thiện kỹ năng, tính tổ chức, kỷ luật và chủ động sắp xếp kế hoạch học tập, rèn luyện một cách hợp lý;\n- Tăng cường công tác tư vấn, hỗ trợ sinh viên nắm vững nội dung chương trình đào tạo; nắm rõ quy chế, quy định của Bộ GD&ĐT, của ĐHĐN và của Trường ĐHBK; hỗ trợ, trợ giúp sinh viên xây dựng kế hoạch học tập phù hợp để hoàn thành chương trình học đúng tiến độ, hiệu quả, đạt kết quả cao trong học tập và rèn luyện;\n- Thúc đẩy các hoạt động hỗ trợ sinh viên về kết nối doanh nghiệp; tư vấn định hướng nghề nghiệp, khởi nghiệp, việc làm; thực tập và học tập nâng cao.\n2. Mục tiêu cụ thể\n- Xây dựng hệ thống tổ chức, quản lý công tác hỗ trợ, tư vấn và cố vấn học tập cho sinh viên trong quá trình học tập, rèn luyện tại Trường ĐHBK một cách có hệ thống, khoa học và hiệu quả;\n- Cụ thể hóa nhiệm vụ, trách nhiệm, quyền hạn đối với viên chức đảm nhận công tác chủ nhiệm và cố vấn học tập theo các quy định của Bộ GD&ĐT, ĐHĐN và Trường ĐHBK;\n- Xây dựng chế độ làm việc, chế độ phụ cấp, nội dung thực hiện công tác, chế độ báo cáo, khen thưởng và kỷ luật đối với viên chức đảm nhận công tác chủ nhiệm và cố vấn học tập theo các quy định và tình hình thực tiễn của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "PHẠM VI ĐIỀU CHỈNH VÀ ĐỐI TƯỢNG ÁP DỤNG",
+          "text": "II. PHẠM VI ĐIỀU CHỈNH VÀ ĐỐI TƯỢNG ÁP DỤNG\n1. Phạm vi điều chỉnh\nVăn bản này quy định về công tác GVCN/GVCVHT của Trường ĐHBK.\n2. Đối tượng áp dụng\na) Viên chức được phân công làm công tác CN/GVCVHT thuộc Trường ĐHBK;\nb) Sinh viên thuộc Trường ĐHBK.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "CƠ SỞ XÂY DỰNG ĐỀ ÁN",
+          "text": "III. CƠ SỞ XÂY DỰNG ĐỀ ÁN\nĐề án được xây dựng căn cứ trên cơ sở:\n1. Các văn bản pháp quy, quy phạm nội bộ liên quan đến các quy định đối với nhiệm vụ của chủ nhiệm lớp, cố vấn học tập cho sinh viên.\n2. Sứ mạng, mục tiêu và giá trị cốt lõi của Nhà trường theo Quyết định số 1803/QĐ-ĐHBK ngày 27/7/2020 của Hiệu trưởng Trường ĐHBK ban hành Tầm nhìn, sứ mạng, triết lý giáo dục, giá trị cốt lõi của Trường ĐHBK.\n3. Chiến lược phát triển của Nhà trường theo Quyết định số 1838/QĐ-ĐHBK ngày 09/7/2021 của Hiệu trưởng Trường ĐHBK ban hành Chiến lược phát triển của Trường ĐHBK.\n4. Tình hình thực tiễn về công tác GVCN/GVCVHT của Nhà trường. Cụ thể được trình bày trong phần “Đánh giá tình hình triển khai công tác chủ nhiệm và cố vấn học tập trong Trường ĐHBK” tại Hội nghị công tác chủ nhiệm và cố vấn học tập năm học 2020 - 2021, tổ chức vào ngày 16/4/2021.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "IV",
+          "heading": "NHIỆM VỤ VÀ GIẢI PHÁP THỰC HIỆN",
+          "text": "IV. NHIỆM VỤ VÀ GIẢI PHÁP THỰC HIỆN\n1. Xây dựng hệ thống tổ chức, quản lý công tác CVHT/TVHT\nHệ thống công tác CVHT/TVHT được tổ chức theo cơ cấu như sau: Phòng Công tác Sinh viên phối hợp với Khoa và Chủ nhiệm lớp / Nhóm CVHT/TVHT.\n2. Phân công nhiệm vụ và thực hiện\n2.1. Phòng Công tác Sinh viên\nPhòng CTSV là đơn vị chức năng chịu trách nhiệm trước Ban Giám hiệu thực hiện các nhiệm vụ cụ thể về triển khai giải pháp, xây dựng văn bản, tham mưu, lập kế hoạch tập huấn, theo dõi tình hình, quản lý, đánh giá, thanh quyết toán kinh phí và hỗ trợ sinh viên.\n2.2. Nhóm CVHT/TVHT\nNhóm CVHT/TVHT bao gồm các viên chức được Ban Lãnh đạo các Khoa phân công, chịu trách nhiệm về tổ chức và quản lý, thực hiện nhiệm vụ theo quy định chung của Đề án.\n2.3. Chủ nhiệm lớp sinh viên\nChủ nhiệm lớp sinh viên do viên chức thuộc Khoa quản lý sinh viên đảm nhận; chịu trách nhiệm trước Ban lãnh đạo Khoa về các hoạt động liên quan đến công tác chủ nhiệm lớp sinh viên theo thời gian thiết kế chuẩn của chương trình đào tạo.\n3. Nội dung công tác CN/CVHT/TVHT\n3.1. Công tác chủ nhiệm lớp sinh viên: Giảng viên chủ nhiệm thực hiện vai trò là cầu nối giữa Sinh viên – Nhà trường – Gia đình, nắm rõ quy chế, hướng dẫn sinh viên, đôn đốc học tập, rèn luyện, đóng học phí, tham gia BHYT, sinh hoạt lớp định kỳ và báo cáo theo quy định.\n3.2. Công tác cố vấn học tập: Cố vấn học tập hướng dẫn, tư vấn sinh viên xây dựng kế hoạch học tập, cung cấp thông tin chương trình đào tạo, phương pháp học tập đại học.\n3.3. Công tác tư vấn, hỗ trợ cho sinh viên: Tư vấn thủ tục hành chính, quy chế, hoạt động đoàn thể, hướng nghiệp, khởi nghiệp, học bổng, tâm lý - xã hội.\n4. Trách nhiệm, quyền hạn và quyền lợi của Nhóm CVHT/TVHT\n- Trách nhiệm: Phối hợp, thông tin, giải quyết vụ việc và báo cáo.\n- Quyền hạn: Được cung cấp thông tin, sử dụng chương trình đào tạo, phân quyền hệ thống, triệu tập họp khoa.\n- Quyền lợi: Được hưởng phụ cấp theo quy định.\n5. Trách nhiệm, quyền hạn và quyền lợi của GVCN\n- Trách nhiệm: Cập nhật thông tin, chủ động giải quyết vụ việc, thực hiện chế độ báo cáo.\n- Quyền hạn: Được cung cấp danh sách sinh viên, chương trình đào tạo, cấp tài khoản hệ thống, triệu tập họp lớp đột xuất, tham gia thảo luận hội đồng.\n- Quyền lợi: Được hưởng quyền lợi theo quy định hiện hành về mức giảm giờ chuẩn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "V",
+          "heading": "BÁO CÁO TỔNG KẾT, ĐÁNH GIÁ CÔNG TÁC CN/CVHT/TVHT",
+          "text": "V. BÁO CÁO TỔNG KẾT, ĐÁNH GIÁ CÔNG TÁC CN/CVHT/TVHT\n1. Báo cáo, tổng kết kết quả thực hiện công tác CN/CVHT/TVHT\nThực hiện vào tuần cuối cùng của học kỳ chính theo kế hoạch năm học.\n2. Đánh giá công tác CN/CVHT/TVHT\nĐịnh kỳ kết thúc mỗi học kỳ chính, các Khoa thực hiện đánh giá kết quả dựa trên đánh giá của sinh viên (60%), Khoa (20%) và Nhà trường (20%), phân loại thành các mức A, B, C, D làm căn cứ chi trả hệ số phụ cấp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VII",
+          "heading": "KINH PHÍ THỰC HIỆN ĐỀ ÁN",
+          "text": "VII. KINH PHÍ THỰC HIỆN ĐỀ ÁN\nSử dụng nguồn kinh phí hoạt động của Nhà trường trích từ các nguồn thu hoạt động sự nghiệp. Định mức kinh phí phụ cấp phân bổ theo nội dung công tác, nhiệm vụ và giải pháp của Đề án. Việc chi trả phụ cấp thực hiện sau khi hoàn thành báo cáo, kết quả đánh giá phân loại mức độ hoàn thành nhiệm vụ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VIII",
+          "heading": "DỰ KIẾN HIỆU QUẢ VÀ TÁC ĐỘNG CỦA ĐỀ ÁN ĐẾN NGƯỜI HỌC",
+          "text": "VIII. DỰ KIẾN HIỆU QUẢ VÀ TÁC ĐỘNG CỦA ĐỀ ÁN ĐẾN NGƯỜI HỌC\n1. Hiệu quả chung: Phân định rõ trách nhiệm, quyền hạn; nâng cao nhận thức; lấy người học làm trung tâm; thiết lập hệ thống tổ chức và đánh giá khoa học.\n2. Tác động đến người học: Tăng sự hài lòng, nâng cao hiệu quả học tập, đảm bảo tiến độ, giảm số lượng sinh viên diện cảnh báo học vụ, tăng số lượng sinh viên tốt nghiệp đúng hạn và đạt kết quả khá trở lên.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "IX",
+          "heading": "TỔ CHỨC THỰC HIỆN",
+          "text": "IX. TỔ CHỨC THỰC HIỆN\n1. Phòng Công tác Sinh viên: Là đơn vị đầu mối triển khai Đề án.\n2. Phòng Đào tạo: Hỗ trợ thông tin, tài liệu đào tạo và phối hợp giải quyết vấn đề phát sinh.\n3. Phòng Kế hoạch – Tài chính: Phối hợp thanh quyết toán kinh phí hoạt động và phụ cấp.\n4. Phòng Thanh tra - Pháp chế: Phối hợp giải quyết khiếu nại, tố cáo.\n5. Các Khoa: Chịu trách nhiệm triển khai, xây dựng mô hình tổ chức, phân công nhân sự, định mức kinh phí, giám sát và đánh giá.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "X",
+          "heading": "KẾ HOẠCH THỰC HIỆN ĐỀ ÁN",
+          "text": "X. KẾ HOẠCH THỰC HIỆN ĐỀ ÁN\nChi tiết trong Phụ lục IV kèm theo Đề án này.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "XI",
+          "heading": "TRÁCH NHIỆM THI HÀNH",
+          "text": "XI. TRÁCH NHIỆM THI HÀNH\n1. Các đơn vị, tổ chức, cá nhân liên quan thuộc Trường ĐHBK có trách nhiệm tổ chức thực hiện nghiêm túc.\n2. Hằng năm Nhà trường triển khai tổng kết đánh giá.\n3. Thực hiện công tác khen thưởng và kỷ luật.\n4. Trong quá trình thực hiện nếu có vướng mắc, các đơn vị đề xuất thông qua Phòng CTSV để trình Hiệu trưởng xem xét, quyết định.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phê duyệt Đề án",
+      "text": "Điều 1. Phê duyệt kèm theo Quyết định này Đề án Công tác chủ nhiệm lớp, cố vấn học tập và tư vấn hỗ trợ cho sinh viên thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ học kỳ 1 năm học 2022-2023.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng phòng Phòng Công tác Sinh viên, Trưởng các đơn vị thuộc Trường và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

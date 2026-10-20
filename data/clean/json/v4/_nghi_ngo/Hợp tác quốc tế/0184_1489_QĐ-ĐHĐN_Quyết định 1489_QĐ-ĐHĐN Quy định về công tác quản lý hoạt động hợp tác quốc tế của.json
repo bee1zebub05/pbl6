@@ -1,0 +1,483 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Hợp tác quốc tế/0184_1489_QĐ-ĐHĐN_Quyết định 1489_QĐ-ĐHĐN Quy định về công tác quản lý hoạt động hợp tác quốc tế của.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "1489/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Quy định về công tác quản lý hoạt động hợp tác quốc tế của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/05/2020",
+    "effectiveDate": "06/05/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Hợp tác quốc tế"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học",
+      "Cơ quan, tổ chức, cá nhân có liên quan",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Quyết định ban hành Quy định về công tác quản lý hoạt động hợp tác quốc tế của Đại học Đà Nẵng, bao gồm quản lý đoàn vào, đoàn ra; ký kết văn bản hợp tác quốc tế; tổ chức hội nghị, hội thảo khoa học quốc tế; quản lý chương trình liên kết đào tạo với nước ngoài; quản lý dự án sử dụng viện trợ không hoàn lại và xây dựng hệ thống thông tin.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "11/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 11/2016/NĐ-CP ngày 03/02/2016 của Chính phủ quy định chi tiết thi hành một số điều của Bộ luật Lao động về lao động nước ngoài làm việc tại Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "86/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2018/NĐ-CP ngày 06/6/2018 của Thủ tướng Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế về tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "30/2018/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 30/2018/TT-BGDĐT ngày 24/12/2018 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý người nước ngoài học tập tại Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "76/2010/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 76/2010/QĐ-TTg ngày 20/11/2010 của Thủ tướng Chính phủ về việc tổ chức, quản lý hội nghị, hội thảo quốc tế tại Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "666/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký, thay thế cho Quyết định số 666/QĐ-ĐHĐN ngày 03/02/2016 của Giám đốc Đại học Đà Nẵng và Quyết định số 805/QĐ-ĐHĐN ngày 10/3/2017 của Giám đốc Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "805/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký, thay thế cho Quyết định số 666/QĐ-ĐHĐN ngày 03/02/2016 của Giám đốc Đại học Đà Nẵng và Quyết định số 805/QĐ-ĐHĐN ngày 10/3/2017 của Giám đốc Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "40/2016/TT-BLĐTBXH",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "thực hiện các thủ tục xin giấy phép lao động theo quy định của Thông tư số 40/2016/TT-BLĐTBXH ngày 25/10/2016 hướng dẫn thi hành một số điều của Nghị định số 11/2016/NĐ-CP ngày 03/02/2016 của Chính phủ quy định chi tiết thi hành một số điều của Bộ luật Lao động về lao động nước ngoài làm việc tại Việt Nam."
+    },
+    {
+      "targetDocumentNumber": "5118/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thẩm quyền và thủ tục cử CBCCVC đi công tác nước ngoài thực hiện theo quy định tại Điều 4, Điều 5, Điều 6 và Điều 7 của Quy định về “Quản lý việc ra nước ngoài của cán bộ, viên chức thuộc các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ĐHĐN” ban hành kèm theo Quyết định số 5118/QĐ-ĐHĐN ngày 29/8/2014 của Giám đốc ĐHĐN"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 5",
+      "context": "Điều 5 của Quy định về “Nhiệm vụ, quyền hạn của ĐHĐN, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc” ban hành kèm theo Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Giám đốc ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "2211/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 13",
+      "context": "khoản 5, Điều 13 Quy chế về “Đào tạo, bồi dưỡng trong nước và nước ngoài của cán bộ, viên chức ĐHĐN” ban hành kèm theo Quyết định số 2211/QĐ-ĐHĐN ngày 30/5/2016 của ĐHĐN"
+    },
+    {
+      "targetDocumentNumber": "58/2012/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "theo Quyết định số 58/2012/QĐ-TTg ngày 24/12/2012 của Thủ tướng Chính phủ về việc sử dụng và quản lý hộ chiếu ngoại giao, hộ chiếu công vụ."
+    },
+    {
+      "targetDocumentNumber": "21/2013/QĐ-UBND",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Việc thẩm định, phê duyệt, tổ chức HNHTKHQT tại ĐHĐN thực hiện theo Quyết định số 21/2013/QĐ-UBND ngày 09/7/2013 của UBND thành phố Đà Nẵng về việc ban hành Quy định về công tác quản lý và tổ chức thực hiện các hoạt động đối ngoại trên địa bàn thành phố Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "5465/QĐ-UBND",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 5465/QĐ-UBND ngày 12/8/2014 của UBND thành phố ban hành Quy chế phối hợp trong công tác quản lý Hội nghị, Hội thảo quốc tế tổ chức tại thành phố Đà Nẵng và các quy định pháp luật hiện hành."
+    },
+    {
+      "targetDocumentNumber": "1561/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "ban hành kèm theo Quyết định số 1561/QĐ-ĐHĐN ngày 05/5/2017 của Giám đốc ĐHĐN."
+    },
+    {
+      "targetDocumentNumber": "4339/ĐHĐN-KHTC",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Công văn số 4339/ĐHĐN-KHTC ngày 12/12/2018 của Giám đốc ĐHĐN về việc tiếp nhận, quản lý, sử dụng nguồn vốn viện trợ không hoàn lại, bảo đảm không gây ảnh hưởng đến an ninh chính trị, trật tự an toàn xã hội, xâm hại đến lợi ích Nhà nước, quyền và lợi ích hợp pháp của đơn vị và của ĐHĐN."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Công an",
+    "Bộ Tài chính",
+    "Đoàn Thanh niên Cộng sản Hồ Chí Minh"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định Về công tác quản lý hoạt động hợp tác quốc tế của Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi và đối tượng áp dụng\n\n1. Phạm vi điều chỉnh: Văn bản này quy định về các hoạt động hợp tác và quan hệ quốc tế trong phạm vi quản lý của Đại học Đà Nẵng (ĐHĐN), bao gồm quản lý đoàn vào, quản lý đoàn ra; ký kết văn bản hợp tác quốc tế; tổ chức hội nghị, hội thảo khoa học quốc tế; quản lý các chương trình liên kết đào tạo với nước ngoài; tổ chức thực hiện và quản lý các chương trình dự án quốc tế có sử dụng ngân sách của Nhà nước, nguồn vốn ODA và Viện trợ Phi Chính phủ của ĐHĐN; xây dựng hệ thống thông tin về hợp tác quốc tế.\n\n2. Đối tượng áp dụng:\na) Các đơn vị thành viên (ĐVTV), các đơn vị thuộc và trực thuộc ĐHĐN (sau đây gọi tắt là các đơn vị); cán bộ, công chức, viên chức, người lao động; nghiên cứu sinh, học viên cao học, sinh viên của ĐHĐN.\nb) Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài có liên quan đến hoạt động hợp tác quốc tế của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ và định nghĩa viết tắt",
+          "text": "Điều 2. Giải thích từ ngữ và định nghĩa viết tắt\n\n1. VTPCPNN: Viện trợ phi Chính phủ nước ngoài là viện trợ không hoàn lại, không vì mục đích lợi nhuận của Bên tài trợ để thực hiện các mục tiêu phát triển và nhân đạo dành cho Việt Nam.\n\n2. HTQT: Hợp tác quốc tế trong Quy định này là toàn bộ những hoạt động có sự kết hợp giữa đơn vị, cá nhân của ĐHĐN với tổ chức, cá nhân có yếu tố nước ngoài nhằm thực hiện những nội dung mà hai bên thỏa thuận.\n\n3. CBCCVC: bao gồm cán bộ, công chức, viên chức, người lao động của ĐHĐN.\n\n4. Người học: bao gồm nghiên cứu sinh, học viên cao học, sinh viên của ĐHĐN.\n\n5. HNHTKHQT: Hội nghị, hội thảo khoa học quốc tế là hoạt động hội họp có yếu tố nước ngoài, được tổ chức theo hình thức gặp gỡ trực tiếp trên lãnh thổ Việt Nam hoặc theo hình thức trực tuyến với ít nhất là một đầu cầu thuộc lãnh thổ Việt Nam bao gồm:\na) Hội nghị, hội thảo do các cơ quan, tổ chức Việt Nam tổ chức có sự tham gia hoặc tài trợ của nước ngoài;\nb) Hội nghị, hội thảo do các cơ quan tổ chức nước ngoài tổ chức.\n\n6. NNN làm việc tại ĐHĐN bao gồm các tình nguyện viên, người lao động nước ngoài đang hoạt động giảng dạy, nghiên cứu, tư vấn chuyên môn... tại ĐHĐN.\n\n7. NNN học tập tại ĐHĐN bao gồm sinh viên cao đẳng, đại học; học viên chương trình đào tạo thạc sĩ; nghiên cứu sinh; thực tập sinh, học viên chương trình bồi dưỡng nâng cao trình độ; học viên các chương trình trao đổi ngắn hạn, giao lưu văn hóa trong khuôn khổ các văn bản thỏa thuận mà ĐHĐN hoặc các đơn vị đã ký kết với các trường đại học đối tác nước ngoài.\n\n8. Đoàn ra với mục đích công tác, học tập: là các đoàn CBCCVC và người học của ĐHĐN được cấp có thẩm quyền cử đi đào tạo, bồi dưỡng, làm việc, tham quan, khảo sát và giao lưu trao đổi khoa học, văn hóa ở nước ngoài.\n\n9. Đoàn vào: là các đoàn khách nước ngoài đến thăm và/hoặc làm việc, học tập tại ĐHĐN.\n\n10. Dự án: là một tập hợp các hoạt động/đề xuất có liên quan đến nhau nhằm đạt được một hoặc một số mục tiêu xác định, được thực hiện trong một thời hạn nhất định, dựa trên những nguồn lực xác định. Dự án bao gồm dự án hỗ trợ kỹ thuật và dự án đầu tư.\n\n11. Nguồn vốn viện trợ không hoàn lại: bao gồm nguồn vốn hỗ trợ phát triển chính thức của Chính phủ nước ngoài (ODA) không hoàn lại và nguồn vốn viện trợ phi chính phủ nước ngoài.\n\n12. Văn bản HTQT: là các văn bản hợp tác quốc tế có yếu tố nước ngoài.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Các nguyên tắc chung",
+          "text": "Điều 3. Các nguyên tắc chung\n\n1. Hoạt động HTQT phải tuân thủ theo các quy định của Nhà nước và của ĐHĐN; đảm bảo chủ quyền, độc lập dân tộc và an ninh quốc gia, phù hợp với các chuẩn mực văn hóa giao tiếp và ứng xử và thông lệ quốc tế; thực hiện đầy đủ chế độ báo cáo, lập kế hoạch, xin ý kiến thẩm định phê duyệt theo quy định của Chính phủ và các bộ, ngành, đơn vị hữu quan.\n\n2. Hoạt động HTQT phải hướng đến mục tiêu khai thác, tận dụng hiệu quả nguồn ngoại lực và sử dụng hiệu quả nội lực để góp phần nâng cao chất lượng đào tạo, nghiên cứu khoa học, bồi dưỡng năng lực, trình độ của CBCCVC; tiếp nhận công nghệ đào tạo và nghiên cứu khoa học mới; thu hút các nguồn lực, học bổng cho HSSV; tích cực hội nhập quốc tế và nâng cao vị thế của ĐHĐN, tăng cường tình hữu nghị và hợp tác giữa Việt Nam với các nước.\n\n3. Hoạt động HTQT của ĐHĐN và các đơn vị thành viên, các đơn vị thuộc và trực thuộc phải đảm bảo sự lãnh đạo tập trung thống nhất của ĐHĐN và sự phối hợp chặt chẽ, liên thông, liên kết giữa các đơn vị nhưng có sự phân công, phân nhiệm rõ ràng; đề cao trách nhiệm và vai trò chủ động sáng tạo của các đơn vị, cá nhân; tôn trọng, khuyến khích các đề xuất, sáng kiến, đảm bảo sự đồng bộ, kiểm tra, giám sát chặt chẽ của các cấp quản lý; nhằm phục vụ cho nghĩa vụ và lợi ích của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Nguyên tắc quản lý đoàn vào",
+          "text": "Điều 4. Nguyên tắc quản lý đoàn vào\n\n1. Các đơn vị chủ động xây dựng kế hoạch đoàn vào phù hợp với kế hoạch nhiệm vụ năm học của đơn vị và báo cáo tổng kết công tác đoàn vào trình ĐHĐN trước ngày 30/6 hàng năm. Ban HTQT là đầu mối phối hợp với Văn phòng và các ban chức năng của ĐHĐN có trách nhiệm tổng hợp kế hoạch và báo cáo công tác đoàn vào của ĐHĐN trình Giám đốc ĐHĐN.\n\n2. Đối với đoàn vào làm việc tại đơn vị có nội dung liên quan đến các vấn đề chính trị, an ninh, quốc phòng, dân tộc, tôn giáo, giới, nhân quyền, biên giới lãnh thổ hoặc thuộc phạm vi bí mật, an ninh của nhà nước, các đơn vị phải có văn bản xin phép, kèm theo các hồ sơ có liên quan gửi ĐHĐN, trước khi triển khai thực hiện. ĐHĐN sẽ làm việc với các cơ quan có thẩm quyền để thẩm định hồ sơ và có ý kiến trả lời bằng văn bản để các đơn vị có căn cứ tổ chức thực hiện.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Thủ tục nhập cảnh cho người nước ngoài",
+          "text": "Điều 5. Thủ tục nhập cảnh cho người nước ngoài\n\n1. Các đơn vị làm thủ tục nhập cảnh cho NNN vào làm việc, học tập tại đơn vị phải được thực hiện theo đúng mục đích, đúng pháp luật của Nhà nước và quy định của ĐHĐN; điền đầy đủ thông tin của NNN (theo mẫu tại Phụ lục I) và gửi hồ sơ về Ban HTQT. Ban HTQT là đầu mối tiếp nhận hồ sơ, trình Giám đốc ĐHĐN phê duyệt văn bản đề nghị nhập cảnh và chuyển hồ sơ lại cho các đơn vị thực hiện các thủ tục nhập cảnh cho NNN tại Cục Quản lý Xuất Nhập cảnh (Bộ Công an). Thời hạn giải quyết là 20 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.\n\n2. Đối với NNN làm việc theo diện hợp đồng tại ĐHĐN, thực hiện các thủ tục theo các quy định tại Điều 7 của Quy định này và các quy định hiện hành của pháp luật.\n\n3. Các đơn vị có trách nhiệm báo cáo ĐHĐN về NNN đang làm việc, học tập tại đơn vị qua Ban HTQT định kỳ 03 tháng/lần (trước ngày 30 các tháng 3, 6, 9, 12) (theo mẫu tại Phụ lục II).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Thủ tục đăng ký cư trú cho người nước ngoài",
+          "text": "Điều 6. Thủ tục đăng ký cư trú cho người nước ngoài\n\n1. NNN đến làm việc, học tập tại đơn vị phải đăng ký mục đích, thời hạn, địa chỉ cư trú và kế hoạch làm việc, học tập tại Việt Nam với đơn vị tiếp nhận. Đơn vị tiếp nhận có trách nhiệm báo cáo cho ĐHĐN (qua Ban HTQT) bằng văn bản; nếu có bất kỳ sự thay đổi nào liên quan đến những nội dung này trong quá trình NNN đang làm việc, học tập tại đơn vị thì đơn vị tiếp nhận có trách nhiệm thông báo bổ sung ngay sau khi có sự thay đổi đó.\n\n2. NNN có nhu cầu đến làm việc, học tập ở các địa phương theo kế hoạch đã đăng ký thì cần thông báo cho đơn vị tiếp nhận để được hỗ trợ thủ tục và gửi hồ sơ xin phép cho ĐHĐN (qua Ban HTQT).\n\n3. NNN phải làm thủ tục khai báo tạm trú đến Cơ quan công an phường, xã thông qua đơn vị quản lý nếu tạm trú trong nhà khách, ký túc xá của đơn vị tiếp nhận; nếu tạm trú ở bên ngoài thì thông qua chủ quản lý nhà ở nơi NNN tạm trú.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Tiếp nhận người nước ngoài đến làm việc",
+          "text": "Điều 7. Tiếp nhận người nước ngoài đến làm việc\n\n1. Việc tiếp nhận NNN đến làm việc được thực hiện theo quy định tại Nghị định số 11/2016/NĐ-CP ngày 03/02/2016 về Quy định chi tiết thi hành một số điều của Bộ luật Lao động về lao động nước ngoài làm việc tại Việt Nam và Quy chế này.\n\n2. Đối với NNN không thuộc diện được miễn giấy phép lao động được quy định tại Mục 2, Chương II Nghị định số 11/2016/NĐ-CP ngày 03/02/2016 về Quy định chi tiết thi hành một số điều của Bộ Luật Lao động về lao động nước ngoài làm việc tại Việt Nam thực hiện các thủ tục xin giấy phép lao động theo quy định của Thông tư số 40/2016/TT-BLĐTBXH ngày 25/10/2016 hướng dẫn thi hành một số điều của Nghị định số 11/2016/NĐ-CP ngày 03/02/2016 của Chính phủ quy định chi tiết thi hành một số điều của Bộ luật Lao động về lao động nước ngoài làm việc tại Việt Nam.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Tiếp nhận người nước ngoài đến học tập",
+          "text": "Điều 8. Tiếp nhận người nước ngoài đến học tập\n\n1. Công tác tiếp nhận NNN đến học tập thực hiện theo Hướng dẫn thực hiện công tác tiếp nhận NNN học tập tại ĐHĐN ban hành kèm theo Quy định này.\n\n2. Công tác tiếp nhận NNN đến học hệ chính quy được thực hiện theo quy định tuyển sinh, quy chế đào tạo của ĐHĐN và Thông tư số 30/2018/TT-BGDĐT ngày 24/12/2018 của Bộ trưởng Bộ GD&ĐT về quản lý NNN học tập tại Việt Nam và theo các quy định pháp luật hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Thủ tục gia hạn thời gian làm việc, học tập của người nước ngoài",
+          "text": "Điều 9. Thủ tục gia hạn thời gian làm việc, học tập của người nước ngoài\n\n1. Đối với NNN làm việc, học tập tại ĐHĐN, các đơn vị thực hiện các thủ tục gia hạn theo quy định hiện hành của pháp luật, của Bộ GD&ĐT và ĐHĐN.\n\n2. Các đơn vị hướng dẫn và giải quyết thủ tục xin gia hạn cho NNN do đơn vị quản lý. Ban HTQT làm đầu mối tiếp nhận hồ sơ, trình Giám đốc ĐHĐN phê duyệt văn bản đề nghị gia hạn nhập cảnh và chuyển hồ sơ cho các đơn vị thực hiện các thủ tục gia hạn tại Phòng QLXNC. Thời hạn giải quyết thủ tục xin gia hạn là 15 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp lệ (theo mẫu tại Phụ lục III).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Đón tiếp và làm việc với các đoàn khách có yếu tố nước ngoài",
+          "text": "Điều 10. Đón tiếp và làm việc với các đoàn khách có yếu tố nước ngoài\n\n1. Đoàn khách của Đại học Đà Nẵng\na) Lãnh đạo ĐHĐN tiếp các đoàn cấp tương đương và các đoàn do Chính phủ, các bộ/ngành yêu cầu. Giám đốc ĐHĐN quyết định thành phần tham gia đón tiếp và làm việc. Ban HTQT là đầu mối phối hợp với các đơn vị có liên quan chịu trách nhiệm chuẩn bị nghi thức đón tiếp và nội dung làm việc với các đoàn khách. Trên cơ sở thông tin của đối tác và chỉ đạo của Ban Giám đốc, các đơn vị liên quan chuẩn bị các đề xuất hợp tác, tham gia đón tiếp và làm việc với khách theo đúng thành phần triệu tập của Giám đốc ĐHĐN.\nb) Theo kết quả làm việc, nội dung trao đổi, đơn vị được Giám đốc phân công có trách nhiệm xây dựng kế hoạch triển khai thực hiện các thỏa thuận và trình Giám đốc quyết định, phê duyệt.\nc) Việc tổ chức chiêu đãi, tặng quà và chi phí cho các hoạt động hợp tác quốc tế thực hiện theo quy định của ĐHĐN và pháp luật hiện hành.\n\n2. Đoàn khách của các đơn vị\na) Lãnh đạo các đơn vị tiếp các đoàn cấp tương đương, các đoàn trong phạm vi dự án, chương trình hợp tác của đơn vị mình và theo sự phân công của Giám đốc ĐHĐN.\nb) Đối với đoàn khách làm việc trực tiếp với đơn vị, các đơn vị phải thực hiện theo đúng các quy định về quản lý nhập, xuất cảnh cho khách nước ngoài và thủ trưởng đơn vị chịu trách nhiệm trước Giám đốc ĐHĐN về nội dung các buổi tiếp khách, việc tham quan, khảo sát của khách thuộc đơn vị mình quản lý, đảm bảo các quy định về bảo vệ bí mật quốc gia, các quy định của Nhà nước và địa phương.\nc) Đối với đoàn khách của các đơn vị có nhu cầu đề nghị lãnh đạo ĐHĐN tiếp, đơn vị gửi báo cáo chi tiết về các nội dung liên quan ít nhất 10 ngày làm việc trước thời điểm dự kiến tiếp khách (trong các trường hợp phát sinh ngoài kế hoạch, các đơn vị có thể báo cáo cho ĐHĐN trước ít nhất 02 ngày làm việc). Ban HTQT là đầu mối tiếp nhận đề nghị của các đơn vị để tổng hợp và trình Giám đốc ĐHĐN xem xét quyết định.\nd) Việc tổ chức chiêu đãi, quà tặng và chi phí cho các hoạt động hợp tác quốc tế thực hiện theo quy định của đơn vị, ĐHĐN và pháp luật hiện hành.\ne) Báo cáo đoàn khách đến và kết quả làm việc tại đơn vị theo định kỳ 03 tháng/lần (trước ngày 30 các tháng 3, 6, 9, 12) về ĐHĐN qua Ban HTQT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Trách nhiệm quản lý người nước ngoài đến làm việc, học tập tại đơn vị",
+          "text": "Điều 11. Trách nhiệm quản lý người nước ngoài đến làm việc, học tập tại đơn vị\n\n1. Thủ trưởng các đơn vị chịu trách nhiệm quản lý NNN trong thời gian làm việc, học tập tại đơn vị.\n\n2. Thực hiện đúng các quy định của pháp luật Việt Nam về NNN làm việc, học tập tại Việt Nam.\n\n3. Hướng dẫn, cung cấp cho NNN các quy định của pháp luật Việt Nam về NNN làm việc, học tập tại Việt Nam.\n\n4. Đảm bảo quyền và lợi ích hợp pháp của NNN tại Việt Nam.\na) Theo dõi, thống kê về xuất nhập cảnh, quá trình làm việc và cư trú của NNN làm việc, học tập tại Việt Nam.\nb) Báo cáo định kỳ và đột xuất về các vấn đề liên quan đến NNN theo yêu cầu của cơ quan chức năng.\nc) Đảm bảo mục đích nhập cảnh bao gồm:\n- Quản lý hoạt động của NNN được tiếp nhận, đảm bảo thực hiện đúng nội dung, kế hoạch làm việc, học tập đã đăng ký;\n- Thực hiện các thủ tục liên quan đến hoạt động làm việc, học tập của NNN được tiếp nhận theo quy định của pháp luật.\nd) Phối hợp với các đơn vị trong ĐHĐN và cơ quan nhà nước có thẩm quyền giải quyết các sự cố phát sinh đối với NNN, cụ thể:\n- Tham gia xử lý và khắc phục hậu quả đối với các hành vi vi phạm pháp luật, tai nạn hoặc những sự việc phát sinh liên quan đến NNN được đơn vị tiếp nhận theo yêu cầu của cơ quan chức năng;\n- Thông báo kịp thời cho cơ quan Công an về những hoạt động của NNN được đơn vị tiếp nhận liên quan đến an ninh chính trị, trật tự an toàn xã hội.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Lập kế hoạch đoàn ra",
+          "text": "Điều 12. Lập kế hoạch đoàn ra\n\n1. Các đơn vị lập kế hoạch cử đoàn ra trong kế hoạch ngân sách của năm tiếp theo và các thông tin cần thiết khác (theo yêu cầu) báo cáo ĐHĐN vào tháng 12 hằng năm (theo mẫu tại Phụ lục IV).\n\n2. Ban HTQT là đầu mối phối hợp với Văn phòng và các Ban chức năng hướng dẫn các đơn vị lập kế hoạch đoàn ra có sử dụng kinh phí do ĐHĐN quản lý (bao gồm nguồn ngân sách nhà nước và các nguồn khác ngoài ngân sách nhà nước), tổng hợp kế hoạch của các đơn vị trình Giám đốc ĐHĐN phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 13",
+          "heading": "Quản lý CBCCVC và người học đi công tác, học tập ở nước ngoài",
+          "text": "Điều 13. Quản lý CBCCVC và người học đi công tác, học tập ở nước ngoài\n\n1. Việc cử CBCCVC và người học đi công tác, học tập ở nước ngoài phải căn cứ theo kế hoạch cử đoàn ra đã được phê duyệt của cấp có thẩm quyền về số lượng người tham gia, thời gian công tác, học tập, mục đích, nội dung, chương trình làm việc, bảo đảm hiệu quả về mặt chuyên môn và tài chính; hoặc theo thư mời, thông báo hay các hình thức khác từ phía mời.\n\n2. Quản lý việc ra nước ngoài của CBCCVC và người học\n2.1. Đối với CBCCVC\nThẩm quyền và thủ tục cử CBCCVC đi công tác nước ngoài thực hiện theo quy định tại Điều 4, Điều 5, Điều 6 và Điều 7 của Quy định về “Quản lý việc ra nước ngoài của cán bộ, viên chức thuộc các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ĐHĐN” ban hành kèm theo Quyết định số 5118/QĐ-ĐHĐN ngày 29/8/2014 của Giám đốc ĐHĐN và Điều 5 của Quy định về “Nhiệm vụ, quyền hạn của ĐHĐN, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc” ban hành kèm theo Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Giám đốc ĐHĐN.\n\n2.2. Đối với người học\na) Thời gian từ 180 ngày (06 tháng) trở lên\nGiám đốc ĐHĐN quyết định cử người học của các đơn vị đi học tập, thực tập ở nước ngoài theo các chương trình đào tạo hoặc liên kết đào tạo dài hạn và các trường hợp người học theo các chương trình trao đổi do ĐHĐN ký kết trực tiếp với các đối tác.\nb) Thời gian dưới 180 ngày (06 tháng)\nGiám đốc ĐHĐN quyết định cử người học của các đơn vị thuộc và trực thuộc ĐHĐN đi học tập, thực tập ngắn hạn ở nước ngoài.\nThủ trưởng các ĐVTV chịu trách nhiệm quyết định cử người học đi học tập, thực tập ngắn hạn ở nước ngoài và gửi báo cáo cho ĐHĐN qua Ban Công tác Học sinh Sinh viên (CTHSSV) để theo dõi.\n2.3. Chế độ báo cáo\nThủ trưởng các đơn vị cử CBCCVC và người học đi công tác, học tập ở nước ngoài chịu trách nhiệm báo cáo định kỳ 06 tháng/lần cho ĐHĐN qua Ban Tổ chức Cán bộ (TCCB) (đối với cán bộ, viên chức) và Ban CTHSSV (đối với người học) và gửi bản sao cho Ban HTQT để theo dõi (theo mẫu tại Phụ lục V).\n\n3. Gia hạn thời gian công tác, học tập ở nước ngoài của CBCCVC và người học\n3.1. Đối với CBCCVC\na) Thời gian từ 90 ngày (03 tháng) trở lên: Giám đốc ĐHĐN quyết định việc gia hạn thời gian công tác, học tập ở nước ngoài cho CBVC của các đơn vị.\nb) Thời gian dưới 90 ngày (03 tháng)\nGiám đốc ĐHĐN quyết định việc gia hạn thời gian công tác, học tập ở nước ngoài cho CBVC của những đơn vị mà thủ trưởng các đơn vị này không được ủy quyền ký quyết định đi công tác nước ngoài.\nThủ trưởng các đơn vị được ủy quyền ký quyết định đi công tác nước ngoài chịu trách nhiệm quyết định việc gia hạn thời gian công tác, học tập ở nước ngoài cho CBVC thuộc quyền quản lý của đơn vị mình theo quy định phân cấp quản lý cán bộ của ĐHĐN, phù hợp với quy định của Nhà nước và gửi quyết định về ĐHĐN qua Ban TCCB để theo dõi.\nc) Thủ tục và hồ sơ đề nghị gia hạn thực hiện theo quy định tại Điều 8 của Quy định về “Quản lý việc ra nước ngoài của cán bộ, viên chức thuộc các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ĐHĐN” ban hành kèm theo Quyết định số 5118/QĐ-ĐHĐN ngày 29/8/2014 của Giám đốc ĐHĐN và Điều 5 của Quy định về “Nhiệm vụ, quyền hạn của ĐHĐN, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc” ban hành kèm theo Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Giám đốc ĐHĐN.\n3.2. Đối với người học\na) Thời gian từ 180 ngày (06 tháng) trở lên\nGiám đốc ĐHĐN quyết định việc gia hạn thời gian người học đi học tập, thực tập ở nước ngoài theo các chương trình đào tạo hoặc liên kết đào tạo dài hạn và các trường hợp người học theo các chương trình trao đổi do ĐHĐN ký kết trực tiếp với các đối tác.\nb) Thời gian dưới 180 ngày (06 tháng)\nGiám đốc ĐHĐN quyết định việc gia hạn thời gian người học của các đơn vị thuộc và trực thuộc ĐHĐN đi học tập, thực tập ngắn hạn ở nước ngoài.\nThủ trưởng các ĐVTV chịu trách nhiệm quyết định việc gia hạn thời gian đi học tập, thực tập ngắn hạn ở nước ngoài cho người học của đơn vị phù hợp với quy định của Nhà nước và gửi báo cáo cho ĐHĐN qua Ban CTHSSV để theo dõi.\nc) Thủ tục và hồ sơ đề nghị gia hạn thực hiện theo quy định của pháp luật hiện hành.\n\n4. Tiếp nhận CBCCVC và người học đi nước ngoài về\n4.1. Đối với CBCCVC\na) Thủ tục và hồ sơ tiếp nhận CBCCVC đi nước ngoài về thực hiện theo quy định tại Điều 9 Quy định về “Quản lý việc ra nước ngoài của cán bộ, viên chức thuộc các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ĐHĐN” ban hành kèm theo Quyết định số 5118/QĐ-ĐHĐN ngày 29/8/2014 của Giám đốc ĐHĐN; và khoản 5, Điều 13 Quy chế về “Đào tạo, bồi dưỡng trong nước và nước ngoài của cán bộ, viên chức ĐHĐN” ban hành kèm theo Quyết định số 2211/QĐ-ĐHĐN ngày 30/5/2016 của ĐHĐN và Điều 5 của Quy định về “Nhiệm vụ, quyền hạn của ĐHĐN, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc” ban hành kèm theo Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Giám đốc ĐHĐN.\nb) CBCCVC đi công tác, học tập ở nước ngoài có trách nhiệm nộp sản phẩm, báo cáo kết quả chuyến đi trong thời hạn 30 ngày làm việc kể từ thời điểm nhập cảnh về Việt Nam theo Quy định về “Quản lý việc ra nước ngoài của cán bộ, viên chức thuộc các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ĐHĐN” ban hành kèm theo Quyết định số 5118/QĐ-ĐHĐN ngày 29/8/2014 của Giám đốc ĐHĐN và theo Quy chế về “Đào tạo, bồi dưỡng trong nước và nước ngoài của cán bộ, viên chức ĐHĐN” ban hành kèm theo Quyết định số 2211/QĐ-ĐHĐN ngày 30/5/2016 của ĐHĐN; và nộp một (01) bộ báo cáo cho Ban HTQT (theo mẫu tại Phụ lục VI).\nc) CBCCVC được cử đi công tác, học tập ở nước ngoài với thời hạn từ 90 ngày (03 tháng) trở lên, khi về nước phải làm thủ tục tiếp nhận về đơn vị tiếp tục công tác theo Quy định về “Quản lý việc ra nước ngoài của cán bộ, viên chức thuộc các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc ĐHĐN” ban hành kèm theo Quyết định số 5118/QĐ-ĐHĐN ngày 29/8/2014 của Giám đốc ĐHĐN và theo Quy chế về “Đào tạo, bồi dưỡng trong nước và nước ngoài của cán bộ, viên chức ĐHĐN” ban hành kèm theo Quyết định số 2211/QĐ-ĐHĐN ngày 30/5/2016 của ĐHĐN.\n4.2. Đối với người học\na) Thời gian từ 180 ngày (06 tháng) trở lên\nGiám đốc ĐHĐN tiếp nhận người học vào học lại đối với trường hợp người học đi học tập, thực tập ở nước ngoài theo các chương trình đào tạo hoặc liên kết đào tạo dài hạn và các trường hợp người học theo các chương trình trao đổi do ĐHĐN ký kết trực tiếp với các đối tác.\nb) Thời gian dưới 180 ngày (06 tháng)\nGiám đốc ĐHĐN tiếp nhận người học vào học lại đối với trường hợp người học của các đơn vị thuộc và trực thuộc ĐHĐN đi học tập, thực tập ngắn hạn ở nước ngoài.\nThủ trưởng các ĐVTV tiếp nhận người học của đơn vị mình vào học lại sau khi đi học tập, thực tập ngắn hạn ở nước ngoài.\n\n5. Ban CTHSSV phụ trách thẩm định hồ sơ và các thủ tục cử, gia hạn, tiếp nhận và trình Giám đốc ĐHĐN quyết định đối với các đối tượng người học của ĐHĐN đi học tập, thực tập ở nước ngoài theo các chương trình đào tạo hoặc liên kết đào tạo dài hạn và các trường hợp người học theo các chương trình với thời gian từ 180 ngày (06 tháng) trở lên và người học là của các đơn vị thuộc và trực thuộc ĐHĐN đi học tập, thực tập ngắn hạn ở nước ngoài với thời gian dưới 180 ngày (06 tháng).\n\n6. Các ĐVTV chịu trách nhiệm giải quyết thủ tục và hồ sơ, quyết định cử, gia hạn, tiếp nhận theo đúng quy định của Nhà nước và ĐHĐN, đối với người học của đơn vị đi học tập, thực tập ngắn hạn ở nước ngoài với thời hạn dưới 180 ngày (06 tháng) và gửi báo cáo cho ĐHĐN qua Ban CTHSSV để theo dõi.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 14",
+          "heading": "Việc đi công tác nước ngoài của Ban Giám đốc Đại học Đà Nẵng",
+          "text": "Điều 14. Việc đi công tác nước ngoài của Ban Giám đốc Đại học Đà Nẵng\n\n1. Ban HTQT hỗ trợ hướng dẫn thực hiện các thủ tục xuất nhập cảnh theo quy định của ĐHĐN và pháp luật hiện hành.\n\n2. Ban HTQT có trách nhiệm chuẩn bị kế hoạch, lập dự trù, tổ chức thanh toán kinh phí chuyến đi; phối hợp với Văn phòng và các ban chức năng chuẩn bị nội dung, chương trình làm việc chi tiết, tài liệu, thông tin về đối tác và nước đến công tác; các công tác hậu cần cho chuyến đi.\n\n3. Ban TCCB chịu trách nhiệm thực hiện các thủ tục liên quan đến việc quyết định cho Ban Giám đốc ĐHĐN đi nước ngoài theo chỉ đạo của Giám đốc ĐHĐN.\n\n4. Ban KHTC tham mưu phê duyệt dự trù, đề nghị thanh toán và tổ chức thanh quyết toán theo quy định hiện hành.\n\n5. Thời hạn hoàn thành công tác chuẩn bị là 07 ngày trước ngày bắt đầu chuyến công tác (trường hợp đặc biệt thực hiện theo chỉ đạo của Giám đốc ĐHĐN).\n\n6. Trưởng đoàn công tác chịu trách nhiệm nộp báo cáo sau khi hoàn thành chuyến công tác theo quy định hiện hành của ĐHĐN và gửi một (01) bộ tại Ban HTQT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 15",
+          "heading": "Quản lý hộ chiếu",
+          "text": "Điều 15. Quản lý hộ chiếu\n\nCBCCVC và người học của ĐHĐN có trách nhiệm sử dụng và quản lý hộ chiếu ngoại giao, hộ chiếu công vụ, hộ chiếu phổ thông mà mình có, theo quy định hiện hành của ĐHĐN và theo Quyết định số 58/2012/QĐ-TTg ngày 24/12/2012 của Thủ tướng Chính phủ về việc sử dụng và quản lý hộ chiếu ngoại giao, hộ chiếu công vụ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 16",
+          "heading": "Quản lý hoạt động ký kết văn bản hợp tác quốc tế",
+          "text": "Điều 16. Quản lý hoạt động ký kết văn bản hợp tác quốc tế\n\n1. Việc ký kết văn bản hợp tác quốc tế do lãnh đạo Đại học Đà Nẵng chủ trì\na) Nội dung các văn bản hợp tác và việc tổ chức ký kết các văn bản HTQT được thực hiện theo các quy định hiện hành về quản lý hợp tác với nước ngoài của ĐHĐN và của Nhà nước.\nb) ĐHĐN chủ trì và ký kết các văn bản HTQT cấp ĐHĐN hoặc do các đơn vị đề nghị.\nc) Ban HTQT là đầu mối tổng hợp và báo cáo Ban Giám đốc kết quả thực hiện sau khi ký kết văn bản HTQT theo định kỳ hàng năm hoặc báo cáo đột xuất theo yêu cầu.\n\n2. Việc ký kết văn bản hợp tác quốc tế do các đơn vị chủ trì\na) Các đơn vị trình xin ý kiến Giám đốc ĐHĐN thông qua Ban HTQT về đề xuất ký kết và văn bản HTQT đã thống nhất nội dung với đối tác quốc tế tối thiểu 07 ngày làm việc trước khi tiến hành ký kết (theo mẫu tại Phụ lục VIII). Nội dung xin ý kiến cần nêu rõ nội dung, mục đích của việc ký kết. Những thỏa thuận HTQT có viện trợ, tài trợ, các đơn vị có trách nhiệm báo cáo và xin ý kiến Giám đốc ĐHĐN trước khi chuẩn bị các thủ tục cho việc tiếp nhận.\nb) Thủ trưởng các đơn vị chịu trách nhiệm trước Giám đốc ĐHĐN về nội dung văn bản HTQT và tổ chức lễ ký kết trang trọng theo tinh thần của thông lệ quốc tế, ưu tiên ký kết đồng cấp để tiện triển khai trong toàn ĐHĐN.\nc) Các đơn vị có trách nhiệm tổng hợp và báo cáo ĐHĐN về tình hình ký kết các văn bản hợp tác định kỳ 03 tháng/lần (trước ngày 30 các tháng 3, 6, 9, 12) hoặc đột xuất thông qua Ban HTQT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 17",
+          "heading": "Quy trình thực hiện việc ký kết",
+          "text": "Điều 17. Quy trình thực hiện việc ký kết\n\n1. Dự thảo văn bản HTQT: Tùy thuộc vào cấp độ ký kết, Ban HTQT/Bộ phận phụ trách HTQT của các đơn vị chịu trách nhiệm tổ chức soạn thảo văn bản HTQT trên cơ sở các nội dung đề nghị của các tổ chức/đối tác.\n\n2. Đàm phán nội dung của văn bản HTQT với đối tác\n- Tùy thuộc vào cấp độ ký kết, Ban HTQT/Bộ phận phụ trách HTQT của các đơn vị liên lạc thảo luận và thống nhất với phía đối tác về nội dung hợp tác, thời gian hiệu lực; chỉnh sửa và hoàn thiện văn bản HTQT trên cơ sở phù hợp với nhu cầu, năng lực của các bên.\n- Trong quá trình đàm phán, cá nhân/bộ phận phụ trách việc ký kết cần tham vấn, xin ý kiến của Giám đốc/Thủ trưởng các đơn vị để có sự thống nhất trong nội dung ký kết và khả năng thực hiện các nội dung của văn bản HTQT sau khi ký kết.\n- Ngôn ngữ được sử dụng trong văn bản HTQT ký kết: Nếu sử dụng Tiếng Anh thì số lượng văn bản được lập theo như thỏa thuận giữa các bên; Sau khi ký kết mỗi bên giữ ít nhất 01 bản. Trong trường hợp văn bản HTQT sử dụng bằng ngôn ngữ khác (ngoài Tiếng Anh) thì phải có bản Tiếng Việt được sử dụng để ký kết; trong điều khoản của nội dung văn bản HTQT cần phải ghi rõ giá trị pháp lý tương đương của văn bản HTQT bằng Tiếng Việt cùng với văn bản HTQT sử dụng ngôn ngữ khác; trong trường hợp này số lượng văn bản HTQT được lập theo thỏa thuận giữa các bên, sau ký kết mỗi bên giữ ít nhất 02 bản (01 bản tiếng Việt và 01 bản sử dụng ngôn ngữ khác có giá trị pháp lí như nhau và có giá trị kể từ ngày ký. Đối với trường hợp ký kết gián tiếp, biên bản ghi nhớ có hiệu lực kể ngày có đủ chữ ký của các bên).\n\n3. Trình Giám đốc ĐHĐN phê duyệt\n- Sau khi thống nhất chủ trương hợp tác, bộ phận phụ trách HTQT của các đơn vị có trách nhiệm tham mưu Thủ trưởng đơn vị lập tờ trình xin ý kiến ĐHĐN (thông qua Ban HTQT) về việc tổ chức ký kết theo như hướng dẫn ở điểm a khoản 2 Điều 16 Quy định này.\n- Ban HTQT có trách nhiệm trình Giám đốc ĐHĐN phê duyệt đề nghị tổ chức ký kết cấp ĐHĐN và đề nghị của các đơn vị.\n\n4. Tổ chức ký kết\n- Các đơn vị tổ chức ký kết thỏa thuận HTQT sau khi nhận được văn bản cho phép thực hiện của Giám đốc ĐHĐN.\n- Đối với trường hợp ký kết trực tiếp\n+ Ban HTQT chịu trách nhiệm mời các bên liên quan và phối hợp với Văn phòng tổ chức buổi lễ ký kết đối với văn bản HTQT cấp ĐHĐN;\n+ Bộ phận phụ trách HTQT của các đơn vị chịu trách nhiệm mời các bên liên quan và tổ chức buổi lễ ký kết đối với văn bản HTQT cấp các đơn vị;\n- Đối với trường hợp ký kết gián tiếp: Tùy theo thỏa thuận, một bên sẽ ký trước, đóng dấu của đơn vị (nếu có yêu cầu cần đóng dấu) rồi gửi văn bản HTQT qua đường bưu điện cho bên còn lại. Ban HTQT/bộ phận phụ trách HTQT của các đơn vị chịu trách nhiệm theo dõi, hoàn thành việc ký kết theo hình thức gián tiếp này theo đúng quy định hiện hành của ĐHĐN và của Nhà nước.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 18",
+          "heading": "Trách nhiệm quản lý hoạt động ký kết văn bản HTQT của bộ phận phụ trách HTQT",
+          "text": "Điều 18. Trách nhiệm quản lý hoạt động ký kết văn bản HTQT của bộ phận phụ trách HTQT\n\nTùy vào cấp độ ký kết, Ban HTQT/bộ phận phụ trách HTQT của các đơn vị thực hiện các công việc sau:\n1. Ghi nhận đoàn vào (nếu là ký kết trực tiếp): Thực hiện theo quy định tại Điều 5 Chương II của Quy định này.\n2. Phối hợp với Trung tâm truyền thông đăng tin lên trang web của ĐHĐN và các đơn vị.\n3. Lưu biên bản ghi nhớ đã ký kết theo quốc gia, nội dung ký kết và thời gian hiệu lực.\n4. Quản lý và thực hiện lưu trữ điện tử các biên bản ghi nhớ.\n5. Cập nhật danh sách đối tác trên trang web của nhà trường.\n6. Chuyển văn bản ký kết cho các đơn vị và cá nhân có liên quan để triển khai thực hiện.\n7. Theo dõi tình hình triển khai thực hiện, các văn bản ký kết và báo cáo lãnh đạo đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 19",
+          "heading": "Tổ chức thực hiện nội dung hợp tác đã được ký kết",
+          "text": "Điều 19. Tổ chức thực hiện nội dung hợp tác đã được ký kết\n\n1. Các đơn vị do Giám đốc ĐHĐN giao chủ trì thực hiện hợp tác (gọi tắt là đơn vị chủ trì) phối hợp với các đơn vị, cá nhân liên quan tổ chức, hướng dẫn, thực hiện, giám sát và đánh giá hiệu quả các nội dung hợp tác theo văn bản do ĐHĐN ký kết. Các đơn vị được ĐHĐN trực tiếp giao thực hiện các chương trình, dự án HTQT có trách nhiệm báo cáo ĐHĐN (thông qua Ban HTQT) về tiến độ triển khai nhiệm vụ theo định kỳ 06 tháng/lần hoặc đột xuất.\n\n2. Các đơn vị có trách nhiệm tổ chức thực hiện nội dung văn bản hợp tác do đơn vị ký kết và báo cáo ĐHĐN thông qua Ban HTQT về tiến trình, kết quả thực hiện văn bản đã ký kết với đối tác (theo mẫu tại Phụ lục VIII).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 20",
+          "heading": "Quản lý hội nghị, hội thảo khoa học quốc tế tại ĐHĐN",
+          "text": "Điều 20. Quản lý hội nghị, hội thảo khoa học quốc tế tại ĐHĐN\nViệc thẩm định, phê duyệt, tổ chức HNHTKHQT tại ĐHĐN thực hiện theo Quyết định số 21/2013/QĐ-UBND ngày 09/7/2013 của UBND thành phố Đà Nẵng về việc ban hành Quy định về công tác quản lý và tổ chức thực hiện các hoạt động đối ngoại trên địa bàn thành phố Đà Nẵng và Quyết định số 5465/QĐ-UBND ngày 12/8/2014 của UBND thành phố ban hành Quy chế phối hợp trong công tác quản lý Hội nghị, Hội thảo quốc tế tổ chức tại thành phố Đà Nẵng và các quy định pháp luật hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 21",
+          "heading": "Trách nhiệm của các đơn vị trong công tác quản lý hoạt động tổ chức hội nghị, hội thảo khoa học quốc tế",
+          "text": "Điều 21. Trách nhiệm của các đơn vị trong công tác quản lý hoạt động tổ chức hội nghị, hội thảo khoa học quốc tế\n\n1. Ban HTQT phối hợp với Ban Khoa học Công nghệ và Môi trường, Văn phòng và các Ban chức năng có liên quan tổ chức quản lý HNHTKHQT theo quy định về việc thực hiện tổ chức, quản lý HNHTKHQT tại ĐHĐN và quy định của pháp luật hiện hành.\n\n2. Đơn vị chủ trì tổ chức HNHTKHQT chịu trách nhiệm triển khai các nội dung liên quan đến công tác tổ chức, nội dung bài phát biểu, nội dung thông tin tuyên truyền và các ấn phẩm khác sẽ được phát hành trong HNHTKHQT; chịu trách nhiệm trước các cơ quan nhà nước có thẩm quyền về nội dung các tài liệu, báo cáo, tham luận, tư liệu, số liệu liên quan phát hành trước, trong và sau hội nghị, hội thảo quốc tế.\n\n3. Ban HTQT là đầu mối tiếp nhận hồ sơ và hỗ trợ thực hiện các quy trình xin phép tổ chức HNHTKHQT. Ban HTQT chịu trách nhiệm trình Giám đốc ĐHĐN phê duyệt văn bản xin phép tổ chức HNHTKHQT, nộp hồ sơ xin phép trực tuyến với Sở Ngoại vụ và theo dõi kết quả. Sau khi có kết quả, Ban HTQT thông báo với đơn vị chủ trì tổ chức HNHTKHQT và trả lại đơn vị chủ trì hồ sơ gốc để nộp và nhận kết quả trực tiếp tại Sở Ngoại vụ. Thời hạn để Ban HTQT giải quyết thủ tục xin cấp phép tổ chức HNHTKHQT không có tính liên ngành là 20 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp lệ từ các đơn vị (theo mẫu tại Phụ lục IX). Đối với HNHTKHQT liên ngành thì đơn vị chủ trì phải nộp hồ sơ đến Ban HTQT trước 30 ngày để Ban HTQT có đủ thời gian xử lý thông tin và xin ý kiến từ các sở ban ngành có liên quan. Các đơn vị tự chịu trách nhiệm về các rủi ro nếu các đơn vị nộp hồ sơ trễ hay việc chuẩn bị hồ sơ không đúng theo quy định.\n\n4. Bộ phận phụ trách HTQT của các đơn vị chịu trách nhiệm hướng dẫn và giải quyết thủ tục xin phép tổ chức HNHTKHQT do đơn vị quản lý; nộp hồ sơ xin phép tổ chức HNHTKHQT và báo cáo theo yêu cầu của cơ quan có thẩm quyền sau khi kết thúc HNHTKHQT cho Ban HTQT.\n\n5. Đơn vị chủ trì chỉ được tiến hành tổ chức HNHTKHQT sau khi đã được cấp phép và triển khai HNHTKHQT theo đúng chương trình, nội dung đã được phê duyệt của các cấp có thẩm quyền. Nếu có bất kỳ thay đổi về nội dung, địa điểm, thời gian tổ chức HNHTKHQT, các đơn vị phải báo cáo ngay với Ban HTQT. Ban HTQT chịu trách nhiệm phản hồi lại cho các cơ quan thẩm quyền cấp phép về sự thay đổi này.\n\n6. Đơn vị chủ trì HNHTKHQT có trách nhiệm đảm bảo mục đích nhập cảnh của NNN và phối hợp với các cơ quan chức năng quản lý NNN trong thời gian tham dự tại địa phương; báo cáo tóm tắt kết quả sau khi thực hiện HNHTKHQT (theo mẫu tại Phụ lục X) trong vòng 15 ngày kể từ ngày kết thúc.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 22",
+          "heading": "Quy định về thẩm quyền phê duyệt",
+          "text": "Điều 22. Quy định về thẩm quyền phê duyệt\n\n1. Giám đốc xem xét phê duyệt các chương trình liên kết đào tạo với nước ngoài theo thẩm quyền được quy định tại Nghị định số 86/2018/NĐ-CP ngày 06/6/2018 của Thủ tướng Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục.\n\n2. Thủ trưởng các đơn vị được hoạt động theo cơ chế tự chủ phê duyệt các chương trình liên kết đào tạo với nước ngoài (liên kết đào tạo trực tiếp) trình độ đại học, thạc sĩ, tiến sĩ tổ chức tại đơn vị mình.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 23",
+          "heading": "Quản lý chương trình liên kết đào tạo với nước ngoài của ĐHĐN",
+          "text": "Điều 23. Quản lý chương trình liên kết đào tạo với nước ngoài của ĐHĐN\n\nCông tác quản lý các chương trình liên kết đào tạo với nước ngoài do ĐHĐN cấp bằng hoặc do đối tác nước ngoài cấp bằng hoặc do cả hai bên cùng cấp bằng của ĐHĐN được thực hiện theo các quy chế đào tạo đại học và sau đại học và quy định về quản lý và tổ chức liên kết đào tạo với cơ sở giáo dục nước ngoài tại “Quy định về quản lý và tổ chức liên kết đào tạo với cơ sở giáo dục nước ngoài tại ĐHĐN” ban hành kèm theo Quyết định số 1561/QĐ-ĐHĐN ngày 05/5/2017 của Giám đốc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 24",
+          "heading": "Trách nhiệm của các đơn vị trong việc quản lý, tổ chức thực hiện hoạt động liên kết đào tạo với nước ngoài",
+          "text": "Điều 24. Trách nhiệm của các đơn vị trong việc quản lý, tổ chức thực hiện hoạt động liên kết đào tạo với nước ngoài\n\n1. Thủ trưởng đơn vị được ĐHĐN cho phép thực hiện chương trình liên kết đào tạo với nước ngoài chịu trách nhiệm toàn diện trước Ban Giám đốc ĐHĐN về chương trình liên kết đào tạo với nước ngoài của đơn vị mình; thực hiện đầy đủ các quy trình, quy định, chương trình đào tạo, duy trì và phát triển các điều kiện đảm bảo chất lượng đào tạo; kiến nghị và đề xuất các biện pháp giải quyết khi có thay đổi so với quyết định đã được cấp phép.\n\n2. Ban Đào tạo là đơn vị đầu mối giúp Ban Giám đốc thống nhất quản lý các thủ tục thẩm định, phê duyệt, gia hạn đối với chương trình liên kết đào tạo do Giám đốc ĐHĐN có thẩm quyền phê duyệt; phối hợp với Ban HTQT, Ban Đảm bảo Chất lượng Giáo dục và các ban có liên quan quản lý, kiểm tra, giám sát và thực hiện chương trình liên kết đào tạo với nước ngoài tại ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 25",
+          "heading": "Quản lý và sử dụng nguồn vốn viện trợ không hoàn lại",
+          "text": "Điều 25. Quản lý và sử dụng nguồn vốn viện trợ không hoàn lại\n\nCông tác thẩm định phê duyệt, quản lý thực hiện dự án, giám sát và đánh giá dự án tuân theo các quy định của pháp luật hiện hành và các quy định tại Công văn số 4339/ĐHĐN-KHTC ngày 12/12/2018 của Giám đốc ĐHĐN về việc tiếp nhận, quản lý, sử dụng nguồn vốn viện trợ không hoàn lại, bảo đảm không gây ảnh hưởng đến an ninh chính trị, trật tự an toàn xã hội, xâm hại đến lợi ích Nhà nước, quyền và lợi ích hợp pháp của đơn vị và của ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 26",
+          "heading": "Quy trình và trách nhiệm của các đơn vị trong công tác quản lý dự án sử dụng nguồn vốn viện trợ không hoàn lại",
+          "text": "Điều 26. Quy trình và trách nhiệm của các đơn vị trong công tác quản lý dự án sử dụng nguồn vốn viện trợ không hoàn lại\n\n1. Các đơn vị sau khi thực hiện ký kết các văn bản hợp tác với các đối tác quốc tế, tổ chức thực hiện tiếp nhận vốn viện trợ không hoàn lại theo hướng dẫn tại Công văn số 4339/ĐHĐN-KHTC ngày 12/12/2018 của Giám đốc ĐHĐN về việc tiếp nhận, quản lý, sử dụng vốn ODA, vốn vay ưu đãi và VTPCPNN và các văn bản hiện hành.\n\n2. Các đơn vị nộp hồ sơ trực tiếp hoặc gửi qua đường Bưu điện cho ĐHĐN thông qua Ban HTQT.\n\n3. Ban HTQT cùng với Ban KHTC cùng thẩm định hồ sơ, báo cáo Ban Giám đốc ĐHĐN quyết định. Thời gian thẩm định hồ sơ là 20 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ.\n\n4. Ban HTQT chịu trách nhiệm trình Giám đốc ĐHĐN phê duyệt văn bản xin phép tiếp nhận viện trợ. Giám đốc ĐHĐN thực hiện xem xét phê duyệt triển khai các dự án đầu tư và dự án hỗ trợ kỹ thuật có nguồn vốn viện trợ không hoàn lại tại ĐHĐN và các đơn vị và giao nhiệm vụ chủ trì dự án cho các đơn vị trực tiếp triển khai.\n\n5. Các đơn vị tiếp nhận văn bản từ ĐHĐN, chịu trách nhiệm hoàn thành bộ hồ sơ văn kiện tiếp nhận viện trợ và trình Bộ GD&ĐT xem xét, phê duyệt tiếp nhận dự án.\n\n6. Sau khi có văn bản phê duyệt của Bộ GD&ĐT, ĐHĐN sẽ gửi thông báo cho đơn vị chủ trì dự án trực tiếp thực hiện.\n\n7. Ban KHTC hướng dẫn đơn vị chủ trì dự án lập kế hoạch tài chính, giải ngân, chế độ kế toán, báo cáo tài chính trình Bộ Tài chính theo nội dung đã được phê duyệt.\n\n8. Các đơn vị được giao nhiệm vụ chủ trì dự án chịu trách nhiệm trước Giám đốc ĐHĐN về việc tiếp nhận, quản lý, tổ chức thực hiện hiệu quả dự án đảm bảo tuân thủ các quy định của pháp luật hiện hành và các cam kết thỏa thuận với phía nước ngoài về chương trình/dự án.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 27",
+          "heading": "Tổ chức bộ máy thực hiện chương trình/dự án",
+          "text": "Điều 27. Tổ chức bộ máy thực hiện chương trình/dự án\n\n1. Chủ dự án\na) Tùy cấp thực hiện dự án, Giám đốc ĐHĐN/Thủ trưởng đơn vị giao nhiệm vụ chủ dự án cho một Ban quản lý hoặc một bộ phận thuộc ĐHĐN/ĐVTV.\nb) Chủ dự án có nhiệm vụ trực tiếp quản lý và sử dụng nguồn vốn để thực hiện dự án và chịu trách nhiệm trước Giám đốc ĐHĐN/Thủ trưởng đơn vị và trước pháp luật về tiến độ, chất lượng và hiệu quả của /dự án.\n\n2. Ban quản lý dự án\na) Tùy cấp thực hiện chương trình/dự án, Giám đốc ĐHĐN/Thủ trưởng đơn vị quyết định thành lập Ban quản lý dự án (gọi tắt là BQL dự án) phù hợp để có cơ sở hoàn thành hồ sơ xin tiếp nhận quản lý, sử dụng nguồn vốn viện trợ nước ngoài và soạn thảo các văn bản hiện hành.\nb) Ban TCCB/Phòng TCHC chủ trì phối hợp với Ban HTQT/bộ phận HTQT và các đơn vị có liên quan đề xuất nhân sự cho BQL dự án. Thành viên của BQL dự án phải có đại diện của Ban HTQT/bộ phận HTQT.\nc) BQL dự án có các nhiệm vụ chủ yếu sau:\n- Tuyển chọn cán bộ, nhân viên đủ số lượng và năng lực theo yêu cầu của chương trình/dự án.\n- Xây dựng kế hoạch hoạt động và dự toán ngân sách (tháng, quý, năm và dài hạn) của chương trình/dự án trình cấp có thẩm quyền phê duyệt.\n- Lập kế hoạch và thủ tục rút vốn theo tiến độ của chương trình/dự án.\n- Thực hiện chế độ báo cáo định kỳ hoặc đột xuất (khi có yêu cầu) về ĐHĐN, các cơ quan liên quan và nhà tài trợ theo quy định và thỏa thuận với nhà tài trợ.\n- Chủ trì việc tuyển chọn chuyên gia trong nước và nước ngoài làm việc cho dự án theo kế hoạch của dự án.\n- Tổ chức đấu thầu, tuyển chọn tư vấn, nhà thầu mua sắm thiết bị theo các quy định hiện hành của Nhà nước và thỏa thuận với nhà tài trợ.\n- Tổ chức theo dõi, đôn đốc thực hiện các hoạt động của dự án.\n- Tổ chức giám sát, đánh giá tiến độ thực hiện dự án và sơ kết, tổng kết tiến độ triển khai dự án theo định kỳ và khi kết thúc dự án, báo cáo kết quả thực hiện với ĐHĐN và nhà tài trợ.\n- Thực hiện các nhiệm vụ khác theo quy định tại văn kiện dự án hoặc quyết định thành lập.\n\n- Trưởng ban BQL dự án là người đứng đầu BQL dự án, chịu trách nhiệm trước Chủ dự án, Giám đốc ĐHĐN và pháp luật về toàn bộ hoạt động của BQL dự án và mọi vấn đề liên quan đến việc quản lý thực hiện dự án thuộc trách nhiệm của BQL dự án.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 28",
+          "heading": "Theo dõi, đánh giá dự án",
+          "text": "Điều 28. Theo dõi, đánh giá dự án\n\n1. Theo dõi dự án là hoạt động thường xuyên và định kỳ cập nhật toàn bộ các thông tin liên quan đến tình hình thực hiện dự án; phát hiện kịp thời những khó khăn vướng mắc có thể ảnh hưởng đến tiến độ thực hiện dự án để có đề xuất và thực thi các biện pháp khắc phục.\n\n2. Đánh giá dự án là hoạt động định kỳ, xem xét toàn diện có hệ thống và khách quan về tính phù hợp, hiệu quả, hiệu suất, tác động và mức độ bền vững của dự án để có những điều chỉnh cần thiết và rút ra những bài học kinh nghiệm để áp dụng cho giai đoạn thực hiện tiếp theo và áp dụng cho các dự án khác.\n\n3. BQL dự án phối hợp với các đơn vị liên quan tổ chức theo dõi, đánh giá cùng nhà tài trợ, báo cáo Giám đốc ĐHĐN (thông qua Ban HTQT).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 29",
+          "heading": "Mục tiêu của việc xây dựng hệ thống thông tin về hợp tác quốc tế",
+          "text": "Điều 29. Mục tiêu của việc xây dựng hệ thống thông tin về hợp tác quốc tế\n\nViệc xây dựng cơ sở dữ liệu thông tin về HTQT nhằm cung cấp các thông tin về HTQT một cách tin cậy và kịp thời, đồng thời cung cấp các dịch vụ trên hệ thống thông tin của ĐHĐN hỗ trợ cho các hoạt động HTQT của ĐHĐN, đáp ứng yêu cầu liên thông giữa các đơn vị và mở rộng, nâng cao hiệu quả hợp tác của ĐHĐN với các đối tác quốc tế.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 30",
+          "heading": "Xây dựng, tin học hóa những nội dung có liên quan tới hoạt động hợp tác quốc tế của các đơn vị",
+          "text": "Điều 30. Xây dựng, tin học hóa những nội dung có liên quan tới hoạt động hợp tác quốc tế của các đơn vị\n\nĐHĐN và các đơn vị chủ động xây dựng hệ thống thông tin có liên quan đến HTQT của đơn vị, cần đảm bảo các nội dung như sau:\n\n1. Về phía ĐHĐN\na) Giới thiệu các đối tác quốc tế, thứ tự xếp hạng quốc tế (theo thông tin mà đối tác sử dụng), tình hình kiểm định chất lượng, các hoạt động hợp tác của các đối tác quốc tế với ĐHĐN và với các đơn vị, các cơ sở giáo dục, nghiên cứu khoa học khác ở Việt Nam, những lĩnh vực quan tâm và ưu tiên trong hợp tác với ĐHĐN và các đơn vị; tài liệu, hình ảnh giới thiệu về ĐHĐN, đảm bảo chất lượng giáo dục, thành tựu về đào tạo, nghiên cứu khoa học, công nghệ.\nb) Giới thiệu tổng thể và chi tiết về ĐHĐN và các đơn vị theo như các thông tin giới thiệu về đối tác.\nc) Chiến lược, kế hoạch HTQT của ĐHĐN và của từng đơn vị trong đó có thông tin về mục tiêu, nội dung, nhân lực, kinh phí thực hiện; phân công trách nhiệm thực hiện.\nd) Tình hình HTQT của ĐHĐN và các đơn vị bao gồm các văn bản HTQT; các chương trình/dự án, quỹ, học bổng, viện trợ; các hội nghị, hội thảo, diễn đàn quốc tế; thông tin về cán bộ, người học thuộc ĐHĐN được cử đi công tác, học tập ở nước ngoài (danh sách, thông tin liên hệ, báo cáo kết quả, sản phẩm thu được từ chuyến đi công tác, học tập của cán bộ, người học; thông tin về NNN đến thăm, làm việc, học tập tại ĐHĐN, tại từng đơn vị; hồ sơ các chương trình/dự án, đề tài).\ne) Thông tin đầy đủ, chi tiết và cập nhật về các chương trình đào tạo, chương trình giảng dạy bằng ngoại ngữ, chương trình liên kết quốc tế tại ĐHĐN và tại các đơn vị.\ng) Hệ thống các văn bản quy định về công tác HTQT của Nhà nước, của ĐHĐN và các đơn vị.\nh) Các thông tin khác liên quan đến HTQT của ĐHĐN và từng đơn vị.\n\n2. Về phía các đơn vị\na) Giới thiệu tổng thể và chi tiết về đơn vị, chương trình đào tạo và các thông tin cần thiết có liên quan khác.\nb) Chiến lược, kế hoạch HTQT của đơn vị trong đó có thông tin về mục tiêu, phương hướng, nội dung chiến lược, nhân lực, các lĩnh vực được chú trọng ưu tiên; phân công trách nhiệm phụ trách và thực hiện.\nc) Tình hình HTQT của đơn vị bao gồm các văn bản HTQT đã được ký kết; các chương trình, dự án có yếu tố nước ngoài, học bổng, các hội nghị, hội thảo, diễn đàn quốc tế; thông tin về cán bộ, người học của đơn vị được cử đi công tác, học tập ở nước ngoài (báo cáo kết quả, sản phẩm thu được từ chuyến đi công tác, học tập của cán bộ, người học; thông tin về NNN đến thăm, làm việc, học tập tại ĐHĐN, tại từng đơn vị; dự án, đề tài có yếu tố nước ngoài).\nd) Thông tin đầy đủ, chi tiết và cập nhật về các chương trình đào tạo liên kết quốc tế tại từng đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 31",
+          "heading": "Phân công nhiệm vụ trong công tác xây dựng hệ thống thông tin về hợp tác quốc tế",
+          "text": "Điều 31. Phân công nhiệm vụ trong công tác xây dựng hệ thống thông tin về hợp tác quốc tế\n\n1. Về phía ĐHĐN\na) Xây dựng các ứng dụng trực tuyến để tiếp nhận, thông báo tình trạng giải quyết và trả kết quả thủ tục hành chính trong HTQT trên trang web của ĐHĐN.\nb) Xây dựng hệ thống báo cáo và theo dõi các hoạt động giải quyết thủ tục hành chính về các hoạt động HTQT để báo cáo cho lãnh đạo ĐHĐN.\nc) Việc quản lý, sử dụng, bảo mật cơ sở dữ liệu thông tin thực hiện theo quy định hiện hành của ĐHĐN và của pháp luật hiện hành.\n\n2. Về phía các đơn vị\na) Các đơn vị công bố trên trang thông tin điện tử của đơn vị về các văn bản HTQT đã được ký kết; các chương trình đào tạo áp dụng cho sinh viên quốc tế (bao gồm chương trình dài hạn, ngắn hạn và chương trình trao đổi), học phí và các chính sách ưu đãi liên quan dành cho sinh viên quốc tế; công tác quảng bá thông tin về đơn vị đào tạo và chương trình đào tạo thu hút sinh viên quốc tế khác (học bổng, lưu trú, dịch vụ, hoạt động giao lưu văn hóa, các chính sách về cơ hội thực tập, việc làm...).\nb) Chuẩn hoá các thủ tục hành chính về HTQT và cung cấp trực tuyến các mẫu hồ sơ, tài liệu, các văn bản quy phạm pháp luật có liên quan, quy trình giải quyết, trách nhiệm của các đơn vị tham gia giải quyết các thủ tục hành chính về HTQT.\nc) Việc quản lý, sử dụng, bảo mật cơ sở dữ liệu thông tin thực hiện theo quy định hiện hành của ĐHĐN và của pháp luật hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 32",
+          "heading": "Tổ chức xây dựng và vận hành hệ thống thông tin về hợp tác quốc tế",
+          "text": "Điều 32. Tổ chức xây dựng và vận hành hệ thống thông tin về hợp tác quốc tế\n\n1. Ban HTQT là đầu mối phối hợp với các đơn vị liên quan tổ chức xây dựng, quản lý, khai thác hệ thống thông tin về HTQT của ĐHĐN.\n2. Các đơn vị tổ chức xây dựng và vận hành hệ thống thông tin về HTQT của đơn vị mình, đảm bảo mối quan hệ liên thông giữa các đơn vị và ĐHĐN; cung cấp đầy đủ thông tin cho hệ thống thông tin về HTQT của ĐHĐN định kỳ (tối thiểu 03 tháng/lần) và đột xuất theo yêu cầu về các thay đổi những nội dung có liên quan về thông tin HTQT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 33",
+          "heading": "Tổ chức xây dựng và thực hiện kế hoạch hợp tác quốc tế",
+          "text": "Điều 33. Tổ chức xây dựng và thực hiện kế hoạch hợp tác quốc tế\n\n1. Ban HTQT là đầu mối phối hợp với Văn phòng, các ban chức năng, các đơn vị liên quan xây dựng và tổ chức thực hiện chiến lược, chương trình, kế hoạch HTQT dài hạn, trung hạn và hàng năm của ĐHĐN, kiểm tra, giám sát việc thực hiện công tác quan hệ và HTQT trong toàn ĐHĐN.\n\n2. Thủ trưởng các đơn vị xây dựng chiến lược, chương trình, kế hoạch HTQT dài hạn, trung hạn và hàng năm của đơn vị và báo cáo Giám đốc ĐHĐN thông qua Ban HTQT; Tổ chức thực hiện sau khi được Giám đốc ĐHĐN phê duyệt. Đối với kế hoạch hằng năm, các đơn vị gửi kế hoạch tổng hợp tất cả các lĩnh vực thuộc quan hệ và HTQT năm tiếp theo trước 20/12 hàng năm về Ban HTQT để tổng hợp trình Giám đốc ĐHĐN phê duyệt.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 34",
+          "heading": "Báo cáo thực hiện các hoạt động quan hệ và hợp tác quốc tế",
+          "text": "Điều 34. Báo cáo thực hiện các hoạt động quan hệ và hợp tác quốc tế\n\n1. Các đơn vị báo cáo ĐHĐN về tình hình, kết quả hoạt động quan hệ và HTQT của đơn vị và kiến nghị điều chỉnh, bổ sung những nội dung theo Quy định này định kỳ 03 tháng/lần. Trong trường hợp đặc biệt, ĐHĐN có thể yêu cầu các đơn vị báo cáo đột xuất công tác quan hệ và HTQT.\n\n2. Ban HTQT tổng hợp báo cáo của các đơn vị, đề xuất những công việc cần triển khai trình Ban Giám đốc; thông báo, đôn đốc và giám sát quá trình triển khai tại đơn vị.\n\n3. Nội dung báo cáo là cơ sở để đối chiếu và đánh giá trong công tác thi đua liên quan đến công tác HTQT của đơn vị.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 35",
+          "heading": "Hiệu lực thi hành",
+          "text": "Điều 35. Hiệu lực thi hành\n\nQuy định này gồm 10 Chương 36 Điều, có hiệu lực thi hành kể từ ngày ký.\n\nTrong quá trình thực hiện, Quy định này có thể được sửa đổi, bổ sung cho phù hợp với hoạt động thực tiễn trong ĐHĐN hoặc theo sự sửa đổi và bổ sung của các văn bản quy phạm pháp luật có liên quan đến hoạt động quan hệ đối ngoại của Nhà nước.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "Điều 36",
+          "heading": "Trách nhiệm thi hành",
+          "text": "Điều 36. Trách nhiệm thi hành\n\nHiệu trưởng các đơn vị thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc ĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quy định này.",
+          "isImplementationClause": true
+        }
+      ]
+    },
+    {
+      "title": "Hướng dẫn thực hiện công tác tiếp nhận người nước ngoài học tập tại Đại học Đà Nẵng",
+      "contentType": "Hướng dẫn",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi và đối tượng áp dụng\n1. Hướng dẫn này áp dụng đối với các đơn vị thành viên, các đơn vị thuộc và trực thuộc của Đại học Đà Nẵng (sau đây gọi là các đơn vị).\n2. Hướng dẫn này quy định về việc thực hiện công tác tiếp nhận người nước ngoài học tập tại Đại học Đà Nẵng (ĐHĐN), bao gồm: sinh viên cao đẳng, đại học; học viên chương trình đào tạo thạc sĩ; nghiên cứu sinh; thực tập sinh, học viên chương trình bồi dưỡng nâng cao trình độ; học viên các chương trình trao đổi ngắn hạn, giao lưu văn hóa trong khuôn khổ các văn bản thỏa thuận mà ĐHĐN hoặc các đơn vị đã ký kết với các trường đại học đối tác nước ngoài (sau đây gọi chung là lưu học sinh – viết tắt là LHS).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Giải thích từ ngữ",
+          "text": "Điều 2. Giải thích từ ngữ\nTrong văn bản này các từ ngữ dưới đây được hiểu như sau:\n1. LHS là người mang giấy tờ xác định quốc tịch nước ngoài.\n2. LHS diện Hiệp định là người nước ngoài được tiếp nhận học tập tại Việt Nam và được Chính phủ Việt Nam cấp học bổng theo các điều ước quốc tế mà Việt Nam là thành viên.\n3. LHS học bổng khác là LHS được các tổ chức, cá nhân tài trợ học bổng cho lưu học sinh học tập tại Việt Nam không thuộc đối tượng quy định tại Khoản 2 Điều này.\n4. LHS tự túc là LHS được tiếp nhận học tập tại Việt Nam theo thỏa thuận, hợp theo thỏa thuận, hợp đồng đào tạo giữa các đơn vị của ĐHĐN với các tổ chức, cá nhân người nước ngoài và kinh phí học tập, đào tạo không sử dụng các nguồn học bổng như các đối tượng đã nêu tại Khoản 2,3 Điều này.\n5. Đơn vị tiếp nhận đào tạo LHS (gọi tắt là đơn vị tiếp nhận) bao gồm ĐHĐN, các đơn vị thành viên, đơn vị thuộc và trực thuộc ĐHĐN.\n6. Đơn vị phục vụ LHS là các cơ sở nội trú, ký túc xá được phép tiếp nhận người nước ngoài vào sinh sống trong thời gian học tập tại Việt Nam.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Ngôn ngữ sử dụng trong giảng dạy và học tập",
+          "text": "Điều 3. Ngôn ngữ sử dụng trong giảng dạy và học tập\n1. Tiếng Việt là ngôn ngữ chính thức sử dụng trong ĐHĐN và các đơn vị.\n2. LHS có thể học tập và nghiên cứu, thực tập bằng ngôn ngữ khác mà ĐHĐN và các đơn vị được phép sử dụng trong đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Các chương trình tiếp nhận LHS",
+          "text": "Điều 4. Các chương trình tiếp nhận LHS\n1. Chương trình đào tạo hệ chính quy cấp bằng cao đẳng, đại học, thạc sĩ, tiến sĩ.\n2. Chương trình trao đổi đào tạo ngắn hạn (01 năm trở xuống).\n3. Chương trình thực tập, khảo sát, nghiên cứu.\n4. Chương trình học tiếng Việt và dự bị tiếng Việt.\n5. Chương trình trao đổi, giao lưu văn hóa.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Điều kiện nhập học chung",
+          "text": "Điều 5. Điều kiện nhập học chung\nCác điều kiện về học vấn, chuyên môn, điều kiện về sức khỏe, điều kiện về tuổi và điều kiện ngôn ngữ thực hiện theo quy định tuyển sinh, quy chế đào tạo của ĐHĐN và quy định hiện hành của pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Thủ tục nhập học",
+          "text": "Điều 6. Thủ tục nhập học\n1. Trước mỗi đợt tuyển sinh chương trình đào tạo hệ chính quy cấp bằng cao đẳng, đại học, thạc sĩ, tiến sĩ, ĐHĐN sẽ ra thông báo chính thức bằng văn bản về việc xét tuyển trình độ thạc sĩ, tiến sĩ và đại học cho người nước ngoài. Thông báo này sẽ quy định về ngành, phương thức tuyển sinh; chương trình, thời gian đào tạo và học phí; điều kiện dự tuyển; hồ sơ đăng ký xét tuyển và lệ phí; thời gian đăng ký xét tuyển và nhập học; địa chỉ liên hệ.\n2. LHS nộp 01 bộ hồ sơ bằng tiếng Việt hoặc tiếng Anh đến ĐHĐN theo thời gian đăng ký và xét tuyển tại Thông báo về việc xét tuyển trình độ thạc sĩ, tiến sĩ và đại học cho người nước ngoài.\n3. Hồ sơ đăng ký xét tuyển chung gồm:\na) Phiếu đăng ký dành cho người nước ngoài học tại Việt Nam (Mẫu theo quy định của ĐHĐN) (Phụ lục I);\nb) Bản sao, bản dịch tiếng Việt có xác nhận hoặc chứng thực văn bằng, kết quả học tập theo quy định đối với từng cấp học, trình độ đào tạo của cơ quan có thẩm quyền của nước gửi đào tạo;\nc) Bản sao hợp lệ chứng chỉ về điều kiện ngôn ngữ theo Thông tư 30/2018/TT-BGDĐT ngày 24/12/2018 của Bộ Giáo dục và Đào tạo (GD&ĐT) về Quy chế quản lý người nước ngoài học tập tại Việt Nam;\nd) Sơ yếu lý lịch tự khai có xác nhận dùng cho thí sinh đăng ký dự tuyển cao học (trong vòng 03 tháng tính đến thời điểm nộp hồ sơ) (Phụ lục II);\ne) Bản sao, bản dịch có xác nhận hoặc chứng thực giấy khai sinh;\nf) Giấy khám sức khỏe (trong vòng 06 tháng tính đến ngày nộp hồ sơ);\ng) Bản sao hộ chiếu có thời hạn sử dụng cho toàn bộ thời gian học tập tại Việt Nam hoặc ít nhất 01 năm kể từ ngày dự kiến đến Việt Nam;\nh) Minh chứng nộp lệ phí xét tuyển (nếu có);\ni) 04 ảnh chụp 4x6 không quá 06 tháng tính đến ngày nộp hồ sơ (ảnh chụp với phông trắng);\nk) Các giấy tờ khác theo yêu cầu của đơn vị tiếp nhận và chương trình đào tạo;\nl) Đối với chương trình trao đổi đào tạo ngắn hạn, giao lưu văn hóa: có giấy xác nhận đề cử LHS tham gia chương trình của cơ sở đào tạo nước ngoài và thư tự giới thiệu của LHS.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Quy trình tiếp nhận đối với chương trình đào tạo hệ chính quy cấp bằng cao đẳng, đại học, thạc sĩ, tiến sĩ và chương trình học tiếng Việt và dự bị tiếng Việt",
+          "text": "Điều 7. Quy trình tiếp nhận đối với chương trình đào tạo hệ chính quy cấp bằng cao đẳng, đại học, thạc sĩ, tiến sĩ và chương trình học tiếng Việt và dự bị tiếng Việt\n1. Đối với LHS học bổng Hiệp định\na) Căn cứ thông báo của Bộ GD&ĐT Việt Nam đối với LHS diện Hiệp định, dựa trên bậc học và ngành học đăng ký, ĐHĐN thông báo cho đơn vị tiếp nhận làm thủ tục tiếp nhận, xét duyệt hồ sơ cho LHS;\nb) Trong vòng 05 ngày làm việc kể từ khi nhận được thông báo của ĐHĐN, đơn vị tiếp nhận trực tiếp xét tuyển theo Khoản 1, Điều 6 của Hướng dẫn này, sau đó thông báo kết quả đến ĐHĐN;\nc) Căn cứ trên công văn trả lời của đơn vị tiếp nhận, ĐHĐN ra quyết định tiếp nhận trong trường hợp đơn vị thành viên đồng ý tiếp nhận LHS và báo cáo đến Bộ GD&ĐT;\nd) LHS vào học dự bị tiếng Việt đến nhập học trước ngày 30/9 hằng năm. LHS vào học trình độ đại học đến nhập học trước ngày 05/9 hằng năm; LHS vào học trình độ thạc sĩ, tiến sĩ (đã đạt trình độ quy định về tiếng Việt hoặc ngoại ngữ khác) đến nhập học theo thông báo của ĐHĐN và đơn vị tiếp nhận LHS.\n2. Đối với LHS học bổng khác và LHS tự túc\nViệc tiếp nhận thực hiện theo thỏa thuận, hợp đồng đào tạo được ký kết giữa đơn vị tiếp nhận với LHS hoặc tổ chức, cá nhân tài trợ học bổng cho LHS. Các đơn vị có trách nhiệm xét tuyển LHS đến học tập, nghiên cứu và thực tập tại đơn vị và trình ĐHĐN ra quyết định tiếp nhận.\nĐối với thí sinh nộp hồ sơ xét tuyển chương trình đào tạo cao học, yêu cầu nộp hồ sơ trực tiếp tại Ban Hợp tác quốc tế (HTQT) - ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 8",
+          "heading": "Quy trình tiếp nhận đối với chương trình trao đổi đào tạo ngắn hạn (01 năm trở xuống), chương trình thực tập, khảo sát, nghiên cứu, chương trình trao đổi và giao lưu văn hóa.",
+          "text": "Điều 8. Quy trình tiếp nhận đối với chương trình trao đổi đào tạo ngắn hạn (01 năm trở xuống), chương trình thực tập, khảo sát, nghiên cứu, chương trình trao đổi và giao lưu văn hóa.\n1. Tiếp nhận và xét hồ sơ\na) Đối với chương trình trao đổi theo thỏa thuận của các hiệp hội hoặc do ĐHĐN ký kết với các cơ sở đào tạo đối tác nước ngoài;\nĐơn vị được phân công nhiệm vụ phụ trách công tác trao đổi LHS làm đầu mối tiếp nhận hồ sơ của LHS từ các cơ sở đào tạo đối tác nước ngoài gửi đến, lập danh sách và lấy ý kiến xét duyệt của Ban Đào tạo, các đơn vị có chương trình trao đổi mà LHS đăng ký tham gia. Căn cứ vào tiêu chuẩn, điều kiện, chỉ tiêu, ĐHĐN có trách nhiệm xét chọn những LHS đủ điều kiện tham gia chương trình trao đổi.\nb) Đối với chương trình trao đổi theo thỏa thuận do các đơn vị ký kết với các cơ sở đào tạo đối tác nước ngoài;\nCăn cứ vào chức năng nhiệm vụ của các phòng chức năng hoặc các khoa, bộ môn trực thuộc, Thủ trưởng các đơn vị quyết định việc giao nhiệm vụ làm đầu mối tiếp nhận hồ sơ LHS đăng ký tham gia chương trình trao đổi.\nc) Đối với sinh viên đăng ký tự do đơn vị tiếp nhận LHS tổ chức xét duyệt hồ sơ và thông báo kết quả cho LHS.\n2. Quyết định tiếp nhận\na) Căn cứ vào kết quả xét chọn, đơn vị được phân công nhiệm vụ phụ trách công tác trao đổi LHS có trách nhiệm gửi giấy thông báo tiếp nhận đến LHS đã được xét chọn (với sinh viên trao đổi do ĐHĐN ký kết) hoặc của các đơn vị (với LHS trao đổi do các đơn vị ký kết) trước ít nhất 03 tháng tính đến ngày bắt đầu nhập học của mỗi chương trình trao đổi. Nội dung giấy thông báo tiếp nhận LHS cần ghi rõ thời gian nhập học, việc đón tiếp LHS, bố trí chỗ ở, yêu cầu về thị thực (nếu có) và các vấn đề liên quan khác để LHS làm căn cứ chuẩn bị các điều kiện tham gia học tập ở ĐHĐN.\nb) ĐHĐN ra quyết định tiếp nhận đối với sinh viên tham gia trao đổi theo thỏa thuận mà ĐHĐN ký kết. Các đơn vị ra quyết định tiếp nhận đối với sinh viên tham gia trao đổi theo thỏa thuận mà các đơn vị ký kết.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 9",
+          "heading": "Trách nhiệm của các đơn vị thuộc ĐHĐN",
+          "text": "Điều 9. Trách nhiệm của các đơn vị thuộc ĐHĐN\n1. Ban Hợp tác quốc tế\na) Chủ trì, phối hợp với đơn vị liên quan chuẩn bị và hoàn thành các thủ tục ký kết thỏa thuận hợp tác về việc tiếp nhận LHS nước ngoài vào ĐHĐN học tập;\nb) Làm đầu mối tiếp nhận, xét duyệt hồ sơ xét tuyển theo các tiêu chí đăng ký xét tuyển tại Thông báo về việc xét tuyển trình độ thạc sĩ, tiến sĩ và đại học cho người nước ngoài;\nc) Hướng dẫn và làm thủ tục nhập cảnh, lưu trú, xuất cảnh cho LHS vào học tập, thực tập tại các đơn vị và thực hiện công tác quản lý chung;\nd) Chủ trì và phối hợp với các đơn vị thành viên, đơn vị trực thuộc làm việc với Sở Ngoại vụ thành phố Đà Nẵng lập và quản lý danh sách LHS diện thành phố Đà Nẵng tài trợ;\ne) Chủ trì, phối hợp với các cơ quan hữu quan xây dựng các chính sách, chế độ hỗ trợ LHS;\nf) Phối hợp với Cơ quan đại diện các nước tại Việt Nam và Cơ quan đại diện Việt Nam tại nước ngoài trong việc tiếp nhận, quản lý LHS;\ng) Kiểm tra, giám sát việc tiếp nhận đào tạo, quản lý LHS của các cơ sở giáo dục, phục vụ LHS để tổng hợp, báo cáo về việc người nước ngoài học tập tại Việt Nam đến Bộ GD&ĐT.\n2. Ban Công tác Học sinh Sinh viên\na) Phối hợp với Ban HTQT tham mưu, xây dựng các văn bản liên quan công tác quản lý LHS;\nb) Phối hợp với Ban HTQT tham mưu, đề xuất thực hiện các chế độ chính sách thu hút LHS;\nc) Phối hợp với Ban HTQT và các đơn vị tiếp nhận LHS quản lý tình hình lưu trú, sinh hoạt và số lượng LHS tại ĐHĐN;\nd) Đề xuất tổ chức, phối hợp triển khai và theo dõi các hoạt động phong trào, văn hóa, văn nghệ, thể dục, thể thao, các hoạt động ngoại khóa của LHS;\ne) Thực hiện các công việc khác có liên quan đến LHS do Ban Giám đốc giao.\n3. Ban Đào tạo\na) Tiếp nhận hồ sơ LHS do Ban HTQT chuyển đến và thẩm định hồ sơ, kiểm tra các điều kiện tiếp nhận LHS theo quy định; chuyển các hồ sơ đủ điều kiện về các đơn vị thành viên để lấy ý kiến tiếp nhận; làm thủ tục trình Giám đốc ĐHĐN ra quyết định tiếp nhận LHS;\nb) Giải quyết vấn đề LHS xin chuyển ngành học, chuyển trường khi có đề nghị của Ban HTQT;\nc) Xây dựng và ban hành thông báo về việc xét tuyển trình độ thạc sĩ, tiến sĩ và đại học cho người nước ngoài.\n4. Ban Kế hoạch Tài Chính\na) Chủ trì, phối hợp với các đơn vị liên quan xét duyệt kinh phí đào tạo LHS nước ngoài theo từng học kì, năm học;\nb) Chịu trách nhiệm giám sát và quản lý chung về việc tiếp nhận, phân bổ và thanh quyết toán nguồn kinh phí hỗ trợ cho LHS thuộc diện thành phố Đà Nẵng tài trợ. Chủ trì, phối hợp với các đơn vị liên quan làm thủ tục xin cấp học bổng cho LHS diện Hiệp định và các diện học bổng khác;\nc) Chủ trì, phối hợp với các đơn vị liên quan xét duyệt kinh phí đào tạo riêng đối với LHS theo từng học kì, năm học;\nd) Đề xuất, giải quyết các vấn đề liên quan đến học phí, chi phí khác, thu chi và phân phối quản lý phí đối với LHS học tiếng Việt và học chuyên ngành.\n5. Đoàn Thanh niên Cộng sản Hồ Chí Minh phối hợp với Hội sinh viên tổ chức các hoạt động giao lưu, ngoại khóa và tạo điều kiện cho LHS tham gia các câu lạc bộ, hoạt động văn hóa, văn nghệ, thể thao và các hoạt động khác nhằm tăng cường sự liên kết giữa sinh viên Việt nam và sinh viên nước ngoài.\n6. Các đơn vị phối hợp với Ban Công tác Học sinh Sinh viên (CTHSSV) và Ban HTQT giải quyết các vấn đề có liên quan đến người nước ngoài học tại Việt Nam theo chức năng, nhiệm vụ được giao.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 10",
+          "heading": "Trách nhiệm của đơn vị tiếp nhận, phục vụ LHS",
+          "text": "Điều 10. Trách nhiệm của đơn vị tiếp nhận, phục vụ LHS\n1. Trách nhiệm chung\na) Chịu trách nhiệm quản lý LHS trong toàn bộ thời gian LHS học tập, sinh sống ở Việt Nam;\nb) Quản lí, theo dõi việc nghỉ học của LHS. Không cho phép LHS về nước nếu không có đơn xin phép và sự đồng ý của lãnh đạo của trường mà LHS đang theo học. Các trường hợp LHS nghỉ học, thôi học phải báo cáo kịp thời về Ban Hợp tác Quốc tế. Trong thời gian nghỉ lễ, nghỉ hè, các phòng, đơn vị theo dõi, lập danh sách LHS về nước và LHS ở lại Việt Nam và báo cáo ĐHĐN (qua Ban HTQT) để theo dõi, quản lý và báo cáo cơ quan chức năng theo yêu cầu;\nc) Phối hợp với các cơ quan có thẩm quyền để giải quyết các việc liên quan đến LHS trong thời gian học tập, sinh sống tại Việt Nam.\n2. Trách nhiệm của cơ sở giáo dục tiếp nhận LHS học dự bị tiếng Việt bao gồm đối với diện Hiệp định và diện tự túc\na) Xây dựng chương trình, kế hoạch, giáo trình giảng dạy tiếng Việt giao tiếp, tiếng Việt chuyên ngành theo các nhóm ngành đào tạo, trình độ đào tạo và đối tượng LHS;\nb) Tổ chức kiểm tra trình độ tiếng Việt khi kết thúc chương trình đào tạo dự bị, cấp chứng chỉ hoặc chứng nhận cho LHS đạt yêu cầu về trình độ tiếng Việt;\nc) Phối hợp chặt chẽ với các cơ sở giáo dục liên quan để bàn giao LHS sau khi hoàn thành chương trình dự bị vào học chương trình chính thức;\nd) Báo cáo ĐHĐN, đơn vị tiếp nhận gửi đào tạo tiếng Việt cho LHS kết quả bàn giao và kết quả học tập, rèn luyện của LHS ngay sau khi hoàn thành chương trình đào tạo dự bị.\n3. Trách nhiệm của cơ sở giáo dục tiếp nhận LHS Hiệp định vào học chương trình chính thức\na) Đảm bảo chương trình, kế hoạch và nội dung, chất lượng chuyên môn đào tạo LHS; bố trí lớp học, giảng viên hướng dẫn; theo dõi, quản lý việc học tập, nghiên cứu; cấp phát văn bằng tốt nghiệp hoặc chứng chỉ theo thẩm quyền; kiến nghị ĐHĐN điều chỉnh quy định chung về chương trình đào tạo cho LHS trong trường hợp cần thiết;\nb) Phối hợp với cơ sở giáo dục đào tạo LHS dự bị và cơ sở giáo dục do ĐHĐN chỉ định tổ chức kiểm tra trình độ tiếng Việt trước khi tiếp nhận LHS vào học chính khóa nếu cần thiết;\nc) Báo cáo ĐHĐN tình hình học tập và kết quả học tập, rèn luyện của LHS sau mỗi năm học và toàn khóa học.\n4. Trách nhiệm của cơ sở giáo dục tiếp nhận LHS diện thành phố tài trợ\na) Triển khai thực hiện hành Quyết định tiếp nhận và danh sách LHS diện thành phố tài trợ từ ĐHĐN;\nb) Trực tiếp làm việc với Sở Ngoại vụ thành phố Đà Nẵng (thông qua Trung tâm Hợp tác đầu tư và Quản lý các dự án tại Lào thành phố Đà Nẵng) về dự trù, tiếp nhận, phân bổ và thanh quyết toán kinh phí hỗ trợ đối với các LHS Lào và Campuchia; báo cáo về ĐHĐN (thông qua Ban HTQT và Ban KHTC).\n5. Trách nhiệm của cơ sở giáo dục tiếp nhận LHS tự túc\na) Chỉ nhận đào tạo LHS tự túc đối với các ngành học mà cơ sở giáo dục được phép đào tạo;\nb) Ký kết hợp đồng đào tạo với LHS tự túc;\nc) Xét tuyển, ra quyết định tiếp nhận LHS học tập trao đổi ngắn hạn theo văn bản thỏa thuận với các đối tác quốc tế hoặc theo các chương trình, dự án, quốc tế mà cơ sở tiếp nhận là thành viên;\nd) Lập hồ sơ, danh sách LHS tự túc theo các hợp đồng đào tạo đã ký kết để báo cáo ĐHĐN, phối hợp với các cơ quan có thẩm quyền giải quyết các việc liên quan đến tiếp nhận LHS tự túc;\ne) Thực hiện trách nhiệm giáo dục, đào tạo theo các điều khoản đã ký kết trong hợp đồng đào tạo;\nf) Thực hiện việc quản lý thu, chi kinh phí đào tạo LHS theo quy định của ĐHĐN;\ng) Gửi LHS tự túc (nếu cần) đến cơ sở giáo dục có đào tạo dự bị tiếng Việt cho LHS theo thỏa thuận và hợp đồng trực tiếp với cơ sở nhận đào tạo dự bị.\n6. Trách nhiệm của đơn vị phục vụ LHS\na) Chịu trách nhiệm về quản lý đời sống, sinh hoạt của LHS thuộc phạm vi quản lý;\nb) Thực hiện chế độ báo cáo định kỳ về tình hình LHS với cơ quan chủ quản trực tiếp để tổng hợp báo cáo ĐHĐN;\nc) Quản lý chặt chẽ LHS đang ở tại ký túc xá (KTX) của trường mình, lập danh sách và tiến hành làm thủ tục đăng ký tạm trú tại cơ quan công an địa phương theo đúng quy định về quản lý người nước ngoài. Sau khi đã hoàn thành việc đăng kí tạm trú, các phòng, đơn vị gửi một bản sao về ĐHĐN (qua Ban HTQT). Đối với các LHS không ở tại KTX, các phòng, đơn vị có biện pháp quản lí và nhắc nhở các LHS về việc đăng kí tạm trú theo quy định hiện hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 11",
+          "heading": "Khen thưởng và xử lý vi phạm đối với LHS",
+          "text": "Điều 11. Khen thưởng và xử lý vi phạm đối với LHS\n1. LHS có thành tích xuất sắc trong học tập, nghiên cứu và hoạt động hữu nghị được khen thưởng theo quy định của pháp luật Việt Nam về thi đua khen thưởng.\n2. LHS vi phạm kỷ luật tùy theo mức độ vi phạm bị xử lý theo các hình thức sau đây:\na) Khiển trách;\nb) Cảnh cáo;\nc) Đình chỉ học tập và trả về nước;\nd) Đề nghị các cơ quan chức năng xử lý theo quy định của pháp luật Việt Nam.\n3. Hình thức kỷ luật quy định tại Điểm a và b Khoản 2 Điều này do Thủ trưởng các đơn vị thành viên quyết định. Hình thức kỷ luật quy định tại Điểm c và d Khoản 2 Điều này do Giám đốc ĐHĐN quyết định đối với LHS tự túc; Báo cáo Bộ GD&ĐT quyết định đối với LHS Hiệp định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 12",
+          "heading": "Khen thưởng và xử lý vi phạm đối với các đơn vị",
+          "text": "Điều 12. Khen thưởng và xử lý vi phạm đối với các đơn vị\n1. Tổ chức, cá nhân có thành tích xuất sắc trong đào tạo, quản lý và phục vụ LHS được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.\n2. Tổ chức, cá nhân có hành vi vi phạm các quy định của Hướng dẫn này và các quy định pháp luật khác có liên quan thì tùy theo mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1. Ban hành Quy định về công tác quản lý hoạt động hợp tác quốc tế của Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký, thay thế cho Quyết định số 666/QĐ-ĐHĐN ngày 03/02/2016 của Giám đốc Đại học Đà Nẵng và Quyết định số 805/QĐ-ĐHĐN ngày 10/3/2017 của Giám đốc Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": null,
+      "text": "Điều 3. Ban Giám đốc Đại học Đà Nẵng, Hiệu trưởng các đơn vị thành viên và Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

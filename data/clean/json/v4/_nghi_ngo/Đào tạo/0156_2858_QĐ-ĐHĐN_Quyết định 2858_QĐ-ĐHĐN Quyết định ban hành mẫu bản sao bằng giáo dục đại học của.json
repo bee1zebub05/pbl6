@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0156_2858_QĐ-ĐHĐN_Quyết định 2858_QĐ-ĐHĐN Quyết định ban hành mẫu bản sao bằng giáo dục đại học của.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "2858/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành mẫu bản sao văn bằng giáo dục đại học của Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/08/2021",
+    "effectiveDate": "06/08/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khác"
+    ],
+    "targetGroups": [
+      "Người học",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Ban hành kèm theo mẫu bản sao văn bằng giáo dục đại học của Đại học Đà Nẵng (bằng cử nhân và tương đương, bằng thạc sĩ, bằng tiến sĩ) cùng quy cách kích thước, màu sắc và hướng dẫn ghi nội dung bản sao.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "21/2019/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 21/2019/TT-BGDĐT ngày 29/11/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt nghiệp cao đẳng sư phạm, văn bằng giáo dục đại học và chứng chỉ của hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1356/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1356/QĐ-ĐHĐN ngày 22/4/2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định quản lý văn bằng, chứng chỉ của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục Mẫu bản sao văn bằng giáo dục đại học của Đại học Đà Nẵng",
+      "contentType": "Hướng dẫn",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Mẫu bản sao bằng cử nhân và các văn bằng trình độ tương đương",
+          "text": "1. Mẫu bản sao bằng cử nhân và các văn bằng trình độ tương đương\n\n(Khung mẫu văn bằng kích thước 21 cm x 29,7 cm)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n(Logo Đại học Đà Nẵng)\n\n...................................................(1)....................................................\n...................................................(2)....................................................\n\ncấp\nTÊN VĂN BẰNG (*)\n(BẢN SAO)\n...................................................(3)....................................................\n\nCho: ....................................................(4)....................................................\nNgày sinh: ....................................................(5)....................................................\nHạng tốt nghiệp: ....................................................(6)....................................................\n...................................................(7)....................................................\n...................................................(8)....................................................\n\nSố hiệu bản chính: ......(9).........\nSố vào sổ cấp bản sao: ......(10).........\n\n(*) TÊN VĂN BẰNG gồm: BẰNG CỬ NHÂN, BẰNG KỸ SƯ, BẰNG KIẾN TRÚC SƯ, BẰNG BÁC SĨ Y KHOA, BẰNG DƯỢC SĨ và các văn bằng trình độ tương đương khác theo quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Mẫu bản sao bằng thạc sĩ, bằng tiến sĩ",
+          "text": "2. Mẫu bản sao bằng thạc sĩ, bằng tiến sĩ\n\n(Khung mẫu văn bằng kích thước 21 cm x 29,7 cm)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n(Logo Đại học Đà Nẵng)\n\n...................................................(1)....................................................\n...................................................(2)....................................................\n\ncấp\nTÊN VĂN BẰNG (*)\n(BẢN SAO)\n...................................................(3)....................................................\n\nCho: ....................................................(4)....................................................\nNgày sinh: ....................................................(5)....................................................\n...................................................(7)....................................................\n...................................................(8)....................................................\n\nSố hiệu bản chính: ......(9).........\nSố vào sổ cấp bản sao: ......(10).........\n\n(*) TÊN VĂN BẰNG gồm: BẰNG THẠC SĨ, BẰNG TIẾN SĨ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Hướng dẫn cách ghi nội dung trên bản sao văn bằng giáo dục đại học",
+          "text": "3. Hướng dẫn cách ghi nội dung trên bản sao văn bằng giáo dục đại học\n\n(1) Ghi chức danh của người có thẩm quyền cấp văn bằng, bằng tiếng Việt.\n\n(2) Ghi tên cơ sở giáo dục đại học cấp văn bằng, bằng tiếng Việt.\n\n(3) Ghi ngành đào tạo, bằng tiếng Việt.\n\n(4) Ghi họ, chữ đệm, tên của người được cấp văn bằng. Phía trước họ tên, nếu là Nam ghi “Ông”, nếu là Nữ ghi “Bà”.\n\n(5) Ghi ngày tháng năm sinh của người được cấp văn bằng. Nếu ngày sinh từ ngày 1 đến ngày 9, tháng sinh là tháng 1, tháng 2 thì ghi thêm số 0 phía trước; ghi năm sinh đầy đủ 04 chữ số.\n\n(6) Ghi hạng tốt nghiệp: Xuất sắc, Giỏi, Khá, Trung bình khá hoặc Trung bình theo Quy chế đào tạo (đối với bản sao bằng cử nhân và các văn bằng trình độ tương đương).\n\n(7) Ghi địa danh, ngày tháng năm cấp bản sao văn bằng.\n\n(8) Ghi chức danh, chữ ký, họ, chữ đệm, tên của người có thẩm quyền cấp bản sao văn bằng và đóng dấu theo quy định.\n\n(9) Ghi số hiệu bản chính văn bằng.\n\n(10) Ghi số vào sổ cấp bản sao văn bằng từ sổ gốc.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1. Ban hành kèm theo Quyết định này mẫu bản sao văn bằng giáo dục đại học của Đại học Đà Nẵng, bao gồm: bằng cử nhân và các văn bằng trình độ tương đương; bằng thạc sĩ, bằng tiến sĩ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2. Mẫu bản sao văn bằng giáo dục đại học của Đại học Đà Nẵng có kích thước bằng khổ giấy A4 đặt theo chiều đứng (21 cm x 29,7 cm); tên văn bằng màu đỏ, chữ “(BẢN SAO)” và biểu tượng (logo) của Đại học Đà Nẵng màu xanh, các chữ khác màu đen. Các cơ sở đào tạo tự in bản sao văn bằng theo mẫu quy định và được bổ sung thêm hoa văn in trên bản sao văn bằng.\n\nMẫu bản sao và cách ghi nội dung trên bản sao văn bằng giáo dục đại học theo quy định ở Phụ lục kèm theo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": null,
+      "text": "Điều 3. Quyết định này có hiệu lực từ ngày ký.\n\nChánh Văn phòng, Trưởng các ban của Đại học Đà Nẵng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

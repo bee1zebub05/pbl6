@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0449_5543_QĐ-ĐHBK_Quyết định ban hành các khoản thu, mức thu tại Ký túc xá Trường Đại học Bách khoa,.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "5543/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành các khoản thu, mức thu tại Ký túc xá Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "11/11/2025",
+    "effectiveDate": "11/11/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công tác sinh viên",
+      "Tài chính, kế toán"
+    ],
+    "targetGroups": [
+      "Người học",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Quyết định ban hành các khoản thu, mức thu tiền ở và thế chấp tại Ký túc xá Trường Đại học Bách khoa, Đại học Đà Nẵng cùng chính sách hỗ trợ giảm nội trú phí cho sinh viên thuộc diện chính sách, khó khăn hoặc thành viên Tổ tự quản.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "5505/BGDĐT-TCCB",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Công văn số 5505/BGDĐT-TCCB ngày 12 tháng 9 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về công tác Hội đồng trường của các cơ sở giáo dục đại học, giáo dục nghề nghiệp thuộc Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "68/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 68/NQ-HĐĐH ngày 31 tháng 10 năm 2025 của Hội đồng Đại học Đà Nẵng về việc tiếp tục thực hiện nhiệm vụ của Hội đồng trường Trường Đại học Bách khoa nhiệm kỳ 2020-2025;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "5000/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "136/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 136/NQ-HĐT ngày 10 tháng 10 năm 2025 Nghị quyết phiên họp thứ 21 Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Chính phủ",
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Hội đồng Trường Đại học Bách khoa",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục Các khoản thu, mức thu tại Ký túc xá",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Ký túc xá sinh viên chất lượng cao (Phòng 02 chỗ)",
+          "text": "1. Ký túc xá sinh viên chất lượng cao (Phòng 02 chỗ): Mức thu tiền ở: 2.000.000đ/SV/tháng; Mức thu thế chấp: 2.000.000đ/SV/vị trí; Ghi chú: .",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Ký túc xá số 4, 5 (Phòng 8 chỗ)",
+          "text": "2. Ký túc xá số 4, 5 (Phòng 8 chỗ):\n- Tầng 1: Mức thu tiền ở: 400.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 2: Mức thu tiền ở: 350.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 3: Mức thu tiền ở: 300.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 4: Mức thu tiền ở: 250.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .\n- Tầng 5: Mức thu tiền ở: 200.000đ/SV/tháng; Mức thu thế chấp: 300.000đ/SV/vị trí; Ghi chú: .",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Ký túc xá số 3",
+          "text": "3. Ký túc xá số 3: Mức thu tiền ở: Không thu (phục vụ Lưu học sinh); Mức thu thế chấp: ; Ghi chú: .\n\nChính sách hỗ trợ:\n- Sinh viên thuộc đối tượng được miễn giảm học phí theo quy định; sinh viên là con mồ côi cả cha lẫn mẹ; sinh viên hộ nghèo và cận nghèo; sinh viên có hộ khẩu thường trú tại vùng cao, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; sinh viên có hoàn cảnh khó khăn do thiên tai, có bố hoặc mẹ mắc bệnh hiểm nghèo... (có xác nhận của chính quyền địa phương) được hỗ trợ giảm 50% nội trú phí.\n- Sinh viên là thành viên của Tổ tự quản Ký túc xá được hỗ trợ giảm 30% nội trú phí.\n- Các trường hợp đặc biệt khó khăn khác do Hiệu trưởng xem xét, quyết định.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1. Ban hành các khoản thu, mức thu tại Ký túc xá của Trường Đại học Bách khoa, Đại học Đà Nẵng (chi tiết theo Phụ lục kèm theo).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": null,
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký. Các văn bản trước đây trái với Quyết định này hết hiệu lực thi hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": null,
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng phòng Phòng Công tác sinh viên, Trưởng các đơn vị có liên quan và sinh viên căn cứ Quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}
