@@ -11,6 +11,8 @@ chứ không PASS/FAIL.
 `--source scenarios`: 20 case, data thật, dễ->khó — CHẤM ĐIỂM
 precision/recall/F1 khi câu có `expected_ids` (xem `scoring.score_ids()`),
 ngoài ra vẫn giữ assert số dòng như 2 nguồn kia.
+`--compare-bm25`: chạy 20 kịch bản bằng Cypher, chatbot, BM25, vector,
+hybrid, ghi báo cáo so sánh (compare.py).
 """
 
 from __future__ import annotations
@@ -18,6 +20,7 @@ from __future__ import annotations
 import argparse
 import sys
 import time
+from pathlib import Path
 
 from . import db
 from .catalogs import SOURCES
@@ -97,7 +100,17 @@ def main(argv: list[str] | None = None) -> int:
                          help="samples = regression 17 mẫu (assert số dòng); benchmark = minh hoạ trên data thật "
                               "(chỉ đo); scenarios = 20 case dễ->khó trên data thật (assert số dòng + P/R/F1 khi có ground-truth)")
     parser.add_argument("--verbose", action="store_true", help="In luôn vài dòng kết quả mẫu mỗi câu")
+    parser.add_argument("--compare-bm25", action="store_true",
+                         help="So sánh Cypher, chatbot, BM25, vector, hybrid trên 20 kịch bản, ghi báo cáo markdown (xem compare.py)")
+    parser.add_argument("--out", type=Path, default=None, help="File báo cáo cho --compare-bm25 (mặc định reports/bm25_vs_cypher.md)")
+    parser.add_argument("--no-chatbot", action="store_true", help="--compare-bm25 không chạy chatbot (đỡ tốn quota Gemini)")
+    parser.add_argument("--rerun-chatbot", action="store_true", help="--compare-bm25 hỏi lại chatbot thay vì dùng kết quả đã lưu")
     args = parser.parse_args(argv)
+
+    if args.compare_bm25:
+        from .compare import main as compare_main
+
+        return compare_main(args.out, with_chatbot=not args.no_chatbot, rerun_chatbot=args.rerun_chatbot)
 
     queries = SOURCES[args.source]
 

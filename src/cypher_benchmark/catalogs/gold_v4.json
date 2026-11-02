@@ -1,0 +1,565 @@
+{
+ "corpus": "data/clean/json/v4 — 103 văn bản (gồm _nghi_ngo/), dựng theo data/neo4j_dump/README.md",
+ "created": "2026-10-27",
+ "annotator": "Claude (gán thay người) — cần một người kiểm lại S14 s14_added",
+ "excluded": {
+  "S06": "1559/QĐ-BGDĐT không có trong 103 văn bản v4.",
+  "S09": "Chuỗi 3868/QĐ-ĐHBK (760, 2652, 2929/QĐ-ĐHBK) không có trong v4.",
+  "S15": "Hai Nội quy (176, 479/QĐ-ĐHBK) không có trong v4; v4 không còn NormativeContent loại Nội quy."
+ },
+ "s14_added": {
+  "van_ban_moi": [
+   "973/QD-DHDN#Điều 3",
+   "2/2025/TT-BGDDT#Điều 4",
+   "2/2025/TT-BGDDT#Điều 6",
+   "3107/QD-DHDN#nd1#Điều 15"
+  ],
+  "dieu_moi_tach": [
+   "1216/QD-DHBK#nd1#IX",
+   "1216/QD-DHBK#nd1#XI",
+   "1606/HD-DHBK#7"
+  ],
+  "ban_cu_bo_sot": [
+   "4511/QD-DHBK#Điều 3",
+   "1414/QD-DHBK#Điều 3",
+   "1609/QD-DHBK#Điều 3",
+   "1404/QD-DHBK#Điều 3",
+   "3337/QD-DHBK#Điều 3",
+   "1414/QD-DHBK#nd1#Điều 15"
+  ]
+ },
+ "cases": {
+  "S01_docs_by_org_active": {
+   "expected_ids": [
+    "1001/QĐ-ĐHBK",
+    "107/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "1216/QĐ-ĐHBK",
+    "1340/QĐ-ĐHBK",
+    "1404/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "1606/HD-ĐHBK",
+    "1609/QĐ-ĐHBK",
+    "1779/QĐ-ĐHBK",
+    "1980/QĐ-ĐHBK",
+    "2231/QĐ-ĐHBK",
+    "2244/QĐ-ĐHBK",
+    "2347/QĐ-ĐHBK",
+    "2533/QĐ-ĐHBK",
+    "29/QĐ-ĐHBK",
+    "3240/QĐ-ĐHBK",
+    "3337/QĐ-ĐHBK",
+    "3536/QĐ-ĐHBK",
+    "3604/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK",
+    "3875/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK",
+    "4511/QĐ-ĐHBK",
+    "4532/QĐ-ĐHBK",
+    "5543/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
+    "840/QĐ-ĐHBK",
+    "905"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S02_docs_by_target_group": {
+   "expected_ids": [
+    "/QĐ-ĐHĐN",
+    "02/2025/TT-BGDĐT",
+    "05/2022/QĐ-TTg",
+    "05/NQ-HĐT",
+    "06/2022/TT-BGDĐT",
+    "06/2026/TT-BGDĐT",
+    "07/2022/TT-BGDĐT",
+    "07/2026/TT-BGDĐT",
+    "08/2012/QH13",
+    "08/2021/TT-BGDĐT",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "09/2020/TT-BGDĐT",
+    "10/2016/TT-BGDĐT",
+    "10/2026/TT-BGDĐT",
+    "1001/QĐ-ĐHBK",
+    "107/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "1216/QĐ-ĐHBK",
+    "1248/QĐ-ĐHĐN",
+    "1274/QĐ-ĐHBK",
+    "1325/QĐ-BGDĐT",
+    "1340/QĐ-ĐHBK",
+    "1345/QĐ-ĐHBK",
+    "1356/QĐ-ĐHĐN",
+    "1404/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "1478/QĐ-ĐHĐN",
+    "1489/QĐ-ĐHĐN",
+    "16/2015/TT-BGDĐT",
+    "1606/HD-ĐHBK",
+    "1609/QĐ-ĐHBK",
+    "1779/QĐ-ĐHBK",
+    "18/2017/QĐ-TTg",
+    "18/2021/TT-BGDĐT",
+    "1899/QĐ-ĐHĐN",
+    "1980/QĐ-ĐHBK",
+    "2058/QĐ-ĐHĐN",
+    "2231/QĐ-ĐHBK",
+    "2244/QĐ-ĐHBK",
+    "2268/QĐ-ĐHĐN",
+    "23/2021/TT-BGDĐT",
+    "2347/QĐ-ĐHBK",
+    "2367/QĐ-ĐHĐN",
+    "2414/QĐ-ĐHĐN",
+    "2533/QĐ-ĐHBK",
+    "27/2009/TT-BGDĐT",
+    "2721/QĐ-ĐHĐN",
+    "28/2023/TT-BGDĐT",
+    "28/VBHN-BGDĐT",
+    "29/2023/TT-BGDĐT",
+    "29/QĐ-ĐHBK",
+    "2900/QĐ-ĐHĐN",
+    "30/2018/TT-BGDĐT",
+    "30/2023/TT-BGDĐT",
+    "3107/QĐ-ĐHĐN",
+    "3154/QĐ-ĐHĐN",
+    "3183/QĐ-ĐHĐN",
+    "3226/QĐ-ĐHĐN",
+    "3240/QĐ-ĐHBK",
+    "3297/QĐ-ĐHĐN",
+    "3337/QĐ-ĐHBK",
+    "3443/ĐHĐN-KHTC",
+    "35/2011/TT-BGDĐT",
+    "3536/QĐ-ĐHBK",
+    "3604/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK",
+    "3758/QĐ-ĐHĐN",
+    "38/2020/TT-BGDĐT",
+    "3828/QĐ-ĐHĐN",
+    "3875/QĐ-ĐHBK",
+    "405/QĐ-ĐHBK",
+    "43/2019/QH14",
+    "4420/QĐ-ĐHBK",
+    "4473/QĐ-ĐHĐN",
+    "4481/QĐ-ĐHĐN",
+    "4495/QĐ-ĐHĐN",
+    "4511/QĐ-ĐHBK",
+    "4532/QĐ-ĐHBK",
+    "4757/QĐ-ĐHĐN",
+    "4768/QĐ-ĐHĐN",
+    "4804/QĐ-ĐHĐN",
+    "49/2026/TT-BGDĐT",
+    "51/2024/QH15",
+    "53/2026/TT-BGDĐT",
+    "5543/QĐ-ĐHBK",
+    "56/2026/TT-BGDĐT",
+    "78/2015/QH13",
+    "78/2020/NĐ-CP",
+    "806/QĐ-ĐHBK",
+    "81/2021/NĐ-CP",
+    "84/2020/NĐ-CP",
+    "840/QĐ-ĐHBK",
+    "86/2021/NĐ-CP",
+    "866/QĐ-ĐHĐN",
+    "905",
+    "97/2023/NĐ-CP",
+    "973/QĐ-ĐHĐN"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S03_docs_by_topic": {
+   "expected_ids": [
+    "/QĐ-ĐHĐN",
+    "06/2026/TT-BGDĐT",
+    "09/2020/TT-BGDĐT",
+    "1248/QĐ-ĐHĐN",
+    "1340/QĐ-ĐHBK",
+    "1478/QĐ-ĐHĐN",
+    "1609/QĐ-ĐHBK",
+    "18/2017/QĐ-TTg",
+    "18/2021/TT-BGDĐT",
+    "23/2021/TT-BGDĐT",
+    "2414/QĐ-ĐHĐN",
+    "3183/QĐ-ĐHĐN",
+    "3297/QĐ-ĐHĐN",
+    "4473/QĐ-ĐHĐN",
+    "4481/QĐ-ĐHĐN",
+    "4757/QĐ-ĐHĐN",
+    "53/2026/TT-BGDĐT",
+    "618/QĐ-BGDĐT"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S04_normative_content_active": {
+   "expected_ids": [
+    "10/2016/TT-BGDDT#nd1",
+    "1001/QD-DHBK#nd1",
+    "1478/QD-DHDN#nd1",
+    "16/2015/TT-BGDDT#nd1",
+    "2414/QD-DHDN#nd1",
+    "27/2009/TT-BGDDT#nd1",
+    "2721/QD-DHDN#nd1",
+    "30/2018/TT-BGDDT#nd1",
+    "3107/QD-DHDN#nd1",
+    "3297/QD-DHDN#nd1",
+    "3536/QD-DHBK#nd1",
+    "4473/QD-DHDN#nd1",
+    "5/NQ-HDT#nd1",
+    "53/2026/TT-BGDDT#nd1",
+    "56/2026/TT-BGDDT#nd1",
+    "6/2026/TT-BGDDT#nd1",
+    "9/2020/TT-BGDDT#nd1",
+    "905#nd1"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S05_document_detail": {
+   "expected_ids": [
+    "4511/QĐ-ĐHBK"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S07_document_mentions": {
+   "expected_ids": [
+    "bo_giao_duc_va_dao_tao",
+    "chinh_phu",
+    "dai_hoc_da_nang",
+    "hoi_dong_dai_hoc_da_nang",
+    "thu_tuong_chinh_phu"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S08_document_based_on": {
+   "expected_ids": [
+    "05/NQ-HĐT",
+    "08/2021/TT-BGDĐT",
+    "08/NQ-HĐĐH",
+    "13/NQ-HĐĐH",
+    "1691/QĐ-ĐHBK",
+    "17/2021/TT-BGDĐT",
+    "22/NQ-HĐT",
+    "32/CP",
+    "788/ĐHĐN-ĐT",
+    "99/2019/NĐ-CP"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S10_replaced_by": {
+   "expected_ids": [
+    "10/2016/TT-BGDĐT"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S11_amends_target_still_active": {
+   "expected_ids": [
+    "10/2016/TT-BGDĐT",
+    "1404/QĐ-ĐHBK",
+    "1899/QĐ-ĐHĐN",
+    "2231/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "29/QĐ-ĐHBK",
+    "81/2021/NĐ-CP"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S13_fulltext_doc_content": {
+   "expected_ids": [
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "3443/ĐHĐN-KHTC",
+    "4532/QĐ-ĐHBK",
+    "81/2021/NĐ-CP",
+    "97/2023/NĐ-CP"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S14_fulltext_article": {
+   "expected_ids": [
+    "10/2016/TT-BGDDT#Điều 3",
+    "10/2026/TT-BGDDT#nd1#Điều 14",
+    "10/2026/TT-BGDDT#nd1#Điều 15",
+    "10/2026/TT-BGDDT#nd1#Điều 16",
+    "10/2026/TT-BGDDT#nd1#Điều 22",
+    "10/2026/TT-BGDDT#Điều 3",
+    "1001/QD-DHBK#nd1#Điều 29",
+    "1001/QD-DHBK#Điều 3",
+    "107/QD-DHBK#Điều 3",
+    "1088/QD-DHBK#Điều 3",
+    "1214/QD-DHBK#nd1#Điều 50",
+    "1214/QD-DHBK#Điều 3",
+    "1216/QD-DHBK#nd1#IX",
+    "1216/QD-DHBK#nd1#XI",
+    "1216/QD-DHBK#Điều 3",
+    "1248/QD-DHDN#nd1#Điều 29",
+    "1248/QD-DHDN#Điều 3",
+    "1274/QD-DHBK#Điều 3",
+    "1325/QD-BGDDT#Điều 3",
+    "1340/QD-DHBK#Điều 3",
+    "1345/QD-DHBK#nd1#Điều 8",
+    "1345/QD-DHBK#Điều 3",
+    "1356/QD-DHDN#Điều 3",
+    "1404/QD-DHBK#nd1#Điều 40",
+    "1404/QD-DHBK#Điều 3",
+    "1414/QD-DHBK#nd1#Điều 15",
+    "1414/QD-DHBK#Điều 3",
+    "1478/QD-DHDN#nd1#Điều 29",
+    "1478/QD-DHDN#Điều 3",
+    "1489/QD-DHDN#nd1#Điều 19",
+    "1489/QD-DHDN#nd1#Điều 36",
+    "1489/QD-DHDN#Điều 3",
+    "16/2015/TT-BGDDT#nd1#Điều 16",
+    "16/2015/TT-BGDDT#Điều 3",
+    "1606/HD-DHBK#7",
+    "1609/QD-DHBK#nd1#Điều 16",
+    "1609/QD-DHBK#Điều 3",
+    "1779/QD-DHBK#Điều 3",
+    "18/2017/QD-TTG#Điều 10",
+    "18/2017/QD-TTG#Điều 7",
+    "18/2021/TT-BGDDT#Điều 3",
+    "1899/QD-DHDN#nd1#Điều 34",
+    "1899/QD-DHDN#Điều 3",
+    "1980/QD-DHBK#Điều 3",
+    "2/2025/TT-BGDDT#Điều 4",
+    "2/2025/TT-BGDDT#Điều 6",
+    "2058/QD-DHDN#nd1#Điều 10",
+    "2058/QD-DHDN#Điều 3",
+    "2231/QD-DHBK#nd1#Điều 17",
+    "2231/QD-DHBK#Điều 3",
+    "2244/QD-DHBK#nd1#Điều 26",
+    "2244/QD-DHBK#Điều 3",
+    "2268/QD-DHDN#nd1#Điều 16",
+    "2268/QD-DHDN#nd1#Điều 32",
+    "2268/QD-DHDN#Điều 3",
+    "23/2021/TT-BGDDT#Điều 3",
+    "2347/QD-DHBK#Điều 3",
+    "2367/QD-DHDN#nd1#Điều 9",
+    "2367/QD-DHDN#Điều 3",
+    "2414/QD-DHDN#nd1#Điều 14",
+    "2414/QD-DHDN#Điều 3",
+    "2533/QD-DHBK#nd1#Điều 15",
+    "2533/QD-DHBK#Điều 3",
+    "27/2009/TT-BGDDT#Điều 3",
+    "2721/QD-DHDN#nd1#Điều 24",
+    "2721/QD-DHDN#Điều 3",
+    "28/2023/TT-BGDDT#Điều 3",
+    "28/VBHN-BGDDT#Điều 4",
+    "2858/QD-DHDN#Điều 3",
+    "29/2023/TT-BGDDT#Điều 15",
+    "29/QD-DHBK#nd1#Điều 6",
+    "29/QD-DHBK#Điều 3",
+    "2900/QD-DHDN#Điều 3",
+    "30/2018/TT-BGDDT#Điều 3",
+    "30/2023/TT-BGDDT#Điều 14",
+    "3107/QD-DHDN#nd1#Điều 15",
+    "3154/QD-DHDN#nd1#Điều 16",
+    "3154/QD-DHDN#Điều 3",
+    "3183/QD-DHDN#nd1#Điều 16",
+    "3183/QD-DHDN#Điều 3",
+    "3226/QD-DHDN#nd1#Điều 25",
+    "3226/QD-DHDN#Điều 3",
+    "3240/QD-DHBK#Điều 3",
+    "3297/QD-DHDN#nd1#Điều 10",
+    "3297/QD-DHDN#Điều 3",
+    "3337/QD-DHBK#Điều 3",
+    "35/2011/TT-BGDDT#Điều 11",
+    "3536/QD-DHBK#nd1#Điều 31",
+    "3536/QD-DHBK#Điều 3",
+    "3604/QD-DHBK#Điều 3",
+    "3646/QD-DHBK#Điều 3",
+    "3707/QD-DHBK#Điều 3",
+    "3758/QD-DHDN#nd1#Điều 16",
+    "3758/QD-DHDN#Điều 3",
+    "38/2020/TT-BGDDT#Điều 11",
+    "3828/QD-DHDN#nd1#Điều 38",
+    "3828/QD-DHDN#Điều 3",
+    "3875/QD-DHBK#Điều 3",
+    "405/QD-DHBK#Điều 3",
+    "43/2019/QH14#Điều 55",
+    "4420/QD-DHBK#nd1#Điều 18",
+    "4420/QD-DHBK#Điều 3",
+    "4473/QD-DHDN#nd1#Điều 23",
+    "4473/QD-DHDN#Điều 3",
+    "4481/QD-DHDN#nd1#Điều 14",
+    "4481/QD-DHDN#Điều 3",
+    "4495/QD-DHDN#Điều 3",
+    "4511/QD-DHBK#Điều 3",
+    "4532/QD-DHBK#Điều 2",
+    "4757/QD-DHDN#Điều 4",
+    "4768/QD-DHDN#nd1#Điều 28",
+    "4768/QD-DHDN#nd1#Điều 29",
+    "4768/QD-DHDN#Điều 3",
+    "4804/QD-DHDN#nd1#Điều 16",
+    "4804/QD-DHDN#Điều 3",
+    "49/2026/TT-BGDDT#Điều 22",
+    "5/2022/QD-TTG#Điều 3",
+    "5/NQ-HDT#nd1#Điều 17",
+    "5/NQ-HDT#nd1#Điều 51",
+    "5/NQ-HDT#Điều 3",
+    "53/2026/TT-BGDDT#Điều 3",
+    "5543/QD-DHBK#Điều 3",
+    "56/2026/TT-BGDDT#Điều 3",
+    "6/2022/TT-BGDDT#Điều 13",
+    "6/2026/TT-BGDDT#Điều 3",
+    "618/QD-BGDDT#Điều 3",
+    "7/2022/TT-BGDDT#Điều 15",
+    "7/2026/TT-BGDDT#Điều 32",
+    "754/QD-BGDDT#Điều 3",
+    "78/2020/ND-CP#Điều 27",
+    "8/2021/TT-BGDDT#Điều 3",
+    "806/QD-DHBK#nd1#Điều 15",
+    "806/QD-DHBK#Điều 3",
+    "81/2021/ND-CP#Điều 31",
+    "81/2021/ND-CP#Điều 33",
+    "84/2020/ND-CP#Điều 12",
+    "840/QD-DHBK#nd1#Điều 8",
+    "840/QD-DHBK#Điều 3",
+    "86/2021/ND-CP#Điều 30",
+    "861/QD-TTG#Điều 5",
+    "866/QD-DHDN#nd1#Điều 16",
+    "866/QD-DHDN#Điều 3",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 9",
+    "9/2020/TT-BGDDT#nd1#Điều 6",
+    "9/2020/TT-BGDDT#Điều 3",
+    "97/2023/ND-CP#Điều 3",
+    "973/QD-DHDN#Điều 3",
+    "QD-DHDN#nd1#Điều 14",
+    "QD-DHDN#Điều 4"
+   ],
+   "method": "136/464 Điều cũ thuộc văn bản có trong v4, map sang articleId v4 theo (số văn bản, số Điều, độ giống văn bản >= 0,6), không Điều nào lệch. Áp lại tiêu chí gold_s14_articles.json: +4 Điều ở văn bản mới, +3 Điều mới tách ra, +6 Điều thi hành bản gán cũ bỏ sót (xem s14_added)."
+  },
+  "S16_hybrid_expand": {
+   "expected_ids": [
+    "08/2012/QH13",
+    "08/2014/TT-BGDĐT",
+    "10/2020/TT-BGDĐT",
+    "32/CP",
+    "99/2019/NĐ-CP"
+   ],
+   "method": "Gold gán tay giao với graph v4: bỏ 34/2018/QH14 (không văn bản v4 nào trích, không có cả stub)."
+  },
+  "S17_top_organizations": {
+   "expected_ids": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Trường Đại học Bách khoa",
+    "Quốc hội",
+    "Thủ tướng Chính phủ",
+    "Trường Đại học Bách khoa",
+    "Đại học Đà Nẵng"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S19_multi_facet_and": {
+   "expected_ids": [
+    "1001/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK",
+    "1216/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "2231/QĐ-ĐHBK",
+    "29/QĐ-ĐHBK",
+    "3337/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK",
+    "5543/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S20_active_org_docs_that_amend": {
+   "expected_ids": [
+    "107/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK"
+   ],
+   "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
+  },
+  "S21_gpa_rule": {
+   "expected_ids": [
+    "2244/QD-DHBK#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 13"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S22_academic_warning": {
+   "expected_ids": [
+    "2244/QD-DHBK#nd1#Điều 12",
+    "2244/QD-DHBK#nd1#Điều 13",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 15"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S23_valid_absence_procedure": {
+   "expected_ids": [
+    "1214/QD-DHBK#nd1#Điều 40",
+    "2244/QD-DHBK#nd1#Điều 18",
+    "2244/QD-DHBK#nd1#Điều 9"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S24_graduation_conditions": {
+   "expected_ids": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "4511/QD-DHBK#nd1#Điều 6",
+    "56/2026/TT-BGDDT#nd1#Điều 17"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S25_graduation_ranking": {
+   "expected_ids": [
+    "2244/QD-DHBK#nd1#Điều 11",
+    "2244/QD-DHBK#nd1#Điều 17",
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "56/2026/TT-BGDDT#nd1#Điều 17"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S26_foreign_language_exit": {
+   "expected_ids": [
+    "4511/QD-DHBK#nd1#Điều 6"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S27_credit_load_limits": {
+   "expected_ids": [
+    "2244/QD-DHBK#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 9"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S28_double_degree": {
+   "expected_ids": [
+    "1214/QD-DHBK#nd1#Điều 42",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "56/2026/TT-BGDDT#nd1#Điều 21"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S29_merit_scholarship": {
+   "expected_ids": [
+    "1414/QD-DHBK#nd1#Điều 5",
+    "1414/QD-DHBK#nd1#Điều 6",
+    "1414/QD-DHBK#nd1#Điều 7",
+    "28/VBHN-BGDDT#Điều 2",
+    "84/2020/ND-CP#Điều 8"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S30_exam_impersonation": {
+   "expected_ids": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "29/QD-DHBK#nd1#Điều 4",
+    "3707/QD-DHBK#Điều 1"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  },
+  "S31_tuition_exemption": {
+   "expected_ids": [
+    "81/2021/ND-CP#Điều 15",
+    "81/2021/ND-CP#Điều 16"
+   ],
+   "method": "Giữ nguyên gold gán tay; mọi đáp án có trong v4, 7 văn bản mới không thêm Điều liên quan."
+  }
+ }
+}

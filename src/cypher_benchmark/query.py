@@ -20,6 +20,9 @@ class Query:
     # evaluate riêng.
     id_field: str | None = None  # cột trong RETURN dùng làm "khoá" (vd "documentNumber")
     expected_ids: frozenset[str] | None = None  # ground-truth đã verify thật; None = chưa có/không áp dụng
+    # Câu hỏi tiếng Việt tự nhiên của case — đầu vào cho BM25 (xem bm25.py),
+    # chỉ catalogs/scenarios.py điền.
+    question: str | None = None
 
 
 def hybrid_expand_cypher(*, fulltext_query: str, seed_limit: int, final_limit: int | None = None) -> str:

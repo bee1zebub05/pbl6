@@ -1,0 +1,4223 @@
+[
+ {
+  "name": "S01_docs_by_org_active",
+  "case": "S01",
+  "question": "Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?",
+  "kind": "lookup",
+  "gold_size": 62,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.16129032258064516,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.5161290322580645,
+    "recall": 0.5161290322580645,
+    "f1": 0.5161290322580645,
+    "P@10": 1.0,
+    "R@10": 0.16129032258064516,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.5161290322580645,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.5645161290322581,
+    "recall": 0.5645161290322581,
+    "f1": 0.5645161290322581,
+    "P@10": 0.8,
+    "R@10": 0.12903225806451613,
+    "nDCG@10": 0.8572048559638626,
+    "MRR": 1.0,
+    "R-Prec": 0.5645161290322581,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.6451612903225806,
+    "recall": 0.6451612903225806,
+    "f1": 0.6451612903225806,
+    "P@10": 0.8,
+    "R@10": 0.12903225806451613,
+    "nDCG@10": 0.8115558478722845,
+    "MRR": 1.0,
+    "R-Prec": 0.6451612903225806,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.6774193548387096,
+    "recall": 0.6774193548387096,
+    "f1": 0.6774193548387096,
+    "P@10": 0.7,
+    "R@10": 0.11290322580645161,
+    "nDCG@10": 0.7695261902392828,
+    "MRR": 1.0,
+    "R-Prec": 0.6774193548387096,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.3870967741935484,
+    "recall": 0.3870967741935484,
+    "f1": 0.3870967741935484,
+    "P@10": 0.5,
+    "R@10": 0.08064516129032258,
+    "nDCG@10": 0.6177639991612475,
+    "MRR": 1.0,
+    "R-Prec": 0.3870967741935484,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "107/QĐ-ĐHBK",
+    "5247/QĐ-ĐHBK",
+    "4532/QĐ-ĐHBK",
+    "3868/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK",
+    "2155/QĐ-ĐHBK",
+    "2061/QĐ-ĐHBK",
+    "1690/QĐ-ĐHBK",
+    "5780/QĐ-ĐHBK",
+    "3492/QĐ-ĐHBK"
+   ],
+   "bm25": [
+    "441/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "1838/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "448/QĐ-ĐHBK",
+    "1216/QĐ-ĐHBK"
+   ],
+   "bm25_full": [
+    "441/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "448/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "760/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "4511/QĐ-ĐHBK",
+    "334/QĐ-ĐHBK"
+   ],
+   "vector": [
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "487/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "3536/QĐ-ĐHBK",
+    "3240/QĐ-ĐHBK",
+    "1001/QĐ-ĐHBK",
+    "771/QĐ-ĐHBK",
+    "2155/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "760/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "441/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "2652/QĐ-ĐHBK",
+    "23/NQ-HĐT"
+   ],
+   "hybrid_kg": [
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "760/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
+    "32/CP",
+    "08/NQ-HĐĐH",
+    "10/2020/TT-BGDĐT",
+    "13/NQ-HĐĐH",
+    "05/NQ-HĐT"
+   ]
+  }
+ },
+ {
+  "name": "S02_docs_by_target_group",
+  "case": "S02",
+  "question": "Văn bản nào áp dụng cho người học (sinh viên)?",
+  "kind": "lookup",
+  "gold_size": 51,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.19607843137254902,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.27450980392156865,
+    "recall": 0.27450980392156865,
+    "f1": 0.27450980392156865,
+    "P@10": 0.2,
+    "R@10": 0.0392156862745098,
+    "nDCG@10": 0.19518900079066107,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.27450980392156865,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.35294117647058826,
+    "recall": 0.35294117647058826,
+    "f1": 0.35294117647058826,
+    "P@10": 0.6,
+    "R@10": 0.11764705882352941,
+    "nDCG@10": 0.6114735274236562,
+    "MRR": 1.0,
+    "R-Prec": 0.35294117647058826,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.5686274509803921,
+    "recall": 0.5686274509803921,
+    "f1": 0.5686274509803921,
+    "P@10": 0.9,
+    "R@10": 0.17647058823529413,
+    "nDCG@10": 0.9216017310213246,
+    "MRR": 1.0,
+    "R-Prec": 0.5686274509803921,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.5686274509803921,
+    "recall": 0.5686274509803921,
+    "f1": 0.5686274509803921,
+    "P@10": 1.0,
+    "R@10": 0.19607843137254902,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.5686274509803921,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.6,
+    "R@10": 0.11764705882352941,
+    "nDCG@10": 0.7125523635307982,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "29/QĐ-ĐHBK",
+    "16/2015/TT-BGDĐT",
+    "1395/QĐ-ĐHBK",
+    "35/2011/TT-BGDĐT",
+    "1899/QĐ-ĐHĐN",
+    "1345/QĐ-ĐHBK",
+    "1404/QĐ-ĐHBK",
+    "2367/QĐ-ĐHĐN",
+    "29/2023/TT-BGDĐT",
+    "145/2020/NĐ-CP"
+   ],
+   "bm25": [
+    "2888/QĐ-ĐHBK",
+    "10/2026/NQ-CP",
+    "2058/QĐ-ĐHĐN",
+    "4036/QĐ-ĐHĐN",
+    "1414/QĐ-ĐHBK",
+    "01/2011/TT-BNV",
+    "441/QĐ-ĐHBK",
+    "2858/QĐ-ĐHĐN",
+    "80/2015/QH13",
+    "06/2022/TT-BGDĐT"
+   ],
+   "bm25_full": [
+    "2058/QĐ-ĐHĐN",
+    "80/2015/QH13",
+    "2888/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK",
+    "3226/QĐ-ĐHĐN",
+    "29/QĐ-ĐHBK",
+    "4036/QĐ-ĐHĐN",
+    "1414/QĐ-ĐHBK",
+    "06/2022/TT-BGDĐT",
+    "1980/QĐ-ĐHBK"
+   ],
+   "vector": [
+    "10/2016/TT-BGDĐT",
+    "81/2021/NĐ-CP",
+    "4511/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK",
+    "16/2015/TT-BGDĐT",
+    "05/NQ-HĐT",
+    "2721/QĐ-ĐHĐN",
+    "27/2009/TT-BGDĐT",
+    "1001/QĐ-ĐHBK",
+    "1980/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "4420/QĐ-ĐHBK",
+    "10/2016/TT-BGDĐT",
+    "3226/QĐ-ĐHĐN",
+    "1980/QĐ-ĐHBK",
+    "29/QĐ-ĐHBK",
+    "2058/QĐ-ĐHĐN",
+    "4511/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "3758/QĐ-ĐHĐN",
+    "27/2009/TT-BGDĐT"
+   ],
+   "hybrid_kg": [
+    "4420/QĐ-ĐHBK",
+    "10/2016/TT-BGDĐT",
+    "3226/QĐ-ĐHĐN",
+    "1980/QĐ-ĐHBK",
+    "29/QĐ-ĐHBK",
+    "32/CP",
+    "1274/QĐ-ĐHBK",
+    "08/2014/TT-BGDĐT",
+    "10/2020/TT-BGDĐT",
+    "1001/QĐ-ĐHBK"
+   ]
+  }
+ },
+ {
+  "name": "S03_docs_by_topic",
+  "case": "S03",
+  "question": "Trường có văn bản nào về tuyển sinh không?",
+  "kind": "distribution",
+  "gold_size": 16,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.625,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.4375,
+    "recall": 0.4375,
+    "f1": 0.4375,
+    "P@10": 0.6,
+    "R@10": 0.375,
+    "nDCG@10": 0.5252098581198154,
+    "MRR": 0.5,
+    "R-Prec": 0.4375,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.5625,
+    "recall": 0.5625,
+    "f1": 0.5625,
+    "P@10": 0.7,
+    "R@10": 0.4375,
+    "nDCG@10": 0.7728378251807518,
+    "MRR": 1.0,
+    "R-Prec": 0.5625,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.625,
+    "recall": 0.625,
+    "f1": 0.625,
+    "P@10": 0.7,
+    "R@10": 0.4375,
+    "nDCG@10": 0.7529694065526481,
+    "MRR": 1.0,
+    "R-Prec": 0.625,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1": 0.75,
+    "P@10": 0.8,
+    "R@10": 0.5,
+    "nDCG@10": 0.7948833326720564,
+    "MRR": 1.0,
+    "R-Prec": 0.75,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.3125,
+    "recall": 0.3125,
+    "f1": 0.3125,
+    "P@10": 0.4,
+    "R@10": 0.25,
+    "nDCG@10": 0.5100691314582919,
+    "MRR": 1.0,
+    "R-Prec": 0.3125,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "18/2017/QĐ-TTg",
+    "4757/QĐ-ĐHĐN",
+    "4481/QĐ-ĐHĐN",
+    "618/QĐ-BGDĐT",
+    "07/2020/TT-BGDĐT",
+    "1478/QĐ-ĐHĐN",
+    "1340/QĐ-ĐHBK",
+    "1609/QĐ-ĐHBK",
+    "3183/QĐ-ĐHĐN",
+    "03/2022/TT-BGDĐT"
+   ],
+   "bm25": [
+    "441/QĐ-ĐHBK",
+    "3183/QĐ-ĐHĐN",
+    "2888/QĐ-ĐHBK",
+    "09/2020/TT-BGDĐT",
+    "1609/QĐ-ĐHBK",
+    "448/QĐ-ĐHBK",
+    "3297/QĐ-ĐHĐN",
+    "23/2021/TT-BGDĐT",
+    "80/2015/QH13",
+    "4481/QĐ-ĐHĐN"
+   ],
+   "bm25_full": [
+    "09/2020/TT-BGDĐT",
+    "1609/QĐ-ĐHBK",
+    "3297/QĐ-ĐHĐN",
+    "4481/QĐ-ĐHĐN",
+    "80/2015/QH13",
+    "06/2026/TT-BGDĐT",
+    "2414/QĐ-ĐHĐN",
+    "03/2022/TT-BGDĐT",
+    "4473/QĐ-ĐHĐN",
+    "53/2026/TT-BGDĐT"
+   ],
+   "vector": [
+    "1609/QĐ-ĐHBK",
+    "1248/QĐ-ĐHĐN",
+    "06/2026/TT-BGDĐT",
+    "2414/QĐ-ĐHĐN",
+    "1478/QĐ-ĐHĐN",
+    "4481/QĐ-ĐHĐN",
+    "1414/QĐ-ĐHBK",
+    "1340/QĐ-ĐHBK",
+    "4757/QĐ-ĐHĐN",
+    "2347/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "1609/QĐ-ĐHBK",
+    "06/2026/TT-BGDĐT",
+    "4481/QĐ-ĐHĐN",
+    "2414/QĐ-ĐHĐN",
+    "09/2020/TT-BGDĐT",
+    "3297/QĐ-ĐHĐN",
+    "1248/QĐ-ĐHĐN",
+    "4473/QĐ-ĐHĐN",
+    "53/2026/TT-BGDĐT",
+    "1478/QĐ-ĐHĐN"
+   ],
+   "hybrid_kg": [
+    "1609/QĐ-ĐHBK",
+    "06/2026/TT-BGDĐT",
+    "4481/QĐ-ĐHĐN",
+    "2414/QĐ-ĐHĐN",
+    "09/2020/TT-BGDĐT",
+    "08/NQ-HĐĐH",
+    "13/NQ-HĐĐH",
+    "32/CP",
+    "08/2022/TT-BGDĐT",
+    "10/2020/TT-BGDĐT"
+   ]
+  }
+ },
+ {
+  "name": "S04_normative_content_active",
+  "case": "S04",
+  "question": "Những Quy chế nào đang còn hiệu lực?",
+  "kind": "distribution",
+  "gold_size": 57,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.17543859649122806,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.8421052631578947,
+    "recall": 0.8421052631578947,
+    "f1": 0.8421052631578947,
+    "P@10": 0.6,
+    "R@10": 0.10526315789473684,
+    "nDCG@10": 0.4362115423097744,
+    "MRR": 0.2,
+    "R-Prec": 0.8421052631578947,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.631578947368421,
+    "recall": 0.631578947368421,
+    "f1": 0.631578947368421,
+    "P@10": 0.9,
+    "R@10": 0.15789473684210525,
+    "nDCG@10": 0.8611375561264454,
+    "MRR": 1.0,
+    "R-Prec": 0.631578947368421,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.7192982456140351,
+    "recall": 0.7192982456140351,
+    "f1": 0.7192982456140351,
+    "P@10": 1.0,
+    "R@10": 0.17543859649122806,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.7192982456140351,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.7017543859649122,
+    "recall": 0.7017543859649122,
+    "f1": 0.7017543859649122,
+    "P@10": 1.0,
+    "R@10": 0.17543859649122806,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.7017543859649122,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.7017543859649122,
+    "recall": 0.7017543859649122,
+    "f1": 0.7017543859649122,
+    "P@10": 1.0,
+    "R@10": 0.17543859649122806,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.7017543859649122,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "10/2016/TT-BGDDT#nd1",
+    "16/2015/TT-BGDDT#nd1",
+    "2721/QD-DHDN#nd1",
+    "1001/QD-DHBK#nd1",
+    "27/2009/TT-BGDDT#nd1",
+    "1092/QD-DHBK#nd1",
+    "1474/QD-DHBK#nd1",
+    "1475/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "1099/QD-BGDDT#nd1"
+   ],
+   "bm25": [
+    "4511/QD-DHBK#nd1",
+    "1749/QD-BGDDT#nd1",
+    "998/QD-DHDN#nd1",
+    "4036/QD-DHDN#nd1",
+    "8/2021/TT-BGDDT#nd1",
+    "5/NQ-HDDH#nd1",
+    "3297/QD-DHDN#nd1",
+    "56/2026/TT-BGDDT#nd1",
+    "4481/QD-DHDN#nd1",
+    "28/2023/TT-BGDDT#nd1"
+   ],
+   "bm25_full": [
+    "5/NQ-HDDH#nd1",
+    "4511/QD-DHBK#nd1",
+    "1676/QD-DHDN#nd1",
+    "1250/QD-DHBK#nd1",
+    "3536/QD-DHBK#nd1",
+    "5/NQ-HDT#nd1",
+    "1177/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "36/QD-DHDN#nd1",
+    "423/QD-DHBK#nd1"
+   ],
+   "vector": [
+    "1474/QD-DHBK#nd1",
+    "1199/QD-DHBK#nd1",
+    "1250/QD-DHBK#nd1",
+    "5/NQ-HDT#nd1",
+    "595/QD-DHBK#nd1",
+    "5/NQ-HDDH#nd1",
+    "2352/QD-DHBK#nd1",
+    "423/QD-DHBK#nd1",
+    "1177/QD-DHBK#nd1",
+    "8/NQ-HDDH#nd1"
+   ],
+   "hybrid": [
+    "5/NQ-HDDH#nd1",
+    "1250/QD-DHBK#nd1",
+    "5/NQ-HDT#nd1",
+    "1474/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "3536/QD-DHBK#nd1",
+    "1177/QD-DHBK#nd1",
+    "1199/QD-DHBK#nd1",
+    "423/QD-DHBK#nd1",
+    "595/QD-DHBK#nd1"
+   ],
+   "hybrid_kg": [
+    "5/NQ-HDDH#nd1",
+    "1250/QD-DHBK#nd1",
+    "5/NQ-HDT#nd1",
+    "1474/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "3536/QD-DHBK#nd1",
+    "1177/QD-DHBK#nd1",
+    "1199/QD-DHBK#nd1",
+    "423/QD-DHBK#nd1",
+    "595/QD-DHBK#nd1"
+   ]
+  }
+ },
+ {
+  "name": "S05_document_detail",
+  "case": "S05",
+  "question": "Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",
+  "kind": "lookup",
+  "gold_size": 1,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.016666666666666666,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "4511/QĐ-ĐHBK"
+   ],
+   "bm25": [
+    "08/2025/TT-BGDĐT",
+    "618/QĐ-BGDĐT",
+    "754/QĐ-BGDĐT",
+    "441/QĐ-ĐHBK",
+    "03/2025/TT-BGDĐT",
+    "448/QĐ-ĐHBK",
+    "1137/QĐ-BGDĐT",
+    "86/2018/NĐ-CP",
+    "2155/QĐ-ĐHBK",
+    "19/2024/TT-BGDĐT"
+   ],
+   "bm25_full": [
+    "2155/QĐ-ĐHBK",
+    "01/2011/TT-BNV",
+    "08/2025/TT-BGDĐT",
+    "2465/QĐ-ĐHBK",
+    "30/2020/NĐ-CP",
+    "19/2024/TT-BGDĐT",
+    "80/2015/QH13",
+    "1616/QĐ-ĐHBK",
+    "754/QĐ-BGDĐT",
+    "81/2021/NĐ-CP"
+   ],
+   "vector": [
+    "1605/QĐ-ĐHBK",
+    "3536/QĐ-ĐHBK",
+    "23/NQ-HĐT",
+    "1199/QĐ-ĐHBK",
+    "595/QĐ-ĐHBK",
+    "4768/QĐ-ĐHĐN",
+    "2888/QĐ-ĐHBK",
+    "1404/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "2465/QĐ-ĐHBK",
+    "2155/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "800/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "23/NQ-HĐT",
+    "338/QĐ-ĐHBK",
+    "2652/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK"
+   ],
+   "hybrid_kg": [
+    "2465/QĐ-ĐHBK",
+    "2155/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "800/QĐ-ĐHBK",
+    "08/NQ-HĐĐH",
+    "10/2020/TT-BGDĐT",
+    "32/CP",
+    "05/NQ-HĐT",
+    "13/NQ-HĐĐH"
+   ]
+  }
+ },
+ {
+  "name": "S06_document_articles",
+  "case": "S06",
+  "question": "Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",
+  "kind": "lookup",
+  "gold_size": 7,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.7,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "1559/QD-BGDDT#Điều 1",
+    "1559/QD-BGDDT#Điều 4",
+    "1559/QD-BGDDT#Điều 5",
+    "1559/QD-BGDDT#Điều 6",
+    "1559/QD-BGDDT#Điều 7",
+    "1559/QD-BGDDT#Điều 2",
+    "1559/QD-BGDDT#Điều 3"
+   ],
+   "bm25": [
+    "4801/QD-DHDN#nd1#Điều 14",
+    "1616/QD-DHBK#nd1#Điều 14",
+    "806/QD-DHBK#nd1#Điều 18",
+    "806/QD-DHBK#nd1#Điều 19",
+    "30/2020/ND-CP#Điều 25",
+    "10/2026/TT-BGDDT#nd1#Điều 18",
+    "10/2026/TT-BGDDT#nd1#Điều 17",
+    "806/QD-DHBK#nd1#Điều 15",
+    "1/2011/TT-BNV#Điều 16",
+    "1/2011/TT-BNV#Điều 11"
+   ],
+   "bm25_full": [
+    "4801/QD-DHDN#nd1#Điều 14",
+    "1616/QD-DHBK#nd1#Điều 14",
+    "806/QD-DHBK#nd1#Điều 18",
+    "806/QD-DHBK#nd1#Điều 19",
+    "30/2020/ND-CP#Điều 25",
+    "10/2026/TT-BGDDT#nd1#Điều 18",
+    "10/2026/TT-BGDDT#nd1#Điều 17",
+    "806/QD-DHBK#nd1#Điều 15",
+    "1/2011/TT-BNV#Điều 16",
+    "1/2011/TT-BNV#Điều 11"
+   ],
+   "vector": [
+    "4/2016/TT-BGDDT#Điều 1",
+    "3758/QD-DHDN#Điều 1",
+    "1325/QD-BGDDT#Điều 2",
+    "16/2015/TT-BGDDT#Điều 2",
+    "23/2016/TT-BGDDT#Điều 13",
+    "821/QD-BGDDT#Điều 2",
+    "2721/QD-DHDN#Điều 2",
+    "10/2016/TT-BGDDT#Điều 1",
+    "16/2015/TT-BGDDT#Điều 1",
+    "4765/QD-DHDN#nd1#Điều 15"
+   ],
+   "hybrid": [
+    "30/2020/TT-BGDDT#Điều 2",
+    "46/2021/TT-BGDDT#Điều 1",
+    "30/2020/TT-BGDDT#Điều 1",
+    "80/2015/QH13#Điều 11",
+    "1749/QD-BGDDT#Điều 2",
+    "4801/QD-DHDN#nd1#Điều 14",
+    "4/2016/TT-BGDDT#Điều 1",
+    "1616/QD-DHBK#nd1#Điều 14",
+    "3758/QD-DHDN#Điều 1",
+    "806/QD-DHBK#nd1#Điều 18"
+   ],
+   "hybrid_kg": [
+    "30/2020/TT-BGDDT#Điều 2",
+    "46/2021/TT-BGDDT#Điều 1",
+    "30/2020/TT-BGDDT#Điều 1",
+    "80/2015/QH13#Điều 11",
+    "1749/QD-BGDDT#Điều 2",
+    "4801/QD-DHDN#nd1#Điều 14",
+    "4/2016/TT-BGDDT#Điều 1",
+    "1616/QD-DHBK#nd1#Điều 14",
+    "3758/QD-DHDN#Điều 1",
+    "806/QD-DHBK#nd1#Điều 18"
+   ]
+  }
+ },
+ {
+  "name": "S07_document_mentions",
+  "case": "S07",
+  "question": "Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?",
+  "kind": "lookup",
+  "gold_size": 6,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.6,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "bm25_full": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "vector": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "hybrid": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "hybrid_kg": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   }
+  },
+  "top": {
+   "cypher": [
+    "hoi_dong_dai_hoc_da_nang",
+    "chinh_phu",
+    "bo_giao_duc_va_dao_tao",
+    "ban_dao_tao_va_dam_bao_chat_luong_giao_duc",
+    "thu_tuong_chinh_phu",
+    "truong_dai_hoc_bach_khoa"
+   ]
+  }
+ },
+ {
+  "name": "S08_document_based_on",
+  "case": "S08",
+  "question": "Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?",
+  "kind": "lookup",
+  "gold_size": 10,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.011627906976744186,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.021739130434782608,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.01098901098901099,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1": 0.4000000000000001,
+    "P@10": 0.4,
+    "R@10": 0.4,
+    "nDCG@10": 0.27770450256879337,
+    "MRR": 0.16666666666666666,
+    "R-Prec": 0.4,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "08/NQ-HĐĐH",
+    "17/2021/TT-BGDĐT",
+    "22/NQ-HĐT",
+    "05/NQ-HĐT",
+    "32/CP",
+    "788/ĐHĐN-ĐT",
+    "99/2019/NĐ-CP",
+    "1691/QĐ-ĐHBK",
+    "08/2021/TT-BGDĐT",
+    "13/NQ-HĐĐH"
+   ],
+   "bm25": [
+    "80/2015/QH13",
+    "2888/QĐ-ĐHBK",
+    "2858/QĐ-ĐHĐN",
+    "448/QĐ-ĐHBK",
+    "104/KH-UBND",
+    "46/2021/TT-BGDĐT",
+    "30/2020/TT-BGDĐT",
+    "2522/ĐHBK-TCHC",
+    "107/QĐ-ĐHBK",
+    "441/QĐ-ĐHBK"
+   ],
+   "bm25_full": [
+    "80/2015/QH13",
+    "01/2011/TT-BNV",
+    "2888/QĐ-ĐHBK",
+    "2155/QĐ-ĐHBK",
+    "30/2020/NĐ-CP",
+    "107/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "46/2021/TT-BGDĐT",
+    "1616/QĐ-ĐHBK",
+    "48/2024/QH15"
+   ],
+   "vector": [
+    "1676/QĐ-ĐHĐN",
+    "36/QĐ-ĐHĐN",
+    "3536/QĐ-ĐHBK",
+    "1605/QĐ-ĐHBK",
+    "4768/QĐ-ĐHĐN",
+    "1214/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "18/2017/QĐ-TTg",
+    "4343/QĐ-ĐHĐN",
+    "1404/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "2888/QĐ-ĐHBK",
+    "80/2015/QH13",
+    "1214/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "23/NQ-HĐT",
+    "3646/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "5166/QĐ-ĐHĐN",
+    "46/2021/TT-BGDĐT",
+    "2155/QĐ-ĐHBK"
+   ],
+   "hybrid_kg": [
+    "2888/QĐ-ĐHBK",
+    "80/2015/QH13",
+    "1214/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "23/NQ-HĐT",
+    "08/NQ-HĐĐH",
+    "10/2020/TT-BGDĐT",
+    "32/CP",
+    "13/NQ-HĐĐH",
+    "05/NQ-HĐT"
+   ]
+  }
+ },
+ {
+  "name": "S09_amend_replace_chain",
+  "case": "S09",
+  "question": "Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",
+  "kind": "multihop",
+  "gold_size": 3,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.05263157894736842,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.1,
+    "R@10": 0.3333333333333333,
+    "nDCG@10": 0.13565197343244778,
+    "MRR": 0.1,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.02564102564102564,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.058823529411764705,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.017543859649122806,
+    "R-Prec": 0.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "760/QĐ-ĐHBK",
+    "2652/QĐ-ĐHBK",
+    "2929/QĐ-ĐHBK"
+   ],
+   "bm25": [
+    "10/2026/NQ-CP",
+    "800/QĐ-ĐHBK",
+    "3237/QĐ-ĐHĐN",
+    "4495/QĐ-ĐHĐN",
+    "07/2024/TT-BGDĐT",
+    "5166/QĐ-ĐHĐN",
+    "107/QĐ-ĐHBK",
+    "3571/QĐ-BGDĐT",
+    "05/2022/QĐ-TTg",
+    "1060/QĐ-BGDĐT"
+   ],
+   "bm25_full": [
+    "5166/QĐ-ĐHĐN",
+    "800/QĐ-ĐHBK",
+    "80/2015/QH13",
+    "107/QĐ-ĐHBK",
+    "4495/QĐ-ĐHĐN",
+    "3237/QĐ-ĐHĐN",
+    "3240/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK",
+    "22/NQ-HĐT",
+    "2652/QĐ-ĐHBK"
+   ],
+   "vector": [
+    "423/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "2244/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "1478/QĐ-ĐHBK",
+    "2525/QĐ-ĐHBK",
+    "1690/QĐ-ĐHBK",
+    "08/NQ-HĐĐH",
+    "1060/QĐ-BGDĐT"
+   ],
+   "hybrid": [
+    "5166/QĐ-ĐHĐN",
+    "542/QĐ-ĐHBK",
+    "107/QĐ-ĐHBK",
+    "22/NQ-HĐT",
+    "800/QĐ-ĐHBK",
+    "1478/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "80/2015/QH13",
+    "1060/QĐ-BGDĐT"
+   ],
+   "hybrid_kg": [
+    "5166/QĐ-ĐHĐN",
+    "542/QĐ-ĐHBK",
+    "107/QĐ-ĐHBK",
+    "22/NQ-HĐT",
+    "800/QĐ-ĐHBK",
+    "32/CP",
+    "08/NQ-HĐĐH",
+    "10/2020/TT-BGDĐT",
+    "13/NQ-HĐĐH",
+    "1404/QĐ-ĐHBK"
+   ]
+  }
+ },
+ {
+  "name": "S10_replaced_by",
+  "case": "S10",
+  "question": "Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?",
+  "kind": "lookup",
+  "gold_size": 1,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 0.2890648263178879,
+    "MRR": 0.1,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 0.6309297535714575,
+    "MRR": 0.5,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "10/2016/TT-BGDĐT"
+   ],
+   "bm25": [
+    "05/2022/QĐ-TTg",
+    "10/2026/NQ-CP",
+    "2858/QĐ-ĐHĐN",
+    "800/QĐ-ĐHBK",
+    "07/2024/TT-BGDĐT",
+    "10/2026/TT-BGDĐT",
+    "30/2020/NĐ-CP",
+    "79/2020/NĐ-CP",
+    "1325/QĐ-BGDĐT",
+    "10/2016/TT-BGDĐT"
+   ],
+   "bm25_full": [
+    "05/2022/QĐ-TTg",
+    "10/2016/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "5166/QĐ-ĐHĐN",
+    "10/2026/TT-BGDĐT",
+    "1001/QĐ-ĐHBK",
+    "27/2009/TT-BGDĐT",
+    "2721/QĐ-ĐHĐN",
+    "4801/QĐ-ĐHĐN",
+    "09/2020/TT-BGDĐT"
+   ],
+   "vector": [
+    "10/2016/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "2721/QĐ-ĐHĐN",
+    "1001/QĐ-ĐHBK",
+    "27/2009/TT-BGDĐT",
+    "1414/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK",
+    "16/2015/TT-BGDĐT",
+    "840/QĐ-ĐHBK",
+    "2347/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "10/2016/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "1001/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "27/2009/TT-BGDĐT",
+    "800/QĐ-ĐHBK",
+    "05/2022/QĐ-TTg",
+    "4495/QĐ-ĐHĐN",
+    "1616/QĐ-ĐHBK",
+    "5166/QĐ-ĐHĐN"
+   ],
+   "hybrid_kg": [
+    "10/2016/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "1001/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "27/2009/TT-BGDĐT",
+    "32/2008/NĐ-CP",
+    "32/CP",
+    "75/2006/NĐ-CP",
+    "05/NQ-HĐT",
+    "07/2013/NĐ-CP"
+   ]
+  }
+ },
+ {
+  "name": "S11_amends_target_still_active",
+  "case": "S11",
+  "question": "Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?",
+  "kind": "lookup",
+  "gold_size": 14,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.7142857142857143,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.018867924528301886,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.03571428571428571,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.14285714285714285,
+    "recall": 0.14285714285714285,
+    "f1": 0.14285714285714285,
+    "P@10": 0.1,
+    "R@10": 0.07142857142857142,
+    "nDCG@10": 0.07336392209936005,
+    "MRR": 0.14285714285714285,
+    "R-Prec": 0.14285714285714285,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.07142857142857142,
+    "recall": 0.07142857142857142,
+    "f1": 0.07142857142857142,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.07692307692307693,
+    "R-Prec": 0.07142857142857142,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.037037037037037035,
+    "R-Prec": 0.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "05/NQ-HĐT",
+    "10/2016/TT-BGDĐT",
+    "1199/QĐ-ĐHBK",
+    "1899/QĐ-ĐHĐN",
+    "2231/QĐ-ĐHBK",
+    "25/2019/TT-BGDĐT",
+    "29/QĐ-ĐHBK",
+    "33/2024/QH15",
+    "4481/QĐ-ĐHĐN",
+    "4765/QĐ-ĐHĐN"
+   ],
+   "bm25": [
+    "10/2026/NQ-CP",
+    "01/2011/TT-BNV",
+    "754/QĐ-BGDĐT",
+    "1060/QĐ-BGDĐT",
+    "79/2020/NĐ-CP",
+    "39/2013/QH13",
+    "47/2005/QH11",
+    "52/2019/QH14",
+    "1351/QĐ-ĐHĐN",
+    "24/2021/TT-BGDĐT"
+   ],
+   "bm25_full": [
+    "01/2011/TT-BNV",
+    "80/2015/QH13",
+    "52/2019/QH14",
+    "01/VBHN-VPQH",
+    "47/2005/QH11",
+    "1274/QĐ-ĐHBK",
+    "36/2009/QH12",
+    "30/2020/NĐ-CP",
+    "57/2024/QH15",
+    "48/2023/NĐ-CP"
+   ],
+   "vector": [
+    "80/2015/QH13",
+    "5166/QĐ-ĐHĐN",
+    "10/2026/NQ-CP",
+    "542/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "1474/QĐ-ĐHBK",
+    "1199/QĐ-ĐHBK",
+    "1351/QĐ-ĐHĐN",
+    "595/QĐ-ĐHBK",
+    "487/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "80/2015/QH13",
+    "5166/QĐ-ĐHĐN",
+    "01/2011/TT-BNV",
+    "542/QĐ-ĐHBK",
+    "10/2026/NQ-CP",
+    "1351/QĐ-ĐHĐN",
+    "01/VBHN-VPQH",
+    "30/2020/NĐ-CP",
+    "754/QĐ-BGDĐT",
+    "1616/QĐ-ĐHBK"
+   ],
+   "hybrid_kg": [
+    "80/2015/QH13",
+    "5166/QĐ-ĐHĐN",
+    "01/2011/TT-BNV",
+    "542/QĐ-ĐHBK",
+    "10/2026/NQ-CP",
+    "32/CP",
+    "5668/QĐ-ĐHĐN",
+    "08/2014/TT-BGDĐT",
+    "08/NQ-HĐĐH",
+    "09/2010/NĐ-CP"
+   ]
+  }
+ },
+ {
+  "name": "S12_chain_depth_distribution",
+  "case": "S12",
+  "question": "Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?",
+  "kind": "distribution",
+  "gold_size": null,
+  "count_question": true,
+  "systems": {
+   "cypher": {
+    "correct": true
+   },
+   "bm25": {
+    "correct": false,
+    "applicable": false
+   },
+   "bm25_full": {
+    "correct": false,
+    "applicable": false
+   },
+   "vector": {
+    "correct": false,
+    "applicable": false
+   },
+   "hybrid": {
+    "correct": false,
+    "applicable": false
+   },
+   "hybrid_kg": {
+    "correct": false,
+    "applicable": false
+   }
+  },
+  "top": {}
+ },
+ {
+  "name": "S13_fulltext_doc_content",
+  "case": "S13",
+  "question": "Học phí năm nay quy định ở văn bản nào?",
+  "kind": "fulltext",
+  "gold_size": 5,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1": 0.9090909090909091,
+    "P@10": 0.5,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.2,
+    "recall": 0.2,
+    "f1": 0.20000000000000004,
+    "P@10": 0.2,
+    "R@10": 0.4,
+    "nDCG@10": 0.2716774977597197,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.2,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1": 0.4000000000000001,
+    "P@10": 0.2,
+    "R@10": 0.4,
+    "nDCG@10": 0.27727342735504823,
+    "MRR": 0.25,
+    "R-Prec": 0.4,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.6,
+    "recall": 0.6,
+    "f1": 0.6,
+    "P@10": 0.3,
+    "R@10": 0.6,
+    "nDCG@10": 0.7227265726449519,
+    "MRR": 1.0,
+    "R-Prec": 0.6,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.6,
+    "recall": 0.6,
+    "f1": 0.6,
+    "P@10": 0.3,
+    "R@10": 0.6,
+    "nDCG@10": 0.7227265726449519,
+    "MRR": 1.0,
+    "R-Prec": 0.6,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.6,
+    "recall": 0.6,
+    "f1": 0.6,
+    "P@10": 0.3,
+    "R@10": 0.6,
+    "nDCG@10": 0.7227265726449519,
+    "MRR": 1.0,
+    "R-Prec": 0.6,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "81/2021/NĐ-CP",
+    "3443/ĐHĐN-KHTC",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "97/2023/NĐ-CP",
+    "4532/QĐ-ĐHBK",
+    "4809/QĐ-ĐHĐN"
+   ],
+   "bm25": [
+    "441/QĐ-ĐHBK",
+    "80/2015/QH13",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "5166/QĐ-ĐHĐN",
+    "2858/QĐ-ĐHĐN",
+    "448/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "01/2011/TT-BNV",
+    "3443/ĐHĐN-KHTC",
+    "2465/QĐ-ĐHBK"
+   ],
+   "bm25_full": [
+    "80/2015/QH13",
+    "5166/QĐ-ĐHĐN",
+    "01/2011/TT-BNV",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "81/2021/NĐ-CP",
+    "30/2020/NĐ-CP",
+    "2858/QĐ-ĐHĐN",
+    "441/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "40/2017/TT-BTC"
+   ],
+   "vector": [
+    "97/2023/NĐ-CP",
+    "81/2021/NĐ-CP",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "43/2019/QH14",
+    "1340/QĐ-ĐHBK",
+    "3492/QĐ-ĐHBK",
+    "3237/QĐ-ĐHĐN",
+    "1214/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "36/QĐ-ĐHĐN"
+   ],
+   "hybrid": [
+    "81/2021/NĐ-CP",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "97/2023/NĐ-CP",
+    "1340/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "43/2019/QH14",
+    "3492/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "36/QĐ-ĐHĐN",
+    "1676/QĐ-ĐHĐN"
+   ],
+   "hybrid_kg": [
+    "81/2021/NĐ-CP",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+    "97/2023/NĐ-CP",
+    "1340/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "10/2020/TT-BGDĐT",
+    "32/CP",
+    "36/QĐ-ĐHĐN",
+    "86/2015/NĐ-CP",
+    "05/NQ-HĐT"
+   ]
+  }
+ },
+ {
+  "name": "S14_fulltext_article",
+  "case": "S14",
+  "question": "Điều nào quy định trách nhiệm thi hành?",
+  "kind": "fulltext",
+  "gold_size": 464,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.9726962457337884,
+    "recall": 0.6142241379310345,
+    "f1": 0.7529722589167767,
+    "P@10": 1.0,
+    "R@10": 0.021551724137931036,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.6142241379310345,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.4051724137931034,
+    "recall": 0.4051724137931034,
+    "f1": 0.4051724137931034,
+    "P@10": 1.0,
+    "R@10": 0.021551724137931036,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.4051724137931034,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.4051724137931034,
+    "recall": 0.4051724137931034,
+    "f1": 0.4051724137931034,
+    "P@10": 1.0,
+    "R@10": 0.021551724137931036,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.4051724137931034,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.6422413793103449,
+    "recall": 0.6422413793103449,
+    "f1": 0.6422413793103449,
+    "P@10": 1.0,
+    "R@10": 0.021551724137931036,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.6422413793103449,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.5926724137931034,
+    "recall": 0.5926724137931034,
+    "f1": 0.5926724137931034,
+    "P@10": 1.0,
+    "R@10": 0.021551724137931036,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.5926724137931034,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.5926724137931034,
+    "recall": 0.5926724137931034,
+    "f1": 0.5926724137931034,
+    "P@10": 1.0,
+    "R@10": 0.021551724137931036,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.5926724137931034,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "19/2024/TT-BGDDT#Điều 6",
+    "1489/QD-DHDN#nd1#Điều 36",
+    "3226/QD-DHDN#nd1#Điều 25",
+    "69/2017/ND-CP#Điều 5",
+    "232/2026/ND-CP#Điều 19",
+    "43/2023/ND-CP#Điều 70",
+    "182/2026/ND-CP#Điều 11",
+    "79/2020/ND-CP#Điều 12",
+    "78/2020/ND-CP#Điều 27",
+    "84/2020/ND-CP#Điều 12"
+   ],
+   "bm25": [
+    "1489/QD-DHDN#nd1#Điều 36",
+    "3226/QD-DHDN#nd1#Điều 25",
+    "77/2021/ND-CP#Điều 8",
+    "30/2020/ND-CP#Điều 38",
+    "42/2013/ND-CP#Điều 29",
+    "89/2013/ND-CP#Điều 35",
+    "28/2013/ND-CP#Điều 13",
+    "232/2026/ND-CP#Điều 19",
+    "69/2017/ND-CP#Điều 5",
+    "43/2023/ND-CP#Điều 70"
+   ],
+   "bm25_full": [
+    "3226/QD-DHDN#nd1#Điều 25",
+    "1489/QD-DHDN#nd1#Điều 36",
+    "77/2021/ND-CP#Điều 8",
+    "30/2020/ND-CP#Điều 38",
+    "42/2013/ND-CP#Điều 29",
+    "89/2013/ND-CP#Điều 35",
+    "28/2013/ND-CP#Điều 13",
+    "69/2017/ND-CP#Điều 5",
+    "232/2026/ND-CP#Điều 19",
+    "182/2026/ND-CP#Điều 11"
+   ],
+   "vector": [
+    "64/2014/ND-CP#Điều 24",
+    "84/2020/ND-CP#Điều 12",
+    "48/2023/ND-CP#Điều 3",
+    "2721/QD-DHDN#nd1#Điều 24",
+    "53/2022/ND-CP#Điều 30",
+    "28/2013/ND-CP#Điều 13",
+    "79/2020/ND-CP#Điều 12",
+    "50/2022/ND-CP#Điều 8",
+    "27/2012/ND-CP#Điều 41",
+    "59/2019/ND-CP#Điều 89"
+   ],
+   "hybrid": [
+    "28/2013/ND-CP#Điều 13",
+    "84/2020/ND-CP#Điều 12",
+    "1489/QD-DHDN#nd1#Điều 36",
+    "64/2014/ND-CP#Điều 24",
+    "79/2020/ND-CP#Điều 12",
+    "232/2026/ND-CP#Điều 19",
+    "69/2017/ND-CP#Điều 5",
+    "50/2022/ND-CP#Điều 8",
+    "48/2023/ND-CP#Điều 3",
+    "78/2020/ND-CP#Điều 27"
+   ],
+   "hybrid_kg": [
+    "28/2013/ND-CP#Điều 13",
+    "84/2020/ND-CP#Điều 12",
+    "1489/QD-DHDN#nd1#Điều 36",
+    "64/2014/ND-CP#Điều 24",
+    "79/2020/ND-CP#Điều 12",
+    "232/2026/ND-CP#Điều 19",
+    "69/2017/ND-CP#Điều 5",
+    "50/2022/ND-CP#Điều 8",
+    "48/2023/ND-CP#Điều 3",
+    "78/2020/ND-CP#Điều 27"
+   ]
+  }
+ },
+ {
+  "name": "S15_fulltext_content",
+  "case": "S15",
+  "question": "Có Nội quy nào liên quan không?",
+  "kind": "fulltext",
+  "gold_size": 2,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.19342640361727081,
+    "MRR": 0.125,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.19342640361727081,
+    "MRR": 0.125,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.3065735963827292,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.6131471927654584,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.6131471927654584,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "176/QD-DHBK#nd1",
+    "479/QD-DHBK#nd1"
+   ],
+   "bm25": [
+    "1779/QD-DHBK#nd1",
+    "1829/QD-BGDDT#nd1",
+    "QD-DHDN#nd1",
+    "36/QD-DHDN#nd1",
+    "1676/QD-DHDN#nd1",
+    "3536/QD-DHBK#nd1",
+    "821/QD-BGDDT#nd1",
+    "176/QD-DHBK#nd1",
+    "423/QD-DHBK#nd1",
+    "5166/QD-DHDN#nd1"
+   ],
+   "bm25_full": [
+    "1829/QD-BGDDT#nd1",
+    "423/QD-DHBK#nd1",
+    "1676/QD-DHDN#nd1",
+    "5166/QD-DHDN#nd1",
+    "36/QD-DHDN#nd1",
+    "821/QD-BGDDT#nd1",
+    "3536/QD-DHBK#nd1",
+    "479/QD-DHBK#nd1",
+    "8/2021/TT-BGDDT#nd1",
+    "16/2015/TT-BGDDT#nd1"
+   ],
+   "vector": [
+    "3758/QD-DHDN#nd1",
+    "16/2015/TT-BGDDT#nd1",
+    "479/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "1562/QD-DHBK#nd1",
+    "1199/QD-DHBK#nd1",
+    "1474/QD-DHBK#nd1",
+    "5/NQ-HDDH#nd1",
+    "29/QD-DHBK#nd1",
+    "1177/QD-DHBK#nd1"
+   ],
+   "hybrid": [
+    "479/QD-DHBK#nd1",
+    "16/2015/TT-BGDDT#nd1",
+    "36/QD-DHDN#nd1",
+    "423/QD-DHBK#nd1",
+    "1676/QD-DHDN#nd1",
+    "4420/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "3758/QD-DHDN#nd1",
+    "5166/QD-DHDN#nd1",
+    "3536/QD-DHBK#nd1"
+   ],
+   "hybrid_kg": [
+    "479/QD-DHBK#nd1",
+    "16/2015/TT-BGDDT#nd1",
+    "36/QD-DHDN#nd1",
+    "423/QD-DHBK#nd1",
+    "1676/QD-DHDN#nd1",
+    "4420/QD-DHBK#nd1",
+    "2352/QD-DHBK#nd1",
+    "3758/QD-DHDN#nd1",
+    "5166/QD-DHDN#nd1",
+    "3536/QD-DHBK#nd1"
+   ]
+  }
+ },
+ {
+  "name": "S16_hybrid_expand",
+  "case": "S16",
+  "question": "Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?",
+  "kind": "multihop",
+  "gold_size": 6,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.4,
+    "recall": 0.6666666666666666,
+    "f1": 0.5,
+    "P@10": 0.4,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.7183750273402226,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.010101010101010102,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.014925373134328358,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.16666666666666666,
+    "recall": 0.16666666666666666,
+    "f1": 0.16666666666666666,
+    "P@10": 0.3,
+    "R@10": 0.5,
+    "nDCG@10": 0.29974902891424016,
+    "MRR": 0.16666666666666666,
+    "R-Prec": 0.16666666666666666,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "10/2020/TT-BGDĐT",
+    "32/CP",
+    "08/2021/TT-BGDĐT",
+    "115/2020/NĐ-CP",
+    "99/2019/NĐ-CP",
+    "08/2014/TT-BGDĐT",
+    "18/2021/TT-BGDĐT",
+    "08/2022/TT-BGDĐT",
+    "12/2017/TT-BGDĐT",
+    "18/2017/QĐ-TTg"
+   ],
+   "bm25": [
+    "2858/QĐ-ĐHĐN",
+    "80/2015/QH13",
+    "542/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
+    "18/2017/QĐ-TTg",
+    "2888/QĐ-ĐHBK",
+    "441/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "1779/QĐ-ĐHBK",
+    "5166/QĐ-ĐHĐN"
+   ],
+   "bm25_full": [
+    "2858/QĐ-ĐHĐN",
+    "806/QĐ-ĐHBK",
+    "1356/QĐ-ĐHĐN",
+    "1779/QĐ-ĐHBK",
+    "10/2026/TT-BGDĐT",
+    "441/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "448/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK"
+   ],
+   "vector": [
+    "5166/QĐ-ĐHĐN",
+    "1356/QĐ-ĐHĐN",
+    "1248/QĐ-ĐHĐN",
+    "2858/QĐ-ĐHĐN",
+    "1280/QĐ-ĐHĐN",
+    "551/QĐ-ĐHĐN",
+    "3109/QĐ-ĐHĐN",
+    "4653/QĐ-ĐHĐN",
+    "23/NQ-HĐĐH",
+    "1489/QĐ-ĐHĐN"
+   ],
+   "hybrid": [
+    "2858/QĐ-ĐHĐN",
+    "1356/QĐ-ĐHĐN",
+    "5166/QĐ-ĐHĐN",
+    "806/QĐ-ĐHBK",
+    "08/NQ-HĐĐH",
+    "4473/QĐ-ĐHĐN",
+    "542/QĐ-ĐHBK",
+    "1489/QĐ-ĐHĐN",
+    "4801/QĐ-ĐHĐN",
+    "1248/QĐ-ĐHĐN"
+   ],
+   "hybrid_kg": [
+    "2858/QĐ-ĐHĐN",
+    "1356/QĐ-ĐHĐN",
+    "5166/QĐ-ĐHĐN",
+    "806/QĐ-ĐHBK",
+    "08/NQ-HĐĐH",
+    "32/CP",
+    "10/2020/TT-BGDĐT",
+    "21/2019/TT-BGDĐT",
+    "99/2019/NĐ-CP",
+    "13/NQ-HĐĐH"
+   ]
+  }
+ },
+ {
+  "name": "S17_top_organizations",
+  "case": "S17",
+  "question": "Cơ quan nào ban hành nhiều văn bản nhất?",
+  "kind": "ranking",
+  "gold_size": 10,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "bm25_full": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "vector": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "hybrid": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   },
+   "hybrid_kg": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": false
+   }
+  },
+  "top": {
+   "cypher": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Chính phủ",
+    "Quốc hội",
+    "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "Thủ tướng Chính phủ",
+    "Thanh tra Chính phủ",
+    "Bộ Nội vụ",
+    "Hội đồng Đại học Đà Nẵng"
+   ]
+  }
+ },
+ {
+  "name": "S18_status_distribution",
+  "case": "S18",
+  "question": "Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",
+  "kind": "distribution",
+  "gold_size": null,
+  "count_question": true,
+  "systems": {
+   "cypher": {
+    "correct": true
+   },
+   "bm25": {
+    "correct": false,
+    "applicable": false
+   },
+   "bm25_full": {
+    "correct": false,
+    "applicable": false
+   },
+   "vector": {
+    "correct": false,
+    "applicable": false
+   },
+   "hybrid": {
+    "correct": false,
+    "applicable": false
+   },
+   "hybrid_kg": {
+    "correct": false,
+    "applicable": false
+   }
+  },
+  "top": {}
+ },
+ {
+  "name": "S19_multi_facet_and",
+  "case": "S19",
+  "question": "Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",
+  "kind": "lookup",
+  "gold_size": 4,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.4,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.3973220069685352,
+    "MRR": 0.5,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.33424620450682646,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.1,
+    "R@10": 0.25,
+    "nDCG@10": 0.3903800499921017,
+    "MRR": 1.0,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.5205067333228022,
+    "MRR": 1.0,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.1,
+    "R@10": 0.25,
+    "nDCG@10": 0.3903800499921017,
+    "MRR": 1.0,
+    "R-Prec": 0.25,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "1001/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "1345/QĐ-ĐHBK",
+    "4511/QĐ-ĐHBK"
+   ],
+   "bm25": [
+    "2888/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "10/2026/NQ-CP",
+    "1001/QĐ-ĐHBK",
+    "10/2016/TT-BGDĐT",
+    "2058/QĐ-ĐHĐN",
+    "29/QĐ-ĐHBK",
+    "4036/QĐ-ĐHĐN",
+    "1216/QĐ-ĐHBK"
+   ],
+   "bm25_full": [
+    "2721/QĐ-ĐHĐN",
+    "10/2016/TT-BGDĐT",
+    "1001/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "30/2020/NĐ-CP",
+    "4801/QĐ-ĐHĐN"
+   ],
+   "vector": [
+    "1001/QĐ-ĐHBK",
+    "2231/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "10/2016/TT-BGDĐT",
+    "4420/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "423/QĐ-ĐHBK",
+    "23/NQ-HĐT",
+    "3337/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "1001/QĐ-ĐHBK",
+    "10/2016/TT-BGDĐT",
+    "1616/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "4420/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "1414/QĐ-ĐHBK",
+    "2231/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "3337/QĐ-ĐHBK"
+   ],
+   "hybrid_kg": [
+    "1001/QĐ-ĐHBK",
+    "10/2016/TT-BGDĐT",
+    "1616/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "4420/QĐ-ĐHBK",
+    "32/CP",
+    "10/2020/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "05/NQ-HĐT",
+    "08/NQ-HĐĐH"
+   ]
+  }
+ },
+ {
+  "name": "S20_active_org_docs_that_amend",
+  "case": "S20",
+  "question": "Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",
+  "kind": "lookup",
+  "gold_size": 4,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.4,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.03125,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.038461538461538464,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.09090909090909091,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.05555555555555555,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.05,
+    "R-Prec": 0.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "2525/QĐ-ĐHBK",
+    "22/NQ-HĐT",
+    "1274/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK"
+   ],
+   "bm25": [
+    "441/QĐ-ĐHBK",
+    "80/2015/QH13",
+    "01/2011/TT-BNV",
+    "46/2021/TT-BGDĐT",
+    "448/QĐ-ĐHBK",
+    "2858/QĐ-ĐHĐN",
+    "2465/QĐ-ĐHBK",
+    "30/2020/TT-BGDĐT",
+    "10/2026/NQ-CP",
+    "2888/QĐ-ĐHBK"
+   ],
+   "bm25_full": [
+    "80/2015/QH13",
+    "01/2011/TT-BNV",
+    "1616/QĐ-ĐHBK",
+    "30/2020/NĐ-CP",
+    "5166/QĐ-ĐHĐN",
+    "2465/QĐ-ĐHBK",
+    "46/2021/TT-BGDĐT",
+    "4801/QĐ-ĐHĐN",
+    "2888/QĐ-ĐHBK",
+    "10/2026/TT-BGDĐT"
+   ],
+   "vector": [
+    "338/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "1616/QĐ-ĐHBK",
+    "1478/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "2652/QĐ-ĐHBK",
+    "04/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "1404/QĐ-ĐHBK",
+    "3868/QĐ-ĐHBK"
+   ],
+   "hybrid": [
+    "1616/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "2155/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
+    "1690/QĐ-ĐHBK",
+    "441/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK"
+   ],
+   "hybrid_kg": [
+    "1616/QĐ-ĐHBK",
+    "2465/QĐ-ĐHBK",
+    "542/QĐ-ĐHBK",
+    "2888/QĐ-ĐHBK",
+    "338/QĐ-ĐHBK",
+    "32/CP",
+    "08/NQ-HĐĐH",
+    "10/2020/TT-BGDĐT",
+    "13/NQ-HĐĐH",
+    "30/2020/NĐ-CP"
+   ]
+  }
+ },
+ {
+  "name": "S21_gpa_rule",
+  "case": "S21",
+  "question": "Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?",
+  "kind": "fulltext",
+  "gold_size": 2,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.2,
+    "recall": 0.5,
+    "f1": 0.28571428571428575,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.2640681225725909,
+    "MRR": 0.25,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6240505200038379,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6240505200038379,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "2231/QD-DHBK#nd1#Điều 4",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "2244/QD-DHBK#nd1#Điều 12",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "2244/QD-DHBK#nd1#Điều 10"
+   ],
+   "bm25": [
+    "2244/QD-DHBK#nd1#Điều 9",
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 9",
+    "1779/QD-DHBK#nd1#Điều 6",
+    "3240/QD-DHBK#nd1#Điều 5",
+    "3337/QD-DHBK#nd1#Điều 9"
+   ],
+   "bm25_full": [
+    "2244/QD-DHBK#nd1#Điều 9",
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 9",
+    "1779/QD-DHBK#nd1#Điều 6",
+    "3240/QD-DHBK#nd1#Điều 5",
+    "3337/QD-DHBK#nd1#Điều 9"
+   ],
+   "vector": [
+    "2244/QD-DHBK#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2367/QD-DHDN#nd1#Điều 4",
+    "1779/QD-DHBK#nd1#Điều 6",
+    "3875/QD-DHBK#nd1#Điều 24",
+    "16/2015/TT-BGDDT#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 9",
+    "56/2026/TT-BGDDT#nd1#Điều 12",
+    "3758/QD-DHDN#nd1#Điều 13"
+   ],
+   "hybrid": [
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 9",
+    "1779/QD-DHBK#nd1#Điều 6",
+    "2367/QD-DHDN#nd1#Điều 4",
+    "56/2026/TT-BGDDT#nd1#Điều 12",
+    "3875/QD-DHBK#nd1#Điều 24",
+    "8/2021/TT-BGDDT#nd1#Điều 9",
+    "3337/QD-DHBK#nd1#Điều 9"
+   ],
+   "hybrid_kg": [
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 9",
+    "1779/QD-DHBK#nd1#Điều 6",
+    "2367/QD-DHDN#nd1#Điều 4",
+    "56/2026/TT-BGDDT#nd1#Điều 12",
+    "3875/QD-DHBK#nd1#Điều 24",
+    "8/2021/TT-BGDDT#nd1#Điều 9",
+    "3337/QD-DHBK#nd1#Điều 9"
+   ]
+  }
+ },
+ {
+  "name": "S22_academic_warning",
+  "case": "S22",
+  "question": "Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?",
+  "kind": "fulltext",
+  "gold_size": 4,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.4,
+    "recall": 1.0,
+    "f1": 0.5714285714285715,
+    "P@10": 0.4,
+    "R@10": 1.0,
+    "nDCG@10": 0.961999147059583,
+    "MRR": 1.0,
+    "R-Prec": 0.75,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.3,
+    "R@10": 0.75,
+    "nDCG@10": 0.4852658227346317,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.3,
+    "R@10": 0.75,
+    "nDCG@10": 0.4852658227346317,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1": 0.75,
+    "P@10": 0.4,
+    "R@10": 1.0,
+    "nDCG@10": 0.9047172294870751,
+    "MRR": 1.0,
+    "R-Prec": 0.75,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.4,
+    "R@10": 1.0,
+    "nDCG@10": 0.8597408875863228,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.4,
+    "R@10": 1.0,
+    "nDCG@10": 0.8597408875863228,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "2244/QD-DHBK#nd1#Điều 12",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "2347/QD-DHBK#nd1#Điều 17",
+    "2244/QD-DHBK#nd1#Điều 9",
+    "29/QD-DHBK#nd1#Điều 4",
+    "2244/QD-DHBK#nd1#Điều 13",
+    "1001/QD-DHBK#nd1#Điều 17",
+    "3758/QD-DHDN#nd1#Điều 14",
+    "16/2015/TT-BGDDT#nd1#Điều 14"
+   ],
+   "bm25": [
+    "1779/QD-DHBK#nd1#Điều 7",
+    "3875/QD-DHBK#nd1#Điều 29",
+    "2244/QD-DHBK#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "8/2021/TT-BGDDT#nd1#Điều 12",
+    "23/2021/TT-BGDDT#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 18",
+    "1214/QD-DHBK#nd1#Điều 40"
+   ],
+   "bm25_full": [
+    "1779/QD-DHBK#nd1#Điều 7",
+    "3875/QD-DHBK#nd1#Điều 29",
+    "2244/QD-DHBK#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "8/2021/TT-BGDDT#nd1#Điều 12",
+    "23/2021/TT-BGDDT#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 18",
+    "1214/QD-DHBK#nd1#Điều 40"
+   ],
+   "vector": [
+    "2244/QD-DHBK#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "2244/QD-DHBK#nd1#Điều 13",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "8/2021/TT-BGDDT#nd1#Điều 12",
+    "3604/QD-DHBK#nd1#Điều 14",
+    "1779/QD-DHBK#nd1#Điều 7",
+    "10/2016/TT-BGDDT#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 11"
+   ],
+   "hybrid": [
+    "2244/QD-DHBK#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "1779/QD-DHBK#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "8/2021/TT-BGDDT#nd1#Điều 12",
+    "3875/QD-DHBK#nd1#Điều 29",
+    "2244/QD-DHBK#nd1#Điều 13",
+    "3604/QD-DHBK#nd1#Điều 14",
+    "2244/QD-DHBK#nd1#Điều 11"
+   ],
+   "hybrid_kg": [
+    "2244/QD-DHBK#nd1#Điều 12",
+    "8/2021/TT-BGDDT#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "1779/QD-DHBK#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "8/2021/TT-BGDDT#nd1#Điều 12",
+    "3875/QD-DHBK#nd1#Điều 29",
+    "2244/QD-DHBK#nd1#Điều 13",
+    "3604/QD-DHBK#nd1#Điều 14",
+    "2244/QD-DHBK#nd1#Điều 11"
+   ]
+  }
+ },
+ {
+  "name": "S23_valid_absence_procedure",
+  "case": "S23",
+  "question": "Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?",
+  "kind": "fulltext",
+  "gold_size": 3,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.05,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.05,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.7653606369886217,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.4776237035032179,
+    "MRR": 0.5,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.4776237035032179,
+    "MRR": 0.5,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "551/QD-DHDN#nd1#Điều 49",
+    "3604/QD-DHBK#nd1#Điều 13",
+    "10/2016/TT-BGDDT#nd1#Điều 10",
+    "1001/QD-DHBK#nd1#Điều 20",
+    "2721/QD-DHDN#nd1#Điều 14",
+    "45/2019/QH14#Điều 188",
+    "4473/QD-DHDN#nd1#Điều 14",
+    "551/QD-DHDN#nd1#Điều 28",
+    "27/2012/ND-CP#Điều 10",
+    "27/2012/ND-CP#Điều 11"
+   ],
+   "bm25": [
+    "259/2026/ND-CP#Điều 54",
+    "551/QD-DHDN#nd1#Điều 49",
+    "50/2022/ND-CP#Điều 4",
+    "1/VBHN-VPQH#Điều 126",
+    "100/2015/QH13#Điều 126",
+    "1974/QD-DHDN#nd1#Điều 6",
+    "1974/QD-DHDN#nd1#Điều 8",
+    "45/2019/QH14#Điều 109",
+    "3604/QD-DHBK#nd1#Điều 13",
+    "73/2025/QH15#Điều 27"
+   ],
+   "bm25_full": [
+    "259/2026/ND-CP#Điều 54",
+    "551/QD-DHDN#nd1#Điều 49",
+    "50/2022/ND-CP#Điều 4",
+    "1/VBHN-VPQH#Điều 126",
+    "100/2015/QH13#Điều 126",
+    "1974/QD-DHDN#nd1#Điều 6",
+    "1974/QD-DHDN#nd1#Điều 8",
+    "45/2019/QH14#Điều 109",
+    "3604/QD-DHBK#nd1#Điều 13",
+    "73/2025/QH15#Điều 27"
+   ],
+   "vector": [
+    "1214/QD-DHBK#nd1#Điều 40",
+    "2244/QD-DHBK#nd1#Điều 18",
+    "8/2021/TT-BGDDT#nd1#Điều 15",
+    "3604/QD-DHBK#nd1#Điều 13",
+    "1199/QD-DHBK#nd1#Điều 21",
+    "23/2021/TT-BGDDT#nd1#Điều 13",
+    "3875/QD-DHBK#nd1#Điều 28",
+    "595/QD-DHBK#nd1#Điều 22",
+    "1199/QD-DHBK#nd1#Điều 20",
+    "1899/QD-DHDN#nd1#Điều 13"
+   ],
+   "hybrid": [
+    "3604/QD-DHBK#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 18",
+    "551/QD-DHDN#nd1#Điều 49",
+    "1974/QD-DHDN#nd1#Điều 8",
+    "1214/QD-DHBK#nd1#Điều 40",
+    "8/2021/TT-BGDDT#nd1#Điều 15",
+    "23/2021/TT-BGDDT#nd1#Điều 13",
+    "551/QD-DHDN#nd1#Điều 25",
+    "259/2026/ND-CP#Điều 54",
+    "1974/QD-DHDN#nd1#Điều 6"
+   ],
+   "hybrid_kg": [
+    "3604/QD-DHBK#nd1#Điều 13",
+    "2244/QD-DHBK#nd1#Điều 18",
+    "551/QD-DHDN#nd1#Điều 49",
+    "1974/QD-DHDN#nd1#Điều 8",
+    "1214/QD-DHBK#nd1#Điều 40",
+    "8/2021/TT-BGDDT#nd1#Điều 15",
+    "23/2021/TT-BGDDT#nd1#Điều 13",
+    "551/QD-DHDN#nd1#Điều 25",
+    "259/2026/ND-CP#Điều 54",
+    "1974/QD-DHDN#nd1#Điều 6"
+   ]
+  }
+ },
+ {
+  "name": "S24_graduation_conditions",
+  "case": "S24",
+  "question": "Điều kiện để được xét công nhận tốt nghiệp là gì?",
+  "kind": "fulltext",
+  "gold_size": 3,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.2,
+    "recall": 0.6666666666666666,
+    "f1": 0.30769230769230765,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.7653606369886217,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.6713860725233041,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.6713860725233041,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.7039180890341347,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.7039180890341347,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.7039180890341347,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "53/2026/TT-BGDDT#nd1#Điều 13",
+    "1779/QD-DHBK#nd1#Điều 8",
+    "28/2024/TT-BGDDT#Điều 9",
+    "4473/QD-DHDN#nd1#Điều 5",
+    "2414/QD-DHDN#nd1#Điều 4",
+    "6/2026/TT-BGDDT#nd1#Điều 5",
+    "1609/QD-DHBK#nd1#Điều 3"
+   ],
+   "bm25": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "23/2016/TT-BGDDT#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "1779/QD-DHBK#nd1#Điều 8",
+    "23/2021/TT-BGDDT#nd1#Điều 12",
+    "1214/QD-DHBK#nd1#Điều 29",
+    "QD-DHDN#nd1#Điều 4",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "2367/QD-DHDN#nd1#Điều 7"
+   ],
+   "bm25_full": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "23/2016/TT-BGDDT#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "1779/QD-DHBK#nd1#Điều 8",
+    "23/2021/TT-BGDDT#nd1#Điều 12",
+    "1214/QD-DHBK#nd1#Điều 29",
+    "QD-DHDN#nd1#Điều 4",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "2367/QD-DHDN#nd1#Điều 7"
+   ],
+   "vector": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "1214/QD-DHBK#nd1#Điều 29",
+    "QD-DHDN#nd1#Điều 4",
+    "23/2016/TT-BGDDT#Điều 13",
+    "23/2021/TT-BGDDT#nd1#Điều 12",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "13/2026/TT-BGDDT#Điều 13",
+    "53/2026/TT-BGDDT#nd1#Điều 13"
+   ],
+   "hybrid": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "23/2016/TT-BGDDT#Điều 13",
+    "1214/QD-DHBK#nd1#Điều 29",
+    "QD-DHDN#nd1#Điều 4",
+    "23/2021/TT-BGDDT#nd1#Điều 12",
+    "1779/QD-DHBK#nd1#Điều 8",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "53/2026/TT-BGDDT#nd1#Điều 13"
+   ],
+   "hybrid_kg": [
+    "2244/QD-DHBK#nd1#Điều 17",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "23/2016/TT-BGDDT#Điều 13",
+    "1214/QD-DHBK#nd1#Điều 29",
+    "QD-DHDN#nd1#Điều 4",
+    "23/2021/TT-BGDDT#nd1#Điều 12",
+    "1779/QD-DHBK#nd1#Điều 8",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "53/2026/TT-BGDDT#nd1#Điều 13"
+   ]
+  }
+ },
+ {
+  "name": "S25_graduation_ranking",
+  "case": "S25",
+  "question": "Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",
+  "kind": "fulltext",
+  "gold_size": 4,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.6666666666666666,
+    "recall": 0.5,
+    "f1": 0.5714285714285715,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.44149241373678083,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.1,
+    "R@10": 0.25,
+    "nDCG@10": 0.24630238874073,
+    "MRR": 0.5,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.1,
+    "R@10": 0.25,
+    "nDCG@10": 0.24630238874073,
+    "MRR": 0.5,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.2476427880871277,
+    "MRR": 0.14285714285714285,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.3973220069685352,
+    "MRR": 0.5,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1": 0.25,
+    "P@10": 0.2,
+    "R@10": 0.5,
+    "nDCG@10": 0.3973220069685352,
+    "MRR": 0.5,
+    "R-Prec": 0.25,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "3875/QD-DHBK#nd1#Điều 24",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "2244/QD-DHBK#nd1#Điều 17"
+   ],
+   "bm25": [
+    "3875/QD-DHBK#nd1#Điều 24",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "1818/QD-BGDDT#nd1#Điều 19",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "3086/QD-BGDDT#nd1#Điều 12",
+    "3086/QD-BGDDT#nd1#Điều 17",
+    "1818/QD-BGDDT#nd1#Điều 13",
+    "1818/QD-BGDDT#nd1#Điều 18",
+    "1818/QD-BGDDT#nd1#Điều 14",
+    "3086/QD-BGDDT#nd1#Điều 18"
+   ],
+   "bm25_full": [
+    "3875/QD-DHBK#nd1#Điều 24",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "1818/QD-BGDDT#nd1#Điều 19",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "1818/QD-BGDDT#nd1#Điều 13",
+    "3086/QD-BGDDT#nd1#Điều 12",
+    "3086/QD-BGDDT#nd1#Điều 17",
+    "1818/QD-BGDDT#nd1#Điều 18",
+    "1818/QD-BGDDT#nd1#Điều 14",
+    "3086/QD-BGDDT#nd1#Điều 18"
+   ],
+   "vector": [
+    "3875/QD-DHBK#nd1#Điều 24",
+    "16/2015/TT-BGDDT#nd1#Điều 9",
+    "3758/QD-DHDN#nd1#Điều 9",
+    "2231/QD-DHBK#nd1#Điều 7",
+    "1414/QD-DHBK#nd1#Điều 6",
+    "10/2016/TT-BGDDT#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "2367/QD-DHDN#nd1#Điều 4"
+   ],
+   "hybrid": [
+    "3875/QD-DHBK#nd1#Điều 24",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "3758/QD-DHDN#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 17",
+    "2367/QD-DHDN#nd1#Điều 7",
+    "10/2016/TT-BGDDT#nd1#Điều 7",
+    "16/2015/TT-BGDDT#nd1#Điều 9",
+    "2231/QD-DHBK#nd1#Điều 7",
+    "3086/QD-BGDDT#nd1#Điều 6"
+   ],
+   "hybrid_kg": [
+    "3875/QD-DHBK#nd1#Điều 24",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "3758/QD-DHDN#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 17",
+    "2367/QD-DHDN#nd1#Điều 7",
+    "10/2016/TT-BGDDT#nd1#Điều 7",
+    "16/2015/TT-BGDDT#nd1#Điều 9",
+    "2231/QD-DHBK#nd1#Điều 7",
+    "3086/QD-BGDDT#nd1#Điều 6"
+   ]
+  }
+ },
+ {
+  "name": "S26_foreign_language_exit",
+  "case": "S26",
+  "question": "Chuẩn đầu ra ngoại ngữ của sinh viên là gì?",
+  "kind": "fulltext",
+  "gold_size": 1,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.1,
+    "recall": 1.0,
+    "f1": 0.18181818181818182,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "56/2026/TT-BGDDT#nd1#Điều 27",
+    "4511/QD-DHBK#nd1#Điều 8",
+    "1356/QD-DHDN#nd1#Điều 2",
+    "4511/QD-DHBK#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 16",
+    "53/2026/TT-BGDDT#nd1#Điều 4",
+    "3875/QD-DHBK#nd1#Điều 3",
+    "1214/QD-DHBK#nd1#Điều 11",
+    "1356/QD-DHDN#nd1#Điều 6"
+   ],
+   "bm25": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 3",
+    "1345/QD-DHBK#nd1#Điều 7",
+    "4511/QD-DHBK#nd1#Điều 4",
+    "4511/QD-DHBK#nd1#Điều 9",
+    "4511/QD-DHBK#nd1#Điều 10",
+    "405/QD-DHBK#nd1#Điều 6",
+    "27/2009/TT-BGDDT#nd1#Điều 5",
+    "17/2021/TT-BGDDT#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 1"
+   ],
+   "bm25_full": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 3",
+    "1345/QD-DHBK#nd1#Điều 7",
+    "4511/QD-DHBK#nd1#Điều 4",
+    "4511/QD-DHBK#nd1#Điều 9",
+    "4511/QD-DHBK#nd1#Điều 10",
+    "405/QD-DHBK#nd1#Điều 6",
+    "27/2009/TT-BGDDT#nd1#Điều 5",
+    "17/2021/TT-BGDDT#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 1"
+   ],
+   "vector": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 4",
+    "4511/QD-DHBK#nd1#Điều 11",
+    "1345/QD-DHBK#nd1#Điều 3",
+    "4511/QD-DHBK#nd1#Điều 5",
+    "4511/QD-DHBK#nd1#Điều 3",
+    "1345/QD-DHBK#nd1#Điều 7",
+    "4511/QD-DHBK#nd1#Điều 1",
+    "4511/QD-DHBK#nd1#Điều 10",
+    "4511/QD-DHBK#nd1#Điều 8"
+   ],
+   "hybrid": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 4",
+    "4511/QD-DHBK#nd1#Điều 3",
+    "1345/QD-DHBK#nd1#Điều 7",
+    "4511/QD-DHBK#nd1#Điều 10",
+    "4511/QD-DHBK#nd1#Điều 1",
+    "1345/QD-DHBK#nd1#Điều 3",
+    "4511/QD-DHBK#nd1#Điều 9",
+    "4511/QD-DHBK#nd1#Điều 5",
+    "405/QD-DHBK#nd1#Điều 6"
+   ],
+   "hybrid_kg": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 4",
+    "4511/QD-DHBK#nd1#Điều 3",
+    "1345/QD-DHBK#nd1#Điều 7",
+    "4511/QD-DHBK#nd1#Điều 10",
+    "4511/QD-DHBK#nd1#Điều 1",
+    "1345/QD-DHBK#nd1#Điều 3",
+    "4511/QD-DHBK#nd1#Điều 9",
+    "4511/QD-DHBK#nd1#Điều 5",
+    "405/QD-DHBK#nd1#Điều 6"
+   ]
+  }
+ },
+ {
+  "name": "S27_credit_load_limits",
+  "case": "S27",
+  "question": "Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?",
+  "kind": "fulltext",
+  "gold_size": 2,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.1,
+    "recall": 0.5,
+    "f1": 0.16666666666666669,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.6131471927654584,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.5249810332008933,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.5249810332008933,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.9197207891481876,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6934264036172708,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6934264036172708,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "56/2026/TT-BGDDT#nd1#Điều 9",
+    "53/2026/TT-BGDDT#nd1#Điều 4",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "3875/QD-DHBK#nd1#Điều 6",
+    "2244/QD-DHBK#nd1#Điều 2",
+    "2244/QD-DHBK#nd1#Điều 10",
+    "53/2026/TT-BGDDT#nd1#Điều 3",
+    "2244/QD-DHBK#nd1#Điều 9",
+    "1214/QD-DHBK#nd1#Điều 12"
+   ],
+   "bm25": [
+    "1779/QD-DHBK#nd1#Điều 3",
+    "8/2021/TT-BGDDT#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 9",
+    "45/2019/QH14#Điều 91",
+    "3240/QD-DHBK#nd1#Điều 2",
+    "2244/QD-DHBK#nd1#Điều 7",
+    "3875/QD-DHBK#nd1#Điều 8",
+    "53/2026/TT-BGDDT#nd1#Điều 4",
+    "5005/QD-DHDN#nd1#Điều 5",
+    "1214/QD-DHBK#nd1#Điều 42"
+   ],
+   "bm25_full": [
+    "1779/QD-DHBK#nd1#Điều 3",
+    "8/2021/TT-BGDDT#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 9",
+    "45/2019/QH14#Điều 91",
+    "3240/QD-DHBK#nd1#Điều 2",
+    "2244/QD-DHBK#nd1#Điều 7",
+    "3875/QD-DHBK#nd1#Điều 8",
+    "53/2026/TT-BGDDT#nd1#Điều 4",
+    "5005/QD-DHDN#nd1#Điều 5",
+    "1214/QD-DHBK#nd1#Điều 42"
+   ],
+   "vector": [
+    "2244/QD-DHBK#nd1#Điều 7",
+    "8/2021/TT-BGDDT#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 2",
+    "17/2021/TT-BGDDT#Điều 7",
+    "3875/QD-DHBK#nd1#Điều 6",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "2244/QD-DHBK#nd1#Điều 6",
+    "1214/QD-DHBK#nd1#Điều 42"
+   ],
+   "hybrid": [
+    "8/2021/TT-BGDDT#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 7",
+    "1779/QD-DHBK#nd1#Điều 3",
+    "2244/QD-DHBK#nd1#Điều 2",
+    "3875/QD-DHBK#nd1#Điều 6",
+    "3240/QD-DHBK#nd1#Điều 2",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "3875/QD-DHBK#nd1#Điều 8"
+   ],
+   "hybrid_kg": [
+    "8/2021/TT-BGDDT#nd1#Điều 7",
+    "56/2026/TT-BGDDT#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 7",
+    "1779/QD-DHBK#nd1#Điều 3",
+    "2244/QD-DHBK#nd1#Điều 2",
+    "3875/QD-DHBK#nd1#Điều 6",
+    "3240/QD-DHBK#nd1#Điều 2",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "3875/QD-DHBK#nd1#Điều 8"
+   ]
+  }
+ },
+ {
+  "name": "S28_double_degree",
+  "case": "S28",
+  "question": "Điều kiện để học cùng lúc hai chương trình là gì?",
+  "kind": "fulltext",
+  "gold_size": 3,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6666666666666666,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.7328286204777911,
+    "MRR": 0.5,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.7328286204777911,
+    "MRR": 0.5,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.9060254355346823,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.9060254355346823,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "2244/QD-DHBK#nd1#Điều 21",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "4511/QD-DHBK#nd1#Điều 5",
+    "10/2016/TT-BGDDT#nd1#Điều 5",
+    "1001/QD-DHBK#nd1#Điều 4"
+   ],
+   "bm25": [
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "56/2026/TT-BGDDT#nd1#Điều 22",
+    "1248/QD-DHDN#nd1#Điều 20",
+    "1478/QD-DHDN#nd1#Điều 20",
+    "2367/QD-DHDN#nd1#Điều 2",
+    "2058/QD-DHDN#nd1#Điều 3",
+    "39/2019/QH14#Điều 53"
+   ],
+   "bm25_full": [
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "56/2026/TT-BGDDT#nd1#Điều 22",
+    "1248/QD-DHDN#nd1#Điều 20",
+    "1478/QD-DHDN#nd1#Điều 20",
+    "2367/QD-DHDN#nd1#Điều 2",
+    "2058/QD-DHDN#nd1#Điều 3",
+    "39/2019/QH14#Điều 53"
+   ],
+   "vector": [
+    "2244/QD-DHBK#nd1#Điều 21",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "1248/QD-DHDN#nd1#Điều 20",
+    "1478/QD-DHDN#nd1#Điều 20",
+    "56/2026/TT-BGDDT#nd1#Điều 22",
+    "2244/QD-DHBK#nd1#Điều 2",
+    "8/2021/TT-BGDDT#nd1#Điều 2",
+    "18/2017/QD-TTG#Điều 7"
+   ],
+   "hybrid": [
+    "2244/QD-DHBK#nd1#Điều 21",
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "1248/QD-DHDN#nd1#Điều 20",
+    "56/2026/TT-BGDDT#nd1#Điều 22",
+    "1478/QD-DHDN#nd1#Điều 20",
+    "56/2026/TT-BGDDT#nd1#Điều 3",
+    "38/2020/TT-BGDDT#Điều 4",
+    "8/2021/TT-BGDDT#nd1#Điều 2"
+   ],
+   "hybrid_kg": [
+    "2244/QD-DHBK#nd1#Điều 21",
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "1248/QD-DHDN#nd1#Điều 20",
+    "56/2026/TT-BGDDT#nd1#Điều 22",
+    "1478/QD-DHDN#nd1#Điều 20",
+    "56/2026/TT-BGDDT#nd1#Điều 3",
+    "38/2020/TT-BGDDT#Điều 4",
+    "8/2021/TT-BGDDT#nd1#Điều 2"
+   ]
+  }
+ },
+ {
+  "name": "S29_merit_scholarship",
+  "case": "S29",
+  "question": "Sinh viên được xét học bổng khuyến khích học tập như thế nào?",
+  "kind": "fulltext",
+  "gold_size": 5,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.2,
+    "recall": 0.4,
+    "f1": 0.26666666666666666,
+    "P@10": 0.2,
+    "R@10": 0.4,
+    "nDCG@10": 0.36005461457723403,
+    "MRR": 0.5,
+    "R-Prec": 0.4,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1": 0.4000000000000001,
+    "P@10": 0.3,
+    "R@10": 0.6,
+    "nDCG@10": 0.6067795937417813,
+    "MRR": 1.0,
+    "R-Prec": 0.4,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1": 0.4000000000000001,
+    "P@10": 0.3,
+    "R@10": 0.6,
+    "nDCG@10": 0.6067795937417813,
+    "MRR": 1.0,
+    "R-Prec": 0.4,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.6,
+    "recall": 0.6,
+    "f1": 0.6,
+    "P@10": 0.5,
+    "R@10": 1.0,
+    "nDCG@10": 0.9270192549176081,
+    "MRR": 1.0,
+    "R-Prec": 0.6,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1": 0.4000000000000001,
+    "P@10": 0.5,
+    "R@10": 1.0,
+    "nDCG@10": 0.8752903992561912,
+    "MRR": 1.0,
+    "R-Prec": 0.4,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1": 0.4000000000000001,
+    "P@10": 0.5,
+    "R@10": 1.0,
+    "nDCG@10": 0.8752903992561912,
+    "MRR": 1.0,
+    "R-Prec": 0.4,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "3536/QD-DHBK#nd1#Điều 11",
+    "84/2020/ND-CP#Điều 8",
+    "28/VBHN-BGDDT#Điều 1",
+    "28/VBHN-BGDDT#Điều 2",
+    "1414/QD-DHBK#Điều 2",
+    "84/2020/ND-CP#Điều 1",
+    "43/2019/QH14#Điều 85",
+    "36/QD-DHDN#nd1#Điều 6",
+    "1414/QD-DHBK#nd1#Điều 3",
+    "4511/QD-DHBK#nd1#Điều 5"
+   ],
+   "bm25": [
+    "84/2020/ND-CP#Điều 8",
+    "28/VBHN-BGDDT#Điều 1",
+    "28/VBHN-BGDDT#Điều 2",
+    "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#Điều 2",
+    "1414/QD-DHBK#nd1#Điều 3",
+    "1414/QD-DHBK#nd1#Điều 10",
+    "43/2019/QH14#Điều 85",
+    "1414/QD-DHBK#nd1#Điều 9",
+    "1414/QD-DHBK#nd1#Điều 5"
+   ],
+   "bm25_full": [
+    "84/2020/ND-CP#Điều 8",
+    "28/VBHN-BGDDT#Điều 1",
+    "28/VBHN-BGDDT#Điều 2",
+    "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#Điều 2",
+    "1414/QD-DHBK#nd1#Điều 3",
+    "1414/QD-DHBK#nd1#Điều 10",
+    "43/2019/QH14#Điều 85",
+    "1414/QD-DHBK#nd1#Điều 9",
+    "1414/QD-DHBK#nd1#Điều 5"
+   ],
+   "vector": [
+    "28/VBHN-BGDDT#Điều 2",
+    "84/2020/ND-CP#Điều 8",
+    "28/VBHN-BGDDT#Điều 1",
+    "1414/QD-DHBK#nd1#Điều 7",
+    "1414/QD-DHBK#nd1#Điều 3",
+    "1414/QD-DHBK#nd1#Điều 5",
+    "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#nd1#Điều 6",
+    "1414/QD-DHBK#Điều 2",
+    "10/2016/TT-BGDDT#nd1#Điều 7"
+   ],
+   "hybrid": [
+    "84/2020/ND-CP#Điều 8",
+    "28/VBHN-BGDDT#Điều 2",
+    "28/VBHN-BGDDT#Điều 1",
+    "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#nd1#Điều 3",
+    "1414/QD-DHBK#Điều 2",
+    "1414/QD-DHBK#nd1#Điều 7",
+    "1414/QD-DHBK#nd1#Điều 5",
+    "1414/QD-DHBK#nd1#Điều 6",
+    "1414/QD-DHBK#nd1#Điều 10"
+   ],
+   "hybrid_kg": [
+    "84/2020/ND-CP#Điều 8",
+    "28/VBHN-BGDDT#Điều 2",
+    "28/VBHN-BGDDT#Điều 1",
+    "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#nd1#Điều 3",
+    "1414/QD-DHBK#Điều 2",
+    "1414/QD-DHBK#nd1#Điều 7",
+    "1414/QD-DHBK#nd1#Điều 5",
+    "1414/QD-DHBK#nd1#Điều 6",
+    "1414/QD-DHBK#nd1#Điều 10"
+   ]
+  }
+ },
+ {
+  "name": "S30_exam_impersonation",
+  "case": "S30",
+  "question": "Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?",
+  "kind": "fulltext",
+  "gold_size": 3,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.6,
+    "recall": 1.0,
+    "f1": 0.7499999999999999,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.8854598815714874,
+    "MRR": 1.0,
+    "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.6105456988825855,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.6105456988825855,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.8194270280062366,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.7920874914199381,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.7920874914199381,
+    "MRR": 1.0,
+    "R-Prec": 0.3333333333333333,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "29/QD-DHBK#nd1#Điều 4",
+    "56/2026/TT-BGDDT#nd1#Điều 24",
+    "3707/QD-DHBK#Điều 1"
+   ],
+   "bm25": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "58/2014/QH13#Điều 35",
+    "23/2021/TT-BGDDT#nd1#Điều 16",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "1/VBHN-VPQH#Điều 336",
+    "100/2015/QH13#Điều 336",
+    "8/2021/TT-BGDDT#nd1#Điều 20",
+    "1001/QD-DHBK#nd1#Điều 17",
+    "29/QD-DHBK#nd1#Điều 4",
+    "3646/QD-DHBK#nd1#Điều 16"
+   ],
+   "bm25_full": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "58/2014/QH13#Điều 35",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "23/2021/TT-BGDDT#nd1#Điều 16",
+    "100/2015/QH13#Điều 336",
+    "1/VBHN-VPQH#Điều 336",
+    "8/2021/TT-BGDDT#nd1#Điều 20",
+    "1001/QD-DHBK#nd1#Điều 17",
+    "29/QD-DHBK#nd1#Điều 4",
+    "3646/QD-DHBK#nd1#Điều 16"
+   ],
+   "vector": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "8/2021/TT-BGDDT#nd1#Điều 20",
+    "1274/QD-DHBK#Điều 1",
+    "3707/QD-DHBK#Điều 1",
+    "1980/QD-DHBK#nd1#Điều 29",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "23/2021/TT-BGDDT#nd1#Điều 16",
+    "29/QD-DHBK#nd1#Điều 4",
+    "3183/QD-DHDN#nd1#Điều 14",
+    "1980/QD-DHBK#nd1#Điều 30"
+   ],
+   "hybrid": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "8/2021/TT-BGDDT#nd1#Điều 20",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "23/2021/TT-BGDDT#nd1#Điều 16",
+    "29/QD-DHBK#nd1#Điều 4",
+    "1274/QD-DHBK#Điều 1",
+    "56/2026/TT-BGDDT#nd1#Điều 24",
+    "1980/QD-DHBK#nd1#Điều 30",
+    "3707/QD-DHBK#Điều 1",
+    "3183/QD-DHDN#nd1#Điều 14"
+   ],
+   "hybrid_kg": [
+    "2367/QD-DHDN#nd1#Điều 8",
+    "8/2021/TT-BGDDT#nd1#Điều 20",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "23/2021/TT-BGDDT#nd1#Điều 16",
+    "29/QD-DHBK#nd1#Điều 4",
+    "1274/QD-DHBK#Điều 1",
+    "56/2026/TT-BGDDT#nd1#Điều 24",
+    "1980/QD-DHBK#nd1#Điều 30",
+    "3707/QD-DHBK#Điều 1",
+    "3183/QD-DHDN#nd1#Điều 14"
+   ]
+  }
+ },
+ {
+  "name": "S31_tuition_exemption",
+  "case": "S31",
+  "question": "Đối tượng nào được miễn, giảm học phí?",
+  "kind": "fulltext",
+  "gold_size": 2,
+  "count_question": false,
+  "systems": {
+   "cypher": {
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "bm25": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6934264036172708,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "bm25_full": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6934264036172708,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "vector": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.8772153153380493,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "hybrid": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.9197207891481876,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   },
+   "hybrid_kg": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.9197207891481876,
+    "MRR": 1.0,
+    "R-Prec": 0.5,
+    "applicable": true
+   }
+  },
+  "top": {
+   "cypher": [
+    "81/2021/ND-CP#Điều 15",
+    "81/2021/ND-CP#Điều 16",
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 19",
+    "81/2021/ND-CP#Điều 21",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
+    "43/2019/QH14#Điều 85",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 9",
+    "81/2021/ND-CP#Điều 22",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 5"
+   ],
+   "bm25": [
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 15",
+    "81/2021/ND-CP#Điều 16",
+    "81/2021/ND-CP#Điều 21",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
+    "81/2021/ND-CP#Điều 19",
+    "43/2019/QH14#Điều 85",
+    "81/2021/ND-CP#Điều 22",
+    "50/2024/QH15#Điều 30",
+    "84/2020/ND-CP#Điều 10"
+   ],
+   "bm25_full": [
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 15",
+    "81/2021/ND-CP#Điều 16",
+    "81/2021/ND-CP#Điều 21",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
+    "81/2021/ND-CP#Điều 19",
+    "43/2019/QH14#Điều 85",
+    "81/2021/ND-CP#Điều 22",
+    "50/2024/QH15#Điều 30",
+    "84/2020/ND-CP#Điều 10"
+   ],
+   "vector": [
+    "81/2021/ND-CP#Điều 15",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 4",
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 16",
+    "81/2021/ND-CP#Điều 19",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 5",
+    "81/2021/ND-CP#Điều 14",
+    "43/2019/QH14#Điều 85",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 9",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6"
+   ],
+   "hybrid": [
+    "81/2021/ND-CP#Điều 15",
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 16",
+    "81/2021/ND-CP#Điều 19",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
+    "43/2019/QH14#Điều 85",
+    "81/2021/ND-CP#Điều 22",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 5",
+    "81/2021/ND-CP#Điều 21",
+    "81/2021/ND-CP#Điều 14"
+   ],
+   "hybrid_kg": [
+    "81/2021/ND-CP#Điều 15",
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 16",
+    "81/2021/ND-CP#Điều 19",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
+    "43/2019/QH14#Điều 85",
+    "81/2021/ND-CP#Điều 22",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 5",
+    "81/2021/ND-CP#Điều 21",
+    "81/2021/ND-CP#Điều 14"
+   ]
+  }
+ }
+]

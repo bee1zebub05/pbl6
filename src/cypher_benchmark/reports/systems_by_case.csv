@@ -1,0 +1,187 @@
+case,level,question,answer_type,gold_size,system,system_label,applicable,f1,precision,recall,p10,ndcg10,mrr,count_correct,relation_case
+S01,Mức 1 — 1-hop,Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?,list,62,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,false
+S01,Mức 1 — 1-hop,Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?,list,62,bm25,BM25 (tiêu đề),true,0.5161,0.5161,0.5161,1.0,1.0,1.0,,false
+S01,Mức 1 — 1-hop,Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?,list,62,bm25_full,BM25 toàn văn,true,0.5645,0.5645,0.5645,0.8,0.8572,1.0,,false
+S01,Mức 1 — 1-hop,Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?,list,62,vector,Vector,true,0.6452,0.6452,0.6452,0.8,0.8116,1.0,,false
+S01,Mức 1 — 1-hop,Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?,list,62,hybrid,Hybrid,true,0.6774,0.6774,0.6774,0.7,0.7695,1.0,,false
+S01,Mức 1 — 1-hop,Trường Đại học Bách khoa còn văn bản nào đang có hiệu lực?,list,62,hybrid_kg,Hybrid + KG,true,0.3871,0.3871,0.3871,0.5,0.6178,1.0,,false
+S02,Mức 1 — 1-hop,Văn bản nào áp dụng cho người học (sinh viên)?,list,51,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,false
+S02,Mức 1 — 1-hop,Văn bản nào áp dụng cho người học (sinh viên)?,list,51,bm25,BM25 (tiêu đề),true,0.2745,0.2745,0.2745,0.2,0.1952,0.3333,,false
+S02,Mức 1 — 1-hop,Văn bản nào áp dụng cho người học (sinh viên)?,list,51,bm25_full,BM25 toàn văn,true,0.3529,0.3529,0.3529,0.6,0.6115,1.0,,false
+S02,Mức 1 — 1-hop,Văn bản nào áp dụng cho người học (sinh viên)?,list,51,vector,Vector,true,0.5686,0.5686,0.5686,0.9,0.9216,1.0,,false
+S02,Mức 1 — 1-hop,Văn bản nào áp dụng cho người học (sinh viên)?,list,51,hybrid,Hybrid,true,0.5686,0.5686,0.5686,1.0,1.0,1.0,,false
+S02,Mức 1 — 1-hop,Văn bản nào áp dụng cho người học (sinh viên)?,list,51,hybrid_kg,Hybrid + KG,true,0.3333,0.3333,0.3333,0.6,0.7126,1.0,,false
+S03,Mức 1 — 1-hop,Trường có văn bản nào về tuyển sinh không?,list,16,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,false
+S03,Mức 1 — 1-hop,Trường có văn bản nào về tuyển sinh không?,list,16,bm25,BM25 (tiêu đề),true,0.4375,0.4375,0.4375,0.6,0.5252,0.5,,false
+S03,Mức 1 — 1-hop,Trường có văn bản nào về tuyển sinh không?,list,16,bm25_full,BM25 toàn văn,true,0.5625,0.5625,0.5625,0.7,0.7728,1.0,,false
+S03,Mức 1 — 1-hop,Trường có văn bản nào về tuyển sinh không?,list,16,vector,Vector,true,0.625,0.625,0.625,0.7,0.753,1.0,,false
+S03,Mức 1 — 1-hop,Trường có văn bản nào về tuyển sinh không?,list,16,hybrid,Hybrid,true,0.75,0.75,0.75,0.8,0.7949,1.0,,false
+S03,Mức 1 — 1-hop,Trường có văn bản nào về tuyển sinh không?,list,16,hybrid_kg,Hybrid + KG,true,0.3125,0.3125,0.3125,0.4,0.5101,1.0,,false
+S04,Mức 1 — 1-hop,Những Quy chế nào đang còn hiệu lực?,list,57,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,false
+S04,Mức 1 — 1-hop,Những Quy chế nào đang còn hiệu lực?,list,57,bm25,BM25 (tiêu đề),true,0.8421,0.8421,0.8421,0.6,0.4362,0.2,,false
+S04,Mức 1 — 1-hop,Những Quy chế nào đang còn hiệu lực?,list,57,bm25_full,BM25 toàn văn,true,0.6316,0.6316,0.6316,0.9,0.8611,1.0,,false
+S04,Mức 1 — 1-hop,Những Quy chế nào đang còn hiệu lực?,list,57,vector,Vector,true,0.7193,0.7193,0.7193,1.0,1.0,1.0,,false
+S04,Mức 1 — 1-hop,Những Quy chế nào đang còn hiệu lực?,list,57,hybrid,Hybrid,true,0.7018,0.7018,0.7018,1.0,1.0,1.0,,false
+S04,Mức 1 — 1-hop,Những Quy chế nào đang còn hiệu lực?,list,57,hybrid_kg,Hybrid + KG,true,0.7018,0.7018,0.7018,1.0,1.0,1.0,,false
+S05,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",list,1,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.1,1.0,1.0,,false
+S05,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",list,1,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S05,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",list,1,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S05,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",list,1,vector,Vector,true,0.0,0.0,0.0,0.0,0.0,0.0167,,false
+S05,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",list,1,hybrid,Hybrid,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S05,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 4511/QĐ-ĐHBK nói gì, ai ký, thuộc lĩnh vực nào?",list,1,hybrid_kg,Hybrid + KG,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S06,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",list,7,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.7,1.0,1.0,,false
+S06,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",list,7,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S06,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",list,7,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S06,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",list,7,vector,Vector,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S06,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",list,7,hybrid,Hybrid,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S06,Mức 2 — 1-hop nhiều quan hệ,"Văn bản 1559/QĐ-BGDĐT có bao nhiêu Điều, nội dung ra sao?",list,7,hybrid_kg,Hybrid + KG,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S07,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?,list,6,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.6,1.0,1.0,,false
+S07,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?,list,6,bm25,BM25 (tiêu đề),false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S07,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?,list,6,bm25_full,BM25 toàn văn,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S07,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?,list,6,vector,Vector,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S07,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?,list,6,hybrid,Hybrid,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S07,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4757/QĐ-ĐHĐN nhắc tới những đơn vị nào?,list,6,hybrid_kg,Hybrid + KG,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S08,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?,list,10,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,true
+S08,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?,list,10,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0,,true
+S08,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?,list,10,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.0116,,true
+S08,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?,list,10,vector,Vector,true,0.0,0.0,0.0,0.0,0.0,0.0217,,true
+S08,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?,list,10,hybrid,Hybrid,true,0.0,0.0,0.0,0.0,0.0,0.011,,true
+S08,Mức 2 — 1-hop nhiều quan hệ,Văn bản 4511/QĐ-ĐHBK dựa trên những căn cứ pháp lý nào?,list,10,hybrid_kg,Hybrid + KG,true,0.4,0.4,0.4,0.4,0.2777,0.1667,,true
+S09,Mức 3 — multi-hop,"Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",list,3,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.3,1.0,1.0,,true
+S09,Mức 3 — multi-hop,"Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",list,3,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0526,,true
+S09,Mức 3 — multi-hop,"Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",list,3,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.1,0.1357,0.1,,true
+S09,Mức 3 — multi-hop,"Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",list,3,vector,Vector,true,0.0,0.0,0.0,0.0,0.0,0.0256,,true
+S09,Mức 3 — multi-hop,"Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",list,3,hybrid,Hybrid,true,0.0,0.0,0.0,0.0,0.0,0.0588,,true
+S09,Mức 3 — multi-hop,"Văn bản 3868/QĐ-ĐHBK đã trải qua bao nhiêu lần sửa đổi, thay thế?",list,3,hybrid_kg,Hybrid + KG,true,0.0,0.0,0.0,0.0,0.0,0.0175,,true
+S10,Mức 3 — multi-hop,Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?,list,1,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.1,1.0,1.0,,true
+S10,Mức 3 — multi-hop,Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?,list,1,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.1,0.2891,0.1,,true
+S10,Mức 3 — multi-hop,Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?,list,1,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.1,0.6309,0.5,,true
+S10,Mức 3 — multi-hop,Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?,list,1,vector,Vector,true,1.0,1.0,1.0,0.1,1.0,1.0,,true
+S10,Mức 3 — multi-hop,Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?,list,1,hybrid,Hybrid,true,1.0,1.0,1.0,0.1,1.0,1.0,,true
+S10,Mức 3 — multi-hop,Quy chế công tác sinh viên cũ (42/2007/QĐ-BGDĐT) đã bị thay bằng văn bản nào?,list,1,hybrid_kg,Hybrid + KG,true,1.0,1.0,1.0,0.1,1.0,1.0,,true
+S11,Mức 3 — multi-hop,Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?,list,14,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,true
+S11,Mức 3 — multi-hop,Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?,list,14,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0189,,true
+S11,Mức 3 — multi-hop,Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?,list,14,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.0357,,true
+S11,Mức 3 — multi-hop,Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?,list,14,vector,Vector,true,0.1429,0.1429,0.1429,0.1,0.0734,0.1429,,true
+S11,Mức 3 — multi-hop,Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?,list,14,hybrid,Hybrid,true,0.0714,0.0714,0.0714,0.0,0.0,0.0769,,true
+S11,Mức 3 — multi-hop,Những văn bản nào bị sửa đổi một phần nhưng tổng thể vẫn còn hiệu lực?,list,14,hybrid_kg,Hybrid + KG,true,0.0,0.0,0.0,0.0,0.0,0.037,,true
+S12,Mức 3 — multi-hop,Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?,count,,cypher,Cypher viết tay,true,,,,,,,true,false
+S12,Mức 3 — multi-hop,Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?,count,,bm25,BM25 (tiêu đề),false,,,,,,,false,false
+S12,Mức 3 — multi-hop,Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?,count,,bm25_full,BM25 toàn văn,false,,,,,,,false,false
+S12,Mức 3 — multi-hop,Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?,count,,vector,Vector,false,,,,,,,false,false
+S12,Mức 3 — multi-hop,Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?,count,,hybrid,Hybrid,false,,,,,,,false,false
+S12,Mức 3 — multi-hop,Chuỗi văn bản thay thế nhau trong kho sâu tới mức nào?,count,,hybrid_kg,Hybrid + KG,false,,,,,,,false,false
+S13,Mức 4 — fulltext/hybrid,Học phí năm nay quy định ở văn bản nào?,list,5,cypher,Cypher viết tay,true,0.9091,0.8333,1.0,0.5,1.0,1.0,,false
+S13,Mức 4 — fulltext/hybrid,Học phí năm nay quy định ở văn bản nào?,list,5,bm25,BM25 (tiêu đề),true,0.2,0.2,0.2,0.2,0.2717,0.3333,,false
+S13,Mức 4 — fulltext/hybrid,Học phí năm nay quy định ở văn bản nào?,list,5,bm25_full,BM25 toàn văn,true,0.4,0.4,0.4,0.2,0.2773,0.25,,false
+S13,Mức 4 — fulltext/hybrid,Học phí năm nay quy định ở văn bản nào?,list,5,vector,Vector,true,0.6,0.6,0.6,0.3,0.7227,1.0,,false
+S13,Mức 4 — fulltext/hybrid,Học phí năm nay quy định ở văn bản nào?,list,5,hybrid,Hybrid,true,0.6,0.6,0.6,0.3,0.7227,1.0,,false
+S13,Mức 4 — fulltext/hybrid,Học phí năm nay quy định ở văn bản nào?,list,5,hybrid_kg,Hybrid + KG,true,0.6,0.6,0.6,0.3,0.7227,1.0,,false
+S14,Mức 4 — fulltext/hybrid,Điều nào quy định trách nhiệm thi hành?,list,464,cypher,Cypher viết tay,true,0.753,0.9727,0.6142,1.0,1.0,1.0,,false
+S14,Mức 4 — fulltext/hybrid,Điều nào quy định trách nhiệm thi hành?,list,464,bm25,BM25 (tiêu đề),true,0.4052,0.4052,0.4052,1.0,1.0,1.0,,false
+S14,Mức 4 — fulltext/hybrid,Điều nào quy định trách nhiệm thi hành?,list,464,bm25_full,BM25 toàn văn,true,0.4052,0.4052,0.4052,1.0,1.0,1.0,,false
+S14,Mức 4 — fulltext/hybrid,Điều nào quy định trách nhiệm thi hành?,list,464,vector,Vector,true,0.6422,0.6422,0.6422,1.0,1.0,1.0,,false
+S14,Mức 4 — fulltext/hybrid,Điều nào quy định trách nhiệm thi hành?,list,464,hybrid,Hybrid,true,0.5927,0.5927,0.5927,1.0,1.0,1.0,,false
+S14,Mức 4 — fulltext/hybrid,Điều nào quy định trách nhiệm thi hành?,list,464,hybrid_kg,Hybrid + KG,true,0.5927,0.5927,0.5927,1.0,1.0,1.0,,false
+S15,Mức 4 — fulltext/hybrid,Có Nội quy nào liên quan không?,list,2,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.2,1.0,1.0,,false
+S15,Mức 4 — fulltext/hybrid,Có Nội quy nào liên quan không?,list,2,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.1,0.1934,0.125,,false
+S15,Mức 4 — fulltext/hybrid,Có Nội quy nào liên quan không?,list,2,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.1,0.1934,0.125,,false
+S15,Mức 4 — fulltext/hybrid,Có Nội quy nào liên quan không?,list,2,vector,Vector,true,0.0,0.0,0.0,0.1,0.3066,0.3333,,false
+S15,Mức 4 — fulltext/hybrid,Có Nội quy nào liên quan không?,list,2,hybrid,Hybrid,true,0.5,0.5,0.5,0.1,0.6131,1.0,,false
+S15,Mức 4 — fulltext/hybrid,Có Nội quy nào liên quan không?,list,2,hybrid_kg,Hybrid + KG,true,0.5,0.5,0.5,0.1,0.6131,1.0,,false
+S16,Mức 4 — fulltext/hybrid,Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?,list,6,cypher,Cypher viết tay,true,0.5,0.4,0.6667,0.4,0.7184,1.0,,true
+S16,Mức 4 — fulltext/hybrid,Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?,list,6,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0101,,true
+S16,Mức 4 — fulltext/hybrid,Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?,list,6,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.0149,,true
+S16,Mức 4 — fulltext/hybrid,Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?,list,6,vector,Vector,true,0.0,0.0,0.0,0.0,0.0,0.0,,true
+S16,Mức 4 — fulltext/hybrid,Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?,list,6,hybrid,Hybrid,true,0.0,0.0,0.0,0.0,0.0,0.0,,true
+S16,Mức 4 — fulltext/hybrid,Những văn bản gốc thẩm quyền cao nào liên quan tới Đại học Đà Nẵng?,list,6,hybrid_kg,Hybrid + KG,true,0.1667,0.1667,0.1667,0.3,0.2997,0.1667,,true
+S17,"Mức 5 — tổng hợp, đa điều kiện",Cơ quan nào ban hành nhiều văn bản nhất?,list,10,cypher,Cypher viết tay,true,1.0,1.0,1.0,1.0,1.0,1.0,,false
+S17,"Mức 5 — tổng hợp, đa điều kiện",Cơ quan nào ban hành nhiều văn bản nhất?,list,10,bm25,BM25 (tiêu đề),false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S17,"Mức 5 — tổng hợp, đa điều kiện",Cơ quan nào ban hành nhiều văn bản nhất?,list,10,bm25_full,BM25 toàn văn,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S17,"Mức 5 — tổng hợp, đa điều kiện",Cơ quan nào ban hành nhiều văn bản nhất?,list,10,vector,Vector,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S17,"Mức 5 — tổng hợp, đa điều kiện",Cơ quan nào ban hành nhiều văn bản nhất?,list,10,hybrid,Hybrid,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S17,"Mức 5 — tổng hợp, đa điều kiện",Cơ quan nào ban hành nhiều văn bản nhất?,list,10,hybrid_kg,Hybrid + KG,false,0.0,1.0,0.0,0.0,0.0,0.0,,false
+S18,"Mức 5 — tổng hợp, đa điều kiện","Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",count,,cypher,Cypher viết tay,true,,,,,,,true,false
+S18,"Mức 5 — tổng hợp, đa điều kiện","Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",count,,bm25,BM25 (tiêu đề),false,,,,,,,false,false
+S18,"Mức 5 — tổng hợp, đa điều kiện","Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",count,,bm25_full,BM25 toàn văn,false,,,,,,,false,false
+S18,"Mức 5 — tổng hợp, đa điều kiện","Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",count,,vector,Vector,false,,,,,,,false,false
+S18,"Mức 5 — tổng hợp, đa điều kiện","Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",count,,hybrid,Hybrid,false,,,,,,,false,false
+S18,"Mức 5 — tổng hợp, đa điều kiện","Bao nhiêu văn bản còn hiệu lực, bao nhiêu hết hiệu lực?",count,,hybrid_kg,Hybrid + KG,false,,,,,,,false,false
+S19,"Mức 5 — tổng hợp, đa điều kiện","Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",list,4,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.4,1.0,1.0,,false
+S19,"Mức 5 — tổng hợp, đa điều kiện","Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",list,4,bm25,BM25 (tiêu đề),true,0.25,0.25,0.25,0.2,0.3973,0.5,,false
+S19,"Mức 5 — tổng hợp, đa điều kiện","Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",list,4,bm25_full,BM25 toàn văn,true,0.25,0.25,0.25,0.2,0.3342,0.3333,,false
+S19,"Mức 5 — tổng hợp, đa điều kiện","Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",list,4,vector,Vector,true,0.25,0.25,0.25,0.1,0.3904,1.0,,false
+S19,"Mức 5 — tổng hợp, đa điều kiện","Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",list,4,hybrid,Hybrid,true,0.25,0.25,0.25,0.2,0.5205,1.0,,false
+S19,"Mức 5 — tổng hợp, đa điều kiện","Văn bản nào về Công tác sinh viên, áp dụng cho Người học, do chính Trường ĐHBK ban hành?",list,4,hybrid_kg,Hybrid + KG,true,0.25,0.25,0.25,0.1,0.3904,1.0,,false
+S20,"Mức 5 — tổng hợp, đa điều kiện","Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",list,4,cypher,Cypher viết tay,true,1.0,1.0,1.0,0.4,1.0,1.0,,true
+S20,"Mức 5 — tổng hợp, đa điều kiện","Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",list,4,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.0312,,true
+S20,"Mức 5 — tổng hợp, đa điều kiện","Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",list,4,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.0385,,true
+S20,"Mức 5 — tổng hợp, đa điều kiện","Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",list,4,vector,Vector,true,0.0,0.0,0.0,0.0,0.0,0.0909,,true
+S20,"Mức 5 — tổng hợp, đa điều kiện","Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",list,4,hybrid,Hybrid,true,0.0,0.0,0.0,0.0,0.0,0.0556,,true
+S20,"Mức 5 — tổng hợp, đa điều kiện","Trong số văn bản còn hiệu lực do Trường ĐHBK ban hành, văn bản nào từng sửa đổi văn bản khác?",list,4,hybrid_kg,Hybrid + KG,true,0.0,0.0,0.0,0.0,0.0,0.05,,true
+S21,Mức 4 — fulltext/hybrid,Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?,list,2,cypher,Cypher viết tay,true,0.2857,0.2,0.5,0.1,0.2641,0.25,,false
+S21,Mức 4 — fulltext/hybrid,Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?,list,2,bm25,BM25 (tiêu đề),true,0.5,0.5,0.5,0.2,0.6241,0.5,,false
+S21,Mức 4 — fulltext/hybrid,Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?,list,2,bm25_full,BM25 toàn văn,true,0.5,0.5,0.5,0.2,0.6241,0.5,,false
+S21,Mức 4 — fulltext/hybrid,Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?,list,2,vector,Vector,true,1.0,1.0,1.0,0.2,1.0,1.0,,false
+S21,Mức 4 — fulltext/hybrid,Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?,list,2,hybrid,Hybrid,true,1.0,1.0,1.0,0.2,1.0,1.0,,false
+S21,Mức 4 — fulltext/hybrid,Quy định tính điểm trung bình tích lũy và điểm trung bình học kỳ như thế nào?,list,2,hybrid_kg,Hybrid + KG,true,1.0,1.0,1.0,0.2,1.0,1.0,,false
+S22,Mức 4 — fulltext/hybrid,Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?,list,4,cypher,Cypher viết tay,true,0.5714,0.4,1.0,0.4,0.962,1.0,,false
+S22,Mức 4 — fulltext/hybrid,Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?,list,4,bm25,BM25 (tiêu đề),true,0.25,0.25,0.25,0.3,0.4853,0.3333,,false
+S22,Mức 4 — fulltext/hybrid,Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?,list,4,bm25_full,BM25 toàn văn,true,0.25,0.25,0.25,0.3,0.4853,0.3333,,false
+S22,Mức 4 — fulltext/hybrid,Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?,list,4,vector,Vector,true,0.75,0.75,0.75,0.4,0.9047,1.0,,false
+S22,Mức 4 — fulltext/hybrid,Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?,list,4,hybrid,Hybrid,true,0.5,0.5,0.5,0.4,0.8597,1.0,,false
+S22,Mức 4 — fulltext/hybrid,Bao nhiêu điểm thì bị cảnh báo học tập hoặc buộc thôi học?,list,4,hybrid_kg,Hybrid + KG,true,0.5,0.5,0.5,0.4,0.8597,1.0,,false
+S23,Mức 4 — fulltext/hybrid,Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?,list,3,cypher,Cypher viết tay,true,0.0,0.0,0.0,0.0,0.0,0.0,,false
+S23,Mức 4 — fulltext/hybrid,Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?,list,3,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.0,0.0,0.05,,false
+S23,Mức 4 — fulltext/hybrid,Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?,list,3,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.0,0.0,0.05,,false
+S23,Mức 4 — fulltext/hybrid,Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?,list,3,vector,Vector,true,0.6667,0.6667,0.6667,0.2,0.7654,1.0,,false
+S23,Mức 4 — fulltext/hybrid,Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?,list,3,hybrid,Hybrid,true,0.3333,0.3333,0.3333,0.2,0.4776,0.5,,false
+S23,Mức 4 — fulltext/hybrid,Nghỉ có lý do chính đáng thì làm thủ tục ở đâu?,list,3,hybrid_kg,Hybrid + KG,true,0.3333,0.3333,0.3333,0.2,0.4776,0.5,,false
+S24,Mức 4 — fulltext/hybrid,Điều kiện để được xét công nhận tốt nghiệp là gì?,list,3,cypher,Cypher viết tay,true,0.3077,0.2,0.6667,0.2,0.7654,1.0,,false
+S24,Mức 4 — fulltext/hybrid,Điều kiện để được xét công nhận tốt nghiệp là gì?,list,3,bm25,BM25 (tiêu đề),true,0.3333,0.3333,0.3333,0.2,0.6714,1.0,,false
+S24,Mức 4 — fulltext/hybrid,Điều kiện để được xét công nhận tốt nghiệp là gì?,list,3,bm25_full,BM25 toàn văn,true,0.3333,0.3333,0.3333,0.2,0.6714,1.0,,false
+S24,Mức 4 — fulltext/hybrid,Điều kiện để được xét công nhận tốt nghiệp là gì?,list,3,vector,Vector,true,0.6667,0.6667,0.6667,0.2,0.7039,1.0,,false
+S24,Mức 4 — fulltext/hybrid,Điều kiện để được xét công nhận tốt nghiệp là gì?,list,3,hybrid,Hybrid,true,0.6667,0.6667,0.6667,0.2,0.7039,1.0,,false
+S24,Mức 4 — fulltext/hybrid,Điều kiện để được xét công nhận tốt nghiệp là gì?,list,3,hybrid_kg,Hybrid + KG,true,0.6667,0.6667,0.6667,0.2,0.7039,1.0,,false
+S25,Mức 4 — fulltext/hybrid,"Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",list,4,cypher,Cypher viết tay,true,0.5714,0.6667,0.5,0.2,0.4415,0.5,,false
+S25,Mức 4 — fulltext/hybrid,"Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",list,4,bm25,BM25 (tiêu đề),true,0.25,0.25,0.25,0.1,0.2463,0.5,,false
+S25,Mức 4 — fulltext/hybrid,"Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",list,4,bm25_full,BM25 toàn văn,true,0.25,0.25,0.25,0.1,0.2463,0.5,,false
+S25,Mức 4 — fulltext/hybrid,"Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",list,4,vector,Vector,true,0.0,0.0,0.0,0.2,0.2476,0.1429,,false
+S25,Mức 4 — fulltext/hybrid,"Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",list,4,hybrid,Hybrid,true,0.25,0.25,0.25,0.2,0.3973,0.5,,false
+S25,Mức 4 — fulltext/hybrid,"Xếp hạng tốt nghiệp loại giỏi, xuất sắc cần bao nhiêu điểm?",list,4,hybrid_kg,Hybrid + KG,true,0.25,0.25,0.25,0.2,0.3973,0.5,,false
+S26,Mức 4 — fulltext/hybrid,Chuẩn đầu ra ngoại ngữ của sinh viên là gì?,list,1,cypher,Cypher viết tay,true,0.1818,0.1,1.0,0.1,1.0,1.0,,false
+S26,Mức 4 — fulltext/hybrid,Chuẩn đầu ra ngoại ngữ của sinh viên là gì?,list,1,bm25,BM25 (tiêu đề),true,1.0,1.0,1.0,0.1,1.0,1.0,,false
+S26,Mức 4 — fulltext/hybrid,Chuẩn đầu ra ngoại ngữ của sinh viên là gì?,list,1,bm25_full,BM25 toàn văn,true,1.0,1.0,1.0,0.1,1.0,1.0,,false
+S26,Mức 4 — fulltext/hybrid,Chuẩn đầu ra ngoại ngữ của sinh viên là gì?,list,1,vector,Vector,true,1.0,1.0,1.0,0.1,1.0,1.0,,false
+S26,Mức 4 — fulltext/hybrid,Chuẩn đầu ra ngoại ngữ của sinh viên là gì?,list,1,hybrid,Hybrid,true,1.0,1.0,1.0,0.1,1.0,1.0,,false
+S26,Mức 4 — fulltext/hybrid,Chuẩn đầu ra ngoại ngữ của sinh viên là gì?,list,1,hybrid_kg,Hybrid + KG,true,1.0,1.0,1.0,0.1,1.0,1.0,,false
+S27,Mức 4 — fulltext/hybrid,Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?,list,2,cypher,Cypher viết tay,true,0.1667,0.1,0.5,0.1,0.6131,1.0,,false
+S27,Mức 4 — fulltext/hybrid,Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?,list,2,bm25,BM25 (tiêu đề),true,0.0,0.0,0.0,0.2,0.525,0.3333,,false
+S27,Mức 4 — fulltext/hybrid,Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?,list,2,bm25_full,BM25 toàn văn,true,0.0,0.0,0.0,0.2,0.525,0.3333,,false
+S27,Mức 4 — fulltext/hybrid,Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?,list,2,vector,Vector,true,0.5,0.5,0.5,0.2,0.9197,1.0,,false
+S27,Mức 4 — fulltext/hybrid,Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?,list,2,hybrid,Hybrid,true,0.5,0.5,0.5,0.2,0.6934,0.5,,false
+S27,Mức 4 — fulltext/hybrid,Mỗi học kỳ được đăng ký tối thiểu và tối đa bao nhiêu tín chỉ?,list,2,hybrid_kg,Hybrid + KG,true,0.5,0.5,0.5,0.2,0.6934,0.5,,false
+S28,Mức 4 — fulltext/hybrid,Điều kiện để học cùng lúc hai chương trình là gì?,list,3,cypher,Cypher viết tay,true,0.6667,0.5,1.0,0.3,1.0,1.0,,false
+S28,Mức 4 — fulltext/hybrid,Điều kiện để học cùng lúc hai chương trình là gì?,list,3,bm25,BM25 (tiêu đề),true,0.6667,0.6667,0.6667,0.3,0.7328,0.5,,false
+S28,Mức 4 — fulltext/hybrid,Điều kiện để học cùng lúc hai chương trình là gì?,list,3,bm25_full,BM25 toàn văn,true,0.6667,0.6667,0.6667,0.3,0.7328,0.5,,false
+S28,Mức 4 — fulltext/hybrid,Điều kiện để học cùng lúc hai chương trình là gì?,list,3,vector,Vector,true,1.0,1.0,1.0,0.3,1.0,1.0,,false
+S28,Mức 4 — fulltext/hybrid,Điều kiện để học cùng lúc hai chương trình là gì?,list,3,hybrid,Hybrid,true,0.6667,0.6667,0.6667,0.3,0.906,1.0,,false
+S28,Mức 4 — fulltext/hybrid,Điều kiện để học cùng lúc hai chương trình là gì?,list,3,hybrid_kg,Hybrid + KG,true,0.6667,0.6667,0.6667,0.3,0.906,1.0,,false
+S29,Mức 4 — fulltext/hybrid,Sinh viên được xét học bổng khuyến khích học tập như thế nào?,list,5,cypher,Cypher viết tay,true,0.2667,0.2,0.4,0.2,0.3601,0.5,,false
+S29,Mức 4 — fulltext/hybrid,Sinh viên được xét học bổng khuyến khích học tập như thế nào?,list,5,bm25,BM25 (tiêu đề),true,0.4,0.4,0.4,0.3,0.6068,1.0,,false
+S29,Mức 4 — fulltext/hybrid,Sinh viên được xét học bổng khuyến khích học tập như thế nào?,list,5,bm25_full,BM25 toàn văn,true,0.4,0.4,0.4,0.3,0.6068,1.0,,false
+S29,Mức 4 — fulltext/hybrid,Sinh viên được xét học bổng khuyến khích học tập như thế nào?,list,5,vector,Vector,true,0.6,0.6,0.6,0.5,0.927,1.0,,false
+S29,Mức 4 — fulltext/hybrid,Sinh viên được xét học bổng khuyến khích học tập như thế nào?,list,5,hybrid,Hybrid,true,0.4,0.4,0.4,0.5,0.8753,1.0,,false
+S29,Mức 4 — fulltext/hybrid,Sinh viên được xét học bổng khuyến khích học tập như thế nào?,list,5,hybrid_kg,Hybrid + KG,true,0.4,0.4,0.4,0.5,0.8753,1.0,,false
+S30,Mức 4 — fulltext/hybrid,Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?,list,3,cypher,Cypher viết tay,true,0.75,0.6,1.0,0.3,0.8855,1.0,,false
+S30,Mức 4 — fulltext/hybrid,Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?,list,3,bm25,BM25 (tiêu đề),true,0.3333,0.3333,0.3333,0.2,0.6105,1.0,,false
+S30,Mức 4 — fulltext/hybrid,Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?,list,3,bm25_full,BM25 toàn văn,true,0.3333,0.3333,0.3333,0.2,0.6105,1.0,,false
+S30,Mức 4 — fulltext/hybrid,Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?,list,3,vector,Vector,true,0.3333,0.3333,0.3333,0.3,0.8194,1.0,,false
+S30,Mức 4 — fulltext/hybrid,Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?,list,3,hybrid,Hybrid,true,0.3333,0.3333,0.3333,0.3,0.7921,1.0,,false
+S30,Mức 4 — fulltext/hybrid,Thi hộ hoặc nhờ người thi hộ bị xử lý kỷ luật thế nào?,list,3,hybrid_kg,Hybrid + KG,true,0.3333,0.3333,0.3333,0.3,0.7921,1.0,,false
+S31,Mức 4 — fulltext/hybrid,"Đối tượng nào được miễn, giảm học phí?",list,2,cypher,Cypher viết tay,true,0.3333,0.2,1.0,0.2,1.0,1.0,,false
+S31,Mức 4 — fulltext/hybrid,"Đối tượng nào được miễn, giảm học phí?",list,2,bm25,BM25 (tiêu đề),true,0.5,0.5,0.5,0.2,0.6934,0.5,,false
+S31,Mức 4 — fulltext/hybrid,"Đối tượng nào được miễn, giảm học phí?",list,2,bm25_full,BM25 toàn văn,true,0.5,0.5,0.5,0.2,0.6934,0.5,,false
+S31,Mức 4 — fulltext/hybrid,"Đối tượng nào được miễn, giảm học phí?",list,2,vector,Vector,true,0.5,0.5,0.5,0.2,0.8772,1.0,,false
+S31,Mức 4 — fulltext/hybrid,"Đối tượng nào được miễn, giảm học phí?",list,2,hybrid,Hybrid,true,0.5,0.5,0.5,0.2,0.9197,1.0,,false
+S31,Mức 4 — fulltext/hybrid,"Đối tượng nào được miễn, giảm học phí?",list,2,hybrid_kg,Hybrid + KG,true,0.5,0.5,0.5,0.2,0.9197,1.0,,false

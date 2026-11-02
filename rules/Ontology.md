@@ -171,3 +171,44 @@ Phân loại lỗi điển hình: OCR nuốt số hiệu, nhầm REPLACES↔AMEN
 ## 9. Không đưa vào ontology
 
 Node cho: trạng thái hiệu lực (→ property), người ký (→ Person), thời gian (→ property Document), nơi nhận/phụ lục (giá trị thấp). Không tách class riêng cho VB pháp luật ngoài (dùng chung `Document`).
+
+---
+
+## 10. Thay đổi v0.4 — danh tính và thời gian của thực thể *(đề xuất, 20/10/2026)*
+
+> Lý do: khoá `orgId`/`personId` sinh từ tên gốc (`slug(name)`) làm một thực thể thành nhiều node (alias) và nhiều thực thể cùng tên thành một node. Quy ước gộp/tách chi tiết: [docs/QUY_UOC_THUC_THE.md](../docs/QUY_UOC_THUC_THE.md). Các mục §2.2, §2.3, §4 ở trên vẫn là v0.3; bảng dưới là phần bổ sung/thay thế.
+
+### 10.1 `Organization`
+
+| Property | Kiểu | Thay đổi | Nguồn |
+| --- | --- | --- | --- |
+| `orgId` (PK) | string | **Đổi nghĩa:** khoá chuẩn từ bảng ánh xạ `reference/entity_canonical.json`, không còn là `slug(name)` | bảng ánh xạ (người duyệt) |
+| `name` | string | Tên chuẩn hiển thị | bảng ánh xạ |
+| `aliases` | string[] | **Mới** — mọi cách viết đã gặp trong kho | bảng ánh xạ |
+| `observedFrom` / `observedTo` | date | **Mới** — ngày ban hành sớm nhất / muộn nhất của văn bản nhắc tới hoặc do đơn vị ban hành | derive |
+| `validFrom` / `validTo` / `validSource` | date / date / string | **Mới, tuỳ chọn** — chỉ điền khi có văn bản căn cứ (thành lập, đổi tên, giải thể) | người điền |
+
+### 10.2 `Person`
+
+`personId`, `fullName`, `aliases[]`. **Bỏ** `position`, `academicTitle` khỏi node (chuyển lên `SIGNED_BY`, §10.3), vì học hàm và chức vụ thay đổi theo thời gian.
+
+### 10.3 Quan hệ
+
+| Relation | Domain → Range | Card. | Thuộc tính | Thay đổi |
+| --- | --- | --- | --- | --- |
+| `SIGNED_BY` | Document → Person | n→m | `academicTitle`, `position[]` (tại thời điểm ký) | **Thêm thuộc tính** |
+| `MENTIONS` | Document → Organization | n→m | `surface` (chuỗi gốc trong văn bản) | **Thêm thuộc tính** |
+| `SUCCEEDED_BY` | Organization → Organization | n→m | `type` {doi\_ten, sap\_nhap, chia\_tach}, `date`, `basisDoc`, `status` {nghi\_ngo, xac\_nhan} | **Mới** |
+| `PART_OF` | Organization → Organization | n→1 | — | Không đổi; dùng để tách đơn vị cùng tên khác cấp (Đoàn TN ĐHĐN ≠ Đoàn TN Trường) |
+
+Ba trục tách bạch: **danh tính** (gộp về một node + `aliases`), **phân cấp** (`PART_OF`), **thời gian** (`SUCCEEDED_BY` giữa hai node riêng). Đơn vị đổi tên **không** được gộp làm một node.
+
+### 10.4 Truy vấn mới cho phép
+
+* "Văn bản liên quan tới đơn vị X qua mọi lần đổi tên": `MATCH (o {orgId:$id})-[:SUCCEEDED_BY*0..]-(x) MATCH (d:Document)-[:MENTIONS|ISSUED_BY]->(x) …`
+* "Tên của đơn vị X vào năm Y": node trong chuỗi `SUCCEEDED_BY` có `observedFrom ≤ Y ≤ observedTo` (hoặc `validFrom/validTo` nếu có).
+* "Ông/bà X ký văn bản với chức vụ gì, năm nào": đọc thuộc tính trên `SIGNED_BY`.
+
+### 10.5 Đánh giá (bổ sung §6)
+
+**6.8 Entity resolution** — trên 103 văn bản: người gán tay toàn bộ chuỗi tên (κ trên phần gán chung), so với nhãn Gemini; báo P/R/F1 gộp theo cặp, B-cubed theo cụm, **tỉ lệ gộp nhầm** riêng, và độ chính xác phát hiện `SUCCEEDED_BY`.

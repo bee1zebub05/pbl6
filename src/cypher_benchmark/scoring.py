@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import math
+
 
 def score_ids(result_ids: list[str], expected_ids: frozenset[str] | None) -> dict:
     """Precision/Recall/F1 kiểu tập hợp (intersection/union) — nhận list ID
@@ -20,3 +22,31 @@ def score_ids(result_ids: list[str], expected_ids: frozenset[str] | None) -> dic
     recall = tp / len(expected_ids) if expected_ids else 1.0
     f1 = 2 * precision * recall / (precision + recall) if (precision + recall) else 0.0
     return {"precision": precision, "recall": recall, "f1": f1}
+
+
+def score_ranked(ranked_ids: list[str], expected_ids: frozenset[str] | None, k: int = 10) -> dict:
+    """P@k, R@k, nDCG@k (nhị phân, ideal = min(k, |gold|) kết quả đúng đứng
+    đầu), MRR và R-Precision (precision tại cutoff = |gold| — với tập gold
+    lớn như S01 62 văn bản, P@10 không nói hết). Danh sách có thứ hạng; ID
+    trùng chỉ tính lần đầu."""
+
+    if expected_ids is None:
+        return {f"P@{k}": None, f"R@{k}": None, f"nDCG@{k}": None, "MRR": None, "R-Prec": None}
+
+    seen: set[str] = set()
+    ranked = [i for i in ranked_ids if not (i in seen or seen.add(i))]
+    rel = [1 if i in expected_ids else 0 for i in ranked]
+    n_gold = len(expected_ids)
+
+    def dcg(bits: list[int]) -> float:
+        return sum(b / math.log2(pos + 2) for pos, b in enumerate(bits))
+
+    ideal = dcg([1] * min(k, n_gold))
+    first_hit = next((pos + 1 for pos, b in enumerate(rel) if b), 0)
+    return {
+        f"P@{k}": sum(rel[:k]) / k,
+        f"R@{k}": sum(rel[:k]) / n_gold if n_gold else 0.0,
+        f"nDCG@{k}": dcg(rel[:k]) / ideal if ideal else 0.0,
+        "MRR": 1 / first_hit if first_hit else 0.0,
+        "R-Prec": sum(rel[:n_gold]) / n_gold if n_gold else 0.0,
+    }
