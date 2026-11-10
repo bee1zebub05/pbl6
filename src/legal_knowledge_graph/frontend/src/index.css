@@ -1,12 +1,12 @@
 :root {
-  font: 16px/1.45 system-ui, 'Segoe UI', Roboto, sans-serif;
+  font: 16px/1.45 'Be Vietnam Pro', system-ui, 'Segoe UI', Roboto, sans-serif;
   color-scheme: light;
 }
 
 body {
   margin: 0;
-  background: white;
-  color: #111827;
+  background: #c9d8f2;
+  color: #1f2430;
 }
 
 #root {
