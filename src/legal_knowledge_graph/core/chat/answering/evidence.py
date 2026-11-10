@@ -108,6 +108,15 @@ def context_to_text(ctx: GraphContext) -> str:
     return "\n\n".join(blocks)
 
 
+# Cột mang số hiệu văn bản trong dòng kết quả template: target ở template quan hệ,
+# currentVersion ở template phiên bản hiện hành (văn bản câu trả lời nói tới).
+_DOCUMENT_COLUMNS = ("documentNumber", "target", "currentVersion")
+
+
+def row_document_number(row: dict) -> str | None:
+    return next((row[c] for c in _DOCUMENT_COLUMNS if isinstance(row.get(c), str) and row[c]), None)
+
+
 def collect_sources(rows: list[dict] | None, hits: list[dict] | None, limit: int = 20) -> list[dict]:
     """Danh sách văn bản / Điều làm nguồn, bỏ trùng, giữ thứ tự xuất hiện."""
 
@@ -124,7 +133,7 @@ def collect_sources(rows: list[dict] | None, hits: list[dict] | None, limit: int
     corrected = {h["documentNumber"]: h["effectiveStatus"] for h in hits or []
                  if h.get("documentNumber") and h.get("effectiveStatus")}
     for r in rows or []:
-        number = r.get("documentNumber") or r.get("target")
+        number = row_document_number(r)
         add({"documentNumber": number, "title": r.get("title"), "status": corrected.get(number, r.get("status")),
              "articleId": r.get("articleId"), "contentId": r.get("contentId")})
     for h in hits or []:

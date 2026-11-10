@@ -39,3 +39,15 @@ def test_other_long_columns_are_still_shortened():
 def test_text_over_budget_is_cut_and_says_so():
     text = rows_to_text([{"text": "a" * 50000}], limit=30)
     assert text.count("a") < 50000 and "đã cắt" in text
+
+
+def test_current_version_of_latest_version_template_is_the_source():
+    rows = [{"askedDocument": "1489/QĐ-ĐHĐN", "askedStatus": "HET_HIEU_LUC", "currentVersion": "1899/QĐ-ĐHĐN"}]
+    assert [s["documentNumber"] for s in collect_sources(rows, [])] == ["1899/QĐ-ĐHĐN"]
+
+
+def test_graph_rag_scope_includes_the_current_version():
+    from core.chat.workflow.nodes import _documents_in
+
+    rows = [{"askedDocument": "1489/QĐ-ĐHĐN", "currentVersion": "1899/QĐ-ĐHĐN"}]
+    assert _documents_in({"normalizedNumber": "1489/QD-DHDN"}, rows) == ("1489/QD-DHDN", "1899/QĐ-ĐHĐN")

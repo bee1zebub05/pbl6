@@ -33,8 +33,11 @@ export async function askChat(question, threadId = null) {
   }
 
   if (!res.ok) {
-    const detail = body?.error || body?.detail || `HTTP ${res.status}`
-    throw new Error(typeof detail === 'string' ? detail : JSON.stringify(detail))
+    // Chi tiết lỗi đã nằm ở log backend; người dùng chỉ cần một câu dễ hiểu.
+    if (res.status >= 500) {
+      throw new Error('Xin lỗi, mình đang gặp trục trặc nên chưa trả lời được. Bạn thử lại sau ít phút nhé.')
+    }
+    throw new Error(typeof body?.error === 'string' ? body.error : 'Mình chưa đọc được câu hỏi này, bạn thử viết lại nhé.')
   }
 
   return body

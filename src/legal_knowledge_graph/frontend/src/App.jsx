@@ -3,12 +3,14 @@ import { askChat } from './api'
 import './App.css'
 
 const STORAGE_KEY = 'lkg-chat'
+const BOT_NAME = 'Trợ lý ĐHBK'
 
 const SUGGESTIONS = [
   'Điều kiện xét học bổng khuyến khích học tập là gì?',
   'Sinh viên bị buộc thôi học trong trường hợp nào?',
   'Quy định mới nhất về học phí là văn bản nào?',
   'Văn bản 4511/QĐ-ĐHBK quy định gì?',
+  'Sinh viên bị kỷ luật thế nào?',
 ]
 
 const STATUS_LABEL = {
@@ -57,6 +59,46 @@ function groupSources(sources = []) {
   return [...docs.values()]
 }
 
+const Icon = {
+  plus: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M12 5v14M5 12h14" />
+    </svg>
+  ),
+  send: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M21 3 10 14M21 3l-7 18-4-7-7-4 18-7z" />
+    </svg>
+  ),
+  chat: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z" />
+    </svg>
+  ),
+  copy: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <rect x="9" y="9" width="12" height="12" rx="2" />
+      <path d="M5 15V5a2 2 0 0 1 2-2h10" />
+    </svg>
+  ),
+  check: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="m5 12 5 5L20 7" />
+    </svg>
+  ),
+  user: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="12" cy="8" r="4" />
+      <path d="M4 21a8 8 0 0 1 16 0" />
+    </svg>
+  ),
+  spark: (
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M6 18l2.5-2.5M15.5 8.5 18 6" />
+    </svg>
+  ),
+}
+
 function Sources({ sources }) {
   const docs = groupSources(sources)
   if (docs.length === 0) return null
@@ -77,12 +119,50 @@ function Sources({ sources }) {
   )
 }
 
-function BotMessage({ result, onPickCandidate, disabled }) {
+function CopyButton({ text }) {
+  const [copied, setCopied] = useState(false)
+
+  async function copy() {
+    try {
+      await navigator.clipboard.writeText(text)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 1500)
+    } catch {
+      // Trình duyệt chặn clipboard (trang không phải https...): bỏ qua.
+    }
+  }
+
+  return (
+    <button type="button" className="icon-btn" onClick={copy} title={copied ? 'Đã chép' : 'Chép câu trả lời'}>
+      {copied ? Icon.check : Icon.copy}
+    </button>
+  )
+}
+
+function Question({ text }) {
+  return (
+    <div className="question">
+      <span className="avatar">{Icon.user}</span>
+      <p>{text}</p>
+    </div>
+  )
+}
+
+function BotLabel() {
+  return (
+    <div className="bot-label">
+      {BOT_NAME} {Icon.spark}
+    </div>
+  )
+}
+
+function Answer({ result, onPickCandidate, disabled }) {
   const candidates = result.clarification?.candidates || []
   const answered = result.kind === 'answer' || result.kind === 'agent_answer'
   return (
-    <div className="msg msg-bot">
-      <p className="answer">{result.answer}</p>
+    <div className="answer">
+      <BotLabel />
+      <p className="answer-text">{result.answer}</p>
       {candidates.length > 0 && (
         <div className="chip-list">
           {candidates.map((c) => (
@@ -93,6 +173,9 @@ function BotMessage({ result, onPickCandidate, disabled }) {
         </div>
       )}
       {answered && <Sources sources={result.sources} />}
+      <div className="answer-actions">
+        <CopyButton text={result.answer} />
+      </div>
     </div>
   )
 }
@@ -105,12 +188,15 @@ export default function App() {
   // Mã hội thoại do backend cấp ở lượt đầu; null = lượt kế tiếp mở hội thoại mới.
   const [threadId, setThreadId] = useState(saved?.threadId || null)
   const inputRef = useRef(null)
-  const bottomRef = useRef(null)
+  const threadRef = useRef(null)
 
   useEffect(() => save(threadId, messages), [threadId, messages])
 
+  // Cuộn tới tận đáy, gồm cả khoảng đệm dành cho ô nhập nổi; cuộn tới phần tử
+  // cuối thì đoạn cuối câu trả lời bị ô nhập che mất.
   useEffect(() => {
-    bottomRef.current?.scrollIntoView({ behavior: 'smooth', block: 'end' })
+    const thread = threadRef.current
+    thread?.scrollTo({ top: thread.scrollHeight, behavior: 'smooth' })
   }, [messages, loading])
 
   useEffect(() => {
@@ -171,74 +257,105 @@ export default function App() {
   }
 
   return (
-    <div className="chat-page">
-      <header className="chat-header">
-        <h1>Trợ lý văn bản ĐH Bách khoa</h1>
-        <button type="button" className="new-chat" onClick={newConversation} disabled={loading}>
-          Cuộc trò chuyện mới
-        </button>
-      </header>
+    <div className="app">
+      <div className="shell">
+        <aside className="sidebar">
+          <div className="brand">TRỢ LÝ ĐHBK</div>
+          <button type="button" className="new-chat" onClick={newConversation} disabled={loading}>
+            {Icon.plus}
+            Cuộc trò chuyện mới
+          </button>
 
-      <div className="chat-log">
-        {messages.length === 0 && (
-          <div className="welcome">
-            <p>Chào bạn! Bạn muốn hỏi gì về quy chế, quy định của Trường?</p>
-            <div className="chip-list">
-              {SUGGESTIONS.map((s) => (
-                <button key={s} type="button" className="chip" onClick={() => send(s)}>
-                  {s}
+          <div className="sidebar-section">Câu hỏi gợi ý</div>
+          <ul className="suggestion-list">
+            {SUGGESTIONS.map((s) => (
+              <li key={s}>
+                <button type="button" onClick={() => send(s)} disabled={loading} title={s}>
+                  {Icon.chat}
+                  <span>{s}</span>
                 </button>
-              ))}
-            </div>
-          </div>
-        )}
-        {messages.map((m, i) => {
-          if (m.role === 'user') {
-            return <div key={i} className="msg msg-user">{m.text}</div>
-          }
-          if (m.role === 'error') {
-            return (
-              <div key={i} className="msg msg-error">
-                <p>{m.text}</p>
-                <button type="button" className="chip" disabled={loading} onClick={() => retry(i, m.retry)}>
-                  Thử lại
-                </button>
+              </li>
+            ))}
+          </ul>
+
+          <p className="sidebar-note">
+            Tra cứu quy chế, quy định của Trường Đại học Bách khoa – Đại học Đà Nẵng.
+          </p>
+        </aside>
+
+        <main className="main">
+          <header className="mobile-header">
+            <span className="brand">TRỢ LÝ ĐHBK</span>
+            <button type="button" className="icon-btn" onClick={newConversation} disabled={loading}
+              title="Cuộc trò chuyện mới">
+              {Icon.plus}
+            </button>
+          </header>
+
+          <div className="thread" ref={threadRef}>
+            {messages.length === 0 && (
+              <div className="welcome">
+                <h1>Chào bạn!</h1>
+                <p>Bạn muốn hỏi gì về quy chế, quy định của Trường?</p>
+                <div className="chip-list">
+                  {SUGGESTIONS.slice(0, 4).map((s) => (
+                    <button key={s} type="button" className="chip" onClick={() => send(s)}>
+                      {s}
+                    </button>
+                  ))}
+                </div>
               </div>
-            )
-          }
-          return <BotMessage key={i} result={m.result} onPickCandidate={send} disabled={loading} />
-        })}
-        {loading && (
-          <div className="msg msg-bot typing" role="status" aria-label="Đang trả lời">
-            <span />
-            <span />
-            <span />
+            )}
+            {messages.map((m, i) => {
+              if (m.role === 'user') return <Question key={i} text={m.text} />
+              if (m.role === 'error') {
+                return (
+                  <div key={i} className="answer answer-error">
+                    <BotLabel />
+                    <p className="answer-text">{m.text}</p>
+                    <button type="button" className="chip" disabled={loading} onClick={() => retry(i, m.retry)}>
+                      Thử lại
+                    </button>
+                  </div>
+                )
+              }
+              return <Answer key={i} result={m.result} onPickCandidate={send} disabled={loading} />
+            })}
+            {loading && (
+              <div className="answer">
+                <BotLabel />
+                <div className="typing" role="status" aria-label="Đang trả lời">
+                  <span />
+                  <span />
+                  <span />
+                </div>
+              </div>
+            )}
           </div>
-        )}
-        <div ref={bottomRef} />
-      </div>
 
-      <form
-        className="chat-input"
-        onSubmit={(e) => {
-          e.preventDefault()
-          send(question)
-        }}
-      >
-        <textarea
-          ref={inputRef}
-          rows={1}
-          value={question}
-          onChange={(e) => setQuestion(e.target.value)}
-          onKeyDown={onInputKeyDown}
-          placeholder="Nhập câu hỏi..."
-          aria-label="Câu hỏi"
-          maxLength={1000}
-        />
-        <button type="submit" disabled={loading || !question.trim()}>
-          Gửi
-        </button>
-      </form>
+          <form
+            className="composer"
+            onSubmit={(e) => {
+              e.preventDefault()
+              send(question)
+            }}
+          >
+            <textarea
+              ref={inputRef}
+              rows={1}
+              value={question}
+              onChange={(e) => setQuestion(e.target.value)}
+              onKeyDown={onInputKeyDown}
+              placeholder="Bạn muốn hỏi gì?"
+              aria-label="Câu hỏi"
+              maxLength={1000}
+            />
+            <button type="submit" className="send" disabled={loading || !question.trim()} title="Gửi">
+              {Icon.send}
+            </button>
+          </form>
+        </main>
+      </div>
     </div>
   )
 }

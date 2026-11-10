@@ -28,7 +28,7 @@ from ..prompts import ERROR_ANSWER, FALLBACK_REPLIES
 from ..agent import AgentService
 from ..answering.answer import AnswerService
 from ..answering.clarification import ClarificationService
-from ..answering.evidence import collect_sources, to_plain_text
+from ..answering.evidence import collect_sources, row_document_number, to_plain_text
 from ..understanding.intent import IntentService
 from ..understanding.router import RouterService
 from ..retrieval.template_query import TemplateQueryService
@@ -90,10 +90,10 @@ def _message_text(message: BaseMessage) -> str:
 def _documents_in(params: dict | None, rows: list[dict] | None) -> tuple[str, ...]:
     """Phạm vi ưu tiên cho GraphRAG: văn bản câu hỏi nhắc tới (tham số
     normalizedNumber đã resolve) trước, rồi văn bản trong kết quả template
-    (cột documentNumber, hoặc target ở template quan hệ); bỏ trùng, giữ thứ tự."""
+    (evidence.row_document_number); bỏ trùng, giữ thứ tự."""
 
     asked = [(params or {}).get("normalizedNumber")]
-    in_rows = [r.get("documentNumber") or r.get("target") for r in rows or []]
+    in_rows = [row_document_number(r) for r in rows or []]
     return tuple(dict.fromkeys(n for n in asked + in_rows if isinstance(n, str) and n))
 
 
