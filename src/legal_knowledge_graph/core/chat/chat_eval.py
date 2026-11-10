@@ -1,6 +1,6 @@
 """
 Bộ câu hỏi gold cho chatbot — chạy THẬT qua Gemini + Neo4j (không mock),
-qua đúng `ChatService` mà API dùng. Assert những gì chắc chắn: intent,
+qua đúng `ChatService` mà API dùng. Thực thể trong câu hỏi lấy từ kho v4 (103 văn bản). Assert những gì chắc chắn: intent,
 action, template, kind, tham số đã resolve; KHÔNG assert nội dung câu trả lời
 (phụ thuộc dữ liệu và văn phong LLM).
 
@@ -73,8 +73,7 @@ GOLD_SET: list[GoldCase] = [
     case("Văn bản nào thuộc lĩnh vực Đào tạo?", intent=_DOMAIN, action="list_documents",
          template="TPL_DOCS_BY_TOPIC", kind=_ANSWERED),
     case("Văn bản nào áp dụng cho sinh viên?", intent=_DOMAIN, action="list_documents",
-         template="TPL_DOCS_BY_TARGET_GROUP", kind=_ANSWERED, params={"targetGroupId": "nguoi_hoc"},
-         note="cần graph nạp từ data/clean/json/v2 (có targetGroups)"),
+         template="TPL_DOCS_BY_TARGET_GROUP", kind=_ANSWERED, params={"targetGroupId": "nguoi_hoc"}),
     case("Văn bản 4511/QĐ-ĐHBK nói gì?", intent=_DOMAIN, action="document_detail",
          template="TPL_DOCUMENT_DETAIL", kind=_ANSWERED, params={"normalizedNumber": "4511/QD-DHBK"}),
     case("4511/QĐ-ĐHBK đã thay thế những văn bản nào?", intent=_DOMAIN, action="what_it_replaced",
@@ -89,7 +88,7 @@ GOLD_SET: list[GoldCase] = [
          template="TPL_NORMATIVE_CONTENT_BY_TYPE", kind=_ANSWERED, params={"contentType": "Quy chế"}),
     case("Điều nào nói về trách nhiệm thi hành?", intent=_DOMAIN, action="search_articles",
          template="TPL_ARTICLE_FULLTEXT_SEARCH", kind=_ANSWERED),
-    case("Tìm văn bản có từ 'Chiến lược' trong tiêu đề", intent=_DOMAIN, action="search_documents",
+    case("Tìm văn bản có từ 'Ký túc xá' trong tiêu đề", intent=_DOMAIN, action="search_documents",
          template="TPL_DOCUMENT_FULLTEXT_SEARCH", kind=_ANSWERED),
     case("Những văn bản gốc thẩm quyền cao nào làm căn cứ cho các văn bản về Đại học Đà Nẵng?", intent=_DOMAIN,
          action="legal_basis", template="TPL_HYBRID_FULLTEXT_EXPAND", kind=_ANSWERED),
@@ -131,9 +130,9 @@ GOLD_SET: list[GoldCase] = [
     case("Quy định mới nhất về học phí là văn bản nào?", intent=_DOMAIN, template="TPL_LATEST_DOC_ABOUT",
          kind=_ANSWERED),
     case("Sinh viên bị kỷ luật thế nào?", intent=_DOMAIN, template="TPL_ARTICLE_SEARCH_FOR_GROUP", kind=_ANSWERED),
-    case("Bản mới nhất thay cho 2929/QĐ-ĐHBK là văn bản nào?", intent=_DOMAIN, template="TPL_DOC_LATEST_VERSION",
+    case("Bản mới nhất thay cho 1489/QĐ-ĐHĐN là văn bản nào?", intent=_DOMAIN, template="TPL_DOC_LATEST_VERSION",
          kind=_ANSWERED),
-    case("Quyết định 1092/QĐ-ĐHBK suy cho cùng dựa trên Luật nào?", intent=_DOMAIN,
+    case("Quyết định 1899/QĐ-ĐHĐN suy cho cùng dựa trên Luật nào?", intent=_DOMAIN,
          template="TPL_DOC_LEGAL_BASIS_CHAIN", kind=_ANSWERED),
     case("ĐHBK có bao nhiêu văn bản về Đào tạo?", intent=_DOMAIN, template="TPL_COUNT_DOCS", kind=_ANSWERED),
     case("Văn bản nào được căn cứ nhiều nhất?", intent=_DOMAIN, template="TPL_MOST_CITED_DOCS", kind=_ANSWERED),
