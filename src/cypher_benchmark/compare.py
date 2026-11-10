@@ -14,6 +14,7 @@ Hệ (xem retrievers.py, chatbot.py):
     vector      embedding ngữ nghĩa trên các Điều
     hybrid      bm25_full + vector (RRF)
     hybrid_kg   hybrid lọc 5 văn bản hạt giống + KG mở rộng một bước quan hệ
+    hybrid_rerank  hybrid, 16 Điều đầu được reranker (Gemini / cross-encoder) xếp lại
 
 Số đo:
 - P/R/F1: cypher, chatbot chấm trên toàn bộ kết quả trả về; các hệ xếp hạng
@@ -44,7 +45,7 @@ LEVELS = ["Mức 1 — 1-hop", "Mức 2 — 1-hop nhiều quan hệ", "Mức 3 �
           "Mức 4 — fulltext/hybrid", "Mức 5 — tổng hợp, đa điều kiện"]
 LABELS = {"cypher": "Cypher viết tay", "chatbot": "Chatbot", "bm25": "BM25 (tiêu đề)",
           "bm25_full": "BM25 toàn văn", "vector": "Vector", "hybrid": "Hybrid",
-          "hybrid_kg": "Hybrid + KG"}
+          "hybrid_kg": "Hybrid + KG", "hybrid_rerank": "Hybrid + rerank"}
 SET_SYSTEMS = ("cypher", "chatbot")  # trả một tập kết quả, chấm trên toàn bộ
 # Câu phải đi theo quan hệ giữa các văn bản (căn cứ, sửa đổi, thay thế) —
 # nhóm multi-hop của §6.3/§6.5: nơi KG phải thắng rõ.

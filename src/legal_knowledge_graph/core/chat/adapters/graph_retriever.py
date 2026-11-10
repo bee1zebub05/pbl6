@@ -87,15 +87,16 @@ class Neo4jGraphRetriever(ContextRetriever):
             scoped = graph_context.scoped_articles(s, query_vector, list(scope), self._scope_per_doc)
         log_event("graph_rag.seed", vector=len(vector), fulltext=len(fulltext), scoped=len(scoped),
                   overlap=len({r["articleId"] for r in vector} & {r["articleId"] for r in fulltext}))
-        seeds = self._service.select_seeds(vector, fulltext, scoped)
+        seeds = self._service.select_seeds(vector, fulltext, scoped, question=question)
         session_log.step(
             f"[retrieve] GraphRAG — hạt giống ({'toàn kho + phạm vi' if search_all else 'chỉ phạm vi'})",
             **{"Văn bản phạm vi": list(scope),
                "Truy vấn fulltext (Lucene)": graph_context.fulltext_query(question, phrase) if search_all else None,
                "Từ vector index": _ranked(vector), "Từ fulltext BM25": _ranked(fulltext),
                "Trong văn bản phạm vi (cosine)": _ranked(scoped),
-               "Hạt giống được chọn (sau RRF)": [f"{s['score']:.5f}  {s['articleId']}  via {'+'.join(s['via'])}"
-                                                   for s in seeds]},
+               "Hạt giống được chọn (sau RRF, rerank nếu bật)": [
+                   f"{s['score']:.5f}" + (f" rerank={s['rerankScore']:.2f}" if "rerankScore" in s else "")
+                   + f"  {s['articleId']}  via {'+'.join(s['via'])}" for s in seeds]},
         )
         return seeds
 

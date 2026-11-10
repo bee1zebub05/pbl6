@@ -12,6 +12,7 @@ from langgraph.checkpoint.memory import MemorySaver
 
 from .. import config
 from ..db import Neo4jConnection
+from ..llm import rerank
 from ..observability import setup_logging
 from .adapters.gemini_llm import GeminiPooledLLM
 from .adapters.graph_retriever import Neo4jGraphRetriever
@@ -78,7 +79,8 @@ def build_graph_retriever(*, enabled: bool = config.RETRIEVAL_ENABLED) -> Neo4jG
     return Neo4jGraphRetriever(
         _neo4j_connection(),
         GraphRagService(top_k=config.RETRIEVAL_TOP_K, context_chars=config.GRAPH_RAG_CONTEXT_CHARS,
-                        article_chars=config.GRAPH_RAG_ARTICLE_CHARS),
+                        article_chars=config.GRAPH_RAG_ARTICLE_CHARS, reranker=rerank.build_scorer(),
+                        rerank_candidates=config.RERANK_CANDIDATES, passage=rerank.passage),
         enabled=enabled, seed_k=config.GRAPH_RAG_SEED_K, scope_docs=config.GRAPH_RAG_SCOPE_DOCS,
         scope_per_doc=config.GRAPH_RAG_SCOPE_PER_DOC, max_related=config.GRAPH_RAG_MAX_RELATED,
     )

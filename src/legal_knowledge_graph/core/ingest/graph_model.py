@@ -15,8 +15,21 @@ from ..reference import load_seed_entries
 from .validate import validate_dir
 
 
+def load_page_provenance(path: str | Path | None = None) -> dict[str, dict]:
+    """articleId -> {pdf, pageStart, pageEnd, confidence} (tools/kiem_tra/nguon_trang.py).
+    Không cấu hình hoặc thiếu file -> {} (Article không có trường trang)."""
+
+    import json
+
+    path = path or config.PAGE_PROVENANCE
+    if not path or not Path(path).exists():
+        return {}
+    return json.loads(Path(path).read_text(encoding="utf-8"))
+
+
 class GraphModel:
-    def __init__(self) -> None:
+    def __init__(self, page_provenance: dict[str, dict] | None = None) -> None:
+        self.page_provenance = page_provenance or {}
         self.topics: dict[str, dict] = {}
         self.target_groups: dict[str, dict] = {}
         self.orgs: dict[str, dict] = {}
@@ -206,7 +219,12 @@ class GraphModel:
 
     def _add_article(self, art: dict, parent_id: str, parent_label: str) -> None:
         article_id = normalize.article_id(parent_id, art["number"])
+        src = self.page_provenance.get(article_id) or {}
         self.articles.append({
+            "sourcePdf": src.get("pdf"),
+            "pageStart": src.get("pageStart"),
+            "pageEnd": src.get("pageEnd"),
+            "pageConfidence": src.get("confidence"),
             "articleId": article_id,
             "number": art["number"],
             "heading": art.get("heading"),
@@ -236,7 +254,7 @@ def collect(data_dir: Path) -> GraphModel:
             "(build không bao giờ nạp dữ liệu chưa qua validate.py)."
         )
 
-    model = GraphModel()
+    model = GraphModel(load_page_provenance())
     model.load_seeds()
     for r in results:
         model.add_document_file(r.data)

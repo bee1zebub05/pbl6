@@ -29,7 +29,8 @@ from .templates.base import ARTICLE_TO_DOC
 _SEED_RETURN = """
     OPTIONAL MATCH (nc:NormativeContent)-[:HAS_ARTICLE]->(node)
     RETURN node.articleId AS articleId, node.number AS number, node.heading AS heading, node.text AS text,
-           d.normalizedNumber AS docKey, d.documentNumber AS documentNumber, nc.title AS container, score
+           d.normalizedNumber AS docKey, d.documentNumber AS documentNumber, nc.title AS container, score,
+           node.pageStart AS pageStart, node.pageEnd AS pageEnd, node.pageConfidence AS pageConfidence
     ORDER BY score DESC
     LIMIT $k
 """
@@ -64,7 +65,8 @@ SCOPED_ARTICLES = f"""
     }}
     OPTIONAL MATCH (nc:NormativeContent)-[:HAS_ARTICLE]->(node)
     RETURN node.articleId AS articleId, node.number AS number, node.heading AS heading, node.text AS text,
-           d.normalizedNumber AS docKey, d.documentNumber AS documentNumber, nc.title AS container, score
+           d.normalizedNumber AS docKey, d.documentNumber AS documentNumber, nc.title AS container, score,
+           node.pageStart AS pageStart, node.pageEnd AS pageEnd, node.pageConfidence AS pageConfidence
     ORDER BY score DESC
 """
 

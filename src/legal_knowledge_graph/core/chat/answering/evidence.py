@@ -58,7 +58,17 @@ def _article_text(a: ArticleEvidence, indent: str = "  ") -> str:
     head = ". ".join(x for x in (a.number, a.heading) if x) or a.articleId
     body = a.text if a.number and a.text.startswith(a.number) else f"{head}\n{a.text}"
     inside = f"[thuộc: {_short(a.container, 120)}] " if a.container else ""
-    return f"{indent}{inside}{body}"
+    return f"{indent}{inside}{_page_ref(a)}{body}"
+
+
+def _page_ref(a: ArticleEvidence) -> str:
+    """Chỉ ghi số trang PDF khi mốc trang của văn bản đủ tin (độ tin cậy "cao",
+    kiểm trên bộ chuẩn: 21/22 Điều đúng trang). Mức thấp hơn thì không ghi, để
+    chatbot không dẫn một số trang có thể sai."""
+    if a.pageConfidence != "cao" or a.pageStart is None:
+        return ""
+    end = a.pageEnd if a.pageEnd and a.pageEnd != a.pageStart else None
+    return f"[PDF trang {a.pageStart}{f'–{end}' if end else ''}] "
 
 
 def context_to_text(ctx: GraphContext) -> str:

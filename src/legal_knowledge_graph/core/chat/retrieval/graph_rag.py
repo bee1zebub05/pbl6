@@ -6,8 +6,11 @@ quan hệ, đóng gói ngữ cảnh theo ngân sách ký tự.
 
 from __future__ import annotations
 
+import logging
 from collections import defaultdict
+from typing import Callable
 
+from ...observability import log_event
 from ..models import ArticleEvidence, DocumentContext, GraphContext, RelatedDocument
 
 HET_HIEU_LUC = "HET_HIEU_LUC"
@@ -53,20 +56,45 @@ def _cost(article: ArticleEvidence) -> int:
     return len(article.text) + sum(len(n.text) for n in article.neighbors)
 
 
+def rerank(question: str, ranked: list[dict], scorer: Callable[[str, list[str]], list[float]],
+           passage: Callable[[dict], str]) -> list[dict]:
+    """Xếp lại `ranked` theo điểm của `scorer` (cao trước); hoà điểm thì giữ thứ
+    tự cũ. Ghi `rrfScore`/`rerankScore` và thêm "rerank" vào `via` để log thấy."""
+
+    scores = scorer(question, [passage(r) for r in ranked])
+    out = [{**r, "rrfScore": r.get("score"), "rerankScore": s, "via": [*r.get("via", []), "rerank"]}
+           for r, s in zip(ranked, scores)]
+    return [r for _, r in sorted(enumerate(out), key=lambda p: (-p[1]["rerankScore"], p[0]))]
+
+
 class GraphRagService:
     def __init__(self, *, top_k: int, context_chars: int, article_chars: int, short_article_chars: int = 400,
-                 min_article_chars: int = 300):
+                 min_article_chars: int = 300, reranker: Callable[[str, list[str]], list[float]] | None = None,
+                 rerank_candidates: int = 16, passage: Callable[[dict], str] | None = None):
         self._top_k = top_k
         self._context_chars = context_chars
         self._article_chars = article_chars
         self._short_article_chars = short_article_chars
         self._min_article_chars = min_article_chars
+        self._reranker = reranker
+        self._rerank_candidates = rerank_candidates
+        self._passage = passage or (lambda r: f"{r.get('heading') or ''}\n{(r.get('text') or '')[:1200]}")
 
-    def select_seeds(self, vector: list[dict], fulltext: list[dict], scoped: list[dict]) -> list[dict]:
-        """top_k Điều sau khi gộp vector + fulltext, rồi thêm Điều trong văn
-        bản template vừa trả về (người dùng đang hỏi đúng các văn bản đó)."""
+    def select_seeds(self, vector: list[dict], fulltext: list[dict], scoped: list[dict],
+                     question: str = "") -> list[dict]:
+        """top_k Điều sau khi gộp vector + fulltext (và rerank nếu bật), rồi thêm
+        Điều trong văn bản template vừa trả về (người dùng đang hỏi đúng các văn
+        bản đó). Reranker lỗi thì giữ thứ tự RRF — không để một bước tuỳ chọn
+        làm hỏng cả lượt hỏi."""
 
-        seeds = fuse_rrf({"vector": vector, "fulltext": fulltext})[: self._top_k]
+        fused = fuse_rrf({"vector": vector, "fulltext": fulltext})
+        if self._reranker and question and len(fused) > 1:
+            head, tail = fused[: self._rerank_candidates], fused[self._rerank_candidates:]
+            try:
+                fused = rerank(question, head, self._reranker, self._passage) + tail
+            except Exception as exc:  # noqa: BLE001 — mọi lỗi reranker đều lùi về RRF
+                log_event("graph_rag.rerank_failed", level=logging.WARNING, error=str(exc)[:300])
+        seeds = fused[: self._top_k]
         seen = {s["articleId"] for s in seeds}
         for item in fuse_rrf({"scope": scoped}):
             if item["articleId"] in seen:
@@ -130,6 +158,7 @@ class GraphRagService:
             articleId=seed["articleId"], number=seed.get("number"), heading=seed.get("heading"),
             text=_clip(seed.get("text"), self._article_chars), container=seed.get("container"),
             score=round(seed["score"], 5), via=list(seed["via"]),
+            pageStart=seed.get("pageStart"), pageEnd=seed.get("pageEnd"), pageConfidence=seed.get("pageConfidence"),
             neighbors=[ArticleEvidence(articleId=n["neighborId"], number=n.get("number"), heading=n.get("heading"),
                                        text=_clip(n.get("text"), self._article_chars // 2))
                        for n in neighbor_rows],

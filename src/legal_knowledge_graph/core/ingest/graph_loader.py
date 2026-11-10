@@ -206,7 +206,9 @@ def _push_articles(session, model: GraphModel) -> dict[str, dict[str, int]]:
         session,
         "UNWIND $rows AS row MERGE (a:Article {articleId: row.articleId}) "
         "SET a.number = row.number, a.heading = row.heading, a.text = row.text, "
-        "a.isImplementationClause = row.isImplementationClause",
+        "a.isImplementationClause = row.isImplementationClause, "
+        "a.sourcePdf = row.sourcePdf, a.pageStart = row.pageStart, a.pageEnd = row.pageEnd, "
+        "a.pageConfidence = row.pageConfidence",
         model.articles,
     )
     report["HAS_ARTICLE (Document)"] = run_batched(

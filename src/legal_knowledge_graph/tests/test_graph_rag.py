@@ -107,3 +107,76 @@ def test_context_text_shows_corrected_status_replacement_and_amendment():
 
 def test_related_document_model_accepts_graph_maps():
     assert RelatedDocument(documentNumber="1/QĐ", title=None, status=None, issueDate=None).title is None
+
+
+# ------------------------------------------------------------------ rerank
+
+
+def test_rerank_reorders_rrf_seeds_by_scorer_and_keeps_rrf_score():
+    scorer = lambda q, passages: [1.0 if "đúng" in p else 0.0 for p in passages]  # noqa: E731
+    seeds = _service(top_k=2, reranker=scorer).select_seeds(
+        [_seed("a"), _seed("b", text="Điều trả lời đúng câu hỏi " * 10)], [], [], question="hỏi gì")
+    assert [s["articleId"] for s in seeds] == ["b", "a"]
+    assert seeds[0]["via"][-1] == "rerank" and seeds[0]["rrfScore"] is not None
+
+
+def test_rerank_only_touches_candidate_pool_and_ties_keep_rrf_order():
+    calls = []
+
+    def scorer(q, passages):
+        calls.append(len(passages))
+        return [0.0] * len(passages)
+
+    ids = [chr(ord("a") + i) for i in range(6)]
+    seeds = _service(top_k=6, reranker=scorer, rerank_candidates=3).select_seeds(
+        [_seed(i) for i in ids], [], [], question="q")
+    assert calls == [3]
+    assert [s["articleId"] for s in seeds] == ids
+
+
+def test_rerank_failure_falls_back_to_rrf_order():
+    def scorer(q, passages):
+        raise RuntimeError("hết quota")
+
+    seeds = _service(top_k=2, reranker=scorer).select_seeds([_seed("a"), _seed("b")], [], [], question="q")
+    assert [s["articleId"] for s in seeds] == ["a", "b"]
+    assert "rerank" not in seeds[0]["via"]
+
+
+def test_rerank_skipped_without_question():
+    scorer = lambda q, p: (_ for _ in ()).throw(AssertionError("không được gọi"))  # noqa: E731
+    seeds = _service(top_k=2, reranker=scorer).select_seeds([_seed("a"), _seed("b")], [], [])
+    assert [s["articleId"] for s in seeds] == ["a", "b"]
+
+
+# ------------------------------------------------------------------ trang PDF
+
+
+def test_page_reference_only_shown_for_high_confidence():
+    from core.chat.answering.evidence import _article_text
+    from core.chat.models import ArticleEvidence
+
+    cao = ArticleEvidence(articleId="x", number="Điều 1", text="Điều 1. Nội dung", pageStart=3, pageEnd=4,
+                          pageConfidence="cao")
+    thap = cao.model_copy(update={"pageConfidence": "trung_binh"})
+    assert "[PDF trang 3–4]" in _article_text(cao)
+    assert "PDF trang" not in _article_text(thap)
+
+
+def test_seed_page_fields_reach_article_evidence():
+    seeds = [_seed("a", pageStart=2, pageEnd=2, pageConfidence="cao")]
+    ctx = _service().build(_service().select_seeds(seeds, [], []), [_doc("1/QĐ")], [])
+    art = ctx.documents[0].articles[0]
+    assert (art.pageStart, art.pageEnd, art.pageConfidence) == (2, 2, "cao")
+
+
+def test_graph_model_attaches_page_provenance_by_article_id():
+    from core.ingest.graph_model import GraphModel
+    from core import normalize
+
+    model = GraphModel({normalize.article_id("doc", "Điều 1"): {"pdf": "a.pdf", "pageStart": 1, "pageEnd": 2,
+                                                                  "confidence": "cao"}})
+    model._add_article({"number": "Điều 1", "text": "t"}, parent_id="doc", parent_label="Document")
+    model._add_article({"number": "Điều 2", "text": "t"}, parent_id="doc", parent_label="Document")
+    assert model.articles[0]["pageStart"] == 1 and model.articles[0]["sourcePdf"] == "a.pdf"
+    assert model.articles[1]["pageStart"] is None
