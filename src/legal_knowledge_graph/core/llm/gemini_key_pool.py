@@ -17,6 +17,7 @@ Starlette chạy nó trong threadpool — nhiều câu hỏi có thể vào bể
 
 from __future__ import annotations
 
+import logging
 import re
 import threading
 import time
@@ -41,8 +42,8 @@ class ModelOverloaded(GeminiCallError):
 
 
 # Lỗi tạm thời: đổi key rồi thử tiếp. Khác với lỗi chết hẳn bên dưới.
-_TRANSIENT = ("429", "500", "503", "504", "RESOURCE_EXHAUSTED", "UNAVAILABLE", "INTERNAL",
-              "DEADLINE_EXCEEDED")
+_TRANSIENT_CODES = frozenset({429, 500, 503, 504})
+_TRANSIENT_NAMES = ("RESOURCE_EXHAUSTED", "UNAVAILABLE", "INTERNAL", "DEADLINE_EXCEEDED")
 
 # 401 = service account bị xoá, 403 = project bị từ chối: chết hẳn, loại
 # key khỏi bể luôn. Lỗi 429 mang quotaId chứa "PerDay" vẫn kèm `retryDelay`
@@ -50,9 +51,14 @@ _TRANSIENT = ("429", "500", "503", "504", "RESOURCE_EXHAUSTED", "UNAVAILABLE", "
 # gây hiểu lầm. Loại vĩnh viễn theo tên quota sẽ khiến cả bể bị loại oan
 # sau một đợt burst. Vì vậy ưu tiên đọc `retryDelay` thật trước, chỉ rơi
 # xuống _FATAL khi KHÔNG có retryDelay.
-_FATAL = ("401", "403", "UNAUTHENTICATED", "PERMISSION_DENIED")
+_FATAL_CODES = frozenset({401, 403})
+_FATAL_NAMES = ("UNAUTHENTICATED", "PERMISSION_DENIED")
 
-_OVERLOADED = ("503", "UNAVAILABLE")
+_OVERLOADED_CODES = frozenset({503})
+_OVERLOADED_NAMES = ("UNAVAILABLE",)
+
+# Dạng "429 RESOURCE_EXHAUSTED" trong thông báo, khi exception không mang mã.
+_STATUS_IN_TEXT = re.compile(r"\b([1-5]\d{2}) [A-Z][A-Z_]{2,}\b")
 
 _DEFAULT_COOLDOWN_SECONDS = 45.0  # cho key dính 429 theo phút khi Google không kèm retryDelay
 # Ngân sách đếm LƯỢT GỌI API THẬT, không đếm lượt "cả bể đang nghỉ nên phải
@@ -79,6 +85,29 @@ def _error_text(exc: BaseException) -> str:
         parts.append(str(current))
         current = current.__cause__
     return " | ".join(parts)
+
+
+def _status_code(exc: BaseException, error_text: str) -> int | None:
+    """Mã HTTP thật của lỗi: đọc từ exception (LangChain bọc lỗi SDK trong __cause__), không
+    dò chuỗi con — \"14031 tokens\" chứa \"403\", \"1429/QĐ-ĐHBK\" chứa \"429\"."""
+
+    current: BaseException | None = exc
+    for _ in range(4):
+        if current is None:
+            break
+        for attr in ("code", "status_code"):
+            value = getattr(current, attr, None)
+            if isinstance(value, int):
+                return value
+        current = current.__cause__
+    match = _STATUS_IN_TEXT.search(error_text)
+    return int(match.group(1)) if match else None
+
+
+def _is_kind(code: int | None, error_text: str, codes: frozenset[int], names: tuple[str, ...]) -> bool:
+    if code is not None:
+        return code in codes
+    return any(re.search(rf"\b{name}\b", error_text) for name in names)
 
 
 class KeyPool:
@@ -134,7 +163,8 @@ class KeyPool:
                 self._keys.remove(key)
                 self._clients.pop(key, None)
             remaining = len(self._keys)
-        log_event("keypool", pool=self.name, key=self.label(key), action="removed", remaining=remaining,
+        log_event("keypool", level=logging.WARNING, pool=self.name, key=self.label(key), action="removed",
+                  remaining=remaining,
                   reason=reason[:200])
         return remaining
 
@@ -189,19 +219,20 @@ def call_with_pool(pool: KeyPool, fn: Callable[[str, genai.Client], T], descript
             raise
         except Exception as exc:
             last_error = _error_text(exc)
-            if fail_fast_on_overload and any(m in last_error for m in _OVERLOADED):
+            code = _status_code(exc, last_error)
+            if fail_fast_on_overload and _is_kind(code, last_error, _OVERLOADED_CODES, _OVERLOADED_NAMES):
                 raise ModelOverloaded(f"{description}: model quá tải — {last_error}") from exc
             retry_seconds = _retry_delay_seconds(last_error)
             if retry_seconds is not None:
                 pool.cooldown(key, max(retry_seconds, 1.0), last_error)
                 continue
-            if any(m in last_error for m in _FATAL):
+            if _is_kind(code, last_error, _FATAL_CODES, _FATAL_NAMES):
                 if pool.remove(key, last_error) == 0:
                     raise GeminiCallError(
                         f"Cả {pool.total} key đều đã hết hạn mức hoặc bị từ chối. Lỗi cuối: {last_error}"
                     ) from exc
                 continue
-            if any(m in last_error for m in _TRANSIENT):
+            if _is_kind(code, last_error, _TRANSIENT_CODES, _TRANSIENT_NAMES):
                 pool.cooldown(key, _DEFAULT_COOLDOWN_SECONDS, last_error)
                 continue
             raise GeminiCallError(f"{description} thất bại: {last_error}") from exc

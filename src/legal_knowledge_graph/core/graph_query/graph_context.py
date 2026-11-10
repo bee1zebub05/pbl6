@@ -80,24 +80,24 @@ EXPAND_DOCUMENTS = f"""
     }}
     CALL (d) {{
         OPTIONAL MATCH (t:Document)-[:REPLACES]->(d)
-        WITH t ORDER BY t.issueDate DESC
+        WITH t ORDER BY t.issueDate IS NULL, t.issueDate DESC
         RETURN [x IN collect({_REF}) WHERE x.documentNumber IS NOT NULL][..$maxRelated] AS replacedBy
     }}
     CALL (d) {{
         OPTIONAL MATCH (t:Document)-[:REPEALS]->(d)
-        WITH t ORDER BY t.issueDate DESC
+        WITH t ORDER BY t.issueDate IS NULL, t.issueDate DESC
         RETURN [x IN collect({_REF}) WHERE x.documentNumber IS NOT NULL][..$maxRelated] AS repealedBy
     }}
     CALL (d) {{
         OPTIONAL MATCH (t:Document)-[r:AMENDS]->(d)
-        WITH t, r ORDER BY t.issueDate DESC
+        WITH t, r ORDER BY t.issueDate IS NULL, t.issueDate DESC
         RETURN [x IN collect({{documentNumber: t.documentNumber, title: t.title, status: t.status,
                                issueDate: t.issueDate, targetArticle: r.targetArticle}})
                 WHERE x.documentNumber IS NOT NULL][..$maxRelated] AS amendedBy
     }}
     CALL (d) {{
         OPTIONAL MATCH (d)-[:BASED_ON]->(t:Document)
-        WITH t ORDER BY t.isStub, t.issueDate DESC
+        WITH t ORDER BY t.isStub, t.issueDate IS NULL, t.issueDate DESC
         RETURN [x IN collect({_REF}) WHERE x.documentNumber IS NOT NULL][..$maxRelated] AS basedOn
     }}
     RETURN key AS docKey, d.documentNumber AS documentNumber, d.title AS title, d.documentType AS documentType,
@@ -106,15 +106,16 @@ EXPAND_DOCUMENTS = f"""
 
 # Điều liền kề: cùng nút cha trực tiếp (Document hoặc NormativeContent), số
 # Điều lệch đúng 1 — tránh lẫn "Điều 1" của quyết định với "Điều 1" của quy chế kèm theo.
+# Chỉ áp dụng cho số `Điều N`: toInteger('2.1') = 2 nên mục 2.1, 2.2 sẽ bị coi là cùng số.
 _ARTICLE_NO = "toInteger(replace({v}.number, 'Điều ', ''))"
 
 NEIGHBOR_ARTICLES = f"""
     UNWIND $articleIds AS id
     MATCH (p)-[:HAS_ARTICLE]->(a:Article {{articleId: id}})
-    WITH id, p, {_ARTICLE_NO.format(v="a")} AS n
-    WHERE n IS NOT NULL
+    WITH id, p, a, {_ARTICLE_NO.format(v="a")} AS n
+    WHERE n IS NOT NULL AND a.number STARTS WITH 'Điều '
     MATCH (p)-[:HAS_ARTICLE]->(nb:Article)
-    WHERE {_ARTICLE_NO.format(v="nb")} IN [n - 1, n + 1]
+    WHERE nb.number STARTS WITH 'Điều ' AND {_ARTICLE_NO.format(v="nb")} IN [n - 1, n + 1]
     RETURN id AS articleId, nb.articleId AS neighborId, nb.number AS number, nb.heading AS heading, nb.text AS text
     ORDER BY id, {_ARTICLE_NO.format(v="nb")}
 """

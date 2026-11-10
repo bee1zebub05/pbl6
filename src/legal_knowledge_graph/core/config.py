@@ -147,7 +147,7 @@ CORS_ORIGINS = [o.strip() for o in os.getenv(
 
 # Log cục bộ có cấu trúc (core/observability.py).
 LOG_LEVEL = os.getenv("LKG_LOG_LEVEL", "INFO").upper()
-LOG_DIR = REPO_ROOT / "logs"
+LOG_DIR = Path(os.getenv("LKG_LOG_DIR") or REPO_ROOT / "logs")
 # Log theo phiên hội thoại (core/chat/session_log.py): mỗi thread_id một file
 # văn bản, ghi đầu vào / đầu ra của từng bước ở mỗi lượt — để debug.
 SESSION_LOG_ENABLED = os.getenv("LKG_SESSION_LOG", "true").lower() == "true"

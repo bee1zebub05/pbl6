@@ -20,6 +20,7 @@ from dataclasses import dataclass, field
 
 from .container import build_chat_service
 from .models import ChatResponse
+from .prompts import TONE_BANNED
 
 
 @dataclass(frozen=True)
@@ -200,6 +201,7 @@ class _Report:
     kind: _Score = field(default_factory=_Score)
     turns: _Score = field(default_factory=_Score)
     dialogs: _Score = field(default_factory=_Score)
+    tone: _Score = field(default_factory=_Score)
 
 
 def _check_turn(expect: Expect, r: ChatResponse, report: _Report) -> list[str]:
@@ -237,6 +239,10 @@ def run(verbose: bool = False, with_retrieval: bool = False) -> int:
             r = service.ask(turn.question, thread_id=thread_id)
             summary = (f"kind={r.kind} intent={r.intent} action={r.action} template={r.template} "
                        f"params={r.params} llm_calls={r.llm_calls} turn={r.turn_id}")
+            robotic = [p for p in TONE_BANNED if p in r.answer.lower()]
+            report.tone.add(not robotic)
+            if robotic:
+                print(f"      giọng văn: {robotic} trong {r.answer[:120]!r}")
             if turn.expect.observe_only:
                 print(f"INFO  {turn.question}\n      -> {summary}")
                 if verbose:
@@ -266,6 +272,7 @@ def run(verbose: bool = False, with_retrieval: bool = False) -> int:
     print(f"Kind cuối (end-to-end):               {report.kind}")
     print(f"Lượt có assert PASS:                  {report.turns}")
     print(f"Hội thoại nhiều lượt PASS:            {report.dialogs}")
+    print(f"Giọng văn sạch (chỉ báo cáo):         {report.tone}")
     return 0 if report.turns.ok == report.turns.checked else 1
 
 

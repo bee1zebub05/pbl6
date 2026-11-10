@@ -12,6 +12,7 @@ theo model, đổi key không giúp được. Sau đó model chính bị bỏ qu
 
 from __future__ import annotations
 
+import logging
 import threading
 import time
 from typing import Any
@@ -59,7 +60,7 @@ class GeminiPooledLLM(LangChainLLM):
         except gemini_key_pool.ModelOverloaded as exc:
             with self._lock:
                 self._primary_overloaded_until = time.time() + _OVERLOAD_SECONDS
-            log_event("llm.fallback", model=self.model_name, fallback=self._fallback,
+            log_event("llm.fallback", level=logging.WARNING, model=self.model_name, fallback=self._fallback,
                       skip_seconds=_OVERLOAD_SECONDS, reason=str(exc)[:200])
             return self._call_model(self._fallback, build, messages, info)
 

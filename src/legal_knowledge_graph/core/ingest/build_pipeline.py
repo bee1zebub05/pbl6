@@ -21,7 +21,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from .. import config, db
+from .. import db
 from . import collision_check
 from .build import collect_and_summarize, push_and_report
 
@@ -46,7 +46,8 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description="Chạy trọn: collision-check -> validate -> build -> sanity"
     )
-    parser.add_argument("--dir", type=Path, default=config.DEFAULT_DATA_DIR)
+    # Bắt buộc: lệnh này mặc định xoá graph, không có thư mục ngầm định nào an toàn cả.
+    parser.add_argument("--dir", type=Path, required=True)
     parser.add_argument(
         "--no-wipe", action="store_true",
         help="Không xoá graph cũ trước khi nạp (mặc định LÀ xoá, --wipe)",

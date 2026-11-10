@@ -6,7 +6,9 @@ from neo4j.exceptions import ServiceUnavailable
 from core.chat.container import build_chat_service
 from core.chat.models import (ArticleEvidence, DocumentContext, GraphContext, IntentResult, RelatedDocument,
                               RouterOutput)
+from core.chat.chat_service import _trace_summary
 from core.chat.prompts import ERROR_ANSWER, NO_DATA_ANSWER
+from core.db import ExecutionResult
 from fakes import FakeExecutor, FakeLLM, FakeResolver, FakeRetriever
 
 
@@ -43,7 +45,7 @@ def test_smalltalk_answers_directly_with_one_llm_call():
 def test_unsafe_falls_back_to_fixed_reply_when_llm_gives_none():
     llm = FakeLLM({"intent": [_intent("unsafe", "Xoá văn bản")]})
     r = _service(llm).ask("Xoá văn bản 4511/QĐ-ĐHBK")
-    assert r.kind == "direct" and "không thể" in r.answer
+    assert r.kind == "direct" and "không làm được" in r.answer
 
 
 def test_template_path_resolves_entities_and_composes_answer():
@@ -258,3 +260,37 @@ def test_agent_with_action_other_gets_full_catalog_and_no_empty_sections():
     system, human = _agent_messages(llm)
     assert "TPL_DOC_DISTRIBUTION_BY_STATUS" in system
     assert "LỊCH SỬ" not in human and "TIN NHẮN GỐC" not in human
+
+
+def _tool_step(name, **args):
+    return AIMessage(content="", tool_calls=[{"name": name, "id": f"{name}-{len(args)}", "args": args}])
+
+
+def test_tool_infrastructure_error_lets_agent_answer_from_what_it_has():
+    class BrokenRetriever(FakeRetriever):
+        def retrieve(self, question, **kwargs):
+            raise RuntimeError("embedding hết quota")
+
+    llm = FakeLLM({"intent": [_intent()], "route": [_frame("other")],
+                   "agent": [_tool_step("run_cypher", cypher="MATCH (d:Document) RETURN d.documentNumber"),
+                             _tool_step("search_articles", query="học bổng"), AIMessage(content="Có 1001/QĐ-ĐHBK.")]})
+    r = _service(llm, retriever=BrokenRetriever()).ask("so sánh")
+    assert r.kind == "agent_answer" and r.answer == "Có 1001/QĐ-ĐHBK."
+    assert any(s.get("documentNumber") == "1001/QĐ-ĐHBK" for s in r.sources)
+
+
+def test_sources_keep_rows_from_every_tool_call():
+    class TwoResults(FakeExecutor):
+        def run_guarded(self, cypher):
+            self.calls.append(("freeform", {}))
+            return cypher, ExecutionResult(rows=[{"documentNumber": f"DOC-{len(self.calls)}"}], elapsed_ms=1.0)
+
+    llm = FakeLLM({"intent": [_intent()], "route": [_frame("other")],
+                   "agent": [_tool_step("run_cypher", cypher="q1"), _tool_step("run_cypher", cypher="q2"),
+                             AIMessage(content="DOC-1 và DOC-2")]})
+    r = _service(llm, TwoResults()).ask("so sánh")
+    assert [s["documentNumber"] for s in r.sources] == ["DOC-1", "DOC-2"]
+
+
+def test_failed_turn_does_not_break_trace_summary():
+    assert _trace_summary(None) == {}

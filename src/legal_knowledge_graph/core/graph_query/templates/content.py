@@ -92,7 +92,7 @@ TEMPLATES: list[Template] = [
             MATCH (node)-[:BASED_ON|REFERENCES*0..2]->(expanded:Document)
             RETURN DISTINCT expanded.documentNumber AS documentNumber, expanded.title AS title,
                    expanded.authorityLevel AS level, expanded.isStub AS isStub
-            ORDER BY level DESC
+            ORDER BY level IS NULL, level DESC
             LIMIT $limit
         """,
         params=(P_PHRASE, ParamSpec("seedLimit", "int_limit", required=False, default=10), P_LIMIT),

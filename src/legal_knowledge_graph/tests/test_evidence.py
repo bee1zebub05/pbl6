@@ -25,3 +25,17 @@ def test_row_source_status_is_corrected_by_graph_context():
     rows = [{"documentNumber": "1/QĐ", "status": "CON_HIEU_LUC"}]
     hits = [{"documentNumber": "1/QĐ", "articleId": "1#Điều 2", "effectiveStatus": "HET_HIEU_LUC"}]
     assert collect_sources(rows, hits)[0]["status"] == "HET_HIEU_LUC"
+
+
+def test_full_article_text_reaches_the_prompt():
+    text = rows_to_text([{"articleId": "x", "text": "a" * 1200}], limit=30)
+    assert text.count("a") >= 1200 and "đã cắt" not in text
+
+
+def test_other_long_columns_are_still_shortened():
+    assert rows_to_text([{"title": "a" * 1200}], limit=30).count("a") < 400
+
+
+def test_text_over_budget_is_cut_and_says_so():
+    text = rows_to_text([{"text": "a" * 50000}], limit=30)
+    assert text.count("a") < 50000 and "đã cắt" in text

@@ -3,7 +3,7 @@ Kết nối Neo4j của module — chỗ DUY NHẤT tạo driver và chạy Cyph
 
   Neo4jConnection  một driver sống suốt tiến trình (chatbot, API)
   session()        mở rồi đóng driver mỗi lần (lệnh CLI chạy một lần: nạp, backfill embedding)
-  run_in_session   chạy Cypher ĐỌC có timeout thật
+  run_in_session   chạy Cypher ĐỌC có timeout thật, trả về kiểu Python thuần
   explain          kiểm cú pháp/plan bằng EXPLAIN, không đụng dữ liệu
   run_batched      chạy Cypher GHI theo lô
 
@@ -20,8 +20,10 @@ import threading
 import time
 from contextlib import contextmanager
 from dataclasses import dataclass
+from typing import Any
 
-from neo4j import Driver, GraphDatabase
+from neo4j import READ_ACCESS, Driver, GraphDatabase
+from neo4j.graph import Node, Path, Relationship
 
 from . import config
 
@@ -44,7 +46,11 @@ class Neo4jConnection:
                 self._driver = _new_driver()
             return self._driver
 
-    def session(self):
+    def session(self, *, read_only: bool = False):
+        """`read_only`: Neo4j từ chối mọi lệnh ghi trong phiên này, kể cả khi lọt qua cypher_guard."""
+
+        if read_only:
+            return self.driver.session(database=config.NEO4J_DATABASE, default_access_mode=READ_ACCESS)
         return self.driver.session(database=config.NEO4J_DATABASE)
 
     def close(self) -> None:
@@ -70,12 +76,25 @@ class ExecutionResult:
     elapsed_ms: float
 
 
+def _plain(value: Any) -> Any:
+    """Đổi kết quả driver thành kiểu thuần: Node/Relationship/ngày giờ không qua được
+    checkpoint LangGraph lẫn JSON của API. Bỏ `embedding`: vô nghĩa với LLM và rất dài."""
+
+    if isinstance(value, (Node, Relationship, dict)):
+        return {k: _plain(v) for k, v in value.items() if k != "embedding"}
+    if isinstance(value, Path):
+        return [_plain(n) for n in value.nodes]
+    if isinstance(value, (list, tuple)):
+        return [_plain(v) for v in value]
+    return value.iso_format() if hasattr(value, "iso_format") else value
+
+
 def run_in_session(session_, cypher: str, params: dict, timeout_seconds: float) -> ExecutionResult:
     start = time.perf_counter()
     tx = session_.begin_transaction(timeout=timeout_seconds)
     try:
         result = tx.run(cypher, **params)
-        rows = [dict(r) for r in result]
+        rows = [_plain(dict(r)) for r in result]
         tx.commit()
     except Exception:
         tx.rollback()

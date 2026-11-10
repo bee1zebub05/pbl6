@@ -41,7 +41,7 @@ class Slots(BaseModel):
     content_type: str | None = Field(default=None, description="Loại nội dung kèm theo (Quy định, Quy chế...)")
     year: int | None = Field(default=None, description="Năm ban hành cụ thể (vd 2024)")
     since_year: int | None = Field(default=None, description="Từ năm ... trở lại đây (vd 'từ 2023 đến nay' -> 2023)")
-    article_number: str | None = Field(default=None, description="Số Điều (vd 'Điều 5')")
+    article_number: str | None = Field(default=None, description="Số Điều hoặc số mục, chép nguyên văn (vd 'Điều 5', 'Mục 2.1', 'Phần II')")
     phrase: str | None = Field(default=None, description="Cụm từ / chủ đề nội dung cần tìm (vd học bổng, thôi học)")
     limit: int | None = Field(default=None, description="Chỉ điền khi người dùng nêu số lượng cụ thể (vd top 5)")
 

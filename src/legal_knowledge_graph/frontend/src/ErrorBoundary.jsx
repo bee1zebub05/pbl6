@@ -18,8 +18,8 @@ export default class ErrorBoundary extends Component {
     if (this.state.error) {
       return (
         <div className="error-boundary">
-          <p>Có lỗi xảy ra khi hiển thị trang.</p>
-          <button onClick={() => this.setState({ error: null })}>Tải lại</button>
+          <p>Trang vừa gặp lỗi khi hiển thị.</p>
+          <button onClick={() => window.location.reload()}>Tải lại trang</button>
         </div>
       )
     }

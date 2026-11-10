@@ -12,6 +12,7 @@ giữ Cypher/dòng/Điều thật để node chính trả ra API làm nguồn, k
 from __future__ import annotations
 
 import json
+import logging
 from typing import Annotated, Any, Sequence, TypedDict
 
 from langchain_core.messages import AIMessage, AnyMessage, BaseMessage, HumanMessage, SystemMessage, ToolMessage
@@ -34,7 +35,18 @@ from .answering.evidence import context_to_text, rows_to_text
 from .retrieval.template_query import TemplateQueryService
 from .understanding.history import format_history, recent_turns
 
+_TOOL_FAILED_NOTE = ("CÔNG CỤ TẠM THỜI LỖI, bước này không lấy được dữ liệu. Trả lời bằng kết quả đã có; "
+                     "chưa có gì thì nói thẳng là chưa tra được.")
+
 _LAST_STEP_NOTE = "Đã hết lượt tra cứu. KHÔNG gọi thêm công cụ — trả lời người dùng ngay bằng bằng chứng đã có."
+
+
+def _tool_failure(exc: Exception) -> str:
+    """Lỗi hạ tầng trong tool (embedding, Neo4j...) không được làm mất bằng chứng đã có ở các bước trước."""
+
+    log_event("agent.tool", level=logging.WARNING, ok=False, error_type=type(exc).__name__, message=str(exc)[:300])
+    session_log.error("agent.tool", exc)
+    return _TOOL_FAILED_NOTE
 
 
 class _AgentState(TypedDict):
@@ -81,6 +93,7 @@ class AgentService:
                 result = self._templates.run(template, params)
             except ResolutionFailed as exc:
                 hint = f" Ứng viên: {', '.join(exc.candidates)}." if exc.candidates else ""
+                hint += f" {exc.hint}" if exc.hint else ""
                 return self._tool_result("run_template", f"KHÔNG RESOLVE ĐƯỢC '{exc.param_name}': {exc.reason}.{hint}")
             except TemplateParamError as exc:
                 return self._tool_result("run_template", f"LỖI THAM SỐ: {exc}")
@@ -143,7 +156,7 @@ class AgentService:
     def _build_graph(self):
         graph = StateGraph(_AgentState)
         graph.add_node("llm", self._call_llm)
-        graph.add_node("tools", ToolNode(self._tools))
+        graph.add_node("tools", ToolNode(self._tools, handle_tool_errors=_tool_failure))
         graph.add_edge(START, "llm")
         graph.add_conditional_edges("llm", tools_condition, {"tools": "tools", END: END})
         graph.add_edge("tools", "llm")
@@ -188,7 +201,8 @@ class AgentService:
                 tools += [c["name"] for c in m.tool_calls]
             elif isinstance(m, ToolMessage) and isinstance(m.artifact, dict):
                 if m.artifact.get("rows") is not None:
-                    cypher, rows = m.artifact.get("cypher"), m.artifact["rows"]
+                    cypher = m.artifact.get("cypher")
+                    rows += m.artifact["rows"]
                 if m.artifact.get("context") is not None:
                     documents += m.artifact["context"].documents
 

@@ -174,7 +174,7 @@ TEMPLATES: list[Template] = [
             ORDER BY issueDate IS NULL, issueDate DESC
             LIMIT $limit
         """,
-        params=(P_ORG, P_LIMIT), example_params={"orgId": "Phòng Tổ chức Hành chính"},
+        params=(P_ORG, P_LIMIT), example_params={"orgId": "Bộ Giáo dục và Đào tạo"},
     ),
     # ---------------------------------------------------------------- mức 3
     Template(

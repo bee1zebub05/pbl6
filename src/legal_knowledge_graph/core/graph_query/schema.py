@@ -62,7 +62,7 @@ ENUMS: dict[str, tuple[str, ...]] = {
     ),
     "NormativeContent.contentType": (
         "Quy định", "Quy chế", "Điều lệ", "Quy trình", "Nội quy", "Đề án",
-        "Kế hoạch", "Hướng dẫn", "Chương trình",
+        "Kế hoạch", "Hướng dẫn", "Chương trình", "Phụ lục",
     ),
 }
 
@@ -121,6 +121,6 @@ def render_prompt_context() -> str:
     lines.append("## Chỉ được dùng: MATCH, OPTIONAL MATCH, WHERE, WITH, UNWIND, RETURN, "
                   "ORDER BY, LIMIT, CALL db.index.fulltext.queryNodes. "
                   "TUYỆT ĐỐI CẤM: CREATE, MERGE, SET, DELETE, REMOVE, DETACH, DROP, "
-                  "LOAD CSV, FOREACH, CALL apoc.*, CALL dbms.*, CALL gds.*.")
+                  "LOAD CSV, FOREACH, UNION, SHOW, USE, mọi procedure khác, property embedding.")
 
     return "\n".join(lines)

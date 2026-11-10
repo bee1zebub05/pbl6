@@ -32,3 +32,17 @@ def test_cors_follows_configured_origins(origin, allowed):
     client = TestClient(app)  # không vào context -> không chạy lifespan
     response = client.options("/api/chat", headers={"Origin": origin, "Access-Control-Request-Method": "POST"})
     assert (response.headers.get("access-control-allow-origin") == origin) is allowed
+
+
+@pytest.mark.parametrize("thread_id", ["x/../../pwned", "a b", "a\\b", "x" * 65])
+def test_malformed_thread_id_is_rejected(thread_id):
+    response = TestClient(app).post("/api/chat", json={"question": "hỏi", "thread_id": thread_id})
+    assert response.status_code == 422
+
+
+def test_shutdown_closes_the_neo4j_connection(fresh_service, monkeypatch):
+    closed = []
+    monkeypatch.setattr(container, "close_connection", lambda: closed.append(True), raising=False)
+    with TestClient(app):
+        pass
+    assert closed == [True]

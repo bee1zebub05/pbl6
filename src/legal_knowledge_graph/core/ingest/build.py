@@ -47,7 +47,7 @@ def push_and_report(model: GraphModel, wipe: bool) -> dict[str, dict[str, int]]:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Nạp JSON gán tay vào Neo4j (instance riêng)")
-    parser.add_argument("--dir", type=Path, default=config.DEFAULT_DATA_DIR)
+    parser.add_argument("--dir", type=Path, required=True)
     parser.add_argument("--wipe", action="store_true", help="Xoá sạch graph trước khi nạp")
     args = parser.parse_args(argv)
 

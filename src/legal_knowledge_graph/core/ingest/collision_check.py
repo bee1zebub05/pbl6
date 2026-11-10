@@ -1,7 +1,7 @@
 """
 Phát hiện `normalizedNumber` bị trùng bởi >=2 file trong một thư mục dữ
 liệu — KHÔNG tự sửa, chỉ báo cáo. Người rà soát tự quyết: trùng THẬT (cùng
-một văn bản bị crawl/OCR hai lần) thì kệ (build sẽ tự gộp đúng); 2 văn bản
+một văn bản bị crawl/OCR hai lần) thì kệ (build gộp lại, Điều trùng số bị bản đọc sau ghi đè); 2 văn bản
 THẬT KHÁC NHAU dùng chung số hiệu (tổ chức đánh số lại theo năm/phiên họp)
 thì phải điền `idOverride` khác nhau ở từng file rồi chạy lại, nếu không
 build sẽ gộp NHẦM (các nhóm trùng đã biết: docs/GRAPHREPORT.md §5).
@@ -51,9 +51,10 @@ def print_report(data_dir: Path, dup: dict[str, list[tuple[Path, str]]]) -> None
             print(f"   {path.relative_to(data_dir)}")
             print(f"      {title[:100]}")
     print(
-        "\nBuild sẽ GỘP các file này thành 1 Document node (file đọc sau cùng theo thứ tự "
-        "tên thắng ở property phẳng; quan hệ — topics/articles/citations/signers — của "
-        "CẢ các file vẫn được giữ, không mất). Nếu đây là 2+ văn bản THẬT KHÁC NHAU dùng "
+        "\nBuild sẽ GỘP các file này thành 1 Document node: file đọc sau cùng theo thứ tự tên "
+        "thắng ở property phẳng; topics/citations/signers được cộng dồn; NormativeContent và "
+        "Điều trùng khoá (cùng vị trí, cùng số Điều) thì bản đọc sau GHI ĐÈ bản trước. "
+        "Nếu đây là 2+ văn bản THẬT KHÁC NHAU dùng "
         "chung số hiệu, phải điền idOverride khác nhau ở từng file rồi chạy lại validate/build."
     )
 

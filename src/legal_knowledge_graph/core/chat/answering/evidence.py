@@ -7,9 +7,12 @@ import json
 import re
 from typing import Any
 
+from ... import config
 from ..models import ArticleEvidence, GraphContext, RelatedDocument
 
 _MAX_VALUE_CHARS = 300
+# Toàn văn Điều: LLM phải đọc đủ mới trả lời đúng, chỉ chịu ngân sách chung của cả kết quả.
+_FULL_TEXT_COLUMNS = frozenset({"text"})
 
 
 def _short(value: Any, limit: int = _MAX_VALUE_CHARS) -> Any:
@@ -18,12 +21,29 @@ def _short(value: Any, limit: int = _MAX_VALUE_CHARS) -> Any:
     return value
 
 
+def _show_rows(rows: list[dict]) -> list[dict]:
+    budget = config.GRAPH_RAG_CONTEXT_CHARS
+    shown = []
+    for row in rows:
+        item: dict[str, Any] = {}
+        for key, value in row.items():
+            if key in _FULL_TEXT_COLUMNS and isinstance(value, str):
+                room = max(budget, _MAX_VALUE_CHARS)
+                item[key] = value if len(value) <= room else \
+                    f"{value[:room]}… [đã cắt, còn {len(value) - room} ký tự]"
+                budget -= min(len(value), room)
+            else:
+                item[key] = _short(value)
+        shown.append(item)
+    return shown
+
+
 def rows_to_text(rows: list[dict], limit: int, query_limit: int | None = None) -> str:
     """JSON gọn của tối đa `limit` dòng, kèm tổng số dòng. `query_limit` là
     LIMIT của chính truy vấn: số dòng chạm đúng mức đó nghĩa là kết quả đã bị
     cắt, tổng thật có thể lớn hơn — phải nói rõ để LLM không báo sai tổng."""
 
-    shown = [{k: _short(v) for k, v in r.items()} for r in rows[:limit]]
+    shown = _show_rows(rows[:limit])
     body = json.dumps(shown, ensure_ascii=False, default=str)
     notes = []
     if len(rows) > limit:

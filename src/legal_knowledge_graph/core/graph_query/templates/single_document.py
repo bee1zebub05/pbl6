@@ -21,9 +21,9 @@ TEMPLATES: list[Template] = [
             OPTIONAL MATCH (d)-[:HAS_TOPIC]->(t:Topic)
             RETURN d.documentNumber AS documentNumber, d.title AS title, d.documentType AS documentType,
                    d.status AS status, d.issueDate AS issueDate, d.effectiveDate AS effectiveDate,
-                   d.summary AS summary, org.name AS issuedBy, p.fullName AS signedBy,
-                   collect(DISTINCT t.name) AS topics, d.isStub AS isStub
-            LIMIT 1
+                   d.summary AS summary, collect(DISTINCT org.name) AS issuedBy,
+                   collect(DISTINCT p.fullName) AS signedBy, collect(DISTINCT t.name) AS topics,
+                   d.isStub AS isStub
         """,
         params=(P_DOC,), example_params=_EX,
     ),
