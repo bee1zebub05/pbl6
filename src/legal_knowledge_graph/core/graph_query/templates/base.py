@@ -119,7 +119,8 @@ DOC_COLUMNS = ("d.documentNumber AS documentNumber, d.title AS title, d.document
 DOC_TO_ARTICLE = "(d)-[:PROMULGATES|HAS_ARTICLE*1..2]->(a:Article)"
 ARTICLE_TO_DOC = "(d:Document)-[:PROMULGATES|HAS_ARTICLE*1..2]->(node)"
 
-ARTICLE_ORDER = "coalesce(toInteger(replace(a.number, 'Điều ', '')), 9999)"
+# toInteger('2.1') = 2: mục đánh số nhiều cấp cần a.number để giữ đúng thứ tự.
+ARTICLE_ORDER = "coalesce(toInteger(replace(a.number, 'Điều ', '')), 9999), a.number"
 
 # Bộ lọc tuỳ chọn trên Document d — mỗi $param NULL thì điều kiện bỏ qua.
 _FILTERS: dict[str, str] = {

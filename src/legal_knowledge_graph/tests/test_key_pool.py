@@ -95,3 +95,44 @@ def test_unknown_error_is_not_retried():
     with pytest.raises(GeminiCallError):
         call_with_pool(pool, call, "test")
     assert used == ["k1"]
+
+
+def test_digits_inside_a_message_do_not_kill_keys():
+    pool = KeyPool("test", ["k1", "k2"])
+
+    def call(key, _client):
+        raise RuntimeError("400 INVALID_ARGUMENT: request has 14031 tokens")
+
+    with pytest.raises(GeminiCallError):
+        call_with_pool(pool, call, "test")
+    assert len(pool) == 2
+
+
+def test_document_number_in_a_message_is_not_an_http_status():
+    pool = KeyPool("test", ["k1", "k2"])
+    used = []
+
+    def call(key, _client):
+        used.append(key)
+        raise ValueError("không đọc được output cho 2403/QĐ-ĐHBK và 1429/QĐ-ĐHBK")
+
+    with pytest.raises(GeminiCallError):
+        call_with_pool(pool, call, "test")
+    assert used == ["k1"] and len(pool) == 2
+
+
+def test_status_code_is_read_from_the_wrapped_sdk_error():
+    class SdkError(Exception):
+        code = 403
+
+    pool = KeyPool("test", ["k1"])
+
+    def call(key, _client):
+        try:
+            raise SdkError("từ chối")
+        except SdkError as exc:
+            raise RuntimeError("Error calling model") from exc
+
+    with pytest.raises(GeminiCallError):
+        call_with_pool(pool, call, "test")
+    assert len(pool) == 0

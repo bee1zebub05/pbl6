@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import threading
 import traceback
 from contextlib import contextmanager
@@ -38,6 +39,7 @@ from .. import config
 _ROLES = {"system": "SYSTEM", "human": "NGƯỜI DÙNG / PROMPT", "ai": "LLM", "tool": "KẾT QUẢ TOOL"}
 _INDENT = "    "
 _MAX_VALUE_CHARS = 1000  # cắt giá trị chuỗi rất dài trong dòng Cypher (toàn văn Điều)
+_SAFE_THREAD_ID = re.compile(r"[A-Za-z0-9_-]{1,64}")
 
 
 @dataclass
@@ -58,12 +60,20 @@ _sessions: dict[str, _Session] = {}
 _current: ContextVar[_Turn | None] = ContextVar("lkg_session_turn", default=None)
 
 
+def _file_id(thread_id: str) -> str:
+    """thread_id đi vào tên file: giá trị lạ đổi thành hash, không để thoát khỏi thư mục log."""
+
+    if _SAFE_THREAD_ID.fullmatch(thread_id):
+        return thread_id
+    return hashlib.sha1(thread_id.encode("utf-8")).hexdigest()
+
+
 def _session_for(thread_id: str) -> _Session:
     with _lock:
         session = _sessions.get(thread_id)
         if session is None:
             now = datetime.now()
-            path = config.SESSION_LOG_DIR / f"{now:%Y-%m-%d}" / f"{now:%H%M%S}_{thread_id}.log"
+            path = config.SESSION_LOG_DIR / f"{now:%Y-%m-%d}" / f"{now:%H%M%S}_{_file_id(thread_id)}.log"
             session = _sessions[thread_id] = _Session(path)
         return session
 

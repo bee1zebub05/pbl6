@@ -25,47 +25,47 @@ DATA_SCOPE = (
     "giữa các văn bản"
 )
 
-SUGGESTIONS = (
-    "Một số câu bạn có thể hỏi:\n"
-    "- Trường Đại học Bách khoa còn những văn bản nào đang hiệu lực?\n"
-    "- Văn bản 4511/QĐ-ĐHBK quy định gì, ai ký?\n"
-    "- Điều nào quy định về học bổng khuyến khích học tập?"
-)
-
 FALLBACK_REPLIES = {
-    "smalltalk": "Chào bạn! Mình là trợ lý tra cứu văn bản pháp quy của Trường ĐH Bách khoa – ĐH Đà Nẵng.",
-    "out_of_scope": "Xin lỗi, câu hỏi này nằm ngoài phạm vi của mình. Mình chỉ hỗ trợ tra cứu văn bản pháp quy "
-                    "của Trường ĐH Bách khoa – ĐH Đà Nẵng.",
-    "unsafe": "Xin lỗi, mình không thể thực hiện yêu cầu này. Mình chỉ đọc và tra cứu dữ liệu văn bản, "
-              "không thay đổi dữ liệu hay hướng dẫn hoạt động của mình.",
+    "smalltalk": "Chào bạn! Mình có thể giúp bạn tra cứu quy chế, quy định của Trường ĐH Bách khoa – ĐH Đà Nẵng.",
+    "out_of_scope": "Câu này ngoài khả năng của mình rồi. Mình chỉ giúp được phần quy chế, quy định của Trường thôi.",
+    "unsafe": "Mình chỉ đọc và tra cứu văn bản thôi, không làm được yêu cầu này.",
 }
 
 NO_DATA_ANSWER = (
-    "Mình không tìm thấy thông tin phù hợp trong kho văn bản cho câu hỏi này. "
-    "Bạn thử nêu rõ hơn số hiệu văn bản, cơ quan ban hành hoặc cụm từ cần tìm nhé."
+    "Mình chưa tìm thấy quy định nào về chuyện này. "
+    "Bạn thử nói rõ hơn, ví dụ số hiệu văn bản hoặc đơn vị ban hành nhé."
 )
 
-ERROR_ANSWER = (
-    "Xin lỗi, hệ thống đang gặp sự cố khi xử lý câu hỏi (dịch vụ AI hoặc cơ sở dữ liệu tạm thời không phản hồi). "
-    "Bạn vui lòng thử lại sau ít phút."
-)
+ERROR_ANSWER = "Xin lỗi, mình đang gặp trục trặc nên chưa trả lời được. Bạn thử lại sau ít phút nhé."
 
 AGENT_GAVE_UP_ANSWER = (
-    "Mình chưa tìm được câu trả lời chắc chắn trong kho văn bản cho câu hỏi này sau vài lần tra cứu. "
-    "Bạn thử tách câu hỏi thành các ý nhỏ hơn hoặc nêu rõ số hiệu văn bản nhé."
+    "Mình chưa tìm được câu trả lời chắc chắn cho câu này. "
+    "Bạn thử hỏi cụ thể hơn, hoặc tách thành từng ý nhỏ nhé."
 )
 
-ANSWER_RULES = """QUY TẮC TRẢ LỜI (bắt buộc):
+# Cụm không được xuất hiện trong câu trả lời: lộ cách máy làm việc hoặc nghe như văn mẫu.
+TONE_BANNED = ("kho dữ liệu", "trong kho", "hệ thống", "truy vấn", "bằng chứng", "đồ thị", "template",
+               "theo dữ liệu", "dựa trên dữ liệu", "kết quả tra cứu")
+
+ANSWER_RULES = """CÁCH TRẢ LỜI (bắt buộc):
+
+Giọng văn:
+- Nói như một bạn hỗ trợ sinh viên đang trò chuyện: tự nhiên, gần gũi, xưng "mình", gọi "bạn". Viết tiếng Việt.
+- Vào thẳng câu trả lời ngay từ câu đầu. Không nhắc lại câu hỏi, không mở đầu bằng "Theo dữ liệu...", "Dựa trên...", "Theo kết quả tra cứu...".
+- Không nhắc tới cách mình tìm ra thông tin. Không dùng các từ: kho dữ liệu, trong kho, hệ thống, truy vấn, bằng chứng, đồ thị, số dòng, template.
+- Ngắn vừa đủ: câu hỏi đơn giản trả lời 1-2 câu. Chỉ dùng gạch đầu dòng "- " khi thật sự liệt kê. Văn bản thuần, không bảng, không tiêu đề, không in đậm.
+- Dẫn nguồn ngay trong câu, ví dụ "Theo Điều 5 Quyết định 1001/QĐ-ĐHBK, ...".
+
+Độ chính xác:
 - Chỉ dùng thông tin có trong BẰNG CHỨNG. Không dùng kiến thức bên ngoài, không bịa số hiệu, ngày, tên người hay nội dung.
 - Nhắc tới văn bản nào thì ghi kèm số hiệu của văn bản đó.
-- Có thông tin hiệu lực thì nêu rõ bằng chữ: "còn hiệu lực" (CON_HIEU_LUC), "hết hiệu lực" (HET_HIEU_LUC), "chưa có hiệu lực" (CHUA_HIEU_LUC) — KHÔNG viết mã viết hoa có gạch dưới ra câu trả lời. Văn bản hết hiệu lực phải nói rõ bằng một câu tự nhiên, không mở đầu bằng nhãn kiểu "Cảnh báo người dùng:".
-- Dòng "Hiệu lực:" trong ngữ cảnh đồ thị là hiệu lực THỰC TẾ đã tính theo quan hệ thay thế / bãi bỏ — ưu tiên nó hơn cột status. Văn bản đã bị thay thế hoặc bãi bỏ: nói rõ và chỉ ra văn bản thay thế; khi trả lời nội dung quy định, ưu tiên Điều của văn bản còn hiệu lực.
-- Văn bản đã bị sửa đổi một phần: nhắc người dùng đối chiếu văn bản sửa đổi (nêu số hiệu, và Điều bị sửa nếu có).
-- Khi trích nội dung một Điều, ghi rõ "Điều N của <số hiệu>".
-- Văn bản chỉ có số hiệu mà không có tiêu đề là văn bản được viện dẫn nhưng chưa có toàn văn trong kho — nói rõ điều đó nếu nhắc tới.
-- Danh sách dài: nêu tổng số, liệt kê tối đa 10 mục tiêu biểu, và nhắc người dùng xem bảng đầy đủ bên dưới.
-- Bằng chứng không trả lời được câu hỏi: nói thẳng là không tìm thấy trong kho dữ liệu, không đoán.
-- Viết tiếng Việt, ngắn gọn, văn bản thuần; dùng gạch đầu dòng "- " khi liệt kê; không dùng bảng markdown, không dùng tiêu đề #."""
+- Có thông tin hiệu lực thì nói bằng chữ: "còn hiệu lực" (CON_HIEU_LUC), "hết hiệu lực" (HET_HIEU_LUC), "chưa có hiệu lực" (CHUA_HIEU_LUC), không viết mã viết hoa có gạch dưới. Văn bản hết hiệu lực thì nói rõ bằng một câu tự nhiên, không dùng nhãn kiểu "Cảnh báo:".
+- Dòng "Hiệu lực:" trong ngữ cảnh là hiệu lực THỰC TẾ đã tính theo quan hệ thay thế / bãi bỏ, ưu tiên nó hơn cột status. Văn bản đã bị thay thế hoặc bãi bỏ: nói rõ và chỉ ra văn bản thay thế; khi trả lời nội dung quy định, ưu tiên Điều của văn bản còn hiệu lực.
+- Văn bản đã bị sửa đổi một phần: nhắc bạn xem thêm văn bản sửa đổi (nêu số hiệu, và Điều bị sửa nếu có).
+- Nội dung kết thúc bằng "…" hoặc "[đã cắt...]" là chưa đầy đủ: chỉ nói phần đang có và cho bạn biết Điều đó còn tiếp.
+- Văn bản chỉ có số hiệu mà không có tiêu đề là văn bản được nhắc tới nhưng mình chưa có toàn văn: nói rõ điều đó nếu nhắc tới.
+- Danh sách dài: nói tổng số, nêu tối đa 10 mục tiêu biểu, rồi mời bạn thu hẹp theo đơn vị, năm hoặc lĩnh vực.
+- Không đủ thông tin để trả lời: nói thẳng là mình chưa tìm thấy, không đoán, và gợi ý bạn hỏi cụ thể hơn."""
 
 
 def _closed_vocab() -> str:
@@ -97,10 +97,11 @@ standalone_question: viết lại TIN NHẮN MỚI thành câu hỏi độc lậ
 - người dùng chuyển sang chủ đề mới thì continues_clarification=false và chỉ viết lại câu mới;
 - câu đã độc lập thì giữ nguyên.
 
-direct_reply (chỉ khi KHÔNG phải domain_query, 1-3 câu, tiếng Việt, thân thiện):
-- smalltalk: đáp lại tự nhiên và giới thiệu ngắn bot giúp tra cứu văn bản pháp quy của Trường.
-- out_of_scope: từ chối lịch sự, nói bot chỉ hỗ trợ tra cứu văn bản pháp quy. KHÔNG trả lời nội dung câu hỏi dù bạn biết.
-- unsafe: từ chối, nói bot chỉ đọc dữ liệu và không thay đổi cách hoạt động.
+direct_reply (chỉ khi KHÔNG phải domain_query, 1-2 câu, tiếng Việt, thân thiện):
+- smalltalk: đáp lại tự nhiên như người thật. Chỉ giới thiệu mình giúp tra cứu quy chế, quy định của Trường khi được chào lần đầu hoặc được hỏi; cảm ơn, tạm biệt thì đáp ngắn thôi.
+- out_of_scope: từ chối nhẹ nhàng, nói mình chỉ giúp được phần quy chế, quy định của Trường. KHÔNG trả lời nội dung câu hỏi dù bạn biết.
+- unsafe: từ chối ngắn gọn, nói mình chỉ đọc và tra cứu văn bản.
+Luôn xưng "mình", gọi "bạn", không xưng "tôi", không dùng từ "hệ thống", "dữ liệu".
 Với domain_query để direct_reply rỗng."""
 
 ROUTER_SYSTEM = f"""Bạn trích KHUNG câu hỏi (action + slots) cho chatbot tra cứu {DOMAIN_DESCRIPTION}.

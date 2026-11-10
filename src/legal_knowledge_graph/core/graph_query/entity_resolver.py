@@ -133,7 +133,7 @@ def resolve_organization(mention: str, session) -> Resolution:
 
 _person_cache: dict[str, str] | None = None  # personId -> fullName
 _HONORIFICS = re.compile(
-    r"^\s*((thầy|cô|ông|bà|anh|chị|đồng chí|gs|pgs|ts|ths|ths\.|gs\.|pgs\.|ts\.)[\s.]*)+", re.IGNORECASE
+    r"^\s*((thầy|cô|ông|bà|anh|chị|đồng chí|gs|pgs|ts|ths)(\.\s*|\s+))+", re.IGNORECASE
 )
 
 
@@ -243,7 +243,10 @@ def resolve_doc_type(mention: str) -> Resolution:
 # ============================================================
 
 _YEAR = re.compile(r"(19|20)\d{2}")
-_ARTICLE_NUMBER = re.compile(r"(\d+[a-zA-Z]?)")
+_ARTICLE_WORD = re.compile(r"điều\s+(\d+[a-zA-Z]?)", re.IGNORECASE)
+_ARTICLE_BARE = re.compile(r"\d+[a-zA-Z]?")
+# Bản kèm theo đánh số bằng mục (`2.1`) hoặc La Mã (`IV`) — đúng dạng Article.number của schema.
+_SECTION_NUMBER = re.compile(r"(?:(?:mục|phần)\s+)?(\d+(?:\.\d+)*|[IVXL]+)\.?", re.IGNORECASE)
 
 
 def resolve_year(raw) -> Resolution:
@@ -254,12 +257,19 @@ def resolve_year(raw) -> Resolution:
 
 
 def resolve_article_number(raw) -> Resolution:
-    """'điều 5' / '5' / 'Điều 5a' -> 'Điều 5' (đúng dạng Article.number)."""
+    """Về đúng dạng Article.number: 'điều 5' / '5' -> 'Điều 5', 'Mục 3' -> '3',
+    '2.1' -> '2.1', 'Phần II' -> 'II'. Không đổi mục thành Điều."""
 
-    match = _ARTICLE_NUMBER.search(str(raw))
+    text = unicodedata.normalize("NFC", str(raw)).strip()
+    match = _ARTICLE_WORD.search(text)
     if match:
         return Resolved(f"Điều {match.group(1)}")
-    return NotFound(suggestion="cần số Điều, ví dụ Điều 5")
+    if _ARTICLE_BARE.fullmatch(text):
+        return Resolved(f"Điều {text}")
+    match = _SECTION_NUMBER.fullmatch(text)
+    if match:
+        return Resolved(match.group(1).upper())
+    return NotFound(suggestion="cần số Điều hoặc số mục, ví dụ Điều 5, 2.1")
 
 
 def resolve_text(raw) -> Resolution:

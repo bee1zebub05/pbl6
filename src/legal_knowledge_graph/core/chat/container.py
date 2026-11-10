@@ -42,6 +42,14 @@ def _neo4j_connection() -> Neo4jConnection:
         return _connection
 
 
+def close_connection() -> None:
+    """Đóng driver khi server dừng; lần dùng sau (nếu có) tự mở lại."""
+
+    with _lock:
+        if _connection is not None:
+            _connection.close()
+
+
 _STRUCTURED_METHODS = ("json_schema", "function_calling", "json_mode")
 
 

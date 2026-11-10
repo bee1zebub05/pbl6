@@ -1,8 +1,9 @@
 """
 Quan sát chatbot: log cục bộ có cấu trúc + LangSmith tracing.
 
-- Log: logger `lkg.chat`, mỗi dòng một JSON, ra console và `logs/chat.log`
-  (xoay vòng 5 MB x 3). Mọi nơi chỉ gọi `log_event(stage, **fields)` — hàm
+- Log: logger `lkg.chat`, mỗi dòng một JSON ở `logs/chat.log` (xoay vòng 5 MB x 3).
+  Console chỉ in một dòng ngắn mỗi lượt cùng cảnh báo / lỗi; LKG_LOG_LEVEL=DEBUG
+  thì in đủ JSON. Mọi nơi chỉ gọi `log_event(stage, **fields)` — hàm
   này tự gắn `thread_id`/`turn_id` của lượt hỏi đang chạy (contextvars), nên
   grep một `turn_id` là ra trọn chuỗi intent -> route -> cypher -> answer.
 - LangSmith: bật khi `.env` có `LANGSMITH_API_KEY` (và `LANGSMITH_TRACING`
@@ -38,6 +39,7 @@ _llm_calls: ContextVar[list[int] | None] = ContextVar("lkg_llm_calls", default=N
 _turn_deadline: ContextVar[float | None] = ContextVar("lkg_turn_deadline", default=None)
 
 _configured = False
+_TURN_END = "turn.end"
 
 
 def _ensure_tracing_env() -> None:
@@ -61,6 +63,24 @@ class _JsonFormatter(logging.Formatter):
         return json.dumps(payload, ensure_ascii=False, default=str)
 
 
+class _ConsoleFormatter(logging.Formatter):
+    """Dòng đọc được trên terminal: `14:02:11 answer 3 LLM 8.2s "câu hỏi"`."""
+
+    def format(self, record: logging.LogRecord) -> str:
+        clock = time.strftime("%H:%M:%S", time.localtime(record.created))
+        fields = getattr(record, "fields", {})
+        if fields.get("stage") == _TURN_END:
+            return (f"{clock} {fields.get('kind')} {fields.get('llm_calls')} LLM "
+                    f"{(fields.get('ms') or 0) / 1000:.1f}s \"{fields.get('question')}\"")
+        where = " ".join(str(x) for x in (fields.get("stage"), fields.get("node"), fields.get("error_type")) if x)
+        detail = fields.get("message") or fields.get("reason") or fields.get("error") or record.getMessage()
+        return f"{clock} {record.levelname} {where}: {str(detail)[:160]}"
+
+
+def _console_worthy(record: logging.LogRecord) -> bool:
+    return record.levelno >= logging.WARNING or getattr(record, "fields", {}).get("stage") == _TURN_END
+
+
 def setup_logging() -> logging.Logger:
     """Idempotent — gọi lại nhiều lần (API, CLI, test) chỉ cấu hình một lần."""
 
@@ -80,7 +100,11 @@ def setup_logging() -> logging.Logger:
     formatter = _JsonFormatter()
 
     console = logging.StreamHandler()
-    console.setFormatter(formatter)
+    if config.LOG_LEVEL == "DEBUG":
+        console.setFormatter(formatter)
+    else:
+        console.setFormatter(_ConsoleFormatter())
+        console.addFilter(_console_worthy)
     logger.addHandler(console)
 
     config.LOG_DIR.mkdir(parents=True, exist_ok=True)

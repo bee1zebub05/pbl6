@@ -103,3 +103,11 @@ def test_disabled_session_log_writes_nothing(monkeypatch, tmp_path):
                                            continues_clarification=False, direct_reply="Chào bạn!")]})
     _service(llm).ask("Chào", thread_id="t-off")
     assert list(tmp_path.rglob("*")) == []
+
+
+def test_thread_id_cannot_escape_the_log_directory(log_dir):
+    thread_id = "x/../../../../pwned"
+    with session_log.turn(thread_id, "t1", "câu hỏi"):
+        session_log.step("bước", a="b")
+    path = session_log.session_path(thread_id).resolve()
+    assert log_dir.resolve() in path.parents and "pwned" not in path.name

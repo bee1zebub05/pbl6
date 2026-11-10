@@ -33,14 +33,14 @@ def main() -> int:
     p_validate.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
 
     p_build = sub.add_parser("build", help="Nạp JSON đã validate vào Neo4j (instance riêng)")
-    p_build.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
+    p_build.add_argument("--dir", type=Path, required=True, help="Thư mục JSON cần nạp")
     p_build.add_argument("--wipe", action="store_true", help="Xoá sạch graph trước khi nạp")
 
     p_collisions = sub.add_parser("check-collisions", help="Báo cáo normalizedNumber bị trùng bởi >=2 file")
     p_collisions.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
 
     p_all = sub.add_parser("all", help="Chạy trọn: check-collisions -> validate -> build -> sanity (1 lệnh)")
-    p_all.add_argument("--dir", type=Path, default=None, help="Mặc định: legal_knowledge_graph/samples")
+    p_all.add_argument("--dir", type=Path, required=True, help="Thư mục JSON cần nạp (lệnh này xoá graph cũ)")
     p_all.add_argument("--no-wipe", action="store_true", help="Không xoá graph cũ trước khi nạp (mặc định LÀ xoá)")
 
     p_ask = sub.add_parser("ask", help="Chatbot: hỏi một câu (xem core/chat/)")
@@ -159,6 +159,7 @@ def main() -> int:
             host=args.host,
             port=args.port,
             reload=args.reload,
+            access_log=False,  # mỗi lượt đã có một dòng riêng (core/observability.py)
             reload_dirs=[str(Path(__file__).resolve().parent)] if args.reload else None,
         )
         return 0

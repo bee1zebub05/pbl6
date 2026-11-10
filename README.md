@@ -145,7 +145,8 @@ docker compose up -d               # Neo4j của pipeline gán tay
 Pipeline gán tay:
 
 ```powershell
-python run.py lkg all              # kiểm tra trùng → validate → nạp Neo4j → kiểm tra nhanh
+python run.py lkg all --dir data/clean/json/v4   # kiểm tra trùng → validate → XOÁ graph cũ, nạp lại → kiểm tra nhanh
+python run.py lkg embed-articles   # embedding bị xoá theo graph, phải chạy lại (tốn quota)
 python run.py bench --source benchmark   # bộ đo Cypher: samples | benchmark | scenarios
 python run.py lkg ask "<câu hỏi>"
 python run.py lkg chat              # hội thoại nhiều lượt trong terminal

@@ -41,14 +41,14 @@ class Neo4jQueryExecutor(QueryExecutor):
 
     @traceable(name="neo4j.run_template", run_type="tool", process_outputs=_trace_output)
     def run(self, cypher: str, params: dict[str, Any], *, label: str) -> ExecutionResult:
-        with self._conn.session() as s:
+        with self._conn.session(read_only=True) as s:
             result = db.run_in_session(s, cypher, params, timeout_seconds=config.CYPHER_TIMEOUT_SECONDS)
         self._log(label, cypher, params, result)
         return result
 
     @traceable(name="neo4j.run_guarded", run_type="tool", process_outputs=_trace_output)
     def run_guarded(self, cypher: str) -> tuple[str, ExecutionResult]:
-        with self._conn.session() as s:
+        with self._conn.session(read_only=True) as s:
             try:
                 capped = cypher_guard.guard_freeform_cypher(cypher, {}, row_cap=config.CYPHER_ROW_CAP, session_=s)
             except cypher_guard.GuardRejected as exc:

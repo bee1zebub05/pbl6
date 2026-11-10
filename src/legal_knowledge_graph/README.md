@@ -72,7 +72,7 @@ liệu).
 |---|---|---|
 | `LKG_NEO4J_URI` / `_USER` / `_PASSWORD` / `_DATABASE` | xem trên | Kết nối Neo4j |
 | `LKG_LLM_PROVIDER` | `gemini` | Nhà cung cấp LLM: `gemini` hoặc `openai_compatible` (mục "Đổi LLM và embedding") |
-| `LKG_LLM_MODEL` | `gemini-3.6-flash` | Model của chatbot (`LKG_GEMINI_MODEL` là tên cũ, vẫn được đọc) |
+| `LKG_LLM_MODEL` | `gemini-3.5-flash` | Model của chatbot (`LKG_GEMINI_MODEL` là tên cũ, vẫn được đọc) |
 | `LKG_LLM_BASE_URL` / `LKG_LLM_API_KEY` | (rỗng) | Địa chỉ và key server, chỉ cho `openai_compatible` |
 | `LKG_LLM_STRUCTURED_METHOD` | `json_schema` | Cách ép output có cấu trúc với `openai_compatible`: `json_schema`, `function_calling`, `json_mode` |
 | `LKG_LLM_FALLBACK_MODEL` | (rỗng = tắt) | Model Gemini dự phòng khi model chính báo 503 quá tải (mục "Bể key Gemini") |
@@ -88,7 +88,8 @@ liệu).
 | `LKG_AGENT_MAX_STEPS` | `4` | Số vòng LLM tối đa của agent |
 | `LKG_ANSWER_MAX_ROWS` | `30` | Số dòng kết quả đưa vào prompt trả lời |
 | `LKG_RETRIEVAL_ENABLED` | `true` | Bật GraphRAG (bước `retrieve` và tool `search_articles`) |
-| `LKG_LOG_LEVEL` | `INFO` | Mức log; `DEBUG` ghi thêm Cypher, params, dòng mẫu, traceback |
+| `LKG_LOG_LEVEL` | `INFO` | Mức log; `DEBUG` ghi thêm Cypher, params, dòng mẫu, traceback và in đủ JSON ra console |
+| `LKG_LOG_DIR` | `logs` | Thư mục `chat.log` |
 | `LKG_SESSION_LOG` / `LKG_SESSION_LOG_DIR` | `true` / `logs/sessions` | Log theo phiên hội thoại (mục "Quan sát và debug") |
 | `LANGSMITH_TRACING` | `false` | Bật/tắt LangSmith tracing (`true` để bật) |
 | `LANGSMITH_API_KEY` / `LANGSMITH_PROJECT` | (rỗng) / `pbl6-legal-chatbot` | Khoá và project LangSmith, chỉ dùng khi `LANGSMITH_TRACING=true` |
@@ -119,8 +120,8 @@ thì hệ thống tự tạo `Document` stub.
 ```powershell
 python run.py lkg validate [--dir DIR]
 python run.py lkg check-collisions [--dir DIR]
-python run.py lkg build [--dir DIR] [--wipe]
-python run.py lkg all [--dir DIR] [--no-wipe]
+python run.py lkg build --dir DIR [--wipe]
+python run.py lkg all --dir DIR [--no-wipe]
 python run.py lkg ask "<câu hỏi>" [--verbose]
 python run.py lkg ask --template TPL_XXX --param k=v
 python run.py lkg chat [--verbose]
@@ -135,7 +136,7 @@ python run.py lkg serve-api [--host HOST] [--port PORT] [--reload]
 | `validate` | JSON Schema + kiểm tra chéo, đệ quy, bỏ qua thư mục `_...` |
 | `check-collisions` | Báo cáo `normalizedNumber` bị ≥2 file trùng |
 | `build` | Validate rồi nạp vào Neo4j (`--wipe` để nạp lại từ đầu) |
-| `all` | check-collisions → validate → build → sanity. Mặc định đọc `samples/`; dữ liệu thật: `--dir data/clean/json/v2` |
+| `all` | check-collisions → validate → build → sanity. **Mặc định xoá graph cũ**, kể cả embedding, nên bắt buộc `--dir`; `--no-wipe` để nạp chồng |
 | `ask` | Hỏi chatbot một câu; `--template` chạy thủ công một template, không qua LLM |
 | `chat` | Hội thoại nhiều lượt trong terminal (`/new` mở hội thoại mới, `/exit` thoát) |
 | `templates` | Sinh lại `docs/TEMPLATES.md` — danh mục 68 template từ `core/graph_query/templates/` |
@@ -181,7 +182,7 @@ graph TD
 | Node | Lượt gọi LLM | Việc |
 |---|---|---|
 | `intent` | 1 | Phân loại `domain_query` / `smalltalk` / `out_of_scope` / `unsafe` (ghi/xoá dữ liệu, prompt injection); viết lại câu hỏi nối tiếp thành câu độc lập từ lịch sử hội thoại; với câu ngoài domain trả luôn câu đáp |
-| `respond_direct` | 0 | Trả câu đáp ngắn kèm gợi ý loại câu hỏi bot làm được |
+| `respond_direct` | 0 | Trả câu đáp ngắn của node intent |
 | `route` | 1 | LLM trích **khung câu hỏi**: `action` (56 loại) + 14 slot (org, topic, target_group, doc_number, person, position, status, doc_type, content_type, year, since_year, article_number, phrase, limit) ở cùng một cấp. `TemplateSelector` chọn 1 trong 68 template |
 | `run_template` | 0 | Resolve slot thành khoá thật (alias + so khớp mờ, không LLM), chạy Cypher đã kiểm duyệt |
 | `ask_clarify` | 0 | Hỏi lại khi thiếu slot hoặc thực thể mơ hồ / không tồn tại, kèm ứng viên |
@@ -420,9 +421,9 @@ trả:
 
 `kind`: `answer`, `agent_answer`, `no_data`, `clarification`, `direct`, `error`.
 
-Giao diện chỉ hiển thị câu trả lời và nút ứng viên khi bot hỏi lại; chi tiết
-từng bước nằm ở log phiên (mục "Quan sát và debug"). API vẫn trả đủ các trường
-trên cho CLI `--verbose` và `chat-eval`. Nút "Cuộc hội thoại mới" bỏ
+Giao diện hiển thị câu trả lời, nút ứng viên khi bot hỏi lại và mục "Nguồn"
+thu gọn theo văn bản; chi tiết từng bước nằm ở log phiên (mục "Quan sát và debug"). API vẫn trả đủ các trường
+trên cho CLI `--verbose` và `chat-eval`. Hội thoại giữ trong `sessionStorage` của tab. Nút "Cuộc trò chuyện mới" bỏ
 `thread_id`, nên lượt kế tiếp mở một phiên (và một file log phiên) mới.
 
 ```powershell
@@ -442,8 +443,10 @@ npm install && npm run dev            # http://localhost:5173
 
 ## Quan sát và debug
 
-**Log cục bộ** — `logs/chat.log` (JSON mỗi dòng, xoay vòng 5 MB × 3) và
-console. Mọi dòng mang `thread_id` + `turn_id`; lọc theo `turn_id` để xem
+**Console** — mỗi lượt một dòng (`14:02:11 answer 3 LLM 8.2s "câu hỏi"`) cùng
+cảnh báo và lỗi; `LKG_LOG_LEVEL=DEBUG` thì in đủ JSON.
+
+**Log cục bộ** — `logs/chat.log` (JSON mỗi dòng, xoay vòng 5 MB × 3). Mọi dòng mang `thread_id` + `turn_id`; lọc theo `turn_id` để xem
 trọn một lượt:
 
 | stage | Nội dung |

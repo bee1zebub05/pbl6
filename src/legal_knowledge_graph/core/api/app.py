@@ -18,7 +18,7 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field
 
 from .. import config
-from ..chat.container import get_chat_service
+from ..chat import container
 from ..chat.models import ChatResponse
 
 logger = logging.getLogger(__name__)
@@ -28,8 +28,9 @@ logger = logging.getLogger(__name__)
 async def lifespan(_app: FastAPI):
     # Dựng chatbot ngay khi server khởi động: cấu hình LLM / embedding sai thì
     # server không lên và báo lỗi rõ, thay vì lỗi 500 ở câu hỏi đầu tiên.
-    get_chat_service()
+    container.get_chat_service()
     yield
+    container.close_connection()
 
 
 app = FastAPI(title="legal_knowledge_graph chat API", lifespan=lifespan)
@@ -53,7 +54,7 @@ def _error_response(context: str) -> JSONResponse:
 class ChatRequest(BaseModel):
     question: str = Field(min_length=1, max_length=config.CHAT_MAX_QUESTION_CHARS,
                           description="Câu hỏi tiếng Việt tự nhiên")
-    thread_id: str | None = Field(default=None, max_length=64,
+    thread_id: str | None = Field(default=None, pattern=r"^[A-Za-z0-9_-]{1,64}$",
                                   description="Mã hội thoại; bỏ trống để bắt đầu hội thoại mới")
 
 
@@ -72,7 +73,7 @@ def chat(req: ChatRequest):
     # def thường (không async): Starlette chạy trong threadpool, không block
     # event loop — ask() là I/O đồng bộ (Gemini + Neo4j).
     try:
-        return get_chat_service().ask(req.question, thread_id=req.thread_id)
+        return container.get_chat_service().ask(req.question, thread_id=req.thread_id)
     except ValueError as exc:
         return JSONResponse(status_code=422, content={"error": str(exc)})
     except Exception:

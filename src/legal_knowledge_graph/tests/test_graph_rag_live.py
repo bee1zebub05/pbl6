@@ -38,12 +38,12 @@ def probe_vector(conn):
 
 
 @pytest.fixture(scope="module")
-def superseded_active(conn):
-    """Văn bản status CON_HIEU_LUC nhưng đã bị văn bản MỚI HƠN thay thế / bãi bỏ."""
+def superseded(conn):
+    """Văn bản đã bị văn bản MỚI HƠN thay thế / bãi bỏ."""
 
     with conn.session() as s:
         return [r["k"] for r in s.run(
-            "MATCH (n:Document)-[:REPLACES|REPEALS]->(o:Document {status: 'CON_HIEU_LUC'}) "
+            "MATCH (n:Document)-[:REPLACES|REPEALS]->(o:Document) "
             "WHERE n.issueDate >= o.issueDate RETURN DISTINCT o.normalizedNumber AS k LIMIT 20")]
 
 
@@ -62,13 +62,13 @@ def test_scoped_articles_stay_inside_given_documents(conn, probe_vector):
     assert len(rows) == 2 and {r["documentNumber"] for r in rows} == {"1414/QĐ-ĐHBK"}
 
 
-def test_expand_flags_superseded_documents_quickly(conn, superseded_active):
-    assert superseded_active
+def test_expand_flags_superseded_documents_quickly(conn, superseded):
+    assert superseded
     with conn.session() as s:
         start = time.perf_counter()
-        rows = graph_context.expand_documents(s, superseded_active, 3)
+        rows = graph_context.expand_documents(s, superseded, 3)
         elapsed_ms = (time.perf_counter() - start) * 1000
-    assert len(rows) == len(superseded_active)
+    assert len(rows) == len(superseded)
     assert all(r["replacedBy"] or r["repealedBy"] for r in rows)
     assert elapsed_ms < 1000, f"expand {len(rows)} văn bản mất {elapsed_ms:.0f} ms"
 

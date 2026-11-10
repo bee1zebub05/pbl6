@@ -21,6 +21,8 @@ from .prompts import ERROR_ANSWER
 
 
 def _trace_summary(output: Any) -> dict:
+    if output is None:  # _run raise: không có state để tóm tắt
+        return {}
     state, _ = output
     return {k: state.get(k) for k in ("kind", "intent", "action", "template", "answer")}
 
@@ -51,7 +53,7 @@ class ChatService:
                 state, trace_id = {"kind": "error", "answer": ERROR_ANSWER, "error": str(exc)}, None
             elapsed_ms = (time.perf_counter() - started) * 1000
             response = self._to_response(state, thread_id, turn_id, trace_id, elapsed_ms, llm_calls_in_turn())
-            log_event("turn.end", kind=response.kind, intent=response.intent, action=response.action,
+            log_event("turn.end", question=question[:80], kind=response.kind, intent=response.intent, action=response.action,
                       template=response.template, ms=round(elapsed_ms, 1), llm_calls=response.llm_calls,
                       trace_id=trace_id)
             session_log.step(

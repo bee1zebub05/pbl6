@@ -24,7 +24,7 @@ from ...observability import log_event
 from .. import session_log
 from ..models import ChatState, GraphContext, QueryResult, ResolutionFailed, TemplateParamError
 from ..ports import ContextRetriever
-from ..prompts import ERROR_ANSWER, FALLBACK_REPLIES, SUGGESTIONS
+from ..prompts import ERROR_ANSWER, FALLBACK_REPLIES
 from ..agent import AgentService
 from ..answering.answer import AnswerService
 from ..answering.clarification import ClarificationService
@@ -128,8 +128,6 @@ class ChatNodes:
     def respond_direct(self, state: ChatState) -> dict:
         intent = state.get("intent") or "out_of_scope"
         reply = (state.get("direct_reply") or "").strip() or FALLBACK_REPLIES.get(intent, FALLBACK_REPLIES["out_of_scope"])
-        if intent in ("smalltalk", "out_of_scope"):
-            reply = f"{reply}\n\n{SUGGESTIONS}"
         return self._finish(reply, kind="direct")
 
     @safe_node(ROUTE)

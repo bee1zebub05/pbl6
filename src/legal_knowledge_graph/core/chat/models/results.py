@@ -34,11 +34,13 @@ class ResolutionFailed(Exception):
     """Một tham số không resolve được rõ ràng (mơ hồ hoặc không tồn tại) —
     KHÔNG chạy Cypher nào khi lỗi này xảy ra."""
 
-    def __init__(self, param_name: str, slot: str | None, reason: str, candidates: tuple[str, ...] = ()):
+    def __init__(self, param_name: str, slot: str | None, reason: str, candidates: tuple[str, ...] = (),
+                 hint: str = ""):
         self.param_name = param_name
         self.slot = slot
         self.reason = reason
         self.candidates = candidates
+        self.hint = hint  # gợi ý kỹ thuật cho agent, không hiện cho người dùng
         super().__init__(f"'{param_name}': {reason}")
 
 

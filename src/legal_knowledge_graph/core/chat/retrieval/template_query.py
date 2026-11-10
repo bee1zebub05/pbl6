@@ -61,7 +61,4 @@ class TemplateQueryService:
             return result.value
         if isinstance(result, entity_resolver.Ambiguous):
             raise ResolutionFailed(spec.name, slot, f"'{raw}' mơ hồ", result.candidates)
-        reason = f"không tìm thấy '{raw}'"
-        if result.suggestion:
-            reason += f" — {result.suggestion}"
-        raise ResolutionFailed(spec.name, slot, reason)
+        raise ResolutionFailed(spec.name, slot, f"không tìm thấy {raw}", hint=result.suggestion or "")

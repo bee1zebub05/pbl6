@@ -21,7 +21,7 @@ TEMPLATES: list[Template] = [
         nl_examples=("Văn bản 1214/QĐ-ĐHBK có nhắc tới văn bản nào khác?",
                      "Trong 1137/QĐ-BGDĐT dẫn chiếu những văn bản nào?"),
         pattern="(x)-[r:REFERENCES]->(t:Document)", columns=RELATED_COLUMNS,
-        example_params={"normalizedNumber": "1214/QĐ-ĐHBK"},
+        example_params={"normalizedNumber": "3536/QĐ-ĐHBK"},
     ),
     relation_of_document(
         name="TPL_DOC_CITED_BY", action="document_cited_by", level=2, audience=(GV, QL),
@@ -78,13 +78,15 @@ TEMPLATES: list[Template] = [
                      "Chuỗi các văn bản cũ mà 3868/QĐ-ĐHBK đã thay thế"),
         cypher="""
             MATCH path = (x:Document {normalizedNumber: $normalizedNumber})-[:AMENDS|REPLACES*1..5]->(t:Document)
-            WITH t, min(length(path)) AS depth, last(relationships(path)) AS r
-            RETURN DISTINCT t.documentNumber AS documentNumber, t.title AS title, t.issueDate AS issueDate,
-                   t.isStub AS isStub, type(r) AS relation, depth
+            WITH t, path ORDER BY length(path)
+            WITH t, head(collect(path)) AS shortest
+            RETURN t.documentNumber AS documentNumber, t.title AS title, t.issueDate AS issueDate,
+                   t.isStub AS isStub, type(last(relationships(shortest))) AS relation,
+                   length(shortest) AS depth
             ORDER BY depth, issueDate IS NULL, issueDate DESC
             LIMIT $limit
         """,
-        params=(P_DOC, P_LIMIT_SHORT), example_params={"normalizedNumber": "3868/QĐ-ĐHBK"},
+        params=(P_DOC, P_LIMIT_SHORT), example_params={"normalizedNumber": "08/2021/TT-BGDĐT"},
     ),
     Template(
         name="TPL_DOC_LATEST_VERSION", action="latest_version", level=3, audience=(SV, PH, GV),
@@ -103,7 +105,7 @@ TEMPLATES: list[Template] = [
                    CASE WHEN path IS NULL THEN 0 ELSE length(path) END AS replacements,
                    CASE WHEN path IS NULL THEN [] ELSE [n IN reverse(nodes(path)) | n.documentNumber] END AS chain
         """,
-        params=(P_DOC,), example_params={"normalizedNumber": "2929/QĐ-ĐHBK"},
+        params=(P_DOC,), example_params={"normalizedNumber": "1489/QĐ-ĐHĐN"},
     ),
     Template(
         name="TPL_DOC_VERSION_HISTORY", action="version_history", level=3, audience=(GV, QL),
@@ -124,7 +126,7 @@ TEMPLATES: list[Template] = [
             ORDER BY position
             LIMIT $limit
         """,
-        params=(P_DOC, P_LIMIT_SHORT), example_params={"normalizedNumber": "2652/QĐ-ĐHBK"},
+        params=(P_DOC, P_LIMIT_SHORT), example_params={"normalizedNumber": "1489/QĐ-ĐHĐN"},
     ),
     Template(
         name="TPL_DOC_ALL_RELATIONS", action="document_relations", level=3, audience=(GV, QL),
@@ -160,7 +162,7 @@ TEMPLATES: list[Template] = [
             ORDER BY coalesce(authorityLevel, 0) DESC, hops
             LIMIT $limit
         """,
-        params=(P_DOC, P_LIMIT_SHORT), example_params={"normalizedNumber": "1092/QĐ-ĐHBK"},
+        params=(P_DOC, P_LIMIT_SHORT), example_params={"normalizedNumber": "1899/QĐ-ĐHĐN"},
     ),
     Template(
         name="TPL_DOC_RELATED", action="related_documents", level=4, audience=(SV, GV),
