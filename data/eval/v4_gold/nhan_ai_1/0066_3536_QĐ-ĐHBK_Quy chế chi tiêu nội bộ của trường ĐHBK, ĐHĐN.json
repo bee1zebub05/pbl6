@@ -1,0 +1,189 @@
+{
+  "sourceFile": "Tài chính, kế toán/0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN.txt",
+  "documentNumber": "3536/QĐ-ĐHBK",
+  "signers": [
+    "Đoàn Quang Vinh"
+  ],
+  "targetGroups": [
+    "Đơn vị trực thuộc",
+    "Cán bộ, giảng viên, viên chức, người lao động"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "60/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 60/2021/NĐ-CP ngày 21/6/2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tài chính của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/12/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/12/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "26/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 26/NQ-HĐT ngày 24/12/2021 của Hội đồng trường Trường Đại học Bách khoa về phiên họp thứ sáu;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "đ) Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ GD&ĐT về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "60/2021/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "a) Nghị định số 60/2021/NĐ-CP ngày 21/6/2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "REFERENCES",
+      "context": "3. Các quy định hiện hành của ĐHĐN: Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "REFERENCES",
+      "context": "3. Các quy định hiện hành của ĐHĐN: Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐĐH",
+      "relationType": "REFERENCES",
+      "context": "Nghị quyết số 05/NQ-HĐĐH ngày 22/4/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tài chính của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "REFERENCES",
+      "context": "4. Các quy định hiện hành của Trường: Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08/10/2021."
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "REFERENCES",
+      "context": "4. Các quy định hiện hành của Trường: Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08/10/2021."
+    },
+    {
+      "targetDocumentNumber": "99/2014/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "b) Nghị định số 99/2014/NĐ-CP ngày 25/10/2014 của Chính phủ quy định việc đầu tư phát triển tiềm lực và khuyến khích hoạt động khoa học và công nghệ trong các cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "81/2021/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "c) Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "d) Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ về việc Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "40/2017/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "e) Thông tư số 40/2017/TT-BTC ngày 28/4/2017 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí, chế độ chi hội nghị;"
+    },
+    {
+      "targetDocumentNumber": "102/2012/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "f) Thông tư số 102/2012/TT-BTC ngày 21/6/2012 của Bộ trưởng Bộ Tài chính quy định chế độ công tác phí cho cán bộ, công chức Nhà nước đi công tác ngắn hạn ở nước ngoài do NSNN đảm bảo kinh phí;"
+    },
+    {
+      "targetDocumentNumber": "71/2018/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "g) Thông tư số 71/2018/TT-BTC ngày 10/8/2018 của Bộ trưởng Bộ Tài chính quy định chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước;"
+    },
+    {
+      "targetDocumentNumber": "45/2018/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "h) Thông tư số 45/2018/TT-BTC ngày 07/5/2018 của Bộ trưởng Bộ Tài chính hướng dẫn chế độ quản lý, tính hao mòn, khấu hao tài sản cố định tại cơ quan, tổ chức, đơn vị và tài sản cố định do Nhà nước giao cho doanh nghiệp quản lý không tính thành phần vốn nhà nước tại doanh nghiệp;"
+    },
+    {
+      "targetDocumentNumber": "36/2018/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "i) Thông tư số 36/2018/TT-BTC ngày 30/3/2018 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho đào tạo, bồi dưỡng cán bộ, công chức, viên chức;"
+    },
+    {
+      "targetDocumentNumber": "58/2016/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "j) Thông tư số 58/2016/TT-BTC ngày 29/3/2016 của Bộ trưởng Bộ Tài chính quy định chi tiết việc sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước"
+    },
+    {
+      "targetDocumentNumber": "58/2014/QH13",
+      "relationType": "REFERENCES",
+      "context": "Các khoản trích nộp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và kinh phí công đoàn được thực hiện theo quy định của Nhà nước (hiện hành là Luật Bảo hiểm xã hội số 58/2014/QH13 ngày 20/11/2014; Nghị định 191/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định chi tiết về tài chính công đoàn)."
+    },
+    {
+      "targetDocumentNumber": "191/2013/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "Các khoản trích nộp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và kinh phí công đoàn được thực hiện theo quy định của Nhà nước (hiện hành là Luật Bảo hiểm xã hội số 58/2014/QH13 ngày 20/11/2014; Nghị định 191/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định chi tiết về tài chính công đoàn)."
+    },
+    {
+      "targetDocumentNumber": "1414/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "Thực hiện theo quy định hiện hành của Trường (hiện hành là Quyết định số 1414/QĐ-ĐHBK ngày 14/5/2021)."
+    },
+    {
+      "targetDocumentNumber": "1404/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "a) Quy định quản lý hoạt động khoa học và công nghệ: Thực hiện theo các quy định hiện hành của Nhà nước và của Trường (hiện hành là Quyết định số 1404/QĐ-ĐHBK ngày 12/5/2021 quy định về quản lý hoạt động khoa học và công nghệ tại Trường Đại học Bách khoa)."
+    },
+    {
+      "targetDocumentNumber": "1820/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "b) Định mức chi hoạt động khoa học và công nghệ: Thực hiện theo quy định hiện hành (hiện hành là Quyết định số 1820/QĐ-ĐHBK ngày 06/8/2020 của Trường Đại học Bách khoa)."
+    },
+    {
+      "targetDocumentNumber": "115/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "Thực hiện theo quy định của Nhà nước (hiện hành là Nghị định số 115/2020/NĐ-CP ngày 25/9/2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức)."
+    },
+    {
+      "targetDocumentNumber": "01/2011/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "b) Thực hiện chi theo quy định của Nhà nước (hiện hành là Thông tư số 01/2011/TT-BTC ngày 06/01/2011 của Bộ Tài chính quy định việc hỗ trợ kinh phí từ ngân sách nhà nước cho hội có hoạt động gắn với nhiệm vụ của Nhà nước"
+    },
+    {
+      "targetDocumentNumber": "21-HD/VPTW",
+      "relationType": "REFERENCES",
+      "context": "Hướng dẫn số 21-HD/VPTW ngày 04/3/2013 hướng dẫn một số điểm quy định cụ thể ban hành kèm theo Quyết định số 99/QĐ/TW ngày 30/5/2012 của Ban Bí thư Trung ương Đảng về chế độ chi hoạt động công tác Đảng của tổ chức cơ sở Đảng"
+    },
+    {
+      "targetDocumentNumber": "99/QĐ/TW",
+      "relationType": "REFERENCES",
+      "context": "Hướng dẫn số 21-HD/VPTW ngày 04/3/2013 hướng dẫn một số điểm quy định cụ thể ban hành kèm theo Quyết định số 99/QĐ/TW ngày 30/5/2012 của Ban Bí thư Trung ương Đảng về chế độ chi hoạt động công tác Đảng của tổ chức cơ sở Đảng"
+    },
+    {
+      "targetDocumentNumber": "71/2015/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "Thông tư số 71/2015/TT-BTC ngày 11/05/2015 của Bộ Tài chính quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí hỗ trợ hoạt động của Hội Cựu chiến binh trong các cơ quan nhà nước"
+    },
+    {
+      "targetDocumentNumber": "191/2009/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "Thông tư số 191/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính hướng dẫn quản lý và sử dụng kinh phí hoạt động bình đẳng giới và hoạt động vì sự tiến bộ của phụ nữ);"
+    }
+  ],
+  "note": "Điều 3 Quy chế 'Căn cứ xây dựng Quy chế' liệt kê nhiều văn bản: gán REFERENCES vì không nằm trong khối Căn cứ của Quyết định (có thể tranh luận là BASED_ON). 22/NQ-HĐT ghi ngày 08/12/2021 ở Căn cứ nhưng 08/10/2021 ở Quy chế. 99/QĐ/TW và 21-HD/VPTW là văn bản Đảng, số hiệu ghi như trong văn bản."
+}

@@ -1,0 +1,18 @@
+{
+  "sourceFile": "Công tác sinh viên/0409_4420_QĐ-ĐHBK_Quyết định về việc ban hành Quy định về văn hóa học đường và quy tắc ứng xử văn hó.txt",
+  "documentNumber": "4420/QĐ-ĐHBK",
+  "signers": ["Nguyễn Hữu Hiếu"],
+  "targetGroups": ["Người học", "Đơn vị trực thuộc", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "1299/QĐ-TTg", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 1299/QĐ-TTg ngày 03 tháng 10 năm 2018 của Thủ tướng Chính phủ phê duyệt Đề án “Xây dựng văn hóa ứng xử trong trường học giai đoạn 2018 - 2025”;"},
+    {"targetDocumentNumber": "54/QĐ-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Công văn số 54/QĐ-BGDĐT ngày 09 tháng 01 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành kế hoạch triển khai Chỉ thị số 08/CT-TTg ngày 01/6/2022 của Thủ tướng Chính phủ về việc tăng cường công tác xây dựng văn hóa học đường của ngành Giáo dục;"},
+    {"targetDocumentNumber": "08/CT-TTg", "relationType": "REFERENCES", "context": "Căn cứ Công văn số 54/QĐ-BGDĐT ngày 09 tháng 01 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành kế hoạch triển khai Chỉ thị số 08/CT-TTg ngày 01/6/2022 của Thủ tướng Chính phủ về việc tăng cường công tác xây dựng văn hóa học đường của ngành Giáo dục;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "93/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "1001/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16 tháng 4 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"}
+  ],
+  "note": "Số hiệu văn bản in '4420 /QĐ-ĐHBK' (có dấu cách). 'Công văn số 54/QĐ-BGDĐT' ghi loại là Công văn nhưng ký hiệu QĐ, giữ nguyên. Chỉ thị 08/CT-TTg chỉ được nhắc lồng trong câu căn cứ của 54/QĐ-BGDĐT (là đối tượng của văn bản 54) nên gán REFERENCES; có thể tranh luận là BASED_ON. Hai Luật trong khối Căn cứ không có số hiệu nên bỏ qua."
+}

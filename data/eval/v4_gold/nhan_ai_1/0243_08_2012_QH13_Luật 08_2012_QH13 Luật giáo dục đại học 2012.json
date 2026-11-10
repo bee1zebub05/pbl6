@@ -1,0 +1,19 @@
+{
+ "sourceFile": "Đào tạo/0243_08_2012_QH13_Luật 08_2012_QH13 Luật giáo dục đại học 2012.txt",
+ "documentNumber": "08/2012/QH13",
+ "signers": [
+  "Nguyễn Sinh Hùng"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "51/2001/QH10",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;"
+  }
+ ],
+ "note": "Căn cứ chính là Hiến pháp 1992 (không số hiệu); Nghị quyết 51/2001/QH10 sửa đổi Hiến pháp nằm trong câu căn cứ nên gán BASED_ON (có thể coi là REFERENCES). Cuối văn bản có phần sao y bản chính số '09 /SY-VPCTN' do Giang Sơn ký — không phải trích dẫn, không tính người ký văn bản luật. Đối tượng áp dụng (Điều 2): trường cao đẳng, đại học, học viện, đại học vùng/quốc gia, viện nghiên cứu được đào tạo tiến sĩ; tổ chức, cá nhân có liên quan."
+}

@@ -1,0 +1,71 @@
+{
+ "sourceFile": "Đào tạo/0063_2244_QĐ-ĐHBK_Quy định đào tạo trình độ đại học.txt",
+ "documentNumber": "2244/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Cơ sở giáo dục / trường đại học thành viên"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "17/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "268/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "a) Áp dụng quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ ban hành theo Quyết định 268/QĐ-ĐHBK ngày 07/7/2016 của Hiệu trưởng Trường Đại học Bách khoa, ĐHĐN."
+  },
+  {
+   "targetDocumentNumber": "268/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "Quy định này có hiệu lực thi hành kể từ ngày ký Quyết định ban hành và thay thế Quyết định số 268/QĐ-ĐHBK ngày 07/7/2016 về việc ban hành Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ."
+  },
+  {
+   "targetDocumentNumber": "25/2006/QĐ-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "2. Đối với sinh viên chương trình kỹ sư chất lượng cao Việt-Pháp (PFIEV) khóa tuyển sinh trước năm 2021: áp dụng quy chế đào tạo đại học và cao đẳng hệ chính quy ban hành theo Quyết định số 25/2006/QĐ-BGDĐT ngày 26/6/2006 của Bộ trưởng Bộ Giáo dục và Đào tạo."
+  }
+ ],
+ "note": "268/QĐ-ĐHBK vừa bị thay thế (Điều 25) vừa được dẫn chiếu để áp dụng chuyển tiếp (Điều 24) nên có 2 dòng. Nghị quyết 13/NQ-HĐĐH viết không có chữ 'số'."
+}

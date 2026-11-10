@@ -18,13 +18,24 @@
     "R-Prec": 1.0,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.3225806451612903,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.7419354838709677,
     "recall": 0.7419354838709677,
     "f1": 0.7419354838709677,
     "P@10": 0.9,
     "R@10": 0.2903225806451613,
-    "nDCG@10": 0.7799082337019199,
+    "nDCG@10": 0.7799082337019198,
     "MRR": 0.5,
     "R-Prec": 0.7419354838709677,
     "applicable": true
@@ -46,7 +57,7 @@
     "f1": 0.8709677419354839,
     "P@10": 0.9,
     "R@10": 0.2903225806451613,
-    "nDCG@10": 0.933745776545611,
+    "nDCG@10": 0.9305687780632227,
     "MRR": 1.0,
     "R-Prec": 0.8709677419354839,
     "applicable": true
@@ -87,6 +98,18 @@
     "4511/QĐ-ĐHBK",
     "3875/QĐ-ĐHBK"
    ],
+   "chatbot": [
+    "107/QĐ-ĐHBK",
+    "5543/QĐ-ĐHBK",
+    "4532/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK",
+    "1340/QĐ-ĐHBK",
+    "840/QĐ-ĐHBK",
+    "4511/QĐ-ĐHBK",
+    "3875/QĐ-ĐHBK"
+   ],
    "bm25": [
     "2858/QĐ-ĐHĐN",
     "806/QĐ-ĐHBK",
@@ -116,12 +139,12 @@
     "3536/QĐ-ĐHBK",
     "1779/QĐ-ĐHBK",
     "3240/QĐ-ĐHBK",
-    "3646/QĐ-ĐHBK",
     "806/QĐ-ĐHBK",
+    "3646/QĐ-ĐHBK",
     "4532/QĐ-ĐHBK",
-    "1214/QĐ-ĐHBK",
     "05/NQ-HĐT",
-    "29/QĐ-ĐHBK"
+    "29/QĐ-ĐHBK",
+    "1214/QĐ-ĐHBK"
    ],
    "hybrid": [
     "806/QĐ-ĐHBK",
@@ -168,6 +191,17 @@
     "R-Prec": 1.0,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 0.5050505050505051,
+    "f1": 0.6711409395973155,
+    "P@10": 1.0,
+    "R@10": 0.10101010101010101,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.5050505050505051,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.9690721649484536,
     "recall": 0.9494949494949495,
@@ -191,14 +225,14 @@
     "applicable": true
    },
    "vector": {
-    "precision": 0.9775280898876404,
-    "recall": 0.8787878787878788,
-    "f1": 0.9255319148936169,
+    "precision": 0.9772727272727273,
+    "recall": 0.8686868686868687,
+    "f1": 0.9197860962566845,
     "P@10": 1.0,
     "R@10": 0.10101010101010101,
     "nDCG@10": 1.0,
     "MRR": 1.0,
-    "R-Prec": 0.8787878787878788,
+    "R-Prec": 0.8686868686868687,
     "applicable": true
    },
    "hybrid": {
@@ -226,16 +260,28 @@
   },
   "top": {
    "cypher": [
-    "3226/QĐ-ĐHĐN",
-    "1274/QĐ-ĐHBK",
-    "05/2022/QĐ-TTg",
     "56/2026/TT-BGDĐT",
-    "05/NQ-HĐT",
-    "3536/QĐ-ĐHBK",
-    "1478/QĐ-ĐHĐN",
     "08/2021/TT-BGDĐT",
+    "10/2016/TT-BGDĐT",
+    "78/2020/NĐ-CP",
     "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
-    "2231/QĐ-ĐHBK"
+    "3875/QĐ-ĐHBK",
+    "1248/QĐ-ĐHĐN",
+    "1216/QĐ-ĐHBK",
+    "51/2024/QH15",
+    "3297/QĐ-ĐHĐN"
+   ],
+   "chatbot": [
+    "3107/QĐ-ĐHĐN",
+    "56/2026/TT-BGDĐT",
+    "53/2026/TT-BGDĐT",
+    "49/2026/TT-BGDĐT",
+    "2414/QĐ-ĐHĐN",
+    "1478/QĐ-ĐHĐN",
+    "107/QĐ-ĐHBK",
+    "10/2026/TT-BGDĐT",
+    "06/2026/TT-BGDĐT",
+    "07/2026/TT-BGDĐT"
    ],
    "bm25": [
     "02/2025/TT-BGDĐT",
@@ -266,12 +312,12 @@
     "08/2012/QH13",
     "81/2021/NĐ-CP",
     "4420/QĐ-ĐHBK",
-    "16/2015/TT-BGDĐT",
-    "1001/QĐ-ĐHBK",
     "05/NQ-HĐT",
+    "16/2015/TT-BGDĐT",
     "4511/QĐ-ĐHBK",
+    "27/2009/TT-BGDĐT",
     "1980/QĐ-ĐHBK",
-    "1345/QĐ-ĐHBK"
+    "1001/QĐ-ĐHBK"
    ],
    "hybrid": [
     "4420/QĐ-ĐHBK",
@@ -282,8 +328,8 @@
     "1216/QĐ-ĐHBK",
     "4511/QĐ-ĐHBK",
     "1489/QĐ-ĐHĐN",
-    "1214/QĐ-ĐHBK",
-    "10/2016/TT-BGDĐT"
+    "10/2016/TT-BGDĐT",
+    "1214/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
     "4420/QĐ-ĐHBK",
@@ -318,6 +364,17 @@
     "R-Prec": 1.0,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.6111111111111112,
     "recall": 0.6111111111111112,
@@ -346,7 +403,7 @@
     "f1": 0.7777777777777778,
     "P@10": 0.8,
     "R@10": 0.4444444444444444,
-    "nDCG@10": 0.8701249883466593,
+    "nDCG@10": 0.8701249883466592,
     "MRR": 1.0,
     "R-Prec": 0.7777777777777778,
     "applicable": true
@@ -376,17 +433,18 @@
   },
   "top": {
    "cypher": [
-    "1248/QĐ-ĐHĐN",
-    "2414/QĐ-ĐHĐN",
-    "3297/QĐ-ĐHĐN",
-    "618/QĐ-BGDĐT",
-    "1609/QĐ-ĐHBK",
-    "18/2021/TT-BGDĐT",
-    "4473/QĐ-ĐHĐN",
     "3183/QĐ-ĐHĐN",
+    "3297/QĐ-ĐHĐN",
+    "1340/QĐ-ĐHBK",
+    "23/2021/TT-BGDĐT",
+    "09/2020/TT-BGDĐT",
+    "4473/QĐ-ĐHĐN",
+    "/QĐ-ĐHĐN",
     "4757/QĐ-ĐHĐN",
+    "1609/QĐ-ĐHBK",
     "4481/QĐ-ĐHĐN"
    ],
+   "chatbot": [],
    "bm25": [
     "2858/QĐ-ĐHĐN",
     "806/QĐ-ĐHBK",
@@ -468,96 +526,119 @@
     "R-Prec": 1.0,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 0.5555555555555556,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.5555555555555556,
     "recall": 0.5555555555555556,
     "f1": 0.5555555555555556,
     "P@10": 0.4,
     "R@10": 0.2222222222222222,
-    "nDCG@10": 0.39767223286316733,
+    "nDCG@10": 0.39673781793804724,
     "MRR": 0.5,
     "R-Prec": 0.5555555555555556,
     "applicable": true
    },
    "bm25_full": {
-    "precision": 0.5,
-    "recall": 0.5,
-    "f1": 0.5,
+    "precision": 0.4444444444444444,
+    "recall": 0.4444444444444444,
+    "f1": 0.4444444444444444,
     "P@10": 0.6,
     "R@10": 0.3333333333333333,
-    "nDCG@10": 0.5363559634917963,
+    "nDCG@10": 0.557780405761987,
     "MRR": 0.5,
-    "R-Prec": 0.5,
+    "R-Prec": 0.4444444444444444,
     "applicable": true
    },
    "vector": {
     "precision": 0.4444444444444444,
     "recall": 0.4444444444444444,
     "f1": 0.4444444444444444,
-    "P@10": 0.6,
-    "R@10": 0.3333333333333333,
-    "nDCG@10": 0.6987957033953602,
+    "P@10": 0.5,
+    "R@10": 0.2777777777777778,
+    "nDCG@10": 0.6421867266689009,
     "MRR": 1.0,
     "R-Prec": 0.4444444444444444,
     "applicable": true
    },
    "hybrid": {
-    "precision": 0.5555555555555556,
-    "recall": 0.5555555555555556,
-    "f1": 0.5555555555555556,
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
     "P@10": 0.7,
     "R@10": 0.3888888888888889,
-    "nDCG@10": 0.7695261902392829,
+    "nDCG@10": 0.7720617383222417,
     "MRR": 1.0,
-    "R-Prec": 0.5555555555555556,
+    "R-Prec": 0.5,
     "applicable": true
    },
    "hybrid_kg": {
-    "precision": 0.5555555555555556,
-    "recall": 0.5555555555555556,
-    "f1": 0.5555555555555556,
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
     "P@10": 0.7,
     "R@10": 0.3888888888888889,
-    "nDCG@10": 0.7695261902392829,
+    "nDCG@10": 0.7720617383222417,
     "MRR": 1.0,
-    "R-Prec": 0.5555555555555556,
+    "R-Prec": 0.5,
     "applicable": true
    }
   },
   "top": {
    "cypher": [
     "10/2016/TT-BGDDT#nd1",
-    "16/2015/TT-BGDDT#nd1",
-    "905#nd1",
-    "2414/QD-DHDN#nd1",
-    "53/2026/TT-BGDDT#nd1",
-    "3536/QD-DHBK#nd1",
-    "3107/QD-DHDN#nd1",
     "30/2018/TT-BGDDT#nd1",
+    "16/2015/TT-BGDDT#nd1",
     "2721/QD-DHDN#nd1",
+    "1001/QD-DHBK#nd1",
+    "27/2009/TT-BGDDT#nd1",
+    "905#nd1",
+    "9/2020/TT-BGDDT#nd1",
+    "3297/QD-DHDN#nd1",
+    "4473/QD-DHDN#nd1"
+   ],
+   "chatbot": [
+    "3107/QD-DHDN#nd1",
+    "56/2026/TT-BGDDT#nd1",
+    "53/2026/TT-BGDDT#nd1",
+    "2414/QD-DHDN#nd1",
+    "1478/QD-DHDN#nd1",
+    "6/2026/TT-BGDDT#nd1",
+    "4473/QD-DHDN#nd1",
+    "3536/QD-DHBK#nd1",
+    "3297/QD-DHDN#nd1",
     "1001/QD-DHBK#nd1"
    ],
    "bm25": [
     "4511/QD-DHBK#nd1",
-    "3297/QD-DHDN#nd1",
     "56/2026/TT-BGDDT#nd1",
+    "3297/QD-DHDN#nd1",
     "8/2021/TT-BGDDT#nd1",
-    "53/2026/TT-BGDDT#nd1",
     "4481/QD-DHDN#nd1",
+    "53/2026/TT-BGDDT#nd1",
     "28/2023/TT-BGDDT#nd1",
+    "3107/QD-DHDN#nd1",
     "23/2021/TT-BGDDT#nd1",
-    "18/2021/TT-BGDDT#nd1",
-    "3107/QD-DHDN#nd1"
+    "18/2021/TT-BGDDT#nd1"
    ],
    "bm25_full": [
     "4511/QD-DHBK#nd1",
     "5/NQ-HDT#nd1",
     "3536/QD-DHBK#nd1",
+    "10/2016/TT-BGDDT#nd1",
     "405/QD-DHBK#nd1",
+    "56/2026/TT-BGDDT#nd1",
     "8/2021/TT-BGDDT#nd1",
     "905#nd1",
-    "56/2026/TT-BGDDT#nd1",
-    "10/2016/TT-BGDDT#nd1",
     "2721/QD-DHDN#nd1",
     "28/2023/TT-BGDDT#nd1"
    ],
@@ -565,37 +646,37 @@
     "5/NQ-HDT#nd1",
     "905#nd1",
     "3536/QD-DHBK#nd1",
-    "2533/QD-DHBK#nd1",
     "3107/QD-DHDN#nd1",
+    "2533/QD-DHBK#nd1",
     "16/2015/TT-BGDDT#nd1",
     "3828/QD-DHDN#nd1",
     "3226/QD-DHDN#nd1",
-    "1001/QD-DHBK#nd1",
-    "18/2021/TT-BGDDT#nd1"
+    "18/2021/TT-BGDDT#nd1",
+    "10/2026/TT-BGDDT#nd1"
    ],
    "hybrid": [
     "5/NQ-HDT#nd1",
     "3536/QD-DHBK#nd1",
     "905#nd1",
-    "8/2021/TT-BGDDT#nd1",
     "56/2026/TT-BGDDT#nd1",
-    "1001/QD-DHBK#nd1",
+    "8/2021/TT-BGDDT#nd1",
     "10/2016/TT-BGDDT#nd1",
-    "405/QD-DHBK#nd1",
     "18/2021/TT-BGDDT#nd1",
-    "3107/QD-DHDN#nd1"
+    "405/QD-DHBK#nd1",
+    "2721/QD-DHDN#nd1",
+    "1001/QD-DHBK#nd1"
    ],
    "hybrid_kg": [
     "5/NQ-HDT#nd1",
     "3536/QD-DHBK#nd1",
     "905#nd1",
-    "8/2021/TT-BGDDT#nd1",
     "56/2026/TT-BGDDT#nd1",
-    "1001/QD-DHBK#nd1",
+    "8/2021/TT-BGDDT#nd1",
     "10/2016/TT-BGDDT#nd1",
-    "405/QD-DHBK#nd1",
     "18/2021/TT-BGDDT#nd1",
-    "3107/QD-DHDN#nd1"
+    "405/QD-DHBK#nd1",
+    "2721/QD-DHDN#nd1",
+    "1001/QD-DHBK#nd1"
    ]
   }
  },
@@ -608,6 +689,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -669,13 +761,16 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.012987012987012988,
+    "MRR": 0.013888888888888888,
     "R-Prec": 0.0,
     "applicable": true
    }
   },
   "top": {
    "cypher": [
+    "4511/QĐ-ĐHBK"
+   ],
+   "chatbot": [
     "4511/QĐ-ĐHBK"
    ],
    "bm25": [
@@ -709,34 +804,34 @@
     "1404/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "3646/QĐ-ĐHBK",
-    "1001/QĐ-ĐHBK",
-    "806/QĐ-ĐHBK",
     "3107/QĐ-ĐHĐN",
-    "1779/QĐ-ĐHBK"
+    "2244/QĐ-ĐHBK",
+    "1001/QĐ-ĐHBK",
+    "4420/QĐ-ĐHBK"
    ],
    "hybrid": [
     "3646/QĐ-ĐHBK",
-    "754/QĐ-BGDĐT",
     "3107/QĐ-ĐHĐN",
-    "806/QĐ-ĐHBK",
+    "754/QĐ-BGDĐT",
     "1216/QĐ-ĐHBK",
     "107/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "618/QĐ-BGDĐT",
     "4420/QĐ-ĐHBK",
-    "1356/QĐ-ĐHĐN"
+    "1404/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
     "3646/QĐ-ĐHBK",
-    "754/QĐ-BGDĐT",
     "3107/QĐ-ĐHĐN",
-    "806/QĐ-ĐHBK",
+    "754/QĐ-BGDĐT",
     "1216/QĐ-ĐHBK",
-    "05/NQ-HĐT",
-    "32/CP",
+    "107/QĐ-ĐHBK",
     "08/NQ-HĐĐH",
-    "10/2020/TT-BGDĐT",
-    "13/NQ-HĐĐH"
+    "13/NQ-HĐĐH",
+    "32/CP",
+    "05/NQ-HĐT",
+    "10/2020/TT-BGDĐT"
    ]
   }
  },
@@ -749,6 +844,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.5,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -817,10 +923,17 @@
   },
   "top": {
    "cypher": [
-    "bo_giao_duc_va_dao_tao",
+    "dai_hoc_da_nang",
     "thu_tuong_chinh_phu",
+    "bo_giao_duc_va_dao_tao",
     "hoi_dong_dai_hoc_da_nang",
+    "chinh_phu"
+   ],
+   "chatbot": [
+    "bo_giao_duc_va_dao_tao",
     "chinh_phu",
+    "hoi_dong_dai_hoc_da_nang",
+    "thu_tuong_chinh_phu",
     "dai_hoc_da_nang"
    ]
   }
@@ -834,6 +947,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 1.0,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -873,7 +997,7 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.058823529411764705,
+    "MRR": 0.047619047619047616,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -884,7 +1008,7 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.02857142857142857,
+    "MRR": 0.030303030303030304,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -902,15 +1026,27 @@
   },
   "top": {
    "cypher": [
-    "05/NQ-HĐT",
-    "08/NQ-HĐĐH",
-    "1691/QĐ-ĐHBK",
-    "99/2019/NĐ-CP",
     "13/NQ-HĐĐH",
-    "32/CP",
-    "17/2021/TT-BGDĐT",
-    "08/2021/TT-BGDĐT",
     "788/ĐHĐN-ĐT",
+    "08/NQ-HĐĐH",
+    "32/CP",
+    "99/2019/NĐ-CP",
+    "17/2021/TT-BGDĐT",
+    "1691/QĐ-ĐHBK",
+    "05/NQ-HĐT",
+    "08/2021/TT-BGDĐT",
+    "22/NQ-HĐT"
+   ],
+   "chatbot": [
+    "08/2021/TT-BGDĐT",
+    "05/NQ-HĐT",
+    "13/NQ-HĐĐH",
+    "788/ĐHĐN-ĐT",
+    "08/NQ-HĐĐH",
+    "32/CP",
+    "99/2019/NĐ-CP",
+    "17/2021/TT-BGDĐT",
+    "1691/QĐ-ĐHBK",
     "22/NQ-HĐT"
    ],
    "bm25": [
@@ -944,34 +1080,34 @@
     "4768/QĐ-ĐHĐN",
     "1404/QĐ-ĐHBK",
     "18/2017/QĐ-TTg",
-    "28/2023/TT-BGDĐT",
     "1001/QĐ-ĐHBK",
     "3646/QĐ-ĐHBK",
-    "2244/QĐ-ĐHBK"
+    "4420/QĐ-ĐHBK",
+    "28/2023/TT-BGDĐT"
    ],
    "hybrid": [
     "3646/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "1404/QĐ-ĐHBK",
     "3107/QĐ-ĐHĐN",
-    "28/2023/TT-BGDĐT",
-    "1899/QĐ-ĐHĐN",
-    "806/QĐ-ĐHBK",
     "4420/QĐ-ĐHBK",
+    "28/2023/TT-BGDĐT",
     "1001/QĐ-ĐHBK",
-    "405/QĐ-ĐHBK"
+    "1899/QĐ-ĐHĐN",
+    "4804/QĐ-ĐHĐN",
+    "806/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
     "3646/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "1404/QĐ-ĐHBK",
     "3107/QĐ-ĐHĐN",
-    "28/2023/TT-BGDĐT",
+    "4420/QĐ-ĐHBK",
     "10/2020/TT-BGDĐT",
     "32/CP",
-    "05/NQ-HĐT",
     "08/NQ-HĐĐH",
-    "13/NQ-HĐĐH"
+    "13/NQ-HĐĐH",
+    "05/NQ-HĐT"
    ]
   }
  },
@@ -984,6 +1120,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -1054,6 +1201,9 @@
    "cypher": [
     "10/2016/TT-BGDĐT"
    ],
+   "chatbot": [
+    "10/2016/TT-BGDĐT"
+   ],
    "bm25": [
     "05/2022/QĐ-TTg",
     "2858/QĐ-ĐHĐN",
@@ -1087,8 +1237,8 @@
     "4420/QĐ-ĐHBK",
     "16/2015/TT-BGDĐT",
     "1414/QĐ-ĐHBK",
-    "2231/QĐ-ĐHBK",
-    "2721/QĐ-ĐHĐN"
+    "2721/QĐ-ĐHĐN",
+    "1216/QĐ-ĐHBK"
    ],
    "hybrid": [
     "10/2016/TT-BGDĐT",
@@ -1135,6 +1285,17 @@
     "R-Prec": 1.0,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6666666666666666,
+    "P@10": 0.5,
+    "R@10": 0.7142857142857143,
+    "nDCG@10": 0.6930226460117498,
+    "MRR": 1.0,
+    "R-Prec": 0.5714285714285714,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.0,
     "recall": 0.0,
@@ -1153,7 +1314,7 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.041666666666666664,
+    "MRR": 0.043478260869565216,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -1164,7 +1325,7 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.023809523809523808,
+    "MRR": 0.024390243902439025,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -1175,7 +1336,7 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.022222222222222223,
+    "MRR": 0.022727272727272728,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -1200,6 +1361,18 @@
     "2721/QĐ-ĐHĐN",
     "29/QĐ-ĐHBK",
     "81/2021/NĐ-CP"
+   ],
+   "chatbot": [
+    "10/2016/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "1404/QĐ-ĐHBK",
+    "107/QĐ-ĐHBK",
+    "1899/QĐ-ĐHĐN",
+    "/QĐ-ĐHĐN",
+    "2231/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK",
+    "2721/QĐ-ĐHĐN",
+    "973/QĐ-ĐHĐN"
    ],
    "bm25": [
     "754/QĐ-BGDĐT",
@@ -1227,19 +1400,19 @@
    ],
    "vector": [
     "05/NQ-HĐT",
-    "2533/QĐ-ĐHBK",
     "5543/QĐ-ĐHBK",
+    "2533/QĐ-ĐHBK",
     "3828/QĐ-ĐHĐN",
+    "1340/QĐ-ĐHBK",
     "754/QĐ-BGDĐT",
     "3758/QĐ-ĐHĐN",
-    "1340/QĐ-ĐHBK",
     "1489/QĐ-ĐHĐN",
     "3226/QĐ-ĐHĐN",
     "97/2023/NĐ-CP"
    ],
    "hybrid": [
-    "754/QĐ-BGDĐT",
     "51/2024/QH15",
+    "754/QĐ-BGDĐT",
     "10/2026/TT-BGDĐT",
     "3828/QĐ-ĐHĐN",
     "1489/QĐ-ĐHĐN",
@@ -1247,11 +1420,11 @@
     "2533/QĐ-ĐHBK",
     "97/2023/NĐ-CP",
     "3337/QĐ-ĐHBK",
-    "05/NQ-HĐT"
+    "3707/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
-    "754/QĐ-BGDĐT",
     "51/2024/QH15",
+    "754/QĐ-BGDĐT",
     "10/2026/TT-BGDĐT",
     "3828/QĐ-ĐHĐN",
     "1489/QĐ-ĐHĐN",
@@ -1273,6 +1446,9 @@
   "systems": {
    "cypher": {
     "correct": true
+   },
+   "chatbot": {
+    "correct": false
    },
    "bm25": {
     "correct": false,
@@ -1306,6 +1482,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.5,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -1380,6 +1567,13 @@
     "4532/QĐ-ĐHBK",
     "97/2023/NĐ-CP"
    ],
+   "chatbot": [
+    "4532/QĐ-ĐHBK",
+    "3443/ĐHĐN-KHTC",
+    "97/2023/NĐ-CP",
+    "81/2021/NĐ-CP",
+    "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH"
+   ],
    "bm25": [
     "2858/QĐ-ĐHĐN",
     "3443/ĐHĐN-KHTC",
@@ -1406,39 +1600,39 @@
    ],
    "vector": [
     "97/2023/NĐ-CP",
-    "3443/ĐHĐN-KHTC",
     "81/2021/NĐ-CP",
+    "3443/ĐHĐN-KHTC",
     "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
     "43/2019/QH14",
     "08/2012/QH13",
     "1340/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "1216/QĐ-ĐHBK",
-    "3536/QĐ-ĐHBK"
+    "1345/QĐ-ĐHBK"
    ],
    "hybrid": [
     "81/2021/NĐ-CP",
     "97/2023/NĐ-CP",
     "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
     "3443/ĐHĐN-KHTC",
-    "3536/QĐ-ĐHBK",
-    "1214/QĐ-ĐHBK",
-    "1340/QĐ-ĐHBK",
     "1345/QĐ-ĐHBK",
-    "28/VBHN-BGDĐT",
-    "1899/QĐ-ĐHĐN"
+    "1214/QĐ-ĐHBK",
+    "3536/QĐ-ĐHBK",
+    "1340/QĐ-ĐHBK",
+    "1899/QĐ-ĐHĐN",
+    "3646/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
     "81/2021/NĐ-CP",
     "97/2023/NĐ-CP",
     "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
     "3443/ĐHĐN-KHTC",
-    "3536/QĐ-ĐHBK",
-    "05/NQ-HĐĐH",
+    "1345/QĐ-ĐHBK",
     "86/2015/NĐ-CP",
-    "05/NQ-HĐT",
-    "08/NQ-HĐĐH",
-    "10/2020/TT-BGDĐT"
+    "01/2014/TT-BGDĐT",
+    "05/2012/TT-BGDĐT",
+    "05/NQ-HĐĐH",
+    "08/2014/TT-BGDĐT"
    ]
   }
  },
@@ -1459,6 +1653,17 @@
     "nDCG@10": 1.0,
     "MRR": 1.0,
     "R-Prec": 0.5973154362416108,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 0.1342281879194631,
+    "f1": 0.23668639053254437,
+    "P@10": 1.0,
+    "R@10": 0.06711409395973154,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 0.1342281879194631,
     "applicable": true
    },
    "bm25": {
@@ -1484,14 +1689,14 @@
     "applicable": true
    },
    "vector": {
-    "precision": 0.7516778523489933,
-    "recall": 0.7516778523489933,
-    "f1": 0.7516778523489932,
+    "precision": 0.738255033557047,
+    "recall": 0.738255033557047,
+    "f1": 0.738255033557047,
     "P@10": 1.0,
     "R@10": 0.06711409395973154,
     "nDCG@10": 1.0,
     "MRR": 1.0,
-    "R-Prec": 0.7516778523489933,
+    "R-Prec": 0.738255033557047,
     "applicable": true
    },
    "hybrid": {
@@ -1530,6 +1735,18 @@
     "1216/QD-DHBK#Điều 3",
     "1216/QD-DHBK#nd1#XI"
    ],
+   "chatbot": [
+    "1489/QD-DHDN#nd1#Điều 36",
+    "3226/QD-DHDN#nd1#Điều 25",
+    "78/2020/ND-CP#Điều 27",
+    "84/2020/ND-CP#Điều 12",
+    "86/2021/ND-CP#Điều 30",
+    "30/2023/TT-BGDDT#Điều 14",
+    "2/2025/TT-BGDDT#Điều 6",
+    "35/2011/TT-BGDDT#Điều 11",
+    "1216/QD-DHBK#Điều 3",
+    "2533/QD-DHBK#nd1#Điều 15"
+   ],
    "bm25": [
     "3226/QD-DHDN#nd1#Điều 25",
     "1489/QD-DHDN#nd1#Điều 36",
@@ -1543,8 +1760,8 @@
     "2/2025/TT-BGDDT#Điều 6"
    ],
    "bm25_full": [
-    "1489/QD-DHDN#nd1#Điều 36",
     "3226/QD-DHDN#nd1#Điều 25",
+    "1489/QD-DHDN#nd1#Điều 36",
     "78/2020/ND-CP#Điều 27",
     "84/2020/ND-CP#Điều 12",
     "86/2021/ND-CP#Điều 30",
@@ -1557,37 +1774,37 @@
    "vector": [
     "84/2020/ND-CP#Điều 12",
     "2721/QD-DHDN#nd1#Điều 24",
-    "86/2021/ND-CP#Điều 30",
-    "78/2020/ND-CP#Điều 27",
     "1489/QD-DHDN#nd1#Điều 36",
+    "78/2020/ND-CP#Điều 27",
+    "86/2021/ND-CP#Điều 30",
     "973/QD-DHDN#Điều 3",
-    "1216/QD-DHBK#Điều 3",
     "1001/QD-DHBK#nd1#Điều 29",
-    "5/NQ-HDT#nd1#Điều 51",
-    "3226/QD-DHDN#nd1#Điều 25"
+    "1216/QD-DHBK#Điều 3",
+    "3226/QD-DHDN#nd1#Điều 25",
+    "5/NQ-HDT#nd1#Điều 51"
    ],
    "hybrid": [
     "84/2020/ND-CP#Điều 12",
     "1489/QD-DHDN#nd1#Điều 36",
     "78/2020/ND-CP#Điều 27",
-    "86/2021/ND-CP#Điều 30",
     "2721/QD-DHDN#nd1#Điều 24",
     "3226/QD-DHDN#nd1#Điều 25",
+    "86/2021/ND-CP#Điều 30",
     "1001/QD-DHBK#nd1#Điều 29",
-    "1216/QD-DHBK#Điều 3",
     "30/2023/TT-BGDDT#Điều 14",
+    "1216/QD-DHBK#Điều 3",
     "2/2025/TT-BGDDT#Điều 6"
    ],
    "hybrid_kg": [
     "84/2020/ND-CP#Điều 12",
     "1489/QD-DHDN#nd1#Điều 36",
     "78/2020/ND-CP#Điều 27",
-    "86/2021/ND-CP#Điều 30",
     "2721/QD-DHDN#nd1#Điều 24",
     "3226/QD-DHDN#nd1#Điều 25",
+    "86/2021/ND-CP#Điều 30",
     "1001/QD-DHBK#nd1#Điều 29",
-    "1216/QD-DHBK#Điều 3",
     "30/2023/TT-BGDDT#Điều 14",
+    "1216/QD-DHBK#Điều 3",
     "2/2025/TT-BGDDT#Điều 6"
    ]
   }
@@ -1609,6 +1826,17 @@
     "nDCG@10": 0.7972541056822071,
     "MRR": 1.0,
     "R-Prec": 0.6,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.058823529411764705,
+    "recall": 0.2,
+    "f1": 0.0909090909090909,
+    "P@10": 0.1,
+    "R@10": 0.2,
+    "nDCG@10": 0.3391602052736161,
+    "MRR": 1.0,
+    "R-Prec": 0.2,
     "applicable": true
    },
    "bm25": {
@@ -1651,7 +1879,7 @@
     "P@10": 0.0,
     "R@10": 0.0,
     "nDCG@10": 0.0,
-    "MRR": 0.023255813953488372,
+    "MRR": 0.022727272727272728,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -1680,6 +1908,18 @@
     "86/2018/NĐ-CP",
     "99/2019/NĐ-CP"
    ],
+   "chatbot": [
+    "08/2012/QH13",
+    "86/2021/NĐ-CP",
+    "97/2023/NĐ-CP",
+    "06/2026/TT-BGDĐT",
+    "08/2021/TT-BGDĐT",
+    "10/2016/TT-BGDĐT",
+    "10/2026/TT-BGDĐT",
+    "1325/QĐ-BGDĐT",
+    "16/2015/TT-BGDĐT",
+    "18/2017/QĐ-TTg"
+   ],
    "bm25": [
     "806/QĐ-ĐHBK",
     "3107/QĐ-ĐHĐN",
@@ -1705,33 +1945,33 @@
     "10/2026/TT-BGDĐT"
    ],
    "vector": [
-    "2858/QĐ-ĐHĐN",
     "1356/QĐ-ĐHĐN",
+    "2858/QĐ-ĐHĐN",
     "3107/QĐ-ĐHĐN",
     "806/QĐ-ĐHBK",
-    "2414/QĐ-ĐHĐN",
     "4473/QĐ-ĐHĐN",
+    "2414/QĐ-ĐHĐN",
     "1248/QĐ-ĐHĐN",
-    "1478/QĐ-ĐHĐN",
     "05/NQ-HĐT",
+    "1478/QĐ-ĐHĐN",
     "3297/QĐ-ĐHĐN"
    ],
    "hybrid": [
-    "2858/QĐ-ĐHĐN",
     "1356/QĐ-ĐHĐN",
     "806/QĐ-ĐHBK",
+    "2858/QĐ-ĐHĐN",
     "3107/QĐ-ĐHĐN",
     "05/NQ-HĐT",
     "1489/QĐ-ĐHĐN",
     "4473/QĐ-ĐHĐN",
     "4768/QĐ-ĐHĐN",
     "1248/QĐ-ĐHĐN",
-    "1899/QĐ-ĐHĐN"
+    "2721/QĐ-ĐHĐN"
    ],
    "hybrid_kg": [
-    "2858/QĐ-ĐHĐN",
     "1356/QĐ-ĐHĐN",
     "806/QĐ-ĐHBK",
+    "2858/QĐ-ĐHĐN",
     "3107/QĐ-ĐHĐN",
     "05/NQ-HĐT",
     "32/CP",
@@ -1751,6 +1991,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.7,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -1826,6 +2077,15 @@
     "Quốc hội",
     "Thủ tướng Chính phủ",
     "Hội đồng Trường Đại học Bách khoa"
+   ],
+   "chatbot": [
+    "Trường Đại học Bách khoa",
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Quốc hội",
+    "Thủ tướng Chính phủ",
+    "Hội đồng Trường Đại học Bách khoa"
    ]
   }
  },
@@ -1839,6 +2099,9 @@
   "systems": {
    "cypher": {
     "correct": true
+   },
+   "chatbot": {
+    "correct": false
    },
    "bm25": {
     "correct": false,
@@ -1882,6 +2145,17 @@
     "R-Prec": 1.0,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.36363636363636365,
     "recall": 0.36363636363636365,
@@ -1921,7 +2195,7 @@
     "f1": 0.5454545454545454,
     "P@10": 0.6,
     "R@10": 0.5454545454545454,
-    "nDCG@10": 0.6569815082938864,
+    "nDCG@10": 0.6601585067762745,
     "MRR": 1.0,
     "R-Prec": 0.5454545454545454,
     "applicable": true
@@ -1940,17 +2214,18 @@
   },
   "top": {
    "cypher": [
+    "29/QĐ-ĐHBK",
+    "1001/QĐ-ĐHBK",
+    "1216/QĐ-ĐHBK",
+    "5543/QĐ-ĐHBK",
+    "3337/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
+    "1088/QĐ-ĐHBK",
     "1414/QĐ-ĐHBK",
     "4420/QĐ-ĐHBK",
-    "3707/QĐ-ĐHBK",
-    "1088/QĐ-ĐHBK",
-    "1216/QĐ-ĐHBK",
-    "1001/QĐ-ĐHBK",
-    "806/QĐ-ĐHBK",
-    "3337/QĐ-ĐHBK",
-    "29/QĐ-ĐHBK",
-    "5543/QĐ-ĐHBK"
+    "3707/QĐ-ĐHBK"
    ],
+   "chatbot": [],
    "bm25": [
     "1414/QĐ-ĐHBK",
     "2721/QĐ-ĐHĐN",
@@ -1985,7 +2260,7 @@
     "3646/QĐ-ĐHBK",
     "1414/QĐ-ĐHBK",
     "1980/QĐ-ĐHBK",
-    "10/2016/TT-BGDĐT"
+    "3536/QĐ-ĐHBK"
    ],
    "hybrid": [
     "1216/QĐ-ĐHBK",
@@ -1995,8 +2270,8 @@
     "10/2016/TT-BGDĐT",
     "2721/QĐ-ĐHĐN",
     "2231/QĐ-ĐHBK",
-    "2347/QĐ-ĐHBK",
     "1414/QĐ-ĐHBK",
+    "2347/QĐ-ĐHBK",
     "3337/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
@@ -2022,6 +2297,17 @@
   "count_question": false,
   "systems": {
    "cypher": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
     "precision": 1.0,
     "recall": 1.0,
     "f1": 1.0,
@@ -2058,9 +2344,9 @@
     "precision": 0.0,
     "recall": 0.0,
     "f1": 0.0,
-    "P@10": 0.2,
-    "R@10": 0.6666666666666666,
-    "nDCG@10": 0.2893079283427616,
+    "P@10": 0.1,
+    "R@10": 0.3333333333333333,
+    "nDCG@10": 0.1480409554829326,
     "MRR": 0.125,
     "R-Prec": 0.0,
     "applicable": true
@@ -2090,9 +2376,14 @@
   },
   "top": {
    "cypher": [
-    "3707/QĐ-ĐHBK",
     "1088/QĐ-ĐHBK",
-    "107/QĐ-ĐHBK"
+    "107/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK"
+   ],
+   "chatbot": [
+    "1088/QĐ-ĐHBK",
+    "107/QĐ-ĐHBK",
+    "3707/QĐ-ĐHBK"
    ],
    "bm25": [
     "2858/QĐ-ĐHĐN",
@@ -2120,14 +2411,14 @@
    ],
    "vector": [
     "1214/QĐ-ĐHBK",
-    "1779/QĐ-ĐHBK",
     "1404/QĐ-ĐHBK",
+    "1779/QĐ-ĐHBK",
     "1216/QĐ-ĐHBK",
     "3240/QĐ-ĐHBK",
-    "806/QĐ-ĐHBK",
     "3646/QĐ-ĐHBK",
+    "806/QĐ-ĐHBK",
     "107/QĐ-ĐHBK",
-    "3707/QĐ-ĐHBK",
+    "1345/QĐ-ĐHBK",
     "1001/QĐ-ĐHBK"
    ],
    "hybrid": [
@@ -2137,10 +2428,10 @@
     "107/QĐ-ĐHBK",
     "10/2026/TT-BGDĐT",
     "2533/QĐ-ĐHBK",
-    "754/QĐ-BGDĐT",
     "3240/QĐ-ĐHBK",
-    "4420/QĐ-ĐHBK",
-    "3107/QĐ-ĐHĐN"
+    "754/QĐ-BGDĐT",
+    "3107/QĐ-ĐHĐN",
+    "1274/QĐ-ĐHBK"
    ],
    "hybrid_kg": [
     "806/QĐ-ĐHBK",
@@ -2173,6 +2464,17 @@
     "nDCG@10": 0.2640681225725909,
     "MRR": 0.25,
     "R-Prec": 0.0,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.14285714285714285,
+    "recall": 1.0,
+    "f1": 0.25,
+    "P@10": 0.2,
+    "R@10": 1.0,
+    "nDCG@10": 0.6509209298071326,
+    "MRR": 0.5,
+    "R-Prec": 0.5,
     "applicable": true
    },
    "bm25": {
@@ -2239,6 +2541,18 @@
     "2244/QD-DHBK#nd1#Điều 11",
     "2244/QD-DHBK#nd1#Điều 10"
    ],
+   "chatbot": [
+    "2244/QD-DHBK#nd1#Điều 9",
+    "56/2026/TT-BGDDT#nd1#Điều 13",
+    "8/2021/TT-BGDDT#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "2367/QD-DHDN#nd1#Điều 4",
+    "2231/QD-DHBK#nd1#Điều 4",
+    "1414/QD-DHBK#nd1#Điều 5",
+    "2244/QD-DHBK#nd1#Điều 10",
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "2244/QD-DHBK#nd1#Điều 17"
+   ],
    "bm25": [
     "2244/QD-DHBK#nd1#Điều 9",
     "56/2026/TT-BGDDT#nd1#Điều 13",
@@ -2273,7 +2587,7 @@
     "16/2015/TT-BGDDT#nd1#Điều 13",
     "56/2026/TT-BGDDT#nd1#Điều 12",
     "2244/QD-DHBK#nd1#Điều 9",
-    "3875/QD-DHBK#nd1#Điều 7"
+    "56/2026/TT-BGDDT#nd1#Điều 14"
    ],
    "hybrid": [
     "56/2026/TT-BGDDT#nd1#Điều 13",
@@ -2315,8 +2629,19 @@
     "f1": 0.5714285714285715,
     "P@10": 0.4,
     "R@10": 1.0,
-    "nDCG@10": 0.9493885684853097,
+    "nDCG@10": 0.9493885684853096,
     "MRR": 1.0,
+    "R-Prec": 0.75,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.25,
+    "recall": 0.75,
+    "f1": 0.375,
+    "P@10": 0.3,
+    "R@10": 0.75,
+    "nDCG@10": 0.6096199500078984,
+    "MRR": 0.5,
     "R-Prec": 0.75,
     "applicable": true
    },
@@ -2389,6 +2714,18 @@
     "2244/QD-DHBK#nd1#Điều 13",
     "1001/QD-DHBK#nd1#Điều 17"
    ],
+   "chatbot": [
+    "8/2021/TT-BGDDT#nd1#Điều 11",
+    "56/2026/TT-BGDDT#nd1#Điều 14",
+    "2244/QD-DHBK#nd1#Điều 12",
+    "56/2026/TT-BGDDT#nd1#Điều 15",
+    "29/QD-DHBK#nd1#Điều 4",
+    "10/2016/TT-BGDDT#nd1#Điều 9",
+    "1001/QD-DHBK#nd1#Điều 19",
+    "2721/QD-DHDN#nd1#Điều 13",
+    "2347/QD-DHBK#nd1#Điều 17",
+    "1274/QD-DHBK#Điều 1"
+   ],
    "bm25": [
     "1779/QD-DHBK#nd1#Điều 7",
     "3875/QD-DHBK#nd1#Điều 29",
@@ -2422,8 +2759,8 @@
     "8/2021/TT-BGDDT#nd1#Điều 12",
     "3604/QD-DHBK#nd1#Điều 14",
     "1779/QD-DHBK#nd1#Điều 7",
-    "3707/QD-DHBK#Điều 1",
-    "3758/QD-DHDN#nd1#Điều 4"
+    "3758/QD-DHDN#nd1#Điều 4",
+    "2244/QD-DHBK#nd1#Điều 11"
    ],
    "hybrid": [
     "2244/QD-DHBK#nd1#Điều 12",
@@ -2467,6 +2804,17 @@
     "R@10": 0.3333333333333333,
     "nDCG@10": 0.13565197343244778,
     "MRR": 0.1,
+    "R-Prec": 0.0,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -2539,6 +2887,13 @@
     "6/2026/TT-BGDDT#nd1#Điều 16",
     "2244/QD-DHBK#nd1#Điều 9"
    ],
+   "chatbot": [
+    "3604/QD-DHBK#nd1#Điều 13",
+    "10/2016/TT-BGDDT#nd1#Điều 5",
+    "86/2021/ND-CP#Điều 6",
+    "1001/QD-DHBK#nd1#Điều 4",
+    "51/2024/QH15#Điều 1"
+   ],
    "bm25": [
     "3604/QD-DHBK#nd1#Điều 13",
     "2244/QD-DHBK#nd1#Điều 18",
@@ -2566,8 +2921,8 @@
    "vector": [
     "1214/QD-DHBK#nd1#Điều 40",
     "2244/QD-DHBK#nd1#Điều 18",
-    "23/2021/TT-BGDDT#nd1#Điều 13",
     "8/2021/TT-BGDDT#nd1#Điều 15",
+    "23/2021/TT-BGDDT#nd1#Điều 13",
     "3875/QD-DHBK#nd1#Điều 28",
     "3604/QD-DHBK#nd1#Điều 13",
     "1899/QD-DHDN#nd1#Điều 13",
@@ -2585,7 +2940,7 @@
     "3875/QD-DHBK#nd1#Điều 28",
     "56/2026/TT-BGDDT#nd1#Điều 18",
     "78/2020/ND-CP#Điều 10",
-    "3646/QD-DHBK#nd1#Điều 6"
+    "2268/QD-DHDN#nd1#Điều 6"
    ],
    "hybrid_kg": [
     "2244/QD-DHBK#nd1#Điều 18",
@@ -2597,7 +2952,7 @@
     "3875/QD-DHBK#nd1#Điều 28",
     "56/2026/TT-BGDDT#nd1#Điều 18",
     "78/2020/ND-CP#Điều 10",
-    "3646/QD-DHBK#nd1#Điều 6"
+    "2268/QD-DHDN#nd1#Điều 6"
    ]
   }
  },
@@ -2618,6 +2973,17 @@
     "nDCG@10": 0.7653606369886217,
     "MRR": 1.0,
     "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.15,
+    "recall": 1.0,
+    "f1": 0.2608695652173913,
+    "P@10": 0.2,
+    "R@10": 0.6666666666666666,
+    "nDCG@10": 0.41618115554873086,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.3333333333333333,
     "applicable": true
    },
    "bm25": {
@@ -2689,6 +3055,18 @@
     "1609/QD-DHBK#nd1#Điều 3",
     "10/2026/TT-BGDDT#nd1#Điều 11"
    ],
+   "chatbot": [
+    "QD-DHDN#nd1#Điều 4",
+    "1214/QD-DHBK#nd1#Điều 29",
+    "2244/QD-DHBK#nd1#Điều 17",
+    "8/2021/TT-BGDDT#nd1#Điều 14",
+    "56/2026/TT-BGDDT#nd1#Điều 17",
+    "23/2021/TT-BGDDT#nd1#Điều 12",
+    "3875/QD-DHBK#nd1#Điều 23",
+    "53/2026/TT-BGDDT#nd1#Điều 13",
+    "1779/QD-DHBK#nd1#Điều 8",
+    "28/2023/TT-BGDDT#nd1#Điều 11"
+   ],
    "bm25": [
     "2244/QD-DHBK#nd1#Điều 17",
     "8/2021/TT-BGDDT#nd1#Điều 14",
@@ -2720,10 +3098,10 @@
     "1214/QD-DHBK#nd1#Điều 29",
     "QD-DHDN#nd1#Điều 4",
     "23/2021/TT-BGDDT#nd1#Điều 12",
-    "53/2026/TT-BGDDT#nd1#Điều 13",
     "3875/QD-DHBK#nd1#Điều 23",
+    "53/2026/TT-BGDDT#nd1#Điều 13",
     "1779/QD-DHBK#nd1#Điều 8",
-    "43/2019/QH14#Điều 34"
+    "43/2019/QH14#Điều 45"
    ],
    "hybrid": [
     "2244/QD-DHBK#nd1#Điều 17",
@@ -2770,6 +3148,17 @@
     "R-Prec": 0.5,
     "applicable": true
    },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1": 0.4,
+    "P@10": 0.1,
+    "R@10": 0.25,
+    "nDCG@10": 0.3903800499921017,
+    "MRR": 1.0,
+    "R-Prec": 0.25,
+    "applicable": true
+   },
    "bm25": {
     "precision": 0.25,
     "recall": 0.25,
@@ -2798,8 +3187,8 @@
     "f1": 0.0,
     "P@10": 0.2,
     "R@10": 0.5,
-    "nDCG@10": 0.2476427880871277,
-    "MRR": 0.14285714285714285,
+    "nDCG@10": 0.2622073738811406,
+    "MRR": 0.16666666666666666,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -2809,7 +3198,7 @@
     "f1": 0.25,
     "P@10": 0.2,
     "R@10": 0.5,
-    "nDCG@10": 0.32531670832675136,
+    "nDCG@10": 0.33424620450682646,
     "MRR": 0.3333333333333333,
     "R-Prec": 0.25,
     "applicable": true
@@ -2820,7 +3209,7 @@
     "f1": 0.25,
     "P@10": 0.2,
     "R@10": 0.5,
-    "nDCG@10": 0.32531670832675136,
+    "nDCG@10": 0.33424620450682646,
     "MRR": 0.3333333333333333,
     "R-Prec": 0.25,
     "applicable": true
@@ -2832,6 +3221,9 @@
     "2858/QD-DHDN#nd1#3",
     "56/2026/TT-BGDDT#nd1#Điều 17",
     "2244/QD-DHBK#nd1#Điều 17"
+   ],
+   "chatbot": [
+    "56/2026/TT-BGDDT#nd1#Điều 17"
    ],
    "bm25": [
     "3875/QD-DHBK#nd1#Điều 24",
@@ -2863,11 +3255,11 @@
     "3758/QD-DHDN#nd1#Điều 9",
     "2231/QD-DHBK#nd1#Điều 7",
     "8/2021/TT-BGDDT#nd1#Điều 10",
-    "2367/QD-DHDN#nd1#Điều 4",
     "56/2026/TT-BGDDT#nd1#Điều 13",
-    "10/2016/TT-BGDDT#nd1#Điều 7",
+    "2367/QD-DHDN#nd1#Điều 4",
     "2244/QD-DHBK#nd1#Điều 11",
-    "1414/QD-DHBK#nd1#Điều 6"
+    "1414/QD-DHBK#nd1#Điều 6",
+    "10/2016/TT-BGDDT#nd1#Điều 7"
    ],
    "hybrid": [
     "3875/QD-DHBK#nd1#Điều 24",
@@ -2875,10 +3267,10 @@
     "56/2026/TT-BGDDT#nd1#Điều 17",
     "16/2015/TT-BGDDT#nd1#Điều 9",
     "8/2021/TT-BGDDT#nd1#Điều 14",
-    "10/2016/TT-BGDDT#nd1#Điều 7",
     "2244/QD-DHBK#nd1#Điều 17",
-    "2367/QD-DHDN#nd1#Điều 7",
     "2231/QD-DHBK#nd1#Điều 7",
+    "2367/QD-DHDN#nd1#Điều 7",
+    "10/2016/TT-BGDDT#nd1#Điều 7",
     "1779/QD-DHBK#nd1#Điều 6"
    ],
    "hybrid_kg": [
@@ -2887,10 +3279,10 @@
     "56/2026/TT-BGDDT#nd1#Điều 17",
     "16/2015/TT-BGDDT#nd1#Điều 9",
     "8/2021/TT-BGDDT#nd1#Điều 14",
-    "10/2016/TT-BGDDT#nd1#Điều 7",
     "2244/QD-DHBK#nd1#Điều 17",
-    "2367/QD-DHDN#nd1#Điều 7",
     "2231/QD-DHBK#nd1#Điều 7",
+    "2367/QD-DHDN#nd1#Điều 7",
+    "10/2016/TT-BGDDT#nd1#Điều 7",
     "1779/QD-DHBK#nd1#Điều 6"
    ]
   }
@@ -2912,6 +3304,17 @@
     "nDCG@10": 0.6309297535714575,
     "MRR": 0.5,
     "R-Prec": 0.0,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1": 0.33333333333333337,
+    "P@10": 0.1,
+    "R@10": 1.0,
+    "nDCG@10": 1.0,
+    "MRR": 1.0,
+    "R-Prec": 1.0,
     "applicable": true
    },
    "bm25": {
@@ -2983,6 +3386,13 @@
     "3875/QD-DHBK#nd1#Điều 3",
     "1214/QD-DHBK#nd1#Điều 11"
    ],
+   "chatbot": [
+    "4511/QD-DHBK#nd1#Điều 6",
+    "4511/QD-DHBK#nd1#Điều 3",
+    "4511/QD-DHBK#nd1#Điều 4",
+    "4511/QD-DHBK#nd1#Điều 10",
+    "1345/QD-DHBK#nd1#Điều 7"
+   ],
    "bm25": [
     "4511/QD-DHBK#nd1#Điều 6",
     "4511/QD-DHBK#nd1#Điều 3",
@@ -3009,36 +3419,36 @@
    ],
    "vector": [
     "4511/QD-DHBK#nd1#Điều 6",
-    "1345/QD-DHBK#nd1#Điều 3",
     "4511/QD-DHBK#nd1#Điều 4",
+    "1345/QD-DHBK#nd1#Điều 3",
     "4511/QD-DHBK#nd1#Điều 11",
     "1345/QD-DHBK#nd1#Điều 7",
     "4511/QD-DHBK#nd1#Điều 5",
     "4511/QD-DHBK#nd1#Điều 3",
     "4511/QD-DHBK#nd1#Điều 10",
-    "1345/QD-DHBK#nd1#Điều 1",
+    "4511/QD-DHBK#nd1#Điều 1",
     "4511/QD-DHBK#nd1#Điều 8"
    ],
    "hybrid": [
     "4511/QD-DHBK#nd1#Điều 6",
-    "1345/QD-DHBK#nd1#Điều 7",
     "4511/QD-DHBK#nd1#Điều 4",
+    "1345/QD-DHBK#nd1#Điều 7",
     "4511/QD-DHBK#nd1#Điều 3",
     "1345/QD-DHBK#nd1#Điều 3",
-    "4511/QD-DHBK#nd1#Điều 10",
     "4511/QD-DHBK#nd1#Điều 1",
+    "4511/QD-DHBK#nd1#Điều 10",
     "4511/QD-DHBK#nd1#Điều 5",
     "405/QD-DHBK#nd1#Điều 6",
     "4511/QD-DHBK#nd1#Điều 9"
    ],
    "hybrid_kg": [
     "4511/QD-DHBK#nd1#Điều 6",
-    "1345/QD-DHBK#nd1#Điều 7",
     "4511/QD-DHBK#nd1#Điều 4",
+    "1345/QD-DHBK#nd1#Điều 7",
     "4511/QD-DHBK#nd1#Điều 3",
     "1345/QD-DHBK#nd1#Điều 3",
-    "4511/QD-DHBK#nd1#Điều 10",
     "4511/QD-DHBK#nd1#Điều 1",
+    "4511/QD-DHBK#nd1#Điều 10",
     "4511/QD-DHBK#nd1#Điều 5",
     "405/QD-DHBK#nd1#Điều 6",
     "4511/QD-DHBK#nd1#Điều 9"
@@ -3062,6 +3472,17 @@
     "nDCG@10": 0.6131471927654584,
     "MRR": 1.0,
     "R-Prec": 0.5,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.05555555555555555,
+    "recall": 0.5,
+    "f1": 0.09999999999999999,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.17723928678404774,
+    "MRR": 0.1,
+    "R-Prec": 0.0,
     "applicable": true
    },
    "bm25": {
@@ -3092,7 +3513,7 @@
     "f1": 0.5,
     "P@10": 0.2,
     "R@10": 1.0,
-    "nDCG@10": 0.8772153153380493,
+    "nDCG@10": 0.9197207891481876,
     "MRR": 1.0,
     "R-Prec": 0.5,
     "applicable": true
@@ -3133,6 +3554,18 @@
     "2244/QD-DHBK#nd1#Điều 9",
     "1214/QD-DHBK#nd1#Điều 12"
    ],
+   "chatbot": [
+    "2244/QD-DHBK#nd1#Điều 12",
+    "2244/QD-DHBK#nd1#Điều 25",
+    "2244/QD-DHBK#nd1#Điều 10",
+    "2244/QD-DHBK#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 8",
+    "2244/QD-DHBK#nd1#Điều 2",
+    "2244/QD-DHBK#nd1#Điều 15",
+    "2244/QD-DHBK#nd1#Điều 20",
+    "2244/QD-DHBK#nd1#Điều 11",
+    "2244/QD-DHBK#nd1#Điều 7"
+   ],
    "bm25": [
     "1779/QD-DHBK#nd1#Điều 3",
     "8/2021/TT-BGDDT#nd1#Điều 7",
@@ -3160,14 +3593,14 @@
    "vector": [
     "2244/QD-DHBK#nd1#Điều 7",
     "8/2021/TT-BGDDT#nd1#Điều 7",
-    "2244/QD-DHBK#nd1#Điều 2",
     "56/2026/TT-BGDDT#nd1#Điều 9",
+    "2244/QD-DHBK#nd1#Điều 2",
     "3875/QD-DHBK#nd1#Điều 6",
     "2244/QD-DHBK#nd1#Điều 21",
     "2244/QD-DHBK#nd1#Điều 6",
     "2244/QD-DHBK#nd1#Điều 11",
     "1214/QD-DHBK#nd1#Điều 42",
-    "1779/QD-DHBK#nd1#Điều 3"
+    "1214/QD-DHBK#nd1#Điều 43"
    ],
    "hybrid": [
     "8/2021/TT-BGDDT#nd1#Điều 7",
@@ -3212,6 +3645,17 @@
     "nDCG@10": 1.0,
     "MRR": 1.0,
     "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.42857142857142855,
+    "recall": 1.0,
+    "f1": 0.6,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.7328286204777911,
+    "MRR": 0.5,
+    "R-Prec": 0.6666666666666666,
     "applicable": true
    },
    "bm25": {
@@ -3279,6 +3723,15 @@
     "10/2016/TT-BGDDT#nd1#Điều 5",
     "1001/QD-DHBK#nd1#Điều 4"
    ],
+   "chatbot": [
+    "8/2021/TT-BGDDT#nd1#Điều 18",
+    "2244/QD-DHBK#nd1#Điều 21",
+    "56/2026/TT-BGDDT#nd1#Điều 21",
+    "1214/QD-DHBK#nd1#Điều 42",
+    "10/2016/TT-BGDDT#nd1#Điều 5",
+    "1001/QD-DHBK#nd1#Điều 4",
+    "84/2020/ND-CP#Điều 9"
+   ],
    "bm25": [
     "8/2021/TT-BGDDT#nd1#Điều 18",
     "2244/QD-DHBK#nd1#Điều 21",
@@ -3308,21 +3761,21 @@
     "1214/QD-DHBK#nd1#Điều 42",
     "56/2026/TT-BGDDT#nd1#Điều 21",
     "8/2021/TT-BGDDT#nd1#Điều 18",
-    "1248/QD-DHDN#nd1#Điều 20",
     "1478/QD-DHDN#nd1#Điều 20",
+    "1248/QD-DHDN#nd1#Điều 20",
     "56/2026/TT-BGDDT#nd1#Điều 22",
     "2244/QD-DHBK#nd1#Điều 2",
     "8/2021/TT-BGDDT#nd1#Điều 2",
-    "23/2021/TT-BGDDT#nd1#Điều 3"
+    "18/2017/QD-TTG#Điều 7"
    ],
    "hybrid": [
     "2244/QD-DHBK#nd1#Điều 21",
     "8/2021/TT-BGDDT#nd1#Điều 18",
     "1214/QD-DHBK#nd1#Điều 42",
     "56/2026/TT-BGDDT#nd1#Điều 21",
-    "1248/QD-DHDN#nd1#Điều 20",
     "56/2026/TT-BGDDT#nd1#Điều 22",
     "1478/QD-DHDN#nd1#Điều 20",
+    "1248/QD-DHDN#nd1#Điều 20",
     "38/2020/TT-BGDDT#Điều 4",
     "56/2026/TT-BGDDT#nd1#Điều 3",
     "8/2021/TT-BGDDT#nd1#Điều 2"
@@ -3332,9 +3785,9 @@
     "8/2021/TT-BGDDT#nd1#Điều 18",
     "1214/QD-DHBK#nd1#Điều 42",
     "56/2026/TT-BGDDT#nd1#Điều 21",
-    "1248/QD-DHDN#nd1#Điều 20",
     "56/2026/TT-BGDDT#nd1#Điều 22",
     "1478/QD-DHDN#nd1#Điều 20",
+    "1248/QD-DHDN#nd1#Điều 20",
     "38/2020/TT-BGDDT#Điều 4",
     "56/2026/TT-BGDDT#nd1#Điều 3",
     "8/2021/TT-BGDDT#nd1#Điều 2"
@@ -3358,6 +3811,17 @@
     "nDCG@10": 0.36005461457723403,
     "MRR": 0.5,
     "R-Prec": 0.4,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "P@10": 0.0,
+    "R@10": 0.0,
+    "nDCG@10": 0.0,
+    "MRR": 0.0,
+    "R-Prec": 0.0,
     "applicable": true
    },
    "bm25": {
@@ -3388,7 +3852,7 @@
     "f1": 0.6,
     "P@10": 0.5,
     "R@10": 1.0,
-    "nDCG@10": 0.9221235176732561,
+    "nDCG@10": 0.919261353975986,
     "MRR": 1.0,
     "R-Prec": 0.6,
     "applicable": true
@@ -3427,8 +3891,9 @@
     "43/2019/QH14#Điều 85",
     "1414/QD-DHBK#nd1#Điều 3",
     "4511/QD-DHBK#nd1#Điều 5",
-    "84/2020/ND-CP#Điều 11"
+    "2244/QD-DHBK#nd1#Điều 21"
    ],
+   "chatbot": [],
    "bm25": [
     "84/2020/ND-CP#Điều 8",
     "28/VBHN-BGDDT#Điều 1",
@@ -3458,19 +3923,19 @@
     "28/VBHN-BGDDT#Điều 2",
     "28/VBHN-BGDDT#Điều 1",
     "1414/QD-DHBK#nd1#Điều 7",
+    "3536/QD-DHBK#nd1#Điều 11",
     "1414/QD-DHBK#nd1#Điều 3",
     "1414/QD-DHBK#nd1#Điều 5",
-    "3536/QD-DHBK#nd1#Điều 11",
-    "1414/QD-DHBK#Điều 2",
     "1414/QD-DHBK#nd1#Điều 6",
+    "1414/QD-DHBK#Điều 2",
     "3758/QD-DHDN#nd1#Điều 4"
    ],
    "hybrid": [
     "84/2020/ND-CP#Điều 8",
     "28/VBHN-BGDDT#Điều 1",
     "28/VBHN-BGDDT#Điều 2",
-    "1414/QD-DHBK#nd1#Điều 3",
     "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#nd1#Điều 3",
     "1414/QD-DHBK#nd1#Điều 7",
     "1414/QD-DHBK#nd1#Điều 5",
     "1414/QD-DHBK#Điều 2",
@@ -3481,8 +3946,8 @@
     "84/2020/ND-CP#Điều 8",
     "28/VBHN-BGDDT#Điều 1",
     "28/VBHN-BGDDT#Điều 2",
-    "1414/QD-DHBK#nd1#Điều 3",
     "3536/QD-DHBK#nd1#Điều 11",
+    "1414/QD-DHBK#nd1#Điều 3",
     "1414/QD-DHBK#nd1#Điều 7",
     "1414/QD-DHBK#nd1#Điều 5",
     "1414/QD-DHBK#Điều 2",
@@ -3508,6 +3973,17 @@
     "nDCG@10": 0.8854598815714874,
     "MRR": 1.0,
     "R-Prec": 0.6666666666666666,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.3,
+    "recall": 1.0,
+    "f1": 0.4615384615384615,
+    "P@10": 0.3,
+    "R@10": 1.0,
+    "nDCG@10": 0.5881601264058984,
+    "MRR": 0.5,
+    "R-Prec": 0.3333333333333333,
     "applicable": true
    },
    "bm25": {
@@ -3538,8 +4014,8 @@
     "f1": 0.0,
     "P@10": 0.2,
     "R@10": 0.6666666666666666,
-    "nDCG@10": 0.34870224750355494,
-    "MRR": 0.2,
+    "nDCG@10": 0.3235866969737877,
+    "MRR": 0.16666666666666666,
     "R-Prec": 0.0,
     "applicable": true
    },
@@ -3574,6 +4050,18 @@
     "56/2026/TT-BGDDT#nd1#Điều 24",
     "3707/QD-DHBK#Điều 1"
    ],
+   "chatbot": [
+    "8/2021/TT-BGDDT#nd1#Điều 20",
+    "2367/QD-DHDN#nd1#Điều 8",
+    "23/2021/TT-BGDDT#nd1#Điều 16",
+    "3875/QD-DHBK#nd1#Điều 33",
+    "56/2026/TT-BGDDT#nd1#Điều 24",
+    "1274/QD-DHBK#Điều 1",
+    "29/QD-DHBK#nd1#Điều 4",
+    "10/2016/TT-BGDDT#nd1#Điều 6",
+    "29/QD-DHBK#nd1#Điều 2",
+    "3707/QD-DHBK#Điều 1"
+   ],
    "bm25": [
     "1001/QD-DHBK#nd2#3",
     "2367/QD-DHDN#nd1#Điều 8",
@@ -3592,23 +4080,23 @@
     "1001/QD-DHBK#nd2#2",
     "973/QD-DHDN#nd1#5",
     "973/QD-DHDN#nd1#4",
-    "3875/QD-DHBK#nd1#Điều 33",
     "23/2021/TT-BGDDT#nd1#Điều 16",
+    "3875/QD-DHBK#nd1#Điều 33",
     "8/2021/TT-BGDDT#nd1#Điều 20",
     "1001/QD-DHBK#nd1#Điều 17",
     "973/QD-DHDN#nd1#7"
    ],
    "vector": [
-    "1001/QD-DHBK#nd2#4",
     "1001/QD-DHBK#nd2#3",
+    "1001/QD-DHBK#nd2#4",
     "1001/QD-DHBK#nd2#2",
     "8/2021/TT-BGDDT#nd1#Điều 20",
+    "973/QD-DHDN#nd1#5",
     "2367/QD-DHDN#nd1#Điều 8",
     "3707/QD-DHBK#Điều 1",
-    "973/QD-DHDN#nd1#5",
-    "3875/QD-DHBK#nd1#Điều 33",
     "1980/QD-DHBK#nd1#Điều 29",
-    "973/QD-DHDN#nd1#6"
+    "973/QD-DHDN#nd1#6",
+    "3875/QD-DHBK#nd1#Điều 33"
    ],
    "hybrid": [
     "1001/QD-DHBK#nd2#3",
@@ -3653,6 +4141,17 @@
     "nDCG@10": 1.0,
     "MRR": 1.0,
     "R-Prec": 1.0,
+    "applicable": true
+   },
+   "chatbot": {
+    "precision": 0.2,
+    "recall": 0.5,
+    "f1": 0.28571428571428575,
+    "P@10": 0.1,
+    "R@10": 0.5,
+    "nDCG@10": 0.3065735963827292,
+    "MRR": 0.3333333333333333,
+    "R-Prec": 0.0,
     "applicable": true
    },
    "bm25": {
@@ -3724,6 +4223,13 @@
     "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 9",
     "81/2021/ND-CP#Điều 22"
    ],
+   "chatbot": [
+    "81/2021/ND-CP#Điều 20",
+    "81/2021/ND-CP#Điều 19",
+    "81/2021/ND-CP#Điều 15",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 4"
+   ],
    "bm25": [
     "81/2021/ND-CP#Điều 20",
     "81/2021/ND-CP#Điều 15",
@@ -3758,15 +4264,15 @@
     "81/2021/ND-CP#Điều 14",
     "43/2019/QH14#Điều 85",
     "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 9",
-    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6"
+    "5543/QD-DHBK#nd1#4"
    ],
    "hybrid": [
     "81/2021/ND-CP#Điều 20",
     "81/2021/ND-CP#Điều 15",
     "81/2021/ND-CP#Điều 16",
     "81/2021/ND-CP#Điều 19",
-    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
     "43/2019/QH14#Điều 85",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
     "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 5",
     "81/2021/ND-CP#Điều 22",
     "81/2021/ND-CP#Điều 21",
@@ -3777,8 +4283,8 @@
     "81/2021/ND-CP#Điều 15",
     "81/2021/ND-CP#Điều 16",
     "81/2021/ND-CP#Điều 19",
-    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
     "43/2019/QH14#Điều 85",
+    "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 6",
     "9/2016/TTLT-BGDDT-BTC-BLDTBXH#Điều 5",
     "81/2021/ND-CP#Điều 22",
     "81/2021/ND-CP#Điều 21",

@@ -1,0 +1,18 @@
+{
+  "sourceFile": "Tài chính, kế toán/0449_5543_QĐ-ĐHBK_Quyết định ban hành các khoản thu, mức thu tại Ký túc xá Trường Đại học Bách khoa,.txt",
+  "documentNumber": "5543/QĐ-ĐHBK",
+  "signers": ["Nguyễn Hữu Hiếu"],
+  "targetGroups": ["Đơn vị trực thuộc", "Người học"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "5505/BGDĐT-TCCB", "relationType": "BASED_ON", "context": "Căn cứ Công văn số 5505/BGDĐT-TCCB ngày 12 tháng 9 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về công tác Hội đồng trường của các cơ sở giáo dục đại học, giáo dục nghề nghiệp thuộc Bộ Giáo dục và Đào tạo;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "68/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 68/NQ-HĐĐH ngày 31 tháng 10 năm 2025 của Hội đồng Đại học Đà Nẵng về việc tiếp tục thực hiện nhiệm vụ của Hội đồng trường Trường Đại học Bách khoa nhiệm kỳ 2020-2025;"},
+    {"targetDocumentNumber": "93/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "5000/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 5000/QĐ-ĐHBK ngày 27 tháng 12 năm 2023 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế chi tiêu nội bộ của Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "136/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 136/NQ-HĐT ngày 10 tháng 10 năm 2025 Nghị quyết phiên họp thứ 21 Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng;"}
+  ],
+  "note": "Điều 2 'Các văn bản trước đây trái với Quyết định này hết hiệu lực thi hành' không nêu số hiệu → không gán REPEALS. Phụ lục chỉ nhắc lại chính số 5543/QĐ-ĐHBK."
+}

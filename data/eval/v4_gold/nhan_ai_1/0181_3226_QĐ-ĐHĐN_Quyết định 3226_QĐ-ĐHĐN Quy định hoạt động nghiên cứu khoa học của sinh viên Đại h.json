@@ -1,0 +1,14 @@
+{
+  "sourceFile": "Khoa học Công nghệ/0181_3226_QĐ-ĐHĐN_Quyết định 3226_QĐ-ĐHĐN Quy định hoạt động nghiên cứu khoa học của sinh viên Đại h.txt",
+  "documentNumber": "3226/QĐ-ĐHĐN",
+  "signers": ["Lê Quang Sơn"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Đơn vị trực thuộc", "Người học", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "19/2012/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 19/2012/TT-BGDĐT ngày 01/6/2012 của Bộ Giáo dục và Đào tạo ban hành Quy định về hoạt động nghiên cứu khoa học của sinh viên trong các cơ sở giáo dục đại học;"},
+    {"targetDocumentNumber": "18/2016/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 18/2016/TT-BGDĐT ngày 22/6/2016 của Bộ Giáo dục và Đào tạo ban hành Quy chế xét tặng Giải thưởng Sinh viên nghiên cứu khoa học;"},
+    {"targetDocumentNumber": "2762/QĐ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế Tổ chức và hoạt động của Đại học Đà Nẵng;"}
+  ],
+  "note": "Số hiệu in là '3226 /QĐ-ĐHĐN', chuẩn hóa. File .txt bị thiếu một phần (từ Điều 13 khoản 1 nhảy sang Điều 16 khoản 5 ở Trang 7; không có Phụ lục mẫu) nên có thể sót trích dẫn ở phần mất. Các câu Căn cứ bị ngắt dòng, context đã nối dòng. Luật Giáo dục đại học không có số hiệu."
+}

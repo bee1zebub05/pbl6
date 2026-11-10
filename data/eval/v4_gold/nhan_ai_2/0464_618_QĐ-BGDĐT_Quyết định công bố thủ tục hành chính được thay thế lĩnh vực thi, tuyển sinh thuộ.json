@@ -1,0 +1,39 @@
+{
+ "sourceFile": "Tuyển sinh/0464_618_QĐ-BGDĐT_Quyết định công bố thủ tục hành chính được thay thế lĩnh vực thi, tuyển sinh thuộ.txt",
+ "documentNumber": "618/QĐ-BGDĐT",
+ "signers": [
+  "Nguyễn Văn Phúc"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "37/2025/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+  },
+  {
+   "targetDocumentNumber": "63/2010/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính và Nghị định số 78/2025/NĐ-CP ngày 01 tháng 4 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính;"
+  },
+  {
+   "targetDocumentNumber": "78/2025/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính và Nghị định số 78/2025/NĐ-CP ngày 01 tháng 4 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính;"
+  },
+  {
+   "targetDocumentNumber": "1384/QĐ-BGDĐT",
+   "relationType": "REPEALS",
+   "context": "Bãi bỏ các nội dung liên quan đến các thủ tục: Đăng ký xét tuyển trình độ đại học, trình độ cao đẳng ngành Giáo dục Mầm non tại Quyết định số 1384/QĐ-BGDĐT ngày 22 tháng 5 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính được sửa đổi, bổ sung, lĩnh vực thi, tuyển sinh thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo."
+  },
+  {
+   "targetDocumentNumber": "06/2026/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Thông tư số 06/2026/TT-BGDĐT ngày 15 tháng 2 năm 2026 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng."
+  }
+ ],
+ "note": "1384/QĐ-BGDĐT chỉ bị bãi bỏ một phần (nội dung thủ tục Đăng ký xét tuyển). Khối 'Căn cứ' in nghiêng (dấu *). Cuối file là phiếu chuyển văn bản của ĐHBK nhắc lại số hiệu chính văn bản — bỏ qua. targetGroups từ Điều 3 (Thủ trưởng các đơn vị, cá nhân, tổ chức có liên quan)."
+}

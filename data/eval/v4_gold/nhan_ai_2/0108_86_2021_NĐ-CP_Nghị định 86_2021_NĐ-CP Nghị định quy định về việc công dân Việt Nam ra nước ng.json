@@ -1,0 +1,31 @@
+{
+ "sourceFile": "Tổ chức, hành chính/0108_86_2021_NĐ-CP_Nghị định 86_2021_NĐ-CP Nghị định quy định về việc công dân Việt Nam ra nước ng.txt",
+ "documentNumber": "86/2021/NĐ-CP",
+ "signers": [
+  "Vũ Đức Đam"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Doanh nghiệp, đối tác/tổ chức nước ngoài",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "101/2017/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "được thực hiện theo quy định tại Nghị định số 101/2017/NĐ-CP ngày 01 tháng 9 năm 2017 của Chính phủ về đào tạo, bồi dưỡng cán bộ, công chức, viên chức."
+  },
+  {
+   "targetDocumentNumber": "143/2013/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "được thực hiện theo quy định tại Nghị định số 143/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định về bồi hoàn học bổng và chi phí đào tạo."
+  },
+  {
+   "targetDocumentNumber": "05/2013/QĐ-TTg",
+   "relationType": "REPEALS",
+   "context": "Bãi bỏ Quyết định số 05/2013/QĐ-TTg ngày 15 tháng 01 năm 2013 của Thủ tướng Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập."
+  }
+ ],
+ "note": "'Tổ chức kinh doanh dịch vụ tư vấn du học' được xếp vào nhóm Doanh nghiệp — không chắc. Các mẫu báo cáo ở phụ lục có dòng 'Căn cứ Nghị định số .../202.../NĐ-CP' để trống số (tự trích chính nó) nên bỏ qua."
+}

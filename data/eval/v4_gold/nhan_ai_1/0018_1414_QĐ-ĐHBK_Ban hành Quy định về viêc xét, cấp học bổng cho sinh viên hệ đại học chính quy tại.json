@@ -1,0 +1,63 @@
+{
+ "sourceFile": "Công tác sinh viên/0018_1414_QĐ-ĐHBK_Ban hành Quy định về viêc xét, cấp học bổng cho sinh viên hệ đại học chính quy tại.txt",
+ "documentNumber": "1414/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "84/2020/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 84/2020/NĐ-CP ngày 17/7/2020 của Chính phủ quy định chi tiết một số điều của Luật Giáo dục;"
+  },
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "35/2011/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 35/2011/TT-BGDĐT ngày 11/8/2011 của Bộ Giáo dục và Đào tạo quy định về trao và nhận học bổng trợ cấp cho người học trong các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân;"
+  },
+  {
+   "targetDocumentNumber": "16/2015/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12/8/2015 của Bộ Giáo"
+  },
+  {
+   "targetDocumentNumber": "17/VBHN-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Văn bản hợp nhất số 17/VBHN-BGDĐT ngày 15/5/2014 của Bộ"
+  },
+  {
+   "targetDocumentNumber": "28/VBHN-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Văn bản hợp nhất số 28/VBHN-BGDĐT ngày 05/4/2014 của Bộ Giáo dục và Đào tạo về Học bổng khuyến khích học tập đối với học sinh, sinh viên trong các trường chuyên, trường năng khiếu, các cơ sở giáo dục đại học và trung cấp chuyên nghiệp thuộc hệ thống giáo dục quốc dân;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày , 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ban hành Quy chế tổ chức và hoạt động của trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "1001/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số IOOUQĐ-ĐHBK ngày 16/4/2021 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "2083/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Quyết định này được áp dụng đối với học kỳ lấy điểm xét học bổng khuyến khích học tập bắt đầu từ năm học 2021 2022 và thay thế cho Quyết định số 2083/QĐ-ĐHBK ngày 08/9/2019 ban hành Quy định \"về việc xét, cấp học bổng, hỗ trợ chi phí học tập cho sinh viên đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng\"."
+  }
+ ],
+ "note": "Bản OCR nhiễu do con dấu. Sửa OCR: 'IOOUQĐ-ĐHBK' -> 1001/QĐ-ĐHBK (khớp ngày 16/4/2021, nội dung Quy chế CTSV). Dòng 'Ban hành kèm theo Quyết định số 4414/QĐ-ĐHBK' là OCR sai của chính văn bản 1414 nên bỏ. Luật Giáo dục 2019 không số hiệu, bỏ. Context của 16/2015 và 17/VBHN bị cắt do nhiễu con dấu chen vào câu."
+}

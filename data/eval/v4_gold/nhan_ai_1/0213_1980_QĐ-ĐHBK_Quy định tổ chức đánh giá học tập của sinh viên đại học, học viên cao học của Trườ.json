@@ -1,0 +1,66 @@
+{
+  "sourceFile": "Khảo thí/0213_1980_QĐ-ĐHBK_Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trườ.txt",
+  "documentNumber": "1980/QĐ-ĐHBK",
+  "signers": [
+    "Đoàn Quang Vinh"
+  ],
+  "targetGroups": [
+    "Người học",
+    "Cán bộ, giảng viên, viên chức, người lao động",
+    "Đơn vị trực thuộc",
+    "Cơ sở giáo dục / trường đại học thành viên"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "268/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ;"
+    },
+    {
+      "targetDocumentNumber": "409/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Quyết định số 409/QĐ-ĐHBK ngày 20 tháng 10 năm 2016 ban hành Quy định đào tạo chương trình tiên tiến trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "598/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Quyết định số 598/QĐ-ĐHBK ngày 27 tháng 12 năm 2016 ban hành Quy định đào tạo thạc sỹ;"
+    },
+    {
+      "targetDocumentNumber": "29/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng”;"
+    },
+    {
+      "targetDocumentNumber": "1274/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc Sửa đổi, bổ sung một số điều của “Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng”;"
+    },
+    {
+      "targetDocumentNumber": "452/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "1. Công tác xây dựng, quản lý và sử dụng ngân hàng đề thi kết thúc học phần được thực hiện theo Quy định ban hành kèm theo Quyết định số 452/QĐ-ĐHBK ngày 24/11/2015 của Hiệu trưởng Trường Đại học Bách khoa."
+    },
+    {
+      "targetDocumentNumber": "156/QĐ-ĐHBK",
+      "relationType": "REPEALS",
+      "context": "2. Bãi bỏ Quy định “Nhập điểm và quản lý kết quả học tập của sinh viên chính quy của Trường Đại học Bách khoa – Đại học Đà Nẵng” ban hành kèm theo Quyết định số 156/QĐ-ĐHBK ngày 29 tháng 5 năm 2015 của Hiệu trưởng Trường Đại học Bách khoa."
+    }
+  ],
+  "note": "29/QĐ-ĐHBK và 1274/QĐ-ĐHBK còn được dẫn chiếu lại ở Điều về xử lý vi phạm liêm chính học thuật; chỉ ghi BASED_ON. Văn bản không nêu \"thay thế\" nên 156/QĐ-ĐHBK gán REPEALS."
+}

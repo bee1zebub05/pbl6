@@ -1,0 +1,12 @@
+{
+  "sourceFile": "Tổ chức, hành chính/0108_86_2021_NĐ-CP_Nghị định 86_2021_NĐ-CP Nghị định quy định về việc công dân Việt Nam ra nước ng.txt",
+  "documentNumber": "86/2021/NĐ-CP",
+  "signers": ["Vũ Đức Đam"],
+  "targetGroups": ["Người học", "Cán bộ, giảng viên, viên chức, người lao động", "Cơ quan, tổ chức, cá nhân có liên quan", "Doanh nghiệp, đối tác/tổ chức nước ngoài"],
+  "citations": [
+    {"targetDocumentNumber": "101/2017/NĐ-CP", "relationType": "REFERENCES", "context": "1. Việc bồi hoàn chi phí đào tạo đối với du học sinh là cán bộ, công chức, viên chức quy định tại điểm a và điểm b khoản 1 Điều 3 Nghị định này được thực hiện theo quy định tại Nghị định số 101/2017/NĐ-CP ngày 01 tháng 9 năm 2017 của Chính phủ về đào tạo, bồi dưỡng cán bộ, công chức, viên chức."},
+    {"targetDocumentNumber": "143/2013/NĐ-CP", "relationType": "REFERENCES", "context": "2. Việc bồi hoàn chi phí đào tạo đối với du học sinh không phải là cán bộ, công chức, viên chức quy định tại điểm a và điểm b khoản 1 Điều 3 Nghị định này, không chấp hành sự điều động làm việc của cơ quan nhà nước có thẩm quyền sau khi tốt nghiệp được thực hiện theo quy định tại Nghị định số 143/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định về bồi hoàn học bổng và chi phí đào tạo."},
+    {"targetDocumentNumber": "05/2013/QĐ-TTg", "relationType": "REPEALS", "context": "Bãi bỏ Quyết định số 05/2013/QĐ-TTg ngày 15 tháng 01 năm 2013 của Thủ tướng Chính phủ quy định việc công dân Việt Nam ra nước ngoài học tập."}
+  ],
+  "note": "Khối Căn cứ chỉ gồm các Luật không ghi số hiệu nên không có BASED_ON. targetGroups: 'Doanh nghiệp, đối tác/tổ chức nước ngoài' chọn cho 'Tổ chức kinh doanh dịch vụ tư vấn du học' và cơ quan/tổ chức ở nước ngoài (điểm c, đ khoản 1 Điều 2) — không chắc. Các mẫu biểu trong Phụ lục có số hiệu để trống ('/202.../NĐ-CP') không tính. Về nội dung Nghị định này điều chỉnh thay QĐ 05/2013/QĐ-TTg nhưng văn bản dùng từ 'Bãi bỏ' nên gán REPEALS."
+}

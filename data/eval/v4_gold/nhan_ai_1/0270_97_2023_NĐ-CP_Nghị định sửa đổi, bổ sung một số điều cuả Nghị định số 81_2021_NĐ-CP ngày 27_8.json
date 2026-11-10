@@ -1,0 +1,12 @@
+{
+  "sourceFile": "Tài chính, kế toán/0270_97_2023_NĐ-CP_Nghị định sửa đổi, bổ sung một số điều cuả Nghị định số 81_2021_NĐ-CP ngày 27_8.txt",
+  "documentNumber": "97/2023/NĐ-CP",
+  "signers": ["Trần Hồng Hà"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "81/2021/NĐ-CP", "relationType": "AMENDS", "context": "Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo (sau đây gọi tắt là Nghị định số 81/2021/NĐ-CP) như sau:"},
+    {"targetDocumentNumber": "81/2021/NĐ-CP", "relationType": "REFERENCES", "context": "Các cơ sở giáo dục nghề nghiệp, giáo dục đại học công lập đã ban hành mức thu học phí năm học 2023 - 2024 theo quy định tại Nghị định số 81/2021/NĐ-CP thực hiện rà soát, điều chỉnh theo quy định của Nghị định này."},
+    {"targetDocumentNumber": "60/2021/NĐ-CP", "relationType": "REFERENCES", "context": "c) Đối với các cơ sở giáo dục đã được phê duyệt phương án tự chủ tài chính theo quy định tại Nghị định số 60/2021/NĐ-CP ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập được tiếp tục thực hiện cơ chế thu học phí tương ứng với mức độ tự chủ tài chính đã phê duyệt."}
+  ],
+  "note": "Khối Căn cứ chỉ gồm Luật/Pháp lệnh không có số hiệu → không có BASED_ON. Điều 2 'Bãi bỏ khoản 3 Điều 31' là bãi bỏ một khoản của 81/2021 (văn bản đích vẫn còn hiệu lực) nên gộp vào AMENDS, không gán REPEALS; có thể tranh luận. 81/2021 thêm dòng REFERENCES vì điều khoản chuyển tiếp dẫn chiếu 'theo quy định tại Nghị định số 81/2021/NĐ-CP' (không đổi hiệu lực)."
+}

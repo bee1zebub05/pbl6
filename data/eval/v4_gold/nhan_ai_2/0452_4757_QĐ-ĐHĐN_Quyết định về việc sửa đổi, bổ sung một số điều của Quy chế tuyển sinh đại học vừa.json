@@ -1,0 +1,64 @@
+{
+ "sourceFile": "Đào tạo/0452_4757_QĐ-ĐHĐN_Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa.txt",
+ "documentNumber": "4757/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cơ sở giáo dục / trường đại học thành viên"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+  },
+  {
+   "targetDocumentNumber": "18/2017/QĐ-TTg",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/2022/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+  },
+  {
+   "targetDocumentNumber": "06/2025/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 06/2025/TT-BGDĐT ngày 19/3/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "4481/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 4481/QĐ-ĐHĐN ngày 18/11/2022 của Giám đốc Đại học Đà Nẵng ban hành Quy chế tuyển sinh đại học vừa làm vừa học;"
+  },
+  {
+   "targetDocumentNumber": "4481/QĐ-ĐHĐN",
+   "relationType": "AMENDS",
+   "context": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh đại học vừa làm vừa học ban hành kèm theo Quyết định số 4481/QĐ-ĐHĐN ngày 18/11/2022 của Giám đốc Đại học Đà Nẵng (gọi tắt là Quy chế 4481)."
+  }
+ ],
+ "note": "Trang cuối là phiếu xử lý văn bản đến của Trường ĐHBK (không phải nội dung văn bản), không gán thêm trích dẫn từ đó."
+}

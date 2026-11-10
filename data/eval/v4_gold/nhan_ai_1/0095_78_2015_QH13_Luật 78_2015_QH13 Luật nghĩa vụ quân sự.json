@@ -1,0 +1,10 @@
+{
+  "sourceFile": "Công tác sinh viên/0095_78_2015_QH13_Luật 78_2015_QH13 Luật nghĩa vụ quân sự.txt",
+  "documentNumber": "78/2015/QH13",
+  "signers": ["Nguyễn Sinh Hùng"],
+  "targetGroups": ["Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "43/2005/QH11", "relationType": "REPEALS", "context": "43/2005/QH11 ngày 14 tháng 6 năm 2005 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."}
+  ],
+  "note": "Câu hết hiệu lực (khoản 2 Điều 61) bị ngắt trang ngay giữa số hiệu: 'Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự số...' / '43/2005/QH11 ...'; context chỉ trích phần sau ngắt trang. Các Luật NVQS 1981, 1990, 1994 cũng hết hiệu lực nhưng không có số hiệu nên bỏ qua. Văn bản tuyên bố 'hết hiệu lực', không nói 'thay thế' nên gán REPEALS, dù về nội dung Luật mới thay thế Luật cũ (có thể tranh luận là REPLACES). Người ký sao y bản chính (Giang Sơn, VPCTN) không tính; số 04/SY-VPCTN là số bản sao, không tính."
+}

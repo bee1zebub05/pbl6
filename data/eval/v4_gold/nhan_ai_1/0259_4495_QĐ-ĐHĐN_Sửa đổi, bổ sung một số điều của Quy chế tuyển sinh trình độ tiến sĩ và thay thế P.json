@@ -1,0 +1,64 @@
+{
+ "sourceFile": "Tuyển sinh/0259_4495_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế P.txt",
+ "documentNumber": "4495/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "30/2018/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 30/2018/TT-BGDĐT ngày 24/12/2018 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý người nước ngoài học tập tại Việt Nam;"
+  },
+  {
+   "targetDocumentNumber": "18/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "3297/QĐ-ĐHĐN",
+   "relationType": "AMENDS",
+   "context": "Điều 1. Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "3297/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN được thay thế tại Phụ lục kèm theo Quyết định này."
+  },
+  {
+   "targetDocumentNumber": "18/2021/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Trường Đại học Ngoại ngữ quy định về yêu cầu năng lực ngoại ngữ khác đối với ngành Ngôn ngữ nước ngoài và ngành Lý luận và phương pháp dạy học bộ môn tiếng nước ngoài trong Đề án tuyển sinh dựa trên đặc điểm của từng ngành đảm bảo phù hợp với quy định tại Thông tư số 18/2021/TT-BGDĐT; tổ chức đánh giá trình độ ngoại ngữ khác và gửi kết quả về Đại học Đà Nẵng để xét tuyển.”"
+  }
+ ],
+ "note": "Với 3297/QĐ-ĐHĐN: vừa sửa đổi, bổ sung một số điều (AMENDS) vừa thay thế riêng Phụ lục IV (REPLACES một phần; 3297 vẫn còn hiệu lực) — có thể chỉ cần AMENDS nếu coi thay phụ lục là sửa đổi. Dẫn chiếu 18/2021 nằm trong đoạn văn được sửa đổi đưa vào quy chế. Trang cuối là phiếu giải quyết văn bản đến, bỏ qua."
+}

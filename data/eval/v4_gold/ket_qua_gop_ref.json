@@ -1,0 +1,285 @@
+{
+ "so_van_ban": 103,
+ "thieu": {
+  "a": 0,
+  "b": 0,
+  "v4": 0
+ },
+ "dong_thuan": {
+  "so_cap": 906,
+  "dong_y_tho": 0.983,
+  "kappa_quan_he": 0.969,
+  "kappa_loai_tren_cap_chung": 0.973,
+  "so_cap_chung": 904,
+  "nguoi_ky": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "tp": 104,
+   "du_doan": 104,
+   "chuan": 104
+  },
+  "doi_tuong": {
+   "P": 0.959,
+   "R": 0.962,
+   "F1": 0.961,
+   "tp": 282,
+   "du_doan": 294,
+   "chuan": 293
+  },
+  "bat_dong": [
+   {
+    "van_ban": "0011_09_2016_TTLT-BGDĐT-BTC-BLĐTBXH_Thông tư liên tịch hướng dẫn thực hiện một số điều của Nghị đị",
+    "dich": "16/2006/TTLT/BLDTBXH-BGDDT-BTC",
+    "a": "REFERENCES",
+    "b": "REPEALS"
+   },
+   {
+    "van_ban": "0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "dich": "1982/QD-TTG",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "10/2020/TT-BGDDT",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "102/2012/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "36/2018/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "40/2017/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "45/2018/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "58/2016/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "71/2018/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "81/2021/ND-CP",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "91/2017/ND-CP",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "99/2014/ND-CP",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0366_3443_ĐHĐN-KHTC_Mức thu học phí năm học 2024-2025",
+    "dich": "10/2020/TT-BGDDT",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0416_1214_QĐ-ĐHBK_Quyết định ban hành Quy định tổ chức và quản lý đào tạo trình độ Đại học của Trườn",
+    "dich": "268/QD-DHBK",
+    "a": "KHONG",
+    "b": "REFERENCES"
+   },
+   {
+    "van_ban": "0416_1214_QĐ-ĐHBK_Quyết định ban hành Quy định tổ chức và quản lý đào tạo trình độ Đại học của Trườn",
+    "dich": "268/QD/DHBK",
+    "a": "REFERENCES",
+    "b": "KHONG"
+   }
+  ]
+ },
+ "v4_so_voi_a": {
+  "phat_hien_cap": {
+   "P": 0.996,
+   "R": 0.931,
+   "F1": 0.963,
+   "tp": 843,
+   "du_doan": 846,
+   "chuan": 905
+  },
+  "quan_he_tong": {
+   "P": 0.959,
+   "R": 0.89,
+   "F1": 0.923,
+   "tp": 811,
+   "du_doan": 846,
+   "chuan": 911
+  },
+  "nguoi_ky": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "tp": 104,
+   "du_doan": 104,
+   "chuan": 104
+  },
+  "doi_tuong": {
+   "P": 0.652,
+   "R": 0.867,
+   "F1": 0.745,
+   "tp": 255,
+   "du_doan": 391,
+   "chuan": 294
+  },
+  "theo_loai": {
+   "BASED_ON": {
+    "P": 0.953,
+    "R": 0.988,
+    "F1": 0.97,
+    "tp": 570,
+    "du_doan": 598,
+    "chuan": 577
+   },
+   "REFERENCES": {
+    "P": 0.992,
+    "R": 0.598,
+    "F1": 0.746,
+    "tp": 131,
+    "du_doan": 132,
+    "chuan": 219
+   },
+   "REPLACES": {
+    "P": 1.0,
+    "R": 0.974,
+    "F1": 0.987,
+    "tp": 76,
+    "du_doan": 76,
+    "chuan": 78
+   },
+   "AMENDS": {
+    "P": 0.846,
+    "R": 0.786,
+    "F1": 0.815,
+    "tp": 11,
+    "du_doan": 13,
+    "chuan": 14
+   },
+   "REPEALS": {
+    "P": 0.852,
+    "R": 1.0,
+    "F1": 0.92,
+    "tp": 23,
+    "du_doan": 27,
+    "chuan": 23
+   }
+  },
+  "phan_loai_tren_cap_chung": {
+   "dung": 806,
+   "tong": 843,
+   "ti_le": 0.956
+  }
+ },
+ "v4_so_voi_b": {
+  "phat_hien_cap": {
+   "P": 0.996,
+   "R": 0.931,
+   "F1": 0.963,
+   "tp": 843,
+   "du_doan": 846,
+   "chuan": 905
+  },
+  "quan_he_tong": {
+   "P": 0.948,
+   "R": 0.88,
+   "F1": 0.913,
+   "tp": 802,
+   "du_doan": 846,
+   "chuan": 911
+  },
+  "nguoi_ky": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "tp": 104,
+   "du_doan": 104,
+   "chuan": 104
+  },
+  "doi_tuong": {
+   "P": 0.65,
+   "R": 0.867,
+   "F1": 0.743,
+   "tp": 254,
+   "du_doan": 391,
+   "chuan": 293
+  },
+  "theo_loai": {
+   "BASED_ON": {
+    "P": 0.955,
+    "R": 0.969,
+    "F1": 0.962,
+    "tp": 571,
+    "du_doan": 598,
+    "chuan": 589
+   },
+   "REFERENCES": {
+    "P": 0.909,
+    "R": 0.583,
+    "F1": 0.71,
+    "tp": 120,
+    "du_doan": 132,
+    "chuan": 206
+   },
+   "REPLACES": {
+    "P": 1.0,
+    "R": 0.974,
+    "F1": 0.987,
+    "tp": 76,
+    "du_doan": 76,
+    "chuan": 78
+   },
+   "AMENDS": {
+    "P": 0.846,
+    "R": 0.786,
+    "F1": 0.815,
+    "tp": 11,
+    "du_doan": 13,
+    "chuan": 14
+   },
+   "REPEALS": {
+    "P": 0.889,
+    "R": 1.0,
+    "F1": 0.941,
+    "tp": 24,
+    "du_doan": 27,
+    "chuan": 24
+   }
+  },
+  "phan_loai_tren_cap_chung": {
+   "dung": 797,
+   "tong": 843,
+   "ti_le": 0.945
+  }
+ }
+}

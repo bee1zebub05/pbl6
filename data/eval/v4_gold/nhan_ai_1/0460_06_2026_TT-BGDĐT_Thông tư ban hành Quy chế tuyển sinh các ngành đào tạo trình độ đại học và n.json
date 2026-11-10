@@ -1,0 +1,50 @@
+{
+  "sourceFile": "Tuyển sinh/0460_06_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và n.txt",
+  "documentNumber": "06/2026/TT-BGDĐT",
+  "signers": [
+    "Nguyễn Văn Phúc"
+  ],
+  "targetGroups": [
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Cơ quan, tổ chức, cá nhân có liên quan",
+    "Đơn vị trực thuộc"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "43/2019/QH14",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Luật Giáo dục số 43/2019/QH14, được sửa đổi bởi Luật Giáo dục 123/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "123/2025/QH15",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Luật Giáo dục số 43/2019/QH14, được sửa đổi bởi Luật Giáo dục 123/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "125/2025/QH15",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Luật Giáo dục đại học số 125/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "124/2025/QH15",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Luật Giáo dục nghề nghiệp số 124/2025/QH15;"
+    },
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/2022/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "context": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2026 và thay thế các Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 ban hành kèm theo Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2025 sửa đổi, bổ sung Thông tư số 08/2022/TT-BGDĐT ban hành kèm Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non của Bộ trưởng Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "06/2025/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "context": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2026 và thay thế các Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 ban hành kèm theo Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2025 sửa đổi, bổ sung Thông tư số 08/2022/TT-BGDĐT ban hành kèm Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non của Bộ trưởng Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "note": "Số hiệu in \"06 /2026/TT-BGDĐT\", chuẩn hoá. Dòng ký bị OCR trộn với Nơi nhận; người ký Nguyễn Văn Phúc (KT. Bộ trưởng, Thứ trưởng). Phiếu chuyển văn bản đến của ĐHBK ở cuối file tự trích chính văn bản, bỏ qua; dòng \"(Kèm theo Thông tư số /2026/TT-BGDĐT\" bỏ trống số. 123/2025/QH15 là luật sửa đổi Luật Giáo dục nhưng nằm trực tiếp trong câu Căn cứ nên gán BASED_ON."
+}

@@ -1,0 +1,71 @@
+{
+ "sourceFile": "Thi đua, khen thưởng/0178_4768_QĐ-ĐHĐN_Quyết định 4768_QĐ-ĐHĐN Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng.txt",
+ "documentNumber": "4768/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/NĐ-CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "91/2017/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+  },
+  {
+   "targetDocumentNumber": "12/2019/TT-BNV",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 12/2019/TT-BNV ngày 04/11/2019 của Bộ Nội vụ Quy định chi tiết thi hành một số điều của Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "21/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 21/2020/TT-BGDĐT ngày 31/7/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo Hướng dẫn công tác thi đua, khen thưởng ngành Giáo dục;"
+  },
+  {
+   "targetDocumentNumber": "2762/QĐ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "4501/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 4501/QĐ-ĐHĐN ngày 25/12/2018 của Giám đốc ĐHĐN."
+  },
+  {
+   "targetDocumentNumber": "20/2020/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "theo như quy định tại Điều 4 Thông tư 20/2020/TT-BGDĐT ngày 27/7/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo."
+  },
+  {
+   "targetDocumentNumber": "91/2017/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "Danh hiệu “Lao động tiên tiến” được thực hiện theo quy định tại Điều 24 Luật Thi đua Khen thưởng; Điều 10 Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ."
+  },
+  {
+   "targetDocumentNumber": "21/2020/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Danh hiệu “Cờ thi đua của Bộ Giáo dục và Đào tạo” được thực hiện theo quy định tại Điều 4 Thông tư số 21/2020/TT-BGDĐT ngày 31/7/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo, được xét tặng hằng năm khi kết thúc năm học cho tập thể tiêu biểu xuất sắc nhất và được bình xét dẫn đầu khối thi đua."
+  },
+  {
+   "targetDocumentNumber": "27/2015/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "1. Danh hiệu “Nhà giáo Nhân dân”, “Nhà giáo ưu tú” được thực hiện theo Nghị định số 27/2015/NĐ-CP ngày 10/3/2015 của Chính phủ Quy định về xét tặng danh hiệu Nhà giáo Nhân dân, Nhà giáo Ưu tú."
+  }
+ ],
+ "note": "Văn bản in \"Nghị định số 32/NĐ-CP ngày 04/4/1994\" (thực chất là 32/CP) - giữ nguyên như in. 91/2017/NĐ-CP và 21/2020/TT-BGDĐT vừa là căn cứ vừa được dẫn chiếu nhiều lần trong thân -> 2 dòng mỗi văn bản. Đối tượng khen thưởng còn gồm người nước ngoài, công dân VN học ở nước ngoài (không gán thêm nhóm)."
+}

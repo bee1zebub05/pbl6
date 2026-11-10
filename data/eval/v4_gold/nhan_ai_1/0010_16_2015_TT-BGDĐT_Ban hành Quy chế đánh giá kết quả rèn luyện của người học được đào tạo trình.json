@@ -1,0 +1,44 @@
+{
+ "sourceFile": "Công tác sinh viên/0010_16_2015_TT-BGDĐT_Ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình.txt",
+ "documentNumber": "16/2015/TT-BGDĐT",
+ "signers": [
+  "Nguyễn Thị Nghĩa"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Cơ sở giáo dục / trường đại học thành viên"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/2008/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+  },
+  {
+   "targetDocumentNumber": "75/2006/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"
+  },
+  {
+   "targetDocumentNumber": "31/2011/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục;"
+  },
+  {
+   "targetDocumentNumber": "07/2013/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Nghị định số 07/2013/NĐ-CP ngày 09 tháng 01 năm 2013 của Chính phủ sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011"
+  },
+  {
+   "targetDocumentNumber": "141/2013/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "60/2007/QĐ-BGDĐT",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 28 tháng 9 năm 2015 và thay thế những quy định đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy tại Quyết định số 60/2007/QĐ-BGDĐT ngày 16"
+  }
+ ],
+ "note": "Thay thế 60/2007/QĐ-BGDĐT chỉ phần quy định cho trình độ đại học hệ chính quy (thay thế một phần)."
+}

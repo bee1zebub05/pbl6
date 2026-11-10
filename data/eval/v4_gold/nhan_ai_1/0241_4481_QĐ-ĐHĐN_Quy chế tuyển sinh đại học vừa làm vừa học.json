@@ -1,0 +1,60 @@
+{
+  "sourceFile": "Tuyển sinh/0241_4481_QĐ-ĐHĐN_Quy chế tuyển sinh đại học vừa làm vừa học.txt",
+  "documentNumber": "4481/QĐ-ĐHĐN",
+  "signers": [
+    "Lê Thành Bắc"
+  ],
+  "targetGroups": [
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Đơn vị trực thuộc",
+    "Cơ quan, tổ chức, cá nhân có liên quan"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "18/2017/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "08/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 08/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1341/QĐ-ĐHĐN",
+      "relationType": "REPLACES",
+      "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 1341/QĐ-ĐHĐN ngày 18/4/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế tuyển sinh đào tạo vừa làm vừa học của Đại học Đà Nẵng."
+    },
+    {
+      "targetDocumentNumber": "2602/ĐHĐN-ĐT",
+      "relationType": "REFERENCES",
+      "context": "4. Tuyển sinh liên kết đào tạo VLVH thực hiện theo quy định tại Điều 5 Thông tư 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học; Công văn số 2602/ĐHĐN-ĐT ngày 19/7/2021 của Đại học Đà Nẵng về việc hướng dẫn thực hiện Quy chế đào tạo trình độ đại học và các quy định hiện hành."
+    }
+  ],
+  "note": "18/2017/QĐ-TTg, 08/2021/TT-BGDĐT, 08/2022/TT-BGDĐT còn được dẫn chiếu trong thân Quy chế; chỉ ghi BASED_ON."
+}

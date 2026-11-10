@@ -1,0 +1,23 @@
+{
+  "sourceFile": "Tuyển sinh/0171_3183_QĐ-ĐHĐN_Quyết định 3183_QĐ-ĐHĐN Quy định tổ chức tuyển sinh đào tạo trình độ thạc sỹ theo.txt",
+  "documentNumber": "3183/QĐ-ĐHĐN",
+  "signers": [
+    "Lê Thành Bắc"
+  ],
+  "targetGroups": [
+    "Cơ sở giáo dục / trường đại học thành viên"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    }
+  ],
+  "note": "Văn bản áp dụng cho ĐHĐN và các trường đại học thành viên; không có trích dẫn nào khác có số hiệu."
+}

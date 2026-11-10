@@ -1,0 +1,51 @@
+{
+  "sourceFile": "Công tác sinh viên/0008_35_2011_TT-BGDĐT_Quy định về trao và nhận học bổng, trợ cấp cho người học trong các cơ sở giá.txt",
+  "documentNumber": "35/2011/TT-BGDĐT",
+  "signers": [
+    "Trần Quang Quý"
+  ],
+  "targetGroups": [
+    "Người học",
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Cơ quan, tổ chức, cá nhân có liên quan",
+    "Đơn vị trực thuộc"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "178/2007/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 178/2007/NĐ-CP ngày 03 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ;"
+    },
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "31/2011/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "75/2006/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "Căn cứ Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "130/2008/TT-BTC",
+      "relationType": "REFERENCES",
+      "context": "b) Được hưởng chính sách ưu đãi quy định tại Thông tư số 130/2008/TT-BTC ngày 26/12/2008 của Bộ Tài chính về việc hướng dẫn thi hành một số điều của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 và hướng dẫn thi hành Nghị định số 124/2008/NĐ-CP ngày 11 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế thu nhập doanh nghiệp;"
+    },
+    {
+      "targetDocumentNumber": "14/2008/QH12",
+      "relationType": "REFERENCES",
+      "context": "b) Được hưởng chính sách ưu đãi quy định tại Thông tư số 130/2008/TT-BTC ngày 26/12/2008 của Bộ Tài chính về việc hướng dẫn thi hành một số điều của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 và hướng dẫn thi hành Nghị định số 124/2008/NĐ-CP ngày 11 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế thu nhập doanh nghiệp;"
+    },
+    {
+      "targetDocumentNumber": "124/2008/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "b) Được hưởng chính sách ưu đãi quy định tại Thông tư số 130/2008/TT-BTC ngày 26/12/2008 của Bộ Tài chính về việc hướng dẫn thi hành một số điều của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 và hướng dẫn thi hành Nghị định số 124/2008/NĐ-CP ngày 11 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế thu nhập doanh nghiệp;"
+    }
+  ],
+  "note": "75/2006/NĐ-CP xuất hiện trong khối Căn cứ nhưng chỉ là đối tượng được 31/2011/NĐ-CP sửa đổi, nên gán REFERENCES (có thể tranh luận là BASED_ON). Câu \"Các quy định trước đây trái với quy định tại Thông tư này đều bị bãi bỏ\" không nêu số hiệu nên không gán REPEALS."
+}

@@ -1,0 +1,176 @@
+{
+ "sourceFile": "Công tác sinh viên/0011_09_2016_TTLT-BGDĐT-BTC-BLĐTBXH_Thông tư liên tịch hướng dẫn thực hiện một số điều của Nghị đị.txt",
+ "documentNumber": "09/2016/TTLT-BGDĐT-BTC-BLĐTBXH",
+ "signers": [
+  "Huỳnh Văn Tí",
+  "Huỳnh Quang Hải",
+  "Bùi Văn Ga"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Người học"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/2008/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+  },
+  {
+   "targetDocumentNumber": "215/2013/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;"
+  },
+  {
+   "targetDocumentNumber": "106/2012/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 106/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội;"
+  },
+  {
+   "targetDocumentNumber": "86/2015/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 86/2015/NĐ-CP ngày 02 tháng 10 năm 2015 của Chính phủ quy định về cơ chế thu"
+  },
+  {
+   "targetDocumentNumber": "86/2015/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "Thông tư này hướng dẫn thực hiện một số điều của Nghị định số 86/2015/NĐ-CP ngày 02 tháng 10 năm 2015 của Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "77/NQ-CP",
+   "relationType": "REFERENCES",
+   "context": "theo Nghị quyết số 77/NQ-CP ngày 24/10/2014 của Chính phủ về thí điểm đổi mới cơ chế hoạt động đối với các cơ sở giáo dục đại học công lập giai đoạn 2014 - 2017"
+  },
+  {
+   "targetDocumentNumber": "09/2009/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Các cơ sở giáo dục thực hiện công khai mức học phí theo quy định của Thông tư số 09/2009/TT-BGDĐT ngày 07 tháng 5 năm 2009 của Bộ Giáo dục và Đào tạo"
+  },
+  {
+   "targetDocumentNumber": "01/VBHN-VPQH",
+   "relationType": "REFERENCES",
+   "context": "theo Pháp lệnh Ưu đãi người có công với cách mạng được hợp nhất tại văn bản số 01/VBHN-VPQH ngày 30 tháng 7 năm 2012 của Văn phòng Quốc hội"
+  },
+  {
+   "targetDocumentNumber": "136/2013/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "Trẻ em học mẫu giáo và học sinh dưới 16 tuổi không có nguồn nuôi dưỡng quy định tại Khoản 1 Điều 5 Nghị định số 136/2013/NĐ-CP"
+  },
+  {
+   "targetDocumentNumber": "20/2012/TTLT-BQP-BTC",
+   "relationType": "REFERENCES",
+   "context": "theo quy định tại khoản 1 Điều 4 Thông tư liên tịch số 20/2012/TTLT-BQP-BTC ngày 06/3/2012 của Liên Bộ Quốc phòng và Bộ Tài chính"
+  },
+  {
+   "targetDocumentNumber": "88/2011/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "hướng dẫn thực hiện Nghị định số 88/2011/NĐ-CP ngày 29/9/2011 của Chính phủ về chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ tại ngũ"
+  },
+  {
+   "targetDocumentNumber": "20/2014/TTLT-BGDĐT-BTC-BLĐTBXH",
+   "relationType": "REPEALS",
+   "context": "3. Thông tư liên tịch số 20/2014/TTLT-BGDĐT-BTC-BLĐTBXH ngày 30 tháng 5 năm 2014"
+  },
+  {
+   "targetDocumentNumber": "14/2015/TTLT-BGDĐT-BTC-BLĐTBXH",
+   "relationType": "REPEALS",
+   "context": "Thông tư liên tịch số 14/2015/TTLT-BGDĐT-BTC-BLĐTBXH ngày 16 tháng 7 năm 2015 của Liên Bộ Giáo dục và Đào tạo, Bộ Tài chính và Bộ Lao động-Thương binh và Xã hội sửa đổi, bổ sung một số điều của Thông tư liên tịch số 20/2014/TTLT-BGDĐT-BTC-BLĐTBXH và Thông tư liên tịch số 16/2006/TTLT/BLĐTBXH-BGDĐT-BTC"
+  },
+  {
+   "targetDocumentNumber": "16/2006/TTLT/BLĐTBXH-BGDĐT-BTC",
+   "relationType": "REPEALS",
+   "context": "hướng dẫn về chế độ ưu đãi trong giáo dục và đào tạo đối với người có công với cách mạng và con của họ hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành."
+  },
+  {
+   "targetDocumentNumber": "20/2014/TTLT-BGDĐT-BTC-BLĐTBXH",
+   "relationType": "REFERENCES",
+   "context": "Chính sách miễn, giảm học phí và hỗ trợ chi phí học tập từ đầu năm học 2015 - 2016 đến ngày 30 tháng 11 năm 2015 được thực hiện như Nghị định số 49/2010/NĐ-CP, Nghị định số 74/2013/NĐ-CP của Chính phủ, Thông tư liên tịch số 20/2014/TTLT-BGDĐT-BTC-BLĐTBXH"
+  },
+  {
+   "targetDocumentNumber": "14/2015/TTLT-BGDĐT-BTC-BLĐTBXH",
+   "relationType": "REFERENCES",
+   "context": "và Thông tư liên tịch số 14/2015/TTLT-BGDĐT-BTC-BLĐTBXH ngày 16 tháng 7 năm 2015 của Liên Bộ Giáo dục và Đào tạo, Bộ Tài chính và Bộ Lao động-Thương binh và Xã hội sửa đổi, bổ sung một số điều của Thông tư liên tịch số 20/2014/TTLT-BGDĐT-BTC-BLĐTBXH."
+  },
+  {
+   "targetDocumentNumber": "49/2010/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "tối đa không vượt khung và mức trần học phí được quy định tại Nghị định số 49/2010/NĐ-CP của Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "74/2013/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "được thực hiện như Nghị định số 49/2010/NĐ-CP, Nghị định số 74/2013/NĐ-CP của Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "134/2006/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "theo quy định tại Nghị định số 134/2006/NĐ-CP ngày 14 tháng 11 năm 2006 của Chính phủ về chế độ cử tuyển"
+  },
+  {
+   "targetDocumentNumber": "49/2015/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "Nghị định số 49/2015/NĐ-CP ngày 15/5/2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 134/2006/NĐ-CP"
+  },
+  {
+   "targetDocumentNumber": "13/2008/TTLT-BGDĐT-BLĐTBXH-BTC-BNV-UBDT",
+   "relationType": "REFERENCES",
+   "context": "Thông tư liên tịch số 13/2008/TTLT-BGDĐT-BLĐTBXH-BTC-BNV-UBDT ngày 7 tháng 4 năm 2008"
+  },
+  {
+   "targetDocumentNumber": "208/2014/TTLT-BTC-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Thực hiện theo quy định tại Thông tư liên tịch số 208/2014/TTLT-BTC-BGDĐT ngày 26 tháng 12 năm 2014"
+  },
+  {
+   "targetDocumentNumber": "124/2013/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "hướng dẫn một số điều của Nghị định số 124/2013/NĐ-CP ngày 14 tháng 10 năm 2013 của Chính phủ quy định chính sách ưu đãi, hỗ trợ người đi đào tạo trong lĩnh vực năng lượng nguyên tử."
+  },
+  {
+   "targetDocumentNumber": "539/QĐ-TTg",
+   "relationType": "REFERENCES",
+   "context": "1. Quyết định số 539/QĐ-TTg ngày 01 tháng 4 năm 2013 của Thủ tướng Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "2405/QĐ-TTg",
+   "relationType": "REFERENCES",
+   "context": "2. Quyết định số 2405/QĐ-TTg ngày 10 tháng 12 năm 2013 của Thủ tướng Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "582/QĐ-UBDT",
+   "relationType": "REFERENCES",
+   "context": "3. Quyết định số 582/QĐ-UBDT ngày 18 tháng 12 năm 2013"
+  },
+  {
+   "targetDocumentNumber": "130/QĐ-UBDT",
+   "relationType": "REFERENCES",
+   "context": "Quyết định số 130/QĐ-UBDT ngày 08 tháng 5 năm 2014 của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc"
+  },
+  {
+   "targetDocumentNumber": "495/QĐ-TTg",
+   "relationType": "REFERENCES",
+   "context": "4. Quyết định số 495/QĐ-TTg ngày 8/4/2014 của Thủ tướng Chính phủ sửa đổi, bổ sung Quyết định số 2405/QĐ-TTg"
+  },
+  {
+   "targetDocumentNumber": "1049/QĐ-TTg",
+   "relationType": "REFERENCES",
+   "context": "5. Quyết định số 1049/QĐ-TTg ngày 26/6/2014 của Thủ tướng Chính phủ ban hành danh mục các đơn vị hành chính thuộc vùng khó khăn;"
+  },
+  {
+   "targetDocumentNumber": "30a/2008/NQ-CP",
+   "relationType": "REFERENCES",
+   "context": "6. Các xã thuộc huyện nghèo theo Nghị quyết số 30a/2008/NQ-CP ngày 27 tháng 12 năm 2008 của Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "1791/QĐ-TTg",
+   "relationType": "REFERENCES",
+   "context": "Quyết định số 1791/QĐ-TTg ngày 01/10/2013 của Thủ tướng Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "118/2015/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "được quy định tại Phụ lục II ban hành theo Nghị định số 118/2015/NĐ-CP ngày 12 tháng 11 năm 2015 của Chính phủ"
+  }
+ ],
+ "note": "Điều 8 khoản 3 tuyên bố 20/2014/TTLT, 14/2015/TTLT, 16/2006/TTLT hết hiệu lực (không dùng từ 'thay thế') nên gán REPEALS; trên thực tế văn bản này thế chỗ chúng, có thể coi là REPLACES. 136/2013/NĐ-CP bị ngắt dòng giữa câu."
+}

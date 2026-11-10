@@ -1,0 +1,49 @@
+{
+ "sourceFile": "Đào tạo/0467_754_QĐ-BGDĐT_Quyết định công bố thủ tục hành chính mới ban hành_ thủ tục hành chính được sửa đ.txt",
+ "documentNumber": "754/QĐ-BGDĐT",
+ "signers": [
+  "Phạm Ngọc Thưởng"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "37/2025/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+  },
+  {
+   "targetDocumentNumber": "63/2010/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính và Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính;"
+  },
+  {
+   "targetDocumentNumber": "48/2013/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính và Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính;"
+  },
+  {
+   "targetDocumentNumber": "92/2017/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính và Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính;"
+  },
+  {
+   "targetDocumentNumber": "2108/QĐ-BGDĐT",
+   "relationType": "REPEALS",
+   "context": "Bãi bỏ các nội dung liên quan đến thủ tục hành chính cấp bản sao văn bằng, chứng chỉ từ sổ gốc (cấp trung ương, mã số: 1.010025) và thủ tục hành chính chỉnh sửa nội dung văn bằng, chứng chỉ (cấp tại Bộ Giáo dục và Đào tạo, mã số: 1.005138) tại Quyết định số 2108/QĐ-BGDĐT ngày 24 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố Bộ thủ tục hành chính được chuẩn hóa thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo."
+  },
+  {
+   "targetDocumentNumber": "1672/QĐ-BGDĐT",
+   "relationType": "REPEALS",
+   "context": "Bãi bỏ các nội dung liên quan đến thủ tục hành chính: Cấp bản sao văn bằng, chứng chỉ từ sổ gốc (cấp tỉnh, mã số: 3.000465); chỉnh sửa nội dung văn bằng, chứng chỉ (cấp tỉnh, mã số: 3.000466); chỉnh sửa nội dung văn bằng, chứng chỉ (cấp xã, mã số: 3.000468); cấp bản sao văn bằng, chứng chỉ từ sổ gốc (cấp xã, mã số: 3.000467) tại Quyết định số 1672/QĐ-BGDĐT ngày 24 tháng 6 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính được sửa đổi, bổ sung, lĩnh vực giáo dục và đào tạo thuộc hệ thống giáo dục quốc dân;"
+  },
+  {
+   "targetDocumentNumber": "10/2026/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "c) Đối với trường hợp cùng một lúc yêu cầu cấp bản sao từ nhiều sổ gốc, yêu cầu số lượng nhiều bản sao, nội dung văn bằng, chứng chỉ phức tạp khó kiểm tra, đối chiếu mà cơ quan tiếp nhận yêu cầu cấp bản sao không thể đáp ứng được thời hạn quy định tại điểm b khoản 5 Điều 17 Thông tư số 10/2026/TT-BGDĐT thì thời hạn cấp bản sao được kéo dài thêm không quá 02 (hai) ngày làm việc hoặc dài hơn theo thỏa thuận bằng văn bản với người yêu cầu cấp bản sao."
+  }
+ ],
+ "note": "2108/QĐ-BGDĐT và 1672/QĐ-BGDĐT chỉ bị bãi bỏ một phần (nội dung các TTHC cụ thể). Bảng danh mục TTHC OCR bị vỡ cột ('10/2026/TT-' ngắt dòng). Phiếu chuyển văn bản ĐHBK cuối file — bỏ qua."
+}

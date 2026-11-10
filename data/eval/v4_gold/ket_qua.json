@@ -1,0 +1,567 @@
+{
+ "so_van_ban": 103,
+ "thieu": {
+  "a": 0,
+  "b": 0,
+  "v4": 0
+ },
+ "dong_thuan": {
+  "so_cap": 906,
+  "dong_y_tho": 0.932,
+  "kappa_quan_he": 0.887,
+  "kappa_loai_tren_cap_chung": 0.891,
+  "so_cap_chung": 904,
+  "nguoi_ky": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "tp": 104,
+   "du_doan": 104,
+   "chuan": 104
+  },
+  "doi_tuong": {
+   "P": 0.959,
+   "R": 0.962,
+   "F1": 0.961,
+   "tp": 282,
+   "du_doan": 294,
+   "chuan": 293
+  },
+  "bat_dong": [
+   {
+    "van_ban": "0011_09_2016_TTLT-BGDĐT-BTC-BLĐTBXH_Thông tư liên tịch hướng dẫn thực hiện một số điều của Nghị đị",
+    "dich": "16/2006/TTLT/BLDTBXH-BGDDT-BTC",
+    "a": "REFERENCES",
+    "b": "REPEALS"
+   },
+   {
+    "van_ban": "0014_3758_QĐ-ĐHĐN_Ban hành Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được",
+    "dich": "16/2015/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0016_05_NQ-HĐT_Nghị quyết của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ba",
+    "dich": "10/2020/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0016_05_NQ-HĐT_Nghị quyết của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ba",
+    "dich": "2762/QD-HDDH",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0016_05_NQ-HĐT_Nghị quyết của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ba",
+    "dich": "426-TTG",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "dich": "1982/QD-TTG",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "dich": "70/2014/QD-TTG",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "dich": "8/2017/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại",
+    "dich": "1356/QD-DHDN",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại",
+    "dich": "17/2016/TTLT-BGDDT-BTTTT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại",
+    "dich": "21/2019/TT-BGDDT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại",
+    "dich": "27/2019/TT-BGDDT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại",
+    "dich": "4655/DHDN-DT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "10/2020/TT-BGDDT",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "102/2012/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "13/NQ-HDDH",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "22/NQ-HDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "36/2018/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "40/2017/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "45/2018/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "5/NQ-HDDH",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "5/NQ-HDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "58/2016/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "60/2021/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "71/2018/TT-BTC",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "8/NQ-HDDH",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "81/2021/ND-CP",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "91/2017/ND-CP",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0066_3536_QĐ-ĐHBK_Quy chế chi tiêu nội bộ của trường ĐHBK, ĐHĐN",
+    "dich": "99/2014/ND-CP",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0089_43_2019_QH14_Luật Giáo dục 2019_43_2019_QH14 (hiệu lực 01_07_2020)",
+    "dich": "38/2005/QH11",
+    "a": "REFERENCES+REPLACES",
+    "b": "REPLACES"
+   },
+   {
+    "van_ban": "0145_23_2021_TT-BGDĐT_Thông tư 23_2021_TT-BGDĐT Quy chế tuyển sinh và đào tạo trình độ thạc sỹ",
+    "dich": "99/2019/ND-CP",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0154_18_2021_TT-BGDĐT_Thông tư 18_2021_TT-BGDĐT về Quy chế tuyển sinh và đào tạo trình độ tiến sĩ",
+    "dich": "99/2019/ND-CP",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0170_3297_QĐ-ĐHĐN_Quyết định 3297_QĐ-ĐHĐN Quy chế tuyển sinh trình độ tiến sĩ",
+    "dich": "18/2021/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0178_4768_QĐ-ĐHĐN_Quyết định 4768_QĐ-ĐHĐN Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng",
+    "dich": "21/2020/TT-BGDDT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0178_4768_QĐ-ĐHĐN_Quyết định 4768_QĐ-ĐHĐN Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng",
+    "dich": "91/2017/ND-CP",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0184_1489_QĐ-ĐHĐN_Quyết định 1489_QĐ-ĐHĐN Quy định về công tác quản lý hoạt động hợp tác quốc tế của",
+    "dich": "11/2016/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0184_1489_QĐ-ĐHĐN_Quyết định 1489_QĐ-ĐHĐN Quy định về công tác quản lý hoạt động hợp tác quốc tế của",
+    "dich": "30/2018/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0184_1489_QĐ-ĐHĐN_Quyết định 1489_QĐ-ĐHĐN Quy định về công tác quản lý hoạt động hợp tác quốc tế của",
+    "dich": "32/CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0184_1489_QĐ-ĐHĐN_Quyết định 1489_QĐ-ĐHĐN Quy định về công tác quản lý hoạt động hợp tác quốc tế của",
+    "dich": "86/2018/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0212_3875_QĐ-ĐHBK_Ban hành Quy định đào tạo trình độ thạc sĩ của Trường Đại học Bách khoa, ĐHĐN",
+    "dich": "23/2021/TT-BGDDT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0213_1980_QĐ-ĐHBK_Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trườ",
+    "dich": "1274/QD-DHBK",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0213_1980_QĐ-ĐHBK_Quy định tổ chức đánh giá học tập của sinh viên đại học, học viên cao học của Trườ",
+    "dich": "29/QD-DHBK",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0241_4481_QĐ-ĐHĐN_Quy chế tuyển sinh đại học vừa làm vừa học",
+    "dich": "18/2017/QD-TTG",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0241_4481_QĐ-ĐHĐN_Quy chế tuyển sinh đại học vừa làm vừa học",
+    "dich": "8/2021/TT-BGDDT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0241_4481_QĐ-ĐHĐN_Quy chế tuyển sinh đại học vừa làm vừa học",
+    "dich": "8/2022/TT-BGDDT",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0366_3443_ĐHĐN-KHTC_Mức thu học phí năm học 2024-2025",
+    "dich": "10/2020/TT-BGDDT",
+    "a": "REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0378_4804_QĐ-ĐHĐN_Ban hành quy định đào tạo trực tuyến và đào tạo kết hợp của Đại học Đà Nẵng",
+    "dich": "30/2023/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0402_51_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm Y tế",
+    "dich": "25/2008/QH12",
+    "a": "AMENDS+REFERENCES",
+    "b": "AMENDS"
+   },
+   {
+    "van_ban": "0416_1214_QĐ-ĐHBK_Quyết định ban hành Quy định tổ chức và quản lý đào tạo trình độ Đại học của Trườn",
+    "dich": "268/QD-DHBK",
+    "a": "KHONG",
+    "b": "REFERENCES"
+   },
+   {
+    "van_ban": "0416_1214_QĐ-ĐHBK_Quyết định ban hành Quy định tổ chức và quản lý đào tạo trình độ Đại học của Trườn",
+    "dich": "268/QD/DHBK",
+    "a": "REFERENCES",
+    "b": "KHONG"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "114/2021/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "124/2024/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "20/2023/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "23/2022/TT-BTC",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "30/2018/TT-BGDDT",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "48/2021/TT-BTC",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "80/2020/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0429_1899_QĐ-ĐHĐN_Quyết định ban hành Quy dịnh về công tác quản lý hoạt động hợp tác quốc tế tại Đại",
+    "dich": "86/2018/ND-CP",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0462_07_2026_TT-BGDĐT_Thông tư quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởn",
+    "dich": "152/2025/ND-CP",
+    "a": "BASED_ON",
+    "b": "BASED_ON+REFERENCES"
+   },
+   {
+    "van_ban": "0490_53_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh và đào tạo sau đại học",
+    "dich": "125/2025/QH15",
+    "a": "BASED_ON+REFERENCES",
+    "b": "BASED_ON"
+   },
+   {
+    "van_ban": "0490_53_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh và đào tạo sau đại học",
+    "dich": "18/2021/TT-BGDDT",
+    "a": "REFERENCES+REPLACES",
+    "b": "REPLACES"
+   },
+   {
+    "van_ban": "0490_53_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh và đào tạo sau đại học",
+    "dich": "23/2021/TT-BGDDT",
+    "a": "REFERENCES+REPLACES",
+    "b": "REPLACES"
+   }
+  ]
+ },
+ "v4_so_voi_a": {
+  "phat_hien_cap": {
+   "P": 0.996,
+   "R": 0.931,
+   "F1": 0.963,
+   "tp": 843,
+   "du_doan": 846,
+   "chuan": 905
+  },
+  "quan_he_tong": {
+   "P": 0.959,
+   "R": 0.818,
+   "F1": 0.883,
+   "tp": 811,
+   "du_doan": 846,
+   "chuan": 991
+  },
+  "nguoi_ky": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "tp": 104,
+   "du_doan": 104,
+   "chuan": 104
+  },
+  "doi_tuong": {
+   "P": 0.652,
+   "R": 0.867,
+   "F1": 0.745,
+   "tp": 255,
+   "du_doan": 391,
+   "chuan": 294
+  },
+  "theo_loai": {
+   "BASED_ON": {
+    "P": 0.953,
+    "R": 0.988,
+    "F1": 0.97,
+    "tp": 570,
+    "du_doan": 598,
+    "chuan": 577
+   },
+   "REFERENCES": {
+    "P": 0.992,
+    "R": 0.438,
+    "F1": 0.608,
+    "tp": 131,
+    "du_doan": 132,
+    "chuan": 299
+   },
+   "REPLACES": {
+    "P": 1.0,
+    "R": 0.974,
+    "F1": 0.987,
+    "tp": 76,
+    "du_doan": 76,
+    "chuan": 78
+   },
+   "AMENDS": {
+    "P": 0.846,
+    "R": 0.786,
+    "F1": 0.815,
+    "tp": 11,
+    "du_doan": 13,
+    "chuan": 14
+   },
+   "REPEALS": {
+    "P": 0.852,
+    "R": 1.0,
+    "F1": 0.92,
+    "tp": 23,
+    "du_doan": 27,
+    "chuan": 23
+   }
+  },
+  "phan_loai_tren_cap_chung": {
+   "dung": 728,
+   "tong": 843,
+   "ti_le": 0.864
+  }
+ },
+ "v4_so_voi_b": {
+  "phat_hien_cap": {
+   "P": 0.996,
+   "R": 0.931,
+   "F1": 0.963,
+   "tp": 843,
+   "du_doan": 846,
+   "chuan": 905
+  },
+  "quan_he_tong": {
+   "P": 0.948,
+   "R": 0.822,
+   "F1": 0.88,
+   "tp": 802,
+   "du_doan": 846,
+   "chuan": 976
+  },
+  "nguoi_ky": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0,
+   "tp": 104,
+   "du_doan": 104,
+   "chuan": 104
+  },
+  "doi_tuong": {
+   "P": 0.65,
+   "R": 0.867,
+   "F1": 0.743,
+   "tp": 254,
+   "du_doan": 391,
+   "chuan": 293
+  },
+  "theo_loai": {
+   "BASED_ON": {
+    "P": 0.955,
+    "R": 0.969,
+    "F1": 0.962,
+    "tp": 571,
+    "du_doan": 598,
+    "chuan": 589
+   },
+   "REFERENCES": {
+    "P": 0.909,
+    "R": 0.443,
+    "F1": 0.596,
+    "tp": 120,
+    "du_doan": 132,
+    "chuan": 271
+   },
+   "REPLACES": {
+    "P": 1.0,
+    "R": 0.974,
+    "F1": 0.987,
+    "tp": 76,
+    "du_doan": 76,
+    "chuan": 78
+   },
+   "AMENDS": {
+    "P": 0.846,
+    "R": 0.786,
+    "F1": 0.815,
+    "tp": 11,
+    "du_doan": 13,
+    "chuan": 14
+   },
+   "REPEALS": {
+    "P": 0.889,
+    "R": 1.0,
+    "F1": 0.941,
+    "tp": 24,
+    "du_doan": 27,
+    "chuan": 24
+   }
+  },
+  "phan_loai_tren_cap_chung": {
+   "dung": 733,
+   "tong": 843,
+   "ti_le": 0.87
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "sourceFile": "Đào tạo/0206_3240_QĐ-ĐHBK_Ban hành Quy định xét công nhận kết quả học tập và chuyển đổi tín chỉ của Trường Đ.txt",
+  "documentNumber": "3240/QĐ-ĐHBK",
+  "signers": ["Đoàn Quang Vinh"],
+  "targetGroups": ["Người học", "Đơn vị trực thuộc"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "99/2019/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"},
+    {"targetDocumentNumber": "18/2017/QĐ-TTg", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học;"},
+    {"targetDocumentNumber": "3056/BGDĐT-GDĐH", "relationType": "BASED_ON", "context": "Căn cứ Công văn số 3056/BGDĐT-GDĐH ngày 19/7/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo về hướng dẫn thực hiện chương trình, giáo trình các môn Lý luận chính trị;"},
+    {"targetDocumentNumber": "4890/QĐ-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 4890/QĐ-BGDĐT ngày 23/12/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo phê duyệt chương trình, giáo trình sử dụng chung các môn Lý luận chính trị đối với đào tạo trình độ đại học các ngành không chuyên về lý luận chính trị;"},
+    {"targetDocumentNumber": "08/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"},
+    {"targetDocumentNumber": "18/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"},
+    {"targetDocumentNumber": "23/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"},
+    {"targetDocumentNumber": "05/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08/10/2021;"},
+    {"targetDocumentNumber": "22/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-HĐT ngày 08/10/2021;"},
+    {"targetDocumentNumber": "419/QĐ-ĐHBK", "relationType": "REPLACES", "context": "Quyết định này thay thế Quyết định số 419/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành “Quy định về việc xét và công nhận chuyển đổi kết quả học tập và khối lượng kiến thức được miễn trừ trong chương trình đào tạo bậc đại học”."}
+  ],
+  "note": "Các Luật trong khối Căn cứ không có số hiệu nên bỏ qua. Mẫu biểu có chỗ trống '..... /QĐ-ĐHBK' không tính."
+}

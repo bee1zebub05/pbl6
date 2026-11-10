@@ -1,0 +1,51 @@
+{
+ "sourceFile": "Tổ chức, hành chính/0089_43_2019_QH14_Luật Giáo dục 2019_43_2019_QH14 (hiệu lực 01_07_2020).txt",
+ "documentNumber": "43/2019/QH14",
+ "signers": [
+  "Nguyễn Thị Kim Ngân"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "38/2005/QH11",
+   "relationType": "REPLACES",
+   "context": "2. Luật Giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật số 74/2014/QH13 và Luật số 97/2015/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 115 của Luật này."
+  },
+  {
+   "targetDocumentNumber": "44/2009/QH12",
+   "relationType": "REFERENCES",
+   "context": "2. Luật Giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật số 74/2014/QH13 và Luật số 97/2015/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 115 của Luật này."
+  },
+  {
+   "targetDocumentNumber": "74/2014/QH13",
+   "relationType": "AMENDS",
+   "context": "Điều 113. Sửa đổi, bổ sung một số điều của Luật Giáo dục nghề nghiệp số 74/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 97/2015/QH13 và Luật số 21/2017/QH14"
+  },
+  {
+   "targetDocumentNumber": "74/2014/QH13",
+   "relationType": "REFERENCES",
+   "context": "2. Luật Giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật số 74/2014/QH13 và Luật số 97/2015/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 115 của Luật này."
+  },
+  {
+   "targetDocumentNumber": "97/2015/QH13",
+   "relationType": "REFERENCES",
+   "context": "Điều 113. Sửa đổi, bổ sung một số điều của Luật Giáo dục nghề nghiệp số 74/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 97/2015/QH13 và Luật số 21/2017/QH14"
+  },
+  {
+   "targetDocumentNumber": "21/2017/QH14",
+   "relationType": "REFERENCES",
+   "context": "Điều 113. Sửa đổi, bổ sung một số điều của Luật Giáo dục nghề nghiệp số 74/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 97/2015/QH13 và Luật số 21/2017/QH14"
+  },
+  {
+   "targetDocumentNumber": "38/2005/QH11",
+   "relationType": "REFERENCES",
+   "context": "Học sinh, sinh viên sư phạm, người theo học khóa đào tạo nghiệp vụ sư phạm được tuyển sinh trước ngày Luật này có hiệu lực thi hành thì tiếp tục được áp dụng theo quy định tại khoản 3 Điều 89 của Luật Giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật số 74/2014/QH13 và Luật số 97/2015/QH13."
+  }
+ ],
+ "note": "38/2005/QH11 được tuyên bố 'hết hiệu lực' nhưng chính Luật này là văn bản thế chỗ cùng tên (Luật Giáo dục) nên gán REPLACES; nếu theo dấu hiệu chữ 'hết hiệu lực' thì có thể là REPEALS. Các luật sửa đổi 44/2009, 74/2014, 97/2015 chỉ được nhắc trong câu đó (74/2014 là Luật GDNN vẫn còn hiệu lực) nên REFERENCES. Điều 113 sửa đổi Luật GDNN 74/2014/QH13 -> AMENDS. Không có khối căn cứ ngoài Hiến pháp (không số hiệu). targetGroups suy từ Điều 1 Phạm vi điều chỉnh (cơ sở giáo dục, nhà giáo, người học, cơ quan, tổ chức, cá nhân liên quan) — Luật không có điều 'Đối tượng áp dụng' riêng."
+}

@@ -1,0 +1,45 @@
+{
+  "sourceFile": "Tuyển sinh/0154_18_2021_TT-BGDĐT_Thông tư 18_2021_TT-BGDĐT về Quy chế tuyển sinh và đào tạo trình độ tiến sĩ.txt",
+  "documentNumber": "18/2021/TT-BGDĐT",
+  "signers": [
+    "Hoàng Minh Sơn"
+  ],
+  "targetGroups": [
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Cơ quan, tổ chức, cá nhân có liên quan",
+    "Đơn vị trực thuộc"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "123/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 123/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;"
+    },
+    {
+      "targetDocumentNumber": "101/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Nghị định số 101/2020/NĐ-CP ngày 28 tháng 8 năm 2020 sửa đổi, bổ sung một số điều của Nghị định số 123/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;"
+    },
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "08/2017/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "context": "Điều 2. Thông tư này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2021 và thay thế Thông tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ của Bộ trưởng Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "08/2017/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "1. Việc tổ chức đào tạo đối với những khóa đã tuyển sinh trước ngày Thông tư này có hiệu lực thi hành tiếp tục thực hiện theo Quy chế tuyển sinh và đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "note": "Số hiệu in \"18 /2021/TT-BGDĐT\", chuẩn hoá. 08/2017/TT-BGDĐT vừa bị thay thế vừa được dẫn chiếu ở điều khoản chuyển tiếp nên có hai dòng."
+}

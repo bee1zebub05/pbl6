@@ -1,0 +1,79 @@
+{
+  "sourceFile": "Đào tạo/0039_806_QĐ-ĐHBK_Quy định quản lý và cấp phát văn bằng chứng chỉ của Trường Đại học Bách khoa, Đại.txt",
+  "documentNumber": "806/QĐ-ĐHBK",
+  "signers": [
+    "Đoàn Quang Vinh"
+  ],
+  "targetGroups": [
+    "Đơn vị trực thuộc",
+    "Cơ quan, tổ chức, cá nhân có liên quan"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "42/VBHN-VPQH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Luật số 42/VBHN-VPQH ngày 10/12/2018 của Văn phòng Quốc hội về việc ban hành Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng ban hành “Quy chế tổ chức và hoạt động của Đại học Đà Nẵng”;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "21/2019/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 21/2019/TT-BGDĐT của Bộ Giáo dục và Đào tạo ngày 29/11/2019 ban hành “Quy chế quản lý bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt nghiệp cao đẳng sư phạm, văn bằng giáo dục đại học và chứng chỉ của hệ thống giáo dục quốc dân”;"
+    },
+    {
+      "targetDocumentNumber": "27/2019/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 27/2019/TT-BGDĐT của Bộ Giáo dục và Đào tạo ngày 30/12/2019 ban hành “Quy định nội dung chính ghi trên văn bằng và phụ lục văn bằng giáo dục đại học”;"
+    },
+    {
+      "targetDocumentNumber": "1356/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 1356/QĐ-ĐHĐN ngày 22/4/2020 của Đại học Đà Nẵng ban hành “Quy định quản lý văn bằng, chứng chỉ của Đại học Đà Nẵng”;"
+    },
+    {
+      "targetDocumentNumber": "4655/ĐHĐN-ĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 4655/ĐHĐN-ĐT ngày 23/12/2020 của Đại học Đà Nẵng về việc lập hồ sơ cấp phôi chứng chỉ do Đại học Đà Nẵng quản lý;"
+    },
+    {
+      "targetDocumentNumber": "17/2016/TTLT-BGDĐT-BTTTT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư liên tịch số 17/2016/TTLT-BGDĐT-BTTTT ngày 21/6/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo và Bộ trưởng Bộ Thông tin và Truyền thông quy định tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin;"
+    },
+    {
+      "targetDocumentNumber": "21/2018/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "3. Giám đốc Trung tâm Tin học Bách khoa cấp chứng chỉ ứng dụng công nghệ thông tin theo quy định tại Thông tư liên tịch số 17/2016/TTLT-BGDĐT-BTTTT ngày 21/6/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo và Bộ trưởng Bộ Thông tin và Truyền thông và Thông tư số 21/2018/TT-BGDĐT ngày 24/8/2018 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của Trung tâm Ngoại ngữ, Tin học."
+    },
+    {
+      "targetDocumentNumber": "401/ĐHĐN-ĐT",
+      "relationType": "REFERENCES",
+      "context": "2. Cách lập số vào sổ gốc cấp văn bằng, chứng chỉ được thực hiện theo quy định tại Công văn số 401/ĐHĐN-ĐT ngày 08/02/2017 của Giám đốc Đại học Đà Nẵng."
+    }
+  ],
+  "note": "42/VBHN-VPQH là văn bản hợp nhất Luật Giáo dục đại học, văn bản gọi là \"Luật số 42/VBHN-VPQH\"; vẫn gán BASED_ON. 21/2019, 27/2019/TT-BGDĐT, 1356/QĐ-ĐHĐN, 4655/ĐHĐN-ĐT, 17/2016/TTLT còn được dẫn chiếu lại trong thân Quy định; chỉ ghi BASED_ON."
+}

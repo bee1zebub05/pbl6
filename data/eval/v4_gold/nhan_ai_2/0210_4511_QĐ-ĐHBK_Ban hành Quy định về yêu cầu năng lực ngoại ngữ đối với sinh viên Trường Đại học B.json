@@ -1,0 +1,99 @@
+{
+ "sourceFile": "Đào tạo/0210_4511_QĐ-ĐHBK_Ban hành Quy định về yêu cầu năng lực ngoại ngữ đối với sinh viên Trường Đại học B.txt",
+ "documentNumber": "4511/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Đơn vị trực thuộc"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo"
+  },
+  {
+   "targetDocumentNumber": "17/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường"
+  },
+  {
+   "targetDocumentNumber": "22/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 22/NQ-"
+  },
+  {
+   "targetDocumentNumber": "788/ĐHĐN-ĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Công văn số 788/ĐHĐN-ĐT ngày 24/02/2021 của Giám đốc Đại học Đà"
+  },
+  {
+   "targetDocumentNumber": "1691/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1691/QĐ-ĐHBK ngày 15/7/2020 của Hiệu trưởng Trường"
+  },
+  {
+   "targetDocumentNumber": "389/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "định này thay thế các Quyết định số 389/QĐ-ĐHBK ngày 10/10/2016 của Hiệu trưởng"
+  },
+  {
+   "targetDocumentNumber": "421/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "với sinh viên hệ đại học chính quy\", Quyết định số 421/QĐ-ĐHBK ngày 31/10/2016"
+  },
+  {
+   "targetDocumentNumber": "426/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "Quyết định số 426/QĐ-ĐHBK ngày 31/10/2016 của Hiệu trưởng Trường Đại học Bách"
+  },
+  {
+   "targetDocumentNumber": "535/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "tiên tiến trình độ đại học\", Quyết định số 535/QĐ-ĐHBK ngày 08/5/2018 của Hiệu"
+  },
+  {
+   "targetDocumentNumber": "1345/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "1345/QĐ-ĐHBK ngày 13/5/2019 của Hiệu trưởng Trường Đại học Bách khoa về việc"
+  },
+  {
+   "targetDocumentNumber": "2529/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "quy chương trình chất lượng cao\" và Quyết định số 2529/QĐ-ĐHBK ngày 03/11/2020"
+  },
+  {
+   "targetDocumentNumber": "01/2014/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "dự thi của sinh viên theo quy định tại Thông tư số 01/2014/TT-BGDĐT ngày 24/01/2014"
+  }
+ ],
+ "note": "Số hiệu 22/NQ-HĐT bị ngắt dòng ('22/NQ-' / 'HĐT'); văn bản gốc là bản OCR nhiều dòng ngắt, context lấy theo từng dòng."
+}

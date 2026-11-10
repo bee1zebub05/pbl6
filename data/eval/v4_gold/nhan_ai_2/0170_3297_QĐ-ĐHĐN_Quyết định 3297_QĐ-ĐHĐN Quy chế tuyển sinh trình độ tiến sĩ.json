@@ -1,0 +1,50 @@
+{
+ "sourceFile": "Tuyển sinh/0170_3297_QĐ-ĐHĐN_Quyết định 3297_QĐ-ĐHĐN Quy chế tuyển sinh trình độ tiến sĩ.txt",
+ "documentNumber": "3297/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "18/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+  },
+  {
+   "targetDocumentNumber": "2700/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "Quyết định này thay thế Quyết định số 2700/QĐ-ĐHĐN ngày 22/8/2017."
+  }
+ ],
+ "note": "18/2021/TT-BGDĐT còn được dẫn chiếu nhiều lần ở thân Quy chế — chỉ giữ BASED_ON. Phụ lục ghi '3297/QĐ - ĐHĐN' là tự trích."
+}

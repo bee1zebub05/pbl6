@@ -1,0 +1,89 @@
+{
+ "sourceFile": "Đào tạo/0212_3875_QĐ-ĐHBK_Ban hành Quy định đào tạo trình độ thạc sĩ của Trường Đại học Bách khoa, ĐHĐN.txt",
+ "documentNumber": "3875/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "1982/QĐ-TTg",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1982/QĐ-TTg ngày 18/10/2016 của Thủ tướng Chính phủ phê duyệt Khung trình độ quốc gia Việt Nam;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "17/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "23/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"
+  },
+  {
+   "targetDocumentNumber": "09/2022/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 09/2022/TT-BGDĐT ngày 07/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định danh mục thống kê ngành đào tạo của giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"
+  },
+  {
+   "targetDocumentNumber": "22/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"
+  },
+  {
+   "targetDocumentNumber": "3917/ĐHĐN-ĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Công văn 3917/ĐHĐN-ĐT ngày 16/11/2021 của Giám đốc Đại học Đà Nẵng về việc giao các trường đại học thành viên tổ chức tuyển sinh đào tạo trình độ thạc sĩ;"
+  },
+  {
+   "targetDocumentNumber": "23/2021/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "nhằm cụ thể hóa các quy định của Quy chế tuyển sinh và đào tạo trình độ thạc sĩ ban hành kèm theo Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ Giáo dục và Đào tạo."
+  },
+  {
+   "targetDocumentNumber": "15/2014/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "2. Đối với các khóa tuyển sinh trước ngày 15 tháng 10 năm 2021 tiếp tục thực hiện theo Quy chế đào tạo trình độ thạc sĩ ban hành kèm theo Thông tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo; Quy định về đào tạo trình độ thạc sĩ của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 598/QĐ-ĐHBK ngày 27 tháng 12 năm 2016."
+  },
+  {
+   "targetDocumentNumber": "598/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "2. Đối với các khóa tuyển sinh trước ngày 15 tháng 10 năm 2021 tiếp tục thực hiện theo Quy chế đào tạo trình độ thạc sĩ ban hành kèm theo Thông tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo; Quy định về đào tạo trình độ thạc sĩ của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 598/QĐ-ĐHBK ngày 27 tháng 12 năm 2016."
+  }
+ ],
+ "note": "Không có câu thay thế/bãi bỏ; 598/QĐ-ĐHBK (quy định thạc sĩ cũ của Trường) chỉ được nhắc ở điều khoản chuyển tiếp -> REFERENCES. 23/2021/TT-BGDĐT vừa căn cứ vừa dẫn chiếu trong Điều 1 -> 2 dòng."
+}

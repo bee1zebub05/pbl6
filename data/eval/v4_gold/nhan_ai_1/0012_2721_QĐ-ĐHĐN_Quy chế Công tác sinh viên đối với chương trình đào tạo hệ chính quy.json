@@ -1,0 +1,45 @@
+{
+ "sourceFile": "Công tác sinh viên/0012_2721_QĐ-ĐHĐN_Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy.txt",
+ "documentNumber": "2721/QĐ-ĐHĐN",
+ "signers": [
+  "Nguyễn Ngọc Vũ"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "08/2014/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "10/2016/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy"
+  },
+  {
+   "targetDocumentNumber": "1325/QĐ-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Quyết định số 1325/QĐ- BGDĐT ngày 25 tháng 4 năm 2016 của Bộ Giáo dục và Đào tạo về việc đính chính Thông tư số 10/2016/TT-BGDĐT;"
+  },
+  {
+   "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+  },
+  {
+   "targetDocumentNumber": "31/2009/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "(Thông tư số 31/2009/TT-BGDĐT)"
+  }
+ ],
+ "note": "Số hiệu 1325/QĐ-BGDĐT bị ngắt dòng trong .txt ('1325/QĐ-' / 'BGDĐT'). 31/2009/TT-BGDĐT nằm trong bảng phụ lục khung xử lý kỷ luật (mục 15, sử dụng ma tuý), câu bị vỡ bố cục bảng nên context chỉ lấy phần số hiệu. targetGroups theo Điều 1 khoản 2 (không ghi 'Người học' vì khoản áp dụng liệt kê đơn vị, dù nội dung quy chế về sinh viên)."
+}

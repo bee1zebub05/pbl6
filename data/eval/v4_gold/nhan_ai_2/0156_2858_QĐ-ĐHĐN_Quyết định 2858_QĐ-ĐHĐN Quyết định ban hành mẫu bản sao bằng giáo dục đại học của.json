@@ -1,0 +1,40 @@
+{
+ "sourceFile": "Đào tạo/0156_2858_QĐ-ĐHĐN_Quyết định 2858_QĐ-ĐHĐN Quyết định ban hành mẫu bản sao bằng giáo dục đại học của.txt",
+ "documentNumber": "2858/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "21/2019/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 21/2019/TT-BGDĐT ngày 29/11/2019 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt nghiệp cao đẳng sư phạm, văn bằng giáo dục đại học và chứng chỉ của hệ thống giáo dục quốc dân;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "1356/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1356/QĐ-ĐHĐN ngày 22/4/2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định quản lý văn bằng, chứng chỉ của Đại học Đà Nẵng;"
+  }
+ ],
+ "note": "Số hiệu in 'Số: 2858 /QĐ-ĐHĐN'. targetGroups lấy từ câu giao trách nhiệm thi hành ở Điều 3 (không có điều Đối tượng áp dụng)."
+}

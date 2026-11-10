@@ -1,0 +1,106 @@
+{
+ "sourceFile": "Công tác sinh viên/0069_1216_QĐ-ĐHBK_Phê duyệt Đề án Công tác chủ nhiệm lớp cố vấn học tập và tư vấn hỗ trợ cho sinh vi.txt",
+ "documentNumber": "1216/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "40/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 40/2020/TT-BGDĐT ngày 26/10/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập;"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/03/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021 của Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng; Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021 của Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng; Nghị quyết 22/NQ-HĐT ngày 08/10/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành về việc sửa đổi, bổ sung một số Điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "22/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng; Nghị quyết 22/NQ-HĐT ngày 08/10/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành về việc sửa đổi, bổ sung một số Điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 4194/QĐ-ĐHĐN ngày 08/12/2021 của Giám đốc Đại học Đà Nẵng ban hành Quy định chế độ làm việc của giảng viên Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "1001/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16/4/2021 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "1803/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "2. Sứ mạng, mục tiêu và giá trị cốt lõi của Nhà trường theo Quyết định số 1803/QĐ-ĐHBK ngày 27/7/2020 của Hiệu trưởng Trường ĐHBK ban hành Tầm nhìn, sứ mạng, triết lý giáo dục, giá trị cốt lõi của Trường ĐHBK."
+  },
+  {
+   "targetDocumentNumber": "1838/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "3. Chiến lược phát triển của Nhà trường theo Quyết định số 1838/QĐ-ĐHBK ngày 09/7/2021 của Hiệu trưởng Trường ĐHBK ban hành Chiến lược phát triển của Trường ĐHBK."
+  },
+  {
+   "targetDocumentNumber": "710/KH-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Thực hiện Kế hoạch số 710/KH-ĐHBK ngày 17/3/2021 về việc tổ chức Hội nghị công tác chủ nhiệm và cố vấn học tập cho sinh viên và Công văn số 711/CV-ĐHBK ngày 17/3/2021"
+  },
+  {
+   "targetDocumentNumber": "711/CV-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Thực hiện Kế hoạch số 710/KH-ĐHBK ngày 17/3/2021 về việc tổ chức Hội nghị công tác chủ nhiệm và cố vấn học tập cho sinh viên và Công văn số 711/CV-ĐHBK ngày 17/3/2021"
+  },
+  {
+   "targetDocumentNumber": "10/2016/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Thông tư số 10/2016/TT-BGDĐT ngày 05/4/2016 về việc ban hành “Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy”"
+  },
+  {
+   "targetDocumentNumber": "2721/QĐ-ĐHĐN",
+   "relationType": "REFERENCES",
+   "context": "Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy”"
+  },
+  {
+   "targetDocumentNumber": "20/2020/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Thông tư số 20/2020/TT-BGDĐT ngày 27/7/2020 “Quy định về chế độ làm việc của giảng viên cơ sở giáo dục đại học”"
+  },
+  {
+   "targetDocumentNumber": "498/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Quyết định số 498/QĐ-ĐHBK ngày 28 tháng 11 năm 2016 về việc ban hành “Quy định Công tác chủ nhiệm lớp của Trường Đại học Bách khoa, ĐHĐN”"
+  },
+  {
+   "targetDocumentNumber": "57/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Quyết định số 57/QĐ-ĐHBK ngày 17/7/2015 về việc ban hành “Quy định công tác cố vấn học tập của sinh viên Chương trình tiên tiến, trường Đại học Bách khoa”"
+  }
+ ],
+ "note": "40/2020/TT-BGDĐT vừa là căn cứ vừa được nhắc lại trong bảng văn bản quy định (chỉ ghi BASED_ON). Bảng phụ lục liệt kê 498/QĐ-ĐHBK, 57/QĐ-ĐHBK nhưng không tuyên bố thay thế -> REFERENCES. Các dòng \"Quyết định số /QĐ-ĐHBK\", \"Quyết định số..../QĐ-ĐHBK\" để trống số -> bỏ qua."
+}

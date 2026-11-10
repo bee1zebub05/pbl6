@@ -1,0 +1,20 @@
+{
+  "sourceFile": "Công tác sinh viên/0070_1088_QĐ-ĐHBK_Sửa đổi một số điều của Quy định xét thi đua, khen thưởng với sinh viên đại học hệ.txt",
+  "documentNumber": "1088/QĐ-ĐHBK",
+  "signers": ["Đoàn Quang Vinh"],
+  "targetGroups": ["Đơn vị trực thuộc", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "91/2017/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"},
+    {"targetDocumentNumber": "99/2019/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"},
+    {"targetDocumentNumber": "110/2020/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 110/2020/NĐ-CP ngày 15/9/2020 của Thủ tướng Chính phủ quy định chế độ khen thưởng đối với Học sinh, Sinh viên, Học viên đoạt giải trong các kỳ thi Quốc gia, Quốc tế;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"},
+    {"targetDocumentNumber": "05/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"},
+    {"targetDocumentNumber": "22/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"},
+    {"targetDocumentNumber": "1001/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16/4/2021 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "2231/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 2231/QĐ-ĐHBK ngày 10/9/2021 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy định xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "2231/QĐ-ĐHBK", "relationType": "AMENDS", "context": "Điều 1. Sửa đổi một số điều của Quy định xét thi đua, khen thưởng đối với sinh viên đại học hệ chính quy của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 2231/QĐ-ĐHBK ngày 10/9/2021 của Hiệu trưởng Trường Đại học Bách khoa như sau:"}
+  ],
+  "note": "Số hiệu đầu văn bản in '1088 /QĐ-ĐHBK' (có khoảng trắng), chuẩn hoá thành 1088/QĐ-ĐHBK. Văn bản ghi 'Nghị định số 110/2020/NĐ-CP ... của Thủ tướng Chính phủ' — giữ số hiệu như in."
+}

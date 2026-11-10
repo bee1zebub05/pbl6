@@ -1,0 +1,51 @@
+{
+ "sourceFile": "Tổ chức, hành chính/0402_51_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm Y tế.txt",
+ "documentNumber": "51/2024/QH15",
+ "signers": [
+  "Trần Thanh Mẫn"
+ ],
+ "targetGroups": [],
+ "citations": [
+  {
+   "targetDocumentNumber": "25/2008/QH12",
+   "relationType": "AMENDS",
+   "context": "Quốc hội ban hành Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế số 25/2008/QH12"
+  },
+  {
+   "targetDocumentNumber": "32/2013/QH13",
+   "relationType": "REFERENCES",
+   "context": "đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14, Luật số 68/2020/QH14 và Luật số 30/2023/QH15."
+  },
+  {
+   "targetDocumentNumber": "46/2014/QH13",
+   "relationType": "REFERENCES",
+   "context": "đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14, Luật số 68/2020/QH14 và Luật số 30/2023/QH15."
+  },
+  {
+   "targetDocumentNumber": "97/2015/QH13",
+   "relationType": "REFERENCES",
+   "context": "đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14, Luật số 68/2020/QH14 và Luật số 30/2023/QH15."
+  },
+  {
+   "targetDocumentNumber": "35/2018/QH14",
+   "relationType": "REFERENCES",
+   "context": "đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14, Luật số 68/2020/QH14 và Luật số 30/2023/QH15."
+  },
+  {
+   "targetDocumentNumber": "68/2020/QH14",
+   "relationType": "REFERENCES",
+   "context": "đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14, Luật số 68/2020/QH14 và Luật số 30/2023/QH15."
+  },
+  {
+   "targetDocumentNumber": "30/2023/QH15",
+   "relationType": "REFERENCES",
+   "context": "đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13, Luật số 35/2018/QH14, Luật số 68/2020/QH14 và Luật số 30/2023/QH15."
+  },
+  {
+   "targetDocumentNumber": "30/2023/QH15",
+   "relationType": "AMENDS",
+   "context": "Bãi bỏ khoản 2 Điều 32 của Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15."
+  }
+ ],
+ "note": "Luật sửa đổi không có Điều đối tượng áp dụng/phạm vi riêng nên targetGroups để trống. 30/2023/QH15 vừa bị sửa đổi (Điều 2, bãi bỏ một khoản — đích vẫn còn hiệu lực nên AMENDS) vừa được nhắc như luật đã sửa Luật BHYT (REFERENCES). Các luật 32/2013, 46/2014, 97/2015, 35/2018, 68/2020 chỉ được nhắc là các luật đã sửa Luật BHYT trước đó."
+}

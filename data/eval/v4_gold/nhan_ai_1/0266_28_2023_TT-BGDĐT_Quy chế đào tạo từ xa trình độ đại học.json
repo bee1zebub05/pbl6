@@ -1,0 +1,35 @@
+{
+  "sourceFile": "Đào tạo/0266_28_2023_TT-BGDĐT_Quy chế đào tạo từ xa trình độ đại học.txt",
+  "documentNumber": "28/2023/TT-BGDĐT",
+  "signers": [
+    "Hoàng Minh Sơn"
+  ],
+  "targetGroups": [
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Cơ quan, tổ chức, cá nhân có liên quan",
+    "Đơn vị trực thuộc"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2017/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "context": "Thông tư này thay thế Thông tư số 10/2017/TT-BGDĐT ngày 28 tháng 4 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo từ xa trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "1. Kế hoạch giảng dạy và học tập thực hiện theo quy định tại Điều 6 Thông tư số 08/2021/TT-BGDĐT."
+    }
+  ],
+  "note": "08/2021/TT-BGDĐT được dẫn chiếu nhiều lần trong Quy chế, ghi một dòng. Phiếu chuyển văn bản đến ở cuối file tự trích chính văn bản, bỏ qua."
+}

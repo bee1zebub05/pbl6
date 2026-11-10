@@ -1,0 +1,18 @@
+{
+  "sourceFile": "Công nghệ thông tin, CĐS/0082_2347_QĐ-ĐHBK_Ban hành Quy định về tổ chức hoạt động trang thông tin điện tử, sử dụng thư điện t.txt",
+  "documentNumber": "2347/QĐ-ĐHBK",
+  "signers": ["Đoàn Quang Vinh"],
+  "targetGroups": ["Đơn vị trực thuộc", "Cán bộ, giảng viên, viên chức, người lao động", "Người học"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "70/2014/QĐ-TTg", "relationType": "BASED_ON", "context": "Căn cứ Điều lệ trường đại học ban hành kèm theo Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ;"},
+    {"targetDocumentNumber": "08/2014/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên; Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"},
+    {"targetDocumentNumber": "6950/QĐ-ĐHĐN", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên; Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"},
+    {"targetDocumentNumber": "15/2018/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 15/2018/TT-BGDĐT ngày 27 tháng 7 năm 2018 về việc Quy định về tổ chức hoạt động, sử dụng thư điện tử và trang thông tin điện tử của các cơ sở giáo dục đại học;"},
+    {"targetDocumentNumber": "36/2017/TT-BGDĐT", "relationType": "REFERENCES", "context": "Thông tin công khai của Trường và thời hạn đăng tin lên trang thông tin điện tử thực hiện theo quy định tại Thông tư số 36/2017/TT-BGDĐT ngày 28 tháng 12 năm"},
+    {"targetDocumentNumber": "15/2014/TT-BGDĐT", "relationType": "REFERENCES", "context": "2. Thông tin về tuyển sinh đào tạo trình độ thạc sĩ và thời hạn đăng tin lên trang thông tin điện tử thực hiện theo quy định tại Thông tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 của Bộ Giáo dục và Đào tạo ban hành quy chế đào tạo trình độ thạc sĩ, bao gồm:"},
+    {"targetDocumentNumber": "08/2017/TT-BGDĐT", "relationType": "REFERENCES", "context": "3. Thông tin về tuyển sinh đào tạo trình độ tiến sĩ và thời hạn đăng tin lên trang thông tin điện tử thực hiện theo quy định tại Thông tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 của Bộ Giáo dục và Đào tạo ban hành quy chế tuyển sinh và đào tạo trình độ tiến sĩ:"},
+    {"targetDocumentNumber": "12/2017/TT-BGDĐT", "relationType": "REFERENCES", "context": "1. Giấy chứng nhận kiểm định chất lượng giáo dục được công bố chậm nhất 10 ngày làm việc sau khi được cấp theo quy định tại Thông tư số 12/2017/TT-BGDĐT ngày 19 tháng 5 năm 2017 ban hành quy định về kiểm định chất lượng giáo dục đại học."}
+  ],
+  "note": "Các câu Căn cứ bị ngắt dòng trong .txt; context đã nối dòng lại (bỏ ký tự xuống dòng), nội dung giữ nguyên văn. Số '6950/QĐ-ĐHĐN' bị ngắt dòng thành '6950/QĐ-' + 'ĐHĐN'. Câu dẫn 36/2017/TT-BGDĐT bị ngắt trang nên context chỉ lấy phần trước ngắt trang. TCVN 6909:2001 là tiêu chuẩn kỹ thuật, không phải văn bản có số hiệu dạng số/ký hiệu → không gán. Luật Công nghệ thông tin không có số hiệu."
+}

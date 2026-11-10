@@ -1,0 +1,18 @@
+{
+  "sourceFile": "Đào tạo/0224_866_QĐ-ĐHĐN_Quy định đào tạo theo phương thức trực tuyến và phương thức trực tiếp kết hợp trực.txt",
+  "documentNumber": "866/QĐ-ĐHĐN",
+  "signers": ["Lê Thành Bắc"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Đơn vị trực thuộc", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "08/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"},
+    {"targetDocumentNumber": "23/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"},
+    {"targetDocumentNumber": "18/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"},
+    {"targetDocumentNumber": "12/2016/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 12/2016/TT-BGDĐT ngày 22 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 ngày 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 ngày 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "12/2016/TT-BGDĐT", "relationType": "REFERENCES", "context": "1. Cơ sở vật chất, thiết bị, cổng thông tin điện tử, hệ thống máy chủ và hạ tầng kết nối mạng internet, hệ thống quản lý học tập, hệ thống quản lý nội dung học tập, học liệu điện tử phải đáp ứng các quy định tại Thông tư số 12/2016/TT-BGDĐT ngày 22 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng;"}
+  ],
+  "note": "Số hiệu in '866 /QĐ-ĐHĐN' (có dấu cách)."
+}

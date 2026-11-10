@@ -1,0 +1,87 @@
+{
+ "sourceFile": "Thi đua, khen thưởng/0369_3828_QĐ-ĐHĐN_Quy định về công tác thi đua, khen thưởng của Đại học Đà Nẵng.txt",
+ "documentNumber": "3828/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Doanh nghiệp, đối tác/tổ chức nước ngoài"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "98/2023/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 98/2023/NĐ-CP ngày 31/12/2023 của Chính phủ Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "29/2023/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 29/2023/TT-BGDĐT ngày 29/12/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng đối với ngành Giáo dục;"
+  },
+  {
+   "targetDocumentNumber": "01/2024/TT-BNV",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 01/2024/TT-BNV ngày 24/02/2024 của Bộ trưởng Bộ Nội vụ Quy định biện pháp thi hành Luật Thi đua, khen thưởng và Nghị định số 98/2023/NĐ-CP ngày 31/12/2023 của Chính phủ Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "105/CĐĐHĐN-VP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Công văn số 105/CĐĐHĐN-VP ngày 23/7/2024 của Công đoàn Đại học Đà Nẵng về việc thống nhất nội dung Dự thảo Quy định về công tác thi đua, khen thưởng của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "4768/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 4768/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng ban hành Quy định công tác thi đua, khen thưởng tại Đại học Đà Nẵng."
+  },
+  {
+   "targetDocumentNumber": "98/2023/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "3. Hồ sơ đề nghị ĐHĐN xét, trình Bộ Giáo dục và Đào tạo xét, trình cấp có thẩm quyền công nhận danh hiệu “Chiến sĩ thi đua toàn quốc” được thực hiện theo quy định tại Điều 33 Nghị định số 98/2023/NĐ-CP, gồm:"
+  },
+  {
+   "targetDocumentNumber": "29/2023/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "1. Danh hiệu “Lao động tiên tiến” được thực hiện theo quy định tại Điều 3 Thông tư số 29/2023/TT-BGDĐT để tặng hằng năm khi kết thúc năm học cho cá nhân đạt các tiêu chuẩn sau đây:"
+  },
+  {
+   "targetDocumentNumber": "01/2024/TT-BNV",
+   "relationType": "REFERENCES",
+   "context": "2. Những nội dung về TĐKT không quy định tại văn bản này được thực hiện theo Luật TĐKT ngày 15/6/2022, Nghị định số 98/2023/NĐ-CP ngày 31/12/2023 của Chính phủ Quy định chi tiết thi hành một số điều của Luật TĐKT, Thông tư số 29/2023/TT-BGDĐT ngày 29/12/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định chi tiết thi hành một số điều của Luật TĐKT đối với ngành Giáo dục, Thông tư số 01/2024/TT-BNV ngày 24/02/2024 của Bộ trưởng Bộ Nội vụ Quy định biện pháp thi hành Luật TĐKT và Nghị định số 98/2023/NĐ-CP ngày 31/12/2023 của Chính phủ Quy định chi tiết thi hành một số điều của Luật TĐKT và các văn bản hướng dẫn có liên quan."
+  },
+  {
+   "targetDocumentNumber": "111/2022/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "d) Viên chức và người lao động đã ký kết hợp đồng với ĐHĐN hoặc các trường đại học thành viên theo chế độ hợp đồng lao động quy định tại Nghị định số 111/2022/NĐ-CP ngày 30/12/2022 của Chính phủ về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập (chỉ áp dụng đối với các trường hợp viên chức, người lao động đã làm việc từ 06 tháng trở lên)."
+  },
+  {
+   "targetDocumentNumber": "60/2021/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "1. Quỹ TĐKT của các đơn vị được thực hiện theo quy định tại Nghị định số 98/2023/NĐ-CP và Nghị định số 60/2021/NĐ-CP ngày 21/6/2021 của Chính phủ Quy định cơ chế tài chính của đơn vị sự nghiệp công lập."
+  }
+ ],
+ "note": "98/2023/NĐ-CP và 29/2023/TT-BGDĐT được dẫn chiếu hàng chục lần trong thân bài; chỉ ghi một dòng REFERENCES mỗi văn bản. Trang cuối là phiếu xử lý văn bản đến của Trường ĐHBK (không phải nội dung văn bản), bỏ qua. Công văn 105/CĐĐHĐN-VP nằm trong khối căn cứ nên gán BASED_ON."
+}

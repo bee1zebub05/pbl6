@@ -1,0 +1,71 @@
+{
+ "sourceFile": "Khoa học Công nghệ/0045_1404_QĐ-ĐHBK_Quy định quản lý hoạt động khoa học công nghệ tại Trường Đại học Bách khoa, Đại họ.txt",
+ "documentNumber": "1404/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "2762/QĐ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14 tháng 8 năm 2020 của Hội Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "4766/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 4766/QĐ-ĐHBK ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12 tháng 01 năm 2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và Nẵng; hoạt động của"
+  },
+  {
+   "targetDocumentNumber": "37/2014/TT-BKHCN",
+   "relationType": "REFERENCES",
+   "context": "Quản lý đề tài nghiên cứu cơ bản do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ được thực hiện theo Thông tư số 37/2014/TT-BKHCN ngày 12/12/2014 của Bộ trưởng Bộ Khoa học và Công nghệ quy định quản lý đề tài nghiên cứu cơ bản do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ."
+  },
+  {
+   "targetDocumentNumber": "15/2016/TT-BKHCN",
+   "relationType": "REFERENCES",
+   "context": "Quản lý đề tài nghiên cứu ứng dụng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ được thực hiện theo Thông tư số 15/2016/TT-BKHCN ngày 30/06/2016 của Bộ trưởng Bộ Khoa học và Công nghệ"
+  },
+  {
+   "targetDocumentNumber": "12/2014/TT-BKHCN",
+   "relationType": "REFERENCES",
+   "context": "b) Nhiệm vụ KH&CN theo Nghị định thư thực hiện theo Thông tư 12/2014/TT- BKHCN ngày 30 tháng 5 năm 2014 của Bộ trưởng Bộ Khoa học và Công nghệ"
+  },
+  {
+   "targetDocumentNumber": "952/ĐHBK-KHCN&HTQT",
+   "relationType": "REFERENCES",
+   "context": "Quản lý và tổ chức hội nghị, hội thảo khoa học quốc tế thực hiện theo quy định tại Chương IV của Quy định về quản lý công tác hợp tác quốc tế của Trường ĐHBK ban hành kèm theo Quyết định số 952/ĐHBK-KHCN&HTQT ngày 11 tháng 09 năm 2017 của Hiệu trưởng Trường ĐHBK."
+  },
+  {
+   "targetDocumentNumber": "78/2008/QĐ-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "thực hiện đúng theo quy định về quyền sở hữu, quyền tác giả được quy định trong Quyết định số 78/2008/QĐ-BGDĐT ngày 29/12/2008 của Bộ Giáo dục và Đào tạo"
+  }
+ ],
+ "note": "4766/QĐ-ĐHBK in là \"của Giám đốc Đại học Đà Nẵng\" nên có thể là lỗi in của 4766/QĐ-ĐHĐN; giữ nguyên như văn bản. Khối căn cứ bị OCR trộn dòng (2762/QĐ-HĐĐH, 05/NQ-HĐT) nên context lấy nguyên văn đoạn bị trộn. 12/2014/TT- BKHCN trong văn bản có dấu cách. Điều 39 \"thay thế các quy định về quản lý hoạt động KH&CN ... ban hành trước đây\" không nêu số hiệu -> không gán REPLACES."
+}

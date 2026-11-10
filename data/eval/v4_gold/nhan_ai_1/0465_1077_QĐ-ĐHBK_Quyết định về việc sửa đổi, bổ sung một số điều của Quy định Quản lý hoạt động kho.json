@@ -1,0 +1,101 @@
+{
+  "sourceFile": "Khoa học Công nghệ/0465_1077_QĐ-ĐHBK_Quyết định về việc sửa đổi, bổ sung một số điều của Quy định Quản lý hoạt động kho.txt",
+  "documentNumber": "107/QĐ-ĐHBK",
+  "signers": [
+    "Nguyễn Hữu Hiếu"
+  ],
+  "targetGroups": [
+    "Đơn vị trực thuộc",
+    "Cán bộ, giảng viên, viên chức, người lao động",
+    "Người học",
+    "Cơ quan, tổ chức, cá nhân có liên quan"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "155/ĐHĐN-TCCB",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 155/ĐHĐN-TCCB ngày 14 tháng 01 năm 2026 của Giám đốc Đại học Đà Nẵng về việc công tác cán bộ;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1404/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 1404/QĐ-ĐHBK ngày 12 tháng 5 năm 2021 của Trường Đại học Bách khoa về việc ban hành Quy định quản lý hoạt động khoa học và công nghệ tại Trường Đại học Bách khoa - ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "1404/QĐ-ĐHBK",
+      "relationType": "AMENDS",
+      "context": "Điều 1. Sửa đổi, bổ sung một số điều của Quy định Quản lý hoạt động khoa học và công nghệ tại Trường Đại học Bách khoa - Đại học Đà Nẵng ban hành kèm theo Quyết định số 1404/QĐ-ĐHBK ngày 12/5/2021 của Hiệu trưởng Trường Đại học Bách khoa – ĐHĐN (Quyết định số 1404), như sau:"
+    },
+    {
+      "targetDocumentNumber": "39/2025/TT-BKHCN",
+      "relationType": "REFERENCES",
+      "context": "a. Hệ số lao động khoa học của các chức danh theo quy định tại Thông tư số 39/2025/TT-BKHCN (hoặc văn bản thay thế);"
+    },
+    {
+      "targetDocumentNumber": "267/2025/NĐ-CP",
+      "relationType": "REFERENCES",
+      "context": "c. Trách nhiệm của thành viên Hội đồng xác định theo quy định tại Nghị định số 267/2025/NĐ-CP (hoặc văn bản thay thế);"
+    },
+    {
+      "targetDocumentNumber": "27/2015/TTLT-BKHCN-BTC",
+      "relationType": "REFERENCES",
+      "context": "việc sử dụng kinh phí và xác định số kinh phí hoàn trả ngân sách nhà nước dựa trên Thông tư liên tịch số 27/2015/TTLT-BKHCN-BTC hoặc quy định thay thế hiện hành"
+    },
+    {
+      "targetDocumentNumber": "800/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "Việc tính quy đổi giờ thực hiện NCKH cho giảng viên được quy định trong Quyết định số 800/QĐ-ĐHBK ngày 01/3/2024 của Trường Đại học Bách khoa ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định số 3902/QĐ-ĐHBK ngày 08/8/2022 Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng (hoặc văn bản thay thế).”"
+    },
+    {
+      "targetDocumentNumber": "3902/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "Việc tính quy đổi giờ thực hiện NCKH cho giảng viên được quy định trong Quyết định số 800/QĐ-ĐHBK ngày 01/3/2024 của Trường Đại học Bách khoa ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định số 3902/QĐ-ĐHBK ngày 08/8/2022 Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng (hoặc văn bản thay thế).”"
+    },
+    {
+      "targetDocumentNumber": "3646/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "Việc quản lý và tổ chức HN, HT khoa học quốc tế được thực hiện theo quy định tại Quyết định số 3646/QĐ-ĐHBK ngày 31/12/2021 của Trường Đại học Bách khoa về việc ban hành Quy định về Công tác quản lý hoạt động hợp tác quốc tế của Trường Đại học Bách khoa, Đại học Đà Nẵng (hoặc văn bản thay thế).”"
+    },
+    {
+      "targetDocumentNumber": "78/2008/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "tác giả được quy định trong Quyết định số 78/2008/QĐ-BGDĐT ngày 29/12/2008 của Bộ GDĐT ban hành Quy định về quản lý hoạt động sở hữu trí tuệ trong cơ sở giáo dục đại học (hoặc văn bản thay thế)"
+    },
+    {
+      "targetDocumentNumber": "2681/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "context": "và Quyết định số 2681/QĐ-ĐHĐN ngày 03/6/2015 của ĐHĐN Quy định về Quản lý hoạt động sở hữu trí tuệ trong Đại học Đà Nẵng (hoặc văn bản thay thế)"
+    },
+    {
+      "targetDocumentNumber": "2682/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "context": "Việc xử lý vi phạm trong hoạt động KHCN được thực hiện theo Quyết định số 2682/QĐ-ĐHĐN (hoặc văn bản thay thế).”"
+    }
+  ],
+  "note": "Đầu văn bản in 'SỐ: 107/QĐ-ĐHBK' nhưng tên file là 1077 - có thể OCR mất một chữ số; ghi theo bản in, không chắc. Các trích dẫn trong thân là nội dung sửa đổi được chèn vào Quy định 1404 (vẫn tính cho văn bản này). Câu 'thay thế các quy định về quản lý hoạt động KHCN... đã được ban hành trước đây' không có số hiệu, bỏ qua."
+}

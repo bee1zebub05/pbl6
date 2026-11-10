@@ -1,0 +1,54 @@
+{
+ "sourceFile": "Công tác sinh viên/0013_973_QĐ-ĐHĐN_Sửa đổi Phụ lục kèm theo Quyết định số 2721_QĐ-ĐHĐN ngày 10_8_2018 của Đại học Đà.txt",
+ "documentNumber": "973/QĐ-ĐHĐN",
+ "signers": [
+  "Ngô Văn Dưỡng"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "30/2020/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 30/2020/NĐ-CP ngày 05/3/2020 của Chính phủ về công tác văn thư;"
+  },
+  {
+   "targetDocumentNumber": "08/2014/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "10/2016/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05/4/2014 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy"
+  },
+  {
+   "targetDocumentNumber": "1325/QĐ-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Quyết định số 1325/QĐ-BGDĐT ngày 25/4/2016 của Bộ Giáo dục và Đào tạo về việc đính chính Thông tư số 10/2016/TT-BGDĐT ngày 05/4/2014"
+  },
+  {
+   "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 của Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và đơn vị trực thuộc;"
+  },
+  {
+   "targetDocumentNumber": "2721/QĐ-ĐHĐN",
+   "relationType": "AMENDS",
+   "context": "Điều 1. Sửa đổi Phụ lục của Quy chế Công tác sinh viên Đại học Đà Nẵng đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Đại học Đà Nẵng (Phụ lục mới được kèm theo Quyết định này)."
+  },
+  {
+   "targetDocumentNumber": "31/2009/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Xử lý theo Thông tư số 31/2009/TT-BGDĐT ngày 23/10/2009 ban hành Quy định về công tác phòng, chống tệ nạn ma túy tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân"
+  }
+ ],
+ "note": "Từ trang 6 file .txt chứa nguyên bản Quyết định 2721/QĐ-ĐHĐN (văn bản bị sửa, không phải phần 'ban hành kèm theo' của 973) — không tính các căn cứ trong phần đó cho 973. 2721 bị sửa đổi Phụ lục (thay Phụ lục mới), gán AMENDS chứ không REPLACES."
+}

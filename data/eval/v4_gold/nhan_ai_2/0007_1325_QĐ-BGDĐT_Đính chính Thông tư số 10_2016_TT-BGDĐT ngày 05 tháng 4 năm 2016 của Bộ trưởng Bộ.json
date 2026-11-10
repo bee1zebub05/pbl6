@@ -1,0 +1,44 @@
+{
+ "sourceFile": "Công tác sinh viên/0007_1325_QĐ-BGDĐT_Đính chính Thông tư số 10_2016_TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ.txt",
+ "documentNumber": "1325/QĐ-BGDĐT",
+ "signers": [
+  "Nguyễn Thị Nghĩa"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cơ sở giáo dục / trường đại học thành viên"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/2008/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+  },
+  {
+   "targetDocumentNumber": "110/2004/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư;"
+  },
+  {
+   "targetDocumentNumber": "09/2010/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Nghị định số 09/2010/NĐ-CP ngày 08 tháng 02 năm 2010 của Chính phủ về sửa đổi, bổ sung một số Điều của Nghị định số 110/2004/NĐ-CP ngày 08 tháng 4 năm 2004 của Chính phủ về công tác văn thư;"
+  },
+  {
+   "targetDocumentNumber": "40/2010/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 40/2010/NĐ-CP ngày 12 tháng 4 năm 2010 của Chính phủ về kiểm tra và xử lý văn bản quy phạm pháp luật;"
+  },
+  {
+   "targetDocumentNumber": "100/2010/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 100/2010/NĐ-CP ngày 28 tháng 9 năm 2010 của Chính phủ về Công báo;"
+  },
+  {
+   "targetDocumentNumber": "10/2016/TT-BGDĐT",
+   "relationType": "AMENDS",
+   "context": "Điều 1. Đính chính Điều 6, chương II của Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy ban hành kèm theo Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo như sau:"
+  }
+ ],
+ "note": "Quan hệ với 10/2016/TT-BGDĐT là 'đính chính' (sửa nội dung Điều 6, văn bản đích vẫn hiệu lực) nên gán AMENDS; không có nhãn riêng cho đính chính. targetGroups lấy từ Điều 3 (đơn vị thuộc Bộ, đại học/học viện/trường đại học) — không chắc."
+}

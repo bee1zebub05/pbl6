@@ -1,0 +1,90 @@
+{
+ "sourceFile": "Tổ chức, hành chính/0016_05_NQ-HĐT_Nghị quyết của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ba.txt",
+ "documentNumber": "05/NQ-HĐT",
+ "signers": [
+  "Nguyễn Đình Lâm"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan",
+  "Hội đồng và thành viên hội đồng"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "426-TTg",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 426-TTg ngày 27 tháng 10 năm 1976 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Bách khoa;"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "2762/QĐ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 2762/QĐ-HĐĐH ngày 14 tháng 8 năm 2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "3859/QĐ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 3859/QĐ-HĐĐH và 3860/QĐ-HĐĐH ngày 05 tháng 11 năm 2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường và Chủ tịch Hội đồng trường Trường Đại học Bách khoa, nhiệm kỳ 2020-2025;"
+  },
+  {
+   "targetDocumentNumber": "3860/QĐ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 3859/QĐ-HĐĐH và 3860/QĐ-HĐĐH ngày 05 tháng 11 năm 2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường và Chủ tịch Hội đồng trường Trường Đại học Bách khoa, nhiệm kỳ 2020-2025;"
+  },
+  {
+   "targetDocumentNumber": "04/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 04/NQ-HĐT ngày 30 tháng 12 năm 2020 của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "68/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "10. Người lao động là người được Nhà trường ký hợp đồng lao động theo Nghị định số 68/NĐ-CP ngày 17 tháng 11 năm 2000 của Chính phủ (hoặc theo quy định của pháp luật lao động hiện hành) và được trả lương theo quy định của pháp luật về tiền công lao động."
+  },
+  {
+   "targetDocumentNumber": "4343/QĐ-ĐHĐN",
+   "relationType": "REFERENCES",
+   "context": "Thủ tục thành lập, công nhận Hội đồng trường, Chủ tịch Hội đồng trường được thực hiện theo quy định tại Điều 12 Quyết định số 4343/QĐ-ĐHĐN ngày 01/12/2020 của Giám đốc ĐHĐN."
+  },
+  {
+   "targetDocumentNumber": "24/2014/TTLT-BKHCN-BNV",
+   "relationType": "REFERENCES",
+   "context": "6. Nhiệm vụ và tiêu chuẩn của nghiên cứu viên thực hiện theo Thông tư liên tịch số 24/2014/TTLT-BKHCN-BNV ngày 01 tháng 10 năm 2014 và được sửa đổi, bổ sung tại Thông tư số 01/2020/TT-BKHCN ngày 20 tháng 01 năm 2020."
+  },
+  {
+   "targetDocumentNumber": "01/2020/TT-BKHCN",
+   "relationType": "REFERENCES",
+   "context": "6. Nhiệm vụ và tiêu chuẩn của nghiên cứu viên thực hiện theo Thông tư liên tịch số 24/2014/TTLT-BKHCN-BNV ngày 01 tháng 10 năm 2014 và được sửa đổi, bổ sung tại Thông tư số 01/2020/TT-BKHCN ngày 20 tháng 01 năm 2020."
+  },
+  {
+   "targetDocumentNumber": "40/2020/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "7. Giảng viên thực hiện các nhiệm vụ và quyền hạn theo quy định của Luật Giáo dục đại học và Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập, cụ thể như sau:"
+  },
+  {
+   "targetDocumentNumber": "20/2020/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "k) Thực hiện quy định về chế độ làm việc đối với chức danh giảng viên được quy định theo Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ Giáo dục và Đào tạo."
+  },
+  {
+   "targetDocumentNumber": "37/2018/QĐ-TTg",
+   "relationType": "REFERENCES",
+   "context": "9. Giảng viên có chức danh giáo sư, phó giáo sư thực hiện nhiệm vụ theo quy định tại Quyết định số 37/2018/QĐ-TTg ngày 31 tháng 8 năm 2018 của Thủ tướng Chính phủ ban hành Quy định tiêu chuẩn, thủ tục xét công nhận đạt tiêu chuẩn và bổ nhiệm chức danh giáo sư, phó giáo sư; thủ tục xét hủy bỏ công nhận chức danh và miễn nhiệm chức danh giáo sư, phó giáo sư và nhiệm vụ quy định tại khoản 7 Điều này."
+  }
+ ],
+ "note": "Số hiệu in là 'Số: ...05....../NQ-HĐT' (số điền tay giữa các dấu chấm) → 05/NQ-HĐT. '68/NĐ-CP ngày 17/11/2000' viết như văn bản (thực tế là 68/2000/NĐ-CP). 426-TTg, 2762/QĐ-HĐĐH, 10/2020 còn được nhắc ở thân Quy chế — chỉ giữ BASED_ON. 'Các quy định, quy chế trước đây trái với Quy chế này đều bị bãi bỏ' không nêu số hiệu."
+}

@@ -1,0 +1,35 @@
+{
+  "sourceFile": "Công tác sinh viên/0014_3758_QĐ-ĐHĐN_Ban hành Hướng dẫn thực hiện Quy chế đánh giá kết quả rèn luyện của người học được.txt",
+  "documentNumber": "3758/QĐ-ĐHĐN",
+  "signers": [
+    "Ngô Văn Dưỡng"
+  ],
+  "targetGroups": [
+    "Người học",
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Đơn vị trực thuộc"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2012/QH13",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Luật Giáo dục Đại học số 08/2012/QH13 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII thông qua ngày 18 tháng 6 năm 2012;"
+    },
+    {
+      "targetDocumentNumber": "16/2015/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12 tháng 8 năm 2015 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy;"
+    },
+    {
+      "targetDocumentNumber": "16/2015/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "Văn bản này hướng dẫn thực hiện Thông tư số 16/2015/TT-BGDĐT ban hành Quy chế đánh giá kết quả rèn luyện (ĐGKQRL) của người học được đào tạo trình độ đại học hệ chính quy (sau đây gọi tắt là sinh viên)"
+    }
+  ],
+  "note": "Dòng đầu phụ lục ghi 'Quyết _ định số 3458 /QĐ-ĐHĐN' - lỗi OCR của chính số hiệu 3758, là tự trích, không gán. 'các văn bản trước đây trái với hướng dẫn đều bị bãi bỏ' không nêu số hiệu -> bỏ qua. REFERENCES 16/2015 ở phần hướng dẫn kèm theo có thể coi là trùng với BASED_ON."
+}

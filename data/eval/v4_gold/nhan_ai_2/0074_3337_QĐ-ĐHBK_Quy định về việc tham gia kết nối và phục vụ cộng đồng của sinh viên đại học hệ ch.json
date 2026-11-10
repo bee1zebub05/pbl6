@@ -1,0 +1,60 @@
+{
+ "sourceFile": "Công tác sinh viên/0074_3337_QĐ-ĐHBK_Quy định về việc tham gia kết nối và phục vụ cộng đồng của sinh viên đại học hệ ch.txt",
+ "documentNumber": "3337/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi,"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường"
+  },
+  {
+   "targetDocumentNumber": "22/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Trường Đại học Bách khoa, Đại học Đà Nẵng; Nghị quyết 22/NQ-HĐT ngày"
+  },
+  {
+   "targetDocumentNumber": "2900/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 2900/QĐ-ĐHĐN ngày 27/8/2020 của Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "1001/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16/4/2021 của Trường Đại học"
+  },
+  {
+   "targetDocumentNumber": "2231/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "2. Hình thức khen thưởng được quy định tại khoản 5 Điều 7 Quyết định số 2231/QĐ-ĐHBK ngày 10 tháng 9 năm 2021"
+  }
+ ],
+ "note": null
+}

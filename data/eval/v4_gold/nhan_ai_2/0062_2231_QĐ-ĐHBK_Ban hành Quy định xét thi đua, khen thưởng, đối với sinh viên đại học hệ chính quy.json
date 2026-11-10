@@ -1,0 +1,63 @@
+{
+ "sourceFile": "Công tác sinh viên/0062_2231_QĐ-ĐHBK_Ban hành Quy định xét thi đua, khen thưởng, đối với sinh viên đại học hệ chính quy.txt",
+ "documentNumber": "2231/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "91/2017/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "110/2020/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 110/2020/NĐ-CP ngày 15/9/2020 của Thủ tướng Chính phủ quy định chế độ khen thưởng đối với Học sinh, Sinh viên, Học viên đoạt giải trong các kỳ thi Quốc gia, Quốc tế;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc Ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng nhiệm kỳ 2021-2026 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ban hành Quy chế tổ chức và hoạt động của trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "1001/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1001/QĐ-ĐHBK ngày 16/4/2021 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "1404/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "8. Đối với các thành tích về nghiên cứu khoa học, sáng tạo kỹ thuật thực hiện theo “Quy định về Quản lý hoạt động khoa học và công nghệ của Trường Đại học Bách khoa, Đại học Đà Nẵng” ban hành kèm theo Quyết định số 1404/QĐ-ĐHBK ngày 12/5/2021."
+  },
+  {
+   "targetDocumentNumber": "91/2017/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "1. Căn cứ theo quy định tại các điểm c khoản 1 và điểm d khoản 2 Điều 73 Nghị định số 91/2017/NĐ-CP ngày 31 tháng 7 năm 2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng."
+  }
+ ],
+ "note": "91/2017/NĐ-CP vừa là căn cứ ở đầu văn bản vừa được dẫn chiếu trong thân Quy định (Điều về mức thưởng) nên ghi hai dòng; dòng REFERENCES có thể coi là trùng."
+}

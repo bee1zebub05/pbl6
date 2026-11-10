@@ -1,0 +1,19 @@
+{
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0441_3707_QĐ-ĐHBK_Quyết định sửa đổi, bổ sung một số điều tại _Quy định về liêm chính học thuật của.txt",
+  "documentNumber": "3707/QĐ-ĐHBK",
+  "signers": ["Nguyễn Hữu Hiếu"],
+  "targetGroups": ["Người học", "Đơn vị trực thuộc", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2016/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "93/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "29/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Trường Đại học Bách khoa về việc ban hành Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "1274/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 của Trường Đại học Bách khoa sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "29/QĐ-ĐHBK", "relationType": "AMENDS", "context": "Điều 1. Sửa đổi, bổ sung một số điều quy định tại điểm a khoản 3 Điều 4 Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành kèm theo Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng (gọi chung là Quy định), như sau:"},
+    {"targetDocumentNumber": "1274/QĐ-ĐHBK", "relationType": "REPLACES", "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1274/QĐ-ĐHBK ngày 08 tháng 5 năm 2019 về việc sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng."}
+  ],
+  "note": "29/QĐ-ĐHBK vừa là căn cứ vừa bị sửa đổi (AMENDS); 1274/QĐ-ĐHBK vừa là căn cứ vừa bị thay thế (REPLACES) — theo quy ước 5 mỗi cặp một dòng. Các 'Căn cứ kết luận tại cuộc họp' không có số hiệu, bỏ qua."
+}

@@ -1,0 +1,49 @@
+{
+ "sourceFile": "Tuyển sinh/0386_4473_QĐ-ĐHĐN_Ban hành Quy chế tuyển sinh đào tạo từ xa trình độ đại học của Đại học Đà Nẵng.txt",
+ "documentNumber": "4473/QĐ-ĐHĐN",
+ "signers": [
+  "Nguyễn Ngọc Vũ"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "28/2023/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 28/2023/TT-BGDĐT ngày 28/12/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đào tạo từ xa trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/2022/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2022/TT-BGDĐT ngày 06/6/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "2182/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2182/QĐ-ĐHĐN ngày 06/7/2017 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế tuyển sinh đào tạo từ xa của Đại học Đà Nẵng."
+  }
+ ],
+ "note": "Điều 1 Quy chế chỉ nêu áp dụng cho 'các chương trình ĐTTX của ĐHĐN' (không phải nhóm đối tượng); targetGroups lấy từ câu giao trách nhiệm thi hành ở Điều 3."
+}

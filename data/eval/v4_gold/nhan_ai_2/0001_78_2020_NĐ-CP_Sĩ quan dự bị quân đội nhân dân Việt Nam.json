@@ -1,0 +1,26 @@
+{
+ "sourceFile": "Công tác sinh viên/0001_78_2020_NĐ-CP_Sĩ quan dự bị quân đội nhân dân Việt Nam.txt",
+ "documentNumber": "78/2020/NĐ-CP",
+ "signers": [
+  "Nguyễn Xuân Phúc"
+ ],
+ "targetGroups": [
+  "Khác",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "14/2016/NĐ-CP",
+   "relationType": "REFERENCES",
+   "context": "a) Sĩ quan dự bị thuộc diện được miễn gọi phục vụ tại ngũ trong thời chiến theo quy định tại các Điều 5, 6, 7, 8 và 9 Nghị định số 14/2016/NĐ-CP ngày 15 tháng 3 năm 2016 của Chính phủ quy định ngành, nghề chuyên môn phù hợp với yêu cầu của Quân đội nhân dân đối với công dân nữ trong độ tuổi thực hiện nghĩa vụ quân sự"
+  },
+  {
+   "targetDocumentNumber": "26/2002/NĐ-CP",
+   "relationType": "REPEALS",
+   "context": "2. Từ Điều 2 đến Điều 37 và các Điều 42, 44, 45, 46, 47, 48 Nghị định số 26/2002/NĐ-CP ngày 21 tháng 3 năm 2002 của Chính phủ về sĩ quan dự bị Quân đội nhân dân Việt Nam hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
+  }
+ ],
+ "note": "26/2002/NĐ-CP: chỉ một số điều hết hiệu lực do Nghị định này tuyên bố (bãi bỏ một phần), không có câu 'thay thế' nên gán REPEALS. Đối tượng gồm sĩ quan dự bị/quân nhân (Khác), cán bộ công chức viên chức, sinh viên tốt nghiệp, cơ quan tổ chức cá nhân liên quan."
+}

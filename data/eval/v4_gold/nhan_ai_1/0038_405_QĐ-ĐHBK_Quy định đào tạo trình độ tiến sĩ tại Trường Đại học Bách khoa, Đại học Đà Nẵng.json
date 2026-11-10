@@ -1,0 +1,95 @@
+{
+  "sourceFile": "Đào tạo/0038_405_QĐ-ĐHBK_Quy định đào tạo trình độ tiến sĩ tại Trường Đại học Bách khoa, Đại học Đà Nẵng.txt",
+  "documentNumber": "405/QĐ-ĐHBK",
+  "signers": [
+    "Đoàn Quang Vinh"
+  ],
+  "targetGroups": [
+    "Người học",
+    "Đơn vị trực thuộc",
+    "Cơ quan, tổ chức, cá nhân có liên quan"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "70/2014/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Điều lệ trường đại học ban hành kèm theo Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "730/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 730/QĐ-ĐHBK ngày 05/6/2018 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành Quy định chức năng, nhiệm vụ của các đơn vị chức năng thuộc Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "08/2017/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "2. Quy định này được xây dựng căn cứ trên Quy chế tuyển sinh và đào tạo tiến sĩ ban hành kèm theo Thông tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 của Bộ trưởng Bộ Giáo dục và Đào tạo (sau đây gọi tắt là Thông tư 08);"
+    },
+    {
+      "targetDocumentNumber": "1982/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "context": "Quyết định số 1982/QĐ-TTg ngày 18 tháng 10 năm 2016 của Thủ tướng Chính phủ về việc Phê duyệt Khung trình độ quốc gia Việt Nam;"
+    },
+    {
+      "targetDocumentNumber": "70/2014/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "context": "Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ về việc Ban hành Điều lệ trường đại học."
+    },
+    {
+      "targetDocumentNumber": "2700/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "context": "3. Quy định về tuyển sinh để đào tạo trình độ tiến sĩ thực hiện theo Quyết định số 2700/QĐ-ĐHĐN ngày 22 tháng 8 năm 2017 của Giám đốc Đại học Đà Nẵng (ĐHĐN) về tuyển sinh đào tạo trình độ tiến sĩ."
+    },
+    {
+      "targetDocumentNumber": "25/2017/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "1. Ngành, chuyên ngành đào tạo tiến sĩ của Trường được xây dựng theo Danh mục giáo dục, đào tạo cấp IV trình độ tiến sĩ do Bộ Giáo dục và Đào tạo ban hành kèm theo Thông tư số 25/2017/TT-BGDĐT ngày 10/10/2017."
+    },
+    {
+      "targetDocumentNumber": "418/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "2. Quy trình xây dựng, thẩm định và công bố chuẩn đầu ra chương trình đào tạo tiến sĩ của Trường được thực hiện theo Quyết định số 418/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường."
+    },
+    {
+      "targetDocumentNumber": "420/QĐ-ĐHBK",
+      "relationType": "REFERENCES",
+      "context": "4. Quy trình xây dựng, thẩm định và ban hành chương trình đào tạo tiến sĩ của Trường được thực hiện theo Quyết định số 420/QĐ-ĐHBK ngày 28/10/2016 của Hiệu trưởng Trường."
+    },
+    {
+      "targetDocumentNumber": "10/2009/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "2. Đối với các khóa tuyển sinh đã có quyết định công nhận NCS trước ngày 20/5/2017, thực hiện theo quy định của Quy chế đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 10/2009/TT-BGDĐT ngày 07/5/2009 và được sửa đổi, bổ sung một số điều theo Thông tư số 05/2012/TT-BGDĐT ngày 15/02/2012 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "targetDocumentNumber": "05/2012/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "2. Đối với các khóa tuyển sinh đã có quyết định công nhận NCS trước ngày 20/5/2017, thực hiện theo quy định của Quy chế đào tạo trình độ tiến sĩ ban hành kèm theo Thông tư số 10/2009/TT-BGDĐT ngày 07/5/2009 và được sửa đổi, bổ sung một số điều theo Thông tư số 05/2012/TT-BGDĐT ngày 15/02/2012 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "targetDocumentNumber": "1636/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "context": "Quy định về đào tạo trình độ tiến sĩ của Giám đốc Đại học Đà Nẵng ban hành kèm theo Quyết định số 1636/QĐ-ĐHĐN ngày 26/4/2010."
+    }
+  ],
+  "note": "Context nhiều câu bị ngắt dòng trong .txt (OCR), đã nối lại bằng dấu cách. Phụ lục 2 ghi 'Quyết định số465 IQĐ-ĐHBK' là lỗi OCR của tự số hiệu 405, không gán. Không có câu thay thế/bãi bỏ văn bản có số hiệu."
+}

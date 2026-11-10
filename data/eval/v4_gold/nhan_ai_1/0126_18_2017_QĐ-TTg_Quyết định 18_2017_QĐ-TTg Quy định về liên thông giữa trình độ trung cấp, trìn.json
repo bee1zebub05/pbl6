@@ -1,0 +1,12 @@
+{
+  "sourceFile": "Đào tạo/0126_18_2017_QĐ-TTg_Quyết định 18_2017_QĐ-TTg Quy định về liên thông giữa trình độ trung cấp, trìn.txt",
+  "documentNumber": "18/2017/QĐ-TTg",
+  "signers": ["Vũ Đức Đam"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "138/2013/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 138/2013/NĐ-CP ngày 22 tháng 10 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giáo dục;"},
+    {"targetDocumentNumber": "55/2012/TT-BGDĐT", "relationType": "REPEALS", "context": "2. Quyết định này bãi bỏ Thông tư số 55/2012/TT-BGDĐT ngày 25 tháng 12 năm 2012 và Thông tư số 08/2015/TT-BGDĐT ngày 21 tháng 4 năm 2015 sửa đổi,"},
+    {"targetDocumentNumber": "08/2015/TT-BGDĐT", "relationType": "REPEALS", "context": "2. Quyết định này bãi bỏ Thông tư số 55/2012/TT-BGDĐT ngày 25 tháng 12 năm 2012 và Thông tư số 08/2015/TT-BGDĐT ngày 21 tháng 4 năm 2015 sửa đổi,"}
+  ],
+  "note": "Câu bãi bỏ bị ngắt bởi đầu trang công báo nên context chỉ trích phần trước ngắt trang. Các Luật trong khối Căn cứ không có số hiệu nên bỏ qua. Văn bản không chỉ định văn bản thế chỗ nên gán REPEALS (về nội dung thì Quyết định này điều chỉnh thay lĩnh vực của hai Thông tư, có thể tranh luận là REPLACES)."
+}

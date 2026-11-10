@@ -1,0 +1,54 @@
+{
+ "sourceFile": "Đào tạo/0492_56_2026_TT-BGDĐT_Thông tư ban hành Quy chế đào tạo trình độ đại học.txt",
+ "documentNumber": "56/2026/TT-BGDĐT",
+ "signers": [
+  "Lê Quân"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "43/2019/QH14",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Luật Giáo dục số 43/2019/QH14, được sửa đổi, bổ sung bởi Luật số 123/2025/QH15;"
+  },
+  {
+   "targetDocumentNumber": "123/2025/QH15",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Luật Giáo dục số 43/2019/QH14, được sửa đổi, bổ sung bởi Luật số 123/2025/QH15;"
+  },
+  {
+   "targetDocumentNumber": "125/2025/QH15",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Luật Giáo dục đại học số 125/2025/QH15;"
+  },
+  {
+   "targetDocumentNumber": "37/2025/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Thông tư này có hiệu lực thi hành từ ngày 07 tháng 7 năm 2026, thay thế Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021"
+  },
+  {
+   "targetDocumentNumber": "28/2023/TT-BGDĐT",
+   "relationType": "REPLACES",
+   "context": "Thông tư số 28/2023/TT-BGDĐT ngày 28 tháng 12 năm 2023 ban hành kèm Quy chế đào tạo từ xa trình độ đại học do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành."
+  },
+  {
+   "targetDocumentNumber": "23/2021/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "quy định tại Phụ lục ban hành kèm theo Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021"
+  },
+  {
+   "targetDocumentNumber": "18/2021/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Phụ lục ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ"
+  }
+ ],
+ "note": "Phần đầu văn bản không in dòng 'Số:'; số hiệu lấy từ dòng 'Ban hành kèm theo Thông tư số 56 /2026/TT-BGDĐT' và phiếu chuyển. Trang cuối là phiếu xử lý văn bản đến của ĐHBK, không gán."
+}

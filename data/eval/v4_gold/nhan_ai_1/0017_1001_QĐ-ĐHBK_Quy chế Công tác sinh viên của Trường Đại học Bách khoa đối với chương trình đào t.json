@@ -1,0 +1,64 @@
+{
+ "sourceFile": "Công tác sinh viên/0017_1001_QĐ-ĐHBK_Quy chế Công tác sinh viên của Trường Đại học Bách khoa đối với chương trình đào t.txt",
+ "documentNumber": "1001/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/05/2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa, Đại học Đà Nẵng về việc Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2016/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05/4/2016 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy"
+  },
+  {
+   "targetDocumentNumber": "1325/QĐ-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Quyết định số 1325/QĐ-BGDĐT ngày 25/4/2016 về đính chính Thông tư số 10/2016/TT-BGDĐT;"
+  },
+  {
+   "targetDocumentNumber": "2721/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy"
+  },
+  {
+   "targetDocumentNumber": "973/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Quyết định số 973/QĐ-ĐHĐN ngày 20/3/2020 về việc sửa đổi phụ lục kèm theo Quyết định số 2721/QĐ-ĐHĐN ngày 10/8/2018 của Giám đốc Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "29/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Xử lý theo “Quy định về liêm chính học thuật” của trường ĐHBK ban hành theo QĐ số 29/QĐ-ĐHBK ngày 09/01/2017"
+  },
+  {
+   "targetDocumentNumber": "31/2009/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Xử lý theo quy định về xử lý sinh viên liên quan đến ma túy (Thông tư số 31/2009/TT-BGDĐT)"
+  }
+ ],
+ "note": "Luật Giáo dục 2019 / Luật GDĐH 2012 / Luật sửa đổi 2018 trong căn cứ không ghi số hiệu nên bỏ qua. Phụ lục khung kỷ luật ghi số quyết định để trống ('[để trống] /QĐ-ĐHBK')."
+}

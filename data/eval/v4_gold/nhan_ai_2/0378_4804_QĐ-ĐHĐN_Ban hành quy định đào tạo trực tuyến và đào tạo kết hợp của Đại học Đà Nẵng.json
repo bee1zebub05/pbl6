@@ -1,0 +1,65 @@
+{
+ "sourceFile": "Đào tạo/0378_4804_QĐ-ĐHĐN_Ban hành quy định đào tạo trực tuyến và đào tạo kết hợp của Đại học Đà Nẵng.txt",
+ "documentNumber": "4804/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Đơn vị trực thuộc",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "23/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"
+  },
+  {
+   "targetDocumentNumber": "18/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ;"
+  },
+  {
+   "targetDocumentNumber": "28/2023/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 28/2023/TT-BGDĐT ngày 28 tháng 12 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo từ xa trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "30/2023/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 30/2023/TT-BGDĐT ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về ứng dụng công nghệ thông tin trong đào tạo trực tuyến đối với giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 ngày 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 ngày 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "866/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "Điều 2. Quyết định này thay thế Quyết định số 866/QĐ-ĐHĐN ngày 09 tháng 3 năm 2023 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định đào tạo theo phương thức trực tuyến và phương thức trực tiếp kết hợp trực tuyến của Đại học Đà Nẵng."
+  }
+ ],
+ "note": "Số hiệu in '4804 /QĐ-ĐHĐN'. 30/2023/TT-BGDĐT còn được dẫn chiếu ở thân bài (Điều 5, 8, 9, 11) — chỉ giữ BASED_ON. Phiếu chuyển văn bản cuối file của ĐHBK nhắc lại số hiệu chính văn bản (ghi ngày 20/11/2024) — bỏ qua."
+}

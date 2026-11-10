@@ -1,0 +1,85 @@
+{
+ "sourceFile": "Đào tạo/0041_1779_QĐ-ĐHBK_Quy định đào tạo đại học hệ chính quy liên thông từ cao đẳng.txt",
+ "documentNumber": "1779/QĐ-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Đơn vị trực thuộc",
+  "Cán bộ, giảng viên, viên chức, người lao động"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 04 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "18/2017/QĐ-TTg",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31 tháng 5 năm 2017 của Thủ tướng Chính phủ"
+  },
+  {
+   "targetDocumentNumber": "08/2014/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 03 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo"
+  },
+  {
+   "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "268/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành Quy định đào tạo đại học hệ chính quy theo hệ thống tín chỉ;"
+  },
+  {
+   "targetDocumentNumber": "419/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 419/QĐ-ĐHBK ngày 28 tháng 10 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa"
+  },
+  {
+   "targetDocumentNumber": "29/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa"
+  },
+  {
+   "targetDocumentNumber": "1274/QĐ-ĐHĐK",
+   "relationType": "BASED_ON",
+   "context": "Quyết định số 1274/QĐ-ĐHĐK ngày 08 tháng 5 năm 2019 của Hiệu trưởng Trường Đại học Bách khoa về việc Sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa - Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "4007/QĐ-ĐHĐN",
+   "relationType": "REFERENCES",
+   "context": "2. Quy định này áp dụng đối với sinh viên trúng tuyển theo Quy chế tuyển sinh đào tạo liên thông của Đại học Đà Nẵng ban hành kèm theo Quyết định số 4007/QĐ-ĐHĐN ngày 29 tháng 11 năm 2017 của Giám đốc Đại học Đà Nẵng (sau đây gọi tắt là sinh viên liên thông)."
+  },
+  {
+   "targetDocumentNumber": "419/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "được thực hiện theo Quyết định số 419/QĐ-ĐHBK ngày 28 tháng 10 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa."
+  },
+  {
+   "targetDocumentNumber": "268/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "ban hành kèm theo Quyết định số 268/QĐ-ĐHBK ngày 07 tháng 7 năm 2016 của Hiệu trưởng Trường Đại học Bách khoa (sau đây gọi tắt là Quy định đào tạo đại học hệ chính quy hiện hành của Trường)."
+  },
+  {
+   "targetDocumentNumber": "29/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "ban hành kèm theo Quyết định số 29/QĐ-ĐHBK ngày 09 tháng 01 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa, Quyết định số 1274/QĐ-ĐHĐK ngày 08 tháng 5 năm 2019 về Sửa đổi"
+  },
+  {
+   "targetDocumentNumber": "1274/QĐ-ĐHĐK",
+   "relationType": "REFERENCES",
+   "context": "Quyết định số 1274/QĐ-ĐHĐK ngày 08 tháng 5 năm 2019 về Sửa đổi, bổ sung một số điều của Quy định về liêm chính học thuật của Trường Đại học Bách khoa."
+  },
+  {
+   "targetDocumentNumber": "566/QĐ-ĐHBK",
+   "relationType": "REPLACES",
+   "context": "2. Quy định này thay thế Quy định ban hành kèm theo Quyết định số 566/QĐ-ĐHBK ngày 17 tháng 5 năm 2013 của Hiệu trưởng Trường Đại học Bách khoa."
+  }
+ ],
+ "note": "'1274/QĐ-ĐHĐK' giữ nguyên như văn bản; nhiều khả năng là lỗi gõ của 1274/QĐ-ĐHBK (do Hiệu trưởng ĐHBK ban hành)."
+}

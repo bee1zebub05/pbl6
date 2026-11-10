@@ -1,0 +1,15 @@
+{
+  "sourceFile": "Công tác sinh viên/0005_10_2016_TT-BGDĐT_Quy chế Công tác sinh viên đối với chương trình đào tạo hệ chính quy.txt",
+  "documentNumber": "10/2016/TT-BGDĐT",
+  "signers": ["Nguyễn Thị Nghĩa"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Cơ quan, tổ chức, cá nhân có liên quan", "Đơn vị trực thuộc"],
+  "citations": [
+    {"targetDocumentNumber": "32/2008/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"},
+    {"targetDocumentNumber": "75/2006/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"},
+    {"targetDocumentNumber": "31/2011/NĐ-CP", "relationType": "BASED_ON", "context": "Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục;"},
+    {"targetDocumentNumber": "07/2013/NĐ-CP", "relationType": "BASED_ON", "context": "Nghị định số 07/2013/NĐ-CP ngày 09 tháng 01 năm 2013 của Chính phủ sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục;"},
+    {"targetDocumentNumber": "141/2013/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24/10/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học;"},
+    {"targetDocumentNumber": "42/2007/QĐ-BGDĐT", "relationType": "REPLACES", "context": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 23 tháng 5 năm 2016 và thay thế những quy định về sinh viên và công tác sinh viên của các đại học, học viện, trường đại học tại Quyết định số 42/2007/QĐ-BGDĐT ngày 13 tháng 8 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế học sinh, sinh viên các trường đại học, cao đẳng và trung cấp chuyên nghiệp hệ chính quy."}
+  ],
+  "note": "42/2007/QĐ-BGDĐT chỉ bị thay thế một phần (những quy định về sinh viên đại học) — gán REPLACES, có thể tranh luận AMENDS. Các Nghị định 31/2011, 07/2013 nằm trong cùng mục Căn cứ với 75/2006 nên BASED_ON. Context ghép các dòng bị ngắt. 'Đơn vị trực thuộc' lấy từ Điều 3 (Thủ trưởng các đơn vị có liên quan thuộc Bộ) — không chắc."
+}

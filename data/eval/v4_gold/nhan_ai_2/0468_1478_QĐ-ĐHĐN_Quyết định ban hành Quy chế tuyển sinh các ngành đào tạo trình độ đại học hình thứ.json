@@ -1,0 +1,18 @@
+{
+  "sourceFile": "Tuyển sinh/0468_1478_QĐ-ĐHĐN_Quyết định ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học hình thứ.txt",
+  "documentNumber": "1478/QĐ-ĐHĐN",
+  "signers": ["Lê Thành Bắc"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Đơn vị trực thuộc"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "- Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "- Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "08/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "- Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"},
+    {"targetDocumentNumber": "03/2022/TT-BGDĐT", "relationType": "BASED_ON", "context": "- Căn cứ Thông tư số 03/2022/TT-BGDĐT ngày 18/01/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về việc xác định chỉ tiêu tuyển sinh đại học, thạc sĩ, tiến sĩ và chỉ tiêu tuyển sinh cao đẳng ngành Giáo dục Mầm non;"},
+    {"targetDocumentNumber": "06/2026/TT-BGDĐT", "relationType": "BASED_ON", "context": "- Căn cứ Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng;"},
+    {"targetDocumentNumber": "18/2017/QĐ-TTg", "relationType": "BASED_ON", "context": "- Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31/5/2017 của Thủ tướng Chính phủ ban hành Quy định về liên thông giữa trình độ trung cấp, trình độ cao đẳng với trình độ đại học;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "- Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "1248/QĐ-ĐHĐN", "relationType": "REPLACES", "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 1248/QĐ-ĐHĐN ngày 28/3/2023 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy chế tuyển sinh đại học hình thức chính quy của Đại học Đà Nẵng."}
+  ],
+  "note": "Số hiệu in '1478 /QĐ-ĐHĐN' chuẩn hoá thành 1478/QĐ-ĐHĐN. Trong Quy chế đính kèm, 'Quy chế tuyển sinh', 'Quy định đào tạo liên thông' chỉ nhắc tên không có số hiệu nên không gán REFERENCES. Dòng 'Ban hành kèm theo Quyết định số /QĐ-ĐHĐN' bị trống số."
+}

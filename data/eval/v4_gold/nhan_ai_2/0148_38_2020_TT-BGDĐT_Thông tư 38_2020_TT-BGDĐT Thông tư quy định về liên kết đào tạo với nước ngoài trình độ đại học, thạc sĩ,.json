@@ -1,0 +1,15 @@
+{
+  "sourceFile": "Đào tạo/0148_38_2020_TT-BGDĐT_Thông tư 38_2020_TT-BGDĐT Thông tư quy định về liên kết đào tạo với nước ngoài trình độ đại học, thạc sĩ,.txt",
+  "documentNumber": "38/2020/TT-BGDĐT",
+  "signers": ["Nguyễn Văn Phúc"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Doanh nghiệp, đối tác nước ngoài", "Cơ quan, tổ chức, cá nhân có liên quan", "Đơn vị trực thuộc"],
+  "citations": [
+    {"targetDocumentNumber": "99/2019/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"},
+    {"targetDocumentNumber": "69/2017/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"},
+    {"targetDocumentNumber": "86/2018/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 86/2018/NĐ-CP ngày 06 tháng 6 năm 2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục;"},
+    {"targetDocumentNumber": "86/2018/NĐ-CP", "relationType": "REFERENCES", "context": "1. Cơ sở đào tạo Việt Nam và cơ sở giáo dục đại học nước ngoài thực hiện chương trình liên kết đào tạo theo hình thức trực tuyến hoặc hình thức trực tiếp kết hợp trực tuyến theo các quy định tại Điều 15, Điều 16, Điều 17, Điều 18, Điều 19, Điều 20, Điều 27 Nghị định số 86/2018/NĐ-CP ngày 06 tháng 6 năm 2019 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục và các quy định tại Thông tư này."},
+    {"targetDocumentNumber": "99/2019/NĐ-CP", "relationType": "REFERENCES", "context": "4. Thẩm quyền phê duyệt đề án liên kết đào tạo với nước ngoài theo quy định tại Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018 và Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và các quy định có liên quan."},
+    {"targetDocumentNumber": "12/2016/TT-BGDĐT", "relationType": "REFERENCES", "context": "Cơ sở vật chất, thiết bị, cổng thông tin điện tử, hệ thống máy chủ và hạ tầng kết nối mạng Internet, hệ thống quản lý học tập, hệ thống quản lý nội dung học tập, học liệu điện tử phải đáp ứng các quy định tại Thông tư số 12/2016/TT-BGDĐT ngày 22 tháng 4 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định ứng dụng công nghệ thông tin trong quản lý, tổ chức đào tạo qua mạng"}
+  ],
+  "note": "Điều 3 ghi 86/2018/NĐ-CP 'ngày 06 tháng 6 năm 2019' (lỗi ngày trong văn bản gốc), cùng số hiệu. Không có điều khoản thay thế/bãi bỏ có số hiệu. 'Doanh nghiệp, đối tác nước ngoài' lấy từ 'cơ sở giáo dục đại học nước ngoài' trong Điều 1 khoản 2."
+}

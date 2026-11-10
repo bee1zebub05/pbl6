@@ -1,0 +1,19 @@
+{
+  "sourceFile": "Tuyển sinh/0192_1609_QĐ-ĐHBK_Ban hành Quy định tuyển sinh trình độ thạc sĩ theo phương thức xét tuyển của Trườn.txt",
+  "documentNumber": "1609/QĐ-ĐHBK",
+  "signers": ["Đoàn Quang Vinh"],
+  "targetGroups": ["Đơn vị trực thuộc", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "99/2019/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "17/2021/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ;"},
+    {"targetDocumentNumber": "1982/QĐ-TTg", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 1982/QĐ-TTg ngày 18/10/2016 của Thủ tướng Chính phủ phê duyệt Khung trình độ quốc gia Việt Nam;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 13/NQ-HĐĐH ngày 07/9/2021;"},
+    {"targetDocumentNumber": "05/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"},
+    {"targetDocumentNumber": "22/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết 22/NQ-HĐT ngày 08/10/2021;"},
+    {"targetDocumentNumber": "3917/ĐHĐN-ĐT", "relationType": "BASED_ON", "context": "Căn cứ Công văn 3917/ĐHĐN-ĐT ngày 16/11/2021 của Giám đốc Đại học Đà Nẵng về việc giao các trường Đại học thành viên tổ chức tuyển sinh đào tạo trình độ thạc sĩ;"}
+  ],
+  "note": "Context ghép các dòng bị ngắt dòng trong .txt thành một câu. 13/NQ-HĐĐH và 22/NQ-HĐT là văn bản sửa đổi được nêu kèm trong cùng mục Căn cứ, gán BASED_ON."
+}

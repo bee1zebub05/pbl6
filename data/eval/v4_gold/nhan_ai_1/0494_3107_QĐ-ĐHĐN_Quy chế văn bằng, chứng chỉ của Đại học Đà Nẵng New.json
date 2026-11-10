@@ -1,0 +1,23 @@
+{
+  "sourceFile": "Đào tạo/0494_3107_QĐ-ĐHĐN_Quy chế văn bằng, chứng chỉ của Đại học Đà Nẵng New.txt",
+  "documentNumber": "3107/QĐ-ĐHĐN",
+  "signers": [],
+  "targetGroups": [
+    "Cơ sở giáo dục / trường đại học thành viên",
+    "Đơn vị trực thuộc",
+    "Cơ quan, tổ chức, cá nhân có liên quan"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2026/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "context": "3. Những nội dung không quy định cụ thể trong Quy chế này thực hiện theo Thông tư số 10/2026/TT-BGDĐT ngày 26/02/2026 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân (Thông tư số 10/2026/TT-BGDĐT) và quy định của pháp luật liên quan."
+    },
+    {
+      "targetDocumentNumber": "1982/QĐ-TTg",
+      "relationType": "REFERENCES",
+      "context": "1982/QP-TTg"
+    }
+  ],
+  "note": "File chỉ chứa phần Quy chế ban hành kèm theo (không có trang Quyết định, không có khối Căn cứ, không có người ký) -> số hiệu lấy từ dòng 'Ban hành kèm theo Quyết định số 3107/QĐ-ĐHĐN', signers = []. 1982/QĐ-TTg: OCR in '1982/QP-TTg' trong ô Ghi chú bảng 2 ('Khung trình độ quốc gia Việt Nam được ban hành kèm theo Quyết định số 1982/QP-TTg của Thủ tướng Chính phủ', chữ bị tách dòng) - đã sửa P->Đ; context chỉ trích được mảnh dòng OCR."
+}

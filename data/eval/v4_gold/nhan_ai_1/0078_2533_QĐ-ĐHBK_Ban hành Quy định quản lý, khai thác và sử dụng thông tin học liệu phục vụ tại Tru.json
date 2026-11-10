@@ -1,0 +1,16 @@
+{
+  "sourceFile": "Học liệu, truyền thông/0078_2533_QĐ-ĐHBK_Ban hành Quy định quản lý, khai thác và sử dụng thông tin học liệu phục vụ tại Tru.txt",
+  "documentNumber": "2533/QĐ-ĐHBK",
+  "signers": ["Đoàn Quang Vinh"],
+  "targetGroups": ["Người học", "Cán bộ, giảng viên, viên chức, người lao động", "Đơn vị trực thuộc", "Cơ quan, tổ chức, cá nhân có liên quan"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04/04/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "10/2020/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "08/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng đại học ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021;"},
+    {"targetDocumentNumber": "13/NQ-HĐĐH", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng đại học ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/09/2021;"},
+    {"targetDocumentNumber": "05/NQ-HĐT", "relationType": "BASED_ON", "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/1/2021 ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "1474/QĐ-ĐHBK", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 1474/QĐ-ĐHBK ngày 21/5/2021 của Hiệu trưởng ban hành Quy chế tổ chức và hoạt động của Trung tâm Học liệu và Truyền thông, Trường Đại học Bách khoa, Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "905/QĐ-ĐHBK", "relationType": "REPLACES", "context": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 905/QĐ-ĐHBK ngày 31 tháng 8 năm 2017 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng."}
+  ],
+  "note": "Số hiệu in là '2533 /QĐ-ĐHBK', chuẩn hóa. 13/NQ-HĐĐH nằm trong cùng câu Căn cứ (văn bản sửa đổi 08/NQ-HĐĐH) nên gán BASED_ON; có thể tranh luận là REFERENCES. Luật Thư viện không có số hiệu, bỏ qua. Trang 2 nhắc lại chính số 2533/QĐ-ĐHBK, không gán."
+}

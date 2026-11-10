@@ -1,0 +1,20 @@
+{
+  "sourceFile": "Đào tạo/0185_1356_QĐ-ĐHĐN_Quyết định 1356_QĐ-ĐHĐN Quy định quản lý văn bằng chứng chỉ của Đại học Đà Nẵng.txt",
+  "documentNumber": "1356/QĐ-ĐHĐN",
+  "signers": ["Lê Thành Bắc"],
+  "targetGroups": ["Cơ sở giáo dục / trường đại học thành viên", "Đơn vị trực thuộc"],
+  "citations": [
+    {"targetDocumentNumber": "32/CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"},
+    {"targetDocumentNumber": "08/2014/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"},
+    {"targetDocumentNumber": "99/2019/NĐ-CP", "relationType": "BASED_ON", "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"},
+    {"targetDocumentNumber": "21/2019/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 21/2019/TT-BGDĐT ngày 29 tháng 11 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt nghiệp cao đẳng sư phạm, văn bằng giáo dục đại học và chứng chỉ của hệ thống giáo dục quốc dân;"},
+    {"targetDocumentNumber": "27/2019/TT-BGDĐT", "relationType": "BASED_ON", "context": "Căn cứ Thông tư số 27/2019/TT-BGDĐT ngày 30 tháng 12 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định nội dung chính ghi trên văn bằng và phụ lục văn bằng giáo dục đại học;"},
+    {"targetDocumentNumber": "6950/QĐ-ĐHĐN", "relationType": "BASED_ON", "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01 tháng 12 năm 2014 của Giám đốc Đại học Đà Nẵng ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"},
+    {"targetDocumentNumber": "346/QĐ-ĐHĐN", "relationType": "REPLACES", "context": "Quyết định này thay thế Quyết định số 346/QĐ-ĐHĐN ngày 21 tháng 01 năm 2016 của Giám đốc Đại học Đà Nẵng về Quy định quản lý văn bằng, chứng chỉ của Đại học Đà Nẵng."},
+    {"targetDocumentNumber": "27/2019/TT-BGDĐT", "relationType": "REFERENCES", "context": "1. Văn bằng giáo dục đại học: Nội dung chính ghi trên văn bằng giáo dục đại học thực hiện theo quy định tại Điều 2 Thông tư số 27/2019/TT-BGDĐT ngày 30 tháng 12 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo."},
+    {"targetDocumentNumber": "401/ĐHĐN-ĐT", "relationType": "REFERENCES", "context": "Cách lập số hiệu và số vào sổ gốc văn bằng, chứng chỉ được quy định tại Công văn số 401/ĐHĐN-ĐT ngày 08/02/2017 của Giám đốc Đại học Đà Nẵng."},
+    {"targetDocumentNumber": "2284/ĐHĐN-ĐT", "relationType": "REFERENCES", "context": "d) Đối với các đơn vị thuộc ĐHĐN ngoài việc thực hiện điểm a, b, c khoản 2 Điều này còn phải thực hiện những quy định tại Công văn số 2284/ĐHĐN-ĐT ngày 26/7/2019 của Giám đốc Đại học Đà Nẵng."},
+    {"targetDocumentNumber": "21/2019/TT-BGDĐT", "relationType": "REFERENCES", "context": "Những quy định khác về quản lý văn bằng, chứng chỉ thực hiện theo các văn bản pháp luật hiện hành và Thông tư số 21/2019/TT-BGDĐT ngày 29 tháng 11 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ sở"}
+  ],
+  "note": "Các mẫu M3/M5 đính kèm có khối 'Căn cứ' riêng (32/CP, 08/2014/TT-BGDĐT) — đó là căn cứ của mẫu quyết định do cơ sở đào tạo ban hành, đã có BASED_ON từ văn bản chính nên không thêm dòng. 27/2019/TT-BGDĐT ở Điều 14 bị ngắt trang ('27/2019/TT-' / 'BGDĐT')."
+}

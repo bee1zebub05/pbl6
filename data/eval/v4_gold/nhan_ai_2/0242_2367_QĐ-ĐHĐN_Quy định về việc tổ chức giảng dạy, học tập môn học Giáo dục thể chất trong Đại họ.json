@@ -1,0 +1,71 @@
+{
+ "sourceFile": "Đào tạo/0242_2367_QĐ-ĐHĐN_Quy định về việc tổ chức giảng dạy, học tập môn học Giáo dục thể chất trong Đại họ.txt",
+ "documentNumber": "2367/QĐ-ĐHĐN",
+ "signers": [
+  "Lê Thành Bắc"
+ ],
+ "targetGroups": [
+  "Đơn vị trực thuộc",
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Cơ sở giáo dục / trường đại học thành viên"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập"
+  },
+  {
+   "targetDocumentNumber": "10/2020/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ"
+  },
+  {
+   "targetDocumentNumber": "25/2015/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 25/2015/TT-BGDĐT ngày 14/10/2015 của Bộ trưởng Bộ"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về"
+  },
+  {
+   "targetDocumentNumber": "4784/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 4784/QĐ-ĐHĐN ngày 29/12/2020 của Giám đốc Đại"
+  },
+  {
+   "targetDocumentNumber": "21/TTr-KGDTC",
+   "relationType": "REFERENCES",
+   "context": "Xét Tờ trình số 21/TTr-KGDTC ngày 21/4/2022 của Khoa Giáo dục Thể chất"
+  },
+  {
+   "targetDocumentNumber": "6800/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "định số 6800/QĐ-ĐHĐN ngày 09/12/2016 của Giám đốc Đại học Đà Nẵng về việc"
+  },
+  {
+   "targetDocumentNumber": "3485/QĐ-ĐHĐN",
+   "relationType": "REPLACES",
+   "context": "học Đà Nẵng và Quyết định số 3485/QĐ-ĐHĐN ngày 14/10/2020 của Giám đốc"
+  },
+  {
+   "targetDocumentNumber": "25/2015/TT-BGDĐT",
+   "relationType": "REFERENCES",
+   "context": "Thông tư số 25/2015/TT-BGDĐT ngày 14/10/2015 của Bộ Giáo dục và Đào tạo"
+  }
+ ],
+ "note": "Tờ trình 21/TTr-KGDTC nằm ở dòng 'Xét Tờ trình...' (không phải 'Căn cứ'), gán REFERENCES — không chắc có nên tính. Ngày ban hành thiếu tháng trong văn bản."
+}

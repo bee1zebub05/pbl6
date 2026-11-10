@@ -1,0 +1,30 @@
+{
+ "sourceFile": "Đào tạo/0061_1606_HD-ĐHBK_Hướng dẫn Đánh giá đồ án, luận văn, luận án tốt nghiệp theo hình thức trực tuyến c.txt",
+ "documentNumber": "1606/HD-ĐHBK",
+ "signers": [
+  "Đoàn Quang Vinh"
+ ],
+ "targetGroups": [
+  "Người học",
+  "Hội đồng và thành viên hội đồng",
+  "Đơn vị trực thuộc"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "707/BGDĐT-GDĐH",
+   "relationType": "BASED_ON",
+   "context": "thực hiện Công văn số 707/BGDĐT-GDĐH ngày 26/02/2021 của Bộ Giáo dục và Đào tạo về việc hướng dẫn đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp theo hình thức trực tuyến năm 2021 trong thời gian dịch Covid-19; Quyết định số 2058/QĐ-ĐHĐN ngày 04/6/2021 của Đại học Đà Nẵng về việc ban hành Quy định tổ chức đánh giá đồ án, khoá luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng theo hình thức trực tuyến"
+  },
+  {
+   "targetDocumentNumber": "2058/QĐ-ĐHĐN",
+   "relationType": "BASED_ON",
+   "context": "thực hiện Công văn số 707/BGDĐT-GDĐH ngày 26/02/2021 của Bộ Giáo dục và Đào tạo về việc hướng dẫn đánh giá đồ án, khóa luận, luận văn, luận án tốt nghiệp theo hình thức trực tuyến năm 2021 trong thời gian dịch Covid-19; Quyết định số 2058/QĐ-ĐHĐN ngày 04/6/2021 của Đại học Đà Nẵng về việc ban hành Quy định tổ chức đánh giá đồ án, khoá luận, luận văn, luận án tốt nghiệp cho sinh viên, học viên và nghiên cứu sinh của Đại học Đà Nẵng theo hình thức trực tuyến"
+  },
+  {
+   "targetDocumentNumber": "29/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Hành vi vi phạm liêm chính học thuật được quy định tại điểm 3 Điều 2 “Quy định về liêm chính học thuật của Trường Đại học Bách khoa, Đại học Đà Nẵng” ban hành kèm theo Quyết định số 29/QĐ-ĐHBK ngày 09/01/2017,"
+  }
+ ],
+ "note": "Hướng dẫn không có khối \"Căn cứ\"; 707/BGDĐT-GDĐH và 2058/QĐ-ĐHĐN nằm ở đoạn mở đầu \"Nhằm ..., thực hiện Công văn số ...; Quyết định số ...\" đóng vai trò cơ sở ban hành -> gán BASED_ON (không chắc, theo dấu hiệu \"thực hiện\" có thể là REFERENCES). Không có Điều đối tượng áp dụng; targetGroups suy từ nội dung (người học, thành viên hội đồng) và phần tổ chức thực hiện (Khoa/Phòng)."
+}

@@ -1,0 +1,38 @@
+{
+  "sourceFile": "Tuyển sinh/0226_1340_QĐ-ĐHBK_Quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023.txt",
+  "documentNumber": "1340/QĐ-ĐHBK",
+  "signers": [
+    "Nguyễn Hữu Hiếu"
+  ],
+  "targetGroups": [
+    "Đơn vị trực thuộc"
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng và Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+    },
+    {
+      "targetDocumentNumber": "645/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Quyết định số 645/QĐ-ĐHĐN ngày 22/02/2023 của Giám đốc Đại học Đà Nẵng về việc quy định mức thu và hình thức thu các loại phí cho hoạt động tuyển sinh năm 2023;"
+    }
+  ],
+  "note": "Không có Điều đối tượng áp dụng; targetGroups lấy từ Điều 3 (các phòng và đơn vị có liên quan). \"Các văn bản trước đây trái với quy định này hết hiệu lực thi hành\" không nêu số hiệu. Số tài khoản ngân hàng bỏ qua."
+}

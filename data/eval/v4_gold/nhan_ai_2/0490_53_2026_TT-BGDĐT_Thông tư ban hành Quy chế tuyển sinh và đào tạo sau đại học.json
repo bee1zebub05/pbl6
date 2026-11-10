@@ -1,0 +1,55 @@
+{
+ "sourceFile": "Tuyển sinh/0490_53_2026_TT-BGDĐT_Thông tư ban hành Quy chế tuyển sinh và đào tạo sau đại học.txt",
+ "documentNumber": "53/2026/TT-BGDĐT",
+ "signers": [
+  "Lê Quân"
+ ],
+ "targetGroups": [
+  "Cơ sở giáo dục / trường đại học thành viên",
+  "Cơ quan, tổ chức, cá nhân có liên quan",
+  "Đơn vị trực thuộc"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "43/2019/QH14",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Luật Giáo dục số 43/2019/QH14;"
+  },
+  {
+   "targetDocumentNumber": "123/2025/QH15",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 123/2025/QH15;"
+  },
+  {
+   "targetDocumentNumber": "125/2025/QH15",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Luật Giáo dục đại học số 125/2025/QH15;"
+  },
+  {
+   "targetDocumentNumber": "91/2026/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 91/2026/NĐ-CP ngày 30 tháng 3 năm 2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "37/2025/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+  },
+  {
+   "targetDocumentNumber": "23/2021/TT-BGDĐT",
+   "relationType": "REPLACES",
+   "context": "Thông tư này thay thế các Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ và Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ."
+  },
+  {
+   "targetDocumentNumber": "18/2021/TT-BGDĐT",
+   "relationType": "REPLACES",
+   "context": "Thông tư này thay thế các Thông tư số 23/2021/TT-BGDĐT ngày 30 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ và Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ."
+  },
+  {
+   "targetDocumentNumber": "73/2025/QH15",
+   "relationType": "REFERENCES",
+   "context": "1. Giảng viên giảng dạy chương trình đào tạo trình độ thạc sĩ phải đáp ứng các tiêu chuẩn giảng viên đại học quy định của Luật Nhà giáo số 73/2025/QH15, quy định về chuẩn nghề nghiệp giảng viên đại học, chuẩn chương trình đào tạo theo ngành, lĩnh vực và các quy định khác của pháp luật có liên quan."
+  }
+ ],
+ "note": "Đầu văn bản không in dòng 'Số:'; số hiệu lấy từ dòng 'Ban hành kèm theo Thông tư số 53/2026/TT-BGDĐT'. 23/2021 và 18/2021 còn được nhắc ở điều khoản chuyển tiếp (tiếp tục áp dụng) — chỉ giữ REPLACES. 125/2025/QH15 cũng được nhắc lại ở thân bài — chỉ giữ BASED_ON. 'Đơn vị trực thuộc' ứng với 'thủ trưởng các đơn vị có liên quan thuộc Bộ' — không chắc."
+}

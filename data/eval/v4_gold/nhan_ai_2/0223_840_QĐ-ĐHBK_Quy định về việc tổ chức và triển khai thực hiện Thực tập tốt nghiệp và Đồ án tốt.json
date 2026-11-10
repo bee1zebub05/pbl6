@@ -1,0 +1,75 @@
+{
+ "sourceFile": "Đào tạo/0223_840_QĐ-ĐHBK_Quy định về việc tổ chức và triển khai thực hiện Thực tập tốt nghiệp và Đồ án tốt.txt",
+ "documentNumber": "840/QĐ-ĐHBK",
+ "signers": [
+  "Nguyễn Hữu Hiếu"
+ ],
+ "targetGroups": [
+  "Cán bộ, giảng viên, viên chức, người lao động",
+  "Người học",
+  "Cơ quan, tổ chức, cá nhân có liên quan"
+ ],
+ "citations": [
+  {
+   "targetDocumentNumber": "32/CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "99/2019/NĐ-CP",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học;"
+  },
+  {
+   "targetDocumentNumber": "17/2021/TT-BGDĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+  },
+  {
+   "targetDocumentNumber": "08/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "13/NQ-HĐĐH",
+   "relationType": "BASED_ON",
+   "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "05/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng"
+  },
+  {
+   "targetDocumentNumber": "22/NQ-HĐT",
+   "relationType": "BASED_ON",
+   "context": "Nghị quyết số 22/NQ-HĐT ngày 08/10/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa;"
+  },
+  {
+   "targetDocumentNumber": "1691/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 1691/QĐ-ĐHBK ngày 15/7/2020 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng về việc ban hành Mục tiêu và Chuẩn đầu ra chương trình đào tạo tích hợp Cử nhân Kỹ sư 180 tín chỉ;"
+  },
+  {
+   "targetDocumentNumber": "3092/QĐ-ĐHBK",
+   "relationType": "BASED_ON",
+   "context": "Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08/08/2022 của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+  },
+  {
+   "targetDocumentNumber": "39/QĐ-ĐHBK",
+   "relationType": "REFERENCES",
+   "context": "Đối với sinh viên chương trình tiên tiến từ khóa 2019 về trước: áp dụng Quyết định số 39/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định tổ chức và triển khai thực hiện Thực tập tốt nghiệp và làm Đồ án tốt nghiệp cho sinh viên Chương trình tiên tiến\"."
+  },
+  {
+   "targetDocumentNumber": "38/QĐ-ĐHBK",
+   "relationType": "REPEALS",
+   "context": "2. Bãi bỏ Quyết định số 38/QĐ-ĐHBK ngày 12/01/2016 của Hiệu trưởng Trường Đại học Bách khoa về việc ban hành \"Quy định tổ chức và triển khai thực hiện Đồ án tốt nghiệp kết hợp giữa Nhà trường và doanh nghiệp Capstone project\"."
+  }
+ ],
+ "note": "38/QĐ-ĐHBK bị 'bãi bỏ' theo đúng chữ trong văn bản nên gán REPEALS, dù về nội dung Quy định Capstone mới thế chỗ (có thể tranh cãi là REPLACES)."
+}
