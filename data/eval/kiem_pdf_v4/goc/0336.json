@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0336_1176_KH-BGDĐT_Kế hoạch số 1176_KH-BGDĐT ngày 27_10_2021 của Bộ GDĐT phát động phong trào thi đu.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "1176/KH-BGDĐT",
+    "title": "Kế hoạch Triển khai Phong trào thi đua đặc biệt “Toàn ngành Giáo dục đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19, thực hiện thắng lợi nhiệm vụ năm học”",
+    "documentType": "Kế hoạch",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/10/2021",
+    "effectiveDate": "27/10/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khác"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Người học"
+    ],
+    "summary": "Kế hoạch triển khai phong trào thi đua đặc biệt trong toàn ngành Giáo dục nhằm chủ động thích ứng an toàn, linh hoạt, kiểm soát hiệu quả đại dịch COVID-19, đồng thời hoàn thành thắng lợi nhiệm vụ năm học và đẩy mạnh cải cách hành chính.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "19/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Chỉ thị số 19/CT-TTg ngày 16 tháng 7 năm 2021 của Thủ tướng Chính phủ về việc phát động thi đua thực hiện thắng lợi nhiệm vụ phát triển kinh tế - xã hội hằng năm và kế hoạch 05 năm (2021 - 2025) theo Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng"
+    },
+    {
+      "targetDocumentNumber": "24/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Chỉ thị số 24/CT-TTg ngày 03 tháng 9 năm 2021 của Thủ tướng Chính phủ về việc đẩy mạnh triển khai các nhiệm vụ, giải pháp tổ chức dạy học an toàn, bảo đảm chương trình và mục tiêu chất lượng giáo dục, đào tạo ứng phó với đại dịch COVID-19"
+    },
+    {
+      "targetDocumentNumber": "1497/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Quyết định số 1497/QĐ-TTg ngày 10 tháng 9 năm 2021 của Thủ tướng Chính phủ về việc ban hành Kế hoạch triển khai Phong trào thi đua đặc biệt “Cả nước đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19”"
+    },
+    {
+      "targetDocumentNumber": "128/NQ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 128/NQ-CP ngày 11 tháng 10 năm 2021 của Chính phủ về ban hành quy định tạm thời “Thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19”"
+    },
+    {
+      "targetDocumentNumber": "2611/HD-BTĐKT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Hướng dẫn số 2611/HD-BTĐKT ngày 06 tháng 10 năm 2021 của Ban Thi đua - Khen thưởng Trung ương về việc khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong Phong trào thi đua đặc biệt “Cả nước đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19”"
+    },
+    {
+      "targetDocumentNumber": "50/NQ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "góp phần thực hiện thắng lợi Nghị quyết số 50/NQ-CP ngày 20 tháng 5 năm 2021 của Chính phủ về chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng"
+    },
+    {
+      "targetDocumentNumber": "2559/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 2559/QĐ-BGDĐT ngày 06 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành chương trình hành động triển khai chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng"
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": "Điều 55",
+      "context": "Việc đề nghị khen thưởng thực hiện theo trình tự, thủ tục đơn giản (quy định tại Điều 55 Nghị định số 91/2017/NĐ-CP ngày 31 tháng 7 năm 2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Thủ tướng Chính phủ",
+    "Chính phủ",
+    "Ban Thi đua - Khen thưởng Trung ương",
+    "Bộ Y tế",
+    "Công đoàn Giáo dục Việt Nam",
+    "Hội Khuyến học Việt Nam",
+    "Văn phòng Quốc hội",
+    "Bộ Nội vụ"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Mục đích, yêu cầu",
+      "text": "Điều 1. I. MỤC ĐÍCH, YÊU CẦU\n1. Mục đích\na) Phát huy sức mạnh của toàn ngành Giáo dục để chủ động thích ứng an toàn, linh hoạt, kiểm soát hiệu quả đại dịch COVID-19, hoàn thành mục tiêu kế hoạch năm học, qua đó góp phần thực hiện thắng lợi Nghị quyết số 50/NQ-CP ngày 20 tháng 5 năm 2021 của Chính phủ về chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, Quyết định số 2559/QĐ-BGDĐT ngày 06 tháng 8 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành chương trình hành động triển khai chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, đáp ứng yêu cầu đổi mới và nâng cao chất lượng giáo dục, đào tạo.\nb) Đề cao tinh thần thi đua, khuyến khích đổi mới, sáng tạo, phát huy sáng kiến huy động các nguồn lực, đề xuất các giải pháp để kiểm soát hiệu quả dịch bệnh và bảo đảm chương trình, mục tiêu giáo dục và đào tạo.\nc) Tổ chức phong trào thi đua với nội dung phù hợp, hình thức thiết thực, kế thừa và phát huy truyền thống hiếu học, nêu cao tinh thần đoàn kết, chung sức đồng lòng vượt lên khó khăn để tham gia phòng, chống đại dịch COVID-19, đẩy mạnh cải cách hành chính và thực hiện thắng lợi nhiệm vụ năm học.\n2. Yêu cầu\na) Phong trào thi đua được quán triệt, tuyên truyền và triển khai sâu rộng tới tất cả các đơn vị của ngành Giáo dục; xác định thành tích trong phong trào thi đua bằng chất lượng công việc, hiệu quả đạt được.\nb) Động viên, khích lệ các tập thể, cá nhân tích cực tham gia thi đua nhằm thực hiện mục tiêu vừa chủ động, linh hoạt áp dụng các biện pháp thích ứng an toàn với đại dịch theo từng cấp độ, vừa nỗ lực phấn đấu hoàn thành các nhiệm vụ năm học, tiếp tục đẩy mạnh cải cách hành chính, kiên trì mục tiêu chất lượng giáo dục và đào tạo.\nc) Kịp thời phát hiện, bồi dưỡng, biểu dương, khen thưởng, nhân rộng các điển hình tiên tiến, gương người tốt, việc tốt, các mô hình tiêu biểu, các hoạt động đổi mới, sáng tạo trong công tác phòng, chống đại dịch COVID-19, công tác cải cách hành chính và trong quản lý, giảng dạy, học tập trên phạm vi cả nước.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nội dung phong trào thi đua",
+      "text": "Điều 2. II. NỘI DUNG PHONG TRÀO THI ĐUA\n1. Đối với trường học, cơ sở giáo dục\nTập thể lãnh đạo nhà trường chủ động, sáng tạo xây dựng kế hoạch, kịch bản, giải pháp linh hoạt nhằm sẵn sàng ứng phó với các tình huống dịch bệnh xảy ra trong nhà trường, phù hợp với điều kiện thực tiễn dịch bệnh tại địa phương và thực hiện thắng lợi các nhiệm vụ năm học. Chuẩn bị tốt các điều kiện cơ sở vật chất và đội ngũ nhà giáo, nhân viên trường học để hạn chế tối đa tác động tiêu cực của dịch bệnh, đáp ứng yêu cầu chuyển trạng thái hoạt động theo từng cấp độ dịch.\nCăn cứ phân loại đánh giá, xác định cấp độ dịch theo từng địa bàn để quyết định tổ chức dạy học trực tuyến phù hợp với tình hình kiểm soát dịch bệnh, tận dụng tối đa thời gian. tổ chức dạy học trực tiếp, trường hợp dịch bệnh diễn biến phức tạp không thể tổ chức dạy học trực tiếp thì tổ chức dạy học trực tuyến và qua truyền hình với nhiều hình thức, phương pháp sáng tạo, lôi cuốn, đem lại hứng thú cho học sinh, sinh viên, có nhiều hình thức thiết thực để hỗ trợ các học sinh, sinh viên có hoàn cảnh khó khăn, biểu dương kịp thời những tấm gương học sinh vượt khó, vươn lên trong học tập, rèn luyện.\nPhối hợp giữa gia đình và nhà trường chăm sóc, giáo dục trẻ em, học sinh, sinh viên bảo đảm an toàn, hiệu quả trong thời gian học trực tuyến, qua truyền hình, giao bài tự học.\nĐộng viên, khích lệ nhà giáo, cán bộ quản lý, người lao động trong ngành Giáo dục, học sinh, sinh viên, học viên và các bậc phụ huynh nâng cao ý thức công dân, tự giác, tích cực tham gia các hoạt động phòng, chống đại dịch COVID-19.\n2. Đối với cán bộ quản lý, giáo viên, giảng viên, nhân viên, học sinh, sinh viên, học viên\nTừng cá nhân thực hiện đồng bộ, đầy đủ các chủ trương, Nghị quyết, Chỉ thị, Kết luận của Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư, Chính phủ, Thủ tướng Chính phủ và các yêu cầu của Bộ Y tế, chính quyền địa phương về công tác phòng, chống đại dịch COVID-19; đồng thời đoàn kết, chung sức đồng lòng vượt qua các khó khăn để thực hiện nhiệm vụ được giao.\nCác cán bộ quản lý, giáo viên, giảng viên tích cực thi đua xây dựng hệ thống bài giảng chất lượng tốt, sản xuất các bài giảng video, kho học liệu điện tử chia sẻ theo hướng tạo lập kho dữ liệu mở dùng chung toàn ngành, tăng tính thích ứng, khả năng tự học và trải nghiệm đối với người học. Thi đua đổi mới, sáng tạo để có thêm nhiều công trình nghiên cứu, sản phẩm khoa học có giá trị thực tiễn tham gia vào hoạt động phòng, chống dịch bệnh, cứu chữa cho người dân.\nHọc sinh, sinh viên, học viên có ý thức chủ động, tích cực, sáng tạo, khắc phục khó khăn, vượt khó vươn lên trong học tập, rèn luyện và khởi nghiệp; có kỷ luật, kỷ cương, ý thức trách nhiệm công dân, xã hội; tích cực tham gia các hoạt động tình nguyện, thiện nguyện vì cộng đồng.\n3. Đối với các cơ quan quản lý giáo dục các cấp\nPhát huy cao độ tinh thần trách nhiệm, giữ gìn kỷ luật, kỷ cương, tinh thần đoàn kết thống nhất, ưu tiên cao nhất mọi nguồn lực để thực hiện công tác phòng, chống đại dịch COVID-19 theo hướng dẫn của Bộ Y tế và quy định của chính quyền địa phương; đồng thời quan tâm công tác cải cách hành chính, bảo đảm chất lượng, hiệu quả giáo dục. Chủ động, sáng tạo xây dựng kế hoạch năm học và hướng dẫn các cơ sở giáo dục tổ chức triển khai hoạt động giáo dục, đào tạo an toàn, linh hoạt; quan tâm hỗ trợ, đôn đốc, kiểm tra việc thực hiện nhiệm vụ và kịp thời giải quyết những vấn đề vướng mắc, nảy sinh trong quá trình thực hiện.\nChú trọng công tác động viên, khích lệ nhà giáo, cán bộ quản lý cơ sở giáo dục, nhân viên, học sinh, sinh viên, học viên và các bậc phụ huynh nâng cao ý thức công dân, tự giác, tích cực tham gia các hoạt động phòng, chống dịch bệnh và chung sức, đồng lòng hỗ trợ lẫn nhau vượt qua khó khăn để hoàn thành tốt nhiệm vụ. Động viên, biểu dương, khen thưởng kịp thời các tập thể, cá nhân đạt thành tích xuất sắc trong công tác phòng, chống đại dịch COVID-19, đẩy mạnh cải cách hành chính và trong thực hiện nhiệm vụ giáo dục, đào tạo; chú trọng đề xuất khen thưởng các tập thể nhỏ, người lao động trực tiếp theo quy định tại Hướng dẫn số 2611/HD-BTĐKT ngày 06 tháng 10 năm 2021 của Ban Thi đua - Khen thưởng Trung ương về việc khen thưởng các tập thể, cá nhân có thành tích xuất sắc trong Phong trào thi đua đặc biệt “Cả nước đoàn kết, chung sức, đồng lòng thi đua phòng, chống và chiến thắng đại dịch COVID-19”.\n4. Đề cao vai trò, trách nhiệm của người đứng đầu cơ sở giáo dục, đơn vị trong công tác chỉ đạo thích ứng an toàn với đại dịch COVID-19 và thực hiện các nhiệm vụ được giao, bảo đảm an toàn cho người học và giáo viên, nhân viên, cán bộ quản lý giáo dục, không để xảy ra tình trạng lây lan dịch bệnh trong nhà trường.\nPhối hợp với Bộ Y tế tổ chức tiêm chủng vắc xin phòng COVID-19 cho nhà giáo, cán bộ quản lý, người lao động trong ngành Giáo dục và học sinh, sinh viên. Tích cực triển khai các hoạt động chăm lo sức khỏe học đường, giữ gìn vệ sinh môi trường, xây dựng trường học xanh, sạch, đẹp, rèn luyện thể dục thể thao, nâng cao khả năng kháng dịch của đội ngũ nhà giáo, cán bộ quản lý, nhân viên, người lao động trong ngành và học sinh, sinh viên, học viên.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Tiêu chí thi đua",
+      "text": "Điều 3. III. TIÊU CHÍ THI ĐUA\n1. Các trường học, các cơ sở giáo dục thi đua thực hiện tốt các nhiệm vụ phòng, chống và thích ứng với đại dịch COVID-19, bảo đảm an toàn trường học và hoàn thành tốt nhiệm vụ giáo dục, đào tạo.\n2. Mỗi cán bộ quản lý, giáo viên, giảng viên, nhân viên, người lao động trong ngành Giáo dục thực hiện đầy đủ các yêu cầu của Bộ Y tế và quy định của chính quyền địa phương về công tác phòng, chống đại dịch COVID-19; đoàn kết, chung sức đồng lòng vượt qua các khó khăn để thực hiện nhiệm vụ được giao; phát huy trí tuệ, sáng tạo của toàn ngành cùng cả nước thực hiện hiệu quả công tác phòng, chống đại dịch COVID-19; có nhiều đổi mới, sáng tạo, lập được thành tích xuất sắc, nổi trội trong công tác giảng dạy, giáo dục học sinh, sinh viên, học viên.\n3. Mỗi học sinh, sinh viên, học viên thực hiện đầy đủ các yêu cầu của Bộ Y tế, quy định của chính quyền địa phương và nhà trường về công tác phòng, chống đại dịch COVID-19; tham gia có hiệu quả các hoạt động phòng, chống đại dịch COVID-19 phù hợp với điều kiện cá nhân; nỗ lực vượt qua khó khăn, đạt thành tích xuất sắc trong học tập, rèn luyện, hoạt động trải nghiệm, sáng tạo, khởi nghiệp.\n4. Người đứng đầu cơ sở giáo dục, đơn vị nêu cao trách nhiệm nêu gương, tinh thần sáng tạo, dám nghĩ, dám làm, áp dụng linh hoạt, chủ động, sáng tạo, đồng bộ các giải pháp để thực hiện nhiệm vụ giáo dục và đào tạo và công tác phòng, chống đại dịch COVID-19, vừa bảo đảm thích ứng an toàn, kiểm soát hiệu quả dịch COVID-19 trong trường học vừa hoàn thành các mục tiêu giáo dục.\n5. Cơ quan quản lý giáo dục các cấp chủ động, sáng tạo, linh hoạt, áp dụng đồng bộ các biện pháp phòng, chống đại dịch COVID-19 phù hợp, bảo đảm an toàn trường học, vừa ra sức phấn đấu khắc phục khó khăn để hoàn thành nhiệm vụ năm học, đáp ứng yêu cầu đẩy mạnh cải cách hành chính và bảo đảm chất lượng giáo dục, đào tạo.\n6. Các tổ chức, đoàn thể, cá nhân đồng hành cùng với các cấp quản lý giáo dục từ Trung ương đến địa phương và các cơ sở giáo dục trong công tác phòng, chống dịch bệnh và bảo đảm hoạt động giáo dục, đào tạo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Đối tượng, hình thức, tiêu chuẩn và thủ tục, hồ sơ khen thưởng",
+      "text": "Điều 4. IV. ĐỐI TƯỢNG, HÌNH THỨC, TIÊU CHUẨN VÀ THỦ TỤC, HỒ SƠ KHEN THƯỞNG\n1. Đối tượng khen thưởng\na) Cá nhân trực tiếp tham gia phòng, chống đại dịch COVID-19 tại tuyến đầu.\nb) Tập thể, cá nhân tham gia hỗ trợ, giúp đỡ công tác phòng, chống đại dịch COVID-19 và thực hiện xuất sắc các hoạt động giáo dục, đào tạo.\nc) Tập thể, cá nhân có ý tưởng mới, sáng tạo, tham gia tuyên truyền, cổ vũ, động viên, trợ giúp hiệu quả công tác phòng, chống đại dịch COVID-19, đẩy mạnh cải cách hành chính và hoàn thành xuất sắc nhiệm vụ giáo dục, đào tạo.\n2. Hình thức và tiêu chuẩn khen thưởng\na) Huân chương Lao động: Để tặng hoặc truy tặng cho cá nhân, tặng cho tập thể có thành tích đặc biệt xuất sắc trong công tác phòng, chống đại dịch COVID-19, có phạm vi ảnh hưởng và nêu gương, lan tỏa trong toàn quốc hoặc có đóng góp lớn về vật chất, phương tiện, trang thiết bị cần thiết, góp phần tích cực vào công tác phòng, chống dịch bệnh và cứu chữa người bệnh, được cấp có thẩm quyền ghi nhận và đánh giá cao.\nb) Huân chương Dũng cảm: Để tặng hoặc truy tặng cho cá nhân có hành động dũng cảm xung phong vào những nơi nguy hiểm do dịch bệnh gây ra nhằm bảo vệ tính mạng của Nhân dân; thành tích đạt được có tác dụng động viên, giáo dục, nêu gương trong phạm vi cấp bộ.\nc) Bằng khen của Thủ tướng Chính phủ: Để tặng cho các tập thể, cá nhân có nhiều thành tích tiêu biểu xuất sắc trong công tác phòng, chống đại dịch COVID-19 hoặc có nhiều đóng góp về vật chất, phương tiện, trang thiết bị; có ý tưởng sáng tạo; tham gia tuyên truyền, cổ vũ, góp phần tích cực vào công tác phòng, chống dịch, được nêu gương trong toàn ngành.\nd) Bằng khen của Bộ trưởng Bộ Giáo dục và Đào tạo: Để tặng cho các tập thể, cá nhân có thành tích xuất sắc trong công tác phòng, chống đại dịch COVID-19 và có nhiều đổi mới, sáng tạo, thành tích nổi trội trong công tác cải cách hành chính, giảng dạy, giáo dục học sinh, sinh viên, học viên; hoặc có đóng góp về vật chất, trang thiết bị hỗ trợ hiệu quả cho ngành Giáo dục trong điều kiện dạy học trực tuyến, được Bộ Giáo dục và Đào tạo ghi nhận.\n3. Thủ tục, hồ sơ khen thưởng\na) Thủ tục\n- Trên cơ sở đối tượng, tiêu chuẩn nêu trên, các cơ quan, tổ chức, đơn vị xét chọn, đề nghị khen thưởng theo nguyên tắc: Cấp nào quản lý về tổ chức, cán bộ, công chức, viên chức, người lao động và quỹ lương thì cấp đó có trách nhiệm khen thưởng hoặc trình cấp trên khen thưởng đối với các đối tượng thuộc phạm vi quản lý. Chú trọng khen thưởng các tập thể ở cơ sở, cá nhân trực tiếp tham gia công tác phòng, chống dịch, có sáng kiến đẩy mạnh cải cách hành chính và thực hiện nhiệm vụ giáo dục, đào tạo, có sức lan tỏa trong ngành và toàn quốc.\n- Việc đề nghị khen thưởng thực hiện theo trình tự, thủ tục đơn giản (quy định tại Điều 55 Nghị định số 91/2017/NĐ-CP ngày 31 tháng 7 năm 2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng.\nb) Hồ sơ đề nghị khen thưởng thực hiện theo thủ tục đơn giản gồm 03 bộ (bản chính), gồm có:\n- Tờ trình đề nghị khen thưởng (kèm theo danh sách các tập thể, cá nhân đề nghị khen thưởng).\n- Bản tóm tắt thành tích của cơ quan, tổ chức, đơn vị quản lý trực tiếp, trong đó thể hiện rõ thành tích, cấp độ và phạm vi ảnh hưởng của thành tích đạt được.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 5. V. TỔ CHỨC THỰC HIỆN\n1. Các đơn vị thuộc Bộ Giáo dục và Đào tạo\na) Vụ Thi đua - Khen thưởng chủ trì, làm đầu mối để theo dõi việc triển khai Kế hoạch này; thực hiện chế độ báo cáo theo quy định; căn cứ tham gia, đóng góp của các tập thể, cá nhân để xét chọn, đề xuất khen thưởng hoặc đề nghị cấp trên khen thưởng; tổng kết Phong trào thi đua đặc biệt này cùng thời gian tổ chức Hội nghị tổng kết năm học.\nb) Các đơn vị thuộc Bộ căn cứ chức năng, nhiệm vụ được giao chủ động, linh hoạt, sáng tạo trong tham mưu để cụ thể hóa và chỉ đạo tổ chức triển khai các nội dung của Phong trào thi đua đặc biệt; đề xuất khen thưởng tập thể, cá nhân có thành tích xuất sắc; theo dõi, đánh giá kết quả thực hiện trong dịp tổng kết năm học.\nc) Văn phòng Bộ chủ trì, phối hợp với Báo Giáo dục và Thời đại, các cơ quan báo chí chủ động tổ chức tuyên truyền, giới thiệu gương điển hình tiên tiến, mô hình hay, cách làm sáng tạo trong thực hiện Phong trào thi đua đặc biệt.\n2. Các sở giáo dục và đào tạo\nChỉ đạo các phòng giáo dục và đào tạo, các đơn vị trực thuộc sở tổ chức quán triệt các nội dung trong Kế hoạch này đến toàn thể cán bộ, giáo viên, nhân viên và học sinh, học viên; căn cứ các nội dung của Kế hoạch này và chỉ đạo của Ủy ban nhân dân cấp tỉnh để xây dựng kế hoạch cụ thể với những nhiệm vụ, giải pháp linh hoạt, sáng tạo và tổ chức thực hiện, báo cáo kết quả về Bộ Giáo dục và Đào tạo vào dịp tổng kết năm học.\n3. Các đại học, học viện, trường đại học, trường cao đẳng sư phạm\nTổ chức quán triệt các nội dung trong kế hoạch này đến toàn thể cán bộ, giảng viên, nhân viên, sinh viên; căn cứ các nội dung của Kế hoạch này và chỉ đạo của cơ quan quản lý trực tiếp để xây dựng kế hoạch cụ thể và tổ chức thực hiện, báo cáo kết quả về Bộ Giáo dục và Đào tạo vào dịp tổng kết năm học.\n4. Đề nghị Công đoàn Giáo dục Việt Nam, Hội Khuyến học Việt Nam có các đề xuất sáng tạo, chung tay, góp sức, chia sẻ, đồng hành cùng ngành Giáo dục trong công tác phòng, chống dịch COVID-19 và thực hiện phát triển giáo dục và đào tạo.\nTrong quá trình triển khai thực hiện kế hoạch, nếu có khó khăn, vướng mắc hoặc cần sửa đổi, bổ sung những nội dung cụ thể, Thủ trưởng các đơn vị đề xuất, gửi Vụ Thi đua - Khen thưởng tổng hợp, báo cáo Bộ trưởng xem xét, quyết định.",
+      "isImplementationClause": true
+    }
+  ]
+}

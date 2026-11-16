@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0289_4996_QĐ-BGDDT_Quyết định ban hành quy chế ban hành bình chọn Nhà giáo tiêu biểu của năm.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. Hết hiệu lực: bị thay thế theo 2040/QĐ-BGDĐT.",
+  "document": {
+    "documentNumber": "4996/QĐ-BGDĐT",
+    "title": "Quyết định Về việc ban hành Quy chế bình chọn “Nhà giáo tiêu biểu của năm”",
+    "documentType": "Quyết định",
+    "status": "HET_HIEU_LUC",
+    "issueDate": "31/12/2021",
+    "effectiveDate": "31/12/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Quyết định ban hành Quy chế bình chọn “Nhà giáo tiêu biểu của năm” nhằm ghi nhận, tôn vinh các nhà giáo và cán bộ quản lý cơ sở giáo dục có đóng góp đặc biệt xuất sắc, tạo sức lan tỏa trong toàn ngành giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "69/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 91/2017/NĐ-CP ngày 31 tháng 7 năm 2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "21/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 21/2020/TT-BGDĐT ngày 31 tháng 7 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn công tác thi đua, khen thưởng ngành Giáo dục;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Công đoàn Giáo dục Việt Nam",
+    "Báo Giáo dục và Thời đại"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế Bình chọn “Nhà giáo tiêu biểu của năm”",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "MỤC ĐÍCH, Ý NGHĨA",
+          "text": "I. MỤC ĐÍCH, Ý NGHĨA\nViệc bình chọn “Nhà giáo tiêu biểu của năm” được thực hiện hằng năm nhằm ghi nhận, tôn vinh các nhà giáo và cán bộ quản lý cơ sở giáo dục có đóng góp đặc biệt xuất sắc, tạo ra những chuyển biến tích cực, hiệu quả trong đơn vị, có sức lan tỏa trong toàn ngành, qua đó tạo động lực thúc đẩy tinh thần đổi mới, sáng tạo của đội ngũ nhà giáo và cán bộ quản lý cơ sở giáo dục trong cả nước, góp phần thực hiện thành công đổi mới căn bản, toàn diện giáo dục và đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "QUY ĐỊNH CHUNG",
+          "text": "II. QUY ĐỊNH CHUNG\n1. Đối tượng bình chọn\nGiáo viên, giảng viên, cán bộ quản lý giáo dục thuộc các cơ sở giáo dục mầm non, giáo dục phổ thông, giáo dục thường xuyên, giáo dục đại học, trường cao đẳng sư phạm, trường chuyên biệt và các cơ sở giáo dục khác thuộc phạm vi quản lý nhà nước của Bộ Giáo dục và Đào tạo, bao gồm các cơ sở công lập và ngoài công lập (sau đây gọi chung là nhà giáo).\n2. Số lượng đề cử tham gia bình chọn hằng năm\na) Mỗi Sở Giáo dục và Đào tạo: Đề cử không quá 05 nhà giáo đại diện cho các cấp học (mầm non, tiểu học, trung học cơ sở, trung học phổ thông, giáo dục thường xuyên), trong đó không quá 01 cá nhân là cán bộ quản lý cơ sở giáo dục.\nb) Mỗi cơ sở giáo dục đại học (kể cả các cơ sở giáo dục đại học là đơn vị thành viên thuộc các đại học quốc gia, đại học vùng), trường cao đẳng sư phạm; đơn vị trực thuộc Bộ Giáo dục và Đào tạo: Đề cử 01 nhà giáo (nếu có).\nc) Công đoàn Giáo dục Việt Nam, các cơ quan truyền thông, các đơn vị thuộc Cơ quan Bộ Giáo dục và Đào tạo giới thiệu những tấm gương tiêu biểu, được phát hiện trong thực hiện nhiệm vụ.\n3. Số lượng “Nhà giáo tiêu biểu của năm” được bình chọn và khen thưởng\na) Số lượng: 200 “Nhà giáo tiêu biểu của năm” do Hội đồng bình chọn của Bộ Giáo dục và Đào tạo quyết định.\nb) Khen thưởng: “Nhà giáo tiêu biểu của năm” được nhận Bằng khen và quà tặng của Bộ trưởng Bộ Giáo dục và Đào tạo, đồng thời được mời tham dự các hoạt động “Tri ân Nhà giáo” vào tháng 11 hằng năm.\nc) Nguồn kinh phí khen thưởng: Từ nguồn ngân sách nhà nước và các nhà tài trợ.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "NGUYÊN TẮC ĐỀ CỬ, BÌNH CHỌN",
+          "text": "III. NGUYÊN TẮC ĐỀ CỬ, BÌNH CHỌN\n1. Bảo đảm công khai, minh bạch, dân chủ và tự nguyện trong việc đề cử, bình chọn.\n2. Tôn vinh các nhà giáo tâm huyết với nghề, có nhiều đổi mới, sáng tạo trong giảng dạy, hoạt động giáo dục và quản lý học sinh sinh viên, được đồng nghiệp, người học tín nhiệm. Ưu tiên đề cử, bình chọn các nhà giáo công tác tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "IV",
+          "heading": "TIÊU CHUẨN ĐỀ CỬ, BÌNH CHỌN",
+          "text": "IV. TIÊU CHUẨN ĐỀ CỬ, BÌNH CHỌN\n1. Có phẩm chất chính trị vững vàng, có đạo đức, lối sống giản dị, mẫu mực; chấp hành nghiêm các chủ trương, chính sách của Đảng và pháp luật của Nhà nước, nội quy, quy chế làm việc của đơn vị và tại địa phương nơi cư trú.\n2. Có tinh thần trách nhiệm cao trong công việc và trong cuộc sống, được đồng nghiệp, người học tín nhiệm; chủ động, sáng tạo, linh hoạt trong thực hiện nhiệm vụ chuyên môn, khắc phục khó khăn để hoàn thành xuất sắc nhiệm vụ được giao.\n3. Là tấm gương điển hình, đạt thành tích tiêu biểu, sáng tạo trong năm học, góp phần tạo ra những chuyển biến tích cực, hiệu quả trong đơn vị, có sức lan tỏa tại địa phương và trong toàn ngành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "V",
+          "heading": "QUY TRÌNH ĐỀ CỬ, BÌNH CHỌN",
+          "text": "V. QUY TRÌNH ĐỀ CỬ, BÌNH CHỌN\n1. Đối với các Sở Giáo dục và Đào tạo\na) Căn cứ điều kiện thực tế của địa phương để xây dựng tiêu chuẩn, kế hoạch bình chọn, đề cử nhà giáo, bảo đảm phù hợp đối với từng cấp học; tổ chức bình chọn, đề cử nhà giáo, bảo đảm dân chủ, khách quan, đúng tiêu chuẩn, đúng đối tượng.\nb) Công khai danh sách đề cử được bình chọn trên Cổng Thông tin điện tử của Sở Giáo dục và Đào tạo trong vòng 07 ngày làm việc trước khi gửi đề nghị về Bộ Giáo dục và Đào tạo.\n2. Đối với các cơ sở giáo dục đại học, trường cao đẳng sư phạm không trực thuộc Bộ Giáo dục và Đào tạo\na) Xây dựng tiêu chuẩn, kế hoạch và tổ chức bình chọn, đề cử nhà giáo đáp ứng tiêu chuẩn từ các đơn vị thuộc và trực thuộc.\nb) Công khai danh sách đề cử được bình chọn trên Cổng Thông tin điện tử của đơn vị trong vòng 07 ngày làm việc trước khi gửi báo cáo, đề xuất cơ quan quản lý cấp trên trực tiếp để xét duyệt, gửi đề nghị về Bộ Giáo dục và Đào tạo.\n3. Đối với các đơn vị trực thuộc Bộ Giáo dục và Đào tạo\na) Xây dựng tiêu chuẩn, kế hoạch và tổ chức bình chọn, đề cử nhà giáo đáp ứng tiêu chuẩn từ các đơn vị thuộc và trực thuộc.\nb) Công khai danh sách đề cử được lựa chọn trên Cổng Thông tin điện tử của đơn vị trong vòng 07 ngày làm việc trước khi gửi đề nghị về Bộ Giáo dục và Đào tạo.\n4. Công đoàn Giáo dục Việt Nam, các cơ quan truyền thông, các đơn vị thuộc Cơ quan Bộ Giáo dục và Đào tạo giới thiệu những nhà giáo tiêu biểu đáp ứng tiêu chuẩn. Bộ Giáo dục và Đào tạo công khai danh sách nhà giáo được giới thiệu trên Cổng Thông tin điện tử của Bộ và của Báo Giáo dục và Thời đại trong vòng 07 ngày làm việc trước khi tổ chức bình chọn.\n5. Tổ chức bình chọn tại Bộ Giáo dục và Đào tạo\nThành lập Hội đồng bình chọn của Bộ Giáo dục và Đào tạo do 01 Thứ trưởng làm Chủ tịch Hội đồng; các ủy viên Hội đồng là người đứng đầu các đơn vị: Công đoàn Giáo dục Việt Nam, Cục Nhà giáo và Cán bộ quản lý giáo dục, Vụ Giáo dục Mầm non, Vụ Giáo dục Tiểu học, Vụ Giáo dục Trung học, Vụ Giáo dục thường xuyên, Vụ Giáo dục Đại học, Vụ Khoa học, Công nghệ và Môi trường, Vụ Thi đua - Khen thưởng, Văn phòng, Báo Giáo dục và Thời đại. Hội đồng có tổ Thư ký giúp việc do Chủ tịch Hội đồng quyết định thành lập.\nVụ Thi đua - Khen thưởng là đơn vị đầu mối, có trách nhiệm tiếp nhận hồ sơ đề cử, cùng Tổ thư ký tổng hợp, rà soát, phân loại hồ sơ theo cấp học để báo cáo Hội đồng.\nTrên cơ sở các hồ sơ đề cử nhận được, Hội đồng bình chọn xem xét, lựa chọn 200 “Nhà giáo tiêu biểu của năm”, bảo đảm tỷ lệ cân đối cho từng cấp học (mỗi cấp học khoảng 30 nhà giáo, trong đó cán bộ quản lý cơ sở giáo dục không vượt quá 10%, tương đương không quá 3 nhà giáo/1 cấp học và ưu tiên xem xét tối đa 20 cá nhân trong số các nhà giáo do Công đoàn Giáo dục Việt Nam, các cơ quan truyền thông, các đơn vị thuộc Cơ quan Bộ Giáo dục và Đào tạo giới thiệu).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VI",
+          "heading": "HỒ SƠ ĐỀ NGHỊ BÌNH CHỌN",
+          "text": "VI. HỒ SƠ ĐỀ NGHỊ BÌNH CHỌN\n1. Hồ sơ đề nghị bình chọn gồm:\na) Công văn đề cử của các cơ quan, đơn vị;\nb) Bản tóm tắt thành tích của từng cá nhân được đề cử, trong đó nêu rõ những việc làm cụ thể, thành tích đặc biệt xuất sắc đã đạt được trong năm học và minh chứng (theo mẫu gửi kèm).\n2. Thời gian gửi hồ sơ: Trước ngày 30 tháng 8 hằng năm. Nơi nhận: Bộ Giáo dục và Đào tạo (qua Vụ Thi đua - Khen thưởng), 35 Đại Cồ Việt, Quận Hai Bà Trưng, thành phố Hà Nội.\nTrong quá trình thực hiện Quy chế này, nếu có khó khăn vướng mắc cần làm rõ đề nghị liên hệ với Vụ Thi đua - Khen thưởng, Bộ Giáo dục và Đào tạo qua email: vutdkt@moet.gov.vn để phối hợp xử lý.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Mẫu tóm tắt thành tích",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "SƠ LƯỢC TIỂU SỬ BẢN THÂN",
+          "text": "I. SƠ LƯỢC TIỂU SỬ BẢN THÂN\n1. Họ và tên: ................................................................................. Giới tính : ....................\n2. Ngày, tháng năm sinh: ....................................................................................................\n3. Nơi công tác:...................................................................................................................\n4. Chức vụ hiện tại: .............................................................................................................\n5. Trình độ, chuyên ngành đào tạo: ....................................................................................\n6. Học hàm, học vị: .............................................................................................................\n7. Số căn cước công dân hoặc chứng minh thư: ...................................................................\n8. Điện thoại liên hệ: ....................................................Địa chỉ email cá nhân:.......................",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "TÓM TẮT THÀNH TÍCH ĐẠT ĐƯỢC",
+          "text": "II. TÓM TẮT THÀNH TÍCH ĐẠT ĐƯỢC\n1. Sơ lược thành tích của tập thể (áp dụng đối với người đứng đầu)\n2. Nêu bật thành tích nổi trội, đặc biệt xuất sắc (kèm minh chứng)",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế bình chọn “Nhà giáo tiêu biểu của năm” để tri ân các nhà giáo vào dịp 20/11.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế bình chọn “Nhà giáo tiêu biểu của năm” để tri ân các nhà giáo vào dịp 20/11.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Thi đua - Khen thưởng, Giám đốc Sở Giáo dục và Đào tạo, Giám đốc Sở Giáo dục, Khoa học và Công nghệ tỉnh Bạc Liêu, Giám đốc đại học, học viện, Hiệu trưởng trường đại học,",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Thi đua - Khen thưởng, Giám đốc Sở Giáo dục và Đào tạo, Giám đốc Sở Giáo dục, Khoa học và Công nghệ tỉnh Bạc Liêu, Giám đốc đại học, học viện, Hiệu trưởng trường đại học, trường cao đẳng sư phạm, Thủ trưởng đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

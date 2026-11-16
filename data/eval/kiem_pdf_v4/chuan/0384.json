@@ -1,0 +1,210 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0384_5007_QĐ-ĐHĐN_Ban hành danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm căn cứ 32/CP, 99/2019/NĐ-CP, 10/2020/TT-BGDĐT, 20/2020/TT-BGDĐT, 08/NQ-HĐĐH, 13/NQ-HĐĐH (thiếu trong JSON) theo PDF gốc trang 1-2. citations thêm AMENDS 3237/QĐ-ĐHĐN (Điều 2 bãi bỏ mục 8 và 9 của Bảng 3 Phụ lục ban hành kèm Quyết định này) theo PDF gốc trang 2.",
+  "document": {
+    "documentNumber": "5007/QĐ-ĐHĐN",
+    "title": "Quyết định Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng cho các đơn vị thuộc, trực thuộc Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/12/2024",
+    "effectiveDate": "05/12/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Quyết định ban hành danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng, đồng thời bãi bỏ một số mục cũ tại Quyết định số 3237/QĐ-ĐHĐN.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "3237/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3237/QĐ-ĐHĐN ngày 31 tháng 7 năm 2023 của Giám đốc Đại học Đà Nẵng ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "4766/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 32/CP ngày 4 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chế độ làm việc của giảng viên cơ sở giáo dục đại học;",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "3237/QĐ-ĐHĐN",
+      "relationType": "AMENDS",
+      "context": "Điều 2. Bãi bỏ mục 8 và 9 của Bảng 3, Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN.",
+      "targetArticle": null
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Bảng 1: Quy đổi số giờ nghiên cứu khoa học (NCKH) đối với kết quả NCKH khác",
+          "text": "1. Bài báo được đăng trên tạp chí/Kỷ yếu: Tạp chí ACI (1.25 điểm, 750 giờ); Tạp chí quốc tế khác và các tạp chí trong danh mục hiện hành của Hội đồng Giáo sư nhà nước (HĐGSNN) (tối đa 1.2 điểm, 600 x số điểm quy đổi); Tạp chí có ISSN khác (0.2 điểm, 120 giờ); Kỷ yếu hội thảo trong cơ sở dữ liệu WoS (1.3 điểm, 780 giờ); Kỷ yếu hội thảo trong cơ sở dữ liệu Scopus (1.2 điểm, 720 giờ); Kỷ yếu hội thảo quốc tế có ISBN (0.8 điểm, 480 giờ); Kỷ yếu hội thảo quốc gia có ISBN (0.5 điểm, 300 giờ); Kỷ yếu hội thảo khác có ISBN (0.2 điểm, 120 giờ); Kỷ yếu hội thảo khác không có ISBN (0.1 điểm, 60 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Sở hữu trí tuệ (SHTT)",
+          "text": "Bằng độc quyền sáng chế (3 điểm, 1800 giờ); Bằng độc quyền giải pháp hữu ích (2 điểm, 1200 giờ); Các loại hình khác (1.5 điểm, 900 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Sáng kiến",
+          "text": "Sáng kiến được công nhận cấp cơ sở (0.25 điểm, 150 giờ); cấp bộ (0.5 điểm, 300 giờ); cấp nhà nước (0.7 điểm, 420 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "Xuất bản/ Tái xuất bản sách/ giáo trình",
+          "text": "Sách chuyên khảo (3 điểm, 1800 giờ); Giáo trình (2 điểm, 1200 giờ); Sách tham khảo/ sách bài tập (1.5 điểm, 900 giờ); Chương sách tiếng nước ngoài WoS (1 điểm, 600 giờ); Chương sách tiếng nước ngoài Scopus (0.75 điểm, 450 giờ); Tài liệu dạy học, huấn luyện, điều lệ (0.5 điểm, 300 giờ). Các loại sách tái bản tính theo hệ số b.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "Nhiệm vụ KHCN / đổi mới sáng tạo (ĐMST)",
+          "text": "Quy định điểm và giờ quy đổi cho việc đề xuất và hoàn thành các nhiệm vụ KHCN/ĐMST từ cấp cơ sở đến cấp nhà nước/quốc gia.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "Tham gia Hội đồng xét duyệt",
+          "text": "Hội đồng đề tài cấp cơ sở (0.03 điểm, 18 giờ); cấp ĐHĐN/Bộ/Tỉnh (0.04 điểm, 24 giờ); cấp quốc gia/nhà nước (0.05 điểm, 30 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": "Tham gia thực hiện hợp đồng chuyển giao công nghệ",
+          "text": "Tính theo giá trị hợp đồng/300 triệu đồng, quy đổi 600 giờ/m (tối đa 1800 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": "Giải thưởng KHCN và hướng dẫn",
+          "text": "Giải thưởng từ cấp cơ sở đến quốc tế (từ 0.15 đến 1 điểm); Giảng viên hướng dẫn đề tài không đạt giải (0.05 điểm, 30 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": "Hội đồng chấm thi",
+          "text": "Hội đồng chấm thi cấp cơ sở (0.02 điểm, 12 giờ); cấp ĐHĐN/thành phố (0.03 điểm, 18 giờ); cấp bộ/quốc gia (0.04 điểm, 24 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": "Báo cáo khoa học tại đơn vị",
+          "text": "Báo cáo tại cấp đơn vị cấu thành (0.02 điểm, 12 giờ); cấp Khoa/Bộ môn (0.03 điểm, 18 giờ); cấp cơ sở (0.05 điểm, 30 giờ); Tạp chí WoS/Scopus (0.1 điểm, 60 giờ); Tạp chí KHCN - ĐHĐN (0.075 điểm, 45 giờ).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": "Công tác phản biện khoa học",
+          "text": "Quy định điểm và giờ quy đổi cho phản biện tạp chí, kỷ yếu, sách, giáo trình và tài liệu dạy học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": "Tham vấn/góp ý chính sách",
+          "text": "Cấp Trung ương (0.15 điểm, 90 giờ); cấp Bộ, Thành phố (0.075 điểm, 45 giờ); cấp ĐHĐN, Sở, Ban ngành (0.05 điểm, 30 giờ); cấp đơn vị thuộc, trực thuộc (0.03 điểm, 18 giờ).",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng ch",
+      "text": "Điều 1. Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng cho các đơn vị thuộc, trực thuộc Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Bãi bỏ mục 8 và 9 của Bảng 3, Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN.",
+      "text": "Điều 2. Bãi bỏ mục 8 và 9 của Bảng 3, Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký và áp dụng từ năm học 2024-2025.",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký và áp dụng từ năm học 2024-2025.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Trưởng các Ban chức năng của Đại học Đà Nẵng, Thủ trưởng các đơn vị thuộc, trực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 4. Chánh Văn phòng, Trưởng các Ban chức năng của Đại học Đà Nẵng, Thủ trưởng các đơn vị thuộc, trực thuộc và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0375_346_QĐ-TTg_Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa từ BASED_ON 19/2015/QH13, BASED_ON 65/2020/QH14 thành (bỏ, căn cứ chỉ ghi tên luật và ngày, số hiệu do model tự điền) theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "346/QĐ-TTg",
+    "title": "Quyết định Ban hành Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "06/04/2023",
+    "effectiveDate": "06/04/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Pháp chế"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Quyết định ban hành Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở nhằm xác định cụ thể nội dung công việc, thời hạn, tiến độ hoàn thành và trách nhiệm của các cơ quan, tổ chức trong việc triển khai thi hành Luật.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trần Lưu Quang",
+      "academicTitle": null,
+      "position": [
+        "Phó Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "10/2022/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Thực hiện dân chủ ở cơ sở ngày 10 tháng 11 năm 2022"
+    }
+  ],
+  "mentions": [
+    "Bộ Nội vụ",
+    "Bộ Thông tin và Truyền thông",
+    "Đài Tiếng nói Việt Nam",
+    "Đài Truyền hình Việt Nam",
+    "Thông tấn xã Việt Nam",
+    "Bộ Tài chính",
+    "Bộ Quốc phòng",
+    "Bộ Công an",
+    "Bộ Văn hóa, Thể thao và Du lịch",
+    "Bộ Tư pháp",
+    "Bộ Lao động - Thương binh và Xã hội",
+    "Thanh tra Chính phủ",
+    "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+    "Tổng Liên đoàn Lao động Việt Nam",
+    "Văn phòng Quốc hội",
+    "Văn phòng Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Kế hoạch Triển khai thi hành Luật Thực hiện dân chủ ở cơ sở",
+      "contentType": "Kế hoạch",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "MỤC ĐÍCH, YÊU CẦU",
+          "text": "I. MỤC ĐÍCH, YÊU CẦU. 1. Mục đích: a) Xác định cụ thể nội dung công việc, thời hạn, tiến độ hoàn thành và trách nhiệm của các cơ quan, tổ chức có liên quan trong việc triển khai thi hành Luật, bảo đảm kịp thời, đồng bộ, thống nhất, hiệu lực, hiệu quả. b) Xác định trách nhiệm và cơ chế phối hợp giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và các địa phương trong việc tiến hành các hoạt động triển khai thi hành Luật trên phạm vi cả nước. c) Nâng cao nhận thức về Luật và trách nhiệm của các cấp, các ngành, Nhân dân và các tỉnh, thành phố trực thuộc trung ương trong việc thi hành Luật. 2. Yêu cầu: a) Bảo đảm sự chỉ đạo thống nhất của Chính phủ, Thủ tướng Chính phủ; sự phối hợp chặt chẽ, thường xuyên, hiệu quả giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức liên quan trong việc triển khai thi hành Luật. b) Nội dung công việc phải gắn với trách nhiệm, vai trò của cơ quan, đơn vị được phân công chủ trì trong việc phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và các cơ quan, tổ chức liên quan trong việc triển khai thi hành Luật. c) Xác định lộ trình cụ thể để bảo đảm từ ngày 01 tháng 7 năm 2023, Luật và các văn bản quy định chi tiết hướng dẫn thi hành Luật được thực hiện thống nhất, đồng bộ trên phạm vi cả nước. d) Thường xuyên kiểm tra, đôn đốc, hướng dẫn, kịp thời những khó khăn, vướng mắc trong quá trình tổ chức thực hiện triển khai thi hành Luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "NỘI DUNG",
+          "text": "II. NỘI DUNG. 1. Tổ chức quán triệt, tuyên truyền, phổ biến và tập huấn nội dung Luật. 2. Xây dựng văn bản quy định chi tiết và biện pháp thi hành Luật; xây dựng Quy chế thực hiện dân chủ ở cơ sở. 3. Tổ chức rà soát các văn bản quy phạm pháp luật hiện hành liên quan đến thực hiện dân chủ ở cơ sở; đề xuất sửa đổi, bổ sung, thay thế, bãi bỏ những quy định không còn phù hợp, hết hiệu lực thi hành hoặc ban hành mới các văn bản quy phạm pháp luật để bảo đảm tính thống nhất, đồng bộ với Luật. 4. Tổ chức theo dõi, kiểm tra và báo cáo kết quả thi hành Luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "TỔ CHỨC THỰC HIỆN",
+          "text": "III. TỔ CHỨC THỰC HIỆN. 1. Bộ trưởng Bộ Nội vụ có trách nhiệm giúp Thủ tướng Chính phủ tổng hợp, theo dõi, hướng dẫn, kiểm tra, đôn đốc các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và địa phương triển khai thực hiện nhiệm vụ được nêu trong Kế hoạch; báo cáo Thủ tướng Chính phủ kết quả thực hiện Kế hoạch. 2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thực hiện Kế hoạch này. Căn cứ nội dung Kế hoạch này và tình hình thực tiễn, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương xây dựng Kế hoạch chi tiết triển khai thi hành Luật trong phạm vi quản lý của bộ, ngành và địa phương mình. Hằng năm, trước ngày 01 tháng 12 hoặc đột xuất báo cáo kết quả thực hiện về Bộ Nội vụ để tổng hợp, báo cáo Thủ tướng Chính phủ. 3. Đề nghị Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Tổng Liên đoàn Lao động Việt Nam theo chức năng, nhiệm vụ xây dựng Kế hoạch để triển khai thi hành Luật Thực hiện dân chủ ở cơ sở bảo đảm hiệu quả, thiết thực. 4. Kinh phí bảo đảm để triển khai thực hiện Kế hoạch được bố trí từ ngân sách nhà nước theo phân cấp ngân sách nhà nước hiện hành trong dự toán chi thường xuyên hằng năm và các nguồn khác theo quy định của pháp luật. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan tổ chức có liên quan và địa phương được phân công chủ trì, phối hợp thực hiện nhiệm vụ cụ thể quy định trong Kế hoạch này có trách nhiệm lập dự toán ngân sách nhà nước hằng năm, báo cáo cơ quan có thẩm quyền phê duyệt theo quy định của Luật Ngân sách nhà nước. Bộ Tài chính và Ủy ban nhân dân các cấp có trách nhiệm bố trí, bảo đảm ngân sách nhà nước để thực hiện Kế hoạch này. 5. Trong quá trình triển khai thực hiện Kế hoạch nếu có khó khăn, vướng mắc, đề nghị các bộ, ban, ngành, đoàn thể và địa phương kịp thời phản ánh về Bộ Nội vụ để tổng hợp hướng dẫn hoặc trình cấp có thẩm quyền xem xét, quyết định./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch triển khai thi hành Luật Thực hiện dân chủ ở cơ sở.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi",
+      "text": "Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này./",
+      "isImplementationClause": true
+    }
+  ]
+}

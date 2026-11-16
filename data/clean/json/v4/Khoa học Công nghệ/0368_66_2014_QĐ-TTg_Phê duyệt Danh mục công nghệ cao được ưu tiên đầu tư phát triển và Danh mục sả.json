@@ -1,0 +1,1127 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0368_66_2014_QĐ-TTg_Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sả.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa từ BASED_ON \"25/12/2001\", BASED_ON \"13/11/2008\" thành (bỏ, luật chỉ ghi ngày, không số hiệu) theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "66/2014/QĐ-TTg",
+    "title": "Quyết định về việc phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "25/11/2014",
+    "effectiveDate": "15/01/2015",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ"
+    ],
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Quyết định phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển. Văn bản này thay thế Quyết định số 49/2010/QĐ-TTg.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Thủ tướng Chính phủ",
+    "orgType": "thu_tuong",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Tấn Dũng",
+      "academicTitle": null,
+      "position": [
+        "Thủ tướng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "49/2010/QĐ-TTg",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01 năm 2015 và thay thế Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 7 năm 2010 của Thủ tướng Chính phủ"
+    }
+  ],
+  "mentions": [
+    "Bộ Khoa học và Công nghệ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục I: Công nghệ cao được ưu tiên đầu tư phát triển",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Công nghệ thiết kế, chế tạo các vi mạch điện tử tích hợp (IC);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Công nghệ thiết kế, chế tạo màn hình độ phân giải cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Công nghệ phát triển hệ điều hành cho máy tính và các thiết bị di động, hệ quản trị cơ sở dữ liệu, phần mềm nền tảng cung cấp dịch vụ giá trị gia tăng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Công nghệ thiết kế, chế tạo các hệ thống nhúng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Công nghệ đảm bảo an ninh, an toàn mạng và bảo mật thông tin ở mức cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Công nghệ trí tuệ nhân tạo;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Công nghệ tính toán phân tán và tính toán hiệu năng cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Công nghệ dữ liệu lớn và xử lý dữ liệu lớn;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Công nghệ mạng thế hệ sau (NGN, LTE-A, IMT-advanced);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Công nghệ ảo hóa và tính toán đám mây;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "11. Công nghệ truyền hình số thế hệ thứ 2 và các thế hệ sau;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "12. Công nghệ truyền hình tương tác, công nghệ truyền hình lai ghép;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "13. Công nghệ điện tử linh hoạt (FE);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "14. Công nghệ tin sinh học;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "15. Công nghệ thiết kế, chế tạo các thiết bị điều khiển, bộ biến đổi điện tử công suất dùng cho ngành điện, ngành cơ khí chế tạo;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "16. Công nghệ chuyển hóa và lưu trữ các nguồn năng lượng tái tạo;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "17. Công nghệ hàng không, vũ trụ;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "18. Công nghệ thiết kế, chế tạo các cơ cấu chấp hành, các bộ điều khiển và giám sát tự động cho các hệ thống thiết bị đồng bộ trong các nhà máy lọc hóa dầu, nhà máy điện, nhà máy xi măng, dây chuyền sản xuất thực phẩm, dược phẩm, phân bón, chế biến nông, lâm, thủy, hải sản và công trình thủy;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "19. Công nghệ thiết kế, chế tạo thiết bị và dụng cụ đo lường thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "20. Công nghệ thiết kế, chế tạo robot;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "21. Công nghệ thiết kế và sản xuất nhờ máy tính (CAD/CAM/CAE), công nghệ sản xuất linh hoạt (FMS), công nghệ sản xuất tích hợp (CIM) để sản xuất sản phẩm có độ phức tạp cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": null,
+          "text": "22. Công nghệ điều khiển độ chính xác gia công cơ khí;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": null,
+          "text": "23. Công nghệ thiết kế, chế tạo, lắp ráp hạ thủy giàn khoan và các kết cấu siêu trường siêu trọng phục vụ ngành dầu khí;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": null,
+          "text": "24. Công nghệ khoan thế hệ mới trong thăm dò dầu khí;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": null,
+          "text": "25. Công nghệ thiết kế, chế tạo tàu thủy cỡ lớn và tàu có tính năng phức tạp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": null,
+          "text": "26. Công nghệ thiết kế, chế tạo máy nông nghiệp thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "27",
+          "heading": null,
+          "text": "27. Công nghệ thiết kế, chế tạo khuôn mẫu kỹ thuật độ chính xác cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "28",
+          "heading": null,
+          "text": "28. Công nghệ thiết kế, chế tạo các hệ thống thiết bị quang học tiên tiến;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "29",
+          "heading": null,
+          "text": "29. Công nghệ thiết kế, chế tạo các thiết bị phục vụ chẩn đoán và điều trị bằng hình ảnh dùng trong y tế, thiết bị y tế sử dụng công nghệ hạt nhân, thiết bị tiêm truyền dịch tự động;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "30",
+          "heading": null,
+          "text": "30. Công nghệ gia công vật liệu bằng siêu âm, tia lửa điện, plasma, laser;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "31",
+          "heading": null,
+          "text": "31. Công nghệ xử lý bề mặt và hàn trong môi trường đặc biệt;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "32",
+          "heading": null,
+          "text": "32. Công nghệ tiệt khuẩn nhiệt độ thấp; công nghệ xử lý chất thải rắn y tế nguy hại bằng microwave, plasma;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "33",
+          "heading": null,
+          "text": "33. Công nghệ thiết kế, chế tạo hệ thống vi cơ điện tử (MEMS), hệ thống nanô cơ điện tử (NEMS) và cảm biến theo nguyên lý mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "34",
+          "heading": null,
+          "text": "34. Công nghệ gen ứng dụng trong chẩn đoán, giám định, điều trị;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "35",
+          "heading": null,
+          "text": "35. Công nghệ chế tạo, sản xuất vắc-xin tái tổ hợp, protein tái tổ hợp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "36",
+          "heading": null,
+          "text": "36. Công nghệ tế bào gốc ứng dụng trong tái tạo mô và cơ quan;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "37",
+          "heading": null,
+          "text": "37. Công nghệ tế bào mô, phôi động vật; công nghệ nuôi cấy mô tế bào thực vật;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "38",
+          "heading": null,
+          "text": "38. Công nghệ chế tạo, sản xuất kháng thể đơn dòng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "39",
+          "heading": null,
+          "text": "39. Công nghệ Genomics, Proteomics, Metabolomics;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "40",
+          "heading": null,
+          "text": "40. Công nghệ vi sinh phục vụ xử lý ô nhiễm môi trường;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "41",
+          "heading": null,
+          "text": "41. Công nghệ chế tạo, sản xuất các chế phẩm sinh học thế hệ mới phục vụ bảo quản, chế biến nông, lâm, thủy sản và dược liệu;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "42",
+          "heading": null,
+          "text": "42. Công nghệ sản xuất các loại thuốc bảo vệ thực vật, thuốc kích dục tố thủy sản, phân bón thế hệ mới đạt tiêu chuẩn quốc tế;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "43",
+          "heading": null,
+          "text": "43. Công nghệ chế tạo vật liệu bán dẫn, quang điện tử, quang tử và siêu vật liệu biến hóa (metamaterials);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "44",
+          "heading": null,
+          "text": "44. Công nghệ chế tạo vật liệu từ cao cấp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "45",
+          "heading": null,
+          "text": "45. Công nghệ sản xuất hợp kim đặc biệt;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "46",
+          "heading": null,
+          "text": "46. Công nghệ điện phân nhôm với dòng điện 500 KA;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "47",
+          "heading": null,
+          "text": "47. Công nghệ chiết trong sản xuất vật liệu siêu sạch ở quy mô công nghiệp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "48",
+          "heading": null,
+          "text": "48. Công nghệ chế tạo vật liệu siêu bền, siêu nhẹ, thân thiện với môi trường hoặc sử dụng trong môi trường khắc nghiệt;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "49",
+          "heading": null,
+          "text": "49. Công nghệ sản xuất vật liệu polyme tổ hợp và composite nền cao phân tử chất lượng cao, bền với khí hậu nhiệt đới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "50",
+          "heading": null,
+          "text": "50. Công nghệ sản xuất polyme sinh học có khả năng tự phân hủy;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "51",
+          "heading": null,
+          "text": "51. Công nghệ chế tạo sơn chuyên dụng cao cấp, thân thiện với môi trường;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "52",
+          "heading": null,
+          "text": "52. Công nghệ vật liệu xúc tác, hấp thụ để tái chế cặn dầu và dầu thải tạo ra các sản phẩm dầu gốc có phẩm cấp từ API nhóm II (hoặc tương đương) trở lên;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "53",
+          "heading": null,
+          "text": "53. Công nghệ chế tạo cao su kỹ thuật cao cấp chuyên dụng cho chế tạo máy, điện, điện tử, an ninh quốc phòng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "54",
+          "heading": null,
+          "text": "54. Công nghệ sản xuất gốm sứ kỹ thuật cao cấp cho công nghiệp điện, điện tử, chế tạo máy;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "55",
+          "heading": null,
+          "text": "55. Công nghệ chế tạo vật liệu sợi thuỷ tinh đặc biệt, sợi cácbon;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "56",
+          "heading": null,
+          "text": "56. Công nghệ vật liệu nanô;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "57",
+          "heading": null,
+          "text": "57. Công nghệ chế tạo vật liệu và sản phẩm cấy ghép can thiệp vào cơ thể con người;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "58",
+          "heading": null,
+          "text": "58. Công nghệ sản xuất hóa chất, sinh phẩm phục vụ cho các hệ thống xét nghiệm tự động và đồng bộ.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Phụ lục II: Danh mục sản phẩm công nghệ cao được khuyến khích phát triển",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Hệ điều hành cho máy tính, các thiết bị di động, hệ quản trị cơ sở dữ liệu; phần mềm nền tảng cung cấp dịch vụ giá trị gia tăng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Phần mềm đảm bảo an ninh, an toàn mạng và bảo mật thông tin ở mức cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Phần mềm và giải pháp xác thực đa yếu tố;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Phần mềm nhận dạng chữ viết, hình ảnh và âm thanh, cử chỉ, chuyển động, ý nghĩ và sinh trắc học;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Phần mềm điều khiển thiết bị đầu cuối mạng thế hệ sau. Soft phone và codecs hỗ trợ đa dịch vụ trên nền mạng thế hệ sau;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Phần mềm cho hệ thống ứng dụng RFID;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Phần mềm xử lý thông tin Y - Sinh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Phần mềm nền chuyên dụng cho đo lường và điều khiển;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Phần mềm và dịch vụ ứng dụng trong hệ thống giao thông thông minh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Dịch vụ thiết kế và tối ưu hóa các mạng lưới và hệ thống viễn thông trong hạ tầng viễn thông quốc gia;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "11. Dịch vụ tích hợp hệ thống điện toán đám mây;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "12. Dịch vụ tích hợp hệ thống ứng dụng Internet IPv6, Internet di động, Web thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "13. Thiết bị kỹ thuật số xử lý và truyền dữ liệu tự động;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "14. Thiết bị lưu trữ dữ liệu dung lượng lớn;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "15. Thẻ thông minh và đầu đọc thẻ thông minh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "16. Thẻ RFID, thiết bị đọc thẻ RFID;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "17. Thiết bị nhận dạng chữ viết, tiếng nói, hình ảnh, cử chỉ, chuyển động, ý nghĩ và sinh trắc học;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "18. Thiết bị đảm bảo an ninh, an toàn mạng và bảo mật thông tin ở mức cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "19. Hệ thống thiết bị ngôi nhà thông minh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "20. Hệ thống thiết bị điều khiển thông minh cho nhà lưới, nhà kính;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "21. Hệ thống điều khiển giao thông thông minh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": null,
+          "text": "22. Thiết bị, phần mềm, phụ kiện mạng thế hệ sau (NGN, LTE-A, IMT-advanced);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": null,
+          "text": "23. Webcam thế hệ mới; thiết bị khuếch đại âm tần kỹ thuật số; bộ tăng âm kỹ thuật số;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": null,
+          "text": "24. Thiết bị đầu cuối di động thông minh thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": null,
+          "text": "25. Các thiết bị thu, phát và chuyển đổi tín hiệu sử dụng trong truyền hình số thế hệ thứ 2 và các thế hệ sau;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": null,
+          "text": "26. Thiết bị truy cập vô tuyến indoor/outdoor thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "27",
+          "heading": null,
+          "text": "27. Máy tính song song, máy tính hiệu năng cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "28",
+          "heading": null,
+          "text": "28. Màn hình độ phân giải cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "29",
+          "heading": null,
+          "text": "29. Linh kiện bán dẫn điện tử công suất thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "30",
+          "heading": null,
+          "text": "30. Vi mạch điện tử tích hợp (IC);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "31",
+          "heading": null,
+          "text": "31. Cảm biến và cơ cấu chấp hành thông minh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "32",
+          "heading": null,
+          "text": "32. Chip sinh học; cảm biến sinh học;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "33",
+          "heading": null,
+          "text": "33. Sản phẩm, mạch điện tử linh hoạt (FE);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "34",
+          "heading": null,
+          "text": "34. Hệ thống vi cơ điện tử (MEMS), nanô cơ điện tử (NEMS) và các thiết bị ứng dụng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "35",
+          "heading": null,
+          "text": "35. Động cơ điện cỡ nhỏ có tính năng và chất lượng cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "36",
+          "heading": null,
+          "text": "36. Tổ máy phát điện có công suất từ 50 MW trở lên;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "37",
+          "heading": null,
+          "text": "37. Máy phát cho nhà máy nhiệt điện công suất 600 MW trở lên;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "38",
+          "heading": null,
+          "text": "38. Hệ thống phát điện dùng năng lượng gió, mặt trời, thủy triều, sóng biển, địa nhiệt;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "39",
+          "heading": null,
+          "text": "39. Máy biến áp 500 kV trở lên;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "40",
+          "heading": null,
+          "text": "40. Hệ SCADA cho lưới điện. Bộ bảo vệ rơ le kỹ thuật số cho hệ thống điện;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "41",
+          "heading": null,
+          "text": "41. Bộ biến đổi điện năng thông minh từ năng lượng gió và mặt trời; tấm pin năng lượng mặt trời hiệu suất cao và thân thiện môi trường;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "42",
+          "heading": null,
+          "text": "42. Thiết bị biến đổi điện tử công suất dùng cho trạm phát điện năng lượng tái tạo, truyền tải điện thông minh, các hệ truyền động điện công nghiệp, các bộ nguồn điện phân dòng điện lớn dùng trong công nghiệp hóa chất và tuyển quặng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "43",
+          "heading": null,
+          "text": "43. Pin, ắc quy có hiệu năng cao, dung lượng lớn; các bộ tích lũy điện năng dùng siêu tụ điện;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "44",
+          "heading": null,
+          "text": "44. Thiết bị và dụng cụ đo đạc, quan trắc kỹ thuật số;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "45",
+          "heading": null,
+          "text": "45. Máy đo khoảng cách bằng laser;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "46",
+          "heading": null,
+          "text": "46. Thước cặp các loại với độ chính xác đến 10 micromet (microns); panme các loại có độ chính xác cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "47",
+          "heading": null,
+          "text": "47. Máy chiếu biến dạng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "48",
+          "heading": null,
+          "text": "48. Máy và dụng cụ kỹ thuật số đo lưu lượng, áp suất của chất lỏng, chất khí;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "49",
+          "heading": null,
+          "text": "49. Thiết bị và dụng cụ kỹ thuật số phân tích lý hóa;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "50",
+          "heading": null,
+          "text": "50. Thiết bị và dụng cụ kỹ thuật số đo độ nhớt, độ xếp, độ giãn nở, sức căng bề mặt;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "51",
+          "heading": null,
+          "text": "51. Thiết bị và dụng cụ kỹ thuật số đo nhiệt lượng, âm lượng và ánh sáng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "52",
+          "heading": null,
+          "text": "52. Máy hiện sóng, máy phân tích phổ, máy đo bức xạ sử dụng kỹ thuật số;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "53",
+          "heading": null,
+          "text": "53. Các bộ điều khiển, giám sát tự động và các cơ cấu chấp hành cho các hệ thống thiết bị đồng bộ trong các nhà máy lọc hóa dầu, nhà máy điện, nhà máy xi măng lò quay, dây chuyền sản xuất thực phẩm, dược phẩm, phân bón, chế biến nông, lâm, thủy, hải sản và công trình thủy;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "54",
+          "heading": null,
+          "text": "54. Bộ điều khiển số (CNC) cho các máy công cụ và các máy gia công chế tạo;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "55",
+          "heading": null,
+          "text": "55. Thiết bị điều khiển và hệ thống tự động cho các loại máy nâng hạ có trọng tải lớn;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "56",
+          "heading": null,
+          "text": "56. Hệ thống tự động cân bằng trong tầu thủy;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "57",
+          "heading": null,
+          "text": "57. Cần cẩu tầu thủy cỡ lớn, cần trục tải trọng lớn;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "58",
+          "heading": null,
+          "text": "58. Thiết bị nâng hạ tải trọng lớn;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "59",
+          "heading": null,
+          "text": "59. Giàn khoan tự nâng, giàn khoan nửa nổi nửa chìm cho khai thác dầu khí;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "60",
+          "heading": null,
+          "text": "60. Máy trung tâm gia công cơ khí độ chính xác cao thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "61",
+          "heading": null,
+          "text": "61. Robot công nghiệp chuỗi hở, robot song song có 3 bậc tự do trở lên;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "62",
+          "heading": null,
+          "text": "62. Động cơ AC servo chuyên dụng, hệ truyền động servo nhiều trục, hộp giảm tốc có độ chính xác cao cho robot và máy CNC;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "63",
+          "heading": null,
+          "text": "63. Khuôn mẫu kỹ thuật có độ chính xác cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "64",
+          "heading": null,
+          "text": "64. Máy canh tác, chăm sóc, thu hoạch và sau thu hoạch thế hệ mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "65",
+          "heading": null,
+          "text": "65. Hệ thống thiết bị chế biến và bảo quản thực phẩm có quy mô công nghiệp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "66",
+          "heading": null,
+          "text": "66. Thiết bị chẩn đoán hình ảnh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "67",
+          "heading": null,
+          "text": "67. Hệ thống lưu giữ và truyền hình ảnh cho y tế (PACS);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "68",
+          "heading": null,
+          "text": "68. Hệ thống xét nghiệm tự động và đồng bộ;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "69",
+          "heading": null,
+          "text": "69. Thiết bị thăm dò chức năng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "70",
+          "heading": null,
+          "text": "70. Thiết bị chẩn đoán và điều trị ung thư, tim mạch;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "71",
+          "heading": null,
+          "text": "71. Thiết bị laser y tế;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "72",
+          "heading": null,
+          "text": "72. Thiết bị vi phẫu kỹ thuật số;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "73",
+          "heading": null,
+          "text": "73. Thiết bị nội soi chẩn đoán và điều trị;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "74",
+          "heading": null,
+          "text": "74. Thiết bị tiêm truyền tự động;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "75",
+          "heading": null,
+          "text": "75. Hóa chất, sinh phẩm phục vụ cho các hệ thống xét nghiệm tự động và đồng bộ;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "76",
+          "heading": null,
+          "text": "76. Vật liệu và sản phẩm cấy ghép, can thiệp vào cơ thể con người;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "77",
+          "heading": null,
+          "text": "77. Kính hiển vi quang học phức hợp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "78",
+          "heading": null,
+          "text": "78. Thấu kính, lăng kính, kính áp tròng chất lượng cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "79",
+          "heading": null,
+          "text": "79. Thiết bị tạo tia laser công suất lớn (trừ điốt laser);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "80",
+          "heading": null,
+          "text": "80. Vệ tinh và thiết bị vệ tinh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "81",
+          "heading": null,
+          "text": "81. Thiết bị và trạm thu phát đầu cuối của vệ tinh;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "82",
+          "heading": null,
+          "text": "82. Thiết bị ứng dụng công nghệ định vị toàn cầu;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "83",
+          "heading": null,
+          "text": "83. Thiết bị bay và phần mềm xử lý dữ liệu thu nhận từ thiết bị bay;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "84",
+          "heading": null,
+          "text": "84. Giống cây trồng, vật nuôi xuất khẩu chủ lực mới được tạo ra trên nền công nghệ tế bào có năng suất cao, sạch bệnh, chất lượng cao được sản xuất ở quy mô công nghiệp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "85",
+          "heading": null,
+          "text": "85. Giống các loại thủy, hải sản có chất lượng cao, sạch bệnh, tăng trưởng tốt và khả năng kháng bệnh cao với quy mô công nghiệp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "86",
+          "heading": null,
+          "text": "86. Chế phẩm vi sinh vật dùng trong nông nghiệp, bảo quản và chế biến nông, lâm, thủy, hải sản, xử lý môi trường đạt tiêu chuẩn quốc tế;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "87",
+          "heading": null,
+          "text": "87. Các loại phân bón, thuốc bảo vệ thực vật thế hệ mới đạt tiêu chuẩn quốc tế;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "88",
+          "heading": null,
+          "text": "88. Thuốc điều hòa sinh trưởng cho cây trồng; thuốc kích dục tố thủy sản thế hệ mới đạt tiêu chuẩn quốc tế;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "89",
+          "heading": null,
+          "text": "89. Bộ KIT chẩn đoán một số bệnh của cây trồng, vật nuôi;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "90",
+          "heading": null,
+          "text": "90. Các hormone tự nhiên, tổng hợp và dược phẩm chứa hormone;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "91",
+          "heading": null,
+          "text": "91. Vắc-xin ADN tái tổ hợp, vắc-xin protein tái tổ hợp dùng cho người, gia súc, gia cầm và thủy sản;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "92",
+          "heading": null,
+          "text": "92. Vắc-xin đa liên, đa giá;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "93",
+          "heading": null,
+          "text": "93. Tế bào, mô và các cơ quan thay thế được tạo ra từ tế bào gốc;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "94",
+          "heading": null,
+          "text": "94. Bộ KIT chẩn đoán các loại bệnh, kiểm soát an toàn thực phẩm cho người;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "95",
+          "heading": null,
+          "text": "95. Dịch vụ giám định gen;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "96",
+          "heading": null,
+          "text": "96. Vật liệu bán dẫn cho chế tạo vi mạch điện tử tích hợp (IC);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "97",
+          "heading": null,
+          "text": "97. Vật liệu cho chế tạo linh kiện vi cơ điện tử và cảm biến theo nguyên lý mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "98",
+          "heading": null,
+          "text": "98. Vật liệu quang điện tử và quang tử;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "99",
+          "heading": null,
+          "text": "99. Vật liệu có độ tinh khiết cao sản xuất bằng công nghệ chiết với quy mô công nghiệp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "100",
+          "heading": null,
+          "text": "100. Vật liệu siêu dẻo, siêu bền, siêu nhẹ, thân thiện với môi trường;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "101",
+          "heading": null,
+          "text": "101. Vật liệu composite nền kim loại, composite nền cao phân tử ứng dụng trong kỹ thuật điện - điện tử sử dụng trong môi trường khắc nghiệt, trong xây dựng bền với khí hậu nhiệt đới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "102",
+          "heading": null,
+          "text": "102. Vật liệu polyme sinh học có khả năng tự phân hủy; polyme siêu hấp thụ nước sử dụng nguyên liệu nội địa;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "103",
+          "heading": null,
+          "text": "103. Sơn chuyên dụng cao cấp, thân thiện với môi trường;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "104",
+          "heading": null,
+          "text": "104. Vật liệu cao su kỹ thuật, cao su tổng hợp chuyên dụng phục vụ cho ngành chế tạo máy, điện, điện tử;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "105",
+          "heading": null,
+          "text": "105. Vật liệu gốm sứ kỹ thuật cho công nghiệp điện, điện tử;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "106",
+          "heading": null,
+          "text": "106. Sợi cácbon cường độ cao dùng cho vật liệu composite;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "107",
+          "heading": null,
+          "text": "107. Vật liệu tích trữ và chuyển hóa năng lượng mới;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "108",
+          "heading": null,
+          "text": "108. Vật liệu từ cao cấp sử dụng trong lĩnh vực năng lượng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "109",
+          "heading": null,
+          "text": "109. Vật liệu nano cao cấp cho công nghiệp, nông nghiệp, y tế, sinh học và môi trường;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "110",
+          "heading": null,
+          "text": "110. Sản phẩm phủ màng mỏng bằng công nghệ lắng đọng vật lý từ pha hơi (PVD) và lắng đọng hóa học từ pha hơi (CVD);",
+          "isImplementationClause": false
+        },
+        {
+          "number": "111",
+          "heading": null,
+          "text": "111. Ống composite, các phụ kiện ghép nối chịu áp lực cao và chống ăn mòn hóa chất ứng dụng trong công nghiệp;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "112",
+          "heading": null,
+          "text": "112. Thép hợp kim đặc biệt có độ bền cao dùng trong công nghiệp và xây dựng;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "113",
+          "heading": null,
+          "text": "113. Thép tấm, thép hình khổ lớn, thép ống không hàn chất lượng cao;",
+          "isImplementationClause": false
+        },
+        {
+          "number": "114",
+          "heading": null,
+          "text": "114. Nhôm phẩm cấp cao sản xuất bằng công nghệ điện phân với dòng điện 500 kA.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát",
+      "text": "Điều 1. Phê duyệt Danh mục công nghệ cao được ưu tiên đầu tư phát\ntriển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển\n(ban hành kèm theo Quyết định này).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Đối với các công nghệ cao và sản phẩm công nghệ cao không",
+      "text": "Điều 2. Đối với các công nghệ cao và sản phẩm công nghệ cao không\nnằm trong Danh mục ban hành kèm theo Quyết định này nhưng thuộc trường\nhợp cấp thiết phục vụ nhu cầu phát triển kinh tế - xã hội thì Bộ Khoa học và\nCông nghệ chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ có liên quan trình\nThủ tướng Chính phủ xem xét, quyết định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01",
+      "text": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 01\nnăm 2015 và thay thế Quyết định số 49/2010/QĐ-TTg ngày 19 tháng 7\nnăm 2010 của Thủ tướng Chính phủ về việc phê duyệt Danh mục công nghệ\ncao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao\nđược khuyến khích phát triển.\n\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan\nthuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc\nTrung ương chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": null,
+      "text": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

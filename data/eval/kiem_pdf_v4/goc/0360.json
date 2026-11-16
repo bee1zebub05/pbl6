@@ -1,0 +1,168 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0360_2060_QĐ-BGDĐT_Công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2060/QĐ-BGDĐT",
+    "title": "Công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "05/08/2024",
+    "effectiveDate": "05/08/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Quyết định công bố danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24/10/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "61/2018/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;"
+    },
+    {
+      "targetDocumentNumber": "107/2021/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;"
+    },
+    {
+      "targetDocumentNumber": "45/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử;"
+    },
+    {
+      "targetDocumentNumber": "42/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 42/2022/NĐ-CP ngày 24/06/2022 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;"
+    },
+    {
+      "targetDocumentNumber": "01/2023/TT-VPCP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 01/2023/TT-VPCP ngày 05/4/2023 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ quy định một số nội dung và biện pháp thi hành trong số hóa hồ sơ, kết quả giải quyết thủ tục hành chính và thực hiện thủ tục hành chính trên môi trường điện tử;"
+    },
+    {
+      "targetDocumentNumber": "27/CT-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Chỉ thị số 27/CT-TTg ngày 27/10/2023 của Thủ tướng Chính phủ về tiếp tục đẩy mạnh các giải pháp cải cách và nâng cao hiệu quả giải quyết thủ tục hành chính, cung cấp dịch vụ công phục vụ người dân, doanh nghiệp;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Văn phòng Chính phủ",
+    "UBND các tỉnh, thành phố trực thuộc trung ương"
+  ],
+  "normativeContents": [
+    {
+      "title": "DANH MỤC THỦ TỤC HÀNH CHÍNH THUỘC PHẠM VI QUẢN LÝ CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO ĐỦ ĐIỀU KIỆN THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN TOÀN TRÌNH Ở ĐỊA PHƯƠNG",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "Lĩnh vực giáo dục mầm non",
+          "text": "I. Lĩnh vực giáo dục mầm non (gồm: 01 TTHC cấp huyện): 1. Thành lập trường mẫu giáo, trường mầm non, nhà trẻ công lập hoặc cho phép thành lập trường mẫu giáo, trường mầm non, nhà trẻ dân lập, tư thục (Cấp huyện).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "Lĩnh vực giáo dục tiểu học",
+          "text": "II. Lĩnh vực giáo dục tiểu học (gồm: 01 TTHC cấp huyện): 1. Chuyển trường đối với học sinh tiểu học (Cấp huyện).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "Lĩnh vực giáo dục trung học",
+          "text": "III. Lĩnh vực giáo dục trung học (gồm: 02 TTHC cấp tỉnh; 05 TTHC cấp huyện): 1. Chuyển trường đối với học sinh trung học phổ thông (Cấp tỉnh); 2. Xin học lại tại trường khác đối với học sinh trung học (Cấp tỉnh); 3. Tuyển sinh trung học cơ sở (Cấp huyện); 4. Tiếp nhận đối tượng học bổ túc trung học cơ sở (Cấp huyện); 5. Thuyên chuyển đối tượng học bổ túc trung học cơ sở (Cấp huyện); 6. Chuyển trường đối với học sinh trung học cơ sở (Cấp huyện); 7. Tiếp nhận học sinh trung học cơ sở Việt Nam về nước (Cấp huyện).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "IV",
+          "heading": "Lĩnh vực giáo dục đào tạo thuộc hệ thống giáo dục quốc dân",
+          "text": "IV. Lĩnh vực giáo dục đào tạo thuộc hệ thống giáo dục quốc dân (gồm: 10 TTHC cấp tỉnh; 06 TTHC cấp huyện): 1. Xếp hạng Trung tâm giáo dục thường xuyên (Cấp tỉnh); 2. Phê duyệt việc dạy và học bằng tiếng nước ngoài (Cấp tỉnh); 3. Đăng ký hỗ trợ tiền đóng học phí và chi phí sinh hoạt đối với sinh viên học các ngành đào tạo giáo viên tại các đại học, học viện, trường đại học, trường cao đẳng được phép đào tạo giáo viên (Cấp tỉnh); 4. Xét, cấp học bổng chính sách (Cấp tỉnh); 5. Cấp học bổng và hỗ trợ kinh phí mua phương tiện, đồ dùng học tập dùng riêng cho người khuyết tật học tại các cơ sở giáo dục (Cấp tỉnh); 6. Xét, duyệt chính sách hỗ trợ đối với học sinh trung học phổ thông là người dân tộc Kinh (Cấp tỉnh); 7. Xét, duyệt chính sách hỗ trợ đối với học sinh trung học phổ thông là người dân tộc thiểu số (Cấp tỉnh); 8. Hỗ trợ học tập đối với học sinh trung học phổ thông các dân tộc thiểu số rất ít người (Cấp tỉnh); 9. Đề nghị miễn giảm học phí, hỗ trợ chi phí học tập, hỗ trợ tiền đóng học phí đối với người học tại các cơ sở giáo dục mầm non, giáo dục phổ thông, giáo dục thường xuyên, giáo dục nghề nghiệp và giáo dục đại học (Cấp tỉnh); 10. Đề nghị đánh giá, công nhận Đơn vị học tập cấp tỉnh (Cấp tỉnh); 11. Xét, duyệt chính sách hỗ trợ đối với học sinh bán trú đang học tại các trường tiểu học, trung học cơ sở ở xã, thôn đặc biệt khó khăn (Cấp huyện); 12. Hỗ trợ học tập đối với trẻ mẫu giáo, học sinh tiểu học, học sinh trung học cơ sở, sinh viên các dân tộc thiểu số rất ít người (Cấp huyện); 13. Hỗ trợ ăn trưa đối với trẻ em mẫu giáo (Cấp huyện); 14. Trợ cấp đối với trẻ em mầm non là con công nhân, người lao động làm việc tại khu công nghiệp (Cấp huyện); 15. Hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp (Cấp huyện); 16. Đề nghị đánh giá, công nhận “Đơn vị học tập” cấp huyện (Cấp huyện).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "V",
+          "heading": "Lĩnh vực giáo dục và đào tạo thuộc hệ thống giáo dục quốc dân và cơ sở giáo dục khác",
+          "text": "V. Lĩnh vực giáo dục và đào tạo thuộc hệ thống giáo dục quốc dân và cơ sở giáo dục khác (gồm: 08 TTHC cấp tỉnh): 1. Thành lập trường năng khiếu thể dục thể thao thuộc địa phương (Cấp tỉnh); 2. Thành lập, cho phép thành lập trung tâm ngoại ngữ, tin học (Cấp tỉnh); 3. Sáp nhập, chia, tách trung tâm ngoại ngữ, tin học (Cấp tỉnh); 4. Thành lập trung tâm hỗ trợ và phát triển giáo dục hòa nhập công lập hoặc cho phép thành lập trung tâm hỗ trợ và phát triển giáo dục hòa nhập tư thục (Cấp tỉnh); 5. Tổ chức lại, cho phép tổ chức lại trung tâm hỗ trợ và phát triển giáo dục hòa nhập (Cấp tỉnh); 6. Xác nhận hoạt động giáo dục kỹ năng sống và hoạt động giáo dục ngoài giờ chính khóa (Cấp tỉnh); 7. Cấp giấy chứng nhận đăng ký kinh doanh dịch vụ tư vấn du học (Cấp tỉnh); 8. Điều chỉnh, bổ sung giấy chứng nhận đăng ký kinh doanh dịch vụ tư vấn du học (Cấp tỉnh).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VI",
+          "heading": "Lĩnh vực đào tạo với nước ngoài",
+          "text": "VI. Lĩnh vực đào tạo với nước ngoài (gồm: 06 TTHC cấp tỉnh): 1. Đăng ký hoạt động của Văn phòng đại diện giáo dục nước ngoài tại Việt Nam (Cấp tỉnh); 2. Phê duyệt liên kết giáo dục (Cấp tỉnh); 3. Gia hạn, điều chỉnh hoạt động liên kết giáo dục (Cấp tỉnh); 4. Chấm dứt hoạt động liên kết giáo dục theo đề nghị của các bên liên kết (Cấp tỉnh); 5. Cho phép thành lập cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông có vốn đầu tư nước ngoài tại Việt Nam (Cấp tỉnh); 6. Chấm dứt hoạt động cơ sở đào tạo, bồi dưỡng ngắn hạn có vốn đầu tư nước ngoài tại Việt Nam (Cấp tỉnh).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VII",
+          "heading": "Lĩnh vực thi, tuyển sinh",
+          "text": "VII. Lĩnh vực thi, tuyển sinh (gồm: 04 TTHC cấp tỉnh): 1. Xét tuyển sinh vào trường phổ thông dân tộc nội trú (Cấp tỉnh); 2. Xét đặc cách tốt nghiệp trung học phổ thông (Cấp tỉnh); 3. Phúc khảo bài thi tốt nghiệp trung học phổ thông (Cấp tỉnh); 4. Đăng ký xét tuyển học theo chế độ cử tuyển (Cấp tỉnh).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VIII",
+          "heading": "Lĩnh vực hệ thống văn bằng, chứng chỉ",
+          "text": "VIII. Lĩnh vực hệ thống văn bằng, chứng chỉ (gồm: 02 TTHC cấp tỉnh): 1. Cấp bản sao văn bằng, chứng chỉ từ sổ gốc (Cấp tỉnh); 2. Công nhận bằng tốt nghiệp trung học cơ sở, bằng tốt nghiệp trung học phổ thông, giấy chứng nhận hoàn thành chương trình giáo dục phổ thông do cơ sở giáo dục nước ngoài cấp để sử dụng tại Việt Nam (Cấp tỉnh).",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố kèm theo Quyết định này Danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương.",
+      "text": "Điều 1. Công bố kèm theo Quyết định này Danh mục thủ tục hành chính thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình ở địa phương.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực từ ngày ký.\n\nCăn cứ điều kiện thực tế, các địa phương tổ chức triển khai thực hiện dịch vụ công trực tuyến toàn trình bảo đảm quy định của pháp luật đối với các thủ tục hành chính đủ điều kiện được công bố tại Điều 1 Quyết định này.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ và các cơ quan có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Thủ trưởng các đơn vị thuộc, trực thuộc Bộ và các cơ quan có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0229_3175_ĐHĐN-TCCB_Công văn hướng dẫn một số nội dung liên quan đến việc quản lý viên chức đi đào t.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "document.issueDate sửa từ 22/07/2023 thành 27/07/2023 theo PDF gốc trang 1. Thêm signers.0.academicTitle theo PDF gốc trang 1. articles[5] sửa từ ĐHĐN đề nghị các trường đại học thành viên, các đơn vị thuộc và trực thuộc triển thành 5 theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "3175/ĐHĐN-TCCB",
+    "title": "Hướng dẫn một số nội dung liên quan đến việc quản lý viên chức đi đào tạo trong nước khi hết thời gian được cử đi đào tạo",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "27/07/2023",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Hướng dẫn các trường hợp viên chức đi đào tạo trong nước khi hết thời gian được cử đi đào tạo, bao gồm các trường hợp đã hoàn thành, đang chờ bằng, đã bảo vệ luận án cấp cơ sở hoặc chưa hoàn thành chương trình đào tạo.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Hường",
+      "academicTitle": "ThS",
+      "position": [
+        "Phó Trưởng ban"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2973/QĐ-ĐHĐN",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "viên chức thực hiện hồ sơ theo quy định tại khoản 1 Điều 14 Quy định quản lý viên chức của ĐHĐN được cử đi đào tạo, bồi dưỡng và nghiên cứu ban hành kèm theo Quyết định số 2973/QĐ-ĐHĐN ngày 12/7/2023 của Giám đốc ĐHĐN"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "1",
+      "heading": null,
+      "text": "1. Trường hợp viên chức đã hoàn thành chương trình đào tạo, chờ cấp văn bằng (đủ điều kiện để được cấp văn bằng) hoặc đã nhận văn bằng, viên chức thực hiện hồ sơ theo quy định tại khoản 1 Điều 14 Quy định quản lý viên chức của ĐHĐN được cử đi đào tạo, bồi dưỡng và nghiên cứu ban hành kèm theo Quyết định số 2973/QĐ-ĐHĐN ngày 12/7/2023 của Giám đốc ĐHĐN (Quy định số 2973) nộp về Ban Tổ chức Cán bộ, ĐHĐN.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "2",
+      "heading": null,
+      "text": "2. Trường hợp viên chức đã bảo vệ luận án cấp cơ sở (đối với đào tạo tiến sĩ), viên chức nộp báo cáo kết quả học tập (Mẫu số 9, Phụ lục I ban hành kèm theo Quy định số 2973) kèm theo Biên bản hoặc Giấy xác nhận của Hội đồng bảo vệ luận án cấp cơ sở về Ban Tổ chức Cán bộ, ĐHĐN.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "3",
+      "heading": null,
+      "text": "3. Trường hợp viên chức chưa hoàn thành chương trình đào tạo, trước 30 ngày kể từ ngày hết thời gian cử đi đào tạo (kể cả thời gian được Giám đốc ĐHĐN cho phép gia hạn bằng văn bản), viên chức thực hiện hồ sơ theo quy định tại Điều 12, Quy định số 2973 nộp về Ban Tổ chức cán bộ, ĐHĐN. Trong trường hợp viên chức không đủ hồ sơ theo quy định tại Điều 12, Quy định số 2973 (không được cơ sở đào tạo ban hành văn bản cho phép gia hạn (kéo dài) thời gian học tập), viên chức có đơn, trong đó nêu rõ lý do trễ hạn, dự kiến thời gian hoàn thành chương trình đào tạo, đề xuất nguyện vọng gửi thủ trưởng đơn vị cho ý kiến, kèm theo Báo cáo kết quả học tập (Mẫu số 9, Phụ lục I ban hành kèm theo Quy định số 2973) và minh chứng (nếu có), nộp về Ban Tổ chức Cán bộ, ĐHĐN.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "4",
+      "heading": null,
+      "text": "4. Trường hợp viên chức không hoàn thành chương trình đào tạo, viên chức thực hiện theo quy định tại khoản 2, Điều 14 Quy định số 2973.",
+      "isImplementationClause": false
+    }
+  ]
+}

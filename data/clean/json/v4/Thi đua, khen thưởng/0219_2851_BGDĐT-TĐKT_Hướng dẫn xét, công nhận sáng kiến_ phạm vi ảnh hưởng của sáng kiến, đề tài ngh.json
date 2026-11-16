@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0219_2851_BGDĐT-TĐKT_Hướng dẫn xét, công nhận sáng kiến_ phạm vi ảnh hưởng của sáng kiến, đề tài ngh.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "documentNumber sửa từ /BGDĐT-TĐKT thành 2851/BGDĐT-TĐKT theo PDF gốc trang 1. effectiveDate sửa từ 12/07/2021 thành null (văn bản không ghi ngày hiệu lực) theo PDF gốc trang 1-5.",
+  "document": {
+    "documentNumber": "2851/BGDĐT-TĐKT",
+    "title": "Hướng dẫn xét, công nhận sáng kiến; phạm vi ảnh hưởng của sáng kiến, đề tài nghiên cứu khoa học làm cơ sở xét danh hiệu thi đua, khen thưởng hằng năm",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/07/2021",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Khoa học Công nghệ"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Hướng dẫn công nhận sáng kiến cơ sở; công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, cấp toàn quốc của sáng kiến và đề tài nghiên cứu khoa học làm cơ sở xét danh hiệu thi đua, khen thưởng hằng năm đối với công chức, viên chức và người lao động thuộc Bộ Giáo dục và Đào tạo và hai đại học Quốc gia.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "91/2017/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Thi đua, khen thưởng; Nghị định số 91/2017/NĐ-CP ngày 31/7/2017 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng"
+    },
+    {
+      "targetDocumentNumber": "13/2012/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị định số 13/2012/NĐ-CP ngày 02/3/2012 của Chính phủ ban hành Điều lệ Sáng kiến"
+    },
+    {
+      "targetDocumentNumber": "18/2013/TT-BKHCN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 18/2013/TT-BKHCN ngày 01/8/2013 của Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn thi hành Nghị định số 13/2012/NĐ-CP của Chính phủ"
+    },
+    {
+      "targetDocumentNumber": "21/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 21/2020/TT-BGDĐT ngày 31/7/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn công tác thi đua, khen thưởng ngành Giáo dục"
+    },
+    {
+      "targetDocumentNumber": "1745/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Thực hiện theo Quyết định số 1745/QĐ-BGDĐT ngày 08/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc thành lập Hội đồng xét công nhận sáng kiến Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "targetDocumentNumber": "1862/QĐ-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Quyết định số 1862/QĐ-BGDĐT ngày 10/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế của Hội đồng xét công nhận sáng kiến Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "targetDocumentNumber": "3106/BGDĐT-TĐKT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Văn bản này thay thế nội dung tại mục II về công nhận sáng kiến cấp cơ sở và công nhận phạm vi ảnh hưởng, hiệu quả áp dụng của sáng kiến, đề tài nghiên cứu khoa học tại Công văn số 3106/BGDĐT-TĐKT ngày 17/8/2020 của Bộ Giáo dục và Đào tạo."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Quốc gia Hà Nội",
+    "Đại học Quốc gia Thành phố Hồ Chí Minh",
+    "Bộ Khoa học và Công nghệ",
+    "Nhà xuất bản giáo dục Việt Nam"
+  ],
+  "normativeContents": [
+    {
+      "title": "Mẫu số 01",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Danh sách và tóm tắt nội dung sáng kiến đề nghị xét công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ (hoặc cấp toàn quốc) năm gồm các cột: TT, Họ và tên, chức vụ, đơn vị công tác, Tên sáng kiến; số, ngày tháng năm ban hành quyết định công nhận sáng kiến cơ sở của cấp có thẩm quyền, Tóm tắt nội dung sáng kiến, tính mới, thời gian ứng dụng thực tiễn, hiệu quả áp dụng, phạm vi ảnh hưởng của sáng kiến.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Mẫu số 02",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Báo cáo mô tả sáng kiến bao gồm các nội dung: Tên sáng kiến; Họ và tên tác giả sáng kiến, chức danh, trình độ chuyên môn; Lĩnh vực áp dụng sáng kiến; Mô tả bản chất của sáng kiến (Tình trạng giải pháp đã biết, Nội dung giải pháp, Khả năng và phạm vi áp dụng của giải pháp); Các thông tin cần được bảo mật; Tài liệu kèm theo; Cam kết không sao chép hoặc vi phạm bản quyền; Hội đồng cơ sở đã xét công nhận sáng kiến.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Mẫu số 03",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Danh sách và tóm tắt nội dung đề tài nghiên cứu khoa học đề nghị xét công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, cấp toàn quốc năm gồm các cột: TT, Họ và tên, chức vụ, đơn vị công tác, Tên đề tài nghiên cứu khoa học; mã số; số, ngày tháng năm ban hành quyết định hội đồng nghiệm thu; ngày tháng năm nghiệm thu; kết quả nghiệm thu, Tóm tắt nội dung đề tài nghiên cứu khoa học, sản phẩm/kết quả đề tài, Các địa chỉ áp dụng kết quả nghiên cứu, thời gian áp dụng thực tiễn, hiệu quả áp dụng, phạm vi ảnh hưởng.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Quy định chung",
+      "text": "Điều 1. Quy định chung bao gồm: 1. Đối tượng áp dụng là công chức, viên chức và người lao động các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo và hai Đại học Quốc gia. 2. Yêu cầu về sáng kiến: a) Có tính mới trong phạm vi cơ quan, đơn vị hoặc ngoài xã hội, không trùng với nội dung sáng kiến đã được công nhận trước đó; b) Đã được áp dụng hoặc áp dụng thử tại cơ quan, đơn vị hoặc ngoài xã hội; c) Có khả năng mang lại lợi ích thiết thực; d) Không trái với trật tự công cộng hoặc đạo đức xã hội. 3. Điều kiện để được công nhận là tác giả và đồng tác giả sáng kiến: a) Người được công nhận là tác giả sáng kiến là người trực tiếp tạo ra toàn bộ sáng kiến; b) Trường hợp sáng kiến do nhiều người tạo ra thì những người tham gia tạo ra sáng kiến từ 30% trở lên được công nhận là đồng tác giả sáng kiến.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Công nhận sáng kiến cơ sở",
+      "text": "Điều 2. Công nhận sáng kiến cơ sở: 1. Công nhận sáng kiến cơ sở cho cá nhân của các đơn vị không có tư cách pháp nhân thuộc Bộ thực hiện theo Quyết định số 1745/QĐ-BGDĐT ngày 08/6/2021 và Quyết định số 1862/QĐ-BGDĐT ngày 10/6/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo. 2. Công nhận sáng kiến cơ sở cho cá nhân của các đơn vị thuộc Bộ có tư cách pháp nhân, đơn vị trực thuộc Bộ và hai Đại học Quốc gia thực hiện theo Nghị định số 13/2012/NĐ-CP và Thông tư số 18/2013/TT-BKHCN. Việc công nhận sáng kiến cơ sở cho cá nhân của các đơn vị không có tư cách pháp nhân thuộc ba đại học vùng, hai đại học Quốc gia và Nhà xuất bản giáo dục Việt Nam do người đứng đầu của sáu đơn vị thực hiện trên cơ sở quyết nghị của Hội đồng sáng kiến từng đơn vị.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Công nhận hiệu quả áp dụng, phạm vi ảnh hưởng của sáng kiến",
+      "text": "Điều 3. Công nhận hiệu quả áp dụng, phạm vi ảnh hưởng của sáng kiến: 1. Tiêu chuẩn xét: Sáng kiến phải được cơ sở công nhận, đã áp dụng thực tiễn, đạt hiệu quả và có phạm vi ảnh hưởng cấp Bộ hoặc toàn quốc. 2. Hồ sơ gồm: Tờ trình, danh sách tóm tắt, bản mô tả, quyết định công nhận sáng kiến cơ sở và các tài liệu minh chứng. 3. Thủ tục: Hồ sơ gửi về Vụ Thi đua - Khen thưởng trước ngày 31/7 hằng năm (đối với đơn vị xét theo năm học) hoặc trước ngày 20/11 hằng năm (đối với đơn vị xét theo năm công tác). Vụ Thi đua - Khen thưởng thẩm định và trình lãnh đạo Bộ quyết định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, cấp toàn quốc của đề tài nghiên cứu khoa học",
+      "text": "Điều 4. Công nhận hiệu quả áp dụng, phạm vi ảnh hưởng cấp Bộ, cấp toàn quốc của đề tài nghiên cứu khoa học: 1. Tiêu chuẩn xét: Đề tài đã được nghiệm thu mức đạt trở lên, năm nghiệm thu nằm trong thời gian xét tặng danh hiệu thi đua. 2. Hồ sơ gồm: Tờ trình, danh sách tóm tắt, quyết định hội đồng nghiệm thu, biên bản nghiệm thu và tài liệu minh chứng. 3. Thủ tục: Hồ sơ gửi về Vụ Thi đua - Khen thưởng trước ngày 31/7 hằng năm (đối với đơn vị xét theo năm học) hoặc trước ngày 20/11 hằng năm (đối với đơn vị xét theo năm công tác). Vụ Thi đua - Khen thưởng phối hợp với Vụ Khoa học, Công nghệ và Môi trường tham mưu lãnh đạo Bộ quyết định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 5. Văn bản này thay thế nội dung tại mục II về công nhận sáng kiến cấp cơ sở và công nhận phạm vi ảnh hưởng, hiệu quả áp dụng của sáng kiến, đề tài nghiên cứu khoa học tại Công văn số 3106/BGDĐT-TĐKT ngày 17/8/2020 của Bộ Giáo dục và Đào tạo. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các đơn vị phản ánh kịp thời về Vụ Thi đua - Khen thưởng để cùng phối hợp xử lý.",
+      "isImplementationClause": true
+    }
+  ]
+}

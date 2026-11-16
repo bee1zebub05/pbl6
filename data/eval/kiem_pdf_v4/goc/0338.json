@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0338_621_BGDĐT-TĐKT_Công văn số 621_BGDĐT-TĐKT ngày 22_2_2021 của Bộ Giáo dục và Đào tạo về việc ph.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "621/BGDĐT-TĐKT",
+    "title": "Về việc phát hiện, lựa chọn, giới thiệu điển hình tiên tiến",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "22/02/2021",
+    "effectiveDate": "22/02/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo yêu cầu các đơn vị, cơ sở giáo dục kịp thời phát hiện, lựa chọn, bồi dưỡng và giới thiệu các gương điển hình tiên tiến trong quản lý, giảng dạy và học tập để tôn vinh, khen thưởng và nhân rộng trong toàn ngành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

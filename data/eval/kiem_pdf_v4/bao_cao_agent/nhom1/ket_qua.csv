@@ -1,0 +1,28 @@
+﻿ma,truong,gia_tri_json,gia_tri_pdf,trang_pdf,muc_do,de_xuat_sua,da_sua
+0472,signers[0].position,Hiệu trưởng,KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC - PGS.TS. Lê Thành Bắc,1,SAI,"position = [""Phó Giám đốc""]",KHONG
+0338,(toàn văn bản),,"khớp: 621/BGDĐT-TĐKT, 22/02/2021, Công văn, BGDĐT, KT. Bộ trưởng - Thứ trưởng Ngô Thị Minh; không có căn cứ",1,OK,"nằm ở _nghi_ngo do không có trích dẫn - đúng với PDF, có thể chuyển ra thư mục chính",KHONG
+0230,(toàn văn bản),,"khớp: 3106/QĐ-ĐHĐN (viết tay), 24/7/2023, hiệu lực 01/8/2023, 6 căn cứ có số hiệu, 3 Điều, Giám đốc PGS.TS. Nguyễn Ngọc Vũ",1,OK,,KHONG
+0229,document.issueDate,22/07/2023,"ngày 27 tháng 7 năm 2023 (viết tay, phóng 350 DPI)",1,SAI,"issueDate = ""27/07/2023"" (lỗi gốc từ OCR .txt 'ngày 2 2-tháng 7')",KHONG
+0229,signers[0].academicTitle,null,ThS. Nguyễn Thị Hường,1,THIEU,"academicTitle = ""ThS""",KHONG
+0229,articles[4] (mục '5'),5: ĐHĐN đề nghị các trường đại học thành viên... triển khai thực hiện.,Công văn chỉ có 4 mục đánh số 1-4; câu này là câu kết,1,THUA,bỏ mục '5' khỏi articles (4 mục),KHONG
+0407,(toàn văn bản),,"khớp: 2569/QĐ-ĐHBK, 26/6/2024, hiệu lực từ ngày ký, 6 căn cứ, 3 Điều, Hiệu trưởng PGS.TS. Nguyễn Hữu Hiếu",2,OK,,KHONG
+0408,(toàn văn bản),,"khớp: 3492/QĐ-ĐHBK, 22/8/2024, hiệu lực từ ngày ký, 7 căn cứ có số hiệu, 3 Điều, Hiệu trưởng PGS.TS. Nguyễn Hữu Hiếu",2,OK,,KHONG
+0073,document.title,"Quyết định về việc giao quyền tự chủ, tự chịu trách nhiệm về tài chính đối với đơn vị sự nghiệp công lập","Về việc giao quyền tự chủ, tự chịu trách nhiệm về tài chính đối với đơn vị sự nghiệp",1,SAI,bỏ 'công lập' ở cuối title (lỗi thừa chữ trong .txt),KHONG
+0073,document.status,CON_HIEU_LUC,Điều 1 giao tự chủ 'giai đoạn 2022-2025'; không có câu hết hiệu lực,1,NGHI_NGO,giai đoạn đã kết thúc trước 16/11/2026 - cần người quyết có chuyển HET_HIEU_LUC/expiryDate 31/12/2025 không,KHONG
+0470,signers[0].position,Hiệu trưởng,GIÁM ĐỐC - PGS.TS. Nguyễn Ngọc Vũ,2,SAI,"position = [""Giám đốc""]",KHONG
+0470,citations (BASED_ON 13/NQ-HĐĐH),(không có; bị gộp vào context của 08/NQ-HĐĐH),"... và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;",1,THIEU,"thêm BASED_ON 13/NQ-HĐĐH (như 0472, 0230)",KHONG
+0470,citations[5] 4765/QĐ-ĐHĐN,"AMENDS, context = câu 'Căn cứ Quyết định số 4765/QĐ-ĐHĐN...'",Căn cứ (BASED_ON) + Điều 1 'Sửa đổi Điều 8 Quy định ... ban hành kèm theo Quyết định số 4765/QĐ-ĐHĐN ngày 28/12/2020',1,SAI,"đổi context AMENDS thành câu Điều 1, targetArticle 'Điều 8'; thêm BASED_ON 4765/QĐ-ĐHĐN với context câu Căn cứ",KHONG
+0159,document.effectiveDate,13/12/2021,Công văn không ghi ngày hiệu lực,2,NGHI_NGO,để null cho thống nhất với 0229/0310/0239,KHONG
+0159,document.title,V/v ứng dụng công nghệ thông tin trong thực hiện KĐCLGD,V/v ứng dụng công nghệ thông tin trong thực hiện KĐCLGD,1,NGHI_NGO,giữ hay bỏ tiền tố 'V/v' - 0229/0310/0338 đã bỏ; cần thống nhất (không sai so với PDF),KHONG
+0239,document.issueDate,25/11/2022,"ngày 2? tháng 11 năm 2022 - chữ số thứ hai viết tay mờ, nghiêng về 3 (metadata: 23/11/2022)",1,NGHI_NGO,không đọc chắc; nhiều khả năng 23/11/2022 - cần người xem bản giấy/bản khác,KHONG
+0239,document.title,V/v ban hành Bộ tiêu chí ...,"V/v ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại học thành viên năm học 2022-2023",1,NGHI_NGO,tiền tố 'V/v' - cần thống nhất,KHONG
+0239,(ghi chú tệp),,PDF 2 trang không có Phụ lục 01 được dẫn ở mục 2,1,NGHI_NGO,"thiếu phụ lục trong nguồn, không sửa JSON",KHONG
+0273,document.issueDate,12/11/2023,"ngày 10 tháng 11 năm 2023 (viết tay, phóng 350 DPI rõ '10'; metadata 10/11/2023)",1,SAI,"issueDate = ""10/11/2023"" (lỗi gốc từ OCR .txt)",KHONG
+0273,document.effectiveDate,12/11/2023,Công văn không ghi ngày hiệu lực,1,SAI,effectiveDate = null (hoặc 10/11/2023 nếu quy ước = ngày ban hành),KHONG
+0273,citations[0] 3277/QĐ-BGDĐT,BASED_ON,'Ngoài các tiêu chí theo quy định tại Quyết định số 3277/QĐ-BGDĐT...' - không phải câu căn cứ,1,SAI,relationType = REFERENCES (0239 cùng câu đã là REFERENCES),KHONG
+0273,document.title,V/v ban hành Bộ tiêu chí ...,"V/v ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại học thành viên năm học 2023-2024",1,NGHI_NGO,tiền tố 'V/v' - cần thống nhất,KHONG
+0273,(ghi chú tệp),,PDF 2 trang không có Phụ lục 01-11 được dẫn ở mục 2,1,NGHI_NGO,"thiếu phụ lục trong nguồn, không sửa JSON",KHONG
+0398,citations[4] REPEALS 132/2020/QH14,REPEALS,Câu bãi bỏ nằm trong khoản 2 Điều 251 Luật Đất đai 31/2024/QH15 được sửa bởi Điều 1 khoản 1 (bãi bỏ từ 01/01/2025); Luật 43 không tự bãi bỏ,1,NGHI_NGO,cần người quyết: giữ REPEALS (hiệu lực bãi bỏ 01/01/2025) hay đổi REFERENCES,KHONG
+0398,citations[0..3] AMENDS targetArticle,null,"Điều 1: khoản 2 Điều 251, khoản 1 Điều 252, khoản 10 Điều 255, khoản 4 Điều 260 (Luật 31/2024); Điều 2: khoản 1 Điều 197 (27/2023); Điều 3: khoản 1 Điều 82 (29/2023); Điều 4: khoản 2 Điều 209 (32/2024)",1-2,THIEU,điền targetArticle cho các quan hệ AMENDS,KHONG
+0398,document.issueDate (so metadata),29/06/2024,Quốc hội thông qua ngày 29 tháng 6 năm 2024 (JSON đúng); metadata ghi 25/08/2024 = ngày Công báo,2,OK,không sửa JSON; metadata lệch,KHONG
+0310,"citations[0..1] 34/2018/QH14, 99/2019/NĐ-CP",BASED_ON,"'Thực hiện Luật số 34/2018/QH14 ..., Nghị định số 99/2019/NĐ-CP ..., thời gian qua các đại học ... đã tổ chức thực hiện' - câu tường thuật, không có phần Căn cứ",1,NGHI_NGO,cân nhắc đổi REFERENCES,KHONG

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Công nghệ thông tin, CĐS/0420_899_QĐ-BGDĐT_Quyết định ban hành Kế hoạch hành động thực hiện Kế hoạch số 01-KH_BCĐTW ngày 21_.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "899/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch hành động thực hiện Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào \"Bình dân học vụ số\" của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/04/2025",
+    "effectiveDate": "04/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Đào tạo"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cán bộ, giảng viên, viên chức, người lao động"
+    ],
+    "summary": "Quyết định ban hành Kế hoạch hành động thực hiện Phong trào \"Bình dân học vụ số\" của Bộ Giáo dục và Đào tạo, nhằm cụ thể hóa các nhiệm vụ, giải pháp về chuyển đổi số, phát triển kỹ năng số cho học sinh, sinh viên và công chức, viên chức trong ngành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Kim Sơn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26/02/2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "01-KH/BCĐTW",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số về triển khai Phong trào \"Bình dân học vụ số\";"
+    }
+  ],
+  "mentions": [
+    "Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+    "Cục Khoa học, Công nghệ và Thông tin",
+    "Vụ Kế hoạch - Tài chính",
+    "Bộ Công an",
+    "Bộ Khoa học và Công nghệ",
+    "Văn phòng Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Kế hoạch hành động thực hiện Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào “Bình dân học vụ số”",
+      "contentType": "Kế hoạch",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Mục đích",
+          "text": "1. Mục đích\n- Quán triệt, thực hiện hiệu quả, tạo sự chuyển biến về nhận thức và hành động trong công chức, viên chức các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo triển khai Phong trào \"Bình dân học vụ số\" theo Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.\n- Cụ thể hóa và tổ chức thực hiện các nhiệm vụ, giải pháp được nêu tại Kế hoạch số 01-KH/BCĐTW thuộc lĩnh vực giáo dục và đào tạo; phân công nhiệm vụ cụ thể gắn với công tác theo dõi, kiểm tra, giám sát, báo cáo định kỳ nhằm phát huy mạnh mẽ tinh thần chủ động, trách nhiệm của các đơn vị, cá nhân; là căn cứ để tổ chức kiểm tra, giám sát, sơ kết, tổng kết, đánh giá việc tổ chức thực hiện Kế hoạch số 01-KH/BCĐTW của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Các nhiệm vụ cụ thể",
+          "text": "2. Các nhiệm vụ cụ thể\nChi tiết các nhiệm vụ, đơn vị chủ trì, sản phẩm cần đạt và thời gian thực hiện tại Phụ lục kèm theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Tổ chức thực hiện",
+          "text": "3. Tổ chức thực hiện\n3.1. Thủ trưởng các đơn vị thuộc, trực thuộc Bộ\na) Tổ chức quán triệt, triển khai sâu rộng, hiệu quả, tạo sự lan tỏa toàn diện về nhận thức và hành động của Phong trào \"Bình dân học vụ số\" đến từng công chức, viên chức, người lao động trong đơn vị.\nb) Căn cứ nội dung, nhiệm vụ được phân công tại Kế hoạch này chủ động xây dựng kế hoạch chi tiết từng nhiệm vụ được giao chủ trì, trình Lãnh đạo Bộ phụ trách phê duyệt và tổ chức triển khai đảm bảo tiến độ, hiệu quả.\nc) Báo cáo kết quả thực hiện Kế hoạch gửi Cục Khoa học, Công nghệ và Thông tin tổng hợp báo cáo Bộ trưởng.\n3.2. Cục Khoa học, Công nghệ và Thông tin\na) Là đơn vị đầu mối tham mưu, theo dõi, đôn đốc các đơn vị liên quan, giúp Bộ trưởng chỉ đạo triển khai các nội dung của Kế hoạch này đảm bảo tiến độ, chất lượng.\nb) Chủ trì, phối hợp với các đơn vị liên quan thực hiện các nhiệm vụ theo phân công tại Phụ lục kèm theo Kế hoạch này.\nc) Tổng hợp, báo cáo, đề xuất Bộ trưởng xem xét, quyết định các giải pháp tháo gỡ khó khăn, vướng mắc phát sinh trong quá trình thực hiện Kế hoạch này.\nd) Tham mưu công tác tổ chức sơ kết, tổng kết đánh giá kết quả triển khai Kế hoạch.\n3.3. Vụ Kế hoạch - Tài chính chủ trì, phối hợp với các đơn vị liên quan phân bổ kinh phí thực hiện các nhiệm vụ theo quy định.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "PHỤ LỤC Danh mục nhiệm vụ trọng tâm của Bộ Giáo dục và Đào tạo thực hiện Kế hoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào “Bình dân học vụ số”",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Nội dung nhiệm vụ: Công tác phối hợp thường xuyên theo dõi, đôn đốc, kiểm tra thực hiện phong trào “Bình dân học vụ số”. Đơn vị chủ trì: Cục KHCNTT. Đơn vị phối hợp: Ban Tuyên giáo và Dân vận Trung ương, Văn phòng Trung ương Đảng, Bộ Công an, Bộ Khoa học và Công nghệ và các đơn vị liên quan. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Nhiệm vụ giao tại mục VI.5 của Kế hoạch số 01-KH/BCĐTW được triển khai.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Nội dung nhiệm vụ: Xây dựng chương trình phổ cập kỹ năng số phù hợp với khung kỹ năng số của từng nhóm đối tượng phổ cập, tập trung vào nội dung cốt lõi, tăng cường thực hành, ứng dụng trong công việc và đời sống. Đơn vị chủ trì: Vụ GDPT (nhóm đối tượng là học sinh), Cục GDNNGDTX (nhóm đối tượng còn lại). Đơn vị phối hợp: Bộ Công an, Bộ Khoa học và Công nghệ, Văn phòng Chính phủ, ĐHBKHN, Cục KHCNTT, Viện KHGDVN và các đơn vị liên quan thuộc Bộ GDĐT, các cơ sở giáo dục. Thời gian hoàn thành: Tháng 7/2023. Sản phẩm: Chương trình phổ cập kỹ năng số phù hợp với khung kỹ năng số cho từng nhóm đối tượng phổ cập được ban hành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Nội dung nhiệm vụ: Biên soạn, phát hành các tài liệu, bài giảng cho từng chương trình phổ cập đa dạng về thể loại (văn bản, hình ảnh, âm thanh, video bài trình chiếu), ngắn gọn, dễ hiểu, dễ thực hiện, triển khai cho cả người dạy và người học, phù hợp để đưa lên các nền tảng trực tuyến, đáp ứng số lượng lớn người tham gia. Đơn vị chủ trì: Vụ GDĐH (nhóm đối tượng là sinh viên), Vụ GDPT (nhóm đối tượng là học sinh), Cục GDNNGDTX (nhóm đối tượng còn lại). Đơn vị phối hợp: Bộ Công an, Bộ Khoa học và Công nghệ, Văn phòng Chính phủ, ĐHBKHN, Cục KHCNTT, Viện KHGDVN và các đơn vị liên quan thuộc Bộ GDĐT, các cơ sở giáo dục. Thời gian hoàn thành: Tháng 6/2025. Sản phẩm: Tài liệu, bài giảng cho từng nhóm đối tượng phổ cập được biên soạn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Nội dung nhiệm vụ: Tích hợp giáo dục kỹ năng số vào chương trình GDPT, giáo dục nghề nghiệp (GDNN), giáo dục đại học (GDĐH). Đặc biệt chú trọng kỹ năng sử dụng AI trong GDNN, GDĐH. Đơn vị chủ trì: Vụ GDPT (đối với chương trình GDPT), Cục GDNNGDTX (đối với chương trình GDNN), Vụ GDĐH (đối với chương trình GDĐH). Đơn vị phối hợp: Các cơ sở GDĐH, GDNN, GDTX, GDPT và các đơn vị liên quan thuộc Bộ GDĐT. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Giáo dục kỹ năng số cho học sinh, sinh viên được tích hợp trong chương trình GDPT, GDNN, GDĐH.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Nội dung nhiệm vụ: Triển khai Chương trình “Học từ làm việc thực tế” trong đó liên kết các trường đại học, cao đẳng, cơ sở giáo dục nghề nghiệp, đào tạo với doanh nghiệp để xây dựng chương trình đào tạo nguồn nhân lực phục vụ chuyển đổi số theo yêu cầu thực tế và đặt hàng doanh nghiệp. Đơn vị chủ trì: Vụ GDĐH (đối với cơ sở GDĐH), Cục GDNNGDTX (đối với các trường cao đẳng, cơ sở GDNN). Đơn vị phối hợp: Cục KHCNTT, các đơn vị thuộc Bộ. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Chương trình “Học từ làm việc thực tế” được triển khai.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Nội dung nhiệm vụ: Đẩy nhanh tiến trình chuyển đổi số trong lĩnh vực GDĐT, phát triển các mô hình giáo dục mới dựa trên công nghệ số và AI tạo dựng môi trường để học sinh, sinh viên tiếp cận, hình thành kỹ năng số và hưởng lợi từ thành quả chuyển đổi số ngành. Đơn vị chủ trì: Cục KHCNTT. Đơn vị phối hợp: Các đơn vị thuộc Bộ, các cơ sở giáo dục. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Tiến trình chuyển đổi số trong lĩnh vực GDĐT được đẩy nhanh; Mô hình giáo dục mới dựa trên công nghệ số và AI được phát triển.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Nội dung nhiệm vụ: Phát huy vai trò của học sinh, sinh viên trong hoạt động tình nguyện tham gia phổ cập kỹ năng số cho người dân, trước hết là người thân trong gia đình, những người có hoàn cảnh khó khăn, yếu thế. Đơn vị chủ trì: Vụ HSSV. Đơn vị phối hợp: Các đơn vị thuộc Bộ, các cơ sở giáo dục. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Vai trò của học sinh, sinh viên trong hoạt động tình nguyện tham gia phổ cập kỹ năng số cho người dân được phát huy.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Nội dung nhiệm vụ: Chỉ đạo cơ sở GDĐH, GDNN đóng góp về cơ sở vật chất, hạ tầng số, nhân lực số hỗ trợ triển khai Phong trào. Đơn vị chủ trì: Cục KHCNTT. Đơn vị phối hợp: Các đơn vị thuộc Bộ, các cơ sở GDĐH, GDNN. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Cơ sở vật chất, hạ tầng số, nhân lực số hỗ trợ triển khai Phong trào được huy động.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Nội dung nhiệm vụ: Lồng ghép thực hiện Phong trào vào kế hoạch triển khai đề án, chương trình liên quan đến chuyển đổi số do Bộ chủ trì. Đơn vị chủ trì: Các đơn vị thuộc Bộ GDĐT chủ trì triển khai đề án, chương trình liên quan đến chuyển đổi số. Đơn vị phối hợp: Các đơn vị thuộc Bộ liên quan. Thời gian hoàn thành: Thường xuyên. Sản phẩm: Các nội dung thực hiện Phong trào được lồng ghép vào các kế hoạch.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Nội dung nhiệm vụ: Xây dựng và triển khai thực hiện kế hoạch thi đua hưởng ứng Phong trào “Bình dân học vụ số” trong toàn ngành GDĐT. Đơn vị chủ trì: Vụ TCCB. Đơn vị phối hợp: Cục KHCNTT, Cục GDNNGDTX, Vụ GDĐH, Vụ GDPT, các đơn vị thuộc và trực thuộc Bộ, các cơ sở giáo dục. Thời gian hoàn thành: Tháng 12/2026. Sản phẩm: Kế hoạch thi đua được ban hành và triển khai.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch hành động thực hiện Kế",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch hành động thực hiện Kế\nhoạch số 01-KH/BCĐTW ngày 21/03/2025 về Triển khai Phong trào \"Bình dân học\nvụ số\" của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng\ntạo và chuyển đổi số (sau đây gọi tắt là Kế hoạch), gồm các nội dung sau:\n1. Mục đích\n- Quán triệt, thực hiện hiệu quả, tạo sự chuyển biến về nhận thức và hành động\ntrong công chức, viên chức các đơn vị thuộc, trực thuộc Bộ Giáo dục và Đào tạo triển\nkhai Phong trào \"Bình dân học vụ số\" theo Kế hoạch số 01-KH/BCĐTW ngày\n21/03/2025 của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới\nsáng tạo và chuyển đổi số.\n- Cụ thể hóa và tổ chức thực hiện các nhiệm vụ, giải pháp được nêu tại Kế hoạch\nsố 01-KH/BCĐTW thuộc lĩnh vực giáo dục và đào tạo; phân công nhiệm vụ cụ thể\ngắn với công tác theo dõi, kiểm tra, giám sát, báo cáo định kỳ nhằm phát huy mạnh\nmẽ tinh thần chủ động, trách nhiệm của các đơn vị, cá nhân; là căn cứ để tổ chức\nkiểm tra, giám sát, sơ kết, tổng kết, đánh giá việc tổ chức thực hiện Kế hoạch số 01-\nKH/BCĐTW của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi\nmới sáng tạo và chuyển đổi số.\n2. Các nhiệm vụ cụ thể\n\nChi tiết các nhiệm vụ, đơn vị chủ trì, sản phẩm cần đạt và thời gian thực hiện\ntại Phụ lục kèm theo.\n3. Tổ chức thực hiện\n3.1. Thủ trưởng các đơn vị thuộc, trực thuộc Bộ\na) Tổ chức quán triệt, triển khai sâu rộng, hiệu quả, tạo sự lan tỏa toàn diện về\nnhận thức và hành động của Phong trào \"Bình dân học vụ số\" đến từng công chức,\nviên chức, người lao động trong đơn vị.\nb) Căn cứ nội dung, nhiệm vụ được phân công tại Kế hoạch này chủ động xây\ndựng kế hoạch chi tiết từng nhiệm vụ được giao chủ trì, trình Lãnh đạo Bộ phụ trách\nphê duyệt và tổ chức triển khai đảm bảo tiến độ, hiệu quả.\nc) Báo cáo kết quả thực hiện Kế hoạch gửi Cục Khoa học, Công nghệ và Thông\ntin tổng hợp báo cáo Bộ trưởng.\n3.2. Cục Khoa học, Công nghệ và Thông tin\na) Là đơn vị đầu mối tham mưu, theo dõi, đôn đốc các đơn vị liên quan, giúp Bộ\ntrưởng chỉ đạo triển khai các nội dung của Kế hoạch này đảm bảo tiến độ, chất lượng.\nb) Chủ trì, phối hợp với các đơn vị liên quan thực hiện các nhiệm vụ theo phân\ncông tại Phụ lục kèm theo Kế hoạch này.\nc) Tổng hợp, báo cáo, đề xuất Bộ trưởng xem xét, quyết định các giải pháp tháo\ngỡ khó khăn, vướng mắc phát sinh trong quá trình thực hiện Kế hoạch này.\nd) Tham mưu công tác tổ chức sơ kết, tổng kết đánh giá kết quả triển khai Kế\nhoạch.\n3.3. Vụ Kế hoạch - Tài chính chủ trì, phối hợp với các đơn vị liên quan phân bổ\nkinh phí thực hiện các nhiệm vụ theo quy định.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Cục trưởng Cục Khoa học, Công nghệ và Thông tin,",
+      "text": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Khoa học, Công nghệ và Thông tin,\nThủ trưởng các đơn vị có liên quan thuộc, trực thuộc Bộ Giáo dục và Đào tạo chịu\ntrách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

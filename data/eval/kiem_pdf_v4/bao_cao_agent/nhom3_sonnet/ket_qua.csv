@@ -1,0 +1,102 @@
+﻿ma,truong,gia_tri_json,gia_tri_pdf,trang_pdf,muc_do,de_xuat_sua,da_sua,cach_kiem
+0381,citations,thiếu BASED_ON,TT 10/2020/TT-BGDĐT; NĐ 32/CP,1,THIEU,thêm 2 căn cứ,CO,DAY_DU
+0381,signers,"Nguyễn Ngọc Vũ, Giám đốc","PGS.TS Nguyễn Ngọc Vũ, Giám đốc",1,OK,,KHONG,DAY_DU
+0370,citations,thiếu BASED_ON,KL 69-KL/TW; KL 91-KL/TW; CV 575-TB/BCSĐ,1-2,THIEU,thêm 3 căn cứ,CO,DAY_DU
+0370,signers,"Nguyễn Văn Phúc, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng Nguyễn Văn Phúc",2,OK,,KHONG,DAY_DU
+0383,signers,"Hoàng Minh Sơn, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng Hoàng Minh Sơn",2,OK,,KHONG,DAY_DU
+0383,metadata,so/ngay/co quan khớp metadata; 4 căn cứ/4 BASED_ON,,,OK,,KHONG,ANH_PDF
+0344,citations,targetDocumentNumber=21/11/2007,Luật hóa chất không ghi số hiệu,1,THUA,bỏ trích dẫn,CO,DAY_DU
+0344,signers,"Phạm Công Tạc, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng Phạm Công Tạc",10,OK,,KHONG,DAY_DU
+0384,citations,"chỉ 2 BASED_ON, không có AMENDS","thiếu 32/CP, 99/2019/NĐ-CP, 10/2020/TT-BGDĐT, 20/2020/TT-BGDĐT, 08/NQ-HĐĐH, 13/NQ-HĐĐH; Điều 2 bãi bỏ mục 8,9 Bảng 3 Phụ lục QĐ 3237",1-2,THIEU,thêm 6 BASED_ON + AMENDS 3237,CO,DAY_DU
+0384,signers,"Lê Quang Sơn, Phó Giám đốc","KT. Giám đốc, Phó Giám đốc PGS.TS Lê Quang Sơn",2,OK,,KHONG,DAY_DU
+0256,citations,targetDocumentNumber=14/11/2022,Luật Thanh tra không ghi số hiệu,1,THUA,bỏ,CO,DAY_DU
+0256,signers,"Nguyễn Kim Sơn, Bộ trưởng",Bộ trưởng Nguyễn Kim Sơn,1,OK,,KHONG,DAY_DU
+0256,organization,metadata ghi Chính phủ,Bộ Giáo dục và Đào tạo (QĐ-BGDĐT),1,NGHI_NGO,"metadata web sai, giữ JSON",KHONG,DAY_DU
+0232,citations,4 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ 4 trích dẫn,CO,DAY_DU
+0232,signers,"Phạm Ngọc Thưởng, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",9,OK,,KHONG,DAY_DU
+0232,effectiveDate,01/09/2023,01 tháng 9 năm 2023 (viết tay),9,OK,,KHONG,DAY_DU
+0197,citations,REPLACES 08/2017/TT-BNV,Điều 13 thay thế TT 08/2017/TT-BNV,8,OK,,KHONG,DAY_DU
+0197,signers,"Lê Vĩnh Tân, Bộ trưởng",Bộ trưởng Lê Vĩnh Tân,8,OK,,KHONG,DAY_DU
+0122,citations,2 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0107,citations,7 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0306,citations,5 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0122,signers,"Nguyễn Tấn Dũng, Thủ tướng","TM. Chính phủ, Thủ tướng",7,OK,,KHONG,DAY_DU
+0107,signers,"Phạm Bình Minh, Phó Thủ tướng","TM. Chính phủ, KT. Thủ tướng, Phó Thủ tướng",9,OK,,KHONG,DAY_DU
+0306,signers,"Đoàn Hồng Phong, Tổng Thanh tra Chính phủ",Tổng Thanh tra,9,OK,,KHONG,DAY_DU
+0306,effectiveDate,15/11/2021,15 tháng 11 năm 2021 (viết tay),9,OK,,KHONG,DAY_DU
+0306,citations,4 REPEALS,Điều 16 khoản 2 liệt kê 4 thông tư hết hiệu lực,9,OK,,KHONG,DAY_DU
+0163,signers,"Phan Minh Đức, Chủ tịch","TM. Hội đồng, Chủ tịch (theo .txt)",2,OK,,KHONG,ANH_PDF
+0060,issueDate,null,23/12/2015 (ngày 23 viết tay),1,THIEU,23/12/2015,CO,DAY_DU
+0060,effectiveDate,null,kể từ ngày ký = 23/12/2015,1,THIEU,23/12/2015,CO,DAY_DU
+0060,signers.position,Hiệu trưởng,Chủ tịch Hội đồng trường,1,SAI,sửa,CO,DAY_DU
+0301,citations,8 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0301,signers,"Lê Minh Khái, Tổng Thanh tra",Tổng Thanh tra Lê Minh Khái,10,OK,,KHONG,DAY_DU
+0303,signers,"Đoàn Hồng Phong, Tổng Thanh tra",Tổng Thanh tra,7,OK,,KHONG,DAY_DU
+0303,citations,REPEALS 06/2014/TT-TTCP; BASED_ON Luật gắn số QH,Luật chỉ ghi ngày trong văn bản; số QH do model thêm,7,NGHI_NGO,giữ; cần người quyết,KHONG,DAY_DU
+0487,signers,"Phạm Thị Thanh Trà, Phó Thủ tướng",TM. Chính phủ KT. Thủ tướng Phó Thủ tướng,9,OK,,KHONG,DAY_DU
+0487,effectiveDate,07/07/2026,07 tháng 7 năm 2026,8,OK,,KHONG,DAY_DU
+0487,citations,"3 REPEALS (244/2005/QĐ-TTg, 61/2006/NĐ-CP, 113/2015/NĐ-CP)",Điều 10 khoản 5-7; 61/2006 và 113/2015 chỉ bãi bỏ một phần,8,NGHI_NGO,có thể là AMENDS cho bãi bỏ một phần; giữ,KHONG,DAY_DU
+0163,citations,3 BASED_ON,"thiếu 2762/QĐ-HĐĐH, 996 và 998/QĐ-BGDĐT, 04/NQ-HĐĐH",1,THIEU,thêm 4 căn cứ,CO,ANH_PDF
+0487,citations,7 BASED_ON,thiếu Luật 123/2025/QH15 cùng câu,1,THIEU,thêm,CO,ANH_PDF
+0370,citations,context 86/2022/NĐ-CP ngày 24/10/2022,PDF in 'ngày 24/1/2022' (đã phóng 250 DPI),1,NGHI_NGO,"chỉ phần context; lỗi chính tả gốc hay OCR, không sửa",KHONG,ANH_PDF
+0388,signers.position,Hiệu trưởng,Giám đốc,1,SAI,sửa,CO,ANH_PDF
+0424,signers.position,Hiệu trưởng,Phó Hiệu trưởng (KT. Hiệu trưởng),2,SAI,sửa,CO,ANH_PDF
+0424,citations,thiếu Chỉ thị 27-CT/TW,Căn cứ Chỉ thị số 27-CT/TW ngày 25/12/2023,1,THIEU,thêm,CO,ANH_PDF
+0388,citations,5 BASED_ON,5 căn cứ khớp,1,OK,,KHONG,ANH_PDF
+0451,issueDate,26/11/2025,26/12/2025,1,SAI,sửa,CO,ANH_PDF
+0451,signers,"Lê Quân, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng Lê Quân",1,OK,,KHONG,ANH_PDF
+0451,citations,BASED_ON 3 + REPEALS 2108/QĐ-BGDĐT,khớp Điều 2,1,OK,,KHONG,ANH_PDF
+0430,citations,BASED_ON 20/11/2018,Luật PCTN không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0430,signers,"Nguyễn Kim Sơn, Bộ trưởng",Bộ trưởng,1,OK,,KHONG,ANH_PDF
+0140,header,821/QĐ-BGDĐT 24/03/2020,khớp,1,OK,,KHONG,ANH_PDF
+0140,citations,4 BASED_ON + 2 REPLACES,khớp trang 1-2,2,OK,,KHONG,ANH_PDF
+0140,signers,"Nguyễn Hữu Độ, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",2,OK,,KHONG,ANH_PDF
+0144,citations,chỉ AMENDS 23/2017,thiếu căn cứ NĐ 69/2017/NĐ-CP,1,THIEU,thêm,CO,ANH_PDF
+0144,effectiveDate,24/10/2021,24 tháng 10 năm 2021,6,OK,,KHONG,ANH_PDF
+0144,signers,"Nguyễn Hữu Độ, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",6,OK,,KHONG,ANH_PDF
+0125,citations,3 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0125,signers,"Vũ Đức Đam, Phó Thủ tướng","KT. Thủ tướng, Phó Thủ tướng",9,OK,,KHONG,ANH_PDF
+0471,header,26/2026/TT-BGDĐT 09/04/2026 hiệu lực 09/04/2026,khớp,1,OK,,KHONG,ANH_PDF
+0471,signers,"Phạm Ngọc Thưởng, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",9,OK,,KHONG,ANH_PDF
+0471,citations,"REPEALS 40/2020/TT-BGDĐT, 04/2022/TT-BGDĐT",Điều 10 khoản 2: bãi bỏ một số Điều của hai Thông tư,8,NGHI_NGO,bãi bỏ một phần (có thể AMENDS); giữ,KHONG,ANH_PDF
+0357,citations,BASED_ON targetDocumentNumber 18/06/2012,Luật GDĐH không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0357,signers,"Hoàng Minh Sơn, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",1,OK,,KHONG,ANH_PDF
+0042,header,1394/QĐ-ĐHBK 11/05/2021 Hiệu trưởng PGS.TS Đoàn Quang Vinh,khớp (số viết tay 1394),1-2,OK,,KHONG,ANH_PDF
+0042,citations,7 BASED_ON,7 căn cứ khớp,1,OK,,KHONG,ANH_PDF
+0214,issueDate,14/05/2021,11/05/2021 (ngày 11 viết tay),1,SAI,sửa,CO,ANH_PDF
+0214,effectiveDate,14/05/2021,11/05/2021 (kể từ ngày ký),1,SAI,sửa,CO,ANH_PDF
+0214,documentNumber,1394/QĐ-ĐHBK,1394/QĐ-ĐHBK; PDF của 0214 trùng byte-by-byte (md5 857cd798...) với PDF của 0042 -> cùng một văn bản,1,OK,không đổi số hiệu; 0042 và 0214 là cùng một văn bản lưu ở hai lĩnh vực,KHONG,ANH_PDF
+0214,citations,7 BASED_ON,khớp 7 căn cứ,1,OK,,KHONG,ANH_PDF
+0214,signers,"Đoàn Quang Vinh, Hiệu trưởng",HIỆU TRƯỞNG PGS.TS ĐOÀN QUANG VINH,2,OK,,KHONG,ANH_PDF
+0203,citations,BASED_ON 14/06/2019,Luật Giáo dục không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0203,date,26/07/2022,26 tháng 07 năm 2022,1,OK,,KHONG,ANH_PDF
+0216,citations,3 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0231,all,3109/QĐ-ĐHĐN 24/07/2023 Phó Giám đốc Lê Quang Sơn; 5 BASED_ON + REPLACES 2846,khớp,1,OK,,KHONG,ANH_PDF
+0203,signers,"Nguyễn Hữu Độ, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",6,OK,,KHONG,ANH_PDF
+0216,header,04/2016/TT-BGDĐT 14/03/2016 hiệu lực 29/04/2016 Thứ trưởng Bùi Văn Ga,khớp,2,OK,,KHONG,ANH_PDF
+0297,citations,3 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0297,header,39/2013/TT-BGDĐT 04/12/2013 hiệu lực 18/01/2014; REPEALS 43/2006/TT-BGDĐT; Thứ trưởng Nguyễn Vinh Hiển,khớp,9,OK,,KHONG,ANH_PDF
+0297,status,HET_HIEU_LUC,văn bản không ghi tình trạng hiệu lực,9,NGHI_NGO,không sửa (cấm suy luận); cần người quyết,KHONG,ANH_PDF
+0227,signers.position,Hiệu trưởng,Phó Giám đốc (KT. Giám đốc),1,SAI,sửa,CO,ANH_PDF
+0227,header,2852/QĐ-ĐHĐN 05/07/2023; 5 BASED_ON,khớp; ngày bị dấu đến che một phần,1,NGHI_NGO,không sửa,KHONG,ANH_PDF
+0313,citations,chỉ AMENDS 13/2021,thiếu căn cứ NĐ 86/2022/NĐ-CP,1,THIEU,thêm,CO,ANH_PDF
+0313,signers,"Hoàng Minh Sơn, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",3,OK,,KHONG,ANH_PDF
+0313,effectiveDate,01/11/2024,"'0? tháng 11 năm 2024' viết tay, chữ số đầu khó đọc chắc",3,NGHI_NGO,không sửa,KHONG,ANH_PDF
+0491,citations,11 BASED_ON,thiếu 123/2025/QH15 và 5 Luật sửa đổi SHTT,1,THIEU,thêm 6,CO,ANH_PDF
+0491,signers,"Lê Quân, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",7,OK,,KHONG,ANH_PDF
+0491,effectiveDate,12/09/2026,ngày 12 tháng 9 năm 2026 (viết tay),7,OK,,KHONG,ANH_PDF
+0303,citations,"3 BASED_ON Luật gắn số QH (11/2011/QH13, 25/2013/QH13, 12/2018/QH14)","PDF chỉ ghi Luật theo ngày, không số hiệu",1,THUA,bỏ,CO,ANH_PDF
+0383,citations,4 BASED_ON,khớp 4 căn cứ,1,OK,,KHONG,ANH_PDF
+0232,citations,2 BASED_ON sau khi bỏ 4 Luật,khớp,1,OK,,KHONG,ANH_PDF
+0306,citations,12 BASED_ON (5 Luật đã bỏ),khớp 7 Nghị định,1,OK,,KHONG,ANH_PDF
+0195,citations,3 BASED_ON Luật gắn số QH,PDF chỉ ghi Luật theo ngày,1,THUA,bỏ,CO,ANH_PDF
+0195,header,"436/QĐ-TTg 30/03/2020, Thủ tướng Nguyễn Xuân Phúc, 3 căn cứ còn lại",khớp,2,OK,,KHONG,ANH_PDF
+0173,all,2390/QĐ-ĐHĐN 01/07/2021 Giám đốc Nguyễn Ngọc Vũ; 7 BASED_ON + REPLACES 2907,khớp,1,OK,,KHONG,ANH_PDF
+0271,citations,3 BASED_ON targetDocumentNumber là ngày,Luật không ghi số hiệu,1,THUA,bỏ,CO,ANH_PDF
+0271,issueDate,29/11/2023,"ngày 29, tháng viết tay bị gạch/đè không đọc chắc (có thể 11 hoặc 12)",1,NGHI_NGO,không sửa; cần người quyết,KHONG,ANH_PDF
+0271,effectiveDate,13/02/2024,"'1? tháng 02 năm 2024' viết tay, chữ số 2 của ngày không rõ",6,NGHI_NGO,không sửa,KHONG,ANH_PDF
+0271,citations,REPLACES 12/2016/TT-BGDĐT,Điều 13 khoản 2 thay thế TT 12/2016/TT-BGDĐT,6,OK,,KHONG,ANH_PDF
+0271,signers,"Hoàng Minh Sơn, Thứ trưởng","KT. Bộ trưởng, Thứ trưởng",6,OK,,KHONG,ANH_PDF
+0263,citations,10 BASED_ON + REPLACES 2390,thiếu 2 công văn căn cứ ý kiến Đảng ủy và Công đoàn,1,THIEU,thêm,CO,ANH_PDF
+0263,signers,"Nguyễn Ngọc Vũ, Giám đốc",GIÁM ĐỐC PGS.TS Nguyễn Ngọc Vũ,2,OK,,KHONG,ANH_PDF
+0263,issueDate,27/11/2023,27 tháng 11 năm 2023 (Quy chế trang 3 ghi 'ngày 27 tháng 11 năm 2023'),3,OK,,KHONG,ANH_PDF

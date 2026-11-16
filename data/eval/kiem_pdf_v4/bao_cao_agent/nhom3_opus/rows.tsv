@@ -1,0 +1,78 @@
+0077	tat_ca		Số 2352/QĐ-ĐHBK (viết tay, rõ), 12/10/2021; số hiệu JSON sạch, không còn rác OCR	1,2,9	OK		KHONG
+0053	normativeContents[0].articles	28 mục: mỗi Điều lặp hai lần ('Điều 1' rồi '1', ... 'Điều 14','14')	Quy chế có 14 Điều (Điều 1–14), QĐ có 3 Điều; tổng 17	2-9	THUA	Bỏ 14 mục trùng đánh số '1'..'14' (bản cũ mappedBy gemini-web; nên chạy lại bằng đường API). Ngoài trường được phép sửa nên chưa sửa	KHONG
+0052	citations	BASED_ON targetDocumentNumber="2019"	Căn cứ Luật Thư viện ngày 21 tháng 11 năm 2019 (không ghi số hiệu)	1	THUA	Bỏ trích dẫn (năm không phải số hiệu, luật 7d)	KHONG
+0052	con_lai		Số 1474/QĐ-ĐHBK, 21/05/2021, 3+17 Điều, người ký PGS.TS Đoàn Quang Vinh Hiệu trưởng khớp	1,9	OK		KHONG
+0085	document.documentNumber	1425/QĐ-DHDN	1425/QĐ-ĐHĐN (bản scan mờ, chữ Đ in như D; ký hiệu chuẩn của ĐHĐN)	1	SAI	Sửa thành 1425/QĐ-ĐHĐN	KHONG
+0085	citations[6950]	6950/QĐ-DHDN	6950/QĐ-ĐHĐN	1	SAI	Sửa thành 6950/QĐ-ĐHĐN	KHONG
+0085	normativeContents[0].articles	24 mục, mỗi Điều lặp hai lần ('Điều 1','1',...)	Quy định có 12 Điều; QĐ 3 Điều	2-9	THUA	Bỏ 12 mục trùng (lỗi khâu cắt Điều từ .txt, log chạy ghi 15→27 Điều)	KHONG
+0085	issueDate/signer	26/04/2018; GS.TS Trần Văn Nam, Giám đốc	26/4/2018; GS. TS. Trần Văn Nam, Giám đốc	1,9	OK		KHONG
+0228	citations	chỉ có REPLACES 4766 + REFERENCES 639	Căn cứ có thêm 32/CP; 99/2019/NĐ-CP; 10/2020/TT-BGDĐT; 20/2020/TT-BGDĐT; 08/NQ-HĐĐH; 13/NQ-HĐĐH	1	THIEU	Thêm 6 dòng BASED_ON với context là câu Căn cứ tương ứng	KHONG
+0228	citations[4766/QĐ-ĐHĐN]	REPLACES, context = câu Căn cứ	Điều 1: 'Ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ NCKH đã được ban hành kèm theo QĐ 4766/QĐ-ĐHĐN' — chỉ thay Phụ lục, không thay cả QĐ 4766	2	NGHI_NGO	Văn bản chỉ thay Phụ lục của 4766; cân nhắc AMENDS với context = câu Điều 1 — cần người quyết, tạm giữ nguyên	KHONG
+0228	document/signer		Số 3237/QĐ-ĐHĐN, 31/7/2023, KT. Giám đốc – Phó Giám đốc PGS.TS. Lê Quang Sơn; 3 Điều; khớp	1,2	OK		KHONG
+0368	citations	BASED_ON '25/12/2001' và BASED_ON '13/11/2008'	Căn cứ Luật Tổ chức Chính phủ ngày 25/12/2001; Luật Công nghệ cao ngày 13/11/2008 (không ghi số hiệu)	1	THUA	Bỏ 2 trích dẫn mang số hiệu là ngày tháng (luật 7a/7d)	KHONG
+0368	articles[3]	number='Điều 4' (đoạn 'Các Bộ trưởng, Thủ trưởng... chịu trách nhiệm thi hành')	Đoạn này không có nhãn 'Điều 4' trên PDF; QĐ chỉ có Điều 1–3	2	THUA	Bỏ nhãn Điều 4 (gộp vào Điều 3 hoặc bỏ mục) — ngoài các trường được phép sửa	KHONG
+0368	document/signer/REPLACES		66/2014/QĐ-TTg, 25/11/2014, hiệu lực 15/01/2015, thay thế 49/2010/QĐ-TTg; Thủ tướng Nguyễn Tấn Dũng — khớp	1,2	OK		KHONG
+0371	document.title	…dự án để xuất bố trí…	…dự án đề xuất bố trí…	1	SAI	Sửa 'để xuất' → 'đề xuất' (cả normativeContents[0].title); lỗi bắt nguồn từ .txt	KHONG
+0371	citations	không có 1292/QĐ-TTg	Quy định mục I.2 nhắc 'Quyết định số 1292/QĐ-TTg ngày 24/8/2020'	3	THIEU	Thêm REFERENCES 1292/QĐ-TTg	KHONG
+0371	document/signer/BASED_ON		2968/QĐ-BGDĐT 18/10/2024, Bộ trưởng Nguyễn Kim Sơn, 6 căn cứ đủ, 3 Điều	1,2	OK		KHONG
+0419	citations	chỉ có BASED_ON 4267/QĐ-BGDĐT	Câu căn cứ nêu 3 QĐ: 4267/QĐ-BGDĐT, 538/QĐ-BGDĐT ngày 28/02/2025, 675/QĐ-BGDĐT ngày 14/3/2025	1	THIEU	Thêm BASED_ON 538/QĐ-BGDĐT và 675/QĐ-BGDĐT (context = cùng câu căn cứ)	KHONG
+0419	citations	chỉ có REFERENCES 584/BGDĐT-KHTC	Điều 2.1.d nêu cả Công văn 945/BGDĐT-KHTC ngày 07/3/2025	2	THIEU	Thêm REFERENCES 945/BGDĐT-KHTC	KHONG
+0419	document/signer		830/QĐ-BGDĐT 28/03/2025; KT. Bộ trưởng – Thứ trưởng Lê Tấn Dũng; 3 Điều — khớp (căn cứ NĐ 37/2025/NĐ-CP 'ngày 24/10/2022' đúng như bản in)	1,2	OK		KHONG
+0420	tat_ca		899/QĐ-BGDĐT 04/04/2025, Bộ trưởng Nguyễn Kim Sơn, 2 căn cứ đủ, 3 Điều	1,2	OK		KHONG
+0375	citations[19/2015/QH13]	BASED_ON 19/2015/QH13	Căn cứ chỉ ghi 'Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015' — không có số hiệu trên PDF	1	THUA	Bỏ (số hiệu do model tự suy từ kiến thức ngoài, trái luật 7a)	KHONG
+0375	citations[65/2020/QH14]	BASED_ON 65/2020/QH14	Căn cứ ghi 'Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019' — không có số hiệu; số model điền còn sai năm (2020 ≠ 2019)	1	SAI	Bỏ trích dẫn (số hiệu bịa)	KHONG
+0375	document/signer		346/QĐ-TTg 06/4/2023; KT. Thủ tướng – Phó Thủ tướng Trần Lưu Quang; 3 Điều; 10/2022/QH15 có số trong thân Kế hoạch	1,2	OK		KHONG
+0392	citations	không có REFERENCES nào	Kế hoạch mục I.1.a nêu 19/2020/NĐ-CP, 04/2021/TT-BTP, 04/2021/NĐ-CP, 127/NĐ-CP (in đúng như vậy, thiếu năm)	2	THIEU	Thêm REFERENCES 19/2020/NĐ-CP, 04/2021/TT-BTP, 04/2021/NĐ-CP, 127/NĐ-CP	KHONG
+0392	document/signer/BASED_ON		322/QĐ-BGDĐT 24/01/2025; KT. Bộ trưởng – Thứ trưởng Nguyễn Văn Phúc; 4 căn cứ đủ; 3 Điều	1	OK		KHONG
+0032	citations[32/CP]	32/CP (context 'Nghị định số 32/CP')	Bản in ghi 'Nghị định số 32/NĐ-CP ngày 04/4/1994' (bản gốc ghi sai, số đúng của NĐ thành lập ĐHĐN là 32/CP)	1	NGHI_NGO	Giữ 32/CP để khớp node chung; chỉ ghi nhận .txt đã chuẩn hoá khác bản in	KHONG
+0032	document/signer/BASED_ON		1604/QĐ-ĐHBK 31/5/2019; PGS.TS Đoàn Quang Vinh Hiệu trưởng; 7 căn cứ; 3 Điều	1,6	OK		KHONG
+0296	tat_ca		51/2012/TT-BGDĐT 18/12/2012, hiệu lực 03/02/2013, thay thế 14/2006/QĐ-BGDĐT, Bộ trưởng Phạm Vũ Luận, 18 Điều	1,10	OK		KHONG
+0237	tat_ca		5166/QĐ-ĐHĐN 28/12/2022 (viết tay); thay thế 5668/QĐ-ĐHĐN; PGS.TS Nguyễn Ngọc Vũ Giám đốc; 5 căn cứ; 3+14 Điều	1,8	OK		KHONG
+0346	citations	4 dòng BASED_ON có số hiệu là ngày: 19/06/2015, 14/06/2019, 18/06/2012, 19/11/2018	Căn cứ Luật Tổ chức Chính phủ, Luật Giáo dục, Luật GDĐH, Luật sửa đổi Luật GDĐH — chỉ ghi ngày, không có số hiệu	1	THUA	Bỏ 4 trích dẫn (luật 7d)	KHONG
+0346	document/signer/REPLACES		11/2020/TT-BGDĐT 19/05/2020, hiệu lực 01/7/2020, thay thế 04/2000/QĐ-BGDĐT; KT. Bộ trưởng – Thứ trưởng Phạm Ngọc Thưởng; 22 Điều	1,10	OK		KHONG
+0351	citations	REFERENCES chỉ có 14/2014/TTLT-BTC-BTP	Kế hoạch mục I nêu 80-KL/TW, 32-CT/TW, 21/2021/QĐ-TTg, 27-NQ/TW	2	THIEU	Thêm REFERENCES 21/2021/QĐ-TTg (và các văn bản Đảng 80-KL/TW, 32-CT/TW, 27-NQ/TW nếu kho nhận văn bản Đảng)	KHONG
+0351	document/signer/BASED_ON		599/QĐ-BGDĐT 28/02/2023; KT. Bộ trưởng – Thứ trưởng Nguyễn Văn Phúc; 2 căn cứ có số đủ; 3 Điều	1	OK		KHONG
+0288	citations	BASED_ON '15/06/2022'	Căn cứ Luật Thi đua, khen thưởng ngày 15 tháng 6 năm 2022 (không số hiệu)	1	THUA	Bỏ trích dẫn ngày tháng (luật 7d)	KHONG
+0288	metadata.so_hieu	JSON 01/2024/TT-BNV (đúng)	PDF 'Số: 1 /2024/TT-BNV'; metadata web & tên tệp ghi sai '01/2024/TT-NBV'	1	NGHI_NGO	Không sửa JSON; ghi nhận metadata/tên tệp sai ký hiệu	KHONG
+0288	document/signer		24/02/2024, hiệu lực 15/04/2024; Bộ trưởng Phạm Thị Thanh Trà; 10 Điều (.txt tách dòng tiêu đề Điều 5 nên đếm được 9)	1,8	OK		KHONG
+0289	tat_ca		4996/QĐ-BGDĐT 31/12/2021; KT. Bộ trưởng – Thứ trưởng Ngô Thị Minh; 3 căn cứ; 3 Điều + Quy chế I–VI (metadata ghi ký hiệu 'QĐ-BGDDT' thiếu Đ)	1,2	OK		KHONG
+0333	tat_ca		Công văn 4499/BGDĐT-GDĐH 06/10/2021; KT. Bộ trưởng – Thứ trưởng Hoàng Minh Sơn; không có Điều; 3 văn bản 'Thực hiện' ghi BASED_ON hợp lý	1,6	OK		KHONG
+0336	articles	5 mục đánh số 'Điều 1'..'Điều 5', text bắt đầu 'Điều 1. I. MỤC ĐÍCH, YÊU CẦU'	Kế hoạch không có Điều; chia mục La Mã I–V	1-7	SAI	Đổi number thành 'I'..'V' và bỏ tiền tố 'Điều N.' khỏi text (nhãn bịa) — ngoài trường được phép sửa	KHONG
+0336	document/signer/citations		1176/KH-BGDĐT 27/10/2021; KT. Bộ trưởng – Thứ trưởng Ngô Thị Minh; 5 văn bản 'Thực hiện' + REFERENCES khớp	1,7	OK		KHONG
+0361	note	'Trang 2-3 của file scan là mẫu tóm tắt thành tích và phiếu giải quyết văn bản đến'	Trang PDF 2 là Quy chế; mẫu tóm tắt và phiếu xử lý nằm ở trang PDF 7–8 (mốc .txt bị đánh lại từ 1)	2,7,8	NGHI_NGO	Sửa số trang trong note thành 7–8 (note không thuộc danh sách trường cần kiểm, chỉ ghi nhận)	KHONG
+0361	document/signer/citations		2040/QĐ-BGDĐT 31/07/2024; KT. Bộ trưởng – Thứ trưởng Nguyễn Thị Kim Chi; 3 căn cứ; thay thế 4996/QĐ-BGDĐT đúng; 3 Điều + Quy chế I–VI	1,2	OK		KHONG
+0219	document.documentNumber	C:/Program Files/Git/BGDĐT-TĐKT	2851/BGDĐT-TĐKT	1	SAI	Sửa thành 2851/BGDĐT-TĐKT (.txt mất số 2851)	KHONG
+0219	articles	5 mục 'Điều 1'..'Điều 5', nội dung bị diễn giải lại ('Điều 1. Quy định chung bao gồm: 1. Đối tượng áp dụng là...')	Công văn không có Điều; chia mục I, II, III... và đoạn cuối không đánh số	1-5	SAI	Thay bằng mục cắt nguyên văn từ .txt theo I/II/III; bỏ nhãn Điều bịa — ngoài trường được phép sửa	KHONG
+0219	citations[3106/BGDĐT-TĐKT]	REPLACES	'Văn bản này thay thế nội dung tại mục II ... tại Công văn số 3106/BGDĐT-TĐKT' — chỉ thay một mục	5	NGHI_NGO	Văn bản chỉ thay mục II của 3106; cân nhắc AMENDS — cần người quyết, tạm giữ nguyên	KHONG
+0219	signer/date/BASED_ON		12/7/2021; KT. Bộ trưởng – Thứ trưởng Ngô Thị Minh; 4 căn cứ có số đủ	1,5	OK		KHONG
+0333	document.effectiveDate	= issueDate	Văn bản không ghi ngày hiệu lực	1-L	SAI	Đề xuất null (không lấy ngày ban hành để điền)	KHONG
+0336	document.effectiveDate	= issueDate	Văn bản không ghi ngày hiệu lực	1-L	SAI	Đề xuất null (không lấy ngày ban hành để điền)	KHONG
+0219	document.effectiveDate	= issueDate	Văn bản không ghi ngày hiệu lực	1-L	SAI	Đề xuất null (không lấy ngày ban hành để điền)	KHONG
+0260	normativeContents[0].articles	16 mục, mỗi Điều lặp hai lần ('Điều 1','1',…'Điều 8','8')	Quy định có 8 Điều	3-7	THUA	Bỏ 8 mục trùng (lỗi khâu cắt Điều, log 11→19 Điều)	KHONG
+0260	document/signer/BASED_ON		4171/QĐ-ĐHBK 06/11/2023 (viết tay); PGS.TS. Nguyễn Hữu Hiếu Hiệu trưởng; 11 căn cứ đủ; QĐ 3 Điều	1,2	OK		KHONG
+0479	normativeContents[0].articles	22 mục, mỗi Điều lặp hai lần	Quy chế có 11 Điều	2-9	THUA	Bỏ 11 mục trùng (lỗi khâu cắt Điều, log 14→25)	KHONG
+0479	document/signer/citations		1609/QĐ-BGDĐT (số bị dấu 'Đến' che một phần, đọc được 1609) 12/06/2026; Bộ trưởng Hoàng Minh Sơn; 3 căn cứ có số đủ; thay thế 709/QĐ-BGDĐT đúng	1	OK		KHONG
+0418	citations[5000/QĐ-ĐHBK]	BASED_ON (context câu Căn cứ)	Điều 1: 'Sửa đổi, bổ sung một số điều của Quy chế chi tiêu nội bộ ... ban hành kèm theo Quyết định số 5000/QĐ-ĐHBK'	1	SAI	Đổi relationType thành AMENDS, context = câu Điều 1 (luật 7b: lấy quan hệ mạnh hơn)	KHONG
+0418	citations	thiếu 13/NQ-HĐĐH	Căn cứ '... và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021'	1	THIEU	Thêm BASED_ON 13/NQ-HĐĐH	KHONG
+0418	document/signer		1690/QĐ-ĐHBK 09/4/2025; PGS.TS. Nguyễn Hữu Hiếu Hiệu trưởng; 3 Điều; hiệu lực từ ngày ký (riêng giờ giảng áp dụng từ năm học 2024-2025)	1,6	OK		KHONG
+0453	signers[0].position	Hiệu trưởng	GIÁM ĐỐC (Giám đốc Đại học Đà Nẵng)	5	SAI	Sửa thành ['Giám đốc']	KHONG
+0453	document.status	CHUA_HIEU_LUC	Điều 3: hiệu lực từ ngày 01/01/2026 — mốc này đã qua (hôm nay 16/11/2026)	5	SAI	Sửa thành CON_HIEU_LUC	KHONG
+0453	citations[36/QĐ-ĐHĐN]	BASED_ON	Điều 1 sửa đổi, bổ sung Quy chế ban hành kèm QĐ 36/QĐ-ĐHĐN; Điều 2 bãi bỏ điểm b, c khoản 2 Điều 4 tại QĐ 36/QĐ-ĐHĐN	1,5	SAI	Đổi relationType thành AMENDS (context câu Điều 1); việc bãi bỏ một phần ở Điều 2 — cần người quyết có ghi thêm REPEALS hay không (luật 7b chỉ cho một dòng)	KHONG
+0453	document/date/citations khác		4809/QĐ-ĐHĐN 29/12/2025 (viết tay); 9 căn cứ đủ; 4 Điều + Phụ lục	1,5,6	OK		KHONG
+0021	normativeContents[0].articles	20 mục; thiếu 'Điều 19. Quan hệ giữa Nhà trường với chính quyền địa phương'	Bản gốc đánh số trùng: Điều 19 (Quan hệ với chính quyền địa phương, tr.9) và Điều 19 (Tổ chức thực hiện, tr.10) — tổng 21 Điều thực	9,10	THIEU	Bổ sung mục Điều 19 thứ nhất (cắt nguyên văn từ .txt), giữ nguyên số trùng như bản gốc; log chạy 24→23	KHONG
+0021	document/signer/BASED_ON		1177/QĐ-ĐHBK 26/4/2019; PGS.TS Đoàn Quang Vinh Hiệu trưởng; 5 căn cứ đủ; QĐ 3 Điều	1,10	OK		KHONG
+0135	tat_ca		69/2017/NĐ-CP 25/5/2017, hiệu lực từ ngày ký, thay thế 32/2008/NĐ-CP; TM. Chính phủ – Thủ tướng Nguyễn Xuân Phúc; 5 Điều. (Metadata web ghi 'Hết hiệu lực 01/11/2022' — do văn bản khác thay thế, không suy trong file này; giữ nguyên status)	1,8,9	OK		KHONG
+0265	normativeContents[0].articles	16 mục, mỗi Điều lặp hai lần	Quy định có 8 Điều	2-7	THUA	Bỏ 8 mục trùng (log 11→19)	KHONG
+0265	document/signer/BASED_ON		4799/QĐ-ĐHBK 15/12/2023 (viết tay); PGS.TS. Nguyễn Hữu Hiếu Hiệu trưởng; 8 căn cứ có số đủ; QĐ 3 Điều	1,2	OK		KHONG
+0360	tat_ca		2060/QĐ-BGDĐT 05/08/2024; KT. Bộ trưởng – Thứ trưởng Hoàng Minh Sơn; 7 căn cứ đủ; 3 Điều + Phụ lục danh mục	1,2	OK		KHONG
+0359	signers[0].academicTitle	null	PGS.TS	1	THIEU	Điền 'PGS.TS'	KHONG
+0359	document/citations		2888/QĐ-ĐHBK 17/7/2024 (viết tay); 7 căn cứ đủ; 3+14 Điều	1,2	OK		KHONG
+0390	document.status	CHUA_HIEU_LUC	Điều 10: hiệu lực từ 25/3/2025 (viết tay) — đã qua	7	SAI	Sửa thành CON_HIEU_LUC	KHONG
+0390	document/signer/citations		03/2025/TT-BGDĐT 07/02/2025, hiệu lực 25/03/2025 (metadata web ghi sai 07/02/2025); KT. Bộ trưởng – Thứ trưởng Hoàng Minh Sơn; 2 căn cứ; 12 Điều; trang 8 là phiếu xử lý văn bản đến của ĐHBK	1,7,8	OK		KHONG
+0317	tat_ca		05/2024/TT-BGDĐT 29/03/2024, hiệu lực 01/6/2024; 31/2021/TT-BGDĐT 'hết hiệu lực kể từ ngày Thông tư này có hiệu lực' → REPEALS hợp lý; KT. Bộ trưởng – Thứ trưởng Phạm Ngọc Thưởng; 8 Điều	1,5,6	OK		KHONG
+0422	document.issueDate/effectiveDate	04/04/2025	14/04/2025 (viết tay 'ngày 14 tháng 4'; dấu Đến 18/4/2025; metadata web cũng 14/04/2025)	1	SAI	Sửa issueDate và effectiveDate thành 14/04/2025 (hiệu lực từ ngày ký)	KHONG
+0422	signers[0].position	Hiệu trưởng	KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC — PGS. TS. Nguyễn Mạnh Toàn	2	SAI	Sửa thành ['Phó Giám đốc']	KHONG
+0422	citations	chỉ có BASED_ON 749/QĐ-BGDĐT	Căn cứ còn có 27-CT/TW, 158/2024/QH15, 84/2014/NĐ-CP, 188/2014/TT-BTC, 10/2020/TT-BGDĐT, 08/NQ-HĐĐH, 13/NQ-HĐĐH	1	THIEU	Thêm 7 dòng BASED_ON	KHONG
+0422	metadata.co_quan	JSON Đại học Đà Nẵng (đúng)	PDF: Giám đốc Đại học Đà Nẵng; metadata web ghi 'Trường Đại học Bách khoa'	1	NGHI_NGO	Không sửa JSON; metadata web lệch	KHONG
+0079	citations	thiếu 13/NQ-HĐĐH	Căn cứ '... được sửa đổi, bổ sung một số điều tại Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021'	1	THIEU	Thêm BASED_ON 13/NQ-HĐĐH (luật 7c: khối Căn cứ giữ cả hai)	KHONG
+0079	document/signer/REPLACES		2465/QĐ-ĐHBK 01/10/2021 (viết tay); thay thế 447/QĐ-ĐHBK; PGS.TS. Đoàn Quang Vinh Hiệu trưởng; 3 Điều + Quy trình Bước 1–4	1,2	OK		KHONG

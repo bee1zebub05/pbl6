@@ -49,9 +49,16 @@ Góp ý bằng Comment hoặc Track Changes của Word rồi gửi cho Kiên; kh
 Hiện đồ thị, chatbot và mọi số đo chạy trên 103 văn bản liên quan người học. Kiên làm nốt 351
 văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ tự:
 
-- [ ] Trích xuất JSON v4 cho 351 văn bản còn lại bằng `tools/gemini_api/chay_json.py`, cùng PROMPT
-      và tham số `--nguon` / `--ra` như lúc làm 103 văn bản (xem commit `bfb2cb8`). Dùng đường API,
-      không dùng đường web (đường web hay chết tab và dính RECITATION).
+- [x] (17/11) Nhóm 1–3 theo số trang PDF (1–10 trang, 136 văn bản): 131 văn bản có JSON v4, đã
+      đối chiếu ảnh PDF gốc và sửa; tập đánh giá độ sai lệch ở `data/eval/kiem_pdf_v4/`. Model
+      `gemini-3.1-flash-lite` (3.5-flash-lite bị quá tải 503).
+- [ ] Nhóm 4–6 (11–20, 21–40, trên 40 trang; 213 văn bản) và 0161, 0352 (bản gốc .doc): làm theo
+      đúng quy trình trong `data/eval/kiem_pdf_v4/README.md` (chụp bản gốc → đối chiếu ảnh PDF →
+      trọng tài → chấm). Hai văn bản lớn 0245, 0246 (730–810 KB) chạy riêng sau cùng.
+- [ ] 5 văn bản chưa có JSON hợp lệ: 0023, 0084 (mục đánh số A, B…), 0193 (bản kèm theo không có
+      Điều), 0488 (loại "Quy chế") cần quyết sửa lược đồ; 0110 cần sửa PROMPT (model xếp nhóm đối
+      tượng vào ô lĩnh vực).
+- [ ] 0149: tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.
 - [ ] Kiểm tra lược đồ cho toàn bộ 454 tệp (`python run.py lkg validate --dir data/clean/json/v4`)
       và soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`); đọc soát các tệp rơi vào `_nghi_ngo/`.
 - [ ] Suy hiệu lực trên toàn kho: `python tools/kiem_tra/suy_hieu_luc.py --dir data/clean/json/v4`

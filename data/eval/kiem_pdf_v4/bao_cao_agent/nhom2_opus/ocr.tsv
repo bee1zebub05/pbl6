@@ -1,0 +1,15 @@
+ma	trang_pdf	chuoi_trong_txt	chuoi_dung_theo_pdf	loai	ghi_chu
+0322	1	Ban Khoa học và Hợp tác quốc tế theo định kỳ 3 tháng/một lần	Ban Khoa học và Hợp tác quốc theo định kỳ 3 tháng/một lần	thua_chu	PDF gốc thiếu chữ "tế"; txt đã tự thêm
+0048	1	Căn cứ Nghị định số 32/CP ngày 04/4/1994	Căn cứ Nghị định số 32/NĐ-CP ngày 04/4/1994	so_hieu	PDF gốc in 32/NĐ-CP (sai so với số hiệu thật 32/CP); txt đã tự chuẩn hoá
+0048	1	Thông tư số 08/2014/TT-BGDĐT	Thông tư số 08/2014/TT-BDGĐT	so_hieu	PDF gốc in lỗi BDGĐT; txt đã tự chuẩn hoá
+0081	1	Số: 3819/QĐ-ĐHBK	Số: 389/QĐ-ĐHBK	so_hieu	số viết tay
+0081	2	(Ban hành kèm theo Quyết định số 3819/QĐ-ĐHBK, ngày 20/10/2015)	(Ban hành kèm theo Quyết định số 389/QĐ-ĐHBK, ngày 20/10/2015)	so_hieu	số viết tay
+0175	1	Điều 1. Ban hành kèm theo Quyết định này Quy định về tiêu chuẩn bổ sung trong việc xét, đề nghị công nhận danh hiệu Chiến sĩ thi đua cơ sở	Điều 1. Ban hành kèm theo Quyết định này Quy định về tiêu chuẩn bổ sung trong việc xét, công nhận danh hiệu Chiến sĩ thi đua cơ sở	thua_chu	txt thêm "đề nghị" không có trong PDF trang 1
+0332	1	Quyết định số 2559/QĐ-BGDĐT ngày 06 của Bộ Giáo dục và Đào tạo trien khai Chuong trình hành động = tháng 8 năm 2021 ban hành Chương
+trình hành động
+của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của 2 1	Quyết định số 2559/QĐ-BGDĐT ngày 06 tháng 8 năm 2021 ban hành Chương trình hành động của Bộ Giáo dục và Đào tạo triển khai Chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của	khac	OCR đảo trật tự chữ, mất dấu, thừa "= " và "2 1" (dấu nước bên lề)
+0332	1	là nẳm học toàn ngành Giáo dục tiếp tục thực hiện nhiệm vụ kép, J vừa tích	là năm học toàn ngành Giáo dục tiếp tục thực hiện nhiệm vụ kép, vừa tích	dau_tieng_viet	thừa "J"
+0340	1	Số: 1375/KH-BGDĐT	Số:1374 /KH-BGDĐT	so_hieu	txt ghi theo tên tệp/metadata, PDF in 1374
+0415	1	(không có câu này)	Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;	mat_chu	dấu "ĐẾN" của văn thư đè lên câu, OCR bỏ mất
+0376	2	(không có)	PGS.TS. Nguyễn Mạnh Toàn	mat_chu	OCR mất họ tên người ký dưới dấu
+0376	1	Thực hiện Công văn số 2281-CV/ĐU ngày 07/10/2024	Triển khai thực hiện Công văn số 2281-CV/ĐU ngày 07/10/2024	mat_chu	chữ "Triển khai" bị dấu ĐẾN đè

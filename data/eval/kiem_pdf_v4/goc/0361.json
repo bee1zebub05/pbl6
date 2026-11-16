@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0361_2040_QĐ-BGDĐT_Quy chế xét chọn _Nhà giáo tiêu biểu_.txt",
+  "mappedBy": "gemini-web",
+  "note": "Văn bản bao gồm Quyết định 2040/QĐ-BGDĐT và Quy chế kèm theo. Trang 2-3 của file scan là mẫu tóm tắt thành tích và phiếu giải quyết văn bản đến của Trường Đại học Bách khoa (Đại học Đà Nẵng), không phải nội dung chính của văn bản quy phạm pháp luật nên không đưa vào normativeContents. 3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2040/QĐ-BGDĐT",
+    "title": "Quyết định về việc ban hành Quy chế xét chọn “Nhà giáo tiêu biểu”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "31/07/2024",
+    "effectiveDate": "31/07/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Quyết định ban hành Quy chế xét chọn “Nhà giáo tiêu biểu” nhằm ghi nhận, tôn vinh các nhà giáo và cán bộ quản lý cơ sở giáo dục có đóng góp đặc biệt xuất sắc, tạo động lực thúc đẩy tinh thần đổi mới, sáng tạo trong toàn ngành giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Kim Chi",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "98/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng;"
+    },
+    {
+      "targetDocumentNumber": "29/2023/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 29/2023/TT-BGDĐT ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng đối với ngành Giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "4996/QĐ-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4996/QĐ-BGDĐT ngày 31 tháng 12 năm 2021 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế bình chọn \"Nhà giáo tiêu biểu của năm\"."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Quốc gia Hà Nội",
+    "Đại học Quốc gia Thành phố Hồ Chí Minh",
+    "Đại học Bách khoa Hà Nội",
+    "Đại học Kinh tế Thành phố Hồ Chí Minh",
+    "Công đoàn Giáo dục Việt Nam"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy chế xét chọn “Nhà giáo tiêu biểu”",
+      "contentType": "Quy chế",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "MỤC ĐÍCH, Ý NGHĨA",
+          "text": "I. MỤC ĐÍCH, Ý NGHĨA\nViệc xét chọn “Nhà giáo tiêu biểu” nhằm ghi nhận, tôn vinh các nhà giáo và cán bộ quản lý cơ sở giáo dục có đóng góp đặc biệt xuất sắc, tạo ra những chuyển biến tích cực, hiệu quả trong đơn vị, có sức lan tỏa trong toàn ngành, qua đó tạo động lực thúc đẩy tinh thần đổi mới, sáng tạo của đội ngũ nhà giáo và cán bộ quản lý cơ sở giáo dục trong cả nước, góp phần thực hiện thành công đổi mới căn bản, toàn diện giáo dục và đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "THỜI GIAN ĐỀ CỬ, XÉT CHỌN VÀ TỔ CHỨC TÔN VINH",
+          "text": "II. THỜI GIAN ĐỀ CỬ, XÉT CHỌN VÀ TỔ CHỨC TÔN VINH\nViệc đề cử, xét chọn và tôn vinh “Nhà giáo tiêu biểu” được tổ chức 02 năm/lần, thực hiện từ năm 2024. Nếu năm tổ chức tôn vinh “Nhà giáo tiêu biểu” trùng với năm tổ chức Đại hội thi đua yêu nước ngành Giáo dục thì việc tôn vinh “Nhà giáo tiêu biểu” được lồng ghép cùng với sự kiện tổ chức Đại hội thi đua yêu nước ngành Giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "ĐỐI TƯỢNG, NGUYÊN TẮC VÀ SỐ LƯỢNG ĐỀ CỬ, XÉT CHỌN",
+          "text": "III. ĐỐI TƯỢNG, NGUYÊN TẮC VÀ SỐ LƯỢNG ĐỀ CỬ, XÉT CHỌN\n1. Đối tượng xét chọn: Giáo viên, giảng viên, cán bộ quản lý cơ sở giáo dục thuộc các cơ sở giáo dục mầm non, giáo dục phổ thông, giáo dục thường xuyên, giáo dục đại học, trường cao đẳng sư phạm, trường chuyên biệt và các cơ sở giáo dục khác thuộc phạm vi quản lý nhà nước của Bộ Giáo dục và Đào tạo, bao gồm các cơ sở công lập và ngoài công lập (sau đây gọi chung là nhà giáo).\n2. Nguyên tắc đề cử, xét chọn: a) Bảo đảm công khai, minh bạch, dân chủ và tự nguyện trong việc đề cử, xét chọn. b) Tôn vinh các nhà giáo tâm huyết với nghề, có nhiều đổi mới, sáng tạo trong giảng dạy, hoạt động giáo dục và quản lý học sinh, sinh viên, được đồng nghiệp, người học tín nhiệm. Ưu tiên đề cử, xét chọn nhà giáo, cán bộ quản lý cơ sở giáo dục công tác tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, nhà giáo trực tiếp nuôi dạy trẻ khuyết tật.\n3. Số lượng đề cử tham gia xét chọn hàng năm: a) Đối với các sở giáo dục và đào tạo: Đề cử, xét chọn nhà giáo từ các cơ sở giáo dục thuộc phạm vi quản lý của sở giáo dục và đào tạo, phòng giáo dục và đào tạo, trong đó căn cứ số lượng nhà giáo các cấp học của địa phương, Bộ Giáo dục và Đào tạo phân bổ số lượng như sau: Đối với sở giáo dục và đào tạo các tỉnh, thành phố có số lượng nhà giáo từ 40.000 người trở lên đề cử tối đa 05 nhà giáo xuất sắc tiêu biểu đại diện mỗi cấp học 01 nhà giáo gồm: Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học cơ sở, giáo dục trung học phổ thông, giáo dục thường xuyên, trong đó không quá 02 cán bộ quản lý cơ sở giáo dục. Đối với sở giáo dục và đào tạo các tỉnh, thành phố có số lượng nhà giáo từ 25.000 người trở lên đến dưới 40.000 người đề cử tối đa 03 nhà giáo xuất sắc tiêu biểu thuộc cấp học giáo dục mầm non hoặc giáo dục tiểu học 01 nhà giáo, cấp trung học cơ sở hoặc giáo dục thường xuyên 01 nhà giáo, cấp trung học phổ thông 01 nhà giáo, trong đó không quá 01 cán bộ quản lý cơ sở giáo dục. Đối với sở giáo dục và đào tạo các tỉnh, thành phố còn lại đề cử tối đa 02 nhà giáo xuất sắc tiêu biểu thuộc cấp học giáo dục mầm non hoặc giáo dục tiểu học 01 nhà giáo, cấp trung học cơ sở hoặc giáo dục thường xuyên hoặc trung học phổ thông 01 nhà giáo, trong đó không quá 01 cán bộ quản lý cơ sở giáo dục. b) Đối với các cơ sở giáo dục đại học, trường cao đẳng sư phạm thuộc thẩm quyền quản lý của các bộ, ban, ngành, tỉnh và cơ sở giáo dục đại học tư thục: Đề cử 01 nhà giáo xuất sắc tiêu biểu. c) Đối với các đơn vị trực thuộc Bộ Giáo dục và Đào tạo: Đề cử 01 nhà giáo xuất sắc tiêu biểu; riêng ba đại học vùng, Đại học Bách khoa Hà Nội, Đại học Kinh tế Thành phố Hồ Chí Minh, mỗi đơn vị đề cử 03 nhà giáo, trong đó có 02 giảng viên trực tiếp giảng dạy. d) Đối với Đại học Quốc gia Hà Nội và Đại học Quốc gia Thành phố Hồ Chí Minh: Mỗi đơn vị đề cử 04 nhà giáo, trong đó có 02 giảng viên trực tiếp giảng dạy.\n4. Số lượng “Nhà giáo tiêu biểu” được xét chọn và khen thưởng: a) Số lượng: Khoảng 300 “Nhà giáo tiêu biểu” do Hội đồng xét chọn của Bộ Giáo dục và Đào tạo quyết định. b) Khen thưởng: “Nhà giáo tiêu biểu” được nhận Bằng khen và quà tặng của Bộ trưởng Bộ Giáo dục và Đào tạo, đồng thời được mời tham dự các hoạt động “Tri ân Nhà giáo” vào dịp kỷ niệm ngày Nhà giáo Việt Nam 20 tháng 11. c) Nguồn kinh phí khen thưởng: Từ nguồn ngân sách nhà nước và các nguồn tài trợ hợp pháp khác.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "IV",
+          "heading": "TIÊU CHUẨN ĐỀ CỬ, XÉT CHỌN",
+          "text": "IV. TIÊU CHUẨN ĐỀ CỬ, XÉT CHỌN\n1. Có phẩm chất chính trị vững vàng, có đạo đức, lối sống giản dị, mẫu mực; chấp hành nghiêm các chủ trương, chính sách của Đảng và pháp luật của Nhà nước, nội quy, quy chế làm việc của đơn vị và tại địa phương nơi cư trú.\n2. Tâm huyết, tận tụy với nghề, tinh thần trách nhiệm cao trong công tác; có uy tín về chuyên môn, ảnh hưởng rộng rãi trong ngành, lĩnh vực hoặc cấp huyện, cấp tỉnh; được người học, đồng nghiệp và nhân dân kính trọng.\n3. Trong 05 năm liền kề năm xét chọn \"Nhà giáo tiêu biểu\", có thành tích tiêu biểu, nổi trội, xuất sắc trong nuôi dạy, giảng dạy, giáo dục, quản lý được quy định với từng đối tượng như sau: a) Nhà giáo, cán bộ quản lý tại các cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, giáo dục thường xuyên không thuộc đối tượng tại điểm b khoản này đạt các tiêu chuẩn sau: Có 01 sáng kiến, giải pháp, biện pháp được công nhận có hiệu quả áp dụng trong giảng dạy hoặc quản lý, có khả năng nhân rộng trong bộ, ban, ngành, tỉnh. Được công nhận là giáo viên dạy giỏi hoặc chủ nhiệm lớp giỏi hoặc tổng phụ trách Đội giỏi cấp tỉnh hoặc bồi dưỡng học sinh đoạt giải nhất, nhì, ba trong các kỳ thi chọn học sinh giỏi quốc gia hoặc quốc tế hoặc đạt danh hiệu Chiến sĩ thi đua cấp bộ, ban, ngành, tỉnh trở lên. b) Nhà giáo, cán bộ quản lý tại các cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, giáo dục thường xuyên thuộc vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và trường, lớp dành cho người khuyết tật, trung tâm hỗ trợ phát triển giáo dục hòa nhập: Có biện pháp, giải pháp thực hiện hiệu quả trong việc hỗ trợ nuôi dưỡng, chăm sóc, giáo dục, giúp đỡ người học có hoàn cảnh khó khăn trong học tập; hoặc có biện pháp, giải pháp vận động được nhiều người học đến trường và duy trì sĩ số học sinh hoặc có nhiều đổi mới, sáng tạo quản lý giáo dục ở địa phương được cơ quan, đơn vị quản lý cấp trên xác nhận hoặc tuyên dương. c) Nhà giáo, cán bộ quản lý tại các trường cao đẳng sư phạm đạt các tiêu chuẩn sau: Chủ trì 01 nhiệm vụ khoa học và công nghệ cơ sở, cấp tỉnh, bộ đã được nghiệm thu từ mức đạt trở lên; hoặc tác giả 02 sáng kiến được công nhận có hiệu quả áp dụng trong giảng dạy hoặc quản lý, có khả năng nhân rộng trong bộ, ban, ngành, tỉnh; hoặc tác giả 01 bằng độc quyền sáng chế/bằng độc quyền giải pháp hữu ích/bản quyền tác giả; hoặc hướng dẫn 01 công trình nghiên cứu khoa học của người học, nhóm người học đoạt giải nhất, nhì, ba hoặc giải thưởng sinh viên nghiên cứu khoa học, “Tài năng khoa học trẻ”, “Tuổi trẻ sáng tạo” cấp tỉnh, bộ; hoặc hướng dẫn 01 người học, nhóm người học đoạt giải nhất, nhì, ba trong các kỳ thi quốc gia, quốc tế. Tác giả 02 bài báo khoa học. d) Nhà giáo, cán bộ quản lý tại các cơ sở giáo dục đại học đạt các tiêu chuẩn sau: Chủ trì 01 nhiệm vụ khoa học và công nghệ cấp quốc gia hoặc 01 nhiệm vụ khoa học và công nghệ cấp tỉnh, bộ đã được nghiệm thu từ mức đạt trở lên (đối với các cơ sở giáo dục thuộc Bộ Quốc phòng do Thủ trưởng Bộ Tổng tham mưu, Thủ trưởng Tổng cục Chính trị phê duyệt) hoặc 01 bằng độc quyền sáng chế/bằng độc quyền giải pháp hữu ích/bản quyền tác giả; hoặc tác giả 02 sáng kiến có hiệu quả áp dụng, khả năng nhân rộng trong bộ, ban, ngành, tỉnh; hoặc hướng dẫn 01 công trình nghiên cứu khoa học của người học/nhóm người học đoạt giải nhất, nhì, ba hoặc giải thưởng sinh viên nghiên cứu khoa học, “Tài năng khoa học trẻ”, “Tuổi trẻ sáng tạo” cấp tỉnh, bộ; hoặc hướng dẫn 01 người học/nhóm người học đoạt giải nhất, nhì, ba trong các kỳ thi quốc gia, quốc tế. Tác giả 05 bài báo khoa học.\n4. Tích cực tham gia các hoạt động đoàn thể, xã hội, phục vụ cộng đồng hoặc hỗ trợ nuôi dạy, giảng dạy người học có hoàn cảnh đặc biệt vươn lên trong học tập, xây dựng trường, lớp, vận động được người học có hoàn cảnh đặc biệt, hoàn cảnh khó khăn đến trường và duy trì sĩ số học sinh, góp phần tạo ra những chuyển biến tích cực, hiệu quả trong đơn vị, có sức lan tỏa tại địa phương hoặc trong toàn ngành.\n5. Có 02 danh hiệu thi đua, hình thức khen thưởng tiêu biểu trong 05 năm liền kề (Chiến sĩ thi đua cơ sở, Bằng khen cấp tỉnh, bộ trở lên).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "V",
+          "heading": "QUY TRÌNH ĐỀ CỬ, XÉT CHỌN",
+          "text": "V. QUY TRÌNH ĐỀ CỬ, XÉT CHỌN\n1. Đối các sở giáo dục và đào tạo: a) Căn cứ điều kiện thực tế của địa phương để xây dựng tiêu chuẩn, kế hoạch xét chọn, đề cử nhà giáo bảo đảm phù hợp đối với từng cấp học; tổ chức xét chọn, đề cử nhà giáo bảo đảm dân chủ, khách quan, đúng tiêu chuẩn, đúng đối tượng. b) Công khai danh sách đề cử được xét chọn trên cổng thông tin điện tử của sở giáo dục và đào tạo ít nhất 07 ngày làm việc trước khi gửi đề nghị về Bộ Giáo dục và Đào tạo.\n2. Đối với các cơ sở giáo dục đại học, trường cao đẳng sư phạm: a) Xây dựng kế hoạch và tổ chức xét chọn, đề cử nhà giáo đáp ứng tiêu chuẩn. b) Công khai danh sách đề cử được xét chọn trên cổng thông tin điện tử của đơn vị ít nhất 07 ngày làm việc trước khi gửi đề nghị về Bộ Giáo dục và Đào tạo.\n3. Tổ chức xét chọn tại Bộ Giáo dục và Đào tạo: Thành lập Hội đồng xét chọn của Bộ Giáo dục và Đào tạo do 01 Thứ trưởng làm Chủ tịch Hội đồng; các ủy viên Hội đồng là đại diện lãnh đạo các đơn vị: Công đoàn Giáo dục Việt Nam, Cục Nhà giáo và Cán bộ quản lý giáo dục, Vụ Giáo dục Mầm non, Vụ Giáo dục Tiểu học, Vụ Giáo dục Trung học, Vụ Giáo dục thường xuyên, Vụ Giáo dục Đại học, Vụ Khoa học, Công nghệ và Môi trường, Vụ Tổ chức cán bộ, Báo Giáo dục và Thời đại. Hội đồng có Tổ thư ký giúp việc do Chủ tịch Hội đồng quyết định thành lập. Vụ Tổ chức cán bộ là đơn vị đầu mối, có trách nhiệm tiếp nhận hồ sơ đề cử, cùng Tổ thư ký tổng hợp, rà soát, phân loại hồ sơ theo cấp học để báo cáo Hội đồng. Trên cơ sở các hồ sơ đề cử nhận được, Hội đồng xét chọn xem xét, lựa chọn khoảng 300 “Nhà giáo tiêu biểu”, bảo đảm tỷ lệ cân đối cho từng cấp học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "VI",
+          "heading": "HỒ SƠ ĐỀ NGHỊ XÉT CHỌN",
+          "text": "VI. HỒ SƠ ĐỀ NGHỊ XÉT CHỌN\n1. Hồ sơ đề nghị xét chọn thực hiện theo quy định tại Điều 43 Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng, kèm theo tóm tắt thành tích (theo mẫu), trong đó báo cáo thành tích của cá nhân được đề nghị khen thưởng theo mẫu số 08 Phụ lục I Nghị định số 98/2023/NĐ-CP (có ảnh 4x6, thành tích đạt được cần nêu rõ những việc làm cụ thể, thành tích xuất sắc trong 05 năm liền kề, giải pháp, biện pháp đạt được thành tích xuất sắc; danh hiệu thi đua, hình thức khen thưởng đã đạt được trong 05 năm liền kề và minh chứng).\n2. Hồ sơ gửi về Bộ Giáo dục và Đào tạo (qua Vụ Tổ chức cán bộ), số 35 Đại Cồ Việt, quận Hai Bà Trưng, thành phố Hà Nội trước ngày 31 tháng 8 của năm xét chọn, bản mềm tóm tắt thành tích gửi về địa chỉ email vutdkt@moet.gov.vn (riêng năm 2024 thời gian gửi hồ sơ về Bộ Giáo dục và Đào tạo trước ngày 15 tháng 9 năm 2024). Trong quá trình thực hiện Quy chế này, nếu có khó khăn vướng mắc cần làm rõ đề nghị liên hệ với Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo để được hướng dẫn./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Quy chế xét chọn “Nhà giáo tiêu biểu”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Quy chế xét chọn “Nhà giáo tiêu biểu”.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4996/QĐ-BGDĐT ngày 31 tháng 12 năm 2021 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế bình chọn \"Nhà giáo tiêu biểu của năm\".",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 4996/QĐ-BGDĐT ngày 31 tháng 12 năm 2021 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế bình chọn \"Nhà giáo tiêu biểu của năm\".",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Sở Giáo dục và Đào tạo, Giám đốc đại học, học viện, Hiệu trưởng trường đại học, trường cao đẳng sư phạm, Thủ trưởng đơn vị thuộc và trực thuộc Bộ",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Sở Giáo dục và Đào tạo, Giám đốc đại học, học viện, Hiệu trưởng trường đại học, trường cao đẳng sư phạm, Thủ trưởng đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

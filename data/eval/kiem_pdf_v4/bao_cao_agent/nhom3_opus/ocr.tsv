@@ -1,0 +1,12 @@
+0077	1	Căn cứ Luật Báo chí ngày 05 tháng- 4 năm 2016;	Căn cứ Luật Báo chí ngày 05 tháng 4 năm 2016;	thua_chu	
+0077	1	Căn cứ Nghị quyết . số 08/NQ-HĐĐH	Căn cứ Nghị quyết số 08/NQ-HĐĐH	thua_chu	
+0077	1	Căn cứ Nghị quyết . số 05/NQ-HĐT	Căn cứ Nghị quyết số 05/NQ-HĐT	thua_chu	
+0371	1	dự án để xuất bố trí	dự án đề xuất bố trí	dau_tieng_viet	tiêu đề QĐ, lặp ở tiêu đề Quy định trang 3
+0032	1	Căn cứ Nghị định số 32/CP ngày 04/4/1994	Căn cứ Nghị định số 32/NĐ-CP ngày 04/4/1994	so_hieu	bản in ghi 32/NĐ-CP; .txt đã đổi thành 32/CP
+0032	1	Thông tư số 08/2014/TT-BGDĐT	Thông tư số 08/2014/TT-BDGĐT	so_hieu	bản in sai chính tả ký hiệu; .txt đã sửa
+0214	1	Đà Nẵng, ngày 14 tháng 5 năm 2021	Đà Nẵng, ngày 11 tháng 5 năm 2021	ngay	PDF 0214 trùng byte với 0042 (cùng sha256); .txt 0042 ghi đúng 11
+0214	3	Quyết định số 1394/QĐ-ĐHBK ngày 14 tháng 5 năm 2021	Quyết định số 1394/QĐ-ĐHBK ngày 11 tháng 5 năm 2021	ngay	dòng 'Ban hành kèm theo' của Chính sách
+0361	6-7	----- [Trang 6] ----- / ----- [Trang 1] -----	(mốc trang phải là 6, 7, 8 theo PDF)	khac	mốc trang .txt bị đánh lại từ 1 ở phần cuối (Trang 1,2,3 thay vì 6/7/8)
+0219	1	Số: /BGDĐT-TĐKT	Số:2851 /BGDĐT-TĐKT	so_hieu	mất số 2851
+0418	1	Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021	Căn cứ Nghị quyết số 08/QĐ-HĐĐH ngày 12 tháng 7 năm 2021	so_hieu	bản in ghi 08/QĐ-HĐĐH (sai ký hiệu ở bản gốc); .txt đã chuẩn hoá
+0422	1	Đà Nẵng, ngày 4 tháng 4 năm 2025	Đà Nẵng, ngày 14 tháng 4 năm 2025	ngay	số 14 viết tay

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0159_5778_BGDĐT-QLCL_5778_BGDĐT-QLCL Công văn của Bộ GDĐT về việc ứng dụng công nghệ thông tin trong.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "5778/BGDĐT-QLCL",
+    "title": "V/v ứng dụng công nghệ thông tin trong thực hiện KĐCLGD",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/12/2021",
+    "effectiveDate": "13/12/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Bộ Giáo dục và Đào tạo hướng dẫn các cơ sở giáo dục và tổ chức kiểm định chất lượng giáo dục tăng cường ứng dụng công nghệ thông tin trong các bước tự đánh giá, đánh giá ngoài và thẩm định kết quả đánh giá để đảm bảo hoạt động liên tục, hiệu quả trong bối cảnh dịch COVID-19.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Hoàng Minh Sơn",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

@@ -1,0 +1,65 @@
+ma	truong	gia_tri_json	gia_tri_pdf	trang_pdf	muc_do	de_xuat_sua	da_sua
+0367	citations	thiếu 117/2016/NĐ-CP	Căn cứ ... Nghị định số 17/2013/NĐ-CP ... và Nghị định số 117/2016/NĐ-CP ngày 21/7/2016	1	THIEU	thêm BASED_ON 117/2016/NĐ-CP	CO
+0300	(tất cả)			1,5	OK		KHONG
+0236	normativeContents.articles	5 mục "1..5" (Loại 1–5) tóm tắt từ bảng Phụ lục	Phụ lục là bảng, không có Điều; văn bản có 3 Điều	3	NGHI_NGO	cân nhắc bỏ các mục giả Điều trong Phụ lục (không thuộc phạm vi sửa)	KHONG
+0236	citations	không có REFERENCES	Ghi chú Phụ lục nêu Thông tư 20/2021/TT-BTTTT và 09/2013/TT-BTTTT	3	THIEU	có thể thêm REFERENCES (không bắt buộc)	KHONG
+0029	signers[0].academicTitle	PGS.TS	GS. TS LÊ KIM HÙNG	1	SAI	GS.TS	CO
+0322	citations	chỉ BASED_ON 2268/ĐHĐN-HTQT	Công văn sửa đổi, bổ sung khoản 1, 2 Điều 5 của Quyết định 2268	1-2	THIEU	thêm AMENDS 2268/ĐHĐN-HTQT, targetArticle Điều 5	CO
+0322	articles	3 "Điều" (Điều 1, 2, 3) do model tự đánh số	Công văn không có Điều nào (chỉ khoản 1, 2 trích dẫn)	1-2	THUA	bỏ/đánh dấu các Điều giả (ngoài phạm vi được sửa); JSON cũ mappedBy gemini-web	KHONG
+0284	citations	không có REPEALS nào	Điều 1 bãi bỏ toàn bộ 13 văn bản; Điều 2 bãi bỏ một phần TTLT 06/2007/TTLT-BGDĐT-BNV-BTC	1-3	THIEU	thêm 14 REPEALS	CO
+0284	citations[0].targetDocumentNumber	2015	Căn cứ Luật ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 (PDF không ghi số hiệu)	1	NGHI_NGO	số hiệu thật là 80/2015/QH13 nhưng PDF không ghi; chuẩn hoá tập trung	KHONG
+0031	(tất cả)			1,5	OK		KHONG
+0046	citations	213b/QĐ-ĐHBK-KH,SĐH&HTQT chỉ BASED_ON	Điều 1 điều chỉnh phụ lục Quy định khen thưởng KHCN ban hành ngày 03/10/2014 (QĐ 213b); Điều 2 thay thế quy định trước	1	THIEU	thêm AMENDS 213b/QĐ-ĐHBK-KH,SĐH&HTQT	CO
+0046	normativeContents.articles	3 mục 1–3 trong Phụ lục	Phụ lục là bảng tiêu chí, không có Điều; văn bản có 3 Điều	2-5	NGHI_NGO	mục giả Điều trong Phụ lục	KHONG
+0157	signers[0].position	Hiệu trưởng	GIÁM ĐỐC (PGS.TS. Nguyễn Ngọc Vũ)	1	SAI	Giám đốc	CO
+0157	citations	thiếu căn cứ Luật báo chí	Căn cứ Luật báo chí ngày 05/4/2016 (PDF không ghi số hiệu)	1	THIEU	thêm BASED_ON Luật Báo chí (103/2016/QH13) khi chuẩn hoá số hiệu Luật tập trung — PDF không ghi số nên chưa thêm	KHONG
+0048	citations[0..1].targetDocumentNumber	32/CP; 08/2014/TT-BGDĐT	PDF in "32/NĐ-CP" và "08/2014/TT-BDGĐT" (lỗi đánh máy của bản gốc)	1	OK	giữ số hiệu chuẩn; không cần sửa	KHONG
+0048	normativeContents.articles	3 mục 1–3	Quy trình không chia Điều (mục 1, 2, 3)	2-3	NGHI_NGO	mục giả Điều	KHONG
+0049	(toàn văn bản)	JSON = Quyết định 771/QĐ-ĐHBK Ban hành Quy trình xây dựng kế hoạch và dự toán kinh phí hoạt động	PDF 0049 trùng byte với PDF 0048 (cùng sha256 ccd66432…); nội dung là QĐ 771/QĐ-ĐHBK ngày 08/04/2019 về Quy trình dự toán kinh phí, KHÔNG phải "Quy chế làm việc của Phòng Thí nghiệm và Xưởng thực hành, thực tập"	1-3	SAI	Tệp sai: cần tìm lại văn bản thật; loại 0049 khỏi đồ thị (bản trùng 0048) — không sửa theo chỉ đạo	KHONG
+0081	document.documentNumber	3819/QĐ-ĐHBK	Số: 389/QĐ-ĐHBK (viết tay; trang 2 cũng ghi 389)	1	SAI	389/QĐ-ĐHBK	CO
+0081	signers[0].academicTitle	PGS.TS	GS. TS LÊ KIM HÙNG	1	SAI	GS.TS	CO
+0081	normativeContents.articles	16 mục (mỗi Điều 1–8 xuất hiện 2 lần: "Điều N" và "N")	Quy chế có 8 Điều	2-5	THUA	bỏ 8 mục trùng "1".."8" (ngoài phạm vi được sửa)	KHONG
+0175	citations[0].targetDocumentNumber	32/NĐ-CP	PDF in "Nghị định số 32/NĐ-CP ngày 04/4/1994" (số hiệu thật là 32/CP)	1	NGHI_NGO	đúng nguyên văn PDF; chuẩn hoá về 32/CP khi gộp node tập trung	KHONG
+0186	citations	thiếu 4047/TB-ĐHĐN	Căn cứ Thông báo số 4047/TB-ĐHĐN ngày 29/11/2019	1	THIEU	thêm BASED_ON 4047/TB-ĐHĐN	CO
+0205	citations	không có BASED_ON nào	4 căn cứ là Luật/Bộ luật không ghi số hiệu (Luật Tổ chức Chính phủ 2015, Luật sửa đổi 2019, Bộ luật Lao động 2019, Luật Viên chức 2010 + Luật sửa đổi 2019)	1	NGHI_NGO	PDF không ghi số hiệu nên không thêm; xử lý khi chuẩn hoá Luật tập trung. Các trường khác khớp	KHONG
+0207	document.title	Quyết định Về việc ban hành Quy định tiêu chuẩn bổ sung…	Ban hành Quy định tiêu chuẩn bổ sung trong việc xét, công nhận danh hiệu Chiến sĩ thi đua cơ sở cho viên chức, người lao động của các đơn vị thuộc, trực thuộc Đại học Đà Nẵng	1	SAI	bỏ "Về việc" không có trong trích yếu	CO
+0207	citations[0].targetDocumentNumber	32/NĐ-CP	PDF in "32/ND-CP" (số hiệu thật 32/CP)	1	NGHI_NGO	giữ nguyên; chuẩn hoá tập trung	KHONG
+0258	(tất cả)			1-3	OK	10 REPEALS đầy đủ; 2 căn cứ Luật không ghi số hiệu không được đưa vào (giữ nguyên)	KHONG
+0262	citations	chỉ có 32/CP	thiếu 6 căn cứ: 08/NQ-HĐĐH, 13/NQ-HĐĐH, 05/NQ-HĐT, 22/NQ-HĐT, 600/TB-ĐHBK, 2801/KH-ĐHBK	1	THIEU	thêm 6 BASED_ON	CO
+0262	document.documentNumber	4374/QĐ-ĐHBK	Số: 4374/QĐ-ĐHBK (JSON đúng; tên tệp và metadata web ghi 4347)	1	NGHI_NGO	metadata/tên tệp lệch (4347); JSON giữ 4374	KHONG
+0286	(tất cả)			1,4	OK	căn cứ đều là Luật không ghi số hiệu (giữ nguyên)	KHONG
+0316	(tất cả)			1,4	OK		KHONG
+0332	document.effectiveDate	24/08/2021	Chỉ thị không ghi ngày hiệu lực	1-5	SAI	null	CO
+0332	citations[50/NQ-CP].relationType	BASED_ON	Chỉ thị không có phần Căn cứ; Nghị quyết 50/NQ-CP chỉ được nhắc trong đoạn mở đầu	1	SAI	REFERENCES	CO
+0332	citations	thiếu 2559/QĐ-BGDĐT	Quyết định số 2559/QĐ-BGDĐT ngày 06 tháng 8 năm 2021 ban hành Chương trình hành động của Bộ GDĐT	1	THIEU	thêm REFERENCES 2559/QĐ-BGDĐT	CO
+0334	document.effectiveDate	20/08/2019	Kế hoạch không ghi ngày hiệu lực	1-5	SAI	null	CO
+0334	document.status	CON_HIEU_LUC	Kế hoạch giai đoạn 2019-2025, không tự tuyên bố hết hiệu lực	1	NGHI_NGO	giữ nguyên (không suy từ giai đoạn)	KHONG
+0335	document.effectiveDate	02/11/2020	Kế hoạch không ghi ngày hiệu lực	1-5	SAI	null	CO
+0335	citations[29-NQ/TW].relationType	BASED_ON	"a) Đẩy mạnh thực hiện Nghị quyết số 29-NQ/TW..." nằm trong mục Mục đích, không phải căn cứ	1	SAI	REFERENCES	CO
+0335	document.issueDate	02/11/2020	"ngày02tháng1 1năm 2020" — chữ số tháng đè lên nhau, đọc được 11	1	OK		KHONG
+0339	(tất cả)			1,5	OK	title bỏ tiền tố "V/v" của trích yếu (không ảnh hưởng)	KHONG
+0340	document.documentNumber	1375/KH-BGDĐT	Số:1374 /KH-BGDĐT	1	SAI	1374/KH-BGDĐT	CO
+0340	document.effectiveDate	02/11/2020	Kế hoạch không ghi ngày hiệu lực	1-5	SAI	null	CO
+0340	citations[29-NQ/TW].relationType	BASED_ON	chỉ nêu trong mục Mục đích	1	SAI	REFERENCES	CO
+0340	(toàn văn bản)	Kế hoạch 1374 (sau sửa)	PDF 0340 có nội dung trùng với 0335 (cùng Kế hoạch 1374/KH-BGDĐT, cùng người ký, khác byte tệp). Metadata web và tên tệp ghi 1375/KH-BGDĐT — văn bản 1375 thật không có trong kho	1-5	NGHI_NGO	cần người quyết: gộp/loại 0340 như bản trùng của 0335 hoặc tìm lại văn bản 1375	KHONG
+0341	document.effectiveDate	31/03/2023	Công văn không ghi ngày hiệu lực	1-2	SAI	null	CO
+0341	signers[0].fullName	Ngô Thị Minh	dấu đè chữ "Ngô"; đọc được "...ô Thị Minh"	2	OK		KHONG
+0410	citations	thiếu 13/NQ-HĐĐH	Căn cứ Nghị quyết số 08/NQ-HĐĐH … và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021	1	THIEU	thêm BASED_ON 13/NQ-HĐĐH	CO
+0410	normativeContents.articles	4 mục I, 1, 1.1, 2 của biểu dự toán	Biểu số liệu, không có Điều	3	NGHI_NGO	mục giả Điều trong biểu	KHONG
+0412	normativeContents.articles	8 mục (1, 1.1, 1.2, …, 3) của biểu số liệu	Biểu dự toán, không có Điều; văn bản có 3 Điều	3	NGHI_NGO	mục giả Điều trong biểu; metadata khác khớp	KHONG
+0415	citations	thiếu 32/CP	Căn cứ Nghị định số 32/CP ngày 04/4/1994 … (bị dấu ĐẾN đè nhưng đọc được)	1	THIEU	thêm BASED_ON 32/CP	CO
+0415	citations	thiếu 1290/TB-BGDĐT, 106/TB-BGDĐT	Căn cứ Thông báo số 1290/TB-BGDĐT ngày 30/9/2024; Căn cứ Thông báo số 106/TB-BGDĐT ngày 07/02/2024	1	THIEU	thêm 2 BASED_ON	CO
+0415	document.title	Công bố công khai quyết toán…	Về việc công bố công khai quyết toán ngân sách nhà nước năm 2023 của Đại học Đà Nẵng	1	SAI	thêm tiền tố "Quyết định Về việc"	CO
+0415	citations[137/2017/TT-BTC]	BASED_ON	căn cứ của phần Thuyết minh kèm theo (trang 3), không có trong phần căn cứ của Quyết định	3	NGHI_NGO	giữ nguyên	KHONG
+0221	document.title	Sửa đổi, bổ sung một số điều của “Quy định…”	QUYẾT ĐỊNH Sửa đổi, bổ sung một số điều của “Quy định về liêm chính học thuật…”	1	SAI	thêm tiền tố "Quyết định"	CO
+0221	citations[29/QĐ-ĐHBK].targetArticle	null	Điểm a Khoản 3 Điều 4 được sửa đổi	1	THIEU	Điều 4	CO
+0221	(toàn văn bản)		Cùng số 1274/QĐ-ĐHBK với mã 0034 (nhóm khác, đã có JSON v4) — có thể là bản trùng	1	NGHI_NGO	cần người quyết: gộp/loại trùng với 0034	KHONG
+0028	signers[0].academicTitle	PGS.TS	GS. TS LÊ KIM HÙNG	1	SAI	GS.TS	CO
+0028	citations	thiếu 7052/QĐ-ĐHĐN, 177/QĐ-ĐHBK	Căn cứ Quyết định số 7052/QĐ-ĐHĐN …; Căn cứ Quyết định số 177/QĐ-ĐHBK …	1	THIEU	thêm 2 BASED_ON	CO
+0028	normativeContents.articles	20 mục (Điều 1–10 mỗi Điều lặp 2 lần "Điều N" và "N")	Quy định có 10 Điều	2-4	THUA	bỏ 10 mục trùng (ngoài phạm vi được sửa)	KHONG
+0030	signers[0].academicTitle	PGS.TS	GS. TS LÊ KIM HÙNG	1	SAI	GS.TS	CO
+0030	normativeContents.articles	4 mục I–IV	Quy trình chia mục I–IV, không có Điều	2-5	NGHI_NGO	mục giả Điều	KHONG
+0302	(tất cả)			1,3	OK	Luật PCTN 2018 không ghi số hiệu (giữ nguyên)	KHONG
+0364	normativeContents.articles	20 mục 1–20 (danh sách hộp thư)	Phụ lục là bảng danh sách, không có Điều; văn bản có 3 Điều	3	NGHI_NGO	mục giả Điều; các trường khác khớp	KHONG
+0376	signers	[] (rỗng)	KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC — PGS.TS. Nguyễn Mạnh Toàn	2	THIEU	thêm signer Nguyễn Mạnh Toàn, PGS.TS, Phó Giám đốc	CO
+0376	citations[2281-CV/ĐU].relationType	BASED_ON	"Triển khai thực hiện Công văn số 2281-CV/ĐU…" (công văn không có phần Căn cứ)	1	NGHI_NGO	giữ nguyên (có thể là REFERENCES)	KHONG

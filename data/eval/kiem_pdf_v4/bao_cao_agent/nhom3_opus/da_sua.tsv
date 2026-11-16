@@ -1,0 +1,45 @@
+0052	citations	BASED_ON "2019"	(bỏ, Luật Thư viện không ghi số hiệu)	1
+0085	documentNumber	1425/QĐ-DHDN	1425/QĐ-ĐHĐN	1
+0085	citations.targetDocumentNumber	6950/QĐ-DHDN	6950/QĐ-ĐHĐN	1
+0228	citations	(không có)	BASED_ON 32/CP	1
+0228	citations	(không có)	BASED_ON 99/2019/NĐ-CP	1
+0228	citations	(không có)	BASED_ON 10/2020/TT-BGDĐT	1
+0228	citations	(không có)	BASED_ON 20/2020/TT-BGDĐT	1
+0228	citations	(không có)	BASED_ON 08/NQ-HĐĐH	1
+0228	citations	(không có)	BASED_ON 13/NQ-HĐĐH	1
+0368	citations	BASED_ON "25/12/2001", BASED_ON "13/11/2008"	(bỏ, luật chỉ ghi ngày, không số hiệu)	1
+0419	citations	(không có)	BASED_ON 538/QĐ-BGDĐT	1
+0419	citations	(không có)	BASED_ON 675/QĐ-BGDĐT	1
+0419	citations	(không có)	REFERENCES 945/BGDĐT-KHTC	2
+0375	citations	BASED_ON 19/2015/QH13, BASED_ON 65/2020/QH14	(bỏ, căn cứ chỉ ghi tên luật và ngày, số hiệu do model tự điền)	1
+0392	citations	(không có)	REFERENCES 19/2020/NĐ-CP	2
+0392	citations	(không có)	REFERENCES 04/2021/TT-BTP	2
+0392	citations	(không có)	REFERENCES 04/2021/NĐ-CP	2
+0392	citations	(không có)	REFERENCES 127/NĐ-CP	2
+0346	citations	BASED_ON "19/06/2015", "14/06/2019", "18/06/2012", "19/11/2018"	(bỏ, luật chỉ ghi ngày, không số hiệu)	1
+0288	citations	BASED_ON "15/06/2022"	(bỏ, luật chỉ ghi ngày, không số hiệu)	1
+0371	title	"...dự án để xuất bố trí..."	"...dự án đề xuất bố trí..."	1
+0371	citations	(không có)	REFERENCES 1292/QĐ-TTg	3
+0351	citations	(không có)	REFERENCES 21/2021/QĐ-TTg	2
+0219	documentNumber	/BGDĐT-TĐKT	2851/BGDĐT-TĐKT	1
+0219	effectiveDate	12/07/2021	null (văn bản không ghi ngày hiệu lực)	1-5
+0333	effectiveDate	06/10/2021	null (văn bản không ghi ngày hiệu lực)	1-6
+0336	effectiveDate	27/10/2021	null (văn bản không ghi ngày hiệu lực)	1-7
+0453	signers[0].position	['Hiệu trưởng']	['Giám đốc']	5
+0453	status	CHUA_HIEU_LUC	CON_HIEU_LUC (Điều 3: hiệu lực từ 01/01/2026, đã qua)	5
+0453	citations[36/QĐ-ĐHĐN].relationType	BASED_ON	AMENDS	1
+0418	citations[5000/QĐ-ĐHBK].relationType	BASED_ON	AMENDS	1
+0418	citations	(không có)	BASED_ON 13/NQ-HĐĐH	1
+0390	status	CHUA_HIEU_LUC	CON_HIEU_LUC (Điều 10: hiệu lực từ 25/3/2025, đã qua)	7
+0359	signers[0].academicTitle	None	PGS.TS	1
+0422	issueDate	04/04/2025	14/04/2025	1
+0422	effectiveDate	04/04/2025	14/04/2025	1
+0422	signers[0].position	['Hiệu trưởng']	['Phó Giám đốc']	2
+0422	citations	(không có)	BASED_ON 27-CT/TW	1
+0422	citations	(không có)	BASED_ON 158/2024/QH15	1
+0422	citations	(không có)	BASED_ON 84/2014/NĐ-CP	1
+0422	citations	(không có)	BASED_ON 188/2014/TT-BTC	1
+0422	citations	(không có)	BASED_ON 10/2020/TT-BGDĐT	1
+0422	citations	(không có)	BASED_ON 08/NQ-HĐĐH	1
+0422	citations	(không có)	BASED_ON 13/NQ-HĐĐH	1
+0079	citations	(không có)	BASED_ON 13/NQ-HĐĐH	1
