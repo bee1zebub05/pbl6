@@ -15,6 +15,33 @@ chính, mọi người gửi Comment/Track Changes).
 - Merge `ocr-improvement` vào `main`; 274/274 test đạt với Neo4j thật.
 - Lưu mã xử lý dữ liệu cũ vào `tools/lich_su_xu_ly/`.
 
+## Mỗi người đọc lại và kiểm tra phần báo cáo của mình
+
+Bản nháp báo cáo được viết từ Google Doc của nhóm và từ repo, **chưa ai trong nhóm đọc duyệt**.
+Mỗi người đọc kỹ phần ứng với việc mình đã làm trong `bao_cao/Bao_cao_PBL6.docx` (cùng nội dung với
+`F:\DUT4\PBL6\Bao_cao_PBL6.docx` trên máy Kiên; `git pull` để lấy bản mới nhất).
+
+| Người | Phần trong báo cáo |
+|---|---|
+| Kiên | 2.2.1–2.2.2; 3.1; 3.3 (định dạng văn bản, text_final, JSON); 3.4 (xử lý dữ liệu); 3.5.3–3.5.4; 4.5.3 phần đối chiếu bản gốc và Bảng 4.6 |
+| Đức | 2.2.3–2.2.6; 3.2; 3.5.1–3.5.2, 3.5.5–3.5.6 (ontology, quan hệ, đồ thị con); 3.6 (chatbot); 4.1–4.4; 4.5.1–4.5.2 |
+| Nguyên | 2.2.7; 4.5.3 phần độ chính xác trích xuất (Bảng 4.5); 4.5.4–4.5.6 (đánh giá truy hồi, chatbot, nhận xét) |
+| Tùng | Trang bìa, Mở đầu, chương 1 (cả Bảng 1.1), 2.1, chương 5, Tài liệu tham khảo, Phụ lục; định dạng chung (mục lục, danh mục hình, bảng, từ viết tắt) |
+
+Khi đọc, kiểm tra:
+
+- Mỗi câu mô tả đúng cái nhóm đã làm và đúng với code; không có chi tiết nào bịa hay hiểu sai.
+- Mọi con số, tên tệp, tên lệnh, số hiệu văn bản khớp với kết quả thật trong repo.
+- Hình và bảng đúng nội dung, chú thích đúng, được nhắc tới trong đoạn văn.
+- Văn phong, chính tả, thuật ngữ thống nhất giữa các chương.
+
+Góp ý bằng Comment hoặc Track Changes của Word rồi gửi cho Kiên; không tự commit đè tệp `.docx`.
+
+- [ ] Kiên đã đọc và gửi góp ý
+- [ ] Đức đã đọc và gửi góp ý
+- [ ] Nguyên đã đọc và gửi góp ý
+- [ ] Tùng đã đọc và gửi góp ý
+
 ## Kiên
 
 ### Chuyển toàn bộ kho sang JSON v4 (454 văn bản thay cho mẫu 103)
@@ -61,7 +88,6 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
 - [ ] Đưa hướng dẫn dựng lại đồ thị vào README chính (`data/neo4j_dump/README.md` bị xoá khỏi
       `main` ở commit `f4892b9`). Lưu ý: phải gom phẳng cả 103 tệp JSON v4, kể cả `_nghi_ngo/`,
       và đặt `LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json`.
-- [ ] Đọc soát báo cáo mục 3.5, 3.6, 4.1, 4.4, 4.5.1; gửi góp ý cho Kiên.
 
 ## Nguyên
 
@@ -76,7 +102,6 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       103 văn bản: hoặc gán thêm, hoặc ghi rõ trong báo cáo là đo trên mẫu 103.
 - [ ] Gửi Kiên số mới để thay vào báo cáo mục 4.5.4, 4.5.5, Bảng 4.7 và Hình 4.4 (biểu đồ vẽ từ
       các số F1, nDCG@10 của 7 cách tìm).
-- [ ] Đọc soát báo cáo mục 4.5.2–4.5.6; gửi góp ý cho Kiên.
 
 ## Tùng
 
@@ -86,8 +111,7 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
 - [ ] Dựng dự án trên một máy sạch theo Phụ lục C của báo cáo; ghi lại bước nào lỗi hoặc thiếu
       để sửa hướng dẫn.
 - [ ] Bổ sung phần việc của mình vào Bảng 1.1 của báo cáo (dòng của Tùng đang có chỗ trống).
-- [ ] Đọc soát báo cáo phần Mở đầu, chương 1, 2, 5 và Tài liệu tham khảo (đổi sang thứ tự xuất
-      hiện trong bài nếu thầy yêu cầu kiểu IEEE); gửi góp ý cho Kiên.
+- [ ] Đổi Tài liệu tham khảo sang thứ tự xuất hiện trong bài nếu thầy yêu cầu kiểu IEEE.
 
 ## Cả nhóm
 
