@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini OCR Batch (PBL6)",
+  "short_name": "GeminiOCR",
+  "version": "1.0",
+  "description": "Đẩy PDF lên Gemini, lấy text OCR về, ghi vào clean_data giữ nguyên cây thư mục của raw.",
+  "permissions": ["storage", "tabs", "scripting", "downloads", "alarms"],
+  "host_permissions": [
+    "https://gemini.google.com/*",
+    "https://drive.google.com/*",
+    "https://docs.google.com/*",
+    "https://*.googleusercontent.com/*",
+    "http://127.0.0.1:8777/*",
+    "http://localhost:8777/*"
+  ],
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/*"],
+      "js": ["visibility_spoof.js"],
+      "run_at": "document_start",
+      "world": "MAIN",
+      "all_frames": true
+    }
+  ],
+  "action": { "default_title": "Gemini OCR Batch — mở bảng điều khiển" },
+  "web_accessible_resources": [
+    {
+      "resources": ["engine_gemini_pdf.js", "frame_grabber.js"],
+      "matches": ["https://gemini.google.com/*"]
+    }
+  ]
+}
