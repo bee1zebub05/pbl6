@@ -14,7 +14,8 @@ from core.graph_query import graph_context
 from core.llm import embeddings
 from core.normalize import normalize_document_number
 
-SEED_COLUMNS = {"articleId", "number", "heading", "text", "docKey", "documentNumber", "container", "score"}
+SEED_COLUMNS = {"articleId", "number", "heading", "text", "docKey", "documentNumber", "container", "score",
+                "pageStart", "pageEnd", "pageConfidence"}
 
 
 @pytest.fixture(scope="module")
