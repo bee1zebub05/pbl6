@@ -32,7 +32,7 @@
   "S01_docs_by_org_active": {
    "expected_ids": [
     "1001/QĐ-ĐHBK",
-    "107/QĐ-ĐHBK",
+    "1077/QĐ-ĐHBK",
     "1088/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "1216/QĐ-ĐHBK",
@@ -60,14 +60,13 @@
     "4532/QĐ-ĐHBK",
     "5543/QĐ-ĐHBK",
     "806/QĐ-ĐHBK",
-    "840/QĐ-ĐHBK",
-    "905"
+    "840/QĐ-ĐHBK"
    ],
    "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
   },
   "S02_docs_by_target_group": {
    "expected_ids": [
-    "/QĐ-ĐHĐN",
+    "1841/QĐ-ĐHĐN",
     "02/2025/TT-BGDĐT",
     "05/2022/QĐ-TTg",
     "05/NQ-HĐT",
@@ -82,7 +81,7 @@
     "10/2016/TT-BGDĐT",
     "10/2026/TT-BGDĐT",
     "1001/QĐ-ĐHBK",
-    "107/QĐ-ĐHBK",
+    "1077/QĐ-ĐHBK",
     "1088/QĐ-ĐHBK",
     "1214/QĐ-ĐHBK",
     "1216/QĐ-ĐHBK",
@@ -163,7 +162,7 @@
     "840/QĐ-ĐHBK",
     "86/2021/NĐ-CP",
     "866/QĐ-ĐHĐN",
-    "905",
+    "905/QĐ-ĐHBK",
     "97/2023/NĐ-CP",
     "973/QĐ-ĐHĐN"
    ],
@@ -171,7 +170,7 @@
   },
   "S03_docs_by_topic": {
    "expected_ids": [
-    "/QĐ-ĐHĐN",
+    "1841/QĐ-ĐHĐN",
     "06/2026/TT-BGDĐT",
     "09/2020/TT-BGDĐT",
     "1248/QĐ-ĐHĐN",
@@ -195,6 +194,7 @@
   "S04_normative_content_active": {
    "expected_ids": [
     "10/2016/TT-BGDDT#nd1",
+    "10/2026/TT-BGDDT#nd1",
     "1001/QD-DHBK#nd1",
     "1478/QD-DHDN#nd1",
     "16/2015/TT-BGDDT#nd1",
@@ -210,8 +210,7 @@
     "53/2026/TT-BGDDT#nd1",
     "56/2026/TT-BGDDT#nd1",
     "6/2026/TT-BGDDT#nd1",
-    "9/2020/TT-BGDDT#nd1",
-    "905#nd1"
+    "9/2020/TT-BGDDT#nd1"
    ],
    "method": "Kết quả Cypher trên graph v4 (cùng cách lấy gold như bản v2), đã soi tay."
   },
@@ -284,7 +283,7 @@
     "10/2026/TT-BGDDT#Điều 3",
     "1001/QD-DHBK#nd1#Điều 29",
     "1001/QD-DHBK#Điều 3",
-    "107/QD-DHBK#Điều 3",
+    "1077/QD-DHBK#Điều 3",
     "1088/QD-DHBK#Điều 3",
     "1214/QD-DHBK#nd1#Điều 50",
     "1214/QD-DHBK#Điều 3",
@@ -423,8 +422,8 @@
     "9/2020/TT-BGDDT#Điều 3",
     "97/2023/ND-CP#Điều 3",
     "973/QD-DHDN#Điều 3",
-    "QD-DHDN#nd1#Điều 14",
-    "QD-DHDN#Điều 4"
+    "1841/QD-DHDN#nd1#Điều 14",
+    "1841/QD-DHDN#Điều 4"
    ],
    "method": "136/464 Điều cũ thuộc văn bản có trong v4, map sang articleId v4 theo (số văn bản, số Điều, độ giống văn bản >= 0,6), không Điều nào lệch. Áp lại tiêu chí gold_s14_articles.json: +4 Điều ở văn bản mới, +3 Điều mới tách ra, +6 Điều thi hành bản gán cũ bỏ sót (xem s14_added)."
   },
@@ -468,7 +467,7 @@
   },
   "S20_active_org_docs_that_amend": {
    "expected_ids": [
-    "107/QĐ-ĐHBK",
+    "1077/QĐ-ĐHBK",
     "1088/QĐ-ĐHBK",
     "3707/QĐ-ĐHBK"
    ],

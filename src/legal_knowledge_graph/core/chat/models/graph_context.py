@@ -22,8 +22,11 @@ class ArticleEvidence(BaseModel):
     text: str = ""
     container: str | None = None       # tiêu đề nội dung kèm theo chứa Điều (nếu có)
     score: float = 0.0                 # điểm RRF sau khi gộp các nguồn
-    via: list[str] = []                # vector | fulltext | scope
+    via: list[str] = []                # vector | fulltext | scope | rerank
     neighbors: list["ArticleEvidence"] = []
+    pageStart: int | None = None       # trang PDF gốc (tools/kiem_tra/nguon_trang.py)
+    pageEnd: int | None = None
+    pageConfidence: str | None = None  # cao | trung_binh | thap | khong_ro
 
 
 class DocumentContext(BaseModel):

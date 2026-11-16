@@ -37,6 +37,20 @@ thể không có khối ký. Nên báo cáo tách theo loại văn bản để b
 
 Chỉ sáu file này là đủ để dựng lại báo cáo — đã kiểm bằng cách lần theo đồ thị import.
 
+## So với bản gốc và truy nguồn trang
+
+Hai công cụ dưới đây cần PDF gốc trong `data/raw/pdf/` (ngoài git, 2,3 GB).
+
+| File | Vai trò |
+|---|---|
+| `ocr_gold.py` | Bộ chuẩn OCR theo trang: chọn trang, xuất ảnh, chấm `text_final` bằng CER, từ thiếu/thừa và token chứa chữ số. Xem `data/eval/ocr_gold/README.md` |
+| `nguon_trang.py` | `data/clean/nguon_trang/`: manifest PDF có SHA-256, và bảng Điều -> trang PDF kèm độ tin cậy, dùng cho `LKG_PAGE_PROVENANCE` khi build graph |
+
+Mốc `[Trang N]` của `text_final` chỉ khớp đủ 1..N với PDF ở 285/450 văn bản; 82 văn
+bản tăng dần nhưng thiếu trang, 83 văn bản lộn xộn hoặc chia theo khúc 5 trang. Vì vậy
+bảng Điều -> trang ghi độ tin cậy, và chatbot chỉ dẫn số trang khi độ tin cậy là `cao`
+(đối chiếu với bộ chuẩn: 21/22 Điều mức `cao` đúng trang).
+
 ## Ba chỗ dễ đọc sai, đã xử lý
 
 **Tiêu đề Điều dài hơn một dòng.** Trong quyết định, Điều 1/2/3 thường là cả đoạn nằm

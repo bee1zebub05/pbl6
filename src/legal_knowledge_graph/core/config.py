@@ -30,6 +30,10 @@ TOPICS_SEED_PATH = REFERENCE_DIR / "topics_seed.json"
 TARGET_GROUPS_SEED_PATH = REFERENCE_DIR / "target_groups_seed.json"
 ALIASES_SEED_PATH = REFERENCE_DIR / "aliases_seed.json"
 DEFAULT_DATA_DIR = ROOT / "samples"
+# Bảng Điều -> trang PDF gốc do tools/kiem_tra/nguon_trang.py sinh (vd
+# data/clean/nguon_trang/dieu_v4.json). Đặt thì lúc build mỗi Article có thêm
+# sourcePdf/pageStart/pageEnd/pageConfidence; để trống thì bỏ qua.
+PAGE_PROVENANCE = os.getenv("LKG_PAGE_PROVENANCE", "")
 
 # Trỏ vào container Neo4j THỨ HAI, tách biệt hoàn toàn khỏi instance của
 # pipeline tự động (src/vanban). Không dùng chung port/biến môi trường.
@@ -191,6 +195,15 @@ GRAPH_RAG_MAX_RELATED = int(os.getenv("LKG_GRAPH_RAG_MAX_RELATED", "3"))
 # Ngân sách ký tự toàn văn Điều đưa vào prompt, và mức cắt mỗi Điều.
 GRAPH_RAG_CONTEXT_CHARS = int(os.getenv("LKG_GRAPH_RAG_CONTEXT_CHARS", "12000"))
 GRAPH_RAG_ARTICLE_CHARS = int(os.getenv("LKG_GRAPH_RAG_ARTICLE_CHARS", "1500"))
+
+# Xếp hạng lại hạt giống sau RRF (core/llm/rerank.py): none | gemini | cross_encoder.
+# Mặc định tắt cho tới khi đo trên benchmark của nhóm (hệ hybrid_rerank).
+RERANK_PROVIDER = os.getenv("LKG_RERANK_PROVIDER", "none").strip().lower()
+RERANK_MODEL = os.getenv("LKG_RERANK_MODEL") or (
+    "BAAI/bge-reranker-v2-m3" if RERANK_PROVIDER == "cross_encoder" else "gemini-3.1-flash-lite")
+# Số ứng viên (sau RRF) đưa vào reranker, và số ký tự mỗi Điều đưa vào.
+RERANK_CANDIDATES = int(os.getenv("LKG_RERANK_CANDIDATES", "16"))
+RERANK_PASSAGE_CHARS = int(os.getenv("LKG_RERANK_PASSAGE_CHARS", "1200"))
 
 # Tắt được để chat-eval/test thường ngày không tốn thêm quota embedding —
 # chat UI thật vẫn mặc định bật (đúng quyết định "chạy cho mọi câu hỏi").

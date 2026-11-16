@@ -11,6 +11,8 @@ hoặc None khi hệ đó không có cách trả lời loại đáp án này.
     hybrid      RRF(bm25_full, vector) — từ khoá + ngữ nghĩa
     hybrid_kg   §6.4 Ontology: hybrid lọc văn bản hạt giống, KG mở rộng một
                 bước theo quan hệ căn cứ / thay thế / sửa đổi / bãi bỏ
+    hybrid_rerank  RRF ở mức Điều, 16 Điều đầu được reranker xếp lại
+                (core/llm/rerank.py) rồi mới gộp lên đơn vị đáp án
 
 Gộp bằng Reciprocal Rank Fusion (chỉ dùng thứ hạng) vì điểm BM25 và cosine
 không cùng thang đo.
@@ -159,10 +161,62 @@ def hybrid_kg(session, query: Query, limit: int, seeds: int = 5) -> list[str] | 
     return out[:limit]
 
 
+RERANK_POOL = int(os.getenv("LKG_RERANK_CANDIDATES", "16"))
+
+_ARTICLE_ROWS = """
+    UNWIND $ids AS id MATCH (a:Article {articleId: id})
+    OPTIONAL MATCH (d:Document)-[:HAS_ARTICLE|PROMULGATES*1..2]->(a)
+    RETURN a.articleId AS articleId, a.heading AS heading, a.text AS text,
+           head(collect(d.documentNumber)) AS documentNumber
+"""
+_ART_TO_UNIT = {
+    "documentNumber": "UNWIND $ids AS id MATCH (d:Document)-[:HAS_ARTICLE|PROMULGATES*1..2]->(a:Article {articleId: id})"
+                      " RETURN id, d.documentNumber AS unit",
+    "contentId": "UNWIND $ids AS id MATCH (d:NormativeContent)-[:HAS_ARTICLE]->(a:Article {articleId: id})"
+                 " RETURN id, d.contentId AS unit",
+}
+
+
+def hybrid_rerank(session, query: Query, limit: int) -> list[str] | None:
+    """Như chatbot khi bật LKG_RERANK_PROVIDER: RRF(fulltext Điều, vector Điều)
+    ở mức Điều, đưa RERANK_POOL Điều đầu vào reranker, rồi gộp lên đơn vị đáp
+    án; phần còn lại nối thêm theo thứ hạng của `hybrid`. Mặc định dùng Gemini
+    (LKG_RERANK_PROVIDER=cross_encoder để chạy bge-reranker tại máy)."""
+
+    base = hybrid(session, query, limit)
+    if base is None:
+        return None
+    from legal_knowledge_graph.core.llm import rerank
+
+    scorer = rerank.build_scorer(os.getenv("LKG_RERANK_PROVIDER") or "gemini")
+    full = ("CALL db.index.fulltext.queryNodes('article_text', $q, {limit: $n}) YIELD node, score",
+            {"q": bm25.lucene_query(query.question), "n": RERANK_POOL * 4})
+    vec = ("CALL db.index.vector.queryNodes($index, $n, $vec) YIELD node, score",
+           {"index": _VECTOR_INDEX, "n": RERANK_POOL * 4, "vec": embed_question(query.question)})
+    pool = rrf(*(_rollup(session, call, params, "articleId") for call, params in (full, vec)))[:RERANK_POOL]
+    rows = {r["articleId"]: dict(r) for r in session.run(_ARTICLE_ROWS, ids=pool)}
+    pool = [a for a in pool if a in rows]
+    scores = scorer(query.question, [rerank.passage(rows[a]) for a in pool])
+    ranked = [a for _, a in sorted(zip(scores, pool), key=lambda p: -p[0])]
+    if query.id_field == "articleId":
+        units = ranked
+    else:
+        to_unit: dict[str, str] = {}
+        for r in session.run(_ART_TO_UNIT[query.id_field], ids=ranked):
+            to_unit.setdefault(r["id"], r["unit"])
+        units = [to_unit[a] for a in ranked if to_unit.get(a)]
+    out: list[str] = []
+    for key in units + base:
+        if key not in out:
+            out.append(key)
+    return out[:limit]
+
+
 SYSTEMS = {
     "bm25": bm25.search,
     "bm25_full": bm25_full,
     "vector": vector,
     "hybrid": hybrid,
     "hybrid_kg": hybrid_kg,
+    "hybrid_rerank": hybrid_rerank,
 }

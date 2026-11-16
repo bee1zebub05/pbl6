@@ -25,3 +25,9 @@ tools/labeler/*.db-shm
 
 # Dump Neo4j: 26 MB nhi phan, tai tao duoc tu JSON trong repo -> khong dua vao lich su git
 data/neo4j_dump/**/*.dump
+
+# PDF goc 2,3 GB, giu ngoai git
+data/raw/
+
+# Anh trang cua bo chuan OCR, xuat lai duoc tu PDF goc (ocr_gold.py chon)
+data/eval/ocr_gold/anh/
