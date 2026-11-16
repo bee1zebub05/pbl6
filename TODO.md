@@ -17,6 +17,30 @@ chính, mọi người gửi Comment/Track Changes).
 
 ## Kiên
 
+### Chuyển toàn bộ kho sang JSON v4 (454 văn bản thay cho mẫu 103)
+
+Hiện đồ thị, chatbot và mọi số đo chạy trên 103 văn bản liên quan người học. Kiên làm nốt 351
+văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ tự:
+
+- [ ] Trích xuất JSON v4 cho 351 văn bản còn lại bằng `tools/gemini_api/chay_json.py`, cùng PROMPT
+      và tham số `--nguon` / `--ra` như lúc làm 103 văn bản (xem commit `bfb2cb8`). Dùng đường API,
+      không dùng đường web (đường web hay chết tab và dính RECITATION).
+- [ ] Kiểm tra lược đồ cho toàn bộ 454 tệp (`python run.py lkg validate --dir data/clean/json/v4`)
+      và soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`); đọc soát các tệp rơi vào `_nghi_ngo/`.
+- [ ] Suy hiệu lực trên toàn kho: `python tools/kiem_tra/suy_hieu_luc.py --dir data/clean/json/v4`
+      (xem trước), rồi thêm `--sua`.
+- [ ] Đối chiếu hiệu lực với web trường và PDF gốc như đã làm cho 103 văn bản ngày 16/11: chỗ nào lệch
+      thì mở PDF kiểm, sửa kèm `note` ghi căn cứ.
+- [ ] Dựng lại bảng Điều → trang PDF: `python tools/kiem_tra/nguon_trang.py --json v4` (cần 455 PDF
+      gốc ở `data/raw/pdf/`).
+- [ ] Dựng lại đồ thị từ cả 454 tệp (gom phẳng cả `_nghi_ngo/`), đặt
+      `LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json`, rồi `python run.py lkg embed-articles`.
+      Ghi lại số đỉnh, số cạnh theo loại.
+- [ ] Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu và mục 1.4, Bảng 3.1, Bảng 3.5, mục 4.5.2
+      (Bảng 4.4), mục 4.5.3, Kết luận; báo Nguyên khi đồ thị mới đã sẵn sàng.
+
+### Việc khác
+
 - [ ] Tra văn bản đã thay thế 09/2020/TT-BGDĐT (0151) và 09/2016/TTLT-BGDĐT-BTC-BLĐTBXH (0011);
       web trường ghi hết hiệu lực nhưng kho chưa có văn bản thay thế. Đọc điều khoản trong văn bản
       thay thế rồi mới sửa `status` + `note` trong JSON v1, v2, v4.
@@ -45,6 +69,11 @@ chính, mọi người gửi Comment/Track Changes).
       đã đổi ở commit `bbf0ac3`).
 - [ ] Chạy lại `python run.py bench --compare-bm25` và `python run.py lkg chat-eval` trên đồ thị đã
       dựng lại; commit báo cáo kết quả trong `src/cypher_benchmark/reports/`.
+      **Chờ Kiên làm xong JSON v4 toàn kho rồi mới chạy.** Đáp án trong
+      `src/cypher_benchmark/catalogs/gold_v4.json` đang gán trên 103 văn bản; khi kho thành 454
+      văn bản, đáp án các câu lọc danh sách (S01–S04, S19, S20…) sẽ đổi, phải chạy lại Cypher từng
+      câu trên đồ thị mới và gán lại trước khi chấm. Nhãn đối chứng `data/eval/v4_gold/` cũng chỉ phủ
+      103 văn bản: hoặc gán thêm, hoặc ghi rõ trong báo cáo là đo trên mẫu 103.
 - [ ] Gửi Kiên số mới để thay vào báo cáo mục 4.5.4, 4.5.5, Bảng 4.7 và Hình 4.4 (biểu đồ vẽ từ
       các số F1, nDCG@10 của 7 cách tìm).
 - [ ] Đọc soát báo cáo mục 4.5.2–4.5.6; gửi góp ý cho Kiên.
