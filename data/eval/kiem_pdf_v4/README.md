@@ -38,7 +38,7 @@ Nguyên tắc: chỉ ghi điều văn bản ghi, không suy luận. Văn bản k
 - 0168 (Nghị quyết 08/NQ-HĐĐH ngày 28/01/2022) có căn cứ Nghị quyết 08/NQ-HĐĐH ngày 12/7/2021 —
   trùng số hiệu khác ngày, lược đồ chặn tự trích dẫn nên chưa ghi được quan hệ này.
 
-## Kết quả (351 văn bản nhóm 1–6, 18/11/2026)
+## Kết quả (351 văn bản nhóm 1–6, 17/11/2026)
 
 | Trường | Tỷ lệ đúng |
 |---|---|

@@ -58,34 +58,34 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       model bỏ sót (REPEALS 45% → 99% trên 218 văn bản), báo chỗ model gán sai loại.
 - [x] (17/11) Nhóm 5 (21–40 trang, 81 văn bản): đủ 81/81 JSON v4, Sonnet đối chiếu ảnh PDF, trọng
       tài duyệt; tập đánh giá lên 299 văn bản.
-- [x] (18/11) Nhóm 6 (trên 40 trang; 50 văn bản, gồm 0245, 0246) và 0161, 0352 (bản gốc Word, chuyển
+- [x] (17/11) Nhóm 6 (trên 40 trang; 50 văn bản, gồm 0245, 0246) và 0161, 0352 (bản gốc Word, chuyển
       sang PDF để đối chiếu; tệp 0161 trên web trường bị chèn 122 byte đường dẫn ở đầu, đã cắt và bù).
       v4 đủ 454/454; tập đánh giá 351 văn bản. `chay_json.py` bỏ Điều có nhãn bịa (0343).
 - [x] (17/11) 5 văn bản vướng lược đồ (0023, 0084, 0110, 0193, 0488): nới lược đồ (số mục A–Z, loại
       "Quy chế"), sửa `chay_json.py`; đã trích xuất và đối chiếu PDF. Nhóm 1–3 đủ 136/136.
 - [ ] 0149 (để lại, làm sau): tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.
-- [x] (18/11) Kiểm tra lược đồ cho toàn bộ 454 tệp: hợp lệ cả 454. Rà toàn kho: bỏ trích dẫn lấy
+- [x] (17/11) Kiểm tra lược đồ cho toàn bộ 454 tệp: hợp lệ cả 454. Rà toàn kho: bỏ trích dẫn lấy
       ngày làm số hiệu, đổi 11 quan hệ "bãi bỏ/thay thế một phần" sang AMENDS, đưa 6 trạng thái
       model tự suy về null. Còn: soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`), đọc soát `_nghi_ngo/`.
-- [x] (18/11) Suy hiệu lực trên toàn kho (`suy_hieu_luc.py --sua`): 26 văn bản sang HET_HIEU_LUC.
-- [x] (18/11) Đối chiếu hiệu lực với web trường: 65 chỗ lệch. ~45 văn bản ta ghi hết hiệu lực vì có
+- [x] (17/11) Suy hiệu lực trên toàn kho (`suy_hieu_luc.py --sua`): 26 văn bản sang HET_HIEU_LUC.
+- [x] (17/11) Đối chiếu hiệu lực với web trường: 65 chỗ lệch. ~45 văn bản ta ghi hết hiệu lực vì có
       văn bản trong kho thay thế/bãi bỏ (web chậm cập nhật, như 1345, 905 đã kiểm PDF ngày 16/11);
       10 văn bản CHUA_HIEU_LUC đã qua ngày hiệu lực → CON_HIEU_LUC; 11 văn bản web ghi hết mà trong
       kho không có văn bản thay thế → giữ nguyên (xem "Việc khác" về 0151, 0011).
-- [x] (18/11) Soi trích dẫn toàn kho (`soi_trich_dan.py` trên v4): 2.699/2.707 số hiệu có nguyên văn
+- [x] (17/11) Soi trích dẫn toàn kho (`soi_trich_dan.py` trên v4): 2.699/2.707 số hiệu có nguyên văn
       trong `.txt`; bỏ 1 số hiệu bịa (0093: "29/2015/QH13" ghép từ "Điều 29"). Soát 16 nhóm số hiệu
       trùng: đều là cùng văn bản; sửa ngày 0271, chức danh 0019/0054 theo PDF.
-- [x] (18/11) Dựng lại bảng Điều → trang PDF: 12.281 Điều (7.523 độ tin cậy cao).
-- [x] (18/11) Dựng lại đồ thị từ 454 tệp: 437 văn bản thật (1.362 `Document` kể cả stub), 12.281
+- [x] (17/11) Dựng lại bảng Điều → trang PDF: 12.281 Điều (7.523 độ tin cậy cao).
+- [x] (17/11) Dựng lại đồ thị từ 454 tệp: 437 văn bản thật (1.362 `Document` kể cả stub), 12.281
       `Article`, 372 `NormativeContent`, 245 `Organization`, 61 `Person`; 14.346 đỉnh, 19.959 cạnh
       (`BASED_ON` 1.887, `REFERENCES` 230, `REPLACES` 158, `REPEALS` 239, `AMENDS` 106). Embed đủ
-      12.281 Điều. 274/274 test đạt với Neo4j thật. Chatbot chưa thử được hôm 18/11 vì 18 key Gemini
+      12.281 Điều. 274/274 test đạt với Neo4j thật. Chatbot chưa thử được hôm 17/11 vì 18 key Gemini
       đang hết quota.
-- [x] (18/11) Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu, Bảng 3.1, Bảng 3.5 và câu dẫn, mục
+- [x] (17/11) Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu, Bảng 3.1, Bảng 3.5 và câu dẫn, mục
       4.5.2 (Bảng 4.4), thêm đoạn đối chiếu toàn kho sau Bảng 4.6 (4.5.3), hạn chế đánh giá, Kết luận,
       Phụ lục C; cập nhật mục lục. Mục 1.4 không cần sửa. Bảng 4.5 (phần Nguyên) và 4.5.4–4.5.5
       vẫn là số đo trên mẫu 103, chờ Nguyên chạy lại.
-- [ ] Báo Nguyên: đồ thị 454 văn bản đã sẵn sàng (18/11), chạy lại benchmark và gán lại `gold_v4.json`.
+- [ ] Báo Nguyên: đồ thị 454 văn bản đã sẵn sàng (17/11), chạy lại benchmark và gán lại `gold_v4.json`.
 
 ### Việc khác
 
@@ -94,8 +94,8 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       thay thế rồi mới sửa `status` + `note` trong JSON v1, v2, v4.
 - [ ] Sửa tiếp lỗi OCR theo `F:\DUT4\PBL6\TIEN_DO_SUA_OCR.md` (54 văn bản lỗi ≥ 1%, `0440` mới
       đến trang 19). Chỉ sửa chỗ OCR sai, không chèn ghi chú vào `.txt`.
-- [x] (18/11) Sửa `107/QĐ-ĐHBK` thành `1077/QĐ-ĐHBK` trong `text_final` của 0465 (theo PDF gốc).
-- [x] (18/11) Cập nhật `docs/TIEN_DO.md` và `README.md` theo số liệu tháng 11.
+- [x] (17/11) Sửa `107/QĐ-ĐHBK` thành `1077/QĐ-ĐHBK` trong `text_final` của 0465 (theo PDF gốc).
+- [x] (17/11) Cập nhật `docs/TIEN_DO.md` và `README.md` theo số liệu tháng 11.
 - [ ] Ráp các góp ý của nhóm vào báo cáo, cập nhật mục lục, rà toàn bộ lần cuối.
 
 ## Đức
@@ -104,7 +104,7 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       thế. Tái hiện: hỏi "Văn bản nào của ĐHBK về yêu cầu ngoại ngữ còn hiệu lực?" vài lần trên
       giao diện; có lần Nguồn kèm 1077/QĐ-ĐHBK và không nhắc 1345/QĐ-ĐHBK bị 4511 thay thế.
 - [ ] Sắp các Điều trong phần Nguồn theo thứ tự số (đang ra "Điều 4, Điều 6, Điều 10, Điều 1").
-- [x] (18/11, Kiên làm) Đưa hướng dẫn dựng lại đồ thị vào README chính, mục 7: gom phẳng cả 454 tệp
+- [x] (17/11, Kiên làm) Đưa hướng dẫn dựng lại đồ thị vào README chính, mục 7: gom phẳng cả 454 tệp
       JSON v4, kể cả `_nghi_ngo/`, và đặt `LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json`.
 
 ## Nguyên
@@ -113,7 +113,7 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       đã đổi ở commit `bbf0ac3`).
 - [ ] Chạy lại `python run.py bench --compare-bm25` và `python run.py lkg chat-eval` trên đồ thị đã
       dựng lại; commit báo cáo kết quả trong `src/cypher_benchmark/reports/`.
-      **JSON v4 toàn kho và đồ thị 454 văn bản đã xong ngày 18/11 — chạy được.** Đáp án trong
+      **JSON v4 toàn kho và đồ thị 454 văn bản đã xong ngày 17/11 — chạy được.** Đáp án trong
       `src/cypher_benchmark/catalogs/gold_v4.json` đang gán trên 103 văn bản; khi kho thành 454
       văn bản, đáp án các câu lọc danh sách (S01–S04, S19, S20…) sẽ đổi, phải chạy lại Cypher từng
       câu trên đồ thị mới và gán lại trước khi chấm. Nhãn đối chứng `data/eval/v4_gold/` cũng chỉ phủ
