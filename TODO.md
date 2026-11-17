@@ -37,7 +37,7 @@ Khi đọc, kiểm tra:
 
 Góp ý bằng Comment hoặc Track Changes của Word rồi gửi cho Kiên; không tự commit đè tệp `.docx`.
 
-- [ ] Kiên đã đọc và gửi góp ý
+- [x] (17/11) Kiên đã đọc: sửa 3.1.1, 2.2.2, 3.3.3, 3.4.6, 3.5.4 theo dữ liệu thật; báo cáo 43 trang
 - [ ] Đức đã đọc và gửi góp ý
 - [ ] Nguyên đã đọc và gửi góp ý
 - [ ] Tùng đã đọc và gửi góp ý
