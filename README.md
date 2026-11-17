@@ -145,6 +145,10 @@ docker compose up -d               # Neo4j của pipeline gán tay
 
 Pipeline gán tay:
 
+Cách nhanh, không tốn quota: xin Kiên file `neo4j.dump` (khoảng 300 MB, không đưa vào git, có sẵn
+embedding của 12.281 Điều) cùng `HUONG_DAN_NAP.md`, nạp bằng `neo4j-admin database load` vào volume của
+`docker-compose.yml` (Neo4j 5.26.32). Hoặc dựng lại từ JSON:
+
 ```powershell
 # graph đọc MỘT thư mục phẳng: gom cả data/clean/json/v4 lẫn v4/_nghi_ngo vào một thư mục tạm,
 # và đặt LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json trong .env
