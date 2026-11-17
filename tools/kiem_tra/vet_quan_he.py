@@ -48,7 +48,7 @@ DIEU = re.compile(r"^\s*Điều\s+\d+", re.M)
 CUOI_DS = re.compile(r"^\s*(?:Điều\s+\d+|KT\.|TM\.|Nơi\s*nhận|BỘ\s*TRƯỞNG|GIÁM\s*ĐỐC|HIỆU\s*TRƯỞNG)", re.M)
 # "bãi bỏ điểm b khoản 2 Điều 4 tại Quyết định X", "thay thế cụm từ ... của X": chỉ đụng
 # một phần văn bản đích -> AMENDS, không phải bãi bỏ/thay thế cả văn bản
-MOT_PHAN = re.compile(r"một\s*(?:số|phần)|cụm\s*từ|điểm\s+[a-zđ]\b|khoản\s+\d|mục\s+\d|"
+MOT_PHAN = re.compile(r"một\s*(?:số|phần)|cụm\s*từ|các\s*nội\s*dung|chương\s+[IVX\d]|điểm\s+[a-zđ]\b|khoản\s+\d|mục\s+\d|"
                       r"phần\s+[IVX\d]|phụ\s*lục|bảng\s+\d|điều\s+\d", re.I)
 # số hiệu thứ hai trở đi mà đứng sau "của/theo/tại" là văn bản được nhắc trong tên văn bản
 # đích ("thay thế Thông tư 08/2017 ... thi hành một số điều của Nghị định 91/2017"), bỏ
@@ -128,22 +128,25 @@ def vet(t: str, so_minh: str = "") -> list[dict]:
             continue
         loai = _loai(m.group(0), sau[:80])
         # Câu kết bằng dấu hai chấm -> danh sách các mục phía dưới
-        if re.search(r":\s*$", t[dau:t.find("\n", m.start()) if "\n" in t[m.start():] else len(t)]):
-            het = t.find("\n", m.start())
+        # (xét dấu hai chấm ở CUỐI CÂU, không phải cuối dòng: câu dẫn hay bị ngắt dòng — 0291
+        # "…hết hiệu lực kể từ ngày Nghị định này⏎có hiệu lực pháp luật:")
+        if t[cuoi:cuoi + 1] == ":" and not t[cuoi + 1:t.find("\n", cuoi) if "\n" in t[cuoi:] else len(t)].strip():
+            het = t.find("\n", cuoi)
             c = CUOI_DS.search(t, het + 1)
             vung = t[het + 1:(c.start() if c else len(t))]
-            da_ds.append((het + 1, het + 1 + len(vung)))
-            for dong in re.split(r"\n(?=\s*(?:\d{1,3}|[a-zđ])[.)]\s)", vung):
-                dong = dong.strip()
-                if not dong:
-                    continue
-                s = SO_HIEU.search(dong)
-                if s:
-                    # chỉ xét dòng dẫn "Bãi bỏ … sau đây:", không xét tiêu đề Điều phía trên
-                    # ("Điều 1. Bãi bỏ một số văn bản…" — "một số" ở đây không phải "một phần")
-                    dan = t[t.rfind("\n", 0, m.start()) + 1:het]
+            muc = [(d_, s_) for d_ in (x.strip() for x in re.split(r"\n(?=\s*(?:\d{1,3}|[a-zđ])[.)]\s)", vung))
+                   if d_ for s_ in [SO_HIEU.search(d_)] if s_]
+            # Không có mục nào mang số hiệu thì dấu hai chấm là do OCR (0157: "…thay thế
+            # Quyết định số 5878/QĐ-ĐHĐN … cho báo chí của Đại học Đà Nẵng:⏎Điều 3.") — xử lý
+            # như câu thường ở dưới.
+            if muc:
+                da_ds.append((het + 1, het + 1 + len(vung)))
+                # chỉ xét dòng dẫn "Bãi bỏ … sau đây:", không xét tiêu đề Điều phía trên
+                # ("Điều 1. Bãi bỏ một số văn bản…" — "một số" ở đây không phải "một phần")
+                dan = t[t.rfind("\n", 0, m.start()) + 1:het]
+                for dong, s in muc:
                     them(s.group(1), _loai(m.group(0), dan + " " + dong[:s.start()]), dong)
-            continue
+                continue
         # "Quyết định số X ... hết hiệu lực": số hiệu đứng TRƯỚC từ kích hoạt. Câu kiểu này
         # thường kéo theo cả tên dài của văn bản đích, trong tên lại nhắc văn bản khác (0011:
         # "TTLT 20/2014 hướng dẫn ... Nghị định 49/2010 ... và Nghị định 74/2013 ... hết hiệu
@@ -152,7 +155,8 @@ def vet(t: str, so_minh: str = "") -> list[dict]:
             for ve in t[dau:m.start()].split(";"):
                 s = SO_HIEU.search(ve)
                 if s and len(re.sub(r"^\s*(?:\d{1,3}|[a-zđ])[.)]\s*", "", ve[:s.start()])) <= 25:
-                    them(s.group(1), loai, cau)
+                    # "Chương V của Luật … số X hết hiệu lực" (0098): chỉ một phần hết hiệu lực
+                    them(s.group(1), _loai(m.group(0), ve[:s.start()]), cau)
             continue
         for i, s in enumerate(SO_HIEU.finditer(sau)):
             if i and PHU.search(sau[max(0, s.start() - 40):s.start()]):

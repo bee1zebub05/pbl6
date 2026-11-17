@@ -349,6 +349,9 @@ _ORG_TYPE = _doc_enum("orgType")
 from legal_knowledge_graph.core import normalize  # noqa: E402  (sys.path đã có src ở đầu tệp)
 _TOPIC = {normalize.slug(t["name"]) for t in json.loads(
     io.open(REFERENCE / "topics_seed.json", encoding="utf-8").read())["topics"]}
+# Mẫu số hiệu Điều lấy thẳng từ schema (Điều N, 2.1, IV, A) — không chép cứng.
+_SO_DIEU = re.compile(json.loads(io.open(SCHEMA, encoding="utf-8").read())
+                      ["$defs"]["article"]["properties"]["number"]["pattern"])
 
 def _don_dang(d, _goc_khong_co_dieu=False):
     """Sua may cho model hay viet sai DANG — thuan co hoc, khong doan noi dung.
@@ -422,6 +425,14 @@ def _don_dang(d, _goc_khong_co_dieu=False):
             m = _CHI_DIEU.search(a.get("number") or "")
             if m:
                 a["number"] = "Điều %s" % m.group(1)
+
+    # 4d. Sau khi chuẩn hoá mà nhãn vẫn không phải số Điều/mục hợp lệ thì là nhãn BỊA (như
+    #     4a): 0343 model lấy ô "Bản sao văn bản" trong bảng mẫu thể thức ở phụ lục làm một
+    #     Điều. Bỏ Điều đó; phần kèm theo nào vì thế rỗng thì bỏ luôn (schema đòi non-empty).
+    d["articles"] = [a for a in (d.get("articles") or []) if _SO_DIEU.match(a.get("number") or "")]
+    for n in d.get("normativeContents") or []:
+        n["articles"] = [a for a in (n.get("articles") or []) if _SO_DIEU.match(a.get("number") or "")]
+    d["normativeContents"] = [n for n in (d.get("normativeContents") or []) if n.get("articles")]
 
 
 def _dem_dieu(d):

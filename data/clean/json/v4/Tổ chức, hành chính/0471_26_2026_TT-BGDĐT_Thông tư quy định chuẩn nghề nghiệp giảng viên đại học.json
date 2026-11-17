@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tổ chức, hành chính/0471_26_2026_TT-BGDĐT_Thông tư quy định chuẩn nghề nghiệp giảng viên đại học.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations[04/2022/TT-BGDĐT] sửa từ {\"relationType\": \"REPEALS\", \"targetArticle\": \"Điều 2\"} thành {\"relationType\": \"AMENDS\", \"targetArticle\": \"Điều 2\"} theo PDF gốc trang câu chỉ cho Điều 2 của Thông tư đích hết hiệu lực; văn bản đích vẫn còn hiệu lực tổng thể nên là AMENDS, không phải REPEALS.",
   "document": {
     "documentNumber": "26/2026/TT-BGDĐT",
     "title": "Thông tư Quy định chuẩn nghề nghiệp giảng viên đại học",
@@ -68,7 +68,7 @@
     },
     {
       "targetDocumentNumber": "04/2022/TT-BGDĐT",
-      "relationType": "REPEALS",
+      "relationType": "AMENDS",
       "targetArticle": "Điều 2",
       "context": "Điều 2 của Thông tư số 04/2022/TT-BGDĐT sửa đổi, bổ sung một số điều của Thông tư số 35/2020/TT-BGDĐT quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các trường cao đẳng sư phạm công lập... hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành."
     }

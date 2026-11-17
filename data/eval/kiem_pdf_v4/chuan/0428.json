@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0428_08_2025_TT-BGDĐT_Thông tư quy định thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục v.txt",
+  "mappedBy": "gemini-web",
+  "note": "5 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations bỏ trích dẫn có số hiệu là ngày/năm '14/06/2019' theo PDF gốc trang 1 (văn bản chỉ viện dẫn bằng tên và ngày). citations bỏ trích dẫn có số hiệu là ngày/năm '21/06/2024' theo PDF gốc trang 1 (văn bản chỉ viện dẫn bằng tên và ngày).",
+  "document": {
+    "documentNumber": "08/2025/TT-BGDĐT",
+    "title": "Thông tư Quy định thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/05/2025",
+    "effectiveDate": "01/07/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Văn thư, lưu trữ",
+      "Đào tạo"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Thông tư quy định chi tiết về thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo, áp dụng cho các cơ quan quản lý giáo dục, cơ sở giáo dục và các tổ chức, cá nhân có liên quan. Văn bản này thay thế Thông tư số 27/2016/TT-BGDĐT.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Tấn Dũng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "27/2016/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Thông tư số 27/2016/TT-BGDĐT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "PHỤ LỤC THỜI HẠN LƯU TRỮ HỒ SƠ, TÀI LIỆU THUỘC LĨNH VỰC GIÁO DỤC VÀ ĐÀO TẠO",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "HỒ SƠ, TÀI LIỆU CHUNG VỀ GIÁO DỤC VÀ ĐÀO TẠO",
+          "text": "1. Tập văn bản quy định, hướng dẫn về công tác giáo dục và đào tạo gửi chung đến các cơ quan, đơn vị (hồ sơ nguyên tắc): Đến khi văn bản hết hiệu lực thi hành. 2. Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành các định hướng, phương hướng, chính sách phát triển giáo dục và đào tạo: Vĩnh viễn. 3. Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành chiến lược, quy hoạch, kế hoạch phát triển giáo dục và đào tạo dài hạn, 5 năm, hằng năm: Vĩnh viễn. 4. Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành các chiến lược, quy hoạch vùng trọng điểm về giáo dục và đào tạo: Vĩnh viễn. 5. Hồ sơ quy hoạch mạng lưới các cơ sở giáo dục trong hệ thống giáo dục quốc dân: Vĩnh viễn. 6. Hồ sơ xây dựng và ban hành hoặc trình cấp có thẩm quyền các văn bản quy phạm pháp luật về hoạt động giáo dục và đào tạo: Vĩnh viễn. 7. Hồ sơ xây dựng, quản lý, tổ chức thực hiện các đề án, chương trình mục tiêu, dự án chuyên môn về giáo dục và đào tạo: Vĩnh viễn. 8. Kế hoạch nhiệm vụ năm học; báo cáo tình hình thực hiện kế hoạch nhiệm vụ năm học: 20 năm. 9. Kế hoạch đào tạo đối với khóa học, năm học; báo cáo tổng kết năm học, khóa học và bản lưu các báo cáo liên quan đến đào tạo gửi cơ quan quản lý nhà nước có thẩm quyền: 10 năm. 10. Báo cáo đánh giá, tổng hợp giáo dục các cấp học cả nước qua từng thời kỳ và năm học: Vĩnh viễn. 11. Hồ sơ hội nghị, hội thảo giáo dục đào tạo: Hội nghị tổng kết 20 năm; Hội nghị sơ kết 05 năm; Hội thảo khoa học 10 năm; Hội thảo góp ý xây dựng tài liệu 10 năm; Hội nghị giao ban vùng 10 năm. 12. Hồ sơ tập huấn chuyên môn nghiệp vụ cho đội ngũ nhà giáo và cán bộ quản lý cơ sở giáo dục: 05 năm. 13. Hồ sơ các lớp đào tạo bồi dưỡng nâng cao trình độ học vấn, nghề nghiệp theo chương trình do Bộ Giáo dục và Đào tạo quy định: 10 năm. 14. Hồ sơ tổ chức triển lãm giáo dục và đào tạo: 05 năm. 15. Hồ sơ kiểm tra các hoạt động giáo dục và đào tạo: 20 năm. 16. Hồ sơ thanh tra các hoạt động giáo dục và đào tạo: Vụ việc nghiêm trọng vĩnh viễn; Vụ việc khác 20 năm. 17. Công văn trao đổi về giáo dục và đào tạo: 05 năm.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh và đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định chi tiết khoản 5 Điều 15 Luật Lưu trữ về thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo.\n2. Thông tư này áp dụng đối với các đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo, các sở giáo dục và đào tạo, cơ quan chuyên môn quản lý giáo dục tại địa phương, các cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp, cơ sở giáo dục thường xuyên, cơ sở giáo dục đại học, trường chuyên biệt, trường của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, lực lượng vũ trang nhân dân, cơ sở giáo dục khác trong hệ thống giáo dục quốc dân, tổ chức kiểm định chất lượng giáo dục, tổ chức kinh doanh dịch vụ tư vấn du học, tổ chức và cá nhân khác thực hiện hoạt động giáo dục và các cơ quan, tổ chức, cá nhân có liên quan (sau đây gọi chung là cơ quan, tổ chức).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Giải thích từ ngữ",
+      "text": "Điều 2. Giải thích từ ngữ\nTrong thông tư này, những từ ngữ dưới đây được hiểu như sau:\n1. Tài liệu thuộc lĩnh vực giáo dục và đào tạo là thông tin gắn liền với vật mang tin có nội dung và hình thức thể hiện không thay đổi khi chuyển đổi vật mang tin hình thành trong quá trình giải quyết công việc để phục vụ cho hoạt\n\nđộng quản lý, hoạt động chuyên môn nghiệp vụ về giáo dục và đào tạo của cơ quan, tổ chức.\nTài liệu thuộc lĩnh vực giáo dục và đào tạo gồm tài liệu giấy, tài liệu trên vật mang tin khác và tài liệu điện tử.\n2. Hồ sơ thuộc lĩnh vực giáo dục và đào tạo là một tập tài liệu thuộc lĩnh vực giáo dục và đào tạo có liên quan với nhau về một vấn đề, một sự việc, một đối tượng cụ thể hoặc có đặc điểm chung, hình thành trong quá trình theo dõi, giải quyết công việc thuộc phạm vi chức năng, nhiệm vụ của cơ quan, tổ chức.\n3. Thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo là khoảng thời gian cần thiết để lưu giữ hồ sơ, tài liệu tính từ năm công việc kết thúc.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các nhóm và thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo",
+      "text": "Điều 3. Các nhóm và thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo\n1. Các nhóm tài liệu thuộc lĩnh vực giáo dục và đào tạo gồm:\na) Nhóm I. Hồ sơ, tài liệu chung về giáo dục và đào tạo.\nb) Nhóm II. Hồ sơ, tài liệu về giáo dục mầm non.\nc) Nhóm III. Hồ sơ, tài liệu về giáo dục phổ thông.\nd) Nhóm IV. Hồ sơ, tài liệu về đào tạo trình độ cao đẳng sư phạm, trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ.\nđ) Nhóm V. Hồ sơ, tài liệu về giáo dục nghề nghiệp và giáo dục thường xuyên.\ne) Nhóm VI. Hồ sơ, tài liệu về giáo dục quốc phòng và an ninh.\ng) Nhóm VII. Hồ sơ, tài liệu về công tác học sinh, sinh viên.\nh) Nhóm VIII. Hồ sơ, tài liệu về khoa học, công nghệ và thông tin.\ni) Nhóm IX. Hồ sơ, tài liệu về công tác cơ sở vật chất, thiết bị trường học và đầu tư.\nk) Nhóm X. Hồ sơ, tài liệu về công tác bảo đảm, kiểm định chất lượng giáo dục.\nl) Nhóm XI. Hồ sơ, tài liệu về hợp tác quốc tế trong lĩnh vực giáo dục.\nm) Nhóm XII. Hồ sơ, tài liệu về công tác nhà giáo và cán bộ quản lý giáo dục.\n2. Nhóm hồ sơ, tài liệu và thời hạn lưu trữ các nhóm hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo được quy định chi tiết tại Phụ lục kèm theo Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Áp dụng thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo",
+      "text": "Điều 4. Áp dụng thời hạn lưu trữ hồ sơ, tài liệu thuộc lĩnh vực giáo dục và đào tạo\n1. Thời hạn lưu trữ mỗi hồ sơ, tài liệu cụ thể không ngắn hơn thời hạn lưu trữ được quy định tại Phụ lục kèm theo Thông tư này.\n\n2. Khi lựa chọn hồ sơ, tài liệu giao nộp vào lưu trữ lịch sử, lưu trữ cơ quan, phải xem xét mức độ đầy đủ của phông lưu trữ tài liệu, đồng thời lưu ý đến những giai đoạn, thời điểm lịch sử.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Điều khoản thi hành",
+      "text": "Điều 5. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025 và thay thế Thông tư số 27/2016/TT-BGDĐT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục.\n2. Chánh Văn phòng, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Giám đốc Sở Giáo dục và Đào tạo, người đứng đầu các cơ quan, đơn vị quy định tại Điều 1 Thông tư này, tổ chức và cá nhân liên quan có trách nhiệm tổ chức thực hiện Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

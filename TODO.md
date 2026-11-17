@@ -58,17 +58,16 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       model bỏ sót (REPEALS 45% → 99% trên 218 văn bản), báo chỗ model gán sai loại.
 - [x] (17/11) Nhóm 5 (21–40 trang, 81 văn bản): đủ 81/81 JSON v4, Sonnet đối chiếu ảnh PDF, trọng
       tài duyệt; tập đánh giá lên 299 văn bản.
-- [ ] Nhóm 6 (trên 40 trang; 50 văn bản) và 0161, 0352 (bản gốc .doc): làm theo
-      đúng quy trình trong `data/eval/kiem_pdf_v4/README.md` (chụp bản gốc → `vet_quan_he.py --ghi`
-      → đối chiếu ảnh PDF → trọng tài → chấm). Hai văn bản lớn 0245, 0246 (730–810 KB) chạy riêng
-      sau cùng.
+- [x] (18/11) Nhóm 6 (trên 40 trang; 50 văn bản, gồm 0245, 0246) và 0161, 0352 (bản gốc Word, chuyển
+      sang PDF để đối chiếu; tệp 0161 trên web trường bị chèn 122 byte đường dẫn ở đầu, đã cắt và bù).
+      v4 đủ 454/454; tập đánh giá 351 văn bản. `chay_json.py` bỏ Điều có nhãn bịa (0343).
 - [x] (17/11) 5 văn bản vướng lược đồ (0023, 0084, 0110, 0193, 0488): nới lược đồ (số mục A–Z, loại
       "Quy chế"), sửa `chay_json.py`; đã trích xuất và đối chiếu PDF. Nhóm 1–3 đủ 136/136.
 - [ ] 0149 (để lại, làm sau): tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.
-- [ ] Kiểm tra lược đồ cho toàn bộ 454 tệp (`python run.py lkg validate --dir data/clean/json/v4`)
-      và soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`); đọc soát các tệp rơi vào `_nghi_ngo/`.
-- [ ] Suy hiệu lực trên toàn kho: `python tools/kiem_tra/suy_hieu_luc.py --dir data/clean/json/v4`
-      (xem trước), rồi thêm `--sua`.
+- [x] (18/11) Kiểm tra lược đồ cho toàn bộ 454 tệp: hợp lệ cả 454. Rà toàn kho: bỏ trích dẫn lấy
+      ngày làm số hiệu, đổi 11 quan hệ "bãi bỏ/thay thế một phần" sang AMENDS, đưa 6 trạng thái
+      model tự suy về null. Còn: soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`), đọc soát `_nghi_ngo/`.
+- [x] (18/11) Suy hiệu lực trên toàn kho (`suy_hieu_luc.py --sua`): 26 văn bản sang HET_HIEU_LUC.
 - [ ] Đối chiếu hiệu lực với web trường và PDF gốc như đã làm cho 103 văn bản ngày 16/11: chỗ nào lệch
       thì mở PDF kiểm, sửa kèm `note` ghi căn cứ.
 - [ ] Dựng lại bảng Điều → trang PDF: `python tools/kiem_tra/nguon_trang.py --json v4` (cần 455 PDF

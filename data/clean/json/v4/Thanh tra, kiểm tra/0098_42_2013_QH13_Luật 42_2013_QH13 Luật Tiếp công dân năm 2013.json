@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Thanh tra, kiểm tra/0098_42_2013_QH13_Luật 42_2013_QH13 Luật Tiếp công dân năm 2013.txt",
   "mappedBy": "gemini-web",
-  "note": "36 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "note": "36 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations[02/2011/QH13] sửa từ {\"relationType\": \"REPEALS\", \"targetArticle\": null} thành {\"relationType\": \"AMENDS\", \"targetArticle\": null} theo PDF gốc trang câu chỉ cho Chương V của Luật khiếu nại hết hiệu lực; văn bản đích vẫn còn hiệu lực tổng thể nên là AMENDS, không phải REPEALS.",
   "document": {
     "documentNumber": "42/2013/QH13",
     "title": "Luật Tiếp công dân",
@@ -48,7 +48,7 @@
     },
     {
       "targetDocumentNumber": "02/2011/QH13",
-      "relationType": "REPEALS",
+      "relationType": "AMENDS",
       "targetArticle": null,
       "context": "Chương V của Luật khiếu nại số 02/2011/QH13 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực."
     }

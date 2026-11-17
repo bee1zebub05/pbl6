@@ -49,15 +49,16 @@ python tools/kiem_tra/vet_quan_he.py --do                 # đo trên tập chu�
 python tools/kiem_tra/vet_quan_he.py --chi 0143 --ghi     # thêm quan hệ còn thiếu vào JSON v4
 ```
 
-Đo trên 299 văn bản đã đối chiếu PDF (nhóm 1–5). Luật được chỉnh trên nhóm 1–3, kiểm độc lập
-trên nhóm 4 (đúng 29/29 REPLACES, 2/2 REPEALS); nhóm 5 lộ thêm 4 kiểu bắt nhầm (OCR ngắt dòng giữa
-câu, tiêu đề bảng, cụm danh từ "văn bản thay thế", trích yếu bị động "bị bãi bỏ") đã được sửa.
+Đo trên 351 văn bản đã đối chiếu PDF (nhóm 1–6). Luật được chỉnh trên nhóm 1–3, kiểm độc lập
+trên nhóm 4 (đúng 29/29 REPLACES, 2/2 REPEALS); nhóm 5–6 lộ thêm các kiểu bắt nhầm/bỏ sót (OCR
+ngắt dòng giữa câu, tiêu đề bảng, cụm "văn bản thay thế", trích yếu bị động, dấu hai chấm do OCR,
+câu dẫn danh sách bị ngắt dòng, "Chương V của Luật X … hết hiệu lực") đã được sửa.
 
 | Loại | Trong chuẩn | Model | Luật (đúng/ra) | Model + luật |
 |---|---|---|---|---|
-| REPLACES | 64 | 56 (88%) | 62/62 | 58 (91%) |
-| REPEALS | 163 | 92 (56%) | 117/117 | 162 (99%) |
-| AMENDS | 72 | 50 (69%) | 25/46 | 50 (69%) |
+| REPLACES | 85 | 68 (80%) | 80/80 | 74 (87%) |
+| REPEALS | 219 | 113 (52%) | 159/159 | 211 (96%) |
+| AMENDS | 92 | 55 (60%) | 29/52 | 55 (60%) |
 
 Số hiệu model đã ghi nhưng gán loại khác với luật thì `--ghi` không tự đổi, chỉ in dòng `?`
 để kiểm bằng ảnh PDF (nhóm 4: 0432 ghi REPEALS cho 6 thông tư mà văn bản viết "thay thế").

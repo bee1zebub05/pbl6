@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0201_2266_QĐ-ĐHBK_Ban hành Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm BASED_ON 13/NQ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 05/NQ-HĐT theo PDF gốc trang 1. citations thêm BASED_ON 22/NQ-HĐT theo PDF gốc trang 1. citations thêm BASED_ON 32/NQ-HĐT theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "2266/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/06/2022",
+    "effectiveDate": "20/06/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Quyết định ban hành Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "106/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 106/2020/NĐ-CP ngày 10 tháng 9 năm 2020 của Chính phủ quy định về vị trí việc làm và số lượng người làm việc trong đơn vị sự nghiệp công lập;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12 tháng 01 năm 2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "22/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 22/NQ-HĐT ngày 08 tháng 10 năm 2021 của Hội đồng trường Trường Đại học Bách khoa về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa"
+    },
+    {
+      "targetDocumentNumber": "32/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 32/NQ-HĐT ngày 17 tháng 6 năm 2022 phiên họp thứ tám của Hội đồng trường Trường Đại học Bách khoa"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, Đại học Đà Nẵng",
+      "contentType": "Đề án",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Sự cần thiết xây dựng đề án",
+          "text": "1. Khái quát đặc điểm, nội dung và tính chất hoạt động của nhà trường. 1.1. Nội dung hoạt động: Trường Đại học Bách khoa, Đại học Đà Nẵng là một trường đại học công lập trực thuộc Bộ Giáo dục và Đào tạo. Nhà trường có chức năng đào tạo tiến sĩ, thạc sĩ, kỹ sư, kiến trúc sư, cử nhân các chuyên ngành kỹ thuật và công nghệ; tham gia đào tạo cán bộ kỹ thuật có trình độ cao đẳng cho các trường cao đẳng thuộc Đại học Đà Nẵng; nghiên cứu khoa học và chuyển giao công nghệ phục vụ yêu cầu phát triển kinh tế - xã hội của đất nước. 1.2. Đối tượng, phạm vi, tính chất hoạt động: Sinh viên của Nhà trường là những người đã có trình độ tốt nghiệp phổ thông trung học và vượt qua một kỳ thi quốc gia với sự cạnh tranh cao. Số lượng tuyển sinh hằng năm được Bộ Giáo dục và Đào tạo phê chuẩn (khoảng 3200 sinh viên/năm). Với hệ đào tạo sau đại học, học viên là các kỹ sư, cử nhân tham gia chương trình học Thạc sĩ. Một số chuyên ngành của Nhà trường đã được Bộ Giáo dục và Đào tạo đồng ý tổ chức đào tạo trình độ tiến sĩ, nghiên cứu sinh phần lớn là những người đã qua chương trình thạc sĩ. Trường Đại học Bách khoa trực thuộc Đại học Đà Nẵng được phép tổ chức hoạt động dạy học, nghiên cứu khoa học và chuyển giao công nghệ trên khắp mọi miền của đất nước, chịu sự quản lý trực tiếp của Bộ Giáo dục và Đào tạo. Hoạt động giảng dạy của Nhà trường được tổ chức theo từng học kỳ, mỗi năm 3 học kỳ (kể cả học kỳ hè), kéo dài suốt hơn 10 tháng trong một năm. Công tác tuyển sinh khóa mới được tiến hành vào đầu tháng 7 hằng năm. 1.3. Cơ chế hoạt động của đơn vị sự nghiệp công lập: Nhà trường hoạt động theo cơ chế của một trường đại học thành viên thuộc Đại học Đà Nẵng, tuân thủ các quy định hoạt động của một cơ sở giáo dục công lập và các quy định khác của nhà nước.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Đề án vị trí việc làm năm 2022 của Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng các đơn vị thuộc, trực thuộc Trường và các cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức – Hành chính, Trưởng các đơn vị thuộc, trực thuộc Trường và các cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0308_01_2024_TT-TTCP_Thông tư quy định về báo cáo công tác thanh tra, tiếp công dân, giải quyết kh.txt",
+  "mappedBy": "gemini-web",
+  "note": "11 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "01/2024/TT-TTCP",
+    "title": "Thông tư Quy định chế độ báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/01/2024",
+    "effectiveDate": "05/03/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thanh tra, kiểm tra",
+      "Pháp chế"
+    ],
+    "targetGroups": [
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Thông tư quy định về chế độ báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực đối với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Thanh tra Chính phủ",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Dương Quốc Huy",
+      "academicTitle": null,
+      "position": [
+        "Phó Tổng Thanh tra"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "11/2011/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011;"
+    },
+    {
+      "targetDocumentNumber": "25/2013/QH13",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013;"
+    },
+    {
+      "targetDocumentNumber": "12/2018/QH14",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Tố cáo ngày 12 tháng 6 năm 2018;"
+    },
+    {
+      "targetDocumentNumber": "20/2018/QH14",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018;"
+    },
+    {
+      "targetDocumentNumber": "14/2022/QH15",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Thanh tra ngày 14 tháng 11 năm 2022;"
+    },
+    {
+      "targetDocumentNumber": "64/2014/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân;"
+    },
+    {
+      "targetDocumentNumber": "31/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo;"
+    },
+    {
+      "targetDocumentNumber": "59/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 59/2019/NĐ-CP ngày 01 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng;"
+    },
+    {
+      "targetDocumentNumber": "124/2020/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại;"
+    },
+    {
+      "targetDocumentNumber": "09/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "55/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 55/2022/NĐ-CP ngày 23 tháng 8 năm 2022 của Chính phủ quy định Cơ sở dữ liệu quốc gia về công tác tiếp công dân, xử lý đơn, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh;"
+    },
+    {
+      "targetDocumentNumber": "43/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 43/2023/NĐ-CP ngày 30 tháng 6 năm 2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thanh tra;"
+    },
+    {
+      "targetDocumentNumber": "81/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 81/2023/NĐ-CP ngày 27 tháng 11 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ;"
+    },
+    {
+      "targetDocumentNumber": "03/2023/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 03/2023/NĐ-CP ngày 11 tháng 01 năm 2024 của Chính phủ quy định về cơ quan thực hiện chức năng thanh tra chuyên ngành và hoạt động của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành;"
+    },
+    {
+      "targetDocumentNumber": "02/2021/TT-TTCP",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Thông tư số 02/2021/TT-TTCP ngày 22 tháng 3 năm 2021 của Thanh tra Chính phủ quy định chế độ báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng hết hiệu lực kể từ ngày Thông tư này có hiệu lực."
+    }
+  ],
+  "mentions": [
+    "Thanh tra Chính phủ",
+    "Chính phủ",
+    "Ủy ban nhân dân cấp tỉnh",
+    "Mặt trận Tổ quốc Việt Nam"
+  ],
+  "normativeContents": [
+    {
+      "title": "Mẫu số 01. Đề cương báo cáo nội dung về công tác thanh tra",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "KẾT QUẢ THỰC HIỆN",
+          "text": "1. KẾT QUẢ THỰC HIỆN. Thanh tra hành chính (số liệu tại các biểu số: 01/TTr, 02/TTr, 02/QLNN). Việc triển khai các cuộc thanh tra (Biểu số 01/TTr). Tổng số cuộc thực hiện trong kỳ, số cuộc triển khai từ các kỳ trước chuyển sang, số cuộc triển khai trong kỳ, số cuộc theo kế hoạch, số cuộc đột xuất. Kết luận thanh tra (Biểu số 01/TTr). Tổng số cuộc thanh tra đã ban hành kết luận thanh tra; trong đó số cuộc chậm ban hành kết luận thanh tra. Số đơn vị được thanh tra (đã ban hành kết luận thanh tra); Phát hiện vi phạm: Những vi phạm chủ yếu phát hiện qua thanh tra, thuộc lĩnh vực; số tiền, đất, tài sản quy thành tiền được phát hiện có vi phạm; Kiến nghị xử lý vi phạm: Xử lý về kinh tế: Thu hồi về ngân sách nhà nước và xử lý khác về kinh tế; Xử lý trách nhiệm: Xử lý hành chính (số tổ chức, cá nhân kết luận kiến nghị kiểm điểm làm rõ trách nhiệm), kiến nghị xử lý hình sự (số vụ, số đối tượng chuyển cơ quan điều tra); Kiến nghị hoàn thiện (thêm mới, sửa đổi, bổ sung, hủy bỏ) cơ chế, chính sách, văn bản quy phạm pháp luật, văn bản quản lý, điều hành của các cơ quan, tổ chức, đơn vị, cá nhân liên quan đến nội dung thanh tra. Kiến nghị khác (nếu có). Kết quả thực hiện kết luận thanh tra (Biểu số 02/TTr). Số kết luận thanh tra phải thực hiện trong kỳ báo cáo (tổng số; trong đó có số kết luận được kiểm tra trực tiếp); Tiến độ thực hiện kết luận: Số kết luận đã hoàn thành, số kết luận chưa hoàn thành việc thực hiện; Kết quả thực hiện các kiến nghị: Về kinh tế, về trách nhiệm (xử lý hành chính, chuyển cơ quan điều tra), về hoàn thiện cơ chế, chính sách, văn bản quy phạm pháp luật, văn bản quản lý, điều hành của các cơ quan, tổ chức, đơn vị, cá nhân liên quan đến nội dung thanh tra. Thanh tra trách nhiệm việc thực hiện các quy định của pháp luật về thanh tra (Biểu số 02/QLNN). Việc triển khai các cuộc thanh tra: Tổng số cuộc thanh tra; số cuộc đã ban hành kết luận; Kết quả thanh tra: Số đơn vị được thanh tra; Những vi phạm chủ yếu phát hiện qua thanh tra; Kiến nghị xử lý hành chính, chuyển cơ quan điều tra; kiến nghị xử lý về kinh tế, hoàn thiện cơ chế, chính sách, văn bản quy phạm pháp luật, văn bản quản lý, điều hành của các cơ quan, tổ chức, đơn vị, cá nhân liên quan đến nội dung thanh tra (nếu có); Kết quả thực hiện kết luận thanh tra: Tổng số kết luận thanh tra trách nhiệm phải thực hiện; Kết quả thực hiện các kiến nghị về trách nhiệm (hành chính, hình sự); về kinh tế, hoàn thiện cơ chế, chính sách, văn bản quy phạm pháp luật, văn bản quản lý, điều hành của các cơ quan, tổ chức, đơn vị, cá nhân liên quan đến nội dung thanh tra (nếu có). Kết quả thanh tra trên một số lĩnh vực (chỉ áp dụng đối với báo cáo 6 tháng và báo cáo năm). Lĩnh vực Quản lý, thực hiện dự án đầu tư xây dựng (Biểu số 03/TTr); Lĩnh vực Quản lý và sử dụng tài chính, ngân sách (Biểu số 04/TTr); Lĩnh vực Quản lý, sử dụng đất (Biểu số 05/TTr); Lĩnh vực khác (nếu cần thiết); Đối với từng lĩnh vực trên phải nêu rõ: Số cuộc thanh tra, số đơn vị được thanh tra, nội dung thanh tra chủ yếu, các vi phạm điển hình, kiến nghị xử lý (về kinh tế, về trách nhiệm, về hoàn thiện cơ chế, chính sách, pháp luật...). Kết quả thanh tra lại (nếu có); Kết quả thanh tra chuyên đề (nếu có): Tóm tắt kết quả thanh tra chuyên đề theo các tiêu chí nêu trên. 2. Thanh tra chuyên ngành (Biểu số 06/TTr, 07/TTr). Việc triển khai các cuộc thanh tra, kiểm tra trong kỳ báo cáo. Tổng số cuộc thực hiện (số cuộc theo kế hoạch, đột xuất); Những lĩnh vực thanh tra, kiểm tra chủ yếu; Số cuộc đã ban hành kết luận; Số tổ chức, cá nhân được thanh tra, kiểm tra (đã ban hành kết luận). Kết quả thanh tra, kiểm tra. Số tổ chức, cá nhân vi phạm; Nội dung vi phạm chủ yếu phát hiện qua thanh tra, kiểm tra: Về kinh tế: Tổng số tiền vi phạm; số tiền kiến nghị thu hồi (về ngân sách nhà nước, về tổ chức, đơn vị); số tiền kiến nghị xử lý khác; Về xử lý vi phạm: Tổng số quyết định xử phạt vi phạm hành chính được ban hành (đối với tổ chức, cá nhân); số tiền xử phạt vi phạm hành chính (của tổ chức, của cá nhân); xử phạt bằng hình thức khác (số tổ chức, cá nhân); chuyển cơ quan điều tra xử lý (số vụ, số đối tượng) ... Kết quả thực hiện kết luận, quyết định xử phạt qua thanh tra, kiểm tra. Kết quả thực hiện xử lý vi phạm về kinh tế (số tiền vi phạm đã thu hồi; số tiền vi phạm đã xử lý khác); Kết quả thực hiện quyết định xử phạt vi phạm hành chính (số tiền xử phạt vi phạm hành chính đã thu; số tổ chức, cá nhân đã thực hiện quyết định xử phạt vi phạm hành chính bằng hình thức khác); Xử lý hình sự: Số vụ, số đối tượng đã khởi tố. 3. Kết quả xây dựng, hoàn thiện thể chế và tuyên truyền, phổ biến, giáo dục pháp luật về thanh tra (Biểu số 02/QLNN). Số văn bản (quản lý, chỉ đạo) về thanh tra mới được ban hành, được sửa đổi, bổ sung hoặc bãi bỏ; Số lớp tập huấn, tuyên truyền, giáo dục pháp luật về thanh tra được tổ chức; tổng số người tham gia. 4. Xây dựng lực lượng (chỉ áp dụng đối với báo cáo 6 tháng và báo cáo năm - Biểu số 01/QLNN). Tổng số công chức, viên chức, người lao động trong kỳ báo cáo (số thanh tra viên cao cấp, thanh tra viên chính, thanh tra viên và tương đương,...); Biến động tăng, giảm số lượng công chức, viên chức, người lao động trong kỳ báo cáo; Số người được chuyển đổi vị trí công tác/số người phải chuyển đổi theo kế hoạch; Tổng số nhu cầu đào tạo, bồi dưỡng nghiệp vụ ngành Thanh tra và số đã thực hiện (trong đó phân loại các khóa đào tạo nghiệp vụ: Thanh tra viên, thanh tra viên chính, thanh tra viên cao cấp, tiếp công dân, giải quyết khiếu nại, tố cáo và các nghiệp vụ liên quan khác); Số cán bộ, công chức, viên chức, người lao động có vi phạm và kết quả xử lý (tổng số cá nhân vi phạm, đã xử lý, đang và chưa xử lý).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "NHẬN XÉT, ĐÁNH GIÁ",
+          "text": "2. NHẬN XÉT, ĐÁNH GIÁ. 1. Đánh giá về kết quả, tồn tại, hạn chế trong việc xây dựng và thực hiện kế hoạch công tác thanh tra: Về mức độ hoàn thành kế hoạch thanh tra (số cuộc hoàn thành, số cuộc theo kế hoạch, số cuộc chậm ban hành kết luận thanh tra); về thanh tra đột xuất, thanh tra lại, thanh tra chuyên đề; về công tác đôn đốc, xử lý sau thanh tra và những nội dung khác có liên quan. 2. Đánh giá kết quả, tồn tại, hạn chế trong việc chỉ đạo, điều hành, thực hiện chức năng quản lý nhà nước về công tác thanh tra. Việc rà soát, chỉnh sửa, bãi bỏ, ban hành mới văn bản phục vụ công tác quản lý nhà nước trong lĩnh vực thanh tra; Công tác tuyên truyền, hướng dẫn, tập huấn cho cán bộ, công chức thực hiện pháp luật về thanh tra; Tổ chức thực hiện chương trình, kế hoạch công tác; thanh tra trách nhiệm thực hiện pháp luật về thanh tra; Công tác tổ chức xây dựng lực lượng: Xây dựng, đào tạo, bồi dưỡng, đội ngũ cán bộ, người lao động trong cơ quan thanh tra; hợp tác quốc tế về công tác thanh tra (nếu có); Thực hiện chế độ thông tin báo cáo phục vụ quản lý, chỉ đạo, điều hành. 3. Đánh giá vai trò của cơ quan thanh tra trong việc phát hiện, xử lý vi phạm pháp luật, tiêu cực, tham nhũng và góp phần nâng cao hiệu quả quản lý nhà nước, quản lý kinh tế - xã hội và việc chấp hành chính sách, pháp luật, nhiệm vụ kế hoạch nhà nước của cơ quan, tổ chức, cá nhân được thanh tra. 4. Nguyên nhân của những kết quả, của tồn tại, hạn chế (chủ quan, khách quan). 5. Bài học kinh nghiệm (chỉ áp dụng đối với báo cáo hằng năm).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "PHƯƠNG HƯỚNG, NHIỆM VỤ (HOẶC CÁC NHIỆM VỤ TRỌNG TÂM) TRONG KỲ TIẾP THEO",
+          "text": "3. PHƯƠNG HƯỚNG, NHIỆM VỤ (HOẶC CÁC NHIỆM VỤ TRỌNG TÂM) TRONG KỲ TIẾP THEO. Nêu phương hướng, mục tiêu cơ bản, những giải pháp, nhiệm vụ cụ thể trong công tác thanh tra sẽ được tập trung thực hiện trong kỳ báo cáo tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "KIẾN NGHỊ VÀ ĐỀ XUẤT",
+          "text": "4. KIẾN NGHỊ VÀ ĐỀ XUẤT. Kiến nghị cơ quan có thẩm quyền nghiên cứu ban hành mới, hoặc sửa đổi, bổ sung chính sách, pháp luật còn sơ hở, bất cập phát hiện qua thanh tra (nêu rõ cụ thể văn bản và nội dung kiến nghị); Kiến nghị cơ quan có thẩm quyền hướng dẫn thực hiện các quy định của pháp luật về công tác thanh tra (nếu có vướng mắc); Đề xuất các giải pháp nhằm nâng cao hiệu lực, hiệu quả công tác thanh tra; Các nội dung cụ thể khác cần kiến nghị, đề xuất./.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Mẫu số 02. Đề cương báo cáo nội dung về công tác tiếp công dân, giải quyết khiếu nại, tố cáo",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "TÌNH HÌNH KHIẾU NẠI, TỐ CÁO",
+          "text": "1. TÌNH HÌNH KHIẾU NẠI, TỐ CÁO. 1. Tình hình khiếu nại, tố cáo. Khái quát chung về tình hình khiếu nại, tố cáo trên địa bàn (tăng, giảm); những yếu tố ảnh hưởng (tình hình kinh tế, chính trị, xã hội). a) Về khiếu nại: khái quát tình hình khiếu nại, so sánh cùng kỳ năm trước (tăng, giảm) tỷ lệ đơn khiếu nại của từng lĩnh vực. b) Về tố cáo: khái quát tình hình tố cáo so sánh cùng kỳ năm trước (tăng, giảm), tỷ lệ đơn tố cáo của từng lĩnh vực. Lưu ý: Cần nêu rõ những vấn đề, lĩnh vực, nội dung mới là nguyên nhân làm phát sinh nhiều khiếu nại, tố cáo trong kỳ. 2. Nguyên nhân của tình hình khiếu nại, tố cáo. Phân tích theo 02 nhóm nguyên nhân chủ quan và khách quan.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "KẾT QUẢ CÔNG TÁC TIẾP CÔNG DÂN, XỬ LÝ ĐƠN, GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO",
+          "text": "2. KẾT QUẢ CÔNG TÁC TIẾP CÔNG DÂN, XỬ LÝ ĐƠN, GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO. 1. Công tác tiếp công dân (Biểu số 01/TCD). Tổng số lượt tiếp, số người được tiếp; số vụ việc (tiếp lần đầu, tiếp nhiều lần); số đoàn đông người được tiếp (số đoàn, số người, tiếp lần đầu, tiếp nhiều lần),... Kết quả tiếp công dân của thủ trưởng (trực tiếp và ủy quyền); trong đó làm rõ kết quả tiếp công dân định kỳ của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch UBND các cấp (so với quy định của Luật Tiếp công dân). 2. Tiếp nhận, phân loại và xử lý đơn (Biểu số 01/XLD, 02/XLD, 03/XLD, 04/XLD). Gồm đơn nhận được qua tiếp công dân và đơn nhận từ các nguồn khác (người viết đơn gửi qua dịch vụ bưu chính, cơ quan, tổ chức, cá nhân chuyển đến theo quy định,...). a) Tổng số đơn: Kỳ trước chuyển sang, tiếp nhận trong kỳ. Số đơn đã xử lý/Tổng số đơn tiếp nhận; Số đơn, số vụ việc đủ điều kiện xử lý. b) Phân loại, xử lý đơn. Phân loại theo nội dung: Số đơn, số vụ việc khiếu nại; Số đơn, số vụ việc tố cáo; Số đơn, số vụ việc kiến nghị, phản ánh; Phân loại theo tình trạng giải quyết: Số đơn, số vụ việc đã giải quyết; Số đơn, số vụ việc chưa giải quyết. c) Kết quả xử lý đơn. Số đơn, số vụ việc thuộc thẩm quyền; Số đơn, số vụ việc không thuộc thẩm quyền. 3. Kết quả giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh thuộc thẩm quyền (Biểu số 01/KQGQ, 02/KQGQ, 03/KQGQ, 04/KQGQ). Tổng số đơn, số vụ việc (khiếu nại, tố cáo, kiến nghị, phản ánh) đã giải quyết/tổng số đơn, số vụ việc (khiếu nại, tố cáo, kiến nghị, phản ánh) phải giải quyết; tỷ lệ giải quyết. a) Kết quả giải quyết khiếu nại (Biểu số 01/KQGQ, 02/KQGQ). Tổng số đơn, số vụ việc đã giải quyết/tổng số đơn, số vụ việc phải giải quyết; tỷ lệ giải quyết; Tổng hợp quyết định giải quyết khiếu nại đã thu hồi cho Nhà nước, trả lại cho tập thể cá nhân, kiến nghị xử lý trách nhiệm, chuyển cơ quan điều tra...; Phân tích kết quả giải quyết đối với các vụ việc khiếu nại lần đầu, lần 2, việc chấp hành thời hạn giải quyết khiếu nại; Kết quả thực hiện quyết định giải quyết khiếu nại: Số quyết định phải thực hiện, số quyết định đã thực hiện xong; qua thực hiện đã thu hồi cho Nhà nước, trả lại cho tập thể cá nhân; số người đã bị xử lý trách nhiệm, đã khởi tố... b) Kết quả giải quyết tố cáo (03/KQGQ, 04/KQGQ). Tổng số đơn, số vụ việc đã giải quyết/tổng số đơn, số vụ việc phải giải quyết; tỷ lệ giải quyết; Tổng hợp kết luận nội dung tố cáo đã thu hồi cho Nhà nước, trả lại cho tập thể cá nhân, kiến nghị xử lý trách nhiệm,...; Phân tích kết quả giải quyết đối với các vụ việc tố cáo lần đầu, tố cáo tiếp, việc chấp hành thời hạn giải quyết tố cáo; Kết quả thực hiện kết luận nội dung tố cáo: Số kết luận phải thực hiện, số kết luận đã thực hiện xong; số tiền, đất đã thu hồi cho nhà nước, trả lại cho tập thể cá nhân; số người đã bị xử lý trách nhiệm,... c) Kết quả giải quyết kiến nghị, phản ánh (04/XLD). Tổng số vụ việc đã giải quyết/tổng số vụ việc phải giải quyết; tỷ lệ giải quyết. 4. Bảo vệ người tố cáo (nếu có). Tổng số người được bảo vệ (người tố cáo, thân nhân của người tố cáo); trong đó: Số người được áp dụng biện pháp bảo vệ vị trí công tác, việc làm; số người được áp dụng biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm. 5. Công tác quản lý nhà nước về tiếp công dân, khiếu nại, tố cáo (03/QLNN). a) Sự lãnh đạo, chỉ đạo, điều hành của cấp ủy, chính quyền về công tác tiếp công dân, xử lý đơn, giải quyết khiếu nại, tố cáo. b) Kết quả xây dựng, hoàn thiện thể chế, ban hành văn bản chỉ đạo điều hành và tuyên truyền, phổ biến, giáo dục pháp luật. Số văn bản ban hành mới, sửa đổi bổ sung, hủy bỏ; Tập huấn tuyên truyền, phổ biến, giáo dục pháp luật về tiếp công dân, khiếu nại, tố cáo (số lớp, số người). c) Thanh tra trách nhiệm (tổng số cuộc, tổng số đơn vị được thanh tra, số đơn vị có vi phạm), kiến nghị xử lý trách nhiệm (hành chính, chuyển cơ quan điều tra); đôn đốc, kiểm tra việc thực hiện kết luận thanh tra, quyết định xử lý: Tổng số kết luận thực hiện, kết quả thực hiện (số tổ chức, cá nhân đã xử lý hành chính, khởi tố).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "NHẬN XÉT, ĐÁNH GIÁ",
+          "text": "3. NHẬN XÉT, ĐÁNH GIÁ. 1. Ưu điểm, kết quả. Đánh giá kết quả đạt được trong công tác chỉ đạo, điều hành, thực hiện chức năng quản lý nhà nước về tiếp công dân, giải quyết khiếu nại, tố cáo; việc thực hiện quy định về tiếp công dân của người đứng đầu, nhất là Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch UBND cấp tỉnh; tỷ lệ giải quyết khiếu nại, tố cáo thuộc thẩm quyền so với mục tiêu; tỷ lệ thực hiện quyết định, kết luận giải quyết khiếu nại, tố cáo; công tác tuyên truyền, phổ biến, giáo dục pháp luật, hướng dẫn, tập huấn cho cán bộ, công chức và Nhân dân; thanh tra, kiểm tra trách nhiệm; công tác xây dựng lực lượng; việc ứng dụng công nghệ thông tin và phối hợp giữa các cơ quan có liên quan trong công tác tiếp công dân, giải quyết khiếu nại, tố cáo... 2. Tồn tại, hạn chế. Đánh giá tồn tại, hạn chế về các nội dung đã nêu ở phần ưu điểm. 3. Nguyên nhân. Nguyên nhân khách quan, chủ quan của những ưu điểm, tồn tại, hạn chế.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "DỰ BÁO TÌNH HÌNH",
+          "text": "4. DỰ BÁO TÌNH HÌNH. Nêu dự báo tình hình khiếu nại, tố cáo; những lĩnh vực, vấn đề, nội dung cụ thể có thể là nguyên nhân phát sinh khiếu nại, tố cáo trong thời gian tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "PHƯƠNG HƯỚNG, NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU TRONG KỲ TIẾP THEO",
+          "text": "5. PHƯƠNG HƯỚNG, NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU TRONG KỲ TIẾP THEO. Nêu phương hướng, nhiệm vụ, giải pháp cụ thể trong công tác tiếp công dân, xử lý đơn và giải quyết khiếu nại, tố cáo sẽ được thực hiện trong kỳ báo cáo tiếp theo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "KIẾN NGHỊ, ĐỀ XUẤT",
+          "text": "6. KIẾN NGHỊ, ĐỀ XUẤT. - Kiến nghị cơ quan có thẩm quyền nghiên cứu bổ sung, điều chỉnh chính sách, pháp luật là nguyên nhân phát sinh khiếu nại, tố cáo và hoàn thiện pháp luật về tiếp công dân, khiếu nại, tố cáo (nếu phát hiện có sơ hở, bất cập). Lưu ý: cần nêu rõ, cụ thể văn bản và nội dung kiến nghị. - Kiến nghị cơ quan có thẩm quyền hướng dẫn thực hiện các quy định của pháp luật về công tác tiếp công dân, xử lý đơn và giải quyết khiếu nại, tố cáo (nếu có vướng mắc). - Đề xuất các giải pháp nâng cao hiệu quả công tác tiếp công dân, xử lý đơn và giải quyết khiếu nại, tố cáo. - Các nội dung kiến nghị, đề xuất khác. Lưu ý: Cần có sự so sánh số liệu với kỳ trước (hoặc cùng kỳ của năm trước) làm cơ sở cho việc nhận xét, đánh giá.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Mẫu số 03. Đề cương báo cáo nội dung về công tác phòng, chống tham nhũng, tiêu cực",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "KẾT QUẢ CÔNG TÁC PHÒNG, CHỐNG THAM NHŨNG, TIÊU CỰC",
+          "text": "1. KẾT QUẢ CÔNG TÁC PHÒNG, CHỐNG THAM NHŨNG, TIÊU CỰC. 1. Kết quả công tác lãnh đạo, chỉ đạo việc thực hiện các quy định của pháp luật về phòng, chống tham nhũng, tiêu cực trong phạm vi trách nhiệm của bộ, ngành, địa phương; việc quán triệt, tuyên truyền, phổ biến chủ trương, chính sách, pháp luật về phòng, chống tham nhũng, tiêu cực; việc thanh tra trách nhiệm thực hiện pháp luật về phòng, chống tham nhũng, tiêu cực. a) Công tác lãnh đạo, chỉ đạo, ban hành văn bản, hướng dẫn triển khai thực hiện các văn bản quy phạm pháp luật, văn bản chỉ đạo, điều hành của cấp trên trong công tác phòng, chống tham nhũng, tiêu cực. b) Công tác chỉ đạo, triển khai, kiểm tra, đôn đốc việc thực hiện Chiến lược quốc gia phòng, chống tham nhũng, tiêu cực và các nhiệm vụ, chương trình công tác của Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, tiêu cực. c) Việc tổng kết, đánh giá, rà soát và lập danh mục những quy định pháp luật còn thiếu, sơ hở, dễ bị lợi dụng để tham nhũng, qua đó tự mình hoặc kiến nghị cơ quan có thẩm quyền sửa đổi, bổ sung cho phù hợp. d) Tổ chức, bộ máy, phân công trách nhiệm tổ chức thực hiện trong công tác phòng, chống tham nhũng, tiêu cực; tình hình hoạt động của các cơ quan chuyên trách về phòng, chống tham nhũng, tiêu cực (nếu có cơ quan, đơn vị chuyên trách). đ) Các hình thức cụ thể đã thực hiện để quán triệt, tuyên truyền, phổ biến chủ trương, chính sách, pháp luật về phòng, chống tham nhũng, tiêu cực. e) Kết quả thanh tra trách nhiệm thực hiện pháp luật về về phòng, chống tham nhũng, tiêu cực (số cuộc thanh tra, kết quả phát hiện và xử lý vi phạm qua thanh tra). 2. Kết quả thực hiện các biện pháp phòng ngừa tham nhũng trong cơ quan, tổ chức, đơn vị. a) Kết quả thực hiện công khai, minh bạch về tổ chức và hoạt động. b) Kết quả xây dựng và thực hiện định mức, tiêu chuẩn, chế độ. c) Kết quả thực hiện quy tắc ứng xử của người có chức vụ, quyền hạn. d) Kết quả thực hiện chuyển đổi vị trí công tác của người có chức vụ, quyền hạn. đ) Kết quả thực hiện cải cách hành chính, ứng dụng khoa học công nghệ trong quản lý và thanh toán không dùng tiền mặt. e) Kết quả thực hiện các quy định về kiểm soát tài sản, thu nhập của người có chức vụ, quyền hạn. 3. Kết quả phát hiện, xử lý tham nhũng trong cơ quan, tổ chức, đơn vị. Tổng số vụ việc, đối tượng tham nhũng được phát hiện; tổng số tiền, tài sản tham nhũng được phát hiện trong kỳ báo cáo. a) Kết quả phát hiện, xử lý tham nhũng qua hoạt động giám sát, kiểm tra và tự kiểm tra nội bộ của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý. b) Kết quả công tác thanh tra, kiểm toán và việc phát hiện, xử lý các vụ việc tham nhũng qua hoạt động thanh tra, kiểm toán. Kết quả phát hiện vi phạm, tham nhũng qua hoạt động thanh tra, kiểm toán; Kiến nghị xử lý vi phạm phát hiện qua hoạt động thanh tra, kiểm toán (Kiến nghị xử lý về: kinh tế, kiểm điểm rút kinh nghiệm, xử lý hành chính, hình sự và xử lý khác; sửa đổi, bổ sung, hủy bỏ các cơ chế, chính sách, văn bản quy phạm pháp luật, văn bản quản lý, điều hành...); Kết quả thực hiện các kiến nghị. c) Kết quả xem xét phản ánh, báo cáo về hành vi tham nhũng; việc phát hiện, xử lý tham nhũng qua xem xét phản ánh, báo cáo về hành vi tham nhũng và qua công tác giải quyết khiếu nại, tố cáo. d) Kết quả rà soát, phát hiện tham nhũng qua các hoạt động khác (nếu có). đ) Kết quả điều tra, truy tố, xét xử các vụ tham nhũng trong phạm vi theo dõi, quản lý của bộ, ngành, địa phương. e) Kết quả xử lý tài sản tham nhũng. Tổng số tiền, tài sản tham nhũng phát hiện được; Kết quả thu hồi tài sản tham nhũng: Kết quả thu hồi bằng biện pháp hành chính; Kết quả thu hồi bằng biện pháp tư pháp. f) Kết quả xử lý trách nhiệm của người đứng đầu. Kết quả thực hiện quy định về trách nhiệm của người đứng đầu; Kết quả áp dụng biện pháp tạm đình chỉ công tác, tạm thời chuyển sang vị trí khác; Kết quả xử lý trách nhiệm của người đứng đầu, cấp phó của người đứng đầu khi để xảy ra tham nhũng. g) Kết quả phát hiện, xử lý tham nhũng trong ngành Thanh tra. Số vụ việc, số đối tượng tham nhũng phát hiện trong kỳ báo cáo; Kết quả xử lý tham nhũng (hình sự, hành chính). 4. Kết quả phòng, chống tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước. a) Các hoạt động đã thực hiện để quản lý công tác phòng, chống tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước. b) Số lượng doanh nghiệp, tổ chức khu vực ngoài nhà nước thuộc phạm vi quản lý: (gồm công ty đại chúng, tổ chức tín dụng, tổ chức xã hội do Thủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy động các khoản đóng góp của Nhân dân để hoạt động từ thiện). c) Kết quả thực hiện quy định của pháp luật về phòng ngừa tham nhũng đối với doanh nghiệp, tổ chức khu vực ngoài nhà nước. Kết quả xây dựng văn hóa kinh doanh lành mạnh, không tham nhũng; Kết quả xây dựng và thực hiện quy tắc ứng xử, cơ chế kiểm soát nội bộ; Kết quả thực hiện các biện pháp công khai, minh bạch, kiểm soát xung đột lợi ích, chế độ trách nhiệm của người đứng đầu; Kết quả phát hiện, xử lý hành vi tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước; Kết quả phát hiện, xử lý các hành vi khác vi phạm pháp luật về phòng, chống tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước. 5. Vai trò, trách nhiệm của xã hội trong phòng, chống tham nhũng, tiêu cực. a) Các nội dung đã thực hiện nhằm phát huy vai trò, trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên, cơ quan báo chí, nhà báo, doanh nghiệp, công dân, ban thanh tra nhân dân và các tổ chức, đoàn thể khác trong phòng, chống tham nhũng, tiêu cực. b) Những kết quả, đóng góp của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên, cơ quan báo chí, nhà báo, doanh nghiệp, công dân, ban thanh tra nhân dân và các tổ chức, đoàn thể khác trong phòng, chống tham nhũng, tiêu cực. c) Kết quả việc bảo vệ, khen thưởng người có thành tích trong việc tố cáo về hành vi tham nhũng. 6. Hợp tác quốc tế về phòng, chống tham nhũng. a) Việc thực hiện Kế hoạch thực thi Công ước Liên hợp quốc về chống tham nhũng. b) Kết quả thực hiện các hoạt động về nghiên cứu, đào tạo, xây dựng chính sách, hỗ trợ tài chính, trợ giúp kỹ thuật, trao đổi thông tin, kinh nghiệm trong phòng, chống tham nhũng và các hoạt động hợp tác quốc tế khác về phòng, chống tham nhũng (nếu có).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "ĐÁNH GIÁ TÌNH HÌNH THAM NHŨNG (Báo cáo hằng Quý không phải báo cáo mục này)",
+          "text": "2. ĐÁNH GIÁ TÌNH HÌNH THAM NHŨNG (Báo cáo hằng Quý không phải báo cáo mục này). 1. Đánh giá tình hình. a) Đánh giá tình hình tham nhũng trong phạm vi quản lý của bộ, ngành, địa phương và nguyên nhân. b) So sánh tình hình với kỳ trước hoặc cùng kỳ năm trước. 2. Dự báo tình hình tham nhũng. a) Dự báo tình hình tham nhũng trong thời gian tới (khả năng tăng, giảm về số vụ việc, số đối tượng, tính chất, mức độ vi phạm...). b) Dự báo những lĩnh vực, nhóm hành vi dễ xảy ra nhiều tham nhũng cần phải tập trung các giải pháp phòng ngừa, phát hiện và xử lý tham nhũng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "ĐÁNH GIÁ CÔNG TÁC PHÒNG, CHỐNG THAM NHŨNG, TIÊU CỰC",
+          "text": "3. ĐÁNH GIÁ CÔNG TÁC PHÒNG, CHỐNG THAM NHŨNG, TIÊU CỰC. 1. Đánh giá chung về hiệu lực, hiệu quả công tác phòng, chống tham nhũng, tiêu cực trên các lĩnh vực thuộc thẩm quyền quản lý của bộ, ngành, địa phương. 2. So sánh hiệu quả công tác phòng, chống tham nhũng, tiêu cực kỳ này với kỳ trước hoặc cùng kỳ năm trước. 3. Tự đánh giá mức độ hoàn thành mục tiêu của công tác phòng, chống tham nhũng, tiêu cực. 4. Đánh giá những khó khăn, vướng mắc, tồn tại, hạn chế trong công tác phòng, chống tham nhũng, tiêu cực. Nêu cụ thể những khó khăn, vướng mắc, tồn tại, hạn chế trong công tác phòng, chống tham nhũng, tiêu cực; Phân tích rõ nguyên nhân chủ quan, khách quan của những khó khăn, vướng mắc, tồn tại, hạn chế và nguyên nhân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "PHƯƠNG HƯỚNG, NHIỆM VỤ, GIẢI PHÁP VÀ KIẾN NGHỊ, ĐỀ XUẤT",
+          "text": "4. PHƯƠNG HƯỚNG, NHIỆM VỤ, GIẢI PHÁP VÀ KIẾN NGHỊ, ĐỀ XUẤT. 1. Phương hướng, nhiệm vụ, giải pháp. a) Phương hướng chung trong thời gian tới. b) Những nhiệm vụ cụ thể phải thực hiện. c) Giải pháp để thực hiện nhiệm vụ và khắc phục những khó khăn, vướng mắc, tồn tại, hạn chế. 2. Kiến nghị, đề xuất. a) Kiến nghị cơ quan có thẩm quyền nghiên cứu bổ sung, điều chỉnh chính sách, pháp luật về phòng, chống tham nhũng, tiêu cực (nếu phát hiện có sơ hở, bất cập). b) Kiến nghị cơ quan có thẩm quyền hướng dẫn thực hiện các quy định của pháp luật về phòng, chống tham nhũng, tiêu cực (nếu có vướng mắc). c) Đề xuất cơ quan có thẩm quyền áp dụng các giải pháp, sáng kiến nâng cao hiệu quả công tác đấu tranh phòng, chống tham nhũng, tiêu cực, khắc phục những khó khăn, vướng mắc. d) Các nội dung cụ thể khác cần kiến nghị, đề xuất./.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phạm vi điều chỉnh, đối tượng áp dụng",
+      "text": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Thông tư này quy định về chế độ báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực.\n2. Thông tư này áp dụng đối với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh), các cơ quan, tổ chức, đơn vị có thẩm quyền và trách nhiệm trong công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nguyên tắc báo cáo",
+      "text": "Điều 2. Nguyên tắc báo cáo\n1. Đầy đủ, chính xác, khách quan, kịp thời.\n2. Đúng quy định của pháp luật về thanh tra, tiếp công dân, khiếu nại, tố cáo, phòng, chống tham nhũng, tiêu cực và hướng dẫn tại Thông tư này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các loại báo cáo",
+      "text": "Điều 3. Các loại báo cáo\n1. Báo cáo định kỳ là báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực được thực hiện hằng quý, 6 tháng, 9 tháng và hằng năm.\n2. Báo cáo chuyên đề là báo cáo để đáp ứng yêu cầu thông tin có tính chuyên sâu về một chủ đề thuộc lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực được thực hiện một hoặc nhiều lần trong một khoảng thời gian nhất định.\n3. Báo cáo đột xuất là báo cáo để đáp ứng yêu cầu thông tin về vấn đề phát sinh bất thường trong các lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực được thực hiện theo yêu cầu của cơ quan cấp trên hoặc của Thanh tra Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Báo cáo định kỳ",
+      "text": "Điều 4. Báo cáo định kỳ\n1. Báo cáo Quý I, 6 tháng, 9 tháng và hằng năm:\na) Về công tác thanh tra: tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác thanh tra trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác thanh tra được thực hiện theo Mẫu số 01 và các biểu số liệu 01/TTr, 02/TTr, 03/TTr, 04/TTr, 05/TTr, 06/TTr, 07/TTr, 01/QLNN, 02/QLNN ban hành kèm theo Thông tư này.\nb) Về công tác tiếp công dân, giải quyết khiếu nại, tố cáo: tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác tiếp công dân, giải quyết khiếu nại, tố cáo được thực hiện theo Mẫu số 02 và các biểu số liệu 01/TCD, 01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ, 03/KQGQ, 04/KQGQ, 03/QLNN ban hành kèm theo Thông tư này.\n\nc) Về công tác phòng, chống tham nhũng, tiêu cực: tình hình, kết quả thực hiện nhiệm vụ, đánh giá về công tác phòng, chống tham nhũng, tiêu cực trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác phòng, chống tham nhũng, tiêu cực được thực hiện theo Mẫu số 03 và các biểu số liệu 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này.\n\n2. Báo cáo Quý II, Quý III và Quý IV chỉ thực hiện báo cáo theo các biểu số liệu sau:\na) Về công tác thanh tra: các biểu số liệu 01/TTr, 02/TTr, 03/TTr, 04/TTr, 05/TTr, 06/TTr, 07/TTr, 01/QLNN, 02/QLNN ban hành kèm theo Thông tư này.\nb) Về công tác tiếp công dân, giải quyết khiếu nại, tố cáo: các biểu số liệu 01/TCD, 01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ, 03/KQGQ, 04/KQGQ, 03/QLNN ban hành kèm theo Thông tư này.\nc) Về công tác phòng, chống tham nhũng, tiêu cực: các biểu số liệu 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này.\n\n3. Ngoài những nội dung được quy định tại khoản 1 và khoản 2 Điều này, trong trường hợp cần thiết, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh báo cáo bổ sung nội dung tổng hợp chuyên sâu về kết quả công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực thuộc phạm vi trách nhiệm của mình gửi Thanh tra Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Báo cáo chuyên đề",
+      "text": "Điều 5. Báo cáo chuyên đề\n1. Báo cáo chuyên đề về công tác tiếp công dân, giải quyết khiếu nại, tố cáo hằng năm:\nBáo cáo chuyên đề về công tác tiếp công dân, giải quyết khiếu nại, tố cáo hằng năm: tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo trong kỳ báo cáo, dự báo tình hình và phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo được thực hiện theo Mẫu số 02 và các biểu số liệu 01/TCD, 01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ, 03/KQGQ, 04/KQGQ, 03/QLNN ban hành kèm theo Thông tư này. Trường hợp cần thiết phải bổ sung nội dung, Thanh tra Chính phủ có văn bản hướng dẫn cụ thể về đề cương, biểu số liệu báo cáo.\n\n2. Báo cáo chuyên đề về công tác phòng, chống tham nhũng, tiêu cực hằng năm:\nTình hình, kết quả thực hiện nhiệm vụ, đánh giá về công tác phòng, chống tham nhũng, tiêu cực trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo được thực hiện theo Mẫu số 03 và các biểu số liệu 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này. Trường hợp cần thiết phải bổ sung nội dung, Thanh tra Chính phủ có văn bản hướng dẫn cụ thể về đề cương, biểu số liệu báo cáo.\n\n3. Báo cáo chuyên đề khác: Thanh tra Chính phủ có văn bản hướng dẫn cụ thể về đề cương, biểu số liệu báo cáo.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 6",
+      "heading": "Báo cáo đột xuất",
+      "text": "Điều 6. Báo cáo đột xuất\n1. Khi Thanh tra Chính phủ có yêu cầu báo cáo đột xuất trong lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực thì Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh, các cơ quan, tổ chức, đơn vị có trách nhiệm báo cáo theo hướng dẫn của Thanh tra Chính phủ.\n2. Khi cơ quan, tổ chức, đơn vị phát hiện những vấn đề đột xuất, có tính chất phức tạp trong lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực liên quan trực tiếp tới chức năng, nhiệm vụ, quyền hạn của mình thì có trách nhiệm báo cáo kịp thời cho cơ quan thanh tra cấp trên và Thủ trưởng cơ quan quản lý nhà nước có thẩm quyền để được chỉ đạo, phối hợp xử lý.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 7",
+      "heading": "Thời gian chốt số liệu, đối tượng thực hiện báo cáo, cơ quan nhận báo cáo và thời hạn gửi báo cáo",
+      "text": "Điều 7. Thời gian chốt số liệu, đối tượng thực hiện báo cáo, cơ quan nhận báo cáo và thời hạn gửi báo cáo\n1. Thời gian chốt số liệu\na) Đối với báo cáo định kỳ:\n- Báo cáo Quý I từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 3 của năm báo cáo;\n- Báo cáo Quý II, Quý III, Quý IV từ ngày 15 của tháng cuối quý trước đến ngày 14 của tháng cuối quý báo cáo.\n- Báo cáo 6 tháng từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 6 của năm báo cáo.\n\nCÔNG BÁO/Số 291 + 292/Ngày 14-02-2024 29\n\n- Báo cáo 9 tháng từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 9 của năm báo cáo.\n- Báo cáo hằng năm từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 12 của năm báo cáo.\n\nb) Đối với báo cáo chuyên đề, đột xuất: Thời gian chốt số liệu theo yêu cầu bằng văn bản của Thanh tra Chính phủ.\n\n2. Đối tượng thực hiện báo cáo, cơ quan nhận báo cáo, thời hạn gửi báo cáo\n\na) Đối với báo cáo định kỳ:\n\n- Ủy ban nhân dân cấp xã, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện và tổ chức, cá nhân có liên quan trong phạm vi địa bàn quản lý của cấp huyện gửi báo cáo Ủy ban nhân dân cấp huyện chậm nhất vào ngày 16 của tháng cuối thuộc kỳ báo cáo;\n\n- Ủy ban nhân dân cấp huyện, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và tổ chức, cá nhân có liên quan trong phạm vi địa bàn quản lý của cấp tỉnh gửi báo cáo Ủy ban nhân dân cấp tỉnh chậm nhất vào ngày 18 của tháng cuối thuộc kỳ báo cáo;\n\n- Ủy ban nhân dân cấp tỉnh tổng hợp, duyệt, gửi báo cáo Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ báo cáo.\n\n- Cơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp huyện gửi báo cáo cơ quan được tổ chức theo ngành dọc đặt tại cấp tỉnh chậm nhất vào ngày 15 của tháng cuối thuộc kỳ báo cáo;\n\n- Cơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp tỉnh tổng hợp, duyệt, gửi báo cáo cơ quan được tổ chức theo ngành dọc cấp trung ương chậm nhất vào ngày 16 của tháng cuối thuộc kỳ báo cáo;\n\n- Cơ quan, đơn vị trực thuộc bộ, cơ quan ngang bộ tổng hợp, duyệt, gửi báo cáo bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ chậm nhất vào ngày 18 của tháng cuối quý thuộc kỳ báo cáo;\n\n- Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ tổng hợp, duyệt, gửi báo cáo Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ báo cáo.\n\n30\nCÔNG BÁO/Số 291 + 292/Ngày 14-02-2024\n\nCơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp tỉnh, cấp huyện đồng thời gửi báo cáo đến cơ quan thanh tra và cơ quan quản lý nhà nước cùng cấp để phục vụ quản lý. Cơ quan thanh tra và cơ quan quản lý nhà nước cùng cấp không tổng hợp nội dung báo cáo của cơ quan trung ương được tổ chức theo ngành dọc vào báo cáo của mình.\n\n- Trong trường hợp cần thiết, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh quy định về thời hạn gửi báo cáo cho từng cấp theo thẩm quyền quản lý nhưng đảm bảo thời hạn gửi báo cáo về Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ báo cáo.\n\nb) Đối với báo cáo chuyên đề, đột xuất: đối tượng báo cáo, thời hạn gửi báo cáo thực hiện theo yêu cầu của Thanh tra Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 8",
+      "heading": "Hình thức báo cáo, phương thức gửi báo cáo",
+      "text": "Điều 8. Hình thức báo cáo, phương thức gửi báo cáo\n\n1. Báo cáo được thể hiện bằng văn bản giấy, văn bản điện tử, có chữ ký của Thủ trưởng cơ quan, tổ chức, đơn vị và được đóng dấu theo quy định.\n\nTrường hợp Thủ trưởng cơ quan quản lý nhà nước ủy quyền cho Thủ trưởng cơ quan thanh tra cùng cấp ký báo cáo thì thực hiện theo quy định về ký thừa ủy quyền.\n\n2. Báo cáo được gửi tới cơ quan nhận báo cáo bằng hệ thống văn bản điện tử trong cơ quan hành chính nhà nước và một trong số phương thức sau:\n\na) Gửi qua phần mềm hệ thống báo cáo của ngành Thanh tra;\n\nb) Gửi qua thư điện tử của cơ quan hành chính nhà nước;\n\nc) Gửi trực tiếp;\n\nd) Gửi qua dịch vụ bưu chính;\n\nđ) Gửi qua Fax.\n\n3. Số liệu báo cáo nhập liệu vào phần mềm hệ thống báo cáo của ngành Thanh tra theo hướng dẫn của Thanh tra Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 9",
+      "heading": "Ứng dụng công nghệ thông tin trong thực hiện chế độ báo cáo",
+      "text": "Điều 9. Ứng dụng công nghệ thông tin trong thực hiện chế độ báo cáo\n\n1. Thanh tra Chính phủ xây dựng, quản lý, vận hành hệ thống thông tin báo cáo điện tử của ngành Thanh tra; đảm bảo hạ tầng kỹ thuật, công nghệ, an toàn, an ninh thông tin phục vụ xây dựng, vận hành hệ thống thông tin báo cáo, chia sẻ dữ liệu theo các quy định của pháp luật.\n\n31\n\nCÔNG BÁO/Số 291 + 292/Ngày 14-02-2024\n\n2. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh tổ chức triển khai, sử dụng có hiệu quả hệ thống báo cáo điện tử của ngành Thanh tra. Trường hợp cần thiết, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh chủ động xây dựng hệ thống thông tin báo cáo điện tử đáp ứng yêu cầu quản lý nhà nước của mình và chế độ báo cáo của Thanh tra Chính phủ.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 10",
+      "heading": "Trách nhiệm thi hành",
+      "text": "Điều 10. Trách nhiệm thi hành\n\n1. Thanh tra Chính phủ có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện chế độ báo cáo theo quy định của Thông tư này.\n\n2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh, Thủ trưởng các cơ quan, tổ chức, đơn vị có trách nhiệm tổ chức thực hiện chế độ báo cáo theo quy định tại Thông tư này.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 11",
+      "heading": "Hiệu lực thi hành",
+      "text": "Điều 11. Hiệu lực thi hành\n\nThông tư này có hiệu lực thi hành kể từ ngày 05 tháng 3 năm 2024.\n\nThông tư số 02/2021/TT-TTCP ngày 22 tháng 3 năm 2021 của Thanh tra Chính phủ quy định chế độ báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng hết hiệu lực kể từ ngày Thông tư này có hiệu lực.\n\nTrong quá trình thực hiện nếu có khó khăn, vướng mắc, đề nghị phản ánh về Thanh tra Chính phủ để được hướng dẫn hoặc sửa đổi, bổ sung cho phù hợp./.\n\nKT. TỔNG THANH TRA\nPHÓ TỔNG THANH TRA\n\nDương Quốc Huy\n\n32\nCÔNG BÁO/Số 291 + 292/Ngày 14-02-2024",
+      "isImplementationClause": true
+    }
+  ]
+}

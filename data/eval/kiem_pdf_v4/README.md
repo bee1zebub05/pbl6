@@ -3,8 +3,9 @@
 Tập này đo độ sai lệch của dữ liệu do model trả về (trích xuất JSON v4 từ `text_final`)
 so với nội dung thật trên ảnh PDF gốc, và gom các lỗi OCR phát hiện được trong lúc đối chiếu.
 Dựng ngày 16–17/11/2026 khi chuyển văn bản sang JSON v4 theo nhóm số trang PDF: nhóm 1–3
-(1–2, 3–5, 6–10 trang; 136 văn bản), nhóm 4 (11–20 trang; 82 văn bản) và nhóm 5 (21–40 trang;
-81 văn bản). Cả 299 văn bản có JSON hợp lệ và được chấm.
+(1–2, 3–5, 6–10 trang; 136 văn bản), nhóm 4 (11–20 trang; 82 văn bản) nhóm 5 (21–40 trang;
+81 văn bản) và nhóm 6 (trên 40 trang; 50 văn bản, gồm Bộ luật Hình sự 0245 và văn bản hợp nhất 0246)
+cùng 0161, 0352 (bản gốc Word). Cả 351 văn bản có JSON hợp lệ và được chấm.
 
 ## Cách làm
 
@@ -14,7 +15,7 @@ Dựng ngày 16–17/11/2026 khi chuyển văn bản sang JSON v4 theo nhóm s�
 2. Bản model trả về được chụp vào `goc/<mã>.json` **trước khi** có bất kỳ chỉnh sửa nào.
 3. Agent đọc ảnh PDF gốc và sửa JSON trong `data/clean/json/v4`, mỗi chỗ sửa ghi vào `note` kèm
    trang PDF. Nhóm 1 và khoảng một nửa nhóm 2, 3 do agent Claude Opus kiểm; phần còn lại do agent
-   Claude Sonnet kiểm; nhóm 4, 5 do Sonnet kiểm có chọn lọc (trang đầu, căn cứ, hiệu lực, chữ ký, trang
+   Claude Sonnet kiểm; nhóm 4–6 do Sonnet kiểm có chọn lọc (trang đầu, căn cứ, hiệu lực, chữ ký, trang
    có thay thế/bãi bỏ — văn bản trên 10 trang không mở hết). Từ lượt Sonnet, **nguồn đối chiếu duy nhất là ảnh PNG render từ PDF gốc**:
    không dùng `.txt` hay metadata web, vì JSON sinh ra từ chính `.txt` nên có thể sai giống nhau.
 4. Trọng tài (Claude, phiên chính) tự xem ảnh PDF cho mọi chỗ sửa có rủi ro cao (số hiệu, ngày
@@ -37,33 +38,32 @@ Nguyên tắc: chỉ ghi điều văn bản ghi, không suy luận. Văn bản k
 - 0168 (Nghị quyết 08/NQ-HĐĐH ngày 28/01/2022) có căn cứ Nghị quyết 08/NQ-HĐĐH ngày 12/7/2021 —
   trùng số hiệu khác ngày, lược đồ chặn tự trích dẫn nên chưa ghi được quan hệ này.
 
-## Kết quả (299 văn bản nhóm 1–5, 17/11/2026)
+## Kết quả (351 văn bản nhóm 1–6, 18/11/2026)
 
 | Trường | Tỷ lệ đúng |
 |---|---|
-| Số hiệu | 97,7% |
-| Loại văn bản | 100% |
-| Cơ quan ban hành | 99,0% |
-| Ngày ban hành | 95,7% |
+| Số hiệu | 98,0% |
+| Loại văn bản | 99,4% |
+| Cơ quan ban hành | 99,2% |
+| Ngày ban hành | 96,0% |
 | Ngày hiệu lực | 90,0% |
-| Trạng thái | 99,0% |
+| Trạng thái | 97,4% |
 | Số Điều | 99,7% |
 
 | Trường tập hợp | P | R | F1 |
 |---|---|---|---|
-| Người ký (họ tên + chức vụ) | 0,90 | 0,90 | 0,90 |
-| Trích dẫn (đích + loại quan hệ) | 0,86 | 0,82 | 0,84 |
-| — BASED_ON | 0,85 | 0,86 | 0,85 |
+| Người ký (họ tên + chức vụ) | 0,91 | 0,91 | 0,91 |
+| Trích dẫn (đích + loại quan hệ) | 0,84 | 0,80 | 0,82 |
+| — BASED_ON | 0,82 | 0,86 | 0,84 |
 | — REFERENCES | 1,00 | 0,77 | 0,87 |
-| — REPLACES | 0,97 | 0,88 | 0,92 |
-| — AMENDS | 0,79 | 0,69 | 0,74 |
-| — REPEALS | 0,93 | 0,56 | 0,70 |
+| — REPLACES | 0,93 | 0,80 | 0,86 |
+| — AMENDS | 0,80 | 0,60 | 0,68 |
+| — REPEALS | 0,86 | 0,52 | 0,64 |
 
 Đây là điểm của riêng model. Thêm bước luật `tools/kiem_tra/vet_quan_he.py` (chỉ thêm
-REPLACES/REPEALS còn thiếu), độ phủ REPEALS tăng từ 56% lên 99% (162/163), REPLACES từ 88% lên
-91%; luật không ra quan hệ sai nào (62/62 REPLACES, 117/117 REPEALS). Luật được chỉnh trên nhóm
-1–3, kiểm độc lập trên nhóm 4 (29/29, 2/2); trên nhóm 5 lộ ra 4 kiểu bắt nhầm (câu bị OCR ngắt
-dòng, tiêu đề bảng, cụm "văn bản thay thế", trích yếu bị động) — đã sửa luật, xem docstring.
+REPLACES/REPEALS còn thiếu), độ phủ REPEALS tăng từ 52% lên 96% (211/219), REPLACES từ 80% lên
+87%; luật không ra quan hệ sai nào (80/80 REPLACES, 159/159 REPEALS). Phần REPEALS còn sót chủ yếu
+do `text_final` mất chữ (0112 mất 3 mục danh sách) — luật chỉ đọc được điều OCR còn giữ.
 
 Lỗi điển hình của model: bỏ sót danh sách dài văn bản bị bãi bỏ (0149, 0143, 0284); chép
 nguyên ngày viết tay bị OCR đọc sai; gán chức vụ "Hiệu trưởng" mặc định cho người ký của Đại học
@@ -71,7 +71,11 @@ nguyên ngày viết tay bị OCR đọc sai; gán chức vụ "Hiệu trưởng
 cũng mắc, trọng tài bỏ cả 104 trích dẫn kiểu này trong v4); nhầm căn cứ với dẫn chiếu; ghi
 REPEALS khi văn bản viết "thay thế" (0432). Agent nhóm 5 ghi REPEALS cho 15 câu "Bãi bỏ Điều X
 của Luật Y" (0447) — bỏ một điều là sửa đổi một phần, trọng tài đổi sang AMENDS; nếu để REPEALS,
-`suy_hieu_luc.py` sẽ coi cả 15 luật là hết hiệu lực.
+`suy_hieu_luc.py` sẽ coi cả 15 luật là hết hiệu lực. Rà toàn kho bắt thêm 11 chỗ cùng lỗi, cả ở model
+lẫn bản chuẩn cũ ("Chương V của Luật khiếu nại … hết hiệu lực", "Ban hành Phụ lục thay thế Phụ lục
+… kèm theo Quyết định 4766", "bãi bỏ các nội dung liên quan đến thủ tục…") — đều đổi sang AMENDS.
+Model còn tự gán HET_HIEU_LUC khi văn bản không ghi (0136, 0139, 0323, 0347, 0094, 0280) — đưa về
+null; trạng thái hết hiệu lực chỉ suy từ văn bản khác trong kho (`suy_hieu_luc.py`).
 
 ## Năm văn bản phải sửa lược đồ hoặc code mới trích xuất được
 
@@ -103,5 +107,5 @@ python data/eval/kiem_pdf_v4/tinh_sai_lech.py
 ```
 
 Trường đơn chấm tỷ lệ đúng sau chuẩn hoá. Trường tập hợp chấm Precision, Recall, F1 gộp vi mô;
-trích dẫn chấm thêm theo từng loại quan hệ. Áp dụng tiếp cho nhóm 6 bằng cách thêm bản gốc
+trích dẫn chấm thêm theo từng loại quan hệ. Áp dụng cho văn bản mới bằng cách thêm bản gốc
 và bản chuẩn vào hai thư mục.

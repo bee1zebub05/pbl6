@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tuyển sinh/0151_09_2020_TT-BGDĐT_Thông tư 09_2020_TT-BGDĐT Quy chế tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành Giáo dụ.txt",
   "mappedBy": "gemini-web",
-  "note": null,
+  "note": "citations[06/2017/TT-BGDĐT] sửa từ REPLACES thành AMENDS: câu chỉ thay thế các nội dung liên quan đến tuyển sinh tại Thông tư đích, văn bản đích vẫn còn hiệu lực tổng thể.",
   "document": {
     "documentNumber": "09/2020/TT-BGDĐT",
     "title": "Thông tư ban hành Quy chế tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành Giáo dục Mầm non",
@@ -103,7 +103,7 @@
     },
     {
       "targetDocumentNumber": "06/2017/TT-BGDĐT",
-      "relationType": "REPLACES",
+      "relationType": "AMENDS",
       "targetArticle": null,
       "context": "thay thế các nội dung liên quan đến tuyển sinh tại các Thông tư số 06/2017/TT-BGDĐT ngày 15 tháng 3 năm 2017 ban hành Quy chế đào tạo vừa làm vừa học trình độ đại học"
     },

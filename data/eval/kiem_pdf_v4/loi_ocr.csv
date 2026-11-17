@@ -43,3 +43,6 @@
 0215,1,14/05/2021,11/05/2021,ngay,"chữ số viết tay ""11"" đọc thành 14",5
 0448,1,5247/QĐ-ĐHBK,5274/QĐ-ĐHBK,so_hieu,hoán đổi 2 chữ số viết tay,5
 0020,1,của Hội Đại học Đà Nẵng,của Hội đồng Đại học Đà Nẵng,mat_chu,context citations[5] mất chữ đồng; không sửa (context),5
+0380,17,tháng 04,tháng 01,so_hieu,ngày/tháng viết tay,6
+0305,29,05/2014/TI-TTCP,05/2014/TT-TTCP,so_hieu,"PDF in ""TI-TTCP""; JSON dùng TT-TTCP (đúng ký hiệu loại Thông tư)",6
+0112,,(thiếu dòng),Nghị định số 05/2015/NĐ-CP; 148/2018/NĐ-CP; 121/2018/NĐ-CP trong danh sách hết hiệu lực,mat_chu,"text_final mất 3 mục c), d), đ) của danh sách; agent bổ sung từ ảnh PDF",6

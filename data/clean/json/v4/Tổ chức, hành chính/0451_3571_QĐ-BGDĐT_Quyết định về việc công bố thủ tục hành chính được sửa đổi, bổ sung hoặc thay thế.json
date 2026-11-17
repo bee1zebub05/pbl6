@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tổ chức, hành chính/0451_3571_QĐ-BGDĐT_Quyết định về việc công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. issueDate sửa từ 26/11/2025 thành 26/12/2025 theo PDF gốc trang 1 (Hà Nội, ngày 26 tháng 12 năm 2025; phóng 300 DPI, dấu đến 29/12/25 và 30/12/2025 phù hợp).",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. issueDate sửa từ 26/11/2025 thành 26/12/2025 theo PDF gốc trang 1 (Hà Nội, ngày 26 tháng 12 năm 2025; phóng 300 DPI, dấu đến 29/12/25 và 30/12/2025 phù hợp). citations[2108/QĐ-BGDĐT] sửa từ {\"relationType\": \"REPEALS\", \"targetArticle\": null} thành {\"relationType\": \"AMENDS\", \"targetArticle\": null} theo PDF gốc trang câu chỉ bãi bỏ các nội dung liên quan đến một thủ tục tại Quyết định đích; văn bản đích vẫn còn hiệu lực tổng thể nên là AMENDS, không phải REPEALS.",
   "document": {
     "documentNumber": "3571/QĐ-BGDĐT",
     "title": "Quyết định về việc công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế lĩnh vực giáo dục và đào tạo thuộc hệ thống giáo dục quốc dân thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo",
@@ -58,7 +58,7 @@
     },
     {
       "targetDocumentNumber": "2108/QĐ-BGDĐT",
-      "relationType": "REPEALS",
+      "relationType": "AMENDS",
       "targetArticle": null,
       "context": "Bãi bỏ các nội dung liên quan đến thủ tục Cử đoàn ra công tác ngắn hạn tại nước ngoài công bố tại Quyết định 2108/QĐ-BGDĐT ngày 24 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công bố thủ tục hành chính được chuẩn hóa thuộc phạm vi, chức năng quản lý của Bộ Giáo dục và Đào tạo."
     }

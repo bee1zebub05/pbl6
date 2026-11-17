@@ -1,0 +1,218 @@
+﻿ma,truong,gia_tri_json,gia_tri_pdf,trang_pdf,muc_do,de_xuat_sua,da_sua
+0382,citations,BASED_ON 19/06/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0382,citations,BASED_ON 22/11/2019,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0382,citations,BASED_ON 29/06/2006,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0382,citations,BASED_ON 19/11/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0382,documentNumber,142/QĐ-TTg,142/QĐ-TTg,1,OK,,
+0382,issueDate,02/02/2024,02/02/2024,1,OK,,
+0382,effectiveDate,02/02/2024,ký ban hành (Điều 2),25,OK,,
+0382,signers,Trần Lưu Quang / Phó Thủ tướng,"KT. Thủ tướng, Phó Thủ tướng Trần Lưu Quang",25,OK,,
+0247,citations,REPLACES 2001,"(chỉ có tên và ngày, không có số hiệu)",45,SAI,bỏ trích dẫn,CO
+0247,documentNumber,23/2008/QH12,23/2008/QH12,1,OK,,
+0247,effectiveDate,01/07/2009,01/07/2009,45,OK,,
+0247,issueDate,13/11/2008,13/11/2008,45,OK,,
+0247,signers,Nguyễn Phú Trọng / Chủ tịch Quốc hội,"Nguyễn Phú Trọng, Chủ tịch Quốc hội",45,OK,,
+0103,all,36/2018/QH14; 20/11/2018; 01/07/2019; Nguyễn Thị Kim Ngân; REPEALS 55/2005/QH11,khớp,47,OK,,
+0293,all,124/2020/NĐ-CP; 19/10/2020; 10/12/2020; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng; REPLACES 75/2012/NĐ-CP,khớp,30,OK,,
+0293,"citations[0,1]","BASED_ON 19/2015/QH13, 02/2011/QH13","PDF chỉ ghi Luật Tổ chức Chính phủ ngày 19/6/2015, Luật Khiếu nại ngày 11/11/2011, không ghi số hiệu",1,NGHI_NGO,số hiệu không có trong văn bản; để người quyết,KHONG
+0102,all,39/2019/QH14; 13/06/2019; 01/01/2020; Nguyễn Thị Kim Ngân; AMENDS 55/2014/QH13 Điều 25; REPEALS 49/2014/QH13,"khớp (REPEALS có ngoại lệ chuyển tiếp khoản 3,5 Điều 101, vẫn là hết hiệu lực cả luật)",52,OK,,
+0277,signers.position,Hiệu trưởng,GIÁM ĐỐC (PGS.TS. Nguyễn Ngọc Vũ),1,SAI,Giám đốc,CO
+0277,issueDate,22/01/2024,"chữ viết tay: ngày 22, tháng 0? (chữ số cuối của tháng giống số 2 hơn số 1)",1,NGHI_NGO,không sửa,KHONG
+0277,documentNumber/effectiveDate/title/org/citations,738/QĐ-ĐHĐN; ký ban hành; ...,khớp,1,OK,,
+0290,all,11/2022/QH15; 14/11/2022; 01/07/2023; Vương Đình Huệ; REPEALS 56/2010/QH12; AMENDS 15/2012/QH13 Điều 46; AMENDS 72/2020/QH14 Điều 160,khớp,54,OK,,
+0325,citations,BASED_ON 15/11/2010,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0325,citations,BASED_ON 11/11/2011,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0325,citations,BASED_ON 25/11/2013,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0325,citations,BASED_ON 12/06/2018,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0325,citations,BASED_ON 20/11/2018,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0325,all khác,02/2021/TT-TTCP; 22/03/2021; 10/05/2021; Lê Minh Khái Tổng Thanh tra; REPEALS 03/2013/TT-TTCP; BASED_ON NĐ,khớp,8,OK,,
+0308,citations,BASED_ON 11/2011/QH13,PDF không ghi số hiệu: Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011;,1,SAI,bỏ trích dẫn,CO
+0308,citations,BASED_ON 25/2013/QH13,PDF không ghi số hiệu: Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013;,1,SAI,bỏ trích dẫn,CO
+0308,citations,BASED_ON 12/2018/QH14,PDF không ghi số hiệu: Căn cứ Luật Tố cáo ngày 12 tháng 6 năm 2018;,1,SAI,bỏ trích dẫn,CO
+0308,citations,BASED_ON 20/2018/QH14,"PDF không ghi số hiệu: Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018;",1,SAI,bỏ trích dẫn,CO
+0308,citations,BASED_ON 14/2022/QH15,PDF không ghi số hiệu: Căn cứ Luật Thanh tra ngày 14 tháng 11 năm 2022;,1,SAI,bỏ trích dẫn,CO
+0308,all khác,01/2024/TT-TTCP; 20/01/2024; 05/03/2024; Dương Quốc Huy Phó Tổng Thanh tra; REPEALS 02/2021/TT-TTCP,khớp,8,OK,,
+0291,citations,BASED_ON 19/06/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0291,citations,BASED_ON 20/11/2018,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0291,citations,(thiếu),REPEALS 107/2006/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 47/2007/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 102/2007/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 158/2007/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 59/2013/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 90/2013/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 211/2013/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 150/2013/NĐ-CP,47,THIEU,thêm trích dẫn,CO
+0291,citations,(thiếu),REPEALS 64/2007/QĐ-TTg,47,THIEU,thêm trích dẫn,CO
+0291,all khác,59/2019/NĐ-CP; 01/07/2019; 15/08/2019; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng,khớp,48,OK,,
+0380,effectiveDate,05/04/2025,05/01/2025 (chữ viết tay),17,SAI,05/01/2025,CO
+0380,all khác,15/2024/TT-BGDĐT; 20/11/2024; KT. Bộ trưởng Thứ trưởng Nguyễn Văn Phúc; REPLACES 11/2016/TT-BGDĐT,khớp,17,OK,,
+0097,citations,BASED_ON Hiến pháp,PDF không ghi số hiệu: Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;,1,SAI,bỏ trích dẫn,CO
+0097,all khác,49/2014/QH13; 18/06/2014; 01/01/2015; Nguyễn Sinh Hùng,khớp,60,OK,,
+0153,citations,BASED_ON 29/06/2006,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0153,all khác,03/2014/TT-BTTTT; 11/03/2014; 28/04/2014; Nguyễn Bắc Son Bộ trưởng,khớp,3,OK,,
+0164,citations,BASED_ON 18/06/2012,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0164,citations,BASED_ON 18/06/2013,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0164,all khác,11/2016/TT-BGDĐT; 11/04/2016; 27/05/2016; Bùi Văn Ga KT. Bộ trưởng Thứ trưởng; REPLACES 12/2010/TT-BGDĐT,khớp,1,OK,,
+0117,citations 133/2008/NĐ-CP,REPEALS,thay thế (REPLACES),34,SAI,REPLACES,CO
+0117,"citations 103/2011/NĐ-CP, 120/2014/NĐ-CP",REPEALS,"chỉ là văn bản sửa đổi trong chuỗi sửa đổi, không mang quan hệ",34,THUA,bỏ,CO
+0117,all khác,76/2018/NĐ-CP; 15/05/2018; 01/07/2018; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng,khớp,36,OK,,
+0401,citations,(thiếu),AMENDS 31/2024/QH15,68,THIEU,thêm trích dẫn,CO
+0401,citations,(thiếu),AMENDS 77/2015/QH13,68,THIEU,thêm trích dẫn,CO
+0401,citations,(thiếu),AMENDS 39/2024/QH15,68,THIEU,thêm trích dẫn,CO
+0401,all khác,58/2024/QH15; 29/11/2024; 01/01/2025; Trần Thanh Mẫn; REPEALS 39/2019/QH14,khớp,69,OK,,
+0280,signers.position,Hiệu trưởng,CHỦ TỊCH QUỐC HỘI (Nguyễn Sinh Hùng),82,SAI,Chủ tịch Quốc hội,CO
+0280,status,HET_HIEU_LUC,văn bản không ghi tình trạng của chính nó,82,NGHI_NGO,không đổi (không suy luận),KHONG
+0280,all khác,"80/2015/QH13; 22/06/2015; 01/07/2016; REPEALS 17/2008/QH12, 31/2004/QH11",khớp,82,OK,,
+0133,citations,BASED_ON 19/06/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,citations,BASED_ON 14/06/2005,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,citations,BASED_ON 25/11/2009,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,citations,BASED_ON 18/06/2012,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,citations,BASED_ON 26/11/2014,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,citations,BASED_ON 22/11/2016,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,citations,BASED_ON 26/11/2014,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0133,all khác,"86/2018/NĐ-CP; 06/06/2018; 01/08/2018; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng; REPLACES 73/2012/NĐ-CP, 124/2014/NĐ-CP","khớp (124/2014 được thay thế rõ ràng bằng ""và Nghị định 124/2014/NĐ-CP"")",44,OK,,
+0482,all,1866/QĐ-BGDĐT; 29/06/2026; ký ban hành; Hoàng Minh Sơn Bộ trưởng; 10 Căn cứ BASED_ON,khớp,1,OK,,
+0305,citations,BASED_ON Luật Thanh tra,PDF không ghi số hiệu: Căn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010;,1,SAI,bỏ trích dẫn,CO
+0305,citations,(thiếu),REPEALS 05/2014/TT-TTCP,29,THIEU,thêm trích dẫn,CO
+0305,citations,(thiếu),REPEALS 05/2015/TT-TTCP,29,THIEU,thêm trích dẫn,CO
+0305,citations,(thiếu),REPEALS 08/2015/TT-TTCP,29,THIEU,thêm trích dẫn,CO
+0305,citations,(thiếu),REPEALS 2316/QĐ-TTCP,29,THIEU,thêm trích dẫn,CO
+0305,all khác,06/2021/TT-TTCP; 01/10/2021; 15/11/2021; Đoàn Hồng Phong Tổng Thanh tra,khớp,30,OK,,
+0352,effectiveDate,24/07/2014,không ghi,1,SAI,null,CO
+0352,citations,(thiếu),REFERENCES 3034/BTP-VĐCXDPL,1,THIEU,thêm,CO
+0352,documentType,Hướng dẫn,"không có tiêu đề loại văn bản; có ""V/v"" (công văn), tên tệp ghi Công văn",1,NGHI_NGO,cân nhắc Công văn,KHONG
+0352,all khác,"3878/BGDĐT-PC; 24/07/2014; KT. Bộ trưởng Thứ trưởng Phạm Mạnh Hùng; BASED_ON 32/2008/NĐ-CP, 55/2011/NĐ-CP",khớp,1,OK,,
+0486,citations 106/2020/NĐ-CP,REPEALS,"AMENDS (chỉ các quy định về vị trí việc làm viên chức hết hiệu lực, không phải cả nghị định)",12,SAI,AMENDS,CO
+0486,all khác,232/2026/NĐ-CP; 26/06/2026; 01/07/2026; Phạm Thị Thanh Trà KT. Thủ tướng Phó Thủ tướng; BASED_ON 3 luật,khớp,15,OK,,
+0111,all,"60/2021/NĐ-CP; 21/06/2021; 15/08/2021; Lê Minh Khái KT. Thủ tướng Phó Thủ tướng; REPEALS 16/2015, 54/2016, 141/2016, 85/2012 NĐ-CP",khớp,35,OK,,
+0132,citations,BASED_ON 22/2019/QH14,"PDF không ghi số hiệu: Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung ",1,SAI,bỏ trích dẫn,CO
+0132,citations 16/2015/NĐ-CP,REPEALS,"AMENDS (chỉ bãi bỏ các nội dung về tự chủ nhân sự, không phải cả nghị định)",14,SAI,AMENDS,CO
+0132,"citations BASED_ON 19/2015/QH13, 58/2010/QH12, 52/2019/QH14",số hiệu có,"PDF chỉ ghi tên luật và ngày, không ghi số hiệu",1,NGHI_NGO,số hiệu không có trong văn bản (đúng theo thực tế); để người quyết,KHONG
+0132,all khác,106/2020/NĐ-CP; 10/09/2020; 15/11/2020; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng; REPLACES 41/2012/NĐ-CP,khớp,14,OK,,
+0476,citations 159/QĐ-BGDĐT,REPEALS,"AMENDS (chỉ bãi bỏ nội dung liên quan đến một số thủ tục hành chính, không bãi bỏ cả quyết định)",2,SAI,AMENDS,CO
+0476,citations 2108/QĐ-BGDĐT,REPEALS,"AMENDS (chỉ bãi bỏ nội dung liên quan đến một số thủ tục hành chính, không bãi bỏ cả quyết định)",2,SAI,AMENDS,CO
+0476,citations 3277/QĐ-BGDĐT,REPEALS,"AMENDS (chỉ bãi bỏ nội dung liên quan đến một số thủ tục hành chính, không bãi bỏ cả quyết định)",2,SAI,AMENDS,CO
+0476,issueDate,04/05/2026,"04 tháng 05 (chữ viết tay, khớp dấu ĐẾN 04/5/2026)",1,OK,,
+0476,all khác,1060/QĐ-BGDĐT; hiệu lực 30/03/2026; Lê Quân KT. Bộ trưởng Thứ trưởng,khớp,2,OK,,
+0191,citations,BASED_ON 14/06/2005,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0191,citations,BASED_ON 25/11/2009,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0191,citations,BASED_ON 18/06/2012,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0191,all khác,36/2017/TT-BGDĐT; 28/12/2017; 13/02/2018 (viết tay); Nguyễn Hữu Độ KT. Bộ trưởng Thứ trưởng; REPLACES 09/2009/TT-BGDĐT,khớp,2,OK,,
+0201,citations,(thiếu),BASED_ON 13/NQ-HĐĐH,1,THIEU,thêm trích dẫn,CO
+0201,citations,(thiếu),BASED_ON 05/NQ-HĐT,1,THIEU,thêm trích dẫn,CO
+0201,citations,(thiếu),BASED_ON 22/NQ-HĐT,1,THIEU,thêm trích dẫn,CO
+0201,citations,(thiếu),BASED_ON 32/NQ-HĐT,1,THIEU,thêm trích dẫn,CO
+0201,all khác,2266/QĐ-ĐHBK; 20/06/2022; ký ban hành; Đoàn Quang Vinh PGS.TS Hiệu trưởng,khớp,1,OK,,
+0428,citations,BASED_ON 14/06/2019,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0428,citations,BASED_ON 21/06/2024,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0428,all khác,08/2025/TT-BGDĐT; 12/05/2025; 01/07/2025; Lê Tấn Dũng KT. Bộ trưởng Thứ trưởng; REPLACES 27/2016/TT-BGDĐT,khớp,3,OK,,
+0096,citations 71/2006/QH11,REPLACES,"REPEALS (văn bản ghi ""hết hiệu lực"")",51,SAI,REPEALS,CO
+0096,all khác,58/2014/QH13; 20/11/2014; 01/01/2016; Nguyễn Sinh Hùng Chủ tịch Quốc hội,khớp,51,OK,,
+0199,citations,BASED_ON 18/06/2012,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0199,citations,BASED_ON 19/11/2018,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0199,citations,BASED_ON 23/11/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0199,citations,BASED_ON 12/11/2021,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0199,all khác,"09/2022/TT-BGDĐT; 06/06/2022; 22/07/2022; Hoàng Minh Sơn KT. Bộ trưởng Thứ trưởng; REPLACES 24/2017, 25/2017 TT-BGDĐT",khớp,7,OK,,
+0169,citations,BASED_ON 15/11/2010,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0169,citations,BASED_ON 25/11/2019,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0169,signers.position,['Hiệu trưởng'],Giám đốc,2,SAI,Giám đốc,CO
+0169,all khác,"551/QĐ-ĐHĐN; 28/01/2022; ký; BASED_ON; REPEALS 1983, 3295/QĐ-ĐHĐN",khớp,1,OK,,
+0293,citations,BASED_ON 19/2015/QH13,PDF không ghi số hiệu: Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;,1,SAI,bỏ trích dẫn,CO
+0293,citations,BASED_ON 02/2011/QH13,PDF không ghi số hiệu: Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011;,1,SAI,bỏ trích dẫn,CO
+0132,citations,BASED_ON 19/2015/QH13,"PDF không ghi số hiệu: Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung ",1,SAI,bỏ trích dẫn,CO
+0132,citations,BASED_ON 58/2010/QH12,"PDF không ghi số hiệu: Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010 và Luật sửa đổi, bổ sung một số ",1,SAI,bỏ trích dẫn,CO
+0132,citations,BASED_ON 52/2019/QH14,"PDF không ghi số hiệu: Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010 và Luật sửa đổi, bổ sung một số ",1,SAI,bỏ trích dẫn,CO
+0293,"citations BASED_ON 19/2015/QH13, 02/2011/QH13",có,PDF không ghi số hiệu,1,SAI,bỏ,CO
+0132,"citations BASED_ON 19/2015/QH13, 58/2010/QH12, 52/2019/QH14",có,PDF không ghi số hiệu,1,SAI,bỏ,CO
+0440,citations,(thiếu),BASED_ON 124-QĐ/TW,1,THIEU,thêm trích dẫn,CO
+0440,citations,(thiếu),BASED_ON 25-HD/BTCTW,1,THIEU,thêm trích dẫn,CO
+0440,all khác,1818/QĐ-BGDĐT; 30/06/2025; ký; Nguyễn Kim Sơn Bộ trưởng,khớp,2,OK,,
+0114,citations,BASED_ON 19/06/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0114,all khác,"30/2020/NĐ-CP; 05/03/2020; hiệu lực từ ngày ký; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng; REPEALS 110/2004, 09/2010 NĐ-CP","khớp (mốc trang trong .txt lệch so với PDF, thực tế Điều 37 ở trang PDF 19)",19,OK,,
+0485,citations,(thiếu),REPEALS 115/2020/NĐ-CP,57,THIEU,thêm trích dẫn,CO
+0485,citations,(thiếu),REPEALS 85/2023/NĐ-CP,57,THIEU,thêm trích dẫn,CO
+0485,citations,(thiếu),REPEALS 101/2017/NĐ-CP,57,THIEU,thêm trích dẫn,CO
+0485,citations,(thiếu),REPEALS 89/2021/NĐ-CP,57,THIEU,thêm trích dẫn,CO
+0485,all khác,259/2026/NĐ-CP; 30/06/2026; 01/07/2026; Phạm Thị Thanh Trà KT. Thủ tướng Phó Thủ tướng; BASED_ON 2 luật,khớp,61,OK,,
+0094,status,HET_HIEU_LUC,văn bản không tự ghi tình trạng,82,NGHI_NGO,không đổi,KHONG
+0094,all khác,"80/2015/QH13; 22/06/2015; 01/07/2016; Nguyễn Sinh Hùng Chủ tịch Quốc hội; REPEALS 17/2008/QH12, 31/2004/QH11",khớp,82,OK,,
+0087,citations 92/2015/QH13 targetArticle,null,Điều 32,82,THIEU,Điều 32,CO
+0087,all khác,45/2019/QH14; 20/11/2019; 01/01/2021; Nguyễn Thị Kim Ngân Chủ tịch Quốc hội; REPEALS 10/2012/QH13,"khớp (trang 1 chưa mở lại, đối chiếu qua trang chữ ký)",83,OK,,
+0035,all,04/QĐ-ĐHBK; 02/01/2020; ký; Đoàn Quang Vinh PGS.TS Hiệu trưởng; BASED_ON; REPLACES 375/QĐ-ĐHBK,khớp,1,OK,,
+0269,citations,BASED_ON 18/6/2012,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0269,citations,(thiếu),BASED_ON 13/NQ-HĐĐH,1,THIEU,thêm trích dẫn,CO
+0269,citations,(thiếu),REPLACES 04/QĐ-ĐHBK,1,THIEU,thêm trích dẫn,CO
+0269,citations,(thiếu),REPLACES 374/QĐ-ĐHBK,1,THIEU,thêm trích dẫn,CO
+0269,all khác,338/QĐ-ĐHBK; 23/01/2024; ký; Nguyễn Hữu Hiếu PGS.TS Hiệu trưởng,khớp,1,OK,,
+0411,citations,BASED_ON 14/06/2019,PDF không ghi số hiệu: Căn cứ Luật Giáo dục ngày 14 tháng 6 năm 2019;,1,SAI,bỏ trích dẫn,CO
+0411,citations,BASED_ON 18/06/2012,PDF không ghi số hiệu: Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012;,1,SAI,bỏ trích dẫn,CO
+0411,citations,BASED_ON 19/11/2018,"PDF không ghi số hiệu: Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng",1,SAI,bỏ trích dẫn,CO
+0411,citations,(thiếu),REPLACES 38/2013/TT-BGDĐT,33,THIEU,thêm trích dẫn,CO
+0411,citations,(thiếu),REPLACES 04/2016/TT-BGDĐT,33,THIEU,thêm trích dẫn,CO
+0411,citations,(thiếu),REPLACES 39/2020/TT-BGDĐT,33,THIEU,thêm trích dẫn,CO
+0411,citations,(thiếu),AMENDS 33/2014/TT-BGDĐT,33,THIEU,thêm trích dẫn,CO
+0411,citations,(thiếu),REPLACES 49/2012/TT-BGDĐT,33,THIEU,thêm trích dẫn,CO
+0411,citations,(thiếu),REPLACES 23/2011/TT-BGDĐT,33,THIEU,thêm trích dẫn,CO
+0411,all khác,04/2025/TT-BGDĐT; 17/02/2025; 04/04/2025 (viết tay); Hoàng Minh Sơn KT. Bộ trưởng Thứ trưởng,khớp,32,OK,,
+0112,citations,BASED_ON 19/2015/QH14,PDF không ghi số hiệu: Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015,1,SAI,bỏ trích dẫn,CO
+0112,citations,BASED_ON 47/2019/QH14,"PDF không ghi số hiệu: Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chí",1,SAI,bỏ trích dẫn,CO
+0112,citations,BASED_ON 45/2019/QH14,PDF không ghi số hiệu: Căn cứ Bộ luật Lao động ngày 20 tháng 11 năm 2019,1,SAI,bỏ trích dẫn,CO
+0112,citations,BASED_ON 61/2020/QH14,PDF không ghi số hiệu: Căn cứ Luật Đầu tư ngày 17 tháng 6 năm 2020,1,SAI,bỏ trích dẫn,CO
+0112,citations,BASED_ON 59/2020/QH14,PDF không ghi số hiệu: Căn cứ Luật Doanh nghiệp ngày 17 tháng 6 năm 2020,1,SAI,bỏ trích dẫn,CO
+0112,citations,(thiếu),REPEALS 03/2014/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 44/2013/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 05/2015/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 148/2018/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 29/2019/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 149/2018/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 49/2013/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 121/2018/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 45/2013/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 85/2015/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 27/2014/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 46/2013/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,citations,(thiếu),REPEALS 41/2013/NĐ-CP,87,THIEU,thêm trích dẫn,CO
+0112,all khác,145/2020/NĐ-CP; 14/12/2020; 01/02/2021; Nguyễn Xuân Phúc,"khớp (chữ ký chưa mở trang cuối, trang 122)",86,OK,,
+0161,citations,BASED_ON 2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0161,citations,BASED_ON 2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0161,citations,BASED_ON 2008,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0161,citations,BASED_ON 2010,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0161,all khác,40/2017/TT-BTC; 28/04/2017; 01/07/2017; Trần Xuân Hà KT. Bộ trưởng Thứ trưởng; REPEALS 97/2010/TT-BTC,khớp,12,OK,,
+0337,effectiveDate,11/05/2022,không ghi,8,SAI,null,CO
+0337,documentType,Hướng dẫn,"văn bản không có tiêu đề loại, có ""V/v"" (công văn)",1,NGHI_NGO,cân nhắc Công văn,KHONG
+0337,all khác,"1965/BGDĐT-TĐKT; 11/05/2022; Ngô Thị Minh KT. Bộ trưởng Thứ trưởng; BASED_ON 21/2020/TT-BGDĐT, 1374/KH-BGDĐT",khớp,8,OK,,
+0391,citations,(thiếu),BASED_ON 13/NQ-HĐĐH,1,THIEU,thêm trích dẫn,CO
+0391,citations,(thiếu),BASED_ON 93-KL/ĐU,1,THIEU,thêm trích dẫn,CO
+0391,all khác,595/QĐ-ĐHBK; 17/02/2025; ký; Nguyễn Hữu Hiếu PGS.TS Hiệu trưởng,khớp,1,OK,,
+0423,citations,(thiếu),BASED_ON 6828/VPCP-KSTT,1,THIEU,thêm trích dẫn,CO
+0423,citations,(thiếu),BASED_ON 1927/VPCP-KSTT,1,THIEU,thêm trích dẫn,CO
+0423,citations,(thiếu),BASED_ON 5990/VPCP-KSTT,1,THIEU,thêm trích dẫn,CO
+0423,all khác,1137/QĐ-BGDĐT; 24/04/2025; ký; Phạm Ngọc Thưởng KT. Bộ trưởng Thứ trưởng,khớp,2,OK,,
+0343,citations 55/2005/TTLT-BNV-VPCP,REPEALS,AMENDS (chỉ bãi bỏ các quy định trái với Thông tư này),19,SAI,AMENDS,CO
+0343,effectiveDate,05/03/2011,"chỉ ghi ""sau 45 ngày kể từ ngày ký""",18,SAI,null,CO
+0343,all khác,01/2011/TT-BNV; 19/01/2011; Trần Văn Tuấn Bộ trưởng,khớp,19,OK,,
+0285,all,06/2022/QH15; 15/06/2022; 01/01/2024; Vương Đình Huệ; REPEALS 15/2003/QH11,khớp,64,OK,,
+0373,citations,(thiếu),BASED_ON 25-HD/BTCTW,1,THIEU,thêm trích dẫn,CO
+0373,all khác,"3086/QĐ-BGDĐT; 23/10/2024; ký; Nguyễn Kim Sơn Bộ trưởng; REPLACES 3277, 729/QĐ-BGDĐT",khớp,2,OK,,
+0118,citations,BASED_ON 19/06/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0118,citations,BASED_ON 26/11/2003,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0118,citations,BASED_ON 14/06/2005,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0118,citations,BASED_ON 16/11/2013,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0118,citations,(thiếu),REPLACES 42/2010/NĐ-CP,61,THIEU,thêm trích dẫn,CO
+0118,all khác,91/2017/NĐ-CP; 31/07/2017; 01/10/2017; Nguyễn Xuân Phúc TM. Chính phủ Thủ tướng,khớp,62,OK,,
+0425,citations,(thiếu),BASED_ON 6828/VPCP-KSTT,1,THIEU,thêm trích dẫn,CO
+0425,citations,(thiếu),BASED_ON 1927/VPCP-KSTT,1,THIEU,thêm trích dẫn,CO
+0425,citations,(thiếu),BASED_ON 5990/VPCP-KSTT,1,THIEU,thêm trích dẫn,CO
+0425,all khác,1195/QĐ-BGDĐT; 29/04/2025; ký; Lê Tấn Dũng KT. Bộ trưởng Thứ trưởng,khớp,1,OK,,
+0287,citations,BASED_ON 19/06/2015,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0287,citations,BASED_ON 22/11/2019,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0287,citations,BASED_ON 15/06/2022,"(chỉ có tên và ngày, không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0287,citations,(thiếu),REPEALS 85/2014/NĐ-CP,74,THIEU,thêm trích dẫn,CO
+0287,citations,(thiếu),AMENDS 145/2013/NĐ-CP,74,THIEU,thêm trích dẫn,CO
+0287,citations,(thiếu),REPEALS 51/2010/QĐ-TTg,74,THIEU,thêm trích dẫn,CO
+0287,all khác,98/2023/NĐ-CP; 31/12/2023; 01/01/2024; Trần Lưu Quang KT. Thủ tướng Phó Thủ tướng; REPEALS 91/2017/NĐ-CP,khớp,75,OK,,
+0245,all,"100/2015/QH13; 27/11/2015; 01/07/2016; Nguyễn Sinh Hùng Chủ tịch Quốc hội; REPEALS 15/1999/QH10, 37/2009/QH12",khớp,304,OK,,
+0246,citations,(thiếu),REPEALS 15/1999/QH10,312,THIEU,thêm trích dẫn,CO
+0246,citations,(thiếu),REPEALS 37/2009/QH12,312,THIEU,thêm trích dẫn,CO
+0246,all khác,01/VBHN-VPQH; 10/07/2017; 01/01/2018; Văn phòng Quốc hội; Nguyễn Hạnh Phúc Chủ nhiệm; BASED_ON 100/2015/QH13,khớp,312,OK,,
+0246,citations AMENDS 12/2017/QH14,AMENDS,văn bản hợp nhất Bộ luật 100/2015/QH13 được sửa đổi bởi Luật 12/2017/QH14; chiều quan hệ mơ hồ,1,NGHI_NGO,giữ nguyên,KHONG

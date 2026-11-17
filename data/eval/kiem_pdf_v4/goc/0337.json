@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0337_1965_BGDĐT-TĐKT_Công văn số 1965_BGDĐT-TĐKT ngày 11_5_2022 của Bộ trưởng Bộ GDĐT về việc hướng.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "1965/BGDĐT-TĐKT",
+    "title": "Hướng dẫn tổ chức hoạt động, xếp loại tập thể và bình xét thi đua, khen thưởng các đơn vị trực thuộc Bộ",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "11/05/2022",
+    "effectiveDate": "11/05/2022",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Hướng dẫn tổ chức hoạt động, xếp loại tập thể và bình xét thi đua, khen thưởng các đơn vị trực thuộc Bộ Giáo dục và Đào tạo từ năm học 2021 - 2022 và năm 2022.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Ngô Thị Minh",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "21/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Thông tư số 21/2020/TT-BGDĐT ngày 31/7/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo hướng dẫn công tác thi đua, khen thưởng ngành Giáo dục"
+    },
+    {
+      "targetDocumentNumber": "1374/KH-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Kế hoạch số 1374/KH-BGDĐT ngày 02/01/2020 của Bộ Giáo dục và Đào tạo về việc thực hiện phong trào thi đua \"Đổi mới, sáng tạo trong quản lý, giảng dạy và học tập\" ngành Giáo dục giai đoạn 2020 - 2025"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Huế",
+    "Đại học Đà Nẵng",
+    "Đại học Thái Nguyên",
+    "Trường Đại học Sư phạm Hà Nội 2",
+    "Trường Đại học Sư phạm Hà Nội",
+    "Trường Đại học Sư phạm Thành phố Hồ Chí Minh",
+    "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+    "Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh",
+    "Trường Đại học Sư phạm Thể dục Thể thao Hà Nội",
+    "Học viện Quản lý Giáo dục",
+    "Trường Đại học Sư phạm Nghệ thuật Trung ương",
+    "Trường Đại học Mỹ thuật Công nghiệp",
+    "Trường Đại học Sư phạm Thể dục Thể thao Thành phố Hồ Chí Minh",
+    "Trường Cao đẳng Sư phạm Trung ương",
+    "Trường Cao đẳng Sư phạm Trung ương Nha Trang",
+    "Trường Cao đẳng Sư phạm Trung ương Thành phố Hồ Chí Minh",
+    "Trường Đại học Thương mại",
+    "Trường Đại học Kinh tế quốc dân",
+    "Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+    "Trường Đại học Cần Thơ",
+    "Trường Đại học Ngoại thương",
+    "Trường Đại học Luật Thành phố Hồ Chí Minh",
+    "Trường Đại học Nông Lâm Thành phố Hồ Chí Minh",
+    "Trường Đại học Giao thông vận tải",
+    "Trường Đại học Bách khoa Hà Nội",
+    "Trường Đại học Xây dựng",
+    "Trường Đại học Mỏ - Địa chất",
+    "Trường Đại học Vinh",
+    "Trường Đại học Mở Thành phố Hồ Chí Minh",
+    "Trường Đại học Mở Hà Nội",
+    "Trường Đại học Kiên Giang",
+    "Trường Đại học Đà Lạt",
+    "Trường Đại học Đồng Tháp",
+    "Trường Đại học Nha Trang",
+    "Trường Đại học Quy Nhơn",
+    "Trường Đại học Tây Nguyên",
+    "Trường Đại học Việt Đức",
+    "Trường Đại học Hà Nội",
+    "Trường Đại học Tây Bắc",
+    "Trường Phổ thông Vùng cao Việt Bắc",
+    "Trường Dự bị Đại học Dân tộc Sầm Sơn",
+    "Trường Dự bị Đại học Dân tộc Trung ương",
+    "Trường Dự bị Đại học Dân tộc Trung ương Nha Trang",
+    "Trường Dự bị Đại học Thành phố Hồ Chí Minh",
+    "Trường Hữu nghị T78",
+    "Trường Hữu nghị 80",
+    "Viện Khoa học Giáo dục Việt Nam",
+    "Viện Nghiên cứu Thiết kế trường học",
+    "Viện Nghiên cứu cao cấp về Toán",
+    "Báo Giáo dục và Thời đại",
+    "Tạp chí Giáo dục",
+    "Trung tâm Hỗ trợ đào tạo và Cung ứng nhân lực",
+    "Nhà xuất bản Giáo dục Việt Nam"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục 1",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Lĩnh vực: Giáo dục Đại học (Vụ GDĐH thẩm định)",
+          "text": "1. Lĩnh vực: Giáo dục Đại học (Vụ GDĐH thẩm định) gồm các tiêu chí về công tác tuyển sinh, đào tạo các trình độ, phát triển đội ngũ, phát triển ngành và thực hiện trách nhiệm giải trình.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Phụ lục 2",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Lĩnh vực: Giáo dục Dân tộc (Vụ GDDT thẩm định)",
+          "text": "1. Lĩnh vực: Giáo dục Dân tộc (Vụ GDDT thẩm định) gồm các tiêu chí về kế hoạch năm học, tuyển sinh, phương pháp dạy học, hướng nghiệp và thực hiện chỉ đạo của Bộ.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "Phụ lục 3",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Lĩnh vực: Tổ chức cán bộ (Vụ TCCB thẩm định)",
+          "text": "1. Lĩnh vực: Tổ chức cán bộ (Vụ TCCB thẩm định) gồm các tiêu chí về sáp nhập, vị trí việc làm, tự chủ, chất lượng đội ngũ và đào tạo bồi dưỡng.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phân chia cụm thi đua",
+      "text": "Điều 1. Các đơn vị trực thuộc Bộ được chia làm 08 Cụm thi đua như quy định tại mục I của văn bản này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Tổ chức, nhiệm vụ và hoạt động của cụm thi đua",
+      "text": "Điều 2. Quy định về tổ chức, nhiệm vụ của Cụm trưởng, Cụm phó, các đơn vị thành viên và hoạt động của cụm thi đua thực hiện theo mục II của văn bản này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Tiêu chí thi đua và điểm đánh giá",
+      "text": "Điều 3. Tiêu chí thi đua, yêu cầu minh chứng và điểm đánh giá các cụm thi đua thực hiện theo mục III và các Phụ lục kèm theo văn bản này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Xếp loại tập thể, bình xét thi đua và đề nghị khen thưởng",
+      "text": "Điều 4. Việc xếp loại tập thể, bình xét thi đua và đề nghị khen thưởng thực hiện theo mục IV của văn bản này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 5",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 5. Các đơn vị trực thuộc Bộ, Cụm trưởng, các đơn vị thuộc cơ quan Bộ được giao đánh giá và đơn vị Thường trực Hội đồng Thi đua - Khen thưởng ngành Giáo dục có trách nhiệm tổ chức thực hiện các nội dung hướng dẫn này. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị phản ánh kịp thời về Bộ Giáo dục và Đào tạo để xem xét, sửa đổi cho phù hợp.",
+      "isImplementationClause": true
+    }
+  ]
+}

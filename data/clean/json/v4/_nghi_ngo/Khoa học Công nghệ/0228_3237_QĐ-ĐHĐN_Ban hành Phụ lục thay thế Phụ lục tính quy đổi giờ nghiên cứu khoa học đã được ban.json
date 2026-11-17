@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Khoa học Công nghệ/0228_3237_QĐ-ĐHĐN_Ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa từ (không có) thành BASED_ON 32/CP theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 99/2019/NĐ-CP theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 10/2020/TT-BGDĐT theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 20/2020/TT-BGDĐT theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 08/NQ-HĐĐH theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 13/NQ-HĐĐH theo PDF gốc trang 1.",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa từ (không có) thành BASED_ON 32/CP theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 99/2019/NĐ-CP theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 10/2020/TT-BGDĐT theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 20/2020/TT-BGDĐT theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 08/NQ-HĐĐH theo PDF gốc trang 1. citations sửa từ (không có) thành BASED_ON 13/NQ-HĐĐH theo PDF gốc trang 1. citations[4766/QĐ-ĐHĐN] sửa từ {\"relationType\": \"REPLACES\", \"targetArticle\": null, \"context\": \"Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2 thành {\"relationType\": \"AMENDS\", \"targetArticle\": null, \"context\": \"Ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên  theo PDF gốc trang Điều 1 chỉ ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ NCKH kèm theo Quyết định đích; văn bản đích vẫn còn hiệu lực tổng thể nên là AMENDS, không phải REPLACES.",
   "document": {
     "documentNumber": "3237/QĐ-ĐHĐN",
     "title": "Quyết định Ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng",
@@ -43,9 +43,9 @@
   "citations": [
     {
       "targetDocumentNumber": "4766/QĐ-ĐHĐN",
-      "relationType": "REPLACES",
+      "relationType": "AMENDS",
       "targetArticle": null,
-      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng"
+      "context": "Ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định quản lý hoạt động khoa học công nghệ tại Đại học Đà Nẵng."
     },
     {
       "targetDocumentNumber": "639/QĐ-ĐHĐN",
