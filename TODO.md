@@ -86,8 +86,9 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
 - [x] (17/11) Dựng lại đồ thị từ 454 tệp: 437 văn bản thật (1.362 `Document` kể cả stub), 12.281
       `Article`, 372 `NormativeContent`, 245 `Organization`, 61 `Person`; 14.346 đỉnh, 19.959 cạnh
       (`BASED_ON` 1.887, `REFERENCES` 230, `REPLACES` 158, `REPEALS` 239, `AMENDS` 106). Embed đủ
-      12.281 Điều. 274/274 test đạt với Neo4j thật. Chatbot chưa thử được hôm 17/11 vì 18 key Gemini
-      đang hết quota.
+      12.281 Điều. 274/274 test đạt với Neo4j thật. Chatbot đã thử trên đồ thị mới lúc 21h
+      17/11: trả lời đúng hiệu lực 905/QĐ-ĐHBK (bị 2533 thay thế) và 09/2020/TT-BGDĐT (hết hiệu lực);
+      gemini-3.6-flash quá tải 503, chạy bằng model dự phòng.
 - [x] (17/11) Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu, Bảng 3.1, Bảng 3.5 và câu dẫn, mục
       4.5.2 (Bảng 4.4), thêm đoạn đối chiếu toàn kho sau Bảng 4.6 (4.5.3), hạn chế đánh giá, Kết luận,
       Phụ lục C; cập nhật mục lục. Mục 1.4 không cần sửa. Bảng 4.5 (phần Nguyên) và 4.5.4–4.5.5
