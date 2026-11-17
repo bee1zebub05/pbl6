@@ -96,9 +96,13 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
 
 ### Việc khác
 
-- [ ] Tra văn bản đã thay thế 09/2020/TT-BGDĐT (0151) và 09/2016/TTLT-BGDĐT-BTC-BLĐTBXH (0011);
-      web trường ghi hết hiệu lực nhưng kho chưa có văn bản thay thế. Đọc điều khoản trong văn bản
-      thay thế rồi mới sửa `status` + `note` trong JSON v1, v2, v4.
+- [x] (17/11) 0151 (09/2020/TT-BGDĐT): Điều 2 Thông tư 08/2022/TT-BGDĐT (bản chính thức
+      datafiles.chinhphu.vn/cpp/files/vbpq/2022/08/08-bgddt.signed.pdf) thay thế, hiệu lực 22/7/2022;
+      đã sửa `status` + `note` trong v1, v2, v4 và đồ thị.
+- [ ] 0011 (09/2016/TTLT-BGDĐT-BTC-BLĐTBXH): chưa tìm được văn bản chính thức tuyên bố thay thế.
+      Nghị định 81/2021/NĐ-CP (0109, có trong kho) chỉ thay Nghị định 86/2015 mà TTLT này hướng dẫn,
+      không nêu tên TTLT; web trường ghi "Hết hiệu lực 15/02/2022" không khớp điều khoản nào tìm
+      được. Giữ CON_HIEU_LUC cho tới khi có văn bản tuyên bố.
 - [x] (17/11) Sửa tiếp lỗi OCR (mức 1: các văn bản ≥ 1%, xem mục sửa OCR ở trên). Còn lại nếu
       muốn làm tiếp: lỗi `é` thay `ế/ề/ể/ệ` nằm trong từ vẫn hợp lệ (bộ đo không bắt được), và
       `0440` mới đọc tay đến trang 19.
