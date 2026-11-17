@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0084_334_QĐ-ĐHBK_Ban hành mẫu logo của Trường ĐHBK, ĐHĐN.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "334/QĐ-ĐHBK",
+    "title": "Quyết định Về việc ban hành mẫu logo của trường Đại học Bách khoa, ĐHĐN",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "30/03/2018",
+    "effectiveDate": "30/03/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Học liệu, truyền thông"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Quyết định ban hành mẫu logo chính thức của trường Đại học Bách khoa, Đại học Đà Nẵng, bao gồm bản thuyết minh ý nghĩa và thông số kỹ thuật màu sắc.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP, ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo"
+  ],
+  "normativeContents": [
+    {
+      "title": "Mẫu logo và thuyết minh logo của trường Đại học Bách khoa",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "A",
+          "heading": "Mẫu logo",
+          "text": "A. Mẫu logo: Hình ảnh logo gồm chữ D, BÁCH KHOA, ĐÀ NẴNG và biểu tượng hình khối màu xanh, vàng",
+          "isImplementationClause": false
+        },
+        {
+          "number": "B",
+          "heading": "Thuyết minh logo",
+          "text": "B. Thuyết minh logo: Logo có bố cục hình vuông trong hình vuông tạo nên sự chắc chắn, bền vững. Logo gồm 2 phần: phần chữ và phần hình. Phần chữ: BÁCH KHOA và ĐÀ NẴNG đặt vuông góc với nhau, giao nhau tại vị trí chữ A gợi lên hình ảnh một trục tọa độ liên quan đến các yếu tố kỹ thuật, sự chính xác. Phần chữ A giao nhau được cách điệu tô đậm và nét gạch ngang là cuốn sách gợi lên hình ảnh giáo dục đào tạo và cũng là chữ khởi đầu trong 24 chữ cái của tiếng Việt. Phần hình: Hình được cách điệu từ hai chữ P và T liên quan đến tên tiếng Anh của trường là Polytechnic. Khoảng trống giữa 2 chữ P và T gợi lên hình ảnh một con đường hàm ý mục tiêu của giáo dục là mở ra một con đường (màu vàng) bắt đầu từ chữ A đến tương lai cho người học cũng như con đường phát triển của Nhà trường. Logo sử dụng các màu cơ bản: Đỏ, Vàng, Xanh Dương giúp dễ nhận biết, in ấn đồng thời nhấn mạnh tính cơ bản của khoa học kỹ thuật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "C",
+          "heading": "Chế bản in",
+          "text": "C. Chế bản in: Trong logo phía góc phải có ghi các dòng chữ: C-M-Y-K. Màu vàng: C:6 - M:0 - Y:97 - K:0. Màu đỏ: C:13 - M:100 - Y:100 - K:4. Màu xanh: C:93 - M:87 - Y:0 - K:0.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành mẫu logo của trường Đại học Bách khoa, Đại học Đà Nẵng (kèm theo mẫu logo và bản thuyết minh);",
+      "text": "Điều 1. Ban hành mẫu logo của trường Đại học Bách khoa, Đại học Đà Nẵng (kèm theo mẫu logo và bản thuyết minh);",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Mẫu logo là biểu tượng của trường Đại học Bách khoa, Đại học Đà Nẵng được sử dụng trên các ấn phẩm, vật phẩm có liên quan đến Nhà trường;",
+      "text": "Điều 2. Mẫu logo là biểu tượng của trường Đại học Bách khoa, Đại học Đà Nẵng được sử dụng trên các ấn phẩm, vật phẩm có liên quan đến Nhà trường;",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký;",
+      "text": "Điều 3. Quyết định này có hiệu lực kể từ ngày ký;\n\nTrưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc và cán bộ, viên chức thuộc trường căn cứ quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

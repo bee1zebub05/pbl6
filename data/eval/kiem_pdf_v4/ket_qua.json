@@ -1,61 +1,61 @@
 {
-  "so_van_ban": 131,
+  "so_van_ban": 136,
   "truong_don": {
     "so_hieu": {
-      "dung": 127,
-      "tong": 131,
-      "ty_le_dung": 0.9695
+      "dung": 132,
+      "tong": 136,
+      "ty_le_dung": 0.9706
     },
     "loai_van_ban": {
-      "dung": 131,
-      "tong": 131,
+      "dung": 136,
+      "tong": 136,
       "ty_le_dung": 1.0
     },
     "ngay_ban_hanh": {
-      "dung": 124,
-      "tong": 131,
-      "ty_le_dung": 0.9466
+      "dung": 129,
+      "tong": 136,
+      "ty_le_dung": 0.9485
     },
     "ngay_hieu_luc": {
-      "dung": 118,
-      "tong": 131,
-      "ty_le_dung": 0.9008
+      "dung": 122,
+      "tong": 136,
+      "ty_le_dung": 0.8971
     },
     "trang_thai": {
-      "dung": 128,
-      "tong": 131,
-      "ty_le_dung": 0.9771
+      "dung": 133,
+      "tong": 136,
+      "ty_le_dung": 0.9779
     },
     "co_quan": {
-      "dung": 131,
-      "tong": 131,
+      "dung": 136,
+      "tong": 136,
       "ty_le_dung": 1.0
     },
     "so_dieu": {
-      "dung": 130,
-      "tong": 131,
-      "ty_le_dung": 0.9924
+      "dung": 135,
+      "tong": 136,
+      "ty_le_dung": 0.9926
     }
   },
   "truong_tap": {
     "nguoi_ky": {
-      "tp": 119,
+      "tp": 125,
       "fp": 11,
       "fn": 12,
-      "P": 0.9154,
-      "R": 0.9084,
-      "F1": 0.9119
+      "P": 0.9191,
+      "R": 0.9124,
+      "F1": 0.9158
     },
     "trich_dan": {
-      "tp": 623,
+      "tp": 633,
       "fp": 67,
-      "fn": 174,
-      "P": 0.9029,
-      "R": 0.7817,
-      "F1": 0.8379
+      "fn": 176,
+      "P": 0.9043,
+      "R": 0.7824,
+      "F1": 0.839
     },
     "nhom_doi_tuong": {
-      "tp": 297,
+      "tp": 306,
       "fp": 0,
       "fn": 0,
       "P": 1.0,
@@ -63,7 +63,7 @@
       "F1": 1.0
     },
     "linh_vuc": {
-      "tp": 215,
+      "tp": 223,
       "fp": 0,
       "fn": 0,
       "P": 1.0,
@@ -73,18 +73,18 @@
   },
   "trich_dan_theo_loai": {
     "BASED_ON": {
-      "so_chuan": 590,
-      "so_model": 573,
-      "P": 0.8848,
-      "R": 0.8593,
-      "F1": 0.8719
+      "so_chuan": 598,
+      "so_model": 581,
+      "P": 0.8864,
+      "R": 0.8612,
+      "F1": 0.8736
     },
     "REFERENCES": {
-      "so_chuan": 65,
-      "so_model": 50,
+      "so_chuan": 68,
+      "so_model": 51,
       "P": 1.0,
-      "R": 0.7692,
-      "F1": 0.8696
+      "R": 0.75,
+      "F1": 0.8571
     },
     "REPLACES": {
       "so_chuan": 21,
@@ -101,11 +101,11 @@
       "F1": 0.85
     },
     "REPEALS": {
-      "so_chuan": 99,
-      "so_model": 28,
+      "so_chuan": 100,
+      "so_model": 29,
       "P": 1.0,
-      "R": 0.2828,
-      "F1": 0.4409
+      "R": 0.29,
+      "F1": 0.4496
     }
   },
   "van_ban_sai": {
@@ -126,6 +126,7 @@
     ],
     "ngay_hieu_luc": [
       "0060",
+      "0193",
       "0214",
       "0219",
       "0273",

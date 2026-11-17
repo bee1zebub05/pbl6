@@ -346,6 +346,9 @@ def _doc_enum(ten):
 
 
 _ORG_TYPE = _doc_enum("orgType")
+from legal_knowledge_graph.core import normalize  # noqa: E402  (sys.path đã có src ở đầu tệp)
+_TOPIC = {normalize.slug(t["name"]) for t in json.loads(
+    io.open(REFERENCE / "topics_seed.json", encoding="utf-8").read())["topics"]}
 
 def _don_dang(d, _goc_khong_co_dieu=False):
     """Sua may cho model hay viet sai DANG — thuan co hoc, khong doan noi dung.
@@ -354,10 +357,6 @@ def _don_dang(d, _goc_khong_co_dieu=False):
       - normativeContents co muc `articles: []` rong  -> schema doi non-empty
       - targetArticle ghi "Khoản 3 Điều 2"            -> schema doi '^Điều N$'
     """
-    nd = [n for n in (d.get("normativeContents") or []) if n.get("articles")]
-    if nd != (d.get("normativeContents") or []):
-        d["normativeContents"] = nd
-
     minh = _khoa_so(d.get("document", {}).get("documentNumber"))
     ds = []
     for c in d.get("citations") or []:
@@ -385,6 +384,20 @@ def _don_dang(d, _goc_khong_co_dieu=False):
         d["articles"] = []
         for n in d.get("normativeContents") or []:
             n["articles"] = []
+
+    # normativeContents không còn Điều nào thì bỏ (schema đòi non-empty). Phải chạy
+    # SAU 4a: trước đây lọc ở đầu hàm, 4a làm rỗng lại nên 0193 vẫn trượt schema.
+    nd = [n for n in (d.get("normativeContents") or []) if n.get("articles")]
+    if nd != (d.get("normativeContents") or []):
+        d["normativeContents"] = nd
+
+    # 4c. topics ngoài danh mục -> bỏ (như orgType ở 4b). 0110: model xếp nhóm đối
+    #     tượng "Cán bộ, giảng viên…" vào topics, chạy lại vẫn vậy.
+    doc0 = d.get("document") or {}
+    if doc0.get("topics"):
+        tp = [t for t in doc0["topics"] if normalize.slug(t) in _TOPIC]
+        if tp != doc0["topics"]:
+            doc0["topics"] = tp
 
     # 4b. orgType khong co trong enum -> None (truong nay cho phep None).
     #     0246 tra ve 'co_quan_cua_quoc_hoi', model tu nghi ra.

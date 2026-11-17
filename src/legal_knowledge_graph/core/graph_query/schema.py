@@ -53,7 +53,7 @@ ENUMS: dict[str, tuple[str, ...]] = {
     "Document.documentType": (
         "Luật", "Pháp lệnh", "Nghị định", "Thông tư", "Thông tư liên tịch",
         "Quyết định", "Nghị quyết", "Chỉ thị", "Hướng dẫn", "Kế hoạch",
-        "Văn bản hợp nhất", "Lệnh", "Công văn", "Hiến pháp",
+        "Văn bản hợp nhất", "Lệnh", "Công văn", "Hiến pháp", "Quy chế",
     ),
     "Document.status": ("CON_HIEU_LUC", "HET_HIEU_LUC", "CHUA_HIEU_LUC"),
     "Organization.orgType": (

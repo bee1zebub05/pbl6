@@ -3,7 +3,7 @@
 Tập này đo độ sai lệch của dữ liệu do model trả về (trích xuất JSON v4 từ `text_final`)
 so với nội dung thật trên ảnh PDF gốc, và gom các lỗi OCR phát hiện được trong lúc đối chiếu.
 Dựng ngày 16–17/11/2026 khi chuyển văn bản nhóm 1–3 (theo số trang PDF: 1–2, 3–5, 6–10 trang;
-136 văn bản) sang JSON v4. 131 văn bản có JSON hợp lệ và được chấm; 5 văn bản chưa có (xem dưới).
+136 văn bản) sang JSON v4. Cả 136 văn bản có JSON hợp lệ và được chấm.
 
 ## Cách làm
 
@@ -30,39 +30,39 @@ Nguyên tắc: chỉ ghi điều văn bản ghi, không suy luận. Văn bản k
   chỉ thấy một văn bản khi trích xuất.
 - 0042 và 0214 là cùng một tệp PDF (trùng md5) đăng ở hai lĩnh vực.
 
-## Kết quả (131 văn bản, 17/11/2026)
+## Kết quả (136 văn bản, 17/11/2026)
 
 | Trường | Tỷ lệ đúng |
 |---|---|
-| Số hiệu | 97,0% |
+| Số hiệu | 97,1% |
 | Loại văn bản, cơ quan | 100% |
-| Ngày ban hành | 94,7% |
-| Ngày hiệu lực | 90,1% |
-| Trạng thái | 97,7% |
-| Số Điều | 99,2% |
+| Ngày ban hành | 94,8% |
+| Ngày hiệu lực | 89,7% |
+| Trạng thái | 97,8% |
+| Số Điều | 99,3% |
 
 | Trường tập hợp | P | R | F1 |
 |---|---|---|---|
-| Người ký (họ tên + chức vụ) | 0,92 | 0,91 | 0,91 |
+| Người ký (họ tên + chức vụ) | 0,92 | 0,91 | 0,92 |
 | Trích dẫn (đích + loại quan hệ) | 0,90 | 0,78 | 0,84 |
-| — BASED_ON | 0,88 | 0,86 | 0,87 |
-| — REFERENCES | 1,00 | 0,77 | 0,87 |
+| — BASED_ON | 0,89 | 0,86 | 0,87 |
+| — REFERENCES | 1,00 | 0,75 | 0,86 |
 | — REPLACES | 1,00 | 1,00 | 1,00 |
 | — AMENDS | 0,94 | 0,77 | 0,85 |
-| — REPEALS | 1,00 | 0,28 | 0,44 |
+| — REPEALS | 1,00 | 0,29 | 0,45 |
 
 Lỗi điển hình của model: bỏ sót danh sách dài văn bản bị bãi bỏ (0149, 0143, 0284); chép
 nguyên ngày viết tay bị OCR đọc sai; gán chức vụ "Hiệu trưởng" mặc định cho người ký của Đại học
 Đà Nẵng; lấy ngày tháng làm số hiệu cho Luật không ghi số; nhầm căn cứ với dẫn chiếu.
 
-## Chưa có JSON hợp lệ (5 văn bản)
+## Năm văn bản phải sửa lược đồ hoặc code mới trích xuất được
 
-| Mã | Lý do |
-|---|---|
-| 0023, 0084 | Mục đánh số bằng chữ cái (A, B…), lược đồ chưa cho phép |
-| 0110 | Model xếp nhóm đối tượng vào ô lĩnh vực, chạy lại vẫn vậy |
-| 0193 | Văn bản kèm theo không có Điều, lược đồ bắt ít nhất một |
-| 0488 | Loại văn bản "Quy chế" ngoài danh mục |
+| Mã | Vướng | Cách xử lý (17/11/2026) |
+|---|---|---|
+| 0023, 0084 | Mục đánh số bằng chữ cái (A, B…) | Lược đồ cho phép số mục là một chữ cái in hoa |
+| 0488 | Loại văn bản "Quy chế" đứng độc lập | Thêm "Quy chế" vào danh sách loại văn bản (lược đồ và chatbot) |
+| 0193 | Bản kèm theo không có Điều | Sửa thứ tự trong `chay_json.py`: bỏ bản kèm theo rỗng sau khi xoá Điều do model tự đặt |
+| 0110 | Model xếp nhóm đối tượng vào ô lĩnh vực | `chay_json.py` bỏ lĩnh vực ngoài danh mục chuẩn |
 
 0149: bản PDF scan thiếu trang in số 2, nên 11 quan hệ bãi bỏ ở trang đó chưa thêm được.
 

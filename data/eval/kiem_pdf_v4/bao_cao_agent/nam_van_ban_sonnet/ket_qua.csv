@@ -1,0 +1,13 @@
+﻿ma,truong,gia_tri_json,gia_tri_pdf,trang_pdf,muc_do,de_xuat_sua,da_sua
+0023,citations[139/VTLTNN-TTTH].context,Căn cứ Thông tư số 139/VTLTNN-TTTH ... Cục Văn thư và Lưu trữ nhà nước ...,Thông tư số 139/VTLTNN- TTTH ngày 14/3/2009 của Cục văn thư lưu trữ Nhà nước ... (không có chữ Căn cứ),1,SAI,chép nguyên văn,CO
+0023,citations (dẫn chiếu thân bài),"thiếu 12/2002/TT-BCA(A11), 33/2002/NĐ-CP",Bước 2 dẫn Thông tư 12/2002/TT-BCA(A11) và Nghị định 33/2002/NĐ-CP,3,THIEU,thêm 2 REFERENCES,CO
+0023,"documentNumber/issueDate/effectiveDate/title/organization/signer/Điều 1-3/Mục A,B","448/QĐ-ĐHBK; 24/04/2018; PGS.TS Đoàn Quang Vinh, Hiệu trưởng",khớp (Điều 2: hiệu lực từ ngày ký),1,OK,,KHONG
+0084,"tất cả trường (số 334, ngày 30/03/2018, 2 căn cứ, signer, Điều 1-3, mục A-C)",như JSON,khớp,1-3,OK,,KHONG
+0110,"tất cả trường (77/2021/NĐ-CP, 01/08/2021, Chính phủ, Lê Minh Khái Phó Thủ tướng, Điều 1-8, REPEALS 54/2011/NĐ-CP)",như JSON,khớp,1-5,OK,,KHONG
+0110,citations (căn cứ),không có,"Căn cứ Luật Tổ chức Chính phủ 2015, Luật sửa đổi 2019, Luật Viên chức 2010, Luật sửa đổi 2019 đều không ghi số hiệu",1,NGHI_NGO,không thêm vì văn bản không ghi số hiệu luật,KHONG
+0193,effectiveDate,14/01/2022,công văn không ghi hiệu lực -> null,1,THUA,đặt null,CO
+0193,note,ghi số 450 và ngày 44,PDF trang 2 phụ lục ghi 150 và 14/01/2022,2,SAI,đính chính note,CO
+0193,documentNumber/issueDate/title/organization/signer/căn cứ 3277/QĐ-BGDĐT,như JSON,"khớp (150/ĐHĐN-TCCB, 14/01/2022, PGS.TS Nguyễn Ngọc Vũ, Giám đốc); phụ lục là bảng tiêu chí, không Điều",1-3,OK,,KHONG
+0488,signers[Lê Khánh Toàn].academicTitle,null,TS.,5,SAI,TS,CO
+0488,citations,[],PDF không có phần căn cứ (vào thẳng Chương I); không dẫn chiếu số hiệu văn bản nào,1-5,OK,,KHONG
+0488,documentNumber/issueDate/title/organization/signer Nguyễn Hữu Hiếu/Điều 1-15,783/QC-ĐHBK; 13/02/2026,"khớp (phóng 300 DPI: 783, 13, 02)","1,5",OK,,KHONG

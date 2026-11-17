@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0193_150_ĐHĐN-TCCB_Công văn 150_ĐHĐN-TCCB Tiêu chí đánh giá các đơn vị chức năng của ĐHĐN năm học 2.txt",
+  "mappedBy": "gemini-api:gemini-3.1-flash-lite",
+  "note": "Số hiệu văn bản trong phụ lục ghi 450/ĐHĐN-TCCB nhưng văn bản chính ghi 150/ĐHĐN-TCCB. Ngày tháng trong phụ lục ghi 44 tháng 01 năm 2022 là lỗi đánh máy. effectiveDate sửa từ 14/01/2022 thành null theo PDF gốc trang 1 (công văn không ghi hiệu lực). Đính chính ghi chú trên: PDF gốc trang 2 ghi số 150/ĐHĐN-TCCB và ngày 14 tháng 01 năm 2022, không phải 450 hay 44.",
+  "document": {
+    "documentNumber": "150/ĐHĐN-TCCB",
+    "title": "Về việc ban hành tiêu chí đánh giá các đơn vị chức năng của ĐHĐN năm học 2021-2022",
+    "documentType": "Công văn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/01/2022",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tổ chức, hành chính",
+      "Thi đua, khen thưởng"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Ban hành bộ tiêu chí đánh giá mức độ hoàn thành nhiệm vụ, xếp loại chất lượng và khen thưởng cho các đơn vị chức năng của Đại học Đà Nẵng năm học 2021-2022.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "3277/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Quyết định số 3277/QĐ-BGDĐT ngày 12/10/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế đánh giá, xếp loại chất lượng hằng năm đối với đơn vị và công chức, viên chức, người lao động của Bộ Giáo dục và Đào tạo"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": []
+}
