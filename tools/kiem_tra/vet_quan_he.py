@@ -61,10 +61,26 @@ def khoa(so: str) -> str:
     return normalize_document_number(so.replace("&", ""))
 
 
+# Xuống dòng chỉ là hết câu khi trước nó là dấu câu, hoặc sau nó là dòng trống / mục mới /
+# "Điều N". OCR hay ngắt dòng giữa câu (0484: "…sửa đổi, bổ sung một số điều⏎theo Luật số
+# 52/2019/QH14 hết hiệu lực") — coi mọi xuống dòng là hết câu thì vế sau mất chủ ngữ và luật
+# nhận nhầm 52/2019 là văn bản hết hiệu lực, trong khi đó là 58/2010.
+# Dòng tiêu đề "Điều N. …" luôn là một câu riêng (cuối dòng không có dấu chấm).
+# Dòng "Căn cứ …" và dòng viết hoa toàn bộ ("BỘ TRƯỞNG BỘ GIÁO DỤC…") cũng mở câu mới — trích
+# yếu không có dấu chấm cuối, thiếu hai mốc này thì câu tràn từ trích yếu sang phần Căn cứ.
+DAU_CAU = re.compile(r"[.;:](?=\s)|\n(?=\s*\n|\s*(?:\d{1,3}|[a-zđ])[.)]\s|\s*Điều\s+\d|\s*-\s"
+                     r"|\s*Căn\s*cứ|[^\na-zà-ỹđ]{6,}\n)"
+                     r"|(?<=\n)[ \t]*Điều[ \t]+\d+[a-z]?\.[^\n]*\n")
+
+
 def _cau(t: str, vt: int) -> tuple[int, int]:
-    """Biên câu chứa vị trí vt: từ đầu dòng tới dấu . ; hoặc xuống dòng."""
-    dau = t.rfind("\n", 0, vt) + 1
-    m = re.compile(r"[.;](?=\s)|\n").search(t, vt)
+    """Biên câu chứa vị trí vt."""
+    dau = 0
+    for m in DAU_CAU.finditer(t, max(0, vt - 1500), vt):
+        dau = m.end()
+    if dau and t[dau - 1] in ".;:":
+        dau += 1
+    m = DAU_CAU.search(t, vt)
     return dau, (m.start() if m else len(t))
 
 
@@ -77,6 +93,8 @@ def _loai(kich: str, doan: str) -> str:
 
 def vet(t: str, so_minh: str = "") -> list[dict]:
     """-> [{targetDocumentNumber, relationType, context}] vét được từ toàn văn t."""
+    # Số hiệu bị ngắt dòng sau "/" hoặc "-" ("72/QĐ-⏎TTg", 0004): nối lại trước khi bắt
+    t = re.sub(r"(?<=[/\-])[ \t]*\n[ \t]*(?=[A-ZĐ])", "", t)
     ra: dict[str, dict] = {}
     minh = khoa(so_minh) if so_minh else None
     da_ds: list[tuple[int, int]] = []   # vùng danh sách đã vét, từ kích hoạt lồng bên trong bỏ qua
@@ -91,6 +109,16 @@ def vet(t: str, so_minh: str = "") -> list[dict]:
 
     for m in KICH.finditer(t):
         if QH.trong_can_cu(t, m.start()) or any(a <= m.start() < b for a, b in da_ds):
+            continue
+        # Tiêu đề viết hoa ("THỦ TỤC … SỬA ĐỔI, BỔ SUNG HOẶC THAY THẾ", 0451) không phải câu quy định
+        if m.group(0).isupper():
+            continue
+        # "(hoặc văn bản thay thế)" là danh từ (0465); "thủ tục … bị bãi bỏ" là bị động, không
+        # nêu văn bản đích (0467, nằm trong trích yếu)
+        if re.search(r"(?:văn\s*bản|bị)\s*$", t[max(0, m.start() - 12):m.start()], re.I):
+            continue
+        # Dòng bảng ("| … | Tên VBQPPL quy định nội dung sửa đổi, bổ sung, thay thế | …") chỉ là tiêu đề cột
+        if t[t.rfind("\n", 0, m.start()) + 1:m.start()].lstrip().startswith("|"):
             continue
         dau, cuoi = _cau(t, m.start())
         cau = t[dau:cuoi]
@@ -111,7 +139,10 @@ def vet(t: str, so_minh: str = "") -> list[dict]:
                     continue
                 s = SO_HIEU.search(dong)
                 if s:
-                    them(s.group(1), _loai(m.group(0), cau + " " + dong[:s.start()]), dong)
+                    # chỉ xét dòng dẫn "Bãi bỏ … sau đây:", không xét tiêu đề Điều phía trên
+                    # ("Điều 1. Bãi bỏ một số văn bản…" — "một số" ở đây không phải "một phần")
+                    dan = t[t.rfind("\n", 0, m.start()) + 1:het]
+                    them(s.group(1), _loai(m.group(0), dan + " " + dong[:s.start()]), dong)
             continue
         # "Quyết định số X ... hết hiệu lực": số hiệu đứng TRƯỚC từ kích hoạt. Câu kiểu này
         # thường kéo theo cả tên dài của văn bản đích, trong tên lại nhắc văn bản khác (0011:

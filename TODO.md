@@ -56,10 +56,12 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       tài duyệt; tập đánh giá lên 218 văn bản. Thêm "Chiến lược" vào loại nội dung kèm theo (0180).
 - [x] (17/11) Bước luật `tools/kiem_tra/vet_quan_he.py` chạy sau `chay_json.py`: vét REPLACES/REPEALS
       model bỏ sót (REPEALS 45% → 99% trên 218 văn bản), báo chỗ model gán sai loại.
-- [ ] Nhóm 5–6 (21–40, trên 40 trang; 131 văn bản) và 0161, 0352 (bản gốc .doc): làm theo
+- [x] (17/11) Nhóm 5 (21–40 trang, 81 văn bản): đủ 81/81 JSON v4, Sonnet đối chiếu ảnh PDF, trọng
+      tài duyệt; tập đánh giá lên 299 văn bản.
+- [ ] Nhóm 6 (trên 40 trang; 50 văn bản) và 0161, 0352 (bản gốc .doc): làm theo
       đúng quy trình trong `data/eval/kiem_pdf_v4/README.md` (chụp bản gốc → `vet_quan_he.py --ghi`
       → đối chiếu ảnh PDF → trọng tài → chấm). Hai văn bản lớn 0245, 0246 (730–810 KB) chạy riêng
-      sau cùng. Nhóm 5 đang chạy.
+      sau cùng.
 - [x] (17/11) 5 văn bản vướng lược đồ (0023, 0084, 0110, 0193, 0488): nới lược đồ (số mục A–Z, loại
       "Quy chế"), sửa `chay_json.py`; đã trích xuất và đối chiếu PDF. Nhóm 1–3 đủ 136/136.
 - [ ] 0149 (để lại, làm sau): tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.

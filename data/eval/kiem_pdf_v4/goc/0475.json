@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0475_1050_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo trình độ đại học các ngành về điện.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1050/QĐ-BGDĐT",
+    "title": "Quyết định về việc ban hành Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/05/2026",
+    "effectiveDate": "04/05/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khoa học Công nghệ"
+    ],
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học"
+    ],
+    "summary": "Quyết định ban hành Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân, quy định các yêu cầu tối thiểu về mục tiêu, chuẩn đầu ra, khối lượng, cấu trúc chương trình, phương pháp giảng dạy, đánh giá, đội ngũ giảng viên và cơ sở vật chất cho các cơ sở giáo dục đại học tham gia đào tạo nhân lực lĩnh vực này.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quân",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "18/06/2012",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19 tháng 11 năm 2018;"
+    },
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "09/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Danh mục giáo dục, đào tạo cấp IV trình độ đại học;"
+    },
+    {
+      "targetDocumentNumber": "1012/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1012/QĐ-TTg ngày 26 tháng 5 năm 2025 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo bồi dưỡng nguồn nhân lực phục vụ phát triển điện hạt nhân đến năm 2035”;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Thủ tướng Chính phủ",
+    "IAEA"
+  ],
+  "normativeContents": [
+    {
+      "title": "Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Tổng quan",
+          "text": "1. Tổng quan. 1.1. Giới thiệu. Chuẩn chương trình đào tạo các ngành điện hạt nhân quy định các yêu cầu tối thiểu và thống nhất đối với chương trình đào tạo trình độ đại học trong lĩnh vực này. Chuẩn bao gồm: mục tiêu đào tạo; chuẩn đầu ra phù hợp Khung trình độ quốc gia Việt Nam; khối lượng và cấu trúc chương trình; nội dung cốt lõi; phương pháp giảng dạy và đánh giá; yêu cầu về thực hành, thí nghiệm, mô phỏng, nghiên cứu khoa học; và các điều kiện bảo đảm chất lượng về giảng viên, cơ sở vật chất và học liệu. Chuẩn chương trình đào tạo được xây dựng trên cơ sở các quy định hiện hành của Bộ Giáo dục và Đào tạo về chuẩn chương trình đào tạo, quy trình xây dựng, thẩm định và ban hành chương trình đào tạo ở các trình độ của giáo dục đại học; đồng thời tham chiếu Khung trình độ quốc gia Việt Nam và định hướng của Chính phủ về đào tạo, bồi dưỡng nguồn nhân lực phục vụ phát triển lĩnh vực điện hạt nhân. Đối tượng áp dụng là các cơ sở đào tạo tham gia đào tạo nhân lực phục vụ phát triển điện hạt nhân đến năm 2035 căn cứ theo Quyết định 1012/QĐ-TTg năm 2025 và các cơ sở đào tạo khác có định hướng xây dựng và vận hành các chương trình đào tạo các ngành về điện hạt nhân. Chuẩn chương trình đào tạo được xây dựng với sự tham gia của các chuyên gia, cơ sở đào tạo, viện nghiên cứu và đơn vị sử dụng nhân lực. 1.2. Mục đích ban hành chuẩn chương trình đào tạo. Chuẩn chương trình đào tạo trình độ đại học các ngành về điện hạt nhân là căn cứ để: a) Bộ Giáo dục và Đào tạo ban hành các quy định về mở chương trình đào tạo, xác định số lượng tuyển sinh, tổ chức tuyển sinh, tổ chức và quản lý đào tạo, liên thông trong đào tạo, cũng như các tiêu chuẩn đánh giá và kiểm định chương trình đào tạo trong các ngành về điện hạt nhân; b) Cơ sở đào tạo xây dựng, thẩm định, ban hành, tổ chức thực hiện, đánh giá và cải tiến chương trình đào tạo các ngành điện hạt nhân; xây dựng các quy định về tuyển sinh, tổ chức và quản lý đào tạo, công nhận và chuyển đổi tín chỉ cho người học; công nhận chương trình đào tạo của cơ sở đào tạo khác trong lĩnh vực liên quan; thực hiện trách nhiệm giải trình về chất lượng đào tạo và năng lực chuyên môn của người tốt nghiệp đáp ứng yêu cầu an toàn, an ninh và pháp quy hạt nhân; c) Các cơ quan quản lý nhà nước có thẩm quyền thực hiện thanh tra, kiểm tra đối với chương trình đào tạo và công tác bảo đảm chất lượng đào tạo trong các ngành về điện hạt nhân; đồng thời tạo cơ sở để các bên liên quan, doanh nghiệp, tổ chức nghiên cứu và toàn xã hội giám sát hoạt động và kết quả đào tạo. Chuẩn chương trình đào tạo trình độ đại học các ngành về điện hạt nhân là cơ sở để xây dựng, thẩm định và ban hành chuẩn chương trình đào tạo cho từng ngành, từng hướng chuyên sâu ở trình độ đại học. Các chuẩn này có thể quy định cao hơn hoặc mở rộng hơn so với các quy định chung nhằm bảo đảm yêu cầu đặc thù về kỹ thuật, an toàn và trách nhiệm xã hội của các ngành về điện hạt nhân. Việc áp dụng chuẩn góp phần đào tạo đội ngũ nhân lực đáp ứng yêu cầu triển khai và phát triển các ngành về điện hạt nhân trong giai đoạn mới. 1.3. Danh mục các ngành về điện hạt nhân trình độ đại học. Danh mục thống kê các ngành về điện hạt nhân (Nhóm ngành kỹ thuật và Nhóm ngành khác) trình độ đại học theo quy định hiện hành bao gồm: [Danh sách các ngành từ 1 đến 50]. Ngoài các ngành đào tạo được nêu tại danh mục này, các ngành được Bộ trưởng Bộ Giáo dục và Đào tạo cho phép thí điểm hoặc bổ sung vào danh mục đào tạo trình độ đại học các ngành về điện hạt nhân phải thực hiện theo những quy định tại Chuẩn chương trình đào tạo này. 1.4. Văn bằng tốt nghiệp. Người tốt nghiệp chương trình đào tạo các ngành về điện hạt nhân ở trình độ đại học được cấp bằng Cử nhân (bậc 6); Người tốt nghiệp chương trình đào tạo Kỹ sư chuyên sâu đặc thù được cấp bằng Kỹ sư (bậc 7).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Chuẩn chương trình đào tạo",
+          "text": "2. Chuẩn chương trình đào tạo. 2.1. Mục tiêu của chương trình đào tạo. Chương trình đào tạo các ngành về điện hạt nhân hướng tới đào tạo người học có phẩm chất nghề nghiệp và bản lĩnh chính trị vững vàng; có nền tảng khoa học – kỹ thuật chắc chắn; có năng lực vận dụng kiến thức và công nghệ để giải quyết các vấn đề kỹ thuật của nhà máy điện hạt nhân; có khả năng làm việc trong môi trường liên ngành, tuân thủ các yêu cầu an toàn – pháp quy và thích ứng với sự phát triển của khoa học – công nghệ. Chương trình đồng thời hình thành ở người học tinh thần trách nhiệm, văn hóa an toàn và năng lực học tập suốt đời để phát triển nghề nghiệp một cách bền vững. 2.2. Chuẩn đầu ra của chương trình đào tạo. [Chi tiết các bảng chuẩn đầu ra chung và theo chuyên ngành]. 2.3. Chuẩn đầu vào của chương trình đào tạo. [Chi tiết điều kiện chung, phương thức tuyển sinh, yêu cầu năng lực đầu vào và chuyển ngành]. 2.4. Khối lượng học tập và nghiên cứu. Khối lượng học tập tối thiểu đối với chương trình đào tạo các ngành về điện hạt nhân phải phù hợp với yêu cầu của Khung trình độ quốc gia Việt Nam, cụ thể như sau: a) Chương trình đào tạo cử nhân (bậc 6): tối thiểu 120 tín chỉ (TC). b) Chương trình đào tạo Kỹ sư (bậc 7): tối thiểu 150 TC. 2.5. Cấu trúc và nội dung chương trình đào tạo. [Chi tiết về giáo dục đại cương, cơ sở cốt lõi ngành, thực tập trải nghiệm, yêu cầu ngoại ngữ]. 2.6. Phương pháp giảng dạy và đánh giá kết quả học tập. [Chi tiết về phương pháp giảng dạy, đánh giá kết quả học tập, sử dụng AI]. 2.7. Đội ngũ giảng viên và nhân lực hỗ trợ. [Chi tiết về yêu cầu chung, an toàn bức xạ, cơ chế đặc thù]. 2.8. Cơ sở vật chất, công nghệ và học liệu. [Chi tiết về phòng học, thư viện, phòng thí nghiệm, nền tảng số]. 2.9. Lộ trình cải tiến nâng cao chất lượng đào tạo. [Chi tiết về hệ thống bảo đảm chất lượng, chu kỳ rà soát].",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "PHỤ LỤC",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Danh mục ngành phù hợp dùng cho đào tạo trình độ đại học các ngành về điện hạt nhân",
+          "text": "Danh mục ngành phù hợp dùng cho đào tạo trình độ đại học các ngành về điện hạt nhân bao gồm các nhóm ngành: 751 - Nhóm ngành Công nghệ kỹ thuật (từ 1 đến 13); 752 – Nhóm ngành Kỹ thuật (từ 14 đến 29); 758-Nhóm ngành Kiến trúc và xây dựng (từ 30 đến 32); 748 – Nhóm ngành Máy tính & công nghệ thông tin (từ 33 đến 41); 746 – Toán, Thống kê & Khoa học dữ liệu (từ 42 đến 43); 744 – Nhóm ngành Khoa học tự nhiên (từ 44 đến 50).",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân áp dụng đối với các cơ sở giáo dục đại học tham gia Đề án “Đào tạo bồi dưỡng nguồn nhân lực phục vụ phát triển điện hạt nhân đến ",
+      "text": "Điều 3. Chuẩn Chương trình đào tạo trình độ đại học các ngành về điện hạt nhân áp dụng đối với các cơ sở giáo dục đại học tham gia Đề án “Đào tạo bồi dưỡng nguồn nhân lực phục vụ phát triển điện hạt nhân đến năm 2035 theo Quyết định số 1012/QĐ-TTg ngày 26 tháng 5 năm 2025 của Thủ tướng Chính phủ”; các cơ sở giáo dục đại học xây dựng, rà soát, cập nhật chương trình đào tạo về điện hạt nhân, báo cáo Bộ Giáo dục và Đào tạo trước khi tuyển sinh.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Hiệu trưởng, Giám đốc cơ sở giáo dục đại học, người đứng đầu các tổ chức và cá nhân liê",
+      "text": "Điều 4. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Hiệu trưởng, Giám đốc cơ sở giáo dục đại học, người đứng đầu các tổ chức và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

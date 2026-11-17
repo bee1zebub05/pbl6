@@ -35,3 +35,11 @@
 0463,7,27 tháng 4 năm 2026,24 tháng 4 năm 2026,ngay,ngày viết tay Điều 23 khoản 1,4
 0076,1,4494/QĐ-ĐHĐN,4194/QĐ-ĐHĐN,so_hieu,số viết tay,4
 0076,1,07 tháng 12,08 tháng 12,ngay,ngày viết tay,4
+0065,1,Trường Đại học Bách khoa Đại học Đà Nẵng (title),Trường Đại học Bách khoa - Đại học Đà Nẵng,khac,"mất dấu gạch nối, không sửa",5
+0211,1,4751/QĐ-ĐHĐN,4754/QĐ-ĐHĐN,so_hieu,"số viết tay; 0211 và 0238 cùng số 4754, cùng ngày 07/12/2022, cùng nội dung (bản trùng)",5
+0071,1,13/NQ-ĐHĐN,13/NQ-HĐĐH,so_hieu,nhầm HĐĐH thành ĐHĐN,5
+0152,8,25 tháng 5,05 tháng 5,ngay,"chữ viết tay ""05""",5
+0240,1,08/01/2022,08/11/2022,ngay,"tháng viết tay ""11"" bị đọc thành 1/01",5
+0215,1,14/05/2021,11/05/2021,ngay,"chữ số viết tay ""11"" đọc thành 14",5
+0448,1,5247/QĐ-ĐHBK,5274/QĐ-ĐHBK,so_hieu,hoán đổi 2 chữ số viết tay,5
+0020,1,của Hội Đại học Đà Nẵng,của Hội đồng Đại học Đà Nẵng,mat_chu,context citations[5] mất chữ đồng; không sửa (context),5

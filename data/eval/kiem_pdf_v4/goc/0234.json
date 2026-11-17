@@ -1,0 +1,209 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0234_23_NQ-HĐĐH_Chiến lược phát triển Đại học Đà Nẵng đến năm 2030 và tầm nhìn đến năm 2045.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "23/NQ-HĐĐH",
+    "title": "Nghị quyết về việc ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm 2030 và tầm nhìn đến năm 2045",
+    "documentType": "Nghị quyết",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/04/2023",
+    "effectiveDate": "28/04/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khoa học Công nghệ",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Nghị quyết ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm 2030 và tầm nhìn đến năm 2045, nhằm định hướng phát triển thành Đại học Quốc gia, nâng cao chất lượng đào tạo, nghiên cứu khoa học và đổi mới quản trị đại học.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Hội đồng Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phan Minh Đức",
+      "academicTitle": null,
+      "position": [
+        "Chủ tịch"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng (ĐHĐN);"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "996/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 996/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Hội đồng ĐHĐN nhiệm kỳ 2021-2026"
+    },
+    {
+      "targetDocumentNumber": "998/QĐ-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Quyết định số 998/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Chủ tịch Hội đồng ĐHĐN nhiệm kỳ 2021-2026;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng ĐHĐN về việc ban hành Quy chế tổ chức và hoạt động của ĐHĐN"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng ĐHĐN về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "1219/QĐ-HĐĐHĐN",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Nghị quyết này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 1219/QĐ-HĐĐHĐN ngày 17 tháng 4 năm 2018 của Hội đồng Đại học Đà Nẵng về việc ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035."
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa",
+    "Trường Đại học Kinh tế",
+    "Trường Đại học Sư phạm",
+    "Trường Đại học Ngoại ngữ",
+    "Trường Đại học Sư phạm Kỹ thuật",
+    "Trường Đại học Công nghệ thông tin và Truyền thông Việt - Hàn"
+  ],
+  "normativeContents": [
+    {
+      "title": "CHIẾN LƯỢC PHÁT TRIỂN ĐẠI HỌC ĐÀ NẴNG ĐẾN NĂM 2030, TẦM NHÌN ĐẾN NĂM 2045",
+      "contentType": "Chiến lược",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "MỞ ĐẦU",
+          "text": "1. MỞ ĐẦU. Đại học Đà Nẵng (ĐHĐN) là đại học vùng trọng điểm quốc gia được thành lập theo Nghị định số 32/CP ngày 04/4/1994 của Chính phủ, có chức năng đào tạo đa ngành, đa lĩnh vực, cung cấp nguồn nhân lực chất lượng cao, nghiên cứu khoa học (NCKH) và chuyển giao công nghệ trong các lĩnh vực mũi nhọn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "BỐI CẢNH",
+          "text": "2. BỐI CẢNH. 2.1. Bối cảnh thế giới. Thành tựu khoa học công nghệ (KHCN) thế giới đang phát triển nhanh chóng trong giai đoạn cách mạng công nghiệp lần thứ tư. 2.2. Bối cảnh trong nước, vùng Bắc Trung Bộ và duyên hải Trung Bộ. Trong những năm gần đây, mặc dù gặp nhiều khó khăn, thách thức về tài nguyên thiên nhiên, môi trường sống, song Việt Nam đã đạt được thành tựu toàn diện trên nhiều lĩnh vực kinh tế - xã hội. 2.3. Bối cảnh Đại học Đà Nẵng. ĐHĐN đóng trên địa bàn thành phố Đà Nẵng - một thành phố có vị trí chiến lược hết sức quan trọng, là một trung tâm của cực tăng trưởng vùng động lực miền Trung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "PHÂN TÍCH HIỆN TRẠNG CỦA ĐẠI HỌC ĐÀ NẴNG",
+          "text": "3. PHÂN TÍCH HIỆN TRẠNG CỦA ĐẠI HỌC ĐÀ NẴNG. 3.1. Điểm mạnh. 3.2. Điểm yếu. 3.3. Cơ hội. 3.4. Thách thức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "KẾT QUẢ THỰC HIỆN MỤC TIÊU CHIẾN LƯỢC NĂM 2018",
+          "text": "4. KẾT QUẢ THỰC HIỆN MỤC TIÊU CHIẾN LƯỢC NĂM 2018. Sau gần 05 năm triển khai, thực hiện chiến lược năm 2018, ĐHĐN cơ bản đạt được các mục tiêu cụ thể của chiến lược.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "QUAN ĐIỂM PHÁT TRIỂN ĐẠI HỌC ĐÀ NẴNG",
+          "text": "5. QUAN ĐIỂM PHÁT TRIỂN ĐẠI HỌC ĐÀ NẴNG. 5.1. Phát triển ĐHĐN phù hợp với chủ trương, chính sách của Đảng và pháp luật của Nhà nước. 5.2. Phát triển ĐHĐN thành Đại học Quốc gia theo trụ cột chính. 5.3. Xây dựng ĐHĐN theo mô hình đại học ĐMST và hội nhập. 5.4. Phát triển ĐHĐN theo lộ trình tự chủ đại học một cách toàn diện và bền vững.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "SỨ MẠNG, TẦM NHÌN VÀ GIÁ TRỊ CỐT LÕI",
+          "text": "6. SỨ MẠNG, TẦM NHÌN VÀ GIÁ TRỊ CỐT LÕI. 6.1. Sứ mạng. 6.2. Tầm nhìn đến năm 2045. 6.3. Giá trị cốt lõi: Chất lượng - Sáng tạo - Nhân văn - Phụng sự xã hội.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": "MỤC TIÊU PHÁT TRIỂN ĐẠI HỌC ĐÀ NẴNG",
+          "text": "7. MỤC TIÊU PHÁT TRIỂN ĐẠI HỌC ĐÀ NẴNG. 7.1. Mục tiêu chung. 7.2. Mục tiêu cụ thể: Đến năm 2025, 2030 và 2045.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": "NHIỆM VỤ TRỌNG TÂM VÀ GIẢI PHÁP",
+          "text": "8. NHIỆM VỤ TRỌNG TÂM VÀ GIẢI PHÁP. Bao gồm các nhiệm vụ về quy hoạch mạng lưới, phát triển mô hình đại học ĐMST, đảm bảo chất lượng, hội nhập quốc tế, gắn kết doanh nghiệp, đổi mới quản trị, phát triển cơ sở vật chất.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": "TỔ CHỨC THỰC HIỆN",
+          "text": "9. TỔ CHỨC THỰC HIỆN. 9.1. Đại học Đà Nẵng. 9.2. Các trường ĐHTV và các đơn vị thuộc, trực thuộc ĐHĐN.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": "TỔ CHỨC GIÁM SÁT VÀ ĐÁNH GIÁ KẾT QUẢ",
+          "text": "10. TỔ CHỨC GIÁM SÁT VÀ ĐÁNH GIÁ KẾT QUẢ. Đôn đốc, kiểm tra, giám sát các đơn vị thực hiện Chiến lược theo lộ trình quy định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": "QUẢN LÝ RỦI RO THỰC HIỆN CHIẾN LƯỢC",
+          "text": "11. QUẢN LÝ RỦI RO THỰC HIỆN CHIẾN LƯỢC. 11.1. Nhận diện và phân tích rủi ro. 11.2. Giải pháp quản lý rủi ro.",
+          "isImplementationClause": false
+        }
+      ]
+    },
+    {
+      "title": "PHỤ LỤC",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "CÁC CHỈ TIÊU CƠ BẢN GIAI ĐOẠN 2025 - 2030",
+          "text": "1. Các chỉ tiêu cơ bản giai đoạn 2025 - 2030 bao gồm các tiêu chí về quy hoạch mạng lưới, đội ngũ cán bộ, công tác đào tạo, kiểm định chất lượng, nghiên cứu khoa học và hội nhập quốc tế.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Nghị quyết này Chiến lược phát triển Đại học Đà",
+      "text": "Điều 1. Ban hành kèm theo Nghị quyết này Chiến lược phát triển Đại học Đà\nNẵng đến năm 2030 và tầm nhìn đến năm 2045.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Nghị quyết này có hiệu lực thi hành kể từ ngày ký và thay thế",
+      "text": "Điều 2. Nghị quyết này có hiệu lực thi hành kể từ ngày ký và thay thế\nQuyết định số 1219/QĐ-HĐĐHĐN ngày 17 tháng 4 năm 2018 của Hội đồng Đại\nhọc Đà Nẵng về việc ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm\n2025 và tầm nhìn đến năm 2035.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Hội đồng Đại học Đà Nẵng, Giám đốc Đại học Đà Nẵng, Chủ tịch",
+      "text": "Điều 3. Hội đồng Đại học Đà Nẵng, Giám đốc Đại học Đà Nẵng, Chủ tịch\nHội đồng trường, Hiệu trưởng các trường đại học thành viên; Thủ trưởng các đơn\nvị thuộc, trực thuộc Đại học Đà Nẵng; các viên chức, người lao động, người học\n\ntrong Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan căn cứ Nghị quyết thi\nhành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+﻿ma,truong,gia_tri_json,gia_tri_pdf,trang_pdf,muc_do,de_xuat_sua,da_sua
+0358,citations[0],BASED_ON 15/06/2022,"Luật Thi đua, khen thưởng ngày 15 tháng 6 năm 2022 (không có số hiệu)",1,SAI,bỏ trích dẫn,CO
+0358,documentNumber,,khớp,1-2,OK,,KHONG
+0358,issueDate,,khớp,1-2,OK,,KHONG
+0358,effectiveDate,,khớp,1-2,OK,,KHONG
+0358,title,,khớp,1-2,OK,,KHONG
+0358,organization,,khớp,1-2,OK,,KHONG
+0358,signers,,khớp,1-2,OK,,KHONG
+0358,REPLACES 1338/QĐ-BGDĐT,,khớp,1-2,OK,,KHONG
+0068,citations,thiếu BASED_ON 13/NQ-HĐĐH,13/NQ-HĐĐH,1,THIEU,thêm BASED_ON,CO
+0068,citations,thiếu BASED_ON 22/NQ-HĐT,22/NQ-HĐT,1,THIEU,thêm BASED_ON,CO
+0068,documentNumber,,khớp,1-2,OK,,KHONG
+0068,issueDate,,khớp,1-2,OK,,KHONG
+0068,effectiveDate,,khớp,1-2,OK,,KHONG
+0068,title,,khớp,1-2,OK,,KHONG
+0068,organization,,khớp,1-2,OK,,KHONG
+0068,signers,,khớp,1-2,OK,,KHONG
+0455,effectiveDate,16/01/2026,không ghi,1-2,SAI,null,CO
+0455,documentNumber,,khớp,1-2,OK,,KHONG
+0455,issueDate,,khớp,1-2,OK,,KHONG
+0455,title,,khớp,1-2,OK,,KHONG
+0455,organization,,khớp,1-2,OK,,KHONG
+0455,signers,,khớp,1-2,OK,,KHONG
+0455,citations,,khớp,1-2,OK,,KHONG
+0100,documentNumber,,khớp,"1,21",OK,,KHONG
+0100,documentType,,khớp,"1,21",OK,,KHONG
+0100,issueDate,,khớp,"1,21",OK,,KHONG
+0100,effectiveDate,,khớp,"1,21",OK,,KHONG
+0100,title,,khớp,"1,21",OK,,KHONG
+0100,organization,,khớp,"1,21",OK,,KHONG
+0100,signers,,khớp,"1,21",OK,,KHONG
+0100,citations,,khớp,"1,21",OK,,KHONG
+0396,documentNumber,,khớp,"1,22,23",OK,,KHONG
+0396,documentType,,khớp,"1,22,23",OK,,KHONG
+0396,issueDate,,khớp,"1,22,23",OK,,KHONG
+0396,effectiveDate,,khớp,"1,22,23",OK,,KHONG
+0396,title,,khớp,"1,22,23",OK,,KHONG
+0396,organization,,khớp,"1,22,23",OK,,KHONG
+0396,signers,,khớp,"1,22,23",OK,,KHONG
+0396,citations,,khớp,"1,22,23",OK,,KHONG
+0350,documentNumber,,khớp,"1,25",OK,,KHONG
+0350,documentType,,khớp,"1,25",OK,,KHONG
+0350,issueDate,,khớp,"1,25",OK,,KHONG
+0350,effectiveDate,,khớp,"1,25",OK,,KHONG
+0350,title,,khớp,"1,25",OK,,KHONG
+0350,organization,,khớp,"1,25",OK,,KHONG
+0350,signers,,khớp,"1,25",OK,,KHONG
+0350,citations,,khớp,"1,25",OK,,KHONG
+0065,documentNumber,,khớp,"1,2",OK,,KHONG
+0065,documentType,,khớp,"1,2",OK,,KHONG
+0065,issueDate,,khớp,"1,2",OK,,KHONG
+0065,effectiveDate,,khớp,"1,2",OK,,KHONG
+0065,title,,khớp,"1,2",OK,,KHONG
+0065,organization,,khớp,"1,2",OK,,KHONG
+0065,signers,,khớp,"1,2",OK,,KHONG
+0065,citations,,khớp,"1,2",OK,,KHONG
+0397,citations,AMENDS 16/2023/QH15,chỉ 01/2016/QH14 là đích sửa đổi,1,THUA,bỏ,CO
+0397,documentNumber,,khớp,"1,28",OK,,KHONG
+0397,issueDate,,khớp,"1,28",OK,,KHONG
+0397,effectiveDate,,khớp,"1,28",OK,,KHONG
+0397,title,,khớp,"1,28",OK,,KHONG
+0397,organization,,khớp,"1,28",OK,,KHONG
+0397,signers,,khớp,"1,28",OK,,KHONG
+0374,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0374,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0374,citations,BASED_ON 22/11/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0374,citations,BASED_ON 10/11/2022,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0374,documentNumber,,khớp,"1,21,22",OK,,KHONG
+0374,issueDate,,khớp,"1,21,22",OK,,KHONG
+0374,effectiveDate,,khớp,"1,21,22",OK,,KHONG
+0374,title,,khớp,"1,21,22",OK,,KHONG
+0374,organization,,khớp,"1,21,22",OK,,KHONG
+0374,signers,,khớp,"1,21,22",OK,,KHONG
+0374,REPEALS 159/2016/NĐ-CP,,khớp,"1,21,22",OK,,KHONG
+0244,documentNumber,,khớp,"1,29",OK,,KHONG
+0244,documentType,,khớp,"1,29",OK,,KHONG
+0244,issueDate,,khớp,"1,29",OK,,KHONG
+0244,effectiveDate,,khớp,"1,29",OK,,KHONG
+0244,title,,khớp,"1,29",OK,,KHONG
+0244,organization,,khớp,"1,29",OK,,KHONG
+0244,signers,,khớp,"1,29",OK,,KHONG
+0244,citations,,khớp,"1,29",OK,,KHONG
+0134,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0134,citations,BASED_ON 21/06/2017,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0134,citations,BASED_ON 18/06/2013,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0134,citations,BASED_ON 21/06/2017,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0134,citations,BASED_ON 29/11/2005,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0134,documentNumber,,khớp,"1,28,29",OK,,KHONG
+0134,documentType,,khớp,"1,28,29",OK,,KHONG
+0134,issueDate,,khớp,"1,28,29",OK,,KHONG
+0134,effectiveDate,,khớp,"1,28,29",OK,,KHONG
+0134,title,,khớp,"1,28,29",OK,,KHONG
+0134,organization,,khớp,"1,28,29",OK,,KHONG
+0134,signers,,khớp,"1,28,29",OK,,KHONG
+0134,citations (còn lại),,khớp,"1,28,29",OK,,KHONG
+0093,documentNumber,,khớp,"1,32",OK,,KHONG
+0093,documentType,,khớp,"1,32",OK,,KHONG
+0093,issueDate,,khớp,"1,32",OK,,KHONG
+0093,effectiveDate,,khớp,"1,32",OK,,KHONG
+0093,title,,khớp,"1,32",OK,,KHONG
+0093,organization,,khớp,"1,32",OK,,KHONG
+0093,signers,,khớp,"1,32",OK,,KHONG
+0093,citations,,khớp,"1,32",OK,,KHONG
+0092,documentNumber,,khớp,"1,2,33,34",OK,,KHONG
+0092,documentType,,khớp,"1,2,33,34",OK,,KHONG
+0092,issueDate,,khớp,"1,2,33,34",OK,,KHONG
+0092,effectiveDate,,khớp,"1,2,33,34",OK,,KHONG
+0092,title,,khớp,"1,2,33,34",OK,,KHONG
+0092,organization,,khớp,"1,2,33,34",OK,,KHONG
+0092,signers,,khớp,"1,2,33,34",OK,,KHONG
+0092,citations,,khớp,"1,2,33,34",OK,,KHONG
+0090,citations,AMENDS 32/2013/QH13,chỉ 08/2012/QH13 là đích sửa đổi,1,THUA,bỏ,CO
+0090,citations,AMENDS 74/2014/QH13,chỉ 08/2012/QH13 là đích sửa đổi,1,THUA,bỏ,CO
+0090,citations,AMENDS 97/2015/QH13,chỉ 08/2012/QH13 là đích sửa đổi,1,THUA,bỏ,CO
+0090,documentNumber,,khớp,"1,35",OK,,KHONG
+0090,issueDate,,khớp,"1,35",OK,,KHONG
+0090,effectiveDate,,khớp,"1,35",OK,,KHONG
+0090,title,,khớp,"1,35",OK,,KHONG
+0090,organization,,khớp,"1,35",OK,,KHONG
+0090,signers,,khớp,"1,35",OK,,KHONG
+0311,citations REPLACES 80/2006/QH11,REPLACES,"văn bản ghi ""hết hiệu lực"", không ghi ""thay thế""",34,SAI,"REPEALS (nhất quán với 0092, 0374)",CO
+0311,documentNumber,,khớp,"1,34,35",OK,,KHONG
+0311,issueDate,,khớp,"1,34,35",OK,,KHONG
+0311,effectiveDate,,khớp,"1,34,35",OK,,KHONG
+0311,title,,khớp,"1,34,35",OK,,KHONG
+0311,organization,,khớp,"1,34,35",OK,,KHONG
+0311,signers,,khớp,"1,34,35",OK,,KHONG
+0281,citations,AMENDS 32/2013/QH13,chỉ 08/2012/QH13 là đích sửa đổi,1,THUA,bỏ,CO
+0281,citations,AMENDS 74/2014/QH13,chỉ 08/2012/QH13 là đích sửa đổi,1,THUA,bỏ,CO
+0281,citations,AMENDS 97/2015/QH13,chỉ 08/2012/QH13 là đích sửa đổi,1,THUA,bỏ,CO
+0281,documentNumber,,khớp,"1,35",OK,,KHONG
+0281,issueDate,,khớp,"1,35",OK,,KHONG
+0281,effectiveDate,,khớp,"1,35",OK,,KHONG
+0281,title,,khớp,"1,35",OK,,KHONG
+0281,organization,,khớp,"1,35",OK,,KHONG
+0281,signers,,khớp,"1,35",OK,,KHONG
+0120,citations,BASED_ON 25/12/2001,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0120,citations,BASED_ON 18/06/2013,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0120,documentNumber,,khớp,"1,37,38",OK,,KHONG
+0120,documentType,,khớp,"1,37,38",OK,,KHONG
+0120,issueDate,,khớp,"1,37,38",OK,,KHONG
+0120,effectiveDate,,khớp,"1,37,38",OK,,KHONG
+0120,title,,khớp,"1,37,38",OK,,KHONG
+0120,organization,,khớp,"1,37,38",OK,,KHONG
+0120,signers,,khớp,"1,37,38",OK,,KHONG
+0120,citations (còn lại),,khớp,"1,37,38",OK,,KHONG
+0403,documentNumber,,khớp,"1,34,38",OK,,KHONG
+0403,documentType,,khớp,"1,34,38",OK,,KHONG
+0403,issueDate,,khớp,"1,34,38",OK,,KHONG
+0403,effectiveDate,,khớp,"1,34,38",OK,,KHONG
+0403,title,,khớp,"1,34,38",OK,,KHONG
+0403,organization,,khớp,"1,34,38",OK,,KHONG
+0403,signers,,khớp,"1,34,38",OK,,KHONG
+0403,citations,,khớp,"1,34,38",OK,,KHONG
+0136,citations BASED_ON 50/2014/QH13,50/2014/QH13,"""Luật Xây dựng ngày 18 tháng 6 năm 2014"" (không ghi số hiệu)",1,THUA,bỏ trích dẫn,CO
+0136,documentNumber,,khớp,"1,37,38",OK,,KHONG
+0136,issueDate,,khớp,"1,37,38",OK,,KHONG
+0136,effectiveDate,,khớp,"1,37,38",OK,,KHONG
+0136,title,,khớp,"1,37,38",OK,,KHONG
+0136,organization,,khớp,"1,37,38",OK,,KHONG
+0136,signers,,khớp,"1,37,38",OK,,KHONG
+0136,REPEALS,,khớp,"1,37,38",OK,,KHONG
+0255,citations BASED_ON 19/2015/QH13,19/2015/QH13,"chỉ viện dẫn theo tên và ngày, không ghi số hiệu",1,THUA,bỏ trích dẫn,CO
+0255,citations BASED_ON 47/2019/QH14,47/2019/QH14,"chỉ viện dẫn theo tên và ngày, không ghi số hiệu",1,THUA,bỏ trích dẫn,CO
+0255,citations BASED_ON 37/2004/QH11,37/2004/QH11,"chỉ viện dẫn theo tên và ngày, không ghi số hiệu",1,THUA,bỏ trích dẫn,CO
+0255,citations BASED_ON 24/2018/QH14,24/2018/QH14,"chỉ viện dẫn theo tên và ngày, không ghi số hiệu",1,THUA,bỏ trích dẫn,CO
+0255,citations BASED_ON 86/2015/QH13,86/2015/QH13,"chỉ viện dẫn theo tên và ngày, không ghi số hiệu",1,THUA,bỏ trích dẫn,CO
+0255,documentNumber,,khớp,"1,29,30",OK,,KHONG
+0255,issueDate,,khớp,"1,29,30",OK,,KHONG
+0255,effectiveDate,,khớp,"1,29,30",OK,,KHONG
+0255,title,,khớp,"1,29,30",OK,,KHONG
+0255,organization,,khớp,"1,29,30",OK,,KHONG
+0255,signers,,khớp,"1,29,30",OK,,KHONG
+0439,citations,thiếu BASED_ON 5722/BGDĐT-CNTT,Căn cứ Công văn số 5722/BGDĐT-CNTT ngày 13/10/2023,1,THIEU,thêm BASED_ON,CO
+0439,documentNumber,,khớp,"1,2",OK,,KHONG
+0439,issueDate,,khớp,"1,2",OK,,KHONG
+0439,effectiveDate,,khớp,"1,2",OK,,KHONG
+0439,title,,khớp,"1,2",OK,,KHONG
+0439,organization,,khớp,"1,2",OK,,KHONG
+0439,signers,,khớp,"1,2",OK,,KHONG
+0091,documentNumber,,khớp,"1,40",OK,,KHONG
+0091,documentType,,khớp,"1,40",OK,,KHONG
+0091,issueDate,,khớp,"1,40",OK,,KHONG
+0091,effectiveDate,,khớp,"1,40",OK,,KHONG
+0091,title,,khớp,"1,40",OK,,KHONG
+0091,organization,,khớp,"1,40",OK,,KHONG
+0091,signers,,khớp,"1,40",OK,,KHONG
+0091,citations,,khớp,"1,40",OK,,KHONG
+0315,citations,BASED_ON 15/11/2010,"chỉ viện dẫn theo tên và ngày, không có số hiệu",2,SAI,bỏ trích dẫn,CO
+0315,citations,BASED_ON 25/11/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",2,SAI,bỏ trích dẫn,CO
+0315,citations,BASED_ON 18/6/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",2,SAI,bỏ trích dẫn,CO
+0315,citations,BASED_ON 19/11/2018,"chỉ viện dẫn theo tên và ngày, không có số hiệu",2,SAI,bỏ trích dẫn,CO
+0315,signers[0].position,Hiệu trưởng,"Giám đốc (GIÁM ĐỐC, PGS.TS. Nguyễn Ngọc Vũ)",17,SAI,Giám đốc,CO
+0315,documentNumber,,khớp,"1,2,17",OK,,KHONG
+0315,issueDate,,khớp,"1,2,17",OK,,KHONG
+0315,effectiveDate,,khớp,"1,2,17",OK,,KHONG
+0315,title,,khớp,"1,2,17",OK,,KHONG
+0315,organization,,khớp,"1,2,17",OK,,KHONG
+0315,AMENDS 4343/QĐ-ĐHĐN,,khớp,"1,2,17",OK,,KHONG
+0119,citations,BASED_ON 25/12/2001,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 26/11/2003,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 14/06/2005,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 16/11/2013,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 14/06/2005,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 25/11/2009,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 18/06/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,citations,BASED_ON 27/11/2014,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0119,documentNumber,,khớp,"1,14,15",OK,,KHONG
+0119,documentType,,khớp,"1,14,15",OK,,KHONG
+0119,issueDate,,khớp,"1,14,15",OK,,KHONG
+0119,effectiveDate,,khớp,"1,14,15",OK,,KHONG
+0119,title,,khớp,"1,14,15",OK,,KHONG
+0119,organization,,khớp,"1,14,15",OK,,KHONG
+0119,signers,,khớp,"1,14,15",OK,,KHONG
+0119,citations (còn lại),,khớp,"1,14,15",OK,,KHONG
+0484,documentNumber,,khớp,"1,20,21",OK,,KHONG
+0484,documentType,,khớp,"1,20,21",OK,,KHONG
+0484,issueDate,,khớp,"1,20,21",OK,,KHONG
+0484,effectiveDate,,khớp,"1,20,21",OK,,KHONG
+0484,title,,khớp,"1,20,21",OK,,KHONG
+0484,organization,,khớp,"1,20,21",OK,,KHONG
+0484,signers,,khớp,"1,20,21",OK,,KHONG
+0484,citations,,khớp,"1,20,21",OK,,KHONG
+0131,documentNumber,,khớp,"1,27",OK,,KHONG
+0131,documentType,,khớp,"1,27",OK,,KHONG
+0131,issueDate,,khớp,"1,27",OK,,KHONG
+0131,effectiveDate,,khớp,"1,27",OK,,KHONG
+0131,title,,khớp,"1,27",OK,,KHONG
+0131,organization,,khớp,"1,27",OK,,KHONG
+0131,signers,,khớp,"1,27",OK,,KHONG
+0131,citations,,khớp,"1,27",OK,,KHONG
+0211,documentNumber,4751/QĐ-ĐHĐN,"4754/QĐ-ĐHĐN (viết tay, giống hệt chữ số của 0238)","1,2",SAI,4754/QĐ-ĐHĐN,CO
+0211,issueDate,,khớp,"1,2",OK,,KHONG
+0211,effectiveDate,,khớp,"1,2",OK,,KHONG
+0211,title,,khớp,"1,2",OK,,KHONG
+0211,organization,,khớp,"1,2",OK,,KHONG
+0211,signers,,khớp,"1,2",OK,,KHONG
+0211,citations,,khớp,"1,2",OK,,KHONG
+0238,documentNumber,,khớp,"1,2",OK,,KHONG
+0238,documentType,,khớp,"1,2",OK,,KHONG
+0238,issueDate,,khớp,"1,2",OK,,KHONG
+0238,effectiveDate,,khớp,"1,2",OK,,KHONG
+0238,title,,khớp,"1,2",OK,,KHONG
+0238,organization,,khớp,"1,2",OK,,KHONG
+0238,signers,,khớp,"1,2",OK,,KHONG
+0238,citations,,khớp,"1,2",OK,,KHONG
+0323,citations,BASED_ON 2001,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0323,citations,BASED_ON 2010,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0323,documentNumber,,khớp,"1,29",OK,,KHONG
+0323,documentType,,khớp,"1,29",OK,,KHONG
+0323,issueDate,,khớp,"1,29",OK,,KHONG
+0323,effectiveDate,,khớp,"1,29",OK,,KHONG
+0323,title,,khớp,"1,29",OK,,KHONG
+0323,organization,,khớp,"1,29",OK,,KHONG
+0323,signers,,khớp,"1,29",OK,,KHONG
+0323,citations (còn lại),,khớp,"1,29",OK,,KHONG
+0295,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0295,citations,BASED_ON 22/11/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0295,citations,BASED_ON 14/11/2022,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0295,documentNumber,,khớp,"1,31,32",OK,,KHONG
+0295,documentType,,khớp,"1,31,32",OK,,KHONG
+0295,issueDate,,khớp,"1,31,32",OK,,KHONG
+0295,effectiveDate,,khớp,"1,31,32",OK,,KHONG
+0295,title,,khớp,"1,31,32",OK,,KHONG
+0295,organization,,khớp,"1,31,32",OK,,KHONG
+0295,signers,,khớp,"1,31,32",OK,,KHONG
+0295,citations (còn lại),,khớp,"1,31,32",OK,,KHONG
+0292,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0292,citations,BASED_ON 22/11/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0292,citations,BASED_ON 20/11/2018,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0292,documentNumber,,khớp,"1,14",OK,,KHONG
+0292,documentType,,khớp,"1,14",OK,,KHONG
+0292,issueDate,,khớp,"1,14",OK,,KHONG
+0292,effectiveDate,,khớp,"1,14",OK,,KHONG
+0292,title,,khớp,"1,14",OK,,KHONG
+0292,organization,,khớp,"1,14",OK,,KHONG
+0292,signers,,khớp,"1,14",OK,,KHONG
+0292,citations (còn lại),,khớp,"1,14",OK,,KHONG
+0447,citations REPEALS,thiếu REPEALS 23/2004/QH11,"Bãi bỏ Điều 101 của Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số",34,THIEU,thêm REPEALS Điều 101,CO
+0447,citations REPEALS,thiếu REPEALS 67/2006/QH11,"Bãi bỏ Điều 10 của Luật Công nghệ thông tin số 67/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH",34,THIEU,thêm REPEALS Điều 10,CO
+0447,citations REPEALS,thiếu REPEALS 77/2006/QH11,"Bãi bỏ Điều 7 của Luật Thể dục, thể thao số 77/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2018/QH14;",34,THIEU,thêm REPEALS Điều 7,CO
+0447,citations REPEALS,thiếu REPEALS 79/2006/QH11,"Bãi bỏ Điều 44 của Luật Đê điều số 79/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 15/2008/QH12, Luật số ",34,THIEU,thêm REPEALS Điều 44,CO
+0447,citations REPEALS,thiếu REPEALS 42/2009/QH12,"Bãi bỏ cụm từ ""Thanh tra,"" tại điểm e khoản 2 Điều 5; bãi bỏ Điều 7 của Luật Tần số vô tuyến điện số 42/2009/QH12 đã đượ",35,THIEU,thêm REPEALS Điều 7,CO
+0447,citations REPEALS,thiếu REPEALS 55/2010/QH12,"Bãi bỏ cụm từ ""Thanh tra,"" tại điểm e khoản 1, điểm d khoản 2 Điều 62, khoản 6 Điều 63, khoản 7 Điều 64; bãi bỏ Điều 66 ",35,THIEU,thêm REPEALS Điều 66,CO
+0447,citations REPEALS,thiếu REPEALS 04/2011/QH13,"Bãi bỏ Điều 50; cụm từ ""Chánh thanh tra Bộ Khoa học và Công nghệ,"" tại khoản 5 Điều 52; cụm từ ""Thanh tra,"" tại khoản 8 ",35,THIEU,thêm REPEALS Điều 50,CO
+0447,citations REPEALS,thiếu REPEALS 50/2014/QH13,"Bãi bỏ cụm từ ""thanh tra,"" tại khoản 6 Điều 162; bãi bỏ Điều 165 của Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ s",35,THIEU,thêm REPEALS Điều 165,CO
+0447,citations REPEALS,thiếu REPEALS 74/2014/QH13,"Bãi bỏ cụm từ ""Thanh tra,"" tại điểm m khoản 2 Điều 71; bãi bỏ Điều 72 của Luật Giáo dục nghề nghiệp số 74/2014/QH13 đã đ",35,THIEU,thêm REPEALS Điều 72,CO
+0447,citations REPEALS,thiếu REPEALS 02/2016/QH14,"Bãi bỏ Điều 62 của Luật Tín ngưỡng, tôn giáo số 02/2016/QH14;",35,THIEU,thêm REPEALS Điều 62,CO
+0447,citations REPEALS,thiếu REPEALS 27/2018/QH14,"Bãi bỏ cụm từ ""Thanh tra,"" tại điểm l khoản 2 Điều 57; bãi bỏ điểm a khoản 1 Điều 59 của Luật Đo đạc và bản đồ số 27/201",35,THIEU,thêm REPEALS Điều 59,CO
+0447,citations REPEALS,thiếu REPEALS 27/2023/QH15,"Bãi bỏ cụm từ ""thanh tra,"" tại khoản 15 Điều 191; bãi bỏ Điều 192 của Luật Nhà ở số 27/2023/QH15 đã được sửa đổi, bổ sun",35,THIEU,thêm REPEALS Điều 192,CO
+0447,citations REPEALS,thiếu REPEALS 28/2023/QH15,Bãi bỏ Điều 82 của Luật Tài nguyên nước số 28/2023/QH15;,35,THIEU,thêm REPEALS Điều 82,CO
+0447,citations REPEALS,thiếu REPEALS 45/2024/QH15,"Bãi bỏ cụm từ ""thanh tra,"" tại điểm i khoản 2 Điều 90; bãi bỏ Điều 92 của Luật Di sản văn hóa số 45/2024/QH15;",36,THIEU,thêm REPEALS Điều 92,CO
+0447,citations REPEALS,thiếu REPEALS 190/2025/QH15,Bãi bỏ khoản 1 và khoản 2 Điều 7 của Nghị quyết số 190/2025/QH15.,36,THIEU,thêm REPEALS Điều 7,CO
+0447,citations,(không có) 02/2011/QH13,"chỉ ""bãi bỏ cụm từ"" trong luật đó, không bãi bỏ điều/văn bản",35-36,NGHI_NGO,cần người quyết có ghi AMENDS cho bãi bỏ cụm từ hay không,KHONG
+0447,citations,(không có) 25/2018/QH14,"chỉ ""bãi bỏ cụm từ"" trong luật đó, không bãi bỏ điều/văn bản",35-36,NGHI_NGO,cần người quyết có ghi AMENDS cho bãi bỏ cụm từ hay không,KHONG
+0447,citations,(không có) 26/2008/QH12,"chỉ ""bãi bỏ cụm từ"" trong luật đó, không bãi bỏ điều/văn bản",35-36,NGHI_NGO,cần người quyết có ghi AMENDS cho bãi bỏ cụm từ hay không,KHONG
+0447,citations,(không có) 31/2024/QH15,"chỉ ""bãi bỏ cụm từ"" trong luật đó, không bãi bỏ điều/văn bản",35-36,NGHI_NGO,cần người quyết có ghi AMENDS cho bãi bỏ cụm từ hay không,KHONG
+0447,citations,(không có) 41/2024/QH15,"chỉ ""bãi bỏ cụm từ"" trong luật đó, không bãi bỏ điều/văn bản",35-36,NGHI_NGO,cần người quyết có ghi AMENDS cho bãi bỏ cụm từ hay không,KHONG
+0447,documentNumber,,khớp,"1,36,37",OK,,KHONG
+0447,issueDate,,khớp,"1,36,37",OK,,KHONG
+0447,effectiveDate,,khớp,"1,36,37",OK,,KHONG
+0447,title,,khớp,"1,36,37",OK,,KHONG
+0447,organization,,khớp,"1,36,37",OK,,KHONG
+0447,signers,,khớp,"1,36,37",OK,,KHONG
+0447,REPEALS 11/2022/QH15,,khớp,"1,36,37",OK,,KHONG
+0083,documentNumber,,khớp,"1,2",OK,,KHONG
+0083,documentType,,khớp,"1,2",OK,,KHONG
+0083,issueDate,,khớp,"1,2",OK,,KHONG
+0083,effectiveDate,,khớp,"1,2",OK,,KHONG
+0083,title,,khớp,"1,2",OK,,KHONG
+0083,organization,,khớp,"1,2",OK,,KHONG
+0083,signers,,khớp,"1,2",OK,,KHONG
+0083,citations,,khớp,"1,2",OK,,KHONG
+0437,citations,thiếu BASED_ON 998/QĐ-BGDĐT,Quyết định số 998/QĐ-BGDĐT ngày 17 tháng 3 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc công nhận Chủ tịch Hội đồng ĐHĐN nhiệm kỳ 2021-2026;,1,THIEU,thêm BASED_ON,CO
+0437,citations,(không thêm) 08/NQ-HĐĐH ngày 28/01/2022,"Căn cứ còn có Nghị quyết số 08/NQ-HĐĐH ngày 28 tháng 01 năm 2022 (cùng số hiệu 08/NQ-HĐĐH với NQ 12/7/2021, đã có trong citations)",1,NGHI_NGO,không thêm vì trùng số hiệu với trích dẫn đã có,KHONG
+0437,documentNumber,,khớp,"1,2",OK,,KHONG
+0437,issueDate,,khớp,"1,2",OK,,KHONG
+0437,effectiveDate,,khớp,"1,2",OK,,KHONG
+0437,title,,khớp,"1,2",OK,,KHONG
+0437,organization,,khớp,"1,2",OK,,KHONG
+0437,signers,,khớp,"1,2",OK,,KHONG
+0437,REPLACES 14/NQ-HĐĐH,,khớp,"1,2",OK,,KHONG
+0027,effectiveDate,01/07/2019,"""có hiệu lực áp dụng từ năm học 2019-2020"" (không có ngày)",1,SAI,null,CO
+0027,documentNumber,,khớp,"1,2,10",OK,,KHONG
+0027,issueDate,,khớp,"1,2,10",OK,,KHONG
+0027,title,,khớp,"1,2,10",OK,,KHONG
+0027,organization,,khớp,"1,2,10",OK,,KHONG
+0027,signers,,khớp,"1,2,10",OK,,KHONG
+0027,citations,,khớp,"1,2,10",OK,,KHONG
+0356,citations,BASED_ON 14/06/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0356,citations,BASED_ON 18/06/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0356,citations,BASED_ON 19/11/2018,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0356,citations,BASED_ON 27/11/2014,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0356,documentNumber,,khớp,"1,14",OK,,KHONG
+0356,documentType,,khớp,"1,14",OK,,KHONG
+0356,issueDate,,khớp,"1,14",OK,,KHONG
+0356,effectiveDate,,khớp,"1,14",OK,,KHONG
+0356,title,,khớp,"1,14",OK,,KHONG
+0356,organization,,khớp,"1,14",OK,,KHONG
+0356,signers,,khớp,"1,14",OK,,KHONG
+0356,citations (còn lại),,khớp,"1,14",OK,,KHONG
+0478,citations,thiếu BASED_ON 11/HD-TLĐ,Căn cứ Hướng dẫn số 11/HD-TLĐ ngày 14 tháng 3 năm 2024 của Tổng Liên đoàn Lao động Việt Nam về việc công đoàn tham gia thực hiện dân chủ ở cơ sở;,1,THIEU,thêm BASED_ON,CO
+0478,citations,thiếu BASED_ON 07/HD-CĐN,Căn cứ Hướng dẫn số 07/HD-CĐN ngày 04 tháng 10 năm 2024 của Công đoàn Giáo dục Việt Nam về việc tham gia thực hiện dân chủ ở cơ sở đối với các cơ sở giáo dục thuộc Công đoàn Giáo dục Việt Nam;,1,THIEU,thêm BASED_ON,CO
+0478,citations,thiếu BASED_ON 11/HD-CĐN,Căn cứ Hướng dẫn số 11/HD-CĐN ngày 20 tháng 02 năm 2025 của Công đoàn Giáo dục Việt Nam về công tác tổ chức và hoạt động của Ban Thanh tra nhân dân;,1,THIEU,thêm BASED_ON,CO
+0478,signers[0].position,Hiệu trưởng,"Giám đốc (GIÁM ĐỐC, PGS.TS. Nguyễn Ngọc Vũ)",1,SAI,Giám đốc,CO
+0478,documentNumber,,khớp,"1,2",OK,,KHONG
+0478,issueDate,,khớp,"1,2",OK,,KHONG
+0478,effectiveDate,,khớp,"1,2",OK,,KHONG
+0478,title,,khớp,"1,2",OK,,KHONG
+0478,organization,,khớp,"1,2",OK,,KHONG
+0478,REPLACES 32/NQ-HĐĐH,,khớp,"1,2",OK,,KHONG
+0088,documentNumber,,khớp,"1,21,22",OK,,KHONG
+0088,documentType,,khớp,"1,21,22",OK,,KHONG
+0088,issueDate,,khớp,"1,21,22",OK,,KHONG
+0088,effectiveDate,,khớp,"1,21,22",OK,,KHONG
+0088,title,,khớp,"1,21,22",OK,,KHONG
+0088,organization,,khớp,"1,21,22",OK,,KHONG
+0088,signers,,khớp,"1,21,22",OK,,KHONG
+0088,citations,,khớp,"1,21,22",OK,,KHONG
+0071,citations[6].targetDocumentNumber,13/NQ-ĐHĐN,13/NQ-HĐĐH,1,SAI,13/NQ-HĐĐH,CO
+0071,citations[0],BASED_ON 11/11/2011,Căn cứ Luật lưu trữ ngày 11/11/2011 (không số hiệu),1,SAI,bỏ trích dẫn,CO
+0071,documentNumber,,khớp,"1,2",OK,,KHONG
+0071,issueDate,,khớp,"1,2",OK,,KHONG
+0071,effectiveDate,,khớp,"1,2",OK,,KHONG
+0071,title,,khớp,"1,2",OK,,KHONG
+0071,organization,,khớp,"1,2",OK,,KHONG
+0071,signers,,khớp,"1,2",OK,,KHONG
+0152,effectiveDate,25/05/2020,05/05/2020,8,SAI,05/05/2020,CO
+0152,citations AMENDS 01/2019/TT-BGDĐT,AMENDS,nằm trong chuỗi sửa đổi của 06/2018,1,THUA,bỏ,CO
+0152,citations,thiếu BASED_ON 103/NQ-CP,103/NQ-CP,1,THIEU,thêm,CO
+0152,citations,thiếu BASED_ON 08-NQ/TW,08-NQ/TW,1,THIEU,thêm,CO
+0152,citations,thiếu BASED_ON 26/NQ-CP,26/NQ-CP,1,THIEU,thêm,CO
+0152,citations,thiếu BASED_ON 36-NQ/TW,36-NQ/TW,1,THIEU,thêm,CO
+0152,documentNumber,,khớp,"1,8",OK,,KHONG
+0152,issueDate,,khớp,"1,8",OK,,KHONG
+0152,title,,khớp,"1,8",OK,,KHONG
+0152,organization,,khớp,"1,8",OK,,KHONG
+0152,signers,,khớp,"1,8",OK,,KHONG
+0152,AMENDS 06/2018/TT-BGDĐT,,khớp,"1,8",OK,,KHONG
+0098,documentNumber,,khớp,"1,21",OK,,KHONG
+0098,documentType,,khớp,"1,21",OK,,KHONG
+0098,issueDate,,khớp,"1,21",OK,,KHONG
+0098,effectiveDate,,khớp,"1,21",OK,,KHONG
+0098,title,,khớp,"1,21",OK,,KHONG
+0098,organization,,khớp,"1,21",OK,,KHONG
+0098,signers,,khớp,"1,21",OK,,KHONG
+0098,citations,,khớp,"1,21",OK,,KHONG
+0240,issueDate,08/01/2022,"08/11/2022 (viết tay ""08 tháng 11 năm 2022""; căn cứ có TT 09/2022 ngày 06/6/2022)",1,SAI,08/11/2022,CO
+0240,effectiveDate,08/01/2022,kể từ ngày ký = 08/11/2022,"1,2",SAI,08/11/2022,CO
+0240,documentNumber,,khớp,"1,2",OK,,KHONG
+0240,title,,khớp,"1,2",OK,,KHONG
+0240,organization,,khớp,"1,2",OK,,KHONG
+0240,signers,,khớp,"1,2",OK,,KHONG
+0240,citations,,khớp,"1,2",OK,,KHONG
+0155,citations,BASED_ON 11/11/2011,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0155,documentNumber,,khớp,"1,2",OK,,KHONG
+0155,documentType,,khớp,"1,2",OK,,KHONG
+0155,issueDate,,khớp,"1,2",OK,,KHONG
+0155,effectiveDate,,khớp,"1,2",OK,,KHONG
+0155,title,,khớp,"1,2",OK,,KHONG
+0155,organization,,khớp,"1,2",OK,,KHONG
+0155,signers,,khớp,"1,2",OK,,KHONG
+0155,citations (còn lại),,khớp,"1,2",OK,,KHONG
+0123,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0123,citations,BASED_ON 14/06/2005,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0123,citations,BASED_ON 18/06/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0123,documentNumber,,khớp,"1,23,24",OK,,KHONG
+0123,documentType,,khớp,"1,23,24",OK,,KHONG
+0123,issueDate,,khớp,"1,23,24",OK,,KHONG
+0123,effectiveDate,,khớp,"1,23,24",OK,,KHONG
+0123,title,,khớp,"1,23,24",OK,,KHONG
+0123,organization,,khớp,"1,23,24",OK,,KHONG
+0123,signers,,khớp,"1,23,24",OK,,KHONG
+0123,citations (còn lại),,khớp,"1,23,24",OK,,KHONG
+0215,issueDate,14/05/2021,11/05/2021 (viết tay),1,SAI,11/05/2021,CO
+0215,effectiveDate,14/05/2021,kể từ ngày ký = 11/05/2021,"1,2",SAI,11/05/2021,CO
+0215,documentNumber,,khớp,"1,2",OK,,KHONG
+0215,title,,khớp,"1,2",OK,,KHONG
+0215,organization,,khớp,"1,2",OK,,KHONG
+0215,signers,,khớp,"1,2",OK,,KHONG
+0215,citations,,khớp,"1,2",OK,,KHONG
+0043,documentNumber,,khớp,"1,2",OK,,KHONG
+0043,documentType,,khớp,"1,2",OK,,KHONG
+0043,issueDate,,khớp,"1,2",OK,,KHONG
+0043,effectiveDate,,khớp,"1,2",OK,,KHONG
+0043,title,,khớp,"1,2",OK,,KHONG
+0043,organization,,khớp,"1,2",OK,,KHONG
+0043,signers,,khớp,"1,2",OK,,KHONG
+0043,citations,,khớp,"1,2",OK,,KHONG
+0400,documentNumber,,khớp,"1,25",OK,,KHONG
+0400,documentType,,khớp,"1,25",OK,,KHONG
+0400,issueDate,,khớp,"1,25",OK,,KHONG
+0400,effectiveDate,,khớp,"1,25",OK,,KHONG
+0400,title,,khớp,"1,25",OK,,KHONG
+0400,organization,,khớp,"1,25",OK,,KHONG
+0400,signers,,khớp,"1,25",OK,,KHONG
+0400,citations,,khớp,"1,25",OK,,KHONG
+0033,citations,BASED_ON 14/6/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0033,citations,BASED_ON 18/6/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0033,documentNumber,,khớp,"1,2",OK,,KHONG
+0033,documentType,,khớp,"1,2",OK,,KHONG
+0033,issueDate,,khớp,"1,2",OK,,KHONG
+0033,effectiveDate,,khớp,"1,2",OK,,KHONG
+0033,title,,khớp,"1,2",OK,,KHONG
+0033,organization,,khớp,"1,2",OK,,KHONG
+0033,signers,,khớp,"1,2",OK,,KHONG
+0033,citations (còn lại),,khớp,"1,2",OK,,KHONG
+0443,citations 730/QĐ-ĐHBK,REPLACES,chỉ nằm trong khối Căn cứ → BASED_ON,"1,26",SAI,BASED_ON,CO
+0443,documentNumber,,khớp,"1,2",OK,,KHONG
+0443,issueDate,,khớp,"1,2",OK,,KHONG
+0443,effectiveDate,,khớp,"1,2",OK,,KHONG
+0443,title,,khớp,"1,2",OK,,KHONG
+0443,organization,,khớp,"1,2",OK,,KHONG
+0443,signers,,khớp,"1,2",OK,,KHONG
+0318,documentNumber,,khớp,"1,2",OK,,KHONG
+0318,documentType,,khớp,"1,2",OK,,KHONG
+0318,issueDate,,khớp,"1,2",OK,,KHONG
+0318,effectiveDate,,khớp,"1,2",OK,,KHONG
+0318,title,,khớp,"1,2",OK,,KHONG
+0318,organization,,khớp,"1,2",OK,,KHONG
+0318,signers,,khớp,"1,2",OK,,KHONG
+0318,citations,,khớp,"1,2",OK,,KHONG
+0127,citations,thiếu BASED_ON 567/TTr-ĐHĐN,"Căn cứ Tờ trình số 567/TTr - ĐHĐN, ngày 05/02/2018 của Giám đốc ĐHĐN về việc đề nghị phê duyệt Chiến lược phát triển ĐHĐN đến năm 2025 và tầm nhìn đến 2035;",1,THIEU,thêm,CO
+0127,documentNumber,,khớp,"1,2",OK,,KHONG
+0127,issueDate,,khớp,"1,2",OK,,KHONG
+0127,effectiveDate,,khớp,"1,2",OK,,KHONG
+0127,title,,khớp,"1,2",OK,,KHONG
+0127,organization,,khớp,"1,2",OK,,KHONG
+0127,signers,,khớp,"1,2",OK,,KHONG
+0162,signers[0].position,Hiệu trưởng,Giám đốc,1,SAI,Giám đốc,CO
+0162,documentNumber,,khớp,1,OK,,KHONG
+0162,issueDate,,khớp,1,OK,,KHONG
+0162,effectiveDate,,khớp,1,OK,,KHONG
+0162,title,,khớp,1,OK,,KHONG
+0162,organization,,khớp,1,OK,,KHONG
+0162,citations,,khớp,1,OK,,KHONG
+0448,documentNumber,5247/QĐ-ĐHBK,5274/QĐ-ĐHBK (viết tay),1,SAI,5274/QĐ-ĐHBK,CO
+0448,citations,thiếu BASED_ON 13/NQ-HĐĐH,"Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và h",1,THIEU,thêm,CO
+0448,citations,thiếu BASED_ON 3859/QĐ-HĐĐH,Căn cứ Quyết định số 3859/QĐ-HĐĐH ngày 05 tháng 11 năm 2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường Trường Đại học Bá,1,THIEU,thêm,CO
+0448,citations,thiếu BASED_ON 04/NQ-HĐT,Căn cứ Nghị quyết số 04/NQ-HĐT ngày 30 tháng 12 năm 2020 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Nghị quyết phiên họp ,1,THIEU,thêm,CO
+0448,citations,thiếu BASED_ON 93/NQ-HĐT,Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Quy chế tổ chức và ho,1,THIEU,thêm,CO
+0448,citations,thiếu BASED_ON 136/NQ-HĐT,Căn cứ Nghị quyết số 136/NQ-HĐT ngày 10 tháng 10 năm 2025 của Hội đồng trường Trường Đại học Bách khoa về việc ban hành Nghị quyết phiên họp,1,THIEU,thêm,CO
+0448,citations,(không thêm) 08/QĐ-HĐĐH,"PDF in ""Nghị quyết số 08/QĐ-HĐĐH ngày 12 tháng 7 năm 2021"" (số hiệu in khác thường, các văn bản khác ghi 08/NQ-HĐĐH)",1,NGHI_NGO,cần người quyết có thêm BASED_ON 08/NQ-HĐĐH hay không,KHONG
+0448,issueDate,,khớp,1,OK,,KHONG
+0448,effectiveDate,,khớp,1,OK,,KHONG
+0448,title,,khớp,1,OK,,KHONG
+0448,organization,,khớp,1,OK,,KHONG
+0448,signers,,khớp,1,OK,,KHONG
+0044,documentNumber,,khớp,"1,2,27",OK,,KHONG
+0044,documentType,,khớp,"1,2,27",OK,,KHONG
+0044,issueDate,,khớp,"1,2,27",OK,,KHONG
+0044,effectiveDate,,khớp,"1,2,27",OK,,KHONG
+0044,title,,khớp,"1,2,27",OK,,KHONG
+0044,organization,,khớp,"1,2,27",OK,,KHONG
+0044,signers,,khớp,"1,2,27",OK,,KHONG
+0044,citations,,khớp,"1,2,27",OK,,KHONG
+0405,documentNumber,,khớp,"1,2",OK,,KHONG
+0405,documentType,,khớp,"1,2",OK,,KHONG
+0405,issueDate,,khớp,"1,2",OK,,KHONG
+0405,effectiveDate,,khớp,"1,2",OK,,KHONG
+0405,title,,khớp,"1,2",OK,,KHONG
+0405,organization,,khớp,"1,2",OK,,KHONG
+0405,signers,,khớp,"1,2",OK,,KHONG
+0405,citations,,khớp,"1,2",OK,,KHONG
+0261,citations,thiếu BASED_ON 514/BGDĐT-GDĐH,"Căn cứ Công văn số 514/BGDĐT-GDĐH ngày 14/02/2023 của Bộ Giáo dục và Đào tạo về việc hướng dẫn quy trình, thủ tục cử và quản lý giảng viên t",2,THIEU,thêm,CO
+0261,citations,thiếu BASED_ON 3319/BGDĐT-HTQT,"Căn cứ Công văn số 3319/BGDĐT-HTQT ngày 05/7/2023 của Bộ Giáo dục và Đào tạo hướng dẫn thủ tục quản lý, cấp phát kinh phí đối với người học ",2,THIEU,thêm,CO
+0261,documentNumber,,khớp,"1,2,7",OK,,KHONG
+0261,issueDate,,khớp,"1,2,7",OK,,KHONG
+0261,effectiveDate,,khớp,"1,2,7",OK,,KHONG
+0261,title,,khớp,"1,2,7",OK,,KHONG
+0261,organization,,khớp,"1,2,7",OK,,KHONG
+0261,signers,,khớp,"1,2,7",OK,,KHONG
+0261,AMENDS 4274/QĐ-ĐHĐN,,khớp,"1,2,7",OK,,KHONG
+0208,documentNumber,,khớp,"1,30,31",OK,,KHONG
+0208,documentType,,khớp,"1,30,31",OK,,KHONG
+0208,issueDate,,khớp,"1,30,31",OK,,KHONG
+0208,effectiveDate,,khớp,"1,30,31",OK,,KHONG
+0208,title,,khớp,"1,30,31",OK,,KHONG
+0208,organization,,khớp,"1,30,31",OK,,KHONG
+0208,signers,,khớp,"1,30,31",OK,,KHONG
+0208,citations,,khớp,"1,30,31",OK,,KHONG
+0105,effectiveDate,01/01/2014,không ghi ngày hiệu lực trong PDF,31,SAI,null,CO
+0105,documentNumber,HIẾNPHÁP2013,PDF không có số hiệu,1,NGHI_NGO,"Hiến pháp không có số hiệu; giá trị là mã đặt tay, để người quyết (có thể bắt buộc theo schema)",KHONG
+0105,issueDate,28/11/2013,thông qua ngày 28 tháng 11 năm 2013,31,OK,,KHONG
+0105,documentType,,khớp,"1,31",OK,,KHONG
+0105,title,,khớp,"1,31",OK,,KHONG
+0105,organization,,khớp,"1,31",OK,,KHONG
+0105,signers,,khớp,"1,31",OK,,KHONG
+0475,documentNumber,,khớp,"1,2",OK,,KHONG
+0475,documentType,,khớp,"1,2",OK,,KHONG
+0475,issueDate,,khớp,"1,2",OK,,KHONG
+0475,effectiveDate,,khớp,"1,2",OK,,KHONG
+0475,title,,khớp,"1,2",OK,,KHONG
+0475,organization,,khớp,"1,2",OK,,KHONG
+0475,signers,,khớp,"1,2",OK,,KHONG
+0475,citations,,khớp,"1,2",OK,,KHONG
+0387,documentNumber,,khớp,"1,2",OK,,KHONG
+0387,documentType,,khớp,"1,2",OK,,KHONG
+0387,issueDate,,khớp,"1,2",OK,,KHONG
+0387,effectiveDate,,khớp,"1,2",OK,,KHONG
+0387,title,,khớp,"1,2",OK,,KHONG
+0387,organization,,khớp,"1,2",OK,,KHONG
+0387,signers,,khớp,"1,2",OK,,KHONG
+0387,citations,,khớp,"1,2",OK,,KHONG
+0454,documentNumber,,khớp,"1,2",OK,,KHONG
+0454,documentType,,khớp,"1,2",OK,,KHONG
+0454,issueDate,,khớp,"1,2",OK,,KHONG
+0454,effectiveDate,,khớp,"1,2",OK,,KHONG
+0454,title,,khớp,"1,2",OK,,KHONG
+0454,organization,,khớp,"1,2",OK,,KHONG
+0454,signers,,khớp,"1,2",OK,,KHONG
+0454,citations,,khớp,"1,2",OK,,KHONG
+0414,documentNumber,,khớp,"1,2",OK,,KHONG
+0414,documentType,,khớp,"1,2",OK,,KHONG
+0414,issueDate,,khớp,"1,2",OK,,KHONG
+0414,effectiveDate,,khớp,"1,2",OK,,KHONG
+0414,title,,khớp,"1,2",OK,,KHONG
+0414,organization,,khớp,"1,2",OK,,KHONG
+0414,signers,,khớp,"1,2",OK,,KHONG
+0414,citations,,khớp,"1,2",OK,,KHONG
+0234,citations,thiếu BASED_ON 913/TTr-ĐHĐN,"Căn cứ Tờ trình số 913/TTr-ĐHĐN ngày 13 tháng 3 năm 2023 của Giám đốc ĐHĐN về việc ban hành Chiến lược phát triển ĐHĐN đến năm 2030, tầm nhìn đến năm 2045;",1,THIEU,thêm,CO
+0234,citations,(không thêm) 08/NQ-HĐĐH ngày 28/01/2022,Căn cứ còn Nghị quyết số 08/NQ-HĐĐH ngày 28/01/2022 (cùng số hiệu với NQ 12/7/2021 đã có),1,NGHI_NGO,không thêm vì trùng số hiệu,KHONG
+0234,documentNumber,,khớp,"1,2",OK,,KHONG
+0234,issueDate,,khớp,"1,2",OK,,KHONG
+0234,effectiveDate,,khớp,"1,2",OK,,KHONG
+0234,title,,khớp,"1,2",OK,,KHONG
+0234,organization,,khớp,"1,2",OK,,KHONG
+0234,signers,,khớp,"1,2",OK,,KHONG
+0234,REPLACES 1219/QĐ-HĐĐHĐN,,khớp,"1,2",OK,,KHONG
+0319,documentNumber,,khớp,"1,31,32",OK,,KHONG
+0319,documentType,,khớp,"1,31,32",OK,,KHONG
+0319,issueDate,,khớp,"1,31,32",OK,,KHONG
+0319,effectiveDate,,khớp,"1,31,32",OK,,KHONG
+0319,title,,khớp,"1,31,32",OK,,KHONG
+0319,organization,,khớp,"1,31,32",OK,,KHONG
+0319,signers,,khớp,"1,31,32",OK,,KHONG
+0319,citations,,khớp,"1,31,32",OK,,KHONG
+0019,organization.name,Trường Đại học Bách khoa,Hội đồng Trường Đại học Bách khoa (HỘI ĐỒNG TRƯỜNG),1,SAI,Hội đồng Trường Đại học Bách khoa,CO
+0019,signers[0].position,Hiệu trưởng,"Chủ tịch (TM. HỘI ĐỒNG TRƯỜNG, CHỦ TỊCH, PGS.TS. Nguyễn Đình Lâm)",1,SAI,Chủ tịch,CO
+0019,citations,thiếu BASED_ON 426-TTg,426-TTg,1,THIEU,thêm,CO
+0019,citations,thiếu BASED_ON 3859/QĐ-HĐĐH,3859/QĐ-HĐĐH,1,THIEU,thêm,CO
+0019,citations,thiếu BASED_ON 3860/QĐ-HĐĐH,3860/QĐ-HĐĐH,1,THIEU,thêm,CO
+0019,citations,thiếu BASED_ON 04/NQ-HĐT,04/NQ-HĐT,1,THIEU,thêm,CO
+0019,citations,thiếu BASED_ON 2762/QĐ-HĐĐH,2762/QĐ-HĐĐH,1,THIEU,thêm,CO
+0019,documentNumber,,khớp,"1,2",OK,,KHONG
+0019,issueDate,,khớp,"1,2",OK,,KHONG
+0019,effectiveDate,,khớp,"1,2",OK,,KHONG
+0019,title,,khớp,"1,2",OK,,KHONG
+0054,organization.orgType,truong_thanh_vien,null (tên theo seed),1,SAI,null,CO
+0054,signers[0].position,Hiệu trưởng,"Chủ tịch (TM. HỘI ĐỒNG TRƯỜNG, CHỦ TỊCH, PGS.TS. Nguyễn Đình Lâm)",1,SAI,Chủ tịch,CO
+0054,citations,thiếu BASED_ON 426-TTg,426-TTg,1,THIEU,thêm,CO
+0054,citations,thiếu BASED_ON 3859/QĐ-HĐĐH,3859/QĐ-HĐĐH,1,THIEU,thêm,CO
+0054,citations,thiếu BASED_ON 3860/QĐ-HĐĐH,3860/QĐ-HĐĐH,1,THIEU,thêm,CO
+0054,citations,thiếu BASED_ON 04/NQ-HĐT,04/NQ-HĐT,1,THIEU,thêm,CO
+0054,citations,citations 2762,2762/QĐ-HĐĐH,1,OK,,KHONG
+0054,documentNumber,,khớp,"1,2",OK,,KHONG
+0054,issueDate,,khớp,"1,2",OK,,KHONG
+0054,effectiveDate,,khớp,"1,2",OK,,KHONG
+0054,title,,khớp,"1,2",OK,,KHONG
+0200,issueDate,24/06/2022,"Đà Nẵng, ngày [số ngày bị dấu mộc che, đọc không chắc] tháng 11 năm 2021; dấu công văn đến 01/12/2021","1,2",NGHI_NGO,"Chắc chắn sai tháng/năm (11/2021, không phải 06/2022) nhưng ngày không đọc chắc nên chưa sửa; người quyết",KHONG
+0200,documentNumber,4079/ĐHĐN-TCCB,4079/ĐHĐN-TCCB (viết tay),1,OK,,KHONG
+0200,documentType,,khớp,"1,2",OK,,KHONG
+0200,"effectiveDate (null, không ghi)",,khớp,"1,2",OK,,KHONG
+0200,title,,khớp,"1,2",OK,,KHONG
+0200,organization,,khớp,"1,2",OK,,KHONG
+0200,signers,,khớp,"1,2",OK,,KHONG
+0200,citations,,khớp,"1,2",OK,,KHONG
+0072,citations 13/NQ-ĐHĐN,13/NQ-ĐHĐN,"PDF in ""13/NQ-ĐHĐN"" (đúng nguyên văn, không sửa)",1,OK,,KHONG
+0072,documentNumber,,khớp,1,OK,,KHONG
+0072,issueDate,,khớp,1,OK,,KHONG
+0072,effectiveDate,,khớp,1,OK,,KHONG
+0072,title,,khớp,1,OK,,KHONG
+0072,organization,,khớp,1,OK,,KHONG
+0072,signers,,khớp,1,OK,,KHONG
+0072,citations,,khớp,1,OK,,KHONG
+0204,citations,thiếu BASED_ON 13/NQ-HĐĐH,13/NQ-HĐĐH,1,THIEU,thêm,CO
+0204,citations,thiếu BASED_ON 22/NQ-HĐT,22/NQ-HĐT,1,THIEU,thêm,CO
+0204,documentNumber,,khớp,"1,2",OK,,KHONG
+0204,issueDate,,khớp,"1,2",OK,,KHONG
+0204,effectiveDate,,khớp,"1,2",OK,,KHONG
+0204,title,,khớp,"1,2",OK,,KHONG
+0204,organization,,khớp,"1,2",OK,,KHONG
+0204,signers,,khớp,"1,2",OK,,KHONG
+0204,REPEALS 52/QĐ-ĐHBK-HCTH,,khớp,"1,2",OK,,KHONG
+0055,citations,thiếu BASED_ON 13/NQ-HĐĐH,13/NQ-HĐĐH,1,THIEU,thêm,CO
+0055,citations,thiếu BASED_ON 3859/QĐ-HĐĐH,3859/QĐ-HĐĐH,1,THIEU,thêm,CO
+0055,citations,thiếu BASED_ON 3860/QĐ-HĐĐH,3860/QĐ-HĐĐH,1,THIEU,thêm,CO
+0055,citations,thiếu BASED_ON 04/NQ-HĐT,04/NQ-HĐT,1,THIEU,thêm,CO
+0055,citations,thiếu BASED_ON 05/NQ-HĐT,05/NQ-HĐT,1,THIEU,thêm,CO
+0055,citations,(không thêm) 08/QĐ-HĐĐH,"PDF in ""Nghị quyết số 08/QĐ-HĐĐH ngày 12/7/2021"" (số hiệu in khác thường)",1,NGHI_NGO,người quyết có thêm 08/NQ-HĐĐH hay không,KHONG
+0055,documentNumber,,khớp,1,OK,,KHONG
+0055,issueDate,,khớp,1,OK,,KHONG
+0055,effectiveDate,,khớp,1,OK,,KHONG
+0055,title,,khớp,1,OK,,KHONG
+0055,organization,,khớp,1,OK,,KHONG
+0055,signers,,khớp,1,OK,,KHONG
+0116,documentNumber,,khớp,"1,34,35",OK,,KHONG
+0116,documentType,,khớp,"1,34,35",OK,,KHONG
+0116,issueDate,,khớp,"1,34,35",OK,,KHONG
+0116,effectiveDate,,khớp,"1,34,35",OK,,KHONG
+0116,title,,khớp,"1,34,35",OK,,KHONG
+0116,organization,,khớp,"1,34,35",OK,,KHONG
+0116,signers,,khớp,"1,34,35",OK,,KHONG
+0116,citations,,khớp,"1,34,35",OK,,KHONG
+0473,signers[0].position,Bộ trưởng,Q. BỘ TRƯỞNG (Hoàng Minh Sơn),36,SAI,Quyền Bộ trưởng,CO
+0473,documentNumber,,khớp,"1,36",OK,,KHONG
+0473,issueDate,,khớp,"1,36",OK,,KHONG
+0473,"effectiveDate (15/5/2026, viết tay)",,khớp,"1,36",OK,,KHONG
+0473,title,,khớp,"1,36",OK,,KHONG
+0473,organization,,khớp,"1,36",OK,,KHONG
+0473,citations,,khớp,"1,36",OK,,KHONG
+0393,documentNumber,,khớp,"1,38,40",OK,,KHONG
+0393,documentType,,khớp,"1,38,40",OK,,KHONG
+0393,issueDate,,khớp,"1,38,40",OK,,KHONG
+0393,effectiveDate,,khớp,"1,38,40",OK,,KHONG
+0393,title,,khớp,"1,38,40",OK,,KHONG
+0393,organization,,khớp,"1,38,40",OK,,KHONG
+0393,signers,,khớp,"1,38,40",OK,,KHONG
+0393,citations,,khớp,"1,38,40",OK,,KHONG
+0272,documentNumber,,khớp,1,OK,,KHONG
+0272,documentType,,khớp,1,OK,,KHONG
+0272,issueDate,,khớp,1,OK,,KHONG
+0272,effectiveDate,,khớp,1,OK,,KHONG
+0272,title,,khớp,1,OK,,KHONG
+0272,organization,,khớp,1,OK,,KHONG
+0272,signers,,khớp,1,OK,,KHONG
+0272,citations,,khớp,1,OK,,KHONG
+0020,citations,BASED_ON 18/06/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0020,documentNumber,,khớp,"1,2",OK,,KHONG
+0020,documentType,,khớp,"1,2",OK,,KHONG
+0020,issueDate,,khớp,"1,2",OK,,KHONG
+0020,effectiveDate,,khớp,"1,2",OK,,KHONG
+0020,title,,khớp,"1,2",OK,,KHONG
+0020,organization,,khớp,"1,2",OK,,KHONG
+0020,signers,,khớp,"1,2",OK,,KHONG
+0020,citations (còn lại),,khớp,"1,2",OK,,KHONG
+0080,citations,BASED_ON 18/06/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0080,documentNumber,,khớp,"1,2",OK,,KHONG
+0080,documentType,,khớp,"1,2",OK,,KHONG
+0080,issueDate,,khớp,"1,2",OK,,KHONG
+0080,effectiveDate,,khớp,"1,2",OK,,KHONG
+0080,title,,khớp,"1,2",OK,,KHONG
+0080,organization,,khớp,"1,2",OK,,KHONG
+0080,signers,,khớp,"1,2",OK,,KHONG
+0080,citations (còn lại),,khớp,"1,2",OK,,KHONG
+0115,citations,BASED_ON 19/06/2015,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0115,citations,BASED_ON 12/06/2018,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0115,documentNumber,,khớp,"1,12,13",OK,,KHONG
+0115,documentType,,khớp,"1,12,13",OK,,KHONG
+0115,issueDate,,khớp,"1,12,13",OK,,KHONG
+0115,effectiveDate,,khớp,"1,12,13",OK,,KHONG
+0115,title,,khớp,"1,12,13",OK,,KHONG
+0115,organization,,khớp,"1,12,13",OK,,KHONG
+0115,signers,,khớp,"1,12,13",OK,,KHONG
+0115,citations (còn lại),,khớp,"1,12,13",OK,,KHONG
+0101,documentNumber,,khớp,"1,25,26",OK,,KHONG
+0101,documentType,,khớp,"1,25,26",OK,,KHONG
+0101,issueDate,,khớp,"1,25,26",OK,,KHONG
+0101,effectiveDate,,khớp,"1,25,26",OK,,KHONG
+0101,title,,khớp,"1,25,26",OK,,KHONG
+0101,organization,,khớp,"1,25,26",OK,,KHONG
+0101,signers,,khớp,"1,25,26",OK,,KHONG
+0101,citations,,khớp,"1,25,26",OK,,KHONG
+0196,issueDate,14/06/2005,"PDF chỉ ghi kỳ họp ""từ 05/5 đến 14/6/2005"" (không có ngày ban hành riêng)",1,NGHI_NGO,"giữ nguyên, người quyết",KHONG
+0196,effectiveDate,null,"trang 27-28 chỉ là phần Điều khoản thi hành của Luật 15/2003 (hiệu lực 01/7/2004), không phải của Luật 47/2005",27-28,NGHI_NGO,giữ null; PDF có vẻ gộp nội dung Luật 2003,KHONG
+0196,documentNumber,,khớp,"1,28",OK,,KHONG
+0196,title,,khớp,"1,28",OK,,KHONG
+0196,organization,,khớp,"1,28",OK,,KHONG
+0196,signers,,khớp,"1,28",OK,,KHONG
+0196,citations,,khớp,"1,28",OK,,KHONG
+0179,citations,BASED_ON 18/6/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0179,citations,BASED_ON 19/11/2018,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0179,citations,BASED_ON 15/11/2010,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0179,citations,BASED_ON 25/11/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0179,documentNumber,,khớp,"1,2",OK,,KHONG
+0179,documentType,,khớp,"1,2",OK,,KHONG
+0179,issueDate,,khớp,"1,2",OK,,KHONG
+0179,effectiveDate,,khớp,"1,2",OK,,KHONG
+0179,title,,khớp,"1,2",OK,,KHONG
+0179,organization,,khớp,"1,2",OK,,KHONG
+0179,signers,,khớp,"1,2",OK,,KHONG
+0179,citations (còn lại),,khớp,"1,2",OK,,KHONG
+0142,citations,BASED_ON 14/06/2019,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0142,citations,BASED_ON 18/06/2012,"chỉ viện dẫn theo tên và ngày, không có số hiệu",1,SAI,bỏ trích dẫn,CO
+0142,documentNumber,,khớp,"1,15,16",OK,,KHONG
+0142,documentType,,khớp,"1,15,16",OK,,KHONG
+0142,issueDate,,khớp,"1,15,16",OK,,KHONG
+0142,effectiveDate,,khớp,"1,15,16",OK,,KHONG
+0142,title,,khớp,"1,15,16",OK,,KHONG
+0142,organization,,khớp,"1,15,16",OK,,KHONG
+0142,signers,,khớp,"1,15,16",OK,,KHONG
+0142,citations (còn lại),,khớp,"1,15,16",OK,,KHONG

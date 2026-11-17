@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thi đua, khen thưởng/0454_94_QĐ-ĐHĐN_Quyết định về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua năm 2026.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "94/QĐ-ĐHĐN",
+    "title": "Quyết định về việc ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua năm 2026",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/01/2026",
+    "effectiveDate": "12/01/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Thi đua, khen thưởng",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Ban hành Bộ tiêu chí đánh giá, chấm điểm thi đua năm 2026 đối với các trường đại học thành viên, các đơn vị đào tạo, dịch vụ trực thuộc và các văn phòng, ban chức năng, Ban Quản lý dự án ODA, Trung tâm Công nghệ Thông tin và Học liệu số thuộc Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Ngọc Vũ",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Trung tâm Công nghệ Thông tin và Học liệu số"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục I: Bộ tiêu chí đánh giá, chấm điểm thi đua các trường đại học thành viên năm 2026",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "Lĩnh vực tuyển sinh và đào tạo",
+          "text": "I. Lĩnh vực tuyển sinh và đào tạo (Ban ĐT&ĐBCLGD phụ trách thẩm định): 1. Kết quả tuyển sinh đại học chính quy: 20 điểm. 2. Tăng quy mô đào tạo tiến sĩ: 20 điểm. 3. Tỷ lệ sinh viên chính quy tốt nghiệp đúng hạn: 20 điểm. 4. Phát triển các chương trình đào tạo giảng dạy bằng tiếng Anh và tăng cường tiếng Anh hoặc một số ngôn ngữ phổ biến khác: 20 điểm. 5. Phát triển các chương trình liên kết đào tạo với các trường top 200 thế giới: 20 điểm.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Bộ tiêu chí đánh giá, chấm điểm thi đua năm 2026 đối với các trường đại học thành viên (như Phụ lục I kèm theo); các đơn vị đào tạo và dịch vụ trực thuộc Đại học Đà Nẵ",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Bộ tiêu chí đánh giá, chấm điểm thi đua năm 2026 đối với các trường đại học thành viên (như Phụ lục I kèm theo); các đơn vị đào tạo và dịch vụ trực thuộc Đại học Đà Nẵng (như Phụ lục II kèm theo); các văn phòng, ban chức năng, Ban Quản lý dự án ODA và Trung tâm Công nghệ Thông tin và Học liệu số (như Phụ lục III kèm theo).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng có trách nhiệm triển khai thực hiện, định kỳ tự đánh giá, báo cáo kết quả khi có yêu cầu. Văn phòng",
+      "text": "Điều 2. Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng có trách nhiệm triển khai thực hiện, định kỳ tự đánh giá, báo cáo kết quả khi có yêu cầu. Văn phòng Đại học Đà Nẵng, các ban chức năng, Trung tâm Công nghệ Thông tin và Học liệu số có trách nhiệm theo dõi, thẩm định, xét duyệt kết quả báo cáo tự đánh giá của các đơn vị theo lĩnh vực phụ trách và báo cáo Giám đốc Đại học Đà Nẵng xem xét, quyết định.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Quyết định có hiệu lực kể từ ngày ký ban hành.",
+      "text": "Điều 3. Quyết định có hiệu lực kể từ ngày ký ban hành.\nChánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc và trực thuộc Đại học Đà Nẵng căn cứ Quyết định thi hành.",
+      "isImplementationClause": true
+    }
+  ]
+}

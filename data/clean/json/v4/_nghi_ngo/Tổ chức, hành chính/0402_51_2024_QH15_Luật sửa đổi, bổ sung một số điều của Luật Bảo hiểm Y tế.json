@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tổ chức, hành chính/0402_51_2024_QH15_Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm Y tế.txt",
   "mappedBy": "gemini-web",
-  "note": null,
+  "note": "citations[30/2023/QH15] sửa từ REPEALS thành AMENDS: câu \"Bãi bỏ khoản 2 Điều 32 của Luật … số 30/2023/QH15\" chỉ bỏ một khoản, văn bản đích vẫn còn hiệu lực.",
   "document": {
     "documentNumber": "51/2024/QH15",
     "title": "Luật Sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế",
@@ -50,7 +50,7 @@
     },
     {
       "targetDocumentNumber": "30/2023/QH15",
-      "relationType": "REPEALS",
+      "relationType": "AMENDS",
       "targetArticle": "Điều 32",
       "context": "Bãi bỏ khoản 2 Điều 32 của Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở số 30/2023/QH15."
     }

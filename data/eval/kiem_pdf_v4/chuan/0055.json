@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0055_1838_QĐ-ĐHBK_Chiến lược phát triển của Trường Đại học Bách khoa, Đại học Đà Nẵng đến năm 2025 t.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa: thêm BASED_ON 13/NQ-HĐĐH, 3859/QĐ-HĐĐH, 3860/QĐ-HĐĐH, 04/NQ-HĐT, 05/NQ-HĐT (thiếu trong khối Căn cứ) theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "1838/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Chiến lược phát triển của Trường Đại học Bách khoa, Đại học Đà Nẵng đến năm 2025, tầm nhìn đến năm 2035",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "09/07/2021",
+    "effectiveDate": "09/07/2021",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khoa học Công nghệ",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Quyết định ban hành Chiến lược phát triển của Trường Đại học Bách khoa, Đại học Đà Nẵng đến năm 2025, tầm nhìn đến năm 2035 nhằm định hướng phát triển Nhà trường trở thành trường đại học nghiên cứu, cung cấp nguồn nhân lực chất lượng cao và thực hiện chuyển giao công nghệ.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "99/2019/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 99/2019/NĐ-CP ngày 30/12/2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "13/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3859/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3859/QĐ-HĐĐH và 3860/QĐ-HĐĐH ngày 05/11/2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường và Chủ tịch Hội đồng trường Trường Đại học Bách khoa, nhiệm kỳ 2020-2025;"
+    },
+    {
+      "targetDocumentNumber": "3860/QĐ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3859/QĐ-HĐĐH và 3860/QĐ-HĐĐH ngày 05/11/2020 của Hội đồng Đại học Đà Nẵng về việc công nhận Hội đồng trường và Chủ tịch Hội đồng trường Trường Đại học Bách khoa, nhiệm kỳ 2020-2025;"
+    },
+    {
+      "targetDocumentNumber": "04/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 04/NQ-HĐT phiên họp thứ hai của Hội đồng trường Trường Đại học Bách, Đại học Đà Nẵng ngày 30/12/2020;"
+    },
+    {
+      "targetDocumentNumber": "05/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 05/NQ-HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế về tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Chiến lược phát triển Trường Đại học Bách khoa, Đại học Đà Nẵng đến năm 2025, tầm nhìn đến năm 2035",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Tầm nhìn, sứ mạng, triết lý giáo dục, giá trị cốt lõi",
+          "text": "1. Tầm nhìn: Đến năm 2035, Trường ĐHBK-ĐHĐN là trường đại học nghiên cứu được cộng đồng quốc tế ghi nhận, chủ động hợp tác toàn cầu trong giải quyết các thách thức kinh tế - xã hội trong nước và thế giới. 2. Sứ mạng: Là cơ sở giáo dục đại học cung cấp nguồn nhân lực chất lượng cao, có năng lực đổi mới, sáng tạo và khởi nghiệp trong lĩnh vực kỹ thuật - công nghệ; thực hiện nghiên cứu khoa học và chuyển giao công nghệ phục vụ sự phát triển bền vững kinh tế - xã hội của miền Trung - Tây Nguyên, trong nước và quốc tế. 3. Triết lý giáo dục: Tư duy – Sáng tạo – Nhân ái. 4. Giá trị cốt lõi: Chất lượng và Chuyên nghiệp; Đổi mới và Sáng tạo; Nhân văn và Liêm chính.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này “Chiến lược phát triển đến năm 2025, tầm nhìn đến năm 2035 của Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này “Chiến lược phát triển đến năm 2025, tầm nhìn đến năm 2035 của Trường Đại học Bách khoa, Đại học Đà Nẵng”.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng các đơn vị thuộc và trực thuộc Trường, toàn thể viên chức, người lao động, các tổ chức và các cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "text": "Điều 3. Trưởng các đơn vị thuộc và trực thuộc Trường, toàn thể viên chức, người lao động, các tổ chức và các cá nhân có liên quan căn cứ Quyết định thi hành./.",
+      "isImplementationClause": true
+    }
+  ]
+}

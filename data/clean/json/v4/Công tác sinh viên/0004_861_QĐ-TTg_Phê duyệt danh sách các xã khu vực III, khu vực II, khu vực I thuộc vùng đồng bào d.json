@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Công tác sinh viên/0004_861_QĐ-TTg_Phê duyệt danh sách các xã khu vực III, khu vực II, khu vực I thuộc vùng đồng bào d.txt",
   "mappedBy": "gemini-web",
-  "note": null,
+  "note": "Thêm 1 quan hệ hiệu lực do vet_quan_he.py vét từ toàn văn: REPLACES 72/QĐ.",
   "document": {
     "documentNumber": "861/QĐ-TTg",
     "title": "Quyết định Phê duyệt danh sách các xã khu vực III, khu vực II, khu vực I thuộc vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021 - 2025",
@@ -61,6 +61,12 @@
       "relationType": "REPLACES",
       "targetArticle": null,
       "context": "và Quyết định số 72/QĐ-TTg ngày 16 tháng 01 năm 2021 của Thủ tướng Chính phủ về việc các xã, thôn trên địa bàn vùng dân tộc thiểu số và miền núi được tiếp tục thụ hưởng các chính sách an sinh xã hội đã ban hành."
+    },
+    {
+      "targetDocumentNumber": "72/QĐ",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế các Quyết định số 582/QĐ-TTg ngày 28 tháng 4 năm 2017, Quyết định số 103/QĐ-TTg ngày 22 tháng 01 năm 2019 của Thủ tướng Chính phủ về phê duyệt danh sách thôn đặc biệt khó khăn, xã khu vực III, khu vực II, khu vực I thuộc vùng dân tộc thiểu số và miền núi giai đoạn 2016 - 2020 và Quyết định số 72/QĐ- TTg ngày 16 tháng 01 năm 2021 của Thủ"
     }
   ],
   "mentions": [],

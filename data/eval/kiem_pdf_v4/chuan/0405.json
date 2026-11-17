@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0405_800_QĐ-ĐHBK_Quyết định ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "800/QĐ-ĐHBK",
+    "title": "Quyết định Ban hành Phụ lục thay thế Phụ lục đã được ban hành kèm theo Quyết định số 3092/QĐ-ĐHBK ngày 08 tháng 8 năm 2022 Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "01/03/2024",
+    "effectiveDate": "01/03/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khoa học Công nghệ",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Ban hành các Phụ lục II, IV, V, VI, VII thay thế các Phụ lục đã ban hành kèm theo Quyết định số 3092/QĐ-ĐHBK ngày 08/8/2022 về Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng, áp dụng từ năm học 2023-2024.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "13/2013/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 13/2013/QĐ-TTg ngày 06 tháng 02 năm 2013 của Thủ tướng Chính phủ về chế độ, chính sách đối với cán bộ Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Sinh viên Việt Nam, Hội Liên hiệp Thanh niên Việt Nam trong các cơ sở giáo dục và cơ sở dạy nghề;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "20/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 20/2020/TT-BGDĐT ngày 27 tháng 7 năm 2020 của Bộ Giáo dục và Đào tạo Quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "40/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 40/2020/TT-BGDĐT ngày 26 tháng 10 năm 2020 của Bộ Giáo dục và Đào tạo Quy định mã số, tiêu chuẩn chức danh nghề nghiệp, bổ nhiệm và xếp lương đối với viên chức giảng dạy trong các cơ sở giáo dục đại học công lập;"
+    },
+    {
+      "targetDocumentNumber": "08/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2016/TT-BGDĐT ngày 28 tháng 3 năm 2016 của Bộ Giáo dục và Đào tạo Quy định chế độ giảm định mức giờ dạy cho giáo viên, giảng viên làm công tác công đoàn không chuyên trách trong các cơ sở giáo dục công lập thuộc hệ thống giáo dục quốc dân;"
+    },
+    {
+      "targetDocumentNumber": "08/NQ-HĐĐH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng Đại học Đà Nẵng ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07 tháng 9 năm 2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4194/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4194/QĐ-ĐHĐN ngày 08 tháng 12 năm 2021 của Đại học Đà Nẵng về việc ban hành Quy định chế độ làm việc của giảng viên Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "4766/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Đại học Đà Nẵng ban hành Quy định quản lý hoạt động khoa học công nghệ Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3237/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3237/QĐ-ĐHĐN ngày 31 tháng 7 năm 2023 của Giám đốc Đại học Đà Nẵng ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28 tháng 12 năm 2020 của Giám đốc Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "93/NQ-HĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa – Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1404/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1404/QĐ-ĐHBK ngày 12 tháng 5 năm 2021 của Trường Đại học Bách khoa ban hành Quy định quản lý hoạt động khoa học và công nghệ tại Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "3092/QĐ-ĐHBK",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 3092/QĐ-ĐHBK ngày 08 tháng 8 năm 2022 của Trường Đại học Bách khoa ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "2222/QĐ-ĐHBK",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Điều 2. Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Hội đồng Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục II: ĐỊNH MỨC KHỐI LƯỢNG GIỜ THỰC HIỆN NGHIÊN CỨU KHOA HỌC ĐỐI VỚI GIẢNG VIÊN ĐƯỢC BỔ NHIỆM CHỨC VỤ LÃNH ĐẠO HOẶC KIÊM NHIỆM CÔNG TÁC QUẢN LÝ, ĐẢNG, ĐOÀN THỂ",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Chủ tịch Hội đồng trường, Hiệu trưởng: 15%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Phó Chủ tịch Hội đồng trường, Phó Hiệu trưởng: 20%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Trưởng phòng, Thư ký Hội đồng trường và tương đương: 25%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Phó Trưởng phòng, Tổ trưởng tổ chức năng và tương đương: 30%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Trưởng khoa, Phó Trưởng khoa và tương đương. 5.1. Đối với khoa có 40 giảng viên trở lên hoặc có quy mô 800 người học trở lên: Trưởng khoa 60%, Phó Trưởng khoa 70%. 5.2. Đối với khoa có dưới 40 giảng viên hoặc có quy mô dưới 800 người học: Trưởng khoa 70%, Phó Trưởng khoa 80%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Trưởng bộ môn và tương đương: 80%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Phó Trưởng bộ môn, chủ nhiệm lớp, cố vấn học tập, giảng viên được giao kiêm nhiệm công tác hành chính (có quyết định phân công của Hiệu trưởng): 85%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Bí thư Đảng ủy: 15%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Phó Bí thư Đảng ủy: 30%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Bí thư chi bộ, Trưởng ban thanh tra nhân dân, Trưởng ban nữ công, Chủ tịch hội cựu chiến binh: 85%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "11. Phó Bí thư chi bộ: 90%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "12. Bí thư Đoàn Thanh niên ĐHĐN: 30%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "13. Phó Bí thư Đoàn Thanh niên ĐHĐN, Chủ tịch Hội sinh viên ĐHĐN: 40%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "14. Phó Chủ tịch Hội sinh viên ĐHĐN: 50%",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "15. Bí thư Đoàn Trường: Có từ 10.000 sinh viên chính quy trở lên 30%; Có từ 5.000 đến dưới 10.000 sinh viên chính quy 40%; Dưới 5.000 sinh viên chính quy 50%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "16. Phó Bí thư Đoàn, Chủ tịch Hội Sinh viên: Có từ 10.000 sinh viên chính quy trở lên 40%; Có từ 5.000 đến dưới 10.000 sinh viên chính quy 50%; Dưới 5.000 sinh viên chính quy 60%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "17. Phó Chủ tịch Hội Sinh viên: Có từ 10.000 sinh viên chính quy trở lên 50%; Có từ 5.000 đến dưới 10.000 sinh viên chính quy 60%; Dưới 5.000 sinh viên chính quy 70%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "18. Bí thư Liên chi đoàn thuộc Đoàn cấp Trường: Có từ 1.000 sinh viên chính quy trở lên 60%; Dưới 1.000 sinh viên chính quy 70%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "19. Chủ tịch, Phó chủ tịch Công đoàn ĐHĐN và Công đoàn cơ sở không chuyên trách: Thực hiện theo Quy định tại khoản 4 Điều 3 Thông tư số 08/2016/TT-BGDĐT ngày 28/3/2016 của Bộ GD&ĐT.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "20. Ủy viên ban chấp hành, chủ tịch công đoàn bộ phận không chuyên trách, trưởng ban nữ công Trường, ĐHĐN: 40%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "21. Giảng viên đang là quân nhân dự bị, tự vệ được triệu tập huấn luyện, diễn tập hàng năm, thời gian tham gia huấn luyện, diễn tập được tính quy đổi mỗi ngày làm việc bằng 5,5 giờ chuẩn NCKH.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này các Phụ lục thay thế Phụ lục II, IV, V, VI, VII, IX đã được ban hành theo Quyết định số 3092/QĐ-ĐHBK của Trường Đại học Bách khoa ngày 08 tháng 8 năm 2022 ban hành Quy",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này các Phụ lục thay thế Phụ lục II, IV, V, VI, VII, IX đã được ban hành theo Quyết định số 3092/QĐ-ĐHBK của Trường Đại học Bách khoa ngày 08 tháng 8 năm 2022 ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng, áp dụng từ năm học 2023-2024.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trư",
+      "text": "Điều 2. Quyết định này có hiệu lực từ ngày ký và bãi bỏ Quyết định số 2222/QĐ-ĐHBK ngày 13 tháng 6 năm 2023 về việc rà soát, điều chỉnh, bổ sung Quyết định ban hành Quy định chế độ làm việc của giảng viên Trường Đại học Bách khoa, Đại học Đà Nẵng.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Đào tạo, Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị và cá nhân có ",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Đào tạo, Trưởng phòng Phòng Khoa học Công nghệ và Hợp tác Quốc tế, Trưởng phòng Phòng Kế hoạch – Tài chính, Trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

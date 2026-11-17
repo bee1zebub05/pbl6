@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0127_1219_QĐ-ĐHĐN_Quyết định 1219_QĐ-ĐHĐN Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa: thêm BASED_ON 567/TTr-ĐHĐN (thiếu trong khối Căn cứ) theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "1219/QĐ-HĐĐHĐN",
+    "title": "Quyết định Về việc ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "17/04/2018",
+    "effectiveDate": "17/04/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Khoa học Công nghệ",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học"
+    ],
+    "summary": "Quyết định ban hành Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035, nhằm xây dựng Đại học Đà Nẵng thành trung tâm đào tạo nhân lực và nghiên cứu khoa học chất lượng cao của cả nước.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Hội đồng Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Trần Văn Nam",
+      "academicTitle": "GS.TS",
+      "position": [
+        "Chủ tịch Hội đồng Đại học Đà Nẵng",
+        "Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT, ngày 20 tháng 3 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "807/NQ-HĐĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị quyết số 807/NQ-HĐĐHĐN ngày 09/3/2018 của Hội đồng ĐHĐN;"
+    },
+    {
+      "targetDocumentNumber": "567/TTr-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Tờ trình số 567/TTr - ĐHĐN, ngày 05/02/2018 của Giám đốc ĐHĐN về việc đề nghị phê duyệt Chiến lược phát triển ĐHĐN đến năm 2025 và tầm nhìn đến 2035;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ",
+    "Trường Đại học Bách khoa",
+    "Trường Đại học Kinh tế",
+    "Trường Đại học Sư phạm",
+    "Trường Đại học Ngoại ngữ",
+    "Trường Đại học Sư phạm Kỹ thuật",
+    "Trường Đại học Công nghệ thông tin và Truyền thông Việt - Hàn",
+    "Viện Nghiên cứu và Đào tạo Việt - Anh"
+  ],
+  "normativeContents": [
+    {
+      "title": "Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035",
+      "contentType": "Chiến lược",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "MỞ ĐẦU",
+          "text": "1. MỞ ĐẦU. Được sự quan tâm của Đảng và Nhà nước, sự hỗ trợ, hợp tác có hiệu quả của các Bộ, ban, ngành, địa phương, doanh nghiệp và các đối tác quốc tế, đặc biệt là sự nỗ lực phấn đấu với trách nhiệm và quyết tâm cao của tập thể lãnh đạo, cán bộ, giảng viên, nhà khoa học và sinh viên, Đại học Đà Nẵng (ĐHĐN) đã vượt qua nhiều khó khăn, thách thức, đã đạt được các mục tiêu của Chiến lược phát triển đến năm 2015, tầm nhìn 2020.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "BỐI CẢNH",
+          "text": "2. BỐI CẢNH. Khoa học công nghệ phát triển nhanh chóng, hội nhập khu vực và quốc tế ngày càng mở rộng, ngành giáo dục, đào tạo của cả nước nói chung và ĐHĐN nói riêng sẽ có nhiều cơ hội mới để phát triển nhưng cũng sẽ phải đối mặt với không ít khó khăn, thách thức.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "QUAN ĐIỂM PHÁT TRIỂN",
+          "text": "3. QUAN ĐIỂM PHÁT TRIỂN. Phát triển ĐHĐN phù hợp với chủ trương, chính sách của Đảng và Nhà nước, phù hợp với các chiến lược phát triển kinh tế - xã hội, giáo dục và đào tạo, khoa học và công nghệ; thực hiện vai trò tiên phong trong đổi mới toàn diện giáo dục đại học Việt Nam.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "SỨ MẠNG, TẦM NHÌN VÀ GIÁ TRỊ CỐT LÕI",
+          "text": "4. SỨ MẠNG, TẦM NHÌN VÀ GIÁ TRỊ CỐT LÕI. 4.1. Sứ mạng: Đào tạo nguồn nhân lực có tinh thần nhân văn, tư duy sáng tạo và quyết tâm khởi nghiệp; có bản lĩnh, lập trường và thích nghi nhanh chóng với môi trường lao động trong nước và quốc tế đang thay đổi nhanh chóng; tiên phong trong giữ gìn bản sắc dân tộc, truyền bá tri thức khoa học, góp phần xây dựng Tổ quốc Việt Nam hòa bình, thịnh vượng. 4.2. Tầm nhìn: ĐHĐN sẽ là một trong ba trung tâm đại học lớn nhất của cả nước; một trong ba đại học trọng điểm quốc gia; trung tâm đào tạo và nghiên cứu khoa học đa ngành, đa lĩnh vực, chất lượng cao, đạt chuẩn quốc gia; ngang tầm khu vực và quốc tế. 4.3. Giá trị cốt lõi: Chất lượng - Sáng tạo - Nhân văn - Phục vụ cộng đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "MỤC TIÊU CHIẾN LƯỢC",
+          "text": "5. MỤC TIÊU CHIẾN LƯỢC. 5.1. Mục tiêu chung: Xây dựng ĐHĐN trở thành trung tâm đào tạo, nghiên cứu khoa học, phát triển công nghệ theo chuẩn mực quốc tế để cung cấp nguồn nhân lực chất lượng cao phù hợp với yêu cầu của từng giai đoạn phát triển kinh tế - xã hội của đất nước và trình độ phát triển khoa học công nghệ của thế giới. 5.2. Mục tiêu cụ thể: Từ nay đến năm 2020, 2018, 2019, 2020, 2021, 2025, 2035.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "NHIỆM VỤ TRỌNG TÂM VÀ GIẢI PHÁP",
+          "text": "6. NHIỆM VỤ TRỌNG TÂM VÀ GIẢI PHÁP. Bao gồm: 6.1. Quy hoạch lại mạng lưới các CSGDĐHTV và đơn vị trực thuộc; 6.2. Phát triển ĐHĐN theo định hướng nghiên cứu; 6.3. Triển khai công tác đảm bảo và kiểm định chất lượng giáo dục; 6.4. Thực hiện hội nhập quốc tế sâu rộng; 6.5. Quan hệ chặt chẽ với địa phương, doanh nghiệp và thị trường lao động; 6.6. Hiện đại hoá quản trị đại học theo hướng tự chủ toàn diện; 6.7. Phát triển cơ sở vật chất phục vụ giảng dạy - nghiên cứu khoa học; 6.8. Triển khai thực hiện dự án Khu Đô thị Đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": "TỔ CHỨC THỰC HIỆN",
+          "text": "7. TỔ CHỨC THỰC HIỆN. 7.1. Đại học Đà Nẵng: Báo cáo và đề nghị Bộ Giáo dục và Đào tạo quan tâm chỉ đạo để ĐHĐN thực hiện thành công Chiến lược phát triển ĐHĐN đến năm 2025, tầm nhìn đến năm 2035. 7.2. Các cơ sở giáo dục đại học thành viên: Phổ biến sâu rộng các nội dung của Chiến lược đến tất cả các bộ phận trong đơn vị và toàn thể công chức, viên chức, người lao động, sinh viên, học viên cao học, nghiên cứu sinh.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chiến lược phát triển Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Các Ông (Bà) Giám đốc ĐHĐN, thủ trưởng các cơ sở giáo dục đại học thành viên, các đơn vị trực thuộc ĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Các Ông (Bà) Giám đốc ĐHĐN, thủ trưởng các cơ sở giáo dục đại học thành viên, các đơn vị trực thuộc ĐHĐN và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}
