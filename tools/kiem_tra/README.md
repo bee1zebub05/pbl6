@@ -57,7 +57,7 @@ câu dẫn danh sách bị ngắt dòng, "Chương V của Luật X … hết hi
 | Loại | Trong chuẩn | Model | Luật (đúng/ra) | Model + luật |
 |---|---|---|---|---|
 | REPLACES | 85 | 68 (80%) | 80/80 | 74 (87%) |
-| REPEALS | 219 | 113 (52%) | 159/159 | 211 (96%) |
+| REPEALS | 230 | 113 (49%) | 159/159 | 211 (92%) |
 | AMENDS | 92 | 55 (60%) | 29/52 | 55 (60%) |
 
 Số hiệu model đã ghi nhưng gán loại khác với luật thì `--ghi` không tự đổi, chỉ in dòng `?`

@@ -58,12 +58,13 @@ Nguyên tắc: chỉ ghi điều văn bản ghi, không suy luận. Văn bản k
 | — REFERENCES | 1,00 | 0,77 | 0,87 |
 | — REPLACES | 0,93 | 0,80 | 0,86 |
 | — AMENDS | 0,80 | 0,60 | 0,68 |
-| — REPEALS | 0,86 | 0,52 | 0,64 |
+| — REPEALS | 0,86 | 0,49 | 0,62 |
 
 Đây là điểm của riêng model. Thêm bước luật `tools/kiem_tra/vet_quan_he.py` (chỉ thêm
-REPLACES/REPEALS còn thiếu), độ phủ REPEALS tăng từ 52% lên 96% (211/219), REPLACES từ 80% lên
+REPLACES/REPEALS còn thiếu), độ phủ REPEALS tăng từ 49% lên 92% (211/230), REPLACES từ 80% lên
 87%; luật không ra quan hệ sai nào (80/80 REPLACES, 159/159 REPEALS). Phần REPEALS còn sót chủ yếu
-do `text_final` mất chữ (0112 mất 3 mục danh sách) — luật chỉ đọc được điều OCR còn giữ.
+do `text_final` mất chữ (0112 mất 3 mục danh sách; 0149 bản PDF của trường thiếu trang 2, 11 quan
+hệ bổ sung từ bản chính thức trên datafiles.chinhphu.vn) — luật chỉ đọc được điều OCR còn giữ.
 
 Lỗi điển hình của model: bỏ sót danh sách dài văn bản bị bãi bỏ (0149, 0143, 0284); chép
 nguyên ngày viết tay bị OCR đọc sai; gán chức vụ "Hiệu trưởng" mặc định cho người ký của Đại học
@@ -86,7 +87,8 @@ null; trạng thái hết hiệu lực chỉ suy từ văn bản khác trong kho
 | 0193 | Bản kèm theo không có Điều | Sửa thứ tự trong `chay_json.py`: bỏ bản kèm theo rỗng sau khi xoá Điều do model tự đặt |
 | 0110 | Model xếp nhóm đối tượng vào ô lĩnh vực | `chay_json.py` bỏ lĩnh vực ngoài danh mục chuẩn |
 
-0149: bản PDF scan thiếu trang in số 2, nên 11 quan hệ bãi bỏ ở trang đó chưa thêm được.
+0149: bản PDF trên web trường (và trên máy) thiếu trang 2; 11 quan hệ bãi bỏ ở trang đó đã thêm
+theo bản chính thức 6 trang trên Cổng Thông tin điện tử Chính phủ (17/11/2026).
 
 ## Tệp
 

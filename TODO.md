@@ -63,7 +63,14 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       v4 đủ 454/454; tập đánh giá 351 văn bản. `chay_json.py` bỏ Điều có nhãn bịa (0343).
 - [x] (17/11) 5 văn bản vướng lược đồ (0023, 0084, 0110, 0193, 0488): nới lược đồ (số mục A–Z, loại
       "Quy chế"), sửa `chay_json.py`; đã trích xuất và đối chiếu PDF. Nhóm 1–3 đủ 136/136.
-- [ ] 0149 (để lại, làm sau): tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.
+- [x] (17/11) 0149: bản trên web trường giống hệt bản trên máy (cùng SHA-256, 5 trang, thiếu trang 2).
+      Lấy bản chính thức 6 trang trên datafiles.chinhphu.vn (lưu ở `data/raw/pdf_bo_sung/`), thêm 11
+      quan hệ bãi bỏ (mục 3–13) vào JSON v4 và đồ thị.
+- [x] (17/11) Sửa lỗi OCR theo ảnh PDF cho 26 văn bản có tỷ lệ âm tiết sai ≥ 1% (bộ đo mới
+      `tools/kiem_tra/am_tiet.py`; 6 phụ lục scan vỡ cố ý bỏ qua): 3 agent Sonnet sửa 8 văn bản
+      (0177, 0494, 0022, 0415, 0229, 0264, 0304, 0439), 18 văn bản còn lại chỉ bị đếm nhầm do từ
+      nước ngoài, URL, ký hiệu. Cắt lại Điều vào JSON v4 bằng `tools/kiem_tra/cat_lai_dieu.py` (15 Điều
+      đổi chữ), cập nhật text và embedding của 15 Điều đó trên Neo4j.
 - [x] (17/11) Kiểm tra lược đồ cho toàn bộ 454 tệp: hợp lệ cả 454. Rà toàn kho: bỏ trích dẫn lấy
       ngày làm số hiệu, đổi 11 quan hệ "bãi bỏ/thay thế một phần" sang AMENDS, đưa 6 trạng thái
       model tự suy về null. Còn: soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`), đọc soát `_nghi_ngo/`.
@@ -92,8 +99,9 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
 - [ ] Tra văn bản đã thay thế 09/2020/TT-BGDĐT (0151) và 09/2016/TTLT-BGDĐT-BTC-BLĐTBXH (0011);
       web trường ghi hết hiệu lực nhưng kho chưa có văn bản thay thế. Đọc điều khoản trong văn bản
       thay thế rồi mới sửa `status` + `note` trong JSON v1, v2, v4.
-- [ ] Sửa tiếp lỗi OCR theo `F:\DUT4\PBL6\TIEN_DO_SUA_OCR.md` (54 văn bản lỗi ≥ 1%, `0440` mới
-      đến trang 19). Chỉ sửa chỗ OCR sai, không chèn ghi chú vào `.txt`.
+- [x] (17/11) Sửa tiếp lỗi OCR (mức 1: các văn bản ≥ 1%, xem mục sửa OCR ở trên). Còn lại nếu
+      muốn làm tiếp: lỗi `é` thay `ế/ề/ể/ệ` nằm trong từ vẫn hợp lệ (bộ đo không bắt được), và
+      `0440` mới đọc tay đến trang 19.
 - [x] (17/11) Sửa `107/QĐ-ĐHBK` thành `1077/QĐ-ĐHBK` trong `text_final` của 0465 (theo PDF gốc).
 - [x] (17/11) Cập nhật `docs/TIEN_DO.md` và `README.md` theo số liệu tháng 11.
 - [ ] Ráp các góp ý của nhóm vào báo cáo, cập nhật mục lục, rà toàn bộ lần cuối.

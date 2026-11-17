@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Đào tạo/0149_30_2020_TT-BGDĐT_Thông tư 30_2020_TT-BGDĐT Thông tư Bãi bỏ một số văn bản quy phạm pháp luật.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm 33 trích dẫn REPEALS (Điều 1 mục 1-2, 14-37 và Điều 2 mục 1-7) theo PDF gốc trang 1-5 (bản scan thiếu trang in số 2 nên không có mục 3-13 Điều 1).",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm 33 trích dẫn REPEALS (Điều 1 mục 1-2, 14-37 và Điều 2 mục 1-7) theo PDF gốc trang 1-5 (bản scan thiếu trang in số 2 nên không có mục 3-13 Điều 1). Thêm citations[+17/2004/QĐ-BGD&ĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+23/2004/QĐ-BGD&ĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+31/2004/QĐ-BGD&ĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+36/2004/QĐ-BGD&ĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+01/2005/QĐ-BGD&ĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+29/2005/QĐ-BGD&ĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+10/2006/QĐ-BGDĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+28/2006/QĐ-BGDĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+39/2006/QĐ-BGDĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+10/2007/QĐ-BGDĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này). Thêm citations[+16/2007/QĐ-BGDĐT] theo PDF gốc trang 2 của bản chính thức Cổng Thông tin điện tử Chính phủ (datafiles.chinhphu.vn/cpp/files/vbpq/2020/09/30-bgddt.signed.pdf, 6 trang; bản PDF trên web trường chỉ 5 trang, thiếu trang này).",
   "document": {
     "documentNumber": "30/2020/TT-BGDĐT",
     "title": "Thông tư Bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành về chương trình khung giáo dục đại học và trung cấp chuyên nghiệp",
@@ -248,6 +248,72 @@
       "relationType": "REPEALS",
       "targetArticle": null,
       "context": "Thông tư số 13/2013/TT-BGDĐT ngày 08 tháng 5 năm 2013 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung trung cấp chuyên nghiệp các nhóm ngành: Công nghệ hóa học, vật liệu, luyện kim và môi trường; Công nghệ kỹ thuật cơ khí; Công nghệ kỹ thuật điện, điện tử và viễn thông; Công nghệ dầu khí và khai thác."
+    },
+    {
+      "targetDocumentNumber": "17/2004/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 17/2004/QĐ-BGD&ĐT ngày 16 tháng 6 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ Chương trình khung giáo dục đại học ngành Giáo dục Tiểu học trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "23/2004/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 23/2004/QĐ-BGD&ĐT ngày 29 tháng 7 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành Kinh tế - Quản trị Kinh doanh trình độ đại học, cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "31/2004/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 31/2004/QĐ-BGD&ĐT ngày 16 tháng 9 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành Khoa học Tự nhiên, trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "36/2004/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 36/2004/QĐ-BGD&ĐT ngày 25 tháng 10 năm 2004 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành Ngoại ngữ trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "01/2005/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 01/2005/QĐ-BGD&ĐT ngày 12 tháng 01 năm 2005 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc ban hành Bộ chương trình khung giáo dục đại học khối ngành Nhân văn trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "29/2005/QĐ-BGD&ĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 29/2005/QĐ-BGD&ĐT ngày 16 tháng 9 năm 2005 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Khoa học Xã hội trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "10/2006/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 10/2006/QĐ-BGDĐT ngày 29 tháng 3 năm 2006 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ Chương trình khung giáo dục đại học khối ngành Khoa học An ninh trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "28/2006/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 28/2006/QĐ-BGDĐT ngày 28 tháng 6 năm 2006 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành Sư phạm trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "39/2006/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 39/2006/QĐ-BGDĐT ngày 02 tháng 10 năm 2006 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung Giáo dục đại học ngành Giáo dục tiểu học trình độ đại học."
+    },
+    {
+      "targetDocumentNumber": "10/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 10/2007/QĐ-BGDĐT ngày 24 tháng 4 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Bộ chương trình khung giáo dục đại học khối ngành kinh tế - quản trị kinh doanh trình độ cao đẳng."
+    },
+    {
+      "targetDocumentNumber": "16/2007/QĐ-BGDĐT",
+      "relationType": "REPEALS",
+      "targetArticle": null,
+      "context": "Quyết định số 16/2007/QĐ-BGDĐT ngày 15 tháng 5 năm 2007 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chương trình khung giáo dục đại học trình độ cao đẳng ngành Giáo dục Mầm non thuộc khối ngành Sư phạm."
     }
   ],
   "mentions": [

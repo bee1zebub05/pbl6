@@ -72,7 +72,7 @@ Số node/cạnh chi tiết theo loại xem [GRAPHREPORT.md](../src/legal_knowle
 
 | Mục §6 | Tình trạng | Ghi chú |
 |---|---|---|
-| Độ chính xác trích xuất JSON v4 | **Có số (17/11)** | 351 văn bản, `data/eval/kiem_pdf_v4/`: số hiệu 98,0%, ngày ban hành 95,7%, người ký F1 0,91, trích dẫn F1 0,82; REPEALS model 52%, model + luật 96%. Đáp án do AI đối chiếu ảnh PDF, chưa có người kiểm |
+| Độ chính xác trích xuất JSON v4 | **Có số (17/11)** | 351 văn bản, `data/eval/kiem_pdf_v4/`: số hiệu 98,0%, ngày ban hành 95,7%, người ký F1 0,91, trích dẫn F1 0,82; REPEALS model 49%, model + luật 92%. Đáp án do AI đối chiếu ảnh PDF, chưa có người kiểm |
 | 6.1 Gold set, Cohen's κ | **Chưa thực hiện** | 175 phiếu gán trong `data/eval/goldset/phieu_gan/`; `nguoi_gan_1/` và `nguoi_gan_2/` trống. Tài liệu ngày 03/09 ghi 131 phiếu; thư mục hiện có 175, chưa xác định nguyên nhân chênh lệch |
 | 6.2 P/R/F1 theo quan hệ | Chưa thực hiện | Phụ thuộc gold set |
 | 6.3–6.4 BM25 / KG / Hybrid | Một phần | 14/45 câu single-hop có đáp án (tự sinh từ metadata) |
@@ -105,7 +105,7 @@ hiệu lực); kết quả không phản ánh năng lực ở nhóm multi-hop.
 | 7 | 34 văn bản header lệch số hiệu, 28 văn bản không đọc ra số hiệu | Một phần là lỗi metadata gốc (ví dụ `1/2024/TT-NBV` thực là `TT-BNV`) | Người xác nhận rồi sửa; đổi số hiệu là đổi khoá chính |
 | 8 | 15 văn bản 404 | Luật BHXH 2024, `36/2024/QH15`, `115/2020/NĐ-CP`, `75/2012/NĐ-CP` chỉ là stub | Tìm nguồn khác |
 | 9 | 54 văn bản lỗi OCR ≥ 1%; `0440` mới sửa đến trang 19/~60; 7 chỗ cần đối chiếu ảnh | Lỗi chính tả dạng `é` thay `ế/ề/ể/ệ` không sửa máy móc được; thân Điều v4 cắt từ `.txt` nên mang theo lỗi này | Đọc tay đối chiếu PDF gốc (đã có lại trên máy Kiên, `data/raw/pdf/`) |
-| 13 | 0149: bản PDF thiếu trang 2 | 11 quan hệ bãi bỏ ở trang đó chưa thêm | Tìm bản PDF đủ trang |
+| 13 | ~~0149: bản PDF thiếu trang 2~~ | Đã xử lý 17/11: thêm 11 quan hệ theo bản chính thức trên datafiles.chinhphu.vn | — |
 | 14 | Trạng thái hiệu lực chỉ đúng "trong phạm vi kho" | Văn bản bị thay bởi văn bản ngoài kho vẫn ghi còn hiệu lực (vd 0151, 0011 web trường ghi đã hết) | Tra văn bản thay thế từ nguồn chính thức rồi mới sửa |
 | 10 | `targetGroups`: 186 file rỗng; 16 văn bản nhãn "Khác"; 7 văn bản có cách diễn đạt đối tượng khác thường | `APPLIES_TO` phủ 268/454 văn bản | Rà tay 23 văn bản nêu trên (danh sách ở GRAPHREPORT §5) |
 | 11 | `targetArticle` của `AMENDS` chỉ là thuộc tính chuỗi | Không truy vấn được "Điều nào bị sửa" ở mức node | Giới hạn phạm vi có chủ đích |

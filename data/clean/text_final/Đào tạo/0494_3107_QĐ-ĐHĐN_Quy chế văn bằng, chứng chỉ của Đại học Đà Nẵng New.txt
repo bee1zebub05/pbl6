@@ -83,7 +83,7 @@ DDS
 DDE
 6 | Trường Đại học Sư phạm Ky thuật
 DSK
-7 | Trường Đại học Công nghệ thông tin và Truyền thông Viét - Han | VKU
+7 | Trường Đại học Công nghệ thông tin và Truyền thông Việt - Hàn | VKU
 8 | Trường Y Dược
 DDY
 9 | Phan hiệu ĐHĐN tại Kon Tum
@@ -104,12 +104,12 @@ TT
 Loại văn bằng, chứng chỉ
 Ký hiệu
 Ghi chú
-1 | Tienst
+1 | Tiến sĩ
 8
 Khung trình độ quốc
 2 | Thac si
 7
-gia Viét Nam được
+gia Việt Nam được
 -
 ban hành kèm theo
 Cử nhân và văn băng chương trình đào
@@ -136,32 +136,32 @@ D
 nâng cao
 7 | Chứng chỉ ngoại ngữ
 F
-g | Chứng chi bồi dưỡng cán bộ ra đề thi
+g | Chứng chỉ bồi dưỡng cán bộ ra đề thi
 FI
 ngoại ngữ
-o | Chứngchi bồi dưỡng cán bộ chấm thi nói
+o | Chứng chỉ bồi dưỡng cán bộ chấm thi nói
 „
-và viét ngoại ngữ
+và viết ngoại ngữ
 Chứng chỉ bồi dưỡng nghiệp vụ sư phạm
 10
 cho người có băng cử nhân chuyên
 F3
 ngành phù hợp có nguyện vọng trở thành
-gido vién cap tiéu hoc
+giáo viên cấp tiểu học
 Foreign
-Chứng chi bồi dudng nghiệp vụ sw pham
+Chứng chỉ bồi dưỡng nghiệp vụ sư phạm
 1 cho người có băng cử nhân chuyên
 F4
 ngành phù hợp có nguyện vọng trở thành
-gido viên cap trung học cơ sở
+giáo viên cấp trung học cơ sở
 Chứng chỉ bồi dưỡng nghiệp vụ sư phạm
 15
 cho người có băng cử nhân chuyên
 s
 nganh phù hop có nguyện vọng trở thành
-gido viên cap trung học phô thông
+giáo viên cấp trung học phổ thông
 13
-Chứng chi Giáo dục quoc phòng va an
+Chứng chỉ Giáo dục quoc phòng va an
 DS
 Defense — Security
 ninh
@@ -186,10 +186,10 @@ MI
 trong đào tạo khôi ngành sức khoẻ
 Medicine
 17
-Chứng chi dao tạo kỹ thuật chuyén môn
+Chứng chỉ đào tạo kỹ thuật chuyên môn
 M2
-kham bénh, chita bénh
-18 | Chứng chi tiếng Việt
+khám bệnh, chữa bệnh
+18 | Chứng chỉ tiếng Việt
 v
 Vietnamese
 Điều 5. Số vào sổ cấp bản sao
@@ -385,9 +385,9 @@ AN SAO)
 .............................. øố——
 Cho:............GGGueeeeeeeeeseuseu e (@)
 Ngày sinh: ........................ t
-Xép loại/hạng tốt nghiệp: ............... ©)...
+Xếp loại/hạng tốt nghiệp: ............... ©)...
 Số hiệu bản chinh: ......(9)..
-Sô vào sô cap ban sao:
+Sô vào sô cap bản sao:
 21cm
 
 ----- [Trang 10] -----
@@ -415,7 +415,7 @@ BANG BAC SI, BANG DƯỢC SĨ và các văn bằng khác theo quy dinh.
 ----- [Trang 11] -----
 
 11
-3. Mẫu ban sao bằng thac sĩ, bằng tién sĩ
+3. Mẫu bản sao bằng thac sĩ, bằng tiến sĩ
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 3
@@ -433,11 +433,11 @@ Số hiệu bản chính: ......Ø).........
 Sô vào sô cap bản sao: ...... 10).........
 > 2lcm 
 () TEN VAN BẰNG gom: BẰNG THAC SI, BANG TIỀN SĨ.
-4. Quy dinh và hướng dẫn cách ghi nội dung trén bản sao vin bằng
+4. Quy định và hướng dẫn cách ghi nội dung trên bản sao văn bằng
 4.1. Quy định mẫu bản sao
-Mẫu bản sao văn bé.ng giáo dục dai học của Đại học Đà Nẵ.t1z<g có kích thước bé.ng
-khổ gidy A4 đặt theo chiều đứng (21 cm x 29,7 cm); tén văn bằng màu đỏ, chữ “(BAN
-SAO)”? và biểu tượng (logo) của Đại học Đà Nẵ.t1z<g màu xanh, các chữ khác màu đen, nội
+Mẫu bản sao văn bằng giáo dục đại học của Đại học Đà Nẵng có kích thước bé.ng
+khổ giấy A4 đặt theo chiều đứng (21 cm x 29,7 cm); tên văn bằng màu đỏ, chữ “(BAN
+SAO)”? và biểu tượng (logo) của Đại học Đà Nẵng màu xanh, các chữ khác màu đen, nội
 dung ghi trong bản sao bằng tiếng Việt. Các đơn vị tự in bản sao văn bằng theo mẫu và
 được bd sung thêm hoa văn, nội dung phù hợp với quy định của pháp luật, chính xác so
 với số goc cap văn băng.
@@ -449,15 +449,15 @@ với số goc cap văn băng.
 (1) Ghi chức danh của người có thâm quyền cấp văn bằng.
 (2) Ghi tên cơ sở giáo dục đại học cấp văn bằng.
 (3) Ghi ngành đào tạo.
-(4) Ghi họ, chữ đệm, tên của người được ơẳp văn bé.ng.
+(4) Ghi họ, chữ đệm, tên của người được cấp văn bằng.
 (5) Ghi ngày tháng năm sinh của người được cấp văn bằng. Nếu ngày sinh từ ngày
 1 đến ngày 9 hoặc tháng sinh là tháng 1, tháng 2 thì ghi thêm số 0 phía trước số ngày hoặc
 số thang; ghi năm sinh đầy đủ 04 chữ số.
 (6) Ghi xếp loại/hạng tốt nghiệp (nếu có).
-(7) Ghi địa danh, ngày tháng năm cấp bản sao văn bằng. Nếu ngày cấp ban sao từ
+(7) Ghi địa danh, ngày tháng năm cấp bản sao văn bằng. Nếu ngày cấp bản sao từ
 ngày 1 đến ngày 9 hoặc tháng cấp bản sao là tháng 1, tháng 2 thì ghi thêm số 0 phía trước
 số ngày hoặc số tháng; ghi năm cấp bản sao đầy đủ 04 chữ số.
-(8) Ghi chức danh, chữ ký, họ, chữ đệm, tên của người có thẩm quyền ơẳp ban sao
+(8) Ghi chức danh, chữ ký, họ, chữ đệm, tên của người có thẩm quyền cấp bản sao
 văn bằng và đóng dau theo quy định.
 (9) Ghi số hiệu bản chính văn bằng.
 (10) Ghi số vào số cấp bản sao văn bằng từ s6 gốc.
@@ -467,12 +467,12 @@ văn bằng và đóng dau theo quy định.
 13
 Phụ lục II
 MAU VA NỘI DUNG GHI TRÊN BẢN SAO CHỨNG CHỈ
-(Kèm theo Quy chề văn bằng, chứng chi của Đại học Đà Nẵng ban hành
-kèm theo Quyét định số
+(Kèm theo Quy chề văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành
+kèm theo Quyết định số
 /OĐ-ĐHĐN ngày
 tháng - năm 2026
-của Giám déc Đại học Đà Nẵng)
-1. Mẫu ban sao chứng chỉ
+của Giám đốc Đại học Đà Nẵng)
+1. Mẫu bản sao chứng chỉ
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 TÊN CHUNG CHÍ O
@@ -483,7 +483,7 @@ Cho: oo,
 Ngay sinh:
 Giới tính: ..
 Số hiệu bản chính: ...... 10).........
-Số vào số cấp ban sao: ...... q).....
+Số vào số cấp bản sao: ...... q).....
 21cm
 
 () TÊN CHỨNG CHI gồm các loại ¡ Chứng chỉ nêu tại khoản 2 Điều 4 Quy chế này và các
@@ -493,31 +493,31 @@ CHỨNG CHI có thé bao gồm Ngôn ngữ, bậc (nếu có).
 ----- [Trang 14] -----
 
 14
-2. Hướng dẫn cách ghi nội dung trên ban sao chứng chi
+2. Hướng dẫn cách ghi nội dung trên bản sao chứng chỉ
 2.1. Quy định mẫu bản sao
-Mẫu ban sao chứng chi của Đại học Đà Nẵng có kích thước bằng khé giấy A4 đặt
-theo chiều đứng (21 cm x 29,7 cm); tên chứng chi màu đỏ, chữ “(BAN SAO)” va biéu
+Mẫu bản sao chứng chỉ của Đại học Đà Nẵng có kích thước bằng khổ giấy A4 đặt
+theo chiều đứng (21 cm x 29,7 cm); tên chứng chỉ màu đỏ, chữ “(BAN SAO)” và biểu
 tượng (logo) của Đại học Đà Nẵng màu xanh, các chữ khác màu đen, nội dung ghi trong
-bản sao bằng tiếng Việt. Các đơn vị tự in bản sao chứng chi theo mẫu và được bồ sung
+bản sao bằng tiếng Việt. Các đơn vị tự in bản sao chứng chỉ theo mẫu và được bồ sung
 thêm hoa văn, nội dung phù hợp với quy dinh của pháp luật, chính xác so với số gốc cấp
 văn bằng.
 2.2. Hướng dẫn cách ghi nội dung trên bản sao chứng chỉ
 (1) Ghi tên cơ quan cấp Chứng chỉ.
-(2) Ghi họ, chữ đệm, tên của người được ơẳp chứng chi.
-(3) Ghi ngày, tháng, năm sinh người được cấp chứng chi. Néu từ ngày 1 đến ngày
+(2) Ghi họ, chữ đệm, tên của người được cấp chứng chỉ.
+(3) Ghi ngày, tháng, năm sinh người được cấp chứng chỉ. Nếu từ ngày 1 đến ngày
 9 hoặc tháng là tháng 1, tháng 2 thì ghi thêm số 0 phía trước số ngày hoặc số tháng: ghi
 năm day đủ 04 chữ số.
 (4) Ghi giới tính người được cấp chứng chỉ (“Nam” hoặc “Nữ).
-(5) Tên, thời gian chương trình đào tạo/bồi dưỡng (néu có).
+(5) Tên, thời gian chương trình đào tạo/bồi dưỡng (nếu có).
 (6) Hội đồng thi (nếu người được cấp chứng chỉ dự thi 14y chứng chỉ).
-(7) Kết quả thi các môn/phần/kỹ năng (néu có).
+(7) Kết quả thi các môn/phần/kỹ năng (nếu có).
 (8) Ghi địa danh, ngày tháng năm cấp bản sao chứng chỉ. Nếu ngày cấp bản sao từ
 ngày 1 đến ngày 9 hoặc tháng cấp bản sao là tháng 1, tháng 2 thì ghi thêm số 0 phía trước
 số ngày hoặc số tháng; ghi năm cấp bản sao đầy đủ 04 chữ số.
-(9) Ghi chức danh, chữ ký, họ, chữ đệm, tên của người có thẩm quyền ơẳp ban sao
-chứng chi và đóng dau theo quy định.
+(9) Ghi chức danh, chữ ký, họ, chữ đệm, tên của người có thẩm quyền cấp bản sao
+chứng chỉ và đóng dau theo quy định.
 (10) Ghi số hiệu bản chính chứng chỉ.
-(11) Ghi số vào số cấp bản sao chứng chi từ số gốc.
+(11) Ghi số vào số cấp bản sao chứng chỉ từ số gốc.
 
 ----- [Trang 15] -----
 
@@ -525,9 +525,9 @@ BỘ
 15
 Phụ lục III
 MẪU PHỤ LUC VAN BANG ĐÓI VỚI CÁC ĐƠN VI THUQC VA TRỰC THUỘC
-(Kèm theo Quy chề văn bằng, chứng chi của Đại học Đà Nẵng ban hành
+(Kèm theo Quy chề văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành
 kèm theo Quyết định số
-/QĐĐ-ĐHĐNngày
+/QĐĐ-ĐHĐN ngày
 của Giám đóc Đại học Đà Nẵng)
 tháng
 năm 2026
@@ -541,7 +541,7 @@ số hiệu:
 Họ, chữ đệm, tên:
 Mã sô sinh viên:
 Lớp:
-Khóa tuyén sinh:
+Khóa tuyển sinh:
 Ngày nhập học:
 Thời gian đào tạo:
 Tên đơn vị cấp bằng:
@@ -551,7 +551,7 @@ Chuyên ngành:
 Ngôn ngữ đào tạo:
 Trình độ đào tạo:
 Hình thức dao tạo:
-Kết quả học tập được công nhận và chuyén đổi:
+Kết quả học tập được công nhận và chuyển đổi:
 TT
 Tên học phần
 Số tín chỉ
@@ -571,10 +571,10 @@ Chữ
 10
 1
 2
-Téng số tin chi tich lũy toàn khóa:
+Tổng số tín chỉ tích lũy toàn khóa:
 Điểm trung bình chung tích lũy toàn khóa (thang điểm 4):
 Tên luận văn (nếu có):
-Kết qua luận văn (néu có):
+Kết quả luận văn (nếu có):
 Loại/Hạng tốt nghiệp:
 Người lập
 Đà Nẵng ngày
@@ -588,12 +588,12 @@ Thủ trưởng đơn vị
 16
 Phụ lục IV
 MẪU CÔNG VAN ĐĂNG KÝ IN PHÔI VAN BẰNG, CHUNG CHI
-(Kèm theo Quy chề văn bằng, chứng chi của Đại học Đà Nẵng ban hành
+(Kèm theo Quy chề văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành
 kèm theo Quyết định số
-/QĐ-ĐHĐNmngày -
+/QĐ-ĐHĐN ngày -
 tháng
 năm 2026
-của Giám déc Đại học Đà Nang)
+của Giám đốc Đại học Đà Nẵng)
 ĐẠI HỌC PANANG
  CONG HOÀ XA HỘI CHỦ NGHĨA VIỆT NAM
 ĐƠN VỊ
@@ -616,9 +616,9 @@ Dy kiên số lượng phôi băng, | Ch¡ chú
 chứng chỉ sẽ câp trong năm
 Bằng cử nhân
 Bằng thạc sĩ
-Bằng tién st
-Bằng cao ding
-Chứng chi ứng dung CNTT
+Bằng tiến sĩ
+Bằng cao đẳng
+Chứng chỉ ứng dung CNTT
 Chứng chỉ ngoại ngữ
 Chứng chỉ ....
 ¬lomluouml+l|lulm
@@ -637,9 +637,9 @@ trên
 17
 Phụ lục V
 MẪU CONG VAN ĐỀ NGHỊ CAP PHÔI VAN BANG, CHỨNG CHI
-(Kèm theo Quy ché van bằng, chứng chi của Đại học Pa Nẵng ban hành
+(Kèm theo Quy chế van bằng, chứng chỉ của Đại học Pa Nẵng ban hành
 kèm theo Quyết định số
-/QĐĐ-ĐHĐNngày
+/QĐĐ-ĐHĐN ngày
 tháng
 năm 2026
 của Giám đóc Đại học Đà Nẵng)
@@ -654,7 +654,7 @@ văn bằng, chứng chỉ
 Kính gửi:
 - Đại học Đà Nang;
 - Ban Đào tạo và Đảm bảo chât lượng giáo dục
-(Trường, Phân hiệu, Viện, Trung tâm...) đề nghị Đại học Đà Nẵng cép phoi
+(Trường, Phân hiệu, Viện, Trung tâm...) đề nghị Đại học Đà Nẵng cấp phôi
 văn bằng @húng chỉ) với số lượng cụ thể như sau:
 1. Văn băng
 Quyết định tốt
@@ -689,9 +689,9 @@ nãlĂlg h_fc
 tháng,năm
 (nêu có)
 1
-|Chứng chi ứng dụng CNTT
+|Chứng chỉ ứng dụng CNTT
 2
-|Chứng chi ngoai ngữ
+|Chứng chỉ ngoai ngữ
 3
 |Chứng chỉ GDQPAN
 4
@@ -700,16 +700,16 @@ Trân trong./.
 Noi nhận:
 THỦ TRƯỞNG ĐƠN VỊ
 - Như trên;
-(Ký tên, đóng déu)
+(Ký tên, đóng dấu)
 
 ----- [Trang 18] -----
 
 18
 Phụ lục VI
 MẪU CONG VAN ĐÈ NGHỊ CAP LẠI PHÔI VAN BANG, CHỨNG CHỈ
-(Kèm theo Quy ché văn băng, chứng chỉ của Đại học Da Nang ban hành
-kém theo Quyét định sô
-/QĐĐ-ĐHĐNngày
+(Kèm theo Quy chế văn băng, chứng chỉ của Đại học Da Nang ban hành
+kém theo Quyết định sô
+/QĐĐ-ĐHĐN ngày
 tháng
 năm 2026
 của Giám đóc Đại học Đà Nẵng
@@ -718,25 +718,25 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 _ĐƠNVỊ
 Độc lập - Tự do - Hạnh phúc
 Sô:
-V/v xin cấp lai phôi
+V/v xin cấp lại phôi
 ĐàảNăng ngày
 tháng
 năm20..
 văn bằng, chứng chỉ
 Kính gửi: Văn phòng Đại học Đà Nẵng
-(Trường, Phân hiệu, Viện, Trung tâm ...) đã được Đại học Đà Nẵng cép
-phôi bằng/chứng chi ..., đến nay đã có ... phôi văn bằng (chứng chi) đã bị hư hỏng/in
+(Trường, Phân hiệu, Viện, Trung tâm ...) đã được Đại học Đà Nẵng cấp
+phôi bằng/chứng chỉ ..., đến nay đã có ... phôi văn bằng (chứng chỉ) đã bị hư hỏng/in
 sai/không còn giá trị sử dụng, chi tiết như sau:
 _ Số vào số gốc
 Loại văn
 Lý do thu
 L
-STT | So hiéu
+STT | Số hiệu
 Ê
 Ñ
 „
 —-
-„ | Ghichú
+„ | Ghi chú
 (nêu có)
 bằng/chứng chỉ | hồi, hủy bỏ
 1
@@ -744,13 +744,13 @@ bằng/chứng chỉ | hồi, hủy bỏ
 Tổng cộng có......... phôi bằng/chứng chỉ bị thu hồi, đề nghị hủy bỏ (có biên bản
 thu hồi, đề nghị hủy bỏ kèm theo).
 (Trường, Phân hiệu, Viện, Trung tâm...) kính đề nghị Văn phòng Đại học Đà
-Nẵng xem xét, làm thủ tục cấp lai ... phôi văn bằng/chứng chỉ để thay thé cho số bị
+Nẵng xem xét, làm thủ tục cấp lại ... phôi văn bằng/chứng chỉ để thay thế cho số bị
 thu hồi, đề nghị hủy bỏ nêu trên.
 Trân trong./.
 Noi nhận:
 THỦ TRƯỞNG ĐƠN VỊ
 - Như trên;
-Ky tên, don déu,
+Ky tên, đóng dấu,
 -Lưu: VT....
 đ
 S
@@ -760,9 +760,9 @@ S
 19
 Phụ lục VII
 MAU BIÊN BẢN THU HÒI, PE NGHỊ HỦY BỎ VAN BẰNG, CHỨNG CHI LÕI
-(Kèm theo Quy chề văn bằng, chứng chi của Đại học Đà Nẵng ban hành
+(Kèm theo Quy chề văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành
 kèm theo Quyết định số
-/QĐĐ-ĐHĐNngày
+/QĐĐ-ĐHĐN ngày
 tháng
 năm 2026
 của Giám đóc Đại học Đà Nẵng)
@@ -802,7 +802,7 @@ i
 ..
 MẪU SỐ GÓC CAP VAN BANG, CHUNG CHỈ
 )
-(Kèm theo Quy ché văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành kèm theo Quyét định số
+(Kèm theo Quy chế văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành kèm theo Quyết định số
 /QĐ-ĐHĐN
 ngày
 tháng
@@ -815,7 +815,7 @@ PON VI
 SO GÓC CAP BẰNG...(1)......
 Khóa học:
 Hinh thức dao tạo:
-Quyếtđịnhcôngnhậntốtnghiệpsố
+Quyết định công nhận tốt nghiệp số
 ngày
 tháng năm
 số định
@@ -824,15 +824,15 @@ Ngày
 R
 I
 Ñ
-„ | Năm Xép loại
+„ | Năm Xếp loại
 ..
 Số vao số
 „
 . | Người nhận văn
-. | Hova
+. | Họ và
 Nơi |Giới Dân |Quôc | Ngành/Chuyên
-%, | Sôhiệu | .
-|Ngaycap|
+%, | Số hiệu | .
+|Ngày cấp|
 „
 I
 Ghi
@@ -879,7 +879,7 @@ Thủ trưởng đơn vị
 ----- [Trang 21] -----
 
 21
-2. Mẫu sé gốc cấp bằng thạc sĩ, tién sĩ
+2. Mẫu sổ gốc cấp bằng thạc sĩ, tiến sĩ
 CƠ QUAN QUẢN LÝ
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 PON VI
@@ -966,7 +966,7 @@ on vị
 (Ký, ghi rõ họ tên)
 g
 (Ký, ghi rõ họ tên và đóng dầu)
-(1)Ghi văn bé.ng thạc sĩ hoặc tién sĩ
+(1)Ghi văn bằng thạc sĩ hoặc tiến sĩ
 
 ----- [Trang 22] -----
 
@@ -977,14 +977,14 @@ CƠ QUAN QUẢN LÝ
 PON VI
 Độc lập - Tự do - Hanh phúc
 SO GOC CÁP CHỨNG CHI......(1)...
-Chương trinh đào tạo, bồi dưỡng (néu có):
+Chương trình đào tạo, bồi dưỡng (nếu có):
 Thời gian đào tạo, bồi dưỡng (nếu có):từ ngày tháng
-năm đếnngày
+năm đến ngày
 tháng
 năm
-Hội đồng thi/kiém tra (néu có):
+Hội đồng thi/kiểm tra (nếu có):
 Kỳ thi/Khóa thi (nếu có):
-Quyếtđịnhcấpchứngchisố ngày
+Quyết định cấp chứng chỉ số ngày
 tháng
 năm
 Số định
@@ -1008,12 +1008,12 @@ avoấp
 =-.
 Ngay tháng| Nơi | Giới | Dân | Quoc [Diem thi
 R
-So hiéu
+Số hiệu
 S0 vào so goc | Ngày cap
 ĩ
 — s-
 TT|
-danhcá
+danh cá
 Họ và tên
 m
 R
@@ -1054,7 +1054,7 @@ Thủ trưởng đơn vi
 
 ----- [Trang 23] -----
 
-(Kèm theo Quy ché văn bằng, chứng chi của Đại học Đà Nẵng ban hành kèm theo Quyét định số
+(Kèm theo Quy chế văn bằng, chứng chỉ của Đại học Đà Nẵng ban hành kèm theo Quyết định số
 Phụ lục IX
 23
 MẪU PHỤ LỤC SO GÓC CAP VAN BẰNG, CHỨNG CHI
@@ -1089,7 +1089,7 @@ RS
 P m
 Người nhận văn
 định | Họ Neay| văn bằng/ | 8¢ P Neay cap | o
-bang/ | 8¢ Cp Agày cap |Các thông | chinh sửa | Quyết định bằng/ chứng chi mới |
+bang/ | 8¢ Cp Agày cap |Các thông | chinh sửa | Quyết định bằng/ chứng chỉ mới |
 ..
 „
 |thang
@@ -1118,8 +1118,8 @@ n
 „
 l‹
 | DA
-chứng chi | bang/chimg
-chứng chi | chứng chi
+chứng chỉ | bang/chimg
+chứng chỉ | chứng chỉ
 dung
 lại, thu
 1ai, thu hoi,
@@ -1177,11 +1177,11 @@ Thủ trưởng đơn vị
 24
 Phụ lục X
 MẪU SO CAP BAN SAO VAN BẰNG, CHỨNG CHI
-(Kèm theo Quy ché van bằng, chứng chi của Đại học Pa Nẵng ban hành kèm theo Quyét định s6
-năm 2026 của Giám déc Pai học Đà Nẵng)
+(Kèm theo Quy chế van bằng, chứng chỉ của Đại học Pa Nẵng ban hành kèm theo Quyết định s6
+năm 2026 của Giám đốc Đại học Đà Nẵng)
 ngày
 tháng
-1. Mẫu số cấp bản sao bằng cao ding, cử nhân và các văn bằng chương trinh đào tạo chuyén sâu
+1. Mẫu sổ cấp bản sao bằng cao đẳng, cử nhân và các văn bằng chương trình đào tạo chuyên sâu
 /QĐ-ĐHĐN
 CƠ QUAN QUẢN LÝ
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -1214,7 +1214,7 @@ Sô vào P
 nhận
 N
 tháng | Noi | Giới | Dân | Quoc
-Chuyén
+Chuyên
 m
 hiệu
 2 x
@@ -1277,7 +1277,7 @@ Thủ trưởng đơn vị
 
 ----- [Trang 25] -----
 
-2. Mẫu số cấp bản sao bằng thạc sĩ, tién st
+2. Mẫu sổ cấp bản sao bằng thạc sĩ, tiến sĩ
 25
 CƠ QUAN QUẢN LÝ
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
@@ -1313,12 +1313,12 @@ I
 công
 ,„ | z
 .„
-|Ngaycap|
+|Ngày cấp|
 nhận
 TT |danh cá | và
 mỂng
 ).10'1
-G’lm Dfm Q.uoc Nga‘mh/C‘huyen hội đồng ){gayA nhận tốt mẺ ỉ›o ựỈ số fap bansao | bản sao
+G’lm Dfm Q.uoc Nga‘mh/C‘huyen hội đồng ){gayA nhận tốt mẺ ỉ›o ựỈ số fap bản sao | bản sao
 Gl1,l
 N
 N
@@ -1359,15 +1359,15 @@ Thủ trưởng đơn vị
 ----- [Trang 26] -----
 
 26
-3. Mẫu số cấp bản sao chứng chỉ
+3. Mẫu sổ cấp bản sao chứng chỉ
 CƠ QUAN QUẢN LÝ
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 PON VI
 Độc lập - Tự do - Hanh phúc
 SO CAP BAN SAO CHUNG CHI...
-Chương trinh đào tạo, bồi dưỡng (néu có):
+Chương trình đào tạo, bồi dưỡng (nếu có):
 Thời gian đào tạo, bồi dưỡng (nếu có):từ ngày tháng
-năm đếnngày
+năm đến ngày
 tháng
 năm
 Ky thi/Khóa thi (nêu có):
@@ -1403,7 +1403,7 @@ thi
 hiéu | goccap
 -
 bản sao ký | Ghi
-TT | danhcá |[Hovatén tháng
+TT | danh cá |[Họ vàtén tháng
 Ñ
 Ñ
 R
@@ -1411,7 +1411,7 @@ cap chứng
 ạng
 N
 ĩ
-số cap | ban sao _
+số cap | bản sao _
 ĩ
 N
 N
@@ -1429,7 +1429,7 @@ chỉ
 (nêu
 N
 „
-|bansao| chứng chỉ
+|bản sao| chứng chỉ
 N
 có)
 ĩ
