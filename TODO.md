@@ -81,8 +81,11 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       (`BASED_ON` 1.887, `REFERENCES` 230, `REPLACES` 158, `REPEALS` 239, `AMENDS` 106). Embed đủ
       12.281 Điều. 274/274 test đạt với Neo4j thật. Chatbot chưa thử được hôm 18/11 vì 18 key Gemini
       đang hết quota.
-- [ ] Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu và mục 1.4, Bảng 3.1, Bảng 3.5, mục 4.5.2
-      (Bảng 4.4), mục 4.5.3, Kết luận; báo Nguyên khi đồ thị mới đã sẵn sàng.
+- [x] (18/11) Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu, Bảng 3.1, Bảng 3.5 và câu dẫn, mục
+      4.5.2 (Bảng 4.4), thêm đoạn đối chiếu toàn kho sau Bảng 4.6 (4.5.3), hạn chế đánh giá, Kết luận,
+      Phụ lục C; cập nhật mục lục. Mục 1.4 không cần sửa. Bảng 4.5 (phần Nguyên) và 4.5.4–4.5.5
+      vẫn là số đo trên mẫu 103, chờ Nguyên chạy lại.
+- [ ] Báo Nguyên: đồ thị 454 văn bản đã sẵn sàng (18/11), chạy lại benchmark và gán lại `gold_v4.json`.
 
 ### Việc khác
 
@@ -101,9 +104,8 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       thế. Tái hiện: hỏi "Văn bản nào của ĐHBK về yêu cầu ngoại ngữ còn hiệu lực?" vài lần trên
       giao diện; có lần Nguồn kèm 1077/QĐ-ĐHBK và không nhắc 1345/QĐ-ĐHBK bị 4511 thay thế.
 - [ ] Sắp các Điều trong phần Nguồn theo thứ tự số (đang ra "Điều 4, Điều 6, Điều 10, Điều 1").
-- [ ] Đưa hướng dẫn dựng lại đồ thị vào README chính (`data/neo4j_dump/README.md` bị xoá khỏi
-      `main` ở commit `f4892b9`). Lưu ý: phải gom phẳng cả 103 tệp JSON v4, kể cả `_nghi_ngo/`,
-      và đặt `LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json`.
+- [x] (18/11, Kiên làm) Đưa hướng dẫn dựng lại đồ thị vào README chính, mục 7: gom phẳng cả 454 tệp
+      JSON v4, kể cả `_nghi_ngo/`, và đặt `LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json`.
 
 ## Nguyên
 
@@ -111,7 +113,7 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       đã đổi ở commit `bbf0ac3`).
 - [ ] Chạy lại `python run.py bench --compare-bm25` và `python run.py lkg chat-eval` trên đồ thị đã
       dựng lại; commit báo cáo kết quả trong `src/cypher_benchmark/reports/`.
-      **Chờ Kiên làm xong JSON v4 toàn kho rồi mới chạy.** Đáp án trong
+      **JSON v4 toàn kho và đồ thị 454 văn bản đã xong ngày 18/11 — chạy được.** Đáp án trong
       `src/cypher_benchmark/catalogs/gold_v4.json` đang gán trên 103 văn bản; khi kho thành 454
       văn bản, đáp án các câu lọc danh sách (S01–S04, S19, S20…) sẽ đổi, phải chạy lại Cypher từng
       câu trên đồ thị mới và gán lại trước khi chấm. Nhãn đối chứng `data/eval/v4_gold/` cũng chỉ phủ
