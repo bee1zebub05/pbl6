@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Công nghệ thông tin, CĐS/0093_24_2018_QH14_Luật 24_2018_QH14 Luật An ninh mạng 2018.txt",
   "mappedBy": "gemini-web",
-  "note": "43 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "note": "43 Điều lấy toàn văn trực tiếp từ bản .txt gốc. Bỏ citations[-29/2015/QH13] {\"targetDocumentNumber\": \"29/2015/QH13\", \"relationType\": \"REFERENCES\", \"targetArticle\": \"Điều 29\", \"context\": \"Cơ quan n: câu chỉ ghi \"Điều 29 của Luật An toàn thông tin mạng\", không ghi số hiệu; \"29/2015/QH13\" do model ghép từ số Điều (soi_trich_dan.py: KHONG RO, không có trong .txt lẫn PDF).",
   "document": {
     "documentNumber": "24/2018/QH14",
     "title": "Luật An ninh mạng",
@@ -38,14 +38,7 @@
       "idOverride": null
     }
   ],
-  "citations": [
-    {
-      "targetDocumentNumber": "29/2015/QH13",
-      "relationType": "REFERENCES",
-      "targetArticle": "Điều 29",
-      "context": "Cơ quan nhà nước có thẩm quyền có trách nhiệm áp dụng biện pháp theo quy định của Luật này, Điều 29 của Luật An toàn thông tin mạng và pháp luật về phòng, chống khủng bố để xử lý khủng bố mạng."
-    }
-  ],
+  "citations": [],
   "mentions": [
     "Chính phủ",
     "Bộ Công an",

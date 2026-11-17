@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tổ chức, hành chính/0054_05_NQ-HĐT_Nghị quyết ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại.txt",
   "mappedBy": "gemini-web",
-  "note": "54 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo). organization sửa từ 'Hội đồng Trường Đại học Bách khoa' (orgType 'truong_thanh_vien') thành \"Hội đồng Trường Đại học Bách khoa\" (orgType null) theo PDF gốc trang 1 (Hội đồng trường ban hành, số /NQ-HĐT); signers[0].position sửa từ [\"Hiệu trưởng\"] thành [\"Chủ tịch\"] theo PDF gốc trang 1 (TM. HỘI ĐỒNG TRƯỜNG, CHỦ TỊCH); citations sửa: thêm BASED_ON thiếu trong khối Căn cứ (426-TTg, 3859/QĐ-HĐĐH, 3860/QĐ-HĐĐH, 04/NQ-HĐT) theo PDF gốc trang 1.",
+  "note": "54 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo). organization sửa từ 'Hội đồng Trường Đại học Bách khoa' (orgType 'truong_thanh_vien') thành \"Hội đồng Trường Đại học Bách khoa\" (orgType null) theo PDF gốc trang 1 (Hội đồng trường ban hành, số /NQ-HĐT); signers[0].position sửa từ [\"Hiệu trưởng\"] thành [\"Chủ tịch\"] theo PDF gốc trang 1 (TM. HỘI ĐỒNG TRƯỜNG, CHỦ TỊCH); citations sửa: thêm BASED_ON thiếu trong khối Căn cứ (426-TTg, 3859/QĐ-HĐĐH, 3860/QĐ-HĐĐH, 04/NQ-HĐT) theo PDF gốc trang 1. signers.0.position sửa từ [\"Chủ tịch\"] thành [\"Chủ tịch Hội đồng trường\"] theo PDF gốc trang khối chữ ký \"TM. HỘI ĐỒNG TRƯỜNG / CHỦ TỊCH\"; thống nhất với 0016 (cùng Nghị quyết 05/NQ-HĐT) và các nghị quyết khác của Hội đồng trường.",
   "document": {
     "documentNumber": "05/NQ-HĐT",
     "title": "Nghị quyết Ban hành Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa - Đại học Đà Nẵng",
@@ -34,7 +34,7 @@
       "fullName": "Nguyễn Đình Lâm",
       "academicTitle": "PGS.TS",
       "position": [
-        "Chủ tịch"
+        "Chủ tịch Hội đồng trường"
       ],
       "idOverride": null
     }

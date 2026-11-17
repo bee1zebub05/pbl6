@@ -45,7 +45,7 @@ Nguyên tắc: chỉ ghi điều văn bản ghi, không suy luận. Văn bản k
 | Số hiệu | 98,0% |
 | Loại văn bản | 99,4% |
 | Cơ quan ban hành | 99,2% |
-| Ngày ban hành | 96,0% |
+| Ngày ban hành | 95,7% |
 | Ngày hiệu lực | 90,0% |
 | Trạng thái | 97,4% |
 | Số Điều | 99,7% |

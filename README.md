@@ -97,25 +97,24 @@ PBL6/
 
 ## 5. Hạn chế và việc còn tồn đọng
 
-1. **Chưa có số đo độ chính xác của bộ trích xuất quan hệ.** Gold set chưa được hai
-   người gán, nên chưa tính được Cohen's κ và P/R/F1 theo từng loại quan hệ.
-   Kết luận pipeline gán tay tốt hơn pipeline tự động hiện chỉ dựa trên so sánh số
-   cạnh (ví dụ `REPEALS`: 185 so với 23; `REPLACES`: 187 so với 88), chưa có đối chiếu
-   với nhãn chuẩn.
+1. **Độ chính xác trích xuất đo bằng đáp án do AI đối chiếu ảnh PDF, chưa có người kiểm.**
+   Tập `data/eval/kiem_pdf_v4/` (351 văn bản) cho P/R/F1 theo từng trường và từng loại
+   quan hệ; gold set hai người gán (Cohen's κ) vẫn chưa làm.
 2. **Đánh giá retrieval chưa đủ.** Chỉ nhóm single-hop có đáp án (tự sinh từ metadata);
    kết quả KG vượt BM25 ở nhóm này là hệ quả của cách đặt câu hỏi. Nhóm multi-hop và
    nhóm hiệu lực cần người điền đáp án.
 3. **Graph tự động dựng trên bản text cũ.** `config.py` đã trỏ tới `text_final` nhưng
    chưa chạy lại `python run.py kg docs`.
-4. **36 văn bản chưa nạp vào graph gán tay** (thư mục `_nghi_ngo/`), chưa đọc soát từng file.
+4. **Đáp án benchmark truy hồi** (`src/cypher_benchmark/catalogs/gold_v4.json`) gán trên mẫu
+   103 văn bản; graph nay dựng từ đủ 454 văn bản nên phải gán lại trước khi chấm.
 5. **Dữ liệu đầu vào còn khiếm khuyết:**
    - 15 văn bản không tải được (404), trong đó có Luật Bảo hiểm xã hội 2024 và
      `115/2020/NĐ-CP`; chúng chỉ xuất hiện dưới dạng `Document` stub.
    - File `0049` mang tên "Quy chế làm việc của Phòng Thí nghiệm và Xưởng thực hành"
      nhưng nội dung là bản sao của văn bản khác; văn bản đúng chưa có trong kho.
-   - 14 nhóm số hiệu trùng giữa các file; mới đối chiếu 2 nhóm.
+   - 16 nhóm số hiệu trùng giữa các file, đã soát hết: đều là cùng một văn bản đăng ở hai lĩnh vực.
    - 34 văn bản có số hiệu trong header lệch với metadata (một phần là lỗi metadata gốc).
-   - Bản PDF gốc không còn trên máy, nên các chỗ OCR nghi ngờ chưa thể đối chiếu ảnh.
+   - Thân Điều trong JSON cắt nguyên văn từ `text_final` nên mang theo lỗi OCR còn sót.
 
 ## 6. Dữ liệu
 
@@ -123,8 +122,10 @@ PBL6/
 |---|---|
 | `data/clean/text_final/` | Kho văn bản chuẩn, 454 file `.txt` theo lĩnh vực. Nguồn duy nhất của cả hai pipeline |
 | `data/clean/json/v1/`, `v2/` | JSON gán tay, 454 file mỗi bản (v2 bổ sung nhóm đối tượng áp dụng) |
+| `data/clean/json/v4/` | JSON v4, 454 file — nguồn của graph và chatbot hiện tại; đã đối chiếu ảnh PDF gốc |
+| `data/clean/nguon_trang/` | Manifest PDF gốc (SHA-256) và bảng Điều → trang PDF để chatbot dẫn số trang |
 | `data/kg/` | Đầu ra `.jsonl` của pipeline tự động |
-| `data/eval/` | Kết quả và phiếu gán của khối đánh giá §6 |
+| `data/eval/` | Kết quả và phiếu gán của khối đánh giá §6; `kiem_pdf_v4/` là tập đánh giá độ chính xác JSON v4 |
 | `data/kiem_tra/` | Báo cáo chất lượng `text_final` |
 | `data/_loai_bo/` | Văn bản đã loại khỏi bộ dữ liệu, kèm lý do |
 | `data/manifest.jsonl` | Metadata 501 mục từ bước crawl (nguồn metadata duy nhất còn lại) |
@@ -145,7 +146,9 @@ docker compose up -d               # Neo4j của pipeline gán tay
 Pipeline gán tay:
 
 ```powershell
-python run.py lkg all --dir data/clean/json/v4   # kiểm tra trùng → validate → XOÁ graph cũ, nạp lại → kiểm tra nhanh
+# graph đọc MỘT thư mục phẳng: gom cả data/clean/json/v4 lẫn v4/_nghi_ngo vào một thư mục tạm,
+# và đặt LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json trong .env
+python run.py lkg all --dir <thư mục v4 đã gom phẳng>   # kiểm tra trùng → validate → XOÁ graph cũ, nạp lại → kiểm tra nhanh
 python run.py lkg embed-articles   # embedding bị xoá theo graph, phải chạy lại (tốn quota)
 python run.py bench --source benchmark   # bộ đo Cypher: samples | benchmark | scenarios
 python run.py lkg ask "<câu hỏi>"

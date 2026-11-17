@@ -68,13 +68,19 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       ngày làm số hiệu, đổi 11 quan hệ "bãi bỏ/thay thế một phần" sang AMENDS, đưa 6 trạng thái
       model tự suy về null. Còn: soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`), đọc soát `_nghi_ngo/`.
 - [x] (18/11) Suy hiệu lực trên toàn kho (`suy_hieu_luc.py --sua`): 26 văn bản sang HET_HIEU_LUC.
-- [ ] Đối chiếu hiệu lực với web trường và PDF gốc như đã làm cho 103 văn bản ngày 16/11: chỗ nào lệch
-      thì mở PDF kiểm, sửa kèm `note` ghi căn cứ.
-- [ ] Dựng lại bảng Điều → trang PDF: `python tools/kiem_tra/nguon_trang.py --json v4` (cần 455 PDF
-      gốc ở `data/raw/pdf/`).
-- [ ] Dựng lại đồ thị từ cả 454 tệp (gom phẳng cả `_nghi_ngo/`), đặt
-      `LKG_PAGE_PROVENANCE=data/clean/nguon_trang/dieu_v4.json`, rồi `python run.py lkg embed-articles`.
-      Ghi lại số đỉnh, số cạnh theo loại.
+- [x] (18/11) Đối chiếu hiệu lực với web trường: 65 chỗ lệch. ~45 văn bản ta ghi hết hiệu lực vì có
+      văn bản trong kho thay thế/bãi bỏ (web chậm cập nhật, như 1345, 905 đã kiểm PDF ngày 16/11);
+      10 văn bản CHUA_HIEU_LUC đã qua ngày hiệu lực → CON_HIEU_LUC; 11 văn bản web ghi hết mà trong
+      kho không có văn bản thay thế → giữ nguyên (xem "Việc khác" về 0151, 0011).
+- [x] (18/11) Soi trích dẫn toàn kho (`soi_trich_dan.py` trên v4): 2.699/2.707 số hiệu có nguyên văn
+      trong `.txt`; bỏ 1 số hiệu bịa (0093: "29/2015/QH13" ghép từ "Điều 29"). Soát 16 nhóm số hiệu
+      trùng: đều là cùng văn bản; sửa ngày 0271, chức danh 0019/0054 theo PDF.
+- [x] (18/11) Dựng lại bảng Điều → trang PDF: 12.281 Điều (7.523 độ tin cậy cao).
+- [x] (18/11) Dựng lại đồ thị từ 454 tệp: 437 văn bản thật (1.362 `Document` kể cả stub), 12.281
+      `Article`, 372 `NormativeContent`, 245 `Organization`, 61 `Person`; 14.346 đỉnh, 19.959 cạnh
+      (`BASED_ON` 1.887, `REFERENCES` 230, `REPLACES` 158, `REPEALS` 239, `AMENDS` 106). Embed đủ
+      12.281 Điều. 274/274 test đạt với Neo4j thật. Chatbot chưa thử được hôm 18/11 vì 18 key Gemini
+      đang hết quota.
 - [ ] Cập nhật báo cáo theo kho mới: phạm vi ở Mở đầu và mục 1.4, Bảng 3.1, Bảng 3.5, mục 4.5.2
       (Bảng 4.4), mục 4.5.3, Kết luận; báo Nguyên khi đồ thị mới đã sẵn sàng.
 
@@ -85,10 +91,8 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
       thay thế rồi mới sửa `status` + `note` trong JSON v1, v2, v4.
 - [ ] Sửa tiếp lỗi OCR theo `F:\DUT4\PBL6\TIEN_DO_SUA_OCR.md` (54 văn bản lỗi ≥ 1%, `0440` mới
       đến trang 19). Chỉ sửa chỗ OCR sai, không chèn ghi chú vào `.txt`.
-- [ ] Sửa `107/QĐ-ĐHBK` thành `1077/QĐ-ĐHBK` trong `data/clean/text_final/` của 0465 (lỗi OCR
-      còn sót ở bản `.txt`).
-- [ ] Cập nhật `docs/TIEN_DO.md` và `README.md` theo số liệu tháng 11 (đồ thị v4, benchmark,
-      các mục đã xong ở trên).
+- [x] (18/11) Sửa `107/QĐ-ĐHBK` thành `1077/QĐ-ĐHBK` trong `text_final` của 0465 (theo PDF gốc).
+- [x] (18/11) Cập nhật `docs/TIEN_DO.md` và `README.md` theo số liệu tháng 11.
 - [ ] Ráp các góp ý của nhóm vào báo cáo, cập nhật mục lục, rà toàn bộ lần cuối.
 
 ## Đức
