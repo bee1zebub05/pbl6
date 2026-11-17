@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0421_104_KH-UBND_Kế hoạch triển khai thực hiện Quyết định số 1705_QĐ-TTg ngày 31_12_2024 của Thủ tư.txt",
+  "mappedBy": "gemini-web",
+  "note": "Trang 11 là phiếu xử lý văn bản nội bộ của Trường Đại học Bách khoa, không phải là một phần của văn bản quy phạm pháp luật chính. Nội dung chính của văn bản là Kế hoạch 104/KH-UBND.",
+  "document": {
+    "documentNumber": "104/KH-UBND",
+    "title": "Kế hoạch Triển khai thực hiện Quyết định số 1705/QĐ-TTg ngày 31/12/2024 của Thủ tướng Chính phủ về Chiến lược phát triển Giáo dục đến năm 2030, tầm nhìn đến năm 2045",
+    "documentType": "Kế hoạch",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "09/04/2025",
+    "effectiveDate": "09/04/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Kế hoạch triển khai thực hiện Chiến lược phát triển Giáo dục đến năm 2030, tầm nhìn đến năm 2045 trên địa bàn thành phố Đà Nẵng, bao gồm các mục tiêu cụ thể về phổ cập giáo dục, nâng cao chất lượng đội ngũ, đổi mới quản lý và đẩy mạnh chuyển đổi số trong giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Ủy ban nhân dân thành phố Đà Nẵng",
+    "orgType": "chinh_phu",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Thị Anh Thi",
+      "academicTitle": null,
+      "position": [
+        "Phó Chủ tịch"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "1705/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thực hiện Quyết định số 1705/QĐ-TTg ngày 31/12/2024 của Thủ tướng Chính phủ về Chiến lược phát triển Giáo dục đến năm 2030, tầm nhìn đến năm 2045"
+    },
+    {
+      "targetDocumentNumber": "29-NQ/TW",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Tiếp tục quán triệt các quan điểm chỉ đạo của Đảng, Nhà nước về phát triển giáo dục theo tinh thần Nghị quyết số 29-NQ/TW ngày 04/11/2013 của Ban Chấp hành Trung ương Đảng"
+    },
+    {
+      "targetDocumentNumber": "91-KL/TW",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Kết luận số 91-KL/TW ngày 12/8/2024 của Bộ Chính trị về tiếp tục thực hiện Nghị quyết số 29-NQ/TW"
+    },
+    {
+      "targetDocumentNumber": "105/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghiên cứu mở rộng đối tượng trẻ mầm non thụ hưởng các chính sách hỗ trợ theo Nghị định số 105/2020/NĐ-CP ngày 08/9/2020 của Chính phủ"
+    },
+    {
+      "targetDocumentNumber": "145/2020/NĐ-CP",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động"
+    },
+    {
+      "targetDocumentNumber": "2435/QĐ-UBND",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Đề án xây dựng nâng cấp, mở rộng trường học giai đoạn 2021-2025 trên địa bàn thành phố Đà Nẵng được phê duyệt tại Quyết định số 2435/QĐ-UBND ngày 10/7/2020 của UBND thành phố."
+    }
+  ],
+  "mentions": [
+    "Sở Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [],
+  "articles": []
+}

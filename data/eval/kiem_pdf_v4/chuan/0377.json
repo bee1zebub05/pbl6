@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0377_3560_QĐ-BGDĐT_Công bố công khai dự toán ngân sách nhà nước năm 2024.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. document.title sửa từ \"Quyết định V/v công bố công khai dự toán ngân sách nhà nước năm 2024\" thành \"Quyết định Về việc công bố công khai dự toán ngân sách nhà nước năm 2024\" (bỏ tiền tố V/v) theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "3560/QĐ-BGDĐT",
+    "title": "Quyết định Về việc công bố công khai dự toán ngân sách nhà nước năm 2024",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/11/2024",
+    "effectiveDate": "14/11/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Công bố công khai số liệu dự toán ngân sách nhà nước đợt 3 năm 2024 của Bộ Giáo dục và Đào tạo.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24/10/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "61/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "90/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 90/2018/TT-BTC ngày 28/9/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 61/2017/TT-BTC ngày 15 tháng 6 năm 2017 của Bộ Tài chính hướng dẫn về công khai ngân sách đối với đơn vị dự toán ngân sách, tổ chức được ngân sách nhà nước hỗ trợ;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Tài chính"
+  ],
+  "normativeContents": [
+    {
+      "title": "TỔNG HỢP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC ĐƯỢC GIAO VÀ PHÂN BỔ CHO CÁC ĐƠN VỊ TRỰC THUỘC NĂM 2024",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Tổng số thu, chi nộp ngân sách phí, lệ phí: Tổng số thu phí là 2.660,0 triệu đồng; Chi từ nguồn thu phí được để lại là 1.820,0 triệu đồng; Số phí nộp ngân sách nhà nước là 840,0 triệu đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Dự toán chi ngân sách nhà nước: Tổng số được giao là 6.204.260,0 triệu đồng; Tổng số phân bổ là 6.345.318,00 triệu đồng.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố công khai số liệu dự toán ngân sách nhà nước đợt 3 năm 2024 của Bộ Giáo dục và Đào tạo (Chi tiết theo biểu đính kèm).",
+      "text": "Điều 1. Công bố công khai số liệu dự toán ngân sách nhà nước đợt 3 năm 2024 của Bộ Giáo dục và Đào tạo (Chi tiết theo biểu đính kèm).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Giáo dục và Đào tạo chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

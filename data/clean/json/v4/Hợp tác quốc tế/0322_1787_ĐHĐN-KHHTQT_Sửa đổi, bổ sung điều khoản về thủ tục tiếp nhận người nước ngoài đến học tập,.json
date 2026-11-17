@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Hợp tác quốc tế/0322_1787_ĐHĐN-KHHTQT_Sửa đổi, bổ sung điều khoản về thủ tục tiếp nhận người nước ngoài đến học tập,.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "citations sửa từ thiếu quan hệ sửa đổi thành thêm AMENDS 2268/ĐHĐN-HTQT (khoản 1, 2 Điều 5) theo PDF gốc trang 1-2.",
+  "note": "citations sửa từ thiếu quan hệ sửa đổi thành thêm AMENDS 2268/ĐHĐN-HTQT (khoản 1, 2 Điều 5) theo PDF gốc trang 1-2. Bỏ BASED_ON 2268/ĐHĐN-HTQT: số hiệu vừa ở phần Căn cứ vừa là văn bản bị sửa đổi, mỗi số hiệu chỉ một dòng, giữ AMENDS.",
   "document": {
     "documentNumber": "1787/ĐHĐN-KHHTQT",
     "title": "V/v sửa đổi, bổ sung điều khoản về thủ tục tiếp nhận NNN đến học tập, nghiên cứu và làm việc tại ĐHĐN",
@@ -40,12 +40,6 @@
     }
   ],
   "citations": [
-    {
-      "targetDocumentNumber": "2268/ĐHĐN-HTQT",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Quyết định 2268/ĐHĐN-HTQT ngày 01/6/2023 của ĐHĐN ban hành Quy định về công tác quản lý hoạt động hợp tác quốc tế (HTQT) tại ĐHĐN (gọi tắt là Quyết định 2268), ĐHĐN sửa đổi và bổ sung Điều 5."
-    },
     {
       "targetDocumentNumber": "2268/ĐHĐN-HTQT",
       "relationType": "AMENDS",

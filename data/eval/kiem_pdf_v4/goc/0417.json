@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0417_760_QĐ-ĐHBK_Quyết định về việc ban hành quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "760/QĐ-ĐHBK",
+    "title": "Quyết định về việc ban hành quy định hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 300 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "24/02/2025",
+    "effectiveDate": "24/02/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán",
+      "Cơ sở vật chất, xây dựng"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cán bộ, giảng viên, viên chức, người lao động"
+    ],
+    "summary": "Ban hành quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 300 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng. Quyết định này thay thế Quyết định số 2652/QĐ-ĐHBK ngày 01/7/2024.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Hữu Hiếu",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "2652/QĐ-ĐHBK",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2652/QĐ-ĐHBK ngày 01 tháng 7 năm 2024 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng về việc ban hành quy định về hồ sơ thanh toán mua sắm thường xuyên tại Trường Đại học Bách khoa."
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Trường Đại học Bách khoa"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 300 triệu đồng tại Trường Đại học Bách khoa",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Dưới 5.000.000đ",
+          "text": "1. Dưới 5.000.000đ. Hồ sơ/thủ tục mua sắm, sửa chữa gồm: BGH phê duyệt đề xuất và nội dung thực hiện; 01 báo giá đối với mua sắm công cụ, dụng cụ (không thông qua Tổ xét duyệt giá); Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có); Biên bản bàn giao cho đơn vị sử dụng (nếu có); Hóa đơn tài chính; Giấy đề nghị thanh toán của đơn vị cung cấp (nếu thanh toán trực tiếp cho đơn vị cung cấp); Giấy đề nghị thanh toán. Hồ sơ thanh toán gồm: BGH phê duyệt chủ trương/nội dung thực hiện; Hóa đơn tài chính; Giấy đề nghị thanh toán. Biểu mẫu: BM.11, BM.12, BM.15, BM.16.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Từ 5.000.000đ đến dưới 20.000.000đ",
+          "text": "2. Từ 5.000.000đ đến dưới 20.000.000đ. Hồ sơ/thủ tục mua sắm, sửa chữa gồm: BGH phê duyệt đề xuất chủ trương/nội dung thực hiện; Biên bản kiểm tra/ báo cáo hiện trạng (đối với gói thầu sửa chữa máy móc, thiết bị, sửa chữa xây dựng); Bộ hồ sơ tư vấn thẩm định giá (*) của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm); Bản vẽ thiết kế/sơ đồ nguyên lý và dự toán (đối với gói thầu sửa chữa và gia công thiết bị); Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá); Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có); Biên bản nghiệm thu và bàn giao bên A-bên B; Biên bản bàn giao cho đơn vị sử dụng (nếu có); Hóa đơn tài chính; Giấy đề nghị thanh toán của nhà cung cấp; Giấy đề nghị thanh toán. Hồ sơ thanh toán gồm: BGH phê duyệt chủ trương/nội dung thực hiện; Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá); Chứng thư thẩm định giá (*) của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm); Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có); Biên bản nghiệm thu và bàn giao bên A-bên B; Biên bản bàn giao cho đơn vị sử dụng (nếu có); Hóa đơn tài chính; Giấy đề nghị thanh toán của nhà cung cấp; Giấy đề nghị thanh toán. Biểu mẫu: BM.01, BM.02, BM.03, BM.11, BM.12, BM.15, BM.16.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Từ 20.000.000đ đến dưới 50.000.000đ",
+          "text": "3. Từ 20.000.000đ đến dưới 50.000.000đ. Hồ sơ/thủ tục mua sắm, sửa chữa gồm: BGH phê duyệt đề xuất chủ trương/nội dung thực hiện; Biên bản kiểm tra/báo cáo hiện trạng (đối với gói thầu sửa chữa máy móc, thiết bị, sửa chữa xây dựng); Bản vẽ thiết kế/sơ đồ nguyên lý (đối với gói thầu sửa chữa và gia công lắp đặt thiết bị); Thư mời báo giá; Bộ hồ sơ tư vấn thẩm định giá (*) của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm); Biên bản xét duyệt báo giá (chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá - không bao gồm hạng mục sửa chữa xây dựng); Bộ hồ sơ tư vấn lập dự toán () (đối với hạng mục sửa chữa xây dựng); Thẩm định và phê duyệt dự toán (đối với hạng mục sửa chữa xây dựng); Thư mời và dự thảo hợp đồng gửi cho nhà thầu dự kiến; Biên bản hoàn thiện hợp đồng; Quyết định phê duyệt kết quả lựa chọn nhà thầu; Hợp đồng; Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng. Hồ sơ thanh toán gồm: BGH phê duyệt chủ trương/nội dung thực hiện; Biên bản xét duyệt báo giá (chọn 1 trong 3 báo giá thông qua Tổ phê duyệt báo giá - không bao gồm hạng mục sửa chữa xây dựng); Biên bản hoàn thiện hợp đồng; Quyết định phê duyệt kết quả lựa chọn nhà thầu; Hợp đồng; Biên bản nghiệm thu và bàn giao (bên A-bên B); Biên bản bàn giao cho đơn vị sử dụng (nếu có); Biên bản thanh lý hợp đồng; Hóa đơn tài chính; Chứng thư thẩm định giá (*) của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm); Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hoá theo từng loại mặt hàng (nếu có); Giấy đề nghị thanh toán của Nhà cung cấp. Biểu mẫu: BM.01, BM.02, BM.03, BM.08, BM.09, BM.10, BM.11, BM.12, BM.13, BM.14, BM.15, BM.16.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4.1",
+          "heading": "Từ 50.000.000đ đến dưới 300.000.000đ (đối với hạng mục mua sắm, sửa chữa máy móc thiết bị)",
+          "text": "4.1. Từ 50.000.000đ đến dưới 300.000.000đ (đối với hạng mục mua sắm, sửa chữa máy móc thiết bị). Hồ sơ/thủ tục mua sắm, sửa chữa gồm: BGH phê duyệt chủ trương/nội dung thực hiện; Biên bản kiểm tra/báo cáo hiện trạng (đối với gói thầu sửa chữa máy móc, thiết bị); Thư mời báo giá; Bộ hồ sơ tư vấn thẩm định giá (*) của gói thầu có ít nhất một mặt hàng là tài sản (nguyên giá của mặt hàng trên 10 triệu đồng và thời gian sử dụng trên 1 năm); Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá); Bản vẽ thiết kế/sơ đồ nguyên lý (đối với gói thầu sửa chữa thiết bị và gia công thiết bị) và dự toán; Tờ trình phê duyệt dự toán và kế hoạch lựa chọn nhà thầu (KHLCNT); Dự thảo KHLCNT và dự toán; Báo cáo thẩm định KHLCNT và dự toán; Quyết định phê duyệt dự toán và KHLCNT; Thư mời và dự thảo hợp đồng gửi cho nhà thầu dự kiến; Biên bản hoàn thiện hợp đồng; Quyết định phê duyệt kết quả lựa chọn nhà thầu; Hợp đồng; Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có); Biên bản nghiệm thu và bàn giao (bên A- bên B); Biên bản bàn giao cho đơn vị sử dụng; Hóa đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của Nhà thầu; Giấy đề nghị thanh toán. Hồ sơ thanh toán gồm: Giấy đề nghị thanh toán; BGH phê duyệt chủ trương/nội dung thực hiện; Biên bản xét duyệt báo giá (thông qua Tổ phê duyệt báo giá); Quyết định phê duyệt dự toán và KHLCNT; Biên bản hoàn thiện hợp đồng; Quyết định phê duyệt kết quả lựa chọn nhà thầu; Hợp đồng; Chứng nhận xuất xứ hàng hóa; chứng nhận chất lượng hàng hóa theo từng loại mặt hàng (nếu có); Biên bản nghiệm thu và bàn giao (bên A- bên B); Biên bản xác định giá trị khối lượng công việc hoàn thành; Hóa đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của Nhà thầu; Giấy đề nghị thanh toán. Biểu mẫu: BM.01, BM.02, BM.03, BM.04, BM.05, BM.06, BM.07, BM.08, BM.09, BM.10, BM.11, BM.12, BM.13, BM.14, BM.15, BM.16.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4.2",
+          "heading": "Từ 50.000.000đ đến dưới 300.000.000đ (đối với hạng mục sửa chữa xây dựng)",
+          "text": "4.2. Từ 50.000.000đ đến dưới 300.000.000đ (đối với hạng mục sửa chữa xây dựng). Hồ sơ/thủ tục mua sắm, sửa chữa gồm: BGH phê duyệt nội dung thực hiện; Biên bản kiểm tra và báo cáo hiện trạng; Hồ sơ thiết kế sơ bộ và khái toán; Tờ trình phê duyệt chủ trương thực hiện; Quyết định phê duyệt chủ trương thực hiện; Tờ trình về việc phê duyệt KHLCNT các gói thầu giai đoạn tư vấn; Dự thảo KHLCNT các gói thầu tư vấn; Báo cáo thẩm định KHLCNT các gói thầu tư vấn; Quyết định phê duyệt KHLCNT các gói thầu tư vấn; Bộ hồ sơ tư vấn lập thiết kế và dự toán (); Bộ hồ sơ tư vấn thẩm tra (*); Thẩm định và phê duyệt dự toán; Tờ trình về việc phê duyệt KHLCNT các gói thầu giai đoạn thi công; Dự thảo KHLCNT các gói thầu thi công; Báo cáo thẩm định KHLCNT các gói thầu thi công; Quyết định phê duyệt KHLCNT các gói thầu thi công; Thư mời và dự thảo hợp đồng gửi cho nhà thầu dự kiến; Biên bản hoàn thiện hợp đồng; Quyết định phê duyệt kết quả lựa chọn nhà thầu; Hợp đồng; Bộ hồ sơ quản lý chất lượng công trình (); Biên bản nghiệm thu và bàn giao đưa vào sử dụng; Bộ hồ sơ quyết toán (*); Hóa đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của Nhà thầu; Giấy đề nghị thanh toán. Hồ sơ thanh toán gồm: BGH phê duyệt nội dung thực hiện; Quyết định phê duyệt dự toán và KHLCNT; Biên bản hoàn thiện hợp đồng; Quyết định phê duyệt kết quả lựa chọn nhà thầu; Hợp đồng; Biên bản nghiệm thu và bàn giao đưa vào sử dụng; Bộ hồ sơ quyết toán A-B (*); Hóa đơn tài chính; Biên bản thanh lý hợp đồng; Giấy đề nghị thanh toán của Nhà thầu; Giấy đề nghị thanh toán. Biểu mẫu: BM.01, BM.03, BM.04, BM.05, BM.06, BM.07, BM.08, BM.09, BM.10, BM.11, BM.12, BM.13, BM.14, BM.15, BM.16.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 300 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng (Phụ lục kèm theo). Các gói thầu mua ",
+      "text": "Điều 1. Ban hành quy định về hồ sơ, thủ tục thực hiện và hồ sơ thanh toán mua sắm, sửa chữa thường xuyên dưới 300 triệu đồng tại Trường Đại học Bách khoa, Đại học Đà Nẵng (Phụ lục kèm theo). Các gói thầu mua sắm/ sửa chữa, các gói thầu tư vấn thuộc dự toán mua sắm từ 300 triệu đồng trở lên không thuộc phạm vi điều chỉnh của Quyết định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2652/QĐ-ĐHBK ngày 01 tháng 7 năm 2024 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng về việc ban hành quy định về hồ sơ t",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2652/QĐ-ĐHBK ngày 01 tháng 7 năm 2024 của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng về việc ban hành quy định về hồ sơ thanh toán mua sắm thường xuyên tại Trường Đại học Bách khoa.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Cơ sở Vật chất, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng các đơn vị và các viên chức, người lao động thuộc Trường Đại học Bách khoa c",
+      "text": "Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng phòng Phòng Cơ sở Vật chất, Trưởng phòng Phòng Kế hoạch - Tài chính, Trưởng các đơn vị và các viên chức, người lao động thuộc Trường Đại học Bách khoa căn cứ Quyết định thi hành.",
+      "isImplementationClause": true
+    }
+  ]
+}

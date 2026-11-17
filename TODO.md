@@ -52,12 +52,17 @@ văn bản còn lại để hệ thống chạy trên toàn kho. Làm theo thứ
 - [x] (17/11) Nhóm 1–3 theo số trang PDF (1–10 trang, 136 văn bản): 131 văn bản có JSON v4, đã
       đối chiếu ảnh PDF gốc và sửa; tập đánh giá độ sai lệch ở `data/eval/kiem_pdf_v4/`. Model
       `gemini-3.1-flash-lite` (3.5-flash-lite bị quá tải 503).
-- [ ] Nhóm 4–6 (11–20, 21–40, trên 40 trang; 213 văn bản) và 0161, 0352 (bản gốc .doc): làm theo
-      đúng quy trình trong `data/eval/kiem_pdf_v4/README.md` (chụp bản gốc → đối chiếu ảnh PDF →
-      trọng tài → chấm). Hai văn bản lớn 0245, 0246 (730–810 KB) chạy riêng sau cùng.
+- [x] (17/11) Nhóm 4 (11–20 trang, 82 văn bản): đủ 82/82 JSON v4, Sonnet đối chiếu ảnh PDF, trọng
+      tài duyệt; tập đánh giá lên 218 văn bản. Thêm "Chiến lược" vào loại nội dung kèm theo (0180).
+- [x] (17/11) Bước luật `tools/kiem_tra/vet_quan_he.py` chạy sau `chay_json.py`: vét REPLACES/REPEALS
+      model bỏ sót (REPEALS 45% → 99% trên 218 văn bản), báo chỗ model gán sai loại.
+- [ ] Nhóm 5–6 (21–40, trên 40 trang; 131 văn bản) và 0161, 0352 (bản gốc .doc): làm theo
+      đúng quy trình trong `data/eval/kiem_pdf_v4/README.md` (chụp bản gốc → `vet_quan_he.py --ghi`
+      → đối chiếu ảnh PDF → trọng tài → chấm). Hai văn bản lớn 0245, 0246 (730–810 KB) chạy riêng
+      sau cùng. Nhóm 5 đang chạy.
 - [x] (17/11) 5 văn bản vướng lược đồ (0023, 0084, 0110, 0193, 0488): nới lược đồ (số mục A–Z, loại
       "Quy chế"), sửa `chay_json.py`; đã trích xuất và đối chiếu PDF. Nhóm 1–3 đủ 136/136.
-- [ ] 0149: tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.
+- [ ] 0149 (để lại, làm sau): tìm bản PDF đủ trang (bản hiện có thiếu trang 2), thêm 11 quan hệ bãi bỏ còn thiếu.
 - [ ] Kiểm tra lược đồ cho toàn bộ 454 tệp (`python run.py lkg validate --dir data/clean/json/v4`)
       và soi trích dẫn (`tools/kiem_tra/soi_trich_dan.py`); đọc soát các tệp rơi vào `_nghi_ngo/`.
 - [ ] Suy hiệu lực trên toàn kho: `python tools/kiem_tra/suy_hieu_luc.py --dir data/clean/json/v4`

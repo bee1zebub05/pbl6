@@ -1,0 +1,286 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0442_2358_QĐ-BGDĐT_Quyết định ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025-2026 của.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm BASED_ON 252-TB/ĐUBGDĐT theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "2358/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "20/08/2025",
+    "effectiveDate": "20/08/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Tổ chức, hành chính"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Quyết định ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục với chủ đề “Kỷ cương - Sáng tạo - Đột phá - Phát triển”, tập trung vào 10 nhóm nhiệm vụ, giải pháp trọng tâm nhằm củng cố và nâng cao chất lượng giáo dục.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Kim Sơn",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ về Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "252-TB/ĐUBGDĐT",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Thông báo số 252-TB/ĐUBGDĐT, ngày 18 tháng 8 năm 2025 của Ban Thường vụ Đảng ủy Bộ Giáo dục và Đào tạo về dự thảo Quyết định ban hành Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục;",
+      "targetArticle": null
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Quốc hội",
+    "Bộ Chính trị"
+  ],
+  "normativeContents": [
+    {
+      "title": "KẾ HOẠCH NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM NĂM HỌC 2025 - 2026 CỦA NGÀNH GIÁO DỤC",
+      "contentType": "Kế hoạch",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "MỤC ĐÍCH, YÊU CẦU",
+          "text": "I. MỤC ĐÍCH, YÊU CẦU. 1. Quán triệt và chỉ đạo toàn ngành Giáo dục tập trung tổ chức triển khai thực hiện các nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 nhằm củng cố, nâng cao chất lượng giáo dục và đào tạo. 2. Làm căn cứ để cơ quan quản lý giáo dục các cấp; các cơ sở giáo dục đại học, cao đẳng sư phạm, giáo dục nghề nghiệp xây dựng chương trình, kế hoạch thực hiện của cơ quan, địa phương, đơn vị và tổ chức triển khai thực hiện đồng bộ, hiệu quả các nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026. 3. Bảo đảm tính đồng bộ, nhất quán trong triển khai thực hiện các nhiệm vụ, giải pháp năm học 2025 - 2026 trong toàn ngành Giáo dục gắn với thực hiện đúng các quy định về phân cấp, phân quyền trong lĩnh vực giáo dục và đào tạo, nhất là những thay đổi theo mô hình chính quyền địa phương hai cấp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "CÁC NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM NĂM HỌC 2025 - 2026",
+          "text": "II. CÁC NHIỆM VỤ, GIẢI PHÁP TRỌNG TÂM NĂM HỌC 2025 - 2026. 1. Hoàn thiện thể chế, nâng cao hiệu lực, hiệu quả công tác quản lý nhà nước về giáo dục; đổi mới quản trị nhà trường. 2. Tiếp tục đổi mới, nâng cao chất lượng giáo dục mầm non, giáo dục phổ thông và giáo dục thường xuyên. 3. Bảo đảm công bằng trong cơ hội tiếp cận giáo dục có chất lượng cho người học. 4. Phát triển đội ngũ nhà giáo, cán bộ quản lý cơ sở giáo dục đáp ứng yêu cầu đổi mới giáo dục và đào tạo. 5. Nâng cao hiệu quả sử dụng ngân sách nhà nước, huy động các nguồn lực đầu tư để tăng cường cơ sở vật chất và nâng cao chất lượng giáo dục, đào tạo. 6. Đổi mới công tác giáo dục chính trị, tư tưởng, đạo đức, giáo dục quốc phòng an ninh và giáo dục thể chất, y tế trường học. 7. Hiện đại hóa giáo dục đại học, giáo dục nghề nghiệp, tạo đột phá trong đào tạo nhân lực, nhất là nguồn nhân lực chất lượng cao gắn với nghiên cứu khoa học và đổi mới sáng tạo. 8. Tăng cường hội nhập quốc tế trong giáo dục và đào tạo. 9. Đẩy mạnh chuyển đổi số, cải cách hành chính trong lĩnh vực giáo dục và đào tạo. 10. Thực hiện hiệu quả các phong trào thi đua và công tác truyền thông trong toàn ngành.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "TỔ CHỨC THỰC HIỆN",
+          "text": "III. TỔ CHỨC THỰC HIỆN. 1. Chủ tịch Ủy ban nhân dân tỉnh, thành phố: Ban hành văn bản chỉ đạo và tổ chức triển khai thực hiện nhiệm vụ, giải pháp năm học 2025 - 2026 của ngành Giáo dục, phù hợp với thực tiễn địa phương. 2. Giám đốc Sở Giáo dục và Đào tạo: a) Căn cứ Kế hoạch này và tình hình thực tiễn của địa phương, tham mưu với Ủy ban nhân dân tỉnh, thành phố ban hành văn bản chỉ đạo về nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 ở địa phương và tổ chức triển khai thực hiện; phối hợp với các sở, ban, ngành cùng cấp và Ủy ban nhân dân cấp xã chỉ đạo, kiểm tra, đôn đốc các cơ sở giáo dục trên địa bàn thực hiện tốt nhiệm vụ năm học 2025 - 2026. b) Báo cáo Bộ Giáo dục và Đào tạo về: tình hình chuẩn bị năm học và tình hình tổ chức khai giảng năm học 2025 - 2026 trước ngày 10 tháng 9 năm 2025; sơ kết học kỳ I trước ngày 31 tháng 01 năm 2026; tổng kết tình hình thực hiện nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026; kết quả thực hiện các tiêu chí thi đua, đề nghị xét khen thưởng năm học trước ngày 25 tháng 6 năm 2026; tình hình thực hiện quản lý nhà nước về giáo dục khi triển khai chính quyền địa phương hai cấp. 3. Giám đốc đại học, học viện; hiệu trưởng trường đại học, trường cao đẳng sư phạm, cơ sở giáo dục nghề nghiệp chỉ đạo, tổ chức triển khai thực hiện tốt các nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 tại đơn vị. 4. Cán bộ, công chức, viên chức, người lao động cơ quan quản lý giáo dục các cấp; nhà giáo, người lao động tại các cơ sở giáo dục mầm non, giáo dục phổ thông, giáo dục thường xuyên, giáo dục nghề nghiệp, giáo dục đại học, cao đẳng sư phạm triển khai thực hiện nghiêm túc Kế hoạch này và các Kế hoạch của cơ quan, đơn vị.",
+          "isImplementationClause": true
+        }
+      ]
+    },
+    {
+      "title": "PHỤ LỤC",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Tỷ lệ huy động trẻ nhà trẻ là 35%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Tỷ lệ huy động trẻ mẫu giáo là 94%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Tỷ lệ huy động trẻ em 6 tuổi vào lớp 1 là 99,70%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Tỷ lệ hoàn thành chương trình tiểu học là 99,50%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Số đơn vị cấp tỉnh đạt chuẩn phổ cập giáo dục tiểu học mức độ 2 là 12 tỉnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Số đơn vị cấp tỉnh đạt chuẩn phổ cập giáo dục tiểu học mức độ 3 là 22 tỉnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Số đơn vị cấp tỉnh đạt chuẩn phổ cập giáo dục THCS mức độ 1 là 21 tỉnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Số đơn vị cấp tỉnh đạt chuẩn phổ cập giáo dục THCS mức độ 2 là 7 tỉnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Số đơn vị cấp tỉnh đạt chuẩn phổ cập giáo dục THCS mức độ 3 là 6 tỉnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Tỷ lệ người biết chữ mức độ 1 trong độ tuổi theo quy định là 99,12%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "11. Tỷ lệ người biết chữ mức độ 2 trong độ tuổi theo quy định là 97,74%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "12. Số đơn vị cấp tỉnh đạt chuẩn xóa mù chữ mức độ 2 là 27 tỉnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "13. Tỷ lệ giáo viên mầm non đạt chuẩn đào tạo là 90%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "14. Tỷ lệ giáo viên tiểu học đạt chuẩn đào tạo là 91%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "15. Tỷ lệ giáo viên THCS đạt chuẩn đào tạo là 95%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "16. Tỷ lệ giáo viên THPT đạt chuẩn đào tạo là 100%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "17. Tỷ lệ giảng viên đại học có bằng tiến sĩ là 34,50%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "18. Tỷ lệ sinh viên học đại học/vạn dân là 225 sinh viên/vạn dân.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "19. Tỷ lệ trường mầm non đạt chuẩn quốc gia mức độ 1 là 44,50%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "20. Tỷ lệ trường mầm non đạt chuẩn quốc gia mức độ 2 là 15%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "21. Tỷ lệ trường tiểu học đạt chuẩn quốc gia mức độ 1 là 64,50%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": null,
+          "text": "22. Tỷ lệ trường tiểu học đạt chuẩn quốc gia mức độ 2 là 17,50%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": null,
+          "text": "23. Tỷ lệ trường trung học đạt chuẩn quốc gia mức độ 1 là 48%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": null,
+          "text": "24. Tỷ lệ trường trung học đạt chuẩn quốc gia mức độ 2 là 17%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": null,
+          "text": "25. Tỷ lệ thiết bị dạy học tối thiểu cấp mầm non là 49,65%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": null,
+          "text": "26. Tỷ lệ thiết bị dạy học tối thiểu cấp tiểu học là 48,33%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "27",
+          "heading": null,
+          "text": "27. Tỷ lệ thiết bị dạy học tối thiểu cấp THCS là 46,32%.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "28",
+          "heading": null,
+          "text": "28. Tỷ lệ thiết bị dạy học tối thiểu cấp THPT là 38,72%.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch nhiệm vụ, giải pháp trọng tâm năm học 2025 - 2026 của ngành Giáo dục.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ; Giám đốc Sở Giáo dục và Đào tạo; Giám đốc các đại học, học viện; Hiệu trưởng các trường đại học, cao đẳng sư phạm, cơ sở giáo dục nghề ng",
+      "text": "Điều 3. Chánh Văn phòng, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ; Giám đốc Sở Giáo dục và Đào tạo; Giám đốc các đại học, học viện; Hiệu trưởng các trường đại học, cao đẳng sư phạm, cơ sở giáo dục nghề nghiệp chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

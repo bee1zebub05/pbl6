@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Công tác sinh viên/0010_16_2015_TT-BGDĐT_Ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình.txt",
   "mappedBy": "gemini-web",
-  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "note": "19 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo). Bỏ BASED_ON \"2012\": PDF gốc trang 1 chỉ ghi \"Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012\", không có số hiệu; \"2012\" là năm, không phải số hiệu.",
   "document": {
     "documentNumber": "16/2015/TT-BGDĐT",
     "title": "Thông tư Ban hành Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy",
@@ -40,12 +40,6 @@
     }
   ],
   "citations": [
-    {
-      "targetDocumentNumber": "2012",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012;"
-    },
     {
       "targetDocumentNumber": "32/2008/NĐ-CP",
       "relationType": "BASED_ON",

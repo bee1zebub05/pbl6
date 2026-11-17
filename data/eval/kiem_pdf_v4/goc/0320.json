@@ -1,0 +1,276 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Khoa học Công nghệ/0320_4960_HD-ĐHĐN_Hướng dẫn khung đảm bảo chất lượng trong nghiên cứu khoa học.txt",
+  "mappedBy": "gemini-web",
+  "note": null,
+  "document": {
+    "documentNumber": "4960/HD-ĐHĐN",
+    "title": "Hướng dẫn Khung đảm bảo chất lượng trong nghiên cứu khoa học",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "23/11/2023",
+    "effectiveDate": "23/11/2023",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Khoa học Công nghệ",
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Hướng dẫn Khung đảm bảo chất lượng trong nghiên cứu khoa học tại Đại học Đà Nẵng, bao gồm chu trình PDCA, các nội dung cần rà soát, đánh giá và danh mục chỉ số thực hiện (PI, KPI) để nâng cao chất lượng nghiên cứu khoa học.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng cơ sở giáo dục (CSGD) đại học"
+    },
+    {
+      "targetDocumentNumber": "1668/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Công văn số 1668/QLCL-KĐCLGD ngày 31/12/2019 của Cục Quản lý chất lượng về việc thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL - KĐCLGD ngày 20/4/2018 của Cục Quản lý chất lượng"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Cục Quản lý chất lượng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục HƯỚNG DẪN XÂY DỰNG CHỈ SỐ THỰC HIỆN PI VÀ CHỈ SỐ THỰC HIỆN CHÍNH KPI CẦN GIÁM SÁT TRONG NGHIÊN CỨU KHOA HỌC",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Chỉ số trích dẫn trung bình trên bài báo (cả WoS và Scopus)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Doanh thu từ NCKH và chuyển giao công nghệ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Số bài báo WoS, Scopus có hợp tác quốc tế",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Số bài đăng tạp chí KH cấp Ngành trong nước",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Số bài đăng tạp chí KH quốc tế Danh mục WoS",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Số bài đăng tạp chí KH quốc tế Danh mục Scopus",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Số bài đăng tạp chí KH quốc tế Khác",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Số bài đăng tạp chí/tập san của cấp trường",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Số bản quyền tác giả",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Số bản quyền tác giả đưa vào sử dụng",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "11. Số Bằng độc quyền sáng chế hoặc Bằng độc quyền giải pháp hữu ích",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "12. Số doanh nghiệp khởi nghiệp mở mới/năm của đơn vị, cán bộ khoa học, sinh viên và cựu sinh viên",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "13. Số doanh nghiệp spin-off (được hình thành từ kết quả nghiên cứu của giảng viên và sinh viên)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "14. Số đề tài cấp Bộ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "15. Số đề tài cấp Nhà nước",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "16. Số đề tài cấp trường",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "17. Số đối tác doanh nghiệp trong NCKH chuyển giao công nghệ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "18. Số giải thưởng KHCN và đổi mới sáng tạo cấp quốc gia, quốc tế của nhà khoa học, sinh viên/năm",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "19. Số không gian sáng tạo và hỗ trợ khởi nghiệp",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "20. Số lượng báo cáo Hội thảo cấp trường",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "21. Số lượng báo cáo Hội thảo quốc tế",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": null,
+          "text": "22. Số lượng báo cáo Hội thảo trong nước",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": null,
+          "text": "23. Số lượng hội nghị, hội thảo quốc tế do đơn vị tổ chức",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": null,
+          "text": "24. Số nhóm nghiên cứu mạnh",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": null,
+          "text": "25. Số sách chuyên khảo xuất bản",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": null,
+          "text": "26. Số sách giáo trình xuất bản",
+          "isImplementationClause": false
+        },
+        {
+          "number": "27",
+          "heading": null,
+          "text": "27. Số sách tham khảo xuất bản",
+          "isImplementationClause": false
+        },
+        {
+          "number": "28",
+          "heading": null,
+          "text": "28. Số sản phẩm công nghệ cao hoặc sản phẩm được ứng dụng trong thực tiễn, chuyển giao, thương mại hoá",
+          "isImplementationClause": false
+        },
+        {
+          "number": "29",
+          "heading": null,
+          "text": "29. Số sáng chế hoặc giải pháp hữu ích được đưa vào ứng dụng",
+          "isImplementationClause": false
+        },
+        {
+          "number": "30",
+          "heading": null,
+          "text": "30. Số vườn ươm doanh nghiệp",
+          "isImplementationClause": false
+        },
+        {
+          "number": "31",
+          "heading": null,
+          "text": "31. Tỷ trọng nguồn thu từ các hoạt động KHCN và đổi mới sáng tạo, chuyển giao, thương mại hoá và hỗ trợ khởi nghiệp/tổng thu",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Chu trình đảm bảo và nâng cao chất lượng nghiên cứu khoa học trong cơ sở giáo dục đại học",
+      "text": "Điều 1. Chu trình đảm bảo và nâng cao chất lượng nghiên cứu khoa học trong cơ sở giáo dục đại học. Đảm bảo và nâng cao chất lượng nghiên cứu khoa học (NCKH) được thực hiện thường xuyên, không ngừng cải tiến, nâng cao chất lượng theo chu trình PDCA (Plan Lập kế hoạch; Do Thực hiện; Check Kiểm tra, đánh giá và Act Cải tiến) hay còn gọi là chu trình Deming.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hướng dẫn thực hiện công tác đảm bảo chất lượng nghiên cứu khoa học",
+      "text": "Điều 2. Hướng dẫn thực hiện công tác đảm bảo chất lượng nghiên cứu khoa học. Trên cơ sở chu trình đảm bảo và nâng cao chất lượng nghiên cứu khoa học ở phần 1, các đơn vị thực hiện rà soát các nội dung theo bảng dưới đây, đánh giá hiện trạng, lập kế hoạch và thực hiện các hoạt động cần thiết để cải tiến, nâng cao chất lượng NCKH.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 3. Tổ chức thực hiện. 3.1. Ban Đảm bảo Chất lượng Giáo dục: Tư vấn, tham mưu cho Giám đốc Đại học Đà Nẵng để triển khai các nội dung trong Khung đảm bảo chất lượng trong nghiên cứu khoa học. Giám sát việc thực hiện các nhiệm vụ theo Khung đảm bảo chất lượng trong nghiên cứu khoa học ở các trường đại học thành viên, các đơn vị thuộc, trực thuộc ĐHĐN theo quy định. Hỗ trợ các trường đại học thành viên, các đơn vị thuộc, trực thuộc ĐHĐN tiến hành công tác rà soát, tự đánh giá và đánh giá ngoài, cải tiến chất lượng theo Khung đảm bảo chất lượng trong nghiên cứu khoa học. Thu thập, lưu trữ và khai thác dữ liệu về đảm bảo chất lượng trong nghiên cứu khoa học phục vụ báo cáo, giải trình với các bên liên quan. 3.2. Ban Khoa học, Công nghệ và Môi trường: Tham mưu cho Ban Giám đốc Đại học Đà Nẵng thực hiện các nội dung quản trị như: kế hoạch chiến lược NCKH, nội dung về NCKH thể hiện trong tầm nhìn, sứ mạng, giá trị văn hóa, mục tiêu chiến lược, chính sách NCKH của Đại học Đà Nẵng. Tham mưu cho Ban Giám đốc Đại học Đà Nẵng phối hợp với các đơn vị xây dựng và ban hành các quy định nâng cao hiệu quả hoạt động nghiên cứu khoa học và công nghệ của Đại học Đà Nẵng và của các đơn vị. Hướng dẫn, tư vấn, phối hợp với các trường đại học thành viên và các đơn vị đào tạo thuộc, trực thuộc trong tổ chức các nội dung trong Khung đảm bảo chất lượng. Chủ trì tổ chức hội nghị, tọa đàm để chia sẻ kinh nghiệm giữa các trường thành viên và đơn vị thuộc, trực thuộc. Tư vấn, hỗ trợ, hướng dẫn, tập huấn, bồi dưỡng về các nội dung để triển khai công tác bảo đảm chất lượng giáo dục trong NCKH. 3.3. Các trường đại học thành viên và đơn vị đào tạo thuộc, trực thuộc: Các trường đại học thành viên xây dựng kế hoạch chiến lược NCKH, các nội dung về NCKH thể hiện trong tầm nhìn, sứ mạng, giá trị văn hóa, mục tiêu chiến lược, chính sách NCKH của CSGD. Tổ chức, quản lý hoạt động nghiên cứu khoa học, chuyển giao công nghệ của đơn vị đáp ứng Khung đảm bảo chất lượng trong nghiên cứu khoa học. Thực hiện rà soát, lập kế hoạch, báo cáo cải tiến, nâng cao chất lượng giáo dục theo Khung đảm bảo chất lượng trong nghiên cứu khoa học. Các đơn vị đào tạo thuộc, trực thuộc: lựa chọn các nội dung phù hợp với mục tiêu, nhu cầu và thực trạng của đơn vị để triển khai thực hiện. 3.4. Các cá nhân và tổ chức khác theo chức năng, quyền và nghĩa vụ của mình chủ động, tích cực tham gia thực hiện, tuyên truyền, kiểm tra, giám sát việc thực hiện Khung đảm bảo chất lượng trong nghiên cứu khoa học.",
+      "isImplementationClause": true
+    }
+  ]
+}

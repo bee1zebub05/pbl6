@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tài chính, kế toán/0413_534_QĐ-BGDĐT_Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Bộ Giáo d.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "534/QĐ-BGDĐT",
+    "title": "Quyết định công bố công khai quyết toán ngân sách nhà nước năm 2023 của Bộ Giáo dục và Đào tạo",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "28/02/2025",
+    "effectiveDate": "28/02/2025",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Tài chính, kế toán"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Quyết định công bố công khai thuyết minh và số liệu quyết toán ngân sách nhà nước năm 2023 của Bộ Giáo dục và Đào tạo.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Ngọc Thưởng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "163/2016/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 163/2016/NĐ-CP ngày 21/12/2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước;"
+    },
+    {
+      "targetDocumentNumber": "86/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24/10/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "61/2017/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 61/2017/TT-BTC ngày 15 tháng 6 năm 2017 của Bộ Tài chính hướng dẫn thực hiện công khai ngân sách đối với đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "90/2018/TT-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 90/2018/TT-BTC ngày 28/9/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 61/2017/TT-BTC ngày 15/6/2017 của Bộ Tài chính hướng dẫn về công khai ngân sách đối với đơn vị dự toán ngân sách, tổ chức được ngân sách nhà nước hỗ trợ;"
+    },
+    {
+      "targetDocumentNumber": "178/TB-BTC",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông báo số 178/TB-BTC ngày 14/02/2025 của Bộ Tài chính về việc xét duyệt quyết toán ngân sách năm 2023 của Bộ GDĐT;"
+    }
+  ],
+  "mentions": [
+    "Bộ Tài chính"
+  ],
+  "normativeContents": [
+    {
+      "title": "Thuyết minh quyết toán ngân sách nhà nước năm 2023 của Bộ Giáo dục và Đào tạo",
+      "contentType": "Hướng dẫn",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Thu phí, lệ phí: Tổng số thu trong năm: 2.665.750.000 đồng; Số phải nộp ngân sách nhà nước: 1.066.300.000 đồng; Số được khấu trừ/để lại: 1.599.450.000 đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Quyết toán chi ngân sách: 2.1. Số liệu quyết toán vốn trong nước: Số dư kinh phí năm trước chuyển sang: 313.894.761.775 đồng; Dự toán được giao trong năm: 5.708.918.300.000 đồng (Dự toán giao đầu năm: 3.910.500.000.000 đồng; Dự toán bổ sung trong năm: 1.798.418.300.000 đồng); Tổng số kinh phí được sử dụng trong năm: 6.022.813.061.775 đồng; Kinh phí thực nhận trong năm: 5.585.587.598.426 đồng; Kinh phí quyết toán: 5.616.677.490.111 đồng; Kinh phí giảm trong năm: 237.765.940.960 đồng; Số dư kinh phí được chuyển sang năm sau sử dụng và quyết toán: 168.369.630.704 đồng (Kinh phí đã nhận: 30.670.652.650 đồng; Dự toán còn dư ở Kho bạc: 137.698.978.054 đồng).",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Công bố công khai thuyết minh và số liệu quyết toán ngân sách nhà",
+      "text": "Điều 1. Công bố công khai thuyết minh và số liệu quyết toán ngân sách nhà\nnước năm 2023 của Bộ Giáo dục và Đào tạo (theo các phụ lục, phụ biểu đính\nkèm).",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ",
+      "text": "Điều 3. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ\ntrưởng các đơn vị có liên quan tổ chức thực hiện Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

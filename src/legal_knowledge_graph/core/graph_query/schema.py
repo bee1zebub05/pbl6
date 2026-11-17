@@ -62,7 +62,7 @@ ENUMS: dict[str, tuple[str, ...]] = {
     ),
     "NormativeContent.contentType": (
         "Quy định", "Quy chế", "Điều lệ", "Quy trình", "Nội quy", "Đề án",
-        "Kế hoạch", "Hướng dẫn", "Chương trình", "Phụ lục",
+        "Kế hoạch", "Hướng dẫn", "Chương trình", "Phụ lục", "Chiến lược",
     ),
 }
 

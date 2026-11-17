@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0160_2085_QLCL-KĐCLGD_2085_QLCL-KĐCLGD Công văn về việc hướng dẫn tự đánh giá và đánh giá ngoài chươ.txt",
+  "mappedBy": "gemini-web",
+  "note": " document.effectiveDate sửa từ 31/12/2020 thành null theo PDF gốc trang 1-17 (công văn không ghi ngày hiệu lực). citations[0] (38/2013/TT-BGDĐT) relationType sửa từ BASED_ON thành REFERENCES (câu \"Để triển khai...\" và chú thích, không phải câu căn cứ) theo PDF gốc trang 1. citations thêm REPLACES 1075/KTKĐCLGD-KĐĐH và 1076/KTKĐCLGD-KĐĐH theo PDF gốc trang 17.",
+  "document": {
+    "documentNumber": "2085/QLCL-KĐCLGD",
+    "title": "Hướng dẫn tự đánh giá và đánh giá ngoài chương trình đào tạo",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "31/12/2020",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL",
+      "Đào tạo"
+    ],
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Hướng dẫn triển khai công tác tự đánh giá và đánh giá ngoài chương trình đào tạo của các cơ sở giáo dục đại học và trường cao đẳng có đào tạo giáo viên theo quy định hiện hành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Cục Quản lý chất lượng",
+    "orgType": "don_vi_truc_thuoc",
+    "parentOrg": "Bộ Giáo dục và Đào tạo",
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Mỹ Phong",
+      "academicTitle": null,
+      "position": [
+        "Phó Cục trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "38/2013/TT-BGDĐT",
+      "relationType": "REFERENCES",
+      "targetArticle": null,
+      "context": "Để triển khai công tác tự đánh giá và đánh giá ngoài chương trình đào tạo (CTĐT) của cơ sở giáo dục đại học, trường cao đẳng có đào tạo giáo viên theo các quy định hiện hành, Cục Quản lý chất lượng Bộ Giáo dục và Đào tạo (GDĐT) hướng dẫn triển khai công tác tự đánh giá và đánh giá ngoài CTĐT như sau"
+    },
+    {
+      "targetDocumentNumber": "1075/KTKĐCLGD-KĐĐH",
+      "relationType": "REPLACES",
+      "context": "Công văn này thay thế Công văn số 1075/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn tự đánh giá chương trình đào tạo và Công văn số 1076/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn đánh giá ngoài chương trình đào tạo.",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "1076/KTKĐCLGD-KĐĐH",
+      "relationType": "REPLACES",
+      "context": "Công văn này thay thế Công văn số 1075/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn tự đánh giá chương trình đào tạo và Công văn số 1076/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn đánh giá ngoài chương trình đào tạo.",
+      "targetArticle": null
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Công an",
+    "Bộ Quốc phòng"
+  ],
+  "normativeContents": [],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": null,
+      "text": "Điều 1. Công văn này thay thế Công văn số 1075/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn tự đánh giá chương trình đào tạo và Công văn số 1076/KTKĐCLGD-KĐĐH ngày 28/6/2016 của Cục Quản lý chất lượng về việc hướng dẫn đánh giá ngoài chương trình đào tạo.",
+      "isImplementationClause": true
+    }
+  ]
+}

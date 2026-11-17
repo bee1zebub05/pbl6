@@ -11,6 +11,7 @@ op:
     set_cite     sửa trích dẫn có targetDocumentNumber == `dich` (và relationType == `loai` nếu có):
                  `moi` là dict các trường mới (relationType, context, targetArticle)
     add_cite     thêm trích dẫn `moi` (dict đủ 4 trường); bỏ qua nếu đã có cùng đích + loại
+    del_cite     bỏ trích dẫn có targetDocumentNumber == `dich` (`moi` để null)
     del_article  bỏ phần tử articles có number == `moi`
 
 Mỗi mục: nối một câu vào note, validate cả tệp (hỏng thì hoàn tác tệp đó), ghi một dòng vào
@@ -81,6 +82,12 @@ def ap(d, m):
             return None, None
         d["citations"].append(c)
         return f"citations[+{c['targetDocumentNumber']}]", None
+    if op == "del_cite":
+        khop = lambda c: c["targetDocumentNumber"] == m["dich"] and (not m.get("loai") or c["relationType"] == m["loai"])
+        cu = [c for c in d["citations"] if khop(c)]
+        assert len(cu) == 1, ("del_cite", m["ma"], m["dich"], len(cu))
+        d["citations"] = [c for c in d["citations"] if not khop(c)]
+        return f"citations[-{m['dich']}]", cu[0]
     if op == "del_article":
         cu = [a for a in d["articles"] if a["number"] == m["moi"]]
         assert len(cu) == 1, ("del_article", m["ma"], m["moi"])
@@ -93,6 +100,8 @@ def cau_note(truong, cu, moi, trang):
     rut = lambda v: json.dumps(v, ensure_ascii=False)[:120] if not isinstance(v, str) else v[:120]
     if cu is None:
         return f"Thêm {truong} theo PDF gốc trang {trang}."
+    if moi is None:
+        return f"Bỏ {truong} {rut(cu)}: {trang}."
     return f"{truong} sửa từ {rut(cu)} thành {rut(moi)} theo PDF gốc trang {trang}."
 
 

@@ -1,0 +1,395 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0456_245_HD-ĐHĐN_Hướng dẫn Khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵ.txt",
+  "mappedBy": "gemini-web",
+  "note": " document.effectiveDate sửa từ 23/01/2026 thành null theo PDF gốc trang 1-16 (hướng dẫn không ghi ngày hiệu lực). citations thêm BASED_ON 766/QLCL-KĐCLGD và 1668/QLCL-KĐCLGD (nêu trong phần căn cứ) theo PDF gốc trang 1.",
+  "document": {
+    "documentNumber": "245/HD-ĐHĐN",
+    "title": "Hướng dẫn Khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵng",
+    "documentType": "Hướng dẫn",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "23/01/2026",
+    "effectiveDate": null,
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ sở giáo dục / trường đại học thành viên"
+    ],
+    "summary": "Hướng dẫn khung bảo đảm chất lượng kết quả học tập của người học tại Đại học Đà Nẵng, bao gồm chu trình PDCA, các nội dung cần rà soát và hướng dẫn xây dựng chỉ số thực hiện (PI) và chỉ số thực hiện chính (KPI) nhằm hỗ trợ các đơn vị hoàn thiện hệ thống bảo đảm chất lượng giáo dục bên trong.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Thành Bắc",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "12/2017/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 12/2017/TT-BGDĐT ngày 19/5/2017 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng cơ sở giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "01/2024/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 01/2024/TT-BGDĐT ngày 05/2/2024 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Chuẩn cơ sở giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "04/2025/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 04/2025/TT-BGDĐT ngày 17/02/2025 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về kiểm định chất lượng chương trình đào tạo các trình độ của giáo dục đại học"
+    },
+    {
+      "targetDocumentNumber": "08/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 08/2021/TT-BGDĐT ngày 18/3/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học"
+    },
+    {
+      "targetDocumentNumber": "23/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 23/2021/TT-BGDĐT ngày 30/8/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ"
+    },
+    {
+      "targetDocumentNumber": "18/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 18/2021/TT-BGDĐT ngày 28/6/2021 Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ"
+    },
+    {
+      "targetDocumentNumber": "28/2023/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Thông tư số 28/2023/TT-BGDĐT ngày 28/12/2023 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo từ xa trình độ đại học"
+    },
+    {
+      "targetDocumentNumber": "766/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "context": "Công văn số 766/QLCL-KĐCLGD ngày 20/4/2018 của Cục Quản lý chất lượng v/v hướng dẫn tự đánh giá cơ sở giáo dục đại học,",
+      "targetArticle": null
+    },
+    {
+      "targetDocumentNumber": "1668/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "context": "Công văn số 1668/QLCL-KĐCLGD ngày 31/12/2019 của Cục Quản lý chất lượng về việc thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL-KĐCLGD ngày 20/4/2018 của Cục Quản lý chất lượng,",
+      "targetArticle": null
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Phụ lục: Hướng dẫn xây dựng chỉ số thực hiện - PI và chỉ số thực hiện chính - KPI về kết quả học tập của người học",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "1. Điểm trung bình của những học phần mà sinh viên đã học trong một học kỳ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "2. Điểm trúng tuyển (thang điểm 30) theo ngành đào tạo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "3. Điểm trúng tuyển trung bình của người học được tuyển",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "4. Mức độ hài lòng của các bên liên quan",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "5. Mức độ người học đạt chuẩn đầu ra CTĐT",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "6. Số lượng học viên tốt nghiệp cao học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "7. Số lượng nghiên cứu sinh bảo vệ thành công luận án tiến sĩ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "8. Số lượng người học nhập học thực tế",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "9. Số lượng người học tốt nghiệp trong năm, quá hạn ≤ 0,5 thời gian tiêu chuẩn",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "10. Số lượng người học tốt nghiệp trong năm, quá hạn 1,5 thời gian tiêu chuẩn",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "11. Số lượng sinh viên quốc tế nhập học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "12. Số lượng sinh viên tốt nghiệp đại học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "13. Số lượng thí sinh dự tuyển",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "14. Số lượng thí sinh trúng tuyển",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "15. Số tín chỉ được công nhận, chuyển đổi sang tín chỉ của những học phần trong chương trình đào tạo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "16. Thu nhập bình quân/tháng của sinh viên tốt nghiệp có việc làm",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "17. Tổng số tín chỉ của những học phần mà sinh viên không đạt trong một học kỳ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "18. Tỷ lệ % sinh viên đạt chuẩn đầu ra CTĐT/Tổng số sinh viên đến thời hạn tốt nghiệp",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "19. Tỷ lệ % sinh viên nhập học/Chỉ tiêu tuyển sinh",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "20. Tỷ lệ % sinh viên đạt học phần/Tổng số sinh viên đăng ký HP",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "21. Tỷ lệ cạnh tranh trong tuyển sinh (số người đăng ký/chỉ tiêu)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": null,
+          "text": "22. Tỷ lệ có việc làm phù hợp với chuyên môn và trình độ đào tạo trong 12 tháng kể từ khi tốt nghiệp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": null,
+          "text": "23. Tỷ lệ có việc làm phù hợp với chuyên môn và trình độ đào tạo trong 6 tháng kể từ khi tốt nghiệp.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": null,
+          "text": "24. Tỷ lệ có việc làm trái ngành đào tạo",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": null,
+          "text": "25. Tỷ lệ giữa số luận văn phải thẩm định lại trên tổng số luận văn được đánh giá.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": null,
+          "text": "26. Tỷ lệ giữa số sinh viên tốt nghiệp đúng hạn/số nhập học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "27",
+          "heading": null,
+          "text": "27. Tỷ lệ giữa số người học tốt nghiệp quá hạn ≤ 0,5 thời gian tiêu chuẩn/số người nhập học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "28",
+          "heading": null,
+          "text": "28. Tỷ lệ giữa số người học tốt nghiệp quá hạn 1,5 thời gian tiêu chuẩn/số người nhập học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "29",
+          "heading": null,
+          "text": "29. Tỷ lệ sinh viên học lại, thi cải thiện điểm/Tổng số sinh viên đăng ký HP",
+          "isImplementationClause": false
+        },
+        {
+          "number": "30",
+          "heading": null,
+          "text": "30. Tỷ lệ sinh viên thôi học năm đầu/Tổng số sinh viên nhập học",
+          "isImplementationClause": false
+        },
+        {
+          "number": "31",
+          "heading": null,
+          "text": "31. Tỷ lệ người học tốt nghiệp có việc làm bao gồm cả tự tạo việc làm, khởi nghiệp và học nâng cao trình độ",
+          "isImplementationClause": false
+        },
+        {
+          "number": "32",
+          "heading": null,
+          "text": "32. Tỷ lệ phúc khảo trên 1000 bài thi",
+          "isImplementationClause": false
+        },
+        {
+          "number": "33",
+          "heading": null,
+          "text": "33. Tỷ lệ sinh viên bị buộc thôi học trên tổng số sinh viên",
+          "isImplementationClause": false
+        },
+        {
+          "number": "34",
+          "heading": null,
+          "text": "34. Tỷ lệ sinh viên bị cảnh báo học tập trên tổng số sinh viên",
+          "isImplementationClause": false
+        },
+        {
+          "number": "35",
+          "heading": null,
+          "text": "35. Tỷ lệ sinh viên tốt nghiệp cơ bản đáp ứng yêu cầu của công việc, nhưng phải đào tạo thêm",
+          "isImplementationClause": false
+        },
+        {
+          "number": "36",
+          "heading": null,
+          "text": "36. Tỷ lệ sinh viên tốt nghiệp có việc làm trong năm đầu tiên sau khi tốt nghiệp",
+          "isImplementationClause": false
+        },
+        {
+          "number": "37",
+          "heading": null,
+          "text": "37. Tỷ lệ sinh viên đáp ứng yêu cầu của công việc, có thể sử dụng được ngay",
+          "isImplementationClause": false
+        },
+        {
+          "number": "38",
+          "heading": null,
+          "text": "38. Tỷ lệ sinh viên được học tiếp lên năm học sau (đào tạo theo niên chế)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "39",
+          "heading": null,
+          "text": "39. Tỷ lệ sinh viên phải được đào tạo lại hoặc đào tạo bổ sung ít nhất 6 tháng",
+          "isImplementationClause": false
+        },
+        {
+          "number": "40",
+          "heading": null,
+          "text": "40. Tỷ lệ sinh viên tốt nghiệp so với số tuyển vào",
+          "isImplementationClause": false
+        },
+        {
+          "number": "41",
+          "heading": null,
+          "text": "41. Tỷ lệ sinh viên tốt nghiệp xếp hạng Xuất sắc, Giỏi, Khá, Trung bình",
+          "isImplementationClause": false
+        },
+        {
+          "number": "42",
+          "heading": null,
+          "text": "42. Tỷ lệ sinh viên trả lời về kiến thức và kỹ năng cần thiết cho công việc theo ngành tốt nghiệp: đáp ứng tốt/ đáp ứng 1 phần / không đáp ứng",
+          "isImplementationClause": false
+        },
+        {
+          "number": "43",
+          "heading": null,
+          "text": "43. Tỷ lệ sinh viên vi phạm kỷ luật/Tổng số sinh viên tham gia thi",
+          "isImplementationClause": false
+        },
+        {
+          "number": "44",
+          "heading": null,
+          "text": "44. Tỷ lệ sinh viên xếp loại Xuất sắc, Giỏi, Khá, Trung bình, Yếu, Kém",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Chu trình bảo đảm và nâng cao chất lượng kết quả học tập của người học",
+      "text": "Điều 1. Chu trình bảo đảm và nâng cao chất lượng kết quả học tập của người học. Bảo đảm và nâng cao chất lượng kết quả học tập (KQHT) của người học được thực hiện theo chu trình PDCA (Plan - Lập kế hoạch, Do - Thực hiện, Check - Kiểm tra, đánh giá và Act - Cải tiến) hay còn gọi là chu trình Deming. Các bước trong Chu trình bảo đảm và nâng cao chất lượng kết quả học tập của người học tại Đại học Đà Nẵng như trong Sơ đồ 1.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Hướng dẫn thực hiện công tác bảo đảm chất lượng kết quả học tập của người học",
+      "text": "Điều 2. Hướng dẫn thực hiện công tác bảo đảm chất lượng kết quả học tập của người học. Trên cơ sở chu trình bảo đảm và nâng cao chất lượng kết quả học tập của người học ở phần 1, các đơn vị thực hiện rà soát các nội dung theo bảng dưới đây, đánh giá hiện trạng, lập kế hoạch và thực hiện các hoạt động cần thiết để cải tiến, nâng cao chất lượng kết quả học tập và việc quản lý KQHT của người học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Tổ chức thực hiện",
+      "text": "Điều 3. Tổ chức thực hiện. 3.1. Ban Đào tạo và Đảm bảo chất lượng giáo dục: - Tham mưu cho Giám đốc Đại học Đà Nẵng về chiến lược, chính sách, và cơ chế triển khai khai các nội dung trong Khung bảo đảm chất lượng kết quả học tập của người học tại ĐHĐN. - Theo dõi, tổng hợp việc thực hiện các nhiệm vụ theo Khung bảo đảm chất lượng kết quả học tập của người học tại các trường đại học thành viên, các đơn vị đào tạo thuộc, trực thuộc ĐHĐN theo quy định. - Hướng dẫn, hỗ trợ các trường đại học thành viên, các đơn vị đào tạo thuộc, trực thuộc ĐHĐN tiến hành công tác rà soát, tự đánh giá và đánh giá ngoài, cải tiến chất lượng theo Khung bảo đảm chất lượng kết quả học tập của người học tại ĐHĐN. Tổng hợp, lưu trữ và khai thác dữ liệu về bảo đảm chất lượng kết quả học tập của người học phục vụ báo cáo. Chủ trì tổ chức hội nghị, tọa đàm để chia sẻ kinh nghiệm giữa các trường đại học thành viên và các đơn vị đào tạo thuộc, trực thuộc về bảo đảm chất lượng kết quả học tập của người học. 3.2. Các trường đại học thành viên và đơn vị đào tạo thuộc, trực thuộc: Chủ động vận dụng Khung bảo đảm chất lượng kết quả học tập của người học tại ĐHĐN để rà soát, lập kế hoạch, cải tiến và nâng cao chất lượng kết quả học tập của người học tại đơn vị mình. Trong quá trình thực hiện đồng thời thu thập, lưu trữ thông tin và minh chứng phục vụ cho bảo đảm và kiểm định chất lượng, báo cáo và giải trình cho các bên liên quan. Hướng dẫn triển khai thực hiện các nhiệm vụ bảo đảm chất lượng, kiểm định chất lượng, hệ thống KPI theo Khung bảo đảm chất lượng kết quả học tập của người học tại ĐHĐN cho đơn vị mình. 3.3. Các cá nhân và tổ chức khác theo chức năng, quyền và nghĩa vụ của mình chủ động, tích cực tham gia thực hiện, tuyên truyền, kiểm tra, giám sát việc thực hiện Khung bảo đảm chất lượng kết quả học tập của người học tại ĐHĐN.",
+      "isImplementationClause": true
+    }
+  ]
+}

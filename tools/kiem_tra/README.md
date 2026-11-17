@@ -37,6 +37,34 @@ thể không có khối ký. Nên báo cáo tách theo loại văn bản để b
 
 Chỉ sáu file này là đủ để dựng lại báo cáo — đã kiểm bằng cách lần theo đồ thị import.
 
+## Vét quan hệ hiệu lực bù cho model (`vet_quan_he.py`)
+
+Bước chạy SAU `tools/gemini_api/chay_json.py`, trước bước đối chiếu ảnh PDF. Model đọc
+`.txt` và điền JSON tốt ở những phần cần hiểu nghĩa (căn cứ, dẫn chiếu), nhưng bỏ cả danh
+sách khi văn bản viết "Bãi bỏ toàn bộ các văn bản sau đây: 1. … 2. …". Luật mở rộng mỗi
+câu bãi bỏ/thay thế tới hết câu hoặc hết danh sách và lấy mọi số hiệu trong đó.
+
+```bash
+python tools/kiem_tra/vet_quan_he.py --do                 # đo trên tập chuẩn data/eval/kiem_pdf_v4
+python tools/kiem_tra/vet_quan_he.py --chi 0143 --ghi     # thêm quan hệ còn thiếu vào JSON v4
+```
+
+Đo trên 218 văn bản đã đối chiếu PDF (nhóm 1–4). Luật được chỉnh trên nhóm 1–3; trên nhóm 4,
+chưa dùng để chỉnh, luật vẫn đúng 29/29 REPLACES và 2/2 REPEALS.
+
+| Loại | Trong chuẩn | Model | Luật (đúng/ra) | Model + luật |
+|---|---|---|---|---|
+| REPLACES | 52 | 44 (85%) | 46/46 | 45 (87%) |
+| REPEALS | 129 | 58 (45%) | 93/93 | 128 (99%) |
+| AMENDS | 35 | 30 (86%) | 6/17 | 30 (86%) |
+
+Số hiệu model đã ghi nhưng gán loại khác với luật thì `--ghi` không tự đổi, chỉ in dòng `?`
+để kiểm bằng ảnh PDF (nhóm 4: 0432 ghi REPEALS cho 6 thông tư mà văn bản viết "thay thế").
+
+Chỉ tự thêm REPLACES/REPEALS và chỉ thêm số hiệu JSON chưa có; không xoá, không đổi quan
+hệ model đã ghi. AMENDS chỉ đúng 4/10 nên không tự thêm. Số hiệu lấy từ `.txt` nên còn
+lỗi OCR, mọi quan hệ thêm vào vẫn phải qua bước đối chiếu ảnh PDF.
+
 ## So với bản gốc và truy nguồn trang
 
 Hai công cụ dưới đây cần PDF gốc trong `data/raw/pdf/` (ngoài git, 2,3 GB).

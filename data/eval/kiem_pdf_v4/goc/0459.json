@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Pháp chế/0459_404_QĐ-BGDĐT_Quyết định Ban hành Kế hoạch phổ biến, giáo dục pháp luật của ngành Giáo dục năm.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "404/QĐ-BGDĐT",
+    "title": "Quyết định Ban hành Kế hoạch phổ biến, giáo dục pháp luật của ngành Giáo dục năm 2026",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "13/02/2026",
+    "effectiveDate": "13/02/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Pháp chế"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học"
+    ],
+    "summary": "Quyết định ban hành Kế hoạch phổ biến, giáo dục pháp luật của ngành Giáo dục năm 2026 nhằm nâng cao ý thức chấp hành pháp luật của cán bộ, công chức, viên chức, nhà giáo, người lao động và người học trong toàn ngành.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Văn Phúc",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "1521/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1521/QĐ-TTg ngày 06 tháng 10 năm 2020 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Kết luận số 80-KL/TW ngày 20 tháng 6 năm 2020 của Ban Bí thư"
+    },
+    {
+      "targetDocumentNumber": "09/QĐ-HĐPH",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 09/QĐ-HĐPH ngày 07 tháng 02 năm 2026 của Hội đồng phối hợp phổ biến, giáo dục pháp luật Trung ương phê duyệt Kế hoạch hoạt động năm 2026 của Hội đồng phối hợp phổ biến, giáo dục pháp luật Trung ương;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Tư pháp",
+    "Hội đồng phối hợp phổ biến, giáo dục pháp luật Trung ương",
+    "Công đoàn Giáo dục Việt Nam"
+  ],
+  "normativeContents": [
+    {
+      "title": "Kế hoạch phổ biến, giáo dục pháp luật của ngành giáo dục năm 2026",
+      "contentType": "Kế hoạch",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "MỤC ĐÍCH, YÊU CẦU",
+          "text": "I. MỤC ĐÍCH, YÊU CẦU. 1. Tiếp tục thực hiện có hiệu quả nhiệm vụ phổ biến, giáo dục pháp luật (PBGDPL) được đề ra tại Nghị quyết số 27-NQ/TW ngày 09/11/2022 của Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng khóa XIII về tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới, Kết luận số 80-KL/TW ngày 20/6/2020 của Ban Bí thư về tiếp tục thực hiện Chỉ thị số 32-CT/TW ngày 09/12/2003 của Ban Bí thư về tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân, Quyết định số 1521/QĐ-TTg ngày 06/10/2020 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Kết luận số 80-KL/TW, Luật Phổ biến, giáo dục pháp luật và văn bản hướng dẫn thi hành, các quyết định của Thủ tướng Chính phủ phê duyệt đề án PBGDPL. 2. Bảo đảm công tác PBGDPL được tổ chức triển khai thực chất, bám sát nội dung, yêu cầu đổi mới công tác PBGDPL trong điều kiện hiện nay, phù hợp với tinh thần văn kiện Đại hội XIII của Đảng và các văn bản của Ban Bí thư Trung ương Đảng về PBGDPL; bám sát các nhiệm vụ trọng tâm của ngành giáo dục năm 2026, tập trung tuyên truyền, phổ biến các quy định pháp luật mới ban hành liên quan đến quản lý nhà nước về giáo dục và đào tạo; các hoạt động PBGDPL cần hướng tới mục đích góp phần xây dựng ý thức và lối sống thượng tôn Hiến pháp và pháp luật của cán bộ, công chức, viên chức, nhà giáo, người lao động, người học trong toàn Ngành. 3. Đa dạng hóa các hình thức PBGDPL trong nhà trường, cơ quan, đơn vị trong ngành giáo dục; đẩy mạnh ứng dụng công nghệ thông tin gắn kết chặt chẽ với hoạt động chuyển đổi số, xây dựng hệ thống thông tin PBGDPL; lồng ghép hoạt động PBGDPL với các cuộc vận động, các hoạt động ngoại khóa và các phong trào thi đua lớn của ngành trong năm 2026; nâng cao hiệu quả công tác phối hợp, bảo đảm sự kết nối, lồng ghép các hoạt động; gắn PBGDPL với xây dựng, tổ chức thi hành pháp luật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "NHIỆM VỤ CHUNG",
+          "text": "II. NHIỆM VỤ CHUNG. 1. Hướng dẫn cán bộ, công chức, viên chức ngành giáo dục chủ động tìm hiểu và có trách nhiệm gương mẫu trong thực thi pháp luật, gắn việc thực hiện chức trách, nhiệm vụ với việc thông tin, phổ biến pháp luật tới Nhân dân; gắn phổ biến pháp luật với việc thực hiện dân chủ ở cơ sở; đồng thời vận động, khuyến khích công chức, viên chức, nhà giáo, người học tìm hiểu, sử dụng, chấp hành, tuân thủ pháp luật. 2. Tổ chức các lớp tập huấn, bồi dưỡng kiến thức pháp luật, kỹ năng phổ biến, giáo dục pháp luật cho đội ngũ giáo viên môn giáo dục công dân, báo cáo viên và cán bộ phụ trách công tác pháp chế, công tác PBGDPL. Tăng cường bồi dưỡng kiến thức pháp luật cho đội ngũ cán bộ quản lý giáo dục mầm non, phổ thông, đại học, giáo dục thường xuyên, trường cao đẳng sư phạm, người làm công tác liên quan đến chế độ, chính sách đối với nhà giáo. Tổ chức thi tìm hiểu pháp luật và các hình thức tuyên truyền, phổ biến khác phù hợp với điều kiện thực tiễn tại mỗi cơ quan, đơn vị. 3. Triển khai công tác PBGDPL, tư vấn, giải đáp pháp luật trên trang mạng xã hội, cổng thông tin điện tử của cơ quan, đơn vị. Tăng cường triển khai công tác PBGDPL trên môi trường số. Khuyến khích, huy động mọi nguồn lực xã hội tham gia công tác PBGDPL trong nhà trường. 4. Tăng cường sự phối hợp giữa ngành giáo dục, ngành tư pháp và các cơ quan, tổ chức liên quan trong công tác PBGDPL; đảm bảo các điều kiện cho việc triển khai công tác PBGDPL trong nhà trường, góp phần ổn định môi trường giáo dục và nâng cao chất lượng giáo dục. 5. Tổ chức các hoạt động hưởng ứng Ngày Pháp luật Việt Nam năm 2026 (tập trung trong tháng 10, 11 năm 2026) đi vào chiều sâu, thiết thực, gắn với thực hiện nhiệm vụ trọng tâm của ngành, của địa phương, cơ sở giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "III",
+          "heading": "MỘT SỐ NHIỆM VỤ TRỌNG TÂM",
+          "text": "III. MỘT SỐ NHIỆM VỤ TRỌNG TÂM. 1. Nhiệm vụ của các sở giáo dục và đào tạo... (nội dung chi tiết các mục 1, 2, 3)",
+          "isImplementationClause": false
+        },
+        {
+          "number": "IV",
+          "heading": "TỔ CHỨC THỰC HIỆN",
+          "text": "IV. TỔ CHỨC THỰC HIỆN. 1. Các cơ quan, đơn vị nêu tại mục III của Kế hoạch này chủ động triển khai công tác phổ biến, giáo dục pháp luật ở cơ quan, đơn vị mình; tổ chức kiểm tra, đánh giá kết quả công tác PBGDPL và báo cáo BGDĐT (qua Vụ Pháp chế) trước ngày 01/12/2026. 2. Việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí PBGDPL thực hiện theo phân cấp ngân sách hiện hành và Thông tư số 56/2023/TT-BTC ngày 18/8/2023 của Bộ Tài chính quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí bảo đảm cho công tác phổ biến, giáo dục pháp luật, chuẩn tiếp cận pháp luật và hòa giải ở cơ sở. 3. Đề nghị Công đoàn Giáo dục Việt Nam và các tổ chức đoàn thể trong ngành giáo dục có kế hoạch phổ biến, giáo dục pháp luật cho hội viên và phối hợp thực hiện tốt Kế hoạch này. 4. Vụ Pháp chế giúp Bộ trưởng đôn đốc việc thực hiện Kế hoạch này; báo cáo Lãnh đạo Bộ Giáo dục và Đào tạo, Bộ Tư pháp và Hội đồng phối hợp phổ biến, giáo dục pháp luật Trung ương theo quy định./.",
+          "isImplementationClause": true
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Kế hoạch phổ biến, giáo dục pháp luật của ngành Giáo dục năm 2026.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Kế hoạch phổ biến, giáo dục pháp luật của ngành Giáo dục năm 2026.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Pháp chế, Thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo, Giám đốc các sở giáo dục và đào tạo, Giám đốc các đại học, học viện; Hiệu trưởng trường đại học, trường cao ",
+      "text": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Pháp chế, Thủ trưởng các đơn vị thuộc Bộ Giáo dục và Đào tạo, Giám đốc các sở giáo dục và đào tạo, Giám đốc các đại học, học viện; Hiệu trưởng trường đại học, trường cao đẳng sư phạm, Thủ trưởng các cơ quan, tổ chức liên quan chịu trách nhiệm thi hành Quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}

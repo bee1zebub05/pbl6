@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Khoa học Công nghệ/0384_5007_QĐ-ĐHĐN_Ban hành danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm căn cứ 32/CP, 99/2019/NĐ-CP, 10/2020/TT-BGDĐT, 20/2020/TT-BGDĐT, 08/NQ-HĐĐH, 13/NQ-HĐĐH (thiếu trong JSON) theo PDF gốc trang 1-2. citations thêm AMENDS 3237/QĐ-ĐHĐN (Điều 2 bãi bỏ mục 8 và 9 của Bảng 3 Phụ lục ban hành kèm Quyết định này) theo PDF gốc trang 2.",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations thêm căn cứ 32/CP, 99/2019/NĐ-CP, 10/2020/TT-BGDĐT, 20/2020/TT-BGDĐT, 08/NQ-HĐĐH, 13/NQ-HĐĐH (thiếu trong JSON) theo PDF gốc trang 1-2. citations thêm AMENDS 3237/QĐ-ĐHĐN (Điều 2 bãi bỏ mục 8 và 9 của Bảng 3 Phụ lục ban hành kèm Quyết định này) theo PDF gốc trang 2. Bỏ citations[-3237/QĐ-ĐHĐN] {\"targetDocumentNumber\": \"3237/QĐ-ĐHĐN\", \"relationType\": \"BASED_ON\", \"targetArticle\": null, \"context\": \"Căn cứ Quyết địn: số hiệu vừa ở phần Căn cứ vừa là văn bản bị sửa đổi; mỗi số hiệu chỉ một dòng, ưu tiên quan hệ hiệu lực (quy tắc 7b), giữ AMENDS.",
   "document": {
     "documentNumber": "5007/QĐ-ĐHĐN",
     "title": "Quyết định Ban hành Danh mục bổ sung và chi tiết hóa Phụ lục tính quy đổi giờ nghiên cứu khoa học trong Đại học Đà Nẵng ban hành kèm theo Quyết định số 3237/QĐ-ĐHĐN ngày 31/7/2023 của Giám đốc Đại học Đà Nẵng cho các đơn vị thuộc, trực thuộc Đại học Đà Nẵng",
@@ -40,12 +40,6 @@
     }
   ],
   "citations": [
-    {
-      "targetDocumentNumber": "3237/QĐ-ĐHĐN",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Quyết định số 3237/QĐ-ĐHĐN ngày 31 tháng 7 năm 2023 của Giám đốc Đại học Đà Nẵng ban hành Phụ lục thay thế Phụ lục tính quy đổi giờ nghiên cứu khoa học đã được ban hành kèm theo Quyết định số 4766/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng"
-    },
     {
       "targetDocumentNumber": "4766/QĐ-ĐHĐN",
       "relationType": "BASED_ON",

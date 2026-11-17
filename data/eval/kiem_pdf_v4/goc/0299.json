@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Thanh tra, kiểm tra/0299_24_2016_TT-BGDĐT_Thông tư quy dịnh chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra g.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "24/2016/TT-BGDĐT",
+    "title": "Thông tư Ban hành Chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục",
+    "documentType": "Thông tư",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "14/11/2016",
+    "effectiveDate": "29/12/2016",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Thanh tra, kiểm tra"
+    ],
+    "targetGroups": [
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Thông tư này ban hành Chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục, quy định về mục tiêu, đối tượng, nội dung chương trình, hình thức bồi dưỡng và trách nhiệm của các cơ quan, đơn vị liên quan.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Phạm Mạnh Hùng",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/2008/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/2008/NĐ-CP ngày 19 tháng 3 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "97/2011/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 97/2011/NĐ-CP ngày 21 tháng 10 năm 2011 của Chính phủ quy định về thanh tra viên và cộng tác viên thanh tra;"
+    },
+    {
+      "targetDocumentNumber": "42/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 42/2013/NĐ-CP ngày 09 tháng 5 năm 2013 của Chính phủ về Tổ chức và hoạt động thanh tra giáo dục;"
+    },
+    {
+      "targetDocumentNumber": "32/2014/TT-BGDĐT",
+      "relationType": "REPLACES",
+      "targetArticle": null,
+      "context": "Thông tư này có hiệu lực thi hành kể từ ngày 29 tháng 12 năm 2016, thay thế Thông tư số 32/2014/TT-BGDĐT ngày 25 tháng 9 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục."
+    }
+  ],
+  "mentions": [
+    "Thanh tra Chính phủ",
+    "Bộ Tư pháp",
+    "Học viện quản lý giáo dục",
+    "Trường cán bộ quản lý giáo dục Thành phố Hồ Chí Minh"
+  ],
+  "normativeContents": [
+    {
+      "title": "Chương trình Bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục",
+      "contentType": "Chương trình",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "A",
+          "heading": "Mục tiêu, yêu cầu",
+          "text": "A. MỤC TIÊU, YÊU CẦU. I. Mục tiêu: Làm cơ sở bồi dưỡng nghiệp vụ, nâng cao chất lượng, hiệu quả hoạt động của cộng tác viên thanh tra giáo dục, góp phần kiện toàn đội ngũ, đáp ứng yêu cầu đổi mới về tổ chức và hoạt động thanh tra giáo dục. II. Yêu cầu: 1. Về kiến thức: Nắm vững một số quy định pháp luật về thanh tra, kiểm tra, giải quyết khiếu nại, giải quyết tố cáo, phòng chống tham nhũng và xử lý vi phạm hành chính trong lĩnh vực giáo dục. 2. Về kỹ năng: Hình thành, nâng cao các kỹ năng cần thiết để tham gia thực hiện nhiệm vụ thanh tra, kiểm tra, giải quyết khiếu nại, giải quyết tố cáo, phòng chống tham nhũng và xử lý vi phạm hành chính trong lĩnh vực giáo dục. 3. Về thái độ: Nâng cao ý thức tuân thủ pháp luật, ý thức trách nhiệm về vai trò của cộng tác viên thanh tra giáo dục, đáp ứng yêu cầu thực hiện chức năng quản lý nhà nước về giáo dục trong bối cảnh đổi mới căn bản, toàn diện giáo dục Việt Nam.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "B",
+          "heading": "Đối tượng bồi dưỡng",
+          "text": "B. ĐỐI TƯỢNG BỒI DƯỠNG: Cộng tác viên thanh tra giáo dục, các nhà giáo, cán bộ quản lý giáo dục, cá nhân có nhu cầu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "C",
+          "heading": "Chương trình",
+          "text": "C. CHƯƠNG TRÌNH. I. Thời lượng: 75 tiết. 1. Lý thuyết: 25 tiết. 2. Thảo luận - thực hành: 25 tiết. 3. Viết tiểu luận và tìm hiểu thực tế: 25 tiết. II. Khung chương trình: (Bảng nội dung chi tiết theo văn bản gốc).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "D",
+          "heading": "Mô tả nội dung chương trình",
+          "text": "D. MÔ TẢ NỘI DUNG CHƯƠNG TRÌNH. (Chi tiết các mục từ I đến IV quy định về nội dung chi tiết của chương trình bồi dưỡng).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "E",
+          "heading": "Tổ chức thực hiện",
+          "text": "E. TỔ CHỨC THỰC HIỆN. (Chi tiết các mục từ I đến III quy định về hình thức, phương pháp, đánh giá, cơ sở bồi dưỡng và trách nhiệm của các đơn vị).",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Thông tư này Chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục.",
+      "text": "Điều 1. Ban hành kèm theo Thông tư này Chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Thông tư này có hiệu lực thi hành kể từ ngày 29 tháng 12 năm 2016, thay thế Thông tư số 32/2014/TT-BGDĐT ngày 25 tháng 9 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chương trình bồi dưỡn",
+      "text": "Điều 2. Thông tư này có hiệu lực thi hành kể từ ngày 29 tháng 12 năm 2016, thay thế Thông tư số 32/2014/TT-BGDĐT ngày 25 tháng 9 năm 2014 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chương trình bồi dưỡng nghiệp vụ cộng tác viên thanh tra giáo dục.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Chánh Thanh tra, Giám đốc sở giáo dục và đào tạo, Thủ trưởng cơ sở bồi dưỡng, các cơ quan, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.",
+      "text": "Điều 3. Chánh Văn phòng, Chánh Thanh tra, Giám đốc sở giáo dục và đào tạo, Thủ trưởng cơ sở bồi dưỡng, các cơ quan, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0474_1061_QĐ-BGDĐT_Quyết định ban hành Chuẩn chương trình đào tạo về đường sắt trình độ đại học.txt",
+  "mappedBy": "gemini-web",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "1061/QĐ-BGDĐT",
+    "title": "Quyết định về việc ban hành Chuẩn chương trình đào tạo về đường sắt trình độ đại học",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "04/05/2026",
+    "effectiveDate": "04/05/2026",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đào tạo",
+      "Công nghệ thông tin, CĐS"
+    ],
+    "targetGroups": [
+      "Cơ sở giáo dục / trường đại học thành viên",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học"
+    ],
+    "summary": "Quyết định ban hành Chuẩn chương trình đào tạo về đường sắt trình độ đại học, áp dụng đối với các cơ sở giáo dục đại học tham gia thực hiện Đề án đào tạo, phát triển nguồn nhân lực đường sắt Việt Nam đến năm 2035, định hướng đến năm 2045.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Giáo dục và Đào tạo",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quân",
+      "academicTitle": null,
+      "position": [
+        "Thứ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "37/2025/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 37/2025/NĐ-CP ngày 26 tháng 02 năm 2025 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giáo dục và Đào tạo;"
+    },
+    {
+      "targetDocumentNumber": "17/2021/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 17/2021/TT-BGDĐT ngày 22 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định về chuẩn chương trình đào tạo; xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "09/2022/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc quy định Danh mục thống kê ngành đào tạo của giáo dục đại học;"
+    },
+    {
+      "targetDocumentNumber": "2230/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2230/QĐ-TTg ngày 09 tháng 10 năm 2025 của Thủ tướng Chính phủ phê duyệt Đề án đào tạo, phát triển nguồn nhân lực đường sắt Việt Nam đến năm 2035, định hướng đến năm 2045;"
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Chính phủ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Chuẩn chương trình đào tạo về đường sắt trình độ đại học",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Tổng quan",
+          "text": "1. Tổng quan. 1.1. Giới thiệu. Chuẩn chương trình đào tạo về đường sắt trình độ đại học quy định các yêu cầu tối thiểu áp dụng đối với các chương trình đào tạo của các ngành trình độ đại học tham gia đào tạo nhân lực cho lĩnh vực đường sắt. Chuẩn chương trình đào tạo bao gồm các yêu cầu về mục tiêu, chuẩn đầu ra, chuẩn đầu vào, khối lượng học tập, cấu trúc và nội dung, phương pháp giảng dạy và đánh giá kết quả, đội ngũ giảng viên và nhân lực hỗ trợ, cơ sở vật chất, công nghệ và học liệu và lộ trình cải tiến nâng cao chất lượng. Chuẩn chương trình đào tạo được xây dựng trên cơ sở các quy định hiện hành của Bộ Giáo dục và Đào tạo về chuẩn chương trình đào tạo; quy trình xây dựng, thẩm định và ban hành chương trình đào tạo ở các trình độ của giáo dục đại học; đồng thời tham chiếu Khung trình độ quốc gia Việt Nam và định hướng của Chính phủ về đào tạo, bồi dưỡng nguồn nhân lực phục vụ phát triển lĩnh vực đường sắt. Căn cứ vào định hướng đào tạo và điều kiện thực tiễn, các cơ sở đào tạo có thể xây dựng chương trình giảng dạy một phần hoặc toàn bộ bằng tiếng Anh nhằm nâng cao năng lực ngoại ngữ cho người học và từng bước tiệm cận các tiêu chuẩn quốc tế. Bên cạnh đó, chương trình cũng chú trọng trang bị cho người học về tư duy hệ thống, năng lực làm việc liên ngành, giúp người học phát triển tư duy công nghệ và khả năng làm việc trong môi trường toàn cầu, đáp ứng hiệu quả nhu cầu nhân lực trong nước và quốc tế về đường sắt. 1.2. Danh mục các ngành trình độ đại học về đường sắt. Danh mục các ngành trình độ đại học về đường sắt gồm nhóm các ngành cốt lõi và các ngành phụ trợ liên ngành, trong đó nhóm các ngành cốt lõi là các ngành đóng vai trò then chốt trong lĩnh vực đường sắt. Danh mục các ngành trình độ đại học về đường sắt được phân thành 04 (bốn) phân nhóm theo cấu trúc hệ thống của công nghiệp đường sắt: (i) phân nhóm 01: Xây dựng và quản lý xây dựng công trình đường sắt; (ii) phân nhóm 02: Hệ thống điện, thông tin tín hiệu, điều khiển trong đường sắt; (iii) phân nhóm 03: Phương tiện đường sắt và (iv) phân nhóm 04: Kinh tế và khai thác vận tải đường sắt. 1.3. Văn bằng tốt nghiệp. Người tốt nghiệp chương trình đào tạo về đường sắt ở trình độ đại học được cấp bằng Cử nhân (bậc 6); Người tốt nghiệp chương trình đào tạo Kỹ sư chuyên sâu được cấp bằng Kỹ sư (bậc 7).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Chuẩn chương trình đào tạo về đường sắt trình độ đại học",
+          "text": "2. Chuẩn chương trình đào tạo về đường sắt trình độ đại học. 2.1. Mục tiêu của chương trình đào tạo. Mục tiêu của chương trình đào tạo về đường sắt là đào tạo nguồn nhân lực có phẩm chất chính trị, đạo đức nghề nghiệp, năng lực chuyên môn và kỹ năng nghề nghiệp đáp ứng yêu cầu phát triển hệ thống đường sắt hiện đại, bao gồm: đường sắt quốc gia, đường sắt đô thị, đường sắt điện khí hóa và đường sắt tốc độ cao; có thể đảm nhiệm các vị trí khác nhau về xây dựng và khai thác vận hành hệ thống đường sắt; đồng thời có khả năng thích ứng với xu thế phát triển nhanh của khoa học, công nghệ và hội nhập quốc tế trong lĩnh vực giao thông vận tải đường sắt và tiếp tục học tập ở trình độ cao hơn. 2.2. Chuẩn đầu ra của chương trình đào tạo về đường sắt. Chuẩn đầu ra của chương trình đào tạo về đường sắt phải đáp ứng các yêu cầu về chuẩn đầu ra của Khung trình độ quốc gia Việt Nam; chuẩn đầu ra của Chuẩn chương trình đào tạo của khối ngành/lĩnh vực/ngành đào tạo tương ứng do Bộ Giáo dục và Đào tạo ban hành. Các cơ sở đào tạo xây dựng các chuẩn đầu ra với mức độ năng lực phù hợp với đặc thù của từng chương trình đào tạo, nhưng phải đáp ứng tối thiểu theo thang Bloom (phiên bản sửa đổi năm 2001) tương ứng với từng trình độ đào tạo (cử nhân, kỹ sư). 2.3. Chuẩn đầu vào của chương trình đào tạo. Đối tượng dự tuyển vào các ngành về đường sắt trình độ đại học phải đáp ứng quy định của Quy chế tuyển sinh trình độ đại học của Bộ Giáo dục và Đào tạo và đáp ứng các yêu cầu sau: a) Đối với phương thức tuyển sinh dựa trên kết quả thi kỳ thi tốt nghiệp trung học phổ thông (THPT): Tổng điểm của các môn trong tổ hợp xét tuyển đạt tối thiểu 60% thang điểm xét. Trong tổ hợp xét tuyển có môn Toán. b) Đối với các phương thức tuyển sinh khác: điểm trúng tuyển quy đổi tương đương với các điều kiện quy định tại điểm a. c) Đối tượng là người đã có bằng tốt nghiệp đại học hoặc đào tạo theo nhu cầu đặt hàng của doanh nghiệp: Có bằng tốt nghiệp đại học phù hợp với ngành đào tạo dự tuyển (cụ thể do cơ sở đào tạo quy định). d) Đối tượng là sinh viên đang học từ các chương trình đào tạo khác chuyển sang chương trình đào tạo về đường sắt tại thời điểm xét cần đảm bảo: Đang theo học một chương trình đào tạo có khối kiến thức nền tảng phù hợp với chương trình đào tạo chuyển đến (cụ thể do cơ sở đào tạo quy định); Đáp ứng điều kiện quy định tại điểm a. 2.4. Khối lượng học tập. Khối lượng học tập tối thiểu đối với chương trình đào tạo về đường sắt trình độ đại học phải phù hợp với yêu cầu của Khung trình độ quốc gia Việt Nam, cụ thể như sau: a) Tổng khối lượng học tập được tính theo số tín chỉ (TC). b) Khối lượng học tập đối với chương trình đào tạo cấp bằng Cử nhân (bậc 6) là 120 TC, chưa bao gồm các học phần giáo dục thể chất và giáo dục quốc phòng an ninh theo quy định hiện hành. c) Khối lượng học tập đối với chương trình đào tạo cấp bằng Kỹ sư (bậc 7) là 150 TC, chưa bao gồm các học phần giáo dục thể chất và giáo dục quốc phòng an ninh theo quy định hiện hành. 2.5. Cấu trúc và nội dung chương trình đào tạo. Chương trình đào tạo bao gồm các thành phần chính: Giáo dục đại cương; cơ sở ngành và chuyên ngành; khối kiến thức bổ trợ; thực tập, thực hành và tốt nghiệp. 2.6. Phương pháp giảng dạy và đánh giá kết quả học tập. 2.7. Đội ngũ giảng viên và nhân lực hỗ trợ. 2.8. Cơ sở vật chất, công nghệ và học liệu. 2.9. Lộ trình cải tiến nâng cao chất lượng.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chuẩn chương trình đào tạo về",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chuẩn chương trình đào tạo về\nđường sắt trình độ đại học.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chuẩn chương trình đào tạo về đường sắt trình độ đại học áp dụng đối",
+      "text": "Điều 3. Chuẩn chương trình đào tạo về đường sắt trình độ đại học áp dụng đối\nvới các cơ sở giáo dục đại học tham gia thực hiện Đề án đào tạo, phát triển nguồn\nnhân lực đường sắt Việt Nam đến năm 2035, định hướng đến năm 2045 theo Quyết\nđịnh số 2230/QĐ-TTg ngày 09 tháng 10 năm 2025 của Thủ tướng Chính phủ; các cơ\nsở giáo dục đại học xây dựng, rà soát, cập nhật chương trình đào tạo bảo đảm đáp ứng\ntiêu chí của Chuẩn chương trình đào tạo về đường sắt, báo cáo Bộ Giáo dục và Đào\ntạo trước khi tuyển sinh.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các",
+      "text": "Điều 4. Chánh Văn phòng, Vụ trưởng Vụ Giáo dục Đại học, Thủ trưởng các\nđơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo; Hiệu trưởng, Giám đốc cơ sở giáo\n\ndục đại học, người đứng đầu các tổ chức và cá nhân liên quan chịu trách nhiệm thi\nhành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

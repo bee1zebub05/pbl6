@@ -1,0 +1,937 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Tổ chức, hành chính/0024_2971_QĐ-ĐHBK_Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách k.txt",
+  "mappedBy": "gemini-web",
+  "note": "10 Điều lấy toàn văn trực tiếp từ bản .txt gốc (gồm cả bản kèm theo).",
+  "document": {
+    "documentNumber": "2971/QĐ-ĐHBK",
+    "title": "Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "26/12/2018",
+    "effectiveDate": "26/12/2018",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Văn thư, lưu trữ"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc"
+    ],
+    "summary": "Quyết định ban hành Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ hình thành tại các đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Trường Đại học Bách khoa",
+    "orgType": "truong_thanh_vien",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Đoàn Quang Vinh",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Hiệu trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "08/2014/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 08/2014/TT-BGDĐT ngày 20/3/2014 của Bộ trưởng Bộ Giáo dục và Đào tạo về việc Ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "6950/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 6950/QĐ-ĐHĐN ngày 01/12/2014 về việc ban hành Quy định nhiệm vụ, quyền hạn của Đại học Đà Nẵng, các cơ sở giáo dục đại học thành viên và các đơn vị trực thuộc;"
+    },
+    {
+      "targetDocumentNumber": "01/2013/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ Quy định chi tiết thi hành một số điều của Luật Lưu trữ;"
+    },
+    {
+      "targetDocumentNumber": "09/2011/TT-BNV",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 09/2011/TT-BNV ngày 03/6/2011 của Bộ Nội vụ Quy định về thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của các cơ quan, tổ chức;"
+    },
+    {
+      "targetDocumentNumber": "27/2016/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 27/2016/TT-BGDĐT ngày 30 tháng 12 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục;"
+    }
+  ],
+  "mentions": [
+    "Đại học Đà Nẵng",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Nội vụ"
+  ],
+  "normativeContents": [
+    {
+      "title": "Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Quy định",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "Điều 1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "Điều 1. Phạm vi và đối tượng áp dụng\n1. Quy định này cụ thể hóa Thông tư 27/2016/TT-BGDĐT ngày 30/12/2016 của Bộ Giáo dục và Đào tạo về việc quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng.\n2. Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng (sau đây gọi chung là đơn vị).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "1",
+          "heading": "Phạm vi và đối tượng áp dụng",
+          "text": "1. Quy định này cụ thể hóa Thông tư 27/2016/TT-BGDĐT ngày 30/12/2016 của Bộ Giáo dục và Đào tạo về việc quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng.\n2. Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng (sau đây gọi chung là đơn vị).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 2",
+          "heading": "Tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 2. Tài liệu chuyên môn nghiệp vụ của đơn vị\n1. Tài liệu chuyên môn nghiệp vụ là vật mang tin hình thành trong quá trình giải quyết công việc để phục vụ cho hoạt động chuyên môn nghiệp vụ về giáo dục và đào tạo của đơn vị.\nTài liệu chuyên môn nghiệp vụ của đơn vị gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh; tài liệu điện tử và các vật mang tin khác.\n2. Hồ sơ chuyên môn nghiệp vụ của đơn vị là một tập tài liệu chuyên môn nghiệp vụ có liên quan với nhau về một vấn đề, một sự việc, một đối tượng cụ thể hoặc có đặc điểm chung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "1. Tài liệu chuyên môn nghiệp vụ là vật mang tin hình thành trong quá trình giải quyết công việc để phục vụ cho hoạt động chuyên môn nghiệp vụ về giáo dục và đào tạo của đơn vị.\nTài liệu chuyên môn nghiệp vụ của đơn vị gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh; tài liệu điện tử và các vật mang tin khác.\n2. Hồ sơ chuyên môn nghiệp vụ của đơn vị là một tập tài liệu chuyên môn nghiệp vụ có liên quan với nhau về một vấn đề, một sự việc, một đối tượng cụ thể hoặc có đặc điểm chung.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 3",
+          "heading": "Các nhóm tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 3. Các nhóm tài liệu chuyên môn nghiệp vụ của đơn vị\nNhóm I. Tài liệu chung về giáo dục và đào tạo\nNhóm II. Tài liệu về đào tạo đại học, thạc sĩ, tiến sĩ; nghiên cứu khoa học\nNhóm III. Tài liệu về kiểm định chất lượng giáo dục\nNhóm IV. Tài liệu về văn bằng, chứng chỉ\nNhóm V. Tài liệu về học phí, học bổng, chính sách hỗ trợ người học\nNhóm VI. Tài liệu về công tác học sinh, sinh viên\nNhóm VII. Tài liệu về đào tạo với nước ngoài\nNhóm VIII. Tài liệu về công tác nhà giáo, cán bộ quản lý cơ sở giáo dục\nNhóm IX. Tài liệu về cơ sở vật chất, thiết bị trường học\nNhóm X. Tài liệu về công nghệ thông tin trong quản lý giáo dục, dạy và học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Các nhóm tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Nhóm I. Tài liệu chung về giáo dục và đào tạo\nNhóm II. Tài liệu về đào tạo đại học, thạc sĩ, tiến sĩ; nghiên cứu khoa học\nNhóm III. Tài liệu về kiểm định chất lượng giáo dục\nNhóm IV. Tài liệu về văn bằng, chứng chỉ\nNhóm V. Tài liệu về học phí, học bổng, chính sách hỗ trợ người học\nNhóm VI. Tài liệu về công tác học sinh, sinh viên\nNhóm VII. Tài liệu về đào tạo với nước ngoài\nNhóm VIII. Tài liệu về công tác nhà giáo, cán bộ quản lý cơ sở giáo dục\nNhóm IX. Tài liệu về cơ sở vật chất, thiết bị trường học\nNhóm X. Tài liệu về công nghệ thông tin trong quản lý giáo dục, dạy và học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 4",
+          "heading": "Thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 4. Thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị\n1. Thời hạn bảo quản hồ sơ, tài liệu chuyên môn nghiệp vụ của đơn vị là khoảng thời gian cần thiết để lưu giữ hồ sơ, tài liệu tính từ năm công việc kết thúc. Thời hạn bảo quản hồ sơ, tài liệu gồm hai mức sau:\na) Bảo quản vĩnh viễn: Hồ sơ, tài liệu thuộc mức này được lưu giữ cho đến khi tài liệu tự hủy hoại và không thể phục chế.\nb) Bảo quản có thời hạn: Hồ sơ, tài liệu thuộc mức này được lưu giữ với thời hạn tính bằng số năm cụ thể hoặc khoảng thời gian nhất định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "Thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "1. Thời hạn bảo quản hồ sơ, tài liệu chuyên môn nghiệp vụ của đơn vị là khoảng thời gian cần thiết để lưu giữ hồ sơ, tài liệu tính từ năm công việc kết thúc. Thời hạn bảo quản hồ sơ, tài liệu gồm hai mức sau:\na) Bảo quản vĩnh viễn: Hồ sơ, tài liệu thuộc mức này được lưu giữ cho đến khi tài liệu tự hủy hoại và không thể phục chế.\nb) Bảo quản có thời hạn: Hồ sơ, tài liệu thuộc mức này được lưu giữ với thời hạn tính bằng số năm cụ thể hoặc khoảng thời gian nhất định.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 5",
+          "heading": "Nguyên tắc bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "Điều 5. Nguyên tắc bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị\n1. Tài liệu bảo quản bao gồm bản gốc, bản chính hoặc bản sao hợp pháp trong trường hợp không còn bản gốc, bản chính.\n2. Mức xác định thời hạn bảo quản cho mỗi hồ sơ, tài liệu cụ thể của đơn vị không được thấp hơn mức quy định (tại Bảng thời hạn bảo quản).\n3. Khi lựa chọn tài liệu giao nộp vào Lưu trữ lịch sử, đơn vị phải xem xét mức độ đầy đủ của tài liệu, đồng thời lưu ý đến những giai đoạn, thời điểm lịch sử để có thể nâng thời hạn bảo quản của tài liệu lên cao hơn so với mức quy định.\n4. Đối với hồ sơ, tài liệu đã hết thời hạn bảo quản, Hội đồng xác định giá trị tài liệu của cơ quan, đơn vị xem xét, đánh giá để tiêu hủy theo quy định của pháp luật hoặc kéo dài thêm thời hạn bảo quản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "Nguyên tắc bảo quản tài liệu chuyên môn nghiệp vụ của đơn vị",
+          "text": "1. Tài liệu bảo quản bao gồm bản gốc, bản chính hoặc bản sao hợp pháp trong trường hợp không còn bản gốc, bản chính.\n2. Mức xác định thời hạn bảo quản cho mỗi hồ sơ, tài liệu cụ thể của đơn vị không được thấp hơn mức quy định (tại Bảng thời hạn bảo quản).\n3. Khi lựa chọn tài liệu giao nộp vào Lưu trữ lịch sử, đơn vị phải xem xét mức độ đầy đủ của tài liệu, đồng thời lưu ý đến những giai đoạn, thời điểm lịch sử để có thể nâng thời hạn bảo quản của tài liệu lên cao hơn so với mức quy định.\n4. Đối với hồ sơ, tài liệu đã hết thời hạn bảo quản, Hội đồng xác định giá trị tài liệu của cơ quan, đơn vị xem xét, đánh giá để tiêu hủy theo quy định của pháp luật hoặc kéo dài thêm thời hạn bảo quản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 6",
+          "heading": "Tổ chức lưu trữ, bảo quản tài liệu",
+          "text": "Điều 6. Tổ chức lưu trữ, bảo quản tài liệu\n1. Tổ chức lưu trữ, bảo quản tài liệu tại các đơn vị\n- Lưu trữ: gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh, văn bản điện tử được hình thành trong quá trình giải quyết công việc chuyên môn nghiệp vụ của đơn vị.\n- Bảo quản: được bảo quản tại văn phòng, kho lưu trữ của đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.\n2. Tổ chức lưu trữ, bảo quản tài liệu tại kho lưu trữ của Trường.\n- Lưu trữ: gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh; văn bản điện tử, được hình thành trong quá trình giải quyết công việc chuyên môn nghiệp vụ của Nhà trường.\n- Bảo quản: được bảo quản tại bộ phận Văn thư Phòng Tổ chức - Hành chính, kho lưu trữ, Phòng truyền thống của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "Tổ chức lưu trữ, bảo quản tài liệu",
+          "text": "1. Tổ chức lưu trữ, bảo quản tài liệu tại các đơn vị\n- Lưu trữ: gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh, văn bản điện tử được hình thành trong quá trình giải quyết công việc chuyên môn nghiệp vụ của đơn vị.\n- Bảo quản: được bảo quản tại văn phòng, kho lưu trữ của đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.\n2. Tổ chức lưu trữ, bảo quản tài liệu tại kho lưu trữ của Trường.\n- Lưu trữ: gồm văn bản giấy; phim, ảnh; băng hình, đĩa hình, băng âm thanh, đĩa âm thanh; văn bản điện tử, được hình thành trong quá trình giải quyết công việc chuyên môn nghiệp vụ của Nhà trường.\n- Bảo quản: được bảo quản tại bộ phận Văn thư Phòng Tổ chức - Hành chính, kho lưu trữ, Phòng truyền thống của Nhà trường.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "Điều 7",
+          "heading": "Hiệu lực và trách nhiệm thi hành",
+          "text": "Điều 7. Hiệu lực và trách nhiệm thi hành\n1. Quy định này có hiệu lực thi hành kể từ ngày ký.\n2. Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quy định này.\n3. Phòng Thanh tra - Pháp chế có trách nhiệm giúp Hiệu trưởng Nhà trường kiểm tra, giám sát việc thực hiện Quy định này./.",
+          "isImplementationClause": true
+        },
+        {
+          "number": "7",
+          "heading": "Hiệu lực và trách nhiệm thi hành",
+          "text": "1. Quy định này có hiệu lực thi hành kể từ ngày ký.\n2. Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quy định này.\n3. Phòng Thanh tra - Pháp chế có trách nhiệm giúp Hiệu trưởng Nhà trường kiểm tra, giám sát việc thực hiện Quy định này./.",
+          "isImplementationClause": true
+        }
+      ]
+    },
+    {
+      "title": "Phụ lục Bảng thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của Trường Đại học Bách khoa - Đại học Đà Nẵng",
+      "contentType": "Phụ lục",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": null,
+          "text": "Tập văn bản quy định, hướng dẫn về công tác giáo dục và đào tạo gửi chung đến các cơ quan, đơn vị (hồ sơ nguyên tắc) có thời hạn bảo quản theo hiệu lực văn bản, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành các định hướng, phương hướng, chính sách phát triển giáo dục và đào tạo có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành chiến lược, quy hoạch, kế hoạch phát triển giáo dục và đào tạo dài hạn, 5 năm, hàng năm có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và trình cấp có thẩm quyền ban hành các chiến lược, quy hoạch vùng trọng điểm về giáo dục và đào tạo có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và ban hành hoặc trình cấp có thẩm quyền ban hành các văn bản quy phạm pháp luật về hoạt động giáo dục và đào tạo có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": null,
+          "text": "Kế hoạch nhiệm vụ năm học; báo cáo tình hình thực hiện kế hoạch nhiệm vụ năm học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": null,
+          "text": "Kế hoạch đào tạo đối với khóa học, năm học; báo cáo tổng kết năm học, khóa học và bản lưu các báo cáo liên quan đến đào tạo gửi cơ quan quản lý nhà nước có thẩm quyền có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "8",
+          "heading": null,
+          "text": "Báo cáo đánh giá, tổng hợp giáo dục các cấp học qua từng thời kỳ và năm học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "9",
+          "heading": null,
+          "text": "Số liệu thống kê giáo dục hàng năm, nhiều năm có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "10",
+          "heading": null,
+          "text": "Hồ sơ hội nghị, hội thảo giáo dục đào tạo: Hội nghị tổng kết (vĩnh viễn, P. ĐÀO TẠO), Hội nghị sơ kết (10 năm, P. ĐÀO TẠO), Hội thảo khoa học (10 năm, P. ĐÀO TẠO), Hội thảo góp ý xây dựng tài liệu (10 năm, P. ĐÀO TẠO).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "11",
+          "heading": null,
+          "text": "Hồ sơ tập huấn chuyên môn nghiệp vụ cho đội ngũ nhà giáo và cán bộ quản lý cơ sở giáo dục có thời hạn bảo quản 10 năm, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "12",
+          "heading": null,
+          "text": "Hồ sơ các lớp đào tạo bồi dưỡng nâng cao trình độ học vấn, nghề nghiệp theo chương trình do Bộ Giáo dục và Đào tạo quy định có thời hạn bảo quản 10 năm, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "13",
+          "heading": null,
+          "text": "Hồ sơ tổ chức triển lãm về đào tạo đại học, sau đại học có thời hạn bảo quản 10 năm, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "14",
+          "heading": null,
+          "text": "Công văn trao đổi về đào tạo đại học, sau đại học có thời hạn bảo quản 10 năm, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "15",
+          "heading": null,
+          "text": "Hồ sơ thanh tra các hoạt động giáo dục và đào tạo: Vụ việc nghiêm trọng (vĩnh viễn, P. TTPC), Vụ việc khác (20 năm, P. TTPC).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "16",
+          "heading": null,
+          "text": "Hồ sơ kiểm tra các hoạt động giáo dục và đào tạo có thời hạn bảo quản 20 năm, nơi lưu trữ tại P. TTPC, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "17",
+          "heading": null,
+          "text": "Hồ sơ phê duyệt chủ trương thành lập hoặc cho phép thành lập trường đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "18",
+          "heading": null,
+          "text": "Hồ sơ thành lập hoặc cho phép thành lập, cho phép hoạt động đào tạo, đình chỉ hoạt động đào tạo, sáp nhập, chia, tách, giải thể cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "19",
+          "heading": null,
+          "text": "Hồ sơ phê duyệt chủ trương thành lập hoặc cho phép thành lập phân hiệu của cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "20",
+          "heading": null,
+          "text": "Hồ sơ thành lập hoặc cho phép thành lập, cho phép hoạt động đào tạo, đình chỉ hoạt động đào tạo đối với các đơn vị có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "21",
+          "heading": null,
+          "text": "Hồ sơ thành lập hội đồng trường và bổ nhiệm chủ tịch hội đồng trường đại học công lập có thời hạn bảo quản 20 năm, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "22",
+          "heading": null,
+          "text": "Hồ sơ phân tầng cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "23",
+          "heading": null,
+          "text": "Hồ sơ công nhận xếp hạng đối với cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, KT&ĐBCLGD, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "24",
+          "heading": null,
+          "text": "Hồ sơ công nhận cơ sở giáo dục đại học đạt chuẩn quốc gia có thời hạn bảo quản 20 năm, nơi lưu trữ tại VT-TCHC, KT&ĐBCLGD, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "25",
+          "heading": null,
+          "text": "Hồ sơ xây dựng, thẩm định, ban hành chương trình đào tạo đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "26",
+          "heading": null,
+          "text": "Hồ sơ biên soạn, thẩm định, phê duyệt giáo trình sử dụng chung các môn lý luận chính trị để làm tài liệu giảng dạy, học tập trong các cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "27",
+          "heading": null,
+          "text": "Hồ sơ biên soạn hoặc lựa chọn, thẩm định, phê duyệt giáo trình để sử dụng làm tài liệu giảng dạy, học tập trong các cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "28",
+          "heading": null,
+          "text": "Hồ sơ biên soạn, thẩm định, phê duyệt tài liệu bồi dưỡng, tài liệu hướng dẫn giảng dạy trình độ đại học có thời hạn bảo quản 20 năm, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "29",
+          "heading": null,
+          "text": "Hồ sơ cho phép mở hoặc đình chỉ hoạt động của ngành đào tạo đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "30",
+          "heading": null,
+          "text": "Hồ sơ cho phép liên kết đào tạo đại học với cơ sở giáo dục trong nước có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "31",
+          "heading": null,
+          "text": "Hồ sơ cho phép đào tạo liên thông lên trình độ đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "32",
+          "heading": null,
+          "text": "Hồ sơ cho phép đào tạo từ xa có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "33",
+          "heading": null,
+          "text": "Hồ sơ cho phép đào tạo văn bằng đại học thứ hai có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "34",
+          "heading": null,
+          "text": "Tài liệu về tuyển sinh đại học: Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm (vĩnh viễn), Hồ sơ xây dựng phương án đảm bảo chất lượng đầu vào tuyển sinh (vĩnh viễn), Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh (vĩnh viễn), Hồ sơ đăng ký dự tuyển (hết khóa), Bài thi tuyển sinh (hết khóa), Bài thi của các trường tổ chức tuyển sinh (hết khóa), Các tài liệu khác liên quan đến tuyển sinh (hết khóa).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "35",
+          "heading": null,
+          "text": "Văn bản phê duyệt danh sách học sinh nhập học hoặc phân lớp có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "36",
+          "heading": null,
+          "text": "Bảng điểm tổng hợp kết quả học tập theo học kỳ, năm học, khóa học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "37",
+          "heading": null,
+          "text": "Hồ sơ giảng dạy của giáo viên có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "38",
+          "heading": null,
+          "text": "Tài liệu về thi hết học phần: Hồ sơ phê duyệt kết quả thi hết học phần có thời hạn bảo quản 10 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "39",
+          "heading": null,
+          "text": "Bảng điểm từng học phần bao gồm điểm kiểm tra, điểm thi, điểm học phần có thời hạn bảo quản 10 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "40",
+          "heading": null,
+          "text": "Sổ lên lớp (sổ ghi đầu bài) có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, các khoa, hình thức bảo quản là đóng tập văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "41",
+          "heading": null,
+          "text": "Báo cáo thực tập tốt nghiệp có thời hạn bảo quản 3 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, các khoa, hình thức bảo quản là đóng tập văn bản.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "42",
+          "heading": null,
+          "text": "Tài liệu về xét công nhận tốt nghiệp đại học: Quyết định công nhận tốt nghiệp và cấp bằng đại học; Danh sách tốt nghiệp (vĩnh viễn), Hồ sơ xét công nhận tốt nghiệp (vĩnh viễn), Các tài liệu khác có liên quan đến thi, xét tốt nghiệp (vĩnh viễn).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "43",
+          "heading": null,
+          "text": "Hồ sơ cho phép đào tạo, đình chỉ tuyển sinh, thu hồi quyết định cho phép đào tạo ngành, chuyên ngành thạc sĩ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "44",
+          "heading": null,
+          "text": "Hồ sơ cho phép liên kết đào tạo trình độ thạc sĩ với cơ sở giáo dục trong nước có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "45",
+          "heading": null,
+          "text": "Tài liệu về tuyển sinh thạc sĩ: Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm (vĩnh viễn), Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh (vĩnh viễn), Các tài liệu khác liên quan đến tuyển sinh (5 năm sau tốt nghiệp).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "46",
+          "heading": null,
+          "text": "Quyết định công nhận học viên cao học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "47",
+          "heading": null,
+          "text": "Bảng điểm tổng hợp kết quả học tập theo học kỳ, năm học, khóa học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "48",
+          "heading": null,
+          "text": "Hồ sơ giảng dạy của giáo viên có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "49",
+          "heading": null,
+          "text": "Tài liệu thi hết học phần: Hồ sơ xét duyệt kết quả thi hết học phần có thời hạn bảo quản 10 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "50",
+          "heading": null,
+          "text": "Bảng điểm từng học phần bao gồm điểm kiểm tra, điểm thi, điểm học phần có thời hạn bảo quản 10 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "51",
+          "heading": null,
+          "text": "Sổ theo dõi tình hình giảng dạy, học tập của giáo viên và học viên có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "52",
+          "heading": null,
+          "text": "Tài liệu về công nhận tốt nghiệp và cấp bằng thạc sĩ: Quyết định công nhận tốt nghiệp và cấp bằng thạc sĩ; Danh sách tốt nghiệp (vĩnh viễn), Hồ sơ xét công nhận tốt nghiệp và cấp bằng thạc sĩ (vĩnh viễn), Hồ sơ đánh giá luận văn thạc sĩ (30 năm), Hồ sơ chấm thẩm định và xử lý kết quả thẩm định luận văn thạc sĩ trong trường hợp có đơn tố cáo (30 năm), Luận văn thạc sĩ (5 năm), Luận văn thạc sĩ được Hội đồng đánh giá đạt yêu cầu trở lên (30 năm, TTHLTT), Luận văn thạc sĩ không đạt yêu cầu (5 năm, các khoa), Tài liệu khác có liên quan đến xét tốt nghiệp (5 năm).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "53",
+          "heading": null,
+          "text": "Hồ sơ cho phép đào tạo, đình chỉ tuyển sinh, thu hồi quyết định cho phép đào tạo ngành, chuyên ngành tiến sĩ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "54",
+          "heading": null,
+          "text": "Hồ sơ cho phép liên kết đào tạo trình độ tiến sĩ với cơ sở giáo dục trong nước có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "55",
+          "heading": null,
+          "text": "Tài liệu về tuyển sinh tiến sĩ: Hồ sơ xác định chỉ tiêu tuyển sinh hàng năm (vĩnh viễn), Quyết định trúng tuyển, danh sách trúng tuyển; Điểm chuẩn tuyển sinh (vĩnh viễn), Các tài liệu khác liên quan đến tuyển sinh (5 năm sau tốt nghiệp).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "56",
+          "heading": null,
+          "text": "Quyết định công nhận nghiên cứu sinh, hướng nghiên cứu hoặc đề tài nghiên cứu, chuyên ngành, người hướng dẫn và thời gian đào tạo của nghiên cứu sinh có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "57",
+          "heading": null,
+          "text": "Bảng điểm tổng hợp kết quả học tập theo học kỳ, năm học, khóa học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "58",
+          "heading": null,
+          "text": "Hồ sơ giảng dạy của giáo viên có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "59",
+          "heading": null,
+          "text": "Tài liệu về thi hết học phần: Hồ sơ xét duyệt kết quả thi hết học phần có thời hạn bảo quản 10 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "60",
+          "heading": null,
+          "text": "Bảng điểm từng học phần bao gồm điểm kiểm tra, điểm thi, điểm học phần có thời hạn bảo quản 10 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "61",
+          "heading": null,
+          "text": "Sổ theo dõi tình hình giảng dạy, học tập của giáo viên và học viên có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "62",
+          "heading": null,
+          "text": "Báo cáo chuyên đề, tiểu luận tổng quan của nghiên cứu sinh có thời hạn bảo quản 5 năm sau tốt nghiệp, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "63",
+          "heading": null,
+          "text": "Hồ sơ đánh giá đề tài nghiên cứu khoa học của sinh viên cấp khoa/bộ môn có thời hạn bảo quản 5 năm, nơi lưu trữ tại các Khoa, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "64",
+          "heading": null,
+          "text": "Hồ sơ đánh giá đề tài nghiên cứu khoa học của sinh viên dự xét giải thưởng sinh viên nghiên cứu khoa học cấp trường có thời hạn bảo quản 10 năm, nơi lưu trữ tại Phòng KHCN&HTQT, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "65",
+          "heading": null,
+          "text": "Hồ sơ đánh giá đề tài xét tặng giải thưởng Sinh viên nghiên cứu khoa học và giải thưởng Khoa học và công nghệ dành cho giảng viên trẻ trong các cơ sở giáo dục đại học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại Phòng KHCN&HTQT, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "66",
+          "heading": null,
+          "text": "Hồ sơ chương trình, đề tài nghiên cứu khoa học của giảng viên, nghiên cứu viên: Cấp Nhà nước (vĩnh viễn), Cấp bộ, ngành (vĩnh viễn), nơi lưu trữ tại Phòng KHCN&HTQT, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "67",
+          "heading": null,
+          "text": "Hồ sơ thẩm định kết quả đánh giá chất lượng giáo dục và cấp giấy chứng nhận kiểm định chất lượng giáo dục đối với cơ sở giáo dục, chương trình đào tạo có thời hạn bảo quản 20 năm, nơi lưu trữ tại P.KT&ĐBCLGD, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "68",
+          "heading": null,
+          "text": "Hồ sơ chỉnh sửa nội dung văn bằng, chứng chỉ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "69",
+          "heading": null,
+          "text": "Hồ sơ cấp phôi bằng tốt nghiệp đại học, thạc sĩ, tiến sĩ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "70",
+          "heading": null,
+          "text": "Hồ sơ cấp phôi chứng chỉ của hệ thống giáo dục quốc dân có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "71",
+          "heading": null,
+          "text": "Sổ gốc cấp văn bằng tốt nghiệp đại học, thạc sĩ, tiến sĩ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "72",
+          "heading": null,
+          "text": "Sổ cấp bản sao văn bằng tốt nghiệp từ sổ gốc có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "73",
+          "heading": null,
+          "text": "Sổ gốc cấp chứng chỉ của hệ thống giáo dục quốc dân có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "74",
+          "heading": null,
+          "text": "Sổ cấp bản sao chứng chỉ từ sổ gốc có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "75",
+          "heading": null,
+          "text": "Hồ sơ chỉnh sửa nội dung văn bằng, chứng chỉ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "76",
+          "heading": null,
+          "text": "Hồ sơ xét cấp học bổng khuyến khích học tập đối với học sinh, sinh viên có thời hạn bảo quản 10 năm, nơi lưu trữ tại P.CTSV, KHTC, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "77",
+          "heading": null,
+          "text": "Hồ sơ xét cấp học bổng chính sách đối với học sinh, sinh viên hệ cử tuyển có thời hạn bảo quản 10 năm, nơi lưu trữ tại P.CTSV, KHTC, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "78",
+          "heading": null,
+          "text": "Hồ sơ xét trợ cấp xã hội đối với sinh viên có thời hạn bảo quản 10 năm, nơi lưu trữ tại P.CTSV, KHTC, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "79",
+          "heading": null,
+          "text": "Hồ sơ xét miễn, giảm học phí cho học sinh, sinh viên có thời hạn bảo quản 10 năm, nơi lưu trữ tại P.CTSV, KHTC, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "80",
+          "heading": null,
+          "text": "Báo cáo đánh giá, tổng hợp tình hình đạo đức, lối sống của học sinh, sinh viên theo từng thời kỳ và năm học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "81",
+          "heading": null,
+          "text": "Hồ sơ theo dõi, tổng hợp, thống kê và đề xuất công tác phát triển Đảng trong học sinh, sinh viên có thời hạn bảo quản 10 năm, nơi lưu trữ tại P.CTSV, VPĐU, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "82",
+          "heading": null,
+          "text": "Hồ sơ khen thưởng và công nhận các danh hiệu đối với học sinh, sinh viên: Cấp Bộ, cấp tỉnh (20 năm), Cấp huyện, trường (10 năm), nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "83",
+          "heading": null,
+          "text": "Hồ sơ kỷ luật học sinh, sinh viên: Hình thức kỷ luật khiển trách (10 năm), Hình thức kỷ luật cảnh cáo (15 năm), Hình thức đình chỉ học tập có thời hạn (20 năm), Hình thức buộc thôi học (vĩnh viễn), nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "84",
+          "heading": null,
+          "text": "Hồ sơ tổ chức, theo dõi các hoạt động liên quan đến hình thành đạo đức, lối sống trong học sinh, sinh viên có thời hạn bảo quản 5 năm, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "85",
+          "heading": null,
+          "text": "Hồ sơ theo dõi, xử lý các vấn đề về an ninh, chính trị liên quan đến học sinh, sinh viên có thời hạn bảo quản 10 năm, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "86",
+          "heading": null,
+          "text": "Hồ sơ tổ chức tuần sinh hoạt công dân - học sinh, sinh viên đầu khóa, đầu năm, cuối khóa học có thời hạn bảo quản 5 năm, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "87",
+          "heading": null,
+          "text": "Hồ sơ tổ chức tư vấn học tập, nghề nghiệp, việc làm cho học sinh, sinh viên có thời hạn bảo quản 5 năm, nơi lưu trữ tại TTHTSV&QHDN, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "88",
+          "heading": null,
+          "text": "Hồ sơ công tác chăm sóc sức khỏe học sinh, sinh viên có thời hạn bảo quản 5 năm, nơi lưu trữ tại P.CTSV, Tổ Y tế, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "89",
+          "heading": null,
+          "text": "Hồ sơ quản lý học sinh, sinh viên nội, ngoại trú có thời hạn bảo quản 5 năm, nơi lưu trữ tại TTHTSV&QHDN, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "90",
+          "heading": null,
+          "text": "Hồ sơ học sinh, sinh viên có thời hạn bảo quản trả người học sau khi ra trường, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "91",
+          "heading": null,
+          "text": "Hồ sơ chuyển trường đối với sinh viên có thời hạn bảo quản hết khóa, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "92",
+          "heading": null,
+          "text": "Sổ theo dõi chuyển đi, chuyển đến có thời hạn bảo quản 5 năm, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "93",
+          "heading": null,
+          "text": "Hồ sơ xin học lại tại trường khác có thời hạn bảo quản hết khóa, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "94",
+          "heading": null,
+          "text": "Hồ sơ các giải thi đấu thể dục thể thao, văn nghệ trong học sinh, sinh viên: Danh sách thí sinh đoạt giải (vĩnh viễn), Sổ cấp giấy chứng nhận học sinh đoạt giải (vĩnh viễn), Hồ sơ đăng ký dự thi (1 năm), Các tài liệu khác có liên quan (2 năm), nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "95",
+          "heading": null,
+          "text": "Hồ sơ ký kết Hiệp định, Thỏa thuận hợp tác về việc tiếp nhận lưu học sinh nước ngoài vào Việt Nam học tập có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "96",
+          "heading": null,
+          "text": "Hồ sơ thành lập, cấp giấy chứng nhận đăng ký hoạt động, sửa đổi, bổ sung, gia hạn, cấp lại giấy phép thành lập, chấm dứt hoạt động, thu hồi giấy phép thành lập đối với văn phòng đại diện của cơ sở giáo dục nước ngoài tại Việt Nam có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "97",
+          "heading": null,
+          "text": "Hồ sơ cho phép thành lập, cho phép hoạt động giáo dục, đình chỉ tuyển sinh, chấm dứt hoạt động giáo dục, giải thể, chia, tách, sáp nhập, hợp nhất cơ sở giáo dục có vốn đầu tư nước ngoài tại Việt Nam có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "98",
+          "heading": null,
+          "text": "Hồ sơ cho phép mở phân hiệu, cho phép hoạt động giáo dục đối với phân hiệu của cơ sở giáo dục có vốn đầu tư nước ngoài tại Việt Nam có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "99",
+          "heading": null,
+          "text": "Hồ sơ bổ sung, điều chỉnh các hoạt động giáo dục, ngành đào tạo, mở rộng quy mô, đối tượng tuyển sinh, điều chỉnh nội dung, chương trình giảng dạy đối với cơ sở giáo dục hoặc phân hiệu của cơ sở giáo dục có vốn đầu tư nước ngoài tại Việt Nam có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "100",
+          "heading": null,
+          "text": "Hồ sơ phê duyệt đề án, gia hạn đề án, đình chỉ tuyển sinh và chấm dứt chương trình liên kết đào tạo với nước ngoài trình độ đại học, thạc sĩ, tiến sĩ có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "101",
+          "heading": null,
+          "text": "Hồ sơ lưu học sinh nước ngoài vào học tại trường Đại học Bách khoa có thời hạn bảo quản 20 năm, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "102",
+          "heading": null,
+          "text": "Hồ sơ lưu học sinh Việt Nam đi học tập ở nước ngoài và tiếp nhận về nước có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "103",
+          "heading": null,
+          "text": "Hồ sơ lưu học sinh nước ngoài vào học tại các cơ sở giáo dục của Việt Nam có thời hạn bảo quản 20 năm, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "104",
+          "heading": null,
+          "text": "Hồ sơ chuyên gia giáo dục đi làm việc ở nước ngoài và tiếp nhận về nước có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại TCHC, hình thức bảo quản là lưu HSCB.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "105",
+          "heading": null,
+          "text": "Danh sách thống kê hàng năm lưu học sinh Việt Nam đi học tập ở nước ngoài có sử dụng ngân sách nhà nước và về nước có thời hạn bảo quản 20 năm, nơi lưu trữ tại P.CTSV, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "106",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và ban hành quy hoạch, kế hoạch phát triển viên chức, nhà giáo, cán bộ quản lý cơ sở giáo dục có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại VT-TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "107",
+          "heading": null,
+          "text": "Hồ sơ Hội đồng chức danh giáo sư cơ sở thẩm định, đề nghị xét công nhận đạt tiêu chuẩn chức danh giáo sư, phó giáo sư có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P.KHCN&HTQT, TCHC, hình thức bảo quản là đóng tập, Lưu HSCB.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "108",
+          "heading": null,
+          "text": "Hồ sơ cá nhân đăng ký xét công nhận chức danh giáo sư, phó giáo sư có thời hạn bảo quản 5 năm, nơi lưu trữ tại P.KHCN&HTQT, TCHC, hình thức bảo quản là đóng tập, Lưu HSCB.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "109",
+          "heading": null,
+          "text": "Hồ sơ giao lưu cán bộ quản lý, giáo viên giỏi các cấp học toàn quốc có thời hạn bảo quản 5 năm, nơi lưu trữ tại TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "110",
+          "heading": null,
+          "text": "Hồ sơ thi giáo viên dạy giỏi, giáo viên chủ nhiệm giỏi, cán bộ quản lý giỏi cấp trường, tỉnh: Quyết định công nhận, danh sách giáo viên, cán bộ quản lý đạt danh hiệu (vĩnh viễn), Sáng kiến kinh nghiệm đạt giải (10 năm), Hồ sơ đăng ký dự thi (1 năm), Bài thi, bài thực hành (2 năm), Các tài liệu khác có liên quan (2 năm), nơi lưu trữ tại TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "111",
+          "heading": null,
+          "text": "Hồ sơ kiểm tra, đánh giá, xếp loại giáo viên theo chuẩn nghề nghiệp có thời hạn bảo quản 10 năm, nơi lưu trữ tại TCHC, hình thức bảo quản là đóng tập, tài liệu điện tử.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "112",
+          "heading": null,
+          "text": "Hồ sơ xây dựng phương hướng, chính sách đầu tư phát triển cơ sở vật chất, thiết bị trường học, các khu đại học, phòng thí nghiệm trọng điểm trong ngành có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại CSVC, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "113",
+          "heading": null,
+          "text": "Hồ sơ xây dựng quy hoạch, kế hoạch dài hạn, 5 năm, hàng năm về cơ sở vật chất, thiết bị trường học, các khu đại học, phòng thí nghiệm trọng điểm trong ngành có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại CSVC, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "114",
+          "heading": null,
+          "text": "Hồ sơ xác định cơ cấu đầu tư, các chính sách đầu tư cơ sở vật chất, thiết bị trường học, đảm bảo chất lượng giáo dục và đào tạo có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại CSVC, VT-TCHC, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "115",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và công bố tiêu chuẩn cơ sở về cơ sở vật chất, thiết bị trường học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại CSVC, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "116",
+          "heading": null,
+          "text": "Hồ sơ xây dựng và đề nghị cấp có thẩm quyền công bố tiêu chuẩn quốc gia về cơ sở vật chất, thiết bị trường học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại CSVC, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "117",
+          "heading": null,
+          "text": "Hồ sơ xây dựng cơ sở dữ liệu về đầu tư phát triển cơ sở vật chất, thiết bị trường học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại CSVC, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "118",
+          "heading": null,
+          "text": "Hồ sơ kiểm tra và công nhận thư viện trường học đạt chuẩn có thời hạn bảo quản 20 năm, nơi lưu trữ tại TTHL&TT, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "119",
+          "heading": null,
+          "text": "Hồ sơ của cơ sở giáo dục về quản lý thư viện: Các loại sổ sách (5 năm), Biên bản kiểm kê, thanh lý sách, ấn phẩm thư viện (5 năm), nơi lưu trữ tại TTHL&TT, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "120",
+          "heading": null,
+          "text": "Hồ sơ của cơ sở giáo dục về quản lý, theo dõi, sử dụng thiết bị giáo dục: Sổ đăng ký/danh mục thiết bị giáo dục, Sổ nhập tài sản, công cụ, dụng cụ (20 năm), Sổ cho mượn và sử dụng đồ dùng dạy học; Sổ theo dõi tài sản các lớp, phòng học bộ môn (5 năm), Báo cáo kiểm kê, đánh giá lại tài sản cố định (20 năm), Hồ sơ, tài liệu về việc chuyển nhượng, bàn giao, thanh lý thiết bị giáo dục (20 năm), nơi lưu trữ tại CSVC, các đơn vị trực thuộc, hình thức bảo quản là đóng tập.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "121",
+          "heading": null,
+          "text": "Hồ sơ xây dựng chiến lược, chính sách, kế hoạch dài hạn, hàng năm về ứng dụng công nghệ thông tin trong quản lý giáo dục và trong dạy học có thời hạn bảo quản vĩnh viễn, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "122",
+          "heading": null,
+          "text": "Hồ sơ tuyển chọn, thẩm định, ban hành danh mục sản phẩm công nghệ thông tin dùng trong ngành giáo dục: giáo trình tài liệu, sách tham khảo, chương trình giảng dạy, chương trình đào tạo và bồi dưỡng giảng viên và cán bộ quản lý giáo dục, nội dung và chương trình học trực tuyến có thời hạn bảo quản 10 năm, nơi lưu trữ tại P. ĐÀO TẠO, hình thức bảo quản là đóng tập tài liệu.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ hình thành tại các đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 1. Ban hành Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ hình thành tại các đơn vị trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "text": "Điều 2. Quy định này áp dụng đối với các Khoa, Phòng, Tổ trực thuộc, Viện Khoa học Công nghệ Bách khoa Đà Nẵng, các Trung tâm trực thuộc Trường Đại học Bách khoa - Đại học Đà Nẵng.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quyết định này./.",
+      "text": "Điều 3. Trưởng phòng Tổ chức - Hành chính, Trưởng các đơn vị trực thuộc Trường có trách nhiệm tổ chức thực hiện Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

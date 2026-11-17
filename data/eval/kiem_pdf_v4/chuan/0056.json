@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tổ chức, hành chính/0056_22_NQ-HĐT_Nghị quyết sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. signers.position sửa từ Hiệu trưởng thành Chủ tịch Hội đồng trường theo PDF gốc trang 5 (TM. HỘI ĐỒNG TRƯỜNG - CHỦ TỊCH). citations thêm BASED_ON 13/NQ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 3859/QĐ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 3860/QĐ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 21/NQ-HĐT theo PDF gốc trang 1.",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. signers.position sửa từ Hiệu trưởng thành Chủ tịch Hội đồng trường theo PDF gốc trang 5 (TM. HỘI ĐỒNG TRƯỜNG - CHỦ TỊCH). citations thêm BASED_ON 13/NQ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 3859/QĐ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 3860/QĐ-HĐĐH theo PDF gốc trang 1. citations thêm BASED_ON 21/NQ-HĐT theo PDF gốc trang 1. organization.name sửa từ Trường Đại học Bách khoa thành Hội đồng Trường Đại học Bách khoa theo PDF gốc trang 1 (số hiệu 22/NQ-HĐT, câu ban hành \"HỘI ĐỒNG TRƯỜNG TRƯỜNG ĐẠI HỌC BÁCH KHOA\"). Bỏ organization.orgType truong_thanh_vien: 1 (tên có trong organizations_seed.json nên loader tự lấy).",
   "document": {
     "documentNumber": "22/NQ-HĐT",
     "title": "Nghị quyết về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa, Đại học Đà Nẵng",
@@ -24,8 +24,8 @@
     "idOverride": null
   },
   "organization": {
-    "name": "Trường Đại học Bách khoa",
-    "orgType": "truong_thanh_vien",
+    "name": "Hội đồng Trường Đại học Bách khoa",
+    "orgType": null,
     "parentOrg": null,
     "idOverride": null
   },

@@ -1,0 +1,112 @@
+﻿ma,truong,gia_tri_json,gia_tri_pdf,trang_pdf,muc_do,de_xuat_sua,da_sua
+0365,ALL,,,1-2,OK,,KHONG
+0002,signers.position,Phó Thủ tướng,Thủ tướng (TM. CHÍNH PHỦ / THỦ TƯỚNG),11,SAI,Thủ tướng,CO
+0002,ALL_khac,,,"1,10,11",OK,,KHONG
+0493,citations,thiếu BASED_ON 123/2025/QH15,Luật số 123/2025/QH15 nêu trong câu căn cứ,1,THIEU,thêm BASED_ON,CO
+0493,ALL_khac,,,"1,9,10",OK,,KHONG
+0047,ALL,,,1,OK,,KHONG
+0177,signers.position,Hiệu trưởng,Phó Giám đốc (KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC),1,SAI,Phó Giám đốc,CO
+0177,citations,thiếu 2 căn cứ luật,Luật GDĐH 18/6/2012; Luật KHCN 18/6/2013,1,THIEU,thêm 2 BASED_ON,CO
+0177,issueDate,28/12/2020,28/12/2020 (tháng viết tay khó đọc),1,NGHI_NGO,,KHONG
+0202,citations,thiếu 3 căn cứ,Luật KHCN 18/6/2013; NQ 13/NQ-HĐĐH; NQ 22/NQ-HĐT,1,THIEU,thêm 3 BASED_ON,CO
+0202,citations,4766/QĐ-ĐHBK,PDF in 4766/QĐ-ĐHBK (cơ quan thực là ĐHĐN),1,NGHI_NGO,giữ theo văn bản,KHONG
+0444,citations,thiếu 3 căn cứ luật,Luật Đấu thầu 23/6/2023; luật sửa đổi 29/11/2024; luật sửa đổi 25/6/2025,1,THIEU,"thêm 3 BASED_ON (id theo ngày, vì không nêu số)",CO
+0477,ALL,,,"1,2",OK,,KHONG
+0188,signers.position,Hiệu trưởng,Phó Giám đốc (KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC),1,SAI,Phó Giám đốc,CO
+0450,citations,thiếu 2 căn cứ luật,Luật XNC 22/11/2019; Luật sửa đổi 24/6/2023,1,THIEU,thêm 2 BASED_ON,CO
+0283,citations,không có BASED_ON,6 luật căn cứ,1,THIEU,thêm 6 BASED_ON,CO
+0250,issueDate,10/02/2019,26/12/2018,1,SAI,26/12/2018 (10/02/2019 là ngày hiệu lực),CO
+0250,citations,thiếu 3 căn cứ luật,Luật Trẻ em 5/4/2016; Luật GD 14/6/2005; Luật sửa đổi 25/11/2009,1,THIEU,thêm 3 BASED_ON,CO
+0279,ALL,,,"1,16",OK,,KHONG
+0320,effectiveDate,23/11/2023,không ghi,1-14,THUA,null,CO
+0321,ALL,,,"1,2",OK,,KHONG
+0278,citations,không có BASED_ON nào,21 văn bản căn cứ (trang 1-2),1-2,THIEU,thêm 21 BASED_ON,CO
+0176,signers.position,Hiệu trưởng,Phó Giám đốc,1,SAI,Phó Giám đốc,CO
+0209,citations,không có BASED_ON Hiến pháp,Căn cứ Hiến pháp (không nêu số/năm),1,NGHI_NGO,không thêm vì không có số hiệu/ngày,KHONG
+0483,signers.position,Thứ trưởng,Bộ trưởng,2,SAI,Bộ trưởng,CO
+0483,citations,thiếu căn cứ Chương trình công tác 02-CTr/BCĐTW,có ở trang 1,1,THIEU,thêm BASED_ON,CO
+0187,signers.position,Hiệu trưởng,Phó Giám đốc,1,SAI,Phó Giám đốc,CO
+0138,ALL,,,"1,19",OK,,KHONG
+0347,status,HET_HIEU_LUC,PDF không ghi tình trạng hiệu lực,20,NGHI_NGO,không sửa (không suy luận),KHONG
+0417,issueDate,24/02/2025,21/02/2025,1,SAI,21/02/2025,CO
+0417,effectiveDate,24/02/2025,kể từ ngày ký = 21/02/2025,2,SAI,21/02/2025,CO
+0417,citations,không có BASED_ON,12 căn cứ,1-2,THIEU,thêm 12 BASED_ON,CO
+0298,ALL,,,"1,12",OK,,KHONG
+0299,effectiveDate,29/12/2016,"ngày/tháng viết tay (đọc 29/12, không chắc tuyệt đối)",1,NGHI_NGO,,KHONG
+0299,ALL_khac,,"Căn cứ Biên bản họp Hội đồng thẩm định không có số hiệu, bỏ qua",1,OK,,KHONG
+0057,signers.position,Hiệu trưởng,Chủ tịch (TM. HỘI ĐỒNG TRƯỜNG),2,SAI,Chủ tịch Hội đồng trường,CO
+0057,citations,thiếu 10 căn cứ,"Luật 2012, 2018; QĐ 3859, 3860/QĐ-HĐĐH; NQ 08,13,14/HĐĐH; NQ 05,22,21/HĐT",1-2,THIEU,thêm 10 BASED_ON,CO
+0057,organization.name,Trường Đại học Bách khoa,Hội đồng trường Trường ĐHBK (không có trong seed),1,NGHI_NGO,giữ nguyên,KHONG
+0024,effectiveDate,26/12/2018,không ghi,1,THUA,null,CO
+0432,citations.relationType,"REPEALS x6 (39/2013,54/2012,31/2014,51/2012,23/2016,24/2016)",văn bản ghi 'thay thế các Thông tư',14-15,SAI,REPLACES,CO
+0432,citations,thiếu BASED_ON 19/11/2018,Luật sửa đổi GDĐH 19/11/2018,1,THIEU,thêm,CO
+0432,status,CHUA_HIEU_LUC,PDF không ghi tình trạng,1,NGHI_NGO,không sửa,KHONG
+0413,citations,thiếu dẫn chiếu 137/2017/TT-BTC,Thuyết minh trang 2,2,THIEU,thêm REFERENCES,CO
+0330,ALL,,số hiệu PDF 29/2023 khớp JSON (tên file ghi 39_2023 là sai tên file),"1,10,11",OK,,KHONG
+0309,ALL,,,1,OK,,KHONG
+0137,citations.targetDocumentNumber,2013/QH13; 2001/QH10,PDF chỉ ghi ngày 25/11/2013; 25/12/2001,1,SAI,25/11/2013; 25/12/2001,CO
+0304,signers,Tổng Thanh tra Chính phủ (tên = chức danh),"Đoàn Hồng Phong, Tổng Thanh tra",13,SAI,sửa,CO
+0304,citations.targetDocumentNumber,11/2011/QH13; 25/2013/QH13; 12/2018/QH14,PDF chỉ ghi ngày,1,SAI,dùng ngày,CO
+0165,ALL,,"Luật thanh tra số 56/2010/QH12 chỉ có ở mẫu trang 13, căn cứ trang 1 chỉ ghi ngày","1,12,13",OK,,KHONG
+0130,citations,"AMENDS 47/2005/QH11, 32/2009/QH12","chỉ nêu là luật đã sửa Luật 15/2003, không phải đối tượng sửa trực tiếp",1,NGHI_NGO,có thể đổi sang REFERENCES; không tự sửa,KHONG
+0139,status,HET_HIEU_LUC,PDF không ghi tình trạng,19,NGHI_NGO,không sửa,KHONG
+0139,citations,"không có REFERENCES NĐ 06/2010, 68/2000 (Điều 2)",có nêu,1,NGHI_NGO,"bỏ qua, dẫn chiếu phụ",KHONG
+0331,ALL,,"trùng văn bản với 0130 (cùng Luật 39/2013/QH13, cùng trang 1); AMENDS 47/2005, 32/2009 như 0130 NGHI_NGO",1,OK,,KHONG
+0372,ALL,,,"1,2",OK,,KHONG
+0150,ALL,,,"1,2",OK,,KHONG
+0168,citations,thiếu 7 căn cứ,xem trang 1,1,THIEU,thêm 7 BASED_ON,CO
+0168,citations,thiếu 7 căn cứ,xem trang 1,1,THIEU,"thêm 6 BASED_ON (không thêm NQ 08/NQ-HĐĐH 12/7/2021 vì trùng số hiệu văn bản này, validator chặn)",CO
+0254,title,…chứng thư của Đại học Đà Nẵng,"…chứng thư số, chữ ký số của Đại học Đà Nẵng",1,SAI,sửa,CO
+0469,ALL,,danh sách bãi bỏ (10 văn bản) khớp Điều 17,"1,12,13",OK,,KHONG
+0458,status,CHUA_HIEU_LUC,PDF không ghi tình trạng (hiệu lực 01/01/2026 theo Điều 2),16,NGHI_NGO,không sửa,KHONG
+0458,ALL_khac,,,"1,16,17",OK,,KHONG
+0434,citations,thiếu BASED_ON 19/11/2018,Luật sửa đổi GDĐH 19/11/2018,1,THIEU,thêm,CO
+0474,citations,thiếu BASED_ON Luật GDĐH 10/12/2025,có ở trang 1,1,THIEU,thêm,CO
+0427,citations,thiếu 2 căn cứ luật + dẫn chiếu 1982/QĐ-TTg,"trang 1, 2",1-2,THIEU,thêm,CO
+0218,ALL,,,"1,2",OK,,KHONG
+0217,ALL,,,"1,2",OK,,KHONG
+0160,effectiveDate,31/12/2020,không ghi,1-17,THUA,null,CO
+0160,citations.38/2013,BASED_ON,không phải căn cứ (câu mở đầu + chú thích),1,SAI,REFERENCES,CO
+0160,citations,"thiếu REPLACES 1075, 1076/KTKĐCLGD-KĐĐH",trang 17,17,THIEU,thêm 2 REPLACES,CO
+0456,effectiveDate,23/01/2026,không ghi,1-16,THUA,null,CO
+0456,citations,"thiếu 766, 1668/QLCL-KĐCLGD",trang 1,1,THIEU,thêm 2 BASED_ON,CO
+0180,signers.position,Hiệu trưởng,Phó Giám đốc,1,SAI,Phó Giám đốc,CO
+0180,citations,thiếu 3 căn cứ,"Luật GDĐH 2012, 2018; CV 1668/QLCL-KĐCLGD",1,THIEU,thêm,CO
+0180,documentNumber,3982/QĐ-ĐHĐN,PDF: 3982/QĐ-ĐHĐN (tên file ghi ĐHĐN-ĐBCLGD),1,OK,,KHONG
+0435,citations,AMENDS context là tiêu đề; thiếu 6 căn cứ luật,trang 1,1,THIEU,"sửa context, thêm 6 BASED_ON (2 luật cùng ngày 20/06/2012 chưa thêm được)",CO
+0348,ALL,,,"1,16",OK,,KHONG
+0349,ALL,,,"1,18",OK,,KHONG
+0022,ALL,,,1,OK,,KHONG
+0058,effectiveDate,08/10/2021,không ghi,1,THUA,null,CO
+0404,ALL,,,"1,2",OK,,KHONG
+0463,effectiveDate,27/04/2026,24/04/2026 (viết tay),7,SAI,24/04/2026,CO
+0377,title,Quyết định V/v công bố...,Về việc công bố công khai dự toán ngân sách nhà nước năm 2024,1,SAI,bỏ V/v,CO
+0399,status,CHUA_HIEU_LUC,PDF không ghi tình trạng,19,NGHI_NGO,không sửa,KHONG
+0399,ALL_khac,,,"1,19",OK,,KHONG
+0086,ALL,,"trùng nội dung với 0349 (Luật 52/2019/QH14); tên file ghi 51_2019/52_2019 không khớp, số hiệu trong PDF là 52/2019/QH14","1,11",OK,,KHONG
+0076,documentNumber,4494/QĐ-ĐHĐN,4194/QĐ-ĐHĐN,1,SAI,4194/QĐ-ĐHĐN,CO
+0076,issueDate,07/12/2021,08/12/2021,1,SAI,08/12/2021,CO
+0076,effectiveDate,07/12/2021,kể từ ngày ký = 08/12/2021,2,SAI,08/12/2021,CO
+0076,signers.position,Phó Giám đốc,Giám đốc,2,SAI,Giám đốc,CO
+0406,citations,thiếu 2 căn cứ luật,Luật Viên chức 15/11/2010; Luật sửa đổi 25/11/2019,1,THIEU,thêm 2 BASED_ON,CO
+0314,signers.position,Hiệu trưởng,Giám đốc,12,SAI,Giám đốc,CO
+0314,citations,thiếu 3 căn cứ,Luật sửa đổi 25/11/2019; NQ 13/NQ-HĐĐH; NQ 31/NQ-HĐĐH,1,THIEU,thêm 3 BASED_ON,CO
+0113,ALL,,,"1,5,6",OK,,KHONG
+0421,effectiveDate,09/04/2025,không ghi,1-10,THUA,null,CO
+0264,citations.targetDocumentNumber,2015; 2005; 2012; 2014 (chỉ năm),19/06/2015; 14/06/2005; 18/06/2012; 27/11/2014,1,SAI,dùng ngày; thêm 25/11/2009,CO
+0438,signers.position,Hiệu trưởng,Giám đốc,2,SAI,Giám đốc,CO
+0438,citations,"thiếu REFERENCES chú thích 1,2",41/2021/TT-BGDĐT; 32/NQ-HĐĐH,1,THIEU,thêm,CO
+0466,ALL,,"PDF có công văn đính kèm 1384/BGDĐT-PC (trang 1) ngoài NQ 10/2026/NQ-CP; JSON mô tả NQ, khớp",1-4,OK,,KHONG
+0385,ALL,,số hiệu PDF 4804 khớp JSON (tên file ghi 4808),"1,2",OK,,KHONG
+0459,citations,"không có căn cứ Luật Phổ biến, giáo dục pháp luật năm 2012","chỉ nêu tên + năm, không số/ngày",1,NGHI_NGO,không thêm,KHONG
+0426,citations,thiếu Luật Giao dịch điện tử 22/06/2023,trang 1,1,THIEU,thêm,CO
+0442,citations,thiếu căn cứ Thông báo 252-TB/ĐUBGDĐT,trang 1,1,THIEU,thêm,CO
+0106,ALL,,,"1,11,12",OK,,KHONG
+0121,citations,thiếu Luật sửa đổi Luật Giáo dục 25/11/2009,trang 1,1,THIEU,thêm,CO
+0342,effectiveDate,10/04/2023,không ghi,1-9,THUA,null,CO
+0379,ALL,,,"1,2",OK,,KHONG
+0099,ALL,,"bản sao y của VPCTN ngày 25/11/2011, JSON giữ Luật gốc","1,17",OK,,KHONG
+0457,ALL,,ngày 16/06/2025 khớp (ngày thông qua); status không ghi trong PDF,"1,17,18",OK,,KHONG
+0146,ALL,,,"1,16,17",OK,,KHONG
+0436,ALL,,,"1,2",OK,,KHONG
+0141,ALL,,,"1,2",OK,,KHONG

@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Tuyển sinh/0259_4495_QĐ-ĐHĐN_Sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế P.txt",
   "mappedBy": "gemini-web",
-  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. Bỏ BASED_ON 14/6/2019, 18/6/2012: câu căn cứ chỉ ghi tên và ngày của luật, không ghi số hiệu; ngày không phải số hiệu.",
   "document": {
     "documentNumber": "4495/QĐ-ĐHĐN",
     "title": "Quyết định Về việc sửa đổi, bổ sung một số điều của Quy chế tuyển sinh trình độ tiến sĩ và thay thế Phụ lục IV ban hành kèm theo Quyết định số 3297/QĐ-ĐHĐN ngày 29/9/2021 của Giám đốc Đại học Đà Nẵng",
@@ -43,18 +43,6 @@
     }
   ],
   "citations": [
-    {
-      "targetDocumentNumber": "14/6/2019",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Luật Giáo dục ngày 14/6/2019;"
-    },
-    {
-      "targetDocumentNumber": "18/6/2012",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Luật Giáo dục đại học ngày 18/6/2012 và Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học ngày 19/11/2018;"
-    },
     {
       "targetDocumentNumber": "99/2019/NĐ-CP",
       "relationType": "BASED_ON",

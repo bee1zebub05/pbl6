@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Pháp chế/0284_42_2020_TT-BGDĐT_Thông tư bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ GD và ĐT l.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa từ thiếu thành thêm REPEALS 17/CT-LT theo PDF gốc trang 1. citations sửa từ thiếu thành thêm REPEALS 18/TTLT theo PDF gốc trang 1. citations sửa từ thiếu thành thêm REPEALS 11/CTLT theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 54/1998/TTLT-BGD&ĐT-BTC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 66/1998/TTLT-GD&ĐT-TC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 23/1998/TT-LB theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 38/2001/TTLT-BGDĐT-BTC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 14/2005/TTLT-BGD&ĐT-BKH&ĐT theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 23/2008/TTLT-BGDĐT-BLĐTBXH-BTC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 14/2016/TTLT-BGDĐT-BLĐTBXH-BTC theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 14/2012/TTLT-BGDĐT-BLĐTBXH theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 35/2013/TTLT-BGDĐT-BNV-BTC theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 29/2014/TTLT-BGDĐT-BTC-BLĐTBXH theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 06/2007/TTLT-BGDĐT-BNV-BTC (bãi bỏ một phần Mục II) theo PDF gốc trang 3.",
+  "note": "4 Điều lấy toàn văn trực tiếp từ bản .txt gốc. citations sửa từ thiếu thành thêm REPEALS 17/CT-LT theo PDF gốc trang 1. citations sửa từ thiếu thành thêm REPEALS 18/TTLT theo PDF gốc trang 1. citations sửa từ thiếu thành thêm REPEALS 11/CTLT theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 54/1998/TTLT-BGD&ĐT-BTC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 66/1998/TTLT-GD&ĐT-TC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 23/1998/TT-LB theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 38/2001/TTLT-BGDĐT-BTC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 14/2005/TTLT-BGD&ĐT-BKH&ĐT theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 23/2008/TTLT-BGDĐT-BLĐTBXH-BTC theo PDF gốc trang 2. citations sửa từ thiếu thành thêm REPEALS 14/2016/TTLT-BGDĐT-BLĐTBXH-BTC theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 14/2012/TTLT-BGDĐT-BLĐTBXH theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 35/2013/TTLT-BGDĐT-BNV-BTC theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 29/2014/TTLT-BGDĐT-BTC-BLĐTBXH theo PDF gốc trang 3. citations sửa từ thiếu thành thêm REPEALS 06/2007/TTLT-BGDĐT-BNV-BTC (bãi bỏ một phần Mục II) theo PDF gốc trang 3. Bỏ citations[-2015] {\"targetDocumentNumber\": \"2015\", \"relationType\": \"BASED_ON\", \"targetArticle\": null, \"context\": \"Căn cứ Luật ban hành văn: PDF gốc trang 1 chỉ ghi \"Căn cứ Luật ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015\", không có số hiệu; \"2015\" là năm, không phải số hiệu.",
   "document": {
     "documentNumber": "42/2020/TT-BGDĐT",
     "title": "Thông tư Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo liên tịch ban hành trong lĩnh vực giáo dục",
@@ -38,12 +38,6 @@
     }
   ],
   "citations": [
-    {
-      "targetDocumentNumber": "2015",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Luật ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;"
-    },
     {
       "targetDocumentNumber": "34/2016/NĐ-CP",
       "relationType": "BASED_ON",

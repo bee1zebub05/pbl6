@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "sourceFile": "Thi đua, khen thưởng/0470_1364_QĐ-ĐHĐN_Quyết định sửa đổi Quy định về tổ chức xét duyệt và công nhận sáng kiến.txt",
   "mappedBy": "gemini-api:gemini-3.1-flash-lite",
-  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. signers.0.position sửa từ [\"Hiệu trưởng\"] thành [\"Giám đốc\"] theo PDF gốc trang 2. Thêm citations[+13/NQ-HĐĐH] theo PDF gốc trang 1. citations[4765/QĐ-ĐHĐN] sửa từ {\"context\": \"Căn cứ Quyết định số 4765/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định về thành {\"context\": \"Điều 1. Sửa đổi Điều 8 Quy định về tổ chức xét duyệt và công nhận sáng kiến ban hành kèm theo Quyết định số theo PDF gốc trang 1. Thêm citations[+4765/QĐ-ĐHĐN] theo PDF gốc trang 1.",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. signers.0.position sửa từ [\"Hiệu trưởng\"] thành [\"Giám đốc\"] theo PDF gốc trang 2. Thêm citations[+13/NQ-HĐĐH] theo PDF gốc trang 1. citations[4765/QĐ-ĐHĐN] sửa từ {\"context\": \"Căn cứ Quyết định số 4765/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định về thành {\"context\": \"Điều 1. Sửa đổi Điều 8 Quy định về tổ chức xét duyệt và công nhận sáng kiến ban hành kèm theo Quyết định số theo PDF gốc trang 1. Thêm citations[+4765/QĐ-ĐHĐN] theo PDF gốc trang 1. Bỏ citations[-4765/QĐ-ĐHĐN] {\"targetDocumentNumber\": \"4765/QĐ-ĐHĐN\", \"relationType\": \"BASED_ON\", \"targetArticle\": null, \"context\": \"Căn cứ Quyết địn: số hiệu vừa ở phần Căn cứ vừa là văn bản bị sửa đổi; mỗi số hiệu chỉ một dòng, ưu tiên quan hệ hiệu lực (quy tắc 7b), giữ AMENDS.",
   "document": {
     "documentNumber": "1364/QĐ-ĐHĐN",
     "title": "Quyết định Sửa đổi Quy định về tổ chức xét duyệt và công nhận sáng kiến",
@@ -81,12 +81,6 @@
       "relationType": "BASED_ON",
       "targetArticle": null,
       "context": "Căn cứ Nghị quyết số 08/NQ-HĐĐH ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-HĐĐH ngày 07/9/2021 của Hội đồng Đại học Đà Nẵng về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
-    },
-    {
-      "targetDocumentNumber": "4765/QĐ-ĐHĐN",
-      "relationType": "BASED_ON",
-      "targetArticle": null,
-      "context": "Căn cứ Quyết định số 4765/QĐ-ĐHĐN ngày 28/12/2020 của Giám đốc Đại học Đà Nẵng về việc ban hành Quy định về tổ chức xét duyệt và công nhận sáng kiến;"
     }
   ],
   "mentions": [

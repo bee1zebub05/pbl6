@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đảm bảo chất lượng, KĐCL/0180_3982_ĐHĐN-ĐBCLGD_Quyết định 3982_ĐHĐN-ĐBCLGD Chiến lược đảm bảo chất lượng giáo dục Đại học Đà.txt",
+  "mappedBy": "gemini-web",
+  "note": "3 Điều lấy toàn văn trực tiếp từ bản .txt gốc. signers[0].position sửa từ Hiệu trưởng thành Phó Giám đốc theo PDF gốc trang 1 (KT. GIÁM ĐỐC / PHÓ GIÁM ĐỐC). citations thêm BASED_ON 18/06/2012, 19/11/2018, 1668/QLCL-KĐCLGD theo PDF gốc trang 1. Bỏ citations[-18/06/2012] {\"targetDocumentNumber\": \"18/06/2012\", \"relationType\": \"BASED_ON\", \"context\": \"Căn cứ Luật Giáo dục đại học ngày 18/6/20: câu căn cứ chỉ ghi tên và ngày của văn bản, không ghi số hiệu; ngày/năm không phải số hiệu nên bỏ (quy tắc 7d của prompt trích xuất). Bỏ citations[-19/11/2018] {\"targetDocumentNumber\": \"19/11/2018\", \"relationType\": \"BASED_ON\", \"context\": \"Căn cứ Luật Giáo dục đại học ngày 18/6/20: câu căn cứ chỉ ghi tên và ngày của văn bản, không ghi số hiệu; ngày/năm không phải số hiệu nên bỏ (quy tắc 7d của prompt trích xuất).",
+  "document": {
+    "documentNumber": "3982/QĐ-ĐHĐN",
+    "title": "Quyết định Về việc ban hành Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "12/11/2020",
+    "effectiveDate": "12/11/2020",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Đảm bảo chất lượng, KĐCL"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cán bộ, giảng viên, viên chức, người lao động",
+      "Người học"
+    ],
+    "summary": "Quyết định ban hành Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035, nhằm định hướng cho các hoạt động đảm bảo và kiểm định chất lượng giáo dục của Đại học Đà Nẵng.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Đại học Đà Nẵng",
+    "orgType": "dai_hoc_vung",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Lê Quang Sơn",
+      "academicTitle": "PGS.TS",
+      "position": [
+        "Phó Giám đốc"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "32/CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 32/CP ngày 04/4/1994 của Chính phủ về việc thành lập Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "10/2020/TT-BGDĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14/5/2020 của Bộ trưởng Bộ GD&ĐT về việc ban hành Quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;"
+    },
+    {
+      "targetDocumentNumber": "2762/QĐ-ĐHĐN",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2762/QĐ-ĐHĐN ngày 14/8/2020 của Hội đồng Đại học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng;"
+    },
+    {
+      "targetDocumentNumber": "1668/QLCL-KĐCLGD",
+      "relationType": "BASED_ON",
+      "context": "Căn cứ Công văn số 1668/QLCL-KĐCLGD ngày 31/12/2019 của Cục Quản lý chất lượng về việc thay thế Bảng hướng dẫn đánh giá ban hành kèm theo Công văn số 768/QLCL-KĐCLGD;",
+      "targetArticle": null
+    }
+  ],
+  "mentions": [
+    "Bộ Giáo dục và Đào tạo",
+    "Đại học Đà Nẵng",
+    "Hội đồng Đại học Đà Nẵng"
+  ],
+  "normativeContents": [
+    {
+      "title": "Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035",
+      "contentType": "Chiến lược",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "1",
+          "heading": "Mở đầu",
+          "text": "1. Mở đầu. Đại học Đà Nẵng được thành lập theo Nghị định số 32/CP ngày 04/4/1994 của Chính phủ. Là đại học vùng trọng điểm quốc gia, trong thời gian qua, ĐHĐN đã luôn chú trọng xây dựng phát triển đội ngũ, nâng cao chất lượng đào tạo và nghiên cứu khoa học, coi đó là yếu tố “sống còn”, là mục tiêu, động lực để khẳng định uy tín, “học hiệu” tiếp cận chuẩn quốc tế. Đến nay, ĐHĐN đã có hơn 25 năm hình thành và phát triển với nhiều thành tựu nổi bật.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "2",
+          "heading": "Bối cảnh",
+          "text": "2. Bối cảnh. Hiện nay, cuộc cách mạng công nghiệp 4.0 đã và đang phát triển với tốc độ nhanh chóng, có những tác động sâu rộng đến sự phát triển của giáo dục đại học. Do đó, để tiếp tục khẳng định vị thế cũng như nâng cao uy tín, chất lượng đào tạo, ĐHĐN cần theo kịp trình độ phát triển của khoa học công nghệ và ứng dụng mạnh mẽ những thành tựu của cuộc cách mạng công nghiệp 4.0 trong đào tạo, nghiên cứu khoa học và phục vụ cộng đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Quan điểm phát triển",
+          "text": "3. Quan điểm phát triển. Phát triển hệ thống đảm bảo chất lượng bên trong đáp ứng việc thực hiện tốt sứ mạng và tầm nhìn của ĐHĐN. Phát triển hệ thống giám sát và công khai hóa chất lượng theo mức độ đạt chuẩn đầu ra của các CTĐT. Nâng cao chất lượng CTĐT để có thể đáp ứng và đạt yêu cầu một số tiêu chuẩn kiểm định có uy tín của nước ngoài. Đổi mới CTĐT và phương pháp đào tạo bằng cách ứng dụng công nghệ thông tin và truyền thông và các công nghệ mới của cách mạng công nghiệp 4.0, đáp ứng tốt những nhu cầu của doanh nghiệp, thị trường lao động. Triển khai đo lường và đánh giá mức độ đạt chuẩn đầu ra của các CTĐT. Xây dựng lộ trình tự đánh giá và kế hoạch kiểm định cụ thể tiến đến thực hiện các mục tiêu kiểm định chất lượng cơ sở giáo dục (CSGD) và CTĐT của ĐHĐN. Từng bước cải thiện vị trí xếp hạng của ĐHĐN trong các bảng xếp hạng quốc tế.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "Sứ mạng, tầm nhìn và giá trị cốt lõi của Đại học Đà Nẵng",
+          "text": "4. Sứ mạng, tầm nhìn và giá trị cốt lõi của Đại học Đà Nẵng. 4.1 Sứ mạng: Đào tạo nguồn nhân lực có tinh thần nhân văn, tư duy sáng tạo và quyết tâm khởi nghiệp; có bản lĩnh, lập trường và thích nghi nhanh chóng với môi trường lao động trong nước và quốc tế đang thay đổi nhanh chóng; tiên phong trong giữ gìn bản sắc dân tộc, truyền bá tri thức khoa học, góp phần xây dựng Tổ quốc Việt Nam hòa bình, thịnh vượng. 4.2 Tầm nhìn: 4.2.1 Tầm nhìn của ĐHĐN: ĐHĐN sẽ là một trong ba trung tâm đại học lớn nhất của cả nước; một trong ba đại học trọng điểm quốc gia; trung tâm đào tạo và nghiên cứu khoa học đa ngành, đa lĩnh vực, chất lượng cao, đạt chuẩn quốc gia; ngang tầm khu vực và quốc tế. ĐHĐN sẽ được xếp hạng trong nhóm 50 đại học hàng đầu khu vực Đông Nam Á với nhiều ngành mũi nhọn trong các lĩnh vực kỹ thuật, kinh tế, khoa học tự nhiên, xã hội và nhân văn, y học; là trung tâm hợp tác nghiên cứu và triển khai ứng dụng mang tầm vóc quốc gia và quốc tế. 4.2.2 Tầm nhìn về ĐBCLGD: ĐHĐN hướng tới sự xuất sắc trong đào tạo, nghiên cứu khoa học, đổi mới sáng tạo, phục vụ cộng đồng và quản trị đại học ở mức hàng đầu trong khu vực và trên thế giới. ĐHĐN phấn đấu đáp ứng các tiêu chuẩn chất lượng có uy tín cao trên thế giới và khu vực. 4.3 Giá trị cốt lõi: Chất lượng - Sáng tạo - Nhân văn - Phục vụ cộng đồng.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "Mục tiêu chiến lược về ĐBCLGD",
+          "text": "5. Mục tiêu chiến lược về ĐBCLGD. 5.1 Mục tiêu chung: Hoàn thiện, củng cố và thúc đẩy phát triển tốt hệ thống đảm bảo chất lượng bên trong, xây dựng hệ thống giám sát chất lượng các CTĐT của ĐHĐN, giám sát chất lượng chuẩn đầu ra CTĐT, mức đạt chuẩn đầu ra của người học và không ngừng cải tiến chất lượng đào tạo. Thúc đẩy các hoạt động kiểm định chất lượng CSGD và CTĐT của các đơn vị trong ĐHĐN. Nâng cao chất lượng, tăng cường quốc tế hóa, củng cố và tăng cường vị trí xếp hạng của ĐHĐN trong các bảng xếp hạng. 5.2 Mục tiêu cụ thể: Đến năm 2025, các trường đại học thành viên (đủ điều kiện kiểm định) được công nhận đạt chất lượng CSGD, trong đó ít nhất 02 trường đại học thành viên đạt chất lượng theo tiêu chuẩn AUN-QA. Đến năm 2025, có 19 CTĐT được kiểm định theo tiêu chuẩn nước ngoài. Đến năm 2025, ĐHĐN được xếp trong nhóm 3-5 đại học hàng đầu của Việt Nam, nằm trong top 50 trường hàng đầu khu vực Đông Nam Á và nhóm 400 trường hàng đầu Châu Á theo bảng xếp hạng của Tổ chức giáo dục Quacquarelli Symonds (QS).",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "Nhiệm vụ trọng tâm và giải pháp",
+          "text": "6. Nhiệm vụ trọng tâm và giải pháp. 6.1 Xây dựng hệ thống ĐBCLGD bên trong. 6.2 Chuẩn hóa CTĐT và hoạt động đào tạo. 6.3 Công tác đào tạo bồi dưỡng cán bộ làm công tác ĐBCLGD. 6.4 Xây dựng chiến lược của trường đại học thành viên, đơn vị đào tạo thuộc và trực thuộc. 6.5 Xây dựng kế hoạch kiểm định chất lượng giáo dục.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": "Tổ chức thực hiện",
+          "text": "7. Tổ chức thực hiện. 7.1 Đại học Đà Nẵng: Chỉ đạo thực hiện Chiến lược ĐBCLGD của ĐHĐN. Chỉ đạo tổ chức xây dựng Kế hoạch đảm bảo chất lượng 5 năm và từng năm. Chỉ đạo, kiểm tra và giám sát các đơn vị xây dựng và triển khai thực hiện Chiến lược ĐBCLGD của đơn vị mình. 7.2 Các trường đại học thành viên, các đơn vị thuộc và trực thuộc Đại học Đà Nẵng: Phổ biến các nội dung của Chiến lược ĐBCLGD đến tất cả các công chức, viên chức, người lao động, sinh viên. Xây dựng Chiến lược và kế hoạch tương ứng của đơn vị phù hợp với Chiến lược ĐBCLGD của ĐHĐN.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Ban hành kèm theo Quyết định này Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035.",
+      "text": "Điều 1. Ban hành kèm theo Quyết định này Chiến lược đảm bảo chất lượng giáo dục Đại học Đà Nẵng đến năm 2025 và tầm nhìn đến năm 2035.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "text": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "text": "Điều 3. Chánh Văn phòng, Hiệu trưởng các trường đại học thành viên, Thủ trưởng các đơn vị thuộc, trực thuộc Đại học Đà Nẵng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+      "isImplementationClause": true
+    }
+  ]
+}

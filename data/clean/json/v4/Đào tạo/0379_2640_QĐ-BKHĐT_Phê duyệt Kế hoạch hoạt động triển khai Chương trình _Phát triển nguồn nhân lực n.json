@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.0",
+  "sourceFile": "Đào tạo/0379_2640_QĐ-BKHĐT_Phê duyệt Kế hoạch hoạt động triển khai Chương trình _Phát triển nguồn nhân lực n.txt",
+  "mappedBy": "gemini-web",
+  "note": "Trang 16 chứa các phần thừa của bảng và mẫu phiếu chuyển văn bản của Trường Đại học Bách khoa, không thuộc nội dung chính của Quyết định 2640/QĐ-BKHĐT nên đã được lược bỏ trong phần normativeContents. 4 Điều lấy toàn văn trực tiếp từ bản .txt gốc.",
+  "document": {
+    "documentNumber": "2640/QĐ-BKHĐT",
+    "title": "Quyết định về việc phê duyệt Kế hoạch hoạt động triển khai Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050”",
+    "documentType": "Quyết định",
+    "status": "CON_HIEU_LUC",
+    "issueDate": "21/11/2024",
+    "effectiveDate": "21/11/2024",
+    "expiryDate": null,
+    "fileUrl": null,
+    "topics": [
+      "Công nghệ thông tin, CĐS",
+      "Khoa học Công nghệ",
+      "Đào tạo"
+    ],
+    "targetGroups": [
+      "Đơn vị trực thuộc",
+      "Cơ quan, tổ chức, cá nhân có liên quan"
+    ],
+    "summary": "Quyết định phê duyệt Kế hoạch hoạt động triển khai Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050” nhằm cụ thể hóa các nhiệm vụ, giải pháp về cơ chế chính sách, hạ tầng, đào tạo và huy động nguồn lực.",
+    "idOverride": null
+  },
+  "organization": {
+    "name": "Bộ Kế hoạch và Đầu tư",
+    "orgType": "bo_nganh",
+    "parentOrg": null,
+    "idOverride": null
+  },
+  "signers": [
+    {
+      "fullName": "Nguyễn Chí Dũng",
+      "academicTitle": null,
+      "position": [
+        "Bộ trưởng"
+      ],
+      "idOverride": null
+    }
+  ],
+  "citations": [
+    {
+      "targetDocumentNumber": "89/2022/NĐ-CP",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Nghị định số 89/2022/NĐ-CP ngày 28 tháng 10 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư;"
+    },
+    {
+      "targetDocumentNumber": "1017/QĐ-TTg",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 1017/QĐ-TTg ngày 21 tháng 9 năm 2024 của Thủ tướng Chính phủ phê duyệt Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050”;"
+    },
+    {
+      "targetDocumentNumber": "2639/QĐ-BKHĐT",
+      "relationType": "BASED_ON",
+      "targetArticle": null,
+      "context": "Căn cứ Quyết định số 2639/QĐ-BKHĐT ngày 21 tháng 11 năm 2024 của Bộ trưởng Bộ Kế hoạch và Đầu tư về việc thành lập Tổ công tác triển khai Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050”;"
+    }
+  ],
+  "mentions": [
+    "Trung tâm Đổi mới sáng tạo Quốc gia",
+    "Bộ Tài chính",
+    "Bộ Giáo dục và Đào tạo",
+    "Bộ Thông tin và Truyền thông",
+    "Bộ Khoa học và Công nghệ",
+    "Bộ Lao động - Thương binh và Xã hội",
+    "Bộ Công an",
+    "Bộ Ngoại giao",
+    "Bộ Tư pháp",
+    "Bộ Y tế",
+    "Đại học Quốc gia Thành phố Hồ Chí Minh",
+    "Đại học Quốc gia Hà Nội"
+  ],
+  "normativeContents": [
+    {
+      "title": "Kế hoạch hoạt động triển khai Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050”",
+      "contentType": "Kế hoạch",
+      "status": null,
+      "idOverride": null,
+      "articles": [
+        {
+          "number": "I",
+          "heading": "Nhóm các nhiệm vụ, giải pháp nghiên cứu, xây dựng và hoàn thiện cơ chế, chính sách đặc thù",
+          "text": "I. Nhóm các nhiệm vụ, giải pháp nghiên cứu, xây dựng và hoàn thiện cơ chế, chính sách đặc thù gồm 6 nhiệm vụ cụ thể từ 1.1 đến 1.6 về nghiên cứu chính sách ưu đãi đầu tư, miễn giảm học phí, mô hình liên kết nhà nước-nhà trường-doanh nghiệp, quản lý kinh phí, giấy phép lao động và hỗ trợ học bổng địa phương.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "II",
+          "heading": "Nhóm các nhiệm vụ, giải pháp về đầu tư hạ tầng, cơ sở vật chất, công nghệ phục vụ đào tạo",
+          "text": "II. Nhóm các nhiệm vụ, giải pháp về đầu tư hạ tầng, cơ sở vật chất, công nghệ phục vụ đào tạo gồm các nhiệm vụ từ 2.1 đến 2.4 về xây dựng dự án đầu tư phòng thí nghiệm bán dẫn cấp cơ sở, cấp quốc gia và đề án nghiên cứu, phát triển công nghệ vi mạch bán dẫn.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "3",
+          "heading": "Nhóm các nhiệm vụ, giải pháp về tổ chức đào tạo",
+          "text": "3. Nhóm các nhiệm vụ, giải pháp về tổ chức đào tạo gồm các nhiệm vụ từ 3.1 đến 3.5 về xây dựng đề án đào tạo, chuẩn chương trình đào tạo, chương trình tài năng và điều phối kế hoạch đào tạo.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "4",
+          "heading": "Nhóm các nhiệm vụ, giải pháp về huy động, đa dạng hóa nguồn lực",
+          "text": "4. Nhóm các nhiệm vụ, giải pháp về huy động, đa dạng hóa nguồn lực gồm các nhiệm vụ từ 4.1 đến 4.5 về kế hoạch đầu tư công, bố trí ngân sách, hỗ trợ nghiên cứu và phát triển, và hợp tác quốc tế.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "5",
+          "heading": "Nhóm các nhiệm vụ, giải pháp về xây dựng hệ sinh thái, tạo đầu ra cho nguồn nhân lực, hỗ trợ phát triển doanh nghiệp",
+          "text": "5. Nhóm các nhiệm vụ, giải pháp về xây dựng hệ sinh thái, tạo đầu ra cho nguồn nhân lực, hỗ trợ phát triển doanh nghiệp gồm các nhiệm vụ 5.1 và 5.2 về hình thành trung tâm đổi mới sáng tạo và hỗ trợ mạng lưới cơ sở giáo dục đại học.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "6",
+          "heading": "Nhóm các nhiệm vụ, giải pháp về nghiên cứu và phát triển",
+          "text": "6. Nhóm các nhiệm vụ, giải pháp về nghiên cứu và phát triển gồm các nhiệm vụ từ 6.1 đến 6.3 về thúc đẩy nghiên cứu chuyển giao công nghệ, nhiệm vụ khoa học công nghệ và phát triển nhóm nghiên cứu mạnh.",
+          "isImplementationClause": false
+        },
+        {
+          "number": "7",
+          "heading": "Nhóm các nhiệm vụ, giải pháp khác",
+          "text": "7. Nhóm các nhiệm vụ, giải pháp khác gồm các nhiệm vụ từ 7.1 đến 7.8 về thành lập Tổ công tác, truyền thông, theo dõi xu thế quốc tế, khen thưởng, học bổng và hợp tác giáo dục quốc tế.",
+          "isImplementationClause": false
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "number": "Điều 1",
+      "heading": "Phê duyệt Kế hoạch hoạt động triển khai Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050” (Chương trình) ban hành kèm theo Quyết định này.",
+      "text": "Điều 1. Phê duyệt Kế hoạch hoạt động triển khai Chương trình “Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050” (Chương trình) ban hành kèm theo Quyết định này.",
+      "isImplementationClause": false
+    },
+    {
+      "number": "Điều 2",
+      "heading": "Các Bộ, ngành, cơ quan liên quan và Tổ công tác triển khai Chương trình triển khai các nhiệm vụ theo kế hoạch hoạt động và theo Chương trình đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 101",
+      "text": "Điều 2. Các Bộ, ngành, cơ quan liên quan và Tổ công tác triển khai Chương trình triển khai các nhiệm vụ theo kế hoạch hoạt động và theo Chương trình đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 1017/QĐ-TTg, đảm bảo tiến độ và hiệu quả.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 3",
+      "heading": "Giao Giám đốc Trung tâm Đổi mới sáng tạo Quốc gia đầu mối, phối hợp với các thành viên Tổ công tác và các cơ quan liên quan tổ chức theo dõi, báo cáo tình hình thực hiện Kế hoạch hoạt động; đề xuất cá",
+      "text": "Điều 3. Giao Giám đốc Trung tâm Đổi mới sáng tạo Quốc gia đầu mối, phối hợp với các thành viên Tổ công tác và các cơ quan liên quan tổ chức theo dõi, báo cáo tình hình thực hiện Kế hoạch hoạt động; đề xuất các giải pháp, báo cáo cấp có thẩm quyền xem xét, giải quyết kịp thời các bất cập phát sinh trong thực tiễn (nếu có), nhằm thực hiện hiệu quả Chương trình.",
+      "isImplementationClause": true
+    },
+    {
+      "number": "Điều 4",
+      "heading": "Quyết định này có hiệu lực kể từ ngày ký. Thành viên Tổ công tác, Trung tâm Đổi mới sáng tạo Quốc gia và các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành quyết định này.",
+      "text": "Điều 4. Quyết định này có hiệu lực kể từ ngày ký. Thành viên Tổ công tác, Trung tâm Đổi mới sáng tạo Quốc gia và các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành quyết định này.",
+      "isImplementationClause": true
+    }
+  ]
+}
